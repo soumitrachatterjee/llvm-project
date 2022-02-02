@@ -29,6 +29,7 @@
 #include "llvm/ADT/StringRef.h"
 #include "llvm/ADT/Triple.h"
 #include "llvm/ADT/Twine.h"
+#include "llvm/Analysis/MemoryLocation.h"
 #include "llvm/Analysis/ObjCARCUtil.h"
 #include "llvm/Analysis/VectorUtils.h"
 #include "llvm/CodeGen/Analysis.h"
@@ -322,50 +323,6 @@ AArch64TargetLowering::AArch64TargetLowering(const TargetMachine &TM,
       for (MVT VT : MVT::fp_fixedlen_vector_valuetypes())
         if (useSVEForFixedLengthVectorVT(VT))
           addRegisterClass(VT, &AArch64::ZPRRegClass);
-    }
-
-    for (auto VT : { MVT::nxv16i8, MVT::nxv8i16, MVT::nxv4i32, MVT::nxv2i64 }) {
-      setOperationAction(ISD::SADDSAT, VT, Legal);
-      setOperationAction(ISD::UADDSAT, VT, Legal);
-      setOperationAction(ISD::SSUBSAT, VT, Legal);
-      setOperationAction(ISD::USUBSAT, VT, Legal);
-      setOperationAction(ISD::UREM, VT, Expand);
-      setOperationAction(ISD::SREM, VT, Expand);
-      setOperationAction(ISD::SDIVREM, VT, Expand);
-      setOperationAction(ISD::UDIVREM, VT, Expand);
-    }
-
-    for (auto VT :
-         { MVT::nxv2i8, MVT::nxv2i16, MVT::nxv2i32, MVT::nxv2i64, MVT::nxv4i8,
-           MVT::nxv4i16, MVT::nxv4i32, MVT::nxv8i8, MVT::nxv8i16 })
-      setOperationAction(ISD::SIGN_EXTEND_INREG, VT, Legal);
-
-    for (auto VT :
-         { MVT::nxv2f16, MVT::nxv4f16, MVT::nxv8f16, MVT::nxv2f32, MVT::nxv4f32,
-           MVT::nxv2f64 }) {
-      setCondCodeAction(ISD::SETO, VT, Expand);
-      setCondCodeAction(ISD::SETOLT, VT, Expand);
-      setCondCodeAction(ISD::SETLT, VT, Expand);
-      setCondCodeAction(ISD::SETOLE, VT, Expand);
-      setCondCodeAction(ISD::SETLE, VT, Expand);
-      setCondCodeAction(ISD::SETULT, VT, Expand);
-      setCondCodeAction(ISD::SETULE, VT, Expand);
-      setCondCodeAction(ISD::SETUGE, VT, Expand);
-      setCondCodeAction(ISD::SETUGT, VT, Expand);
-      setCondCodeAction(ISD::SETUEQ, VT, Expand);
-      setCondCodeAction(ISD::SETUNE, VT, Expand);
-
-      setOperationAction(ISD::FREM, VT, Expand);
-      setOperationAction(ISD::FPOW, VT, Expand);
-      setOperationAction(ISD::FPOWI, VT, Expand);
-      setOperationAction(ISD::FCOS, VT, Expand);
-      setOperationAction(ISD::FSIN, VT, Expand);
-      setOperationAction(ISD::FSINCOS, VT, Expand);
-      setOperationAction(ISD::FEXP, VT, Expand);
-      setOperationAction(ISD::FEXP2, VT, Expand);
-      setOperationAction(ISD::FLOG, VT, Expand);
-      setOperationAction(ISD::FLOG2, VT, Expand);
-      setOperationAction(ISD::FLOG10, VT, Expand);
     }
   }
 
@@ -938,19 +895,20 @@ AArch64TargetLowering::AArch64TargetLowering(const TargetMachine &TM,
 
   // In case of strict alignment, avoid an excessive number of byte wide stores.
   MaxStoresPerMemsetOptSize = 8;
-  MaxStoresPerMemset = Subtarget->requiresStrictAlign()
-                       ? MaxStoresPerMemsetOptSize : 32;
+  MaxStoresPerMemset =
+      Subtarget->requiresStrictAlign() ? MaxStoresPerMemsetOptSize : 32;
 
   MaxGluedStoresPerMemcpy = 4;
   MaxStoresPerMemcpyOptSize = 4;
-  MaxStoresPerMemcpy = Subtarget->requiresStrictAlign()
-                       ? MaxStoresPerMemcpyOptSize : 16;
+  MaxStoresPerMemcpy =
+      Subtarget->requiresStrictAlign() ? MaxStoresPerMemcpyOptSize : 16;
 
-  MaxStoresPerMemmoveOptSize = MaxStoresPerMemmove = 4;
+  MaxStoresPerMemmoveOptSize = 4;
+  MaxStoresPerMemmove = 4;
 
   MaxLoadsPerMemcmpOptSize = 4;
-  MaxLoadsPerMemcmp = Subtarget->requiresStrictAlign()
-                      ? MaxLoadsPerMemcmpOptSize : 8;
+  MaxLoadsPerMemcmp =
+      Subtarget->requiresStrictAlign() ? MaxLoadsPerMemcmpOptSize : 8;
 
   setStackPointerRegisterToSaveRestore(AArch64::SP);
 
@@ -1161,9 +1119,6 @@ AArch64TargetLowering::AArch64TargetLowering(const TargetMachine &TM,
       }
     }
 
-    if (Subtarget->hasSVE())
-      setOperationAction(ISD::VSCALE, MVT::i32, Custom);
-
     setTruncStoreAction(MVT::v4i16, MVT::v4i8, Custom);
 
     setLoadExtAction(ISD::EXTLOAD,  MVT::v4i16, MVT::v4i8, Custom);
@@ -1222,6 +1177,15 @@ AArch64TargetLowering::AArch64TargetLowering(const TargetMachine &TM,
       setOperationAction(ISD::SELECT_CC, VT, Expand);
       setOperationAction(ISD::ROTL, VT, Expand);
       setOperationAction(ISD::ROTR, VT, Expand);
+
+      setOperationAction(ISD::SADDSAT, VT, Legal);
+      setOperationAction(ISD::UADDSAT, VT, Legal);
+      setOperationAction(ISD::SSUBSAT, VT, Legal);
+      setOperationAction(ISD::USUBSAT, VT, Legal);
+      setOperationAction(ISD::UREM, VT, Expand);
+      setOperationAction(ISD::SREM, VT, Expand);
+      setOperationAction(ISD::SDIVREM, VT, Expand);
+      setOperationAction(ISD::UDIVREM, VT, Expand);
     }
 
     // Illegal unpacked integer vector types.
@@ -1234,6 +1198,11 @@ AArch64TargetLowering::AArch64TargetLowering(const TargetMachine &TM,
     for (auto VT : {MVT::nxv2i16, MVT::nxv4i16, MVT::nxv2i32, MVT::nxv2bf16,
                     MVT::nxv2f16, MVT::nxv4f16, MVT::nxv2f32})
       setOperationAction(ISD::BITCAST, VT, Custom);
+
+    for (auto VT :
+         { MVT::nxv2i8, MVT::nxv2i16, MVT::nxv2i32, MVT::nxv2i64, MVT::nxv4i8,
+           MVT::nxv4i16, MVT::nxv4i32, MVT::nxv8i8, MVT::nxv8i16 })
+      setOperationAction(ISD::SIGN_EXTEND_INREG, VT, Legal);
 
     for (auto VT : {MVT::nxv16i1, MVT::nxv8i1, MVT::nxv4i1, MVT::nxv2i1}) {
       setOperationAction(ISD::CONCAT_VECTORS, VT, Custom);
@@ -1324,6 +1293,29 @@ AArch64TargetLowering::AArch64TargetLowering(const TargetMachine &TM,
       setOperationAction(ISD::VECTOR_SPLICE, VT, Custom);
 
       setOperationAction(ISD::SELECT_CC, VT, Expand);
+      setOperationAction(ISD::FREM, VT, Expand);
+      setOperationAction(ISD::FPOW, VT, Expand);
+      setOperationAction(ISD::FPOWI, VT, Expand);
+      setOperationAction(ISD::FCOS, VT, Expand);
+      setOperationAction(ISD::FSIN, VT, Expand);
+      setOperationAction(ISD::FSINCOS, VT, Expand);
+      setOperationAction(ISD::FEXP, VT, Expand);
+      setOperationAction(ISD::FEXP2, VT, Expand);
+      setOperationAction(ISD::FLOG, VT, Expand);
+      setOperationAction(ISD::FLOG2, VT, Expand);
+      setOperationAction(ISD::FLOG10, VT, Expand);
+
+      setCondCodeAction(ISD::SETO, VT, Expand);
+      setCondCodeAction(ISD::SETOLT, VT, Expand);
+      setCondCodeAction(ISD::SETLT, VT, Expand);
+      setCondCodeAction(ISD::SETOLE, VT, Expand);
+      setCondCodeAction(ISD::SETLE, VT, Expand);
+      setCondCodeAction(ISD::SETULT, VT, Expand);
+      setCondCodeAction(ISD::SETULE, VT, Expand);
+      setCondCodeAction(ISD::SETUGE, VT, Expand);
+      setCondCodeAction(ISD::SETUGT, VT, Expand);
+      setCondCodeAction(ISD::SETUEQ, VT, Expand);
+      setCondCodeAction(ISD::SETUNE, VT, Expand);
     }
 
     for (auto VT : {MVT::nxv2bf16, MVT::nxv4bf16, MVT::nxv8bf16}) {
@@ -1424,6 +1416,13 @@ AArch64TargetLowering::AArch64TargetLowering(const TargetMachine &TM,
     setOperationPromotedToType(ISD::VECTOR_SPLICE, MVT::nxv4i1, MVT::nxv4i32);
     setOperationPromotedToType(ISD::VECTOR_SPLICE, MVT::nxv8i1, MVT::nxv8i16);
     setOperationPromotedToType(ISD::VECTOR_SPLICE, MVT::nxv16i1, MVT::nxv16i8);
+
+    setOperationAction(ISD::VSCALE, MVT::i32, Custom);
+  }
+
+  if (Subtarget->hasMOPS() && Subtarget->hasMTE()) {
+    // Only required for llvm.aarch64.mops.memset.tag
+    setOperationAction(ISD::INTRINSIC_W_CHAIN, MVT::i8, Custom);
   }
 
   PredictableSelectIsExpensive = Subtarget->predictableSelectIsExpensive();
@@ -2267,6 +2266,10 @@ const char *AArch64TargetLowering::getTargetNodeName(unsigned Opcode) const {
     MAKE_CASE(AArch64ISD::UADDLP)
     MAKE_CASE(AArch64ISD::CALL_RVMARKER)
     MAKE_CASE(AArch64ISD::ASSERT_ZEXT_BOOL)
+    MAKE_CASE(AArch64ISD::MOPS_MEMSET)
+    MAKE_CASE(AArch64ISD::MOPS_MEMSET_TAGGING)
+    MAKE_CASE(AArch64ISD::MOPS_MEMCOPY)
+    MAKE_CASE(AArch64ISD::MOPS_MEMMOVE)
   }
 #undef MAKE_CASE
   return nullptr;
@@ -4059,6 +4062,39 @@ static SDValue lowerConvertToSVBool(SDValue Op, SelectionDAG &DAG) {
   return DAG.getNode(ISD::AND, DL, OutVT, Reinterpret, MaskReinterpret);
 }
 
+SDValue AArch64TargetLowering::LowerINTRINSIC_W_CHAIN(SDValue Op,
+                                                      SelectionDAG &DAG) const {
+  unsigned IntNo = Op.getConstantOperandVal(1);
+  switch (IntNo) {
+  default:
+    return SDValue(); // Don't custom lower most intrinsics.
+  case Intrinsic::aarch64_mops_memset_tag: {
+    auto Node = cast<MemIntrinsicSDNode>(Op.getNode());
+    SDLoc DL(Op);
+    SDValue Chain = Node->getChain();
+    SDValue Dst = Op.getOperand(2);
+    SDValue Val = Op.getOperand(3);
+    Val = DAG.getAnyExtOrTrunc(Val, DL, MVT::i64);
+    SDValue Size = Op.getOperand(4);
+    auto Alignment = Node->getMemOperand()->getAlign();
+    bool IsVol = Node->isVolatile();
+    auto DstPtrInfo = Node->getPointerInfo();
+
+    const auto &SDI =
+        static_cast<const AArch64SelectionDAGInfo &>(DAG.getSelectionDAGInfo());
+    SDValue MS =
+        SDI.EmitMOPS(AArch64ISD::MOPS_MEMSET_TAGGING, DAG, DL, Chain, Dst, Val,
+                     Size, Alignment, IsVol, DstPtrInfo, MachinePointerInfo{});
+
+    // MOPS_MEMSET_TAGGING has 3 results (DstWb, SizeWb, Chain) whereas the
+    // intrinsic has 2. So hide SizeWb using MERGE_VALUES. Otherwise
+    // LowerOperationWrapper will complain that the number of results has
+    // changed.
+    return DAG.getMergeValues({MS.getValue(0), MS.getValue(2)}, DL);
+  }
+  }
+}
+
 SDValue AArch64TargetLowering::LowerINTRINSIC_WO_CHAIN(SDValue Op,
                                                      SelectionDAG &DAG) const {
   unsigned IntNo = cast<ConstantSDNode>(Op.getOperand(0))->getZExtValue();
@@ -5126,6 +5162,8 @@ SDValue AArch64TargetLowering::LowerOperation(SDValue Op,
   case ISD::MULHU:
     return LowerToPredicatedOp(Op, DAG, AArch64ISD::MULHU_PRED,
                                /*OverrideNEON=*/true);
+  case ISD::INTRINSIC_W_CHAIN:
+    return LowerINTRINSIC_W_CHAIN(Op, DAG);
   case ISD::INTRINSIC_WO_CHAIN:
     return LowerINTRINSIC_WO_CHAIN(Op, DAG);
   case ISD::ATOMIC_STORE:
@@ -11879,6 +11917,19 @@ bool AArch64TargetLowering::getTgtMemIntrinsic(IntrinsicInfo &Info,
     Info.flags = MachineMemOperand::MOStore | MachineMemOperand::MONonTemporal;
     return true;
   }
+  case Intrinsic::aarch64_mops_memset_tag: {
+    Value *Dst = I.getArgOperand(0);
+    Value *Val = I.getArgOperand(1);
+    Info.opc = ISD::INTRINSIC_W_CHAIN;
+    Info.memVT = MVT::getVT(Val->getType());
+    Info.ptrVal = Dst;
+    Info.offset = 0;
+    Info.align = I.getParamAlign(0).valueOrOne();
+    Info.flags = MachineMemOperand::MOStore;
+    // The size of the memory being operated on is unknown at this point
+    Info.size = MemoryLocation::UnknownSize;
+    return true;
+  }
   default:
     break;
   }
@@ -15422,6 +15473,12 @@ performSignExtendSetCCCombine(SDNode *N, TargetLowering::DAGCombinerInfo &DCI,
          N->getOperand(0)->getOpcode() == ISD::SETCC);
   const SDValue SetCC = N->getOperand(0);
 
+  const SDValue CCOp0 = SetCC.getOperand(0);
+  const SDValue CCOp1 = SetCC.getOperand(1);
+  if (!CCOp0->getValueType(0).isInteger() ||
+      !CCOp1->getValueType(0).isInteger())
+    return SDValue();
+
   ISD::CondCode Code =
       cast<CondCodeSDNode>(SetCC->getOperand(2).getNode())->get();
 
@@ -15431,9 +15488,9 @@ performSignExtendSetCCCombine(SDNode *N, TargetLowering::DAGCombinerInfo &DCI,
   if (isCheapToExtend(SetCC.getOperand(0)) &&
       isCheapToExtend(SetCC.getOperand(1))) {
     const SDValue Ext1 =
-        DAG.getNode(ExtType, SDLoc(N), N->getValueType(0), SetCC.getOperand(0));
+        DAG.getNode(ExtType, SDLoc(N), N->getValueType(0), CCOp0);
     const SDValue Ext2 =
-        DAG.getNode(ExtType, SDLoc(N), N->getValueType(0), SetCC.getOperand(1));
+        DAG.getNode(ExtType, SDLoc(N), N->getValueType(0), CCOp1);
 
     return DAG.getSetCC(
         SDLoc(SetCC), N->getValueType(0), Ext1, Ext2,
