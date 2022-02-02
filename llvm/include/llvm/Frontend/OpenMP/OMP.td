@@ -559,7 +559,8 @@ def OMP_Target : Directive<"target"> {
     VersionedClause<OMPC_IsDevicePtr>,
     VersionedClause<OMPC_Reduction>,
     VersionedClause<OMPC_Allocate>,
-    VersionedClause<OMPC_UsesAllocators, 50>
+    VersionedClause<OMPC_UsesAllocators, 50>,
+    VersionedClause<OMPC_ThreadLimit, 51>
   ];
   let allowedOnceClauses = [
     VersionedClause<OMPC_Device>,

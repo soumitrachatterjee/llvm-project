@@ -3166,11 +3166,20 @@ OMPClause *Parser::ParseOpenMPClause(OpenMPDirectiveKind DKind,
       ErrorFound = true;
     }
 
-    if ((CKind == OMPC_ordered || CKind == OMPC_partial) &&
-        PP.LookAhead(/*N=*/0).isNot(tok::l_paren))
-      Clause = ParseOpenMPClause(CKind, WrongDirective);
-    else
-      Clause = ParseOpenMPSingleExprClause(CKind, WrongDirective);
+    if (DKind == OMPD_target && CKind == OMPC_thread_limit) {
+      if (PP.LookAhead(/*N=*/0).isNot(tok::l_paren)) {
+         // Error: missing expression
+         fprintf(stderr, "error: missing expr for thread_limit\n");
+      } else {
+         Clause = ParseOpenMPSingleExprWithArgClause(DKind, CKind, WrongDirective);
+      }
+    } else {
+      if ((CKind == OMPC_ordered || CKind == OMPC_partial) &&
+          PP.LookAhead(/*N=*/0).isNot(tok::l_paren))
+        Clause = ParseOpenMPClause(CKind, WrongDirective);
+      else
+        Clause = ParseOpenMPSingleExprClause(CKind, WrongDirective);
+    }
     break;
   case OMPC_default:
   case OMPC_proc_bind:
@@ -3768,8 +3777,7 @@ OMPClause *Parser::ParseOpenMPSingleExprWithArgClause(OpenMPDirectiveKind DKind,
       Arg.push_back(OMPC_DEVICE_unknown);
       KLoc.emplace_back();
     }
-  } else {
-    assert(Kind == OMPC_if);
+  } else if (Kind == OMPC_if) {
     KLoc.push_back(Tok.getLocation());
     TentativeParsingAction TPA(*this);
     auto DK = parseOpenMPDirectiveKind(*this);
@@ -3786,11 +3794,14 @@ OMPClause *Parser::ParseOpenMPSingleExprWithArgClause(OpenMPDirectiveKind DKind,
     } else {
       TPA.Revert();
     }
+  } else {
+    assert(Kind == OMPC_thread_limit && DKind == OMPD_target);
   }
 
   bool NeedAnExpression = (Kind == OMPC_schedule && DelimLoc.isValid()) ||
                           (Kind == OMPC_dist_schedule && DelimLoc.isValid()) ||
-                          Kind == OMPC_if || Kind == OMPC_device;
+                          Kind == OMPC_if || Kind == OMPC_device ||
+                          (Kind == OMPC_thread_limit && DKind == OMPD_target);
   if (NeedAnExpression) {
     SourceLocation ELoc = Tok.getLocation();
     ExprResult LHS(ParseCastExpression(AnyCastExpr, false, NotTypeCast));

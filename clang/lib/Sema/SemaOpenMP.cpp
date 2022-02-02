@@ -15049,6 +15049,22 @@ OMPClause *Sema::ActOnOpenMPSingleExprWithArgClause(
         static_cast<OpenMPDeviceClauseModifier>(Argument.back()), Expr,
         StartLoc, LParenLoc, ArgumentLoc.back(), EndLoc);
     break;
+  case OMPC_thread_limit:
+    //OpenMPDirectiveKind DKind = DSAStack->getCurrentDirective();
+    //OpenMPDirectiveKind CaptureRegion =
+    //    getOpenMPCaptureRegionForClause(DKind, OMPC_device, LangOpts.OpenMP);
+    //if (CaptureRegion != OMPD_unknown && !CurContext->isDependentContext()) {
+    //  Expr = MakeFullExpr(Expr).get();
+    //  llvm::MapVector<const Expr *, DeclRefExpr *> Captures;
+    //  Expr = tryBuildCapture(*this, Expr, Captures).get();
+    //  HelperValStmt = buildPreInits(Context, Captures);
+    //}
+
+    Res = nullptr; 
+    /*new (Context)
+      OMPDeviceClause(Modifier, ValExpr, HelperValStmt, CaptureRegion, StartLoc,
+                      LParenLoc, ModifierLoc, EndLoc);*/
+    break;
   case OMPC_final:
   case OMPC_num_threads:
   case OMPC_safelen:
@@ -15092,7 +15108,6 @@ OMPClause *Sema::ActOnOpenMPSingleExprWithArgClause(
   case OMPC_simd:
   case OMPC_map:
   case OMPC_num_teams:
-  case OMPC_thread_limit:
   case OMPC_priority:
   case OMPC_grainsize:
   case OMPC_nogroup:
