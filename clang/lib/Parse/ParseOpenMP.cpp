@@ -3167,12 +3167,7 @@ OMPClause *Parser::ParseOpenMPClause(OpenMPDirectiveKind DKind,
     }
 
     if (DKind == OMPD_target && CKind == OMPC_thread_limit) {
-      if (PP.LookAhead(/*N=*/0).isNot(tok::l_paren)) {
-         // Error: missing expression
-         fprintf(stderr, "error: missing expr for thread_limit\n");
-      } else {
-         Clause = ParseOpenMPSingleExprWithArgClause(DKind, CKind, WrongDirective);
-      }
+      Clause = ParseOpenMPSingleExprWithArgClause(DKind, CKind, WrongDirective);
     } else {
       if ((CKind == OMPC_ordered || CKind == OMPC_partial) &&
           PP.LookAhead(/*N=*/0).isNot(tok::l_paren))
