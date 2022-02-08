@@ -13858,6 +13858,7 @@ static OpenMPDirectiveKind getOpenMPCaptureRegionForClause(
     break;
   case OMPC_thread_limit:
     switch (DKind) {
+    case OMPD_target:
     case OMPD_target_teams:
     case OMPD_target_teams_distribute:
     case OMPD_target_teams_distribute_simd:
@@ -13891,7 +13892,6 @@ static OpenMPDirectiveKind getOpenMPCaptureRegionForClause(
     case OMPD_parallel_sections:
     case OMPD_parallel_for:
     case OMPD_parallel_for_simd:
-    case OMPD_target:
     case OMPD_target_simd:
     case OMPD_target_parallel:
     case OMPD_target_parallel_for:
@@ -15059,20 +15059,7 @@ OMPClause *Sema::ActOnOpenMPSingleExprWithArgClause(
         StartLoc, LParenLoc, ArgumentLoc.back(), EndLoc);
     break;
   case OMPC_thread_limit:
-    //OpenMPDirectiveKind DKind = DSAStack->getCurrentDirective();
-    //OpenMPDirectiveKind CaptureRegion =
-    //    getOpenMPCaptureRegionForClause(DKind, OMPC_device, LangOpts.OpenMP);
-    //if (CaptureRegion != OMPD_unknown && !CurContext->isDependentContext()) {
-    //  Expr = MakeFullExpr(Expr).get();
-    //  llvm::MapVector<const Expr *, DeclRefExpr *> Captures;
-    //  Expr = tryBuildCapture(*this, Expr, Captures).get();
-    //  HelperValStmt = buildPreInits(Context, Captures);
-    //}
-
-    Res = nullptr; 
-    /*new (Context)
-      OMPDeviceClause(Modifier, ValExpr, HelperValStmt, CaptureRegion, StartLoc,
-                      LParenLoc, ModifierLoc, EndLoc);*/
+    Res = ActOnOpenMPThreadLimitClause(Expr, StartLoc, LParenLoc, EndLoc);
     break;
   case OMPC_final:
   case OMPC_num_threads:
