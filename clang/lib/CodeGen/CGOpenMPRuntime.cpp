@@ -7051,6 +7051,17 @@ llvm::Value *CGOpenMPRuntime::emitNumThreadsForTargetDirective(
   switch (DirectiveKind) {
   case OMPD_target: {
     const CapturedStmt *CS = D.getInnermostCapturedStmt();
+    if (D.hasClausesOfKind<OMPThreadLimitClause>()) {
+      // Extract target thread_limit specification
+      CGOpenMPInnerExprInfo CGInfo(CGF, *CS);
+      CodeGenFunction::CGCapturedStmtRAII CapInfoRAII(CGF, &CGInfo);
+      const auto *ThreadLimitClause =
+        D.getSingleClause<OMPThreadLimitClause>();
+      llvm::Value *ThreadLimit = CGF.EmitScalarExpr(
+        ThreadLimitClause->getThreadLimit(), /*IgnoreResultAssign=*/true);
+      ThreadLimitVal =
+        Bld.CreateIntCast(ThreadLimit, CGF.Int32Ty, /*isSigned=*/false);
+    }
     if (llvm::Value *NumThreads = getNumThreads(CGF, CS, ThreadLimitVal))
       return NumThreads;
     const Stmt *Child = CGOpenMPRuntime::getSingleCompoundChild(
