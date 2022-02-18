@@ -520,6 +520,7 @@ def OMP_Flush : Directive<"flush"> {
     VersionedClause<OMPC_Release, 50>,
     // TODO This should ne `none` instead. Comment carried over from
     // OMPKinds.def.
+    VersionedClause<OMPC_SeqCst, 51>,
     VersionedClause<OMPC_Flush>
   ];
 }
