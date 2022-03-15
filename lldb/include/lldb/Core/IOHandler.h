@@ -85,11 +85,11 @@ public:
 
   virtual void GotEOF() = 0;
 
-  virtual bool IsActive() { return m_active && !m_done; }
+  bool IsActive() { return m_active && !m_done; }
 
-  virtual void SetIsDone(bool b) { m_done = b; }
+  void SetIsDone(bool b) { m_done = b; }
 
-  virtual bool GetIsDone() { return m_done; }
+  bool GetIsDone() { return m_done; }
 
   Type GetType() const { return m_type; }
 
@@ -163,10 +163,7 @@ public:
 
   void WaitForPop();
 
-  virtual void PrintAsync(Stream *stream, const char *s, size_t len) {
-    stream->Write(s, len);
-    stream->Flush();
-  }
+  virtual void PrintAsync(const char *s, size_t len, bool is_stdout);
 
 protected:
   Debugger &m_debugger;
@@ -415,7 +412,7 @@ public:
 
   uint32_t GetCurrentLineIndex() const;
 
-  void PrintAsync(Stream *stream, const char *s, size_t len) override;
+  void PrintAsync(const char *s, size_t len, bool is_stdout) override;
 
 private:
 #if LLDB_ENABLE_LIBEDIT
@@ -540,7 +537,7 @@ public:
     return ((m_top != nullptr) ? m_top->GetHelpPrologue() : nullptr);
   }
 
-  void PrintAsync(Stream *stream, const char *s, size_t len);
+  bool PrintAsync(const char *s, size_t len, bool is_stdout);
 
 protected:
   typedef std::vector<lldb::IOHandlerSP> collection;

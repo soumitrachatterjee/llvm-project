@@ -48,6 +48,20 @@ end
 ! CHECK:         %{{.*}} = fir.call @_FortranAStopStatement
 ! CHECK:         fir.unreachable
 
+function fct_iarr1()
+  integer, dimension(10) :: fct_iarr1
+end
+
+! CHECK-LABEL: func @_QPfct_iarr1() -> !fir.array<10xi32>
+! CHECK:         return %{{.*}} : !fir.array<10xi32>
+
+function fct_iarr2()
+  integer, dimension(10, 20) :: fct_iarr2
+end
+
+! CHECK-LABEL: func @_QPfct_iarr2() -> !fir.array<10x20xi32>
+! CHECK:         return %{{.*}} : !fir.array<10x20xi32>
+
 logical(1) function lfct1()
 end
 ! CHECK-LABEL: func @_QPlfct1() -> !fir.logical<1>
@@ -127,3 +141,10 @@ complex(16) function cplxfct6()
 end
 ! CHECK-LABEL: func @_QPcplxfct6() -> !fir.complex<16>
 ! CHECK:         return %{{.*}} : !fir.complex<16>
+
+function fct_with_character_return(i)
+  character(10) :: fct_with_character_return
+  integer :: i
+end
+! CHECK-LABEL: func @_QPfct_with_character_return(
+! CHECK-SAME: %{{.*}}: !fir.ref<!fir.char<1,10>>{{.*}}, %{{.*}}: index{{.*}}, %{{.*}}: !fir.ref<i32>{{.*}}) -> !fir.boxchar<1> {

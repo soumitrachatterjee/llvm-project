@@ -84,6 +84,10 @@
 #include "llvm/Support/PrettyStackTrace.h"
 #include "llvm/Support/ScopedPrinter.h"
 
+#if defined(__APPLE__)
+#include <TargetConditionals.h>
+#endif
+
 using namespace lldb;
 using namespace lldb_private;
 
@@ -434,7 +438,7 @@ void CommandInterpreter::Initialize() {
   if (cmd_obj_sp) {
     alias_arguments_vector_sp = std::make_shared<OptionArgVector>();
 #if defined(__APPLE__)
-#if defined(TARGET_OS_IPHONE)
+#if TARGET_OS_IPHONE
     AddAlias("r", cmd_obj_sp, "--");
     AddAlias("run", cmd_obj_sp, "--");
 #else
@@ -2380,6 +2384,21 @@ void CommandInterpreter::SourceInitFileHome(CommandReturnObject &result,
   SourceInitFile(FileSpec(init_file.str()), result);
 }
 
+void CommandInterpreter::SourceInitFileGlobal(CommandReturnObject &result) {
+#ifdef LLDB_GLOBAL_INIT_DIRECTORY
+  if (!m_skip_lldbinit_files) {
+    FileSpec init_file(LLDB_GLOBAL_INIT_DIRECTORY);
+    if (init_file)
+      init_file.MakeAbsolute(HostInfo::GetShlibDir());
+
+    init_file.AppendPathComponent("lldbinit");
+    SourceInitFile(init_file, result);
+    return;
+  }
+#endif
+  result.SetStatus(eReturnStatusSuccessFinishNoResult);
+}
+
 const char *CommandInterpreter::GetCommandPrefix() {
   const char *prefix = GetDebugger().GetIOHandlerCommandPrefix();
   return prefix == nullptr ? "" : prefix;
@@ -2978,6 +2997,7 @@ void CommandInterpreter::PrintCommandOutput(Stream &stream,
   if (size > 0) {
     stream.Printf("\n... Interrupted.\n");
   }
+  stream.Flush();
 }
 
 bool CommandInterpreter::EchoCommandNonInteractive(
@@ -3160,6 +3180,10 @@ bool CommandInterpreter::SaveTranscript(
                                  output_file->c_str());
 
   return true;
+}
+
+bool CommandInterpreter::IsInteractive() {
+  return (GetIOHandler() ? GetIOHandler()->GetIsInteractive() : false);
 }
 
 FileSpec CommandInterpreter::GetCurrentSourceDir() {

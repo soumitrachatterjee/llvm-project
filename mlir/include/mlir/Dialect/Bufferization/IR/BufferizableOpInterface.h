@@ -23,15 +23,14 @@
 namespace mlir {
 class BlockAndValueMapping;
 class DominanceInfo;
-class FuncOp;
 
 namespace bufferization {
 
+class AnalysisState;
 class BufferizableOpInterface;
-struct BufferizationOptions;
-class BufferizationState;
+struct DialectAnalysisState;
 
-/// Options for ComprehensiveBufferize.
+/// Options for BufferizableOpInterface-based bufferization.
 struct BufferizationOptions {
   /// Allocator function: Generate a memref allocation with the given type,
   /// dynamic extents and alignment.
@@ -44,6 +43,11 @@ struct BufferizationOptions {
   /// Memcpy function: Generate a memcpy between two buffers.
   using MemCpyFn =
       std::function<LogicalResult(OpBuilder &, Location, Value, Value)>;
+  /// Initializer function for analysis state.
+  using AnalysisStateInitFn = std::function<void(AnalysisState &)>;
+  /// Initializer function for dialect-specific analysis state.
+  using DialectStateInitFn =
+      std::function<std::unique_ptr<DialectAnalysisState>()>;
 
   /// An op filter entry. Filters can be used to specify which ops should be
   /// processed by the bufferization.
@@ -130,8 +134,34 @@ struct BufferizationOptions {
     OpFilterEntry::FilterFn filterFn = [=](Operation *op) {
       return op->getName().getStringRef() == opName;
     };
-    opFilter.push_back(
-        OpFilterEntry{filterFn, OpFilterEntry::FilterType::ALLOW});
+    allowOperationInFilter(filterFn);
+  }
+
+  /// Deny the given op and activate the filter (`hasFilter`).
+  ///
+  /// This function adds a DENY filter.
+  void denyOperationInFilter(StringRef opName) {
+    hasFilter = true;
+    OpFilterEntry::FilterFn filterFn = [=](Operation *op) {
+      return op->getName().getStringRef() == opName;
+    };
+    denyOperationInFilter(filterFn);
+  }
+
+  /// Allow ops that are matched by `fn` and activate the filter (`hasFilter`).
+  ///
+  /// This function adds an ALLOW filter.
+  void allowOperationInFilter(OpFilterEntry::FilterFn fn) {
+    hasFilter = true;
+    opFilter.push_back(OpFilterEntry{fn, OpFilterEntry::FilterType::ALLOW});
+  }
+
+  /// Deny ops that are matched by `fn` and activate the filter (`hasFilter`).
+  ///
+  /// This function adds a DENY filter.
+  void denyOperationInFilter(OpFilterEntry::FilterFn fn) {
+    hasFilter = true;
+    opFilter.push_back(OpFilterEntry{fn, OpFilterEntry::FilterType::DENY});
   }
 
   /// Try to cast the given op to BufferizableOpInterface if the op is allow
@@ -176,6 +206,20 @@ struct BufferizationOptions {
   /// For debugging only. Should be used together with `testAnalysisOnly`.
   bool printConflicts = false;
 
+  /// If set to `true`, an `getAliasingOpResult` will return the corresponding
+  /// "out"/"dest" OpOperand for every op that has the notion of an "out"/"dest"
+  /// operand. I.e., the aliasing OpOperand of the i-th tensor OpResult is
+  /// usually the i-th "out" tensor OpOperand. This is in line with
+  /// destination-passing style and the default behavior. Op interface
+  /// implementations must follow this contract to avoid surprising behavior.
+  ///
+  /// If set to `false`, BufferizableOpInterface implementations can try to be
+  /// smart and choose to alias with "in" operands or other operands. E.g., the
+  /// result of a `linalg.generic` op could bufferize in-place with an "in"
+  /// OpOperand if the corresponding "out" operand is not used within the
+  /// computation. Whether this pays off or not can be very input IR-specific.
+  bool alwaysAliasingWithDest = true;
+
   /// Buffer alignment for new memory allocations.
   unsigned int bufferAlignment = 128;
 
@@ -187,6 +231,14 @@ struct BufferizationOptions {
   /// ignored by the bufferization. If `hasFilter`, only ops that are not
   /// DENY-filtered and have at least one matching ALLOW filter are processed.
   SmallVector<OpFilterEntry> opFilter;
+
+  /// Initializer functions for analysis state. These can be used to
+  /// initialize dialect-specific analysis state.
+  SmallVector<AnalysisStateInitFn> stateInitializers;
+
+  /// Add a analysis state initializer that initializes the specified
+  /// dialect-specific analysis state.
+  void addDialectStateInitializer(StringRef name, const DialectStateInitFn &fn);
 
 private:
   /// Allow a dialect.
@@ -213,21 +265,21 @@ enum class BufferRelation {
 /// Return `true` if the given value is a BlockArgument of a FuncOp.
 bool isFunctionArgument(Value value);
 
-/// Dialect-specific bufferization state. Analysis/bufferization information
+/// Dialect-specific analysis state. Analysis/bufferization information
 /// that is specific to ops from a certain dialect can be stored in derived
 /// variants of this struct.
-struct DialectBufferizationState {
-  DialectBufferizationState() = default;
+struct DialectAnalysisState {
+  DialectAnalysisState() = default;
 
-  virtual ~DialectBufferizationState() = default;
+  virtual ~DialectAnalysisState() = default;
 
   // Copying state is forbidden. Always pass as reference.
-  DialectBufferizationState(const DialectBufferizationState &) = delete;
+  DialectAnalysisState(const DialectAnalysisState &) = delete;
 };
 
-/// BufferizationState provides a variety of helper functions for dealing with
-/// tensor values and memref buffers.
-class BufferizationState {
+/// AnalysisState provides a variety of helper functions for dealing with
+/// tensor values.
+class AnalysisState {
 public:
   /// Determine which OpOperand* will alias with `result` if the op is
   /// bufferized in place. Return an empty vector if the op is not bufferizable.
@@ -296,15 +348,7 @@ public:
   /// Return true if `v1` and `v2` bufferize to equivalent buffers.
   virtual bool areEquivalentBufferizedValues(Value v1, Value v2) const = 0;
 
-  /// Return the buffer (memref) for a given OpOperand (tensor). Allocate
-  /// a new buffer and copy over data from the existing buffer if out-of-place
-  /// bufferization was decided.
-  FailureOr<Value>
-  getBuffer(RewriterBase &rewriter, OpOperand &opOperand,
-            bool forceInPlace = false,
-            Optional<Operation *> customCopyInsertionPoint = None) const;
-
-  /// Return dialect-specific bufferization state.
+  /// Return dialect-specific analysis state.
   template <typename StateT>
   Optional<const StateT *> getDialectState(StringRef name) const {
     auto it = dialectState.find(name);
@@ -313,7 +357,7 @@ public:
     return static_cast<const StateT *>(it->getSecond().get());
   }
 
-  /// Return dialect-specific bufferization state or create one if none exists.
+  /// Return dialect-specific analysis state or create one if none exists.
   template <typename StateT>
   StateT &getOrCreateDialectState(StringRef name) {
     // Create state if it does not exist yet.
@@ -322,35 +366,41 @@ public:
     return static_cast<StateT &>(*dialectState[name]);
   }
 
+  void insertDialectState(StringRef name,
+                          std::unique_ptr<DialectAnalysisState> state) {
+    assert(!dialectState.count(name) && "dialect state already initialized");
+    dialectState[name] = std::move(state);
+  }
+
   /// Return a reference to the BufferizationOptions.
   const BufferizationOptions &getOptions() const { return options; }
 
 protected:
-  explicit BufferizationState(const BufferizationOptions &options);
+  explicit AnalysisState(const BufferizationOptions &options);
 
-  // BufferizationState should be passed as a reference.
-  BufferizationState(const BufferizationState &) = delete;
+  // AnalysisState should be passed as a reference.
+  AnalysisState(const AnalysisState &) = delete;
 
-  ~BufferizationState() = default;
+  ~AnalysisState() = default;
 
 private:
-  /// Dialect-specific bufferization state.
-  DenseMap<StringRef, std::unique_ptr<DialectBufferizationState>> dialectState;
+  /// Dialect-specific analysis state.
+  DenseMap<StringRef, std::unique_ptr<DialectAnalysisState>> dialectState;
 
   /// A reference to current bufferization options.
   const BufferizationOptions &options;
 };
 
-/// This a "no analysis, always copy" BufferizationState. In the absence of an
+/// This a "no analysis, always copy" AnalysisState. In the absence of an
 /// analysis, a buffer must be copied each time it is written to. Therefore, all
 /// OpOperands that bufferize to a memory write must bufferize out-of-place.
-class AlwaysCopyBufferizationState : public BufferizationState {
+class AlwaysCopyAnalysisState : public AnalysisState {
 public:
-  explicit AlwaysCopyBufferizationState(const BufferizationOptions &options);
+  explicit AlwaysCopyAnalysisState(const BufferizationOptions &options);
 
-  AlwaysCopyBufferizationState(const AlwaysCopyBufferizationState &) = delete;
+  AlwaysCopyAnalysisState(const AlwaysCopyAnalysisState &) = delete;
 
-  virtual ~AlwaysCopyBufferizationState() = default;
+  virtual ~AlwaysCopyAnalysisState() = default;
 
   /// Return `true` if the given OpResult has been decided to bufferize inplace.
   bool isInPlace(OpOperand &opOperand) const override;
@@ -359,10 +409,59 @@ public:
   bool areEquivalentBufferizedValues(Value v1, Value v2) const override;
 };
 
+/// BufferizationState provides helper functions for performing bufferization
+/// rewrites and handling memref buffers.
+struct BufferizationState {
+  BufferizationState(const AnalysisState &analysisState)
+      : analysisState(analysisState) {}
+
+  /// Creates a memref allocation with the given type and dynamic extents.
+  FailureOr<Value> createAlloc(OpBuilder &b, Location loc, MemRefType type,
+                               ValueRange dynShape);
+
+  /// Creates a memref allocation for the given shaped value. This function may
+  /// perform additional optimizations such as buffer allocation hoisting.
+  // TODO: Allocation hoisting should be a cleanup pass.
+  FailureOr<Value> createAlloc(OpBuilder &b, Location loc, Value shapedValue);
+
+  /// Return the buffer (memref) for a given OpOperand (tensor). Allocate
+  /// a new buffer and copy over data from the existing buffer if out-of-place
+  /// bufferization was decided.
+  FailureOr<Value>
+  getBuffer(RewriterBase &rewriter, OpOperand &opOperand,
+            bool forceInPlace = false,
+            Optional<Operation *> customCopyInsertionPoint = None);
+
+  /// Return a reference to the BufferizationOptions.
+  const BufferizationOptions &getOptions() const {
+    return analysisState.getOptions();
+  }
+
+  const AnalysisState &getAnalysisState() const { return analysisState; }
+
+protected:
+  // BufferizationState should be passed as a reference.
+  BufferizationState(const BufferizationState &) = delete;
+
+private:
+  const AnalysisState &analysisState;
+};
+
 /// Replace an op with replacement values. The op is deleted. Tensor OpResults
 /// must be replaced with memref values.
 void replaceOpWithBufferizedValues(RewriterBase &rewriter, Operation *op,
                                    ValueRange values);
+
+/// Lookup the buffer for the given value. If the value was not bufferized yet,
+/// wrap it in a ToMemrefOp. Otherwise, it is the result of a ToTensorOp, from
+/// which the memref operand is returned.
+///
+/// Note: Use `BufferizationState::getBuffer` during bufferization.
+/// `lookupBuffer` is just for compatibility and gradual migration of
+/// bufferization patterns to BufferizableOpInterface-based bufferization. It
+/// does not insert any buffer copies.
+Value lookupBuffer(RewriterBase &rewriter, Value tensor,
+                   const BufferizationOptions &options);
 
 /// Replace an op with a new op. The new op must have the same number of
 /// results as the replaced op. The new op may not return any tensor values.
@@ -387,27 +486,6 @@ BaseMemRefType getMemRefType(TensorType tensorType,
                              MemRefLayoutAttrInterface layout = {},
                              Attribute memorySpace = {});
 
-/// Creates a memref allocation with the given type and dynamic extents.
-FailureOr<Value> createAlloc(OpBuilder &b, Location loc, MemRefType type,
-                             ValueRange dynShape,
-                             const BufferizationOptions &options);
-
-/// Creates a memref allocation with the given type and dynamic extents. If
-/// `createDealloc`, a deallocation op is inserted at the point where the
-/// allocation goes out of scope.
-FailureOr<Value> createAlloc(OpBuilder &b, Location loc, MemRefType type,
-                             ValueRange dynShape, bool deallocMemref,
-                             const BufferizationOptions &options);
-
-/// Creates a memref allocation for the given shaped value. This function may
-/// perform additional optimizations such as buffer allocation hoisting. If
-/// `createDealloc`, a deallocation op is inserted at the point where the
-/// allocation goes out of scope.
-// TODO: Allocation hoisting should be a cleanup pass.
-FailureOr<Value> createAlloc(OpBuilder &b, Location loc, Value shapedValue,
-                             bool deallocMemref,
-                             const BufferizationOptions &options);
-
 /// Creates a memref deallocation. The given memref buffer must have been
 /// allocated using `createAlloc`.
 LogicalResult createDealloc(OpBuilder &b, Location loc, Value allocatedBuffer,
@@ -417,6 +495,10 @@ LogicalResult createDealloc(OpBuilder &b, Location loc, Value allocatedBuffer,
 LogicalResult createMemCpy(OpBuilder &b, Location loc, Value from, Value to,
                            const BufferizationOptions &options);
 
+/// Finalize all buffer allocations, i.e., create alloc ops as specified in the
+/// bufferization options and deallocate all buffers.
+LogicalResult finalizeBuffers(Operation *op,
+                              const BufferizationOptions &options);
 } // namespace bufferization
 } // namespace mlir
 
@@ -434,39 +516,38 @@ struct AllocationHoistingBarrierOnly
     : public BufferizableOpInterface::ExternalModel<
           AllocationHoistingBarrierOnly<OpTy>, OpTy> {
   bool bufferizesToMemoryRead(Operation *op, OpOperand &opOperand,
-                              const BufferizationState &state) const {
+                              const AnalysisState &state) const {
     return true;
   }
 
   bool bufferizesToMemoryWrite(Operation *op, OpOperand &opOperand,
-                               const BufferizationState &state) const {
+                               const AnalysisState &state) const {
     return true;
   }
 
   SmallVector<OpOperand *>
   getAliasingOpOperand(Operation *op, OpResult opResult,
-                       const BufferizationState &state) const {
+                       const AnalysisState &state) const {
     return {};
   }
 
-  SmallVector<OpResult>
-  getAliasingOpResult(Operation *op, OpOperand &opOperand,
-                      const BufferizationState &state) const {
+  SmallVector<OpResult> getAliasingOpResult(Operation *op, OpOperand &opOperand,
+                                            const AnalysisState &state) const {
     return {};
   }
 
   BufferRelation bufferRelation(Operation *op, OpResult opResult,
-                                const BufferizationState &state) const {
+                                const AnalysisState &state) const {
     return BufferRelation::None;
   }
 
   bool isWritable(Operation *op, Value value,
-                  const BufferizationState &state) const {
+                  const AnalysisState &state) const {
     return false;
   }
 
   LogicalResult bufferize(Operation *op, RewriterBase &rewriter,
-                          const BufferizationState &state) const {
+                          BufferizationState &state) const {
     return failure();
   }
 

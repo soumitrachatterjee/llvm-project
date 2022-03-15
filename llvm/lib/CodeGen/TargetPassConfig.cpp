@@ -895,6 +895,12 @@ void TargetPassConfig::addIRPasses() {
   addPass(&ShadowStackGCLoweringID);
   addPass(createLowerConstantIntrinsicsPass());
 
+  // For MachO, lower @llvm.global_dtors into @llvm_global_ctors with
+  // __cxa_atexit() calls to avoid emitting the deprecated __mod_term_func.
+  if (TM->getTargetTriple().isOSBinFormatMachO() &&
+      TM->Options.LowerGlobalDtorsViaCxaAtExit)
+    addPass(createLowerGlobalDtorsLegacyPass());
+
   // Make sure that no unreachable blocks are instruction selected.
   addPass(createUnreachableBlockEliminationPass());
 
@@ -922,6 +928,9 @@ void TargetPassConfig::addIRPasses() {
   // Allow disabling it for testing purposes.
   if (!DisableExpandReductions)
     addPass(createExpandReductionsPass());
+
+  if (getOptLevel() != CodeGenOpt::None)
+    addPass(createTLSVariableHoistPass());
 }
 
 /// Turn exception handling constructs into something the code generators can

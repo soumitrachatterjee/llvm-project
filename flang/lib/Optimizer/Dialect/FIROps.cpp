@@ -16,7 +16,7 @@
 #include "flang/Optimizer/Dialect/FIRType.h"
 #include "flang/Optimizer/Support/Utils.h"
 #include "mlir/Dialect/CommonFolders.h"
-#include "mlir/Dialect/StandardOps/IR/Ops.h"
+#include "mlir/Dialect/Func/IR/FuncOps.h"
 #include "mlir/IR/BuiltinAttributes.h"
 #include "mlir/IR/BuiltinOps.h"
 #include "mlir/IR/Diagnostics.h"
@@ -32,6 +32,7 @@ namespace {
 #include "flang/Optimizer/Dialect/CanonicalizationPatterns.inc"
 } // namespace
 using namespace fir;
+using namespace mlir;
 
 /// Return true if a sequence type is of some incomplete size or a record type
 /// is malformed or contains an incomplete sequence type. An incomplete sequence
@@ -135,12 +136,13 @@ static mlir::ParseResult parseAllocatableOp(FN wrapResultType,
 
 template <typename OP>
 static void printAllocatableOp(mlir::OpAsmPrinter &p, OP &op) {
-  p << ' ' << op.in_type();
-  if (!op.typeparams().empty()) {
-    p << '(' << op.typeparams() << " : " << op.typeparams().getTypes() << ')';
+  p << ' ' << op.getInType();
+  if (!op.getTypeparams().empty()) {
+    p << '(' << op.getTypeparams() << " : " << op.getTypeparams().getTypes()
+      << ')';
   }
   // print the shape of the allocation (if any); all must be index type
-  for (auto sh : op.shape()) {
+  for (auto sh : op.getShape()) {
     p << ", ";
     p.printOperand(sh);
   }
@@ -339,13 +341,13 @@ mlir::LogicalResult AllocMemOp::verify() {
 //===----------------------------------------------------------------------===//
 
 mlir::LogicalResult ArrayCoorOp::verify() {
-  auto eleTy = fir::dyn_cast_ptrOrBoxEleTy(memref().getType());
+  auto eleTy = fir::dyn_cast_ptrOrBoxEleTy(getMemref().getType());
   auto arrTy = eleTy.dyn_cast<fir::SequenceType>();
   if (!arrTy)
     return emitOpError("must be a reference to an array");
   auto arrDim = arrTy.getDimension();
 
-  if (auto shapeOp = shape()) {
+  if (auto shapeOp = getShape()) {
     auto shapeTy = shapeOp.getType();
     unsigned shapeTyRank = 0;
     if (auto s = shapeTy.dyn_cast<fir::ShapeType>()) {
@@ -355,18 +357,18 @@ mlir::LogicalResult ArrayCoorOp::verify() {
     } else {
       auto s = shapeTy.cast<fir::ShiftType>();
       shapeTyRank = s.getRank();
-      if (!memref().getType().isa<fir::BoxType>())
+      if (!getMemref().getType().isa<fir::BoxType>())
         return emitOpError("shift can only be provided with fir.box memref");
     }
     if (arrDim && arrDim != shapeTyRank)
       return emitOpError("rank of dimension mismatched");
-    if (shapeTyRank != indices().size())
+    if (shapeTyRank != getIndices().size())
       return emitOpError("number of indices do not match dim rank");
   }
 
-  if (auto sliceOp = slice()) {
+  if (auto sliceOp = getSlice()) {
     if (auto sl = mlir::dyn_cast_or_null<fir::SliceOp>(sliceOp.getDefiningOp()))
-      if (!sl.substr().empty())
+      if (!sl.getSubstr().empty())
         return emitOpError("array_coor cannot take a slice with substring");
     if (auto sliceTy = sliceOp.getType().dyn_cast<fir::SliceType>())
       if (sliceTy.getRank() != arrDim)
@@ -394,7 +396,7 @@ static mlir::Type adjustedElementType(mlir::Type t) {
 }
 
 std::vector<mlir::Value> fir::ArrayLoadOp::getExtents() {
-  if (auto sh = shape())
+  if (auto sh = getShape())
     if (auto *op = sh.getDefiningOp()) {
       if (auto shOp = dyn_cast<fir::ShapeOp>(op)) {
         auto extents = shOp.getExtents();
@@ -406,13 +408,13 @@ std::vector<mlir::Value> fir::ArrayLoadOp::getExtents() {
 }
 
 mlir::LogicalResult ArrayLoadOp::verify() {
-  auto eleTy = fir::dyn_cast_ptrOrBoxEleTy(memref().getType());
+  auto eleTy = fir::dyn_cast_ptrOrBoxEleTy(getMemref().getType());
   auto arrTy = eleTy.dyn_cast<fir::SequenceType>();
   if (!arrTy)
     return emitOpError("must be a reference to an array");
   auto arrDim = arrTy.getDimension();
 
-  if (auto shapeOp = shape()) {
+  if (auto shapeOp = getShape()) {
     auto shapeTy = shapeOp.getType();
     unsigned shapeTyRank = 0;
     if (auto s = shapeTy.dyn_cast<fir::ShapeType>()) {
@@ -422,16 +424,16 @@ mlir::LogicalResult ArrayLoadOp::verify() {
     } else {
       auto s = shapeTy.cast<fir::ShiftType>();
       shapeTyRank = s.getRank();
-      if (!memref().getType().isa<fir::BoxType>())
+      if (!getMemref().getType().isa<fir::BoxType>())
         return emitOpError("shift can only be provided with fir.box memref");
     }
     if (arrDim && arrDim != shapeTyRank)
       return emitOpError("rank of dimension mismatched");
   }
 
-  if (auto sliceOp = slice()) {
+  if (auto sliceOp = getSlice()) {
     if (auto sl = mlir::dyn_cast_or_null<fir::SliceOp>(sliceOp.getDefiningOp()))
-      if (!sl.substr().empty())
+      if (!sl.getSubstr().empty())
         return emitOpError("array_load cannot take a slice with substring");
     if (auto sliceTy = sliceOp.getType().dyn_cast<fir::SliceType>())
       if (sliceTy.getRank() != arrDim)
@@ -446,25 +448,25 @@ mlir::LogicalResult ArrayLoadOp::verify() {
 //===----------------------------------------------------------------------===//
 
 mlir::LogicalResult ArrayMergeStoreOp::verify() {
-  if (!isa<ArrayLoadOp>(original().getDefiningOp()))
+  if (!isa<ArrayLoadOp>(getOriginal().getDefiningOp()))
     return emitOpError("operand #0 must be result of a fir.array_load op");
-  if (auto sl = slice()) {
+  if (auto sl = getSlice()) {
     if (auto sliceOp =
             mlir::dyn_cast_or_null<fir::SliceOp>(sl.getDefiningOp())) {
-      if (!sliceOp.substr().empty())
+      if (!sliceOp.getSubstr().empty())
         return emitOpError(
             "array_merge_store cannot take a slice with substring");
-      if (!sliceOp.fields().empty()) {
+      if (!sliceOp.getFields().empty()) {
         // This is an intra-object merge, where the slice is projecting the
         // subfields that are to be overwritten by the merge operation.
-        auto eleTy = fir::dyn_cast_ptrOrBoxEleTy(memref().getType());
+        auto eleTy = fir::dyn_cast_ptrOrBoxEleTy(getMemref().getType());
         if (auto seqTy = eleTy.dyn_cast<fir::SequenceType>()) {
           auto projTy =
-              fir::applyPathToType(seqTy.getEleTy(), sliceOp.fields());
-          if (fir::unwrapSequenceType(original().getType()) != projTy)
+              fir::applyPathToType(seqTy.getEleTy(), sliceOp.getFields());
+          if (fir::unwrapSequenceType(getOriginal().getType()) != projTy)
             return emitOpError(
                 "type of origin does not match sliced memref type");
-          if (fir::unwrapSequenceType(sequence().getType()) != projTy)
+          if (fir::unwrapSequenceType(getSequence().getType()) != projTy)
             return emitOpError(
                 "type of sequence does not match sliced memref type");
           return mlir::success();
@@ -474,10 +476,10 @@ mlir::LogicalResult ArrayMergeStoreOp::verify() {
     }
     return mlir::success();
   }
-  auto eleTy = fir::dyn_cast_ptrOrBoxEleTy(memref().getType());
-  if (original().getType() != eleTy)
+  auto eleTy = fir::dyn_cast_ptrOrBoxEleTy(getMemref().getType());
+  if (getOriginal().getType() != eleTy)
     return emitOpError("type of origin does not match memref element type");
-  if (sequence().getType() != eleTy)
+  if (getSequence().getType() != eleTy)
     return emitOpError("type of sequence does not match memref element type");
   return mlir::success();
 }
@@ -489,22 +491,22 @@ mlir::LogicalResult ArrayMergeStoreOp::verify() {
 // Template function used for both array_fetch and array_update verification.
 template <typename A>
 mlir::Type validArraySubobject(A op) {
-  auto ty = op.sequence().getType();
-  return fir::applyPathToType(ty, op.indices());
+  auto ty = op.getSequence().getType();
+  return fir::applyPathToType(ty, op.getIndices());
 }
 
 mlir::LogicalResult ArrayFetchOp::verify() {
-  auto arrTy = sequence().getType().cast<fir::SequenceType>();
-  auto indSize = indices().size();
+  auto arrTy = getSequence().getType().cast<fir::SequenceType>();
+  auto indSize = getIndices().size();
   if (indSize < arrTy.getDimension())
     return emitOpError("number of indices != dimension of array");
   if (indSize == arrTy.getDimension() &&
-      ::adjustedElementType(element().getType()) != arrTy.getEleTy())
+      ::adjustedElementType(getElement().getType()) != arrTy.getEleTy())
     return emitOpError("return type does not match array");
   auto ty = validArraySubobject(*this);
   if (!ty || ty != ::adjustedElementType(getType()))
     return emitOpError("return type and/or indices do not type check");
-  if (!isa<fir::ArrayLoadOp>(sequence().getDefiningOp()))
+  if (!isa<fir::ArrayLoadOp>(getSequence().getDefiningOp()))
     return emitOpError("argument #0 must be result of fir.array_load");
   return mlir::success();
 }
@@ -514,12 +516,12 @@ mlir::LogicalResult ArrayFetchOp::verify() {
 //===----------------------------------------------------------------------===//
 
 mlir::LogicalResult ArrayAccessOp::verify() {
-  auto arrTy = sequence().getType().cast<fir::SequenceType>();
-  std::size_t indSize = indices().size();
+  auto arrTy = getSequence().getType().cast<fir::SequenceType>();
+  std::size_t indSize = getIndices().size();
   if (indSize < arrTy.getDimension())
     return emitOpError("number of indices != dimension of array");
   if (indSize == arrTy.getDimension() &&
-      element().getType() != fir::ReferenceType::get(arrTy.getEleTy()))
+      getElement().getType() != fir::ReferenceType::get(arrTy.getEleTy()))
     return emitOpError("return type does not match array");
   mlir::Type ty = validArraySubobject(*this);
   if (!ty || fir::ReferenceType::get(ty) != getType())
@@ -532,17 +534,17 @@ mlir::LogicalResult ArrayAccessOp::verify() {
 //===----------------------------------------------------------------------===//
 
 mlir::LogicalResult ArrayUpdateOp::verify() {
-  if (fir::isa_ref_type(merge().getType()))
+  if (fir::isa_ref_type(getMerge().getType()))
     return emitOpError("does not support reference type for merge");
-  auto arrTy = sequence().getType().cast<fir::SequenceType>();
-  auto indSize = indices().size();
+  auto arrTy = getSequence().getType().cast<fir::SequenceType>();
+  auto indSize = getIndices().size();
   if (indSize < arrTy.getDimension())
     return emitOpError("number of indices != dimension of array");
   if (indSize == arrTy.getDimension() &&
-      ::adjustedElementType(merge().getType()) != arrTy.getEleTy())
+      ::adjustedElementType(getMerge().getType()) != arrTy.getEleTy())
     return emitOpError("merged value does not have element type");
   auto ty = validArraySubobject(*this);
-  if (!ty || ty != ::adjustedElementType(merge().getType()))
+  if (!ty || ty != ::adjustedElementType(getMerge().getType()))
     return emitOpError("merged value and/or indices do not type check");
   return mlir::success();
 }
@@ -552,8 +554,8 @@ mlir::LogicalResult ArrayUpdateOp::verify() {
 //===----------------------------------------------------------------------===//
 
 mlir::LogicalResult ArrayModifyOp::verify() {
-  auto arrTy = sequence().getType().cast<fir::SequenceType>();
-  auto indSize = indices().size();
+  auto arrTy = getSequence().getType().cast<fir::SequenceType>();
+  auto indSize = getIndices().size();
   if (indSize < arrTy.getDimension())
     return emitOpError("number of indices must match array dimension");
   return mlir::success();
@@ -564,11 +566,11 @@ mlir::LogicalResult ArrayModifyOp::verify() {
 //===----------------------------------------------------------------------===//
 
 mlir::OpFoldResult fir::BoxAddrOp::fold(llvm::ArrayRef<mlir::Attribute> opnds) {
-  if (auto v = val().getDefiningOp()) {
+  if (auto v = getVal().getDefiningOp()) {
     if (auto box = dyn_cast<fir::EmboxOp>(v))
-      return box.memref();
+      return box.getMemref();
     if (auto box = dyn_cast<fir::EmboxCharOp>(v))
-      return box.memref();
+      return box.getMemref();
   }
   return {};
 }
@@ -579,9 +581,9 @@ mlir::OpFoldResult fir::BoxAddrOp::fold(llvm::ArrayRef<mlir::Attribute> opnds) {
 
 mlir::OpFoldResult
 fir::BoxCharLenOp::fold(llvm::ArrayRef<mlir::Attribute> opnds) {
-  if (auto v = val().getDefiningOp()) {
+  if (auto v = getVal().getDefiningOp()) {
     if (auto box = dyn_cast<fir::EmboxCharOp>(v))
-      return box.len();
+      return box.getLen();
   }
   return {};
 }
@@ -608,10 +610,10 @@ mlir::FunctionType fir::CallOp::getFunctionType() {
 }
 
 void fir::CallOp::print(mlir::OpAsmPrinter &p) {
-  bool isDirect = callee().hasValue();
+  bool isDirect = getCallee().hasValue();
   p << ' ';
   if (isDirect)
-    p << callee().getValue();
+    p << getCallee().getValue();
   else
     p << getOperand(0);
   p << '(' << (*this)->getOperands().drop_front(isDirect ? 0 : 1) << ')';
@@ -694,12 +696,12 @@ static void printCmpOp(OpAsmPrinter &p, OPTY op) {
   assert(predSym.hasValue() && "invalid symbol value for predicate");
   p << '"' << mlir::arith::stringifyCmpFPredicate(predSym.getValue()) << '"'
     << ", ";
-  p.printOperand(op.lhs());
+  p.printOperand(op.getLhs());
   p << ", ";
-  p.printOperand(op.rhs());
+  p.printOperand(op.getRhs());
   p.printOptionalAttrDict(op->getAttrs(),
                           /*elidedAttrs=*/{OPTY::getPredicateAttrName()});
-  p << " : " << op.lhs().getType();
+  p << " : " << op.getLhs().getType();
 }
 
 template <typename OPTY>
@@ -742,8 +744,8 @@ mlir::LogicalResult CharConvertOp::verify() {
     t = fir::unwrapSequenceType(fir::dyn_cast_ptrEleTy(t));
     return t.dyn_cast<fir::CharacterType>();
   };
-  auto inTy = unwrap(from().getType());
-  auto outTy = unwrap(to().getType());
+  auto inTy = unwrap(getFrom().getType());
+  auto outTy = unwrap(getTo().getType());
   if (!(inTy && outTy))
     return emitOpError("not a reference to a character");
   if (inTy.getFKind() == outTy.getFKind())
@@ -824,21 +826,22 @@ void fir::ConvertOp::getCanonicalizationPatterns(RewritePatternSet &results,
 }
 
 mlir::OpFoldResult fir::ConvertOp::fold(llvm::ArrayRef<mlir::Attribute> opnds) {
-  if (value().getType() == getType())
-    return value();
-  if (matchPattern(value(), m_Op<fir::ConvertOp>())) {
-    auto inner = cast<fir::ConvertOp>(value().getDefiningOp());
+  if (getValue().getType() == getType())
+    return getValue();
+  if (matchPattern(getValue(), m_Op<fir::ConvertOp>())) {
+    auto inner = cast<fir::ConvertOp>(getValue().getDefiningOp());
     // (convert (convert 'a : logical -> i1) : i1 -> logical) ==> forward 'a
     if (auto toTy = getType().dyn_cast<fir::LogicalType>())
-      if (auto fromTy = inner.value().getType().dyn_cast<fir::LogicalType>())
+      if (auto fromTy = inner.getValue().getType().dyn_cast<fir::LogicalType>())
         if (inner.getType().isa<mlir::IntegerType>() && (toTy == fromTy))
-          return inner.value();
+          return inner.getValue();
     // (convert (convert 'a : i1 -> logical) : logical -> i1) ==> forward 'a
     if (auto toTy = getType().dyn_cast<mlir::IntegerType>())
-      if (auto fromTy = inner.value().getType().dyn_cast<mlir::IntegerType>())
+      if (auto fromTy =
+              inner.getValue().getType().dyn_cast<mlir::IntegerType>())
         if (inner.getType().isa<fir::LogicalType>() && (toTy == fromTy) &&
             (fromTy.getWidth() == 1))
-          return inner.value();
+          return inner.getValue();
   }
   return {};
 }
@@ -860,7 +863,7 @@ bool fir::ConvertOp::isPointerCompatible(mlir::Type ty) {
 }
 
 mlir::LogicalResult ConvertOp::verify() {
-  auto inType = value().getType();
+  auto inType = getValue().getType();
   auto outType = getType();
   if (inType == outType)
     return mlir::success();
@@ -882,7 +885,7 @@ mlir::LogicalResult ConvertOp::verify() {
 //===----------------------------------------------------------------------===//
 
 void CoordinateOp::print(mlir::OpAsmPrinter &p) {
-  p << ' ' << ref() << ", " << coor();
+  p << ' ' << getRef() << ", " << getCoor();
   p.printOptionalAttrDict((*this)->getAttrs(), /*elideAttrs=*/{"baseType"});
   p << " : ";
   p.printFunctionalType(getOperandTypes(), (*this)->getResultTypes());
@@ -912,7 +915,7 @@ mlir::ParseResult CoordinateOp::parse(mlir::OpAsmParser &parser,
 }
 
 mlir::LogicalResult CoordinateOp::verify() {
-  auto refTy = ref().getType();
+  auto refTy = getRef().getType();
   if (fir::isa_ref_type(refTy)) {
     auto eleTy = fir::dyn_cast_ptrEleTy(refTy);
     if (auto arrTy = eleTy.dyn_cast<fir::SequenceType>()) {
@@ -928,11 +931,11 @@ mlir::LogicalResult CoordinateOp::verify() {
   // Recovering a LEN type parameter only makes sense from a boxed value. For a
   // bare reference, the LEN type parameters must be passed as additional
   // arguments to `op`.
-  for (auto co : coor())
+  for (auto co : getCoor())
     if (dyn_cast_or_null<fir::LenParamIndexOp>(co.getDefiningOp())) {
       if (getNumOperands() != 2)
         return emitOpError("len_param_index must be last argument");
-      if (!ref().getType().isa<BoxType>())
+      if (!getRef().getType().isa<BoxType>())
         return emitOpError("len_param_index must be used on box type");
     }
   return mlir::success();
@@ -975,10 +978,10 @@ mlir::ParseResult DispatchOp::parse(mlir::OpAsmParser &parser,
 
 void DispatchOp::print(mlir::OpAsmPrinter &p) {
   p << ' ' << getMethodAttr() << '(';
-  p.printOperand(object());
-  if (!args().empty()) {
+  p.printOperand(getObject());
+  if (!getArgs().empty()) {
     p << ", ";
-    p.printOperands(args());
+    p.printOperands(getArgs());
   }
   p << ") : ";
   p.printFunctionalType(getOperation()->getOperandTypes(),
@@ -1045,7 +1048,7 @@ mlir::LogicalResult DispatchTableOp::verify() {
 //===----------------------------------------------------------------------===//
 
 mlir::LogicalResult EmboxOp::verify() {
-  auto eleTy = fir::dyn_cast_ptrEleTy(memref().getType());
+  auto eleTy = fir::dyn_cast_ptrEleTy(getMemref().getType());
   bool isArray = false;
   if (auto seqTy = eleTy.dyn_cast<fir::SequenceType>()) {
     eleTy = seqTy.getEleTy();
@@ -1063,7 +1066,7 @@ mlir::LogicalResult EmboxOp::verify() {
     } else {
       return emitOpError("LEN parameters require CHARACTER or derived type");
     }
-    for (auto lp : typeparams())
+    for (auto lp : getTypeparams())
       if (!fir::isa_integer(lp.getType()))
         return emitOpError("LEN parameters must be integral type");
   }
@@ -1079,7 +1082,7 @@ mlir::LogicalResult EmboxOp::verify() {
 //===----------------------------------------------------------------------===//
 
 mlir::LogicalResult EmboxCharOp::verify() {
-  auto eleTy = fir::dyn_cast_ptrEleTy(memref().getType());
+  auto eleTy = fir::dyn_cast_ptrEleTy(getMemref().getType());
   if (!eleTy.dyn_cast_or_null<CharacterType>())
     return mlir::failure();
   return mlir::success();
@@ -1120,7 +1123,7 @@ mlir::ParseResult EmboxProcOp::parse(mlir::OpAsmParser &parser,
 
 void EmboxProcOp::print(mlir::OpAsmPrinter &p) {
   p << ' ' << getOperation()->getAttr("funcname");
-  auto h = host();
+  auto h = getHost();
   if (h) {
     p << ", ";
     p.printOperand(h);
@@ -1133,7 +1136,7 @@ void EmboxProcOp::print(mlir::OpAsmPrinter &p) {
 
 mlir::LogicalResult EmboxProcOp::verify() {
   // host bindings (optional) must be a reference to a tuple
-  if (auto h = host()) {
+  if (auto h = getHost()) {
     if (auto r = h.getType().dyn_cast<ReferenceType>()) {
       if (!r.getEleTy().dyn_cast<mlir::TupleType>())
         return mlir::failure();
@@ -1227,7 +1230,7 @@ ParseResult GlobalOp::parse(OpAsmParser &parser, OperationState &result) {
   if (parser.parseColonType(globalType))
     return mlir::failure();
 
-  result.addAttribute(fir::GlobalOp::typeAttrName(result.name),
+  result.addAttribute(fir::GlobalOp::getTypeAttrName(result.name),
                       mlir::TypeAttr::get(globalType));
 
   if (simpleInitializer) {
@@ -1244,8 +1247,8 @@ ParseResult GlobalOp::parse(OpAsmParser &parser, OperationState &result) {
 }
 
 void GlobalOp::print(mlir::OpAsmPrinter &p) {
-  if (linkName().hasValue())
-    p << ' ' << linkName().getValue();
+  if (getLinkName().hasValue())
+    p << ' ' << getLinkName().getValue();
   p << ' ';
   p.printAttributeWithoutType(getSymrefAttr());
   if (auto val = getValueOrNull())
@@ -1271,15 +1274,16 @@ void fir::GlobalOp::build(mlir::OpBuilder &builder, OperationState &result,
                           Attribute initialVal, StringAttr linkage,
                           ArrayRef<NamedAttribute> attrs) {
   result.addRegion();
-  result.addAttribute(typeAttrName(result.name), mlir::TypeAttr::get(type));
+  result.addAttribute(getTypeAttrName(result.name), mlir::TypeAttr::get(type));
   result.addAttribute(mlir::SymbolTable::getSymbolAttrName(),
                       builder.getStringAttr(name));
   result.addAttribute(symbolAttrNameStr(),
                       SymbolRefAttr::get(builder.getContext(), name));
   if (isConstant)
-    result.addAttribute(constantAttrName(result.name), builder.getUnitAttr());
+    result.addAttribute(getConstantAttrName(result.name),
+                        builder.getUnitAttr());
   if (initialVal)
-    result.addAttribute(initValAttrName(result.name), initialVal);
+    result.addAttribute(getInitValAttrName(result.name), initialVal);
   if (linkage)
     result.addAttribute(linkageAttrName(), linkage);
   result.attributes.append(attrs.begin(), attrs.end());
@@ -1317,7 +1321,8 @@ void fir::GlobalOp::build(mlir::OpBuilder &builder, OperationState &result,
 
 mlir::ParseResult fir::GlobalOp::verifyValidLinkage(StringRef linkage) {
   // Supporting only a subset of the LLVM linkage types for now
-  static const char *validNames[] = {"common", "internal", "linkonce", "weak"};
+  static const char *validNames[] = {"common", "internal", "linkonce",
+                                     "linkonce_odr", "weak"};
   return mlir::success(llvm::is_contained(validNames, linkage));
 }
 
@@ -1391,9 +1396,9 @@ void FieldIndexOp::print(mlir::OpAsmPrinter &p) {
     << ", " << getOperation()->getAttr(fir::FieldIndexOp::typeAttrName());
   if (getNumOperands()) {
     p << '(';
-    p.printOperands(typeparams());
+    p.printOperands(getTypeparams());
     const auto *sep = ") : ";
-    for (auto op : typeparams()) {
+    for (auto op : getTypeparams()) {
       p << sep;
       if (op)
         p.printType(op.getType());
@@ -1411,6 +1416,13 @@ void fir::FieldIndexOp::build(mlir::OpBuilder &builder,
   result.addAttribute(fieldAttrName(), builder.getStringAttr(fieldName));
   result.addAttribute(typeAttrName(), TypeAttr::get(recTy));
   result.addOperands(operands);
+}
+
+llvm::SmallVector<mlir::Attribute> fir::FieldIndexOp::getAttributes() {
+  llvm::SmallVector<mlir::Attribute> attrs;
+  attrs.push_back(getFieldIdAttr());
+  attrs.push_back(getOnTypeAttr());
+  return attrs;
 }
 
 //===----------------------------------------------------------------------===//
@@ -1462,9 +1474,9 @@ void printCustomRangeSubscript(mlir::OpAsmPrinter &printer, InsertOnRangeOp op,
 
 /// Range bounds must be nonnegative, and the range must not be empty.
 mlir::LogicalResult InsertOnRangeOp::verify() {
-  if (fir::hasDynamicSize(seq().getType()))
+  if (fir::hasDynamicSize(getSeq().getType()))
     return emitOpError("must have constant shape and size");
-  mlir::DenseIntElementsAttr coorAttr = coor();
+  mlir::DenseIntElementsAttr coorAttr = getCoor();
   if (coorAttr.size() < 2 || coorAttr.size() % 2 != 0)
     return emitOpError("has uneven number of values in ranges");
   bool rangeIsKnownToBeNonempty = false;
@@ -1510,14 +1522,14 @@ struct UndoComplexPattern : public mlir::RewritePattern {
     if (!insval || !insval.getType().isa<fir::ComplexType>())
       return mlir::failure();
     auto insval2 =
-        dyn_cast_or_null<fir::InsertValueOp>(insval.adt().getDefiningOp());
-    if (!insval2 || !isa<fir::UndefOp>(insval2.adt().getDefiningOp()))
+        dyn_cast_or_null<fir::InsertValueOp>(insval.getAdt().getDefiningOp());
+    if (!insval2 || !isa<fir::UndefOp>(insval2.getAdt().getDefiningOp()))
       return mlir::failure();
-    auto binf = dyn_cast_or_null<FltOp>(insval.val().getDefiningOp());
-    auto binf2 = dyn_cast_or_null<FltOp>(insval2.val().getDefiningOp());
-    if (!binf || !binf2 || insval.coor().size() != 1 ||
-        !isOne(insval.coor()[0]) || insval2.coor().size() != 1 ||
-        !isZero(insval2.coor()[0]))
+    auto binf = dyn_cast_or_null<FltOp>(insval.getVal().getDefiningOp());
+    auto binf2 = dyn_cast_or_null<FltOp>(insval2.getVal().getDefiningOp());
+    if (!binf || !binf2 || insval.getCoor().size() != 1 ||
+        !isOne(insval.getCoor()[0]) || insval2.getCoor().size() != 1 ||
+        !isZero(insval2.getCoor()[0]))
       return mlir::failure();
     auto eai =
         dyn_cast_or_null<fir::ExtractValueOp>(binf.getLhs().getDefiningOp());
@@ -1527,14 +1539,14 @@ struct UndoComplexPattern : public mlir::RewritePattern {
         dyn_cast_or_null<fir::ExtractValueOp>(binf2.getLhs().getDefiningOp());
     auto ebr =
         dyn_cast_or_null<fir::ExtractValueOp>(binf2.getRhs().getDefiningOp());
-    if (!eai || !ebi || !ear || !ebr || ear.adt() != eai.adt() ||
-        ebr.adt() != ebi.adt() || eai.coor().size() != 1 ||
-        !isOne(eai.coor()[0]) || ebi.coor().size() != 1 ||
-        !isOne(ebi.coor()[0]) || ear.coor().size() != 1 ||
-        !isZero(ear.coor()[0]) || ebr.coor().size() != 1 ||
-        !isZero(ebr.coor()[0]))
+    if (!eai || !ebi || !ear || !ebr || ear.getAdt() != eai.getAdt() ||
+        ebr.getAdt() != ebi.getAdt() || eai.getCoor().size() != 1 ||
+        !isOne(eai.getCoor()[0]) || ebi.getCoor().size() != 1 ||
+        !isOne(ebi.getCoor()[0]) || ear.getCoor().size() != 1 ||
+        !isZero(ear.getCoor()[0]) || ebr.getCoor().size() != 1 ||
+        !isZero(ebr.getCoor()[0]))
       return mlir::failure();
-    rewriter.replaceOpWithNewOp<CpxOp>(op, ear.adt(), ebr.adt());
+    rewriter.replaceOpWithNewOp<CpxOp>(op, ear.getAdt(), ebr.getAdt());
     return mlir::success();
   }
 };
@@ -1574,8 +1586,8 @@ void fir::IterWhileOp::build(mlir::OpBuilder &builder,
   result.addAttributes(attributes);
 }
 
-static mlir::ParseResult parseIterWhileOp(mlir::OpAsmParser &parser,
-                                          mlir::OperationState &result) {
+mlir::ParseResult IterWhileOp::parse(mlir::OpAsmParser &parser,
+                                     mlir::OperationState &result) {
   auto &builder = parser.getBuilder();
   mlir::OpAsmParser::OperandType inductionVariable, lb, ub, step;
   if (parser.parseLParen() || parser.parseRegionArgument(inductionVariable) ||
@@ -1673,65 +1685,64 @@ static mlir::ParseResult parseIterWhileOp(mlir::OpAsmParser &parser,
   return mlir::success();
 }
 
-static mlir::LogicalResult verify(fir::IterWhileOp op) {
+mlir::LogicalResult IterWhileOp::verify() {
   // Check that the body defines as single block argument for the induction
   // variable.
-  auto *body = op.getBody();
+  auto *body = getBody();
   if (!body->getArgument(1).getType().isInteger(1))
-    return op.emitOpError(
+    return emitOpError(
         "expected body second argument to be an index argument for "
         "the induction variable");
   if (!body->getArgument(0).getType().isIndex())
-    return op.emitOpError(
+    return emitOpError(
         "expected body first argument to be an index argument for "
         "the induction variable");
 
-  auto opNumResults = op.getNumResults();
-  if (op.finalValue()) {
+  auto opNumResults = getNumResults();
+  if (getFinalValue()) {
     // Result type must be "(index, i1, ...)".
-    if (!op.getResult(0).getType().isa<mlir::IndexType>())
-      return op.emitOpError("result #0 expected to be index");
-    if (!op.getResult(1).getType().isSignlessInteger(1))
-      return op.emitOpError("result #1 expected to be i1");
+    if (!getResult(0).getType().isa<mlir::IndexType>())
+      return emitOpError("result #0 expected to be index");
+    if (!getResult(1).getType().isSignlessInteger(1))
+      return emitOpError("result #1 expected to be i1");
     opNumResults--;
   } else {
     // iterate_while always returns the early exit induction value.
     // Result type must be "(i1, ...)"
-    if (!op.getResult(0).getType().isSignlessInteger(1))
-      return op.emitOpError("result #0 expected to be i1");
+    if (!getResult(0).getType().isSignlessInteger(1))
+      return emitOpError("result #0 expected to be i1");
   }
   if (opNumResults == 0)
     return mlir::failure();
-  if (op.getNumIterOperands() != opNumResults)
-    return op.emitOpError(
+  if (getNumIterOperands() != opNumResults)
+    return emitOpError(
         "mismatch in number of loop-carried values and defined values");
-  if (op.getNumRegionIterArgs() != opNumResults)
-    return op.emitOpError(
+  if (getNumRegionIterArgs() != opNumResults)
+    return emitOpError(
         "mismatch in number of basic block args and defined values");
-  auto iterOperands = op.getIterOperands();
-  auto iterArgs = op.getRegionIterArgs();
-  auto opResults =
-      op.finalValue() ? op.getResults().drop_front() : op.getResults();
+  auto iterOperands = getIterOperands();
+  auto iterArgs = getRegionIterArgs();
+  auto opResults = getFinalValue() ? getResults().drop_front() : getResults();
   unsigned i = 0;
   for (auto e : llvm::zip(iterOperands, iterArgs, opResults)) {
     if (std::get<0>(e).getType() != std::get<2>(e).getType())
-      return op.emitOpError() << "types mismatch between " << i
-                              << "th iter operand and defined value";
+      return emitOpError() << "types mismatch between " << i
+                           << "th iter operand and defined value";
     if (std::get<1>(e).getType() != std::get<2>(e).getType())
-      return op.emitOpError() << "types mismatch between " << i
-                              << "th iter region arg and defined value";
+      return emitOpError() << "types mismatch between " << i
+                           << "th iter region arg and defined value";
 
     i++;
   }
   return mlir::success();
 }
 
-static void print(mlir::OpAsmPrinter &p, fir::IterWhileOp op) {
-  p << " (" << op.getInductionVar() << " = " << op.lowerBound() << " to "
-    << op.upperBound() << " step " << op.step() << ") and (";
-  assert(op.hasIterOperands());
-  auto regionArgs = op.getRegionIterArgs();
-  auto operands = op.getIterOperands();
+void IterWhileOp::print(mlir::OpAsmPrinter &p) {
+  p << " (" << getInductionVar() << " = " << getLowerBound() << " to "
+    << getUpperBound() << " step " << getStep() << ") and (";
+  assert(hasIterOperands());
+  auto regionArgs = getRegionIterArgs();
+  auto operands = getIterOperands();
   p << regionArgs.front() << " = " << *operands.begin() << ")";
   if (regionArgs.size() > 1) {
     p << " iter_args(";
@@ -1740,22 +1751,22 @@ static void print(mlir::OpAsmPrinter &p, fir::IterWhileOp op) {
         [&](auto it) { p << std::get<0>(it) << " = " << std::get<1>(it); });
     p << ") -> (";
     llvm::interleaveComma(
-        llvm::drop_begin(op.getResultTypes(), op.finalValue() ? 0 : 1), p);
+        llvm::drop_begin(getResultTypes(), getFinalValue() ? 0 : 1), p);
     p << ")";
-  } else if (op.finalValue()) {
-    p << " -> (" << op.getResultTypes() << ')';
+  } else if (getFinalValue()) {
+    p << " -> (" << getResultTypes() << ')';
   }
-  p.printOptionalAttrDictWithKeyword(op->getAttrs(),
-                                     {op.getFinalValueAttrNameStr()});
+  p.printOptionalAttrDictWithKeyword((*this)->getAttrs(),
+                                     {getFinalValueAttrNameStr()});
   p << ' ';
-  p.printRegion(op.region(), /*printEntryBlockArgs=*/false,
+  p.printRegion(getRegion(), /*printEntryBlockArgs=*/false,
                 /*printBlockTerminators=*/true);
 }
 
-mlir::Region &fir::IterWhileOp::getLoopBody() { return region(); }
+mlir::Region &fir::IterWhileOp::getLoopBody() { return getRegion(); }
 
 bool fir::IterWhileOp::isDefinedOutsideOfLoop(mlir::Value value) {
-  return !region().isAncestor(value.getParentRegion());
+  return !getRegion().isAncestor(value.getParentRegion());
 }
 
 mlir::LogicalResult
@@ -1766,23 +1777,23 @@ fir::IterWhileOp::moveOutOfLoop(llvm::ArrayRef<mlir::Operation *> ops) {
 }
 
 mlir::BlockArgument fir::IterWhileOp::iterArgToBlockArg(mlir::Value iterArg) {
-  for (auto i : llvm::enumerate(initArgs()))
+  for (auto i : llvm::enumerate(getInitArgs()))
     if (iterArg == i.value())
-      return region().front().getArgument(i.index() + 1);
+      return getRegion().front().getArgument(i.index() + 1);
   return {};
 }
 
 void fir::IterWhileOp::resultToSourceOps(
     llvm::SmallVectorImpl<mlir::Value> &results, unsigned resultNum) {
-  auto oper = finalValue() ? resultNum + 1 : resultNum;
-  auto *term = region().front().getTerminator();
+  auto oper = getFinalValue() ? resultNum + 1 : resultNum;
+  auto *term = getRegion().front().getTerminator();
   if (oper < term->getNumOperands())
     results.push_back(term->getOperand(oper));
 }
 
 mlir::Value fir::IterWhileOp::blockArgToSourceOp(unsigned blockArgNum) {
-  if (blockArgNum > 0 && blockArgNum <= initArgs().size())
-    return initArgs()[blockArgNum - 1];
+  if (blockArgNum > 0 && blockArgNum <= getInitArgs().size())
+    return getInitArgs()[blockArgNum - 1];
   return {};
 }
 
@@ -1862,9 +1873,9 @@ mlir::ParseResult LoadOp::parse(mlir::OpAsmParser &parser,
 
 void LoadOp::print(mlir::OpAsmPrinter &p) {
   p << ' ';
-  p.printOperand(memref());
+  p.printOperand(getMemref());
   p.printOptionalAttrDict(getOperation()->getAttrs(), {});
-  p << " : " << memref().getType();
+  p << " : " << getMemref().getType();
 }
 
 //===----------------------------------------------------------------------===//
@@ -1880,7 +1891,8 @@ void fir::DoLoopOp::build(mlir::OpBuilder &builder,
   result.addOperands(iterArgs);
   if (finalCountValue) {
     result.addTypes(builder.getIndexType());
-    result.addAttribute(finalValueAttrName(result.name), builder.getUnitAttr());
+    result.addAttribute(getFinalValueAttrName(result.name),
+                        builder.getUnitAttr());
   }
   for (auto v : iterArgs)
     result.addTypes(v.getType());
@@ -1893,12 +1905,13 @@ void fir::DoLoopOp::build(mlir::OpBuilder &builder,
       iterArgs.getTypes(),
       SmallVector<Location>(iterArgs.size(), result.location));
   if (unordered)
-    result.addAttribute(unorderedAttrName(result.name), builder.getUnitAttr());
+    result.addAttribute(getUnorderedAttrName(result.name),
+                        builder.getUnitAttr());
   result.addAttributes(attributes);
 }
 
-static mlir::ParseResult parseDoLoopOp(mlir::OpAsmParser &parser,
-                                       mlir::OperationState &result) {
+mlir::ParseResult DoLoopOp::parse(mlir::OpAsmParser &parser,
+                                  mlir::OperationState &result) {
   auto &builder = parser.getBuilder();
   mlir::OpAsmParser::OperandType inductionVariable, lb, ub, step;
   // Parse the induction variable followed by '='.
@@ -1950,7 +1963,7 @@ static mlir::ParseResult parseDoLoopOp(mlir::OpAsmParser &parser,
 
   // Induction variable.
   if (prependCount)
-    result.addAttribute(DoLoopOp::finalValueAttrName(result.name),
+    result.addAttribute(DoLoopOp::getFinalValueAttrName(result.name),
                         builder.getUnitAttr());
   else
     argTypes.push_back(indexType);
@@ -1981,78 +1994,77 @@ fir::DoLoopOp fir::getForInductionVarOwner(mlir::Value val) {
 }
 
 // Lifted from loop.loop
-static mlir::LogicalResult verify(fir::DoLoopOp op) {
+mlir::LogicalResult DoLoopOp::verify() {
   // Check that the body defines as single block argument for the induction
   // variable.
-  auto *body = op.getBody();
+  auto *body = getBody();
   if (!body->getArgument(0).getType().isIndex())
-    return op.emitOpError(
+    return emitOpError(
         "expected body first argument to be an index argument for "
         "the induction variable");
 
-  auto opNumResults = op.getNumResults();
+  auto opNumResults = getNumResults();
   if (opNumResults == 0)
     return success();
 
-  if (op.finalValue()) {
-    if (op.unordered())
-      return op.emitOpError("unordered loop has no final value");
+  if (getFinalValue()) {
+    if (getUnordered())
+      return emitOpError("unordered loop has no final value");
     opNumResults--;
   }
-  if (op.getNumIterOperands() != opNumResults)
-    return op.emitOpError(
+  if (getNumIterOperands() != opNumResults)
+    return emitOpError(
         "mismatch in number of loop-carried values and defined values");
-  if (op.getNumRegionIterArgs() != opNumResults)
-    return op.emitOpError(
+  if (getNumRegionIterArgs() != opNumResults)
+    return emitOpError(
         "mismatch in number of basic block args and defined values");
-  auto iterOperands = op.getIterOperands();
-  auto iterArgs = op.getRegionIterArgs();
-  auto opResults =
-      op.finalValue() ? op.getResults().drop_front() : op.getResults();
+  auto iterOperands = getIterOperands();
+  auto iterArgs = getRegionIterArgs();
+  auto opResults = getFinalValue() ? getResults().drop_front() : getResults();
   unsigned i = 0;
   for (auto e : llvm::zip(iterOperands, iterArgs, opResults)) {
     if (std::get<0>(e).getType() != std::get<2>(e).getType())
-      return op.emitOpError() << "types mismatch between " << i
-                              << "th iter operand and defined value";
+      return emitOpError() << "types mismatch between " << i
+                           << "th iter operand and defined value";
     if (std::get<1>(e).getType() != std::get<2>(e).getType())
-      return op.emitOpError() << "types mismatch between " << i
-                              << "th iter region arg and defined value";
+      return emitOpError() << "types mismatch between " << i
+                           << "th iter region arg and defined value";
 
     i++;
   }
   return success();
 }
 
-static void print(mlir::OpAsmPrinter &p, fir::DoLoopOp op) {
+void DoLoopOp::print(mlir::OpAsmPrinter &p) {
   bool printBlockTerminators = false;
-  p << ' ' << op.getInductionVar() << " = " << op.lowerBound() << " to "
-    << op.upperBound() << " step " << op.step();
-  if (op.unordered())
+  p << ' ' << getInductionVar() << " = " << getLowerBound() << " to "
+    << getUpperBound() << " step " << getStep();
+  if (getUnordered())
     p << " unordered";
-  if (op.hasIterOperands()) {
+  if (hasIterOperands()) {
     p << " iter_args(";
-    auto regionArgs = op.getRegionIterArgs();
-    auto operands = op.getIterOperands();
+    auto regionArgs = getRegionIterArgs();
+    auto operands = getIterOperands();
     llvm::interleaveComma(llvm::zip(regionArgs, operands), p, [&](auto it) {
       p << std::get<0>(it) << " = " << std::get<1>(it);
     });
-    p << ") -> (" << op.getResultTypes() << ')';
+    p << ") -> (" << getResultTypes() << ')';
     printBlockTerminators = true;
-  } else if (op.finalValue()) {
-    p << " -> " << op.getResultTypes();
+  } else if (getFinalValue()) {
+    p << " -> " << getResultTypes();
     printBlockTerminators = true;
   }
-  p.printOptionalAttrDictWithKeyword(op->getAttrs(),
+  p.printOptionalAttrDictWithKeyword((*this)->getAttrs(),
                                      {"unordered", "finalValue"});
   p << ' ';
-  p.printRegion(op.region(), /*printEntryBlockArgs=*/false,
+  p.printRegion(getRegion(), /*printEntryBlockArgs=*/false,
                 printBlockTerminators);
 }
 
-mlir::Region &fir::DoLoopOp::getLoopBody() { return region(); }
+mlir::Region &fir::DoLoopOp::getLoopBody() { return getRegion(); }
 
 bool fir::DoLoopOp::isDefinedOutsideOfLoop(mlir::Value value) {
-  return !region().isAncestor(value.getParentRegion());
+  return !getRegion().isAncestor(value.getParentRegion());
 }
 
 mlir::LogicalResult
@@ -2065,9 +2077,9 @@ fir::DoLoopOp::moveOutOfLoop(llvm::ArrayRef<mlir::Operation *> ops) {
 /// Translate a value passed as an iter_arg to the corresponding block
 /// argument in the body of the loop.
 mlir::BlockArgument fir::DoLoopOp::iterArgToBlockArg(mlir::Value iterArg) {
-  for (auto i : llvm::enumerate(initArgs()))
+  for (auto i : llvm::enumerate(getInitArgs()))
     if (iterArg == i.value())
-      return region().front().getArgument(i.index() + 1);
+      return getRegion().front().getArgument(i.index() + 1);
   return {};
 }
 
@@ -2075,8 +2087,8 @@ mlir::BlockArgument fir::DoLoopOp::iterArgToBlockArg(mlir::Value iterArg) {
 /// to the `fir.result` Op.
 void fir::DoLoopOp::resultToSourceOps(
     llvm::SmallVectorImpl<mlir::Value> &results, unsigned resultNum) {
-  auto oper = finalValue() ? resultNum + 1 : resultNum;
-  auto *term = region().front().getTerminator();
+  auto oper = getFinalValue() ? resultNum + 1 : resultNum;
+  auto *term = getRegion().front().getTerminator();
   if (oper < term->getNumOperands())
     results.push_back(term->getOperand(oper));
 }
@@ -2084,8 +2096,8 @@ void fir::DoLoopOp::resultToSourceOps(
 /// Translate the block argument (by index number) to the corresponding value
 /// passed as an iter_arg to the parent DoLoopOp.
 mlir::Value fir::DoLoopOp::blockArgToSourceOp(unsigned blockArgNum) {
-  if (blockArgNum > 0 && blockArgNum <= initArgs().size())
-    return initArgs()[blockArgNum - 1];
+  if (blockArgNum > 0 && blockArgNum <= getInitArgs().size())
+    return getInitArgs()[blockArgNum - 1];
   return {};
 }
 
@@ -2141,7 +2153,7 @@ static unsigned getBoxRank(mlir::Type boxTy) {
 }
 
 mlir::LogicalResult ReboxOp::verify() {
-  auto inputBoxTy = box().getType();
+  auto inputBoxTy = getBox().getType();
   if (fir::isa_unknown_size_box(inputBoxTy))
     return emitOpError("box operand must not have unknown rank or type");
   auto outBoxTy = getType();
@@ -2152,11 +2164,11 @@ mlir::LogicalResult ReboxOp::verify() {
   auto outRank = getBoxRank(outBoxTy);
   auto outEleTy = getBoxScalarEleTy(outBoxTy);
 
-  if (auto sliceVal = slice()) {
+  if (auto sliceVal = getSlice()) {
     // Slicing case
     if (sliceVal.getType().cast<fir::SliceType>().getRank() != inputRank)
       return emitOpError("slice operand rank must match box operand rank");
-    if (auto shapeVal = shape()) {
+    if (auto shapeVal = getShape()) {
       if (auto shiftTy = shapeVal.getType().dyn_cast<fir::ShiftType>()) {
         if (shiftTy.getRank() != inputRank)
           return emitOpError("shape operand and input box ranks must match "
@@ -2175,7 +2187,7 @@ mlir::LogicalResult ReboxOp::verify() {
   } else {
     // Reshaping case
     unsigned shapeRank = inputRank;
-    if (auto shapeVal = shape()) {
+    if (auto shapeVal = getShape()) {
       auto ty = shapeVal.getType();
       if (auto shapeTy = ty.dyn_cast<fir::ShapeType>()) {
         shapeRank = shapeTy.getRank();
@@ -2224,14 +2236,14 @@ mlir::LogicalResult ResultOp::verify() {
 //===----------------------------------------------------------------------===//
 
 mlir::LogicalResult SaveResultOp::verify() {
-  auto resultType = value().getType();
-  if (resultType != fir::dyn_cast_ptrEleTy(memref().getType()))
+  auto resultType = getValue().getType();
+  if (resultType != fir::dyn_cast_ptrEleTy(getMemref().getType()))
     return emitOpError("value type must match memory reference type");
   if (fir::isa_unknown_size_box(resultType))
     return emitOpError("cannot save !fir.box of unknown rank or type");
 
   if (resultType.isa<fir::BoxType>()) {
-    if (shape() || !typeparams().empty())
+    if (getShape() || !getTypeparams().empty())
       return emitOpError(
           "must not have shape or length operands if the value is a fir.box");
     return mlir::success();
@@ -2239,7 +2251,7 @@ mlir::LogicalResult SaveResultOp::verify() {
 
   // fir.record or fir.array case.
   unsigned shapeTyRank = 0;
-  if (auto shapeVal = shape()) {
+  if (auto shapeVal = getShape()) {
     auto shapeTy = shapeVal.getType();
     if (auto s = shapeTy.dyn_cast<fir::ShapeType>())
       shapeTyRank = s.getRank();
@@ -2260,15 +2272,15 @@ mlir::LogicalResult SaveResultOp::verify() {
   }
 
   if (auto recTy = eleTy.dyn_cast<fir::RecordType>()) {
-    if (recTy.getNumLenParams() != typeparams().size())
+    if (recTy.getNumLenParams() != getTypeparams().size())
       emitOpError("length parameters number must match with the value type "
                   "length parameters");
   } else if (auto charTy = eleTy.dyn_cast<fir::CharacterType>()) {
-    if (typeparams().size() > 1)
+    if (getTypeparams().size() > 1)
       emitOpError("no more than one length parameter must be provided for "
                   "character value");
   } else {
-    if (!typeparams().empty())
+    if (!getTypeparams().empty())
       emitOpError("length parameters must not be provided for this value type");
   }
 
@@ -2276,15 +2288,124 @@ mlir::LogicalResult SaveResultOp::verify() {
 }
 
 //===----------------------------------------------------------------------===//
-// SelectOp
+// IntegralSwitchTerminator
 //===----------------------------------------------------------------------===//
-
 static constexpr llvm::StringRef getCompareOffsetAttr() {
   return "compare_operand_offsets";
 }
 
 static constexpr llvm::StringRef getTargetOffsetAttr() {
   return "target_operand_offsets";
+}
+
+template <typename OpT>
+static LogicalResult verifyIntegralSwitchTerminator(OpT op) {
+  if (!(op.getSelector().getType().template isa<mlir::IntegerType>() ||
+        op.getSelector().getType().template isa<mlir::IndexType>() ||
+        op.getSelector().getType().template isa<fir::IntegerType>()))
+    return op.emitOpError("must be an integer");
+  auto cases =
+      op->template getAttrOfType<mlir::ArrayAttr>(op.getCasesAttr()).getValue();
+  auto count = op.getNumDest();
+  if (count == 0)
+    return op.emitOpError("must have at least one successor");
+  if (op.getNumConditions() != count)
+    return op.emitOpError("number of cases and targets don't match");
+  if (op.targetOffsetSize() != count)
+    return op.emitOpError("incorrect number of successor operand groups");
+  for (decltype(count) i = 0; i != count; ++i) {
+    if (!(cases[i].template isa<mlir::IntegerAttr, mlir::UnitAttr>()))
+      return op.emitOpError("invalid case alternative");
+  }
+  return mlir::success();
+}
+
+static mlir::ParseResult parseIntegralSwitchTerminator(
+    mlir::OpAsmParser &parser, mlir::OperationState &result,
+    llvm::StringRef casesAttr, llvm::StringRef operandSegmentAttr) {
+  mlir::OpAsmParser::OperandType selector;
+  mlir::Type type;
+  if (parseSelector(parser, result, selector, type))
+    return mlir::failure();
+
+  llvm::SmallVector<mlir::Attribute> ivalues;
+  llvm::SmallVector<mlir::Block *> dests;
+  llvm::SmallVector<llvm::SmallVector<mlir::Value>> destArgs;
+  while (true) {
+    mlir::Attribute ivalue; // Integer or Unit
+    mlir::Block *dest;
+    llvm::SmallVector<mlir::Value> destArg;
+    mlir::NamedAttrList temp;
+    if (parser.parseAttribute(ivalue, "i", temp) || parser.parseComma() ||
+        parser.parseSuccessorAndUseList(dest, destArg))
+      return mlir::failure();
+    ivalues.push_back(ivalue);
+    dests.push_back(dest);
+    destArgs.push_back(destArg);
+    if (!parser.parseOptionalRSquare())
+      break;
+    if (parser.parseComma())
+      return mlir::failure();
+  }
+  auto &bld = parser.getBuilder();
+  result.addAttribute(casesAttr, bld.getArrayAttr(ivalues));
+  llvm::SmallVector<int32_t> argOffs;
+  int32_t sumArgs = 0;
+  const auto count = dests.size();
+  for (std::remove_const_t<decltype(count)> i = 0; i != count; ++i) {
+    result.addSuccessors(dests[i]);
+    result.addOperands(destArgs[i]);
+    auto argSize = destArgs[i].size();
+    argOffs.push_back(argSize);
+    sumArgs += argSize;
+  }
+  result.addAttribute(operandSegmentAttr,
+                      bld.getI32VectorAttr({1, 0, sumArgs}));
+  result.addAttribute(getTargetOffsetAttr(), bld.getI32VectorAttr(argOffs));
+  return mlir::success();
+}
+
+template <typename OpT>
+static void printIntegralSwitchTerminator(OpT op, mlir::OpAsmPrinter &p) {
+  p << ' ';
+  p.printOperand(op.getSelector());
+  p << " : " << op.getSelector().getType() << " [";
+  auto cases =
+      op->template getAttrOfType<mlir::ArrayAttr>(op.getCasesAttr()).getValue();
+  auto count = op.getNumConditions();
+  for (decltype(count) i = 0; i != count; ++i) {
+    if (i)
+      p << ", ";
+    auto &attr = cases[i];
+    if (auto intAttr = attr.template dyn_cast_or_null<mlir::IntegerAttr>())
+      p << intAttr.getValue();
+    else
+      p.printAttribute(attr);
+    p << ", ";
+    op.printSuccessorAtIndex(p, i);
+  }
+  p << ']';
+  p.printOptionalAttrDict(
+      op->getAttrs(), {op.getCasesAttr(), getCompareOffsetAttr(),
+                       getTargetOffsetAttr(), op.getOperandSegmentSizeAttr()});
+}
+
+//===----------------------------------------------------------------------===//
+// SelectOp
+//===----------------------------------------------------------------------===//
+
+mlir::LogicalResult fir::SelectOp::verify() {
+  return verifyIntegralSwitchTerminator(*this);
+}
+
+mlir::ParseResult fir::SelectOp::parse(mlir::OpAsmParser &parser,
+                                       mlir::OperationState &result) {
+  return parseIntegralSwitchTerminator(parser, result, getCasesAttr(),
+                                       getOperandSegmentSizeAttr());
+}
+
+void fir::SelectOp::print(mlir::OpAsmPrinter &p) {
+  printIntegralSwitchTerminator(*this, p);
 }
 
 template <typename A, typename... AdditionalArgs>
@@ -2324,7 +2445,7 @@ fir::SelectOp::getCompareOperands(llvm::ArrayRef<mlir::Value>, unsigned) {
 
 llvm::Optional<mlir::MutableOperandRange>
 fir::SelectOp::getMutableSuccessorOperands(unsigned oper) {
-  return ::getMutableSuccessorOperands(oper, targetArgsMutable(),
+  return ::getMutableSuccessorOperands(oper, getTargetArgsMutable(),
                                        getTargetOffsetAttr());
 }
 
@@ -2360,7 +2481,7 @@ llvm::Optional<mlir::OperandRange>
 fir::SelectCaseOp::getCompareOperands(unsigned cond) {
   auto a = (*this)->getAttrOfType<mlir::DenseIntElementsAttr>(
       getCompareOffsetAttr());
-  return {getSubOperands(cond, compareArgs(), a)};
+  return {getSubOperands(cond, getCompareArgs(), a)};
 }
 
 llvm::Optional<llvm::ArrayRef<mlir::Value>>
@@ -2385,7 +2506,7 @@ fir::SelectCaseOp::getCompareOperands(mlir::ValueRange operands,
 
 llvm::Optional<mlir::MutableOperandRange>
 fir::SelectCaseOp::getMutableSuccessorOperands(unsigned oper) {
-  return ::getMutableSuccessorOperands(oper, targetArgsMutable(),
+  return ::getMutableSuccessorOperands(oper, getTargetArgsMutable(),
                                        getTargetOffsetAttr());
 }
 
@@ -2631,6 +2752,20 @@ mlir::LogicalResult SelectCaseOp::verify() {
 // SelectRankOp
 //===----------------------------------------------------------------------===//
 
+LogicalResult fir::SelectRankOp::verify() {
+  return verifyIntegralSwitchTerminator(*this);
+}
+
+mlir::ParseResult fir::SelectRankOp::parse(mlir::OpAsmParser &parser,
+                                           mlir::OperationState &result) {
+  return parseIntegralSwitchTerminator(parser, result, getCasesAttr(),
+                                       getOperandSegmentSizeAttr());
+}
+
+void fir::SelectRankOp::print(mlir::OpAsmPrinter &p) {
+  printIntegralSwitchTerminator(*this, p);
+}
+
 llvm::Optional<mlir::OperandRange>
 fir::SelectRankOp::getCompareOperands(unsigned) {
   return {};
@@ -2643,7 +2778,7 @@ fir::SelectRankOp::getCompareOperands(llvm::ArrayRef<mlir::Value>, unsigned) {
 
 llvm::Optional<mlir::MutableOperandRange>
 fir::SelectRankOp::getMutableSuccessorOperands(unsigned oper) {
-  return ::getMutableSuccessorOperands(oper, targetArgsMutable(),
+  return ::getMutableSuccessorOperands(oper, getTargetArgsMutable(),
                                        getTargetOffsetAttr());
 }
 
@@ -2688,7 +2823,7 @@ fir::SelectTypeOp::getCompareOperands(llvm::ArrayRef<mlir::Value>, unsigned) {
 
 llvm::Optional<mlir::MutableOperandRange>
 fir::SelectTypeOp::getMutableSuccessorOperands(unsigned oper) {
-  return ::getMutableSuccessorOperands(oper, targetArgsMutable(),
+  return ::getMutableSuccessorOperands(oper, getTargetArgsMutable(),
                                        getTargetOffsetAttr());
 }
 
@@ -2828,7 +2963,7 @@ void fir::SelectTypeOp::build(mlir::OpBuilder &builder,
 //===----------------------------------------------------------------------===//
 
 mlir::LogicalResult ShapeOp::verify() {
-  auto size = extents().size();
+  auto size = getExtents().size();
   auto shapeTy = getType().dyn_cast<fir::ShapeType>();
   assert(shapeTy && "must be a shape type");
   if (shapeTy.getRank() != size)
@@ -2841,7 +2976,7 @@ mlir::LogicalResult ShapeOp::verify() {
 //===----------------------------------------------------------------------===//
 
 mlir::LogicalResult ShapeShiftOp::verify() {
-  auto size = pairs().size();
+  auto size = getPairs().size();
   if (size < 2 || size > 16 * 2)
     return emitOpError("incorrect number of args");
   if (size % 2 != 0)
@@ -2858,7 +2993,7 @@ mlir::LogicalResult ShapeShiftOp::verify() {
 //===----------------------------------------------------------------------===//
 
 mlir::LogicalResult ShiftOp::verify() {
-  auto size = origins().size();
+  auto size = getOrigins().size();
   auto shiftTy = getType().dyn_cast<fir::ShiftType>();
   assert(shiftTy && "must be a shift type");
   if (shiftTy.getRank() != size)
@@ -2894,7 +3029,7 @@ unsigned fir::SliceOp::getOutputRank(mlir::ValueRange triples) {
 }
 
 mlir::LogicalResult SliceOp::verify() {
-  auto size = triples().size();
+  auto size = getTriples().size();
   if (size < 3 || size > 16 * 3)
     return emitOpError("incorrect number of args for triple");
   if (size % 3 != 0)
@@ -2932,17 +3067,17 @@ mlir::ParseResult StoreOp::parse(mlir::OpAsmParser &parser,
 
 void StoreOp::print(mlir::OpAsmPrinter &p) {
   p << ' ';
-  p.printOperand(value());
+  p.printOperand(getValue());
   p << " to ";
-  p.printOperand(memref());
+  p.printOperand(getMemref());
   p.printOptionalAttrDict(getOperation()->getAttrs(), {});
-  p << " : " << memref().getType();
+  p << " : " << getMemref().getType();
 }
 
 mlir::LogicalResult StoreOp::verify() {
-  if (value().getType() != fir::dyn_cast_ptrEleTy(memref().getType()))
+  if (getValue().getType() != fir::dyn_cast_ptrEleTy(getMemref().getType()))
     return emitOpError("store value type must match memory reference type");
-  if (fir::isa_unknown_size_box(value().getType()))
+  if (fir::isa_unknown_size_box(getValue().getType()))
     return emitOpError("cannot store !fir.box of unknown rank or type");
   return mlir::success();
 }
@@ -3076,7 +3211,7 @@ mlir::LogicalResult StringLitOp::verify() {
 //===----------------------------------------------------------------------===//
 
 mlir::LogicalResult UnboxProcOp::verify() {
-  if (auto eleTy = fir::dyn_cast_ptrEleTy(refTuple().getType()))
+  if (auto eleTy = fir::dyn_cast_ptrEleTy(getRefTuple().getType()))
     if (eleTy.isa<mlir::TupleType>())
       return mlir::success();
   return emitOpError("second output argument has bad type");
@@ -3110,8 +3245,7 @@ void fir::IfOp::build(mlir::OpBuilder &builder, OperationState &result,
   }
 }
 
-static mlir::ParseResult parseIfOp(OpAsmParser &parser,
-                                   OperationState &result) {
+mlir::ParseResult IfOp::parse(OpAsmParser &parser, OperationState &result) {
   result.regions.reserve(2);
   mlir::Region *thenRegion = result.addRegion();
   mlir::Region *elseRegion = result.addRegion();
@@ -3142,40 +3276,40 @@ static mlir::ParseResult parseIfOp(OpAsmParser &parser,
   return mlir::success();
 }
 
-static LogicalResult verify(fir::IfOp op) {
-  if (op.getNumResults() != 0 && op.elseRegion().empty())
-    return op.emitOpError("must have an else block if defining values");
+LogicalResult IfOp::verify() {
+  if (getNumResults() != 0 && getElseRegion().empty())
+    return emitOpError("must have an else block if defining values");
 
   return mlir::success();
 }
 
-static void print(mlir::OpAsmPrinter &p, fir::IfOp op) {
+void IfOp::print(mlir::OpAsmPrinter &p) {
   bool printBlockTerminators = false;
-  p << ' ' << op.condition();
-  if (!op.results().empty()) {
-    p << " -> (" << op.getResultTypes() << ')';
+  p << ' ' << getCondition();
+  if (!getResults().empty()) {
+    p << " -> (" << getResultTypes() << ')';
     printBlockTerminators = true;
   }
   p << ' ';
-  p.printRegion(op.thenRegion(), /*printEntryBlockArgs=*/false,
+  p.printRegion(getThenRegion(), /*printEntryBlockArgs=*/false,
                 printBlockTerminators);
 
   // Print the 'else' regions if it exists and has a block.
-  auto &otherReg = op.elseRegion();
+  auto &otherReg = getElseRegion();
   if (!otherReg.empty()) {
     p << " else ";
     p.printRegion(otherReg, /*printEntryBlockArgs=*/false,
                   printBlockTerminators);
   }
-  p.printOptionalAttrDict(op->getAttrs());
+  p.printOptionalAttrDict((*this)->getAttrs());
 }
 
 void fir::IfOp::resultToSourceOps(llvm::SmallVectorImpl<mlir::Value> &results,
                                   unsigned resultNum) {
-  auto *term = thenRegion().front().getTerminator();
+  auto *term = getThenRegion().front().getTerminator();
   if (resultNum < term->getNumOperands())
     results.push_back(term->getOperand(resultNum));
-  term = elseRegion().front().getTerminator();
+  term = getElseRegion().front().getTerminator();
   if (resultNum < term->getNumOperands())
     results.push_back(term->getOperand(resultNum));
 }
@@ -3245,6 +3379,15 @@ fir::GlobalOp fir::createGlobalOp(mlir::Location loc, mlir::ModuleOp module,
   return result;
 }
 
+bool fir::hasHostAssociationArgument(mlir::FuncOp func) {
+  if (auto allArgAttrs = func.getAllArgAttrs())
+    for (auto attr : allArgAttrs)
+      if (auto dict = attr.template dyn_cast_or_null<mlir::DictionaryAttr>())
+        if (dict.get(fir::getHostAssocAttrName()))
+          return true;
+  return false;
+}
+
 bool fir::valueHasFirAttribute(mlir::Value value,
                                llvm::StringRef attributeName) {
   // If this is a fir.box that was loaded, the fir attributes will be on the
@@ -3252,7 +3395,7 @@ bool fir::valueHasFirAttribute(mlir::Value value,
   if (value.getType().isa<fir::BoxType>())
     if (auto definingOp = value.getDefiningOp())
       if (auto loadOp = mlir::dyn_cast<fir::LoadOp>(definingOp))
-        value = loadOp.memref();
+        value = loadOp.getMemref();
   // If this is a function argument, look in the argument attributes.
   if (auto blockArg = value.dyn_cast<mlir::BlockArgument>()) {
     if (blockArg.getOwner() && blockArg.getOwner()->isEntryBlock())
@@ -3277,12 +3420,19 @@ bool fir::valueHasFirAttribute(mlir::Value value,
         return true;
       if (auto module = definingOp->getParentOfType<mlir::ModuleOp>())
         if (auto globalOp =
-                module.lookupSymbol<fir::GlobalOp>(addressOfOp.symbol()))
+                module.lookupSymbol<fir::GlobalOp>(addressOfOp.getSymbol()))
           return globalOp->hasAttr(attributeName);
     }
   }
   // TODO: Construct associated entities attributes. Decide where the fir
   // attributes must be placed/looked for in this case.
+  return false;
+}
+
+bool fir::anyFuncArgsHaveAttr(mlir::FuncOp func, llvm::StringRef attr) {
+  for (unsigned i = 0, end = func.getNumArguments(); i < end; ++i)
+    if (func.getArgAttr(i, attr))
+      return true;
   return false;
 }
 
