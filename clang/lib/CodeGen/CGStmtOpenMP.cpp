@@ -6259,6 +6259,15 @@ static void emitCommonOMPTargetDirective(CodeGenFunction &CGF,
     }
     return nullptr;
   };
+
+  // Support target thread_limit
+  if (const auto *TL = S.getSingleClause<OMPThreadLimitClause>()) {
+    assert(!S.getSingleClause<OMPNumTeamsClause>() &&
+            "target thread_limit must not have num_teams specified");
+    const Expr *ThreadLimit = TL->getThreadLimit();
+    CGF.CGM.getOpenMPRuntime().emitNumTeamsClause(CGF, nullptr, ThreadLimit,
+                                                  S.getBeginLoc());
+  }
   CGM.getOpenMPRuntime().emitTargetCall(CGF, S, Fn, FnID, IfCond, Device,
                                         SizeEmitter);
 }
