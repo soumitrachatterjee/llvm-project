@@ -14,10 +14,10 @@ void call_alloc(void) {
 }
 
 // CHECK-LABEL: define {{.*}}void @call_alloc
-// CHECK: call i8* {{.*}}@alloc_void{{.*}} !heapallocsite [[DBG1:!.*]]
-// CHECK: call %struct.Foo* {{.*}}@alloc_foo{{.*}} !heapallocsite [[DBG2:!.*]]
-// CHECK: call i8* {{.*}}@alloc_void{{.*}} !heapallocsite [[DBG2]]
-// CHECK: call i8* {{.*}}@alloc_void{{.*}} !heapallocsite [[DBG3:!.*]]
+// CHECK: call ptr {{.*}}@alloc_void{{.*}} !heapallocsite [[DBG1:!.*]]
+// CHECK: call ptr {{.*}}@alloc_foo{{.*}} !heapallocsite [[DBG2:!.*]]
+// CHECK: call ptr {{.*}}@alloc_void{{.*}} !heapallocsite [[DBG2]]
+// CHECK: call ptr {{.*}}@alloc_void{{.*}} !heapallocsite [[DBG3:!.*]]
 
 // CHECK: [[DBG2]] = !DICompositeType(tag: DW_TAG_structure_type,
 // CHECK-SAME:                                 name: "Foo"

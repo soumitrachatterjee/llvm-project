@@ -14,6 +14,7 @@
 #include "clang/StaticAnalyzer/Core/PathSensitive/CheckerContext.h"
 #include "clang/Basic/Builtins.h"
 #include "clang/Lex/Lexer.h"
+#include "llvm/ADT/StringExtras.h"
 
 using namespace clang;
 using namespace ento;
@@ -127,10 +128,10 @@ static bool evalComparison(SVal LHSVal, BinaryOperatorKind ComparisonOp,
   if (LHSVal.isUnknownOrUndef())
     return false;
   ProgramStateManager &Mgr = State->getStateManager();
-  if (!LHSVal.getAs<NonLoc>()) {
+  if (!isa<NonLoc>(LHSVal)) {
     LHSVal = Mgr.getStoreManager().getBinding(State->getStore(),
                                               LHSVal.castAs<Loc>());
-    if (LHSVal.isUnknownOrUndef() || !LHSVal.getAs<NonLoc>())
+    if (LHSVal.isUnknownOrUndef() || !isa<NonLoc>(LHSVal))
       return false;
   }
 

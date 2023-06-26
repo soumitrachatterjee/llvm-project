@@ -28,14 +28,16 @@ add_llvm_target(CSKYCodeGen
   CSKYRegisterInfo.cpp
   CSKYSubtarget.cpp
   CSKYTargetMachine.cpp
+  CSKYTargetObjectFile.cpp
 
   LINK_COMPONENTS
   Analysis
   AsmPrinter
-  Core
-  CodeGen
   CSKYDesc
   CSKYInfo
+  CodeGen
+  CodeGenTypes
+  Core
   MC
   SelectionDAG
   Support

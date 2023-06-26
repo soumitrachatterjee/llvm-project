@@ -120,6 +120,11 @@ bool MprotectReadOnly(uptr addr, uptr size);
 
 void MprotectMallocZones(void *addr, int prot);
 
+#if SANITIZER_WINDOWS
+// Zero previously mmap'd memory. Currently used only on Windows.
+bool ZeroMmapFixedRegion(uptr fixed_addr, uptr size) WARN_UNUSED_RESULT;
+#endif
+
 #if SANITIZER_LINUX
 // Unmap memory. Currently only used on Linux.
 void UnmapFromTo(uptr from, uptr to);
@@ -170,8 +175,8 @@ void SetShadowRegionHugePageMode(uptr addr, uptr length);
 bool DontDumpShadowMemory(uptr addr, uptr length);
 // Check if the built VMA size matches the runtime one.
 void CheckVMASize();
-void RunMallocHooks(const void *ptr, uptr size);
-void RunFreeHooks(const void *ptr);
+void RunMallocHooks(void *ptr, uptr size);
+void RunFreeHooks(void *ptr);
 
 class ReservedAddressRange {
  public:
@@ -206,6 +211,7 @@ class LowLevelAllocator {
  public:
   // Requires an external lock.
   void *Allocate(uptr size);
+
  private:
   char *allocated_end_;
   char *allocated_current_;
@@ -294,6 +300,7 @@ void InitTlsSize();
 uptr GetTlsSize();
 
 // Other
+void WaitForDebugger(unsigned seconds, const char *label);
 void SleepForSeconds(unsigned seconds);
 void SleepForMillis(unsigned millis);
 u64 NanoTime();
@@ -309,6 +316,20 @@ CheckFailed(const char *file, int line, const char *cond, u64 v1, u64 v2);
 void NORETURN ReportMmapFailureAndDie(uptr size, const char *mem_type,
                                       const char *mmap_type, error_t err,
                                       bool raw_report = false);
+void NORETURN ReportMunmapFailureAndDie(void *ptr, uptr size, error_t err,
+                                        bool raw_report = false);
+
+// Returns true if the platform-specific error reported is an OOM error.
+bool ErrorIsOOM(error_t err);
+
+// This reports an error in the form:
+//
+//   `ERROR: {{SanitizerToolName}}: out of memory: {{err_msg}}`
+//
+// Downstream tools that read sanitizer output will know that errors starting
+// in this format are specifically OOM errors.
+#define ERROR_OOM(err_msg, ...) \
+  Report("ERROR: %s: out of memory: " err_msg, SanitizerToolName, __VA_ARGS__)
 
 // Specific tools may override behavior of "Die" function to do tool-specific
 // job.
@@ -498,8 +519,8 @@ class InternalMmapVectorNoCtor {
     return data_[i];
   }
   void push_back(const T &element) {
-    CHECK_LE(size_, capacity());
-    if (size_ == capacity()) {
+    if (UNLIKELY(size_ >= capacity())) {
+      CHECK_EQ(size_, capacity());
       uptr new_capacity = RoundUpToPowerOfTwo(size_ + 1);
       Realloc(new_capacity);
     }
@@ -559,7 +580,7 @@ class InternalMmapVectorNoCtor {
   }
 
  private:
-  void Realloc(uptr new_capacity) {
+  NOINLINE void Realloc(uptr new_capacity) {
     CHECK_GT(new_capacity, 0);
     CHECK_LE(size_, new_capacity);
     uptr new_capacity_bytes =
@@ -691,6 +712,7 @@ enum ModuleArch {
   kModuleArchARMV7S,
   kModuleArchARMV7K,
   kModuleArchARM64,
+  kModuleArchLoongArch64,
   kModuleArchRISCV64,
   kModuleArchHexagon
 };
@@ -763,6 +785,8 @@ inline const char *ModuleArchToString(ModuleArch arch) {
       return "armv7k";
     case kModuleArchARM64:
       return "arm64";
+    case kModuleArchLoongArch64:
+      return "loongarch64";
     case kModuleArchRISCV64:
       return "riscv64";
     case kModuleArchHexagon:
@@ -772,7 +796,11 @@ inline const char *ModuleArchToString(ModuleArch arch) {
   return "";
 }
 
+#if SANITIZER_APPLE
+const uptr kModuleUUIDSize = 16;
+#else
 const uptr kModuleUUIDSize = 32;
+#endif
 const uptr kMaxSegName = 16;
 
 // Represents a binary loaded into virtual memory (e.g. this can be an
@@ -782,7 +810,7 @@ class LoadedModule {
   LoadedModule()
       : full_name_(nullptr),
         base_address_(0),
-        max_executable_address_(0),
+        max_address_(0),
         arch_(kModuleArchUnknown),
         uuid_size_(0),
         instrumented_(false) {
@@ -800,7 +828,7 @@ class LoadedModule {
 
   const char *full_name() const { return full_name_; }
   uptr base_address() const { return base_address_; }
-  uptr max_executable_address() const { return max_executable_address_; }
+  uptr max_address() const { return max_address_; }
   ModuleArch arch() const { return arch_; }
   const u8 *uuid() const { return uuid_; }
   uptr uuid_size() const { return uuid_size_; }
@@ -830,7 +858,7 @@ class LoadedModule {
  private:
   char *full_name_;  // Owned.
   uptr base_address_;
-  uptr max_executable_address_;
+  uptr max_address_;
   ModuleArch arch_;
   uptr uuid_size_;
   u8 uuid_[kModuleUUIDSize];
@@ -890,13 +918,13 @@ void WriteToSyslog(const char *buffer);
 #define SANITIZER_WIN_TRACE 0
 #endif
 
-#if SANITIZER_MAC || SANITIZER_WIN_TRACE
+#if SANITIZER_APPLE || SANITIZER_WIN_TRACE
 void LogFullErrorReport(const char *buffer);
 #else
 inline void LogFullErrorReport(const char *buffer) {}
 #endif
 
-#if SANITIZER_LINUX || SANITIZER_MAC
+#if SANITIZER_LINUX || SANITIZER_APPLE
 void WriteOneLineToSyslog(const char *s);
 void LogMessageOnPrintf(const char *str);
 #else
@@ -1003,7 +1031,6 @@ struct SignalContext {
 };
 
 void InitializePlatformEarly();
-void MaybeReexec();
 
 template <typename Fn>
 class RunOnDestruction {
@@ -1055,20 +1082,6 @@ inline u32 GetNumberOfCPUsCached() {
     NumberOfCPUsCached = GetNumberOfCPUs();
   return NumberOfCPUsCached;
 }
-
-template <typename T>
-class ArrayRef {
- public:
-  ArrayRef() {}
-  ArrayRef(T *begin, T *end) : begin_(begin), end_(end) {}
-
-  T *begin() { return begin_; }
-  T *end() { return end_; }
-
- private:
-  T *begin_ = nullptr;
-  T *end_ = nullptr;
-};
 
 }  // namespace __sanitizer
 

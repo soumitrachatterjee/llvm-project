@@ -13,18 +13,18 @@
 
 #include "mlir/Dialect/Affine/IR/AffineOps.h"
 #include "mlir/Dialect/Affine/LoopUtils.h"
-#include "mlir/Dialect/SCF/SCF.h"
+#include "mlir/Dialect/SCF/IR/SCF.h"
 #include "mlir/IR/Builders.h"
 #include "mlir/Pass/Pass.h"
 
-#include "llvm/ADT/SetVector.h"
-
 using namespace mlir;
+using namespace mlir::affine;
 
 namespace {
-class TestLoopMappingPass
+struct TestLoopMappingPass
     : public PassWrapper<TestLoopMappingPass, OperationPass<>> {
-public:
+  MLIR_DEFINE_EXPLICIT_INTERNAL_INLINE_TYPE_ID(TestLoopMappingPass)
+
   StringRef getArgument() const final {
     return "test-mapping-to-processing-elements";
   }
@@ -34,7 +34,7 @@ public:
   explicit TestLoopMappingPass() = default;
 
   void getDependentDialects(DialectRegistry &registry) const override {
-    registry.insert<AffineDialect, scf::SCFDialect>();
+    registry.insert<affine::AffineDialect, scf::SCFDialect>();
   }
 
   void runOnOperation() override {

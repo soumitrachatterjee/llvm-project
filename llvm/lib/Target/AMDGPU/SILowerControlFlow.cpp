@@ -148,6 +148,7 @@ public:
   }
 
   void getAnalysisUsage(AnalysisUsage &AU) const override {
+    AU.addUsedIfAvailable<LiveIntervals>();
     // Should preserve the same set that TwoAddressInstructions does.
     AU.addPreserved<MachineDominatorTree>();
     AU.addPreserved<SlotIndexes>();
@@ -426,6 +427,8 @@ void SILowerControlFlow::emitLoop(MachineInstr &MI) {
       BuildMI(MBB, &MI, DL, TII->get(Andn2TermOpc), Exec)
           .addReg(Exec)
           .add(MI.getOperand(0));
+  if (LV)
+    LV->replaceKillInstruction(MI.getOperand(0).getReg(), MI, *AndN2);
 
   auto BranchPt = skipToUncondBrOrEnd(MBB, MI.getIterator());
   MachineInstr *Branch =
@@ -509,8 +512,40 @@ MachineBasicBlock *SILowerControlFlow::emitEndCf(MachineInstr &MI) {
     BuildMI(MBB, InsPt, DL, TII->get(Opcode), Exec)
     .addReg(Exec)
     .add(MI.getOperand(0));
-  if (LV)
-    LV->replaceKillInstruction(MI.getOperand(0).getReg(), MI, *NewMI);
+  if (LV) {
+    LV->replaceKillInstruction(DataReg, MI, *NewMI);
+
+    if (SplitBB != &MBB) {
+      // Track the set of registers defined in the original block so we don't
+      // accidentally add the original block to AliveBlocks. AliveBlocks only
+      // includes blocks which are live through, which excludes live outs and
+      // local defs.
+      DenseSet<Register> DefInOrigBlock;
+
+      for (MachineBasicBlock *BlockPiece : {&MBB, SplitBB}) {
+        for (MachineInstr &X : *BlockPiece) {
+          for (MachineOperand &Op : X.all_defs()) {
+            if (Op.getReg().isVirtual())
+              DefInOrigBlock.insert(Op.getReg());
+          }
+        }
+      }
+
+      for (unsigned i = 0, e = MRI->getNumVirtRegs(); i != e; ++i) {
+        Register Reg = Register::index2VirtReg(i);
+        LiveVariables::VarInfo &VI = LV->getVarInfo(Reg);
+
+        if (VI.AliveBlocks.test(MBB.getNumber()))
+          VI.AliveBlocks.set(SplitBB->getNumber());
+        else {
+          for (MachineInstr *Kill : VI.Kills) {
+            if (Kill->getParent() == SplitBB && !DefInOrigBlock.contains(Reg))
+              VI.AliveBlocks.set(MBB.getNumber());
+          }
+        }
+      }
+    }
+  }
 
   LoweredEndCf.insert(NewMI);
 
@@ -573,7 +608,7 @@ void SILowerControlFlow::combineMasks(MachineInstr &MI) {
   else return;
 
   Register Reg = MI.getOperand(OpToReplace).getReg();
-  MI.RemoveOperand(OpToReplace);
+  MI.removeOperand(OpToReplace);
   MI.addOperand(Ops[UniqueOpndIdx]);
   if (MRI->use_empty(Reg))
     MRI->getUniqueVRegDef(Reg)->eraseFromParent();

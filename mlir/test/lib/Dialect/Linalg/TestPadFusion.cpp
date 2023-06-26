@@ -11,20 +11,22 @@
 //
 //===----------------------------------------------------------------------===//
 
+#include "mlir/Dialect/Affine/IR/AffineOps.h"
 #include "mlir/Dialect/Linalg/Transforms/Transforms.h"
 #include "mlir/Pass/Pass.h"
 #include "mlir/Pass/PassManager.h"
 #include "mlir/Transforms/GreedyPatternRewriteDriver.h"
 
-namespace mlir {
+using namespace mlir;
 
 namespace {
 struct TestPadFusionPass
     : public PassWrapper<TestPadFusionPass, OperationPass<>> {
+  MLIR_DEFINE_EXPLICIT_INTERNAL_INLINE_TYPE_ID(TestPadFusionPass)
 
   void getDependentDialects(DialectRegistry &registry) const override {
-    registry
-        .insert<AffineDialect, linalg::LinalgDialect, tensor::TensorDialect>();
+    registry.insert<affine::AffineDialect, linalg::LinalgDialect,
+                    tensor::TensorDialect>();
   }
 
   StringRef getArgument() const final { return "test-linalg-pad-fusion"; }
@@ -41,8 +43,8 @@ struct TestPadFusionPass
 };
 } // namespace
 
+namespace mlir {
 namespace test {
 void registerTestPadFusion() { PassRegistration<TestPadFusionPass>(); }
 } // namespace test
-
 } // namespace mlir

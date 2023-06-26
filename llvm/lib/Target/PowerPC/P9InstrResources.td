@@ -156,6 +156,7 @@ def : InstRW<[P9_ALU_2C, IP_EXEC_1C, DISP_1C],
     MCRF,
     MCRXRX,
     XSNABSDP,
+    XSNABSDPs,
     XSXEXPDP,
     XSABSDP,
     XSNEGDP,
@@ -194,6 +195,7 @@ def : InstRW<[P9_ALU_2C, IP_EXEC_1C, DISP_3SLOTS_1C],
     XSIEXPDP,
     FMR,
     CREQV,
+    CRNOT,
     CRXOR,
     TRECLAIM,
     TSR,
@@ -932,6 +934,7 @@ def : InstRW<[P9_DIV_12C, IP_EXECE_1C, IP_EXECO_1C, DISP_EVEN_1C],
     (instregex "M(T|F)TB(8)?$"),
     (instregex "MF(SPR|CTR|LR)(8)?$"),
     (instregex "M(T|F)MSR(D)?$"),
+    (instregex "M(T|F)(U)?DSCR$"),
     (instregex "MTSPR(8)?$")
 )>;
 
@@ -1427,5 +1430,8 @@ def : InstRW<[],
   DCCCI,
   ICCCI,
   ADDEX,
-  ADDEX8
+  ADDEX8,
+  CDTBCD, CDTBCD8,
+  CBCDTD, CBCDTD8,
+  ADDG6S, ADDG6S8
 )> { let Unsupported = 1; }

@@ -12,23 +12,32 @@
 
 #include <algorithm>
 #include <cstdint>
+#include <memory>
 #include <type_traits>
 
+#include "llvm/ADT/ArrayRef.h"
 #include "llvm/ADT/DenseMap.h"
-#include "llvm/ADT/STLExtras.h"
+#include "llvm/ADT/DenseMapInfo.h"
+#include "llvm/ADT/SetVector.h"
+#include "llvm/ADT/SmallSet.h"
 #include "llvm/ADT/SmallVector.h"
+#include "llvm/ADT/StringExtras.h"
+#include "llvm/ADT/Twine.h"
 #include "llvm/DebugInfo/DWARF/DWARFContext.h"
 #include "llvm/DebugInfo/Symbolize/SymbolizableModule.h"
 #include "llvm/DebugInfo/Symbolize/SymbolizableObjectFile.h"
-#include "llvm/IR/Function.h"
 #include "llvm/Object/Binary.h"
+#include "llvm/Object/BuildID.h"
 #include "llvm/Object/ELFObjectFile.h"
 #include "llvm/Object/ObjectFile.h"
 #include "llvm/ProfileData/InstrProf.h"
 #include "llvm/ProfileData/MemProf.h"
 #include "llvm/ProfileData/MemProfData.inc"
 #include "llvm/ProfileData/RawMemProfReader.h"
+#include "llvm/Support/Debug.h"
 #include "llvm/Support/Endian.h"
+#include "llvm/Support/Error.h"
+#include "llvm/Support/MemoryBuffer.h"
 #include "llvm/Support/Path.h"
 
 #define DEBUG_TYPE "memprof"
@@ -36,32 +45,10 @@
 namespace llvm {
 namespace memprof {
 namespace {
-
-struct Summary {
-  uint64_t Version;
-  uint64_t TotalSizeBytes;
-  uint64_t NumSegments;
-  uint64_t NumMIBInfo;
-  uint64_t NumStackOffsets;
-};
-
 template <class T = uint64_t> inline T alignedRead(const char *Ptr) {
   static_assert(std::is_pod<T>::value, "Not a pod type.");
   assert(reinterpret_cast<size_t>(Ptr) % sizeof(T) == 0 && "Unaligned Read");
   return *reinterpret_cast<const T *>(Ptr);
-}
-
-Summary computeSummary(const char *Start) {
-  auto *H = reinterpret_cast<const Header *>(Start);
-
-  // Check alignment while reading the number of items in each section.
-  return Summary{
-      H->Version,
-      H->TotalSize,
-      alignedRead(Start + H->SegmentOffset),
-      alignedRead(Start + H->MIBOffset),
-      alignedRead(Start + H->StackOffset),
-  };
 }
 
 Error checkBuffer(const MemoryBuffer &Buffer) {
@@ -163,24 +150,37 @@ bool mergeStackMap(const CallStackMap &From, CallStackMap &To) {
   return false;
 }
 
-StringRef trimSuffix(const StringRef Name) {
-  const auto Pos = Name.find(".llvm.");
-  return Name.take_front(Pos);
-}
-
 Error report(Error E, const StringRef Context) {
   return joinErrors(createStringError(inconvertibleErrorCode(), Context),
                     std::move(E));
 }
 
 bool isRuntimePath(const StringRef Path) {
-  return StringRef(llvm::sys::path::convert_to_slash(Path))
-      .contains("memprof/memprof_");
+  const StringRef Filename = llvm::sys::path::filename(Path);
+  // This list should be updated in case new files with additional interceptors
+  // are added to the memprof runtime.
+  return Filename.equals("memprof_malloc_linux.cpp") ||
+         Filename.equals("memprof_interceptors.cpp") ||
+         Filename.equals("memprof_new_delete.cpp");
+}
+
+std::string getBuildIdString(const SegmentEntry &Entry) {
+  // If the build id is unset print a helpful string instead of all zeros.
+  if (Entry.BuildIdSize == 0)
+    return "<None>";
+
+  std::string Str;
+  raw_string_ostream OS(Str);
+  for (size_t I = 0; I < Entry.BuildIdSize; I++) {
+    OS << format_hex_no_prefix(Entry.BuildId[I], 2);
+  }
+  return OS.str();
 }
 } // namespace
 
 Expected<std::unique_ptr<RawMemProfReader>>
-RawMemProfReader::create(const Twine &Path, const StringRef ProfiledBinary) {
+RawMemProfReader::create(const Twine &Path, const StringRef ProfiledBinary,
+                         bool KeepName) {
   auto BufferOr = MemoryBuffer::getFileOrSTDIN(Path);
   if (std::error_code EC = BufferOr.getError())
     return report(errorCodeToError(EC), Path.getSingleStringRef());
@@ -189,19 +189,30 @@ RawMemProfReader::create(const Twine &Path, const StringRef ProfiledBinary) {
   if (Error E = checkBuffer(*Buffer))
     return report(std::move(E), Path.getSingleStringRef());
 
-  if (ProfiledBinary.empty())
+  if (ProfiledBinary.empty()) {
+    // Peek the build ids to print a helpful error message.
+    const std::vector<std::string> BuildIds = peekBuildIds(Buffer.get());
+    std::string ErrorMessage(
+        R"(Path to profiled binary is empty, expected binary with one of the following build ids:
+)");
+    for (const auto &Id : BuildIds) {
+      ErrorMessage += "\n BuildId: ";
+      ErrorMessage += Id;
+    }
     return report(
-        errorCodeToError(make_error_code(std::errc::invalid_argument)),
-        "Path to profiled binary is empty!");
+        make_error<StringError>(ErrorMessage, inconvertibleErrorCode()),
+        /*Context=*/"");
+  }
 
   auto BinaryOr = llvm::object::createBinary(ProfiledBinary);
   if (!BinaryOr) {
     return report(BinaryOr.takeError(), ProfiledBinary);
   }
 
+  // Use new here since constructor is private.
   std::unique_ptr<RawMemProfReader> Reader(
-      new RawMemProfReader(std::move(Buffer), std::move(BinaryOr.get())));
-  if (Error E = Reader->initialize()) {
+      new RawMemProfReader(std::move(BinaryOr.get()), KeepName));
+  if (Error E = Reader->initialize(std::move(Buffer))) {
     return std::move(E);
   }
   return std::move(Reader);
@@ -226,39 +237,41 @@ bool RawMemProfReader::hasFormat(const MemoryBuffer &Buffer) {
 }
 
 void RawMemProfReader::printYAML(raw_ostream &OS) {
+  uint64_t NumAllocFunctions = 0, NumMibInfo = 0;
+  for (const auto &KV : FunctionProfileData) {
+    const size_t NumAllocSites = KV.second.AllocSites.size();
+    if (NumAllocSites > 0) {
+      NumAllocFunctions++;
+      NumMibInfo += NumAllocSites;
+    }
+  }
+
   OS << "MemprofProfile:\n";
-  // TODO: Update printSummaries to print out the data after the profile has
-  // been symbolized and pruned. We can parse some raw profile characteristics
-  // from the data buffer for additional information.
-  printSummaries(OS);
+  OS << "  Summary:\n";
+  OS << "    Version: " << MEMPROF_RAW_VERSION << "\n";
+  OS << "    NumSegments: " << SegmentInfo.size() << "\n";
+  OS << "    NumMibInfo: " << NumMibInfo << "\n";
+  OS << "    NumAllocFunctions: " << NumAllocFunctions << "\n";
+  OS << "    NumStackOffsets: " << StackMap.size() << "\n";
+  // Print out the segment information.
+  OS << "  Segments:\n";
+  for (const auto &Entry : SegmentInfo) {
+    OS << "  -\n";
+    OS << "    BuildId: " << getBuildIdString(Entry) << "\n";
+    OS << "    Start: 0x" << llvm::utohexstr(Entry.Start) << "\n";
+    OS << "    End: 0x" << llvm::utohexstr(Entry.End) << "\n";
+    OS << "    Offset: 0x" << llvm::utohexstr(Entry.Offset) << "\n";
+  }
   // Print out the merged contents of the profiles.
   OS << "  Records:\n";
-  for (const auto &Record : *this) {
+  for (const auto &Entry : *this) {
     OS << "  -\n";
-    Record.print(OS);
+    OS << "    FunctionGUID: " << Entry.first << "\n";
+    Entry.second.print(OS);
   }
 }
 
-void RawMemProfReader::printSummaries(raw_ostream &OS) const {
-  const char *Next = DataBuffer->getBufferStart();
-  while (Next < DataBuffer->getBufferEnd()) {
-    auto Summary = computeSummary(Next);
-    OS << "  -\n";
-    OS << "  Header:\n";
-    OS << "    Version: " << Summary.Version << "\n";
-    OS << "    TotalSizeBytes: " << Summary.TotalSizeBytes << "\n";
-    OS << "    NumSegments: " << Summary.NumSegments << "\n";
-    OS << "    NumMibInfo: " << Summary.NumMIBInfo << "\n";
-    OS << "    NumStackOffsets: " << Summary.NumStackOffsets << "\n";
-    // TODO: Print the build ids once we can record them using the
-    // sanitizer_procmaps library for linux.
-
-    auto *H = reinterpret_cast<const Header *>(Next);
-    Next += H->TotalSize;
-  }
-}
-
-Error RawMemProfReader::initialize() {
+Error RawMemProfReader::initialize(std::unique_ptr<MemoryBuffer> DataBuffer) {
   const StringRef FileName = Binary.getBinary()->getFileName();
 
   auto *ElfObject = dyn_cast<object::ELFObjectFileBase>(Binary.getBinary());
@@ -266,6 +279,44 @@ Error RawMemProfReader::initialize() {
     return report(make_error<StringError>(Twine("Not an ELF file: "),
                                           inconvertibleErrorCode()),
                   FileName);
+  }
+
+  // Check whether the profiled binary was built with position independent code
+  // (PIC). Perform sanity checks for assumptions we rely on to simplify
+  // symbolization.
+  auto* Elf64LEObject = llvm::cast<llvm::object::ELF64LEObjectFile>(ElfObject);
+  const llvm::object::ELF64LEFile& ElfFile = Elf64LEObject->getELFFile();
+  auto PHdrsOr = ElfFile.program_headers();
+  if (!PHdrsOr)
+    return report(
+        make_error<StringError>(Twine("Could not read program headers: "),
+                                inconvertibleErrorCode()),
+        FileName);
+
+  int NumExecutableSegments = 0;
+  for (const auto &Phdr : *PHdrsOr) {
+    if (Phdr.p_type == ELF::PT_LOAD) {
+      if (Phdr.p_flags & ELF::PF_X) {
+        // We assume only one text segment in the main binary for simplicity and
+        // reduce the overhead of checking multiple ranges during symbolization.
+        if (++NumExecutableSegments > 1) {
+          return report(
+              make_error<StringError>(
+                  "Expect only one executable load segment in the binary",
+                  inconvertibleErrorCode()),
+              FileName);
+        }
+        // Segment will always be loaded at a page boundary, expect it to be
+        // aligned already. Assume 4K pagesize for the machine from which the
+        // profile has been collected. This should be fine for now, in case we
+        // want to support other pagesizes it can be recorded in the raw profile
+        // during collection.
+        PreferredTextSegmentAddress = Phdr.p_vaddr;
+        assert(Phdr.p_vaddr == (Phdr.p_vaddr & ~(0x1000 - 1U)) &&
+               "Expect p_vaddr to always be page aligned");
+        assert(Phdr.p_offset == 0 && "Expect p_offset = 0 for symbolization.");
+      }
+    }
   }
 
   auto Triple = ElfObject->makeTriple();
@@ -285,10 +336,127 @@ Error RawMemProfReader::initialize() {
     return report(SOFOr.takeError(), FileName);
   Symbolizer = std::move(SOFOr.get());
 
-  if (Error E = readRawProfile())
+  // Process the raw profile.
+  if (Error E = readRawProfile(std::move(DataBuffer)))
     return E;
 
-  return symbolizeAndFilterStackFrames();
+  if (Error E = setupForSymbolization())
+    return E;
+
+  if (Error E = symbolizeAndFilterStackFrames())
+    return E;
+
+  return mapRawProfileToRecords();
+}
+
+Error RawMemProfReader::setupForSymbolization() {
+  auto *Object = cast<object::ObjectFile>(Binary.getBinary());
+  object::BuildIDRef BinaryId = object::getBuildID(Object);
+  if (BinaryId.empty())
+    return make_error<StringError>(Twine("No build id found in binary ") +
+                                       Binary.getBinary()->getFileName(),
+                                   inconvertibleErrorCode());
+
+  int NumMatched = 0;
+  for (const auto &Entry : SegmentInfo) {
+    llvm::ArrayRef<uint8_t> SegmentId(Entry.BuildId, Entry.BuildIdSize);
+    if (BinaryId == SegmentId) {
+      // We assume only one text segment in the main binary for simplicity and
+      // reduce the overhead of checking multiple ranges during symbolization.
+      if (++NumMatched > 1) {
+        return make_error<StringError>(
+            "We expect only one executable segment in the profiled binary",
+            inconvertibleErrorCode());
+      }
+      ProfiledTextSegmentStart = Entry.Start;
+      ProfiledTextSegmentEnd = Entry.End;
+    }
+  }
+  assert(NumMatched != 0 && "No matching executable segments in segment info.");
+  assert((PreferredTextSegmentAddress == 0 ||
+          (PreferredTextSegmentAddress == ProfiledTextSegmentStart)) &&
+         "Expect text segment address to be 0 or equal to profiled text "
+         "segment start.");
+  return Error::success();
+}
+
+Error RawMemProfReader::mapRawProfileToRecords() {
+  // Hold a mapping from function to each callsite location we encounter within
+  // it that is part of some dynamic allocation context. The location is stored
+  // as a pointer to a symbolized list of inline frames.
+  using LocationPtr = const llvm::SmallVector<FrameId> *;
+  llvm::MapVector<GlobalValue::GUID, llvm::SetVector<LocationPtr>>
+      PerFunctionCallSites;
+
+  // Convert the raw profile callstack data into memprof records. While doing so
+  // keep track of related contexts so that we can fill these in later.
+  for (const auto &Entry : CallstackProfileData) {
+    const uint64_t StackId = Entry.first;
+
+    auto It = StackMap.find(StackId);
+    if (It == StackMap.end())
+      return make_error<InstrProfError>(
+          instrprof_error::malformed,
+          "memprof callstack record does not contain id: " + Twine(StackId));
+
+    // Construct the symbolized callstack.
+    llvm::SmallVector<FrameId> Callstack;
+    Callstack.reserve(It->getSecond().size());
+
+    llvm::ArrayRef<uint64_t> Addresses = It->getSecond();
+    for (size_t I = 0; I < Addresses.size(); I++) {
+      const uint64_t Address = Addresses[I];
+      assert(SymbolizedFrame.count(Address) > 0 &&
+             "Address not found in SymbolizedFrame map");
+      const SmallVector<FrameId> &Frames = SymbolizedFrame[Address];
+
+      assert(!idToFrame(Frames.back()).IsInlineFrame &&
+             "The last frame should not be inlined");
+
+      // Record the callsites for each function. Skip the first frame of the
+      // first address since it is the allocation site itself that is recorded
+      // as an alloc site.
+      for (size_t J = 0; J < Frames.size(); J++) {
+        if (I == 0 && J == 0)
+          continue;
+        // We attach the entire bottom-up frame here for the callsite even
+        // though we only need the frames up to and including the frame for
+        // Frames[J].Function. This will enable better deduplication for
+        // compression in the future.
+        const GlobalValue::GUID Guid = idToFrame(Frames[J]).Function;
+        PerFunctionCallSites[Guid].insert(&Frames);
+      }
+
+      // Add all the frames to the current allocation callstack.
+      Callstack.append(Frames.begin(), Frames.end());
+    }
+
+    // We attach the memprof record to each function bottom-up including the
+    // first non-inline frame.
+    for (size_t I = 0; /*Break out using the condition below*/; I++) {
+      const Frame &F = idToFrame(Callstack[I]);
+      auto Result =
+          FunctionProfileData.insert({F.Function, IndexedMemProfRecord()});
+      IndexedMemProfRecord &Record = Result.first->second;
+      Record.AllocSites.emplace_back(Callstack, Entry.second);
+
+      if (!F.IsInlineFrame)
+        break;
+    }
+  }
+
+  // Fill in the related callsites per function.
+  for (const auto &[Id, Locs] : PerFunctionCallSites) {
+    // Some functions may have only callsite data and no allocation data. Here
+    // we insert a new entry for callsite data if we need to.
+    auto Result = FunctionProfileData.insert({Id, IndexedMemProfRecord()});
+    IndexedMemProfRecord &Record = Result.first->second;
+    for (LocationPtr Loc : Locs) {
+      Record.CallSites.push_back(*Loc);
+    }
+  }
+
+  return Error::success();
 }
 
 Error RawMemProfReader::symbolizeAndFilterStackFrames() {
@@ -325,27 +493,31 @@ Error RawMemProfReader::symbolizeAndFilterStackFrames() {
         continue;
       }
 
-      for (size_t I = 0; I < DI.getNumberOfFrames(); I++) {
-        const auto &Frame = DI.getFrame(I);
-        SymbolizedFrame[VAddr].emplace_back(
-            // We use the function guid which we expect to be a uint64_t. At
-            // this time, it is the lower 64 bits of the md5 of the function
-            // name. Any suffix with .llvm. is trimmed since these are added by
-            // thinLTO global promotion. At the time the profile is consumed,
-            // these suffixes will not be present.
-            Function::getGUID(trimSuffix(Frame.FunctionName)),
-            Frame.Line - Frame.StartLine, Frame.Column,
-            // Only the first entry is not an inlined location.
-            I != 0);
+      for (size_t I = 0, NumFrames = DI.getNumberOfFrames(); I < NumFrames;
+           I++) {
+        const auto &DIFrame = DI.getFrame(I);
+        const uint64_t Guid =
+            IndexedMemProfRecord::getGUID(DIFrame.FunctionName);
+        const Frame F(Guid, DIFrame.Line - DIFrame.StartLine, DIFrame.Column,
+                      // Only the last entry is not an inlined location.
+                      I != NumFrames - 1);
+        // Here we retain a mapping from the GUID to symbol name instead of
+        // adding it to the frame object directly to reduce memory overhead.
+        // This is because there can be many unique frames, particularly for
+        // callsite frames.
+        if (KeepSymbolName)
+          GuidToSymbolName.insert({Guid, DIFrame.FunctionName});
+
+        const FrameId Hash = F.hash();
+        IdToFrame.insert({Hash, F});
+        SymbolizedFrame[VAddr].push_back(Hash);
       }
     }
 
     auto &CallStack = Entry.getSecond();
-    CallStack.erase(std::remove_if(CallStack.begin(), CallStack.end(),
-                                   [&AllVAddrsToDiscard](const uint64_t A) {
-                                     return AllVAddrsToDiscard.contains(A);
-                                   }),
-                    CallStack.end());
+    llvm::erase_if(CallStack, [&AllVAddrsToDiscard](const uint64_t A) {
+      return AllVAddrsToDiscard.contains(A);
+    });
     if (CallStack.empty())
       EntriesToErase.push_back(Entry.getFirst());
   }
@@ -353,7 +525,7 @@ Error RawMemProfReader::symbolizeAndFilterStackFrames() {
   // Drop the entries where the callstack is empty.
   for (const uint64_t Id : EntriesToErase) {
     StackMap.erase(Id);
-    ProfileData.erase(Id);
+    CallstackProfileData.erase(Id);
   }
 
   if (StackMap.empty())
@@ -364,7 +536,38 @@ Error RawMemProfReader::symbolizeAndFilterStackFrames() {
   return Error::success();
 }
 
-Error RawMemProfReader::readRawProfile() {
+std::vector<std::string>
+RawMemProfReader::peekBuildIds(MemoryBuffer *DataBuffer) {
+  const char *Next = DataBuffer->getBufferStart();
+  // Use a set + vector since a profile file may contain multiple raw profile
+  // dumps, each with segment information. We want them unique and in order they
+  // were stored in the profile; the profiled binary should be the first entry.
+  // The runtime uses dl_iterate_phdr and the "... first object visited by
+  // callback is the main program."
+  // https://man7.org/linux/man-pages/man3/dl_iterate_phdr.3.html
+  std::vector<std::string> BuildIds;
+  llvm::SmallSet<StringRef, 4> BuildIdsSet;
+  while (Next < DataBuffer->getBufferEnd()) {
+    auto *Header = reinterpret_cast<const memprof::Header *>(Next);
+
+    const llvm::SmallVector<SegmentEntry> Entries =
+        readSegmentEntries(Next + Header->SegmentOffset);
+
+    for (const auto &Entry : Entries) {
+      const std::string Id = getBuildIdString(Entry);
+      if (BuildIdsSet.contains(Id))
+        continue;
+      BuildIds.push_back(Id);
+      BuildIdsSet.insert(BuildIds.back());
+    }
+
+    Next += Header->TotalSize;
+  }
+  return BuildIds;
+}
+
+Error RawMemProfReader::readRawProfile(
+    std::unique_ptr<MemoryBuffer> DataBuffer) {
   const char *Next = DataBuffer->getBufferStart();
 
   while (Next < DataBuffer->getBufferEnd()) {
@@ -388,10 +591,10 @@ Error RawMemProfReader::readRawProfile() {
     // raw profiles in the same binary file are from the same process so the
     // stackdepot ids are the same.
     for (const auto &Value : readMemInfoBlocks(Next + Header->MIBOffset)) {
-      if (ProfileData.count(Value.first)) {
-        ProfileData[Value.first].Merge(Value.second);
+      if (CallstackProfileData.count(Value.first)) {
+        CallstackProfileData[Value.first].Merge(Value.second);
       } else {
-        ProfileData[Value.first] = Value.second;
+        CallstackProfileData[Value.first] = Value.second;
       }
     }
 
@@ -415,46 +618,41 @@ Error RawMemProfReader::readRawProfile() {
 
 object::SectionedAddress
 RawMemProfReader::getModuleOffset(const uint64_t VirtualAddress) {
-  LLVM_DEBUG({
-  SegmentEntry *ContainingSegment = nullptr;
-  for (auto &SE : SegmentInfo) {
-    if (VirtualAddress > SE.Start && VirtualAddress <= SE.End) {
-      ContainingSegment = &SE;
-    }
+  if (VirtualAddress > ProfiledTextSegmentStart &&
+      VirtualAddress <= ProfiledTextSegmentEnd) {
+    // For PIE binaries, the preferred address is zero and we adjust the virtual
+    // address by start of the profiled segment assuming that the offset of the
+    // segment in the binary is zero. For non-PIE binaries the preferred and
+    // profiled segment addresses should be equal and this is a no-op.
+    const uint64_t AdjustedAddress =
+        VirtualAddress + PreferredTextSegmentAddress - ProfiledTextSegmentStart;
+    return object::SectionedAddress{AdjustedAddress};
   }
-
-  // Ensure that the virtual address is valid.
-  assert(ContainingSegment && "Could not find a segment entry");
-  });
-
-  // TODO: Compute the file offset based on the maps and program headers. For
-  // now this only works for non PIE binaries.
+  // Addresses which do not originate from the profiled text segment in the
+  // binary are not adjusted. These will fail symbolization and be filtered out
+  // during processing.
   return object::SectionedAddress{VirtualAddress};
 }
 
-Error RawMemProfReader::fillRecord(const uint64_t Id, const MemInfoBlock &MIB,
-                                   MemProfRecord &Record) {
-  auto &CallStack = StackMap[Id];
-  for (const uint64_t Address : CallStack) {
-    assert(SymbolizedFrame.count(Address) &&
-           "Address not found in symbolized frame cache.");
-    Record.CallStack.append(SymbolizedFrame[Address]);
-  }
-  Record.Info = PortableMemInfoBlock(MIB);
-  return Error::success();
-}
-
-Error RawMemProfReader::readNextRecord(MemProfRecord &Record) {
-  if (ProfileData.empty())
+Error RawMemProfReader::readNextRecord(GuidMemProfRecordPair &GuidRecord) {
+  if (FunctionProfileData.empty())
     return make_error<InstrProfError>(instrprof_error::empty_raw_profile);
 
-  if (Iter == ProfileData.end())
+  if (Iter == FunctionProfileData.end())
     return make_error<InstrProfError>(instrprof_error::eof);
 
-  Record.clear();
-  if (Error E = fillRecord(Iter->first, Iter->second, Record)) {
-    return E;
-  }
+  auto IdToFrameCallback = [this](const FrameId Id) {
+    Frame F = this->idToFrame(Id);
+    if (!this->KeepSymbolName)
+      return F;
+    auto Iter = this->GuidToSymbolName.find(F.Function);
+    assert(Iter != this->GuidToSymbolName.end());
+    F.SymbolName = Iter->getSecond();
+    return F;
+  };
+
+  const IndexedMemProfRecord &IndexedRecord = Iter->second;
+  GuidRecord = {Iter->first, MemProfRecord(IndexedRecord, IdToFrameCallback)};
   Iter++;
   return Error::success();
 }

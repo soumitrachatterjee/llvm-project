@@ -16,6 +16,7 @@
 //===----------------------------------------------------------------------===//
 
 #include "llvm/Analysis/CaptureTracking.h"
+#include "llvm/ADT/SmallPtrSet.h"
 #include "llvm/ADT/SmallSet.h"
 #include "llvm/ADT/SmallVector.h"
 #include "llvm/ADT/Statistic.h"
@@ -44,9 +45,9 @@ STATISTIC(NumNotCapturedBefore, "Number of pointers not captured before");
 /// use it where possible. The caching version can use much higher limit or
 /// don't have this cap at all.
 static cl::opt<unsigned>
-DefaultMaxUsesToExplore("capture-tracking-max-uses-to-explore", cl::Hidden,
-                        cl::desc("Maximal number of uses to explore."),
-                        cl::init(20));
+    DefaultMaxUsesToExplore("capture-tracking-max-uses-to-explore", cl::Hidden,
+                            cl::desc("Maximal number of uses to explore."),
+                            cl::init(100));
 
 unsigned llvm::getDefaultMaxUsesToExploreForCaptureTracking() {
   return DefaultMaxUsesToExplore;
@@ -74,18 +75,30 @@ bool CaptureTracker::isDereferenceableOrNull(Value *O, const DataLayout &DL) {
 
 namespace {
   struct SimpleCaptureTracker : public CaptureTracker {
-    explicit SimpleCaptureTracker(bool ReturnCaptures)
-        : ReturnCaptures(ReturnCaptures) {}
+    explicit SimpleCaptureTracker(
 
-    void tooManyUses() override { Captured = true; }
+        const SmallPtrSetImpl<const Value *> &EphValues, bool ReturnCaptures)
+        : EphValues(EphValues), ReturnCaptures(ReturnCaptures) {}
+
+    void tooManyUses() override {
+      LLVM_DEBUG(dbgs() << "Captured due to too many uses\n");
+      Captured = true;
+    }
 
     bool captured(const Use *U) override {
       if (isa<ReturnInst>(U->getUser()) && !ReturnCaptures)
         return false;
 
+      if (EphValues.contains(U->getUser()))
+        return false;
+
+      LLVM_DEBUG(dbgs() << "Captured by: " << *U->getUser() << "\n");
+
       Captured = true;
       return true;
     }
+
+    const SmallPtrSetImpl<const Value *> &EphValues;
 
     bool ReturnCaptures;
 
@@ -154,8 +167,9 @@ namespace {
   // escape are not in a cycle.
   struct EarliestCaptures : public CaptureTracker {
 
-    EarliestCaptures(bool ReturnCaptures, Function &F, const DominatorTree &DT)
-        : DT(DT), ReturnCaptures(ReturnCaptures), F(F) {}
+    EarliestCaptures(bool ReturnCaptures, Function &F, const DominatorTree &DT,
+                     const SmallPtrSetImpl<const Value *> &EphValues)
+        : EphValues(EphValues), DT(DT), ReturnCaptures(ReturnCaptures), F(F) {}
 
     void tooManyUses() override {
       Captured = true;
@@ -167,31 +181,21 @@ namespace {
       if (isa<ReturnInst>(I) && !ReturnCaptures)
         return false;
 
-      if (!EarliestCapture) {
+      if (EphValues.contains(I))
+        return false;
+
+      if (!EarliestCapture)
         EarliestCapture = I;
-      } else if (EarliestCapture->getParent() == I->getParent()) {
-        if (I->comesBefore(EarliestCapture))
-          EarliestCapture = I;
-      } else {
-        BasicBlock *CurrentBB = I->getParent();
-        BasicBlock *EarliestBB = EarliestCapture->getParent();
-        if (DT.dominates(EarliestBB, CurrentBB)) {
-          // EarliestCapture already comes before the current use.
-        } else if (DT.dominates(CurrentBB, EarliestBB)) {
-          EarliestCapture = I;
-        } else {
-          // Otherwise find the nearest common dominator and use its terminator.
-          auto *NearestCommonDom =
-              DT.findNearestCommonDominator(CurrentBB, EarliestBB);
-          EarliestCapture = NearestCommonDom->getTerminator();
-        }
-      }
+      else
+        EarliestCapture = DT.findNearestCommonDominator(EarliestCapture, I);
       Captured = true;
 
       // Return false to continue analysis; we need to see all potential
       // captures.
       return false;
     }
+
+    const SmallPtrSetImpl<const Value *> &EphValues;
 
     Instruction *EarliestCapture = nullptr;
 
@@ -212,8 +216,18 @@ namespace {
 /// counts as capturing it or not.  The boolean StoreCaptures specified whether
 /// storing the value (or part of it) into memory anywhere automatically
 /// counts as capturing it or not.
-bool llvm::PointerMayBeCaptured(const Value *V,
-                                bool ReturnCaptures, bool StoreCaptures,
+bool llvm::PointerMayBeCaptured(const Value *V, bool ReturnCaptures,
+                                bool StoreCaptures, unsigned MaxUsesToExplore) {
+  SmallPtrSet<const Value *, 1> Empty;
+  return PointerMayBeCaptured(V, ReturnCaptures, StoreCaptures, Empty,
+                              MaxUsesToExplore);
+}
+
+/// Variant of the above function which accepts a set of Values that are
+/// ephemeral and cannot cause pointers to escape.
+bool llvm::PointerMayBeCaptured(const Value *V, bool ReturnCaptures,
+                                bool StoreCaptures,
+                                const SmallPtrSetImpl<const Value *> &EphValues,
                                 unsigned MaxUsesToExplore) {
   assert(!isa<GlobalValue>(V) &&
          "It doesn't make sense to ask whether a global is captured.");
@@ -224,12 +238,16 @@ bool llvm::PointerMayBeCaptured(const Value *V,
   // take advantage of this.
   (void)StoreCaptures;
 
-  SimpleCaptureTracker SCT(ReturnCaptures);
+  LLVM_DEBUG(dbgs() << "Captured?: " << *V << " = ");
+
+  SimpleCaptureTracker SCT(EphValues, ReturnCaptures);
   PointerMayBeCaptured(V, &SCT, MaxUsesToExplore);
   if (SCT.Captured)
     ++NumCaptured;
-  else
+  else {
     ++NumNotCaptured;
+    LLVM_DEBUG(dbgs() << "not captured\n");
+  }
   return SCT.Captured;
 }
 
@@ -266,14 +284,16 @@ bool llvm::PointerMayBeCapturedBefore(const Value *V, bool ReturnCaptures,
   return CB.Captured;
 }
 
-Instruction *llvm::FindEarliestCapture(const Value *V, Function &F,
-                                       bool ReturnCaptures, bool StoreCaptures,
-                                       const DominatorTree &DT,
-                                       unsigned MaxUsesToExplore) {
+Instruction *
+llvm::FindEarliestCapture(const Value *V, Function &F, bool ReturnCaptures,
+                          bool StoreCaptures, const DominatorTree &DT,
+
+                          const SmallPtrSetImpl<const Value *> &EphValues,
+                          unsigned MaxUsesToExplore) {
   assert(!isa<GlobalValue>(V) &&
          "It doesn't make sense to ask whether a global is captured.");
 
-  EarliestCaptures CB(ReturnCaptures, F, DT);
+  EarliestCaptures CB(ReturnCaptures, F, DT, EphValues);
   PointerMayBeCaptured(V, &CB, MaxUsesToExplore);
   if (CB.Captured)
     ++NumCapturedBefore;
@@ -392,12 +412,7 @@ UseCaptureKind llvm::DetermineUseCaptureKind(
           return UseCaptureKind::NO_CAPTURE;
       }
     }
-    // Comparison against value stored in global variable. Given the pointer
-    // does not escape, its value cannot be guessed and stored separately in a
-    // global variable.
-    auto *LI = dyn_cast<LoadInst>(I->getOperand(OtherIdx));
-    if (LI && isa<GlobalVariable>(LI->getPointerOperand()))
-      return UseCaptureKind::NO_CAPTURE;
+
     // Otherwise, be conservative. There are crazy ways to capture pointers
     // using comparisons.
     return UseCaptureKind::MAY_CAPTURE;
@@ -419,11 +434,10 @@ void llvm::PointerMayBeCaptured(const Value *V, CaptureTracker *Tracker,
   SmallSet<const Use *, 20> Visited;
 
   auto AddUses = [&](const Value *V) {
-    unsigned Count = 0;
     for (const Use &U : V->uses()) {
       // If there are lots of uses, conservatively say that the value
       // is captured to avoid taking too much compile time.
-      if (Count++ >= MaxUsesToExplore) {
+      if (Visited.size()  >= MaxUsesToExplore) {
         Tracker->tooManyUses();
         return false;
       }

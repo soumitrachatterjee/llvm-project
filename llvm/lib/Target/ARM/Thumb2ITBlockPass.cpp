@@ -98,9 +98,8 @@ static void TrackDefUses(MachineInstr *MI, RegisterSet &Defs, RegisterSet &Uses,
 
   auto InsertUsesDefs = [&](RegList &Regs, RegisterSet &UsesDefs) {
     for (unsigned Reg : Regs)
-      for (MCSubRegIterator Subreg(Reg, TRI, /*IncludeSelf=*/true);
-           Subreg.isValid(); ++Subreg)
-        UsesDefs.insert(*Subreg);
+      for (MCPhysReg Subreg : TRI->subregs_inclusive(Reg))
+        UsesDefs.insert(Subreg);
   };
 
   InsertUsesDefs(LocalDefs, Defs);
@@ -284,8 +283,7 @@ bool Thumb2ITBlock::InsertITInstructions(MachineBasicBlock &MBB) {
 }
 
 bool Thumb2ITBlock::runOnMachineFunction(MachineFunction &Fn) {
-  const ARMSubtarget &STI =
-      static_cast<const ARMSubtarget &>(Fn.getSubtarget());
+  const ARMSubtarget &STI = Fn.getSubtarget<ARMSubtarget>();
   if (!STI.isThumb2())
     return false;
   AFI = Fn.getInfo<ARMFunctionInfo>();

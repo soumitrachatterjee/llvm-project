@@ -16,6 +16,7 @@
 include "mlir/Dialect/EmitC/IR/EmitCAttributes.td"
 include "mlir/Dialect/EmitC/IR/EmitCTypes.td"
 
+include "mlir/Interfaces/CastInterfaces.td"
 include "mlir/Interfaces/SideEffectInterfaces.td"
 
 //===----------------------------------------------------------------------===//
@@ -25,6 +26,37 @@ include "mlir/Interfaces/SideEffectInterfaces.td"
 // Base class for EmitC dialect ops.
 class EmitC_Op<string mnemonic, list<Trait> traits = []>
     : Op<EmitC_Dialect, mnemonic, traits>;
+
+// Base class for binary arithmetic operations.
+class EmitC_BinaryArithOp<string mnemonic, list<Trait> traits = []> :
+    EmitC_Op<mnemonic, traits> {
+  let arguments = (ins AnyType:$lhs, AnyType:$rhs);
+  let results = (outs AnyType);
+  let assemblyFormat = "operands attr-dict `:` functional-type(operands, results)";
+
+  let hasVerifier = 1;
+}
+
+def EmitC_AddOp : EmitC_BinaryArithOp<"add", []> {
+  let summary = "Addition operation";
+  let description = [{
+    With the `add` operation the arithmetic operator + (addition) can
+    be applied.
+
+    Example:
+
+    ```mlir
+    // Custom form of the addition operation.
+    %0 = emitc.add %arg0, %arg1 : (i32, i32) -> i32
+    %1 = emitc.add %arg2, %arg3 : (!emitc.ptr<f32>, i32) -> !emitc.ptr<f32>
+    ```
+    ```c++
+    // Code emitted for the operations above.
+    int32_t v5 = v1 + v2;
+    float* v6 = v3 + v4;
+    ```
+  }];
+}
 
 def EmitC_ApplyOp : EmitC_Op<"apply", []> {
   let summary = "Apply operation";
@@ -36,15 +68,14 @@ def EmitC_ApplyOp : EmitC_Op<"apply", []> {
 
     ```mlir
     // Custom form of applying the & operator.
-    %0 = emitc.apply "&"(%arg0) : (i32) -> !emitc.opaque<"int32_t*">
+    %0 = emitc.apply "&"(%arg0) : (i32) -> !emitc.ptr<i32>
 
     // Generic form of the same operation.
     %0 = "emitc.apply"(%arg0) {applicableOperator = "&"}
-        : (i32) -> !emitc.opaque<"int32_t*">
+        : (i32) -> !emitc.ptr<i32>
 
     ```
   }];
-  // TODO: Disallow to apply the operator & (address of) to emitc.constant operations.
   let arguments = (ins
     Arg<StrAttr, "the operator to apply">:$applicableOperator,
     AnyType:$operand
@@ -88,6 +119,33 @@ def EmitC_CallOp : EmitC_Op<"call", []> {
   let hasVerifier = 1;
 }
 
+def EmitC_CastOp : EmitC_Op<"cast", [
+    DeclareOpInterfaceMethods<CastOpInterface>,
+    SameOperandsAndResultShape
+  ]> {
+  let summary = "Cast operation";
+  let description = [{
+    The `cast` operation performs an explicit type conversion and is emitted
+    as a C-style cast expression. It can be applied to integer, float, index
+    and EmitC types.
+
+    Example:
+
+    ```mlir
+    // Cast from `int32_t` to `float`
+    %0 = emitc.cast %arg0: i32 to f32
+
+    // Cast from `void` to `int32_t` pointer
+    %1 = emitc.cast %arg1 :
+        !emitc.ptr<!emitc.opaque<"void">> to !emitc.ptr<i32>
+    ```
+  }];
+
+  let arguments = (ins AnyType:$source);
+  let results = (outs AnyType:$dest);
+  let assemblyFormat = "$source attr-dict `:` type($source) `to` type($dest)";
+}
+
 def EmitC_ConstantOp : EmitC_Op<"constant", [ConstantLike]> {
   let summary = "Constant operation";
   let description = [{
@@ -111,16 +169,15 @@ def EmitC_ConstantOp : EmitC_Op<"constant", [ConstantLike]> {
     ```
   }];
 
-  let arguments = (ins AnyAttr:$value);
+  let arguments = (ins EmitC_OpaqueOrTypedAttr:$value);
   let results = (outs AnyType);
 
   let hasFolder = 1;
-  // TODO: Disallow empty constants.
   let hasVerifier = 1;
 }
 
 def EmitC_IncludeOp
-    : EmitC_Op<"include", [NoSideEffect, HasParent<"ModuleOp">]> {
+    : EmitC_Op<"include", [HasParent<"ModuleOp">]> {
   let summary = "Include operation";
   let description = [{
     The `include` operation allows to define a source file inclusion via the
@@ -147,6 +204,30 @@ def EmitC_IncludeOp
     UnitAttr:$is_standard_include
   );
   let hasCustomAssemblyFormat = 1;
+}
+
+def EmitC_SubOp : EmitC_BinaryArithOp<"sub", []> {
+  let summary = "Subtraction operation";
+  let description = [{
+    With the `sub` operation the arithmetic operator - (subtraction) can
+    be applied.
+
+    Example:
+
+    ```mlir
+    // Custom form of the substraction operation.
+    %0 = emitc.sub %arg0, %arg1 : (i32, i32) -> i32
+    %1 = emitc.sub %arg2, %arg3 : (!emitc.ptr<f32>, i32) -> !emitc.ptr<f32>
+    %2 = emitc.sub %arg4, %arg5 : (!emitc.ptr<i32>, !emitc.ptr<i32>)
+        -> !emitc.opaque<"ptrdiff_t">
+    ```
+    ```c++
+    // Code emitted for the operations above.
+    int32_t v7 = v1 - v2;
+    float* v8 = v3 - v4;
+    ptrdiff_t v9 = v5 - v6;
+    ```
+  }];
 }
 
 def EmitC_VariableOp : EmitC_Op<"variable", []> {
@@ -184,7 +265,7 @@ def EmitC_VariableOp : EmitC_Op<"variable", []> {
     ```
   }];
 
-  let arguments = (ins AnyAttr:$value);
+  let arguments = (ins EmitC_OpaqueOrTypedAttr:$value);
   let results = (outs AnyType);
 
   let hasVerifier = 1;

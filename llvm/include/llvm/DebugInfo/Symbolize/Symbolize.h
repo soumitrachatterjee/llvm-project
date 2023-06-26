@@ -17,8 +17,8 @@
 #include "llvm/ADT/ilist_node.h"
 #include "llvm/ADT/simple_ilist.h"
 #include "llvm/DebugInfo/DIContext.h"
-#include "llvm/DebugInfo/Symbolize/DIFetcher.h"
 #include "llvm/Object/Binary.h"
+#include "llvm/Object/BuildID.h"
 #include "llvm/Support/Error.h"
 #include <algorithm>
 #include <cstdint>
@@ -62,9 +62,10 @@ public:
     std::string FallbackDebugPath;
     std::string DWPName;
     std::vector<std::string> DebugFileDirectory;
-    size_t MaxCacheSize = sizeof(size_t) == 4
-                              ? 512 * 1024 * 1024 /* 512 MiB */
-                              : 4ULL * 1024 * 1024 * 1024 /* 4 GiB */;
+    size_t MaxCacheSize =
+        sizeof(size_t) == 4
+            ? 512 * 1024 * 1024 /* 512 MiB */
+            : static_cast<size_t>(4ULL * 1024 * 1024 * 1024) /* 4 GiB */;
   };
 
   LLVMSymbolizer();
@@ -114,9 +115,16 @@ public:
   DemangleName(const std::string &Name,
                const SymbolizableModule *DbiModuleDescriptor);
 
-  void addDIFetcher(std::unique_ptr<DIFetcher> Fetcher) {
-    DIFetchers.push_back(std::move(Fetcher));
+  void setBuildIDFetcher(std::unique_ptr<BuildIDFetcher> Fetcher) {
+    BIDFetcher = std::move(Fetcher);
   }
+
+  /// Returns a SymbolizableModule or an error if loading debug info failed.
+  /// Only one attempt is made to load a module, and errors during loading are
+  /// only reported once. Subsequent calls to get module info for a module that
+  /// failed to load will return nullptr.
+  Expected<SymbolizableModule *>
+  getOrCreateModuleInfo(const std::string &ModuleName);
 
 private:
   // Bundles together object file with code/data and object file with
@@ -139,12 +147,6 @@ private:
   symbolizeFrameCommon(const T &ModuleSpecifier,
                        object::SectionedAddress ModuleOffset);
 
-  /// Returns a SymbolizableModule or an error if loading debug info failed.
-  /// Only one attempt is made to load a module, and errors during loading are
-  /// only reported once. Subsequent calls to get module info for a module that
-  /// failed to load will return nullptr.
-  Expected<SymbolizableModule *>
-  getOrCreateModuleInfo(const std::string &ModuleName);
   Expected<SymbolizableModule *> getOrCreateModuleInfo(const ObjectFile &Obj);
 
   /// Returns a SymbolizableModule or an error if loading debug info failed.
@@ -210,7 +212,7 @@ private:
 
   Options Opts;
 
-  SmallVector<std::unique_ptr<DIFetcher>> DIFetchers;
+  std::unique_ptr<BuildIDFetcher> BIDFetcher;
 };
 
 // A binary intrusively linked into a LRU cache list. If the binary is empty,

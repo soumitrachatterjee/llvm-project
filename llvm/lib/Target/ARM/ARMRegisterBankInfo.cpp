@@ -129,8 +129,7 @@ static void checkValueMappings() {
 } // end namespace arm
 } // end namespace llvm
 
-ARMRegisterBankInfo::ARMRegisterBankInfo(const TargetRegisterInfo &TRI)
-    : ARMGenRegisterBankInfo() {
+ARMRegisterBankInfo::ARMRegisterBankInfo(const TargetRegisterInfo &TRI) {
   // We have only one set of register banks, whatever the subtarget
   // is. Therefore, the initialization of the RegBanks table should be
   // done only once. Indeed the table of all register banks
@@ -163,7 +162,8 @@ ARMRegisterBankInfo::ARMRegisterBankInfo(const TargetRegisterInfo &TRI)
            "Subclass not added?");
     assert(RBGPR.covers(*TRI.getRegClass(ARM::tGPROdd_and_tcGPRRegClassID)) &&
            "Subclass not added?");
-    assert(RBGPR.getSize() == 32 && "GPRs should hold up to 32-bit");
+    assert(getMaximumSize(RBGPR.getID()) == 32 &&
+           "GPRs should hold up to 32-bit");
 
 #ifndef NDEBUG
     ARM::checkPartialMappings();

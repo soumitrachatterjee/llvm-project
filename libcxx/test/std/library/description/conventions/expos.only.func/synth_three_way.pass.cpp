@@ -13,16 +13,15 @@
 
 #include "test_macros.h"
 
-#if defined(TEST_COMPILER_CLANG) || defined(TEST_COMPILER_GCC)
-#pragma GCC diagnostic ignored "-Wsign-compare"
-#elif defined(TEST_COMPILER_MSVC)
-#pragma warning(disable: 4242 4244) // Various truncation warnings
-#endif
+TEST_CLANG_DIAGNOSTIC_IGNORED("-Wsign-compare")
+TEST_GCC_DIAGNOSTIC_IGNORED("-Wsign-compare")
+TEST_MSVC_DIAGNOSTIC_IGNORED(4242 4244) // Various truncation warnings
 
 #include <cassert>
 #include <compare>
 #include <limits>  // quiet_NaN
 #include <tuple>
+#include <type_traits>
 #include <utility> // declval
 
 template <typename T, typename U = T>

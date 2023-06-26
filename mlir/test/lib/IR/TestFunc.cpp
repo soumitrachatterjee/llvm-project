@@ -17,6 +17,8 @@ namespace {
 /// method.
 struct TestFuncInsertArg
     : public PassWrapper<TestFuncInsertArg, OperationPass<ModuleOp>> {
+  MLIR_DEFINE_EXPLICIT_INTERNAL_INLINE_TYPE_ID(TestFuncInsertArg)
+
   StringRef getArgument() const final { return "test-func-insert-arg"; }
   StringRef getDescription() const final { return "Test inserting func args."; }
   void runOnOperation() override {
@@ -33,13 +35,13 @@ struct TestFuncInsertArg
       SmallVector<Location, 4> locsToInsert;
       for (auto insert : inserts.getAsRange<ArrayAttr>()) {
         indicesToInsert.push_back(
-            insert[0].cast<IntegerAttr>().getValue().getZExtValue());
-        typesToInsert.push_back(insert[1].cast<TypeAttr>().getValue());
+            cast<IntegerAttr>(insert[0]).getValue().getZExtValue());
+        typesToInsert.push_back(cast<TypeAttr>(insert[1]).getValue());
         attrsToInsert.push_back(insert.size() > 2
-                                    ? insert[2].cast<DictionaryAttr>()
+                                    ? cast<DictionaryAttr>(insert[2])
                                     : DictionaryAttr::get(&getContext()));
         locsToInsert.push_back(insert.size() > 3
-                                   ? Location(insert[3].cast<LocationAttr>())
+                                   ? Location(cast<LocationAttr>(insert[3]))
                                    : unknownLoc);
       }
       func->removeAttr("test.insert_args");
@@ -52,6 +54,8 @@ struct TestFuncInsertArg
 /// This is a test pass for verifying FunctionOpInterface's insertResult method.
 struct TestFuncInsertResult
     : public PassWrapper<TestFuncInsertResult, OperationPass<ModuleOp>> {
+  MLIR_DEFINE_EXPLICIT_INTERNAL_INLINE_TYPE_ID(TestFuncInsertResult)
+
   StringRef getArgument() const final { return "test-func-insert-result"; }
   StringRef getDescription() const final {
     return "Test inserting func results.";
@@ -68,10 +72,10 @@ struct TestFuncInsertResult
       SmallVector<DictionaryAttr, 4> attrsToInsert;
       for (auto insert : inserts.getAsRange<ArrayAttr>()) {
         indicesToInsert.push_back(
-            insert[0].cast<IntegerAttr>().getValue().getZExtValue());
-        typesToInsert.push_back(insert[1].cast<TypeAttr>().getValue());
+            cast<IntegerAttr>(insert[0]).getValue().getZExtValue());
+        typesToInsert.push_back(cast<TypeAttr>(insert[1]).getValue());
         attrsToInsert.push_back(insert.size() > 2
-                                    ? insert[2].cast<DictionaryAttr>()
+                                    ? cast<DictionaryAttr>(insert[2])
                                     : DictionaryAttr::get(&getContext()));
       }
       func->removeAttr("test.insert_results");
@@ -84,6 +88,8 @@ struct TestFuncInsertResult
 /// method.
 struct TestFuncEraseArg
     : public PassWrapper<TestFuncEraseArg, OperationPass<ModuleOp>> {
+  MLIR_DEFINE_EXPLICIT_INTERNAL_INLINE_TYPE_ID(TestFuncEraseArg)
+
   StringRef getArgument() const final { return "test-func-erase-arg"; }
   StringRef getDescription() const final { return "Test erasing func args."; }
   void runOnOperation() override {
@@ -102,6 +108,8 @@ struct TestFuncEraseArg
 /// This is a test pass for verifying FunctionOpInterface's eraseResult method.
 struct TestFuncEraseResult
     : public PassWrapper<TestFuncEraseResult, OperationPass<ModuleOp>> {
+  MLIR_DEFINE_EXPLICIT_INTERNAL_INLINE_TYPE_ID(TestFuncEraseResult)
+
   StringRef getArgument() const final { return "test-func-erase-result"; }
   StringRef getDescription() const final {
     return "Test erasing func results.";
@@ -122,6 +130,8 @@ struct TestFuncEraseResult
 /// This is a test pass for verifying FunctionOpInterface's setType method.
 struct TestFuncSetType
     : public PassWrapper<TestFuncSetType, OperationPass<ModuleOp>> {
+  MLIR_DEFINE_EXPLICIT_INTERNAL_INLINE_TYPE_ID(TestFuncSetType)
+
   StringRef getArgument() const final { return "test-func-set-type"; }
   StringRef getDescription() const final {
     return "Test FunctionOpInterface::setType.";
@@ -134,8 +144,8 @@ struct TestFuncSetType
       auto sym = func->getAttrOfType<FlatSymbolRefAttr>("test.set_type_from");
       if (!sym)
         continue;
-      func.setType(
-          symbolTable.lookup<FunctionOpInterface>(sym.getValue()).getType());
+      func.setType(symbolTable.lookup<FunctionOpInterface>(sym.getValue())
+                       .getFunctionType());
     }
   }
 };

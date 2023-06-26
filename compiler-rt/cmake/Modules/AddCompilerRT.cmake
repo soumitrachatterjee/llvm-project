@@ -2,6 +2,12 @@ include(ExternalProject)
 include(CompilerRTUtils)
 include(HandleCompilerRT)
 
+# CMP0114: ExternalProject step targets fully adopt their steps.
+# New in CMake 3.19: https://cmake.org/cmake/help/latest/policy/CMP0114.html
+if(POLICY CMP0114)
+  cmake_policy(SET CMP0114 OLD)
+endif()
+
 function(set_target_output_directories target output_dir)
   # For RUNTIME_OUTPUT_DIRECTORY variable, Multi-configuration generators
   # append a per-configuration subdirectory to the specified directory.
@@ -77,6 +83,16 @@ function(add_compiler_rt_object_libraries name)
       list(REMOVE_ITEM target_flags "-msse3")
     endif()
 
+    # Build the macOS sanitizers with Mac Catalyst support.
+    if (APPLE AND
+        "${COMPILER_RT_ENABLE_MACCATALYST}" AND
+        "${libname}" MATCHES ".*\.osx.*")
+      foreach(arch ${LIB_ARCHS_${libname}})
+        list(APPEND target_flags
+          "SHELL:-target ${arch}-apple-macos${DARWIN_osx_MIN_VER} -darwin-target-variant ${arch}-apple-ios13.1-macabi")
+      endforeach()
+    endif()
+
     set_target_compile_flags(${libname}
       ${extra_cflags_${libname}} ${target_flags})
     set_property(TARGET ${libname} APPEND PROPERTY
@@ -105,17 +121,6 @@ function(add_compiler_rt_component name)
     runtime_register_component(${name})
   endif()
   add_dependencies(compiler-rt ${name})
-endfunction()
-
-function(add_asm_sources output)
-  set(${output} ${ARGN} PARENT_SCOPE)
-  # CMake doesn't pass the correct architecture for Apple prior to CMake 3.19. https://gitlab.kitware.com/cmake/cmake/-/issues/20771
-  # MinGW didn't work correctly with assembly prior to CMake 3.17. https://gitlab.kitware.com/cmake/cmake/-/merge_requests/4287 and https://reviews.llvm.org/rGb780df052dd2b246a760d00e00f7de9ebdab9d09
-  # Workaround these two issues by compiling as C.
-  # Same workaround used in libunwind. Also update there if changed here.
-  if((APPLE AND CMAKE_VERSION VERSION_LESS 3.19) OR (MINGW AND CMAKE_VERSION VERSION_LESS 3.17))
-    set_source_files_properties(${ARGN} PROPERTIES LANGUAGE C)
-  endif()
 endfunction()
 
 macro(set_output_name output name arch)
@@ -233,6 +238,17 @@ function(add_compiler_rt_runtime name type)
         format_object_libs(sources_${libname} ${os} ${LIB_OBJECT_LIBS})
         get_compiler_rt_output_dir(${COMPILER_RT_DEFAULT_TARGET_ARCH} output_dir_${libname})
         get_compiler_rt_install_dir(${COMPILER_RT_DEFAULT_TARGET_ARCH} install_dir_${libname})
+      endif()
+
+      # Build the macOS sanitizers with Mac Catalyst support.
+      if ("${COMPILER_RT_ENABLE_MACCATALYST}" AND
+          "${os}" MATCHES "^(osx)$")
+        foreach(arch ${LIB_ARCHS_${libname}})
+          list(APPEND extra_cflags_${libname}
+            "SHELL:-target ${arch}-apple-macos${DARWIN_osx_MIN_VER} -darwin-target-variant ${arch}-apple-ios13.1-macabi")
+          list(APPEND extra_link_flags_${libname}
+            "SHELL:-target ${arch}-apple-macos${DARWIN_osx_MIN_VER} -darwin-target-variant ${arch}-apple-ios13.1-macabi")
+        endforeach()
       endif()
     endforeach()
   else()
@@ -365,20 +381,40 @@ function(add_compiler_rt_runtime name type)
       target_link_libraries(${libname} PRIVATE ${builtins_${libname}})
     endif()
     if(${type} STREQUAL "SHARED")
-      if(COMMAND llvm_setup_rpath)
-        llvm_setup_rpath(${libname})
+      if(APPLE OR WIN32)
+        set_property(TARGET ${libname} PROPERTY BUILD_WITH_INSTALL_RPATH ON)
       endif()
       if(WIN32 AND NOT CYGWIN AND NOT MINGW)
         set_target_properties(${libname} PROPERTIES IMPORT_PREFIX "")
         set_target_properties(${libname} PROPERTIES IMPORT_SUFFIX ".lib")
       endif()
-      if(APPLE)
-        # Ad-hoc sign the dylibs
-        add_custom_command(TARGET ${libname}
-          POST_BUILD
-          COMMAND codesign --sign - $<TARGET_FILE:${libname}>
-          WORKING_DIRECTORY ${COMPILER_RT_OUTPUT_LIBRARY_DIR}
+      if (APPLE AND NOT CMAKE_LINKER MATCHES ".*lld.*")
+        # Ad-hoc sign the dylibs when using Xcode versions older than 12.
+        # Xcode 12 shipped with ld64-609.
+        # FIXME: Remove whole conditional block once everything uses Xcode 12+.
+        set(LD_V_OUTPUT)
+        execute_process(
+          COMMAND sh -c "${CMAKE_LINKER} -v 2>&1 | head -1"
+          RESULT_VARIABLE HAD_ERROR
+          OUTPUT_VARIABLE LD_V_OUTPUT
         )
+        if (HAD_ERROR)
+          message(FATAL_ERROR "${CMAKE_LINKER} failed with status ${HAD_ERROR}")
+        endif()
+        set(NEED_EXPLICIT_ADHOC_CODESIGN 1)
+        if ("${LD_V_OUTPUT}" MATCHES ".*ld64-([0-9.]+).*")
+          string(REGEX REPLACE ".*ld64-([0-9.]+).*" "\\1" HOST_LINK_VERSION ${LD_V_OUTPUT})
+          if (HOST_LINK_VERSION VERSION_GREATER_EQUAL 609)
+            set(NEED_EXPLICIT_ADHOC_CODESIGN 0)
+          endif()
+        endif()
+        if (NEED_EXPLICIT_ADHOC_CODESIGN)
+          add_custom_command(TARGET ${libname}
+            POST_BUILD
+            COMMAND codesign --sign - $<TARGET_FILE:${libname}>
+            WORKING_DIRECTORY ${COMPILER_RT_OUTPUT_LIBRARY_DIR}
+          )
+        endif()
       endif()
     endif()
 
@@ -461,7 +497,7 @@ function(add_compiler_rt_test test_suite test_name arch)
   set(output_dir "${output_dir}/${CMAKE_CFG_INTDIR}")
   file(MAKE_DIRECTORY "${output_dir}")
   set(output_bin "${output_dir}/${test_name}")
-  if(MSVC)
+  if(WIN32)
     set(output_bin "${output_bin}.exe")
   endif()
 
@@ -602,8 +638,10 @@ macro(add_custom_libcxx name prefix)
     CMAKE_READELF
     CMAKE_SYSROOT
     LIBCXX_HAS_MUSL_LIBC
+    LIBCXX_HAS_GCC_S_LIB
     LIBCXX_HAS_PTHREAD_LIB
     LIBCXX_HAS_RT_LIB
+    LIBCXX_USE_COMPILER_RT
     LIBCXXABI_HAS_PTHREAD_LIB
     PYTHON_EXECUTABLE
     Python3_EXECUTABLE
@@ -642,7 +680,6 @@ macro(add_custom_libcxx name prefix)
                -DLIBCXXABI_HERMETIC_STATIC_LIBRARY=ON
                -DLIBCXXABI_INCLUDE_TESTS=OFF
                -DLIBCXX_CXX_ABI=libcxxabi
-               -DLIBCXX_ENABLE_EXPERIMENTAL_LIBRARY=OFF
                -DLIBCXX_ENABLE_SHARED=OFF
                -DLIBCXX_HERMETIC_STATIC_LIBRARY=ON
                -DLIBCXX_INCLUDE_BENCHMARKS=OFF

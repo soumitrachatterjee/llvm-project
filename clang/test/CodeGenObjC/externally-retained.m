@@ -45,8 +45,7 @@ void in_init(void) {
   // CHECK-NEXT: [[GLOBAL:%.*]] = load {{.*}} @global
   // CHECK-NEXT: [[WAT_LOAD:%.*]] = load {{.*}} [[WAT]]
   // CHECK-NEXT: store {{.*}} [[GLOBAL]], {{.*}} [[WAT]]
-  // CHECK-NEXT: [[CASTED:%.*]] = bitcast {{.*}} [[WAT_LOAD]] to
-  // CHECK-NEXT: call void @llvm.objc.release(i8* [[CASTED]])
+  // CHECK-NEXT: call void @llvm.objc.release(ptr [[WAT_LOAD]])
 
   // CHECK-NOT: llvm.objc.
   // CHECK: ret
@@ -59,7 +58,7 @@ void block_capture(ObjTy *obj) EXT_RET {
 
   // CHECK-LABEL: define{{.*}} void @block_capture
   // CHECK-NOT: llvm.objc.
-  // CHECK: call i8* @llvm.objc.retain
+  // CHECK: call ptr @llvm.objc.retain
   // CHECK-NOT: llvm.objc.
   // CHECK: call void @esc
   // CHECK-NOT: llvm.objc.

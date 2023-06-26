@@ -15,11 +15,9 @@
 #ifndef LLVM_CODEGEN_MACHINEOUTLINER_H
 #define LLVM_CODEGEN_MACHINEOUTLINER_H
 
-#include "llvm/CodeGen/LivePhysRegs.h"
 #include "llvm/CodeGen/LiveRegUnits.h"
 #include "llvm/CodeGen/MachineFunction.h"
 #include "llvm/CodeGen/MachineRegisterInfo.h"
-#include "llvm/CodeGen/TargetRegisterInfo.h"
 #include <initializer_list>
 
 namespace llvm {
@@ -201,7 +199,7 @@ public:
             unsigned FunctionIdx, unsigned Flags)
       : StartIdx(StartIdx), Len(Len), FirstInst(FirstInst), LastInst(LastInst),
         MBB(MBB), FunctionIdx(FunctionIdx), Flags(Flags) {}
-  Candidate() = default;
+  Candidate() = delete;
 
   /// Used to ensure that \p Candidates are outlined in an order that
   /// preserves the start and end indices of other \p Candidates.
@@ -270,7 +268,7 @@ public:
       C.Benefit = B;
   }
 
-  OutlinedFunction() = default;
+  OutlinedFunction() = delete;
 };
 } // namespace outliner
 } // namespace llvm

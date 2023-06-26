@@ -38,14 +38,15 @@ protected:
   CodeGenModule &CGM;
   llvm::Type *PipeROTy;
   llvm::Type *PipeWOTy;
-  llvm::PointerType *SamplerTy;
+  llvm::Type *SamplerTy;
   llvm::StringMap<llvm::PointerType *> CachedTys;
 
   /// Structure for enqueued block information.
   struct EnqueuedBlockInfo {
     llvm::Function *InvokeFunc; /// Block invoke function.
-    llvm::Function *Kernel;     /// Enqueued block kernel.
+    llvm::Value *KernelHandle;  /// Enqueued block kernel reference.
     llvm::Value *BlockArg;      /// The first argument to enqueued block kernel.
+    llvm::Type *BlockTy;        /// Type of the block argument.
   };
   /// Maps block expression to block information.
   llvm::DenseMap<const Expr *, EnqueuedBlockInfo> EnqueuedBlockMap;
@@ -69,7 +70,7 @@ public:
 
   virtual llvm::Type *getPipeType(const PipeType *T);
 
-  llvm::PointerType *getSamplerType(const Type *T);
+  llvm::Type *getSamplerType(const Type *T);
 
   // Returns a value which indicates the size in bytes of the pipe
   // element.
@@ -93,7 +94,7 @@ public:
   /// \param InvokeF invoke function emitted for the block expression.
   /// \param Block block literal emitted for the block expression.
   void recordBlockInfo(const BlockExpr *E, llvm::Function *InvokeF,
-                       llvm::Value *Block);
+                       llvm::Value *Block, llvm::Type *BlockTy);
 
   /// \return LLVM block invoke function emitted for an expression derived from
   /// the block expression.

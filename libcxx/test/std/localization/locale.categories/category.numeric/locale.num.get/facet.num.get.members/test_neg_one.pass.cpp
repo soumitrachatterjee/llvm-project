@@ -19,12 +19,11 @@
 #include <cassert>
 #include <streambuf>
 #include <sstream>
+
 #include "test_iterators.h"
 #include "test_macros.h"
 
-#ifdef TEST_COMPILER_MSVC
-#pragma warning(disable: 4146) // unary minus operator applied to unsigned type, result still unsigned
-#endif
+TEST_MSVC_DIAGNOSTIC_IGNORED(4146) // unary minus operator applied to unsigned type, result still unsigned
 
 typedef std::num_get<char, cpp17_input_iterator<const char*> > F;
 
@@ -85,7 +84,7 @@ void test_negate() {
         ++value;
         std::string std_str = make_neg_string(value);
         const char* str = std_str.data();
-        size_t size = std_str.size();
+        std::size_t size = std_str.size();
         std::ios_base::iostate err = ios.goodbit;
         cpp17_input_iterator<const char*> iter =
             f.get(cpp17_input_iterator<const char*>(str),
@@ -103,7 +102,7 @@ void test_negate() {
         ++value;
         std::string std_str = make_neg_string(value);
         const char* str = std_str.data();
-        size_t size = std_str.size();
+        std::size_t size = std_str.size();
         std::ios_base::iostate err = ios.goodbit;
         cpp17_input_iterator<const char*> iter =
             f.get(cpp17_input_iterator<const char*>(str),
@@ -119,7 +118,7 @@ void test_negate() {
         T value = std::numeric_limits<T>::max();
         std::string std_str = make_neg_string(value);
         const char* str = std_str.data();
-        size_t size = std_str.size();
+        std::size_t size = std_str.size();
         std::ios_base::iostate err = ios.goodbit;
         cpp17_input_iterator<const char*> iter =
             f.get(cpp17_input_iterator<const char*>(str),
@@ -135,7 +134,7 @@ void test_negate() {
         std::string std_str = make_neg_string(std::numeric_limits<T>::max());
         std_str.back()++;
         const char* str = std_str.data();
-        size_t size = std_str.size();
+        std::size_t size = std_str.size();
         std::ios_base::iostate err = ios.goodbit;
         cpp17_input_iterator<const char*> iter =
             f.get(cpp17_input_iterator<const char*>(str),

@@ -178,6 +178,9 @@ public:
   MCSection *getSectionForJumpTable(const Function &F,
                                     const TargetMachine &TM) const override;
 
+  bool shouldPutJumpTableInFunctionSection(bool UsesLabelDifference,
+                                           const Function &F) const override;
+
   /// Emit Obj-C garbage collection and linker options.
   void emitModuleMetadata(MCStreamer &Streamer, Module &M) const override;
 
@@ -286,6 +289,13 @@ public:
 
   MCSymbol *getFunctionEntryPointSymbol(const GlobalValue *Func,
                                         const TargetMachine &TM) const override;
+
+  /// For functions, this will return the LSDA section. If option
+  /// -ffunction-sections is on, this will return a unique csect with the
+  /// function name appended to .gcc_except_table as a suffix of the LSDA
+  /// section name.
+  MCSection *getSectionForLSDA(const Function &F, const MCSymbol &FnSym,
+                               const TargetMachine &TM) const override;
 };
 
 class TargetLoweringObjectFileGOFF : public TargetLoweringObjectFile {

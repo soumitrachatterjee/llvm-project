@@ -32,6 +32,20 @@ void ConstantBounds::set_lbounds(ConstantSubscripts &&lb) {
   }
 }
 
+ConstantSubscripts ConstantBounds::ComputeUbounds(
+    std::optional<int> dim) const {
+  if (dim) {
+    CHECK(*dim < Rank());
+    return {lbounds_[*dim] + shape_[*dim] - 1};
+  } else {
+    ConstantSubscripts ubounds(Rank());
+    for (int i{0}; i < Rank(); ++i) {
+      ubounds[i] = lbounds_[i] + shape_[i] - 1;
+    }
+    return ubounds;
+  }
+}
+
 void ConstantBounds::SetLowerBoundsToOne() {
   for (auto &n : lbounds_) {
     n = 1;
@@ -330,6 +344,12 @@ Constant<SomeDerived>::GetScalarValue() const {
 StructureConstructor Constant<SomeDerived>::At(
     const ConstantSubscripts &index) const {
   return {result().derivedTypeSpec(), values_.at(SubscriptsToOffset(index))};
+}
+
+bool Constant<SomeDerived>::operator==(
+    const Constant<SomeDerived> &that) const {
+  return result().derivedTypeSpec() == that.result().derivedTypeSpec() &&
+      shape() == that.shape() && values_ == that.values_;
 }
 
 auto Constant<SomeDerived>::Reshape(ConstantSubscripts &&dims) const

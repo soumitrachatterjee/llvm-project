@@ -6,8 +6,12 @@
 //
 //===----------------------------------------------------------------------===//
 
-#include <__assert>
 #include <__config>
+#ifdef _LIBCPP_DEPRECATED_ABI_LEGACY_LIBRARY_DEFINITIONS_FOR_INLINE_FUNCTIONS
+#   define _LIBCPP_ERROR_CATEGORY_DEFINE_LEGACY_INLINE_FUNCTIONS
+#endif
+
+#include <__assert>
 #include <cerrno>
 #include <cstdio>
 #include <cstdlib>
@@ -26,7 +30,7 @@ _LIBCPP_BEGIN_NAMESPACE_STD
 
 // class error_category
 
-#if defined(_LIBCPP_DEPRECATED_ABI_LEGACY_LIBRARY_DEFINITIONS_FOR_INLINE_FUNCTIONS)
+#if defined(_LIBCPP_ERROR_CATEGORY_DEFINE_LEGACY_INLINE_FUNCTIONS)
 error_category::error_category() noexcept
 {
 }
@@ -282,7 +286,7 @@ system_error::~system_error() noexcept
 void
 __throw_system_error(int ev, const char* what_arg)
 {
-#ifndef _LIBCPP_NO_EXCEPTIONS
+#ifndef _LIBCPP_HAS_NO_EXCEPTIONS
     throw system_error(error_code(ev, system_category()), what_arg);
 #else
     (void)ev;

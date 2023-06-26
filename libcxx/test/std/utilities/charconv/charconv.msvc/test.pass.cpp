@@ -8,14 +8,14 @@
 
 // UNSUPPORTED: c++03, c++11, c++14
 
-// to_chars requires functions in the dylib that were introduced in Mac OS 10.15.
-//
-// XFAIL: use_system_cxx_lib && target={{.+}}-apple-macosx10.{{.+}}
+// to_chars requires functions in the dylib that have not been introduced in older
+// versions of the dylib on macOS.
+// XFAIL: availability-fp_to_chars-missing
 
 // steady_clock requires threads.
-// UNSUPPORTED: libcpp-has-no-threads
-// UNSUPPORTED: libcpp-has-no-random-device
-// UNSUPPORTED: libcpp-has-no-localization
+// UNSUPPORTED: no-threads
+// UNSUPPORTED: no-random-device
+// UNSUPPORTED: no-localization
 
 // XFAIL: LIBCXX-AIX-FIXME
 

@@ -37,6 +37,8 @@ class SystemZMCCodeEmitter : public MCCodeEmitter {
   const MCInstrInfo &MCII;
   MCContext &Ctx;
 
+  mutable unsigned MemOpsEmitted;
+
 public:
   SystemZMCCodeEmitter(const MCInstrInfo &mcii, MCContext &ctx)
     : MCII(mcii), Ctx(ctx) {
@@ -45,7 +47,7 @@ public:
   ~SystemZMCCodeEmitter() override = default;
 
   // OVerride MCCodeEmitter.
-  void encodeInstruction(const MCInst &MI, raw_ostream &OS,
+  void encodeInstruction(const MCInst &MI, SmallVectorImpl<char> &CB,
                          SmallVectorImpl<MCFixup> &Fixups,
                          const MCSubtargetInfo &STI) const override;
 
@@ -148,29 +150,21 @@ private:
     return getPCRelEncoding(MI, OpNum, Fixups,
                             SystemZ::FK_390_PC24DBL, 3, false);
   }
-
-private:
-  FeatureBitset computeAvailableFeatures(const FeatureBitset &FB) const;
-  void
-  verifyInstructionPredicates(const MCInst &MI,
-                              const FeatureBitset &AvailableFeatures) const;
 };
 
 } // end anonymous namespace
 
-void SystemZMCCodeEmitter::
-encodeInstruction(const MCInst &MI, raw_ostream &OS,
-                  SmallVectorImpl<MCFixup> &Fixups,
-                  const MCSubtargetInfo &STI) const {
-  verifyInstructionPredicates(MI,
-                              computeAvailableFeatures(STI.getFeatureBits()));
-
+void SystemZMCCodeEmitter::encodeInstruction(const MCInst &MI,
+                                             SmallVectorImpl<char> &CB,
+                                             SmallVectorImpl<MCFixup> &Fixups,
+                                             const MCSubtargetInfo &STI) const {
+  MemOpsEmitted = 0;
   uint64_t Bits = getBinaryCodeForInstr(MI, Fixups, STI);
   unsigned Size = MCII.get(MI.getOpcode()).getSize();
   // Big-endian insertion of Size bytes.
   unsigned ShiftValue = (Size * 8) - 8;
   for (unsigned I = 0; I != Size; ++I) {
-    OS << uint8_t(Bits >> ShiftValue);
+    CB.push_back(uint8_t(Bits >> ShiftValue));
     ShiftValue -= 8;
   }
 }
@@ -191,12 +185,14 @@ getDispOpValue(const MCInst &MI, unsigned OpNum,
                SmallVectorImpl<MCFixup> &Fixups,
                SystemZ::FixupKind Kind) const {
   const MCOperand &MO = MI.getOperand(OpNum);
-  if (MO.isImm())
+  if (MO.isImm()) {
+    ++MemOpsEmitted;
     return static_cast<uint64_t>(MO.getImm());
+  }
   if (MO.isExpr()) {
     // All instructions follow the pattern where the first displacement has a
     // 2 bytes offset, and the second one 4 bytes.
-    unsigned ByteOffs = Fixups.size() == 0 ? 2 : 4;
+    unsigned ByteOffs = MemOpsEmitted++ == 0 ? 2 : 4;
     Fixups.push_back(MCFixup::create(ByteOffs, MO.getExpr(), (MCFixupKind)Kind,
                                      MI.getLoc()));
     assert(Fixups.size() <= 2 && "More than two memory operands in MI?");
@@ -324,7 +320,6 @@ SystemZMCCodeEmitter::getPCRelEncoding(const MCInst &MI, unsigned OpNum,
   return 0;
 }
 
-#define ENABLE_INSTR_PREDICATE_VERIFIER
 #include "SystemZGenMCCodeEmitter.inc"
 
 MCCodeEmitter *llvm::createSystemZMCCodeEmitter(const MCInstrInfo &MCII,

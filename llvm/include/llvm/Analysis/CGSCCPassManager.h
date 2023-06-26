@@ -159,7 +159,7 @@ struct RequireAnalysisPass<AnalysisT, LazyCallGraph::SCC, CGSCCAnalysisManager,
                      function_ref<StringRef(StringRef)> MapClassName2PassName) {
     auto ClassName = AnalysisT::name();
     auto PassName = MapClassName2PassName(ClassName);
-    OS << "require<" << PassName << ">";
+    OS << "require<" << PassName << '>';
   }
 };
 
@@ -272,16 +272,6 @@ struct CGSCCUpdateResult {
   /// the list and removing entries from it.
   SmallPtrSetImpl<LazyCallGraph::SCC *> &InvalidatedSCCs;
 
-  /// If non-null, the updated current \c RefSCC being processed.
-  ///
-  /// This is set when a graph refinement takes place and the "current" point
-  /// in the graph moves "down" or earlier in the post-order walk. This will
-  /// often cause the "current" RefSCC to be a newly created RefSCC object and
-  /// the old one to be added to the above worklist. When that happens, this
-  /// pointer is non-null and can be used to continue processing the "top" of
-  /// the post-order walk.
-  LazyCallGraph::RefSCC *UpdatedRC;
-
   /// If non-null, the updated current \c SCC being processed.
   ///
   /// This is set when a graph refinement takes place and the "current" point
@@ -367,7 +357,7 @@ public:
                      function_ref<StringRef(StringRef)> MapClassName2PassName) {
     OS << "cgscc(";
     Pass->printPipeline(OS, MapClassName2PassName);
-    OS << ")";
+    OS << ')';
   }
 
   static bool isRequired() { return true; }
@@ -497,11 +487,19 @@ public:
   void printPipeline(raw_ostream &OS,
                      function_ref<StringRef(StringRef)> MapClassName2PassName) {
     OS << "function";
-    if (EagerlyInvalidate)
-      OS << "<eager-inv>";
-    OS << "(";
+    if (EagerlyInvalidate || NoRerun) {
+      OS << "<";
+      if (EagerlyInvalidate)
+        OS << "eager-inv";
+      if (EagerlyInvalidate && NoRerun)
+        OS << ";";
+      if (NoRerun)
+        OS << "no-rerun";
+      OS << ">";
+    }
+    OS << '(';
     Pass->printPipeline(OS, MapClassName2PassName);
-    OS << ")";
+    OS << ')';
   }
 
   static bool isRequired() { return true; }
@@ -577,7 +575,7 @@ public:
                      function_ref<StringRef(StringRef)> MapClassName2PassName) {
     OS << "devirt<" << MaxIterations << ">(";
     Pass->printPipeline(OS, MapClassName2PassName);
-    OS << ")";
+    OS << ')';
   }
 
 private:

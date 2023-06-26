@@ -5,6 +5,7 @@ add_entrypoint_object(
   HDRS
     atoi.h
   DEPENDS
+    libc.src.errno.errno
     libc.src.__support.str_to_integer
 )
 
@@ -15,6 +16,7 @@ add_entrypoint_object(
   HDRS
     atof.h
   DEPENDS
+    libc.src.errno.errno
     libc.src.__support.str_to_float
 )
 
@@ -25,6 +27,7 @@ add_entrypoint_object(
   HDRS
     atol.h
   DEPENDS
+    libc.src.errno.errno
     libc.src.__support.str_to_integer
 )
 
@@ -35,6 +38,7 @@ add_entrypoint_object(
   HDRS
     atoll.h
   DEPENDS
+    libc.src.errno.errno
     libc.src.__support.str_to_integer
 )
 
@@ -46,7 +50,6 @@ add_entrypoint_object(
     getenv.h
   DEPENDS
     libc.config.linux.app_h
-    libc.src.string.strncmp
 )
 
 add_entrypoint_object(
@@ -56,6 +59,7 @@ add_entrypoint_object(
   HDRS
     strtof.h
   DEPENDS
+    libc.src.errno.errno
     libc.src.__support.str_to_float
 )
 
@@ -66,6 +70,7 @@ add_entrypoint_object(
   HDRS
     strtod.h
   DEPENDS
+    libc.src.errno.errno
     libc.src.__support.str_to_float
 )
 
@@ -76,6 +81,7 @@ add_entrypoint_object(
   HDRS
     strtold.h
   DEPENDS
+    libc.src.errno.errno
     libc.src.__support.str_to_float
 )
 
@@ -86,6 +92,7 @@ add_entrypoint_object(
   HDRS
     strtol.h
   DEPENDS
+    libc.src.errno.errno
     libc.src.__support.str_to_integer
 )
 
@@ -96,6 +103,7 @@ add_entrypoint_object(
   HDRS
     strtoll.h
   DEPENDS
+    libc.src.errno.errno
     libc.src.__support.str_to_integer
 )
 
@@ -106,6 +114,7 @@ add_entrypoint_object(
   HDRS
     strtoul.h
   DEPENDS
+    libc.src.errno.errno
     libc.src.__support.str_to_integer
 )
 
@@ -116,6 +125,7 @@ add_entrypoint_object(
   HDRS
     strtoull.h
   DEPENDS
+    libc.src.errno.errno
     libc.src.__support.str_to_integer
 )
 
@@ -192,6 +202,14 @@ add_entrypoint_object(
     libc.include.stdlib
 )
 
+add_header_library(
+  qsort_util
+  HDRS
+    qsort_util.h
+  DEPENDS
+    libc.include.stdlib
+)
+
 add_entrypoint_object(
   qsort
   SRCS
@@ -199,6 +217,50 @@ add_entrypoint_object(
   HDRS
     qsort.h
   DEPENDS
+    .qsort_util
+    libc.include.stdlib
+)
+
+add_entrypoint_object(
+  qsort_r
+  SRCS
+    qsort_r.cpp
+  HDRS
+    qsort_r.h
+  DEPENDS
+    .qsort_util
+    libc.include.stdlib
+)
+
+add_object_library(
+  rand_util
+  SRCS
+    rand_util.cpp
+  HDRS
+    rand_util.h
+  DEPENDS
+    libc.src.__support.common
+)
+
+add_entrypoint_object(
+  rand
+  SRCS
+    rand.cpp
+  HDRS
+    rand.h
+  DEPENDS
+    .rand_util
+    libc.include.stdlib
+)
+
+add_entrypoint_object(
+  srand
+  SRCS
+    srand.cpp
+  HDRS
+    srand.h
+  DEPENDS
+    .rand_util
     libc.include.stdlib
 )
 
@@ -236,13 +298,31 @@ if(LLVM_LIBC_INCLUDE_SCUDO)
       ${SCUDO_DEPS}
   )
   add_entrypoint_external(
+    aligned_alloc
+    DEPENDS
+      ${SCUDO_DEPS}
+  )
+  add_entrypoint_external(
     free
     DEPENDS
       ${SCUDO_DEPS}
   )
+elseif(LIBC_TARGET_ARCHITECTURE_IS_GPU)
+  add_entrypoint_external(
+    calloc
+  )
+  add_entrypoint_external(
+    realloc
+  )
+  add_entrypoint_external(
+    aligned_alloc
+  )
 else()
   add_entrypoint_external(
     malloc
+  )
+  add_entrypoint_external(
+    free
   )
   add_entrypoint_external(
     calloc
@@ -251,7 +331,7 @@ else()
     realloc
   )
   add_entrypoint_external(
-    free
+    aligned_alloc
   )
 endif()
 
@@ -265,9 +345,13 @@ endif()
 
 add_entrypoint_object(
   _Exit
-  ALIAS
+  SRCS
+    _Exit.cpp
+  HDRS
+    _Exit.h
   DEPENDS
-    .${LIBC_TARGET_OS}._Exit
+    libc.include.stdlib
+    libc.src.__support.OSUtil.osutil
 )
 
 add_entrypoint_object(
@@ -279,8 +363,9 @@ add_entrypoint_object(
   CXX_STANDARD
     20 # For constinit of the atexit callback list.
   DEPENDS
-    libc.src.__support.CPP.blockstore
-    libc.src.__support.threads.thread
+    libc.src.__support.fixedvector
+    libc.src.__support.blockstore
+    libc.src.__support.threads.mutex
 )
 
 add_entrypoint_object(
@@ -292,11 +377,28 @@ add_entrypoint_object(
   DEPENDS
     ._Exit
     .atexit
+    libc.src.__support.OSUtil.osutil
 )
 
-# add_entrypoint_object(
-#   abort
-#   ALIAS
-#   DEPENDS
-#     .${LIBC_TARGET_OS}.abort
-# )
+add_entrypoint_object(
+  abort
+  ALIAS
+  DEPENDS
+    .${LIBC_TARGET_OS}.abort
+)
+
+if(LIBC_TARGET_ARCHITECTURE_IS_GPU)
+  add_entrypoint_object(
+    malloc
+    ALIAS
+    DEPENDS
+      .${LIBC_TARGET_OS}.malloc
+  )
+
+  add_entrypoint_object(
+    free
+    ALIAS
+    DEPENDS
+      .${LIBC_TARGET_OS}.free
+  )
+endif()

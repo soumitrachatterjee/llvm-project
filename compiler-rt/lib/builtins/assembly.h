@@ -189,14 +189,6 @@
   JMP(ip)
 #endif
 
-#if __ARM_ARCH >= 7
-#define DMB dmb
-#elif __ARM_ARCH >= 6
-#define DMB mcr p15, #0, r0, c7, c10, #5
-#else
-#error only supported on ARMv6+
-#endif
-
 #if defined(USE_THUMB_2)
 #define WIDE(op) op.w
 #else
@@ -275,7 +267,7 @@
 #define DEFINE_COMPILERRT_FUNCTION_ALIAS(name, target)                         \
   .globl SYMBOL_NAME(name) SEPARATOR                                           \
   SYMBOL_IS_FUNC(SYMBOL_NAME(name)) SEPARATOR                                  \
-  DECLARE_SYMBOL_VISIBILITY(SYMBOL_NAME(name)) SEPARATOR                       \
+  DECLARE_SYMBOL_VISIBILITY(name) SEPARATOR                                    \
   .set SYMBOL_NAME(name), SYMBOL_NAME(target) SEPARATOR
 
 #if defined(__ARM_EABI__)

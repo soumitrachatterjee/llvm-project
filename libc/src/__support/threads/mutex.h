@@ -1,17 +1,15 @@
+//===--- A platform independent abstraction layer for mutexes ---*- C++ -*-===//
+//
+// Part of the LLVM Project, under the Apache License v2.0 with LLVM Exceptions.
+// See https://llvm.org/LICENSE.txt for license information.
+// SPDX-License-Identifier: Apache-2.0 WITH LLVM-exception
+//
+//===----------------------------------------------------------------------===//
+
 #ifndef LLVM_LIBC_SRC_SUPPORT_THREAD_MUTEX_H
 #define LLVM_LIBC_SRC_SUPPORT_THREAD_MUTEX_H
 
-namespace __llvm_libc {
-
-enum class MutexError : int {
-  NONE,
-  BUSY,
-  TIMEOUT,
-  UNLOCK_WITHOUT_LOCK,
-  BAD_LOCK_STATE,
-};
-
-} // namespace __llvm_libc
+#include "src/__support/macros/properties/architectures.h"
 
 // Platform independent code will include this header file which pulls
 // the platfrom specific specializations using platform macros.
@@ -39,15 +37,13 @@ enum class MutexError : int {
 // few global locks. So, to avoid static initialization order fiasco, we
 // want the constructors of the Mutex classes to be constexprs.
 
-#ifdef __unix__
+#if defined(__unix__)
 #include "linux/mutex.h"
+#elif defined(LIBC_TARGET_ARCH_IS_GPU)
+#include "gpu/mutex.h"
 #endif // __unix__
 
 namespace __llvm_libc {
-
-static_assert(sizeof(Mutex) <= sizeof(mtx_t),
-              "The public mtx_t type cannot accommodate the internal mutex "
-              "type.");
 
 // An RAII class for easy locking and unlocking of mutexes.
 class MutexLock {

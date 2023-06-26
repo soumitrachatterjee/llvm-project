@@ -53,7 +53,7 @@ let FunctionMapper = "AArch64_AM::getShiftType" in {
 }
 
 // Check for shifting in arithmetic and logic instructions.
-foreach I = {0-3, 8} in {
+foreach I = {0-4, 8} in {
   let FunctionMapper = "AArch64_AM::getShiftValue" in
   def CheckShiftBy#I        : CheckImmOperand<3, I>;
 }
@@ -63,6 +63,12 @@ foreach I = {0-3, 8} in {
 def CheckFpOrNEON : CheckFunctionPredicateWithTII<
   "AArch64_MC::isFpOrNEON",
   "AArch64InstrInfo::isFpOrNEON"
+>;
+
+// Identify whether an instruction is the 16-bit NEON form based on its result.
+def CheckHForm : CheckFunctionPredicateWithTII<
+  "AArch64_MC::isHForm",
+  "AArch64InstrInfo::isHForm"
 >;
 
 // Identify whether an instruction is the 128-bit NEON form based on its result.
@@ -310,3 +316,8 @@ def IsZeroIdiomFn     : TIIPredicate<"isZeroIdiom",
                                               CheckZeroOperand<2>]>>>],
                                       MCReturnStatement<FalsePred>>>;
 def IsZeroIdiomPred   : MCSchedPredicate<IsZeroIdiomFn>;
+
+// Identify EXTR as the alias for ROR (immediate).
+def IsRORImmIdiomPred : MCSchedPredicate<
+                          CheckAll<[CheckOpcode<[EXTRWrri, EXTRXrri]>,
+                                    CheckSameRegOperand<1, 2>]>>;

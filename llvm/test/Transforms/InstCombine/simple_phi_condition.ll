@@ -35,8 +35,8 @@ define i1 @test_inverted_implication(i1 %cond) {
 ; CHECK:       if.false:
 ; CHECK-NEXT:    br label [[MERGE]]
 ; CHECK:       merge:
-; CHECK-NEXT:    [[TMP0:%.*]] = xor i1 [[COND]], true
-; CHECK-NEXT:    ret i1 [[TMP0]]
+; CHECK-NEXT:    [[RET:%.*]] = xor i1 [[COND]], true
+; CHECK-NEXT:    ret i1 [[RET]]
 ;
 entry:
   br i1 %cond, label %if.true, label %if.false
@@ -129,8 +129,8 @@ define i1 @test_inverted_implication_complex_cfg(i1 %cond, i32 %cnt1) {
 ; CHECK:       if.false:
 ; CHECK-NEXT:    br label [[MERGE]]
 ; CHECK:       merge:
-; CHECK-NEXT:    [[TMP0:%.*]] = xor i1 [[COND]], true
-; CHECK-NEXT:    ret i1 [[TMP0]]
+; CHECK-NEXT:    [[RET:%.*]] = xor i1 [[COND]], true
+; CHECK-NEXT:    ret i1 [[RET]]
 ;
 entry:
   br i1 %cond, label %if.true, label %if.false
@@ -279,8 +279,7 @@ define i8 @test_switch(i8 %cond) {
 ; CHECK:       default:
 ; CHECK-NEXT:    ret i8 42
 ; CHECK:       merge:
-; CHECK-NEXT:    [[RET:%.*]] = phi i8 [ 1, [[SW_1]] ], [ 7, [[SW_7]] ], [ 19, [[SW_19]] ]
-; CHECK-NEXT:    ret i8 [[RET]]
+; CHECK-NEXT:    ret i8 [[COND]]
 ;
 entry:
   switch i8 %cond, label %default [
@@ -321,8 +320,7 @@ define i8 @test_switch_direct_edge(i8 %cond) {
 ; CHECK:       default:
 ; CHECK-NEXT:    ret i8 42
 ; CHECK:       merge:
-; CHECK-NEXT:    [[RET:%.*]] = phi i8 [ 1, [[SW_1]] ], [ 7, [[SW_7]] ], [ 19, [[ENTRY:%.*]] ]
-; CHECK-NEXT:    ret i8 [[RET]]
+; CHECK-NEXT:    ret i8 [[COND]]
 ;
 entry:
   switch i8 %cond, label %default [
@@ -396,8 +394,7 @@ define i8 @test_switch_subset(i8 %cond) {
 ; CHECK:       default:
 ; CHECK-NEXT:    ret i8 42
 ; CHECK:       merge:
-; CHECK-NEXT:    [[RET:%.*]] = phi i8 [ 1, [[SW_1]] ], [ 7, [[SW_7]] ]
-; CHECK-NEXT:    ret i8 [[RET]]
+; CHECK-NEXT:    ret i8 [[COND]]
 ;
 entry:
   switch i8 %cond, label %default [
@@ -484,7 +481,7 @@ define i8 @test_switch_inverted(i8 %cond) {
 ; CHECK:       default:
 ; CHECK-NEXT:    ret i8 42
 ; CHECK:       merge:
-; CHECK-NEXT:    [[RET:%.*]] = phi i8 [ -1, [[SW_0]] ], [ -2, [[SW_1]] ], [ -3, [[SW_2]] ]
+; CHECK-NEXT:    [[RET:%.*]] = xor i8 [[COND]], -1
 ; CHECK-NEXT:    ret i8 [[RET]]
 ;
 entry:
@@ -586,5 +583,71 @@ sw.19:
 
 merge:
   %ret = phi i8 [ 1, %sw.1 ], [ 7, %sw.7 ], [ 19, %sw.19 ], [ 42, %entry ]
+  ret i8 %ret
+}
+
+define i8 @test_switch_default_edge_direct(i8 %cond) {
+; CHECK-LABEL: @test_switch_default_edge_direct(
+; CHECK-NEXT:  entry:
+; CHECK-NEXT:    switch i8 [[COND:%.*]], label [[MERGE:%.*]] [
+; CHECK-NEXT:    i8 1, label [[SW_1:%.*]]
+; CHECK-NEXT:    i8 7, label [[SW_7:%.*]]
+; CHECK-NEXT:    i8 19, label [[MERGE]]
+; CHECK-NEXT:    ]
+; CHECK:       sw.1:
+; CHECK-NEXT:    br label [[MERGE]]
+; CHECK:       sw.7:
+; CHECK-NEXT:    br label [[MERGE]]
+; CHECK:       merge:
+; CHECK-NEXT:    [[RET:%.*]] = phi i8 [ 1, [[SW_1]] ], [ 7, [[SW_7]] ], [ 19, [[ENTRY:%.*]] ], [ 19, [[ENTRY]] ]
+; CHECK-NEXT:    ret i8 [[RET]]
+;
+entry:
+  switch i8 %cond, label %merge [
+  i8 1, label %sw.1
+  i8 7, label %sw.7
+  i8 19, label %merge
+  ]
+sw.1:
+  br label %merge
+sw.7:
+  br label %merge
+merge:
+  %ret = phi i8 [ 1, %sw.1 ], [ 7, %sw.7 ], [ 19, %entry ], [ 19, %entry ]
+  ret i8 %ret
+}
+
+define i8 @test_switch_default_edge_duplicate(i8 %cond) {
+; CHECK-LABEL: @test_switch_default_edge_duplicate(
+; CHECK-NEXT:  entry:
+; CHECK-NEXT:    switch i8 [[COND:%.*]], label [[SW_19:%.*]] [
+; CHECK-NEXT:    i8 1, label [[SW_1:%.*]]
+; CHECK-NEXT:    i8 7, label [[SW_7:%.*]]
+; CHECK-NEXT:    i8 19, label [[SW_19]]
+; CHECK-NEXT:    ]
+; CHECK:       sw.1:
+; CHECK-NEXT:    br label [[MERGE:%.*]]
+; CHECK:       sw.7:
+; CHECK-NEXT:    br label [[MERGE]]
+; CHECK:       sw.19:
+; CHECK-NEXT:    br label [[MERGE]]
+; CHECK:       merge:
+; CHECK-NEXT:    [[RET:%.*]] = phi i8 [ 1, [[SW_1]] ], [ 7, [[SW_7]] ], [ 19, [[SW_19]] ]
+; CHECK-NEXT:    ret i8 [[RET]]
+;
+entry:
+  switch i8 %cond, label %sw.19 [
+  i8 1, label %sw.1
+  i8 7, label %sw.7
+  i8 19, label %sw.19
+  ]
+sw.1:
+  br label %merge
+sw.7:
+  br label %merge
+sw.19:
+  br label %merge
+merge:
+  %ret = phi i8 [ 1, %sw.1 ], [ 7, %sw.7 ], [ 19, %sw.19 ]
   ret i8 %ret
 }

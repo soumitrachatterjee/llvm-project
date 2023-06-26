@@ -14,10 +14,11 @@
 #ifndef BOLT_CORE_RELOCATION_H
 #define BOLT_CORE_RELOCATION_H
 
-#include "llvm/ADT/Triple.h"
+#include "llvm/MC/MCExpr.h"
+#include "llvm/MC/MCStreamer.h"
+#include "llvm/TargetParser/Triple.h"
 
 namespace llvm {
-class MCStreamer;
 class MCSymbol;
 class raw_ostream;
 
@@ -55,12 +56,16 @@ struct Relocation {
   /// Return size of this relocation.
   size_t getSize() const { return getSizeForType(Type); }
 
-  /// Handle special cases when relocation should not be processed by bolt
-  static bool skipRelocationProcess(uint64_t Type, uint64_t Contents);
+  /// Skip relocations that we don't want to handle in BOLT
+  static bool skipRelocationType(uint64_t Type);
+
+  /// Handle special cases when relocation should not be processed by BOLT or
+  /// change relocation \p Type to proper one before continuing if \p Contents
+  /// and \P Type mismatch occured.
+  static bool skipRelocationProcess(uint64_t &Type, uint64_t Contents);
 
   // Adjust value depending on relocation type (make it PC relative or not)
-  static uint64_t adjustValue(uint64_t Type, uint64_t Value,
-                              uint64_t PC);
+  static uint64_t encodeValue(uint64_t Type, uint64_t Value, uint64_t PC);
 
   /// Extract current relocated value from binary contents. This is used for
   /// RISC architectures where values are encoded in specific bits depending
@@ -76,6 +81,9 @@ struct Relocation {
 
   /// Return true if relocation type implies the creation of a GOT entry
   static bool isGOT(uint64_t Type);
+
+  /// Special relocation type that allows the linker to modify the instruction.
+  static bool isX86GOTPCRELX(uint64_t Type);
 
   /// Return true if relocation type is NONE
   static bool isNone(uint64_t Type);
@@ -98,6 +106,12 @@ struct Relocation {
   /// Return code for a PC-relative 8-byte relocation
   static uint64_t getPC64();
 
+  /// Return code for a ABS 8-byte relocation
+  static uint64_t getAbs64();
+
+  /// Return code for a RELATIVE relocation
+  static uint64_t getRelative();
+
   /// Return true if this relocation is PC-relative. Return false otherwise.
   bool isPCRelative() const { return isPCRelative(Type); }
 
@@ -109,8 +123,36 @@ struct Relocation {
   /// responsible for setting the position correctly.
   size_t emit(MCStreamer *Streamer) const;
 
+  /// Emit a group of composed relocations. All relocations must have the same
+  /// offset. If std::distance(Begin, End) == 1, this is equivalent to
+  /// Begin->emit(Streamer).
+  template <typename RelocIt>
+  static size_t emit(RelocIt Begin, RelocIt End, MCStreamer *Streamer) {
+    if (Begin == End)
+      return 0;
+
+    const MCExpr *Value = nullptr;
+
+    for (auto RI = Begin; RI != End; ++RI) {
+      assert(RI->Offset == Begin->Offset &&
+             "emitting composed relocations with different offsets");
+      Value = RI->createExpr(Streamer, Value);
+    }
+
+    assert(Value && "failed to create relocation value");
+    auto Size = std::prev(End)->getSize();
+    Streamer->emitValue(Value, Size);
+    return Size;
+  }
+
   /// Print a relocation to \p OS.
   void print(raw_ostream &OS) const;
+
+private:
+  const MCExpr *createExpr(MCStreamer *Streamer) const;
+  const MCExpr *createExpr(MCStreamer *Streamer,
+                           const MCExpr *RetainedValue) const;
+  static MCBinaryExpr::Opcode getComposeOpcodeFor(uint64_t Type);
 };
 
 /// Relocation ordering by offset.

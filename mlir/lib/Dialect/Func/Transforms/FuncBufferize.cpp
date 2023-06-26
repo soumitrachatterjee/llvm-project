@@ -6,23 +6,29 @@
 //
 //===----------------------------------------------------------------------===//
 //
-// This file implements bufferization of builtin.func's and func.call's.
+// This file implements bufferization of func.func's and func.call's.
 //
 //===----------------------------------------------------------------------===//
 
-#include "PassDetail.h"
+#include "mlir/Dialect/Func/Transforms/Passes.h"
+
 #include "mlir/Dialect/Bufferization/IR/Bufferization.h"
 #include "mlir/Dialect/Bufferization/Transforms/Bufferize.h"
 #include "mlir/Dialect/Func/IR/FuncOps.h"
 #include "mlir/Dialect/Func/Transforms/FuncConversions.h"
-#include "mlir/Dialect/Func/Transforms/Passes.h"
+#include "mlir/Dialect/MemRef/IR/MemRef.h"
 #include "mlir/Transforms/DialectConversion.h"
+
+namespace mlir {
+#define GEN_PASS_DEF_FUNCBUFFERIZE
+#include "mlir/Dialect/Func/Transforms/Passes.h.inc"
+} // namespace mlir
 
 using namespace mlir;
 using namespace mlir::func;
 
 namespace {
-struct FuncBufferizePass : public FuncBufferizeBase<FuncBufferizePass> {
+struct FuncBufferizePass : public impl::FuncBufferizeBase<FuncBufferizePass> {
   using FuncBufferizeBase<FuncBufferizePass>::FuncBufferizeBase;
   void runOnOperation() override {
     auto module = getOperation();
@@ -35,7 +41,7 @@ struct FuncBufferizePass : public FuncBufferizeBase<FuncBufferizePass> {
     populateFunctionOpInterfaceTypeConversionPattern<FuncOp>(patterns,
                                                              typeConverter);
     target.addDynamicallyLegalOp<FuncOp>([&](FuncOp op) {
-      return typeConverter.isSignatureLegal(op.getType()) &&
+      return typeConverter.isSignatureLegal(op.getFunctionType()) &&
              typeConverter.isLegal(&op.getBody());
     });
     populateCallOpTypeConversionPattern(patterns, typeConverter);

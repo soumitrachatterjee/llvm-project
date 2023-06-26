@@ -67,6 +67,7 @@
 #include "llvm/Support/CommandLine.h"
 #include "llvm/Support/Debug.h"
 #include "llvm/Support/raw_ostream.h"
+#include "llvm/Target/CGPassBuilderOption.h"
 #include <algorithm>
 #include <cassert>
 #include <iterator>
@@ -167,6 +168,10 @@ bool X86CmovConverterPass::runOnMachineFunction(MachineFunction &MF) {
   if (!EnableCmovConverter)
     return false;
 
+  // If the SelectOptimize pass is enabled, cmovs have already been optimized.
+  if (!getCGPassBuilderOption().DisableSelectOptimize)
+    return false;
+
   LLVM_DEBUG(dbgs() << "********** " << getPassName() << " : " << MF.getName()
                     << "**********\n");
 
@@ -210,7 +215,7 @@ bool X86CmovConverterPass::runOnMachineFunction(MachineFunction &MF) {
   //===--------------------------------------------------------------------===//
   // Register-operand Conversion Algorithm
   // ---------
-  //   For each inner most loop
+  //   For each innermost loop
   //     collectCmovCandidates() {
   //       Find all CMOV-group-candidates.
   //     }
@@ -239,7 +244,7 @@ bool X86CmovConverterPass::runOnMachineFunction(MachineFunction &MF) {
       Loops.push_back(Child);
 
   for (MachineLoop *CurrLoop : Loops) {
-    // Optimize only inner most loops.
+    // Optimize only innermost loops.
     if (!CurrLoop->getSubLoops().empty())
       continue;
 
@@ -300,9 +305,13 @@ bool X86CmovConverterPass::collectCmovCandidates(
       // Skip debug instructions.
       if (I.isDebugInstr())
         continue;
+
       X86::CondCode CC = X86::getCondFromCMov(I);
-      // Check if we found a X86::CMOVrr instruction.
-      if (CC != X86::COND_INVALID && (IncludeLoads || !I.mayLoad())) {
+      // Check if we found a X86::CMOVrr instruction. If it is marked as
+      // unpredictable, skip it and do not convert it to branch.
+      if (CC != X86::COND_INVALID &&
+          !I.getFlag(MachineInstr::MIFlag::Unpredictable) &&
+          (IncludeLoads || !I.mayLoad())) {
         if (Group.empty()) {
           // We found first CMOV in the range, reset flags.
           FirstCC = CC;
@@ -432,8 +441,7 @@ bool X86CmovConverterPass::checkForProfitableCmovCandidates(
   // Depth-Diff[i]:
   //   Number of cycles saved in first 'i` iterations by optimizing the loop.
   //===--------------------------------------------------------------------===//
-  for (unsigned I = 0; I < LoopIterations; ++I) {
-    DepthInfo &MaxDepth = LoopDepth[I];
+  for (DepthInfo &MaxDepth : LoopDepth) {
     for (auto *MBB : Blocks) {
       // Clear physical registers Def map.
       RegDefMaps[PhyRegType].clear();
@@ -529,7 +537,7 @@ bool X86CmovConverterPass::checkForProfitableCmovCandidates(
   //===--------------------------------------------------------------------===//
   // Step 3: Check for each CMOV-group-candidate if it worth to be optimized.
   // Worth-Optimize-Group:
-  //   Iff it worths to optimize all CMOV instructions in the group.
+  //   Iff it is worth to optimize all CMOV instructions in the group.
   //
   // Worth-Optimize-CMOV:
   //   Predicted branch is faster than CMOV by the difference between depth of

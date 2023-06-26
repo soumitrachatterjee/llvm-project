@@ -8,15 +8,21 @@
 
 #include "mlir/Conversion/ShapeToStandard/ShapeToStandard.h"
 
-#include "../PassDetail.h"
-#include "mlir/Dialect/Arithmetic/IR/Arithmetic.h"
-#include "mlir/Dialect/SCF/SCF.h"
+#include "mlir/Dialect/Arith/IR/Arith.h"
+#include "mlir/Dialect/Func/IR/FuncOps.h"
+#include "mlir/Dialect/SCF/IR/SCF.h"
 #include "mlir/Dialect/Shape/IR/Shape.h"
 #include "mlir/Dialect/Tensor/IR/Tensor.h"
-#include "mlir/IR/BlockAndValueMapping.h"
+#include "mlir/IR/IRMapping.h"
 #include "mlir/IR/ImplicitLocOpBuilder.h"
+#include "mlir/Pass/Pass.h"
 #include "mlir/Transforms/DialectConversion.h"
 #include "llvm/ADT/STLExtras.h"
+
+namespace mlir {
+#define GEN_PASS_DEF_CONVERTSHAPETOSTANDARD
+#include "mlir/Conversion/Passes.h.inc"
+} // namespace mlir
 
 using namespace mlir;
 using namespace mlir::shape;
@@ -53,7 +59,7 @@ public:
   matchAndRewrite(SrcOpTy op, typename SrcOpTy::Adaptor adaptor,
                   ConversionPatternRewriter &rewriter) const override {
     // For now, only error-free types are supported by this lowering.
-    if (op.getType().template isa<SizeType>())
+    if (isa<SizeType>(op.getType()))
       return failure();
 
     rewriter.replaceOpWithNewOp<DstOpTy>(op, adaptor.getLhs(),
@@ -86,7 +92,7 @@ Value getBroadcastedDim(ImplicitLocOpBuilder lb, ValueRange extentTensors,
     Type indexTy = lb.getIndexType();
     broadcastedDim =
         lb.create<IfOp>(
-              TypeRange{indexTy}, outOfBounds,
+              outOfBounds,
               [&](OpBuilder &b, Location loc) {
                 b.create<scf::YieldOp>(loc, broadcastedDim);
               },
@@ -121,7 +127,7 @@ LogicalResult BroadcastOpConverter::matchAndRewrite(
     ConversionPatternRewriter &rewriter) const {
   // For now, this lowering is only defined on `tensor<?xindex>` operands, not
   // on shapes.
-  if (op.getType().isa<ShapeType>())
+  if (isa<ShapeType>(op.getType()))
     return failure();
 
   auto loc = op.getLoc();
@@ -183,7 +189,7 @@ LogicalResult ConstShapeOpConverter::matchAndRewrite(
 
   // For now, this lowering supports only extent tensors, not `shape.shape`
   // types.
-  if (op.getType().isa<ShapeType>())
+  if (isa<ShapeType>(op.getType()))
     return failure();
 
   auto loc = op.getLoc();
@@ -236,7 +242,7 @@ LogicalResult IsBroadcastableOpConverter::matchAndRewrite(
   // For now, this lowering is only defined on `tensor<?xindex>` operands, not
   // on shapes.
   if (!llvm::all_of(op.getShapes(),
-                    [](Value v) { return !v.getType().isa<ShapeType>(); }))
+                    [](Value v) { return !isa<ShapeType>(v.getType()); }))
     return failure();
 
   auto loc = op.getLoc();
@@ -287,7 +293,7 @@ LogicalResult IsBroadcastableOpConverter::matchAndRewrite(
               loc, arith::CmpIPredicate::ult, iv, rankDiff);
           broadcastable =
               b.create<IfOp>(
-                   loc, TypeRange{i1Ty}, outOfBounds,
+                   loc, outOfBounds,
                    [&](OpBuilder &b, Location loc) {
                      // Non existent dimensions are always broadcastable
                      b.create<scf::YieldOp>(loc, broadcastable);
@@ -322,6 +328,28 @@ LogicalResult IsBroadcastableOpConverter::matchAndRewrite(
 }
 
 namespace {
+class DimOpConverter : public OpConversionPattern<DimOp> {
+  using OpConversionPattern<DimOp>::OpConversionPattern;
+
+  LogicalResult
+  matchAndRewrite(DimOp op, OpAdaptor adaptor,
+                  ConversionPatternRewriter &rewriter) const override;
+};
+} // namespace
+
+LogicalResult
+DimOpConverter::matchAndRewrite(DimOp op, OpAdaptor adaptor,
+                                ConversionPatternRewriter &rewriter) const {
+  // Lower to dim(X, i) to get_extent(shape_of(X), i) and rely on further
+  // lowerings. This can be further optimized if needed to avoid intermediate
+  // steps.
+  auto shapeOf = rewriter.create<shape::ShapeOfOp>(op.getLoc(), op.getValue());
+  rewriter.replaceOpWithNewOp<shape::GetExtentOp>(op, op.getType(), shapeOf,
+                                                  op.getIndex());
+  return success();
+}
+
+namespace {
 class GetExtentOpConverter : public OpConversionPattern<GetExtentOp> {
   using OpConversionPattern<GetExtentOp>::OpConversionPattern;
 
@@ -335,13 +363,13 @@ LogicalResult GetExtentOpConverter::matchAndRewrite(
     GetExtentOp op, OpAdaptor adaptor,
     ConversionPatternRewriter &rewriter) const {
   // For now, only error-free types are supported by this lowering.
-  if (op.getType().isa<SizeType>())
+  if (isa<SizeType>(op.getType()))
     return failure();
 
   // Derive shape extent directly from shape origin if possible. This
   // circumvents the necessity to materialize the shape in memory.
   if (auto shapeOfOp = op.getShape().getDefiningOp<ShapeOfOp>()) {
-    if (shapeOfOp.getArg().getType().isa<ShapedType>()) {
+    if (isa<ShapedType>(shapeOfOp.getArg().getType())) {
       rewriter.replaceOpWithNewOp<tensor::DimOp>(op, shapeOfOp.getArg(),
                                                  adaptor.getDim());
       return success();
@@ -369,7 +397,7 @@ LogicalResult
 RankOpConverter::matchAndRewrite(shape::RankOp op, OpAdaptor adaptor,
                                  ConversionPatternRewriter &rewriter) const {
   // For now, this lowering supports only error-free types.
-  if (op.getType().isa<SizeType>())
+  if (isa<SizeType>(op.getType()))
     return failure();
 
   rewriter.replaceOpWithNewOp<tensor::DimOp>(op, adaptor.getShape(), 0);
@@ -392,7 +420,7 @@ LogicalResult
 ReduceOpConverter::matchAndRewrite(shape::ReduceOp op, OpAdaptor adaptor,
                                    ConversionPatternRewriter &rewriter) const {
   // For now, this lowering is only defined on `tensor<?xindex>` operands.
-  if (op.getShape().getType().isa<ShapeType>())
+  if (isa<ShapeType>(op.getShape().getType()))
     return failure();
 
   auto loc = op.getLoc();
@@ -411,7 +439,7 @@ ReduceOpConverter::matchAndRewrite(shape::ReduceOp op, OpAdaptor adaptor,
         SmallVector<Value, 2> mappedValues{iv, extent};
         mappedValues.append(args.begin(), args.end());
 
-        BlockAndValueMapping mapping;
+        IRMapping mapping;
         Block *reduceBody = op.getBody();
         mapping.map(reduceBody->getArguments(), mappedValues);
         for (auto &nested : reduceBody->without_terminator())
@@ -471,7 +499,7 @@ LogicalResult
 ShapeEqOpConverter::matchAndRewrite(ShapeEqOp op, OpAdaptor adaptor,
                                     ConversionPatternRewriter &rewriter) const {
   if (!llvm::all_of(op.getShapes(),
-                    [](Value v) { return !v.getType().isa<ShapeType>(); }))
+                    [](Value v) { return !isa<ShapeType>(v.getType()); }))
     return failure();
 
   Type i1Ty = rewriter.getI1Type();
@@ -494,7 +522,7 @@ ShapeEqOpConverter::matchAndRewrite(ShapeEqOp op, OpAdaptor adaptor,
     Value eqRank = rewriter.create<arith::CmpIOp>(loc, arith::CmpIPredicate::eq,
                                                   firstRank, rank);
     auto same = rewriter.create<IfOp>(
-        loc, i1Ty, eqRank,
+        loc, eqRank,
         [&](OpBuilder &b, Location loc) {
           Value one = b.create<arith::ConstantIndexOp>(loc, 1);
           Value init =
@@ -542,18 +570,18 @@ LogicalResult ShapeOfOpConversion::matchAndRewrite(
     ConversionPatternRewriter &rewriter) const {
 
   // For now, only error-free types are supported by this lowering.
-  if (op.getType().isa<ShapeType>())
+  if (isa<ShapeType>(op.getType()))
     return failure();
 
   // For ranked tensor arguments, lower to `tensor.from_elements`.
   auto loc = op.getLoc();
   Value tensor = adaptor.getArg();
   Type tensorTy = tensor.getType();
-  if (tensorTy.isa<RankedTensorType>()) {
+  if (isa<RankedTensorType>(tensorTy)) {
 
     // Build values for individual extents.
     SmallVector<Value, 8> extentValues;
-    RankedTensorType rankedTensorTy = tensorTy.cast<RankedTensorType>();
+    RankedTensorType rankedTensorTy = cast<RankedTensorType>(tensorTy);
     int64_t rank = rankedTensorTy.getRank();
     for (int64_t i = 0; i < rank; i++) {
       if (rankedTensorTy.isDynamicDim(i)) {
@@ -606,7 +634,7 @@ LogicalResult SplitAtOpConversion::matchAndRewrite(
   // Error conditions are not implemented, only lower if all operands and
   // results are extent tensors.
   if (llvm::any_of(ValueRange{op.getOperand(), op.getHead(), op.getTail()},
-                   [](Value v) { return v.getType().isa<ShapeType>(); }))
+                   [](Value v) { return isa<ShapeType>(v.getType()); }))
     return failure();
 
   ImplicitLocOpBuilder b(op.getLoc(), rewriter);
@@ -639,7 +667,7 @@ public:
   LogicalResult
   matchAndRewrite(ToExtentTensorOp op, OpAdaptor adaptor,
                   ConversionPatternRewriter &rewriter) const override {
-    if (!adaptor.getInput().getType().isa<RankedTensorType>())
+    if (!isa<RankedTensorType>(adaptor.getInput().getType()))
       return rewriter.notifyMatchFailure(op, "input needs to be a tensor");
 
     rewriter.replaceOpWithNewOp<tensor::CastOp>(op, op.getType(),
@@ -657,7 +685,7 @@ namespace {
 namespace {
 /// Conversion pass.
 class ConvertShapeToStandardPass
-    : public ConvertShapeToStandardBase<ConvertShapeToStandardPass> {
+    : public impl::ConvertShapeToStandardBase<ConvertShapeToStandardPass> {
 
   void runOnOperation() override;
 };
@@ -667,9 +695,9 @@ void ConvertShapeToStandardPass::runOnOperation() {
   // Setup target legality.
   MLIRContext &ctx = getContext();
   ConversionTarget target(ctx);
-  target.addLegalDialect<arith::ArithmeticDialect, SCFDialect,
+  target.addLegalDialect<arith::ArithDialect, SCFDialect,
                          tensor::TensorDialect>();
-  target.addLegalOp<CstrRequireOp, FuncOp, ModuleOp>();
+  target.addLegalOp<CstrRequireOp, func::FuncOp, ModuleOp>();
 
   // Setup conversion patterns.
   RewritePatternSet patterns(&ctx);
@@ -692,6 +720,7 @@ void mlir::populateShapeToStandardConversionPatterns(
       BroadcastOpConverter,
       ConstShapeOpConverter,
       ConstSizeOpConversion,
+      DimOpConverter,
       IsBroadcastableOpConverter,
       GetExtentOpConverter,
       RankOpConverter,

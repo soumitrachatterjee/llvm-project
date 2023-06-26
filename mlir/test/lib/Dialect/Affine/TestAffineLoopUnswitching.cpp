@@ -19,12 +19,15 @@
 #define PASS_NAME "test-affine-loop-unswitch"
 
 using namespace mlir;
+using namespace mlir::affine;
 
 namespace {
 
 /// This pass applies the permutation on the first maximal perfect nest.
 struct TestAffineLoopUnswitching
     : public PassWrapper<TestAffineLoopUnswitching, OperationPass<>> {
+  MLIR_DEFINE_EXPLICIT_INTERNAL_INLINE_TYPE_ID(TestAffineLoopUnswitching)
+
   StringRef getArgument() const final { return PASS_NAME; }
   StringRef getDescription() const final {
     return "Tests affine loop unswitching / if/else hoisting";
