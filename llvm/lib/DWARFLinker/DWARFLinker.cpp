@@ -1868,8 +1868,8 @@ DIE *DWARFLinker::DIECloner::cloneDIE(const DWARFDie &InputDIE,
 /// Patch the input object file relevant debug_ranges or debug_rnglists
 /// entries and emit them in the output file. Update the relevant attributes
 /// to point at the new entries.
-void DWARFLinker::generateUnitRanges(CompileUnit &Unit, const DWARFFile &File,
-                                     DebugAddrPool &AddrPool) const {
+void DWARFLinker::generateUnitRanges(CompileUnit &Unit,
+                                     const DWARFFile &File) const {
   if (LLVM_UNLIKELY(Options.Update))
     return;
 
@@ -1922,14 +1922,14 @@ void DWARFLinker::generateUnitRanges(CompileUnit &Unit, const DWARFFile &File,
       }
 
       // Emit linked ranges.
-      TheDwarfEmitter->emitDwarfDebugRangeListFragment(
-          Unit, LinkedRanges, AttributePatch, AddrPool);
+      TheDwarfEmitter->emitDwarfDebugRangeListFragment(Unit, LinkedRanges,
+                                                       AttributePatch);
     }
 
     // Emit ranges for Unit AT_ranges attribute.
     if (UnitRngListAttribute.has_value())
       TheDwarfEmitter->emitDwarfDebugRangeListFragment(
-          Unit, LinkedFunctionRanges, *UnitRngListAttribute, AddrPool);
+          Unit, LinkedFunctionRanges, *UnitRngListAttribute);
 
     // Emit ranges footer.
     TheDwarfEmitter->emitDwarfDebugRangeListFooter(Unit, EndLabel);
@@ -2571,7 +2571,7 @@ uint64_t DWARFLinker::DIECloner::cloneAllCompileUnits(
       if (LLVM_UNLIKELY(Linker.Options.Update))
         continue;
 
-      Linker.generateUnitRanges(*CurrentUnit, File, AddrPool);
+      Linker.generateUnitRanges(*CurrentUnit, File);
 
       auto ProcessExpr = [&](SmallVectorImpl<uint8_t> &SrcBytes,
                              SmallVectorImpl<uint8_t> &OutBytes,

@@ -88,10 +88,12 @@ const char *getEdgeKindName(Edge::Kind K) {
     return "CallBranchDelta";
   case CallBranchDeltaRestoreTOC:
     return "CallBranchDeltaRestoreTOC";
-  case RequestCall:
-    return "RequestCall";
-  case RequestCallNoTOC:
-    return "RequestCallNoTOC";
+  case RequestPLTCallStub:
+    return "RequestPLTCallStub";
+  case RequestPLTCallStubSaveTOC:
+    return "RequestPLTCallStubSaveTOC";
+  case RequestPLTCallStubNoTOC:
+    return "RequestPLTCallStubNoTOC";
   default:
     return getGenericEdgeKindName(static_cast<Edge::Kind>(K));
   }

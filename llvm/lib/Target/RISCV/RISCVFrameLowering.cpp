@@ -584,7 +584,7 @@ void RISCVFrameLowering::emitPrologue(MachineFunction &MF,
     if (FrameIdx < 0)
       Offset = FrameIdx * (int64_t) STI.getXLen() / 8;
     else
-      Offset = MFI.getObjectOffset(FrameIdx) -
+      Offset = MFI.getObjectOffset(Entry.getFrameIdx()) -
                RVFI->getLibCallStackSize();
     Register Reg = Entry.getReg();
     unsigned CFIIndex = MF.addFrameInst(MCCFIInstruction::createOffset(

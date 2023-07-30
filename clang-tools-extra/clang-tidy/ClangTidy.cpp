@@ -418,8 +418,7 @@ ClangTidyASTConsumerFactory::createASTConsumer(
   Preprocessor *PP = &Compiler.getPreprocessor();
   Preprocessor *ModuleExpanderPP = PP;
 
-  if (Context.canEnableModuleHeadersParsing() &&
-      Context.getLangOpts().Modules && OverlayFS != nullptr) {
+  if (Context.getLangOpts().Modules && OverlayFS != nullptr) {
     auto ModuleExpander = std::make_unique<ExpandModularHeadersPPCallbacks>(
         &Compiler, OverlayFS);
     ModuleExpanderPP = ModuleExpander->getPreprocessor();

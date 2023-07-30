@@ -79,9 +79,6 @@ ExpandModularHeadersPPCallbacks::ExpandModularHeadersPPCallbacks(
   OverlayFS->pushOverlay(InMemoryFs);
 
   Diags.setSourceManager(&Sources);
-  // FIXME: Investigate whatever is there better way to initialize DiagEngine
-  // or whatever DiagEngine can be shared by multiple preprocessors
-  ProcessWarningOptions(Diags, Compiler.getDiagnosticOpts());
 
   LangOpts.Modules = false;
 

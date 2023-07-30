@@ -423,9 +423,6 @@ RISCVTargetLowering::RISCVTargetLowering(const TargetMachine &TM,
     // We need to custom promote this.
     if (Subtarget.is64Bit())
       setOperationAction(ISD::FPOWI, MVT::i32, Custom);
-
-    if (!Subtarget.hasStdExtZfa())
-      setOperationAction({ISD::FMAXIMUM, ISD::FMINIMUM}, MVT::f16, Custom);
   }
 
   if (Subtarget.hasStdExtFOrZfinx()) {
@@ -448,8 +445,6 @@ RISCVTargetLowering::RISCVTargetLowering(const TargetMachine &TM,
 
     if (Subtarget.hasStdExtZfa())
       setOperationAction(ISD::FNEARBYINT, MVT::f32, Legal);
-    else
-      setOperationAction({ISD::FMAXIMUM, ISD::FMINIMUM}, MVT::f32, Custom);
   }
 
   if (Subtarget.hasStdExtFOrZfinx() && Subtarget.is64Bit())
@@ -466,8 +461,6 @@ RISCVTargetLowering::RISCVTargetLowering(const TargetMachine &TM,
     } else {
       if (Subtarget.is64Bit())
         setOperationAction(FPRndMode, MVT::f64, Custom);
-
-      setOperationAction({ISD::FMAXIMUM, ISD::FMINIMUM}, MVT::f64, Custom);
     }
 
     setOperationAction(ISD::STRICT_FP_ROUND, MVT::f32, Legal);
@@ -4631,34 +4624,6 @@ SDValue RISCVTargetLowering::LowerIS_FPCLASS(SDValue Op,
                       ISD::CondCode::SETNE);
 }
 
-// Lower fmaximum and fminimum. Unlike our fmax and fmin instructions, these
-// operations propagate nans.
-static SDValue lowerFMAXIMUM_FMINIMUM(SDValue Op, SelectionDAG &DAG,
-                                      const RISCVSubtarget &Subtarget) {
-  SDLoc DL(Op);
-  EVT VT = Op.getValueType();
-
-  SDValue X = Op.getOperand(0);
-  SDValue Y = Op.getOperand(1);
-
-  MVT XLenVT = Subtarget.getXLenVT();
-
-  // If X is a nan, replace Y with X. If Y is a nan, replace X with Y. This
-  // ensures that when one input is a nan, the other will also be a nan allowing
-  // the nan to propagate. If both inputs are nan, this will swap the inputs
-  // which is harmless.
-  // FIXME: Handle nonans FMF and use isKnownNeverNaN.
-  SDValue XIsNonNan = DAG.getSetCC(DL, XLenVT, X, X, ISD::SETOEQ);
-  SDValue NewY = DAG.getSelect(DL, VT, XIsNonNan, Y, X);
-
-  SDValue YIsNonNan = DAG.getSetCC(DL, XLenVT, Y, Y, ISD::SETOEQ);
-  SDValue NewX = DAG.getSelect(DL, VT, YIsNonNan, X, Y);
-
-  unsigned Opc =
-      Op.getOpcode() == ISD::FMAXIMUM ? RISCVISD::FMAX : RISCVISD::FMIN;
-  return DAG.getNode(Opc, DL, VT, NewX, NewY);
-}
-
 /// Get a RISCV target specified VL op for a given SDNode.
 static unsigned getRISCVVLOp(SDValue Op) {
 #define OP_CASE(NODE)                                                          \
@@ -4726,12 +4691,9 @@ static unsigned getRISCVVLOp(SDValue Op) {
 /// Return true if a RISC-V target specified op has a merge operand.
 static bool hasMergeOp(unsigned Opcode) {
   assert(Opcode > RISCVISD::FIRST_NUMBER &&
-         Opcode <= RISCVISD::LAST_RISCV_STRICTFP_OPCODE &&
+         Opcode <= RISCVISD::STRICT_VFROUND_NOEXCEPT_VL &&
          "not a RISC-V target specific op");
-  assert(RISCVISD::LAST_VL_VECTOR_OP - RISCVISD::FIRST_VL_VECTOR_OP == 122 &&
-         RISCVISD::LAST_RISCV_STRICTFP_OPCODE -
-                 ISD::FIRST_TARGET_STRICTFP_OPCODE ==
-             21 &&
+  assert(RISCVISD::STRICT_VFROUND_NOEXCEPT_VL - RISCVISD::FIRST_NUMBER == 421 &&
          "adding target specific op should update this function");
   if (Opcode >= RISCVISD::ADD_VL && Opcode <= RISCVISD::FMAXNUM_VL)
     return true;
@@ -4747,12 +4709,9 @@ static bool hasMergeOp(unsigned Opcode) {
 /// Return true if a RISC-V target specified op has a mask operand.
 static bool hasMaskOp(unsigned Opcode) {
   assert(Opcode > RISCVISD::FIRST_NUMBER &&
-         Opcode <= RISCVISD::LAST_RISCV_STRICTFP_OPCODE &&
+         Opcode <= RISCVISD::STRICT_VFROUND_NOEXCEPT_VL &&
          "not a RISC-V target specific op");
-  assert(RISCVISD::LAST_VL_VECTOR_OP - RISCVISD::FIRST_VL_VECTOR_OP == 122 &&
-         RISCVISD::LAST_RISCV_STRICTFP_OPCODE -
-                 ISD::FIRST_TARGET_STRICTFP_OPCODE ==
-             21 &&
+  assert(RISCVISD::STRICT_VFROUND_NOEXCEPT_VL - RISCVISD::FIRST_NUMBER == 421 &&
          "adding target specific op should update this function");
   if (Opcode >= RISCVISD::TRUNCATE_VECTOR_VL && Opcode <= RISCVISD::SETCC_VL)
     return true;
@@ -4989,9 +4948,6 @@ SDValue RISCVTargetLowering::LowerOperation(SDValue Op,
     }
     return SDValue();
   }
-  case ISD::FMAXIMUM:
-  case ISD::FMINIMUM:
-    return lowerFMAXIMUM_FMINIMUM(Op, DAG, Subtarget);
   case ISD::FP_EXTEND: {
     SDLoc DL(Op);
     EVT VT = Op.getValueType();
@@ -10577,7 +10533,7 @@ static SDValue transformAddImmMulImm(SDNode *N, SelectionDAG &DAG,
   return DAG.getNode(ISD::ADD, DL, VT, New1, DAG.getConstant(CB, DL, VT));
 }
 
-// Try to turn (add (xor bool, 1) -1) into (neg bool).
+// Try to turn (add (xor (setcc X, Y), 1) -1) into (neg (setcc X, Y)).
 static SDValue combineAddOfBooleanXor(SDNode *N, SelectionDAG &DAG) {
   SDValue N0 = N->getOperand(0);
   SDValue N1 = N->getOperand(1);
@@ -10588,13 +10544,9 @@ static SDValue combineAddOfBooleanXor(SDNode *N, SelectionDAG &DAG) {
   if (!isAllOnesConstant(N1))
     return SDValue();
 
-  // Look for (xor X, 1).
-  if (N0.getOpcode() != ISD::XOR || !isOneConstant(N0.getOperand(1)))
-    return SDValue();
-
-  // First xor input should be 0 or 1.
-  APInt Mask = APInt::getBitsSetFrom(VT.getSizeInBits(), 1);
-  if (!DAG.MaskedValueIsZero(N0.getOperand(0), Mask))
+  // Look for an (xor (setcc X, Y), 1).
+  if (N0.getOpcode() != ISD::XOR || !isOneConstant(N0.getOperand(1)) ||
+      N0.getOperand(0).getOpcode() != ISD::SETCC)
     return SDValue();
 
   // Emit a negate of the setcc.
@@ -10792,42 +10744,6 @@ static SDValue performANDCombine(SDNode *N,
   return combineSelectAndUseCommutative(N, DAG, /*AllOnes*/ true, Subtarget);
 }
 
-// Try to pull an xor with 1 through a select idiom that uses czero_eqz/nez.
-// FIXME: Generalize to other binary operators with same operand.
-static SDValue combineOrOfCZERO(SDNode *N, SDValue N0, SDValue N1,
-                                SelectionDAG &DAG) {
-  assert(N->getOpcode() == ISD::OR && "Unexpected opcode");
-
-  if (N0.getOpcode() != RISCVISD::CZERO_EQZ ||
-      N1.getOpcode() != RISCVISD::CZERO_NEZ ||
-      !N0.hasOneUse() || !N1.hasOneUse())
-    return SDValue();
-
-  // Should have the same condition.
-  SDValue Cond = N0.getOperand(1);
-  if (Cond != N1.getOperand(1))
-    return SDValue();
-
-  SDValue TrueV = N0.getOperand(0);
-  SDValue FalseV = N1.getOperand(0);
-
-  if (TrueV.getOpcode() != ISD::XOR || FalseV.getOpcode() != ISD::XOR ||
-      TrueV.getOperand(1) != FalseV.getOperand(1) ||
-      !isOneConstant(TrueV.getOperand(1)) ||
-      !TrueV.hasOneUse() || !FalseV.hasOneUse())
-    return SDValue();
-
-  EVT VT = N->getValueType(0);
-  SDLoc DL(N);
-
-  SDValue NewN0 = DAG.getNode(RISCVISD::CZERO_EQZ, DL, VT, TrueV.getOperand(0),
-                              Cond);
-  SDValue NewN1 = DAG.getNode(RISCVISD::CZERO_NEZ, DL, VT, FalseV.getOperand(0),
-                              Cond);
-  SDValue NewOr = DAG.getNode(ISD::OR, DL, VT, NewN0, NewN1);
-  return DAG.getNode(ISD::XOR, DL, VT, NewOr, TrueV.getOperand(1));
-}
-
 static SDValue performORCombine(SDNode *N, TargetLowering::DAGCombinerInfo &DCI,
                                 const RISCVSubtarget &Subtarget) {
   SelectionDAG &DAG = DCI.DAG;
@@ -10838,15 +10754,6 @@ static SDValue performORCombine(SDNode *N, TargetLowering::DAGCombinerInfo &DCI,
   if (DCI.isAfterLegalizeDAG())
     if (SDValue V = combineDeMorganOfBoolean(N, DAG))
       return V;
-
-  // Look for Or of CZERO_EQZ/NEZ with same condition which is the select idiom.
-  // We may be able to pull a common operation out of the true and false value.
-  SDValue N0 = N->getOperand(0);
-  SDValue N1 = N->getOperand(1);
-  if (SDValue V = combineOrOfCZERO(N, N0, N1, DAG))
-    return V;
-  if (SDValue V = combineOrOfCZERO(N, N1, N0, DAG))
-    return V;
 
   // fold (or (select cond, 0, y), x) ->
   //      (select cond, x, (or x, y))
@@ -12986,19 +12893,6 @@ SDValue RISCVTargetLowering::PerformDAGCombine(SDNode *N,
         SDValue C = DAG.getSetCC(DL, VT, LHS, RHS, ISD::CondCode::SETEQ);
         return DAG.getNode(ISD::ADD, DL, VT, LHS, C);
       }
-    }
-
-    // If both true/false are an xor with 1, pull through the select.
-    // This can occur after op legalization if both operands are setccs that
-    // require an xor to invert.
-    // FIXME: Generalize to other binary ops with identical operand?
-    if (TrueV.getOpcode() == ISD::XOR && FalseV.getOpcode() == ISD::XOR &&
-        TrueV.getOperand(1) == FalseV.getOperand(1) &&
-        isOneConstant(TrueV.getOperand(1)) &&
-        TrueV.hasOneUse() && FalseV.hasOneUse()) {
-      SDValue NewSel = DAG.getNode(RISCVISD::SELECT_CC, DL, VT, LHS, RHS, CC,
-                                   TrueV.getOperand(0), FalseV.getOperand(0));
-      return DAG.getNode(ISD::XOR, DL, VT, NewSel, TrueV.getOperand(1));
     }
 
     return SDValue();
@@ -16160,8 +16054,6 @@ const char *RISCVTargetLowering::getTargetNodeName(unsigned Opcode) const {
   NODE_NAME_CASE(FP_EXTEND_BF16)
   NODE_NAME_CASE(FROUND)
   NODE_NAME_CASE(FPCLASS)
-  NODE_NAME_CASE(FMAX)
-  NODE_NAME_CASE(FMIN)
   NODE_NAME_CASE(READ_CYCLE_WIDE)
   NODE_NAME_CASE(BREV8)
   NODE_NAME_CASE(ORC_B)

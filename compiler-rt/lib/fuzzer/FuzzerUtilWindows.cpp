@@ -233,11 +233,6 @@ size_t PageSize() {
   return PageSizeCached;
 }
 
-void SetThreadName(std::thread &thread, const std::string &name) {
-  // TODO ?
-  // to UTF-8 then SetThreadDescription ?
-}
-
 } // namespace fuzzer
 
 #endif // LIBFUZZER_WINDOWS

@@ -69,8 +69,7 @@ enum SectionFlag {
   SecContents = 1 << 10,
   SecShare = 1 << 11,
   SecExclude = 1 << 12,
-  SecLarge = 1 << 13,
-  LLVM_MARK_AS_BITMASK_ENUM(/*LargestValue=*/SecLarge)
+  LLVM_MARK_AS_BITMASK_ENUM(/*LargestValue=*/SecExclude)
 };
 
 struct SectionRename {

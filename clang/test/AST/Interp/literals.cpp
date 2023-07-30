@@ -149,10 +149,13 @@ namespace SizeOf {
                                     // ref-error{{to a function type}}
 
 
+
+  /// FIXME: The following code should be accepted.
   struct S {
     void func();
   };
-  constexpr void (S::*Func)() = &S::func;
+  constexpr void (S::*Func)() = &S::func; // expected-error {{must be initialized by a constant expression}} \
+                                          // expected-error {{interpreter failed to evaluate an expression}}
   static_assert(sizeof(Func) == sizeof(&S::func), "");
 
 
@@ -855,25 +858,8 @@ constexpr int ignoredExprs() {
   (a); // expected-warning {{unused}} \
        // ref-warning {{unused}}
 
-  (void)5, (void)6;
-
-  1 ? 0 : 1; // expected-warning {{unused}} \
-             // ref-warning {{unused}}
-
   return 0;
 }
-
-/// Ignored comma expressions still have their
-/// expressions evaluated.
-constexpr int Comma(int start) {
-    int i = start;
-
-    (void)i++;
-    (void)i++,(void)i++;
-    return i;
-}
-constexpr int Value = Comma(5);
-static_assert(Value == 8, "");
 
 #endif
 
@@ -897,16 +883,5 @@ namespace PredefinedExprs {
     static_assert(strings_match(__func__, "foo"), "");
     static_assert(strings_match(__PRETTY_FUNCTION__, "void PredefinedExprs::foo()"), "");
   }
-
-  constexpr char heh(unsigned index) {
-    __FUNCTION__;               // ref-warning {{result unused}} \
-                                // expected-warning {{result unused}}
-    __extension__ __FUNCTION__; // ref-warning {{result unused}} \
-                                // expected-warning {{result unused}}
-    return __FUNCTION__[index];
-  }
-  static_assert(heh(0) == 'h', "");
-  static_assert(heh(1) == 'e', "");
-  static_assert(heh(2) == 'h', "");
 #endif
 }

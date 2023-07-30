@@ -807,8 +807,7 @@ TEST_F(FormatTestVerilog, If) {
                "  if (x)\n"
                "    x = x;",
                Style);
-  Style.SpacesInParens = FormatStyle::SIPO_Custom;
-  Style.SpacesInParensOptions.InConditionalStatements = true;
+  Style.SpacesInConditionalStatement = true;
   verifyFormat("if ( x )\n"
                "  x = x;\n"
                "else if ( x )\n"
@@ -904,8 +903,7 @@ TEST_F(FormatTestVerilog, Loop) {
   verifyFormat("repeat (x) begin\n"
                "end");
   auto Style = getDefaultStyle();
-  Style.SpacesInParens = FormatStyle::SIPO_Custom;
-  Style.SpacesInParensOptions.InConditionalStatements = true;
+  Style.SpacesInConditionalStatement = true;
   verifyFormat("foreach ( x[x] )\n"
                "  x = x;",
                Style);

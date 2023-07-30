@@ -1716,9 +1716,6 @@ inline bool CallPtr(InterpState &S, CodePtr OpPC) {
   if (!F || !F->isConstexpr())
     return false;
 
-  if (F->isVirtual())
-    return CallVirt(S, OpPC, F);
-
   return Call(S, OpPC, F);
 }
 

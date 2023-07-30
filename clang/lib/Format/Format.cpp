@@ -112,17 +112,6 @@ template <> struct MappingTraits<FormatStyle::AlignConsecutiveStyle> {
 };
 
 template <>
-struct MappingTraits<FormatStyle::ShortCaseStatementsAlignmentStyle> {
-  static void mapping(IO &IO,
-                      FormatStyle::ShortCaseStatementsAlignmentStyle &Value) {
-    IO.mapOptional("Enabled", Value.Enabled);
-    IO.mapOptional("AcrossEmptyLines", Value.AcrossEmptyLines);
-    IO.mapOptional("AcrossComments", Value.AcrossComments);
-    IO.mapOptional("AlignCaseColons", Value.AlignCaseColons);
-  }
-};
-
-template <>
 struct ScalarEnumerationTraits<FormatStyle::AttributeBreakingStyle> {
   static void enumeration(IO &IO, FormatStyle::AttributeBreakingStyle &Value) {
     IO.enumCase(Value, "Always", FormatStyle::ABS_Always);
@@ -722,22 +711,6 @@ template <> struct MappingTraits<FormatStyle::SpacesInLineComment> {
   }
 };
 
-template <> struct MappingTraits<FormatStyle::SpacesInParensCustom> {
-  static void mapping(IO &IO, FormatStyle::SpacesInParensCustom &Spaces) {
-    IO.mapOptional("InCStyleCasts", Spaces.InCStyleCasts);
-    IO.mapOptional("InConditionalStatements", Spaces.InConditionalStatements);
-    IO.mapOptional("InEmptyParentheses", Spaces.InEmptyParentheses);
-    IO.mapOptional("Other", Spaces.Other);
-  }
-};
-
-template <> struct ScalarEnumerationTraits<FormatStyle::SpacesInParensStyle> {
-  static void enumeration(IO &IO, FormatStyle::SpacesInParensStyle &Value) {
-    IO.enumCase(Value, "Never", FormatStyle::SIPO_Never);
-    IO.enumCase(Value, "Custom", FormatStyle::SIPO_Custom);
-  }
-};
-
 template <> struct ScalarEnumerationTraits<FormatStyle::TrailingCommaStyle> {
   static void enumeration(IO &IO, FormatStyle::TrailingCommaStyle &Value) {
     IO.enumCase(Value, "None", FormatStyle::TCS_None);
@@ -853,11 +826,6 @@ template <> struct MappingTraits<FormatStyle> {
     bool DeriveLineEnding = true;
     bool UseCRLF = false;
 
-    bool SpaceInEmptyParentheses = false;
-    bool SpacesInConditionalStatement = false;
-    bool SpacesInCStyleCastParentheses = false;
-    bool SpacesInParentheses = false;
-
     // For backward compatibility.
     if (!IO.outputting()) {
       IO.mapOptional("AlignEscapedNewlinesLeft", Style.AlignEscapedNewlines);
@@ -876,12 +844,6 @@ template <> struct MappingTraits<FormatStyle> {
       IO.mapOptional("PointerBindsToType", Style.PointerAlignment);
       IO.mapOptional("SpaceAfterControlStatementKeyword",
                      Style.SpaceBeforeParens);
-      IO.mapOptional("SpaceInEmptyParentheses", SpaceInEmptyParentheses);
-      IO.mapOptional("SpacesInConditionalStatement",
-                     SpacesInConditionalStatement);
-      IO.mapOptional("SpacesInCStyleCastParentheses",
-                     SpacesInCStyleCastParentheses);
-      IO.mapOptional("SpacesInParentheses", SpacesInParentheses);
       IO.mapOptional("UseCRLF", UseCRLF);
     }
 
@@ -895,8 +857,6 @@ template <> struct MappingTraits<FormatStyle> {
     IO.mapOptional("AlignConsecutiveDeclarations",
                    Style.AlignConsecutiveDeclarations);
     IO.mapOptional("AlignConsecutiveMacros", Style.AlignConsecutiveMacros);
-    IO.mapOptional("AlignConsecutiveShortCaseStatements",
-                   Style.AlignConsecutiveShortCaseStatements);
     IO.mapOptional("AlignEscapedNewlines", Style.AlignEscapedNewlines);
     IO.mapOptional("AlignOperands", Style.AlignOperands);
     IO.mapOptional("AlignTrailingComments", Style.AlignTrailingComments);
@@ -1072,15 +1032,19 @@ template <> struct MappingTraits<FormatStyle> {
     IO.mapOptional("SpaceBeforeSquareBrackets",
                    Style.SpaceBeforeSquareBrackets);
     IO.mapOptional("SpaceInEmptyBlock", Style.SpaceInEmptyBlock);
+    IO.mapOptional("SpaceInEmptyParentheses", Style.SpaceInEmptyParentheses);
     IO.mapOptional("SpacesBeforeTrailingComments",
                    Style.SpacesBeforeTrailingComments);
     IO.mapOptional("SpacesInAngles", Style.SpacesInAngles);
+    IO.mapOptional("SpacesInConditionalStatement",
+                   Style.SpacesInConditionalStatement);
     IO.mapOptional("SpacesInContainerLiterals",
                    Style.SpacesInContainerLiterals);
+    IO.mapOptional("SpacesInCStyleCastParentheses",
+                   Style.SpacesInCStyleCastParentheses);
     IO.mapOptional("SpacesInLineCommentPrefix",
                    Style.SpacesInLineCommentPrefix);
-    IO.mapOptional("SpacesInParens", Style.SpacesInParens);
-    IO.mapOptional("SpacesInParensOptions", Style.SpacesInParensOptions);
+    IO.mapOptional("SpacesInParentheses", Style.SpacesInParentheses);
     IO.mapOptional("SpacesInSquareBrackets", Style.SpacesInSquareBrackets);
     IO.mapOptional("Standard", Style.Standard);
     IO.mapOptional("StatementAttributeLikeMacros",
@@ -1146,30 +1110,6 @@ template <> struct MappingTraits<FormatStyle> {
         Style.LineEnding = UseCRLF ? FormatStyle::LE_CRLF : FormatStyle::LE_LF;
       else if (UseCRLF)
         Style.LineEnding = FormatStyle::LE_DeriveCRLF;
-    }
-
-    if (Style.SpacesInParens != FormatStyle::SIPO_Custom &&
-        (SpacesInParentheses || SpaceInEmptyParentheses ||
-         SpacesInConditionalStatement || SpacesInCStyleCastParentheses)) {
-      if (SpacesInParentheses) {
-        // set all options except InCStyleCasts and InEmptyParentheses
-        // to true for backward compatibility.
-        Style.SpacesInParensOptions.InConditionalStatements = true;
-        Style.SpacesInParensOptions.InCStyleCasts =
-            SpacesInCStyleCastParentheses;
-        Style.SpacesInParensOptions.InEmptyParentheses =
-            SpaceInEmptyParentheses;
-        Style.SpacesInParensOptions.Other = true;
-      } else {
-        Style.SpacesInParensOptions = {};
-        Style.SpacesInParensOptions.InConditionalStatements =
-            SpacesInConditionalStatement;
-        Style.SpacesInParensOptions.InCStyleCasts =
-            SpacesInCStyleCastParentheses;
-        Style.SpacesInParensOptions.InEmptyParentheses =
-            SpaceInEmptyParentheses;
-      }
-      Style.SpacesInParens = FormatStyle::SIPO_Custom;
     }
   }
 };
@@ -1375,14 +1315,6 @@ static void expandPresetsSpaceBeforeParens(FormatStyle &Expanded) {
   }
 }
 
-static void expandPresetsSpacesInParens(FormatStyle &Expanded) {
-  if (Expanded.SpacesInParens == FormatStyle::SIPO_Custom)
-    return;
-  assert(Expanded.SpacesInParens == FormatStyle::SIPO_Never);
-  // Reset all flags
-  Expanded.SpacesInParensOptions = {};
-}
-
 FormatStyle getLLVMStyle(FormatStyle::LanguageKind Language) {
   FormatStyle LLVMStyle;
   LLVMStyle.InheritsParentConfig = false;
@@ -1401,7 +1333,6 @@ FormatStyle getLLVMStyle(FormatStyle::LanguageKind Language) {
   LLVMStyle.AlignConsecutiveBitFields = {};
   LLVMStyle.AlignConsecutiveDeclarations = {};
   LLVMStyle.AlignConsecutiveMacros = {};
-  LLVMStyle.AlignConsecutiveShortCaseStatements = {};
   LLVMStyle.AlignTrailingComments = {};
   LLVMStyle.AlignTrailingComments.Kind = FormatStyle::TCAS_Always;
   LLVMStyle.AlignTrailingComments.OverEmptyLines = 0;
@@ -1537,12 +1468,15 @@ FormatStyle getLLVMStyle(FormatStyle::LanguageKind Language) {
   LLVMStyle.SpaceBeforeCpp11BracedList = false;
   LLVMStyle.SpaceBeforeSquareBrackets = false;
   LLVMStyle.SpaceInEmptyBlock = false;
+  LLVMStyle.SpaceInEmptyParentheses = false;
   LLVMStyle.SpacesBeforeTrailingComments = 1;
   LLVMStyle.SpacesInAngles = FormatStyle::SIAS_Never;
   LLVMStyle.SpacesInContainerLiterals = true;
+  LLVMStyle.SpacesInCStyleCastParentheses = false;
   LLVMStyle.SpacesInLineCommentPrefix = {/*Minimum=*/1, /*Maximum=*/-1u};
-  LLVMStyle.SpacesInParens = FormatStyle::SIPO_Never;
+  LLVMStyle.SpacesInParentheses = false;
   LLVMStyle.SpacesInSquareBrackets = false;
+  LLVMStyle.SpacesInConditionalStatement = false;
   LLVMStyle.Standard = FormatStyle::LS_Latest;
   LLVMStyle.StatementAttributeLikeMacros.push_back("Q_EMIT");
   LLVMStyle.StatementMacros.push_back("Q_UNUSED");
@@ -2024,7 +1958,6 @@ std::string configurationAsText(const FormatStyle &Style) {
   FormatStyle NonConstStyle = Style;
   expandPresetsBraceWrapping(NonConstStyle);
   expandPresetsSpaceBeforeParens(NonConstStyle);
-  expandPresetsSpacesInParens(NonConstStyle);
   Output << NonConstStyle;
 
   return Stream.str();
@@ -3550,7 +3483,6 @@ reformat(const FormatStyle &Style, StringRef Code,
   FormatStyle Expanded = Style;
   expandPresetsBraceWrapping(Expanded);
   expandPresetsSpaceBeforeParens(Expanded);
-  expandPresetsSpacesInParens(Expanded);
   Expanded.InsertBraces = false;
   Expanded.RemoveBracesLLVM = false;
   Expanded.RemoveParentheses = FormatStyle::RPS_Leave;

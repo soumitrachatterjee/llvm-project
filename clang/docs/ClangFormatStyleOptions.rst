@@ -789,104 +789,6 @@ the configuration (without a prefix: ``Auto``).
       bbb >>= 2;
 
 
-.. _AlignConsecutiveShortCaseStatements:
-
-**AlignConsecutiveShortCaseStatements** (``ShortCaseStatementsAlignmentStyle``) :versionbadge:`clang-format 17` :ref:`¶ <AlignConsecutiveShortCaseStatements>`
-  Style of aligning consecutive short case labels.
-  Only applies if ``AllowShortCaseLabelsOnASingleLine`` is ``true``.
-
-
-  .. code-block:: yaml
-
-    # Example of usage:
-    AlignConsecutiveShortCaseStatements:
-      Enabled: true
-      AcrossEmptyLines: true
-      AcrossComments: true
-      AlignCaseColons: false
-
-  Nested configuration flags:
-
-  Alignment options.
-
-  * ``bool Enabled`` Whether aligning is enabled.
-
-    .. code-block:: c++
-
-      true:
-      switch (level) {
-      case log::info:    return "info:";
-      case log::warning: return "warning:";
-      default:           return "";
-      }
-
-      false:
-      switch (level) {
-      case log::info: return "info:";
-      case log::warning: return "warning:";
-      default: return "";
-      }
-
-  * ``bool AcrossEmptyLines`` Whether to align across empty lines.
-
-    .. code-block:: c++
-
-      true:
-      switch (level) {
-      case log::info:    return "info:";
-      case log::warning: return "warning:";
-
-      default:           return "";
-      }
-
-      false:
-      switch (level) {
-      case log::info:    return "info:";
-      case log::warning: return "warning:";
-
-      default: return "";
-      }
-
-  * ``bool AcrossComments`` Whether to align across comments.
-
-    .. code-block:: c++
-
-      true:
-      switch (level) {
-      case log::info:    return "info:";
-      case log::warning: return "warning:";
-      /* A comment. */
-      default:           return "";
-      }
-
-      false:
-      switch (level) {
-      case log::info:    return "info:";
-      case log::warning: return "warning:";
-      /* A comment. */
-      default: return "";
-      }
-
-  * ``bool AlignCaseColons`` Whether aligned case labels are aligned on the colon, or on the
-    , or on the tokens after the colon.
-
-    .. code-block:: c++
-
-      true:
-      switch (level) {
-      case log::info   : return "info:";
-      case log::warning: return "warning:";
-      default          : return "";
-      }
-
-      false:
-      switch (level) {
-      case log::info:    return "info:";
-      case log::warning: return "warning:";
-      default:           return "";
-      }
-
-
 .. _AlignEscapedNewlines:
 
 **AlignEscapedNewlines** (``EscapedNewlineAlignmentStyle``) :versionbadge:`clang-format 5` :ref:`¶ <AlignEscapedNewlines>`
@@ -5215,8 +5117,16 @@ the configuration (without a prefix: ``Auto``).
 
 **SpaceInEmptyParentheses** (``Boolean``) :versionbadge:`clang-format 3.7` :ref:`¶ <SpaceInEmptyParentheses>`
   If ``true``, spaces may be inserted into ``()``.
-  This option is **deprecated**. See ``InEmptyParentheses`` of
-  ``SpacesInParensOptions``.
+
+  .. code-block:: c++
+
+     true:                                false:
+     void f( ) {                    vs.   void f() {
+       int x[] = {foo( ), bar( )};          int x[] = {foo(), bar()};
+       if (true) {                          if (true) {
+         f( );                                f();
+       }                                    }
+     }                                    }
 
 .. _SpacesBeforeTrailingComments:
 
@@ -5273,16 +5183,23 @@ the configuration (without a prefix: ``Auto``).
 
 **SpacesInCStyleCastParentheses** (``Boolean``) :versionbadge:`clang-format 3.7` :ref:`¶ <SpacesInCStyleCastParentheses>`
   If ``true``, spaces may be inserted into C style casts.
-  This option is **deprecated**. See ``InCStyleCasts`` of
-  ``SpacesInParensOptions``.
+
+  .. code-block:: c++
+
+     true:                                  false:
+     x = ( int32 )y                 vs.     x = (int32)y
 
 .. _SpacesInConditionalStatement:
 
 **SpacesInConditionalStatement** (``Boolean``) :versionbadge:`clang-format 10` :ref:`¶ <SpacesInConditionalStatement>`
   If ``true``, spaces will be inserted around if/for/switch/while
   conditions.
-  This option is **deprecated**. See ``InConditionalStatements`` of
-  ``SpacesInParensOptions``.
+
+  .. code-block:: c++
+
+     true:                                  false:
+     if ( a )  { ... }              vs.     if (a) { ... }
+     while ( i < 5 )  { ... }               while (i < 5) { ... }
 
 .. _SpacesInContainerLiterals:
 
@@ -5343,104 +5260,15 @@ the configuration (without a prefix: ``Auto``).
   * ``unsigned Maximum`` The maximum number of spaces at the start of the comment.
 
 
-.. _SpacesInParens:
-
-**SpacesInParens** (``SpacesInParensStyle``) :versionbadge:`clang-format 17` :ref:`¶ <SpacesInParens>`
-  Defines in which cases spaces will be inserted after ``(`` and before
-  ``)``.
-
-  Possible values:
-
-  * ``SIPO_Never`` (in configuration: ``Never``)
-    Never put a space in parentheses.
-
-    .. code-block:: c++
-
-       void f() {
-         if(true) {
-           f();
-         }
-       }
-
-  * ``SIPO_Custom`` (in configuration: ``Custom``)
-    Configure each individual space in parentheses in
-    `SpacesInParensOptions`.
-
-
-
-.. _SpacesInParensOptions:
-
-**SpacesInParensOptions** (``SpacesInParensCustom``) :versionbadge:`clang-format 17` :ref:`¶ <SpacesInParensOptions>`
-  Control of individual spaces in parentheses.
-
-  If ``SpacesInParens`` is set to ``Custom``, use this to specify
-  how each individual space in parentheses case should be handled.
-  Otherwise, this is ignored.
-
-  .. code-block:: yaml
-
-    # Example of usage:
-    SpacesInParens: Custom
-    SpacesInParensOptions:
-      InConditionalStatements: true
-      InEmptyParentheses: true
-
-  Nested configuration flags:
-
-  Precise control over the spacing in parentheses.
-
-  .. code-block:: c++
-
-    # Should be declared this way:
-    SpacesInParens: Custom
-    SpacesInParensOptions:
-      InConditionalStatements: true
-      Other: true
-
-  * ``bool InConditionalStatements`` Put a space in parentheses only inside conditional statements
-    (``for/if/while/switch...``).
-
-    .. code-block:: c++
-
-       true:                                  false:
-       if ( a )  { ... }              vs.     if (a) { ... }
-       while ( i < 5 )  { ... }               while (i < 5) { ... }
-
-  * ``bool InCStyleCasts`` Put a space in C style casts.
-
-    .. code-block:: c++
-
-       true:                                  false:
-       x = ( int32 )y                 vs.     x = (int32)y
-
-  * ``bool InEmptyParentheses`` Put a space in parentheses only if the parentheses are empty i.e. '()'
-
-    .. code-block:: c++
-
-       true:                                false:
-       void f( ) {                    vs.   void f() {
-         int x[] = {foo( ), bar( )};          int x[] = {foo(), bar()};
-         if (true) {                          if (true) {
-           f( );                                f();
-         }                                    }
-       }                                    }
-
-  * ``bool Other`` Put a space in parentheses not covered by preceding options.
-
-    .. code-block:: c++
-
-       true:                                  false:
-       t f( Deleted & ) & = delete;   vs.     t f(Deleted &) & = delete;
-
-
 .. _SpacesInParentheses:
 
 **SpacesInParentheses** (``Boolean``) :versionbadge:`clang-format 3.7` :ref:`¶ <SpacesInParentheses>`
-  If ``true'', spaces will be inserted after ``(`` and before ``)``.
-  This option is **deprecated**. The previous behavior is preserved by using
-  ``SpacesInParens`` with ``Custom`` and by setting all
-  ``SpacesInParensOptions`` to ``true`` except for ``InCStyleCasts`` and
-  ``InEmptyParentheses``.
+  If ``true``, spaces will be inserted after ``(`` and before ``)``.
+
+  .. code-block:: c++
+
+     true:                                  false:
+     t f( Deleted & ) & = delete;   vs.     t f(Deleted &) & = delete;
 
 .. _SpacesInSquareBrackets:
 

@@ -5,13 +5,17 @@ set(LIBS
   ${conversion_libs}
 
   MLIRAffineDialect
+  MLIRAnalysis
   MLIRArithDialect
   MLIRBuiltinToLLVMIRTranslation
+  MLIRExecutionEngine
   MLIRFuncDialect
   MLIRGPUDialect
   MLIRGPUToGPURuntimeTransforms
   MLIRGPUTransforms
   MLIRIR
+  MLIRLLVMDialect
+  MLIRLLVMCommonConversion
   MLIRLLVMToLLVMIRTranslation
   MLIRToLLVMIRTranslationRegistration
   MLIRMemRefDialect
@@ -27,6 +31,7 @@ set(LIBS
   MLIRTransforms
   MLIRTransformUtils
   MLIRTranslateLib
+  MLIRVectorDialect
   MLIRVectorToLLVM
   )
 
