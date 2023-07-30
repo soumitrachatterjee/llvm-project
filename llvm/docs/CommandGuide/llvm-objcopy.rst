@@ -137,9 +137,8 @@ multiple file formats.
  sections.
 
  Supported flag names are `alloc`, `load`, `noload`, `readonly`, `exclude`,
- `debug`, `code`, `data`, `rom`, `share`, `contents`, `merge`, `strings`, and
- `large`. Not all flags are meaningful for all object file formats or target
- architectures.
+ `debug`, `code`, `data`, `rom`, `share`, `contents`, `merge` and `strings`. Not
+ all flags are meaningful for all object file formats.
 
  For ELF objects, the flags have the following effects:
 
@@ -153,8 +152,6 @@ multiple file formats.
  - `strings` = add the `SHF_STRINGS` flag.
  - `contents` = if the section has `SHT_NOBITS` type, mark it as a `SHT_PROGBITS`
    section.
- - `large` = add the `SHF_X86_64_LARGE` on x86_64; rejected if the target
-   architecture is not x86_64.
 
  For COFF objects, the flags have the following effects:
 

@@ -2600,6 +2600,9 @@ bool AMDGPUMachineCFGStructurizer::structurizeComplexRegion(RegionMRT *Region) {
     LLVM_DEBUG(dbgs() << "CurrentRegion: \n");
     LLVM_DEBUG(LRegion->print(dbgs(), TRI));
 
+    auto CNI = CI;
+    ++CNI;
+
     MRT *Child = (*CI);
 
     if (Child->isRegion()) {

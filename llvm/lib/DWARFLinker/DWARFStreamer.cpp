@@ -455,13 +455,13 @@ DwarfStreamer::emitDwarfDebugRangeListHeader(const CompileUnit &Unit) {
 
 void DwarfStreamer::emitDwarfDebugRangeListFragment(
     const CompileUnit &Unit, const AddressRanges &LinkedRanges,
-    PatchLocation Patch, DebugAddrPool &AddrPool) {
+    PatchLocation Patch) {
   if (Unit.getOrigUnit().getVersion() < 5) {
     emitDwarfDebugRangesTableFragment(Unit, LinkedRanges, Patch);
     return;
   }
 
-  emitDwarfDebugRngListsTableFragment(Unit, LinkedRanges, Patch, AddrPool);
+  emitDwarfDebugRngListsTableFragment(Unit, LinkedRanges, Patch);
 }
 
 void DwarfStreamer::emitDwarfDebugRangeListFooter(const CompileUnit &Unit,
@@ -478,35 +478,25 @@ void DwarfStreamer::emitDwarfDebugRangeListFooter(const CompileUnit &Unit,
 
 void DwarfStreamer::emitDwarfDebugRngListsTableFragment(
     const CompileUnit &Unit, const AddressRanges &LinkedRanges,
-    PatchLocation Patch, DebugAddrPool &AddrPool) {
+    PatchLocation Patch) {
   Patch.set(RngListsSectionSize);
 
   // Make .debug_rnglists to be current section.
   MS->switchSection(MC->getObjectFileInfo()->getDwarfRnglistsSection());
-  std::optional<uint64_t> BaseAddress;
+
+  unsigned AddressSize = Unit.getOrigUnit().getAddressByteSize();
 
   for (const AddressRange &Range : LinkedRanges) {
-
-    if (!BaseAddress) {
-      BaseAddress = Range.start();
-
-      // Emit base address.
-      MS->emitInt8(dwarf::DW_RLE_base_addressx);
-      RngListsSectionSize += 1;
-      RngListsSectionSize +=
-          MS->emitULEB128IntValue(AddrPool.getAddrIndex(*BaseAddress));
-    }
-
     // Emit type of entry.
-    MS->emitInt8(dwarf::DW_RLE_offset_pair);
+    MS->emitInt8(dwarf::DW_RLE_start_length);
     RngListsSectionSize += 1;
 
-    // Emit start offset relative to base address.
-    RngListsSectionSize +=
-        MS->emitULEB128IntValue(Range.start() - *BaseAddress);
+    // Emit start address.
+    MS->emitIntValue(Range.start(), AddressSize);
+    RngListsSectionSize += AddressSize;
 
-    // Emit end offset relative to base address.
-    RngListsSectionSize += MS->emitULEB128IntValue(Range.end() - *BaseAddress);
+    // Emit length of the range.
+    RngListsSectionSize += MS->emitULEB128IntValue(Range.end() - Range.start());
   }
 
   // Emit the terminator entry.

@@ -1015,9 +1015,8 @@ static LogicalResult checkDeclareOperands(Op &op,
     if (!declareAttribute)
       return op.emitError(
           "expect declare attribute on variable in declare operation");
-    if (mlir::cast<mlir::acc::DeclareAttr>(declareAttribute)
-            .getDataClause()
-            .getValue() != dataClauseOptional.value())
+    if (llvm::cast<DataClauseAttr>(declareAttribute).getValue() !=
+        dataClauseOptional.value())
       return op.emitError(
           "expect matching declare attribute on variable in declare operation");
   }

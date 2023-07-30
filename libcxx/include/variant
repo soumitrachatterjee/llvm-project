@@ -1274,7 +1274,7 @@ struct __all_overloads : _Bases... {
   using _Bases::operator()...;
 };
 
-template <class _IdxSeq>
+template <class IdxSeq>
 struct __make_overloads_imp;
 
 template <size_t ..._Idx>

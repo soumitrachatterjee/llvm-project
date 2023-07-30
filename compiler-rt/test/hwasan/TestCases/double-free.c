@@ -1,5 +1,7 @@
 // RUN: %clang_hwasan %s -o %t && not %run %t 2>&1 | FileCheck %s
 
+// REQUIRES: stable-runtime
+
 #include <stdlib.h>
 #include <stdio.h>
 #include <sanitizer/hwasan_interface.h>

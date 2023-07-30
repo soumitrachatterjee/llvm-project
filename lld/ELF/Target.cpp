@@ -62,8 +62,6 @@ TargetInfo *elf::getTarget() {
     return getAVRTargetInfo();
   case EM_HEXAGON:
     return getHexagonTargetInfo();
-  case EM_LOONGARCH:
-    return getLoongArchTargetInfo();
   case EM_MIPS:
     switch (config->ekind) {
     case ELF32LEKind:

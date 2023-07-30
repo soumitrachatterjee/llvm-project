@@ -9,7 +9,7 @@
 #define QUAD_PRECISION
 #include "fp_lib.h"
 
-#if defined(CRT_HAS_TF_MODE)
+#if defined(CRT_HAS_128BIT) && defined(CRT_LDBL_128BIT)
 #define SRC_SINGLE
 #define DST_QUAD
 #include "fp_extend_impl.inc"

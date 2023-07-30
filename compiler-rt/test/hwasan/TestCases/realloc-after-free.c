@@ -3,6 +3,8 @@
 // RUN: not %run %t 40 2>&1 | FileCheck %s
 // RUN: not %run %t 30 2>&1 | FileCheck %s
 
+// REQUIRES: stable-runtime
+
 #include <stdlib.h>
 #include <stdio.h>
 #include <sanitizer/hwasan_interface.h>

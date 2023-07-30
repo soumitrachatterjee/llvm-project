@@ -72,24 +72,13 @@ static inline void unmap(LargeBlock::Header *H) {
   MemMap.unmap(MemMap.getBase(), MemMap.getCapacity());
 }
 
-namespace {
-struct CachedBlock {
-  uptr CommitBase = 0;
-  uptr CommitSize = 0;
-  uptr BlockBegin = 0;
-  MemMapT MemMap = {};
-  u64 Time = 0;
-
-  bool isValid() { return CommitBase != 0; }
-
-  void invalidate() { CommitBase = 0; }
-};
-} // namespace
-
 template <typename Config> class MapAllocatorNoCache {
 public:
   void init(UNUSED s32 ReleaseToOsInterval) {}
-  bool retrieve(UNUSED uptr Size, UNUSED CachedBlock &Entry) { return false; }
+  bool retrieve(UNUSED Options Options, UNUSED uptr Size, UNUSED uptr Alignment,
+                UNUSED LargeBlock::Header **H, UNUSED bool *Zeroed) {
+    return false;
+  }
   void store(UNUSED Options Options, LargeBlock::Header *H) { unmap(H); }
   bool canCache(UNUSED uptr Size) { return false; }
   void disable() {}
@@ -113,22 +102,20 @@ public:
 static const uptr MaxUnusedCachePages = 4U;
 
 template <typename Config>
-bool mapSecondary(Options Options, uptr CommitBase, uptr CommitSize,
+void mapSecondary(Options Options, uptr CommitBase, uptr CommitSize,
                   uptr AllocPos, uptr Flags, MemMapT &MemMap) {
-  Flags |= MAP_RESIZABLE;
-  Flags |= MAP_ALLOWNOMEM;
-
   const uptr MaxUnusedCacheBytes = MaxUnusedCachePages * getPageSizeCached();
   if (useMemoryTagging<Config>(Options) && CommitSize > MaxUnusedCacheBytes) {
     const uptr UntaggedPos = Max(AllocPos, CommitBase + MaxUnusedCacheBytes);
-    return MemMap.remap(CommitBase, UntaggedPos - CommitBase, "scudo:secondary",
-                        MAP_MEMTAG | Flags) &&
-           MemMap.remap(UntaggedPos, CommitBase + CommitSize - UntaggedPos,
-                        "scudo:secondary", Flags);
+    MemMap.remap(CommitBase, UntaggedPos - CommitBase, "scudo:secondary",
+                 MAP_RESIZABLE | MAP_MEMTAG | Flags);
+    MemMap.remap(UntaggedPos, CommitBase + CommitSize - UntaggedPos,
+                 "scudo:secondary", MAP_RESIZABLE | Flags);
   } else {
     const uptr RemapFlags =
-        (useMemoryTagging<Config>(Options) ? MAP_MEMTAG : 0) | Flags;
-    return MemMap.remap(CommitBase, CommitSize, "scudo:secondary", RemapFlags);
+        MAP_RESIZABLE | (useMemoryTagging<Config>(Options) ? MAP_MEMTAG : 0) |
+        Flags;
+    MemMap.remap(CommitBase, CommitSize, "scudo:secondary", RemapFlags);
   }
 }
 
@@ -156,7 +143,7 @@ public:
                 EntriesCount, atomic_load_relaxed(&MaxEntriesCount),
                 atomic_load_relaxed(&MaxEntrySize));
     for (CachedBlock Entry : Entries) {
-      if (!Entry.isValid())
+      if (!Entry.CommitBase)
         continue;
       Str->append("StartBlockAddress: 0x%zx, EndBlockAddress: 0x%zx, "
                   "BlockSize: %zu\n",
@@ -223,7 +210,7 @@ public:
       if (CacheConfig::QuarantineSize && useMemoryTagging<Config>(Options)) {
         QuarantinePos =
             (QuarantinePos + 1) % Max(CacheConfig::QuarantineSize, 1u);
-        if (!Quarantine[QuarantinePos].isValid()) {
+        if (!Quarantine[QuarantinePos].CommitBase) {
           Quarantine[QuarantinePos] = Entry;
           return;
         }
@@ -238,7 +225,7 @@ public:
           EmptyCache = true;
       } else {
         for (u32 I = 0; I < MaxCount; I++) {
-          if (Entries[I].isValid())
+          if (Entries[I].CommitBase)
             continue;
           if (I != 0)
             Entries[I] = Entries[0];
@@ -259,26 +246,63 @@ public:
       Entry.MemMap.unmap(Entry.MemMap.getBase(), Entry.MemMap.getCapacity());
   }
 
-  bool retrieve(uptr Size, CachedBlock &Entry) EXCLUDES(Mutex) {
+  bool retrieve(Options Options, uptr Size, uptr Alignment,
+                LargeBlock::Header **H, bool *Zeroed) EXCLUDES(Mutex) {
+    const uptr PageSize = getPageSizeCached();
     const u32 MaxCount = atomic_load_relaxed(&MaxEntriesCount);
     bool Found = false;
+    CachedBlock Entry;
+    uptr HeaderPos = 0;
     {
       ScopedLock L(Mutex);
       if (EntriesCount == 0)
         return false;
       for (u32 I = 0; I < MaxCount; I++) {
-        if (!Entries[I].isValid())
+        const uptr CommitBase = Entries[I].CommitBase;
+        if (!CommitBase)
           continue;
-        if (Size > Entries[I].CommitSize)
+        const uptr CommitSize = Entries[I].CommitSize;
+        const uptr AllocPos =
+            roundDown(CommitBase + CommitSize - Size, Alignment);
+        HeaderPos =
+            AllocPos - Chunk::getHeaderSize() - LargeBlock::getHeaderSize();
+        if (HeaderPos > CommitBase + CommitSize)
           continue;
+        if (HeaderPos < CommitBase ||
+            AllocPos > CommitBase + PageSize * MaxUnusedCachePages) {
+          continue;
+        }
         Found = true;
         Entry = Entries[I];
-        Entries[I].invalidate();
+        Entries[I].CommitBase = 0;
         EntriesCount--;
         break;
       }
     }
-    return Found;
+    if (!Found)
+      return false;
+
+    *H = reinterpret_cast<LargeBlock::Header *>(
+        LargeBlock::addHeaderTag<Config>(HeaderPos));
+    *Zeroed = Entry.Time == 0;
+    if (useMemoryTagging<Config>(Options))
+      Entry.MemMap.setMemoryPermission(Entry.CommitBase, Entry.CommitSize, 0);
+    uptr NewBlockBegin = reinterpret_cast<uptr>(*H + 1);
+    if (useMemoryTagging<Config>(Options)) {
+      if (*Zeroed) {
+        storeTags(LargeBlock::addHeaderTag<Config>(Entry.CommitBase),
+                  NewBlockBegin);
+      } else if (Entry.BlockBegin < NewBlockBegin) {
+        storeTags(Entry.BlockBegin, NewBlockBegin);
+      } else {
+        storeTags(untagPointer(NewBlockBegin),
+                  untagPointer(Entry.BlockBegin));
+      }
+    }
+    (*H)->CommitBase = Entry.CommitBase;
+    (*H)->CommitSize = Entry.CommitSize;
+    (*H)->MemMap = Entry.MemMap;
+    return true;
   }
 
   bool canCache(uptr Size) {
@@ -314,15 +338,15 @@ public:
   void disableMemoryTagging() EXCLUDES(Mutex) {
     ScopedLock L(Mutex);
     for (u32 I = 0; I != CacheConfig::QuarantineSize; ++I) {
-      if (Quarantine[I].isValid()) {
+      if (Quarantine[I].CommitBase) {
         MemMapT &MemMap = Quarantine[I].MemMap;
         MemMap.unmap(MemMap.getBase(), MemMap.getCapacity());
-        Quarantine[I].invalidate();
+        Quarantine[I].CommitBase = 0;
       }
     }
     const u32 MaxCount = atomic_load_relaxed(&MaxEntriesCount);
     for (u32 I = 0; I < MaxCount; I++) {
-      if (Entries[I].isValid()) {
+      if (Entries[I].CommitBase) {
         Entries[I].MemMap.setMemoryPermission(Entries[I].CommitBase,
                                               Entries[I].CommitSize, 0);
       }
@@ -343,10 +367,10 @@ private:
     {
       ScopedLock L(Mutex);
       for (uptr I = 0; I < CacheConfig::EntriesArraySize; I++) {
-        if (!Entries[I].isValid())
+        if (!Entries[I].CommitBase)
           continue;
         MapInfo[N] = Entries[I].MemMap;
-        Entries[I].invalidate();
+        Entries[I].CommitBase = 0;
         N++;
       }
       EntriesCount = 0;
@@ -358,8 +382,16 @@ private:
     }
   }
 
+  struct CachedBlock {
+    uptr CommitBase = 0;
+    uptr CommitSize = 0;
+    uptr BlockBegin = 0;
+    MemMapT MemMap = {};
+    u64 Time = 0;
+  };
+
   void releaseIfOlderThan(CachedBlock &Entry, u64 Time) REQUIRES(Mutex) {
-    if (!Entry.isValid() || !Entry.Time)
+    if (!Entry.CommitBase || !Entry.Time)
       return;
     if (Entry.Time > Time) {
       if (OldestTime == 0 || Entry.Time < OldestTime)
@@ -443,27 +475,6 @@ public:
     }
   }
 
-  inline void setHeader(Options Options, CachedBlock &Entry,
-                        LargeBlock::Header *H, bool &Zeroed) {
-    Zeroed = Entry.Time == 0;
-    if (useMemoryTagging<Config>(Options)) {
-      Entry.MemMap.setMemoryPermission(Entry.CommitBase, Entry.CommitSize, 0);
-      // Block begins after the LargeBlock::Header
-      uptr NewBlockBegin = reinterpret_cast<uptr>(H + 1);
-      if (Zeroed) {
-        storeTags(LargeBlock::addHeaderTag<Config>(Entry.CommitBase),
-                  NewBlockBegin);
-      } else if (Entry.BlockBegin < NewBlockBegin) {
-        storeTags(Entry.BlockBegin, NewBlockBegin);
-      } else {
-        storeTags(untagPointer(NewBlockBegin), untagPointer(Entry.BlockBegin));
-      }
-    }
-    H->CommitBase = Entry.CommitBase;
-    H->CommitSize = Entry.CommitSize;
-    H->MemMap = Entry.MemMap;
-  }
-
   bool canCache(uptr Size) { return Cache.canCache(Size); }
 
   bool setOption(Option O, sptr Value) { return Cache.setOption(O, Value); }
@@ -518,15 +529,7 @@ void *MapAllocator<Config>::allocate(Options Options, uptr Size, uptr Alignment,
   if (Alignment < PageSize && Cache.canCache(RoundedSize)) {
     LargeBlock::Header *H;
     bool Zeroed;
-    CachedBlock Entry;
-    if (Cache.retrieve(RoundedSize, Entry)) {
-      const uptr AllocPos =
-          roundDown(Entry.CommitBase + Entry.CommitSize - Size, Alignment);
-      const uptr HeaderPos =
-          AllocPos - LargeBlock::getHeaderSize() - Chunk::getHeaderSize();
-      H = reinterpret_cast<LargeBlock::Header *>(
-          LargeBlock::addHeaderTag<Config>(HeaderPos));
-      setHeader(Options, Entry, H, Zeroed);
+    if (Cache.retrieve(Options, Size, Alignment, &H, &Zeroed)) {
       const uptr BlockEnd = H->CommitBase + H->CommitSize;
       if (BlockEndPtr)
         *BlockEndPtr = BlockEnd;
@@ -589,11 +592,7 @@ void *MapAllocator<Config>::allocate(Options Options, uptr Size, uptr Alignment,
 
   const uptr CommitSize = MapEnd - PageSize - CommitBase;
   const uptr AllocPos = roundDown(CommitBase + CommitSize - Size, Alignment);
-  if (!mapSecondary<Config>(Options, CommitBase, CommitSize, AllocPos, 0,
-                            MemMap)) {
-    MemMap.unmap(MemMap.getBase(), MemMap.getCapacity());
-    return nullptr;
-  }
+  mapSecondary<Config>(Options, CommitBase, CommitSize, AllocPos, 0, MemMap);
   const uptr HeaderPos =
       AllocPos - Chunk::getHeaderSize() - LargeBlock::getHeaderSize();
   LargeBlock::Header *H = reinterpret_cast<LargeBlock::Header *>(

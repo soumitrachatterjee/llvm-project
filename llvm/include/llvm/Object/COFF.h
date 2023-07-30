@@ -888,17 +888,8 @@ public:
   }
 
   uint16_t getMachine() const {
-    if (COFFHeader) {
-      if (CHPEMetadata) {
-        switch (COFFHeader->Machine) {
-        case COFF::IMAGE_FILE_MACHINE_AMD64:
-          return COFF::IMAGE_FILE_MACHINE_ARM64EC;
-        case COFF::IMAGE_FILE_MACHINE_ARM64:
-          return COFF::IMAGE_FILE_MACHINE_ARM64X;
-        }
-      }
+    if (COFFHeader)
       return COFFHeader->Machine;
-    }
     if (COFFBigObjHeader)
       return COFFBigObjHeader->Machine;
     llvm_unreachable("no COFF header!");

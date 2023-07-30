@@ -32,9 +32,8 @@ entry:
 }
 
 define internal i32 @foo(ptr %arg) {
-; CHECK: Function Attrs: memory(readwrite, argmem: none)
 ; CHECK-LABEL: define {{[^@]+}}@foo
-; CHECK-SAME: (i32 [[TMP0:%.*]]) #[[ATTR0:[0-9]+]] {
+; CHECK-SAME: (i32 [[TMP0:%.*]]) {
 ; CHECK-NEXT:  entry:
 ; CHECK-NEXT:    [[ARG_PRIV:%.*]] = alloca i32, align 4, addrspace(7)
 ; CHECK-NEXT:    store i32 [[TMP0]], ptr addrspace(7) [[ARG_PRIV]], align 4
@@ -50,6 +49,3 @@ entry:
 }
 
 declare void @use(i32)
-;.
-; CHECK: attributes #[[ATTR0]] = { memory(readwrite, argmem: none) }
-;.

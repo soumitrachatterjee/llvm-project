@@ -13,7 +13,6 @@ static_library("performance") {
   ]
   sources = [
     "AvoidEndlCheck.cpp",
-    "EnumSizeCheck.cpp",
     "FasterStringFindCheck.cpp",
     "ForRangeCopyCheck.cpp",
     "ImplicitConversionInLoopCheck.cpp",
