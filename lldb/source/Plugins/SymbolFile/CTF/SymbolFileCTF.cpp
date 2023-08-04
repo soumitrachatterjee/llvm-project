@@ -503,26 +503,59 @@ SymbolFileCTF::CreateFunction(const CTFFunction &ctf_function) {
 llvm::Expected<lldb::TypeSP>
 SymbolFileCTF::CreateRecord(const CTFRecord &ctf_record) {
   const clang::TagTypeKind tag_kind = TranslateRecordKind(ctf_record.kind);
-
   CompilerType record_type =
       m_ast->CreateRecordType(nullptr, OptionalClangModuleID(), eAccessPublic,
                               ctf_record.name.data(), tag_kind, eLanguageTypeC);
-
-  m_ast->StartTagDeclarationDefinition(record_type);
-  for (const CTFRecord::Field &field : ctf_record.fields) {
-    if (Type *field_type = ResolveTypeUID(field.type)) {
-      const uint32_t field_size = field_type->GetByteSize(nullptr).value_or(0);
-      TypeSystemClang::AddFieldToRecordType(record_type, field.name,
-                                            field_type->GetFullCompilerType(),
-                                            eAccessPublic, field_size);
-    }
-  }
-  m_ast->CompleteTagDeclarationDefinition(record_type);
-
+  m_compiler_types[record_type.GetOpaqueQualType()] = &ctf_record;
   Declaration decl;
   return MakeType(ctf_record.uid, ConstString(ctf_record.name), ctf_record.size,
                   nullptr, LLDB_INVALID_UID, lldb_private::Type::eEncodingIsUID,
-                  decl, record_type, lldb_private::Type::ResolveState::Full);
+                  decl, record_type, lldb_private::Type::ResolveState::Forward);
+}
+
+bool SymbolFileCTF::CompleteType(CompilerType &compiler_type) {
+  // Check if we have a CTF type for the given incomplete compiler type.
+  auto it = m_compiler_types.find(compiler_type.GetOpaqueQualType());
+  if (it == m_compiler_types.end())
+    return false;
+
+  const CTFType *ctf_type = it->second;
+  assert(ctf_type && "m_compiler_types should only contain valid CTF types");
+
+  // We only support resolving record types.
+  assert(llvm::isa<CTFRecord>(ctf_type));
+
+  // Cast to the appropriate CTF type.
+  const CTFRecord *ctf_record = static_cast<const CTFRecord *>(ctf_type);
+
+  // If any of the fields are incomplete, we cannot complete the type.
+  for (const CTFRecord::Field &field : ctf_record->fields) {
+    if (!ResolveTypeUID(field.type)) {
+      LLDB_LOG(GetLog(LLDBLog::Symbols),
+               "Cannot complete type {0} because field {1} is incomplete",
+               ctf_type->uid, field.type);
+      return false;
+    }
+  }
+
+  // Complete the record type.
+  m_ast->StartTagDeclarationDefinition(compiler_type);
+  for (const CTFRecord::Field &field : ctf_record->fields) {
+    Type *field_type = ResolveTypeUID(field.type);
+    assert(field_type && "field must be complete");
+    const uint32_t field_size = field_type->GetByteSize(nullptr).value_or(0);
+    TypeSystemClang::AddFieldToRecordType(compiler_type, field.name,
+                                          field_type->GetFullCompilerType(),
+                                          eAccessPublic, field_size);
+  }
+  m_ast->CompleteTagDeclarationDefinition(compiler_type);
+
+  // Now that the compiler type is complete, we don't need to remember it
+  // anymore and can remove the CTF record type.
+  m_compiler_types.erase(compiler_type.GetOpaqueQualType());
+  m_ctf_types.erase(ctf_type->uid);
+
+  return true;
 }
 
 llvm::Expected<lldb::TypeSP>
@@ -642,9 +675,16 @@ SymbolFileCTF::ParseType(lldb::offset_t &offset, lldb::user_id_t uid) {
     for (uint32_t i = 0; i < variable_length; ++i) {
       const uint32_t field_name = m_data.GetU32(&offset);
       const uint32_t type = m_data.GetU32(&offset);
-      const uint16_t field_offset = m_data.GetU16(&offset);
-      const uint16_t padding = m_data.GetU16(&offset);
-      fields.emplace_back(ReadString(field_name), type, field_offset, padding);
+      uint64_t field_offset = 0;
+      if (size < g_ctf_field_threshold) {
+        field_offset = m_data.GetU16(&offset);
+        m_data.GetU16(&offset); // Padding
+      } else {
+        const uint32_t offset_hi = m_data.GetU32(&offset);
+        const uint32_t offset_lo = m_data.GetU32(&offset);
+        field_offset = (((uint64_t)offset_hi) << 32) | ((uint64_t)offset_lo);
+      }
+      fields.emplace_back(ReadString(field_name), type, field_offset);
     }
     return std::make_unique<CTFRecord>(static_cast<CTFType::Kind>(kind), uid,
                                        name, variable_length, size, fields);
@@ -687,9 +727,8 @@ size_t SymbolFileCTF::ParseTypes(CompileUnit &cu) {
     llvm::Expected<std::unique_ptr<CTFType>> type_or_error =
         ParseType(type_offset, type_uid);
     if (type_or_error) {
-      m_ctf_types.emplace_back(std::move(*type_or_error));
+      m_ctf_types[(*type_or_error)->uid] = std::move(*type_or_error);
     } else {
-      m_ctf_types.emplace_back(std::unique_ptr<CTFType>());
       LLDB_LOG_ERROR(log, type_or_error.takeError(),
                      "Failed to parse type {1} at offset {2}: {0}", type_uid,
                      type_offset);
@@ -850,7 +889,6 @@ size_t SymbolFileCTF::ParseObjects(CompileUnit &comp_unit) {
     if (Symbol *symbol =
             symtab->FindSymbolWithType(eSymbolTypeData, Symtab::eDebugYes,
                                        Symtab::eVisibilityAny, symbol_idx)) {
-
       Variable::RangeList ranges;
       ranges.Append(symbol->GetFileAddress(), symbol->GetByteSize());
 
@@ -943,18 +981,17 @@ void SymbolFileCTF::AddSymbols(Symtab &symtab) {
 }
 
 lldb_private::Type *SymbolFileCTF::ResolveTypeUID(lldb::user_id_t type_uid) {
-  auto find_result = m_types.find(type_uid);
-  if (find_result != m_types.end())
-    return find_result->second.get();
+  auto type_it = m_types.find(type_uid);
+  if (type_it != m_types.end())
+    return type_it->second.get();
 
-  if (type_uid == 0 || type_uid > m_ctf_types.size())
+  auto ctf_type_it = m_ctf_types.find(type_uid);
+  if (ctf_type_it == m_ctf_types.end())
     return nullptr;
 
-  CTFType *ctf_type = m_ctf_types[type_uid - 1].get();
-  if (!ctf_type)
-    return nullptr;
+  CTFType *ctf_type = ctf_type_it->second.get();
+  assert(ctf_type && "m_ctf_types should only contain valid CTF types");
 
-  m_types[type_uid] = TypeSP();
   Log *log = GetLog(LLDBLog::Symbols);
 
   llvm::Expected<TypeSP> type_or_error = CreateType(ctf_type);
@@ -974,6 +1011,11 @@ lldb_private::Type *SymbolFileCTF::ResolveTypeUID(lldb::user_id_t type_uid) {
   }
 
   m_types[type_uid] = type_sp;
+
+  // Except for record types which we'll need to complete later, we don't need
+  // the CTF type anymore.
+  if (!isa<CTFRecord>(ctf_type))
+    m_ctf_types.erase(type_uid);
 
   return type_sp.get();
 }

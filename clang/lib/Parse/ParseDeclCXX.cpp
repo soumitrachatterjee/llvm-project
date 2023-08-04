@@ -1016,10 +1016,23 @@ Decl *Parser::ParseStaticAssertDeclaration(SourceLocation &DeclEnd) {
       return nullptr;
     }
 
-    if (isTokenStringLiteral())
-      AssertMessage = ParseUnevaluatedStringLiteralExpression();
-    else if (getLangOpts().CPlusPlus26)
+    bool ParseAsExpression = false;
+    if (getLangOpts().CPlusPlus26) {
+      for (unsigned I = 0;; ++I) {
+        const Token &T = GetLookAheadToken(I);
+        if (T.is(tok::r_paren))
+          break;
+        if (T.isNot(tok::string_literal)) {
+          ParseAsExpression = true;
+          break;
+        }
+      }
+    }
+
+    if (ParseAsExpression)
       AssertMessage = ParseConstantExpressionInExprEvalContext();
+    else if (isTokenStringLiteral())
+      AssertMessage = ParseUnevaluatedStringLiteralExpression();
     else {
       Diag(Tok, diag::err_expected_string_literal)
           << /*Source='static_assert'*/ 1;
@@ -2848,6 +2861,7 @@ Parser::ParseCXXClassMemberDeclaration(AccessSpecifier AS,
     RecordDecl *AnonRecord = nullptr;
     Decl *TheDecl = Actions.ParsedFreeStandingDeclSpec(
         getCurScope(), AS, DS, DeclAttrs, TemplateParams, false, AnonRecord);
+    Actions.ActOnDefinedDeclarationSpecifier(TheDecl);
     DS.complete(TheDecl);
     if (AnonRecord) {
       Decl *decls[] = {AnonRecord, TheDecl};
@@ -2855,6 +2869,9 @@ Parser::ParseCXXClassMemberDeclaration(AccessSpecifier AS,
     }
     return Actions.ConvertDeclToDeclGroup(TheDecl);
   }
+
+  if (DS.hasTagDefinition())
+    Actions.ActOnDefinedDeclarationSpecifier(DS.getRepAsDecl());
 
   ParsingDeclarator DeclaratorInfo(*this, DS, DeclAttrs,
                                    DeclaratorContext::Member);

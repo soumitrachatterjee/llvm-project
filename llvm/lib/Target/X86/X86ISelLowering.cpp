@@ -3716,6 +3716,12 @@ static SDValue extractSubVector(SDValue Vec, unsigned IdxVal, SelectionDAG &DAG,
     return DAG.getBuildVector(ResultVT, dl,
                               Vec->ops().slice(IdxVal, ElemsPerChunk));
 
+  // Check if we're extracting the upper undef of a widening pattern.
+  if (Vec.getOpcode() == ISD::INSERT_SUBVECTOR && Vec.getOperand(0).isUndef() &&
+      Vec.getOperand(1).getValueType().getVectorNumElements() <= IdxVal &&
+      isNullConstant(Vec.getOperand(2)))
+    return DAG.getUNDEF(ResultVT);
+
   SDValue VecIdx = DAG.getIntPtrConstant(IdxVal, dl);
   return DAG.getNode(ISD::EXTRACT_SUBVECTOR, dl, ResultVT, Vec, VecIdx);
 }
@@ -6258,13 +6264,29 @@ static SDValue LowerBuildVectorv16i8(SDValue Op, const APInt &NonZeroMask,
   SDValue V;
 
   // Pre-SSE4.1 - merge byte pairs and insert with PINSRW.
-  for (unsigned i = 0; i < 16; i += 2) {
+  // If both the lowest 16-bits are non-zero, then convert to MOVD.
+  if (!NonZeroMask.extractBits(2, 0).isZero() &&
+      !NonZeroMask.extractBits(2, 2).isZero()) {
+    for (unsigned I = 0; I != 4; ++I) {
+      if (!NonZeroMask[I])
+        continue;
+      SDValue Elt = DAG.getZExtOrTrunc(Op.getOperand(I), dl, MVT::i32);
+      if (I != 0)
+        Elt = DAG.getNode(ISD::SHL, dl, MVT::i32, Elt,
+                          DAG.getConstant(I * 8, dl, MVT::i8));
+      V = V ? DAG.getNode(ISD::OR, dl, MVT::i32, V, Elt) : Elt;
+    }
+    assert(V && "Failed to fold v16i8 vector to zero");
+    V = DAG.getNode(ISD::SCALAR_TO_VECTOR, dl, MVT::v4i32, V);
+    V = DAG.getNode(X86ISD::VZEXT_MOVL, dl, MVT::v4i32, V);
+    V = DAG.getBitcast(MVT::v8i16, V);
+  }
+  for (unsigned i = V ? 4 : 0; i < 16; i += 2) {
     bool ThisIsNonZero = NonZeroMask[i];
     bool NextIsNonZero = NonZeroMask[i + 1];
     if (!ThisIsNonZero && !NextIsNonZero)
       continue;
 
-    // FIXME: Investigate combining the first 4 bytes as a i32 instead.
     SDValue Elt;
     if (ThisIsNonZero) {
       if (NumZero || NextIsNonZero)
@@ -17619,6 +17641,19 @@ static SDValue ExtractBitFromMaskVector(SDValue Op, SelectionDAG &DAG,
     unsigned NumElts = VecVT.getVectorNumElements();
     // Extending v8i1/v16i1 to 512-bit get better performance on KNL
     // than extending to 128/256bit.
+    if (NumElts == 1) {
+      if (Subtarget.hasDQI()) {
+        Vec = DAG.getNode(ISD::INSERT_SUBVECTOR, dl, MVT::v8i1,
+                          DAG.getUNDEF(MVT::v8i1), Vec,
+                          DAG.getIntPtrConstant(0, dl));
+        return DAG.getBitcast(MVT::i8, Vec);
+      }
+      Vec = DAG.getNode(ISD::INSERT_SUBVECTOR, dl, MVT::v16i1,
+                        DAG.getUNDEF(MVT::v16i1), Vec,
+                        DAG.getIntPtrConstant(0, dl));
+      return DAG.getNode(ISD::TRUNCATE, dl, MVT::i8,
+                         DAG.getBitcast(MVT::i16, Vec));
+    }
     MVT ExtEltVT = (NumElts <= 8) ? MVT::getIntegerVT(128 / NumElts) : MVT::i8;
     MVT ExtVecVT = MVT::getVectorVT(ExtEltVT, NumElts);
     SDValue Ext = DAG.getNode(ISD::SIGN_EXTEND, dl, ExtVecVT, Vec);
@@ -17648,6 +17683,40 @@ static SDValue ExtractBitFromMaskVector(SDValue Op, SelectionDAG &DAG,
                      DAG.getIntPtrConstant(0, dl));
 }
 
+// Helper to find all the extracted elements from a vector.
+static APInt getExtractedDemandedElts(SDNode *N) {
+  MVT VT = N->getSimpleValueType(0);
+  unsigned NumElts = VT.getVectorNumElements();
+  APInt DemandedElts = APInt::getZero(NumElts);
+  for (SDNode *User : N->uses()) {
+    switch (User->getOpcode()) {
+    case X86ISD::PEXTRB:
+    case X86ISD::PEXTRW:
+    case ISD::EXTRACT_VECTOR_ELT:
+      if (!isa<ConstantSDNode>(User->getOperand(1))) {
+        DemandedElts.setAllBits();
+        return DemandedElts;
+      }
+      DemandedElts.setBit(User->getConstantOperandVal(1));
+      break;
+    case ISD::BITCAST: {
+      if (!User->getValueType(0).isSimple() ||
+          !User->getValueType(0).isVector()) {
+        DemandedElts.setAllBits();
+        return DemandedElts;
+      }
+      APInt DemandedSrcElts = getExtractedDemandedElts(User);
+      DemandedElts |= APIntOps::ScaleBitMask(DemandedSrcElts, NumElts);
+      break;
+    }
+    default:
+      DemandedElts.setAllBits();
+      return DemandedElts;
+    }
+  }
+  return DemandedElts;
+}
+
 SDValue
 X86TargetLowering::LowerEXTRACT_VECTOR_ELT(SDValue Op,
                                            SelectionDAG &DAG) const {
@@ -17662,7 +17731,7 @@ X86TargetLowering::LowerEXTRACT_VECTOR_ELT(SDValue Op,
 
   if (!IdxC) {
     // Its more profitable to go through memory (1 cycles throughput)
-    // than using VMOVD + VPERMV/PSHUFB sequence ( 2/3 cycles throughput)
+    // than using VMOVD + VPERMV/PSHUFB sequence (2/3 cycles throughput)
     // IACA tool was used to get performance estimation
     // (https://software.intel.com/en-us/articles/intel-architecture-code-analyzer)
     //
@@ -17739,13 +17808,16 @@ X86TargetLowering::LowerEXTRACT_VECTOR_ELT(SDValue Op,
     if (SDValue Res = LowerEXTRACT_VECTOR_ELT_SSE4(Op, DAG))
       return Res;
 
-  // TODO: We only extract a single element from v16i8, we can probably afford
-  // to be more aggressive here before using the default approach of spilling to
-  // stack.
-  if (VT.getSizeInBits() == 8 && Op->isOnlyUserOf(Vec.getNode())) {
+  // Only extract a single element from a v16i8 source - determine the common
+  // DWORD/WORD that all extractions share, and extract the sub-byte.
+  // TODO: Add QWORD MOVQ extraction?
+  if (VT == MVT::i8) {
+    APInt DemandedElts = getExtractedDemandedElts(Vec.getNode());
+    assert(DemandedElts.getBitWidth() == 16 && "Vector width mismatch");
+
     // Extract either the lowest i32 or any i16, and extract the sub-byte.
     int DWordIdx = IdxVal / 4;
-    if (DWordIdx == 0) {
+    if (DWordIdx == 0 && DemandedElts == (DemandedElts & 15)) {
       SDValue Res = DAG.getNode(ISD::EXTRACT_VECTOR_ELT, dl, MVT::i32,
                                 DAG.getBitcast(MVT::v4i32, Vec),
                                 DAG.getIntPtrConstant(DWordIdx, dl));
@@ -17757,14 +17829,16 @@ X86TargetLowering::LowerEXTRACT_VECTOR_ELT(SDValue Op,
     }
 
     int WordIdx = IdxVal / 2;
-    SDValue Res = DAG.getNode(ISD::EXTRACT_VECTOR_ELT, dl, MVT::i16,
-                              DAG.getBitcast(MVT::v8i16, Vec),
-                              DAG.getIntPtrConstant(WordIdx, dl));
-    int ShiftVal = (IdxVal % 2) * 8;
-    if (ShiftVal != 0)
-      Res = DAG.getNode(ISD::SRL, dl, MVT::i16, Res,
-                        DAG.getConstant(ShiftVal, dl, MVT::i8));
-    return DAG.getNode(ISD::TRUNCATE, dl, VT, Res);
+    if (DemandedElts == (DemandedElts & (3 << (WordIdx * 2)))) {
+      SDValue Res = DAG.getNode(ISD::EXTRACT_VECTOR_ELT, dl, MVT::i16,
+                                DAG.getBitcast(MVT::v8i16, Vec),
+                                DAG.getIntPtrConstant(WordIdx, dl));
+      int ShiftVal = (IdxVal % 2) * 8;
+      if (ShiftVal != 0)
+        Res = DAG.getNode(ISD::SRL, dl, MVT::i16, Res,
+                          DAG.getConstant(ShiftVal, dl, MVT::i8));
+      return DAG.getNode(ISD::TRUNCATE, dl, VT, Res);
+    }
   }
 
   if (VT == MVT::f16 || VT.getSizeInBits() == 32) {
@@ -18546,11 +18620,9 @@ X86TargetLowering::LowerGlobalTLSAddress(SDValue Op, SelectionDAG &DAG) const {
     // Get the Thread Pointer, which is %fs:__tls_array (32-bit) or
     // %gs:0x58 (64-bit). On MinGW, __tls_array is not available, so directly
     // use its literal value of 0x2C.
-    Value *Ptr = Constant::getNullValue(Subtarget.is64Bit()
-                                        ? Type::getInt8PtrTy(*DAG.getContext(),
-                                                             256)
-                                        : Type::getInt32PtrTy(*DAG.getContext(),
-                                                              257));
+    Value *Ptr = Constant::getNullValue(
+        Subtarget.is64Bit() ? PointerType::get(*DAG.getContext(), 256)
+                            : PointerType::get(*DAG.getContext(), 257));
 
     SDValue TlsArray = Subtarget.is64Bit()
                            ? DAG.getIntPtrConstant(0x58, dl)
@@ -19949,6 +20021,14 @@ static SDValue truncateVectorWithPACK(unsigned Opcode, EVT DstVT, SDValue In,
   // Split lower/upper subvectors.
   SDValue Lo, Hi;
   std::tie(Lo, Hi) = splitVector(In, DAG, DL);
+
+  // If Hi is undef, then don't bother packing it and widen the result instead.
+  if (Hi.isUndef()) {
+    EVT DstHalfVT = DstVT.getHalfNumVectorElementsVT(Ctx);
+    if (SDValue Res =
+            truncateVectorWithPACK(Opcode, DstHalfVT, Lo, DL, DAG, Subtarget))
+      return widenSubVector(Res, false, Subtarget, DAG, DL, DstSizeInBits);
+  }
 
   unsigned SubSizeInBits = SrcSizeInBits / 2;
   InVT = EVT::getVectorVT(Ctx, InVT, SubSizeInBits / InVT.getSizeInBits());
@@ -31908,9 +31988,45 @@ void X86TargetLowering::ReplaceNodeResults(SDNode *N,
     EVT InEltVT = InVT.getVectorElementType();
     EVT EltVT = VT.getVectorElementType();
     unsigned WidenNumElts = WidenVT.getVectorNumElements();
-
     unsigned InBits = InVT.getSizeInBits();
+
     if (128 % InBits == 0) {
+      // See if we there are sufficient leading bits to perform a PACKUS/PACKSS.
+      // Skip for AVX512 unless this will be a single stage truncation.
+      if ((InEltVT == MVT::i16 || InEltVT == MVT::i32) &&
+          (EltVT == MVT::i8 || EltVT == MVT::i16) &&
+          (!Subtarget.hasAVX512() || InBits == (2 * VT.getSizeInBits()))) {
+        unsigned NumPackedSignBits =
+            std::min<unsigned>(EltVT.getSizeInBits(), 16);
+        unsigned NumPackedZeroBits =
+            Subtarget.hasSSE41() ? NumPackedSignBits : 8;
+
+        // Use PACKUS if the input has zero-bits that extend all the way to the
+        // packed/truncated value. e.g. masks, zext_in_reg, etc.
+        KnownBits Known = DAG.computeKnownBits(In);
+        unsigned NumLeadingZeroBits = Known.countMinLeadingZeros();
+        bool UsePACKUS =
+            NumLeadingZeroBits >= (InEltVT.getSizeInBits() - NumPackedZeroBits);
+
+        // Use PACKSS if the input has sign-bits that extend all the way to the
+        // packed/truncated value. e.g. Comparison result, sext_in_reg, etc.
+        unsigned NumSignBits = DAG.ComputeNumSignBits(In);
+        bool UsePACKSS =
+            NumSignBits > (InEltVT.getSizeInBits() - NumPackedSignBits);
+
+        if (UsePACKUS || UsePACKSS) {
+          SDValue WidenIn =
+              widenSubVector(In, false, Subtarget, DAG, dl,
+                             InEltVT.getSizeInBits() * WidenNumElts);
+          if (SDValue Res = truncateVectorWithPACK(
+                  UsePACKUS ? X86ISD::PACKUS : X86ISD::PACKSS, WidenVT, WidenIn,
+                  dl, DAG, Subtarget)) {
+            Results.push_back(Res);
+            return;
+          }
+        }
+      }
+
       // 128 bit and smaller inputs should avoid truncate all together and
       // just use a build_vector that will become a shuffle.
       // TODO: Widen and use a shuffle directly?
@@ -31926,6 +32042,7 @@ void X86TargetLowering::ReplaceNodeResults(SDNode *N,
       Results.push_back(DAG.getBuildVector(WidenVT, dl, Ops));
       return;
     }
+
     // With AVX512 there are some cases that can use a target specific
     // truncate node to go from 256/512 to less than 128 with zeros in the
     // upper elements of the 128 bit result.
@@ -48304,7 +48421,7 @@ static SDValue combineAnd(SDNode *N, SelectionDAG &DAG,
   // Attempt to combine a scalar bitmask AND with an extracted shuffle.
   if ((VT.getScalarSizeInBits() % 8) == 0 &&
       N0.getOpcode() == ISD::EXTRACT_VECTOR_ELT &&
-      isa<ConstantSDNode>(N0.getOperand(1))) {
+      isa<ConstantSDNode>(N0.getOperand(1)) && N0->hasOneUse()) {
     SDValue BitMask = N1;
     SDValue SrcVec = N0.getOperand(0);
     EVT SrcVecVT = SrcVec.getValueType();
@@ -56194,19 +56311,19 @@ X86TargetLowering::getConstraintType(StringRef Constraint) const {
 /// This object must already have been set up with the operand type
 /// and the current alternative constraint selected.
 TargetLowering::ConstraintWeight
-  X86TargetLowering::getSingleConstraintMatchWeight(
-    AsmOperandInfo &info, const char *constraint) const {
-  ConstraintWeight weight = CW_Invalid;
-  Value *CallOperandVal = info.CallOperandVal;
-    // If we don't have a value, we can't do a match,
-    // but allow it at the lowest weight.
+X86TargetLowering::getSingleConstraintMatchWeight(
+    AsmOperandInfo &Info, const char *Constraint) const {
+  ConstraintWeight Wt = CW_Invalid;
+  Value *CallOperandVal = Info.CallOperandVal;
+  // If we don't have a value, we can't do a match,
+  // but allow it at the lowest weight.
   if (!CallOperandVal)
     return CW_Default;
-  Type *type = CallOperandVal->getType();
+  Type *Ty = CallOperandVal->getType();
   // Look at the constraint type.
-  switch (*constraint) {
+  switch (*Constraint) {
   default:
-    weight = TargetLowering::getSingleConstraintMatchWeight(info, constraint);
+    Wt = TargetLowering::getSingleConstraintMatchWeight(Info, Constraint);
     [[fallthrough]];
   case 'R':
   case 'q':
@@ -56219,121 +56336,112 @@ TargetLowering::ConstraintWeight
   case 'D':
   case 'A':
     if (CallOperandVal->getType()->isIntegerTy())
-      weight = CW_SpecificReg;
+      Wt = CW_SpecificReg;
     break;
   case 'f':
   case 't':
   case 'u':
-    if (type->isFloatingPointTy())
-      weight = CW_SpecificReg;
+    if (Ty->isFloatingPointTy())
+      Wt = CW_SpecificReg;
     break;
   case 'y':
-    if (type->isX86_MMXTy() && Subtarget.hasMMX())
-      weight = CW_SpecificReg;
+    if (Ty->isX86_MMXTy() && Subtarget.hasMMX())
+      Wt = CW_SpecificReg;
     break;
   case 'Y':
-    if (StringRef(constraint).size() != 2)
+    if (StringRef(Constraint).size() != 2)
       break;
-    switch (constraint[1]) {
-      default:
+    switch (Constraint[1]) {
+    default:
+      return CW_Invalid;
+    // XMM0
+    case 'z':
+      if (((Ty->getPrimitiveSizeInBits() == 128) && Subtarget.hasSSE1()) ||
+          ((Ty->getPrimitiveSizeInBits() == 256) && Subtarget.hasAVX()) ||
+          ((Ty->getPrimitiveSizeInBits() == 512) && Subtarget.hasAVX512()))
+        return CW_SpecificReg;
+      return CW_Invalid;
+    // Conditional OpMask regs (AVX512)
+    case 'k':
+      if ((Ty->getPrimitiveSizeInBits() == 64) && Subtarget.hasAVX512())
+        return CW_Register;
+      return CW_Invalid;
+    // Any MMX reg
+    case 'm':
+      if (Ty->isX86_MMXTy() && Subtarget.hasMMX())
+        return Wt;
+      return CW_Invalid;
+    // Any SSE reg when ISA >= SSE2, same as 'x'
+    case 'i':
+    case 't':
+    case '2':
+      if (!Subtarget.hasSSE2())
         return CW_Invalid;
-      // XMM0
-      case 'z':
-        if (((type->getPrimitiveSizeInBits() == 128) && Subtarget.hasSSE1()) ||
-            ((type->getPrimitiveSizeInBits() == 256) && Subtarget.hasAVX()) ||
-            ((type->getPrimitiveSizeInBits() == 512) && Subtarget.hasAVX512()))
-          return CW_SpecificReg;
-        return CW_Invalid;
-      // Conditional OpMask regs (AVX512)
-      case 'k':
-        if ((type->getPrimitiveSizeInBits() == 64) && Subtarget.hasAVX512())
-          return CW_Register;
-        return CW_Invalid;
-      // Any MMX reg
-      case 'm':
-        if (type->isX86_MMXTy() && Subtarget.hasMMX())
-          return weight;
-        return CW_Invalid;
-      // Any SSE reg when ISA >= SSE2, same as 'x'
-      case 'i':
-      case 't':
-      case '2':
-        if (!Subtarget.hasSSE2())
-          return CW_Invalid;
-        break;
+      break;
     }
     break;
   case 'v':
-    if ((type->getPrimitiveSizeInBits() == 512) && Subtarget.hasAVX512())
-      weight = CW_Register;
+    if ((Ty->getPrimitiveSizeInBits() == 512) && Subtarget.hasAVX512())
+      Wt = CW_Register;
     [[fallthrough]];
   case 'x':
-    if (((type->getPrimitiveSizeInBits() == 128) && Subtarget.hasSSE1()) ||
-        ((type->getPrimitiveSizeInBits() == 256) && Subtarget.hasAVX()))
-      weight = CW_Register;
+    if (((Ty->getPrimitiveSizeInBits() == 128) && Subtarget.hasSSE1()) ||
+        ((Ty->getPrimitiveSizeInBits() == 256) && Subtarget.hasAVX()))
+      Wt = CW_Register;
     break;
   case 'k':
     // Enable conditional vector operations using %k<#> registers.
-    if ((type->getPrimitiveSizeInBits() == 64) && Subtarget.hasAVX512())
-      weight = CW_Register;
+    if ((Ty->getPrimitiveSizeInBits() == 64) && Subtarget.hasAVX512())
+      Wt = CW_Register;
     break;
   case 'I':
-    if (auto *C = dyn_cast<ConstantInt>(info.CallOperandVal)) {
+    if (auto *C = dyn_cast<ConstantInt>(Info.CallOperandVal))
       if (C->getZExtValue() <= 31)
-        weight = CW_Constant;
-    }
+        Wt = CW_Constant;
     break;
   case 'J':
-    if (auto *C = dyn_cast<ConstantInt>(CallOperandVal)) {
+    if (auto *C = dyn_cast<ConstantInt>(CallOperandVal))
       if (C->getZExtValue() <= 63)
-        weight = CW_Constant;
-    }
+        Wt = CW_Constant;
     break;
   case 'K':
-    if (auto *C = dyn_cast<ConstantInt>(CallOperandVal)) {
+    if (auto *C = dyn_cast<ConstantInt>(CallOperandVal))
       if ((C->getSExtValue() >= -0x80) && (C->getSExtValue() <= 0x7f))
-        weight = CW_Constant;
-    }
+        Wt = CW_Constant;
     break;
   case 'L':
-    if (auto *C = dyn_cast<ConstantInt>(CallOperandVal)) {
+    if (auto *C = dyn_cast<ConstantInt>(CallOperandVal))
       if ((C->getZExtValue() == 0xff) || (C->getZExtValue() == 0xffff))
-        weight = CW_Constant;
-    }
+        Wt = CW_Constant;
     break;
   case 'M':
-    if (auto *C = dyn_cast<ConstantInt>(CallOperandVal)) {
+    if (auto *C = dyn_cast<ConstantInt>(CallOperandVal))
       if (C->getZExtValue() <= 3)
-        weight = CW_Constant;
-    }
+        Wt = CW_Constant;
     break;
   case 'N':
-    if (auto *C = dyn_cast<ConstantInt>(CallOperandVal)) {
+    if (auto *C = dyn_cast<ConstantInt>(CallOperandVal))
       if (C->getZExtValue() <= 0xff)
-        weight = CW_Constant;
-    }
+        Wt = CW_Constant;
     break;
   case 'G':
   case 'C':
-    if (isa<ConstantFP>(CallOperandVal)) {
-      weight = CW_Constant;
-    }
+    if (isa<ConstantFP>(CallOperandVal))
+      Wt = CW_Constant;
     break;
   case 'e':
-    if (auto *C = dyn_cast<ConstantInt>(CallOperandVal)) {
+    if (auto *C = dyn_cast<ConstantInt>(CallOperandVal))
       if ((C->getSExtValue() >= -0x80000000LL) &&
           (C->getSExtValue() <= 0x7fffffffLL))
-        weight = CW_Constant;
-    }
+        Wt = CW_Constant;
     break;
   case 'Z':
-    if (auto *C = dyn_cast<ConstantInt>(CallOperandVal)) {
+    if (auto *C = dyn_cast<ConstantInt>(CallOperandVal))
       if (C->getZExtValue() <= 0xffffffff)
-        weight = CW_Constant;
-    }
+        Wt = CW_Constant;
     break;
   }
-  return weight;
+  return Wt;
 }
 
 /// Try to replace an X constraint, which matches anything, with another that
