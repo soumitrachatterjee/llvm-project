@@ -1,4 +1,4 @@
-## Solves issues #5 and #6.  
+## Solves issues #5 and #6  
 Steps to run the pass  
 1. Shift into the `fragile_marker` folder (not required but paths will change)  
 
