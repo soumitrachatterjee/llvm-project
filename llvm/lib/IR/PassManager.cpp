@@ -9,8 +9,120 @@
 #include "llvm/IR/PassManager.h"
 #include "llvm/IR/PassManagerImpl.h"
 #include <optional>
+#define custom_variable "isFragile"
+#include "llvm/IR/Instructions.h"
+
+#include "llvm/IR/Attributes.h"
+
+#include "llvm/ADT/StringRef.h"
+
+#include "llvm/IR/Module.h"
+
+#include <llvm/IR/DebugLoc.h>
+
+#include <llvm/IR/DebugInfoMetadata.h>
+
+static llvm::Attribute getFragileAttr(llvm::LLVMContext &Ctx) {
+
+  return llvm::Attribute::get(Ctx, custom_variable, "true");
+}
+
+struct FragileCluster {
+
+  int start;
+
+  int end;
+};
+
+struct FragileCluster s[6] = {{1, 4},   {9, 10},  {12, 13},
+                              {17, 19}, {27, 30}, {37, 40}};
 
 using namespace llvm;
+void markFragile(Module &M) {
+  for (Function &F : M) {
+    int flag = 0;
+    for (BasicBlock &BB : F) {
+      int Line = 0, Line1 = 0;
+      for (Instruction &I : BB) {
+        if (DILocation *Loc = I.getDebugLoc()) {
+          Line = Loc->getLine();
+          break;
+        }
+      }
+      Instruction &I1 = *(BB.getTerminator());
+
+      if (DILocation *Loc = I1.getDebugLoc()) {
+        Line1 = Loc->getLine();
+      }
+
+      for (int i = 0; i < 6; i++) {
+        if (((Line >= s[i].start and Line <= s[i].end) or
+             (Line1 >= s[i].start and Line1 <= s[i].end)) or
+            ((s[i].start >= Line and s[i].start <= Line1) or
+             (s[i].end >= Line and s[i].end <= Line1))) {
+
+          flag = 1;
+          // errs() << F.getName() << "\n"
+          //   << "Lines- " << Line << ":" << Line1
+          //   << " overlaps with given range : " << s[i].start << " "
+          //   << s[i].end << "\n";
+        }
+      }
+    }
+
+    if (flag == 1) {
+      F.addFnAttr(getFragileAttr(F.getContext()));
+    }
+  }
+}
+void displayFragile(Module &M) {
+  errs() << "-------------Fragile Functions---------------"
+         << "\n";
+
+  for (Function &F : M)
+
+  {
+    if (F.hasFnAttribute(custom_variable)) {
+      errs() << "Function Name: " << F.getName() << "\n";
+      errs() << "Signature: " << *F.getReturnType() << " " << F.getName()
+             << "(";
+      int first = 0;
+      for (llvm::Argument &Arg : F.args()) {
+        if (first == 0) {
+
+          outs() << *Arg.getType() << Arg.getName();
+          first = 1;
+        } else {
+          outs() << " ," << *Arg.getType() << Arg.getName();
+        }
+      }
+      errs() << ")"
+             << "\n";
+      int Line = 0, Line1 = 0;
+      BasicBlock &firstBB = F.front();
+      BasicBlock &lastBB = F.back();
+      for (Instruction &I : firstBB) {
+        if (DILocation *Loc = I.getDebugLoc()) {
+          Line = Loc->getLine();
+          break;
+        }
+      }
+      Instruction &I1 = *(lastBB.getTerminator());
+      if (DILocation *Loc = I1.getDebugLoc()) {
+        Line1 = Loc->getLine();
+      }
+      errs() << "Size of code: " << Line1 - Line + 1 << " Lines of code"
+             << "\n";
+
+      if (DISubprogram *SP = F.getSubprogram()) {
+
+        outs() << "Source File: " << SP->getFilename() << "\n";
+      }
+      errs() << "---------------------------------------------"
+             << "\n";
+    }
+  }
+}
 
 namespace llvm {
 // Explicit template instantiations and specialization defininitions for core
@@ -111,9 +223,10 @@ PreservedAnalyses ModuleToFunctionPassAdaptor::run(Module &M,
 
   PreservedAnalyses PA = PreservedAnalyses::all();
   for (Function &F : M) {
+
     if (F.isDeclaration())
       continue;
-
+    markFragile(M);
     // Check the PassInstrumentation's BeforePass callbacks before running the
     // pass, skip its execution completely if asked to (callback returns
     // false).
@@ -133,6 +246,7 @@ PreservedAnalyses ModuleToFunctionPassAdaptor::run(Module &M,
     // analyses will eventually occur when the module pass completes.
     PA.intersect(std::move(PassPA));
   }
+  displayFragile(M);
 
   // The FunctionAnalysisManagerModuleProxy is preserved because (we assume)
   // the function passes we ran didn't add or remove any functions.
