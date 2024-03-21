@@ -3547,6 +3547,8 @@ public:
 class TagDecl : public TypeDecl,
                 public DeclContext,
                 public Redeclarable<TagDecl> {
+
+
   // This class stores some data in DeclContext::TagDeclBits
   // to save some space. Use the provided accessors to access it.
 public:
@@ -3865,10 +3867,37 @@ class EnumDecl : public TagDecl {
   /// and can be accessed with the provided accessors.
   unsigned ODRHash;
 
+  private:
+  std::vector<std::string> SymbolicNames; // Store symbolic names for enum constants
+  std::string OriginalEnumName; // Store the original enum name
+
   EnumDecl(ASTContext &C, DeclContext *DC, SourceLocation StartLoc,
            SourceLocation IdLoc, IdentifierInfo *Id, EnumDecl *PrevDecl,
            bool Scoped, bool ScopedUsingClassTag, bool Fixed);
 
+public:
+
+ // Getter for symbolic names
+  const std::vector<std::string> &getSymbolicNames() const {
+    return SymbolicNames;
+  }
+
+// Setter for symbolic names
+void setSymbolicnames(const std::vector<std::string> &symbolicnames){
+  SymbolicNames = symbolicnames;
+}
+
+  // Getter for the original enum name
+  const std::string &getOriginalEnumName() const {
+    return OriginalEnumName;
+  }
+
+  
+  // Setter for the original enum name
+  void setOriginalEnumName(const std::string &Name) {
+    OriginalEnumName = Name;
+  }
+  
   void anchor() override;
 
   void setInstantiationOfMemberEnum(ASTContext &C, EnumDecl *ED,
