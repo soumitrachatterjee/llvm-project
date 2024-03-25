@@ -2740,7 +2740,7 @@ public:
                 DeclaratorContext Context = DeclaratorContext::TypeName,
                 AccessSpecifier AS = AS_none, Decl **OwnedType = nullptr,
                 ParsedAttributes *Attrs = nullptr);
-
+  void ParseSizeofAlignofExpression();
 private:
   void ParseBlockId(SourceLocation CaretLoc);
 

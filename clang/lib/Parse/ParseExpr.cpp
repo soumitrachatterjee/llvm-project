@@ -753,7 +753,34 @@ class CastExpressionIdValidator final : public CorrectionCandidateCallback {
   bool AllowNonTypes;
 };
 }
-
+ParseSize
+void Parser:: ofAlignofExpression(){
+  ConsumeToken();
+  if(Tok.isNot(tok::l_paren)){
+    Diag(Tok, diag::err_expected_lparen_after_type)<<"__nameof";
+    return;
+  }
+  SourceLocation LParenLoc = ConsumeParen();
+  ExprResult OperandExpr = ParseExpression();
+  if (OperandExpr.isInvalid()) {
+        // If the expression is invalid, emit an error and return
+        Diag(LParenLoc, diag::err_expected_expression);
+        SkipUntil(tok::r_paren);
+        return;
+    }
+  // Ensure that the operand is a valid expression for __nameof
+    if (!OperandExpr.get()->isTypeDependent() && !OperandExpr.get()->isValueDependent() &&
+        !OperandExpr.get()->isInstantiationDependent()) {
+        Diag(OperandExpr.get()->getExprLoc(), diag::err_invalid_operator_on_type);
+        SkipUntil(tok::r_paren);
+        return;
+    }
+ // Ensure that the expression is followed by a closing parenthesis
+    if (ExpectAndConsume(tok::r_paren, diag::err_expected_rparen_after, "__nameof")) {
+        SkipUntil(tok::r_paren);
+        return;
+    }
+}
 /// Parse a cast-expression, or, if \pisUnaryExpression is true, parse
 /// a unary-expression.
 ///
@@ -1848,6 +1875,9 @@ ExprResult Parser::ParseCastExpression(CastParseKind ParseKind,
       break;
     }
     [[fallthrough]];
+  case tok::kw___nameof:
+    ParseSizeofAlignofExpression();
+     break;
   default:
   ExpectedExpression:
     NotCastExpr = true;
