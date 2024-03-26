@@ -753,8 +753,8 @@ class CastExpressionIdValidator final : public CorrectionCandidateCallback {
   bool AllowNonTypes;
 };
 }
-ParseSize
-void Parser:: ofAlignofExpression(){
+
+void Parser:: ParseSizeofAlignofExpression(){
   ConsumeToken();
   if(Tok.isNot(tok::l_paren)){
     Diag(Tok, diag::err_expected_lparen_after_type)<<"__nameof";
@@ -768,18 +768,33 @@ void Parser:: ofAlignofExpression(){
         SkipUntil(tok::r_paren);
         return;
     }
-  // Ensure that the operand is a valid expression for __nameof
-    if (!OperandExpr.get()->isTypeDependent() && !OperandExpr.get()->isValueDependent() &&
-        !OperandExpr.get()->isInstantiationDependent()) {
-        Diag(OperandExpr.get()->getExprLoc(), diag::err_invalid_operator_on_type);
-        SkipUntil(tok::r_paren);
-        return;
-    }
+  // Check if the operand expression is a reference to an enum declaration
+    if (auto *EnumExpr = dyn_cast<DeclRefExpr>(OperandExpr.get())) {
+      EnumDecl *EnumDeclPtr = dyn_cast<EnumDecl>(EnumExpr->getDecl());
+        if (EnumDeclPtr) {
+            // Retrieve the name of the enum declaration
+            const std::string &enumName = EnumDeclPtr->getNameAsString();
+             // Retrieve the vector of enum names from the EnumDecl
+            const std::vector<std::string> &symbolicNames = EnumDeclPtr->getSymbolicNames();
+            // Create a non-const vector and copy the contents of the const vector into it
+            std::vector<std::string> enumNames(symbolicNames.begin(), symbolicNames.end());
+            
+            // Check if the enum name is already stored in the vector
+            if (std::find(enumNames.begin(), enumNames.end(), enumName) == enumNames.end()) {
+                // If not found, add the enum name to the vector
+                enumNames.push_back(enumName);
+            }
+
+            // Print the symbolic name of the enum
+            llvm::outs() << "Symbolic name of '" << enumName << "' is '" << enumName << "'"<< "\n";
+            
+        }
+    } 
  // Ensure that the expression is followed by a closing parenthesis
     if (ExpectAndConsume(tok::r_paren, diag::err_expected_rparen_after, "__nameof")) {
         SkipUntil(tok::r_paren);
         return;
-    }
+    } 
 }
 /// Parse a cast-expression, or, if \pisUnaryExpression is true, parse
 /// a unary-expression.
