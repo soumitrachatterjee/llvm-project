@@ -768,7 +768,14 @@ void Parser:: ParseSizeofAlignofExpression(){
         SkipUntil(tok::r_paren);
         return;
     }
-  // Check if the operand expression is a reference to an enum declaration
+  
+ // Ensure that the expression is followed by a closing parenthesis
+    if (ExpectAndConsume(tok::r_paren, diag::err_expected_rparen_after, "__nameof")) {
+        SkipUntil(tok::r_paren);
+        return;
+    } 
+    
+    // Check if the operand expression is a reference to an enum declaration
     if (auto *EnumExpr = dyn_cast<DeclRefExpr>(OperandExpr.get())) {
       EnumDecl *EnumDeclPtr = dyn_cast<EnumDecl>(EnumExpr->getDecl());
         if (EnumDeclPtr) {
@@ -790,11 +797,7 @@ void Parser:: ParseSizeofAlignofExpression(){
             
         }
     } 
- // Ensure that the expression is followed by a closing parenthesis
-    if (ExpectAndConsume(tok::r_paren, diag::err_expected_rparen_after, "__nameof")) {
-        SkipUntil(tok::r_paren);
-        return;
-    } 
+
 }
 /// Parse a cast-expression, or, if \pisUnaryExpression is true, parse
 /// a unary-expression.
