@@ -755,48 +755,46 @@ class CastExpressionIdValidator final : public CorrectionCandidateCallback {
 }
 
 void Parser:: ParseSizeofAlignofExpression(){
-  ConsumeToken();
-  if(Tok.isNot(tok::l_paren)){
-    Diag(Tok, diag::err_expected_lparen_after_type)<<"__nameof";
-    return;
-  }
-  SourceLocation LParenLoc = ConsumeParen();
-  ExprResult OperandExpr = ParseExpression();
-  if (OperandExpr.isInvalid()) {
-        // If the expression is invalid, emit an error and return
-        Diag(LParenLoc, diag::err_expected_expression);
-        SkipUntil(tok::r_paren);
-        return;
-    }
-  
- // Ensure that the expression is followed by a closing parenthesis
-    if (ExpectAndConsume(tok::r_paren, diag::err_expected_rparen_after, "__nameof")) {
-        SkipUntil(tok::r_paren);
-        return;
-    } 
-    
-    // Check if the operand expression is a reference to an enum declaration
-    if (auto *EnumExpr = dyn_cast<DeclRefExpr>(OperandExpr.get())) {
-      EnumDecl *EnumDeclPtr = dyn_cast<EnumDecl>(EnumExpr->getDecl());
-        if (EnumDeclPtr) {
-            // Retrieve the name of the enum declaration
-            const std::string &enumName = EnumDeclPtr->getNameAsString();
-             // Retrieve the vector of enum names from the EnumDecl
-            const std::vector<std::string> &symbolicNames = EnumDeclPtr->getSymbolicNames();
-            // Create a non-const vector and copy the contents of the const vector into it
-            std::vector<std::string> enumNames(symbolicNames.begin(), symbolicNames.end());
-            
-            // Check if the enum name is already stored in the vector
-            if (std::find(enumNames.begin(), enumNames.end(), enumName) == enumNames.end()) {
-                // If not found, add the enum name to the vector
-                enumNames.push_back(enumName);
-            }
-
-            // Print the symbolic name of the enum
-            llvm::outs() << "Symbolic name of '" << enumName << "' is '" << enumName << "'"<< "\n";
-            
+  if (Tok.is(tok::kw___nameof)) {
+    SourceLocation NameofLoc = ConsumeToken();
+    SourceLocation LParenLoc, RParenLoc;
+    IdentifierInfo *EnumName = nullptr;
+    SourceLocation EnumNameLoc;
+     if (Tok.is(tok::l_paren)) {
+        BalancedDelimiterTracker T(*this, tok::l_paren);
+        T.consumeOpen();
+        LParenLoc = T.getOpenLocation();
+        llvm::outs()<<"error";
+        if (Tok.is(tok::identifier)) {
+          llvm::outs()<<"inside if";
+            EnumName = Tok.getIdentifierInfo();
+            llvm::outs()<<EnumName->getName();
+            EnumNameLoc = ConsumeToken();
+            T.consumeClose();
+            RParenLoc = T.getCloseLocation();
+            if (RParenLoc.isInvalid())
+            llvm::outs()<<"inside if2";
+                RParenLoc = PP.getLocForEndOfToken(EnumNameLoc);
+        }else {
+          llvm::outs()<<"inside if3";
+            Diag(Tok, diag::err_expected_parameter_pack);
+            SkipUntil(tok::r_paren, StopAtSemi);
         }
-    } 
+        } else if (Tok.is(tok::identifier)) {
+          llvm::outs()<<"inside if4";
+        EnumName = Tok.getIdentifierInfo();
+        EnumNameLoc = ConsumeToken();
+        LParenLoc = PP.getLocForEndOfToken(NameofLoc);
+        RParenLoc = PP.getLocForEndOfToken(EnumNameLoc);
+        Diag(LParenLoc, diag::err_paren_sizeof_parameter_pack)
+            << EnumName
+            << FixItHint::CreateInsertion(LParenLoc, "(")
+            << FixItHint::CreateInsertion(RParenLoc, ")");
+    } else {
+      llvm::outs()<<"inside if5";
+        Diag(Tok, diag::err_sizeof_parameter_pack);
+    }
+ }
 
 }
 /// Parse a cast-expression, or, if \pisUnaryExpression is true, parse
