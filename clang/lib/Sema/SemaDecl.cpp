@@ -50,6 +50,8 @@
 #include "llvm/ADT/SmallString.h"
 #include "llvm/ADT/StringExtras.h"
 #include "llvm/TargetParser/Triple.h"
+#include "clang/Frontend/FrontendOptions.h"
+
 #include <algorithm>
 #include <cstring>
 #include <functional>
@@ -13204,8 +13206,17 @@ bool Sema::DeduceVariableDeclarationType(VarDecl *VDecl, bool DirectInit,
   SourceManager &SM = getSourceManager();
   SourceLocation Loc = VDecl->getLocation();
   if (SM.isWrittenInMainFile(Loc)) {
-    // Print the deduced type for diagnostic purposes
-    llvm::outs() << "Deduced type for '" << VDecl->getNameAsString() << "': " << DeducedType.getAsString() << "\n";
+    // llvm::outs() << "Before Diag call\n";
+    Diag(Loc, diag::remark_deduced_auto_type) << VDecl->getNameAsString() << DeducedType;
+    // After Diag call
+    // llvm::outs() << "After Diag call\n";
+    // llvm::outs() << "Location: " << Loc.printToString(SM) << "\n";
+    // llvm::outs() << "Variable Name: " << VDecl->getNameAsString() << "\n";
+    // llvm::outs() << "Deduced Type: " << DeducedType.getAsString() << "\n";
+    // llvm::outs()<<clang::FrontendOptions().getDumpAutoTypeInference();
+    // if(clang::FrontendOptions().getDumpAutoTypeInference())
+    if(DumpAutoTypeInference)
+    llvm::outs() << Loc.printToString(SM)<<": note: type of '"<<VDecl->getNameAsString()<<"' deduced as '"<<DeducedType.getAsString() << "'\n";
   }
 
   // In ARC, infer lifetime.

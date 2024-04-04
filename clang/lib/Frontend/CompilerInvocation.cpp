@@ -110,7 +110,7 @@ using namespace llvm::opt;
 //===----------------------------------------------------------------------===//
 // Helpers.
 //===----------------------------------------------------------------------===//
-
+bool DumpAutoTypeInference;
 // Parse misexpect tolerance argument value.
 // Valid option values are integers in the range [0, 100)
 static Expected<std::optional<uint32_t>> parseToleranceOption(StringRef Arg) {
@@ -2845,7 +2845,8 @@ static bool ParseFrontendArgs(FrontendOptions &Opts, ArgList &Args,
 
     // Add custom flag handling for -fdump-auto-type-inference
   if (Args.hasArg(OPT_fdump_auto_type_inference)) {
-    Opts.setDumpAutoTypeInference(true);
+    // Opts.setDumpAutoTypeInference(true);
+    DumpAutoTypeInference=true;
   }
 
   for (const std::string &Arg :

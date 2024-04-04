@@ -22,6 +22,7 @@
 #include <optional>
 #include <string>
 #include <vector>
+extern bool DumpAutoTypeInference;
 
 namespace llvm {
 
@@ -273,13 +274,12 @@ public:
     return *Buffer;
   }
 };
-
+// extern bool getDumpAutoTypeInference() const { return DumpAutoTypeInference; }
+// extern void setDumpAutoTypeInference(bool Value) { DumpAutoTypeInference = Value; }
 /// FrontendOptions - Options for controlling the behavior of the frontend.
 class FrontendOptions {
 public:
-bool DumpAutoTypeInference=false;
-bool shouldDumpAutoTypeInference() const { return DumpAutoTypeInference; }
-void setDumpAutoTypeInference(bool Value) { DumpAutoTypeInference = Value; }
+
   /// Disable memory freeing on exit.
   LLVM_PREFERRED_TYPE(bool)
   unsigned DisableFree : 1;

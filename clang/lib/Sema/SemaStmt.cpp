@@ -3967,6 +3967,11 @@ bool Sema::DeduceFunctionTypeFromReturnExpr(FunctionDecl *FD,
     // Update all declarations of the function to have the deduced return type.
     Context.adjustDeducedFunctionResultType(FD, Deduced);
 
+      // Print the deduced return type
+  SourceManager &SM = getSourceManager();
+  SourceLocation Loc = FD->getLocation();
+  // llvm::outs() << Loc.printToString(SM)<<": note: function return type of '"<<FD->getNameAsString()<<"' deduced as '"<< Deduced.getAsString() << "'\n";
+    
   return false;
 }
 
