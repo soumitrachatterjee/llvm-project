@@ -13214,8 +13214,8 @@ bool Sema::DeduceVariableDeclarationType(VarDecl *VDecl, bool DirectInit,
     // llvm::outs() << "Variable Name: " << VDecl->getNameAsString() << "\n";
     // llvm::outs() << "Deduced Type: " << DeducedType.getAsString() << "\n";
     // llvm::outs()<<clang::FrontendOptions().getDumpAutoTypeInference();
-    // if(clang::FrontendOptions().getDumpAutoTypeInference())
-    if(DumpAutoTypeInference)
+    if(clang::FrontendOptions().getDumpAutoTypeInference())
+    // if(DumpAutoTypeInference)
     llvm::outs() << Loc.printToString(SM)<<": note: type of '"<<VDecl->getNameAsString()<<"' deduced as '"<<DeducedType.getAsString() << "'\n";
   }
 
