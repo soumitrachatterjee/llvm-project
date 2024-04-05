@@ -5,10 +5,13 @@
 // SPDX-License-Identifier: Apache-2.0 WITH LLVM-exception
 //
 //===----------------------------------------------------------------------===//
-
 #include "llvm/IR/PassManager.h"
 #include "llvm/IR/PassManagerImpl.h"
+#include <fstream>
+#include <iostream>
 #include <optional>
+#include <sstream>
+#include <string>
 #define custom_variable "isFragile"
 #include "llvm/IR/Instructions.h"
 
@@ -21,12 +24,14 @@
 #include <llvm/IR/DebugLoc.h>
 
 #include <llvm/IR/DebugInfoMetadata.h>
-
+llvm::cl::OptionCategory mycat("my cat");
+llvm::cl::opt<std::string> filename{
+    "readfile", llvm::cl::desc("Description of the yami option"),
+    llvm::cl::value_desc("input"),llvm::cl::cat(mycat)};
 static llvm::Attribute getFragileAttr(llvm::LLVMContext &Ctx) {
 
   return llvm::Attribute::get(Ctx, custom_variable, "true");
 }
-
 struct FragileCluster {
 
   int start;
@@ -34,11 +39,34 @@ struct FragileCluster {
   int end;
 };
 
-struct FragileCluster s[6] = {{1, 4},   {9, 10},  {12, 13},
-                              {17, 19}, {27, 30}, {37, 40}};
+struct FragileCluster s;
 
 using namespace llvm;
+using namespace std;
+vector<FragileCluster> vec;
+void readfile() {
+  if (!filename.empty()) {
+ifstream file(filename);
+  string line, value;
+  if (file.is_open()) {
+    while (getline(file, line)) {
+      stringstream obj_ss(line);
+      getline(obj_ss, value, ',');
+      s.start = stoi(value);
+      getline(obj_ss, value, ',');
+      s.end = stoi(value);
+      vec.push_back(s);
+    }
+    file.close();
+  } else {
+    cerr << "Sorry!! Unable to open file!" << endl;
+  }
+  }
+  
+}
+
 void markFragile(Module &M) {
+  readfile();
   for (Function &F : M) {
     int flag = 0;
     for (BasicBlock &BB : F) {
@@ -49,23 +77,18 @@ void markFragile(Module &M) {
           break;
         }
       }
-      Instruction &I1 = *(BB.getTerminator());
 
+      Instruction &I1 = *(BB.getTerminator());
       if (DILocation *Loc = I1.getDebugLoc()) {
         Line1 = Loc->getLine();
       }
-
-      for (int i = 0; i < 6; i++) {
-        if (((Line >= s[i].start and Line <= s[i].end) or
-             (Line1 >= s[i].start and Line1 <= s[i].end)) or
-            ((s[i].start >= Line and s[i].start <= Line1) or
-             (s[i].end >= Line and s[i].end <= Line1))) {
+      for (auto &s : vec) {
+        if (((Line >= s.start && Line <= s.end) ||
+             (Line1 >= s.start && Line1 <= s.end)) ||
+            ((s.start >= Line && s.start <= Line1) ||
+             (s.end >= Line && s.end <= Line1))) {
 
           flag = 1;
-          // errs() << F.getName() << "\n"
-          //   << "Lines- " << Line << ":" << Line1
-          //   << " overlaps with given range : " << s[i].start << " "
-          //   << s[i].end << "\n";
         }
       }
     }
@@ -89,7 +112,6 @@ void displayFragile(Module &M) {
       int first = 0;
       for (llvm::Argument &Arg : F.args()) {
         if (first == 0) {
-
           outs() << *Arg.getType() << Arg.getName();
           first = 1;
         } else {
@@ -220,13 +242,13 @@ PreservedAnalyses ModuleToFunctionPassAdaptor::run(Module &M,
   // Request PassInstrumentation from analysis manager, will use it to run
   // instrumenting callbacks for the passes later.
   PassInstrumentation PI = AM.getResult<PassInstrumentationAnalysis>(M);
-
+  markFragile(M);
   PreservedAnalyses PA = PreservedAnalyses::all();
   for (Function &F : M) {
 
     if (F.isDeclaration())
       continue;
-    markFragile(M);
+
     // Check the PassInstrumentation's BeforePass callbacks before running the
     // pass, skip its execution completely if asked to (callback returns
     // false).
