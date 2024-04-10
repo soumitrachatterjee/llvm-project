@@ -32,9 +32,6 @@ static cl::opt<bool> PrintBeforeAll("print-before-all",
 static cl::opt<bool> PrintAfterAll("print-after-all",
                                    llvm::cl::desc("Print IR after each pass"),
                                    cl::init(false), cl::Hidden);
-static cl::opt<bool> PrintTomo("print-tomo",
-                                   llvm::cl::desc("Print smthg"),
-                                   cl::init(false), cl::Hidden);
 
 // Print out the IR after passes, similar to -print-after-all except that it
 // only prints the IR after passes that change the IR. Those passes that do not

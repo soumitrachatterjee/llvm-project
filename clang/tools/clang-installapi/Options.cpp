@@ -68,7 +68,6 @@ bool Options::processDriverOptions(InputArgList &Args) {
       DriverOpts.Targets[TAPITarget] = TargetTriple;
     }
   }
-  DriverOpts.PrintAuto = Args.hasArgNoClaim(OPT_fdump_auto_type_inference);
 
   DriverOpts.Verbose = Args.hasArgNoClaim(OPT_v);
 

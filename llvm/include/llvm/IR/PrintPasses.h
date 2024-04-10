@@ -40,7 +40,6 @@ bool shouldPrintBeforePass(StringRef PassID);
 bool shouldPrintAfterPass(StringRef PassID);
 
 // Returns true if we should print before/after all passes.
-bool shouldPrintTom();
 bool shouldPrintBeforeAll();
 bool shouldPrintAfterAll();
 
