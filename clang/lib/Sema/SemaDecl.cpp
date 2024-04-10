@@ -61,11 +61,6 @@
 using namespace clang;
 using namespace sema;
 
-llvm::cl::OptionCategory mycat("My Category");
-llvm::cl::opt<bool> flag{
-    "flag", llvm::cl::desc("Description of the flag option"),
-    llvm::cl::ZeroOrMore, llvm::cl::cat(mycat)};
-
 Sema::DeclGroupPtrTy Sema::ConvertDeclToDeclGroup(Decl *Ptr, Decl *OwnedType) {
   if (OwnedType) {
     Decl *Group[2] = { OwnedType, Ptr };
