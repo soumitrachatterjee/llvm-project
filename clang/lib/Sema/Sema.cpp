@@ -55,6 +55,11 @@
 using namespace clang;
 using namespace sema;
 
+llvm::cl::OptionCategory DumpAutoInference("DumpAutoInference");
+llvm::cl::opt<bool> DumpAutoTypeInference{
+    "fdump-auto-type-inference", llvm::cl::desc("Dump deduced type of auto type"),
+    llvm::cl::ZeroOrMore, llvm::cl::cat(DumpAutoInference)};
+
 SourceLocation Sema::getLocForEndOfToken(SourceLocation Loc, unsigned Offset) {
   return Lexer::getLocForEndOfToken(Loc, Offset, SourceMgr, LangOpts);
 }

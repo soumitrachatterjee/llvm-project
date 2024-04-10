@@ -2575,7 +2575,6 @@ static const auto &getFrontendActionTable() {
       {frontend::RunPreprocessorOnly, OPT_Eonly},
       {frontend::PrintDependencyDirectivesSourceMinimizerOutput,
        OPT_print_dependency_directives_minimized_source},
-      {frontend::DumpAutoTypeInference, OPT_fdump_auto_type_inference},
   };
 
   return Table;
@@ -2841,16 +2840,6 @@ static bool ParseFrontendArgs(FrontendOptions &Opts, ArgList &Args,
   }
   for (const auto *AA : Args.filtered(OPT_plugin_arg))
     Opts.PluginArgs[AA->getValue(0)].emplace_back(AA->getValue(1));
-
-    // Add custom flag handling for -fdump-auto-type-inference
-  if (Args.hasArg(OPT_fdump_auto_type_inference)) {
-    Opts.setDumpAutoTypeInference(true);
-    llvm::outs()<<Opts.getDumpAutoTypeInference();
-     Diags.Report(SourceLocation(), diag::remark_cc1_round_trip_generated)
-      << 1 << 2;
-    Diags.getClient()->EndSourceFile();
-    // DumpAutoTypeInference=true;
-  }
 
   for (const std::string &Arg :
          Args.getAllArgValues(OPT_ftest_module_file_extension_EQ)) {
@@ -4305,7 +4294,6 @@ static bool isStrictlyPreprocessorAction(frontend::ActionKind Action) {
   case frontend::RunAnalysis:
   case frontend::TemplightDump:
   case frontend::MigrateSource:
-  case frontend::DumpAutoTypeInference:
     return false;
 
   case frontend::DumpCompilerOptions:

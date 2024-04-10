@@ -68,12 +68,16 @@
 #include "llvm/ADT/SmallVector.h"
 #include "llvm/ADT/TinyPtrVector.h"
 #include "llvm/Frontend/OpenMP/OMPConstants.h"
+#include "llvm/Support/CommandLine.h"
 #include <deque>
 #include <memory>
 #include <optional>
 #include <string>
 #include <tuple>
 #include <vector>
+
+extern llvm::cl::OptionCategory DumpAutoInference;
+extern llvm::cl::opt<bool> DumpAutoTypeInference;
 
 namespace llvm {
 class APSInt;

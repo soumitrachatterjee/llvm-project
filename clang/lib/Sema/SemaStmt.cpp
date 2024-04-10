@@ -41,6 +41,7 @@
 #include "llvm/ADT/SmallString.h"
 #include "llvm/ADT/SmallVector.h"
 #include "llvm/ADT/StringExtras.h"
+#include "llvm/Support/CommandLine.h"
 
 using namespace clang;
 using namespace sema;
@@ -3968,9 +3969,13 @@ bool Sema::DeduceFunctionTypeFromReturnExpr(FunctionDecl *FD,
     Context.adjustDeducedFunctionResultType(FD, Deduced);
 
       // Print the deduced return type
-  SourceManager &SM = getSourceManager();
   SourceLocation Loc = FD->getLocation();
-  // llvm::outs() << Loc.printToString(SM)<<": note: function return type of '"<<FD->getNameAsString()<<"' deduced as '"<< Deduced.getAsString() << "'\n";
+  if(DumpAutoTypeInference.getNumOccurrences())
+  {
+    DiagnosticsEngine &Diag = Context.getDiagnostics();
+    unsigned DiagID = Diag.getCustomDiagID(DiagnosticsEngine::Remark, "function return type of '%0' deduced as %1");
+    Diag.Report(Loc, DiagID) << FD->getNameAsString() << Deduced;
+  }
     
   return false;
 }

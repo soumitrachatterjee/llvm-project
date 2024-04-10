@@ -61,6 +61,11 @@
 using namespace clang;
 using namespace sema;
 
+llvm::cl::OptionCategory mycat("My Category");
+llvm::cl::opt<bool> flag{
+    "flag", llvm::cl::desc("Description of the flag option"),
+    llvm::cl::ZeroOrMore, llvm::cl::cat(mycat)};
+
 Sema::DeclGroupPtrTy Sema::ConvertDeclToDeclGroup(Decl *Ptr, Decl *OwnedType) {
   if (OwnedType) {
     Decl *Group[2] = { OwnedType, Ptr };
@@ -13206,17 +13211,12 @@ bool Sema::DeduceVariableDeclarationType(VarDecl *VDecl, bool DirectInit,
   SourceManager &SM = getSourceManager();
   SourceLocation Loc = VDecl->getLocation();
   if (SM.isWrittenInMainFile(Loc)) {
-    // llvm::outs() << "Before Diag call\n";
-    Diag(Loc, diag::remark_deduced_auto_type) << VDecl->getNameAsString() << DeducedType;
-    // After Diag call
-    // llvm::outs() << "After Diag call\n";
-    // llvm::outs() << "Location: " << Loc.printToString(SM) << "\n";
-    // llvm::outs() << "Variable Name: " << VDecl->getNameAsString() << "\n";
-    // llvm::outs() << "Deduced Type: " << DeducedType.getAsString() << "\n";
-    // llvm::outs()<<clang::FrontendOptions().getDumpAutoTypeInference();
-    if(clang::FrontendOptions().getDumpAutoTypeInference())
-    // if(DumpAutoTypeInference)
-    llvm::outs() << Loc.printToString(SM)<<": note: type of '"<<VDecl->getNameAsString()<<"' deduced as '"<<DeducedType.getAsString() << "'\n";
+    if(DumpAutoTypeInference.getNumOccurrences())
+    {
+      DiagnosticsEngine &Diag = Context.getDiagnostics();
+      unsigned DiagID = Diag.getCustomDiagID(DiagnosticsEngine::Remark, "type of '%0' deduced as %1");
+      Diag.Report(Loc, DiagID) << VDecl->getNameAsString() << DeducedType;
+      }
   }
 
   // In ARC, infer lifetime.
