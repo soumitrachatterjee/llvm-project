@@ -46,7 +46,6 @@ struct DriverOptions {
 
   /// \brief Print verbose output.
   bool Verbose = false;
-
 };
 
 struct LinkerOptions {

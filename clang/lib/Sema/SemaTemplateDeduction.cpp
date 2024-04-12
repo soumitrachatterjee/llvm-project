@@ -2020,7 +2020,6 @@ static TemplateDeductionResult DeduceTemplateArgumentsByTypeMatch(
         // Note that we use the "array bound" rules here; just like in that
         // case, we don't have any particular type for the vector size, but
         // we can provide one if necessary.
-        
         return DeduceNonTypeTemplateArgument(S, TemplateParams, NTTP, ArgSize,
                                              S.Context.UnsignedIntTy, true,
                                              Info, Deduced);
