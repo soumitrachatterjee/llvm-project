@@ -1297,6 +1297,14 @@ ExprResult Sema::ActOnNameClassifiedAsOverloadSet(Scope *S, Expr *E) {
   return ULE;
 }
 
+// ExprResult Sema::ActOnnameofOperator(Scope *S,
+//                                               SourceLocation OpLoc,
+//                                               IdentifierInfo &Name,
+//                                               SourceLocation NameLoc,
+//                                               SourceLocation RParenLoc){
+
+//                                               }
+
 Sema::TemplateNameKindForDiagnostics
 Sema::getTemplateNameKindForDiagnostics(TemplateName Name) {
   auto *TD = Name.getAsTemplateDecl();
@@ -2650,6 +2658,7 @@ void Sema::MergeTypedefNameDecl(Scope *S, TypedefNameDecl *New,
         Scope *EnumScope = getNonFieldDeclScope(S);
         for (auto *D : NewTag->decls()) {
           auto *ED = cast<EnumConstantDecl>(D);
+         llvm::outs()<<"@@@@"<<ED->getName()<<"%%%%";
           assert(EnumScope->isDeclScope(ED));
           EnumScope->RemoveDecl(ED);
           IdResolver.RemoveDecl(ED);
@@ -20019,14 +20028,15 @@ Decl *Sema::ActOnEnumConstant(Scope *S, Decl *theEnumDecl, Decl *lastEnumConst,
                               SourceLocation IdLoc, IdentifierInfo *Id,
                               const ParsedAttributesView &Attrs,
                               SourceLocation EqualLoc, Expr *Val) {
+  
   EnumDecl *TheEnumDecl = cast<EnumDecl>(theEnumDecl);
   EnumConstantDecl *LastEnumConst =
     cast_or_null<EnumConstantDecl>(lastEnumConst);
-
+  
   // The scope passed in may not be a decl scope.  Zip up the scope tree until
   // we find one that is.
   S = getNonFieldDeclScope(S);
-
+  
   // Verify that there isn't already something declared with this name in this
   // scope.
   LookupResult R(*this, Id, IdLoc, LookupOrdinaryName, ForVisibleRedeclaration);
@@ -20309,7 +20319,9 @@ void Sema::ActOnEnumBody(SourceLocation EnumLoc, SourceRange BraceRange,
     if (!ECD) continue;  // Already issued a diagnostic.
 
     const llvm::APSInt &InitVal = ECD->getInitVal();
-
+    __nameof_Day.push_back(ECD->getName().str());
+    llvm::outs()<<ECD->getName().str()<<"\n";
+    llvm::outs()<<__nameof_Day.size()<<"\n";
     // Keep track of the size of positive and negative values.
     if (InitVal.isUnsigned() || InitVal.isNonNegative()) {
       // If the enumerator is zero that should still be counted as a positive

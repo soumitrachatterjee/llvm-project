@@ -9883,17 +9883,17 @@ static QualType GetEnumUnderlyingType(Sema &S, QualType BaseType,
   assert(BaseType->isEnumeralType());
   EnumDecl *ED = BaseType->castAs<EnumType>()->getDecl();
   assert(ED && "EnumType has no EnumDecl");
-  // Retrieve symbolic names
-  const std::vector<std::string> &symbolicNames = ED->getSymbolicNames();
-  llvm::outs() << "Symbolic Names:\n";
-  for (const std::string &name : symbolicNames) {
-    llvm::outs() << name << "\n";
-  }
-  // Retrieve original enum name
- const std::string &originalEnumName = ED->getOriginalEnumName();
+//   // Retrieve symbolic names
+//   const std::vector<std::string> &symbolicNames = ED->getSymbolicNames();
+//   llvm::outs() << "Symbolic Names:\n";
+//   for (const std::string &name : symbolicNames) {
+//     llvm::outs() << name << "\n";
+//   }
+//   // Retrieve original enum name
+//  const std::string &originalEnumName = ED->getOriginalEnumName();
 
-  // Print or use the retrieved symbolic names and original enum name
-  llvm::outs() << "Enum Name: " << originalEnumName << "\n";
+//   // Print or use the retrieved symbolic names and original enum name
+//   llvm::outs() << "Enum Name: " << originalEnumName << "\n";
 
  //std::vector<std::string> myvector = {"Red","Green", "Blue"};
  //ED->setSymbolicnames(myvector);

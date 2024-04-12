@@ -32,6 +32,7 @@
 #include "clang/Sema/Scope.h"
 #include "clang/Sema/TypoCorrection.h"
 #include "llvm/ADT/SmallVector.h"
+#include "clang/Sema/Sema.h"
 #include <optional>
 using namespace clang;
 
@@ -754,49 +755,6 @@ class CastExpressionIdValidator final : public CorrectionCandidateCallback {
 };
 }
 
-void Parser:: ParseSizeofAlignofExpression(){
-  if (Tok.is(tok::kw___nameof)) {
-    SourceLocation NameofLoc = ConsumeToken();
-    SourceLocation LParenLoc, RParenLoc;
-    IdentifierInfo *EnumName = nullptr;
-    SourceLocation EnumNameLoc;
-     if (Tok.is(tok::l_paren)) {
-        BalancedDelimiterTracker T(*this, tok::l_paren);
-        T.consumeOpen();
-        LParenLoc = T.getOpenLocation();
-        llvm::outs()<<"error";
-        if (Tok.is(tok::identifier)) {
-          llvm::outs()<<"inside if";
-            EnumName = Tok.getIdentifierInfo();
-            llvm::outs()<<EnumName->getName();
-            EnumNameLoc = ConsumeToken();
-            T.consumeClose();
-            RParenLoc = T.getCloseLocation();
-            if (RParenLoc.isInvalid())
-            llvm::outs()<<"inside if2";
-                RParenLoc = PP.getLocForEndOfToken(EnumNameLoc);
-        }else {
-          llvm::outs()<<"inside if3";
-            Diag(Tok, diag::err_expected_parameter_pack);
-            SkipUntil(tok::r_paren, StopAtSemi);
-        }
-        } else if (Tok.is(tok::identifier)) {
-          llvm::outs()<<"inside if4";
-        EnumName = Tok.getIdentifierInfo();
-        EnumNameLoc = ConsumeToken();
-        LParenLoc = PP.getLocForEndOfToken(NameofLoc);
-        RParenLoc = PP.getLocForEndOfToken(EnumNameLoc);
-        Diag(LParenLoc, diag::err_paren_sizeof_parameter_pack)
-            << EnumName
-            << FixItHint::CreateInsertion(LParenLoc, "(")
-            << FixItHint::CreateInsertion(RParenLoc, ")");
-    } else {
-      llvm::outs()<<"inside if5";
-        Diag(Tok, diag::err_sizeof_parameter_pack);
-    }
- }
-
-}
 /// Parse a cast-expression, or, if \pisUnaryExpression is true, parse
 /// a unary-expression.
 ///
@@ -1529,6 +1487,7 @@ ExprResult Parser::ParseCastExpression(CastParseKind ParseKind,
   // unary-expression: '__datasizeof' unary-expression
   // unary-expression: '__datasizeof' '(' type-name ')'
   case tok::kw___datasizeof:
+  case tok::kw___nameof:
   case tok::kw_vec_step:   // unary-expression: OpenCL 'vec_step' expression
   // unary-expression: '__builtin_omp_required_simd_align' '(' type-name ')'
   case tok::kw___builtin_omp_required_simd_align:
@@ -1891,9 +1850,6 @@ ExprResult Parser::ParseCastExpression(CastParseKind ParseKind,
       break;
     }
     [[fallthrough]];
-  case tok::kw___nameof:
-    ParseSizeofAlignofExpression();
-     break;
   default:
   ExpectedExpression:
     NotCastExpr = true;
@@ -2555,16 +2511,15 @@ ExprResult Parser::ParseSYCLUniqueStableNameExpression() {
 /// [C++11] 'alignof' '(' type-id ')'
 /// \endverbatim
 ExprResult Parser::ParseUnaryExprOrTypeTraitExpression() {
-  assert(Tok.isOneOf(tok::kw_sizeof, tok::kw___datasizeof, tok::kw___alignof,
+  assert(Tok.isOneOf(tok::kw_sizeof, tok::kw___datasizeof, tok::kw___nameof, tok::kw___alignof,
                      tok::kw_alignof, tok::kw__Alignof, tok::kw_vec_step,
                      tok::kw___builtin_omp_required_simd_align,
                      tok::kw___builtin_vectorelements) &&
          "Not a sizeof/alignof/vec_step expression!");
   Token OpTok = Tok;
   ConsumeToken();
-
   // [C++11] 'sizeof' '...' '(' identifier ')'
-  if (Tok.is(tok::ellipsis) && OpTok.is(tok::kw_sizeof)) {
+  if (Tok.is(tok::ellipsis) && OpTok.is(tok::kw_sizeof) && OpTok.is(tok::kw___nameof)) {
     SourceLocation EllipsisLoc = ConsumeToken();
     SourceLocation LParenLoc, RParenLoc;
     IdentifierInfo *Name = nullptr;
@@ -2646,6 +2601,10 @@ ExprResult Parser::ParseUnaryExprOrTypeTraitExpression() {
   case tok::kw___datasizeof:
     ExprKind = UETT_DataSizeOf;
     break;
+  // case tok::kw___nameof:
+  //   ExprKind = UETT_DataSizeOf;
+  //   llvm::outs()<<"-------"<<ExprKind<<"\n";
+  //   break;
   case tok::kw___builtin_vectorelements:
     ExprKind = UETT_VectorElements;
     break;

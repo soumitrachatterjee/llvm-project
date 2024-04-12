@@ -13809,7 +13809,8 @@ bool IntExprEvaluator::VisitUnaryExprOrTypeTraitExpr(
     } else
       return Success(1, E);
   }
-
+  // case UETT_nameof:
+  //   return true;
   case UETT_DataSizeOf:
   case UETT_SizeOf: {
     QualType SrcTy = E->getTypeOfArgument();

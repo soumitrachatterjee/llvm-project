@@ -62,7 +62,29 @@
 
 using namespace clang;
 using namespace sema;
+class abc {
+public:
+    void VisitDeclRefExpr(DeclRefExpr *Node) {
+        Node->dump(); // This line prints information about the DeclRefExpr node
+        if (Node->getDecl()) {
+            llvm::outs() << Node->getDecl()->getName() << "\n"; // Print the name of the referenced declaration
+        }
+    }
 
+    void VisitExpr(Expr *Ex) {
+        if (!Ex->children().empty()) {
+            for (auto *Child : Ex->children()) {
+                if (auto *ChildExpr = dyn_cast<Expr>(Child)) {
+                    VisitExpr(ChildExpr); // Recursively visit child expressions
+                }
+            }
+        }
+        // Now handle the current expression node
+        if (auto *DRE = dyn_cast<DeclRefExpr>(Ex)) {
+            VisitDeclRefExpr(DRE); // If it's a DeclRefExpr, visit it
+        }
+    }
+};
 /// Determine whether the use of this declaration is valid, without
 /// emitting diagnostics.
 bool Sema::CanUseDecl(NamedDecl *D, bool TreatUnavailableAsInvalid) {
@@ -4842,6 +4864,8 @@ ExprResult Sema::CreateUnaryExprOrTypeTraitExpr(TypeSourceInfo *TInfo,
                                                 SourceLocation OpLoc,
                                                 UnaryExprOrTypeTrait ExprKind,
                                                 SourceRange R) {
+  // abc obj;
+  // obj.VisitExpr();
   if (!TInfo)
     return ExprError();
 
@@ -4868,6 +4892,8 @@ ExprResult Sema::CreateUnaryExprOrTypeTraitExpr(TypeSourceInfo *TInfo,
 ExprResult
 Sema::CreateUnaryExprOrTypeTraitExpr(Expr *E, SourceLocation OpLoc,
                                      UnaryExprOrTypeTrait ExprKind) {
+  abc obj;
+  obj.VisitExpr(E);
   ExprResult PE = CheckPlaceholderExpr(E);
   if (PE.isInvalid())
     return ExprError();

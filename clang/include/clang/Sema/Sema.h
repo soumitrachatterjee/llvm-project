@@ -232,6 +232,7 @@ class PossiblyUnreachableDiag;
 class RISCVIntrinsicManager;
 class SemaPPCallbacks;
 class TemplateDeductionInfo;
+static std::vector<std::string> __nameof_Day;
 } // namespace sema
 
 namespace threadSafety {
@@ -2864,6 +2865,7 @@ public:
     explicit NameClassification(NameClassificationKind Kind) : Kind(Kind) {}
 
   public:
+  
     NameClassification(ParsedType Type) : Kind(NC_Type), Type(Type) {}
 
     NameClassification(const IdentifierInfo *Keyword) : Kind(NC_Keyword) {}
