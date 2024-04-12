@@ -3971,13 +3971,13 @@ bool Sema::DeduceFunctionTypeFromReturnExpr(FunctionDecl *FD,
   // Emit a remark for deduced return type if the option fdump-auto-type-inference is enabled
   SourceManager &SM = getSourceManager();
   SourceLocation Loc = FD->getLocation();
-  if (SM.isWrittenInMainFile(Loc) && opts::DumpAutoTypeInference.getNumOccurrences()) 
-  {
+  if (SM.isWrittenInMainFile(Loc) &&
+      opts::DumpAutoTypeInference.getNumOccurrences()) {
     DiagnosticsEngine &Diag = Context.getDiagnostics();
     unsigned DiagID = Diag.getCustomDiagID(DiagnosticsEngine::Remark, "function return type of '%0' deduced as %1");
     Diag.Report(Loc, DiagID) << FD->getNameAsString() << Deduced;
   }
-    
+
   return false;
 }
 

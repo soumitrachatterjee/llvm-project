@@ -13205,7 +13205,8 @@ bool Sema::DeduceVariableDeclarationType(VarDecl *VDecl, bool DirectInit,
   // Check if the variable declaration is in the source file
   SourceManager &SM = getSourceManager();
   SourceLocation Loc = VDecl->getLocation();
-  if (SM.isWrittenInMainFile(Loc) && opts::DumpAutoTypeInference.getNumOccurrences()) {
+  if (SM.isWrittenInMainFile(Loc) &&
+      opts::DumpAutoTypeInference.getNumOccurrences()) {
     // Emit a remark for deduced auto variable type when option fdump-auto-type-inference is enabled
     DiagnosticsEngine &Diag = Context.getDiagnostics();
     unsigned DiagID = Diag.getCustomDiagID(DiagnosticsEngine::Remark, "type of '%0' deduced as %1");

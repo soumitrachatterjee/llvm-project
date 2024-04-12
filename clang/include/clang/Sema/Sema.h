@@ -76,11 +76,11 @@
 #include <tuple>
 #include <vector>
 
-namespace opts{
+namespace opts {
 // Option for dumping auto type inference
 extern llvm::cl::OptionCategory DumpAutoInference;
 extern llvm::cl::opt<bool> DumpAutoTypeInference;
-}
+} // namespace opts
 
 namespace llvm {
 class APSInt;
