@@ -2020,27 +2020,7 @@ static TemplateDeductionResult DeduceTemplateArgumentsByTypeMatch(
         // Note that we use the "array bound" rules here; just like in that
         // case, we don't have any particular type for the vector size, but
         // we can provide one if necessary.
-        // auto DeductionResult = DeduceNonTypeTemplateArgument(S, TemplateParams, NTTP, ArgSize,
-        //                                      S.Context.UnsignedIntTy, true,
-        //                                      Info, Deduced);
-        // if (DeductionResult == TemplateDeductionResult::Success) {
-        //     // Find the deduced NonTypeTemplateParmDecl for this NTTP
-        //     const NonTypeTemplateParmDecl *DeducedArgType = nullptr;
-        //     for (const auto &Deduction : Deduced) {
-        //         if (Deduction.getKind() == TemplateArgument) {
-        //             if (const auto *NTTPDecl = Deduction.getAsDecl()) {
-        //                 if (NTTPDecl == NTTP) {
-        //                     DeducedArgType = NTTPDecl;
-        //                     break;
-        //                 }
-        //             }
-        //         }
-        //     }
-        //     if (DeducedArgType) {
-        //         llvm::outs()<< "Deduced type for Non-Type Template Parameter: "
-        //                   << DeducedArgType->getType().getAsString() << "\n";
-        //     }
-        // }
+        
         return DeduceNonTypeTemplateArgument(S, TemplateParams, NTTP, ArgSize,
                                              S.Context.UnsignedIntTy, true,
                                              Info, Deduced);

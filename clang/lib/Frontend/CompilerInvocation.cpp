@@ -110,6 +110,7 @@ using namespace llvm::opt;
 //===----------------------------------------------------------------------===//
 // Helpers.
 //===----------------------------------------------------------------------===//
+
 // Parse misexpect tolerance argument value.
 // Valid option values are integers in the range [0, 100)
 static Expected<std::optional<uint32_t>> parseToleranceOption(StringRef Arg) {

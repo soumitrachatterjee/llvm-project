@@ -13202,16 +13202,14 @@ bool Sema::DeduceVariableDeclarationType(VarDecl *VDecl, bool DirectInit,
   VDecl->setType(DeducedType);
   assert(VDecl->isLinkageValid());
 
-    // Check if the variable declaration is in the compiled file
+  // Check if the variable declaration is in the source file
   SourceManager &SM = getSourceManager();
   SourceLocation Loc = VDecl->getLocation();
-  if (SM.isWrittenInMainFile(Loc)) {
-    if(DumpAutoTypeInference.getNumOccurrences())
-    {
-      DiagnosticsEngine &Diag = Context.getDiagnostics();
-      unsigned DiagID = Diag.getCustomDiagID(DiagnosticsEngine::Remark, "type of '%0' deduced as %1");
-      Diag.Report(Loc, DiagID) << VDecl->getNameAsString() << DeducedType;
-      }
+  if (SM.isWrittenInMainFile(Loc) && DumpAutoTypeInference.getNumOccurrences()) {
+    // Emit a remark for deduced auto variable type when option fdump-auto-type-inference is enabled
+    DiagnosticsEngine &Diag = Context.getDiagnostics();
+    unsigned DiagID = Diag.getCustomDiagID(DiagnosticsEngine::Remark, "type of '%0' deduced as %1");
+    Diag.Report(Loc, DiagID) << VDecl->getNameAsString() << DeducedType;
   }
 
   // In ARC, infer lifetime.

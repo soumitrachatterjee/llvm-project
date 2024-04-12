@@ -3968,9 +3968,10 @@ bool Sema::DeduceFunctionTypeFromReturnExpr(FunctionDecl *FD,
     // Update all declarations of the function to have the deduced return type.
     Context.adjustDeducedFunctionResultType(FD, Deduced);
 
-      // Print the deduced return type
+  // Emit a remark for deduced return type if the option fdump-auto-type-inference is enabled
+  SourceManager &SM = getSourceManager();
   SourceLocation Loc = FD->getLocation();
-  if(DumpAutoTypeInference.getNumOccurrences())
+  if (SM.isWrittenInMainFile(Loc) && DumpAutoTypeInference.getNumOccurrences()) 
   {
     DiagnosticsEngine &Diag = Context.getDiagnostics();
     unsigned DiagID = Diag.getCustomDiagID(DiagnosticsEngine::Remark, "function return type of '%0' deduced as %1");

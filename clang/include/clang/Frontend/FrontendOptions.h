@@ -270,6 +270,7 @@ public:
     return *Buffer;
   }
 };
+
 /// FrontendOptions - Options for controlling the behavior of the frontend.
 class FrontendOptions {
 public:
