@@ -59,7 +59,7 @@ namespace opts {
 llvm::cl::OptionCategory DumpAutoInference("DumpAutoInference");
 llvm::cl::opt<bool> DumpAutoTypeInference{
     "fdump-auto-type-inference",
-    llvm::cl::desc("Dump deduced type of auto type"), llvm::cl::ZeroOrMore,
+    llvm::cl::desc("Dump compiler-deduced type for variables and return expressions declared using C++ 'auto' keyword"), llvm::cl::ZeroOrMore,
     llvm::cl::cat(DumpAutoInference)};
 } // namespace opts
 
