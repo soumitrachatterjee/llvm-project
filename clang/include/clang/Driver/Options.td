@@ -7476,7 +7476,7 @@ def stats_file_append : Flag<["-"], "stats-file-append">,
   MarshallingInfoFlag<FrontendOpts<"AppendStats">>;
 
 def fdump_auto_type_inference : Flag<["-"], "fdump-auto-type-inference">, Group<f_Group>,
-    HelpText<"Enable dumping of auto type inference information, Use -mllvm -fdump-auto-type-inference to enable.">;
+    HelpText<"Dump auto type inference information">;
 def fno_dump_auto_type_inference : Flag<["-"], "fno-dump-auto-type-inference">,Group<f_Group>,
     HelpText<"Disable dumping of auto type inference information">;
 
