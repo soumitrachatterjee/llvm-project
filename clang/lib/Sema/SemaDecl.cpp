@@ -13207,7 +13207,7 @@ bool Sema::DeduceVariableDeclarationType(VarDecl *VDecl, bool DirectInit,
   SourceLocation Loc = VDecl->getLocation();
   if (SM.isWrittenInMainFile(Loc) &&
       opts::DumpAutoTypeInference.getNumOccurrences()) {
-    // Emit a remark for deduced auto variable type when option fdump-auto-type-inference is enabled
+    // Emit a remark indicating the compiler-deduced type for variables declared using the C++ 'auto' keyword
     DiagnosticsEngine &Diag = Context.getDiagnostics();
     unsigned DiagID = Diag.getCustomDiagID(DiagnosticsEngine::Remark, "type of '%0' deduced as %1");
     Diag.Report(Loc, DiagID) << VDecl->getNameAsString() << DeducedType;
