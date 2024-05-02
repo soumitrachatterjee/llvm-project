@@ -3974,7 +3974,7 @@ bool Sema::DeduceFunctionTypeFromReturnExpr(FunctionDecl *FD,
   if (SM.isWrittenInMainFile(Loc) &&
       opts::DumpAutoTypeInference.getNumOccurrences()) {
     DiagnosticsEngine &Diag = Context.getDiagnostics();
-    unsigned DiagID = Diag.getCustomDiagID(DiagnosticsEngine::Remark, "function return type of '%0' deduced as %1");
+    unsigned DiagID = Diag.getCustomDiagID(DiagnosticsEngine::Remark, "return type of function '%0' deduced as %1");
     Diag.Report(Loc, DiagID) << FD->getNameAsString() << Deduced;
   }
 
