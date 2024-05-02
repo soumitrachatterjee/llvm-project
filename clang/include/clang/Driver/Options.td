@@ -7478,7 +7478,7 @@ def stats_file_append : Flag<["-"], "stats-file-append">,
 def fdump_auto_type_inference : Flag<["-"], "fdump-auto-type-inference">, Group<f_Group>,
     HelpText<"Dump auto type inference information">;
 def fno_dump_auto_type_inference : Flag<["-"], "fno-dump-auto-type-inference">,Group<f_Group>,
-    HelpText<"Disable dumping of auto type inference information">;
+    HelpText<"Disable dumping auto type inference information">;
 
 def fdump_record_layouts_simple : Flag<["-"], "fdump-record-layouts-simple">,
   HelpText<"Dump record layout information in a simple form used for testing">,
