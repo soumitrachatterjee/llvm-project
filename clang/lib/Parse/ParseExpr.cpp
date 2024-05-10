@@ -2519,7 +2519,7 @@ ExprResult Parser::ParseUnaryExprOrTypeTraitExpression() {
   Token OpTok = Tok;
   ConsumeToken();
   // [C++11] 'sizeof' '...' '(' identifier ')'
-  if (Tok.is(tok::ellipsis) && OpTok.is(tok::kw_sizeof) && OpTok.is(tok::kw___nameof)) {
+  if (Tok.is(tok::ellipsis) && OpTok.is(tok::kw_sizeof)) {
     SourceLocation EllipsisLoc = ConsumeToken();
     SourceLocation LParenLoc, RParenLoc;
     IdentifierInfo *Name = nullptr;
@@ -2558,7 +2558,7 @@ ExprResult Parser::ParseUnaryExprOrTypeTraitExpression() {
     EnterExpressionEvaluationContext Unevaluated(
         Actions, Sema::ExpressionEvaluationContext::Unevaluated,
         Sema::ReuseLambdaContextDecl);
-
+        
     return Actions.ActOnSizeofParameterPackExpr(getCurScope(),
                                                 OpTok.getLocation(),
                                                 *Name, NameLoc,
@@ -2601,10 +2601,9 @@ ExprResult Parser::ParseUnaryExprOrTypeTraitExpression() {
   case tok::kw___datasizeof:
     ExprKind = UETT_DataSizeOf;
     break;
-  // case tok::kw___nameof:
-  //   ExprKind = UETT_DataSizeOf;
-  //   llvm::outs()<<"-------"<<ExprKind<<"\n";
-  //   break;
+  case tok::kw___nameof:
+    ExprKind = UETT_nameof;
+    break;
   case tok::kw___builtin_vectorelements:
     ExprKind = UETT_VectorElements;
     break;

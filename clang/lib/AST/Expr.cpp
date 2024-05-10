@@ -1680,6 +1680,7 @@ UnaryExprOrTypeTraitExpr::UnaryExprOrTypeTraitExpr(
     : Expr(UnaryExprOrTypeTraitExprClass, resultType, VK_PRValue, OK_Ordinary),
       OpLoc(op), RParenLoc(rp) {
   assert(ExprKind <= UETT_Last && "invalid enum value!");
+  
   UnaryExprOrTypeTraitExprBits.Kind = ExprKind;
   assert(static_cast<unsigned>(ExprKind) == UnaryExprOrTypeTraitExprBits.Kind &&
          "UnaryExprOrTypeTraitExprBits.Kind overflow!");

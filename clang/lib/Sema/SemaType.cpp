@@ -3221,9 +3221,11 @@ QualType Sema::GetTypeFromParser(ParsedType Ty, TypeSourceInfo **TInfo) {
   if (const LocInfoType *LIT = dyn_cast<LocInfoType>(QT)) {
     QT = LIT->getType();
     DI = LIT->getTypeSourceInfo();
+
   }
 
   if (TInfo) *TInfo = DI;
+
   return QT;
 }
 

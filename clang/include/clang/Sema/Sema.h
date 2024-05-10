@@ -5697,7 +5697,6 @@ public:
                                            UnaryExprOrTypeTrait ExprKind,
                                            bool IsType, void *TyOrEx,
                                            SourceRange ArgRange);
-
   ExprResult CheckPlaceholderExpr(Expr *E);
   bool CheckVecStepExpr(Expr *E);
 

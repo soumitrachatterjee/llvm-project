@@ -1026,6 +1026,7 @@ ExprResult Sema::ActOnSizeofParameterPackExpr(Scope *S,
                                               IdentifierInfo &Name,
                                               SourceLocation NameLoc,
                                               SourceLocation RParenLoc) {
+                                                
   // C++0x [expr.sizeof]p5:
   //   The identifier in a sizeof... expression shall name a parameter pack.
   LookupResult R(*this, &Name, NameLoc, LookupOrdinaryName);

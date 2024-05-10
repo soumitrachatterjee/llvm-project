@@ -9,7 +9,8 @@
 //  This file implements semantic analysis for expressions.
 //
 //===----------------------------------------------------------------------===//
-
+#include "llvm/Support/Signals.h"
+#include "llvm/Support/raw_ostream.h"
 #include "TreeTransform.h"
 #include "UsedDeclVisitor.h"
 #include "clang/AST/ASTConsumer.h"
@@ -62,12 +63,15 @@
 
 using namespace clang;
 using namespace sema;
-class abc {
+class GetSymbolicName {
+private:  
+StringRef LastString;
 public:
+
     void VisitDeclRefExpr(DeclRefExpr *Node) {
-        Node->dump(); // This line prints information about the DeclRefExpr node
+       
         if (Node->getDecl()) {
-            llvm::outs() << Node->getDecl()->getName() << "\n"; // Print the name of the referenced declaration
+           LastString = Node->getDecl()->getName();
         }
     }
 
@@ -83,6 +87,11 @@ public:
         if (auto *DRE = dyn_cast<DeclRefExpr>(Ex)) {
             VisitDeclRefExpr(DRE); // If it's a DeclRefExpr, visit it
         }
+    }
+
+    // Method to retrieve the last fetched string
+    StringRef getLastString() const {
+        return LastString;
     }
 };
 /// Determine whether the use of this declaration is valid, without
@@ -4864,8 +4873,7 @@ ExprResult Sema::CreateUnaryExprOrTypeTraitExpr(TypeSourceInfo *TInfo,
                                                 SourceLocation OpLoc,
                                                 UnaryExprOrTypeTrait ExprKind,
                                                 SourceRange R) {
-  // abc obj;
-  // obj.VisitExpr();
+
   if (!TInfo)
     return ExprError();
 
@@ -4892,8 +4900,9 @@ ExprResult Sema::CreateUnaryExprOrTypeTraitExpr(TypeSourceInfo *TInfo,
 ExprResult
 Sema::CreateUnaryExprOrTypeTraitExpr(Expr *E, SourceLocation OpLoc,
                                      UnaryExprOrTypeTrait ExprKind) {
-  abc obj;
+  GetSymbolicName obj;
   obj.VisitExpr(E);
+  StringRef LastString = obj.getLastString();
   ExprResult PE = CheckPlaceholderExpr(E);
   if (PE.isInvalid())
     return ExprError();
@@ -4928,7 +4937,13 @@ Sema::CreateUnaryExprOrTypeTraitExpr(Expr *E, SourceLocation OpLoc,
     if (PE.isInvalid()) return ExprError();
     E = PE.get();
   }
-
+  QualType StrTy =
+      Context.getStringLiteralArrayType(Context.CharTy, LastString.size());
+  if(ExprKind == UETT_nameof){
+    StringLiteral *stringliteral = StringLiteral::Create(Context, LastString, StringLiteralKind::Ordinary,
+            /*Pascal*/ false, StrTy, OpLoc);
+    return stringliteral;
+  }
   // C99 6.5.3.4p4: the type (an unsigned integer type) is size_t.
   return new (Context) UnaryExprOrTypeTraitExpr(
       ExprKind, E, Context.getSizeType(), OpLoc, E->getSourceRange().getEnd());

@@ -2621,7 +2621,7 @@ public:
   const Expr *getArgumentExpr() const {
     return const_cast<UnaryExprOrTypeTraitExpr*>(this)->getArgumentExpr();
   }
-
+      
   void setArgument(Expr *E) {
     Argument.Ex = E;
     UnaryExprOrTypeTraitExprBits.IsType = false;
