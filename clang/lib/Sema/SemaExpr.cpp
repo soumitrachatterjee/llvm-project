@@ -65,14 +65,19 @@ using namespace clang;
 using namespace sema;
 class GetSymbolicName {
 private:  
-StringRef LastString;
+std::string LastString;
 public:
 
     void VisitDeclRefExpr(DeclRefExpr *Node) {
-       
-        if (Node->getDecl()) {
-           LastString = Node->getDecl()->getName();
-        }
+       if (const auto *ECD = dyn_cast<EnumConstantDecl>(Node->getDecl())) {
+                if (const auto *ED = dyn_cast<EnumDecl>(ECD->getDeclContext())) {
+                    // Construct the fully qualified name
+                    LastString = ED->getName().str() + "::" + ECD->getName().str();
+                }
+            } else {
+                // Handle other declarations (e.g., variables, functions)
+                LastString = Node->getDecl()->getName().str();
+            }
     }
 
     void VisitExpr(Expr *Ex) {
@@ -91,7 +96,7 @@ public:
 
     // Method to retrieve the last fetched string
     StringRef getLastString() const {
-        return LastString;
+        return StringRef(LastString);
     }
 };
 /// Determine whether the use of this declaration is valid, without
