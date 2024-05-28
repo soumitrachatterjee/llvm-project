@@ -37,6 +37,7 @@
 #include "clang/Lex/Lexer.h" // TODO: Extract static functions to fix layering.
 #include "clang/Lex/ModuleLoader.h" // TODO: Sema shouldn't depend on Lex
 #include "clang/Lex/Preprocessor.h" // Included for isCodeCompletionEnabled()
+#include "clang/Sema/Sema.h"
 #include "clang/Sema/CXXFieldCollector.h"
 #include "clang/Sema/DeclSpec.h"
 #include "clang/Sema/DelayedDiagnostic.h"
@@ -13202,16 +13203,9 @@ bool Sema::DeduceVariableDeclarationType(VarDecl *VDecl, bool DirectInit,
   VDecl->setType(DeducedType);
   assert(VDecl->isLinkageValid());
 
-  // Check if the variable declaration is in the source file
+  // Emit a remark indicating the compiler-deduced type for variables declared using the C++ 'auto' keyword
   SourceManager &SM = getSourceManager();
-  SourceLocation Loc = VDecl->getLocation();
-  if (SM.isWrittenInMainFile(Loc) &&
-      opts::DumpAutoTypeInference.getNumOccurrences()) {
-    // Emit a remark indicating the compiler-deduced type for variables declared using the C++ 'auto' keyword
-    DiagnosticsEngine &Diag = Context.getDiagnostics();
-    unsigned DiagID = Diag.getCustomDiagID(DiagnosticsEngine::Remark, "type of '%0' deduced as %1");
-    Diag.Report(Loc, DiagID) << VDecl->getNameAsString() << DeducedType;
-  }
+  Sema::DumpAutoTypeInference(SM, VDecl->getLocation(), true, Context,VDecl->getNameAsString(), DeducedType);
 
   // In ARC, infer lifetime.
   if (getLangOpts().ObjCAutoRefCount && inferObjCARCLifetime(VDecl))

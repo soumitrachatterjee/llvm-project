@@ -1371,6 +1371,10 @@ def BackendOptimizationRemarkAnalysis : DiagGroup<"pass-analysis">;
 def BackendOptimizationFailure : DiagGroup<"pass-failed">;
 def BackendWarningAttributes : DiagGroup<"attribute-warning">;
 
+// Auto Type Deduction Based Remarks
+def AutoVarTypeDeduction : DiagGroup<"remark-auto-variable-deduction">;
+def AutoFuncTypeDeduction : DiagGroup<"remark-auto-func-deduction">;
+
 // Instrumentation based profiling warnings.
 def ProfileInstrMissing : DiagGroup<"profile-instr-missing">;
 def ProfileInstrOutOfDate : DiagGroup<"profile-instr-out-of-date">;

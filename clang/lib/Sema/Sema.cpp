@@ -516,6 +516,23 @@ void Sema::warnStackExhausted(SourceLocation Loc) {
   }
 }
 
+  // Emit a remark indicating the compiler-deduced type for variables declared using the C++ 'auto' keyword
+  void Sema::DumpAutoTypeInference(SourceManager &SM, SourceLocation Loc, bool isVar, ASTContext &Context, llvm::StringRef Name, QualType DeducedType) {
+      const char VarString[27] = "type of '%0' deduced as %1";
+      const char FunString[43] = "return type of function '%0' deduced as %1";
+      if (SM.isWrittenInMainFile(Loc) && opts::DumpAutoTypeInference.getNumOccurrences()) {
+          DiagnosticsEngine &Diag = Context.getDiagnostics();
+          unsigned DiagID;
+          if (isVar) {
+            DiagID = Diag.getCustomDiagID(DiagnosticsEngine::Remark, VarString);
+          }
+          else {
+            DiagID = Diag.getCustomDiagID(DiagnosticsEngine::Remark, FunString);
+          }
+          Diag.Report(Loc, DiagID) << Name << DeducedType;
+      }
+  }
+
 void Sema::runWithSufficientStackSpace(SourceLocation Loc,
                                        llvm::function_ref<void()> Fn) {
   clang::runWithSufficientStackSpace([&] { warnStackExhausted(Loc); }, Fn);

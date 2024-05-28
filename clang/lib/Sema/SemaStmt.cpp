@@ -3968,15 +3968,9 @@ bool Sema::DeduceFunctionTypeFromReturnExpr(FunctionDecl *FD,
     // Update all declarations of the function to have the deduced return type.
     Context.adjustDeducedFunctionResultType(FD, Deduced);
 
-  // Emit a remark for deduced return type if the option fdump-auto-type-inference is enabled
+  // Emit a remark indicating the compiler-deduced return type for functions declared using the C++ 'auto' keyword
   SourceManager &SM = getSourceManager();
-  SourceLocation Loc = FD->getLocation();
-  if (SM.isWrittenInMainFile(Loc) &&
-      opts::DumpAutoTypeInference.getNumOccurrences()) {
-    DiagnosticsEngine &Diag = Context.getDiagnostics();
-    unsigned DiagID = Diag.getCustomDiagID(DiagnosticsEngine::Remark, "return type of function '%0' deduced as %1");
-    Diag.Report(Loc, DiagID) << FD->getNameAsString() << Deduced;
-  }
+  Sema::DumpAutoTypeInference(SM, FD->getLocation(), false, Context,FD->getNameAsString(), Deduced);
 
   return false;
 }
