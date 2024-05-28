@@ -19,7 +19,6 @@
 #include "clang/Sema/Sema.h"
 #include "clang/Sema/SemaDiagnostic.h"
 
-
 namespace clang {
 
 inline PartialDiagnostic Sema::PDiag(unsigned DiagID) {

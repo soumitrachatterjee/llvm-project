@@ -32,7 +32,6 @@
 #include "clang/Sema/Scope.h"
 #include "clang/Sema/TypoCorrection.h"
 #include "llvm/ADT/SmallVector.h"
-#include "clang/Sema/Sema.h"
 #include <optional>
 using namespace clang;
 

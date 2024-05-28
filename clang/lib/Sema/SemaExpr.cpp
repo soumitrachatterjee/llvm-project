@@ -63,20 +63,24 @@
 
 using namespace clang;
 using namespace sema;
-class GetSymbolicName {
+class EnumNameVisitor {
 private:  
-std::string LastString;
+std::string EnumName;
+bool HasError = false;
+std::string ErrorMessage;
 public:
 
     void VisitDeclRefExpr(DeclRefExpr *Node) {
        if (const auto *ECD = dyn_cast<EnumConstantDecl>(Node->getDecl())) {
                 if (const auto *ED = dyn_cast<EnumDecl>(ECD->getDeclContext())) {
                     // Construct the fully qualified name
-                    LastString = ED->getName().str() + "::" + ECD->getName().str();
+                    EnumName = ED->getName().str() + "::" + ECD->getName().str();
+                    HasError = false;
                 }
             } else {
-                // Handle other declarations (e.g., variables, functions)
-                LastString = Node->getDecl()->getName().str();
+                // Throw an error for other declarations
+               HasError = true;
+               ErrorMessage = "Unsupported declaration type. Only enum constants are supported.";
             }
     }
 
@@ -95,8 +99,16 @@ public:
     }
 
     // Method to retrieve the last fetched string
-    StringRef getLastString() const {
-        return StringRef(LastString);
+    StringRef getEnumName() const {
+        return StringRef(EnumName);
+    }
+
+     bool hasError() const {
+        return HasError;
+    }
+
+    std::string getErrorMessage() const {
+        return ErrorMessage;
     }
 };
 /// Determine whether the use of this declaration is valid, without
@@ -4905,9 +4917,9 @@ ExprResult Sema::CreateUnaryExprOrTypeTraitExpr(TypeSourceInfo *TInfo,
 ExprResult
 Sema::CreateUnaryExprOrTypeTraitExpr(Expr *E, SourceLocation OpLoc,
                                      UnaryExprOrTypeTrait ExprKind) {
-  GetSymbolicName obj;
+  EnumNameVisitor obj;
   obj.VisitExpr(E);
-  StringRef LastString = obj.getLastString();
+  StringRef EnumName = obj.getEnumName();
   ExprResult PE = CheckPlaceholderExpr(E);
   if (PE.isInvalid())
     return ExprError();
@@ -4943,11 +4955,11 @@ Sema::CreateUnaryExprOrTypeTraitExpr(Expr *E, SourceLocation OpLoc,
     E = PE.get();
   }
   QualType StrTy =
-      Context.getStringLiteralArrayType(Context.CharTy, LastString.size());
+      Context.getStringLiteralArrayType(Context.CharTy, EnumName.size());
   if(ExprKind == UETT_nameof){
-    StringLiteral *stringliteral = StringLiteral::Create(Context, LastString, StringLiteralKind::Ordinary,
+    StringLiteral *EnumStr = StringLiteral::Create(Context, EnumName, StringLiteralKind::Ordinary,
             /*Pascal*/ false, StrTy, OpLoc);
-    return stringliteral;
+    return EnumStr;
   }
   // C99 6.5.3.4p4: the type (an unsigned integer type) is size_t.
   return new (Context) UnaryExprOrTypeTraitExpr(
