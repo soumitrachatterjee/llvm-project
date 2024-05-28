@@ -516,22 +516,23 @@ void Sema::warnStackExhausted(SourceLocation Loc) {
   }
 }
 
-  // Emit a remark indicating the compiler-deduced type for variables declared using the C++ 'auto' keyword
-  void Sema::DumpAutoTypeInference(SourceManager &SM, SourceLocation Loc, bool isVar, ASTContext &Context, llvm::StringRef Name, QualType DeducedType) {
-      const char VarString[27] = "type of '%0' deduced as %1";
-      const char FunString[43] = "return type of function '%0' deduced as %1";
-      if (SM.isWrittenInMainFile(Loc) && opts::DumpAutoTypeInference.getNumOccurrences()) {
-          DiagnosticsEngine &Diag = Context.getDiagnostics();
-          unsigned DiagID;
-          if (isVar) {
-            DiagID = Diag.getCustomDiagID(DiagnosticsEngine::Remark, VarString);
-          }
-          else {
-            DiagID = Diag.getCustomDiagID(DiagnosticsEngine::Remark, FunString);
-          }
-          Diag.Report(Loc, DiagID) << Name << DeducedType;
-      }
+// Emits diagnostic remark indicating the compiler-deduced types and return type
+// for variables and functions
+void Sema::DumpAutoTypeInference(SourceManager &SM, SourceLocation Loc,
+                                 bool isVar, ASTContext &Context,
+                                 llvm::StringRef Name, QualType DeducedType) {
+  if (SM.isWrittenInMainFile(Loc) &&
+      opts::DumpAutoTypeInference.getNumOccurrences()) {
+    DiagnosticsEngine &Diag = Context.getDiagnostics();
+    unsigned DiagID = isVar ? Diag.getCustomDiagID(DiagnosticsEngine::Remark,
+                                                   "type of '%0' deduced as %1")
+                            : Diag.getCustomDiagID(
+                                  DiagnosticsEngine::Remark,
+                                  "return type of function '%0' deduced as %1");
+    ;
+    Diag.Report(Loc, DiagID) << Name << DeducedType;
   }
+}
 
 void Sema::runWithSufficientStackSpace(SourceLocation Loc,
                                        llvm::function_ref<void()> Fn) {

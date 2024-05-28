@@ -2496,12 +2496,6 @@ def err_auto_init_list_from_c : Error<
   "%select{initializer list|array}1 in C">;
 def err_auto_bitfield : Error<
   "cannot pass bit-field as __auto_type initializer in C">;
-def remark_auto_variable_deduction : Remark<
-  "type of '%0' deduced as %1">,
-  InGroup<AutoVarTypeDeduction>;
-def remark_auto_func_deduction : Remark<
-  "return type of function '%0' deduced as %1">,
-  InGroup<AutoFuncTypeDeduction>;
 
 // C++1y decltype(auto) type
 def err_decltype_auto_invalid : Error<

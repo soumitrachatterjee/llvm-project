@@ -46,8 +46,8 @@
 #include "clang/Basic/OpenCLOptions.h"
 #include "clang/Basic/OpenMPKinds.h"
 #include "clang/Basic/PragmaKinds.h"
-#include "clang/Basic/Specifiers.h"
 #include "clang/Basic/SourceManager.h"
+#include "clang/Basic/Specifiers.h"
 #include "clang/Basic/TemplateKinds.h"
 #include "clang/Basic/TypeTraits.h"
 #include "clang/Sema/AnalysisBasedWarnings.h"
@@ -240,10 +240,6 @@ class PossiblyUnreachableDiag;
 class RISCVIntrinsicManager;
 class SemaPPCallbacks;
 class TemplateDeductionInfo;
-
-// // void DumpAutoTypeInference(SourceManager &SM, SourceLocation Loc, DiagnosticsEngine &Diag, unsigned DiagID, llvm::StringRef Name, QualType DeducedType);
-// template <size_t N>
-// void DumpAutoTypeInference(SourceManager &SM, SourceLocation Loc, const char (&RemarkMessage)[N], ASTContext &Context,llvm::StringRef Name, QualType DeducedType);
 
 } // namespace sema
 
@@ -721,8 +717,11 @@ public:
   /// Warn that the stack is nearly exhausted.
   void warnStackExhausted(SourceLocation Loc);
 
-  // void DumpAutoTypeInference(SourceManager &SM, SourceLocation Loc, DiagnosticsEngine &Diag, unsigned DiagID, llvm::StringRef Name, QualType DeducedType);
-  void DumpAutoTypeInference(SourceManager &SM, SourceLocation Loc, bool isVar , ASTContext &Context,llvm::StringRef Name, QualType DeducedType);
+  /// Emits diagnostic remark indicating the compiler-deduced types and return
+  /// type for variables and functions
+  void DumpAutoTypeInference(SourceManager &SM, SourceLocation Loc, bool isVar,
+                             ASTContext &Context, llvm::StringRef Name,
+                             QualType DeducedType);
 
   /// Run some code with "sufficient" stack space. (Currently, at least 256K is
   /// guaranteed). Produces a warning if we're low on stack space and allocates
