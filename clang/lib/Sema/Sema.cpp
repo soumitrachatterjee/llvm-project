@@ -529,7 +529,6 @@ void Sema::DumpAutoTypeInference(SourceManager &SM, SourceLocation Loc,
                             : Diag.getCustomDiagID(
                                   DiagnosticsEngine::Remark,
                                   "return type of function '%0' deduced as %1");
-    ;
     Diag.Report(Loc, DiagID) << Name << DeducedType;
   }
 }
