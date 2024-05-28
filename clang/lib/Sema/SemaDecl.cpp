@@ -33,6 +33,7 @@
 #include "clang/Basic/PartialDiagnostic.h"
 #include "clang/Basic/SourceManager.h"
 #include "clang/Basic/TargetInfo.h"
+#include "clang/Frontend/FrontendOptions.h"
 #include "clang/Lex/HeaderSearch.h" // TODO: Sema shouldn't depend on Lex
 #include "clang/Lex/Lexer.h" // TODO: Extract static functions to fix layering.
 #include "clang/Lex/ModuleLoader.h" // TODO: Sema shouldn't depend on Lex
@@ -45,11 +46,13 @@
 #include "clang/Sema/ParsedTemplate.h"
 #include "clang/Sema/Scope.h"
 #include "clang/Sema/ScopeInfo.h"
+#include "clang/Sema/Sema.h"
 #include "clang/Sema/SemaInternal.h"
 #include "clang/Sema/Template.h"
 #include "llvm/ADT/SmallString.h"
 #include "llvm/ADT/StringExtras.h"
 #include "llvm/TargetParser/Triple.h"
+
 #include <algorithm>
 #include <cstring>
 #include <functional>
@@ -13199,6 +13202,12 @@ bool Sema::DeduceVariableDeclarationType(VarDecl *VDecl, bool DirectInit,
 
   VDecl->setType(DeducedType);
   assert(VDecl->isLinkageValid());
+
+  // Emit a remark indicating the compiler-deduced type for variables declared
+  // using the C++ 'auto' keyword
+  SourceManager &SM = getSourceManager();
+  Sema::DumpAutoTypeInference(SM, VDecl->getLocation(), true, Context,
+                              VDecl->getNameAsString(), DeducedType);
 
   // In ARC, infer lifetime.
   if (getLangOpts().ObjCAutoRefCount && inferObjCARCLifetime(VDecl))

@@ -46,6 +46,7 @@
 #include "clang/Basic/OpenCLOptions.h"
 #include "clang/Basic/OpenMPKinds.h"
 #include "clang/Basic/PragmaKinds.h"
+#include "clang/Basic/SourceManager.h"
 #include "clang/Basic/Specifiers.h"
 #include "clang/Basic/TemplateKinds.h"
 #include "clang/Basic/TypeTraits.h"
@@ -68,12 +69,19 @@
 #include "llvm/ADT/SmallVector.h"
 #include "llvm/ADT/TinyPtrVector.h"
 #include "llvm/Frontend/OpenMP/OMPConstants.h"
+#include "llvm/Support/CommandLine.h"
 #include <deque>
 #include <memory>
 #include <optional>
 #include <string>
 #include <tuple>
 #include <vector>
+
+namespace opts {
+// Option for dumping auto type inference
+extern llvm::cl::OptionCategory DumpAutoInference;
+extern llvm::cl::opt<bool> DumpAutoTypeInference;
+} // namespace opts
 
 namespace llvm {
 class APSInt;
@@ -232,6 +240,7 @@ class PossiblyUnreachableDiag;
 class RISCVIntrinsicManager;
 class SemaPPCallbacks;
 class TemplateDeductionInfo;
+
 } // namespace sema
 
 namespace threadSafety {
@@ -707,6 +716,12 @@ public:
 
   /// Warn that the stack is nearly exhausted.
   void warnStackExhausted(SourceLocation Loc);
+
+  /// Emits diagnostic remark indicating the compiler-deduced types and return
+  /// type for variables and functions
+  void DumpAutoTypeInference(SourceManager &SM, SourceLocation Loc, bool isVar,
+                             ASTContext &Context, llvm::StringRef Name,
+                             QualType DeducedType);
 
   /// Run some code with "sufficient" stack space. (Currently, at least 256K is
   /// guaranteed). Produces a warning if we're low on stack space and allocates
