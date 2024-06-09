@@ -1,0 +1,25 @@
+{
+    "directory name": "llvm-project/mlir/lib/Dialect/MemRef/Transforms",
+    "score.sum": 0.0005202393562856451,
+    "sha.latest": "2ecf608829252d7d5b530a03b87817cd948a3386",
+    "time.latest": 1717807552.977059,
+    "formatted_time": "2024-06-07 19:45:52.977062",
+    "filescores": {
+        "AllocationOpInterfaceImpl.cpp": 0,
+        "CMakeLists.txt": 8.890465952923808e-05,
+        "ComposeSubView.cpp": 2.055675755989735e-05,
+        "EmulateNarrowType.cpp": 3.2366062516495685e-05,
+        "EmulateWideInt.cpp": 1.753913812742461e-05,
+        "ExpandOps.cpp": 4.369940318920111e-05,
+        "ExpandRealloc.cpp": 0,
+        "ExpandStridedMetadata.cpp": 4.548284243712866e-05,
+        "ExtractAddressComputations.cpp": 9.170386457992305e-06,
+        "FoldMemRefAliasOps.cpp": 7.028248028235638e-05,
+        "IndependenceTransforms.cpp": 1.2031588080465566e-05,
+        "MultiBuffer.cpp": 4.505621198133347e-05,
+        "NormalizeMemRefs.cpp": 3.9398769693623756e-05,
+        "ResolveShapedTypeResultDims.cpp": 7.310642025618769e-05,
+        "RuntimeOpVerification.cpp": 8.945571180836198e-06
+    },
+    "subdirscores": {}
+}

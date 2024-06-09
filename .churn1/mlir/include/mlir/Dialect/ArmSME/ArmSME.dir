@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/mlir/include/mlir/Dialect/ArmSME",
+    "score.sum": 0.00019575749475868703,
+    "sha.latest": "fff86c6111b6d3ed68a8ea57ab5e7d3d716472c6",
+    "time.latest": 1717793302.7559924,
+    "formatted_time": "2024-06-07 15:48:22.755993",
+    "filescores": {
+        "CMakeLists.txt": 1.799423482780807e-05
+    },
+    "subdirscores": {
+        "IR": 0.00012166529936713027,
+        "Transforms": 7.13250805494454e-05,
+        "Utils": 1.9681751721753706e-05
+    }
+}

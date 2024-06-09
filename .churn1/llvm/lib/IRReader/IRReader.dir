@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/llvm/lib/IRReader",
+    "score.sum": 0.0001100114506859177,
+    "sha.latest": "c33b9395b1dfe9f8506062c05c658f6541f6163d",
+    "time.latest": 1717839206.7704647,
+    "formatted_time": "2024-06-08 04:33:26.770468",
+    "filescores": {
+        "CMakeLists.txt": 1.469510844779812e-05,
+        "IRReader.cpp": 9.68154602497558e-05
+    },
+    "subdirscores": {}
+}

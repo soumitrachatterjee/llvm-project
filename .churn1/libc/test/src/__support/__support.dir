@@ -1,0 +1,38 @@
+{
+    "directory name": "llvm-project/libc/test/src/__support",
+    "score.sum": 0.001015381933429987,
+    "sha.latest": "033dbbe4f183cc0c401af72a2d57ab659e9693d4",
+    "time.latest": 1717845237.1338315,
+    "formatted_time": "2024-06-08 06:13:57.133835",
+    "filescores": {
+        "CMakeLists.txt": 0.00026640317044845474,
+        "arg_list_test.cpp": 1.536274977420137e-05,
+        "blockstore_test.cpp": 1.4486845264554734e-05,
+        "char_vector_test.cpp": 1.2554929871260187e-05,
+        "endian_test.cpp": 1.2228722892314938e-05,
+        "fixedvector_test.cpp": 8.789683292831043e-06,
+        "hash_test.cpp": 6.099602068851199e-06,
+        "high_precision_decimal_test.cpp": 2.613277570860854e-05,
+        "integer_literals_test.cpp": 1.2128452403077766e-05,
+        "integer_to_string_test.cpp": 5.781646969133349e-05,
+        "math_extras_test.cpp": 7.207180788284543e-06,
+        "memory_size_test.cpp": 7.834257682089777e-06,
+        "str_to_double_test.cpp": 6.099602068851199e-06,
+        "str_to_float_comparison_data.txt": 0,
+        "str_to_float_comparison_test.cpp": 6.099602068851199e-06,
+        "str_to_float_test.cpp": 5.710184841222447e-05,
+        "str_to_fp_test.h": 9.829381449120859e-06,
+        "str_to_integer_test.cpp": 0,
+        "str_to_long_double_test.cpp": 2.976281212576889e-05,
+        "uint_test.cpp": 6.278525456255526e-05
+    },
+    "subdirscores": {
+        "CPP": 0.00021812937645591346,
+        "FPUtil": 0.0002353050651481409,
+        "File": 5.7252672137598956e-05,
+        "HashTable": 2.9003676378465386e-05,
+        "OSUtil": 3.173765748045577e-05,
+        "RPC": 1.2714589207970502e-05,
+        "fixed_point": 1.5068795878982088e-05
+    }
+}

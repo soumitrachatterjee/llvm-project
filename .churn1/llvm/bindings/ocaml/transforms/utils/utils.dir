@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/llvm/bindings/ocaml/transforms/utils",
+    "score.sum": 2.660691709854002e-05,
+    "sha.latest": "30f423a543641816e367cd17dad3d4808cba8a79",
+    "time.latest": 1717788655.4824247,
+    "formatted_time": "2024-06-07 14:30:55.482428",
+    "filescores": {
+        "CMakeLists.txt": 1.0502859085114099e-05,
+        "llvm_transform_utils.ml": 6.099602068851199e-06,
+        "llvm_transform_utils.mli": 6.099602068851199e-06,
+        "transform_utils_ocaml.c": 2.1350718803674172e-05
+    },
+    "subdirscores": {}
+}

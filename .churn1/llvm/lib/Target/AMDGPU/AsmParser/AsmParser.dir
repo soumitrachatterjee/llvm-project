@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/llvm/lib/Target/AMDGPU/AsmParser",
+    "score.sum": 0.0018306709153741477,
+    "sha.latest": "e963d0740e64fc70b4018f39325469d204f6217a",
+    "time.latest": 1717848041.9506567,
+    "formatted_time": "2024-06-08 07:00:41.950660",
+    "filescores": {
+        "AMDGPUAsmParser.cpp": 0.0017959874380604915,
+        "CMakeLists.txt": 3.876219591917685e-05
+    },
+    "subdirscores": {}
+}

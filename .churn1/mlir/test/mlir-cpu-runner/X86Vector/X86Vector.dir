@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/mlir/test/mlir-cpu-runner/X86Vector",
+    "score.sum": 3.787823624604103e-05,
+    "sha.latest": "f36e909da03767c317eaa5ded9abbf3214299ff5",
+    "time.latest": 1717832477.7801914,
+    "formatted_time": "2024-06-08 02:41:17.780195",
+    "filescores": {
+        "lit.local.cfg": 0,
+        "math-polynomial-approx-avx2.mlir": 3.631683017690098e-05
+    },
+    "subdirscores": {}
+}

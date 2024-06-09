@@ -1,0 +1,33 @@
+{
+    "directory name": "llvm-project/llvm/include/llvm/Transforms/Instrumentation",
+    "score.sum": 0.0010164149545500568,
+    "sha.latest": "a6a6fca7911feab8325129ea57247303b3c8d558",
+    "time.latest": 1717824598.8587127,
+    "formatted_time": "2024-06-08 00:29:58.858716",
+    "filescores": {
+        "AddressSanitizer.h": 0.00010451287238152384,
+        "AddressSanitizerCommon.h": 4.398325821616333e-05,
+        "AddressSanitizerOptions.h": 2.8953317930220218e-05,
+        "BlockCoverageInference.h": 0,
+        "BoundsChecking.h": 2.7279720813259837e-05,
+        "CFGMST.h": 2.6829115513938797e-05,
+        "CGProfile.h": 2.0372167914345887e-05,
+        "ControlHeightReduction.h": 6.7523135725960505e-06,
+        "DataFlowSanitizer.h": 7.2058782631326745e-06,
+        "GCOVProfiler.h": 1.3105610753817601e-05,
+        "HWAddressSanitizer.h": 7.383861129839761e-05,
+        "InstrOrderFile.h": 1.0931179915346868e-05,
+        "InstrProfiling.h": 0.00011952890874524131,
+        "KCFI.h": 6.141993644271562e-06,
+        "MemProfiler.h": 5.056369601758513e-05,
+        "MemorySanitizer.h": 5.4224272767500164e-05,
+        "PGOForceFunctionAttrs.h": 0,
+        "PGOInstrumentation.h": 3.796485942122542e-05,
+        "PoisonChecking.h": 6.099602068851199e-06,
+        "RemoveTrapsPass.h": 0,
+        "SanitizerBinaryMetadata.h": 4.709697911113453e-05,
+        "SanitizerCoverage.h": 3.2114666919124944e-05,
+        "ThreadSanitizer.h": 2.8783365855301802e-05
+    },
+    "subdirscores": {}
+}

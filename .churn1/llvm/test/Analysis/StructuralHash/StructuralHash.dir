@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/llvm/test/Analysis/StructuralHash",
+    "score.sum": 6.099602068851199e-06,
+    "sha.latest": "d944cab731f1077d8e800fb7c1a91e6fb6b3bb14",
+    "time.latest": 1717893133.8264606,
+    "formatted_time": "2024-06-08 19:32:13.826465",
+    "filescores": {
+        "structural-hash-detailed.ll": 6.099602068851199e-06,
+        "structural-hash-printer.ll": 0
+    },
+    "subdirscores": {}
+}

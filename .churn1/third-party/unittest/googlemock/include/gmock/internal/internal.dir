@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/third-party/unittest/googlemock/include/gmock/internal",
+    "score.sum": 1.8257891228743476e-05,
+    "sha.latest": "a866ce789eb99da4d7a486eeb60a53be6c75f4fd",
+    "time.latest": 1717789910.4841897,
+    "formatted_time": "2024-06-07 14:51:50.484194",
+    "filescores": {
+        "gmock-internal-utils.h": 1.8257891228743476e-05,
+        "gmock-port.h": 1.8257891228743476e-05,
+        "gmock-pp.h": 1.8257891228743476e-05
+    },
+    "subdirscores": {
+        "custom": 1.8257891228743476e-05
+    }
+}

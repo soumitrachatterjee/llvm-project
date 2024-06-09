@@ -1,0 +1,19 @@
+{
+    "directory name": "llvm-project/mlir/include/mlir/Dialect/IRDL/IR",
+    "score.sum": 3.891288670052779e-05,
+    "sha.latest": "914cfa41385606fe81c3afd296a6ca3ab975a97d",
+    "time.latest": 1717794585.854634,
+    "formatted_time": "2024-06-07 16:09:45.854637",
+    "filescores": {
+        "CMakeLists.txt": 1.4888687213507768e-05,
+        "IRDL.h": 2.1136535882728056e-05,
+        "IRDL.td": 2.4468004102524778e-05,
+        "IRDLAttributes.td": 0,
+        "IRDLInterfaces.h": 6.107440625767864e-06,
+        "IRDLInterfaces.td": 6.683697841623206e-06,
+        "IRDLOps.td": 2.211070195644536e-05,
+        "IRDLTraits.h": 6.3218809665749035e-06,
+        "IRDLTypes.td": 6.148218560028609e-06
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/mlir/lib/Dialect/Utils",
+    "score.sum": 0.0003081509391633859,
+    "sha.latest": "847048f497bcdfcfe52f36cba49f07bdbd63cd24",
+    "time.latest": 1717810076.6805046,
+    "formatted_time": "2024-06-07 20:27:56.680508",
+    "filescores": {
+        "CMakeLists.txt": 4.2329884967817554e-05,
+        "IndexingUtils.cpp": 7.199612389224695e-05,
+        "ReshapeOpsUtils.cpp": 9.455920431531513e-05,
+        "StaticValueUtils.cpp": 0.00011977566499339864,
+        "StructuredOpsUtils.cpp": 3.8632705499123137e-05
+    },
+    "subdirscores": {}
+}

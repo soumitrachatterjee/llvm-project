@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/mlir/test/Integration/Dialect/Complex",
+    "score.sum": 4.483805399368052e-05,
+    "sha.latest": "b17348c3b541d7fc7ec441c98db75c18d8959910",
+    "time.latest": 1717825469.5627046,
+    "formatted_time": "2024-06-08 00:44:29.562705",
+    "filescores": {},
+    "subdirscores": {
+        "CPU": 4.483805399368052e-05
+    }
+}

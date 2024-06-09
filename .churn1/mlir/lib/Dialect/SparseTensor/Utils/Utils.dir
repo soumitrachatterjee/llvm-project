@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/mlir/lib/Dialect/SparseTensor/Utils",
+    "score.sum": 0.0002827640520592518,
+    "sha.latest": "d82e93e7f129d9e8b72570efdf4a15d6ec3d4336",
+    "time.latest": 1717809302.4779618,
+    "formatted_time": "2024-06-07 20:15:02.477965",
+    "filescores": {
+        "CMakeLists.txt": 2.205507926300637e-05,
+        "Merger.cpp": 0.00028055778632708576
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/libc/test/src/string/memory_utils",
+    "score.sum": 0.00039755733496589914,
+    "sha.latest": "a84e66a92d7b97f68aa3ae7d2c5839f3fb0d291d",
+    "time.latest": 1717850386.9890916,
+    "formatted_time": "2024-06-08 07:39:46.989095",
+    "filescores": {
+        "CMakeLists.txt": 0.00018246382058206498,
+        "memory_check_utils.h": 3.640756293993184e-05,
+        "op_tests.cpp": 4.542518389286226e-05,
+        "utils_test.cpp": 0.00011283080281815404
+    },
+    "subdirscores": {}
+}

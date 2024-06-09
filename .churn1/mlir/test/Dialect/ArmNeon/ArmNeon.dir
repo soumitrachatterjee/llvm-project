@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/mlir/test/Dialect/ArmNeon",
+    "score.sum": 1.6023821324498994e-05,
+    "sha.latest": "cb6ff746e0c7b9218b6f5c11db44162cacd623a4",
+    "time.latest": 1717817936.150908,
+    "formatted_time": "2024-06-07 22:38:56.150912",
+    "filescores": {
+        "invalid.mlir": 8.074038329530668e-06,
+        "lower-to-arm-neon.mlir": 0,
+        "roundtrip.mlir": 9.231637197300607e-06
+    },
+    "subdirscores": {}
+}

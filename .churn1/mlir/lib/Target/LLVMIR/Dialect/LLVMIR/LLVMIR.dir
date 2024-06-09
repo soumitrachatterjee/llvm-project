@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/mlir/lib/Target/LLVMIR/Dialect/LLVMIR",
+    "score.sum": 0.00023973802042755957,
+    "sha.latest": "853682cc19e26964383af9e834215fae5966b140",
+    "time.latest": 1717811993.458982,
+    "formatted_time": "2024-06-07 20:59:53.458986",
+    "filescores": {
+        "CMakeLists.txt": 1.0577511917823943e-05,
+        "LLVMIRToLLVMTranslation.cpp": 3.5219440675083436e-05,
+        "LLVMToLLVMIRTranslation.cpp": 0.00016563993190772455
+    },
+    "subdirscores": {}
+}

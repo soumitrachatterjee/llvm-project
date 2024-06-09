@@ -1,0 +1,16 @@
+{
+    "directory name": "llvm-project/flang/examples/FlangOmpReport",
+    "score.sum": 4.899341535151169e-05,
+    "sha.latest": "165f7f06a125d072574b74ca5540b4e6141b5b7b",
+    "time.latest": 1717788463.0758255,
+    "formatted_time": "2024-06-07 14:27:43.075828",
+    "filescores": {
+        "CMakeLists.txt": 1.147900618435175e-05,
+        "FlangOmpReport.cpp": 1.0919508549572713e-05,
+        "FlangOmpReportVisitor.cpp": 2.4097294235883894e-05,
+        "FlangOmpReportVisitor.h": 9.280376404874454e-06,
+        "requirements.txt": 6.099602068851199e-06,
+        "yaml_summarizer.py": 9.880748115626602e-06
+    },
+    "subdirscores": {}
+}

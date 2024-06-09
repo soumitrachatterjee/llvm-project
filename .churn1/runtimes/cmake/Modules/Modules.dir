@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/runtimes/cmake/Modules",
+    "score.sum": 7.4379554916800465e-06,
+    "sha.latest": "e5994229541bbe78c3e6eb548224b46f8c3c91be",
+    "time.latest": 1717790555.0803642,
+    "formatted_time": "2024-06-07 15:02:35.080370",
+    "filescores": {
+        "HandleFlags.cmake": 0,
+        "HandleLitArguments.cmake": 0,
+        "WarningFlags.cmake": 6.099602068851199e-06
+    },
+    "subdirscores": {}
+}

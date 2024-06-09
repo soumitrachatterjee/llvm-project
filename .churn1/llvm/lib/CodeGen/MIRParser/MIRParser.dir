@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/llvm/lib/CodeGen/MIRParser",
+    "score.sum": 0.0009560746938921797,
+    "sha.latest": "1b33b3f27f8bf3902d754ed83da29f9a6f15e4e1",
+    "time.latest": 1717830664.2374628,
+    "formatted_time": "2024-06-08 02:11:04.237467",
+    "filescores": {
+        "CMakeLists.txt": 1.876445455480392e-05,
+        "MILexer.cpp": 0.0002602327656623991,
+        "MILexer.h": 0.00022111751427176802,
+        "MIParser.cpp": 0.0006251352201449791,
+        "MIRParser.cpp": 0.00034334196655285033
+    },
+    "subdirscores": {}
+}

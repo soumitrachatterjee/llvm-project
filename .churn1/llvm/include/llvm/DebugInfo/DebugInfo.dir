@@ -1,0 +1,20 @@
+{
+    "directory name": "llvm-project/llvm/include/llvm/DebugInfo",
+    "score.sum": 0.0057204986819078905,
+    "sha.latest": "fe8476472467acd15a4d3771313e5532d1eb032f",
+    "time.latest": 1717814532.6834438,
+    "formatted_time": "2024-06-07 21:42:12.683445",
+    "filescores": {
+        "DIContext.h": 0.00036527854929986316
+    },
+    "subdirscores": {
+        "BTF": 6.249597595425735e-06,
+        "CodeView": 0.0006638720323020826,
+        "DWARF": 0.0019344341508792044,
+        "GSYM": 0.00015383713029331296,
+        "LogicalView": 5.4450317591058285e-05,
+        "MSF": 8.488818025812402e-05,
+        "PDB": 0.0008958024075231616,
+        "Symbolize": 0.0003462331546036156
+    }
+}

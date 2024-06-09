@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/mlir/include/mlir/Dialect/SparseTensor/Pipelines",
+    "score.sum": 0.00010680047464302288,
+    "sha.latest": "dce7a7cf69a3ef76153c8d04fc3ad75bd7421ffc",
+    "time.latest": 1717797217.5659807,
+    "formatted_time": "2024-06-07 16:53:37.565984",
+    "filescores": {
+        "Passes.h": 0.00010680047464302288
+    },
+    "subdirscores": {}
+}

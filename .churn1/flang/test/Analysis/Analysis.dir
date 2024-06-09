@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/flang/test/Analysis",
+    "score.sum": 3.1141700186256284e-05,
+    "sha.latest": "702664e7870c27f197dfb744a4db54aa259ce452",
+    "time.latest": 1717793636.5690787,
+    "formatted_time": "2024-06-07 15:53:56.569080",
+    "filescores": {},
+    "subdirscores": {
+        "AliasAnalysis": 3.1141700186256284e-05
+    }
+}

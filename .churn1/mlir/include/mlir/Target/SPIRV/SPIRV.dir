@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/mlir/include/mlir/Target/SPIRV",
+    "score.sum": 1.547150721344691e-05,
+    "sha.latest": "2dace0452107a43ed030f1156d52282dd6495de2",
+    "time.latest": 1717800541.0680587,
+    "formatted_time": "2024-06-07 17:49:01.068062",
+    "filescores": {
+        "Deserialization.h": 8.535173104252863e-06,
+        "SPIRVBinaryUtils.h": 2.282920739708041e-05,
+        "Serialization.h": 1.2152595511940782e-05,
+        "Target.h": 0
+    },
+    "subdirscores": {}
+}

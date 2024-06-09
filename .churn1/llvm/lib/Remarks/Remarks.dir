@@ -1,0 +1,24 @@
+{
+    "directory name": "llvm-project/llvm/lib/Remarks",
+    "score.sum": 0.00016889803015034574,
+    "sha.latest": "4aea9f63a0a71ae20ad203e6e36c5894d95ae2a3",
+    "time.latest": 1717842528.127744,
+    "formatted_time": "2024-06-08 05:28:48.127747",
+    "filescores": {
+        "BitstreamRemarkParser.cpp": 2.7990843984376047e-05,
+        "BitstreamRemarkParser.h": 1.889058955149857e-05,
+        "BitstreamRemarkSerializer.cpp": 3.93390080232593e-05,
+        "CMakeLists.txt": 3.073150682215789e-05,
+        "Remark.cpp": 2.2540411366191576e-05,
+        "RemarkFormat.cpp": 1.4815540690296783e-05,
+        "RemarkLinker.cpp": 3.429806608122128e-05,
+        "RemarkParser.cpp": 4.2926595024415463e-05,
+        "RemarkSerializer.cpp": 1.1381283309190896e-05,
+        "RemarkStreamer.cpp": 2.45236780343238e-05,
+        "RemarkStringTable.cpp": 2.3433921240220906e-05,
+        "YAMLRemarkParser.cpp": 7.407711051363976e-05,
+        "YAMLRemarkParser.h": 2.4870900021496662e-05,
+        "YAMLRemarkSerializer.cpp": 4.1138682094050626e-05
+    },
+    "subdirscores": {}
+}

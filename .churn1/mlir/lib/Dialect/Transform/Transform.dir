@@ -1,0 +1,18 @@
+{
+    "directory name": "llvm-project/mlir/lib/Dialect/Transform",
+    "score.sum": 0.0007485621867486602,
+    "sha.latest": "c1029b6a9b423320ec8f0d1cde24d8f4d8139f63",
+    "time.latest": 1717809988.8808987,
+    "formatted_time": "2024-06-07 20:26:28.880900",
+    "filescores": {
+        "CMakeLists.txt": 1.8196945152843438e-05
+    },
+    "subdirscores": {
+        "DebugExtension": 0,
+        "IR": 0.000607912161810722,
+        "LoopExtension": 0,
+        "PDLExtension": 6.099602068851199e-06,
+        "Transforms": 0.00013194290162394046,
+        "Utils": 3.886158887085019e-05
+    }
+}

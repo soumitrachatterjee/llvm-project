@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/mlir/examples/standalone/test/python",
+    "score.sum": 8.18878211490907e-06,
+    "sha.latest": "f9008e6366c2496b1ca1785b891d5578174ad63e",
+    "time.latest": 1717789251.3546548,
+    "formatted_time": "2024-06-07 14:40:51.354658",
+    "filescores": {
+        "lit.local.cfg": 6.133580069596895e-06,
+        "smoketest.py": 8.18878211490907e-06
+    },
+    "subdirscores": {}
+}

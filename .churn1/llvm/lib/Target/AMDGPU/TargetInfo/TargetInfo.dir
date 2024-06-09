@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/llvm/lib/Target/AMDGPU/TargetInfo",
+    "score.sum": 6.0845720581778245e-05,
+    "sha.latest": "ee165cdb1b8b5dad0c694f751e417968fca032fa",
+    "time.latest": 1717849673.521812,
+    "formatted_time": "2024-06-08 07:27:53.521815",
+    "filescores": {
+        "AMDGPUTargetInfo.cpp": 4.341319686319081e-05,
+        "AMDGPUTargetInfo.h": 6.099602068851199e-06,
+        "CMakeLists.txt": 1.8380661697173305e-05
+    },
+    "subdirscores": {}
+}

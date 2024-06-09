@@ -1,0 +1,24 @@
+{
+    "directory name": "llvm-project/mlir/include/mlir/Support",
+    "score.sum": 0.0006481879167558114,
+    "sha.latest": "ecd393443272043d78bbd4e5b85e00dab9f1dfff",
+    "time.latest": 1717799896.6326933,
+    "formatted_time": "2024-06-07 17:38:16.632697",
+    "filescores": {
+        "ADTExtras.h": 6.099602068851199e-06,
+        "DebugStringHelper.h": 3.542146731965162e-05,
+        "FileUtilities.h": 8.731993700943153e-06,
+        "IndentedOstream.h": 2.1462781583050652e-05,
+        "InterfaceSupport.h": 8.888215675807555e-05,
+        "LLVM.h": 9.536595679673451e-05,
+        "LogicalResult.h": 0.00010157322859344722,
+        "MathExtras.h": 2.1489987321380892e-05,
+        "RawOstreamExtras.h": 0,
+        "StorageUniquer.h": 7.562357695099809e-05,
+        "ThreadLocalCache.h": 3.9780922220598676e-05,
+        "Timing.h": 3.543215829004536e-05,
+        "ToolUtilities.h": 1.302339767906815e-05,
+        "TypeID.h": 5.220532380509035e-05
+    },
+    "subdirscores": {}
+}

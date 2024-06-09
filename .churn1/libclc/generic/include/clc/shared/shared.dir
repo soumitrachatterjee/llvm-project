@@ -1,0 +1,18 @@
+{
+    "directory name": "llvm-project/libclc/generic/include/clc/shared",
+    "score.sum": 6.202788923334319e-05,
+    "sha.latest": "1c570566c39a62fa620085bff03f715c965cfaee",
+    "time.latest": 1717827425.385914,
+    "formatted_time": "2024-06-08 01:17:05.385918",
+    "filescores": {
+        "clamp.h": 6.099602068851199e-06,
+        "clamp.inc": 6.099914848982946e-06,
+        "max.h": 6.099602068851199e-06,
+        "max.inc": 6.099855836319009e-06,
+        "min.h": 6.099602068851199e-06,
+        "min.inc": 6.0996374793616595e-06,
+        "vload.h": 1.2030764477917353e-05,
+        "vstore.h": 5.07186458895342e-05
+    },
+    "subdirscores": {}
+}

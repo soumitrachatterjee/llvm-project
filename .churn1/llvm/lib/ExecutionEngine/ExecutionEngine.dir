@@ -1,0 +1,26 @@
+{
+    "directory name": "llvm-project/llvm/lib/ExecutionEngine",
+    "score.sum": 0.013112591989409785,
+    "sha.latest": "ba13fa2a5d57581bff1a7e9322234af30f4882f6",
+    "time.latest": 1717837902.7299485,
+    "formatted_time": "2024-06-08 04:11:42.729952",
+    "filescores": {
+        "CMakeLists.txt": 0.00011410665494112559,
+        "ExecutionEngine.cpp": 0.0007895136696803348,
+        "ExecutionEngineBindings.cpp": 0.00016680833758017305,
+        "GDBRegistrationListener.cpp": 6.705333578432684e-05,
+        "SectionMemoryManager.cpp": 6.116520274800365e-05,
+        "TargetSelect.cpp": 7.101185058552709e-05
+    },
+    "subdirscores": {
+        "IntelJITEvents": 0.00014013813936602018,
+        "IntelJITProfiling": 0,
+        "Interpreter": 0.0009605005063490939,
+        "JITLink": 0.001692946428780077,
+        "MCJIT": 0.00047293342307847176,
+        "OProfileJIT": 9.088717946760492e-05,
+        "Orc": 0.0036369242023380904,
+        "PerfJITEvents": 5.572750821259541e-05,
+        "RuntimeDyld": 0.0015808647555752102
+    }
+}

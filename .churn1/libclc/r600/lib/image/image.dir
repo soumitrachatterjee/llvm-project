@@ -1,0 +1,25 @@
+{
+    "directory name": "llvm-project/libclc/r600/lib/image",
+    "score.sum": 1.0859838168656314e-05,
+    "sha.latest": "3889c36d3fcc9d1fc7b8426ab8dae05214bf9ba3",
+    "time.latest": 1717831655.835014,
+    "formatted_time": "2024-06-08 02:27:35.835017",
+    "filescores": {
+        "get_image_attributes_impl.ll": 1.0859749236068871e-05,
+        "get_image_channel_data_type.cl": 7.273973809125073e-06,
+        "get_image_channel_order.cl": 7.273973809125073e-06,
+        "get_image_depth.cl": 7.273973809125073e-06,
+        "get_image_dim.cl": 0,
+        "get_image_height.cl": 7.273973809125073e-06,
+        "get_image_width.cl": 7.273973809125073e-06,
+        "read_image_impl.ll": 1.0859695079824058e-05,
+        "read_imagef.cl": 7.273919017999014e-06,
+        "read_imagei.cl": 7.273919017999014e-06,
+        "read_imageui.cl": 7.273919017999014e-06,
+        "write_image_impl.ll": 1.0859694929597595e-05,
+        "write_imagef.cl": 7.273918866010838e-06,
+        "write_imagei.cl": 7.273918866010838e-06,
+        "write_imageui.cl": 7.273918866010838e-06
+    },
+    "subdirscores": {}
+}

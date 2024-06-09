@@ -1,0 +1,17 @@
+{
+    "directory name": "llvm-project/libc/fuzzing/stdlib",
+    "score.sum": 7.864277342201134e-05,
+    "sha.latest": "6b02d2f86389d68a0cf2162377c5dda05bd4b68a",
+    "time.latest": 1717825893.0288167,
+    "formatted_time": "2024-06-08 00:51:33.028820",
+    "filescores": {
+        "CMakeLists.txt": 3.1092169628254666e-05,
+        "StringParserOutputDiff.h": 6.099602068851199e-06,
+        "atof_differential_fuzz.cpp": 1.57965670056521e-05,
+        "qsort_fuzz.cpp": 6.099602068851199e-06,
+        "strtofloat_fuzz.cpp": 4.916806905138175e-05,
+        "strtointeger_differential_fuzz.cpp": 7.334979910853829e-06,
+        "strtointeger_fuzz.cpp": 6.558036715660325e-06
+    },
+    "subdirscores": {}
+}

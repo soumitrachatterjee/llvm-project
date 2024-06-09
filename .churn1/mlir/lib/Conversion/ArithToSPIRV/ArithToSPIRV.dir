@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/mlir/lib/Conversion/ArithToSPIRV",
+    "score.sum": 6.605427443567784e-05,
+    "sha.latest": "f7ef73ea889a43b893f6277a2ecc227fd2bf803a",
+    "time.latest": 1717802540.4218147,
+    "formatted_time": "2024-06-07 18:22:20.421818",
+    "filescores": {
+        "ArithToSPIRV.cpp": 6.605427443567784e-05,
+        "CMakeLists.txt": 0
+    },
+    "subdirscores": {}
+}

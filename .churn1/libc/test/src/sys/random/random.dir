@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/libc/test/src/sys/random",
+    "score.sum": 2.9406620801075296e-05,
+    "sha.latest": "3eb1e6d8e930f5aff17b8d6bcc160f5bbf8cabc7",
+    "time.latest": 1717850937.1130426,
+    "formatted_time": "2024-06-08 07:48:57.113044",
+    "filescores": {
+        "CMakeLists.txt": 0
+    },
+    "subdirscores": {
+        "linux": 2.9406620801075296e-05
+    }
+}

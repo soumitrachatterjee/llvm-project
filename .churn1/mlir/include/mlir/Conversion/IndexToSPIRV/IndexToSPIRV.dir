@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/mlir/include/mlir/Conversion/IndexToSPIRV",
+    "score.sum": 6.383332098912591e-06,
+    "sha.latest": "5aee156b2ad2baea5d17e58ee3c5ef360d3ffaec",
+    "time.latest": 1717791719.6843686,
+    "formatted_time": "2024-06-07 15:21:59.684372",
+    "filescores": {
+        "IndexToSPIRV.h": 6.383332098912591e-06
+    },
+    "subdirscores": {}
+}

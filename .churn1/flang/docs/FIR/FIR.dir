@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/flang/docs/FIR",
+    "score.sum": 1.0066966690768784e-05,
+    "sha.latest": "1d60d54a8842b1bc1f8276a3a67ed2e99d5713dd",
+    "time.latest": 1717787856.3359745,
+    "formatted_time": "2024-06-07 14:17:36.335978",
+    "filescores": {
+        "CreateFIRLangRef.py": 6.135376336957302e-06,
+        "FIRLangRef_Header.md": 6.099602068851199e-06
+    },
+    "subdirscores": {}
+}

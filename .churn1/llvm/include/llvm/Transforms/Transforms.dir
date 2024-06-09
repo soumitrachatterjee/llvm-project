@@ -1,0 +1,26 @@
+{
+    "directory name": "llvm-project/llvm/include/llvm/Transforms",
+    "score.sum": 0.018922575339071306,
+    "sha.latest": "a6a6fca7911feab8325129ea57247303b3c8d558",
+    "time.latest": 1717826494.5229127,
+    "formatted_time": "2024-06-08 01:01:34.522913",
+    "filescores": {
+        "CFGuard.h": 6.099602068851199e-06,
+        "IPO.h": 0.0006029198025098969,
+        "Instrumentation.h": 0.0006916692502945491,
+        "ObjCARC.h": 4.166430741044698e-05,
+        "Scalar.h": 0.0013390938163527,
+        "Utils.h": 0.00011965738174889416
+    },
+    "subdirscores": {
+        "AggressiveInstCombine": 3.3841192109430635e-05,
+        "Coroutines": 4.393115750225341e-05,
+        "HipStdPar": 6.4992862040776705e-06,
+        "IPO": 0.004847132447852067,
+        "InstCombine": 0.0003191083399125315,
+        "Instrumentation": 0.0010164149545500568,
+        "Scalar": 0.002775234017673683,
+        "Utils": 0.007976378697329851,
+        "Vectorize": 0.0005092033461984513
+    }
+}

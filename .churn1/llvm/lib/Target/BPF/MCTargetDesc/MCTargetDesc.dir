@@ -1,0 +1,20 @@
+{
+    "directory name": "llvm-project/llvm/lib/Target/BPF/MCTargetDesc",
+    "score.sum": 0.00027583877143863767,
+    "sha.latest": "2460bf2facd1c0208ecda68c427a256710246dbb",
+    "time.latest": 1717853851.804547,
+    "formatted_time": "2024-06-08 08:37:31.804550",
+    "filescores": {
+        "BPFAsmBackend.cpp": 7.809194623783609e-05,
+        "BPFELFObjectWriter.cpp": 5.169832767177417e-05,
+        "BPFInstPrinter.cpp": 2.5567423350064505e-05,
+        "BPFInstPrinter.h": 1.0800220241468116e-05,
+        "BPFMCAsmInfo.h": 4.146627544475939e-05,
+        "BPFMCCodeEmitter.cpp": 6.449562799793066e-05,
+        "BPFMCFixups.h": 0,
+        "BPFMCTargetDesc.cpp": 7.835028820852154e-05,
+        "BPFMCTargetDesc.h": 5.229324110920199e-05,
+        "CMakeLists.txt": 1.7613279115882112e-05
+    },
+    "subdirscores": {}
+}

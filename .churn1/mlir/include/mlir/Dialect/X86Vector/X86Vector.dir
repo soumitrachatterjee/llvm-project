@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/mlir/include/mlir/Dialect/X86Vector",
+    "score.sum": 8.751355569144943e-05,
+    "sha.latest": "863c346209e27d22157fad21d0fd730e710a3441",
+    "time.latest": 1717798414.6629796,
+    "formatted_time": "2024-06-07 17:13:34.662983",
+    "filescores": {
+        "CMakeLists.txt": 6.1403211892806805e-06,
+        "Transforms.h": 2.9222849206493427e-05,
+        "X86Vector.td": 5.89225258446405e-05,
+        "X86VectorDialect.h": 2.0041749639580903e-05
+    },
+    "subdirscores": {}
+}

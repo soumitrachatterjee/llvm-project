@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/libc/src/string/memory_utils/generic",
+    "score.sum": 1.9659081122583497e-05,
+    "sha.latest": "27352e600aab6a50939db77a6eacc94a5057d66f",
+    "time.latest": 1717840373.6511104,
+    "formatted_time": "2024-06-08 04:52:53.651114",
+    "filescores": {
+        "aligned_access.h": 1.1263713576945385e-05,
+        "builtin.h": 0,
+        "byte_per_byte.h": 1.4251983308979144e-05
+    },
+    "subdirscores": {}
+}

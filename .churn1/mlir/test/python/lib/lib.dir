@@ -1,0 +1,16 @@
+{
+    "directory name": "llvm-project/mlir/test/python/lib",
+    "score.sum": 4.893566573277157e-05,
+    "sha.latest": "17ec364b1b338b6bee5a65a886d0fe75089e6bb9",
+    "time.latest": 1717834838.3268938,
+    "formatted_time": "2024-06-08 03:20:38.326897",
+    "filescores": {
+        "CMakeLists.txt": 6.099602068851199e-06,
+        "PythonTestCAPI.cpp": 1.8616600760524335e-05,
+        "PythonTestCAPI.h": 1.5458540815027466e-05,
+        "PythonTestDialect.cpp": 6.099602068851199e-06,
+        "PythonTestDialect.h": 1.9059803400242043e-05,
+        "PythonTestModule.cpp": 2.6216238220666962e-05
+    },
+    "subdirscores": {}
+}

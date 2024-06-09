@@ -1,0 +1,19 @@
+{
+    "directory name": "llvm-project/polly/lib",
+    "score.sum": 0.007636516372954105,
+    "sha.latest": "f33f66be7dc586a597437d7ce7619d87e8637209",
+    "time.latest": 1717809372.7305388,
+    "formatted_time": "2024-06-07 20:16:12.730539",
+    "filescores": {
+        "CMakeLists.txt": 0.0002807312633327065
+    },
+    "subdirscores": {
+        "Analysis": 0.003346124561566917,
+        "CodeGen": 0.002198997740290596,
+        "Exchange": 0.00031235427075528764,
+        "External": 0.00041184141912779413,
+        "Plugin": 0,
+        "Support": 0.0013302538486209838,
+        "Transform": 0.0010824721020360238
+    }
+}

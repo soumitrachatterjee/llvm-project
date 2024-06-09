@@ -1,0 +1,41 @@
+{
+    "directory name": "llvm-project/polly/include/polly",
+    "score.sum": 0.002911693659135968,
+    "sha.latest": "12ed2c90a105f29b9b2f6056d936f47534d31624",
+    "time.latest": 1717793496.0396304,
+    "formatted_time": "2024-06-07 15:51:36.039634",
+    "filescores": {
+        "Canonicalization.h": 2.6631456263083335e-05,
+        "CodePreparation.h": 7.992500011632273e-06,
+        "DeLICM.h": 2.2915683169450413e-05,
+        "DeadCodeElimination.h": 6.1047698610207746e-06,
+        "DependenceInfo.h": 6.873973579109493e-05,
+        "FlattenAlgo.h": 1.2948417312524604e-05,
+        "FlattenSchedule.h": 9.24112163076655e-06,
+        "ForwardOpTree.h": 2.382350008853202e-05,
+        "JSONExporter.h": 1.3820269766093647e-05,
+        "LinkAllPasses.h": 0.00017731689981517133,
+        "ManualOptimizer.h": 1.4304133004116202e-05,
+        "MatmulOptimizer.h": 6.099602068851199e-06,
+        "MaximalStaticExpansion.h": 0,
+        "Options.h": 6.099602068851199e-06,
+        "PolyhedralInfo.h": 2.1618279456690545e-05,
+        "PruneUnprofitable.h": 1.459383452089773e-05,
+        "RegisterPasses.h": 3.841747269448591e-05,
+        "ScheduleOptimizer.h": 0.00010196714870113042,
+        "ScheduleTreeTransform.h": 5.2582143563135113e-05,
+        "ScopBuilder.h": 0.00010023950300632179,
+        "ScopDetection.h": 0.0002656768588380246,
+        "ScopDetectionDiagnostic.h": 0.00010629366256951677,
+        "ScopGraphPrinter.h": 1.1371776135332588e-05,
+        "ScopInfo.h": 0.0012558820736469339,
+        "ScopPass.h": 0.00013106002186402506,
+        "Simplify.h": 3.292581263173774e-05,
+        "ZoneAlgo.h": 1.639817747711746e-05
+    },
+    "subdirscores": {
+        "CodeGen": 0.0006526589791149023,
+        "Config": 3.21823376906661e-05,
+        "Support": 0.0006032992579950899
+    }
+}

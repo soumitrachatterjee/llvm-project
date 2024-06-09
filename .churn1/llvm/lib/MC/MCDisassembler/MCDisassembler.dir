@@ -1,0 +1,17 @@
+{
+    "directory name": "llvm-project/llvm/lib/MC/MCDisassembler",
+    "score.sum": 0.00033626379466160356,
+    "sha.latest": "9468de48fcd413aa0895a78bd6f1aeb161b39294",
+    "time.latest": 1717839762.527258,
+    "formatted_time": "2024-06-08 04:42:42.527261",
+    "filescores": {
+        "CMakeLists.txt": 2.609765463035968e-05,
+        "Disassembler.cpp": 0.00014776969503374368,
+        "Disassembler.h": 3.489469366373556e-05,
+        "MCDisassembler.cpp": 0.00010467739418417493,
+        "MCExternalSymbolizer.cpp": 1.8801000686627108e-05,
+        "MCRelocationInfo.cpp": 2.800154023256434e-05,
+        "MCSymbolizer.cpp": 8.22437966300635e-06
+    },
+    "subdirscores": {}
+}

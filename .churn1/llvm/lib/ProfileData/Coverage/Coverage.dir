@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/llvm/lib/ProfileData/Coverage",
+    "score.sum": 0.0006352596266863302,
+    "sha.latest": "512a8a78a7f3bffc41cd7c00788eb099519f4625",
+    "time.latest": 1717842228.2646239,
+    "formatted_time": "2024-06-08 05:23:48.264627",
+    "filescores": {
+        "CMakeLists.txt": 1.3541833623284983e-05,
+        "CoverageMapping.cpp": 0.0004212262054033834,
+        "CoverageMappingReader.cpp": 0.00032509824683870124,
+        "CoverageMappingWriter.cpp": 0.00012590992030041476
+    },
+    "subdirscores": {}
+}

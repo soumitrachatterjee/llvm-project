@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/mlir/include/mlir/Dialect/ControlFlow/Transforms",
+    "score.sum": 1.742022928848816e-05,
+    "sha.latest": "8160bce969c7c748e86ae7775e85c66f0b01f509",
+    "time.latest": 1717793931.815454,
+    "formatted_time": "2024-06-07 15:58:51.815457",
+    "filescores": {
+        "BufferDeallocationOpInterfaceImpl.h": 7.1112627476019665e-06,
+        "BufferizableOpInterfaceImpl.h": 0
+    },
+    "subdirscores": {}
+}

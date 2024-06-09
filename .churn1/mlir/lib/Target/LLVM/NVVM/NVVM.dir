@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/mlir/lib/Target/LLVM/NVVM",
+    "score.sum": 3.491397939366401e-05,
+    "sha.latest": "099045a0456a77c38aed504d0b50d44c4d3df6ff",
+    "time.latest": 1717811695.4068575,
+    "formatted_time": "2024-06-07 20:54:55.406861",
+    "filescores": {
+        "Target.cpp": 3.491397939366401e-05
+    },
+    "subdirscores": {}
+}

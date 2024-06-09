@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/libc/test/integration/startup",
+    "score.sum": 6.879674476620754e-05,
+    "sha.latest": "94166c6ea1574372521f54d72522b81cc85cdbb6",
+    "time.latest": 1717844706.6082437,
+    "formatted_time": "2024-06-08 06:05:06.608244",
+    "filescores": {
+        "CMakeLists.txt": 0
+    },
+    "subdirscores": {
+        "gpu": 3.817319985566664e-05,
+        "linux": 2.289542867914228e-05
+    }
+}

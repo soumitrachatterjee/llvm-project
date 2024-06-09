@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/llvm/lib/Target/ARM/Disassembler",
+    "score.sum": 0.0008197373176758359,
+    "sha.latest": "b8885926f8115d5fe2c06907e066cae061d5f230",
+    "time.latest": 1717851735.5753791,
+    "formatted_time": "2024-06-08 08:02:15.575382",
+    "filescores": {
+        "ARMDisassembler.cpp": 0.000707401204624711,
+        "CMakeLists.txt": 4.018444346748793e-05
+    },
+    "subdirscores": {}
+}

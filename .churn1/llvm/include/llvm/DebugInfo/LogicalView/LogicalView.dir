@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/llvm/include/llvm/DebugInfo/LogicalView",
+    "score.sum": 5.4450317591058285e-05,
+    "sha.latest": "7b7d2dd7e3e42c941338edcd5dbc2ff0e5426c28",
+    "time.latest": 1717812923.7451117,
+    "formatted_time": "2024-06-07 21:15:23.745113",
+    "filescores": {
+        "LVReaderHandler.h": 1.1656614971914048e-05
+    },
+    "subdirscores": {
+        "Core": 2.9336797299047644e-05,
+        "Readers": 3.5330410296402534e-05
+    }
+}

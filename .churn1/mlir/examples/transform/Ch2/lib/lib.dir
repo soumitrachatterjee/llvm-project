@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/mlir/examples/transform/Ch2/lib",
+    "score.sum": 8.504654592415e-06,
+    "sha.latest": "ec6da0652282d29569faa628d2180909fa588906",
+    "time.latest": 1717790000.4781895,
+    "formatted_time": "2024-06-07 14:53:20.478194",
+    "filescores": {
+        "CMakeLists.txt": 1.1094167096350026e-05,
+        "MyExtension.cpp": 6.950368905916293e-06
+    },
+    "subdirscores": {}
+}

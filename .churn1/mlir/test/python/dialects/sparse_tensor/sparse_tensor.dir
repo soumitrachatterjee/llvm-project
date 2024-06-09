@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/mlir/test/python/dialects/sparse_tensor",
+    "score.sum": 9.597771897208597e-05,
+    "sha.latest": "56d58295dd492b8e8a011fa60798d9be4f36ec3c",
+    "time.latest": 1717834399.5539322,
+    "formatted_time": "2024-06-08 03:13:19.553936",
+    "filescores": {
+        "dialect.py": 8.812868542752518e-05,
+        "passes.py": 1.052841272654158e-05
+    },
+    "subdirscores": {}
+}

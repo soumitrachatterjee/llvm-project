@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/libclc/amdgcn/lib/cl_khr_int64_extended_atomics",
+    "score.sum": 1.5868113982686463e-05,
+    "sha.latest": "3a7e8e77e6826c591e923fcfbcb1acccc2aeb305",
+    "time.latest": 1717823415.6014023,
+    "formatted_time": "2024-06-08 00:10:15.601406",
+    "filescores": {
+        "minmax_helpers.ll": 1.5868113982686463e-05
+    },
+    "subdirscores": {}
+}

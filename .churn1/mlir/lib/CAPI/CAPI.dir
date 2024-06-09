@@ -1,0 +1,21 @@
+{
+    "directory name": "llvm-project/mlir/lib/CAPI",
+    "score.sum": 0.0008009199108238318,
+    "sha.latest": "3714f937b835c06c8c32ca4f3f61ba2317db2296",
+    "time.latest": 1717802347.712611,
+    "formatted_time": "2024-06-07 18:19:07.712612",
+    "filescores": {
+        "CMakeLists.txt": 5.974980583817058e-05
+    },
+    "subdirscores": {
+        "Conversion": 9.190846215823076e-06,
+        "Debug": 6.099602068851199e-06,
+        "Dialect": 0.00021268786443139352,
+        "ExecutionEngine": 4.6141348408343176e-05,
+        "IR": 0.0004562259028234212,
+        "Interfaces": 4.308401052207723e-05,
+        "RegisterEverything": 1.496139698151688e-05,
+        "Target": 2.1370546000285715e-05,
+        "Transforms": 7.311511551905232e-06
+    }
+}

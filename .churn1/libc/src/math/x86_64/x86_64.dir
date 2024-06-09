@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/libc/src/math/x86_64",
+    "score.sum": 1.5586503455239388e-05,
+    "sha.latest": "b6bc9d72f65a5086f310f321e969d96e9a559e75",
+    "time.latest": 1717835201.3128037,
+    "formatted_time": "2024-06-08 03:26:41.312807",
+    "filescores": {
+        "CMakeLists.txt": 1.9005690616536854e-05,
+        "cos.cpp": 9.878207388884151e-06,
+        "sin.cpp": 9.878207388884151e-06,
+        "tan.cpp": 9.878207388884151e-06
+    },
+    "subdirscores": {}
+}

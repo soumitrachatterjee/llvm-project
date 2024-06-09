@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/mlir/lib/Conversion/SPIRVToLLVM",
+    "score.sum": 0.0002630403289224071,
+    "sha.latest": "c19436eec1c236cbe622c04e33f35f1f9478fa15",
+    "time.latest": 1717803856.762467,
+    "formatted_time": "2024-06-07 18:44:16.762471",
+    "filescores": {
+        "CMakeLists.txt": 3.124222679420097e-05,
+        "ConvertLaunchFuncToLLVMCalls.cpp": 0.00010055306533616772,
+        "SPIRVToLLVM.cpp": 0.00013267964062743624,
+        "SPIRVToLLVMPass.cpp": 3.8272356658475054e-05
+    },
+    "subdirscores": {}
+}

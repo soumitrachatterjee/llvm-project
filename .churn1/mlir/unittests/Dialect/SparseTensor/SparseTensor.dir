@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/mlir/unittests/Dialect/SparseTensor",
+    "score.sum": 0.00012921480129338811,
+    "sha.latest": "d82e93e7f129d9e8b72570efdf4a15d6ec3d4336",
+    "time.latest": 1717836177.256447,
+    "formatted_time": "2024-06-08 03:42:57.256451",
+    "filescores": {
+        "CMakeLists.txt": 6.2658310373057256e-06,
+        "MergerTest.cpp": 0.00012921480129338811
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,17 @@
+{
+    "directory name": "llvm-project/mlir/include/mlir/Dialect/Affine/IR",
+    "score.sum": 0.0003656380097705948,
+    "sha.latest": "fe8a62c46365f5ef0c15df2265bbf0026d0a4047",
+    "time.latest": 1717792875.4947255,
+    "formatted_time": "2024-06-07 15:41:15.494729",
+    "filescores": {
+        "AffineMemoryOpInterfaces.h": 1.0749219711519869e-05,
+        "AffineMemoryOpInterfaces.td": 2.145217684517391e-05,
+        "AffineOps.h": 0.00015829842330135392,
+        "AffineOps.td": 0.00024994805592839776,
+        "AffineValueMap.h": 1.0529824546007625e-05,
+        "CMakeLists.txt": 8.340483870636407e-06,
+        "ValueBoundsOpInterfaceImpl.h": 1.210654511107337e-05
+    },
+    "subdirscores": {}
+}

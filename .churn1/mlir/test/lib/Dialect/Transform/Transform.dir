@@ -1,0 +1,18 @@
+{
+    "directory name": "llvm-project/mlir/test/lib/Dialect/Transform",
+    "score.sum": 0.00024350886074898817,
+    "sha.latest": "8ec28af8eaff5acd0df3e53340159c034f08533d",
+    "time.latest": 1717831937.9961178,
+    "formatted_time": "2024-06-08 02:32:17.996121",
+    "filescores": {
+        "CMakeLists.txt": 2.386938489099309e-05,
+        "TestTransformDialectExtension.cpp": 0.00016051065528396743,
+        "TestTransformDialectExtension.h": 3.140914614832192e-05,
+        "TestTransformDialectExtension.td": 0.0001286581353839827,
+        "TestTransformDialectInterpreter.cpp": 4.498192516877978e-05,
+        "TestTransformStateExtension.cpp": 0,
+        "TestTransformStateExtension.h": 6.099602068851199e-06,
+        "lit.local.cfg": 6.099602068851199e-06
+    },
+    "subdirscores": {}
+}

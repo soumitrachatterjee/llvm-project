@@ -1,0 +1,25 @@
+{
+    "directory name": "llvm-project/polly/test/ScopDetectionDiagnostics",
+    "score.sum": 9.631278817841856e-05,
+    "sha.latest": "b5a273a1cfe6f509f8d2541e04d9186438f33348",
+    "time.latest": 1717815554.9909294,
+    "formatted_time": "2024-06-07 21:59:14.990932",
+    "filescores": {
+        "ReportAlias-01.ll": 2.30870486736198e-05,
+        "ReportEntry.ll": 1.1335262863580331e-05,
+        "ReportFuncCall-01.ll": 2.3032186225821008e-05,
+        "ReportIrreducibleRegion.ll": 2.9014201465949138e-05,
+        "ReportIrreducibleRegionWithoutDebugLoc.ll": 1.133612125852144e-05,
+        "ReportLoopBound-01.ll": 4.347564169703143e-05,
+        "ReportLoopHasNoExit.ll": 2.8626793558787082e-05,
+        "ReportMultipleNonAffineAccesses.ll": 2.6340791981812476e-05,
+        "ReportNonAffineAccess-01.ll": 3.6261337405930815e-05,
+        "ReportUnprofitable.ll": 3.600715217479891e-05,
+        "ReportUnreachableInExit.ll": 1.1319912368526747e-05,
+        "ReportVariantBasePtr-01.ll": 4.688251617255743e-05,
+        "loop_has_multiple_exits.ll": 1.1122099883748157e-05,
+        "loop_partially_in_scop-2.ll": 1.126295851277773e-05,
+        "loop_partially_in_scop.ll": 6.099602068851199e-06
+    },
+    "subdirscores": {}
+}

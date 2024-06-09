@@ -1,0 +1,34 @@
+{
+    "directory name": "llvm-project/libclc",
+    "score.sum": 0.001533974789049626,
+    "sha.latest": "262735bbcc22f216a688b934ca9ff50b427c9dc1",
+    "time.latest": 1717832119.3015902,
+    "formatted_time": "2024-06-08 02:35:19.301591",
+    "filescores": {
+        "CMakeLists.txt": 0.00013788263759339988,
+        "CREDITS.TXT": 0,
+        "LICENSE.TXT": 3.020104978499962e-05,
+        "README.TXT": 7.596759919043768e-06,
+        "check_external_calls.sh": 6.128932328522386e-06,
+        "compile-test.sh": 1.1300758898436247e-05,
+        "libclc.pc.in": 6.099602068851199e-06
+    },
+    "subdirscores": {
+        "amdgcn-amdhsa": null,
+        "amdgcn-mesa3d": 0,
+        "amdgcn": 7.381256124424887e-05,
+        "amdgpu": 9.601294917985975e-05,
+        "clspv": 1.700702729240571e-05,
+        "clspv64": 0,
+        "cmake": 1.8298806206553597e-05,
+        "generic": 0.0008700197991085978,
+        "ptx-nvidiacl": 2.1554702773269508e-05,
+        "ptx": 3.321600358012156e-05,
+        "r600": 0.00011963756758152764,
+        "spirv": 1.5999828717767228e-05,
+        "spirv64": 1.5999828717767228e-05,
+        "test": 2.321697784940458e-05,
+        "utils": 6.740608703218797e-05,
+        "www": 1.9304952034739584e-05
+    }
+}

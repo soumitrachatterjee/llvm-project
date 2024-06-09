@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/mlir/include/mlir/Target/LLVMIR/Dialect/X86Vector",
+    "score.sum": 0,
+    "sha.latest": "8508a63b887e29d1c699f1a9cdf8b2a6164a6f0a",
+    "time.latest": 1717800433.6538968,
+    "formatted_time": "2024-06-07 17:47:13.653901",
+    "filescores": {
+        "X86VectorToLLVMIRTranslation.h": 0
+    },
+    "subdirscores": {}
+}

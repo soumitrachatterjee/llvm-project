@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/llvm/docs/TableGen",
+    "score.sum": 0.0005387873353299614,
+    "sha.latest": "8ae048507086cc3a2ceb6974506d3048c516a726",
+    "time.latest": 1717802352.0331836,
+    "formatted_time": "2024-06-07 18:19:12.033187",
+    "filescores": {
+        "BackEnds.rst": 5.370552131493488e-05,
+        "BackGuide.rst": 1.3880619232822383e-05,
+        "ProgRef.rst": 0.0001385168763785025,
+        "index.rst": 5.4174157379041473e-05
+    },
+    "subdirscores": {}
+}

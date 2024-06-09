@@ -1,0 +1,20 @@
+{
+    "directory name": "llvm-project/mlir/test/Dialect/Mesh",
+    "score.sum": 7.02544142859805e-05,
+    "sha.latest": "abfac563f5b5a123e4bf773c3a09777e6fc4f50c",
+    "time.latest": 1717820976.927488,
+    "formatted_time": "2024-06-07 23:29:36.927492",
+    "filescores": {
+        "all-scatter-op-lowering.mlir": 0,
+        "canonicalization.mlir": 1.7571540023121945e-05,
+        "folding.mlir": 8.19596732223041e-06,
+        "invalid.mlir": 4.1679575318203754e-05,
+        "ops.mlir": 3.754374942080728e-05,
+        "process-multi-index-op-lowering.mlir": 9.196866027704857e-06,
+        "resharding-spmdization.mlir": 1.7426550615924158e-05,
+        "sharding-propagation.mlir": 1.5382861201468184e-05,
+        "simplifications.mlir": 1.0706979186208965e-05,
+        "spmdization.mlir": 1.0956519702692219e-05
+    },
+    "subdirscores": {}
+}

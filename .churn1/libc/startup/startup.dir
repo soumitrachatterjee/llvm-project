@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/libc/startup",
+    "score.sum": 0.0001980231928600822,
+    "sha.latest": "69c0b2febe01108f50db6e8ed21cd8b2e6088caf",
+    "time.latest": 1717843827.0945756,
+    "formatted_time": "2024-06-08 05:50:27.094576",
+    "filescores": {
+        "CMakeLists.txt": 0
+    },
+    "subdirscores": {
+        "gpu": 8.080492291446681e-05,
+        "linux": 0.00010178303303436546
+    }
+}

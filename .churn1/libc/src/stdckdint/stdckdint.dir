@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/libc/src/stdckdint",
+    "score.sum": 0,
+    "sha.latest": "96c5b8cbd19b172b257cb3401aeba666184f7a2a",
+    "time.latest": 1717837778.5778732,
+    "formatted_time": "2024-06-08 04:09:38.577877",
+    "filescores": {
+        "CMakeLists.txt": 0
+    },
+    "subdirscores": {}
+}

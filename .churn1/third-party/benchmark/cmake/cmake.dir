@@ -1,0 +1,27 @@
+{
+    "directory name": "llvm-project/third-party/benchmark/cmake",
+    "score.sum": 1.8654587000926627e-05,
+    "sha.latest": "a5b797172cc902db166e9a695716fb81405f86e4",
+    "time.latest": 1717788508.0466373,
+    "formatted_time": "2024-06-07 14:28:28.046641",
+    "filescores": {
+        "AddCXXCompilerFlag.cmake": 6.2046364836785735e-06,
+        "CXXFeatureCheck.cmake": 1.8455952941623095e-05,
+        "Config.cmake.in": 1.0942184035056081e-05,
+        "GetGitVersion.cmake": 1.8455952941623095e-05,
+        "GoogleTest.cmake": 1.8654587000926627e-05,
+        "GoogleTest.cmake.in": 1.0942184035056081e-05,
+        "benchmark.pc.in": 1.8455952941623095e-05,
+        "gnu_posix_regex.cpp": 6.2046364836785735e-06,
+        "llvm-toolchain.cmake": 6.2046364836785735e-06,
+        "posix_regex.cpp": 6.2046364836785735e-06,
+        "pthread_affinity.cpp": 0,
+        "split_list.cmake": 6.2046364836785735e-06,
+        "std_regex.cpp": 6.2046364836785735e-06,
+        "steady_clock.cpp": 6.2046364836785735e-06,
+        "thread_safety_attributes.cpp": 6.2046364836785735e-06
+    },
+    "subdirscores": {
+        "Modules": 1.829823525563355e-05
+    }
+}

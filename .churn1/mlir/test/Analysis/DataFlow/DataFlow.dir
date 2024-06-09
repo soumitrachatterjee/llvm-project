@@ -1,0 +1,16 @@
+{
+    "directory name": "llvm-project/mlir/test/Analysis/DataFlow",
+    "score.sum": 6.48159181882659e-05,
+    "sha.latest": "2bd6642533ce858c07f1c412e1b8a669c17afb54",
+    "time.latest": 1717814492.312385,
+    "formatted_time": "2024-06-07 21:41:32.312389",
+    "filescores": {
+        "test-dead-code-analysis.mlir": 1.3902746652248985e-05,
+        "test-last-modified-callgraph.mlir": 1.5713144392360705e-05,
+        "test-last-modified.mlir": 1.1425638450409375e-05,
+        "test-liveness-analysis.mlir": 8.267329261625105e-06,
+        "test-next-access.mlir": 1.7809022322532215e-05,
+        "test-written-to.mlir": 1.4535505829926363e-05
+    },
+    "subdirscores": {}
+}

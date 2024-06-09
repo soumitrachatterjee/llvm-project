@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/mlir/unittests/Bytecode",
+    "score.sum": 3.0706373743328434e-05,
+    "sha.latest": "dd5696cdefaff2b3ee9c4de3053e31630863588c",
+    "time.latest": 1717835883.5176394,
+    "formatted_time": "2024-06-08 03:38:03.517643",
+    "filescores": {
+        "BytecodeTest.cpp": 3.0706373743328434e-05,
+        "CMakeLists.txt": 0
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,20 @@
+{
+    "directory name": "llvm-project/llvm/lib/Target/NVPTX/MCTargetDesc",
+    "score.sum": 0.00030117252036221046,
+    "sha.latest": "cbafb6f2f5c99474164dcc725820cbbeb2e02e14",
+    "time.latest": 1717861918.8040812,
+    "formatted_time": "2024-06-08 10:51:58.804085",
+    "filescores": {
+        "CMakeLists.txt": 3.1471005046939616e-05,
+        "NVPTXBaseInfo.h": 2.362598615645998e-05,
+        "NVPTXInstPrinter.cpp": 2.8317220325779146e-05,
+        "NVPTXInstPrinter.h": 1.5124852236396369e-05,
+        "NVPTXMCAsmInfo.cpp": 0.00011892919118557987,
+        "NVPTXMCAsmInfo.h": 5.0238069527938205e-05,
+        "NVPTXMCTargetDesc.cpp": 0.00010491108327862747,
+        "NVPTXMCTargetDesc.h": 3.700266553432649e-05,
+        "NVPTXTargetStreamer.cpp": 3.297451707362816e-05,
+        "NVPTXTargetStreamer.h": 1.3392403919606241e-05
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/mlir/include/mlir/Conversion/MemRefToSPIRV",
+    "score.sum": 4.064784692778216e-05,
+    "sha.latest": "b91bba89edfb25d011e1f2366cda5dec605c87f6",
+    "time.latest": 1717791939.3800275,
+    "formatted_time": "2024-06-07 15:25:39.380031",
+    "filescores": {
+        "MemRefToSPIRV.h": 2.6007038233059415e-05,
+        "MemRefToSPIRVPass.h": 3.9406824190737416e-05
+    },
+    "subdirscores": {}
+}

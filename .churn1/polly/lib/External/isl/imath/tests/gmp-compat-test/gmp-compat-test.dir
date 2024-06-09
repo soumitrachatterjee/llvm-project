@@ -1,0 +1,20 @@
+{
+    "directory name": "llvm-project/polly/lib/External/isl/imath/tests/gmp-compat-test",
+    "score.sum": 1.1236272403647157e-05,
+    "sha.latest": "f98ee40f4b5d7474fc67e82824bf6abbaedb7b1c",
+    "time.latest": 1717794756.9913857,
+    "formatted_time": "2024-06-07 16:12:36.991389",
+    "filescores": {
+        "Makefile": 0,
+        "README": 6.447848498601845e-06,
+        "genctest.py": 1.1236272403647157e-05,
+        "gendata.py": 1.1236272403647157e-05,
+        "genpytest.py": 1.1236272403647157e-05,
+        "gmp_custom_test.c": 6.447848498601845e-06,
+        "gmpapi.py": 1.1236272403647157e-05,
+        "imath_custom_test.c": 6.447848498601845e-06,
+        "runtest": 6.447848498601845e-06,
+        "runtest.py": 1.1236272403647157e-05
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,28 @@
+{
+    "directory name": "llvm-project/libclc/amdgpu/lib/math",
+    "score.sum": 7.702481785794623e-05,
+    "sha.latest": "70a270da5f4a27b670cba1cb8148fcce5c094f4f",
+    "time.latest": 1717823887.3411431,
+    "formatted_time": "2024-06-08 00:18:07.341148",
+    "filescores": {
+        "half_exp.cl": 0,
+        "half_exp10.cl": 0,
+        "half_exp2.cl": 0,
+        "half_log.cl": 0,
+        "half_log10.cl": 0,
+        "half_log2.cl": 0,
+        "half_native_unary.inc": 0,
+        "half_recip.cl": 0,
+        "half_rsqrt.cl": 0,
+        "half_sqrt.cl": 0,
+        "native_exp.cl": 0,
+        "native_exp.inc": 0,
+        "native_log.cl": 0,
+        "native_log.inc": 0,
+        "native_log10.cl": 0,
+        "native_log10.inc": 0,
+        "nextafter.cl": 1.2106850111983108e-05,
+        "sqrt.cl": 7.266044278261211e-06
+    },
+    "subdirscores": {}
+}

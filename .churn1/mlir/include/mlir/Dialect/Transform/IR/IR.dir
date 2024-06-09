@@ -1,0 +1,24 @@
+{
+    "directory name": "llvm-project/mlir/include/mlir/Dialect/Transform/IR",
+    "score.sum": 0.0005730895851086991,
+    "sha.latest": "c1029b6a9b423320ec8f0d1cde24d8f4d8139f63",
+    "time.latest": 1717797855.790374,
+    "formatted_time": "2024-06-07 17:04:15.790378",
+    "filescores": {
+        "CMakeLists.txt": 1.7431099312723548e-05,
+        "MatchInterfaces.h": 1.6421483620430945e-05,
+        "MatchInterfaces.td": 6.136396900251256e-06,
+        "TransformAttrs.h": 0,
+        "TransformAttrs.td": 6.099602068851199e-06,
+        "TransformDialect.h": 4.104322487220152e-05,
+        "TransformDialect.td": 9.15850226055601e-05,
+        "TransformInterfaces.h": 0.0002246149378613631,
+        "TransformInterfaces.td": 7.988773499276912e-05,
+        "TransformOps.h": 0.00011850356994825535,
+        "TransformOps.td": 0.00025639061561165606,
+        "TransformTypes.h": 6.099602068851199e-06,
+        "TransformTypes.td": 2.6324968112528685e-05,
+        "Utils.h": 0
+    },
+    "subdirscores": {}
+}

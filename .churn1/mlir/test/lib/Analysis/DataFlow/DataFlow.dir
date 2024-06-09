@@ -1,0 +1,16 @@
+{
+    "directory name": "llvm-project/mlir/test/lib/Analysis/DataFlow",
+    "score.sum": 7.343368206762235e-05,
+    "sha.latest": "32a4e3fccaf304c8d541bdefdb1a7ef829f84c1c",
+    "time.latest": 1717830657.270502,
+    "formatted_time": "2024-06-08 02:10:57.270506",
+    "filescores": {
+        "TestDeadCodeAnalysis.cpp": 6.841730532666925e-06,
+        "TestDenseBackwardDataFlowAnalysis.cpp": 1.2106133057513013e-05,
+        "TestDenseDataFlowAnalysis.h": 6.701212284011725e-06,
+        "TestDenseForwardDataFlowAnalysis.cpp": 8.169175638653072e-06,
+        "TestLivenessAnalysis.cpp": 0,
+        "TestSparseBackwardDataFlowAnalysis.cpp": 6.745626871312414e-06
+    },
+    "subdirscores": {}
+}

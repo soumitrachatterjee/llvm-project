@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/mlir/include/mlir-c/Bindings",
+    "score.sum": 3.774026435286439e-05,
+    "sha.latest": "7c850867b9ef4427375da6d83c34d0b9c944fcb8",
+    "time.latest": 1717790252.9253511,
+    "formatted_time": "2024-06-07 14:57:32.925352",
+    "filescores": {},
+    "subdirscores": {
+        "Python": 3.774026435286439e-05
+    }
+}

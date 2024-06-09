@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/libclc/generic/include/clc/float",
+    "score.sum": 2.0471067005213746e-05,
+    "sha.latest": "3a7051d9c28e3dd6da5048d91b74fad830728e93",
+    "time.latest": 1717825184.2507503,
+    "formatted_time": "2024-06-08 00:39:44.250754",
+    "filescores": {
+        "definitions.h": 2.0471067005213746e-05
+    },
+    "subdirscores": {}
+}

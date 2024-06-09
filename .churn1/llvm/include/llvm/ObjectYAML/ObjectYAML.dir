@@ -1,0 +1,29 @@
+{
+    "directory name": "llvm-project/llvm/include/llvm/ObjectYAML",
+    "score.sum": 0.0009963589128847137,
+    "sha.latest": "50136ca11f62050b34876a920fcd87d2aefccfdb",
+    "time.latest": 1717820066.654229,
+    "formatted_time": "2024-06-07 23:14:26.654232",
+    "filescores": {
+        "ArchiveYAML.h": 6.099602068851199e-06,
+        "COFFYAML.h": 3.7992773394156874e-05,
+        "CodeViewYAMLDebugSections.h": 8.007902822284054e-06,
+        "CodeViewYAMLSymbols.h": 6.432230132695593e-06,
+        "CodeViewYAMLTypeHashing.h": 9.824129409686903e-06,
+        "CodeViewYAMLTypes.h": 1.6404390336284258e-05,
+        "DWARFEmitter.h": 5.887451989100737e-05,
+        "DWARFYAML.h": 0.0001730786446058654,
+        "DXContainerYAML.h": 4.6943706434781035e-05,
+        "ELFYAML.h": 0.00038554398933255427,
+        "GOFFYAML.h": 0,
+        "MachOYAML.h": 8.000425657010276e-05,
+        "MinidumpYAML.h": 2.5878629806288815e-05,
+        "ObjectYAML.h": 2.9208335638410347e-05,
+        "OffloadYAML.h": 8.223498311765279e-06,
+        "WasmYAML.h": 9.383122476767308e-05,
+        "XCOFFYAML.h": 4.2207475522025006e-05,
+        "YAML.h": 2.4716112177526672e-05,
+        "yaml2obj.h": 2.2967044335957196e-05
+    },
+    "subdirscores": {}
+}

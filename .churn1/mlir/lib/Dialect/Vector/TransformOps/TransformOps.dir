@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/mlir/lib/Dialect/Vector/TransformOps",
+    "score.sum": 5.433516560294814e-05,
+    "sha.latest": "a1a68603145a39e6abdd35bf7a01535eb53826b1",
+    "time.latest": 1717810175.2890048,
+    "formatted_time": "2024-06-07 20:29:35.289008",
+    "filescores": {
+        "CMakeLists.txt": 8.930198305642338e-06,
+        "VectorTransformOps.cpp": 5.433516560294814e-05
+    },
+    "subdirscores": {}
+}

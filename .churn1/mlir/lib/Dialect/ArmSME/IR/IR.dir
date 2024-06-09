@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/mlir/lib/Dialect/ArmSME/IR",
+    "score.sum": 3.828852921472234e-05,
+    "sha.latest": "042800a4dd79375ec0895c8959a43c86149232f3",
+    "time.latest": 1717805261.745331,
+    "formatted_time": "2024-06-07 19:07:41.745335",
+    "filescores": {
+        "ArmSME.cpp": 2.237525419310273e-05,
+        "CMakeLists.txt": 2.3503984226722724e-05,
+        "Utils.cpp": 1.5548667554768995e-05
+    },
+    "subdirscores": {}
+}

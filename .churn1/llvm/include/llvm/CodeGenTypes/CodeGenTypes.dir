@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/llvm/include/llvm/CodeGenTypes",
+    "score.sum": 6.099602068851199e-06,
+    "sha.latest": "d57515bd107bc76df5a042ffee2b7dc6125ffef1",
+    "time.latest": 1717811157.3327422,
+    "formatted_time": "2024-06-07 20:45:57.332745",
+    "filescores": {
+        "LowLevelType.h": 6.099602068851199e-06,
+        "MachineValueType.h": 0
+    },
+    "subdirscores": {}
+}

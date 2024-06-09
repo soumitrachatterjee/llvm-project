@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/mlir/lib/Dialect/Arith/Utils",
+    "score.sum": 3.275343109171322e-05,
+    "sha.latest": "dc3258c617420e83caff63c93d548e0923b10791",
+    "time.latest": 1717805148.9949253,
+    "formatted_time": "2024-06-07 19:05:48.994929",
+    "filescores": {
+        "CMakeLists.txt": 6.099602068851199e-06,
+        "Utils.cpp": 3.275343109171322e-05
+    },
+    "subdirscores": {}
+}

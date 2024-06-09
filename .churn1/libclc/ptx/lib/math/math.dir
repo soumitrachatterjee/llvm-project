@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/libclc/ptx/lib/math",
+    "score.sum": 0,
+    "sha.latest": "80bb52ae750f1d9f5e82e40c61a1000d3d38eb42",
+    "time.latest": 1717831389.5534685,
+    "formatted_time": "2024-06-08 02:23:09.553471",
+    "filescores": {
+        "nextafter.cl": 0
+    },
+    "subdirscores": {}
+}

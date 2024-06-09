@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/mlir/lib/Dialect/Func/TransformOps",
+    "score.sum": 6.099602068851199e-06,
+    "sha.latest": "42b160356fe5d3b41bf07c428d0142d3721b1d44",
+    "time.latest": 1717806107.1537905,
+    "formatted_time": "2024-06-07 19:21:47.153794",
+    "filescores": {
+        "CMakeLists.txt": 0,
+        "FuncTransformOps.cpp": 6.099602068851199e-06
+    },
+    "subdirscores": {}
+}

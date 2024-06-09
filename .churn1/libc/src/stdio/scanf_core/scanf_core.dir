@@ -1,0 +1,31 @@
+{
+    "directory name": "llvm-project/libc/src/stdio/scanf_core",
+    "score.sum": 5.223512037862215e-05,
+    "sha.latest": "69c0b2febe01108f50db6e8ed21cd8b2e6088caf",
+    "time.latest": 1717839383.8590589,
+    "formatted_time": "2024-06-08 04:36:23.859062",
+    "filescores": {
+        "CMakeLists.txt": 2.2993985986559283e-05,
+        "converter.cpp": 1.303003659247214e-05,
+        "converter.h": 6.099602068851199e-06,
+        "converter_utils.h": 1.1239652070056019e-05,
+        "core_structs.h": 1.2309823223623013e-05,
+        "current_pos_converter.h": 1.0612863212242431e-05,
+        "float_converter.cpp": 1.0238576124680785e-05,
+        "float_converter.h": 6.099602068851199e-06,
+        "int_converter.cpp": 8.719576526867829e-06,
+        "int_converter.h": 6.099602068851199e-06,
+        "parser.h": 2.312721062147388e-05,
+        "ptr_converter.cpp": 6.099602068851199e-06,
+        "ptr_converter.h": 6.099602068851199e-06,
+        "reader.cpp": 1.2811631963442804e-05,
+        "reader.h": 1.6224911960340776e-05,
+        "scanf_config.h": 6.099602068851199e-06,
+        "scanf_main.cpp": 2.0321846278955185e-05,
+        "scanf_main.h": 6.099602068851199e-06,
+        "string_converter.cpp": 6.099602068851199e-06,
+        "string_converter.h": 6.099602068851199e-06,
+        "vfscanf_internal.h": 1.8219355239503252e-05
+    },
+    "subdirscores": {}
+}

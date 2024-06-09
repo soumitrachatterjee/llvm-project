@@ -1,0 +1,20 @@
+{
+    "directory name": "llvm-project/mlir/docs/includes/img",
+    "score.sum": 2.1713046837839095e-05,
+    "sha.latest": "ace01605e04d094c243b0cad873e8919b80a0ced",
+    "time.latest": 1717788659.2844822,
+    "formatted_time": "2024-06-07 14:30:59.284486",
+    "filescores": {
+        "DefUseChains.svg": 6.099602068851199e-06,
+        "Use-list.svg": 6.099602068851199e-06,
+        "branch_example_post_move.svg": 1.0621141533970483e-05,
+        "branch_example_pre_move.svg": 1.0621141533970483e-05,
+        "index-map.svg": 0,
+        "mlir-lsp-server-server_diagram.svg": 0,
+        "nested_branch_example_post_move.svg": 6.099602068851199e-06,
+        "nested_branch_example_pre_move.svg": 6.099602068851199e-06,
+        "region_branch_example_pre_move.svg": 0,
+        "view-operation.svg": 0
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/llvm/lib/Target/Xtensa/Disassembler",
+    "score.sum": 6.099602068851199e-06,
+    "sha.latest": "432caca39a62f4d20b8f38c139a3a462ea2a7f77",
+    "time.latest": 1717873406.233413,
+    "formatted_time": "2024-06-08 14:03:26.233416",
+    "filescores": {
+        "CMakeLists.txt": 0,
+        "XtensaDisassembler.cpp": 6.099602068851199e-06
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,31 @@
+{
+    "directory name": "llvm-project/libclc/generic/lib/integer",
+    "score.sum": 3.7408284013854046e-05,
+    "sha.latest": "37a3de1e2eedf848b8442217ef3790436f69a7db",
+    "time.latest": 1717829017.5049794,
+    "formatted_time": "2024-06-08 01:43:37.504983",
+    "filescores": {
+        "abs.cl": 6.099602068851199e-06,
+        "abs.inc": 6.099602068851199e-06,
+        "abs_diff.cl": 6.099602068851199e-06,
+        "abs_diff.inc": 7.651015770464506e-06,
+        "add_sat.cl": 9.325820938745976e-06,
+        "clz.cl": 7.5184047188870504e-06,
+        "hadd.cl": 0,
+        "hadd.inc": 0,
+        "mad24.cl": 0,
+        "mad24.inc": 0,
+        "mad_sat.cl": 6.10021353757923e-06,
+        "mul24.cl": 0,
+        "mul24.inc": 0,
+        "mul_hi.cl": 6.099602068851199e-06,
+        "popcount.cl": 0,
+        "rhadd.cl": 0,
+        "rhadd.inc": 0,
+        "rotate.cl": 6.099602068851199e-06,
+        "rotate.inc": 6.099755510684909e-06,
+        "sub_sat.cl": 8.325514943002861e-06,
+        "upsample.cl": 6.099602068851199e-06
+    },
+    "subdirscores": {}
+}

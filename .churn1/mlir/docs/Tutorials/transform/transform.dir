@@ -1,0 +1,17 @@
+{
+    "directory name": "llvm-project/mlir/docs/Tutorials/transform",
+    "score.sum": 4.9940694012520805e-05,
+    "sha.latest": "0c13a896dfc930a09e082ad83070e223cfd9a4f9",
+    "time.latest": 1717788541.2992516,
+    "formatted_time": "2024-06-07 14:29:01.299255",
+    "filescores": {
+        "Ch0.md": 6.099602068851199e-06,
+        "Ch1.md": 2.778349524657622e-05,
+        "Ch2.md": 1.5356856882853027e-05,
+        "Ch3.md": 1.3494832196870948e-05,
+        "Ch4.md": 1.0962936221712993e-05,
+        "ChH.md": 6.599406610880917e-06,
+        "_index.md": 1.5272461646959242e-05
+    },
+    "subdirscores": {}
+}

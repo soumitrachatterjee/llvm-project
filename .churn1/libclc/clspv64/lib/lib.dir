@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/libclc/clspv64/lib",
+    "score.sum": 0,
+    "sha.latest": 0,
+    "time.latest": 1717824120.4888308,
+    "formatted_time": "2024-06-08 00:22:00.488833",
+    "filescores": {
+        "SOURCES": 0,
+        "subnormal_config.cl": 0
+    },
+    "subdirscores": {
+        "math": 0,
+        "shared": 0
+    }
+}

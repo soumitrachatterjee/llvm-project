@@ -1,0 +1,37 @@
+{
+    "directory name": "llvm-project/libc/src/__support/FPUtil",
+    "score.sum": 0.0009346701434572363,
+    "sha.latest": "6a8e6c9a31933dec276fe26e18090832a9c5d0d0",
+    "time.latest": 1717828650.0219285,
+    "formatted_time": "2024-06-08 01:37:30.021929",
+    "filescores": {
+        "BasicOperations.h": 3.5553990872704013e-05,
+        "CMakeLists.txt": 0.00017959672886271562,
+        "DivisionAndRemainderOperations.h": 8.061499696635391e-05,
+        "FEnvImpl.h": 8.238673830957752e-05,
+        "FMA.h": 8.983424226496504e-05,
+        "FPBits.h": 0.0003594241731595074,
+        "Hypot.h": 0.0001395424492327154,
+        "ManipulationFunctions.h": 0.00014976066340404324,
+        "NearestIntegerOperations.h": 6.219930577784405e-05,
+        "NormalFloat.h": 9.184849842419054e-05,
+        "PolyEval.h": 4.098384692357232e-05,
+        "double_double.h": 2.0937992097177196e-05,
+        "dyadic_float.h": 0.00010439054250682367,
+        "except_value_utils.h": 5.939740912201847e-05,
+        "fpbits_str.h": 3.838047914393749e-05,
+        "multiply_add.h": 6.766593696631035e-05,
+        "nearest_integer.h": 3.231843462108964e-05,
+        "rounding_mode.h": 1.1909837829801046e-05,
+        "sqrt.h": 2.7581854890419098e-05,
+        "triple_double.h": 1.1236490421062039e-05
+    },
+    "subdirscores": {
+        "aarch64": 0.00011417977370166139,
+        "arm": 3.66639853849535e-05,
+        "generic": 0.0003048940767115395,
+        "gpu": 1.2309340894864408e-05,
+        "riscv": 6.099602068851199e-06,
+        "x86_64": 0.00032772809486913176
+    }
+}

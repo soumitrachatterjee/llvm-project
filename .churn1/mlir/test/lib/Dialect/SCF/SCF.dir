@@ -1,0 +1,16 @@
+{
+    "directory name": "llvm-project/mlir/test/lib/Dialect/SCF",
+    "score.sum": 9.569999932480857e-05,
+    "sha.latest": "f7201505a6ec7a0f904d2f09cece5c770058a991",
+    "time.latest": 1717831514.7096508,
+    "formatted_time": "2024-06-08 02:25:14.709654",
+    "filescores": {
+        "CMakeLists.txt": 1.8523998245968775e-05,
+        "TestLoopParametricTiling.cpp": 1.373131586268144e-05,
+        "TestLoopUnrolling.cpp": 1.431487133711034e-05,
+        "TestSCFUtils.cpp": 7.913365336544592e-05,
+        "TestSCFWrapInZeroTripCheck.cpp": 0,
+        "TestWhileOpBuilder.cpp": 0
+    },
+    "subdirscores": {}
+}

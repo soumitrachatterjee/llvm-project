@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/llvm/include/llvm/Transforms/Coroutines",
+    "score.sum": 4.393115750225341e-05,
+    "sha.latest": "c4f7cc867299b03036bdf5f9bf535a8da5dd6970",
+    "time.latest": 1717823812.2226868,
+    "formatted_time": "2024-06-08 00:16:52.222690",
+    "filescores": {
+        "CoroCleanup.h": 7.444445180504924e-06,
+        "CoroConditionalWrapper.h": 6.099602068851199e-06,
+        "CoroEarly.h": 7.480704896454182e-06,
+        "CoroElide.h": 6.135655615123574e-06,
+        "CoroSplit.h": 2.5288707823421063e-05
+    },
+    "subdirscores": {}
+}

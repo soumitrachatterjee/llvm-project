@@ -1,0 +1,16 @@
+{
+    "directory name": "llvm-project/mlir/test/Dialect/EmitC",
+    "score.sum": 0.00012042145522780922,
+    "sha.latest": "df9be017b7828e0a1dbb4f1f507a92266b61e680",
+    "time.latest": 1717818807.2300973,
+    "formatted_time": "2024-06-07 22:53:27.230101",
+    "filescores": {
+        "attrs.mlir": 7.773040802539864e-06,
+        "invalid_ops.mlir": 8.640456586741629e-05,
+        "invalid_types.mlir": 7.314326721695209e-06,
+        "ops.mlir": 9.824759950666222e-05,
+        "transforms.mlir": 0,
+        "types.mlir": 1.5304732613641235e-05
+    },
+    "subdirscores": {}
+}

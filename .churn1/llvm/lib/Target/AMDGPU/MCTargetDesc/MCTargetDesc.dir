@@ -1,0 +1,30 @@
+{
+    "directory name": "llvm-project/llvm/lib/Target/AMDGPU/MCTargetDesc",
+    "score.sum": 0.0018041938831467074,
+    "sha.latest": "e963d0740e64fc70b4018f39325469d204f6217a",
+    "time.latest": 1717848783.0788534,
+    "formatted_time": "2024-06-08 07:13:03.078857",
+    "filescores": {
+        "AMDGPUAsmBackend.cpp": 0.0001385632210509959,
+        "AMDGPUELFObjectWriter.cpp": 6.559485856606263e-05,
+        "AMDGPUELFStreamer.cpp": 2.3502837572002338e-05,
+        "AMDGPUELFStreamer.h": 2.7577755171548017e-05,
+        "AMDGPUFixupKinds.h": 1.338271463332275e-05,
+        "AMDGPUInstPrinter.cpp": 0.00036052220237247555,
+        "AMDGPUInstPrinter.h": 0.00015457327496919132,
+        "AMDGPUMCAsmInfo.cpp": 0.00010265088322253965,
+        "AMDGPUMCAsmInfo.h": 3.866263421425933e-05,
+        "AMDGPUMCCodeEmitter.cpp": 8.529216170824622e-05,
+        "AMDGPUMCTargetDesc.cpp": 0.0001387030596607177,
+        "AMDGPUMCTargetDesc.h": 0.00011908316877687812,
+        "AMDGPUTargetStreamer.cpp": 0.0004208282995708676,
+        "AMDGPUTargetStreamer.h": 0.000135924865326151,
+        "CMakeLists.txt": 7.92828558015757e-05,
+        "R600InstPrinter.cpp": 6.099602068851199e-06,
+        "R600InstPrinter.h": 6.099602068851199e-06,
+        "R600MCCodeEmitter.cpp": 7.917149111739998e-05,
+        "R600MCTargetDesc.cpp": 2.5452032713073552e-05,
+        "R600MCTargetDesc.h": 2.617947872790676e-05
+    },
+    "subdirscores": {}
+}

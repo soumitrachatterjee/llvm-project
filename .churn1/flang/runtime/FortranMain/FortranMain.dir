@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/flang/runtime/FortranMain",
+    "score.sum": 1.5657390257782815e-05,
+    "sha.latest": "1256d1d17e8668582a923cb36b6bc9b31034d7f7",
+    "time.latest": 1717793021.0588348,
+    "formatted_time": "2024-06-07 15:43:41.058838",
+    "filescores": {
+        "CMakeLists.txt": 1.3581593765745734e-05,
+        "Fortran_main.c": 6.916562607500231e-06
+    },
+    "subdirscores": {}
+}

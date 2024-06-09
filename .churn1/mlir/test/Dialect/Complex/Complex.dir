@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/mlir/test/Dialect/Complex",
+    "score.sum": 8.805927469158441e-05,
+    "sha.latest": "1612993788c3d8049f1e43a6f48ea3264f8a434f",
+    "time.latest": 1717818665.9220448,
+    "formatted_time": "2024-06-07 22:51:05.922048",
+    "filescores": {
+        "attribute.mlir": 6.099602068851199e-06,
+        "canonicalize.mlir": 5.29357401533556e-05,
+        "invalid.mlir": 1.1598522252501734e-05,
+        "ops.mlir": 3.30512275272406e-05
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/libc/src/fcntl/linux",
+    "score.sum": 1.8609991585850706e-05,
+    "sha.latest": "b6bc9d72f65a5086f310f321e969d96e9a559e75",
+    "time.latest": 1717830566.4824975,
+    "formatted_time": "2024-06-08 02:09:26.482501",
+    "filescores": {
+        "CMakeLists.txt": 6.656920645352575e-06,
+        "creat.cpp": 1.82202854791992e-05,
+        "open.cpp": 1.8239630059787498e-05,
+        "openat.cpp": 1.82200201544855e-05
+    },
+    "subdirscores": {}
+}

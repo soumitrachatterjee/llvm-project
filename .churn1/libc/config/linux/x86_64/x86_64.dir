@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/libc/config/linux/x86_64",
+    "score.sum": 0.0011875091744782914,
+    "sha.latest": "fe1645e25c5ab5e3ba8aa16d4f637633ded328ab",
+    "time.latest": 1717825217.0475442,
+    "formatted_time": "2024-06-08 00:40:17.047548",
+    "filescores": {
+        "entrypoints.txt": 0.0009987200438938578,
+        "exclude.txt": 6.099602068851199e-06,
+        "headers.txt": 0.00014646154322241867
+    },
+    "subdirscores": {}
+}

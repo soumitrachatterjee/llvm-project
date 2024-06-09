@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/mlir/include/mlir/Dialect/Bufferization/Pipelines",
+    "score.sum": 1.3536346868002378e-05,
+    "sha.latest": "c08d972a0043fe67de65ba331a144425c8cea449",
+    "time.latest": 1717793647.1544466,
+    "formatted_time": "2024-06-07 15:54:07.154450",
+    "filescores": {
+        "Passes.h": 1.3536346868002378e-05
+    },
+    "subdirscores": {}
+}

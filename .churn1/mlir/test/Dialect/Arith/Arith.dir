@@ -1,0 +1,29 @@
+{
+    "directory name": "llvm-project/mlir/test/Dialect/Arith",
+    "score.sum": 0.00023606621347354182,
+    "sha.latest": "9c7cde64e6556f8a04dc4a14cbfb2b277d5ab4d9",
+    "time.latest": 1717817904.3297303,
+    "formatted_time": "2024-06-07 22:38:24.329734",
+    "filescores": {
+        "bufferize.mlir": 6.099602068851199e-06,
+        "canonicalize.mlir": 0.00010066409656789255,
+        "emulate-narrow-type.mlir": 0,
+        "emulate-unsupported-floats.mlir": 0,
+        "emulate-wide-int-canonicalization.mlir": 0,
+        "emulate-wide-int-very-wide.mlir": 7.340773545887982e-06,
+        "emulate-wide-int.mlir": 1.8469509423232468e-05,
+        "expand-ops.mlir": 3.4868559941249006e-05,
+        "int-narrowing-invalid-options.mlir": 0,
+        "int-narrowing.mlir": 7.521592054869467e-06,
+        "int-range-interface.mlir": 7.538429085625038e-06,
+        "int-range-opts.mlir": 0,
+        "invalid.mlir": 1.2436055219175841e-05,
+        "one-shot-bufferize-memory-space-invalid.mlir": 6.099602068851199e-06,
+        "one-shot-bufferize.mlir": 1.8122115019001146e-05,
+        "ops.mlir": 5.2477432926539804e-05,
+        "test-emulate-wide-int-pass.mlir": 8.497281856862496e-06,
+        "unsigned-when-equivalent.mlir": 1.3522398985992606e-05,
+        "value-bounds-op-interface-impl.mlir": 8.574022221342233e-06
+    },
+    "subdirscores": {}
+}

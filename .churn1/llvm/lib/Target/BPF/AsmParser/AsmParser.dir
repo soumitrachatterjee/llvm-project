@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/llvm/lib/Target/BPF/AsmParser",
+    "score.sum": 9.820012178892878e-05,
+    "sha.latest": "c43ad6c0fddac0bbed5e881801dd2bc2f9eeba2d",
+    "time.latest": 1717853169.7815669,
+    "formatted_time": "2024-06-08 08:26:09.781570",
+    "filescores": {
+        "BPFAsmParser.cpp": 9.310670903136623e-05,
+        "CMakeLists.txt": 1.0314946376100046e-05
+    },
+    "subdirscores": {}
+}

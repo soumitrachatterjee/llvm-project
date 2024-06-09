@@ -1,0 +1,24 @@
+{
+    "directory name": "llvm-project/llvm/lib/Transforms",
+    "score.sum": 0.14408655613874932,
+    "sha.latest": "fab2bb8bfda865bd438dee981d7be7df8017b76d",
+    "time.latest": 1717877936.6812751,
+    "formatted_time": "2024-06-08 15:18:56.681276",
+    "filescores": {
+        "CMakeLists.txt": 6.738876457612753e-05
+    },
+    "subdirscores": {
+        "AggressiveInstCombine": 0.0003678715942336193,
+        "CFGuard": 7.24775960710875e-05,
+        "Coroutines": 0.0016376473158693262,
+        "Hello": 0.00012978224260271998,
+        "HipStdPar": 1.2401293682058624e-05,
+        "IPO": 0.02463789659442878,
+        "InstCombine": 0.02157358190909456,
+        "Instrumentation": 0.013025218388702908,
+        "ObjCARC": 0.0007439252313081469,
+        "Scalar": 0.044899558239122825,
+        "Utils": 0.02881729578674689,
+        "Vectorize": 0.01612587343477517
+    }
+}

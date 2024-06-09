@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/mlir/test/Integration/GPU/SYCL",
+    "score.sum": 0,
+    "sha.latest": "7fc792cba7663b2aa54f259515319d74a5625be0",
+    "time.latest": 1717828368.9293683,
+    "formatted_time": "2024-06-08 01:32:48.929372",
+    "filescores": {
+        "gpu-addf32-to-spirv.mlir": 0,
+        "gpu-addi64-to-spirv.mlir": 0,
+        "gpu-reluf32-to-spirv.mlir": 0,
+        "lit.local.cfg": 0
+    },
+    "subdirscores": {}
+}

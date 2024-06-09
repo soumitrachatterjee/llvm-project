@@ -1,0 +1,22 @@
+{
+    "directory name": "llvm-project/mlir/test/python/dialects/linalg/opdsl",
+    "score.sum": 6.845328153817723e-05,
+    "sha.latest": "8a6e54c9b3080f1b8e1a925bf1a39730223b99f9",
+    "time.latest": 1717834248.985388,
+    "formatted_time": "2024-06-08 03:10:48.985392",
+    "filescores": {
+        "arguments.py": 2.0429576355896633e-05,
+        "assignments.py": 2.2736890234115795e-05,
+        "doctests.py": 6.099602068851199e-06,
+        "emit_convolution.py": 1.1069116011942613e-05,
+        "emit_fill.py": 7.342087763820506e-06,
+        "emit_matmul.py": 1.4228613754326308e-05,
+        "emit_misc.py": 1.8503170693390726e-05,
+        "emit_pooling.py": 1.6525681171765534e-05,
+        "lit.local.cfg": 6.099602068851199e-06,
+        "metadata.py": 6.099602068851199e-06,
+        "shape_maps_iteration.py": 1.1865851156838345e-05,
+        "test_core_named_ops.py": 0
+    },
+    "subdirscores": {}
+}

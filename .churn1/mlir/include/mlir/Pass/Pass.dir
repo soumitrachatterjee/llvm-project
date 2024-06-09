@@ -1,0 +1,17 @@
+{
+    "directory name": "llvm-project/mlir/include/mlir/Pass",
+    "score.sum": 0.0003585125014268425,
+    "sha.latest": "90e9e962e18fc4304c6aba81de2bb53069bcd358",
+    "time.latest": 1717799632.6634943,
+    "formatted_time": "2024-06-07 17:33:52.663498",
+    "filescores": {
+        "AnalysisManager.h": 7.334119446475639e-05,
+        "Pass.h": 0.00014752774986639679,
+        "PassBase.td": 2.900409295925679e-05,
+        "PassInstrumentation.h": 4.897430386073589e-05,
+        "PassManager.h": 0.00018142576762669637,
+        "PassOptions.h": 3.811902288699261e-05,
+        "PassRegistry.h": 8.439415686856845e-05
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/libc/src/__support/FPUtil/gpu",
+    "score.sum": 1.2309340894864408e-05,
+    "sha.latest": "b6bc9d72f65a5086f310f321e969d96e9a559e75",
+    "time.latest": 1717828526.0069864,
+    "formatted_time": "2024-06-08 01:35:26.006990",
+    "filescores": {
+        "FMA.h": 1.2309340894864408e-05
+    },
+    "subdirscores": {}
+}

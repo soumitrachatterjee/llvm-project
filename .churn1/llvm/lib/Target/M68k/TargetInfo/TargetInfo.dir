@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/llvm/lib/Target/M68k/TargetInfo",
+    "score.sum": 1.545220779705866e-05,
+    "sha.latest": "6bf22ae4d31c8ae6171cbcdfee488136257d341f",
+    "time.latest": 1717859488.969961,
+    "formatted_time": "2024-06-08 10:11:28.969964",
+    "filescores": {
+        "CMakeLists.txt": 6.099602068851199e-06,
+        "M68kTargetInfo.cpp": 1.11174928189606e-05,
+        "M68kTargetInfo.h": 0
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,17 @@
+{
+    "directory name": "llvm-project/mlir/test/Integration/Dialect/Vector/CPU/ArmSVE",
+    "score.sum": 9.373407727505362e-05,
+    "sha.latest": "780d55690ec5d8cd5c0e5fa4af799155d5d00534",
+    "time.latest": 1717827403.8748386,
+    "formatted_time": "2024-06-08 01:16:43.874842",
+    "filescores": {
+        "arrays-of-scalable-vectors.mlir": 6.099602068851199e-06,
+        "lit.local.cfg": 2.285305680790839e-05,
+        "test-contraction.mlir": 6.136395021858279e-06,
+        "test-scalable-interleave.mlir": 6.099602068851199e-06,
+        "test-sve.mlir": 4.508575048985567e-05
+    },
+    "subdirscores": {
+        "Emulated": 6.099602068851199e-06
+    }
+}

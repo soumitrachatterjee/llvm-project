@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/mlir/lib/Tools/mlir-translate",
+    "score.sum": 6.077160791260942e-05,
+    "sha.latest": "1ade6f36e3b4652a17499ae261e60d5b0de52ce0",
+    "time.latest": 1717812980.1613348,
+    "formatted_time": "2024-06-07 21:16:20.161338",
+    "filescores": {
+        "CMakeLists.txt": 0,
+        "MlirTranslateMain.cpp": 3.451446405321253e-05,
+        "Translation.cpp": 5.139138422433493e-05
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/mlir/benchmark",
+    "score.sum": 2.8852543219489065e-05,
+    "sha.latest": "a05e20b9720f8b012f06f410d92f1f22b55bce74",
+    "time.latest": 1717787839.5593588,
+    "formatted_time": "2024-06-07 14:17:19.559359",
+    "filescores": {},
+    "subdirscores": {
+        "python": 2.8852543219489065e-05
+    }
+}

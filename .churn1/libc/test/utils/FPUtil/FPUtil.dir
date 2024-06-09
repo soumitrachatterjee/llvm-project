@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/libc/test/utils/FPUtil",
+    "score.sum": 7.276336515339722e-05,
+    "sha.latest": "5ddd7bc38ce3c417637c1c5c506353f1faad4e2d",
+    "time.latest": 1717851699.6054173,
+    "formatted_time": "2024-06-08 08:01:39.605420",
+    "filescores": {
+        "CMakeLists.txt": 1.1637678401384799e-05,
+        "x86_long_double_test.cpp": 6.7541395877265e-05
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,30 @@
+{
+    "directory name": "llvm-project/llvm/include/llvm/ProfileData",
+    "score.sum": 0.0025328340091491986,
+    "sha.latest": "08ddd2ce4048b0adbddc3ab9b770ccf43f81d65d",
+    "time.latest": 1717820507.5278559,
+    "formatted_time": "2024-06-07 23:21:47.527860",
+    "filescores": {
+        "FunctionId.h": 0,
+        "GCOV.h": 8.659635212620518e-05,
+        "HashKeyMap.h": 0,
+        "InstrProf.h": 0.0007207537239820232,
+        "InstrProfCorrelator.h": 5.4797634285126704e-05,
+        "InstrProfData.inc": 0.000339829189523676,
+        "InstrProfReader.h": 0.00040590246847985737,
+        "InstrProfWriter.h": 0.00019738412929164252,
+        "ItaniumManglingCanonicalizer.h": 0,
+        "MIBEntryDef.inc": 6.10572703963858e-06,
+        "MemProf.h": 3.073236029789177e-05,
+        "MemProfData.inc": 4.003154854179327e-05,
+        "ProfileCommon.h": 5.0916271056469985e-05,
+        "RawMemProfReader.h": 4.125442574238713e-05,
+        "SampleProf.h": 0.0005470126051503457,
+        "SampleProfReader.h": 0.00030664851933803934,
+        "SampleProfWriter.h": 0.000178809987707248,
+        "SymbolRemappingReader.h": 0
+    },
+    "subdirscores": {
+        "Coverage": 0.00035088440300353564
+    }
+}

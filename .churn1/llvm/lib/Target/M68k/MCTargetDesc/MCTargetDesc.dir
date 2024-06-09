@@ -1,0 +1,24 @@
+{
+    "directory name": "llvm-project/llvm/lib/Target/M68k/MCTargetDesc",
+    "score.sum": 9.49965577936988e-05,
+    "sha.latest": "d2672a550137c0d9c3f4d05c8eb41dc5ab51867b",
+    "time.latest": 1717859439.698,
+    "formatted_time": "2024-06-08 10:10:39.698003",
+    "filescores": {
+        "CMakeLists.txt": 6.099602068851199e-06,
+        "M68kAsmBackend.cpp": 1.0631606937239987e-05,
+        "M68kBaseInfo.h": 2.453314193058593e-05,
+        "M68kELFObjectWriter.cpp": 8.349675811927811e-06,
+        "M68kFixupKinds.h": 1.2039087364102395e-05,
+        "M68kInstPrinter.cpp": 1.6056958622134872e-05,
+        "M68kInstPrinter.h": 1.7233431594088304e-05,
+        "M68kMCAsmInfo.cpp": 8.965201468025568e-06,
+        "M68kMCAsmInfo.h": 1.2039087364102395e-05,
+        "M68kMCCodeEmitter.cpp": 5.3984757029203454e-05,
+        "M68kMCCodeEmitter.h": 1.2034289412014458e-05,
+        "M68kMCTargetDesc.cpp": 2.507778000745205e-05,
+        "M68kMCTargetDesc.h": 3.017832449959099e-05,
+        "M68kMemOperandPrinter.h": 0
+    },
+    "subdirscores": {}
+}

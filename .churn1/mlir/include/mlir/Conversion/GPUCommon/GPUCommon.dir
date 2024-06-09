@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/mlir/include/mlir/Conversion/GPUCommon",
+    "score.sum": 5.821057632747776e-05,
+    "sha.latest": "fcfeb1e5b3cddfbc32f7fb8798c90d9c23d5de48",
+    "time.latest": 1717791622.7142634,
+    "formatted_time": "2024-06-07 15:20:22.714267",
+    "filescores": {
+        "GPUCommonPass.h": 5.821057632747776e-05
+    },
+    "subdirscores": {}
+}

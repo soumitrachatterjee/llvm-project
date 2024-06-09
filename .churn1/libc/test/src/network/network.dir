@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/libc/test/src/network",
+    "score.sum": 8.11413313051095e-06,
+    "sha.latest": "b6bc9d72f65a5086f310f321e969d96e9a559e75",
+    "time.latest": 1717848664.6734214,
+    "formatted_time": "2024-06-08 07:11:04.673425",
+    "filescores": {
+        "CMakeLists.txt": 6.646121471272239e-06,
+        "htonl_test.cpp": 6.265259635709686e-06,
+        "htons_test.cpp": 6.265259635709686e-06,
+        "ntohl_test.cpp": 6.099602068851199e-06,
+        "ntohs_test.cpp": 6.099602068851199e-06
+    },
+    "subdirscores": {}
+}

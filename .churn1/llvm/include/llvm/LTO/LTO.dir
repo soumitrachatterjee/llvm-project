@@ -1,0 +1,16 @@
+{
+    "directory name": "llvm-project/llvm/include/llvm/LTO",
+    "score.sum": 0.0010061792724492464,
+    "sha.latest": "695b630ae16a1b243d9c72cc275b00cf0c8af2df",
+    "time.latest": 1717817854.5034971,
+    "formatted_time": "2024-06-07 22:37:34.503498",
+    "filescores": {
+        "Config.h": 0.000209194903391727,
+        "LTO.h": 0.00023695459755683718,
+        "LTOBackend.h": 4.84670953754761e-05,
+        "SummaryBasedOptimizations.h": 6.319009773246488e-06
+    },
+    "subdirscores": {
+        "legacy": 0.00023704272774812147
+    }
+}

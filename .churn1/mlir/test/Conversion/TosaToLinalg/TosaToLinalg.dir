@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/mlir/test/Conversion/TosaToLinalg",
+    "score.sum": 0.0004298385672099047,
+    "sha.latest": "c1e9883a813db76c1b108ad715895928bb93f4c2",
+    "time.latest": 1717816905.6096087,
+    "formatted_time": "2024-06-07 22:21:45.609612",
+    "filescores": {
+        "tosa-to-linalg-invalid.mlir": 6.099602068851199e-06,
+        "tosa-to-linalg-named.mlir": 0.00010319738042125135,
+        "tosa-to-linalg-pipeline.mlir": 6.099602068851199e-06,
+        "tosa-to-linalg-resize.mlir": 1.729622576585793e-05,
+        "tosa-to-linalg.mlir": 0.0003101598567014823
+    },
+    "subdirscores": {}
+}

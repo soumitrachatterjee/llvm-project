@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/libc/src/stdlib/baremetal",
+    "score.sum": 6.099602068851199e-06,
+    "sha.latest": "b6bc9d72f65a5086f310f321e969d96e9a559e75",
+    "time.latest": 1717839708.23037,
+    "formatted_time": "2024-06-08 04:41:48.230373",
+    "filescores": {
+        "CMakeLists.txt": 0,
+        "abort.cpp": 6.099602068851199e-06
+    },
+    "subdirscores": {}
+}

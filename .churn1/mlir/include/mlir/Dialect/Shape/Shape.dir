@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/mlir/include/mlir/Dialect/Shape",
+    "score.sum": 0.0004121770019857223,
+    "sha.latest": "dbb782dffdbd37e4aafa745eba9ba0f2831e21e8",
+    "time.latest": 1717797086.7610247,
+    "formatted_time": "2024-06-07 16:51:26.761026",
+    "filescores": {
+        "CMakeLists.txt": 1.8224250750723144e-05
+    },
+    "subdirscores": {
+        "Analysis": 0,
+        "IR": 0.00036084212150901346,
+        "Transforms": 8.102400074317904e-05
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/mlir/lib/Conversion/OpenMPToLLVM",
+    "score.sum": 0.00015261492608871065,
+    "sha.latest": "118a2a52fd465b7576c54bd102ee2e417a3b9a71",
+    "time.latest": 1717803561.1570053,
+    "formatted_time": "2024-06-07 18:39:21.157009",
+    "filescores": {
+        "CMakeLists.txt": 2.4118888049079028e-05,
+        "OpenMPToLLVM.cpp": 0.00014946312794203066
+    },
+    "subdirscores": {}
+}

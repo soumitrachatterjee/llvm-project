@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/mlir/include/mlir/Dialect/Func/Extensions",
+    "score.sum": 6.099602068851199e-06,
+    "sha.latest": "adbf21f12b3069b2554efb39f2e92c6cf6f24940",
+    "time.latest": 1717794152.1832273,
+    "formatted_time": "2024-06-07 16:02:32.183231",
+    "filescores": {
+        "AllExtensions.h": 0,
+        "InlinerExtension.h": 0,
+        "MeshShardingExtensions.h": 0
+    },
+    "subdirscores": {}
+}

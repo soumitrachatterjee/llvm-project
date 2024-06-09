@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/llvm/include/llvm/Testing/Annotations",
+    "score.sum": 0,
+    "sha.latest": "3432f4bf86e7c77666ae9dede1610ae843dde648",
+    "time.latest": 1717823405.3455403,
+    "formatted_time": "2024-06-08 00:10:05.345544",
+    "filescores": {
+        "Annotations.h": 0
+    },
+    "subdirscores": {}
+}

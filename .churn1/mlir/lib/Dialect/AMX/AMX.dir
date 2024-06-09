@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/mlir/lib/Dialect/AMX",
+    "score.sum": 2.6665571110534742e-05,
+    "sha.latest": "406b887ad71439bd0af44ab93ed318aea4c83f36",
+    "time.latest": 1717804617.7353914,
+    "formatted_time": "2024-06-07 18:56:57.735392",
+    "filescores": {
+        "CMakeLists.txt": 0
+    },
+    "subdirscores": {
+        "IR": 1.788034570598815e-05,
+        "Transforms": 2.3943731001925307e-05
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/libc/examples/hello_world",
+    "score.sum": 5.34471673375407e-05,
+    "sha.latest": "cbaa3597aaf6273e66b3f445ed36a6458143fe6a",
+    "time.latest": 1717825713.4040532,
+    "formatted_time": "2024-06-08 00:48:33.404057",
+    "filescores": {
+        "CMakeLists.txt": 5.34471673375407e-05,
+        "hello_world.c": 0
+    },
+    "subdirscores": {}
+}

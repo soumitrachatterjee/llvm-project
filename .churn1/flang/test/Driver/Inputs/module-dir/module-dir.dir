@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/flang/test/Driver/Inputs/module-dir",
+    "score.sum": 0,
+    "sha.latest": "45da495f73d83b4c1400bf5896765d7883bd67e2",
+    "time.latest": 1717793797.8674173,
+    "formatted_time": "2024-06-07 15:56:37.867420",
+    "filescores": {
+        "basictestmoduleone.mod": 0,
+        "basictestmoduletwo.mod": 0
+    },
+    "subdirscores": {}
+}

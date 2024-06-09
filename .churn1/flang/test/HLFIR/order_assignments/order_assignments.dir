@@ -1,0 +1,25 @@
+{
+    "directory name": "llvm-project/flang/test/HLFIR/order_assignments",
+    "score.sum": 3.362649903490332e-05,
+    "sha.latest": "3643d11988d6b14171b4320cbdfb15aba9764d0b",
+    "time.latest": 1717797560.1852088,
+    "formatted_time": "2024-06-07 16:59:20.185212",
+    "filescores": {
+        "forall-codegen-fuse-assignments.fir": 0,
+        "forall-codegen-no-conflict.fir": 6.099602068851199e-06,
+        "forall-fusing-scheduling.f90": 0,
+        "forall-scheduling.f90": 6.099602068851199e-06,
+        "impure-where.fir": 6.1350475872530575e-06,
+        "inlined-stack-temp.fir": 6.099602068851199e-06,
+        "lhs-conflicts-codegen.fir": 0,
+        "runtime-stack-temp.fir": 0,
+        "saving-mask-and-rhs.fir": 0,
+        "user-defined-assignment-finalization.fir": 6.464679612944618e-06,
+        "user-defined-assignment.fir": 6.15476801158228e-06,
+        "vector-subscripts-codegen.fir": 6.099602068851199e-06,
+        "where-codegen-no-conflict.fir": 0,
+        "where-fusing-scheduling.f90": 0,
+        "where-scheduling.f90": 1.737836692483974e-05
+    },
+    "subdirscores": {}
+}

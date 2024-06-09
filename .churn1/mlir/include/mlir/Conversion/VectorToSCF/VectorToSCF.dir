@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/mlir/include/mlir/Conversion/VectorToSCF",
+    "score.sum": 6.132248952152322e-05,
+    "sha.latest": "f6d90055fd88f9dcd1f8a7f0aca1a6018bad025c",
+    "time.latest": 1717792439.1396992,
+    "formatted_time": "2024-06-07 15:33:59.139703",
+    "filescores": {
+        "VectorToSCF.h": 5.670091789154316e-05
+    },
+    "subdirscores": {}
+}

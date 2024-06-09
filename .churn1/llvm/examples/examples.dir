@@ -1,0 +1,24 @@
+{
+    "directory name": "llvm-project/llvm/examples",
+    "score.sum": 0.002537903147768943,
+    "sha.latest": "716042a63f26cd020eb72960f72fa97b9a197382",
+    "time.latest": 1717805093.635986,
+    "formatted_time": "2024-06-07 19:04:53.635987",
+    "filescores": {
+        "CMakeLists.txt": 6.593638505420942e-05
+    },
+    "subdirscores": {
+        "BrainF": 0.00021517454917662255,
+        "Bye": 5.615544239390957e-05,
+        "ExceptionDemo": 0.0001504652265783709,
+        "Fibonacci": 0.0001303193127818546,
+        "HowToUseJIT": 0.0001476125304994229,
+        "HowToUseLLJIT": 1.589215561269715e-05,
+        "IRTransforms": 2.4355151697758436e-05,
+        "Kaleidoscope": 0.0008782862257174749,
+        "ModuleMaker": 7.63496796929428e-05,
+        "OrcV2Examples": 0.00025507308868429854,
+        "ParallelJIT": 0.00013324826426615725,
+        "SpeculativeJIT": 3.032215625913986e-05
+    }
+}

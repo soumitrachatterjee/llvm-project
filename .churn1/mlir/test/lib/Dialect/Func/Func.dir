@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/mlir/test/lib/Dialect/Func",
+    "score.sum": 2.1686448524624737e-05,
+    "sha.latest": "5550c821897ab77e664977121a0e90ad5be1ff59",
+    "time.latest": 1717831158.0468376,
+    "formatted_time": "2024-06-08 02:19:18.046841",
+    "filescores": {
+        "CMakeLists.txt": 6.099602068851199e-06,
+        "TestDecomposeCallGraphTypes.cpp": 2.0235520227739808e-05
+    },
+    "subdirscores": {}
+}

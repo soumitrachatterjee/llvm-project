@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/polly/test/JSONExporter",
+    "score.sum": 2.8453293492604413e-05,
+    "sha.latest": "17168f7f786b051dd4737a576ba371742a29894d",
+    "time.latest": 1717814087.646407,
+    "formatted_time": "2024-06-07 21:34:47.646408",
+    "filescores": {},
+    "subdirscores": {
+        "ImportAccesses": 2.4989362720776464e-05,
+        "ImportArrays": 2.4554607752810347e-05,
+        "ImportContext": 2.4989362720776464e-05,
+        "ImportSchedule": 2.4989362720776464e-05
+    }
+}

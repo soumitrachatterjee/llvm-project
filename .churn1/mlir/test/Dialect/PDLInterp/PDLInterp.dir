@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/mlir/test/Dialect/PDLInterp",
+    "score.sum": 3.339735874012187e-05,
+    "sha.latest": "363b655920c49a4bcb0869f820ed40aac834eebd",
+    "time.latest": 1717821209.9449165,
+    "formatted_time": "2024-06-07 23:33:29.944920",
+    "filescores": {
+        "invalid.mlir": 1.263516910719906e-05,
+        "ops.mlir": 1.8651424600672833e-05
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/flang/examples/ExternalHelloWorld",
+    "score.sum": 1.2020802291254258e-05,
+    "sha.latest": "e63a600d147bb0065a2ce2b3d52c440d805a6c56",
+    "time.latest": 1717788385.2239282,
+    "formatted_time": "2024-06-07 14:26:25.223932",
+    "filescores": {
+        "CMakeLists.txt": 1.2020802291254258e-05,
+        "external-hello.cpp": 0
+    },
+    "subdirscores": {}
+}

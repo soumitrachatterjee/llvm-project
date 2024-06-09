@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/mlir/test/Conversion/VectorToSCF",
+    "score.sum": 0.0001883241501421318,
+    "sha.latest": "bb6d5c220004a5d7e466a669324001285a688918",
+    "time.latest": 1717817133.955337,
+    "formatted_time": "2024-06-07 22:25:33.955340",
+    "filescores": {
+        "tensor-transfer-ops.mlir": 1.812001415397614e-05,
+        "unrolled-tensor-transfer-ops.mlir": 1.719724015362603e-05,
+        "unrolled-vector-to-loops.mlir": 1.7644896408040487e-05,
+        "vector-to-scf-mask-and-permutation-map.mlir": 3.7094608825044464e-05,
+        "vector-to-scf.mlir": 0.00010466886929661247
+    },
+    "subdirscores": {}
+}

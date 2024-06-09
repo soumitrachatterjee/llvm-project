@@ -1,0 +1,27 @@
+{
+    "directory name": "llvm-project/flang/include/flang",
+    "score.sum": 0.007543830246721257,
+    "sha.latest": "860a40057da2fbb626fdf17feec18070d95b687b",
+    "time.latest": 1717790450.437633,
+    "formatted_time": "2024-06-07 15:00:50.437637",
+    "filescores": {
+        "CMakeLists.txt": 1.8548362846432756e-05,
+        "ISO_Fortran_binding.h": 8.710210894539652e-05,
+        "ISO_Fortran_binding_wrapper.h": 6.099602068851199e-06,
+        "Version.inc.in": 6.099602068851199e-06
+    },
+    "subdirscores": {
+        "Common": 0.0003245201174933834,
+        "Config": 1.2176994121620471e-05,
+        "Decimal": 3.387425798413278e-05,
+        "Evaluate": 0.0007361305186984345,
+        "Frontend": 0.00035603673007272613,
+        "FrontendTool": 1.5064676060001897e-05,
+        "Lower": 0.0010425001476205458,
+        "Optimizer": 0.002668207037973936,
+        "Parser": 0.00038464456609592113,
+        "Runtime": 0.0003853260515633201,
+        "Semantics": 0.0007286425247674841,
+        "Tools": 0.0001866549468538954
+    }
+}

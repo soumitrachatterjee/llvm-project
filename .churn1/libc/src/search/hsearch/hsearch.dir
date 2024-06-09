@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/libc/src/search/hsearch",
+    "score.sum": 1.1871548307301933e-05,
+    "sha.latest": "330793c91d08e6ac60334e4813746db898b9407e",
+    "time.latest": 1717836183.3063374,
+    "formatted_time": "2024-06-08 03:43:03.306341",
+    "filescores": {
+        "CMakeLists.txt": 6.099602068851199e-06,
+        "global.cpp": 0,
+        "global.h": 6.099602068851199e-06
+    },
+    "subdirscores": {}
+}

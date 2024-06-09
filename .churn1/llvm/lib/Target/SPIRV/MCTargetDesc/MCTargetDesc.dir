@@ -1,0 +1,24 @@
+{
+    "directory name": "llvm-project/llvm/lib/Target/SPIRV/MCTargetDesc",
+    "score.sum": 7.759768193598703e-05,
+    "sha.latest": "925768eeaba71ea288ba16557921ea3439f9fcf5",
+    "time.latest": 1717865850.8849926,
+    "formatted_time": "2024-06-08 11:57:30.884995",
+    "filescores": {
+        "CMakeLists.txt": 1.614799113559921e-05,
+        "SPIRVAsmBackend.cpp": 1.2176918146586212e-05,
+        "SPIRVBaseInfo.cpp": 1.978006344925794e-05,
+        "SPIRVBaseInfo.h": 9.971275711408287e-06,
+        "SPIRVInstPrinter.cpp": 2.3550712389926373e-05,
+        "SPIRVInstPrinter.h": 1.126181973907925e-05,
+        "SPIRVMCAsmInfo.cpp": 6.099602068851199e-06,
+        "SPIRVMCAsmInfo.h": 0,
+        "SPIRVMCCodeEmitter.cpp": 2.062110809506601e-05,
+        "SPIRVMCTargetDesc.cpp": 9.146768958722245e-06,
+        "SPIRVMCTargetDesc.h": 1.8177510836612877e-05,
+        "SPIRVObjectTargetWriter.cpp": 0,
+        "SPIRVTargetStreamer.cpp": 0,
+        "SPIRVTargetStreamer.h": 6.099602068851199e-06
+    },
+    "subdirscores": {}
+}

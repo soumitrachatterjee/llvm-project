@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/libclc/spirv/lib/math",
+    "score.sum": 6.099602068851199e-06,
+    "sha.latest": "291bfff5dbb70360730e91b4019f8080e4e3d7f5",
+    "time.latest": 1717831872.2720556,
+    "formatted_time": "2024-06-08 02:31:12.272059",
+    "filescores": {
+        "fma.cl": 6.099602068851199e-06,
+        "fma.inc": 0
+    },
+    "subdirscores": {}
+}

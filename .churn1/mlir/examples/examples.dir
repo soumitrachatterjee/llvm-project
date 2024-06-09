@@ -1,0 +1,17 @@
+{
+    "directory name": "llvm-project/mlir/examples",
+    "score.sum": 0.0011803498903898385,
+    "sha.latest": "fab2bb8bfda865bd438dee981d7be7df8017b76d",
+    "time.latest": 1717790201.1376133,
+    "formatted_time": "2024-06-07 14:56:41.137614",
+    "filescores": {
+        "CMakeLists.txt": 1.7322036741653568e-05
+    },
+    "subdirscores": {
+        "minimal-opt": 2.512857363284234e-05,
+        "standalone": 0.0003092210188967664,
+        "toy": 0.0007514241746057684,
+        "transform-opt": 0,
+        "transform": 1.843848582109094e-05
+    }
+}

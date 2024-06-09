@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/llvm/examples/IRTransforms",
+    "score.sum": 2.4355151697758436e-05,
+    "sha.latest": "a6ea0185d698dfce0811c37e910d5c08b6a20ed0",
+    "time.latest": 1717803705.2216861,
+    "formatted_time": "2024-06-07 18:41:45.221689",
+    "filescores": {
+        "CMakeLists.txt": 1.1705074539125664e-05,
+        "SimplifyCFG.cpp": 1.682161665573306e-05
+    },
+    "subdirscores": {}
+}

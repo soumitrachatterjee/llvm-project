@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/mlir/utils/clang-tidy",
+    "score.sum": 1.6992313831098657e-05,
+    "sha.latest": "fff762d674c34c56d82f71250df2ac3652992049",
+    "time.latest": 1717836767.8265858,
+    "formatted_time": "2024-06-08 03:52:47.826590",
+    "filescores": {
+        "README.md": 1.2200351420741379e-05,
+        "apply-clang-tidy.sh": 6.099602068851199e-06
+    },
+    "subdirscores": {}
+}

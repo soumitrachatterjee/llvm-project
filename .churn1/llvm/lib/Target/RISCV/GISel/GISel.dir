@@ -1,0 +1,21 @@
+{
+    "directory name": "llvm-project/llvm/lib/Target/RISCV/GISel",
+    "score.sum": 0.0008118754115947966,
+    "sha.latest": "35cfaeced4ced393c3738d2ff4509e5090b771a7",
+    "time.latest": 1717864346.8056197,
+    "formatted_time": "2024-06-08 11:32:26.805623",
+    "filescores": {
+        "RISCVCallLowering.cpp": 0.00014473281933113496,
+        "RISCVCallLowering.h": 9.13239097815741e-06,
+        "RISCVInstructionSelector.cpp": 0.00025318913754044113,
+        "RISCVLegalizerInfo.cpp": 0.0003931583010377272,
+        "RISCVLegalizerInfo.h": 5.3683480062644945e-05,
+        "RISCVO0PreLegalizerCombiner.cpp": 6.099602068851199e-06,
+        "RISCVPostLegalizerCombiner.cpp": 0,
+        "RISCVPreLegalizerCombiner.cpp": 6.099602068851199e-06,
+        "RISCVRegisterBankInfo.cpp": 0.0001772908954955642,
+        "RISCVRegisterBankInfo.h": 2.763090629704149e-05,
+        "RISCVRegisterBanks.td": 1.9775299649400822e-05
+    },
+    "subdirscores": {}
+}

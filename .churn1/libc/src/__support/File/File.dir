@@ -1,0 +1,17 @@
+{
+    "directory name": "llvm-project/libc/src/__support/File",
+    "score.sum": 0.00014908964767193047,
+    "sha.latest": "47b7c91abe7af3133a591aa2e73fffa30826f986",
+    "time.latest": 1717828767.326088,
+    "formatted_time": "2024-06-08 01:39:27.326089",
+    "filescores": {
+        "CMakeLists.txt": 4.2289586679764985e-05,
+        "dir.cpp": 2.5895259603101564e-05,
+        "dir.h": 1.5344785169844876e-05,
+        "file.cpp": 5.33626277316876e-05,
+        "file.h": 6.816596161859325e-05
+    },
+    "subdirscores": {
+        "linux": 2.477454749964202e-05
+    }
+}

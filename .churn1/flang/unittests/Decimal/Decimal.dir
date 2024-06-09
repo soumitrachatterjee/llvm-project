@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/flang/unittests/Decimal",
+    "score.sum": 1.7859992084289953e-05,
+    "sha.latest": "ecd691750648b72b9e0ce6879fcfa60396693a77",
+    "time.latest": 1717812779.9446957,
+    "formatted_time": "2024-06-07 21:12:59.944699",
+    "filescores": {
+        "CMakeLists.txt": 1.041633296958551e-05,
+        "quick-sanity-test.cpp": 1.5978408477136866e-05,
+        "thorough-test.cpp": 1.2211538317289515e-05
+    },
+    "subdirscores": {}
+}

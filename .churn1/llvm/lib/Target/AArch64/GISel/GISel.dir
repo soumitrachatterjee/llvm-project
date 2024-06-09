@@ -1,0 +1,24 @@
+{
+    "directory name": "llvm-project/llvm/lib/Target/AArch64/GISel",
+    "score.sum": 0.0018261035053868835,
+    "sha.latest": "f6b825f51ec8a67c4ace43aaacc27bfd4a78f706",
+    "time.latest": 1717846475.3099382,
+    "formatted_time": "2024-06-08 06:34:35.309942",
+    "filescores": {
+        "AArch64CallLowering.cpp": 0.00022959289311917294,
+        "AArch64CallLowering.h": 3.248207972931688e-05,
+        "AArch64GlobalISelUtils.cpp": 2.029553909532248e-05,
+        "AArch64GlobalISelUtils.h": 1.7622729426574418e-05,
+        "AArch64InstructionSelector.cpp": 0.0005781974493054154,
+        "AArch64LegalizerInfo.cpp": 0.0008266182547017195,
+        "AArch64LegalizerInfo.h": 8.401363825830555e-05,
+        "AArch64O0PreLegalizerCombiner.cpp": 2.207924696505597e-05,
+        "AArch64PostLegalizerCombiner.cpp": 0.00011765878326031925,
+        "AArch64PostLegalizerLowering.cpp": 0.00013048815564317733,
+        "AArch64PostSelectOptimize.cpp": 1.6061668054343406e-05,
+        "AArch64PreLegalizerCombiner.cpp": 9.326955884039508e-05,
+        "AArch64RegisterBankInfo.cpp": 0.00015378060210586582,
+        "AArch64RegisterBankInfo.h": 2.898728528216766e-05
+    },
+    "subdirscores": {}
+}

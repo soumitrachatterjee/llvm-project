@@ -1,0 +1,25 @@
+{
+    "directory name": "llvm-project/llvm/lib/TableGen",
+    "score.sum": 0.0016836917285148925,
+    "sha.latest": "a1ed821b49d9a189c3a0a11228c0de517020feca",
+    "time.latest": 1717844950.3198438,
+    "formatted_time": "2024-06-08 06:09:10.319848",
+    "filescores": {
+        "CMakeLists.txt": 3.6644497278840397e-05,
+        "DetailedRecordsBackend.cpp": 1.482167922025894e-05,
+        "Error.cpp": 5.527566457200931e-05,
+        "JSONBackend.cpp": 3.70711636725268e-05,
+        "Main.cpp": 0.0001540271586262936,
+        "Parser.cpp": 1.3798107845151624e-05,
+        "Record.cpp": 0.0009074924507228283,
+        "SetTheory.cpp": 5.2036858824599234e-05,
+        "StringMatcher.cpp": 3.3068111958275044e-05,
+        "TGLexer.cpp": 0.00027502225493327277,
+        "TGLexer.h": 0.00024770719342147025,
+        "TGParser.cpp": 0.0007763845910502171,
+        "TGParser.h": 0.0002584769768272938,
+        "TableGenBackend.cpp": 3.737745370311727e-05,
+        "TableGenBackendSkeleton.cpp": 1.6250865984932494e-05
+    },
+    "subdirscores": {}
+}

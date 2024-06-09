@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/llvm/docs/DependenceGraphs",
+    "score.sum": 1.2601745052266053e-05,
+    "sha.latest": "0c660256eb41fb0ba44277a32f39d2a028f797f2",
+    "time.latest": 1717800430.119194,
+    "formatted_time": "2024-06-07 17:47:10.119198",
+    "filescores": {
+        "cycle.png": 6.216792069735427e-06,
+        "cycle_pi.png": 6.216792069735427e-06,
+        "index.rst": 1.2587387466003043e-05,
+        "uml_builder_pattern.png": 6.216792069735427e-06,
+        "uml_nodes_and_edges.png": 6.216792069735427e-06
+    },
+    "subdirscores": {}
+}

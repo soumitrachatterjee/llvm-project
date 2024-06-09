@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/mlir/include/mlir/Dialect/SparseTensor/Transforms",
+    "score.sum": 0.000253068750743659,
+    "sha.latest": "d00e6d07b18dbc80b843e332a66d2777c6564523",
+    "time.latest": 1717797293.5733616,
+    "formatted_time": "2024-06-07 16:54:53.573365",
+    "filescores": {
+        "BufferizableOpInterfaceImpl.h": 0,
+        "CMakeLists.txt": 6.157972464370682e-06,
+        "Passes.h": 0.00018217299764123173,
+        "Passes.td": 0.00021887496155017567
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,16 @@
+{
+    "directory name": "llvm-project/mlir/test/Interfaces",
+    "score.sum": 0.00018306743317119203,
+    "sha.latest": "47bc565ca7990a2de20af4030baf08ac62739aca",
+    "time.latest": 1717828634.4561145,
+    "formatted_time": "2024-06-08 01:37:14.456115",
+    "filescores": {},
+    "subdirscores": {
+        "DataLayoutInterfaces": 1.1852572709417153e-05,
+        "DestinationStyleOpInterface": 0,
+        "InferIntRangeInterface": 1.8629472296531597e-05,
+        "InferShapedTypeOpInterface": 1.5443476573636024e-05,
+        "LoopLikeInterface": 6.90546771003754e-06,
+        "TilingInterface": 6.975272836970523e-05
+    }
+}

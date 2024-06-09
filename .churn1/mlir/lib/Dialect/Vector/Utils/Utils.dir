@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/mlir/lib/Dialect/Vector/Utils",
+    "score.sum": 7.132262693567791e-05,
+    "sha.latest": "a1a68603145a39e6abdd35bf7a01535eb53826b1",
+    "time.latest": 1717810401.5895965,
+    "formatted_time": "2024-06-07 20:33:21.589600",
+    "filescores": {
+        "CMakeLists.txt": 1.0212992140117938e-05,
+        "VectorUtils.cpp": 7.023914809477881e-05
+    },
+    "subdirscores": {}
+}

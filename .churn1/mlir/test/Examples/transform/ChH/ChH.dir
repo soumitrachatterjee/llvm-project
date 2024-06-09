@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/mlir/test/Examples/transform/ChH",
+    "score.sum": 6.465535659775546e-06,
+    "sha.latest": "b33b91a21788d439f49d6db4e7224c20f740f1a7",
+    "time.latest": 1717824647.83345,
+    "formatted_time": "2024-06-08 00:30:47.833453",
+    "filescores": {
+        "full.mlir": 6.465535659775546e-06
+    },
+    "subdirscores": {}
+}

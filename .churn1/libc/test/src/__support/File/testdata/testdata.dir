@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/libc/test/src/__support/File/testdata",
+    "score.sum": 0,
+    "sha.latest": "df4814d45d6b691fea9e51c032832730f7a75c71",
+    "time.latest": 1717844954.8364427,
+    "formatted_time": "2024-06-08 06:09:14.836446",
+    "filescores": {
+        "CMakeLists.txt": 0
+    },
+    "subdirscores": {}
+}

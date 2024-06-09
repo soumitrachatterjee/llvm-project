@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/llvm/bindings/ocaml/transforms",
+    "score.sum": 0.0002387875525140893,
+    "sha.latest": "49610edd49cfbf9962729cf39c13cab2ac3cb0f9",
+    "time.latest": 1717788655.4834504,
+    "formatted_time": "2024-06-07 14:30:55.483451",
+    "filescores": {
+        "CMakeLists.txt": 1.1811778068266355e-05
+    },
+    "subdirscores": {
+        "passbuilder": 0,
+        "utils": 2.660691709854002e-05
+    }
+}

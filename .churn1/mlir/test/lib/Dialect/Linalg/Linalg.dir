@@ -1,0 +1,18 @@
+{
+    "directory name": "llvm-project/mlir/test/lib/Dialect/Linalg",
+    "score.sum": 0.00036670727852080876,
+    "sha.latest": "fca72306757aa03d0a25608f307667e6e769b69c",
+    "time.latest": 1717831285.7257855,
+    "formatted_time": "2024-06-08 02:21:25.725789",
+    "filescores": {
+        "CMakeLists.txt": 6.995220408094786e-05,
+        "TestDataLayoutPropagation.cpp": 1.1815848604871636e-05,
+        "TestLinalgDecomposeOps.cpp": 1.6008744650381924e-05,
+        "TestLinalgDropUnitDims.cpp": 6.1016509816252775e-06,
+        "TestLinalgElementwiseFusion.cpp": 7.558479068628417e-05,
+        "TestLinalgFusionTransforms.cpp": 8.478985657993568e-05,
+        "TestLinalgTransforms.cpp": 0.00019532664161064589,
+        "TestPadFusion.cpp": 1.0028191655509574e-05
+    },
+    "subdirscores": {}
+}

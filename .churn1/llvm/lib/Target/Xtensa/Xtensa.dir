@@ -1,0 +1,37 @@
+{
+    "directory name": "llvm-project/llvm/lib/Target/Xtensa",
+    "score.sum": 4.325650609962292e-05,
+    "sha.latest": "b5046a7fa9b38cfcc3980b83a93db678871ad350",
+    "time.latest": 1717873823.5842028,
+    "formatted_time": "2024-06-08 14:10:23.584206",
+    "filescores": {
+        "CMakeLists.txt": 6.099602068851199e-06,
+        "Xtensa.h": 0,
+        "Xtensa.td": 0,
+        "XtensaAsmPrinter.cpp": 0,
+        "XtensaAsmPrinter.h": 0,
+        "XtensaFrameLowering.cpp": 0,
+        "XtensaFrameLowering.h": 0,
+        "XtensaISelDAGToDAG.cpp": 0,
+        "XtensaISelLowering.cpp": 0,
+        "XtensaISelLowering.h": 0,
+        "XtensaInstrFormats.td": 0,
+        "XtensaInstrInfo.cpp": 0,
+        "XtensaInstrInfo.h": 0,
+        "XtensaInstrInfo.td": 0,
+        "XtensaOperands.td": 0,
+        "XtensaRegisterInfo.cpp": 0,
+        "XtensaRegisterInfo.h": 0,
+        "XtensaRegisterInfo.td": 0,
+        "XtensaSubtarget.cpp": 0,
+        "XtensaSubtarget.h": 0,
+        "XtensaTargetMachine.cpp": 1.0592894415849523e-05,
+        "XtensaTargetMachine.h": 9.97277468359661e-06
+    },
+    "subdirscores": {
+        "AsmParser": 2.3938026396368917e-05,
+        "Disassembler": 6.099602068851199e-06,
+        "MCTargetDesc": 1.6050524144435222e-05,
+        "TargetInfo": 0
+    }
+}

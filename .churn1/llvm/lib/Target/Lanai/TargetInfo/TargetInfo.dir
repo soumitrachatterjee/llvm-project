@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/llvm/lib/Target/Lanai/TargetInfo",
+    "score.sum": 4.373038553708721e-05,
+    "sha.latest": "b3a6d096d7c369f5290172c126bd699716bb383c",
+    "time.latest": 1717857901.8898795,
+    "formatted_time": "2024-06-08 09:45:01.889883",
+    "filescores": {
+        "CMakeLists.txt": 1.5229416593782955e-05,
+        "LanaiTargetInfo.cpp": 2.8501257121626186e-05,
+        "LanaiTargetInfo.h": 0
+    },
+    "subdirscores": {}
+}

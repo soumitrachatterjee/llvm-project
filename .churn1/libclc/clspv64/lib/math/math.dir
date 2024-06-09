@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/libclc/clspv64/lib/math",
+    "score.sum": 0,
+    "sha.latest": 0,
+    "time.latest": 1717824084.7919085,
+    "formatted_time": "2024-06-08 00:21:24.791912",
+    "filescores": {
+        "fma.cl": 0,
+        "nextafter.cl": 0,
+        "nextafter.inc": 0
+    },
+    "subdirscores": {}
+}

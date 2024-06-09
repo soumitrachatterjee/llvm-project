@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/libc/src/string/memory_utils/riscv",
+    "score.sum": 8.59058788972298e-06,
+    "sha.latest": "330793c91d08e6ac60334e4813746db898b9407e",
+    "time.latest": 1717840524.7433722,
+    "formatted_time": "2024-06-08 04:55:24.743376",
+    "filescores": {
+        "inline_bcmp.h": 6.099602068851199e-06,
+        "inline_memcmp.h": 6.099602068851199e-06,
+        "inline_memcpy.h": 6.099602068851199e-06,
+        "inline_memmove.h": 7.975113520872978e-06,
+        "inline_memset.h": 6.099602068851199e-06
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/llvm/bindings/ocaml/backends",
+    "score.sum": 1.8756716675234106e-05,
+    "sha.latest": "8e4fc55a0e544d7d370a2d7689dbb622b2caefca",
+    "time.latest": 1717788097.405241,
+    "formatted_time": "2024-06-07 14:21:37.405244",
+    "filescores": {
+        "CMakeLists.txt": 6.3577850638919e-06,
+        "META.llvm_backend.in": 1.2203711686168007e-05,
+        "backend_ocaml.c": 1.1166169656174562e-05,
+        "llvm_backend.ml.in": 6.099602068851199e-06,
+        "llvm_backend.mli.in": 6.099602068851199e-06
+    },
+    "subdirscores": {}
+}

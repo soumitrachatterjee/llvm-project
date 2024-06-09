@@ -1,0 +1,25 @@
+{
+    "directory name": "llvm-project/llvm/lib/BinaryFormat",
+    "score.sum": 0.0004599514291095523,
+    "sha.latest": "894c22406f68af6574a62a40ec49e058344c324b",
+    "time.latest": 1717828420.35189,
+    "formatted_time": "2024-06-08 01:33:40.351894",
+    "filescores": {
+        "AMDGPUMetadataVerifier.cpp": 5.640496696515207e-05,
+        "CMakeLists.txt": 4.5300142332849245e-05,
+        "COFF.cpp": 0,
+        "DXContainer.cpp": 2.239966209086025e-05,
+        "Dwarf.cpp": 0.00010870028504620883,
+        "ELF.cpp": 1.0982931308980683e-05,
+        "MachO.cpp": 1.5437468386117806e-05,
+        "Magic.cpp": 0.00011119110421931201,
+        "Minidump.cpp": 0,
+        "MsgPackDocument.cpp": 1.6599141316841514e-05,
+        "MsgPackDocumentYAML.cpp": 6.134235385783149e-06,
+        "MsgPackReader.cpp": 1.0450322437649555e-05,
+        "MsgPackWriter.cpp": 6.709114899153281e-06,
+        "Wasm.cpp": 3.926202365203852e-05,
+        "XCOFF.cpp": 2.4646023030893457e-05
+    },
+    "subdirscores": {}
+}

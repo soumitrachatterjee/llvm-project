@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/mlir/include/mlir/Dialect/Shape/Transforms",
+    "score.sum": 8.102400074317904e-05,
+    "sha.latest": "9f77909a5e07b7973fe13d4ea6391c29ff1b46b5",
+    "time.latest": 1717797086.7597504,
+    "formatted_time": "2024-06-07 16:51:26.759754",
+    "filescores": {
+        "BufferizableOpInterfaceImpl.h": 0,
+        "CMakeLists.txt": 7.181629574818761e-06,
+        "Passes.h": 6.713340308007195e-05,
+        "Passes.td": 4.622811570119952e-05
+    },
+    "subdirscores": {}
+}

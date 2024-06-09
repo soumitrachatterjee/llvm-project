@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/mlir/include/mlir/Rewrite",
+    "score.sum": 4.113301428432112e-05,
+    "sha.latest": "1020150e7a6f6d6f833c232125c5ab817c03c76b",
+    "time.latest": 1717799808.26618,
+    "formatted_time": "2024-06-07 17:36:48.266184",
+    "filescores": {
+        "FrozenRewritePatternSet.h": 1.4631515479760447e-05,
+        "PassUtil.td": 6.099602068851199e-06,
+        "PatternApplicator.h": 2.216357205459558e-05
+    },
+    "subdirscores": {}
+}

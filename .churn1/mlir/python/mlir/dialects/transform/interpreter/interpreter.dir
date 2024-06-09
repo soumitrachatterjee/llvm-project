@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/mlir/python/mlir/dialects/transform/interpreter",
+    "score.sum": 0,
+    "sha.latest": "91f11611337dde9a8e0a5e19240f6bb4671922c6",
+    "time.latest": 1717814259.4297862,
+    "formatted_time": "2024-06-07 21:37:39.429790",
+    "filescores": {
+        "__init__.py": 0
+    },
+    "subdirscores": {}
+}

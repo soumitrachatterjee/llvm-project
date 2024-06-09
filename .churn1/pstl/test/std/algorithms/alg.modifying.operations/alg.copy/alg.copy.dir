@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/pstl/test/std/algorithms/alg.modifying.operations/alg.copy",
+    "score.sum": 1.3180537629176497e-05,
+    "sha.latest": "3b9a1bb1af90db9472340ef2122d3855eb9ba3fc",
+    "time.latest": 1717791419.8152866,
+    "formatted_time": "2024-06-07 15:16:59.815290",
+    "filescores": {
+        "copy_if.pass.cpp": 1.3180537629176497e-05
+    },
+    "subdirscores": {}
+}

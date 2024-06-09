@@ -1,0 +1,37 @@
+{
+    "directory name": "llvm-project/llvm/include/llvm/BinaryFormat",
+    "score.sum": 0.0019070235937045886,
+    "sha.latest": "50136ca11f62050b34876a920fcd87d2aefccfdb",
+    "time.latest": 1717808569.2890122,
+    "formatted_time": "2024-06-07 20:02:49.289016",
+    "filescores": {
+        "AMDGPUMetadataVerifier.h": 2.349587665827724e-05,
+        "COFF.h": 7.28246852490206e-05,
+        "DXContainer.h": 4.2951722201299e-05,
+        "DXContainerConstants.def": 2.3671230529368077e-05,
+        "Dwarf.def": 0.00016625886369841722,
+        "Dwarf.h": 0.00019128612825589019,
+        "DynamicTags.def": 4.518256743287729e-05,
+        "ELF.h": 0.0004741125098636354,
+        "GOFF.h": 2.2871927646414567e-05,
+        "MachO.def": 2.7674646696339288e-05,
+        "MachO.h": 0.00017443373959437437,
+        "Magic.h": 6.483806092668026e-05,
+        "Minidump.h": 1.0485474212450985e-05,
+        "MinidumpConstants.def": 8.847777644933672e-06,
+        "MsgPack.def": 6.099602068851199e-06,
+        "MsgPack.h": 1.2678413715063074e-05,
+        "MsgPackDocument.h": 1.8837164403139393e-05,
+        "MsgPackReader.h": 1.7178294021099663e-05,
+        "MsgPackWriter.h": 1.120166211479609e-05,
+        "Swift.def": 1.8575983915979637e-05,
+        "Swift.h": 1.564221221604835e-05,
+        "Wasm.h": 0.0002695367731704351,
+        "WasmRelocs.def": 4.2735558557750436e-05,
+        "WasmTraits.h": 1.267072911280037e-05,
+        "XCOFF.h": 7.69405809510127e-05
+    },
+    "subdirscores": {
+        "ELFRelocs": 0.00017932730406246432
+    }
+}

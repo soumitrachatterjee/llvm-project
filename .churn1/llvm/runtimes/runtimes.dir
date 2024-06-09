@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/llvm/runtimes",
+    "score.sum": 0.0005878534965022197,
+    "sha.latest": "47b7c91abe7af3133a591aa2e73fffa30826f986",
+    "time.latest": 1717878283.8801298,
+    "formatted_time": "2024-06-08 15:24:43.880133",
+    "filescores": {
+        "CMakeLists.txt": 0.0005856984354924683
+    },
+    "subdirscores": {}
+}

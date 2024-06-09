@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/mlir/include/mlir/Dialect/SPIRV/Transforms",
+    "score.sum": 0.00011543368705262157,
+    "sha.latest": "5aee156b2ad2baea5d17e58ee3c5ef360d3ffaec",
+    "time.latest": 1717796948.431918,
+    "formatted_time": "2024-06-07 16:49:08.431921",
+    "filescores": {
+        "CMakeLists.txt": 6.099602068851199e-06,
+        "Passes.h": 5.835951149687026e-05,
+        "Passes.td": 4.4287293450676144e-05,
+        "SPIRVConversion.h": 6.802234092341139e-05,
+        "SPIRVWebGPUTransforms.h": 0
+    },
+    "subdirscores": {}
+}

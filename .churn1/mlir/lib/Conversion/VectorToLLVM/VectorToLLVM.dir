@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/mlir/lib/Conversion/VectorToLLVM",
+    "score.sum": 0.0006340755951259283,
+    "sha.latest": "cb6ff746e0c7b9218b6f5c11db44162cacd623a4",
+    "time.latest": 1717804262.9748204,
+    "formatted_time": "2024-06-07 18:51:02.974824",
+    "filescores": {
+        "CMakeLists.txt": 8.27381435941237e-05,
+        "ConvertVectorToLLVM.cpp": 0.00045247725506264035,
+        "ConvertVectorToLLVMPass.cpp": 0.00011299688586412889
+    },
+    "subdirscores": {}
+}

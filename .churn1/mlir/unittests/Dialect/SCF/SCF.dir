@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/mlir/unittests/Dialect/SCF",
+    "score.sum": 2.4598642796261613e-05,
+    "sha.latest": "2fe9a342a69d25636421b105d8c5e0cbbcce6a75",
+    "time.latest": 1717836137.0742025,
+    "formatted_time": "2024-06-08 03:42:17.074206",
+    "filescores": {
+        "CMakeLists.txt": 6.373612700167734e-06,
+        "LoopLikeSCFOpsTest.cpp": 7.550359207454465e-06
+    },
+    "subdirscores": {}
+}

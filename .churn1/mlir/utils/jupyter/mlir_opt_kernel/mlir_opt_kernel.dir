@@ -1,0 +1,16 @@
+{
+    "directory name": "llvm-project/mlir/utils/jupyter/mlir_opt_kernel",
+    "score.sum": 1.2900537876681353e-05,
+    "sha.latest": "f9008e6366c2496b1ca1785b891d5578174ad63e",
+    "time.latest": 1717836898.5529926,
+    "formatted_time": "2024-06-08 03:54:58.552996",
+    "filescores": {
+        "__init__.py": 0,
+        "__main__.py": 6.099602068851199e-06,
+        "install.py": 6.099602068851199e-06,
+        "kernel.py": 1.2900537876681353e-05
+    },
+    "subdirscores": {
+        "assets": 0
+    }
+}

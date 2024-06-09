@@ -1,0 +1,16 @@
+{
+    "directory name": "llvm-project/llvm/test/Analysis/UniformityAnalysis/NVPTX",
+    "score.sum": 7.605295169901297e-06,
+    "sha.latest": "09e12d13a04f8861b881f79a96ef8a60c9840ee1",
+    "time.latest": 1717893891.9425025,
+    "formatted_time": "2024-06-08 19:44:51.942506",
+    "filescores": {
+        "daorder.ll": 0,
+        "diverge.ll": 0,
+        "hidden_diverge.ll": 0,
+        "irreducible.ll": 0,
+        "lit.local.cfg": 6.099602068851199e-06,
+        "non-header-join.ll": 0
+    },
+    "subdirscores": {}
+}

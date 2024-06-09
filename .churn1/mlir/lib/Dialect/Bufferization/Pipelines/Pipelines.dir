@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/mlir/lib/Dialect/Bufferization/Pipelines",
+    "score.sum": 8.03982624278365e-06,
+    "sha.latest": "c08d972a0043fe67de65ba331a144425c8cea449",
+    "time.latest": 1717805600.4959807,
+    "formatted_time": "2024-06-07 19:13:20.495984",
+    "filescores": {
+        "BufferizationPipelines.cpp": 8.03982624278365e-06,
+        "CMakeLists.txt": 7.44575671226875e-06
+    },
+    "subdirscores": {}
+}

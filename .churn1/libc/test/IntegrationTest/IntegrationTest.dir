@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/libc/test/IntegrationTest",
+    "score.sum": 3.7140814424951625e-05,
+    "sha.latest": "47b7c91abe7af3133a591aa2e73fffa30826f986",
+    "time.latest": 1717843871.7171464,
+    "formatted_time": "2024-06-08 05:51:11.717150",
+    "filescores": {
+        "CMakeLists.txt": 1.6911631274711722e-05,
+        "test.cpp": 1.4394399533478656e-05,
+        "test.h": 1.5886359809208093e-05
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/llvm/include/llvm/Debuginfod",
+    "score.sum": 5.691220621624881e-05,
+    "sha.latest": "6594f428de91e333c1cbea4f55e79b18d31024c4",
+    "time.latest": 1717814581.8727987,
+    "formatted_time": "2024-06-07 21:43:01.872802",
+    "filescores": {
+        "BuildIDFetcher.h": 6.099602068851199e-06,
+        "Debuginfod.h": 3.82362264316002e-05,
+        "HTTPClient.h": 1.177852101957425e-05,
+        "HTTPServer.h": 6.272908935860196e-06
+    },
+    "subdirscores": {}
+}

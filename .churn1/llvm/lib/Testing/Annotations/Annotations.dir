@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/llvm/lib/Testing/Annotations",
+    "score.sum": 6.099602068851199e-06,
+    "sha.latest": "0807986303f5d498cee32d42c242940d00617ad9",
+    "time.latest": 1717874043.8265584,
+    "formatted_time": "2024-06-08 14:14:03.826562",
+    "filescores": {
+        "Annotations.cpp": 0,
+        "CMakeLists.txt": 6.099602068851199e-06
+    },
+    "subdirscores": {}
+}

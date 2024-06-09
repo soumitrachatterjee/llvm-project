@@ -1,0 +1,24 @@
+{
+    "directory name": "llvm-project/mlir/lib/Dialect/LLVMIR/IR",
+    "score.sum": 0.0018533000879400285,
+    "sha.latest": "91d5653e3ae9742f7fb847f809b534ee128501b0",
+    "time.latest": 1717806613.3748298,
+    "formatted_time": "2024-06-07 19:30:13.374834",
+    "filescores": {
+        "BasicPtxBuilderInterface.cpp": 6.580188767134377e-06,
+        "FunctionCallUtils.cpp": 5.072718782616408e-05,
+        "LLVMAttrs.cpp": 4.78818912808122e-05,
+        "LLVMDialect.cpp": 0.0011585393714268913,
+        "LLVMInlining.cpp": 5.715771788525054e-05,
+        "LLVMInlining.h": 0,
+        "LLVMInterfaces.cpp": 2.6944628593606388e-05,
+        "LLVMMemorySlot.cpp": 2.8820051153221e-05,
+        "LLVMTypeSyntax.cpp": 9.840871512571251e-05,
+        "LLVMTypes.cpp": 0.00017165197037058175,
+        "NVVMDialect.cpp": 0.00030104769784215026,
+        "ROCDLDialect.cpp": 8.26541562885771e-05,
+        "TypeDetail.h": 3.168172816051744e-05,
+        "VCIXDialect.cpp": 0
+    },
+    "subdirscores": {}
+}

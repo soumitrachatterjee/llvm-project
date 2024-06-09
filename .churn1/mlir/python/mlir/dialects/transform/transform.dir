@@ -1,0 +1,24 @@
+{
+    "directory name": "llvm-project/mlir/python/mlir/dialects/transform",
+    "score.sum": 0.00012734136583209598,
+    "sha.latest": "91f11611337dde9a8e0a5e19240f6bb4671922c6",
+    "time.latest": 1717814324.0017922,
+    "formatted_time": "2024-06-07 21:38:44.001796",
+    "filescores": {
+        "__init__.py": 6.209097688465724e-05,
+        "bufferization.py": 9.383007925993464e-06,
+        "gpu.py": 6.099602068851199e-06,
+        "loop.py": 1.61091322216834e-05,
+        "memref.py": 6.099602068851199e-06,
+        "nvgpu.py": 0,
+        "pdl.py": 6.099602068851199e-06,
+        "sparse_tensor.py": 0,
+        "structured.py": 1.5668800753261607e-05,
+        "tensor.py": 6.099602068851199e-06,
+        "vector.py": 0
+    },
+    "subdirscores": {
+        "extras": 1.1673854401672239e-05,
+        "interpreter": 0
+    }
+}

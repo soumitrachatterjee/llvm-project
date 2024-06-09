@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/llvm/bindings/ocaml/analysis",
+    "score.sum": 5.4055216756792965e-05,
+    "sha.latest": "30f423a543641816e367cd17dad3d4808cba8a79",
+    "time.latest": 1717788020.8360794,
+    "formatted_time": "2024-06-07 14:20:20.836083",
+    "filescores": {
+        "CMakeLists.txt": 1.182308695405876e-05,
+        "analysis_ocaml.c": 3.6415073055663416e-05,
+        "llvm_analysis.ml": 1.3665489819427249e-05,
+        "llvm_analysis.mli": 1.776365106347221e-05
+    },
+    "subdirscores": {}
+}

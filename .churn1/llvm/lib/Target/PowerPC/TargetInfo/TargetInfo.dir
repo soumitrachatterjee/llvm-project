@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/llvm/lib/Target/PowerPC/TargetInfo",
+    "score.sum": 8.765787131722377e-05,
+    "sha.latest": "b3a6d096d7c369f5290172c126bd699716bb383c",
+    "time.latest": 1717864121.772417,
+    "formatted_time": "2024-06-08 11:28:41.772420",
+    "filescores": {
+        "CMakeLists.txt": 2.4496702701763237e-05,
+        "PowerPCTargetInfo.cpp": 5.208408603324561e-05,
+        "PowerPCTargetInfo.h": 6.099602068851199e-06
+    },
+    "subdirscores": {}
+}

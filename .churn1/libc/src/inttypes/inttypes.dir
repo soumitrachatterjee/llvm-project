@@ -1,0 +1,19 @@
+{
+    "directory name": "llvm-project/libc/src/inttypes",
+    "score.sum": 1.8670736031199824e-05,
+    "sha.latest": "b6bc9d72f65a5086f310f321e969d96e9a559e75",
+    "time.latest": 1717830931.4148057,
+    "formatted_time": "2024-06-08 02:15:31.414809",
+    "filescores": {
+        "CMakeLists.txt": 1.0886697685092012e-05,
+        "imaxabs.cpp": 6.099602068851199e-06,
+        "imaxabs.h": 6.099602068851199e-06,
+        "imaxdiv.cpp": 6.750670416390777e-06,
+        "imaxdiv.h": 6.099602068851199e-06,
+        "strtoimax.cpp": 1.4892904645550401e-05,
+        "strtoimax.h": 6.099602068851199e-06,
+        "strtoumax.cpp": 1.4892904645550401e-05,
+        "strtoumax.h": 6.099602068851199e-06
+    },
+    "subdirscores": {}
+}

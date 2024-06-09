@@ -1,0 +1,18 @@
+{
+    "directory name": "llvm-project/polly/test/JSONExporter/ImportSchedule",
+    "score.sum": 2.4989362720776464e-05,
+    "sha.latest": "b332499a94df11870dfc7598645c59656deb933d",
+    "time.latest": 1717814087.6455603,
+    "formatted_time": "2024-06-07 21:34:47.645563",
+    "filescores": {
+        "ImportSchedule-No-schedule-key.ll": 2.048203553638002e-05,
+        "ImportSchedule-Schedule-not-valid.ll": 2.4989362720776464e-05,
+        "ImportSchedule-Statements-mispelled.ll": 2.048203553638002e-05,
+        "ImportSchedule-Wrong-number-statements.ll": 2.048203553638002e-05,
+        "is2___%for.cond---%for.end10.jscop": 0,
+        "is3___%for.cond---%for.end10.jscop": 0,
+        "is4___%for.cond---%for.end10.jscop": 0,
+        "is___%for.cond---%for.end10.jscop": 0
+    },
+    "subdirscores": {}
+}

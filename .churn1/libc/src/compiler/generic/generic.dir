@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/libc/src/compiler/generic",
+    "score.sum": 7.2452481782793106e-06,
+    "sha.latest": "8f6352fcb309c1c0b394b173f589bc9322437aa0",
+    "time.latest": 1717830124.0532072,
+    "formatted_time": "2024-06-08 02:02:04.053211",
+    "filescores": {
+        "CMakeLists.txt": 6.099602068851199e-06,
+        "__stack_chk_fail.cpp": 6.099602068851199e-06
+    },
+    "subdirscores": {}
+}

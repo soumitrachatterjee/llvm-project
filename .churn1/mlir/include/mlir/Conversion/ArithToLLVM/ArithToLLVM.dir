@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/mlir/include/mlir/Conversion/ArithToLLVM",
+    "score.sum": 1.829833831948013e-05,
+    "sha.latest": "c4769ef59c07bcb8c1ab0d9c0fe6e9ef319ffa6a",
+    "time.latest": 1717791251.0729587,
+    "formatted_time": "2024-06-07 15:14:11.072962",
+    "filescores": {
+        "ArithToLLVM.h": 1.829833831948013e-05
+    },
+    "subdirscores": {}
+}

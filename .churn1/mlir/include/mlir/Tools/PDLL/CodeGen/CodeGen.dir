@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/mlir/include/mlir/Tools/PDLL/CodeGen",
+    "score.sum": 0,
+    "sha.latest": "9ad64a5c78a98c4f9eb4fff7c9c7665925db6907",
+    "time.latest": 1717800628.9011416,
+    "formatted_time": "2024-06-07 17:50:28.901146",
+    "filescores": {
+        "CPPGen.h": 0,
+        "MLIRGen.h": 0
+    },
+    "subdirscores": {}
+}

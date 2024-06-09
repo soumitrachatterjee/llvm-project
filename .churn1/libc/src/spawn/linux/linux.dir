@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/libc/src/spawn/linux",
+    "score.sum": 1.902498484816352e-05,
+    "sha.latest": "128d53f44cae211ad5501733ec1d9bc787b6f7a9",
+    "time.latest": 1717836568.425173,
+    "formatted_time": "2024-06-08 03:49:28.425176",
+    "filescores": {
+        "CMakeLists.txt": 6.099602068851199e-06,
+        "posix_spawn.cpp": 1.7285719005572594e-05
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,22 @@
+{
+    "directory name": "llvm-project/mlir/lib/Dialect/SparseTensor/Transforms/Utils",
+    "score.sum": 7.791413814746451e-05,
+    "sha.latest": "52b69aa32f5280ce600fbfea1c16a6f17a979c4d",
+    "time.latest": 1717809279.361679,
+    "formatted_time": "2024-06-07 20:14:39.361683",
+    "filescores": {
+        "CodegenEnv.cpp": 7.050368869112667e-06,
+        "CodegenEnv.h": 6.217888286801974e-06,
+        "CodegenUtils.cpp": 1.7191794221195038e-05,
+        "CodegenUtils.h": 1.6152184524669294e-05,
+        "IterationGraphSorter.cpp": 9.437959833674516e-06,
+        "IterationGraphSorter.h": 9.437959833674516e-06,
+        "LoopEmitter.cpp": 3.349557855074445e-05,
+        "LoopEmitter.h": 1.8117649631302866e-05,
+        "SparseTensorDescriptor.cpp": 6.099602068851199e-06,
+        "SparseTensorDescriptor.h": 6.185696648553044e-06,
+        "SparseTensorLevel.cpp": 6.005897711378498e-05,
+        "SparseTensorLevel.h": 2.735969464911517e-05
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/libc/src/wchar",
+    "score.sum": 9.657691075338506e-06,
+    "sha.latest": "69c0b2febe01108f50db6e8ed21cd8b2e6088caf",
+    "time.latest": 1717843616.5580668,
+    "formatted_time": "2024-06-08 05:46:56.558070",
+    "filescores": {
+        "CMakeLists.txt": 6.259013509888971e-06,
+        "btowc.cpp": 6.099602068851199e-06,
+        "btowc.h": 6.099602068851199e-06,
+        "wctob.cpp": 6.099602068851199e-06,
+        "wctob.h": 6.099602068851199e-06
+    },
+    "subdirscores": {}
+}

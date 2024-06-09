@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/polly/lib/External/isl/imath/contrib",
+    "score.sum": 6.447848498601845e-06,
+    "sha.latest": "658eb9e14264d48888ade0e3daf0b648f76c3f0e",
+    "time.latest": 1717794301.2649238,
+    "formatted_time": "2024-06-07 16:05:01.264927",
+    "filescores": {
+        "Makefile.msvc": 6.447848498601845e-06,
+        "README": 6.447848498601845e-06
+    },
+    "subdirscores": {}
+}

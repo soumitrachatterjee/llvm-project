@@ -1,0 +1,41 @@
+{
+    "directory name": "llvm-project/libc/test/src/stdio",
+    "score.sum": 0.0005964690706335994,
+    "sha.latest": "f7d4236adf8e0865e734216626c378345f673ca5",
+    "time.latest": 1717850005.0177557,
+    "formatted_time": "2024-06-08 07:33:25.017759",
+    "filescores": {
+        "CMakeLists.txt": 0.00021861486549218856,
+        "fgetc_test.cpp": 1.3814905875324463e-05,
+        "fgetc_unlocked_test.cpp": 1.3201086831981219e-05,
+        "fgets_test.cpp": 1.942774369893283e-05,
+        "fileop_test.cpp": 3.667590235770858e-05,
+        "fopen_test.cpp": 1.2507627950178061e-05,
+        "fopencookie_test.cpp": 2.6536996487279687e-05,
+        "fprintf_test.cpp": 2.6926499506518355e-05,
+        "fputc_test.cpp": 1.1194120246247517e-05,
+        "fputs_test.cpp": 6.099602068851199e-06,
+        "fscanf_test.cpp": 1.5793050969645604e-05,
+        "ftell_test.cpp": 1.558774824905786e-05,
+        "printf_test.cpp": 9.191528238107209e-06,
+        "putc_test.cpp": 1.0533959054268326e-05,
+        "puts_test.cpp": 8.394343848672552e-06,
+        "remove_test.cpp": 3.1981500011125756e-05,
+        "setbuf_test.cpp": 7.886276392522788e-06,
+        "setvbuf_test.cpp": 1.9245090120474908e-05,
+        "snprintf_test.cpp": 1.463531968313938e-05,
+        "sprintf_test.cpp": 0.00017661348725081456,
+        "sscanf_test.cpp": 5.638132350659008e-05,
+        "ungetc_test.cpp": 1.3520005682229941e-05,
+        "unlocked_fileop_test.cpp": 2.271814365466799e-05,
+        "vfprintf_test.cpp": 1.2343356402625034e-05,
+        "vprintf_test.cpp": 6.099602068851199e-06,
+        "vsnprintf_test.cpp": 6.099602068851199e-06,
+        "vsprintf_test.cpp": 6.099602068851199e-06
+    },
+    "subdirscores": {
+        "printf_core": 4.84163338081772e-05,
+        "scanf_core": 2.277691032175677e-05,
+        "testdata": 0
+    }
+}

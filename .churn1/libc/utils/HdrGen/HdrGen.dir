@@ -1,0 +1,23 @@
+{
+    "directory name": "llvm-project/libc/utils/HdrGen",
+    "score.sum": 0.00014229177651906648,
+    "sha.latest": "6cfbf8ccce8295b5d130c48a76a134da5f6194ae",
+    "time.latest": 1717851859.5439653,
+    "formatted_time": "2024-06-08 08:04:19.543969",
+    "filescores": {
+        "CMakeLists.txt": 4.699997812760499e-05,
+        "Command.cpp": 6.099602068851199e-06,
+        "Command.h": 7.913262606555154e-06,
+        "Generator.cpp": 2.458649579745311e-05,
+        "Generator.h": 2.0438150514444475e-05,
+        "IncludeFileCommand.cpp": 6.099602068851199e-06,
+        "IncludeFileCommand.h": 6.099602068851199e-06,
+        "Main.cpp": 2.137614099191959e-05,
+        "PublicAPICommand.cpp": 2.7659113790714753e-05,
+        "PublicAPICommand.h": 9.677953872411824e-06,
+        "README.md": 0
+    },
+    "subdirscores": {
+        "PrototypeTestGen": 5.508026504716225e-05
+    }
+}

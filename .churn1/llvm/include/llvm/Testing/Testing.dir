@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/llvm/include/llvm/Testing",
+    "score.sum": 0.00013875391682208077,
+    "sha.latest": "da6642a1c81bb5ff68153bcdc138e75e6ecdce43",
+    "time.latest": 1717823436.327296,
+    "formatted_time": "2024-06-08 00:10:36.327296",
+    "filescores": {},
+    "subdirscores": {
+        "ADT": 6.099602068851199e-06,
+        "Annotations": 0,
+        "Support": 0.00012736628582773506
+    }
+}

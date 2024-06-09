@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/mlir/lib/Dialect/XeGPU",
+    "score.sum": 0,
+    "sha.latest": "5669660f37ef1800f4a7852577364b024d75e3d8",
+    "time.latest": 1717810526.2959375,
+    "formatted_time": "2024-06-07 20:35:26.295938",
+    "filescores": {
+        "CMakeLists.txt": 0
+    },
+    "subdirscores": {
+        "IR": 0
+    }
+}

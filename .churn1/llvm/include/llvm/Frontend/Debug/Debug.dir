@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/llvm/include/llvm/Frontend/Debug",
+    "score.sum": 0,
+    "sha.latest": "ab49747f9d67d82a1cf0f19196ff29f01d4384f5",
+    "time.latest": 1717815924.1584337,
+    "formatted_time": "2024-06-07 22:05:24.158437",
+    "filescores": {
+        "Options.h": 0
+    },
+    "subdirscores": {}
+}

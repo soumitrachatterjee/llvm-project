@@ -1,0 +1,19 @@
+{
+    "directory name": "llvm-project/mlir/test/Dialect/SparseTensor/GPU",
+    "score.sum": 7.581854077691484e-05,
+    "sha.latest": "fc9f1d49aae4328ef36e1d9ba606e93703fde970",
+    "time.latest": 1717822104.1943133,
+    "formatted_time": "2024-06-07 23:48:24.194317",
+    "filescores": {
+        "gpu_combi.mlir": 1.1496927579326177e-05,
+        "gpu_matmul.mlir": 1.823206825439241e-05,
+        "gpu_matmul24_lib.mlir": 6.099602068851199e-06,
+        "gpu_matmul_lib.mlir": 2.0784144386190473e-05,
+        "gpu_matvec.mlir": 1.823206825439241e-05,
+        "gpu_matvec_lib.mlir": 2.2939674487158828e-05,
+        "gpu_sampled_matmul_lib.mlir": 2.6318165480410266e-05,
+        "gpu_sddmm_lib.mlir": 1.0754442590424021e-05,
+        "gpu_spgemm_lib.mlir": 1.627339077289274e-05
+    },
+    "subdirscores": {}
+}

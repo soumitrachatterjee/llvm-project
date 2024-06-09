@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/mlir/lib/Dialect/OpenACC/Transforms",
+    "score.sum": 9.824855265050919e-06,
+    "sha.latest": "4c9717c3bee3525c2bf0251469191cc65e246a14",
+    "time.latest": 1717807895.546159,
+    "formatted_time": "2024-06-07 19:51:35.546162",
+    "filescores": {
+        "CMakeLists.txt": 2.1220887999951895e-05,
+        "LegalizeData.cpp": 8.95906342177057e-06
+    },
+    "subdirscores": {}
+}

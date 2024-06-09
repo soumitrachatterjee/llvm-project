@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/mlir/include",
+    "score.sum": 0.029656540941023504,
+    "sha.latest": "3ec1f25f3cf9346590892397ec9ddd859397d363",
+    "time.latest": 1717801097.1271467,
+    "formatted_time": "2024-06-07 17:58:17.127147",
+    "filescores": {},
+    "subdirscores": {
+        "mlir-c": 0.0008735883066387454,
+        "mlir": 0.029157830585532465
+    }
+}

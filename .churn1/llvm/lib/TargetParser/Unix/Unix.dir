@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/llvm/lib/TargetParser/Unix",
+    "score.sum": 0,
+    "sha.latest": "f09cf34d00625e57dea5317a3ac0412c07292148",
+    "time.latest": 1717873970.3504734,
+    "formatted_time": "2024-06-08 14:12:50.350477",
+    "filescores": {
+        "Host.inc": 0
+    },
+    "subdirscores": {}
+}

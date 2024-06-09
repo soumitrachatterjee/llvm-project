@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/mlir/test/mlir-spirv-cpu-runner",
+    "score.sum": 7.243663768380377e-05,
+    "sha.latest": "3dde2604be2a7de4266c3d8ebe5efd3730b6ccce",
+    "time.latest": 1717833481.6573513,
+    "formatted_time": "2024-06-08 02:58:01.657355",
+    "filescores": {
+        "CMakeLists.txt": 0,
+        "double.mlir": 6.287826376870199e-05,
+        "lit.local.cfg": 2.2442266497638484e-05,
+        "mlir_test_spirv_cpu_runner_c_wrappers.cpp": 2.465073128890348e-05,
+        "simple_add.mlir": 6.287826376870199e-05
+    },
+    "subdirscores": {}
+}

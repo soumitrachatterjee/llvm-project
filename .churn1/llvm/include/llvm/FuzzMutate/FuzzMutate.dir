@@ -1,0 +1,16 @@
+{
+    "directory name": "llvm-project/llvm/include/llvm/FuzzMutate",
+    "score.sum": 0.00015551846625362745,
+    "sha.latest": "3eae1bf4c2c768dfadb03ede0e43168dbac4e683",
+    "time.latest": 1717816223.4941368,
+    "formatted_time": "2024-06-07 22:10:23.494140",
+    "filescores": {
+        "FuzzerCLI.h": 3.799705494826515e-05,
+        "IRMutator.h": 6.835091218360648e-05,
+        "OpDescriptor.h": 4.474010593707653e-05,
+        "Operations.h": 1.3339749107869445e-05,
+        "Random.h": 1.0623937725994187e-05,
+        "RandomIRBuilder.h": 5.958691671121845e-05
+    },
+    "subdirscores": {}
+}

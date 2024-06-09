@@ -1,0 +1,31 @@
+{
+    "directory name": "llvm-project/llvm/test/Analysis/Delinearization",
+    "score.sum": 0.00010332067975013558,
+    "sha.latest": "efe4e7a026056758a6bd535a2172a21aee5d41f5",
+    "time.latest": 1717886990.8184233,
+    "formatted_time": "2024-06-08 17:49:50.818427",
+    "filescores": {
+        "a.ll": 4.199824953989488e-05,
+        "byte_offset.ll": 8.127791146513035e-06,
+        "constant_functions_multi_dim.ll": 2.9016788878213857e-05,
+        "divide_by_one.ll": 1.5496288184579036e-05,
+        "gcd_multiply_expr.ll": 2.144364135551429e-05,
+        "himeno_1.ll": 1.8870930071511554e-05,
+        "himeno_2.ll": 1.8870930071511554e-05,
+        "iv_times_constant_in_subscript.ll": 3.340522421283784e-05,
+        "lit.local.cfg": 6.417313284261734e-06,
+        "multidim_ivs_and_integer_offsets_3d.ll": 2.5744449240701808e-05,
+        "multidim_ivs_and_integer_offsets_nts_3d.ll": 1.930619175159915e-05,
+        "multidim_ivs_and_parameteric_offsets_3d.ll": 2.44422474167287e-05,
+        "multidim_only_ivs_2d.ll": 1.9252759089335495e-05,
+        "multidim_only_ivs_2d_nested.ll": 1.7128061615696384e-05,
+        "multidim_only_ivs_3d.ll": 1.8003989927626044e-05,
+        "multidim_only_ivs_3d_cast.ll": 2.2818444097420328e-05,
+        "multidim_two_accesses_different_delinearization.ll": 2.3630015541150407e-05,
+        "parameter_addrec_product.ll": 1.530960195687402e-05,
+        "terms_with_identity_factor.ll": 1.4816696984794475e-05,
+        "type_mismatch.ll": 1.5494322194548884e-05,
+        "undef.ll": 1.6950603696581656e-05
+    },
+    "subdirscores": {}
+}

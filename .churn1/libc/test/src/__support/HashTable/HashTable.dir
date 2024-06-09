@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/libc/test/src/__support/HashTable",
+    "score.sum": 2.9003676378465386e-05,
+    "sha.latest": "86e99e11e50da254ddaf73fbb9ea24028756bdd7",
+    "time.latest": 1717844992.9656272,
+    "formatted_time": "2024-06-08 06:09:52.965630",
+    "filescores": {
+        "CMakeLists.txt": 6.099602068851199e-06,
+        "bitmask_test.cpp": 6.099602068851199e-06,
+        "group_test.cpp": 0,
+        "table_test.cpp": 2.3632526968666373e-05
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/llvm/test/Analysis/DotMachineCFG/AMDGPU",
+    "score.sum": 1.6005672620959344e-05,
+    "sha.latest": "ebf01690d9b3d922909d9aecdf1db1a944a56298",
+    "time.latest": 1717887555.3120465,
+    "formatted_time": "2024-06-08 17:59:15.312050",
+    "filescores": {
+        "functions.mir": 1.1856767346982337e-05,
+        "irreducible.mir": 1.1856767346982337e-05,
+        "lit.local.cfg": 6.099602068851199e-06
+    },
+    "subdirscores": {}
+}

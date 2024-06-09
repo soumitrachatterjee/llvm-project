@@ -1,0 +1,32 @@
+{
+    "directory name": "llvm-project/libc/src/string/memory_utils",
+    "score.sum": 0.0008304851304338415,
+    "sha.latest": "a84e66a92d7b97f68aa3ae7d2c5839f3fb0d291d",
+    "time.latest": 1717840577.0883915,
+    "formatted_time": "2024-06-08 04:56:17.088392",
+    "filescores": {
+        "CMakeLists.txt": 0.00029905586903700875,
+        "README.md": 8.531113738043186e-06,
+        "inline_bcmp.h": 8.848585829046974e-06,
+        "inline_bzero.h": 8.848585829046974e-06,
+        "inline_memcmp.h": 8.848585829046974e-06,
+        "inline_memcpy.h": 1.191998102866264e-05,
+        "inline_memmem.h": 7.816283036865039e-06,
+        "inline_memmove.h": 1.5866901315960455e-05,
+        "inline_memset.h": 1.1558914837532572e-05,
+        "inline_strcmp.h": 6.099602068851199e-06,
+        "inline_strstr.h": 6.099602068851199e-06,
+        "op_aarch64.h": 4.5137238917696355e-05,
+        "op_builtin.h": 3.675486661879461e-05,
+        "op_generic.h": 9.52157989615957e-05,
+        "op_riscv.h": 7.690980336101206e-06,
+        "op_x86.h": 7.962688814556608e-05,
+        "utils.h": 0.00024490603215345647
+    },
+    "subdirscores": {
+        "aarch64": 3.690331159743445e-05,
+        "generic": 1.9659081122583497e-05,
+        "riscv": 8.59058788972298e-06,
+        "x86_64": 6.24280040935889e-05
+    }
+}

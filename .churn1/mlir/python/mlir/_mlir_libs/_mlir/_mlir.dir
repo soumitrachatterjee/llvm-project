@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/mlir/python/mlir/_mlir_libs/_mlir",
+    "score.sum": 7.971749283363399e-05,
+    "sha.latest": "6ce5159945997126b8a0f40f55e876c9fd882fc5",
+    "time.latest": 1717813368.670326,
+    "formatted_time": "2024-06-07 21:22:48.670329",
+    "filescores": {
+        "__init__.pyi": 1.4802620433483291e-05,
+        "ir.pyi": 6.243786946088888e-05,
+        "passmanager.pyi": 7.169606030127232e-06
+    },
+    "subdirscores": {
+        "dialects": 6.401269366697703e-06
+    }
+}

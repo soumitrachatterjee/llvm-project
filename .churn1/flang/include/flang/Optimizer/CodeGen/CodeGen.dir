@@ -1,0 +1,18 @@
+{
+    "directory name": "llvm-project/flang/include/flang/Optimizer/CodeGen",
+    "score.sum": 0.00018580951790020639,
+    "sha.latest": "408d4e131ef7b30c3bc419f5219f7ca20ca9ac1d",
+    "time.latest": 1717789739.187055,
+    "formatted_time": "2024-06-07 14:48:59.187058",
+    "filescores": {
+        "CGOps.td": 4.484004366958738e-05,
+        "CGPasses.td": 6.338796518055844e-05,
+        "CMakeLists.txt": 9.040034681285528e-06,
+        "CodeGen.h": 6.084137521159252e-05,
+        "CodeGenOpenMP.h": 0,
+        "TBAABuilder.h": 1.5246853359823604e-05,
+        "Target.h": 1.1182087085562447e-05,
+        "TypeConverter.h": 2.2152516512952482e-05
+    },
+    "subdirscores": {}
+}

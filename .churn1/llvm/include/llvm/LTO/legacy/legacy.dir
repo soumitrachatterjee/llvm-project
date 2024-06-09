@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/llvm/include/llvm/LTO/legacy",
+    "score.sum": 0.00023704272774812147,
+    "sha.latest": "bafd35ca04bd97fd1bbf9bb49051bd8fd0983697",
+    "time.latest": 1717817854.5023978,
+    "formatted_time": "2024-06-07 22:37:34.502401",
+    "filescores": {
+        "LTOCodeGenerator.h": 0.00014937450187188885,
+        "LTOModule.h": 4.3051596212387286e-05,
+        "ThinLTOCodeGenerator.h": 8.573035863740254e-05,
+        "UpdateCompilerUsed.h": 9.459698472344104e-06
+    },
+    "subdirscores": {}
+}

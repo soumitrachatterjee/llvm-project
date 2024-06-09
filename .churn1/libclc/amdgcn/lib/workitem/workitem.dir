@@ -1,0 +1,17 @@
+{
+    "directory name": "llvm-project/libclc/amdgcn/lib/workitem",
+    "score.sum": 4.28567057300473e-05,
+    "sha.latest": "3d21fa56f5f5afbbf16b35b199480af71e1189a3",
+    "time.latest": 1717823614.6535275,
+    "formatted_time": "2024-06-08 00:13:34.653531",
+    "filescores": {
+        "get_global_offset.cl": 1.1639673985541622e-05,
+        "get_global_size.cl": 6.099602068851199e-06,
+        "get_group_id.cl": 6.215371971037646e-06,
+        "get_local_id.cl": 6.215371971037646e-06,
+        "get_local_size.cl": 6.099602068851199e-06,
+        "get_num_groups.cl": 6.099602068851199e-06,
+        "get_work_dim.cl": 1.3312655684667283e-05
+    },
+    "subdirscores": {}
+}

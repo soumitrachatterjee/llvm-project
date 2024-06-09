@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/libc/include/gpu",
+    "score.sum": 0,
+    "sha.latest": "dcdfc963d7934a1313094b6fe9ce7aa04debe495",
+    "time.latest": 1717826064.1387863,
+    "formatted_time": "2024-06-08 00:54:24.138790",
+    "filescores": {
+        "rpc.h.def": 0
+    },
+    "subdirscores": {}
+}

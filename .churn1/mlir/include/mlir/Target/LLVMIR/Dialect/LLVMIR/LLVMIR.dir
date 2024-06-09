@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/mlir/include/mlir/Target/LLVMIR/Dialect/LLVMIR",
+    "score.sum": 6.298990059135932e-06,
+    "sha.latest": "cf487cce6f64fe2a397d43108bfdbad01a8754fb",
+    "time.latest": 1717800281.8159466,
+    "formatted_time": "2024-06-07 17:44:41.815950",
+    "filescores": {
+        "LLVMIRToLLVMTranslation.h": 0,
+        "LLVMToLLVMIRTranslation.h": 6.990900962022397e-06
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/mlir/include/mlir/Dialect/Vector/IR",
+    "score.sum": 0.0004522226157986028,
+    "sha.latest": "195744cca7fd7f1b33971e0f2cf07b8ae47f16b5",
+    "time.latest": 1717798185.1626756,
+    "formatted_time": "2024-06-07 17:09:45.162679",
+    "filescores": {
+        "CMakeLists.txt": 2.0423777938300852e-05,
+        "Vector.td": 0,
+        "VectorAttributes.td": 6.099602068851199e-06,
+        "VectorOps.h": 0.00011545659542078867,
+        "VectorOps.td": 0.00036621276002517423
+    },
+    "subdirscores": {}
+}

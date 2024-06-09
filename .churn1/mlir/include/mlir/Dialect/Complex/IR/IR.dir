@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/mlir/include/mlir/Dialect/Complex/IR",
+    "score.sum": 0.00018740626252914237,
+    "sha.latest": "1612993788c3d8049f1e43a6f48ea3264f8a434f",
+    "time.latest": 1717793847.728385,
+    "formatted_time": "2024-06-07 15:57:27.728388",
+    "filescores": {
+        "CMakeLists.txt": 1.0263258097616999e-05,
+        "Complex.h": 3.3455624169764245e-05,
+        "ComplexAttributes.td": 6.294754298743945e-06,
+        "ComplexBase.td": 5.2957352246856556e-05,
+        "ComplexOps.td": 0.00010509829278095751
+    },
+    "subdirscores": {}
+}

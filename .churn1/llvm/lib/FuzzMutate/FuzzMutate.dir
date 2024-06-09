@@ -1,0 +1,16 @@
+{
+    "directory name": "llvm-project/llvm/lib/FuzzMutate",
+    "score.sum": 0.0002936583474438701,
+    "sha.latest": "3d7880b64ca7746f7f5de5acc73afa23cedf94d2",
+    "time.latest": 1717838264.3409722,
+    "formatted_time": "2024-06-08 04:17:44.340976",
+    "filescores": {
+        "CMakeLists.txt": 4.4697871017712636e-05,
+        "FuzzerCLI.cpp": 5.198790701750789e-05,
+        "IRMutator.cpp": 0.00016177921017378853,
+        "OpDescriptor.cpp": 7.636931404665575e-06,
+        "Operations.cpp": 5.3527255110343086e-05,
+        "RandomIRBuilder.cpp": 8.931530036671923e-05
+    },
+    "subdirscores": {}
+}

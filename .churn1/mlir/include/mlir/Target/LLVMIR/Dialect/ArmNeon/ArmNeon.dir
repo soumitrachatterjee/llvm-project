@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/mlir/include/mlir/Target/LLVMIR/Dialect/ArmNeon",
+    "score.sum": 6.099602068851199e-06,
+    "sha.latest": "78f3fb4f4624fb57a32478e7504458514c37b41c",
+    "time.latest": 1717800183.7138903,
+    "formatted_time": "2024-06-07 17:43:03.713893",
+    "filescores": {
+        "ArmNeonToLLVMIRTranslation.h": 6.099602068851199e-06
+    },
+    "subdirscores": {}
+}

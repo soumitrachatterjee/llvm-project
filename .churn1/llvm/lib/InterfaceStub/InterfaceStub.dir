@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/llvm/lib/InterfaceStub",
+    "score.sum": 0.0001319405304861919,
+    "sha.latest": "8e9c531922c4f9a1ee583ef3553b8529bb8e9a9a",
+    "time.latest": 1717839259.0100627,
+    "formatted_time": "2024-06-08 04:34:19.010067",
+    "filescores": {
+        "CMakeLists.txt": 1.2312416794698047e-05,
+        "ELFObjHandler.cpp": 6.322861475189503e-05,
+        "IFSHandler.cpp": 5.2914099868304946e-05,
+        "IFSStub.cpp": 1.1276390944506465e-05
+    },
+    "subdirscores": {}
+}

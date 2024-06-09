@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/mlir/test/Interfaces/DestinationStyleOpInterface",
+    "score.sum": 0,
+    "sha.latest": "2bd6077d7fb61a54ebfbcf2fa210e07e8005c4bf",
+    "time.latest": 1717828514.1347868,
+    "formatted_time": "2024-06-08 01:35:14.134791",
+    "filescores": {
+        "verify-destination-style-op-interface.mlir": 0
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/mlir/lib/Target/LLVMIR/Dialect/Builtin",
+    "score.sum": 0,
+    "sha.latest": "0e9523efda8a4ad95ecb1d5b5e65e10bcc3711f5",
+    "time.latest": 1717811919.9321492,
+    "formatted_time": "2024-06-07 20:58:39.932153",
+    "filescores": {
+        "BuiltinToLLVMIRTranslation.cpp": 0,
+        "CMakeLists.txt": 0
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/mlir/test/Integration/Dialect/LLVMIR",
+    "score.sum": 9.090465014740048e-05,
+    "sha.latest": "f36e909da03767c317eaa5ded9abbf3214299ff5",
+    "time.latest": 1717825576.3006124,
+    "formatted_time": "2024-06-08 00:46:16.300613",
+    "filescores": {},
+    "subdirscores": {
+        "CPU": 9.090465014740048e-05
+    }
+}

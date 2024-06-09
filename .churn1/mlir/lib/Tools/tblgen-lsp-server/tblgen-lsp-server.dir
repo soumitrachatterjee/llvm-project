@@ -1,0 +1,16 @@
+{
+    "directory name": "llvm-project/mlir/lib/Tools/tblgen-lsp-server",
+    "score.sum": 4.692544974285135e-05,
+    "sha.latest": "305d718539659fb5fccd9b6e0771bbabc6c3c821",
+    "time.latest": 1717813037.6347277,
+    "formatted_time": "2024-06-07 21:17:17.634731",
+    "filescores": {
+        "CMakeLists.txt": 6.099602068851199e-06,
+        "LSPServer.cpp": 2.3726710765763214e-05,
+        "LSPServer.h": 0,
+        "TableGenLspServerMain.cpp": 6.348287916743007e-06,
+        "TableGenServer.cpp": 4.209770097279194e-05,
+        "TableGenServer.h": 2.3971508026012698e-05
+    },
+    "subdirscores": {}
+}

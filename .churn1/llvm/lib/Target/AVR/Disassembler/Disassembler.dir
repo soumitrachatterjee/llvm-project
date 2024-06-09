@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/llvm/lib/Target/AVR/Disassembler",
+    "score.sum": 0.00013360849835520206,
+    "sha.latest": "5d71ec6e448fa3ecb7e22368e97cf8274d5c84c6",
+    "time.latest": 1717852789.8154,
+    "formatted_time": "2024-06-08 08:19:49.815403",
+    "filescores": {
+        "AVRDisassembler.cpp": 0.00010621321986759003,
+        "CMakeLists.txt": 3.0673340926291154e-05
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,16 @@
+{
+    "directory name": "llvm-project/mlir/test/Dialect/AMDGPU",
+    "score.sum": 6.841997923270248e-05,
+    "sha.latest": "87c0260f45e5a02cb07722d089dae3f0f84c7b3d",
+    "time.latest": 1717817218.1953866,
+    "formatted_time": "2024-06-07 22:26:58.195390",
+    "filescores": {
+        "amdgpu-emulate-atomics.mlir": 6.099602068851199e-06,
+        "canonicalize.mlir": 6.099602068851199e-06,
+        "invalid.mlir": 1.3720973988272448e-05,
+        "ops.mlir": 2.763487510166762e-05,
+        "optimize_shmem_reads_writes.mlir": 6.987574488674603e-06,
+        "transform_optimize_shmem_reads_writes.mlir": 6.841171295290919e-06
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/mlir/unittests/Interfaces",
+    "score.sum": 0.00015031486061656244,
+    "sha.latest": "c1ed45a271145acbfad81d87706aeebf361809c3",
+    "time.latest": 1717836439.7026277,
+    "formatted_time": "2024-06-08 03:47:19.702631",
+    "filescores": {
+        "CMakeLists.txt": 2.5218207222585406e-05,
+        "ControlFlowInterfacesTest.cpp": 4.035448400865322e-05,
+        "DataLayoutInterfacesTest.cpp": 6.655205441561647e-05,
+        "InferIntRangeInterfaceTest.cpp": 6.39206601696222e-06,
+        "InferTypeOpInterfaceTest.cpp": 4.1387311403596494e-05
+    },
+    "subdirscores": {}
+}

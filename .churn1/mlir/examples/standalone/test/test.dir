@@ -1,0 +1,17 @@
+{
+    "directory name": "llvm-project/mlir/examples/standalone/test",
+    "score.sum": 0.00011930918381921201,
+    "sha.latest": "f9008e6366c2496b1ca1785b891d5578174ad63e",
+    "time.latest": 1717789251.3556032,
+    "formatted_time": "2024-06-07 14:40:51.355604",
+    "filescores": {
+        "CMakeLists.txt": 1.916335553176583e-05,
+        "lit.cfg.py": 6.183126263927415e-05,
+        "lit.site.cfg.py.in": 5.182787979743699e-05
+    },
+    "subdirscores": {
+        "CAPI": 8.956383242300635e-06,
+        "Standalone": 5.969893334352367e-05,
+        "python": 8.18878211490907e-06
+    }
+}

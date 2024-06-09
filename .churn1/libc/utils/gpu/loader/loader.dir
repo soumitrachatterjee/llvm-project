@@ -1,0 +1,16 @@
+{
+    "directory name": "llvm-project/libc/utils/gpu/loader",
+    "score.sum": 0.00015624839784350984,
+    "sha.latest": "8a790033073e005b41140b5c38a4eaada321c2f1",
+    "time.latest": 1717852065.4737449,
+    "formatted_time": "2024-06-08 08:07:45.473746",
+    "filescores": {
+        "CMakeLists.txt": 1.850327243010607e-05,
+        "Loader.h": 4.945143529611516e-05,
+        "Main.cpp": 9.392324060157007e-06
+    },
+    "subdirscores": {
+        "amdgpu": 9.950860645030748e-05,
+        "nvptx": 3.3422026096610976e-05
+    }
+}

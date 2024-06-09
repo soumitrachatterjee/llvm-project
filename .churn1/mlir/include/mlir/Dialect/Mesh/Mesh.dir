@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/mlir/include/mlir/Dialect/Mesh",
+    "score.sum": 8.379012434297355e-05,
+    "sha.latest": "abfac563f5b5a123e4bf773c3a09777e6fc4f50c",
+    "time.latest": 1717795813.4308443,
+    "formatted_time": "2024-06-07 16:30:13.430845",
+    "filescores": {
+        "CMakeLists.txt": 1.8224210247932515e-05
+    },
+    "subdirscores": {
+        "IR": 7.172124984581367e-05,
+        "Interfaces": 2.5965645347877855e-05,
+        "Transforms": 4.2298279437587416e-05
+    }
+}

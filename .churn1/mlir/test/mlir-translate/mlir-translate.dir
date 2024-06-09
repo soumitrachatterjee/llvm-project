@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/mlir/test/mlir-translate",
+    "score.sum": 2.6426249597266748e-05,
+    "sha.latest": "0ab6b20c36ab90395a60b6ff109207c1eb5436f1",
+    "time.latest": 1717833900.9499068,
+    "formatted_time": "2024-06-08 03:05:00.949910",
+    "filescores": {
+        "commandline.mlir": 0,
+        "export-timing.mlir": 0,
+        "import-diagnostics.ll": 6.099602068851199e-06,
+        "import-timing.ll": 0,
+        "unregistered-dialects.mlir": 6.099602068851199e-06
+    },
+    "subdirscores": {}
+}

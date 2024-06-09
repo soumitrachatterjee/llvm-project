@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/third-party/unittest/googletest/include",
+    "score.sum": 3.14739432044284e-05,
+    "sha.latest": "9625b74cdbc7576abd072dc8dbd94e07d5ea33b9",
+    "time.latest": 1717790243.1416123,
+    "formatted_time": "2024-06-07 14:57:23.141613",
+    "filescores": {},
+    "subdirscores": {
+        "gtest": 3.14739432044284e-05
+    }
+}

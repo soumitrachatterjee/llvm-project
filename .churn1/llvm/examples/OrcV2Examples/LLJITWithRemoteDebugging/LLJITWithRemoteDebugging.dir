@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/llvm/examples/OrcV2Examples/LLJITWithRemoteDebugging",
+    "score.sum": 4.532049726706021e-05,
+    "sha.latest": "b7d5b0d0eeda9bc0c7e8c4a6ee2d4ab6b48eb736",
+    "time.latest": 1717804790.0336168,
+    "formatted_time": "2024-06-07 18:59:50.033620",
+    "filescores": {
+        "CMakeLists.txt": 1.6319138717231814e-05,
+        "LLJITWithRemoteDebugging.cpp": 2.1628170071852536e-05,
+        "RemoteJITUtils.cpp": 2.1406391566504083e-05,
+        "RemoteJITUtils.h": 9.290066507147321e-06
+    },
+    "subdirscores": {}
+}

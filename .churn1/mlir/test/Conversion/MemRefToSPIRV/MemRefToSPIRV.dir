@@ -1,0 +1,16 @@
+{
+    "directory name": "llvm-project/mlir/test/Conversion/MemRefToSPIRV",
+    "score.sum": 0.00012395594019839662,
+    "sha.latest": "def16bca8133a2f49127a382061aa36406862a15",
+    "time.latest": 1717816321.8750594,
+    "formatted_time": "2024-06-07 22:12:01.875063",
+    "filescores": {
+        "alloc.mlir": 4.7825030859609576e-05,
+        "alloca.mlir": 1.0004244911863152e-05,
+        "atomic.mlir": 6.099602068851199e-06,
+        "bitwidth-emulation.mlir": 6.726461151895244e-06,
+        "map-storage-class.mlir": 1.4622700726453636e-05,
+        "memref-to-spirv.mlir": 7.251171175515165e-05
+    },
+    "subdirscores": {}
+}

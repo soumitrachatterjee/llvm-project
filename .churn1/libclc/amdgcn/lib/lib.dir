@@ -1,0 +1,18 @@
+{
+    "directory name": "llvm-project/libclc/amdgcn/lib",
+    "score.sum": 7.381256124424887e-05,
+    "sha.latest": "3d21fa56f5f5afbbf16b35b199480af71e1189a3",
+    "time.latest": 1717823614.654928,
+    "formatted_time": "2024-06-08 00:13:34.654928",
+    "filescores": {
+        "SOURCES": 5.3560208817486986e-05
+    },
+    "subdirscores": {
+        "cl_khr_int64_extended_atomics": 1.5868113982686463e-05,
+        "integer": 0,
+        "math": 2.284498483893851e-05,
+        "mem_fence": 8.67507420489078e-06,
+        "synchronization": 8.137967202900051e-06,
+        "workitem": 4.28567057300473e-05
+    }
+}

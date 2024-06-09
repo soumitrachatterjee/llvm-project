@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/llvm/benchmarks",
+    "score.sum": 0,
+    "sha.latest": "0addd170ab0880941fa4089c2717f3f3a0e4e25a",
+    "time.latest": 1717787838.7611666,
+    "formatted_time": "2024-06-07 14:17:18.761173",
+    "filescores": {
+        "CMakeLists.txt": 0,
+        "DummyYAML.cpp": 0
+    },
+    "subdirscores": {}
+}

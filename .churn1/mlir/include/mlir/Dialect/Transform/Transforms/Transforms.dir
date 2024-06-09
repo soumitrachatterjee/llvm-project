@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/mlir/include/mlir/Dialect/Transform/Transforms",
+    "score.sum": 7.93567954986128e-05,
+    "sha.latest": "5468f8841353cd56350a6ebe6898d2563e5c34b0",
+    "time.latest": 1717797985.6492686,
+    "formatted_time": "2024-06-07 17:06:25.649272",
+    "filescores": {
+        "CMakeLists.txt": 0,
+        "Passes.h": 1.5731214626171947e-05,
+        "Passes.td": 3.7232890486490954e-05,
+        "TransformInterpreterPassBase.h": 2.2790779885232783e-05,
+        "TransformInterpreterUtils.h": 9.019984219084589e-06
+    },
+    "subdirscores": {}
+}

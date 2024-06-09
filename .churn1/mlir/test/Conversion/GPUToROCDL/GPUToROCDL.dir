@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/mlir/test/Conversion/GPUToROCDL",
+    "score.sum": 0.00014040908540709503,
+    "sha.latest": "4cba5957e6ffdbeb44174d32da892ad09b3eed88",
+    "time.latest": 1717815932.1344981,
+    "formatted_time": "2024-06-07 22:05:32.134502",
+    "filescores": {
+        "gpu-to-rocdl-hip.mlir": 1.2044165526589316e-05,
+        "gpu-to-rocdl-opencl.mlir": 1.7842936726160766e-05,
+        "gpu-to-rocdl.mlir": 0.00011943508821222219,
+        "memref.mlir": 8.817245847566094e-06
+    },
+    "subdirscores": {}
+}

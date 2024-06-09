@@ -1,0 +1,18 @@
+{
+    "directory name": "llvm-project/libc/utils",
+    "score.sum": 0.0014020359533303004,
+    "sha.latest": "8a790033073e005b41140b5c38a4eaada321c2f1",
+    "time.latest": 1717852126.2240305,
+    "formatted_time": "2024-06-08 08:08:46.224031",
+    "filescores": {
+        "CMakeLists.txt": 5.535735886815561e-05
+    },
+    "subdirscores": {
+        "HdrGen": 0.00014229177651906648,
+        "LibcTableGenUtil": 5.2911445859825983e-05,
+        "MPFRWrapper": 0.0003449994604537566,
+        "buildbot": 1.7020869654233483e-05,
+        "gpu": 0.00026305887994112787,
+        "mathtools": 2.085726907316367e-05
+    }
+}

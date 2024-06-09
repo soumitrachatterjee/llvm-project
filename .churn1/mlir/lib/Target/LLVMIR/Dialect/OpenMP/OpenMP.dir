@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/mlir/lib/Target/LLVMIR/Dialect/OpenMP",
+    "score.sum": 0.0005377842406487301,
+    "sha.latest": "5c54f729018cb04b3cd42fcbef019f3479c9f9e8",
+    "time.latest": 1717812073.5363867,
+    "formatted_time": "2024-06-07 21:01:13.536391",
+    "filescores": {
+        "CMakeLists.txt": 9.272529946381083e-06,
+        "OpenMPToLLVMIRTranslation.cpp": 0.0005351276309629271
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/mlir/include/mlir/Parser",
+    "score.sum": 6.195769067734387e-05,
+    "sha.latest": "37107e177e4a0a9ceab397f2667fe4dab98fb729",
+    "time.latest": 1717799598.5270956,
+    "formatted_time": "2024-06-07 17:33:18.527099",
+    "filescores": {
+        "Parser.h": 2.723773258404444e-05
+    },
+    "subdirscores": {}
+}

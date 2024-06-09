@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/mlir/lib/Debug/Observers",
+    "score.sum": 2.1290332376814295e-05,
+    "sha.latest": "b82f3747dac0ea3508656f9cd08ad0dbc03ca16d",
+    "time.latest": 1717804414.3892639,
+    "formatted_time": "2024-06-07 18:53:34.389267",
+    "filescores": {
+        "ActionLogging.cpp": 1.828401743029934e-05,
+        "ActionProfiler.cpp": 6.125635995588572e-06,
+        "CMakeLists.txt": 6.100145724313622e-06
+    },
+    "subdirscores": {}
+}

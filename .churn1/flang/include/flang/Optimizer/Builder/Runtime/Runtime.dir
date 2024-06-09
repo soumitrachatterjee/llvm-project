@@ -1,0 +1,29 @@
+{
+    "directory name": "llvm-project/flang/include/flang/Optimizer/Builder/Runtime",
+    "score.sum": 0.00017129262406797094,
+    "sha.latest": "afa52de9f6def6a0de962401f9a6b34925f7010e",
+    "time.latest": 1717789650.6299012,
+    "formatted_time": "2024-06-07 14:47:30.629904",
+    "filescores": {
+        "Allocatable.h": 1.1557746708454837e-05,
+        "ArrayConstructor.h": 0,
+        "Assign.h": 1.6532230420837823e-05,
+        "Character.h": 1.4979740993821927e-05,
+        "Command.h": 2.013829107060235e-05,
+        "Derived.h": 2.4733202531143313e-05,
+        "EnvironmentDefaults.h": 0,
+        "Exceptions.h": 0,
+        "Execute.h": 0,
+        "Inquiry.h": 6.099602068851199e-06,
+        "Intrinsics.h": 1.2196915534832965e-05,
+        "Numeric.h": 1.995626717668542e-05,
+        "Pointer.h": 0,
+        "RTBuilder.h": 4.076600607825617e-05,
+        "Ragged.h": 0,
+        "Reduction.h": 1.945676323223599e-05,
+        "Stop.h": 6.870093453375142e-06,
+        "TemporaryStack.h": 6.099602068851199e-06,
+        "Transformational.h": 1.2259650579074913e-05
+    },
+    "subdirscores": {}
+}

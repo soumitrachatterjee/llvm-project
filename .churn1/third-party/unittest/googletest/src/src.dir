@@ -1,0 +1,22 @@
+{
+    "directory name": "llvm-project/third-party/unittest/googletest/src",
+    "score.sum": 1.8257891228743476e-05,
+    "sha.latest": "a866ce789eb99da4d7a486eeb60a53be6c75f4fd",
+    "time.latest": 1717790350.2082922,
+    "formatted_time": "2024-06-07 14:59:10.208295",
+    "filescores": {
+        "gtest-all.cc": 1.8257891228743476e-05,
+        "gtest-assertion-result.cc": 6.362580167617361e-06,
+        "gtest-death-test.cc": 1.8257891228743476e-05,
+        "gtest-filepath.cc": 1.8257891228743476e-05,
+        "gtest-internal-inl.h": 1.8257891228743476e-05,
+        "gtest-matchers.cc": 1.8257891228743476e-05,
+        "gtest-port.cc": 1.8257891228743476e-05,
+        "gtest-printers.cc": 1.8257891228743476e-05,
+        "gtest-test-part.cc": 1.8257891228743476e-05,
+        "gtest-typed-test.cc": 1.8257891228743476e-05,
+        "gtest.cc": 1.8257891228743476e-05,
+        "gtest_main.cc": 6.362580167617361e-06
+    },
+    "subdirscores": {}
+}

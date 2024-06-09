@@ -1,0 +1,23 @@
+{
+    "directory name": "llvm-project/mlir/utils/vscode",
+    "score.sum": 8.95751385875092e-05,
+    "sha.latest": "e4246d90d0a2de51d5d17bc17751736f5a3d53ca",
+    "time.latest": 1717837672.325008,
+    "formatted_time": "2024-06-08 04:07:52.325011",
+    "filescores": {
+        ".vscodeignore": 0,
+        "cpp-grammar.json": 6.099602068851199e-06,
+        "language-configuration.json": 0,
+        "markdown-grammar.json": 6.099602068851199e-06,
+        "package-lock.json": 3.189978088591313e-05,
+        "package.json": 6.399867622369094e-05,
+        "pdll-grammar.json": 6.099602068851199e-06,
+        "pdll-language-configuration.json": 0,
+        "tablegen-language-configuration.json": 6.099602068851199e-06,
+        "tsconfig.json": 0
+    },
+    "subdirscores": {
+        ".vscode": 0,
+        "src": 7.356290134498111e-05
+    }
+}

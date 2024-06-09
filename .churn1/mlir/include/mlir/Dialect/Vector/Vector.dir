@@ -1,0 +1,17 @@
+{
+    "directory name": "llvm-project/mlir/include/mlir/Dialect/Vector",
+    "score.sum": 0.0013205677894031877,
+    "sha.latest": "6f5c4f2eacf24cecfc0faf0a204137ce65eecc2d",
+    "time.latest": 1717798371.8082795,
+    "formatted_time": "2024-06-07 17:12:51.808280",
+    "filescores": {
+        "CMakeLists.txt": 2.1532917535285464e-05
+    },
+    "subdirscores": {
+        "IR": 0.0004522226157986028,
+        "Interfaces": 1.3059373123909814e-05,
+        "TransformOps": 6.606285616515214e-05,
+        "Transforms": 0.000193600332460363,
+        "Utils": 2.2739884868941507e-05
+    }
+}

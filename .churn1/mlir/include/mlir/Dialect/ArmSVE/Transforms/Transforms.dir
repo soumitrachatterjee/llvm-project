@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/mlir/include/mlir/Dialect/ArmSVE/Transforms",
+    "score.sum": 7.231575806631399e-06,
+    "sha.latest": "d5985d4c70bad7b25740027cb873c91a31ff0659",
+    "time.latest": 1717793395.2316868,
+    "formatted_time": "2024-06-07 15:49:55.231690",
+    "filescores": {
+        "CMakeLists.txt": 0,
+        "Passes.h": 0,
+        "Passes.td": 6.099602068851199e-06,
+        "Transforms.h": 0
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/mlir/tools/mlir-lsp-server",
+    "score.sum": 3.6068005397010524e-05,
+    "sha.latest": "6ae7f66ff5169ddc5a7b9ab545707042c77e036c",
+    "time.latest": 1717835094.9400988,
+    "formatted_time": "2024-06-08 03:24:54.940102",
+    "filescores": {
+        "CMakeLists.txt": 3.6068005397010524e-05,
+        "mlir-lsp-server.cpp": 8.926675470313792e-06
+    },
+    "subdirscores": {}
+}

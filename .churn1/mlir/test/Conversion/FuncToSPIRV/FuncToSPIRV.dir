@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/mlir/test/Conversion/FuncToSPIRV",
+    "score.sum": 4.45621744488351e-05,
+    "sha.latest": "3247f1e7a281184ac0db4fc6df35232e8f1a4f12",
+    "time.latest": 1717815731.8868687,
+    "formatted_time": "2024-06-07 22:02:11.886873",
+    "filescores": {
+        "func-ops-to-spirv.mlir": 9.745092536961133e-06,
+        "types-to-spirv.mlir": 4.5996693810609135e-05
+    },
+    "subdirscores": {}
+}

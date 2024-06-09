@@ -1,0 +1,23 @@
+{
+    "directory name": "llvm-project/flang/lib/Frontend",
+    "score.sum": 0.0009038897973999329,
+    "sha.latest": "a622b21f4607ee787c6fe63032a849c24374882b",
+    "time.latest": 1717790770.0666695,
+    "formatted_time": "2024-06-07 15:06:10.066673",
+    "filescores": {
+        ".clang-format": 0,
+        ".clang-tidy": 0,
+        "CMakeLists.txt": 9.773261744741819e-05,
+        "CodeGenOptions.cpp": 6.099602068851199e-06,
+        "CompilerInstance.cpp": 5.9728099090369354e-05,
+        "CompilerInvocation.cpp": 0.0005195317798134562,
+        "FrontendAction.cpp": 3.8762376537801155e-05,
+        "FrontendActions.cpp": 0.00047982983795980336,
+        "FrontendOptions.cpp": 3.1382631446600586e-05,
+        "LangOptions.cpp": 0,
+        "TextDiagnostic.cpp": 6.099602068851199e-06,
+        "TextDiagnosticBuffer.cpp": 9.058662788785007e-06,
+        "TextDiagnosticPrinter.cpp": 1.7579810216895296e-05
+    },
+    "subdirscores": {}
+}

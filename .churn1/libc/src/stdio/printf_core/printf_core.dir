@@ -1,0 +1,32 @@
+{
+    "directory name": "llvm-project/libc/src/stdio/printf_core",
+    "score.sum": 0.0003726625243459958,
+    "sha.latest": "6a8e6c9a31933dec276fe26e18090832a9c5d0d0",
+    "time.latest": 1717839171.735526,
+    "formatted_time": "2024-06-08 04:32:51.735530",
+    "filescores": {
+        "CMakeLists.txt": 9.459617700888361e-05,
+        "char_converter.h": 3.3019472847675847e-05,
+        "converter.cpp": 3.6646501447370024e-05,
+        "converter.h": 7.702480699292253e-06,
+        "converter_atlas.h": 1.570415437298672e-05,
+        "converter_utils.h": 2.0775986502992265e-05,
+        "core_structs.h": 4.903574178413886e-05,
+        "fixed_converter.h": 6.688388250646968e-06,
+        "float_dec_converter.h": 0.00012081367034552522,
+        "float_hex_converter.h": 7.805887375979526e-05,
+        "float_inf_nan_converter.h": 4.0334341262848035e-05,
+        "int_converter.h": 5.725765221993872e-05,
+        "parser.h": 6.891816054719028e-05,
+        "printf_config.h": 1.5025657243463873e-05,
+        "printf_main.cpp": 1.3193970391497524e-05,
+        "printf_main.h": 7.635482227601413e-06,
+        "ptr_converter.h": 2.025561814578282e-05,
+        "string_converter.h": 2.593092836994615e-05,
+        "vfprintf_internal.h": 3.706915543937459e-05,
+        "write_int_converter.h": 2.4973485146180878e-05,
+        "writer.cpp": 1.7452785025884943e-05,
+        "writer.h": 2.382522601607135e-05
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/libclc/generic/lib/workitem",
+    "score.sum": 9.10745343127922e-06,
+    "sha.latest": "3d21fa56f5f5afbbf16b35b199480af71e1189a3",
+    "time.latest": 1717831138.1780372,
+    "formatted_time": "2024-06-08 02:18:58.178041",
+    "filescores": {
+        "get_global_id.cl": 9.10745343127922e-06,
+        "get_global_size.cl": 6.099602068851199e-06
+    },
+    "subdirscores": {}
+}

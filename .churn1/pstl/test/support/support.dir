@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/pstl/test/support",
+    "score.sum": 1.5103317499143165e-05,
+    "sha.latest": "843c12d6a0cdfd64c5a92e24eb58ba9ee17ca1ee",
+    "time.latest": 1717792144.4580972,
+    "formatted_time": "2024-06-07 15:29:04.458101",
+    "filescores": {
+        "pstl_test_config.h": 1.2839481965226472e-05,
+        "utils.h": 1.3835351885005747e-05
+    },
+    "subdirscores": {
+        "stdlib": 0
+    }
+}

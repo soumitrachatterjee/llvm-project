@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/libc/src/__support/OSUtil/fuchsia",
+    "score.sum": 1.2008229602885374e-05,
+    "sha.latest": "b6bc9d72f65a5086f310f321e969d96e9a559e75",
+    "time.latest": 1717829064.6842582,
+    "formatted_time": "2024-06-08 01:44:24.684262",
+    "filescores": {
+        "io.h": 1.2008229602885374e-05
+    },
+    "subdirscores": {}
+}

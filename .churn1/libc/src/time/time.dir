@@ -1,0 +1,33 @@
+{
+    "directory name": "llvm-project/libc/src/time",
+    "score.sum": 0.0001744284659255162,
+    "sha.latest": "63198e0682058c81cd546cb1851e785cec1387ef",
+    "time.latest": 1717842947.309124,
+    "formatted_time": "2024-06-08 05:35:47.309128",
+    "filescores": {
+        "CMakeLists.txt": 4.4172466435583384e-05,
+        "asctime.cpp": 7.617013468488017e-06,
+        "asctime.h": 1.1150829210479696e-05,
+        "asctime_r.cpp": 7.617013468488017e-06,
+        "asctime_r.h": 1.1150829210479696e-05,
+        "clock.h": 6.099602068851199e-06,
+        "clock_gettime.h": 6.099602068851199e-06,
+        "difftime.cpp": 1.1334852432159541e-05,
+        "difftime.h": 9.471719101701337e-06,
+        "gettimeofday.h": 9.316131586177035e-06,
+        "gmtime.cpp": 6.138497658742468e-06,
+        "gmtime.h": 1.1205348448630564e-05,
+        "gmtime_r.cpp": 6.099602068851199e-06,
+        "gmtime_r.h": 1.1198970214768316e-05,
+        "mktime.cpp": 2.054912524338784e-05,
+        "mktime.h": 1.5209481897507504e-05,
+        "nanosleep.h": 1.3187718086055288e-05,
+        "time_func.h": 6.099602068851199e-06,
+        "time_utils.cpp": 2.7956810385731435e-05,
+        "time_utils.h": 3.381278861568078e-05
+    },
+    "subdirscores": {
+        "gpu": 3.936067470910028e-05,
+        "linux": 3.937930573321323e-05
+    }
+}

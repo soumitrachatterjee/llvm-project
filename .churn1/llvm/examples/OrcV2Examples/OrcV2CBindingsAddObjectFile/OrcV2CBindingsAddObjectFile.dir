@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/llvm/examples/OrcV2Examples/OrcV2CBindingsAddObjectFile",
+    "score.sum": 2.316669950489264e-05,
+    "sha.latest": "c2cabe479b27af031d3d63cc73630e2c23bddbcd",
+    "time.latest": 1717804845.1902945,
+    "formatted_time": "2024-06-07 19:00:45.190298",
+    "filescores": {
+        "CMakeLists.txt": 6.099602068851199e-06,
+        "OrcV2CBindingsAddObjectFile.c": 1.751032736710767e-05
+    },
+    "subdirscores": {}
+}

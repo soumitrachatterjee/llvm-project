@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/mlir/include/mlir/Dialect/EmitC/Transforms",
+    "score.sum": 0,
+    "sha.latest": "d9803841f2d539f6a740c07ebd0f3cb176812dbf",
+    "time.latest": 1717794104.2963784,
+    "formatted_time": "2024-06-07 16:01:44.296382",
+    "filescores": {
+        "CMakeLists.txt": 0,
+        "Passes.h": 0,
+        "Passes.td": 0,
+        "Transforms.h": 0
+    },
+    "subdirscores": {}
+}

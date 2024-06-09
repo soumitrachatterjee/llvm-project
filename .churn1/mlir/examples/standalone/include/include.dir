@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/mlir/examples/standalone/include",
+    "score.sum": 0.00011307070217184709,
+    "sha.latest": "660f714e26999d266232a1fbb02712bb879bd34e",
+    "time.latest": 1717788851.7479606,
+    "formatted_time": "2024-06-07 14:34:11.747961",
+    "filescores": {
+        "CMakeLists.txt": 0
+    },
+    "subdirscores": {
+        "Standalone-c": 6.099602068851199e-06,
+        "Standalone": 0.0001056773907332028
+    }
+}

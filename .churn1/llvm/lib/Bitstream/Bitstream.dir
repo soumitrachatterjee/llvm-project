@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/llvm/lib/Bitstream",
+    "score.sum": 5.899120049008787e-05,
+    "sha.latest": "49e75ebd854dee1fcf5729c264f4cfadf76e952d",
+    "time.latest": 1717828674.6337864,
+    "formatted_time": "2024-06-08 01:37:54.633787",
+    "filescores": {
+        "CMakeLists.txt": 0
+    },
+    "subdirscores": {
+        "Reader": 5.899120049008787e-05
+    }
+}

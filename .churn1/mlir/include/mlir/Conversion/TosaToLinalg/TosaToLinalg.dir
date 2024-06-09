@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/mlir/include/mlir/Conversion/TosaToLinalg",
+    "score.sum": 5.1652695875430907e-05,
+    "sha.latest": "acc6f3e9c1af6c7445aae6f10d4b016ac84112d3",
+    "time.latest": 1717792288.617101,
+    "formatted_time": "2024-06-07 15:31:28.617104",
+    "filescores": {
+        "TosaToLinalg.h": 5.1652695875430907e-05
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,19 @@
+{
+    "directory name": "llvm-project/mlir/include/mlir/Dialect/Linalg/TransformOps",
+    "score.sum": 0.0004680568488199833,
+    "sha.latest": "47bc565ca7990a2de20af4030baf08ac62739aca",
+    "time.latest": 1717795097.0879047,
+    "formatted_time": "2024-06-07 16:18:17.087908",
+    "filescores": {
+        "CMakeLists.txt": 8.373190996960988e-06,
+        "DialectExtension.h": 0,
+        "GPUHeuristics.h": 0,
+        "LinalgMatchOps.h": 0,
+        "LinalgMatchOps.td": 1.7709204586229525e-05,
+        "LinalgTransformEnums.td": 6.099602068851199e-06,
+        "LinalgTransformOps.h": 8.197455683756632e-05,
+        "LinalgTransformOps.td": 0.00042381515063832817,
+        "Syntax.h": 0
+    },
+    "subdirscores": {}
+}

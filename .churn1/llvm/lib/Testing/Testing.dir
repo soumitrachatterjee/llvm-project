@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/llvm/lib/Testing",
+    "score.sum": 0.00013365905737269498,
+    "sha.latest": "f25daa589ee0649ea87d1e8ae9332cb29d064b9e",
+    "time.latest": 1717874097.5277479,
+    "formatted_time": "2024-06-08 14:14:57.527748",
+    "filescores": {
+        "CMakeLists.txt": 6.099602068851199e-06
+    },
+    "subdirscores": {
+        "Annotations": 6.099602068851199e-06,
+        "Support": 0.00013365905737269498
+    }
+}

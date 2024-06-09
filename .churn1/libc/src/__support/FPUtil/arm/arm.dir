@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/libc/src/__support/FPUtil/arm",
+    "score.sum": 3.66639853849535e-05,
+    "sha.latest": "3a9ff32354a95305c523ab3b13bf3684854d1327",
+    "time.latest": 1717828425.7692804,
+    "formatted_time": "2024-06-08 01:33:45.769284",
+    "filescores": {
+        "FEnvImpl.h": 3.66639853849535e-05
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,23 @@
+{
+    "directory name": "llvm-project/mlir/lib/Tools",
+    "score.sum": 0.0006540595571666198,
+    "sha.latest": "780a20984b6af067eed5870eb7c00ea076b6072a",
+    "time.latest": 1717813037.635822,
+    "formatted_time": "2024-06-07 21:17:17.635823",
+    "filescores": {
+        "CMakeLists.txt": 3.702316444751018e-05
+    },
+    "subdirscores": {
+        "PDLL": 0.00012242416726142676,
+        "Plugins": 6.099618376300888e-06,
+        "lsp-server-support": 6.855182554119853e-05,
+        "mlir-lsp-server": 0.0001526421515369416,
+        "mlir-opt": 0.00015746453181031503,
+        "mlir-pdll-lsp-server": 4.6796561405443066e-05,
+        "mlir-query": 0,
+        "mlir-reduce": 2.6037069669140474e-05,
+        "mlir-tblgen": 1.2362002623293023e-05,
+        "mlir-translate": 6.077160791260942e-05,
+        "tblgen-lsp-server": 4.692544974285135e-05
+    }
+}

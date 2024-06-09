@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/flang/lib/FrontendTool",
+    "score.sum": 0.00010418892772749603,
+    "sha.latest": "11efccea8f96c64b893d527523b2bfe8b0734ebd",
+    "time.latest": 1717790810.2669926,
+    "formatted_time": "2024-06-07 15:06:50.266996",
+    "filescores": {
+        ".clang-format": 0,
+        ".clang-tidy": 0,
+        "CMakeLists.txt": 1.851965192609379e-05,
+        "ExecuteCompilerInvocation.cpp": 9.527652068451697e-05
+    },
+    "subdirscores": {}
+}

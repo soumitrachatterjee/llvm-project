@@ -1,0 +1,17 @@
+{
+    "directory name": "llvm-project/llvm/lib/Demangle",
+    "score.sum": 0.0007597595345108966,
+    "sha.latest": "569ec185f5dc4a9e4a239948191977ecc2b2b475",
+    "time.latest": 1717836027.8934186,
+    "formatted_time": "2024-06-08 03:40:27.893422",
+    "filescores": {
+        "CMakeLists.txt": 3.385852824875073e-05,
+        "DLangDemangle.cpp": 4.02624639422165e-05,
+        "Demangle.cpp": 9.455008342131147e-05,
+        "ItaniumDemangle.cpp": 0.00018221008650334407,
+        "MicrosoftDemangle.cpp": 0.00018616069791268922,
+        "MicrosoftDemangleNodes.cpp": 7.590032808450249e-05,
+        "RustDemangle.cpp": 7.064009817831974e-05
+    },
+    "subdirscores": {}
+}

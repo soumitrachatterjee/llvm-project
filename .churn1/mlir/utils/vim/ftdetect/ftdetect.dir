@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/mlir/utils/vim/ftdetect",
+    "score.sum": 0,
+    "sha.latest": "e8d43cafe6a8a3db86324010d0e417307bfcb72f",
+    "time.latest": 1717837396.62257,
+    "formatted_time": "2024-06-08 04:03:16.622573",
+    "filescores": {
+        "mlir.vim": 0
+    },
+    "subdirscores": {}
+}

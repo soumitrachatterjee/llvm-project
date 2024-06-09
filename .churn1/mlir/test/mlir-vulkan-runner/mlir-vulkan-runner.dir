@@ -1,0 +1,21 @@
+{
+    "directory name": "llvm-project/mlir/test/mlir-vulkan-runner",
+    "score.sum": 9.222331136790866e-05,
+    "sha.latest": "1150e8ef7765f43a730575bd224eda18e916ac1e",
+    "time.latest": 1717833999.7242901,
+    "formatted_time": "2024-06-08 03:06:39.724294",
+    "filescores": {
+        "addf.mlir": 7.340170725143808e-05,
+        "addf_if.mlir": 0,
+        "addi.mlir": 7.018007466414707e-05,
+        "addi8.mlir": 6.820929326913128e-05,
+        "iaddcarry_extended.mlir": 0,
+        "lit.local.cfg": 6.099602068851199e-06,
+        "mulf.mlir": 7.146363951362801e-05,
+        "smul_extended.mlir": 1.7770842108239963e-05,
+        "subf.mlir": 7.639728702670215e-05,
+        "time.mlir": 7.619285291381425e-05,
+        "umul_extended.mlir": 1.7771654557375393e-05
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,24 @@
+{
+    "directory name": "llvm-project/llvm/lib/Target/SystemZ/MCTargetDesc",
+    "score.sum": 0.0006077937208048714,
+    "sha.latest": "0768253c20402c8a7a357210923c6867efc0ef5c",
+    "time.latest": 1717867434.698183,
+    "formatted_time": "2024-06-08 12:23:54.698186",
+    "filescores": {
+        "CMakeLists.txt": 5.0825282413309435e-05,
+        "SystemZELFObjectWriter.cpp": 6.099602068851199e-06,
+        "SystemZGOFFObjectWriter.cpp": 6.099602068851199e-06,
+        "SystemZInstPrinter.cpp": 4.1859450620156424e-05,
+        "SystemZInstPrinter.h": 3.0111863013718384e-05,
+        "SystemZMCAsmBackend.cpp": 0.00011615896982764013,
+        "SystemZMCAsmInfo.cpp": 0.00011960348054955502,
+        "SystemZMCAsmInfo.h": 4.6790533682766895e-05,
+        "SystemZMCCodeEmitter.cpp": 0.00010199098422305987,
+        "SystemZMCExpr.cpp": 6.1382318325549084e-06,
+        "SystemZMCExpr.h": 6.467571536999337e-06,
+        "SystemZMCFixups.h": 1.9061153496359296e-05,
+        "SystemZMCTargetDesc.cpp": 0.0001835853108167139,
+        "SystemZMCTargetDesc.h": 9.51565525648612e-05
+    },
+    "subdirscores": {}
+}

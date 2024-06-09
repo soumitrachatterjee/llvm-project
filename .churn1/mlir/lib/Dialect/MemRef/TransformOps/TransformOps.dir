@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/mlir/lib/Dialect/MemRef/TransformOps",
+    "score.sum": 7.529399401329774e-05,
+    "sha.latest": "da5b382d8c9e88ed5a6da51137697c5decbcc1b4",
+    "time.latest": 1717807425.0251591,
+    "formatted_time": "2024-06-07 19:43:45.025163",
+    "filescores": {
+        "CMakeLists.txt": 1.676163512260887e-05,
+        "MemRefTransformOps.cpp": 7.529399401329774e-05
+    },
+    "subdirscores": {}
+}

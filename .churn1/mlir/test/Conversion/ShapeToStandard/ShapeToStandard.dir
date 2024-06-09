@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/mlir/test/Conversion/ShapeToStandard",
+    "score.sum": 7.174612211478981e-05,
+    "sha.latest": "d4fd20258f63d30be638b04f10eaa469707759f0",
+    "time.latest": 1717816810.7980072,
+    "formatted_time": "2024-06-07 22:20:10.798010",
+    "filescores": {
+        "convert-shape-constraints.mlir": 2.825241572468866e-05,
+        "shape-to-standard.mlir": 5.747866238756029e-05
+    },
+    "subdirscores": {}
+}

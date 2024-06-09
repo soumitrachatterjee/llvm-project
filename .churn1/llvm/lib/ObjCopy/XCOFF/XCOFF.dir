@@ -1,0 +1,16 @@
+{
+    "directory name": "llvm-project/llvm/lib/ObjCopy/XCOFF",
+    "score.sum": 6.099602068851199e-06,
+    "sha.latest": "92c2529ccde4a7eff344acd4ba22bf9d4af26b9d",
+    "time.latest": 1717841183.8867023,
+    "formatted_time": "2024-06-08 05:06:23.886707",
+    "filescores": {
+        "XCOFFObjcopy.cpp": 0,
+        "XCOFFObject.h": 0,
+        "XCOFFReader.cpp": 0,
+        "XCOFFReader.h": 0,
+        "XCOFFWriter.cpp": 0,
+        "XCOFFWriter.h": 6.099602068851199e-06
+    },
+    "subdirscores": {}
+}

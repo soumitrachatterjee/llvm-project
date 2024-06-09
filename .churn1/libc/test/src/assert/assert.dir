@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/libc/test/src/assert",
+    "score.sum": 1.9779146315470815e-05,
+    "sha.latest": "b6bc9d72f65a5086f310f321e969d96e9a559e75",
+    "time.latest": 1717845260.3655636,
+    "formatted_time": "2024-06-08 06:14:20.365567",
+    "filescores": {
+        "CMakeLists.txt": 6.25967862739116e-06,
+        "assert_test.cpp": 1.426711188599961e-05
+    },
+    "subdirscores": {}
+}

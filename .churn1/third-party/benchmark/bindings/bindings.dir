@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/third-party/benchmark/bindings",
+    "score.sum": 2.2889275930324868e-05,
+    "sha.latest": "a5b797172cc902db166e9a695716fb81405f86e4",
+    "time.latest": 1717788328.5620546,
+    "formatted_time": "2024-06-07 14:25:28.562056",
+    "filescores": {},
+    "subdirscores": {
+        "python": 2.2889275930324868e-05
+    }
+}

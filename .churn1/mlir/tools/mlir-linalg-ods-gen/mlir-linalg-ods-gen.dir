@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/mlir/tools/mlir-linalg-ods-gen",
+    "score.sum": 0.00036038465596606147,
+    "sha.latest": "0a8e3dd432ff15ce871e4b9df0645e8a7e011fb3",
+    "time.latest": 1717835070.9285696,
+    "formatted_time": "2024-06-08 03:24:30.928573",
+    "filescores": {
+        "CMakeLists.txt": 3.9651299776883727e-05,
+        "mlir-linalg-ods-yaml-gen.cpp": 0.00019710434096707071,
+        "update_core_linalg_named_ops.sh.in": 6.099602068851199e-06
+    },
+    "subdirscores": {}
+}

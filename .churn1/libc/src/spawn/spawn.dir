@@ -1,0 +1,25 @@
+{
+    "directory name": "llvm-project/libc/src/spawn",
+    "score.sum": 2.1028558777323263e-05,
+    "sha.latest": "128d53f44cae211ad5501733ec1d9bc787b6f7a9",
+    "time.latest": 1717836654.947098,
+    "formatted_time": "2024-06-08 03:50:54.947101",
+    "filescores": {
+        "CMakeLists.txt": 6.3149218479653665e-06,
+        "file_actions.h": 7.371842621686284e-06,
+        "posix_spawn.h": 6.099602068851199e-06,
+        "posix_spawn_file_actions_addclose.cpp": 7.371842621686284e-06,
+        "posix_spawn_file_actions_addclose.h": 6.099602068851199e-06,
+        "posix_spawn_file_actions_adddup2.cpp": 7.371842621686284e-06,
+        "posix_spawn_file_actions_adddup2.h": 6.099602068851199e-06,
+        "posix_spawn_file_actions_addopen.cpp": 7.371842621686284e-06,
+        "posix_spawn_file_actions_addopen.h": 6.099602068851199e-06,
+        "posix_spawn_file_actions_destroy.cpp": 8.644712740996667e-06,
+        "posix_spawn_file_actions_destroy.h": 6.099602068851199e-06,
+        "posix_spawn_file_actions_init.cpp": 6.099602068851199e-06,
+        "posix_spawn_file_actions_init.h": 6.099602068851199e-06
+    },
+    "subdirscores": {
+        "linux": 1.902498484816352e-05
+    }
+}

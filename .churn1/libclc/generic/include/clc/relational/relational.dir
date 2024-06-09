@@ -1,0 +1,33 @@
+{
+    "directory name": "llvm-project/libclc/generic/include/clc/relational",
+    "score.sum": 6.662070412370628e-05,
+    "sha.latest": "70a270da5f4a27b670cba1cb8148fcce5c094f4f",
+    "time.latest": 1717827317.9337347,
+    "formatted_time": "2024-06-08 01:15:17.933738",
+    "filescores": {
+        "all.h": 6.099602068851199e-06,
+        "any.h": 0,
+        "binary_decl.inc": 0,
+        "bitselect.h": 6.099602068851199e-06,
+        "bitselect.inc": 0,
+        "floatn.inc": 6.099602068851199e-06,
+        "isequal.h": 6.108077777067855e-06,
+        "isfinite.h": 0,
+        "isgreater.h": 0,
+        "isgreaterequal.h": 0,
+        "isinf.h": 6.099602068851199e-06,
+        "isless.h": 0,
+        "islessequal.h": 0,
+        "islessgreater.h": 0,
+        "isnan.h": 6.099602068851199e-06,
+        "isnormal.h": 0,
+        "isnotequal.h": 0,
+        "isordered.h": 0,
+        "isunordered.h": 0,
+        "select.h": 6.099602068851199e-06,
+        "select.inc": 6.099602068851199e-06,
+        "signbit.h": 6.099602068851199e-06,
+        "unary_decl.inc": 0
+    },
+    "subdirscores": {}
+}

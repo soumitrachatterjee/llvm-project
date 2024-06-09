@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/mlir/test/lib/Reducer",
+    "score.sum": 1.7585537402805008e-05,
+    "sha.latest": "7557530f428a2f226d8d925c33d527dfcfdcb0c5",
+    "time.latest": 1717832279.5529108,
+    "formatted_time": "2024-06-08 02:37:59.552914",
+    "filescores": {
+        "CMakeLists.txt": 0,
+        "MLIRTestReducer.cpp": 1.7585537402805008e-05
+    },
+    "subdirscores": {}
+}

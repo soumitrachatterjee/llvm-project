@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/mlir/examples/standalone/standalone-opt",
+    "score.sum": 6.294639439580961e-05,
+    "sha.latest": "655b678197cda33819a8c3ef5dd9c7b3a9f0ccc1",
+    "time.latest": 1717789037.1918766,
+    "formatted_time": "2024-06-07 14:37:17.191879",
+    "filescores": {
+        "CMakeLists.txt": 1.8603037879374324e-05,
+        "standalone-opt.cpp": 5.679442992721098e-05
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/mlir/test/Conversion/ArmSMEToSCF",
+    "score.sum": 4.6506513060796516e-05,
+    "sha.latest": "fb8eb4251ac0ac27ab0125caf1abe3dbb93732f4",
+    "time.latest": 1717815412.3934402,
+    "formatted_time": "2024-06-07 21:56:52.393444",
+    "filescores": {
+        "arm-sme-to-scf.mlir": 4.6506513060796516e-05
+    },
+    "subdirscores": {}
+}

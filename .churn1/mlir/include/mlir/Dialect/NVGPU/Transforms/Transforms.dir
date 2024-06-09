@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/mlir/include/mlir/Dialect/NVGPU/Transforms",
+    "score.sum": 1.2881974762339732e-05,
+    "sha.latest": "db393288ff9b07d2c13b2be6a61f91ba180cb601",
+    "time.latest": 1717795935.8990757,
+    "formatted_time": "2024-06-07 16:32:15.899079",
+    "filescores": {
+        "CMakeLists.txt": 0,
+        "Passes.h": 0,
+        "Passes.td": 0,
+        "Transforms.h": 6.798004959253311e-06,
+        "Utils.h": 6.099602068851199e-06
+    },
+    "subdirscores": {}
+}

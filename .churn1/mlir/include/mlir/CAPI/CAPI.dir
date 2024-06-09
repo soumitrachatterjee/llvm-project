@@ -1,0 +1,22 @@
+{
+    "directory name": "llvm-project/mlir/include/mlir/CAPI",
+    "score.sum": 7.388035899128783e-05,
+    "sha.latest": "6594f428de91e333c1cbea4f55e79b18d31024c4",
+    "time.latest": 1717791114.1522176,
+    "formatted_time": "2024-06-07 15:11:54.152221",
+    "filescores": {
+        "AffineExpr.h": 0,
+        "AffineMap.h": 0,
+        "Diagnostics.h": 0,
+        "ExecutionEngine.h": 0,
+        "IR.h": 3.718831377126606e-05,
+        "IntegerSet.h": 6.099602068851199e-06,
+        "Interfaces.h": 0,
+        "Pass.h": 0,
+        "Registration.h": 1.1018377810814911e-05,
+        "Support.h": 2.338885428685509e-05,
+        "Utils.h": 1.3810681543520488e-05,
+        "Wrap.h": 6.669703180190275e-06
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/libclc/generic/lib/cl_khr_global_int32_extended_atomics",
+    "score.sum": 6.099604175663764e-06,
+    "sha.latest": "65e3541b789a5e7513910dd706dd18412c8ced0f",
+    "time.latest": 1717828218.247433,
+    "formatted_time": "2024-06-08 01:30:18.247437",
+    "filescores": {
+        "atom_and.cl": 6.099602068851199e-06,
+        "atom_max.cl": 6.099602068851199e-06,
+        "atom_min.cl": 6.099602068851199e-06,
+        "atom_or.cl": 6.099602068851199e-06,
+        "atom_xor.cl": 6.099602068851199e-06
+    },
+    "subdirscores": {}
+}

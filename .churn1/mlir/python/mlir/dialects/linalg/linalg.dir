@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/mlir/python/mlir/dialects/linalg",
+    "score.sum": 0.00022837686632656005,
+    "sha.latest": "5f4c89edd0ade97ab3e2d6df5375974f4b975d58",
+    "time.latest": 1717814053.3095405,
+    "formatted_time": "2024-06-07 21:34:13.309542",
+    "filescores": {
+        "__init__.py": 1.3483840171645495e-05
+    },
+    "subdirscores": {
+        "opdsl": 0.00021774488234275425,
+        "passes": 6.099602068851199e-06
+    }
+}

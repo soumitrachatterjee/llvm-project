@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/llvm/lib/Transforms/CFGuard",
+    "score.sum": 7.24775960710875e-05,
+    "sha.latest": "6b62a9135a28bd001263e5a9db08d4cff1123126",
+    "time.latest": 1717874536.8538458,
+    "formatted_time": "2024-06-08 14:22:16.853850",
+    "filescores": {
+        "CFGuard.cpp": 6.650922030355526e-05,
+        "CMakeLists.txt": 8.255468858927531e-06
+    },
+    "subdirscores": {}
+}

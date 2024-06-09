@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/mlir/include/mlir/Dialect/OpenACCMPCommon/Interfaces",
+    "score.sum": 0,
+    "sha.latest": "61278ec3480c7520916178767cd4453d750de652",
+    "time.latest": 1717796109.7036464,
+    "formatted_time": "2024-06-07 16:35:09.703650",
+    "filescores": {
+        "AtomicInterfaces.h": 0,
+        "AtomicInterfaces.td": 0,
+        "CMakeLists.txt": 0
+    },
+    "subdirscores": {}
+}

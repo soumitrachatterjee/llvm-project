@@ -1,0 +1,31 @@
+{
+    "directory name": "llvm-project/llvm/lib/Target/PowerPC/MCTargetDesc",
+    "score.sum": 0.0012654672238388933,
+    "sha.latest": "5b058709536dd883980722ee000bb7b8c7b2cd8b",
+    "time.latest": 1717862990.519847,
+    "formatted_time": "2024-06-08 11:09:50.519850",
+    "filescores": {
+        "CMakeLists.txt": 5.9217017074745845e-05,
+        "PPCAsmBackend.cpp": 0.00022714948211751453,
+        "PPCELFObjectWriter.cpp": 0.00016539824137060984,
+        "PPCELFStreamer.cpp": 5.371953587388236e-05,
+        "PPCELFStreamer.h": 1.4411912751647576e-05,
+        "PPCFixupKinds.h": 5.6162601895943516e-05,
+        "PPCInstPrinter.cpp": 8.0655390448075e-05,
+        "PPCInstPrinter.h": 3.835012599387149e-05,
+        "PPCMCAsmInfo.cpp": 0.00012785696428768708,
+        "PPCMCAsmInfo.h": 6.183823847969294e-05,
+        "PPCMCCodeEmitter.cpp": 0.00028875607153590744,
+        "PPCMCCodeEmitter.h": 5.7735753558528e-05,
+        "PPCMCExpr.cpp": 3.381292317924269e-05,
+        "PPCMCExpr.h": 3.823688091444836e-05,
+        "PPCMCTargetDesc.cpp": 0.00031481443668347005,
+        "PPCMCTargetDesc.h": 0.0001472862548021439,
+        "PPCPredicates.cpp": 1.555164445325217e-05,
+        "PPCPredicates.h": 4.893078195897885e-05,
+        "PPCXCOFFObjectWriter.cpp": 3.5559152503802e-05,
+        "PPCXCOFFStreamer.cpp": 1.3410117084926483e-05,
+        "PPCXCOFFStreamer.h": 6.099602068851199e-06
+    },
+    "subdirscores": {}
+}

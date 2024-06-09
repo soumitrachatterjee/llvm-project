@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/mlir/lib/Dialect/AMX/Transforms",
+    "score.sum": 2.3943731001925307e-05,
+    "sha.latest": "406b887ad71439bd0af44ab93ed318aea4c83f36",
+    "time.latest": 1717804617.7344377,
+    "formatted_time": "2024-06-07 18:56:57.734441",
+    "filescores": {
+        "CMakeLists.txt": 7.649094328248548e-06,
+        "LegalizeForLLVMExport.cpp": 2.106361347752922e-05
+    },
+    "subdirscores": {}
+}

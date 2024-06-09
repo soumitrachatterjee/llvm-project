@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/flang/test/Lower/Intrinsics/Todo",
+    "score.sum": 0,
+    "sha.latest": "56d856c19554443677d25b91693c82dc7f35aa2c",
+    "time.latest": 1717798830.948238,
+    "formatted_time": "2024-06-07 17:20:30.948241",
+    "filescores": {
+        "reduce.f90": 0
+    },
+    "subdirscores": {}
+}

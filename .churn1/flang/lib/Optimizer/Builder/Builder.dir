@@ -1,0 +1,24 @@
+{
+    "directory name": "llvm-project/flang/lib/Optimizer/Builder",
+    "score.sum": 0.0011208177532750774,
+    "sha.latest": "860a40057da2fbb626fdf17feec18070d95b687b",
+    "time.latest": 1717791412.5893846,
+    "formatted_time": "2024-06-07 15:16:52.589388",
+    "filescores": {
+        "BoxValue.cpp": 3.1678059008276866e-05,
+        "CMakeLists.txt": 6.911262785699823e-05,
+        "Character.cpp": 6.123561295777811e-05,
+        "Complex.cpp": 0,
+        "DoLoopHelper.cpp": 6.099602068851199e-06,
+        "FIRBuilder.cpp": 0.0002498274189819285,
+        "HLFIRTools.cpp": 0.00014066046148468814,
+        "IntrinsicCall.cpp": 0.00019353556283656807,
+        "LowLevelIntrinsics.cpp": 1.9639402268918493e-05,
+        "MutableBox.cpp": 9.320112001952617e-05,
+        "PPCIntrinsicCall.cpp": 8.641116513071383e-05,
+        "TemporaryStorage.cpp": 6.999064616985096e-06
+    },
+    "subdirscores": {
+        "Runtime": 0.0001749434852538872
+    }
+}

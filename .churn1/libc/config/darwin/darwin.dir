@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/libc/config/darwin",
+    "score.sum": 0.000127040633765989,
+    "sha.latest": "c996023f9a288f12f97de8e1a2b8fbb28d2ed0c3",
+    "time.latest": 1717825025.330459,
+    "formatted_time": "2024-06-08 00:37:05.330460",
+    "filescores": {},
+    "subdirscores": {
+        "arm": 0.00011802604907017751,
+        "x86_64": 3.373911901557214e-05
+    }
+}

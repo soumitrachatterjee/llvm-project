@@ -1,0 +1,34 @@
+{
+    "directory name": "llvm-project/libc/src/__support/CPP",
+    "score.sum": 0.0006623691465693385,
+    "sha.latest": "a066f71e70b9cbfdc2f2eb41e7c4d8372d216a6e",
+    "time.latest": 1717828272.198025,
+    "formatted_time": "2024-06-08 01:31:12.198026",
+    "filescores": {
+        ".clang-tidy": 6.099602068851199e-06,
+        "CMakeLists.txt": 0.00017863518115393212,
+        "README.md": 8.704625520100498e-06,
+        "algorithm.h": 1.1548588175634515e-05,
+        "array.h": 2.794530788906795e-05,
+        "atomic.h": 5.2926667804846464e-05,
+        "bit.h": 0.00013080869043589636,
+        "bitset.h": 2.4051923530739442e-05,
+        "cstddef.h": 1.7314668728146203e-05,
+        "expected.h": 1.6994681635083826e-05,
+        "functional.h": 3.8093598653324344e-05,
+        "limits.h": 6.071581365613548e-05,
+        "new.cpp": 0,
+        "new.h": 2.4269836635033873e-05,
+        "optional.h": 4.8464330813951755e-05,
+        "span.h": 2.223410856702503e-05,
+        "string.h": 3.686488431404736e-05,
+        "string_view.h": 2.471267590143242e-05,
+        "stringstream.h": 3.0557146406587285e-05,
+        "type_traits.h": 8.5653532058663e-05,
+        "utility.h": 3.3543761623448764e-05
+    },
+    "subdirscores": {
+        "type_traits": 5.051038339414191e-05,
+        "utility": 9.325393982740868e-06
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "directory name": "llvm-project/mlir/test/lib/Conversion",
+    "score.sum": 6.612340711355947e-05,
+    "sha.latest": "9f6c00565a82fc375d415804d54da1113f719b17",
+    "time.latest": 1717830862.7212327,
+    "formatted_time": "2024-06-08 02:14:22.721233",
+    "filescores": {
+        "CMakeLists.txt": 2.445964332450835e-05
+    },
+    "subdirscores": {
+        "FuncToLLVM": 1.6487428806699424e-05,
+        "MathToVCIX": 0,
+        "OneToNTypeConversion": 8.870051556875885e-06,
+        "VectorToSPIRV": 0
+    }
+}

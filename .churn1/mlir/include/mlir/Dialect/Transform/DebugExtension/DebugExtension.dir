@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/mlir/include/mlir/Dialect/Transform/DebugExtension",
+    "score.sum": 0,
+    "sha.latest": "2798b72ae7e5caad793169b77cbac47fe2362d0f",
+    "time.latest": 1717797735.3581307,
+    "formatted_time": "2024-06-07 17:02:15.358134",
+    "filescores": {
+        "CMakeLists.txt": 0,
+        "DebugExtension.h": 0,
+        "DebugExtensionOps.h": 0,
+        "DebugExtensionOps.td": 0
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,19 @@
+{
+    "directory name": "llvm-project/flang/test/Analysis/AliasAnalysis",
+    "score.sum": 3.1141700186256284e-05,
+    "sha.latest": "702664e7870c27f197dfb744a4db54aa259ce452",
+    "time.latest": 1717793636.568059,
+    "formatted_time": "2024-06-07 15:53:56.568063",
+    "filescores": {
+        "alias-analysis-1.fir": 0,
+        "alias-analysis-2.fir": 2.136434262166892e-05,
+        "alias-analysis-3.fir": 0,
+        "alias-analysis-4.fir": 0,
+        "alias-analysis-5.fir": 0,
+        "alias-analysis-6.fir": 6.099602068851199e-06,
+        "alias-analysis-7.fir": 0,
+        "alias-analysis-8.fir": 0,
+        "alias-analysis-host-assoc.fir": 6.099602068851199e-06
+    },
+    "subdirscores": {}
+}

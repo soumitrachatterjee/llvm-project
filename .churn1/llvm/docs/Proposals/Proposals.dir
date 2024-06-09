@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/llvm/docs/Proposals",
+    "score.sum": 8.140762817503033e-05,
+    "sha.latest": "d32e68ae539df62935ebb74cfff3d8490d1b1e35",
+    "time.latest": 1717802058.977304,
+    "formatted_time": "2024-06-07 18:14:18.977308",
+    "filescores": {
+        "GitHubMove.rst": 4.774740476318262e-05,
+        "TestSuite.rst": 8.764623331915636e-06,
+        "VariableNames.rst": 1.1616389223838053e-05,
+        "VectorPredication.rst": 0
+    },
+    "subdirscores": {}
+}

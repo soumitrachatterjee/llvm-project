@@ -1,0 +1,26 @@
+{
+    "directory name": "llvm-project/mlir/test/Bytecode",
+    "score.sum": 0.00011675477786847569,
+    "sha.latest": "4488f4933ee2a5326be643e8d1afec623c318fb9",
+    "time.latest": 1717815062.299278,
+    "formatted_time": "2024-06-07 21:51:02.299278",
+    "filescores": {
+        "bytecode-lazy-loading.mlir": 1.5621975457500295e-05,
+        "bytecode_callback.mlir": 6.131783889129177e-06,
+        "bytecode_callback_full_override.mlir": 6.131783889129177e-06,
+        "bytecode_callback_with_custom_attribute.mlir": 6.131783889129177e-06,
+        "bytecode_callback_with_custom_type.mlir": 6.131783889129177e-06,
+        "bytecode_downgrade.mlir": 0,
+        "empty_attr.mlir": 0,
+        "general.mlir": 2.4274630596488928e-05,
+        "operand_segment_sizes.mlir": 6.099602068851199e-06,
+        "resources.mlir": 7.9750029634729e-06,
+        "resources_elision.mlir": 0,
+        "unregistered_dialect.mlir": 0,
+        "uselist_orders.mlir": 0
+    },
+    "subdirscores": {
+        "invalid": 5.931280116980429e-05,
+        "versioning": 2.317723403067348e-05
+    }
+}

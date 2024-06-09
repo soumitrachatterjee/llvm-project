@@ -1,0 +1,42 @@
+{
+    "directory name": "llvm-project/libc/test/src/unistd",
+    "score.sum": 0.00018292942001947574,
+    "sha.latest": "3eb1e6d8e930f5aff17b8d6bcc160f5bbf8cabc7",
+    "time.latest": 1717851630.9206662,
+    "formatted_time": "2024-06-08 08:00:30.920670",
+    "filescores": {
+        "CMakeLists.txt": 0.00011494933841308765,
+        "access_test.cpp": 3.75963389981616e-05,
+        "chdir_test.cpp": 3.28266572788977e-05,
+        "dup2_test.cpp": 3.761570326475771e-05,
+        "dup3_test.cpp": 3.761570326475771e-05,
+        "dup_test.cpp": 3.761559072846115e-05,
+        "fchdir_test.cpp": 3.28266572788977e-05,
+        "ftruncate_test.cpp": 3.550281994908313e-05,
+        "geteuid_test.cpp": 8.394122246745587e-06,
+        "getopt_test.cpp": 1.8309305789829758e-05,
+        "getpid_test.cpp": 8.394122246745587e-06,
+        "getppid_test.cpp": 8.394122246745587e-06,
+        "getuid_test.cpp": 8.394122246745587e-06,
+        "isatty_test.cpp": 3.4262570264523474e-05,
+        "link_test.cpp": 3.552856180581437e-05,
+        "linkat_test.cpp": 3.552856180581437e-05,
+        "lseek_test.cpp": 3.06399818198619e-05,
+        "pread_pwrite_test.cpp": 3.1760486511751344e-05,
+        "read_write_test.cpp": 3.709877118205322e-05,
+        "readlink_test.cpp": 3.0058403409734778e-05,
+        "readlinkat_test.cpp": 3.0058403409734778e-05,
+        "rmdir_test.cpp": 2.5293499567382477e-05,
+        "swab_test.cpp": 6.099602068851199e-06,
+        "symlink_test.cpp": 3.552856180581437e-05,
+        "symlinkat_test.cpp": 3.552856180581437e-05,
+        "syscall_test.cpp": 3.7764636674704744e-05,
+        "sysconf_test.cpp": 8.186417024622662e-06,
+        "truncate_test.cpp": 3.550281994908313e-05,
+        "unlink_test.cpp": 3.702187692938544e-05,
+        "unlinkat_test.cpp": 3.702187692938544e-05
+    },
+    "subdirscores": {
+        "testdata": 7.372386249372008e-06
+    }
+}

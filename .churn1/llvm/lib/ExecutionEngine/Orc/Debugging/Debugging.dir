@@ -1,0 +1,17 @@
+{
+    "directory name": "llvm-project/llvm/lib/ExecutionEngine/Orc/Debugging",
+    "score.sum": 3.1068237045659036e-05,
+    "sha.latest": "00f412168cf6aee234615a11d1424fc58221eb78",
+    "time.latest": 1717836973.0635087,
+    "formatted_time": "2024-06-08 03:56:13.063512",
+    "filescores": {
+        "CMakeLists.txt": 2.089622094457728e-05,
+        "DebugInfoSupport.cpp": 1.2238557492220877e-05,
+        "DebuggerSupport.cpp": 6.099602068851199e-06,
+        "DebuggerSupportPlugin.cpp": 1.3741674563843012e-05,
+        "LLJITUtilsCBindings.cpp": 0,
+        "PerfSupportPlugin.cpp": 6.099602068851199e-06,
+        "VTuneSupportPlugin.cpp": 6.8349459337870826e-06
+    },
+    "subdirscores": {}
+}

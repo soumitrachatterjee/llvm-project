@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/mlir/test/Dialect/DLTI",
+    "score.sum": 9.674267208943956e-06,
+    "sha.latest": "aef89c8b41847c7235e00fbf8b2a2f10cb1aad25",
+    "time.latest": 1717818750.907278,
+    "formatted_time": "2024-06-07 22:52:30.907281",
+    "filescores": {
+        "invalid.mlir": 6.32118781266988e-06,
+        "roundtrip.mlir": 6.099602068851199e-06
+    },
+    "subdirscores": {}
+}

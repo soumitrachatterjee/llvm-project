@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/mlir/test/lib/Dialect/TestDyn",
+    "score.sum": 0,
+    "sha.latest": "ba8424a251d72756d3d697fd0b208c1c29f3b99f",
+    "time.latest": 1717831842.9745858,
+    "formatted_time": "2024-06-08 02:30:42.974589",
+    "filescores": {
+        "CMakeLists.txt": 0,
+        "TestDynDialect.cpp": 0
+    },
+    "subdirscores": {}
+}

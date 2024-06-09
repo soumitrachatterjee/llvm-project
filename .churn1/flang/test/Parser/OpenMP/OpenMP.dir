@@ -1,0 +1,33 @@
+{
+    "directory name": "llvm-project/flang/test/Parser/OpenMP",
+    "score.sum": 5.09373422090176e-05,
+    "sha.latest": "482a37b86036f564a97ad66bbc7aca40fa9cee60",
+    "time.latest": 1717805244.824106,
+    "formatted_time": "2024-06-07 19:07:24.824111",
+    "filescores": {
+        "allocate-tree-spec-part.f90": 2.2640602861967087e-05,
+        "allocate-tree.f90": 2.2640602861967087e-05,
+        "allocate-unparse.f90": 0,
+        "allocators-unparse.f90": 0,
+        "atomic-unparse.f90": 0,
+        "cond-include.f90": 0,
+        "cond-include.inc": 0,
+        "declare_target-device_type.f90": 1.8032803556740746e-05,
+        "defaultmap-unparse.f90": 0,
+        "if-clause-unparse.f90": 0,
+        "if-clause.f90": 6.099602068851199e-06,
+        "in-reduction-clause.f90": 0,
+        "nontemporal-unparse.f90": 0,
+        "order-clause01.f90": 0,
+        "sections.f90": 0,
+        "sentinels.f": 0,
+        "target_device_parse.f90": 0,
+        "target_device_unparse.f90": 0,
+        "threadprivate-blank-common-block.f90": 0,
+        "tile-size.f90": 0,
+        "tile.f90": 0,
+        "unroll-full.f90": 0,
+        "unroll.f90": 0
+    },
+    "subdirscores": {}
+}

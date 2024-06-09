@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/mlir/include/mlir/AsmParser",
+    "score.sum": 2.3401010151743902e-05,
+    "sha.latest": "3bcc63e36ad4afc653ba2e2e92a553452252f92f",
+    "time.latest": 1717790897.1920052,
+    "formatted_time": "2024-06-07 15:08:17.192008",
+    "filescores": {
+        "AsmParser.h": 1.642421210307198e-05,
+        "AsmParserState.h": 1.4220445010276705e-05,
+        "CodeComplete.h": 0
+    },
+    "subdirscores": {}
+}

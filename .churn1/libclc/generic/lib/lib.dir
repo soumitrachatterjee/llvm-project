@@ -1,0 +1,36 @@
+{
+    "directory name": "llvm-project/libclc/generic/lib",
+    "score.sum": 0.0005979133125950644,
+    "sha.latest": "9160f49e08af4267efdc870a1c9a434bfd155ae3",
+    "time.latest": 1717831138.1791234,
+    "formatted_time": "2024-06-08 02:18:58.179124",
+    "filescores": {
+        "SOURCES": 0.0005236082960973388,
+        "atom_int32_binary.inc": 6.099602068851199e-06,
+        "clc_unary.inc": 0,
+        "clcmacro.h": 1.803398278602638e-05,
+        "gen_convert.py": 1.7641737769278523e-05,
+        "subnormal_config.cl": 0,
+        "subnormal_disable.ll": 0,
+        "subnormal_helper_func.ll": 0,
+        "subnormal_use_default.ll": 0
+    },
+    "subdirscores": {
+        "async": 1.0072197731523772e-05,
+        "atomic": 2.0444984137365984e-05,
+        "cl_khr_global_int32_base_atomics": 1.812581421598821e-05,
+        "cl_khr_global_int32_extended_atomics": 6.099604175663764e-06,
+        "cl_khr_int64_base_atomics": 0,
+        "cl_khr_int64_extended_atomics": 0,
+        "cl_khr_local_int32_base_atomics": 1.5404613719865967e-05,
+        "cl_khr_local_int32_extended_atomics": 6.099604175663764e-06,
+        "common": 1.683396160301164e-05,
+        "geometric": 3.9586741005415655e-05,
+        "integer": 3.7408284013854046e-05,
+        "math": 0.00034899188660045743,
+        "misc": 6.0996023488495025e-06,
+        "relational": 5.891635719586288e-05,
+        "shared": 8.149883146939175e-05,
+        "workitem": 9.10745343127922e-06
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/mlir/test/python/integration/dialects/linalg",
+    "score.sum": 5.869858951457621e-05,
+    "sha.latest": "f9008e6366c2496b1ca1785b891d5578174ad63e",
+    "time.latest": 1717834572.4250882,
+    "formatted_time": "2024-06-08 03:16:12.425092",
+    "filescores": {
+        "opsrun.py": 5.869858951457621e-05
+    },
+    "subdirscores": {}
+}

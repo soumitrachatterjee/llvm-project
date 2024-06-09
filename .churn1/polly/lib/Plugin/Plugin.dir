@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/polly/lib/Plugin",
+    "score.sum": 0,
+    "sha.latest": "24ab9b537e61b3fe5e6a1019492ff6530d82a3ee",
+    "time.latest": 1717809133.3390672,
+    "formatted_time": "2024-06-07 20:12:13.339070",
+    "filescores": {
+        "Polly.cpp": 0
+    },
+    "subdirscores": {}
+}

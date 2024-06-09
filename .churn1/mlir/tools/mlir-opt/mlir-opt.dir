@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/mlir/tools/mlir-opt",
+    "score.sum": 0.0008173749788420638,
+    "sha.latest": "cb6ff746e0c7b9218b6f5c11db44162cacd623a4",
+    "time.latest": 1717835105.3204412,
+    "formatted_time": "2024-06-08 03:25:05.320445",
+    "filescores": {
+        "CMakeLists.txt": 0.000298454538246245,
+        "mlir-opt.cpp": 0.0006860906907279357
+    },
+    "subdirscores": {}
+}

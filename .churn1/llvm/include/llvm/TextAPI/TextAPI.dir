@@ -1,0 +1,28 @@
+{
+    "directory name": "llvm-project/llvm/include/llvm/TextAPI",
+    "score.sum": 0.00034120338572305614,
+    "sha.latest": "50ae8a2a38b618d76193bed04b1d7df6890d5c8a",
+    "time.latest": 1717823628.508027,
+    "formatted_time": "2024-06-08 00:13:48.508031",
+    "filescores": {
+        "Architecture.def": 0,
+        "Architecture.h": 6.099602068851199e-06,
+        "ArchitectureSet.h": 7.0205221861500804e-06,
+        "DylibReader.h": 1.0861920370799753e-05,
+        "FileTypes.h": 0,
+        "InterfaceFile.h": 0.00010130998443263613,
+        "PackedVersion.h": 2.1152468756956835e-05,
+        "Platform.h": 1.8413436467205888e-05,
+        "Record.h": 2.4835403909737035e-05,
+        "RecordVisitor.h": 0,
+        "RecordsSlice.h": 2.373966497868034e-05,
+        "Symbol.h": 5.215358686702664e-05,
+        "SymbolSet.h": 1.5011509072390481e-05,
+        "Target.h": 3.8489640276089475e-05,
+        "TextAPIError.h": 2.6988468872460873e-05,
+        "TextAPIReader.h": 6.919456207248405e-06,
+        "TextAPIWriter.h": 2.5727238698916284e-05,
+        "Utils.h": 6.099602068851199e-06
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/llvm/lib/Target/VE/TargetInfo",
+    "score.sum": 1.8851993869303994e-05,
+    "sha.latest": "b3a6d096d7c369f5290172c126bd699716bb383c",
+    "time.latest": 1717868634.506134,
+    "formatted_time": "2024-06-08 12:43:54.506136",
+    "filescores": {
+        "CMakeLists.txt": 9.051193157877637e-06,
+        "VETargetInfo.cpp": 9.80111428813897e-06,
+        "VETargetInfo.h": 0
+    },
+    "subdirscores": {}
+}

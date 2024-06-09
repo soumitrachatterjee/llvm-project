@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/libclc/generic/include/clc/image",
+    "score.sum": 2.433951556577451e-05,
+    "sha.latest": "e2bab44ca961d1862282fee1a6d247822029378e",
+    "time.latest": 1717825425.4140515,
+    "formatted_time": "2024-06-08 00:43:45.414055",
+    "filescores": {
+        "image.h": 1.2182331102933792e-05,
+        "image_defines.h": 6.099602068851199e-06
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/mlir/include/mlir/Conversion/ArithToSPIRV",
+    "score.sum": 0,
+    "sha.latest": "abc362a1077b9cb4186e3e53a616589c7fed4387",
+    "time.latest": 1717791268.6263413,
+    "formatted_time": "2024-06-07 15:14:28.626345",
+    "filescores": {
+        "ArithToSPIRV.h": 0
+    },
+    "subdirscores": {}
+}

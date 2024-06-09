@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/mlir/unittests/Dialect/Utils",
+    "score.sum": 1.9749734887969434e-05,
+    "sha.latest": "8a80e331506e3e3db390ed0b482c7cbe216f7afc",
+    "time.latest": 1717836242.7389693,
+    "formatted_time": "2024-06-08 03:44:02.738973",
+    "filescores": {
+        "CMakeLists.txt": 6.101021289415511e-06,
+        "IndexingUtilsTest.cpp": 0,
+        "StructuredOpsUtilsTest.cpp": 1.3907825836323369e-05
+    },
+    "subdirscores": {}
+}

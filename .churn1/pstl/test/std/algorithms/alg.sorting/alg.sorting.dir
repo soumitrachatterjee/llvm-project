@@ -1,0 +1,19 @@
+{
+    "directory name": "llvm-project/pstl/test/std/algorithms/alg.sorting",
+    "score.sum": 2.5801174599730994e-05,
+    "sha.latest": "3b9a1bb1af90db9472340ef2122d3855eb9ba3fc",
+    "time.latest": 1717791914.2351215,
+    "formatted_time": "2024-06-07 15:25:14.235125",
+    "filescores": {
+        "is_sorted.pass.cpp": 9.85256697451081e-06,
+        "partial_sort.pass.cpp": 1.1432505441069234e-05,
+        "partial_sort_copy.pass.cpp": 1.5754364343710128e-05,
+        "sort.pass.cpp": 1.2055556506560725e-05
+    },
+    "subdirscores": {
+        "alg.heap.operations": 1.3180537629176497e-05,
+        "alg.lex.comparison": 1.1661997467057341e-05,
+        "alg.min.max": 1.346093469379254e-05,
+        "alg.set.operations": 2.2931480032972686e-05
+    }
+}

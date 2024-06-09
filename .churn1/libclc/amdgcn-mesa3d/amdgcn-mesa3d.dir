@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/libclc/amdgcn-mesa3d",
+    "score.sum": 0,
+    "sha.latest": "fd9d787b183a58295b621e375a35246e74340639",
+    "time.latest": 1717823357.87988,
+    "formatted_time": "2024-06-08 00:09:17.879881",
+    "filescores": {},
+    "subdirscores": {
+        "lib": 0
+    }
+}

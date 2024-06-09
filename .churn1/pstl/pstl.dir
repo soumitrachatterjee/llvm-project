@@ -1,0 +1,20 @@
+{
+    "directory name": "llvm-project/pstl",
+    "score.sum": 0.00023583995825226365,
+    "sha.latest": "987087df90026605fc8d03ebda5a1cd31b71e609",
+    "time.latest": 1717792144.4602005,
+    "formatted_time": "2024-06-07 15:29:04.460201",
+    "filescores": {
+        ".clang-format": 6.099602068851199e-06,
+        "CMakeLists.txt": 0.0001171644444267152,
+        "CREDITS.txt": 6.099602068851199e-06,
+        "LICENSE.TXT": 0,
+        "README.md": 6.798077426660871e-06
+    },
+    "subdirscores": {
+        "cmake": 1.557084645862797e-05,
+        "docs": 3.230874624973498e-05,
+        "include": 0.00012083650490818131,
+        "test": 7.364886710444387e-05
+    }
+}

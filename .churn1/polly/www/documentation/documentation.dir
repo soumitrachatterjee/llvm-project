@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/polly/www/documentation",
+    "score.sum": 4.340292836946379e-05,
+    "sha.latest": "19afbfe33156d211fa959dadeea46cd17b9c723c",
+    "time.latest": 1717820071.5637352,
+    "formatted_time": "2024-06-07 23:14:31.563739",
+    "filescores": {
+        "architecture.html": 1.8291397252162997e-05,
+        "passes.html": 3.244955050164004e-05
+    },
+    "subdirscores": {}
+}

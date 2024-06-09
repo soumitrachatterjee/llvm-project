@@ -1,0 +1,31 @@
+{
+    "directory name": "llvm-project/mlir/lib/Transforms",
+    "score.sum": 0.0024177337084795923,
+    "sha.latest": "9b6bd7093ccb07ba8d6987220b2703549af02933",
+    "time.latest": 1717813252.366943,
+    "formatted_time": "2024-06-07 21:20:52.366946",
+    "filescores": {
+        "CMakeLists.txt": 0.0001815732362295594,
+        "CSE.cpp": 0.00014559068092371733,
+        "Canonicalizer.cpp": 0.0001252450252095263,
+        "ControlFlowSink.cpp": 3.2875416031740524e-05,
+        "GenerateRuntimeVerification.cpp": 0,
+        "InlinerPass.cpp": 0,
+        "LocationSnapshot.cpp": 4.6273228177061286e-05,
+        "LoopInvariantCodeMotion.cpp": 9.385485940245712e-05,
+        "Mem2Reg.cpp": 2.899007802845264e-05,
+        "OpStats.cpp": 6.527978347122005e-05,
+        "PrintIR.cpp": 6.099602068851199e-06,
+        "RemoveDeadValues.cpp": 7.203444963189091e-06,
+        "SCCP.cpp": 4.937409632340392e-05,
+        "SROA.cpp": 0,
+        "StripDebugInfo.cpp": 4.7919523125705575e-05,
+        "SymbolDCE.cpp": 4.563181388294377e-05,
+        "SymbolPrivatize.cpp": 1.8263841060094702e-05,
+        "TopologicalSort.cpp": 1.2516922327157544e-05,
+        "ViewOpGraph.cpp": 0.000103740849950503
+    },
+    "subdirscores": {
+        "Utils": 0.001519092103710651
+    }
+}

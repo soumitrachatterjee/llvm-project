@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/libclc/ptx/lib/shared",
+    "score.sum": 6.099602068851199e-06,
+    "sha.latest": "957151bd86a30e739bd20ffd9b7e8f0b4714c2c2",
+    "time.latest": 1717831429.4879274,
+    "formatted_time": "2024-06-08 02:23:49.487931",
+    "filescores": {
+        "vload_half_helpers.ll": 0,
+        "vstore_half_helpers.ll": 0
+    },
+    "subdirscores": {}
+}

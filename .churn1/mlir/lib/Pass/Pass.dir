@@ -1,0 +1,19 @@
+{
+    "directory name": "llvm-project/mlir/lib/Pass",
+    "score.sum": 0.0005690825869817084,
+    "sha.latest": "744616b3aebd008a5ad0e9de9f82f5e284440ab1",
+    "time.latest": 1717811205.6698952,
+    "formatted_time": "2024-06-07 20:46:45.669899",
+    "filescores": {
+        "CMakeLists.txt": 5.355360648636554e-05,
+        "IRPrinting.cpp": 8.762324839883237e-05,
+        "Pass.cpp": 0.00027673152697519764,
+        "PassCrashRecovery.cpp": 3.1835768909233114e-05,
+        "PassDetail.h": 7.994908632398404e-05,
+        "PassManagerOptions.cpp": 5.23764952927855e-05,
+        "PassRegistry.cpp": 0.0001605990991892348,
+        "PassStatistics.cpp": 5.000474380779431e-05,
+        "PassTiming.cpp": 5.563737538473833e-05
+    },
+    "subdirscores": {}
+}

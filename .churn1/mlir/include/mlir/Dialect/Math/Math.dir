@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/mlir/include/mlir/Dialect/Math",
+    "score.sum": 0.00027428860017493,
+    "sha.latest": "bcf9826a5392f40063869c3d2b72a5cd1b87d14b",
+    "time.latest": 1717795456.5056167,
+    "formatted_time": "2024-06-07 16:24:16.505618",
+    "filescores": {
+        "CMakeLists.txt": 6.099602068851199e-06
+    },
+    "subdirscores": {
+        "IR": 0.00021492248366917794,
+        "Transforms": 7.44951858333025e-05
+    }
+}

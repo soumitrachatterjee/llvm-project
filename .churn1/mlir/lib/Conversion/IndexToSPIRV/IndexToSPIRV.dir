@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/mlir/lib/Conversion/IndexToSPIRV",
+    "score.sum": 6.383332098912591e-06,
+    "sha.latest": "5aee156b2ad2baea5d17e58ee3c5ef360d3ffaec",
+    "time.latest": 1717803172.2772944,
+    "formatted_time": "2024-06-07 18:32:52.277298",
+    "filescores": {
+        "CMakeLists.txt": 6.383332098912591e-06,
+        "IndexToSPIRV.cpp": 6.383332098912591e-06
+    },
+    "subdirscores": {}
+}

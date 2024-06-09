@@ -1,0 +1,16 @@
+{
+    "directory name": "llvm-project/libc/test/integration/startup/gpu",
+    "score.sum": 3.817319985566664e-05,
+    "sha.latest": "abd85cd473afedf112bf00630a22382fee4a7853",
+    "time.latest": 1717844653.4218628,
+    "formatted_time": "2024-06-08 06:04:13.421867",
+    "filescores": {
+        "CMakeLists.txt": 3.505498415314306e-05,
+        "args_test.cpp": 6.099602068851199e-06,
+        "init_fini_array_test.cpp": 1.0795708548106522e-05,
+        "rpc_interface_test.cpp": 1.083866222960706e-05,
+        "rpc_stream_test.cpp": 1.4373619012937325e-05,
+        "rpc_test.cpp": 1.3823726224722785e-05
+    },
+    "subdirscores": {}
+}

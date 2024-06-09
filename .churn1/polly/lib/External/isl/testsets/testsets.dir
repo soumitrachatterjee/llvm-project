@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/polly/lib/External/isl/testsets",
+    "score.sum": 0,
+    "sha.latest": "658eb9e14264d48888ade0e3daf0b648f76c3f0e",
+    "time.latest": 1717809055.7133703,
+    "formatted_time": "2024-06-07 20:10:55.713371",
+    "filescores": {},
+    "subdirscores": {
+        "pip": 0
+    }
+}

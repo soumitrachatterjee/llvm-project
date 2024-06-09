@@ -1,0 +1,26 @@
+{
+    "directory name": "llvm-project/llvm/test/Analysis/TypeBasedAliasAnalysis",
+    "score.sum": 0.00031533426347322914,
+    "sha.latest": "4358e6e0c5b1f08de60b6b2fb015a06ab6760ee7",
+    "time.latest": 1717893304.4433513,
+    "formatted_time": "2024-06-08 19:35:04.443356",
+    "filescores": {
+        "PR17620.ll": 3.489607398796965e-05,
+        "aggregates.ll": 1.4233757965868666e-05,
+        "aliastest.ll": 3.197681509450868e-05,
+        "argument-promotion.ll": 2.3922896347578872e-05,
+        "dse.ll": 3.8654726359092305e-05,
+        "dynamic-indices.ll": 3.622150316238275e-05,
+        "functionattrs.ll": 0.00013659801921548327,
+        "gvn-nonlocal-type-mismatch.ll": 3.793117993689426e-05,
+        "intrinsics.ll": 6.703904045510268e-05,
+        "licm.ll": 3.685602106243067e-05,
+        "memcpyopt.ll": 7.281353263162747e-05,
+        "placement-tbaa.ll": 2.737501043585896e-05,
+        "precedence.ll": 2.7126317356274155e-05,
+        "sink.ll": 2.8649333635657014e-05,
+        "tbaa-path-new.ll": 1.4233757965868666e-05,
+        "tbaa-path.ll": 3.575726655787266e-05
+    },
+    "subdirscores": {}
+}

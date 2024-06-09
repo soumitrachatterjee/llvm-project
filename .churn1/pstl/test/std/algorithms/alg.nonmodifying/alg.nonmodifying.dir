@@ -1,0 +1,24 @@
+{
+    "directory name": "llvm-project/pstl/test/std/algorithms/alg.nonmodifying",
+    "score.sum": 2.0312010146542648e-05,
+    "sha.latest": "3b9a1bb1af90db9472340ef2122d3855eb9ba3fc",
+    "time.latest": 1717791767.6349704,
+    "formatted_time": "2024-06-07 15:22:47.634974",
+    "filescores": {
+        "adjacent_find.pass.cpp": 1.101025498774742e-05,
+        "all_of.pass.cpp": 1.2309424466675277e-05,
+        "any_of.pass.cpp": 1.2309424466675277e-05,
+        "count.pass.cpp": 1.2309424466675277e-05,
+        "equal.pass.cpp": 1.2155346976096094e-05,
+        "find.pass.cpp": 1.3180537629176497e-05,
+        "find_end.pass.cpp": 1.9672518924206777e-05,
+        "find_first_of.pass.cpp": 1.3180537629176497e-05,
+        "find_if.pass.cpp": 1.253311062955856e-05,
+        "for_each.pass.cpp": 9.839754286669859e-06,
+        "mismatch.pass.cpp": 9.839754286669859e-06,
+        "none_of.pass.cpp": 1.2309424466675277e-05,
+        "nth_element.pass.cpp": 1.3180537629176497e-05,
+        "search_n.pass.cpp": 1.9672518924206777e-05
+    },
+    "subdirscores": {}
+}

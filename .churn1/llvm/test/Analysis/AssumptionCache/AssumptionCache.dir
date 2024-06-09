@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/llvm/test/Analysis/AssumptionCache",
+    "score.sum": 2.8727716318939875e-05,
+    "sha.latest": "52240399f9ccedb44b667a14345a7be6bb1dc40f",
+    "time.latest": 1717878449.3180754,
+    "formatted_time": "2024-06-08 15:27:29.318079",
+    "filescores": {
+        "basic.ll": 2.8727716318939875e-05
+    },
+    "subdirscores": {}
+}

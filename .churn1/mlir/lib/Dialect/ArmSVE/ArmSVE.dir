@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/mlir/lib/Dialect/ArmSVE",
+    "score.sum": 8.843319059282765e-05,
+    "sha.latest": "7dcca6213258bf2df2dd8a7d555c9a12c1484759",
+    "time.latest": 1717805384.1087813,
+    "formatted_time": "2024-06-07 19:09:44.108782",
+    "filescores": {
+        "CMakeLists.txt": 6.099602068851199e-06
+    },
+    "subdirscores": {
+        "IR": 5.2014599091230855e-05,
+        "Transforms": 5.503866117326739e-05
+    }
+}

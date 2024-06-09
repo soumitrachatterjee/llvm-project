@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/libc/config/darwin/arm",
+    "score.sum": 0.00011802604907017751,
+    "sha.latest": "c996023f9a288f12f97de8e1a2b8fbb28d2ed0c3",
+    "time.latest": 1717825002.9789104,
+    "formatted_time": "2024-06-08 00:36:42.978914",
+    "filescores": {
+        "entrypoints.txt": 0.00010600065948286072,
+        "headers.txt": 2.0680124804404077e-05
+    },
+    "subdirscores": {}
+}

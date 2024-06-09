@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/llvm/lib/Target/PowerPC/Disassembler",
+    "score.sum": 0.00020909073236069142,
+    "sha.latest": "11fbd0c6abc9c47714247b58d9d8b0ef12bf1a4e",
+    "time.latest": 1717862642.8898125,
+    "formatted_time": "2024-06-08 11:04:02.889815",
+    "filescores": {
+        "CMakeLists.txt": 1.4807473550317224e-05,
+        "PPCDisassembler.cpp": 0.0001922860311706697
+    },
+    "subdirscores": {}
+}

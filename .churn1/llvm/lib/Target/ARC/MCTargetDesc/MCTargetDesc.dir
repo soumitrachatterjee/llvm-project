@@ -1,0 +1,18 @@
+{
+    "directory name": "llvm-project/llvm/lib/Target/ARC/MCTargetDesc",
+    "score.sum": 7.687548698451646e-05,
+    "sha.latest": "6ae84d668f956a32472a1d93f702007754986a4b",
+    "time.latest": 1717850608.9480631,
+    "formatted_time": "2024-06-08 07:43:28.948066",
+    "filescores": {
+        "ARCInfo.h": 7.83765371312999e-06,
+        "ARCInstPrinter.cpp": 1.187505066760192e-05,
+        "ARCInstPrinter.h": 1.8363511253298672e-05,
+        "ARCMCAsmInfo.cpp": 6.099602068851199e-06,
+        "ARCMCAsmInfo.h": 6.099602068851199e-06,
+        "ARCMCTargetDesc.cpp": 4.88245052385752e-05,
+        "ARCMCTargetDesc.h": 2.219255476291418e-05,
+        "CMakeLists.txt": 1.3581835203211505e-05
+    },
+    "subdirscores": {}
+}

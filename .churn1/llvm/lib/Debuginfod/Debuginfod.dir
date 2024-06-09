@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/llvm/lib/Debuginfod",
+    "score.sum": 0.00011200713097197864,
+    "sha.latest": "6594f428de91e333c1cbea4f55e79b18d31024c4",
+    "time.latest": 1717835947.6580715,
+    "formatted_time": "2024-06-08 03:39:07.658075",
+    "filescores": {
+        "BuildIDFetcher.cpp": 1.2092268363047485e-05,
+        "CMakeLists.txt": 2.6617390260947405e-05,
+        "Debuginfod.cpp": 9.164607201643547e-05,
+        "HTTPClient.cpp": 1.0865457351116772e-05,
+        "HTTPServer.cpp": 1.148783978443822e-05
+    },
+    "subdirscores": {}
+}

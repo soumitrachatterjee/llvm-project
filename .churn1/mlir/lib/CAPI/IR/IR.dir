@@ -1,0 +1,21 @@
+{
+    "directory name": "llvm-project/mlir/lib/CAPI/IR",
+    "score.sum": 0.0004562259028234212,
+    "sha.latest": "3714f937b835c06c8c32ca4f3f61ba2317db2296",
+    "time.latest": 1717802244.4659195,
+    "formatted_time": "2024-06-07 18:17:24.465923",
+    "filescores": {
+        "AffineExpr.cpp": 8.928450364885106e-06,
+        "AffineMap.cpp": 1.2326779250754163e-05,
+        "BuiltinAttributes.cpp": 8.730085204537002e-05,
+        "BuiltinTypes.cpp": 7.799268431889408e-05,
+        "CMakeLists.txt": 2.1357841902087578e-05,
+        "Diagnostics.cpp": 1.1428750375229886e-05,
+        "DialectHandle.cpp": 6.099602068851199e-06,
+        "IR.cpp": 0.00025654803965860024,
+        "IntegerSet.cpp": 6.099602068851199e-06,
+        "Pass.cpp": 4.3637300345920995e-05,
+        "Support.cpp": 2.0482511046620547e-05
+    },
+    "subdirscores": {}
+}

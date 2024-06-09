@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/libc/docs/_static",
+    "score.sum": 6.2197567329839926e-06,
+    "sha.latest": "fbe0b5176718bd4228f19aa5b9a3c3a8af112980",
+    "time.latest": 1717825287.479854,
+    "formatted_time": "2024-06-08 00:41:27.479858",
+    "filescores": {
+        "custom.css": 6.2197567329839926e-06
+    },
+    "subdirscores": {}
+}

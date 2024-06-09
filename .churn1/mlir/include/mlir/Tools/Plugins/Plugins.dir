@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/mlir/include/mlir/Tools/Plugins",
+    "score.sum": 7.951266982609598e-06,
+    "sha.latest": "5e2afe5c665ab3ea344a9c3fb34c6b9930a9094d",
+    "time.latest": 1717800730.3789988,
+    "formatted_time": "2024-06-07 17:52:10.379003",
+    "filescores": {
+        "DialectPlugin.h": 7.951266982609598e-06,
+        "PassPlugin.h": 7.951266982609598e-06
+    },
+    "subdirscores": {}
+}

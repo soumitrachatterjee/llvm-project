@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/mlir/include/mlir/Dialect/GPU/TransformOps",
+    "score.sum": 6.11379463538779e-05,
+    "sha.latest": "74cf9bcf71d94f4df80578bccec6ed6d51dd9682",
+    "time.latest": 1717794420.9463985,
+    "formatted_time": "2024-06-07 16:07:00.946402",
+    "filescores": {
+        "CMakeLists.txt": 6.099602068851199e-06,
+        "GPUDeviceMappingAttr.td": 1.4280419001243358e-05,
+        "GPUTransformOps.h": 3.838207495925675e-05,
+        "GPUTransformOps.td": 5.8741920069085595e-05,
+        "Utils.h": 6.132418354799858e-06
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/llvm/examples/OrcV2Examples/LLJITWithCustomObjectLinkingLayer",
+    "score.sum": 1.9597671421936426e-05,
+    "sha.latest": "b92839c9548a55bc7a3267b05d11c9d9c530b792",
+    "time.latest": 1717804545.1888914,
+    "formatted_time": "2024-06-07 18:55:45.188895",
+    "filescores": {
+        "CMakeLists.txt": 6.099602068851199e-06,
+        "LLJITWithCustomObjectLinkingLayer.cpp": 1.9583811001968905e-05
+    },
+    "subdirscores": {}
+}

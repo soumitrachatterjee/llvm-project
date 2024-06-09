@@ -1,0 +1,21 @@
+{
+    "directory name": "llvm-project/mlir/test/python",
+    "score.sum": 0.0013459067162940894,
+    "sha.latest": "5d59fa90ce225814739d9b51ba37e1cca9204cad",
+    "time.latest": 1717834861.521788,
+    "formatted_time": "2024-06-08 03:21:01.521791",
+    "filescores": {
+        "CMakeLists.txt": 1.216705920016636e-05,
+        "develoment_files.py": 6.099602068851199e-06,
+        "execution_engine.py": 7.167158726682798e-05,
+        "lit.local.cfg": 8.570929159603424e-06,
+        "pass_manager.py": 6.70134387043225e-05,
+        "python_test_ops.td": 6.696677528407433e-05
+    },
+    "subdirscores": {
+        "dialects": 0.0008817898819924779,
+        "integration": 5.1862928229568464e-05,
+        "ir": 0.0003760172217037119,
+        "lib": 4.893566573277157e-05
+    }
+}

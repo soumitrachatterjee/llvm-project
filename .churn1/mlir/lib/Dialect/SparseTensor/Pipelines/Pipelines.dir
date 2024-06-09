@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/mlir/lib/Dialect/SparseTensor/Pipelines",
+    "score.sum": 0.0001613253755620834,
+    "sha.latest": "1e98d4883d78ac2c65b87e24694e8b2f1dc9f02d",
+    "time.latest": 1717809022.8715558,
+    "formatted_time": "2024-06-07 20:10:22.871560",
+    "filescores": {
+        "CMakeLists.txt": 3.513740970041669e-05,
+        "SparseTensorPipelines.cpp": 0.00014630318343300243
+    },
+    "subdirscores": {}
+}

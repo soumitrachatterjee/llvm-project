@@ -1,0 +1,25 @@
+{
+    "directory name": "llvm-project/mlir/unittests/IR",
+    "score.sum": 0.0005012935181004112,
+    "sha.latest": "df8d5c17802b162c5d20300426f03d6fb970d2a2",
+    "time.latest": 1717836391.8133168,
+    "formatted_time": "2024-06-08 03:46:31.813320",
+    "filescores": {
+        "AdaptorTest.cpp": 4.4199454595972744e-05,
+        "AffineMapTest.cpp": 0,
+        "AttributeTest.cpp": 0.00014278489241115183,
+        "CMakeLists.txt": 8.95364321328524e-05,
+        "DialectTest.cpp": 5.76511535104608e-05,
+        "IRMapping.cpp": 6.099602068851199e-06,
+        "InterfaceAttachmentTest.cpp": 2.162327396414758e-05,
+        "InterfaceTest.cpp": 2.1056793896493826e-05,
+        "OpPropertiesTest.cpp": 3.4804517762873e-05,
+        "OperationSupportTest.cpp": 0.00012414900807983242,
+        "PatternMatchTest.cpp": 1.2197849808422322e-05,
+        "ShapedTypeTest.cpp": 1.169879142990314e-05,
+        "SymbolTableTest.cpp": 0,
+        "TypeAttrNamesTest.cpp": 0,
+        "TypeTest.cpp": 9.219046034607112e-06
+    },
+    "subdirscores": {}
+}

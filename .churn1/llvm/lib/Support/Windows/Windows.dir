@@ -1,0 +1,20 @@
+{
+    "directory name": "llvm-project/llvm/lib/Support/Windows",
+    "score.sum": 0.0016790752144328655,
+    "sha.latest": "ba13fa2a5d57581bff1a7e9322234af30f4882f6",
+    "time.latest": 1717844543.8690753,
+    "formatted_time": "2024-06-08 06:02:23.869079",
+    "filescores": {
+        "COM.inc": 9.319492659665366e-06,
+        "DynamicLibrary.inc": 0.0001134650465653883,
+        "Memory.inc": 6.0044147013379406e-05,
+        "Path.inc": 0.0006880647497633219,
+        "Process.inc": 0.00022707746920079178,
+        "Program.inc": 0.00026063573840498733,
+        "Signals.inc": 0.00027325664486599886,
+        "Threading.inc": 0.00016732089326385372,
+        "Watchdog.inc": 9.769341826549356e-06,
+        "explicit_symbols.inc": 2.737733068126826e-05
+    },
+    "subdirscores": {}
+}

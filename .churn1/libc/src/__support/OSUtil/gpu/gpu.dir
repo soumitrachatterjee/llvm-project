@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/libc/src/__support/OSUtil/gpu",
+    "score.sum": 3.3958543903892014e-05,
+    "sha.latest": "330793c91d08e6ac60334e4813746db898b9407e",
+    "time.latest": 1717829110.2309842,
+    "formatted_time": "2024-06-08 01:45:10.230987",
+    "filescores": {
+        "CMakeLists.txt": 8.669974832335025e-06,
+        "io.cpp": 2.3648426946408818e-05,
+        "io.h": 1.3624449875848814e-05,
+        "quick_exit.cpp": 3.539156361370555e-05,
+        "quick_exit.h": 1.2057157661858366e-05
+    },
+    "subdirscores": {}
+}

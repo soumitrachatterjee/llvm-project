@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/mlir/include/mlir/Dialect/MLProgram",
+    "score.sum": 7.372248552568465e-05,
+    "sha.latest": "fa10121415adfea57954eddcec92a13c7ebab0ac",
+    "time.latest": 1717795297.1226056,
+    "formatted_time": "2024-06-07 16:21:37.122606",
+    "filescores": {
+        "CMakeLists.txt": 6.099602068851199e-06
+    },
+    "subdirscores": {
+        "IR": 7.33794154349265e-05,
+        "Transforms": 6.099602068851199e-06
+    }
+}

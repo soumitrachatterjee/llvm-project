@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/llvm/include/llvm/Transforms/AggressiveInstCombine",
+    "score.sum": 3.3841192109430635e-05,
+    "sha.latest": "0b779b0daa4cfb7d99d10232890d98b43ff56ef0",
+    "time.latest": 1717823737.018686,
+    "formatted_time": "2024-06-08 00:15:37.018689",
+    "filescores": {
+        "AggressiveInstCombine.h": 3.3841192109430635e-05
+    },
+    "subdirscores": {}
+}

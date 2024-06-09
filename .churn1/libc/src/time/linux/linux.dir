@@ -1,0 +1,17 @@
+{
+    "directory name": "llvm-project/libc/src/time/linux",
+    "score.sum": 3.937930573321323e-05,
+    "sha.latest": "b6bc9d72f65a5086f310f321e969d96e9a559e75",
+    "time.latest": 1717842900.8649838,
+    "formatted_time": "2024-06-08 05:35:00.864987",
+    "filescores": {
+        "CMakeLists.txt": 1.2032050926402351e-05,
+        "clock.cpp": 2.7893437512189982e-05,
+        "clockGetTimeImpl.h": 7.780503900563647e-06,
+        "clock_gettime.cpp": 6.099602068851199e-06,
+        "gettimeofday.cpp": 6.099602068851199e-06,
+        "nanosleep.cpp": 9.237510499986633e-06,
+        "time.cpp": 2.452804496806355e-05
+    },
+    "subdirscores": {}
+}

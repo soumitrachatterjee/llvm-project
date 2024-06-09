@@ -1,0 +1,26 @@
+{
+    "directory name": "llvm-project/mlir/lib/AsmParser",
+    "score.sum": 0.0001925872516408394,
+    "sha.latest": "c1d02bd1479e669f6622f3f9b5b52423ae9631a1",
+    "time.latest": 1717801483.057573,
+    "formatted_time": "2024-06-07 18:04:43.057576",
+    "filescores": {
+        "AffineParser.cpp": 2.3111872951638428e-05,
+        "AsmParserImpl.h": 3.30247179190952e-05,
+        "AsmParserState.cpp": 2.8242009875079458e-05,
+        "AttributeParser.cpp": 5.6541573284112645e-05,
+        "CMakeLists.txt": 0,
+        "DialectSymbolParser.cpp": 2.300269098877011e-05,
+        "Lexer.cpp": 6.281645148017965e-06,
+        "Lexer.h": 0,
+        "LocationParser.cpp": 9.602152782177572e-06,
+        "Parser.cpp": 8.216810090189127e-05,
+        "Parser.h": 3.6824757783038716e-05,
+        "ParserState.h": 1.4738643224547053e-05,
+        "Token.cpp": 1.7333801278810567e-05,
+        "Token.h": 3.24235622398604e-05,
+        "TokenKinds.def": 2.6635492569000892e-05,
+        "TypeParser.cpp": 5.141253759338922e-05
+    },
+    "subdirscores": {}
+}

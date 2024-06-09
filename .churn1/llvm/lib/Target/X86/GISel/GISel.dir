@@ -1,0 +1,17 @@
+{
+    "directory name": "llvm-project/llvm/lib/Target/X86/GISel",
+    "score.sum": 3.0381532014577032e-05,
+    "sha.latest": "10edabbcf331fdd53d27c5195de1b692a0063721",
+    "time.latest": 1717870625.3610976,
+    "formatted_time": "2024-06-08 13:17:05.361101",
+    "filescores": {
+        "X86CallLowering.cpp": 1.099071777481878e-05,
+        "X86CallLowering.h": 0,
+        "X86InstructionSelector.cpp": 1.4323356223611765e-05,
+        "X86LegalizerInfo.cpp": 1.749413333168783e-05,
+        "X86LegalizerInfo.h": 6.099602068851199e-06,
+        "X86RegisterBankInfo.cpp": 6.099602068851199e-06,
+        "X86RegisterBankInfo.h": 6.099602068851199e-06
+    },
+    "subdirscores": {}
+}

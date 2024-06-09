@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/llvm/lib/Target/Xtensa/TargetInfo",
+    "score.sum": 0,
+    "sha.latest": "52804a7f22a20e020caacb71571e0cca712f0a12",
+    "time.latest": 1717873602.263392,
+    "formatted_time": "2024-06-08 14:06:42.263396",
+    "filescores": {
+        "CMakeLists.txt": 0,
+        "XtensaTargetInfo.cpp": 0,
+        "XtensaTargetInfo.h": 0
+    },
+    "subdirscores": {}
+}

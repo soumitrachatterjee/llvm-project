@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/third-party/benchmark/cmake/Modules",
+    "score.sum": 1.829823525563355e-05,
+    "sha.latest": "a5b797172cc902db166e9a695716fb81405f86e4",
+    "time.latest": 1717788430.5983927,
+    "formatted_time": "2024-06-07 14:27:10.598396",
+    "filescores": {
+        "FindLLVMAr.cmake": 0,
+        "FindLLVMNm.cmake": 0,
+        "FindLLVMRanLib.cmake": 0,
+        "FindPFM.cmake": 1.829823525563355e-05
+    },
+    "subdirscores": {}
+}

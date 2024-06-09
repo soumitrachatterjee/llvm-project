@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/libc/test/src/sys/epoll",
+    "score.sum": 6.101969571969536e-06,
+    "sha.latest": "9f3854a01f878831c229db0eb5078fa9d56e60ff",
+    "time.latest": 1717850776.837544,
+    "formatted_time": "2024-06-08 07:46:16.837545",
+    "filescores": {
+        "CMakeLists.txt": 6.101969571969536e-06
+    },
+    "subdirscores": {
+        "linux": 6.101969571969536e-06
+    }
+}

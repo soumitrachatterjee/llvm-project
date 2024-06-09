@@ -1,0 +1,20 @@
+{
+    "directory name": "llvm-project/mlir/include/mlir/Target/LLVMIR",
+    "score.sum": 0.00044574851476582484,
+    "sha.latest": "fa6850a9981b65972294e13021f82b96d460b3ec",
+    "time.latest": 1717800497.245242,
+    "formatted_time": "2024-06-07 17:48:17.245245",
+    "filescores": {
+        "Export.h": 0,
+        "Import.h": 1.8298957174561264e-05,
+        "LLVMImportInterface.h": 6.099602068851199e-06,
+        "LLVMTranslationInterface.h": 1.6512695068501206e-05,
+        "ModuleImport.h": 6.0854839761914666e-05,
+        "ModuleTranslation.h": 0.00022985664123685573,
+        "TypeFromLLVM.h": 0,
+        "TypeToLLVM.h": 0
+    },
+    "subdirscores": {
+        "Dialect": 6.690079603000022e-05
+    }
+}

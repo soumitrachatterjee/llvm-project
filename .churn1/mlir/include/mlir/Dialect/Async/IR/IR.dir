@@ -1,0 +1,16 @@
+{
+    "directory name": "llvm-project/mlir/include/mlir/Dialect/Async/IR",
+    "score.sum": 0.00020273773287044148,
+    "sha.latest": "34a35a8b244243f5a4ad5d531007bccfeaa0b02e",
+    "time.latest": 1717793474.2708924,
+    "formatted_time": "2024-06-07 15:51:14.270896",
+    "filescores": {
+        "Async.h": 3.951713141904444e-05,
+        "AsyncDialect.td": 5.26392997568926e-05,
+        "AsyncOps.td": 0.00012096992283346047,
+        "AsyncTypes.h": 0,
+        "AsyncTypes.td": 1.2607067227737455e-05,
+        "CMakeLists.txt": 6.099602068851199e-06
+    },
+    "subdirscores": {}
+}

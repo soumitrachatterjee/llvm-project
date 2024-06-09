@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/mlir/lib/Tools/mlir-query",
+    "score.sum": 0,
+    "sha.latest": "02d9f4d1f128e17e04ab6e602d3c9b9942612428",
+    "time.latest": 1717812897.7942493,
+    "formatted_time": "2024-06-07 21:14:57.794253",
+    "filescores": {
+        "CMakeLists.txt": 0,
+        "MlirQueryMain.cpp": 0
+    },
+    "subdirscores": {}
+}

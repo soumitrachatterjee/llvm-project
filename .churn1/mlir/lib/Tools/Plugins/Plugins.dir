@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/mlir/lib/Tools/Plugins",
+    "score.sum": 6.099618376300888e-06,
+    "sha.latest": "eb3409dc77752253b18224ed11ec738db4fe91a3",
+    "time.latest": 1717812647.2589853,
+    "formatted_time": "2024-06-07 21:10:47.258989",
+    "filescores": {
+        "CMakeLists.txt": 7.951266982609598e-06,
+        "DialectPlugin.cpp": 7.951266982609598e-06,
+        "PassPlugin.cpp": 6.099618376300888e-06
+    },
+    "subdirscores": {}
+}

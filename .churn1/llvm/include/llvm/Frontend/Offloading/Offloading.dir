@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/llvm/include/llvm/Frontend/Offloading",
+    "score.sum": 1.4736132615617397e-05,
+    "sha.latest": "5c84054223102b00cc0dd343a4023e3c6cba42b2",
+    "time.latest": 1717816012.4582067,
+    "formatted_time": "2024-06-07 22:06:52.458210",
+    "filescores": {
+        "OffloadWrapper.h": 6.099602068851199e-06,
+        "Utility.h": 1.1017752765018782e-05
+    },
+    "subdirscores": {}
+}

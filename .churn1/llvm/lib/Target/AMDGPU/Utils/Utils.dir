@@ -1,0 +1,22 @@
+{
+    "directory name": "llvm-project/llvm/lib/Target/AMDGPU/Utils",
+    "score.sum": 0.0015503419776677545,
+    "sha.latest": "e963d0740e64fc70b4018f39325469d204f6217a",
+    "time.latest": 1717850001.7235167,
+    "formatted_time": "2024-06-08 07:33:21.723520",
+    "filescores": {
+        "AMDGPUAsmUtils.cpp": 8.63927757968462e-05,
+        "AMDGPUAsmUtils.h": 5.6196822841442405e-05,
+        "AMDGPUBaseInfo.cpp": 0.0011413642286992201,
+        "AMDGPUBaseInfo.h": 0.0009108583579381001,
+        "AMDGPUMemoryUtils.cpp": 2.841022144078568e-05,
+        "AMDGPUMemoryUtils.h": 2.7701161164848832e-05,
+        "AMDGPUPALMetadata.cpp": 6.236528036424184e-05,
+        "AMDGPUPALMetadata.h": 3.310690405254168e-05,
+        "AMDKernelCodeTInfo.h": 2.9178437474958136e-05,
+        "AMDKernelCodeTUtils.cpp": 2.1427456133299768e-05,
+        "AMDKernelCodeTUtils.h": 1.2297586750022612e-05,
+        "CMakeLists.txt": 6.112548362072456e-05
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/llvm/lib/Frontend/HLSL",
+    "score.sum": 1.8175115664962076e-05,
+    "sha.latest": "4f54d71501815877898aaa6d764b8468d0708ed6",
+    "time.latest": 1717838067.237755,
+    "formatted_time": "2024-06-08 04:14:27.237758",
+    "filescores": {
+        "CMakeLists.txt": 0,
+        "HLSLResource.cpp": 1.8175115664962076e-05
+    },
+    "subdirscores": {}
+}

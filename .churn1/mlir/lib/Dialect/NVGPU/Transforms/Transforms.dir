@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/mlir/lib/Dialect/NVGPU/Transforms",
+    "score.sum": 5.3615677287685246e-05,
+    "sha.latest": "5fcf907b34355980f77d7665a175b05fea7a6b7b",
+    "time.latest": 1717807806.384898,
+    "formatted_time": "2024-06-07 19:50:06.384902",
+    "filescores": {
+        "CMakeLists.txt": 1.9613214954539533e-05,
+        "CreateAsyncGroups.cpp": 9.753711689292383e-06,
+        "MmaSyncTF32Transform.cpp": 1.7593299039778487e-05,
+        "OptimizeSharedMemory.cpp": 2.393786970972488e-05,
+        "Utils.cpp": 6.099602068851199e-06
+    },
+    "subdirscores": {}
+}

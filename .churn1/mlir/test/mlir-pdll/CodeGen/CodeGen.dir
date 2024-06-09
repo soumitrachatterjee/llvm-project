@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/mlir/test/mlir-pdll/CodeGen",
+    "score.sum": 1.7937450139846284e-05,
+    "sha.latest": "930916c7f3622870b40138dafcc5f94740404e8c",
+    "time.latest": 1717833133.6029117,
+    "formatted_time": "2024-06-08 02:52:13.602913",
+    "filescores": {},
+    "subdirscores": {
+        "CPP": 1.587676453707689e-05,
+        "MLIR": 1.0616320399449925e-05
+    }
+}

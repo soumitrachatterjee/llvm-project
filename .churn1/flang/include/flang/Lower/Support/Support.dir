@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/flang/include/flang/Lower/Support",
+    "score.sum": 5.0265683173184135e-05,
+    "sha.latest": "057564fec5ca9ae87bd544d25c1bd7617f83217f",
+    "time.latest": 1717789317.737556,
+    "formatted_time": "2024-06-07 14:41:57.737559",
+    "filescores": {
+        "Utils.h": 3.5805414458729245e-05,
+        "Verifier.h": 0
+    },
+    "subdirscores": {}
+}

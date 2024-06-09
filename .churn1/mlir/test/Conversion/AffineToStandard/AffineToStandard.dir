@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/mlir/test/Conversion/AffineToStandard",
+    "score.sum": 5.879005618884067e-05,
+    "sha.latest": "915fce040271c77df1ff9b2c8797c441cec0d18d",
+    "time.latest": 1717815255.270886,
+    "formatted_time": "2024-06-07 21:54:15.270889",
+    "filescores": {
+        "lower-affine-gpu.mlir": 7.796800135796794e-06,
+        "lower-affine-to-vector.mlir": 2.0415264599121436e-05,
+        "lower-affine.mlir": 5.0928588908055646e-05,
+        "no-memref.mlir": 6.099602068851199e-06
+    },
+    "subdirscores": {}
+}

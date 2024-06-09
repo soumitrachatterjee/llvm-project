@@ -1,0 +1,19 @@
+{
+    "directory name": "llvm-project/flang/tools",
+    "score.sum": 0.0011157627234623393,
+    "sha.latest": "47aee8b56d65e2bac5c7128424ff06134e454d83",
+    "time.latest": 1717812734.6317453,
+    "formatted_time": "2024-06-07 21:12:14.631746",
+    "filescores": {
+        ".clang-tidy": 0,
+        "CMakeLists.txt": 4.6653784457853245e-05
+    },
+    "subdirscores": {
+        "bbc": 0.00028692380861765256,
+        "f18-parse-demo": 3.255510960159734e-05,
+        "f18": 0.0005078595684820916,
+        "fir-opt": 4.962568007760653e-05,
+        "flang-driver": 8.761160305192124e-05,
+        "tco": 0.00015397088968684423
+    }
+}

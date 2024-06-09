@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/mlir/lib/Conversion/GPUToSPIRV",
+    "score.sum": 0.00040821946618332803,
+    "sha.latest": "b91bba89edfb25d011e1f2366cda5dec605c87f6",
+    "time.latest": 1717803089.5875313,
+    "formatted_time": "2024-06-07 18:31:29.587534",
+    "filescores": {
+        "CMakeLists.txt": 6.007874847810767e-05,
+        "GPUToSPIRV.cpp": 0.00016187826120435275,
+        "GPUToSPIRVPass.cpp": 8.708912351983007e-05,
+        "WmmaOpsToSPIRV.cpp": 3.7514457103057364e-05
+    },
+    "subdirscores": {}
+}

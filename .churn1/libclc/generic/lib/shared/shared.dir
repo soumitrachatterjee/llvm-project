@@ -1,0 +1,20 @@
+{
+    "directory name": "llvm-project/libclc/generic/lib/shared",
+    "score.sum": 8.149883146939175e-05,
+    "sha.latest": "70a270da5f4a27b670cba1cb8148fcce5c094f4f",
+    "time.latest": 1717831057.5409827,
+    "formatted_time": "2024-06-08 02:17:37.540986",
+    "filescores": {
+        "clamp.cl": 6.142173754800359e-06,
+        "clamp.inc": 6.099914848982946e-06,
+        "max.cl": 6.142173345783779e-06,
+        "max.inc": 6.099855836319009e-06,
+        "min.cl": 6.142172036930348e-06,
+        "min.inc": 6.164449091529441e-06,
+        "vload.cl": 1.3775524832903324e-05,
+        "vload_half.inc": 6.099602068851199e-06,
+        "vstore.cl": 5.7930941878397185e-05,
+        "vstore_half.inc": 1.055178991408129e-05
+    },
+    "subdirscores": {}
+}

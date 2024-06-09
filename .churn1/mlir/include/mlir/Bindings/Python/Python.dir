@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/mlir/include/mlir/Bindings/Python",
+    "score.sum": 9.717392210095042e-05,
+    "sha.latest": "91f11611337dde9a8e0a5e19240f6bb4671922c6",
+    "time.latest": 1717790921.0159743,
+    "formatted_time": "2024-06-07 15:08:41.015977",
+    "filescores": {
+        "PybindAdaptors.h": 7.423721051901189e-05
+    },
+    "subdirscores": {}
+}

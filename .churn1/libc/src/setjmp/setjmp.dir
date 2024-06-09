@@ -1,0 +1,16 @@
+{
+    "directory name": "llvm-project/libc/src/setjmp",
+    "score.sum": 3.727804740472223e-05,
+    "sha.latest": "e3087c4b8cee20094c1a72b94b0a7f5f543cf37d",
+    "time.latest": 1717836322.6490424,
+    "formatted_time": "2024-06-08 03:45:22.649043",
+    "filescores": {
+        "CMakeLists.txt": 6.099602068851199e-06,
+        "longjmp.h": 1.2105958944369536e-05,
+        "setjmp_impl.h": 1.2105958944369536e-05
+    },
+    "subdirscores": {
+        "riscv": 0,
+        "x86_64": 6.205053768945986e-06
+    }
+}

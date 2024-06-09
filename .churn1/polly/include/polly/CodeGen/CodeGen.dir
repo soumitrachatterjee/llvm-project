@@ -1,0 +1,22 @@
+{
+    "directory name": "llvm-project/polly/include/polly/CodeGen",
+    "score.sum": 0.0006526589791149023,
+    "sha.latest": "12ed2c90a105f29b9b2f6056d936f47534d31624",
+    "time.latest": 1717793147.4235551,
+    "formatted_time": "2024-06-07 15:45:47.423559",
+    "filescores": {
+        "BlockGenerators.h": 0.0002208198925037955,
+        "CodeGeneration.h": 5.804761824616535e-05,
+        "IRBuilder.h": 7.510370819768416e-05,
+        "IslAst.h": 0.0001216494472056021,
+        "IslExprBuilder.h": 5.229795272230655e-05,
+        "IslNodeBuilder.h": 9.181343527653684e-05,
+        "LoopGenerators.h": 7.591192416918988e-05,
+        "LoopGeneratorsGOMP.h": 1.7262957947641782e-05,
+        "LoopGeneratorsKMP.h": 1.7262957947641782e-05,
+        "PerfMonitor.h": 1.2894425195364093e-05,
+        "RuntimeDebugBuilder.h": 2.382804308365606e-05,
+        "Utils.h": 4.079144764024241e-05
+    },
+    "subdirscores": {}
+}

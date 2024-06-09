@@ -1,0 +1,19 @@
+{
+    "directory name": "llvm-project/mlir/lib/Dialect/SparseTensor/IR/Detail",
+    "score.sum": 8.916403280400355e-05,
+    "sha.latest": "56d58295dd492b8e8a011fa60798d9be4f36ec3c",
+    "time.latest": 1717808982.95179,
+    "formatted_time": "2024-06-07 20:09:42.951794",
+    "filescores": {
+        "DimLvlMap.cpp": 5.250012414459672e-05,
+        "DimLvlMap.h": 3.254613622136841e-05,
+        "DimLvlMapParser.cpp": 1.5072982252046546e-05,
+        "DimLvlMapParser.h": 8.326405137301365e-06,
+        "LvlTypeParser.cpp": 5.9444269904957964e-05,
+        "LvlTypeParser.h": 1.8363028216163845e-05,
+        "TemplateExtras.h": 1.3150874467767772e-05,
+        "Var.cpp": 2.4929348312786533e-05,
+        "Var.h": 3.0719094586914075e-05
+    },
+    "subdirscores": {}
+}

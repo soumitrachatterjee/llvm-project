@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/mlir/test/lib/Pass",
+    "score.sum": 0.00010397983794667287,
+    "sha.latest": "2375d84f0656ea97d221a68bba5a6b125e2f0856",
+    "time.latest": 1717832252.3033388,
+    "formatted_time": "2024-06-08 02:37:32.303342",
+    "filescores": {
+        "CMakeLists.txt": 2.070515044082021e-05,
+        "TestDynamicPipeline.cpp": 2.554041812109213e-05,
+        "TestPassManager.cpp": 8.450350208230343e-05
+    },
+    "subdirscores": {}
+}

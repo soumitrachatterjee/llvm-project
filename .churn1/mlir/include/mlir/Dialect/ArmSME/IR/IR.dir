@@ -1,0 +1,16 @@
+{
+    "directory name": "llvm-project/mlir/include/mlir/Dialect/ArmSME/IR",
+    "score.sum": 0.00012166529936713027,
+    "sha.latest": "fff86c6111b6d3ed68a8ea57ab5e7d3d716472c6",
+    "time.latest": 1717793246.377672,
+    "formatted_time": "2024-06-07 15:47:26.377676",
+    "filescores": {
+        "ArmSME.h": 2.229646029948259e-05,
+        "ArmSME.td": 4.737407944516605e-05,
+        "ArmSMEEnums.h": 0,
+        "ArmSMEIntrinsicOps.td": 2.2163753862764674e-05,
+        "ArmSMEOps.td": 4.627236597421215e-05,
+        "CMakeLists.txt": 1.7971675801264384e-05
+    },
+    "subdirscores": {}
+}

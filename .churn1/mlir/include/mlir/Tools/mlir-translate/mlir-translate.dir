@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/mlir/include/mlir/Tools/mlir-translate",
+    "score.sum": 5.1562723454315564e-05,
+    "sha.latest": "0a81ace0047a2de93e71c82cdf0977fc989660df",
+    "time.latest": 1717800914.087559,
+    "formatted_time": "2024-06-07 17:55:14.087563",
+    "filescores": {
+        "MlirTranslateMain.h": 1.0389597599709526e-05,
+        "Translation.h": 5.130273860729691e-05
+    },
+    "subdirscores": {}
+}

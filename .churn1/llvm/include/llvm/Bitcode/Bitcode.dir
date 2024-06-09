@@ -1,0 +1,17 @@
+{
+    "directory name": "llvm-project/llvm/include/llvm/Bitcode",
+    "score.sum": 0.0018502240692593941,
+    "sha.latest": "40282674e9808baeb9b88afdd3cbd7da46825544",
+    "time.latest": 1717808649.51015,
+    "formatted_time": "2024-06-07 20:04:09.510153",
+    "filescores": {
+        "BitcodeAnalyzer.h": 3.3281387805158485e-05,
+        "BitcodeCommon.h": 3.0491601174137374e-05,
+        "BitcodeConvenience.h": 1.792824095840366e-05,
+        "BitcodeReader.h": 9.847451274854948e-05,
+        "BitcodeWriter.h": 5.5130045387369016e-05,
+        "BitcodeWriterPass.h": 3.674280317263527e-05,
+        "LLVMBitCodes.h": 0.0009821846679607922
+    },
+    "subdirscores": {}
+}

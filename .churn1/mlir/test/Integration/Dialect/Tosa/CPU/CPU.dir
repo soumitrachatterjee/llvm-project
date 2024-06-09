@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/mlir/test/Integration/Dialect/Tosa/CPU",
+    "score.sum": 0,
+    "sha.latest": "0d87e2577914a6384f4ad5952b8fa9b0d8e48da8",
+    "time.latest": 1717827055.6902726,
+    "formatted_time": "2024-06-08 01:10:55.690276",
+    "filescores": {
+        "test-fully-connected.mlir": 0
+    },
+    "subdirscores": {}
+}

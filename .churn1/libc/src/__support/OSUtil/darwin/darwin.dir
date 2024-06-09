@@ -1,0 +1,16 @@
+{
+    "directory name": "llvm-project/libc/src/__support/OSUtil/darwin",
+    "score.sum": 1.560513625787046e-05,
+    "sha.latest": "b6bc9d72f65a5086f310f321e969d96e9a559e75",
+    "time.latest": 1717829048.5302734,
+    "formatted_time": "2024-06-08 01:44:08.530277",
+    "filescores": {
+        "CMakeLists.txt": 0,
+        "io.h": 1.1951078032790268e-05,
+        "quick_exit.h": 1.560513625787046e-05,
+        "syscall.h": 1.560513625787046e-05
+    },
+    "subdirscores": {
+        "arm": 1.1951078032790268e-05
+    }
+}

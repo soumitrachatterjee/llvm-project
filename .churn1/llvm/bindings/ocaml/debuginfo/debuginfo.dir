@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/llvm/bindings/ocaml/debuginfo",
+    "score.sum": 1.6230423481011202e-05,
+    "sha.latest": "360ea6204d64381ff7cd7d79aac867c31a00decc",
+    "time.latest": 1717788255.5192397,
+    "formatted_time": "2024-06-07 14:24:15.519243",
+    "filescores": {
+        "CMakeLists.txt": 0,
+        "debuginfo_ocaml.c": 1.6230423481011202e-05,
+        "llvm_debuginfo.ml": 9.71688361411792e-06,
+        "llvm_debuginfo.mli": 6.407383756756906e-06
+    },
+    "subdirscores": {}
+}

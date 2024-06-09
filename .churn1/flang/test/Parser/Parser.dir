@@ -1,0 +1,39 @@
+{
+    "directory name": "llvm-project/flang/test/Parser",
+    "score.sum": 0.00026359069128666654,
+    "sha.latest": "601a9587a1a7eb8dd6377c4ab332edd3bce97a98",
+    "time.latest": 1717805446.0399258,
+    "formatted_time": "2024-06-07 19:10:46.039929",
+    "filescores": {
+        "acc-unparse.f90": 2.3109995370076945e-05,
+        "assume-aligned.f90": 0,
+        "at-process.f": 0,
+        "at-process.f90": 0,
+        "bad-label.f": 0,
+        "bad-space.f90": 0,
+        "badlabel.f": 9.332035461265236e-06,
+        "compiler-directives.f90": 1.7020648837867606e-05,
+        "continuation-before-char.f90": 0,
+        "continuation-in-conditional-compilation.f": 0,
+        "continuation-in-if.f": 6.099602068851199e-06,
+        "continuation-without-ampersand.f90": 0,
+        "cuf-sanity-common": 6.099602068851199e-06,
+        "cuf-sanity-tree.CUF": 6.099602068851199e-06,
+        "cuf-sanity-unparse.CUF": 7.114551492854376e-06,
+        "do100h.f": 0,
+        "doubled-comma.f90": 0,
+        "elseif-then.f90": 0,
+        "end.f": 0,
+        "excessive-continuations.f90": 6.099602068851199e-06,
+        "include.f": 0,
+        "line-directive.f90": 0,
+        "missing-colons.f90": 0,
+        "missing-then.f90": 0,
+        "pp-dir-comments.f90": 6.099602068851199e-06,
+        "unmatched-parens.f90": 0
+    },
+    "subdirscores": {
+        "Inputs": 0,
+        "OpenMP": 5.09373422090176e-05
+    }
+}

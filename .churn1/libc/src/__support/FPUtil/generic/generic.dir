@@ -1,0 +1,16 @@
+{
+    "directory name": "llvm-project/libc/src/__support/FPUtil/generic",
+    "score.sum": 0.0003048940767115395,
+    "sha.latest": "f7d4236adf8e0865e734216626c378345f673ca5",
+    "time.latest": 1717828509.9296727,
+    "formatted_time": "2024-06-08 01:35:09.929676",
+    "filescores": {
+        "CMakeLists.txt": 5.406781552954822e-05,
+        "FMA.h": 0.00015456946751138872,
+        "FMod.h": 0.00010923823169733337,
+        "README.md": 7.21592458778754e-06,
+        "sqrt.h": 0.0001658235860034042,
+        "sqrt_80_bit_long_double.h": 0.00017368641862652065
+    },
+    "subdirscores": {}
+}

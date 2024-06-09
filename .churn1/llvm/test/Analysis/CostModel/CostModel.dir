@@ -1,0 +1,21 @@
+{
+    "directory name": "llvm-project/llvm/test/Analysis/CostModel",
+    "score.sum": 0.006518368807032094,
+    "sha.latest": "55304d0d907fb26c298b84447a85e3a987d0adbc",
+    "time.latest": 1717886684.8845298,
+    "formatted_time": "2024-06-08 17:44:44.884534",
+    "filescores": {
+        "free-intrinsics-datalayout.ll": 3.409110812585154e-05,
+        "free-intrinsics-no_info.ll": 3.409110812585154e-05,
+        "no_info.ll": 2.3963760956058617e-05
+    },
+    "subdirscores": {
+        "AArch64": 0.0013086123120234052,
+        "AMDGPU": 0.00020582027990602322,
+        "ARM": 0.0006198860263255916,
+        "PowerPC": 0.00016517542650045015,
+        "RISCV": 0.0007994637893024267,
+        "SystemZ": 0.00012086793020177877,
+        "X86": 0.003573219094888433
+    }
+}

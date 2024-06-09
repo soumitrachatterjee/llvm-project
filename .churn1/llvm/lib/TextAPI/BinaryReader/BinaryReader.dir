@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/llvm/lib/TextAPI/BinaryReader",
+    "score.sum": 1.1807036581299261e-05,
+    "sha.latest": "3a080a0195ed21b8e12f825cfa00c8fa79f851a6",
+    "time.latest": 1717874161.500338,
+    "formatted_time": "2024-06-08 14:16:01.500342",
+    "filescores": {
+        "CMakeLists.txt": 0,
+        "DylibReader.cpp": 1.1807036581299261e-05
+    },
+    "subdirscores": {}
+}

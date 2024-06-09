@@ -1,0 +1,27 @@
+{
+    "directory name": "llvm-project/llvm/lib/Transforms/InstCombine",
+    "score.sum": 0.02157358190909456,
+    "sha.latest": "60dda1fc6ef82c5d7fe54000e6c0a21e7bafdeb5",
+    "time.latest": 1717875402.3200274,
+    "formatted_time": "2024-06-08 14:36:42.320030",
+    "filescores": {
+        "CMakeLists.txt": 4.6301658533496684e-05,
+        "InstCombineAddSub.cpp": 0.0015697414965657403,
+        "InstCombineAndOrXor.cpp": 0.0026208835146036722,
+        "InstCombineAtomicRMW.cpp": 4.451980774609689e-05,
+        "InstCombineCalls.cpp": 0.003447589308780581,
+        "InstCombineCasts.cpp": 0.0016355795615642353,
+        "InstCombineCompares.cpp": 0.003629339815074578,
+        "InstCombineInternal.h": 0.0011974141056532697,
+        "InstCombineLoadStoreAlloca.cpp": 0.0011151942784305181,
+        "InstCombineMulDivRem.cpp": 0.0014911781412973856,
+        "InstCombineNegator.cpp": 9.619416474567913e-05,
+        "InstCombinePHI.cpp": 0.0005494661743200002,
+        "InstCombineSelect.cpp": 0.0019813251987990605,
+        "InstCombineShifts.cpp": 0.001063188804774635,
+        "InstCombineSimplifyDemanded.cpp": 0.0013808613079575756,
+        "InstCombineVectorOps.cpp": 0.0012444626341239454,
+        "InstructionCombining.cpp": 0.0033496234916023312
+    },
+    "subdirscores": {}
+}

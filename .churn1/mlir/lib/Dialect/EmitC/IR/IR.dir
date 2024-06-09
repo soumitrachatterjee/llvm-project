@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/mlir/lib/Dialect/EmitC/IR",
+    "score.sum": 0.00016002727375833716,
+    "sha.latest": "7c63431cc22c68742a6a42d3304fdb68431247c3",
+    "time.latest": 1717805970.812747,
+    "formatted_time": "2024-06-07 19:19:30.812750",
+    "filescores": {
+        "CMakeLists.txt": 1.5680727113278132e-05,
+        "EmitC.cpp": 0.0001578176460365428
+    },
+    "subdirscores": {}
+}

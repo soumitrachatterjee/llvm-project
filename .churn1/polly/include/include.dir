@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/polly/include",
+    "score.sum": 0.002911693659135968,
+    "sha.latest": "12ed2c90a105f29b9b2f6056d936f47534d31624",
+    "time.latest": 1717793496.0410006,
+    "formatted_time": "2024-06-07 15:51:36.041002",
+    "filescores": {},
+    "subdirscores": {
+        "polly": 0.002911693659135968
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/mlir/test/Integration",
+    "score.sum": 0.0028365823483984865,
+    "sha.latest": "4cb5a96af646e18f9fc8c1b337299d5465f0a4d6",
+    "time.latest": 1717828456.4406133,
+    "formatted_time": "2024-06-08 01:34:16.440617",
+    "filescores": {
+        "lit.local.cfg": 3.109802151688787e-05
+    },
+    "subdirscores": {
+        "Dialect": 0.0026307286173604285,
+        "GPU": 0.0002974237463541416,
+        "data": 2.2045779320771415e-05
+    }
+}

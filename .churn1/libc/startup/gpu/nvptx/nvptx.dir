@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/libc/startup/gpu/nvptx",
+    "score.sum": 5.493024127874757e-05,
+    "sha.latest": "47b7c91abe7af3133a591aa2e73fffa30826f986",
+    "time.latest": 1717843691.4788184,
+    "formatted_time": "2024-06-08 05:48:11.478822",
+    "filescores": {
+        "CMakeLists.txt": 1.8895974943867826e-05,
+        "start.cpp": 5.4159041368657e-05
+    },
+    "subdirscores": {}
+}

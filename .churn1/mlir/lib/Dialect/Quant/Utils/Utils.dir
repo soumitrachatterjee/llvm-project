@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/mlir/lib/Dialect/Quant/Utils",
+    "score.sum": 3.507152385836073e-05,
+    "sha.latest": "0a0aff2d24518b1931a1a333c32a13028a0f88f6",
+    "time.latest": 1717808182.4747,
+    "formatted_time": "2024-06-07 19:56:22.474703",
+    "filescores": {
+        "CMakeLists.txt": 1.064665193174948e-05,
+        "FakeQuantSupport.cpp": 1.3360760175795532e-05,
+        "UniformSupport.cpp": 1.8672775750925848e-05
+    },
+    "subdirscores": {}
+}

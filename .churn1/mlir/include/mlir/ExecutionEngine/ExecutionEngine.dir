@@ -1,0 +1,22 @@
+{
+    "directory name": "llvm-project/mlir/include/mlir/ExecutionEngine",
+    "score.sum": 0.000871762494125798,
+    "sha.latest": "1c2456d6593cea317a00627889b5c35766a732e0",
+    "time.latest": 1717798618.108694,
+    "formatted_time": "2024-06-07 17:16:58.108697",
+    "filescores": {
+        "AsyncRuntime.h": 2.6776497848932895e-05,
+        "CRunnerUtils.h": 9.996592472744918e-05,
+        "ExecutionEngine.h": 9.804035603741997e-05,
+        "Float16bits.h": 3.81378364323872e-05,
+        "JitRunner.h": 2.0008425634261613e-05,
+        "MemRefUtils.h": 4.599621949554251e-05,
+        "Msan.h": 0,
+        "OptUtils.h": 3.54298951268316e-05,
+        "RunnerUtils.h": 7.200417212923538e-05,
+        "SparseTensorRuntime.h": 7.387980379273921e-05
+    },
+    "subdirscores": {
+        "SparseTensor": 0.000169344193098653
+    }
+}

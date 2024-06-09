@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/flang/lib/Optimizer/Analysis",
+    "score.sum": 6.251678427475648e-05,
+    "sha.latest": "7d9c38a040d778338131fbbcc094aa412dc9306a",
+    "time.latest": 1717791163.776716,
+    "formatted_time": "2024-06-07 15:12:43.776720",
+    "filescores": {
+        "AliasAnalysis.cpp": 5.2692259612780204e-05,
+        "CMakeLists.txt": 1.83922903186225e-05,
+        "TBAAForest.cpp": 6.099602068851199e-06
+    },
+    "subdirscores": {}
+}

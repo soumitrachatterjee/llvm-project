@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/flang/docs/_themes/llvm-theme/static",
+    "score.sum": 0,
+    "sha.latest": "2fc86ccdd25309b9f77739aaed4a7b06f1c6f111",
+    "time.latest": 1717788262.4055967,
+    "formatted_time": "2024-06-07 14:24:22.405600",
+    "filescores": {
+        "contents.png": 0,
+        "llvm-theme.css": 0,
+        "logo.png": 0,
+        "navigation.png": 0
+    },
+    "subdirscores": {}
+}

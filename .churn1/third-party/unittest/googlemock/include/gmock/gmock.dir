@@ -1,0 +1,21 @@
+{
+    "directory name": "llvm-project/third-party/unittest/googlemock/include/gmock",
+    "score.sum": 1.8257891228743476e-05,
+    "sha.latest": "a866ce789eb99da4d7a486eeb60a53be6c75f4fd",
+    "time.latest": 1717789910.48553,
+    "formatted_time": "2024-06-07 14:51:50.485530",
+    "filescores": {
+        "gmock-actions.h": 1.8257891228743476e-05,
+        "gmock-cardinalities.h": 1.8257891228743476e-05,
+        "gmock-function-mocker.h": 1.8257891228743476e-05,
+        "gmock-matchers.h": 1.8257891228743476e-05,
+        "gmock-more-actions.h": 1.8257891228743476e-05,
+        "gmock-more-matchers.h": 1.8257891228743476e-05,
+        "gmock-nice-strict.h": 1.8257891228743476e-05,
+        "gmock-spec-builders.h": 1.8257891228743476e-05,
+        "gmock.h": 1.8257891228743476e-05
+    },
+    "subdirscores": {
+        "internal": 1.8257891228743476e-05
+    }
+}

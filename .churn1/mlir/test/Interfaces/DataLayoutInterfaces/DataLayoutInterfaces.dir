@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/mlir/test/Interfaces/DataLayoutInterfaces",
+    "score.sum": 1.1852572709417153e-05,
+    "sha.latest": "8134a8fc3ff93db3a28a1ee1016c5024859dc1c6",
+    "time.latest": 1717828497.983101,
+    "formatted_time": "2024-06-08 01:34:57.983104",
+    "filescores": {
+        "module.mlir": 6.099602428465402e-06,
+        "query.mlir": 1.1135128033352648e-05,
+        "types.mlir": 1.119920960911049e-05
+    },
+    "subdirscores": {}
+}

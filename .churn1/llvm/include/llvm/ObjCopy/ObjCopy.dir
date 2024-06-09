@@ -1,0 +1,20 @@
+{
+    "directory name": "llvm-project/llvm/include/llvm/ObjCopy",
+    "score.sum": 5.703463826277432e-05,
+    "sha.latest": "07d8a457ad8bb9a14974b9cb47072746c7f5e489",
+    "time.latest": 1717819459.64743,
+    "formatted_time": "2024-06-07 23:04:19.647431",
+    "filescores": {
+        "CommonConfig.h": 3.352056465251454e-05,
+        "ConfigManager.h": 6.099602068851199e-06,
+        "MultiFormatConfig.h": 6.099602068851199e-06,
+        "ObjCopy.h": 0
+    },
+    "subdirscores": {
+        "COFF": 6.100136865671405e-06,
+        "ELF": 1.926889542779607e-05,
+        "MachO": 6.4764611382969545e-06,
+        "XCOFF": 0,
+        "wasm": 6.099602068851199e-06
+    }
+}

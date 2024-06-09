@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/mlir/examples/transform/Ch3/include",
+    "score.sum": 6.314565418151111e-06,
+    "sha.latest": "c63d2b2c714195d150ebec0ad4c712df36814c06",
+    "time.latest": 1717790069.3682716,
+    "formatted_time": "2024-06-07 14:54:29.368275",
+    "filescores": {
+        "CMakeLists.txt": 6.099602068851199e-06,
+        "MyExtension.h": 0,
+        "MyExtension.td": 6.099602068851199e-06,
+        "MyExtensionTypes.td": 0
+    },
+    "subdirscores": {}
+}

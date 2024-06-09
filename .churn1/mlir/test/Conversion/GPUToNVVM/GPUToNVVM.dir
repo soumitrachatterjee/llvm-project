@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/mlir/test/Conversion/GPUToNVVM",
+    "score.sum": 0.0002686158805403361,
+    "sha.latest": "0039a2ff4fe98ce54654e5f4da90aeee718e1d41",
+    "time.latest": 1717815900.1174853,
+    "formatted_time": "2024-06-07 22:05:00.117489",
+    "filescores": {
+        "gpu-to-nvvm-32b.mlir": 1.1629054448143183e-05,
+        "gpu-to-nvvm.mlir": 0.00020637722376851695,
+        "memref.mlir": 0,
+        "wmma-ops-to-nvvm.mlir": 4.409292302777729e-05
+    },
+    "subdirscores": {}
+}

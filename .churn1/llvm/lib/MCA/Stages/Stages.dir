@@ -1,0 +1,18 @@
+{
+    "directory name": "llvm-project/llvm/lib/MCA/Stages",
+    "score.sum": 0.00013765935615012867,
+    "sha.latest": "a6ee0adb724a3f1705fc54937e734ffc2a032096",
+    "time.latest": 1717840776.743061,
+    "formatted_time": "2024-06-08 04:59:36.743064",
+    "filescores": {
+        "DispatchStage.cpp": 4.8344006064665856e-05,
+        "EntryStage.cpp": 1.7499507769112425e-05,
+        "ExecuteStage.cpp": 5.0184003275560425e-05,
+        "InOrderIssueStage.cpp": 1.919492824083798e-05,
+        "InstructionTables.cpp": 4.187892805242103e-05,
+        "MicroOpQueueStage.cpp": 0,
+        "RetireStage.cpp": 2.2339715628966443e-05,
+        "Stage.cpp": 6.256311574300731e-06
+    },
+    "subdirscores": {}
+}

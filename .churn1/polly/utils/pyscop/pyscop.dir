@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/polly/utils/pyscop",
+    "score.sum": 1.0756925144402037e-05,
+    "sha.latest": "f98ee40f4b5d7474fc67e82824bf6abbaedb7b1c",
+    "time.latest": 1717819958.5069666,
+    "formatted_time": "2024-06-07 23:12:38.506970",
+    "filescores": {
+        "isl.py": 6.099602068851199e-06,
+        "jscop2iscc.py": 6.099602068851199e-06,
+        "pyscop.py": 6.099602068851199e-06
+    },
+    "subdirscores": {}
+}

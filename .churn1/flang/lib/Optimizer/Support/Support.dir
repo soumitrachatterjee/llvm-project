@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/flang/lib/Optimizer/Support",
+    "score.sum": 0.0001969686583539561,
+    "sha.latest": "c373f58134997a6d037f0143f13f97451278700f",
+    "time.latest": 1717791756.3252685,
+    "formatted_time": "2024-06-07 15:22:36.325272",
+    "filescores": {
+        "CMakeLists.txt": 8.784135853377625e-05,
+        "DataLayout.cpp": 6.099602068851199e-06,
+        "InitFIR.cpp": 2.4162849892112145e-05,
+        "InternalNames.cpp": 8.560388185458054e-05
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,22 @@
+{
+    "directory name": "llvm-project/llvm/lib/Target/MSP430/MCTargetDesc",
+    "score.sum": 0.00029739774574720696,
+    "sha.latest": "4a0ccfa865437fe29ef2ecb18152df7694dddb7f",
+    "time.latest": 1717859714.838323,
+    "formatted_time": "2024-06-08 10:15:14.838326",
+    "filescores": {
+        "CMakeLists.txt": 3.311566290499646e-05,
+        "MSP430AsmBackend.cpp": 3.055895158693392e-05,
+        "MSP430ELFObjectWriter.cpp": 1.551860362231071e-05,
+        "MSP430ELFStreamer.cpp": 2.3460307361470225e-05,
+        "MSP430FixupKinds.h": 6.790826066152414e-06,
+        "MSP430InstPrinter.cpp": 9.536563910854395e-06,
+        "MSP430InstPrinter.h": 1.905596113673937e-05,
+        "MSP430MCAsmInfo.cpp": 5.790920088400741e-05,
+        "MSP430MCAsmInfo.h": 3.692828292581465e-05,
+        "MSP430MCCodeEmitter.cpp": 1.6309752522765306e-05,
+        "MSP430MCTargetDesc.cpp": 0.00010216826903100162,
+        "MSP430MCTargetDesc.h": 5.196412618437751e-05
+    },
+    "subdirscores": {}
+}

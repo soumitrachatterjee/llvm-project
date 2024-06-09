@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/mlir/test/python/integration/dialects",
+    "score.sum": 5.117309583570848e-05,
+    "sha.latest": "537b2aa264c5a9879a80289c8d123b39e520eb15",
+    "time.latest": 1717834580.9343038,
+    "formatted_time": "2024-06-08 03:16:20.934307",
+    "filescores": {
+        "transform.py": 0
+    },
+    "subdirscores": {
+        "linalg": 5.869858951457621e-05
+    }
+}

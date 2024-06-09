@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/pstl/docs",
+    "score.sum": 3.230874624973498e-05,
+    "sha.latest": "987087df90026605fc8d03ebda5a1cd31b71e609",
+    "time.latest": 1717790849.0068314,
+    "formatted_time": "2024-06-07 15:07:29.006834",
+    "filescores": {
+        "ReleaseNotes.rst": 3.230874624973498e-05
+    },
+    "subdirscores": {}
+}

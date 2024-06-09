@@ -1,0 +1,25 @@
+{
+    "directory name": "llvm-project/llvm/lib/Target/WebAssembly/MCTargetDesc",
+    "score.sum": 0.0006672686637665479,
+    "sha.latest": "5f4c89edd0ade97ab3e2d6df5375974f4b975d58",
+    "time.latest": 1717869330.0505955,
+    "formatted_time": "2024-06-08 12:55:30.050599",
+    "filescores": {
+        "CMakeLists.txt": 5.023525705211965e-05,
+        "WebAssemblyAsmBackend.cpp": 5.5000283643604625e-05,
+        "WebAssemblyFixupKinds.h": 1.8919993824710433e-05,
+        "WebAssemblyInstPrinter.cpp": 7.254182845229899e-05,
+        "WebAssemblyInstPrinter.h": 3.9967929789537266e-05,
+        "WebAssemblyMCAsmInfo.cpp": 5.2460551903835576e-05,
+        "WebAssemblyMCAsmInfo.h": 2.2439158385306514e-05,
+        "WebAssemblyMCCodeEmitter.cpp": 0.00010720277665309876,
+        "WebAssemblyMCTargetDesc.cpp": 0.00011282668028360086,
+        "WebAssemblyMCTargetDesc.h": 0.00030021879412241945,
+        "WebAssemblyMCTypeUtilities.cpp": 0,
+        "WebAssemblyMCTypeUtilities.h": 6.099602068851199e-06,
+        "WebAssemblyTargetStreamer.cpp": 0.00010103257274534581,
+        "WebAssemblyTargetStreamer.h": 8.059820520488228e-05,
+        "WebAssemblyWasmObjectWriter.cpp": 8.697887224230152e-05
+    },
+    "subdirscores": {}
+}
