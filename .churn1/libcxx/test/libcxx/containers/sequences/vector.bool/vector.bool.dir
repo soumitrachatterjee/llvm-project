@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/libcxx/test/libcxx/containers/sequences/vector.bool",
+    "score.sum": 1.1229447684463962e-05,
+    "sha.latest": "08457e1f7693bdafe5330cde2bf41290cad4cade",
+    "time.latest": 1717847046.8727412,
+    "formatted_time": "2024-06-08 17:14:06.872744",
+    "filescores": {
+        "abi.compile.pass.cpp": 0,
+        "trivial_for_purposes_of_call.pass.cpp": 6.674169953511668e-06
+    },
+    "subdirscores": {}
+}

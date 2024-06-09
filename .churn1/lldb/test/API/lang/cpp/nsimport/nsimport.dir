@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/lang/cpp/nsimport",
+    "score.sum": 1.2283321655080921e-05,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717934187.4816906,
+    "formatted_time": "2024-06-09 17:26:27.481694",
+    "filescores": {
+        "main.cpp": 0,
+        "Makefile": 0,
+        "TestCppNsImport.py": 1.2283321655080921e-05
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,25 @@
+{
+    "directory name": "llvm-project/lldb/source/Plugins/Process",
+    "score.sum": 0.010293610106673715,
+    "sha.latest": "73b2d672c1c8318cd16a02812c39ae3997b9dbcd",
+    "time.latest": 1717879691.7218726,
+    "formatted_time": "2024-06-09 02:18:11.721874",
+    "filescores": {
+        "CMakeLists.txt": 0.0001179210383006355
+    },
+    "subdirscores": {
+        "elf-core": 0.0005720515904616524,
+        "FreeBSD": 0.0006349903143617435,
+        "FreeBSDKernel": 1.750315382277727e-05,
+        "gdb-remote": 0.0044656111298812685,
+        "Linux": 0.0021083719409005206,
+        "mach-core": 0.00046426072589995015,
+        "MacOSX-Kernel": 0.0006586372152806782,
+        "minidump": 0.0004862409590562149,
+        "NetBSD": 0.00025998915374755784,
+        "POSIX": 0.00044336284064601747,
+        "scripted": 0.00024029260216249242,
+        "Utility": 0.0022143218418760576,
+        "Windows": 0.0006663651028433459
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "directory name": "llvm-project/lldb/test/API/functionalities/thread",
+    "score.sum": 0.0001800020386940283,
+    "sha.latest": "285bff39fd283b3a9a27c06525111d8d4f474e6e",
+    "time.latest": 1717923201.7844026,
+    "formatted_time": "2024-06-09 14:23:21.784405",
+    "filescores": {},
+    "subdirscores": {
+        "backtrace_limit": 1.840595175997848e-05,
+        "break_after_join": 1.89990928887951e-05,
+        "concurrent_events": 5.588567769257909e-05,
+        "crash_during_step": 1.806749558914325e-05,
+        "create_after_attach": 2.2193730014826518e-05,
+        "create_during_step": 2.274760310541707e-05,
+        "exit_during_break": 1.89990928887951e-05,
+        "exit_during_expression": 2.9221731161128987e-05,
+        "exit_during_step": 1.978659502053534e-05,
+        "ignore_suspended": 1.0264315159121712e-05,
+        "jump": 1.9264690605077774e-05,
+        "main_thread_exit": 1.3594311769645239e-05,
+        "multi_break": 1.89990928887951e-05,
+        "num_threads": 1.9884741309353107e-05,
+        "state": 4.833647988229921e-05,
+        "state_after_expression": 2.1240168904663097e-05,
+        "step_out": 3.0809164762907307e-05,
+        "step_until": 2.5131109906497383e-05,
+        "thread_exit": 1.8423563297761103e-05,
+        "thread_specific_break": 1.859404258104038e-05,
+        "thread_specific_break_plus_condition": 2.0940030428485408e-05
+    }
+}

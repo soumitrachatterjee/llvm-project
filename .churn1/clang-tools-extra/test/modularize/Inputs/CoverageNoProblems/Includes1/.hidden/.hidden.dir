@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/clang-tools-extra/test/modularize/Inputs/CoverageNoProblems/Includes1/.hidden",
+    "score.sum": 0,
+    "sha.latest": "b3eef01eda027fa70f7e9282d334c4dee0d97b36",
+    "time.latest": 1717834830.7217295,
+    "formatted_time": "2024-06-08 13:50:30.721732",
+    "filescores": {
+        "DontFindMe.h": 0
+    },
+    "subdirscores": {}
+}

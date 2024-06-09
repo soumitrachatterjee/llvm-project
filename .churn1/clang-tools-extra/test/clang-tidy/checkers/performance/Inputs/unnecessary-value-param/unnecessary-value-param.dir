@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/clang-tools-extra/test/clang-tidy/checkers/performance/Inputs/unnecessary-value-param",
+    "score.sum": 0,
+    "sha.latest": "89a1d03e2b379e325daa5249411e414bbd995b5e",
+    "time.latest": 1717829150.8592308,
+    "formatted_time": "2024-06-08 12:15:50.859235",
+    "filescores": {
+        "header-fixed.h": 0,
+        "header.h": 0
+    },
+    "subdirscores": {}
+}

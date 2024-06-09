@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/lldb/test/API/functionalities/data-formatter/callback-matching",
+    "score.sum": 6.713525073992221e-06,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717904527.617487,
+    "formatted_time": "2024-06-09 09:12:07.617489",
+    "filescores": {
+        "formatters_with_callback.py": 6.713525073992221e-06,
+        "main.cpp": 0,
+        "Makefile": 0,
+        "TestDataFormatterCallbackMatching.py": 6.713525073992221e-06
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/libcxx/test/libcxx/utilities/memory",
+    "score.sum": 0.00016898819666859606,
+    "sha.latest": "806f43e3cb9ca2bff7c2ae6f1324a062ddb83cac",
+    "time.latest": 1717867120.5747795,
+    "formatted_time": "2024-06-08 22:48:40.574782",
+    "filescores": {},
+    "subdirscores": {
+        "default.allocator": 0,
+        "pointer.conversion": 1.9830904913340148e-05,
+        "ptr.align": 1.3422566165882142e-05,
+        "util.smartptr": 0.00011323386842402356
+    }
+}

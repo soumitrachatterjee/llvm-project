@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/clang-tools-extra/pseudo/gen",
+    "score.sum": 3.1736048608381035e-05,
+    "sha.latest": "0ed2bd9311fd54f0b414549b96a2cd4036ef0945",
+    "time.latest": 1717814371.2632532,
+    "formatted_time": "2024-06-08 08:09:31.263257",
+    "filescores": {
+        "CMakeLists.txt": 1.2197775451670062e-05,
+        "Main.cpp": 3.0056141789284295e-05
+    },
+    "subdirscores": {}
+}

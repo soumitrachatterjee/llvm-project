@@ -1,0 +1,23 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/concepts/concepts.lang",
+    "score.sum": 4.860903326666969e-05,
+    "sha.latest": "70bcd81e7a7365d2fa98a2d08ba81305eb7846f1",
+    "time.latest": 1717875482.626844,
+    "formatted_time": "2024-06-09 01:08:02.626847",
+    "filescores": {},
+    "subdirscores": {
+        "concept.assignable": 1.5362531531908246e-05,
+        "concept.common": 1.5392567944978994e-05,
+        "concept.commonref": 1.5392567944978994e-05,
+        "concept.constructible": 9.071197331829686e-06,
+        "concept.convertible": 6.099602068851199e-06,
+        "concept.copyconstructible": 9.071197331829686e-06,
+        "concept.default.init": 3.450629347725793e-05,
+        "concept.derived": 6.099602068851199e-06,
+        "concept.destructible": 9.071197331829686e-06,
+        "concept.moveconstructible": 9.071197331829686e-06,
+        "concept.same": 6.099602068851199e-06,
+        "concept.swappable": 1.3215900621472056e-05,
+        "concepts.arithmetic": 1.682964312319629e-05
+    }
+}

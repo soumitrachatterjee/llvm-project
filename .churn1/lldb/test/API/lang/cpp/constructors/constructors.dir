@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/lang/cpp/constructors",
+    "score.sum": 3.069633398821963e-05,
+    "sha.latest": "a902015f543097720fed4d2c04e34daa0fdfbda7",
+    "time.latest": 1717930196.9119954,
+    "formatted_time": "2024-06-09 16:19:56.911998",
+    "filescores": {
+        "main.cpp": 0,
+        "Makefile": 0,
+        "TestCppConstructors.py": 3.069633398821963e-05
+    },
+    "subdirscores": {}
+}

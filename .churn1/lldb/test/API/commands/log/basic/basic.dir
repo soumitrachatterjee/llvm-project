@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/lldb/test/API/commands/log/basic",
+    "score.sum": 2.713140573386049e-05,
+    "sha.latest": "80fcecb13c388ff087a27a4b0e7ca3dd8c98eaa4",
+    "time.latest": 1717895765.1058457,
+    "formatted_time": "2024-06-09 06:46:05.105847",
+    "filescores": {
+        "main.cpp": 6.099602068851199e-06,
+        "Makefile": 0,
+        "TestLogging.py": 2.3489755744955814e-05,
+        "TestLogHandlers.py": 6.099602068851199e-06
+    },
+    "subdirscores": {}
+}

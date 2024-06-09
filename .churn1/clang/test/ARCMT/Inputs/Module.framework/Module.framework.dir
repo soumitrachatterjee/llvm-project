@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/clang/test/ARCMT/Inputs/Module.framework",
+    "score.sum": 0,
+    "sha.latest": "fcfc213c3f2279fe12a6fc343937874a7dbbde62",
+    "time.latest": 1717845481.6674895,
+    "formatted_time": "2024-06-08 16:48:01.667494",
+    "filescores": {
+        "Module": 0
+    },
+    "subdirscores": {
+        "Frameworks": 0,
+        "Headers": 0,
+        "PrivateHeaders": 0
+    }
+}

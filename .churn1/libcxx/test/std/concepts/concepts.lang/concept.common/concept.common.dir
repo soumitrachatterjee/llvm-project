@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/concepts/concepts.lang/concept.common",
+    "score.sum": 1.5392567944978994e-05,
+    "sha.latest": "72f0edf3f4291d2614719a8c8af21a7a62ed5d74",
+    "time.latest": 1717875063.2300158,
+    "formatted_time": "2024-06-09 01:01:03.230018",
+    "filescores": {
+        "common_with.compile.pass.cpp": 1.5392567944978994e-05
+    },
+    "subdirscores": {}
+}

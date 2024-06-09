@@ -1,0 +1,18 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/iterators/iterator.requirements/indirectcallable/indirectinvocable",
+    "score.sum": 1.2261977333059902e-05,
+    "sha.latest": "4d08eccd63669a6ff39b6aa01f46b4d467e6d489",
+    "time.latest": 1717913600.0491562,
+    "formatted_time": "2024-06-09 11:43:20.049158",
+    "filescores": {
+        "indirectly_comparable.compile.pass.cpp": 7.168799610369487e-06,
+        "indirectly_regular_unary_invocable.compile.pass.cpp": 8.751748456545938e-06,
+        "indirectly_unary_invocable.compile.pass.cpp": 8.751748456545938e-06,
+        "indirect_binary_predicate.compile.pass.cpp": 8.751748456545938e-06,
+        "indirect_equivalence_relation.compile.pass.cpp": 8.751748456545938e-06,
+        "indirect_result_t.compile.pass.cpp": 8.751748456545938e-06,
+        "indirect_strict_weak_order.compile.pass.cpp": 8.751748456545938e-06,
+        "indirect_unary_predicate.compile.pass.cpp": 8.751748456545938e-06
+    },
+    "subdirscores": {}
+}

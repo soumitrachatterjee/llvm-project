@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/libcxx/test/libcxx/vendor",
+    "score.sum": 3.185876723071538e-05,
+    "sha.latest": "292a28df6c55679fad0589dea35278a8c66b2ae1",
+    "time.latest": 1717868007.5548933,
+    "formatted_time": "2024-06-08 23:03:27.554896",
+    "filescores": {},
+    "subdirscores": {
+        "apple": 2.140629208197106e-05,
+        "clang-cl": 8.840113830649391e-06,
+        "ibm": 0,
+        "mingw": 8.840113830649391e-06
+    }
+}

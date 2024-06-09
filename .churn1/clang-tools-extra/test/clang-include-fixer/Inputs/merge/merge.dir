@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/clang-tools-extra/test/clang-include-fixer/Inputs/merge",
+    "score.sum": 0,
+    "sha.latest": "43356f56bd2ede05c70db537e3f8b50a31444487",
+    "time.latest": 1717817114.2429905,
+    "formatted_time": "2024-06-08 08:55:14.242993",
+    "filescores": {
+        "a.yaml": 0,
+        "b.yaml": 0
+    },
+    "subdirscores": {}
+}

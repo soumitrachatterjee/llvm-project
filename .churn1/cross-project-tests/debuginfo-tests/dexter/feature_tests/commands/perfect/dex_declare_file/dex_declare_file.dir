@@ -1,0 +1,16 @@
+{
+    "directory name": "llvm-project/cross-project-tests/debuginfo-tests/dexter/feature_tests/commands/perfect/dex_declare_file",
+    "score.sum": 3.8084901946476155e-05,
+    "sha.latest": "45a40c163932d12b72b33bd1d8a84519392b5d39",
+    "time.latest": 1717791082.4460077,
+    "formatted_time": "2024-06-08 01:41:22.446013",
+    "filescores": {
+        "lit.local.cfg": 0
+    },
+    "subdirscores": {
+        "dex_and_source": 3.554477546729832e-05,
+        "precompiled_binary": 3.646847914297156e-05,
+        "precompiled_binary_different_dir": 9.020048519569027e-06,
+        "windows_noncanonical_path": 3.646847914297156e-05
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "directory name": "llvm-project/libcxx/test/libcxx/assertions",
+    "score.sum": 0.00013693517116497103,
+    "sha.latest": "37dca605c9bd41732da010ee97ed15ad9585a37d",
+    "time.latest": 1717845149.861573,
+    "formatted_time": "2024-06-08 16:42:29.861577",
+    "filescores": {
+        "customize_verbose_abort.compile-time.pass.cpp": 1.2802944196528435e-05,
+        "customize_verbose_abort.link-time.pass.cpp": 1.5119389023874553e-05,
+        "default_verbose_abort.pass.cpp": 1.0172759392591905e-05,
+        "single_expression.pass.cpp": 0
+    },
+    "subdirscores": {
+        "modes": 3.7238373449688564e-05
+    }
+}

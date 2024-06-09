@@ -1,0 +1,29 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/input.output/iostream.format/input.streams/istream.unformatted",
+    "score.sum": 7.940640010219628e-05,
+    "sha.latest": "54daf6af57fb15d7a51e3f4bb889199fd1453bee",
+    "time.latest": 1717905807.058499,
+    "formatted_time": "2024-06-09 09:33:27.058500",
+    "filescores": {
+        "get.pass.cpp": 4.5459858795986886e-05,
+        "getline_pointer_size.pass.cpp": 4.632810218897268e-05,
+        "getline_pointer_size_chart.pass.cpp": 4.632810218897268e-05,
+        "get_chart.pass.cpp": 4.400713562680117e-05,
+        "get_pointer_size.pass.cpp": 4.4272506206552464e-05,
+        "get_pointer_size_chart.pass.cpp": 4.4272506206552464e-05,
+        "get_streambuf.pass.cpp": 4.4186795481315395e-05,
+        "get_streambuf_chart.pass.cpp": 4.4186795481315395e-05,
+        "ignore.pass.cpp": 3.9337980404953205e-05,
+        "ignore_0xff.pass.cpp": 3.026533989629712e-05,
+        "peek.pass.cpp": 3.9337980404953205e-05,
+        "putback.pass.cpp": 2.4965706303246645e-05,
+        "read.pass.cpp": 4.400713562680117e-05,
+        "readsome.pass.cpp": 2.3102699078099947e-05,
+        "seekg.pass.cpp": 2.381785670056848e-05,
+        "seekg_off.pass.cpp": 3.9157428340858264e-05,
+        "sync.pass.cpp": 2.8559371218631557e-05,
+        "tellg.pass.cpp": 1.7431479621988335e-05,
+        "unget.pass.cpp": 2.4965706303246645e-05
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/libcxx/test/libcxx/utilities/memory/util.smartptr",
+    "score.sum": 0.00011323386842402356,
+    "sha.latest": "9bb9ec380ace81d040d3a0a0a2ae9a75733ab330",
+    "time.latest": 1717867120.563322,
+    "formatted_time": "2024-06-08 22:48:40.563325",
+    "filescores": {
+        "race_condition.pass.cpp": 2.0759586780674647e-05
+    },
+    "subdirscores": {
+        "util.smartptr.shared": 8.60869088884284e-05
+    }
+}

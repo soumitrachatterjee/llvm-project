@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/functionalities/lazy-loading",
+    "score.sum": 1.7100963668575746e-05,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717910950.5830665,
+    "formatted_time": "2024-06-09 10:59:10.583069",
+    "filescores": {
+        "main.cpp": 1.8100175105438947e-05,
+        "Makefile": 0,
+        "TestLazyLoading.py": 1.7100963668575746e-05
+    },
+    "subdirscores": {}
+}

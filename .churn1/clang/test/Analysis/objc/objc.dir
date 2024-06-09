@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/clang/test/Analysis/objc",
+    "score.sum": 4.338231532144964e-05,
+    "sha.latest": "500479dba33ae03644313e34d10c013371b5215b",
+    "time.latest": 1717837071.4370055,
+    "formatted_time": "2024-06-08 14:27:51.437070",
+    "filescores": {
+        "direct-ivar-assignment-in-annotated-functions.m": 4.338231532144964e-05
+    },
+    "subdirscores": {}
+}

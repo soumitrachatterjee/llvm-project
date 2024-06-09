@@ -1,0 +1,16 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/localization/locale.categories/category.ctype/facet.ctype.special",
+    "score.sum": 6.888307293073538e-05,
+    "sha.latest": "be811d1617654e46f4f4daa82259ae4fad4c8e6a",
+    "time.latest": 1717925672.4070508,
+    "formatted_time": "2024-06-09 15:04:32.407052",
+    "filescores": {
+        "types.pass.cpp": 1.9979600714324485e-05
+    },
+    "subdirscores": {
+        "facet.ctype.char.dtor": 4.360538747175871e-05,
+        "facet.ctype.char.members": 1.7366275644238228e-05,
+        "facet.ctype.char.statics": 4.6008704349995426e-05,
+        "facet.ctype.char.virtuals": 1.2132863580760565e-05
+    }
+}

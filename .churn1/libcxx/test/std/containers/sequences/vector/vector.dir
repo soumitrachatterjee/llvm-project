@@ -1,0 +1,29 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/containers/sequences/vector",
+    "score.sum": 0.0006180705788100844,
+    "sha.latest": "4e112e5c1c8511056030294af3264da35f95d93c",
+    "time.latest": 1717887638.7678041,
+    "formatted_time": "2024-06-09 04:30:38.767806",
+    "filescores": {
+        "access.pass.cpp": 3.189853871670271e-05,
+        "allocator_mismatch.verify.cpp": 6.099602068851199e-06,
+        "compare.pass.cpp": 1.1870914465163046e-05,
+        "compare.three_way.pass.cpp": 0,
+        "constant_initialization.pass.cpp": 6.099602068851199e-06,
+        "contiguous.pass.cpp": 4.078176110873062e-05,
+        "get_allocator.pass.cpp": 6.099602068851199e-06,
+        "iterators.pass.cpp": 1.824608397659369e-05,
+        "iterator_concept_conformance.compile.pass.cpp": 1.8116481458982844e-05,
+        "range_concept_conformance.compile.pass.cpp": 1.9934771682938306e-05,
+        "reverse_iterators.pass.cpp": 6.099602068851199e-06,
+        "types.pass.cpp": 3.7607759627061056e-05
+    },
+    "subdirscores": {
+        "vector.capacity": 0.00011076782320319351,
+        "vector.cons": 0.0002535392425981622,
+        "vector.data": 3.9988887703087616e-05,
+        "vector.erasure": 3.501698747292351e-05,
+        "vector.modifiers": 0.0002064456315459267,
+        "vector.special": 7.558499982998179e-05
+    }
+}

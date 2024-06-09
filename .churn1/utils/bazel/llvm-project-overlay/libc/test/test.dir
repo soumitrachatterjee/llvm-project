@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/utils/bazel/llvm-project-overlay/libc/test",
+    "score.sum": 0.00034057933220195424,
+    "sha.latest": "23c397c7c9407deea3398e787f2901f86207dc11",
+    "time.latest": 1717789418.122917,
+    "formatted_time": "2024-06-08 01:13:38.122921",
+    "filescores": {
+        "BUILD.bazel": 6.179741989795154e-06,
+        "libc_test_rules.bzl": 1.2412966245211772e-05
+    },
+    "subdirscores": {
+        "src": 0.00027800461824341414,
+        "UnitTest": 6.212203914548213e-05
+    }
+}

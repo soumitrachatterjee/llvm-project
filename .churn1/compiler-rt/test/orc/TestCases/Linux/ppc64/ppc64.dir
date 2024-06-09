@@ -1,0 +1,23 @@
+{
+    "directory name": "llvm-project/compiler-rt/test/orc/TestCases/Linux/ppc64",
+    "score.sum": 9.618905956389533e-06,
+    "sha.latest": "b4e19155171edf14412dc4132b7b10a84ac65fc5",
+    "time.latest": 1717836083.0445242,
+    "formatted_time": "2024-06-08 14:11:23.044529",
+    "filescores": {
+        "ehframe-default.cpp": 0,
+        "ehframe-libunwind.cpp": 0,
+        "lit.local.cfg.py": 0,
+        "lljit-ehframe.cpp": 0,
+        "lljit-initialize-deinitialize.ll": 0,
+        "priority-static-initializer.S": 0,
+        "trivial-atexit.S": 6.099602068851199e-06,
+        "trivial-cxa-atexit.S": 0,
+        "trivial-static-initializer.S": 0,
+        "trivial-tls-pwr10.test": 0,
+        "trivial-tls.S": 6.099602068851199e-06
+    },
+    "subdirscores": {
+        "Inputs": 0
+    }
+}

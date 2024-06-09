@@ -1,0 +1,20 @@
+{
+    "directory name": "llvm-project/libcxx/test/libcxx/assertions/modes",
+    "score.sum": 3.7238373449688564e-05,
+    "sha.latest": "37dca605c9bd41732da010ee97ed15ad9585a37d",
+    "time.latest": 1717845135.0408225,
+    "formatted_time": "2024-06-08 16:42:15.040827",
+    "filescores": {
+        "debug.pass.cpp": 1.0436335997436713e-05,
+        "enabling_assertions_enables_extensive_mode.pass.cpp": 2.3983625485329076e-05,
+        "extensive.pass.cpp": 6.099602068851199e-06,
+        "fast.pass.cpp": 6.099602068851199e-06,
+        "hardening_mode_incorrect_value.sh.cpp": 0,
+        "none.pass.cpp": 6.099602068851199e-06,
+        "override_with_debug_mode.pass.cpp": 6.099602068851199e-06,
+        "override_with_extensive_mode.pass.cpp": 2.3983625485329076e-05,
+        "override_with_fast_mode.pass.cpp": 2.3983625485329076e-05,
+        "override_with_unchecked_mode.pass.cpp": 6.099602068851199e-06
+    },
+    "subdirscores": {}
+}

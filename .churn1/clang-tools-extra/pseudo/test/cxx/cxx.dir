@@ -1,0 +1,30 @@
+{
+    "directory name": "llvm-project/clang-tools-extra/pseudo/test/cxx",
+    "score.sum": 5.5048669716157055e-05,
+    "sha.latest": "f7dc91ad5609fab02cb805861dd232cab492340d",
+    "time.latest": 1717815273.9383597,
+    "formatted_time": "2024-06-08 08:24:33.938364",
+    "filescores": {
+        "capture-list.cpp": 6.099602068851199e-06,
+        "contextual-keywords.cpp": 0,
+        "dangling-else.cpp": 0,
+        "decl-specfier-seq.cpp": 0,
+        "declarator-function.cpp": 8.936949484349644e-06,
+        "declarator-var.cpp": 8.936949484349644e-06,
+        "declator-member-function.cpp": 0,
+        "empty-member-declaration.cpp": 0,
+        "empty-member-spec.cpp": 2.689620779879437e-05,
+        "keyword.cpp": 6.099602068851199e-06,
+        "literals.cpp": 0,
+        "mixed-designator.cpp": 7.927766976548682e-06,
+        "nested-name-specifier.cpp": 0,
+        "parameter-decl-clause.cpp": 1.0294793319973199e-05,
+        "predefined-identifier.cpp": 6.099602068851199e-06,
+        "recovery-func-parameters.cpp": 6.099602068851199e-06,
+        "recovery-init-list.cpp": 1.047851471852588e-05,
+        "structured-binding.cpp": 0,
+        "template-empty-type-parameter.cpp": 6.099602068851199e-06,
+        "unsized-array.cpp": 6.103316553664938e-06
+    },
+    "subdirscores": {}
+}

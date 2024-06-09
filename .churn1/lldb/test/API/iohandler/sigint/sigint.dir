@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/lldb/test/API/iohandler/sigint",
+    "score.sum": 1.877404059200827e-05,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717924649.589618,
+    "formatted_time": "2024-06-09 14:47:29.589620",
+    "filescores": {
+        "cat.cpp": 6.099602068851199e-06,
+        "Makefile": 0,
+        "TestIOHandlerPythonREPLSigint.py": 1.1567850881616611e-05,
+        "TestProcessIOHandlerInterrupt.py": 7.834486519654264e-06
+    },
+    "subdirscores": {}
+}

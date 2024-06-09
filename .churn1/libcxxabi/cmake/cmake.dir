@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/libcxxabi/cmake",
+    "score.sum": 0.00017411056932329567,
+    "sha.latest": "a4336f2ec1747ea234a07d683930683f67fbd655",
+    "time.latest": 1717822241.0999238,
+    "formatted_time": "2024-06-08 10:20:41.099927",
+    "filescores": {
+        "config-ix.cmake": 0.00011583604088543273
+    },
+    "subdirscores": {
+        "Modules": 6.432218855696281e-05
+    }
+}

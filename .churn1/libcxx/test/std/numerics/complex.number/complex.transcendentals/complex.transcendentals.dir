@@ -1,0 +1,29 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/numerics/complex.number/complex.transcendentals",
+    "score.sum": 4.530715248486797e-05,
+    "sha.latest": "f642436cc213f99a90e3a4258666dd693b29d79d",
+    "time.latest": 1717935394.0761325,
+    "formatted_time": "2024-06-09 17:46:34.076137",
+    "filescores": {
+        "acos.pass.cpp": 2.6091290057606502e-05,
+        "acosh.pass.cpp": 2.8777230872373058e-05,
+        "asin.pass.cpp": 2.7485122646376828e-05,
+        "asinh.pass.cpp": 2.8777230872373058e-05,
+        "atan.pass.cpp": 2.571083401377502e-05,
+        "atanh.pass.cpp": 2.6091290057606502e-05,
+        "cos.pass.cpp": 2.5677595951556077e-05,
+        "cosh.pass.cpp": 2.5677595951556077e-05,
+        "exp.pass.cpp": 1.8659291868827804e-05,
+        "log.pass.cpp": 2.390359959311051e-05,
+        "log10.pass.cpp": 2.560882176217242e-05,
+        "pow_complex_complex.pass.cpp": 2.560882176217242e-05,
+        "pow_complex_scalar.pass.cpp": 2.560882176217242e-05,
+        "pow_scalar_complex.pass.cpp": 2.560882176217242e-05,
+        "sin.pass.cpp": 2.5677595951556077e-05,
+        "sinh.pass.cpp": 2.5677595951556077e-05,
+        "sqrt.pass.cpp": 2.390359959311051e-05,
+        "tan.pass.cpp": 2.5061632354337455e-05,
+        "tanh.pass.cpp": 2.2744971228732293e-05
+    },
+    "subdirscores": {}
+}

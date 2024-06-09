@@ -1,0 +1,21 @@
+{
+    "directory name": "llvm-project/lldb/test/API/commands/command",
+    "score.sum": 0.0001480370220526926,
+    "sha.latest": "5784bf85bc5143266565586ece0113cd773a8616",
+    "time.latest": 1717888923.069181,
+    "formatted_time": "2024-06-09 04:52:03.069183",
+    "filescores": {
+        "categories": 0
+    },
+    "subdirscores": {
+        "backticks": 1.5351025207804193e-05,
+        "container": 2.0148286318933322e-05,
+        "delete": 1.0459834404963863e-05,
+        "invalid-args": 1.358922583684115e-05,
+        "nested_alias": 2.340828636964917e-05,
+        "regex": 9.071123311438119e-06,
+        "script": 9.656628443571527e-05,
+        "script_alias": 1.511750750479991e-05,
+        "source": 1.815111047916372e-05
+    }
+}

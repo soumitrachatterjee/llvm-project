@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/compiler-rt/test/cfi/cross-dso/icall",
+    "score.sum": 2.3572214297497425e-05,
+    "sha.latest": "adb555ea369a3a989a9db619c784aa76cccdb823",
+    "time.latest": 1717822514.42356,
+    "formatted_time": "2024-06-08 10:25:14.423563",
+    "filescores": {
+        "diag.cpp": 6.1181163667943545e-06,
+        "dlopen.cpp": 8.353642616608123e-06,
+        "icall-from-dso.cpp": 6.474182253141442e-06,
+        "icall.cpp": 6.474182253141442e-06,
+        "lit.local.cfg.py": 1.1704728774565026e-05
+    },
+    "subdirscores": {}
+}

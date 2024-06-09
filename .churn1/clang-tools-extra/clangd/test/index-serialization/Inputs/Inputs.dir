@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/clang-tools-extra/clangd/test/index-serialization/Inputs",
+    "score.sum": 1.3847638292903441e-05,
+    "sha.latest": "16d79d26b3b6b7ab4b024f478f05569e0a033c76",
+    "time.latest": 1717804103.6134648,
+    "formatted_time": "2024-06-08 05:18:23.613467",
+    "filescores": {
+        "sample.cpp": 6.099602068851199e-06,
+        "sample.h": 6.099602068851199e-06,
+        "sample.idx": 1.3847638292903441e-05
+    },
+    "subdirscores": {}
+}

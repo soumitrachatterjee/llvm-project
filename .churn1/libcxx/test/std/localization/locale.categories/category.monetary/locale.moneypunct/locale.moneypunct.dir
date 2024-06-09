@@ -1,0 +1,16 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/localization/locale.categories/category.monetary/locale.moneypunct",
+    "score.sum": 3.720225979602297e-05,
+    "sha.latest": "f4c1258d5633fcf06385ff3fd1f4bf57ab971964",
+    "time.latest": 1717929064.8272572,
+    "formatted_time": "2024-06-09 16:01:04.827259",
+    "filescores": {
+        "ctor.pass.cpp": 1.7366275644238228e-05,
+        "money_base.pass.cpp": 2.0832533180879974e-05,
+        "types.pass.cpp": 2.873952187024306e-05
+    },
+    "subdirscores": {
+        "locale.moneypunct.members": 1.9296327931208914e-05,
+        "locale.moneypunct.virtuals": 1.2132863580760565e-05
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/containers/views",
+    "score.sum": 0.00048515171861106715,
+    "sha.latest": "dbbeee6b8357c5a68543f612f3b2b607f1911b4c",
+    "time.latest": 1717894854.4532876,
+    "formatted_time": "2024-06-09 06:30:54.453289",
+    "filescores": {},
+    "subdirscores": {
+        "mdspan": 0.0001081598971057636,
+        "views.span": 6.000627000203479e-05
+    }
+}

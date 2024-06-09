@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/lang/cpp/sizeof",
+    "score.sum": 9.452181912020504e-06,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717935245.5380335,
+    "formatted_time": "2024-06-09 17:44:05.538038",
+    "filescores": {
+        "main.cpp": 6.099602068851199e-06,
+        "Makefile": 0,
+        "TestCPPSizeof.py": 9.452181912020504e-06
+    },
+    "subdirscores": {}
+}

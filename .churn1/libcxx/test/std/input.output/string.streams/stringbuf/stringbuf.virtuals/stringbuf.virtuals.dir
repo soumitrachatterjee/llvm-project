@@ -1,0 +1,16 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/input.output/string.streams/stringbuf/stringbuf.virtuals",
+    "score.sum": 3.244159565763918e-05,
+    "sha.latest": "09e75d3f0996d58cba7477d3d1f04b1e8e12c595",
+    "time.latest": 1717910388.05794,
+    "formatted_time": "2024-06-09 10:49:48.057942",
+    "filescores": {
+        "overflow.pass.cpp": 2.9950903377290812e-05,
+        "pbackfail.pass.cpp": 2.9950903377290812e-05,
+        "seekoff.pass.cpp": 2.0117845587482603e-05,
+        "seekpos.pass.cpp": 1.7431479621988335e-05,
+        "setbuf.pass.cpp": 1.7431479621988335e-05,
+        "underflow.pass.cpp": 1.7431479621988335e-05
+    },
+    "subdirscores": {}
+}

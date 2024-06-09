@@ -1,0 +1,19 @@
+{
+    "directory name": "llvm-project/lldb/source/Plugins/Instruction",
+    "score.sum": 0.0009545265525426346,
+    "sha.latest": "1b26c25f7e56fe3d5e06c285566ef43812d7baee",
+    "time.latest": 1717869732.6177943,
+    "formatted_time": "2024-06-08 23:32:12.617797",
+    "filescores": {
+        "CMakeLists.txt": 3.105194241733367e-05
+    },
+    "subdirscores": {
+        "ARM": 0.00044627144592496626,
+        "ARM64": 0.0002729573906557625,
+        "LoongArch": 1.0674851302188092e-05,
+        "MIPS": 0.00022345563911190387,
+        "MIPS64": 0.00022424521138215148,
+        "PPC64": 0.0001016904875379341,
+        "RISCV": 6.694936388602129e-05
+    }
+}

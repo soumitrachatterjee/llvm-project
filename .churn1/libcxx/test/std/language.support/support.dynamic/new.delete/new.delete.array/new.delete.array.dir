@@ -1,0 +1,32 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/language.support/support.dynamic/new.delete/new.delete.array",
+    "score.sum": 0.00029062092186277585,
+    "sha.latest": "1197fcabc4b5f39dbe8a94b1ab6e92354f3f0dd2",
+    "time.latest": 1717921987.5145683,
+    "formatted_time": "2024-06-09 14:03:07.514571",
+    "filescores": {
+        "delete_align_val_t_replace.pass.cpp": 6.254619704625675e-05,
+        "new.size.except.pass.cpp": 0,
+        "new.size.pass.cpp": 0,
+        "new.size.replace.indirect.pass.cpp": 1.1411916856648188e-05,
+        "new.size.replace.pass.cpp": 1.1411916856648188e-05,
+        "new.size_align.except.pass.cpp": 6.099602068851199e-06,
+        "new.size_align.pass.cpp": 1.3535867064696778e-05,
+        "new.size_align.replace.indirect.pass.cpp": 1.8734690978505008e-05,
+        "new.size_align.replace.pass.cpp": 6.099602068851199e-06,
+        "new.size_align_nothrow.except.pass.cpp": 6.099602068851199e-06,
+        "new.size_align_nothrow.pass.cpp": 1.3535867064696778e-05,
+        "new.size_align_nothrow.replace.indirect.pass.cpp": 2.413880531993054e-05,
+        "new.size_align_nothrow.replace.pass.cpp": 1.8641013668668844e-05,
+        "new.size_nothrow.except.pass.cpp": 0,
+        "new.size_nothrow.pass.cpp": 0,
+        "new.size_nothrow.replace.indirect.pass.cpp": 1.6985919267478657e-05,
+        "new.size_nothrow.replace.pass.cpp": 6.099602068851199e-06,
+        "nodiscard.verify.cpp": 1.3535867064696778e-05,
+        "sized_delete_array11.pass.cpp": 2.0671894592491318e-05,
+        "sized_delete_array14.pass.cpp": 3.493213933084105e-05,
+        "sized_delete_array_calls_unsized_delete_array.pass.cpp": 2.229913626396786e-05,
+        "sized_delete_array_fsizeddeallocation.pass.cpp": 1.186555537307508e-05
+    },
+    "subdirscores": {}
+}

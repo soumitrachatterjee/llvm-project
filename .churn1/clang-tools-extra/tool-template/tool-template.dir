@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/clang-tools-extra/tool-template",
+    "score.sum": 8.150943243418295e-05,
+    "sha.latest": "f9d558c871337699d2815dbf116bae94025f5d90",
+    "time.latest": 1717836443.9692204,
+    "formatted_time": "2024-06-08 14:17:23.969224",
+    "filescores": {
+        "CMakeLists.txt": 2.669329213240294e-05,
+        "ToolTemplate.cpp": 4.1849336743699066e-05
+    },
+    "subdirscores": {}
+}

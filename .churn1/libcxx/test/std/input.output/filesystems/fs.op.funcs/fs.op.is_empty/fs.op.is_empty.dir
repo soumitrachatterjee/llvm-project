@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/input.output/filesystems/fs.op.funcs/fs.op.is_empty",
+    "score.sum": 5.722089725726427e-05,
+    "sha.latest": "ac8c9f1e39e1a773fd81ce23dbf1c80ea186f226",
+    "time.latest": 1717904312.0545025,
+    "formatted_time": "2024-06-09 09:08:32.054504",
+    "filescores": {
+        "is_empty.pass.cpp": 5.722089725726427e-05
+    },
+    "subdirscores": {}
+}

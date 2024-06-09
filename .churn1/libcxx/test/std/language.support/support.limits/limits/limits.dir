@@ -1,0 +1,17 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/language.support/support.limits/limits",
+    "score.sum": 8.495525941144575e-05,
+    "sha.latest": "0d7947b08c00a41e0d6398b8b3cba33d9dbf3df1",
+    "time.latest": 1717923743.5771708,
+    "formatted_time": "2024-06-09 14:32:23.577173",
+    "filescores": {
+        "is_specialized.pass.cpp": 5.195043365922991e-05
+    },
+    "subdirscores": {
+        "denorm.style": 1.7366275644238228e-05,
+        "numeric.limits": 1.4877572584052094e-05,
+        "numeric.limits.members": 6.530880775649282e-05,
+        "numeric.special": 1.2132863580760565e-05,
+        "round.style": 1.4877572584052094e-05
+    }
+}

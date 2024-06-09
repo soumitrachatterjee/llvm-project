@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/lldb/test/API/lang/cpp/subst_template_type_param",
+    "score.sum": 1.0149049079251468e-05,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717936159.9558966,
+    "formatted_time": "2024-06-09 17:59:19.955904",
+    "filescores": {
+        "TestSubstTemplateTypeParam.py": 1.0149049079251468e-05
+    },
+    "subdirscores": {}
+}

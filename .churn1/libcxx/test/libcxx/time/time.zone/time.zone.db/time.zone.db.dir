@@ -1,0 +1,17 @@
+{
+    "directory name": "llvm-project/libcxx/test/libcxx/time/time.zone/time.zone.db",
+    "score.sum": 6.099602068851199e-06,
+    "sha.latest": "d332d88b919faa15564ab70b0633d94f21bc3e3c",
+    "time.latest": 1717865758.9346993,
+    "formatted_time": "2024-06-08 22:25:58.934702",
+    "filescores": {
+        "links.pass.cpp": 0,
+        "rules.pass.cpp": 0,
+        "version.pass.cpp": 0,
+        "zones.pass.cpp": 0
+    },
+    "subdirscores": {
+        "time.zone.db.list": 0,
+        "time.zone.db.remote": 0
+    }
+}

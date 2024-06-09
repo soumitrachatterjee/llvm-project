@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/lldb/examples/customization/import-python",
+    "score.sum": 1.8495308013850223e-05,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717841064.3921437,
+    "formatted_time": "2024-06-08 15:34:24.392149",
+    "filescores": {
+        "importcmd.py": 1.8495308013850223e-05,
+        "README": 6.099602068851199e-06
+    },
+    "subdirscores": {}
+}

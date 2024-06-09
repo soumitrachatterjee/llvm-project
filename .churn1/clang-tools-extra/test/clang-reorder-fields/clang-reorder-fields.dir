@@ -1,0 +1,20 @@
+{
+    "directory name": "llvm-project/clang-tools-extra/test/clang-reorder-fields",
+    "score.sum": 8.089609227186353e-06,
+    "sha.latest": "27d39e4da0b45a93a16f932be66a3607cba1d116",
+    "time.latest": 1717818089.327674,
+    "formatted_time": "2024-06-08 09:11:29.327677",
+    "filescores": {
+        "AggregatePartialInitialization.cpp": 7.222509400248977e-06,
+        "ClassDerived.cpp": 0,
+        "ClassDifferentFieldsAccesses.cpp": 7.222509400248977e-06,
+        "ClassMixedInitialization.cpp": 7.222509400248977e-06,
+        "ClassSimpleCtor.cpp": 7.222509400248977e-06,
+        "CStructAmbiguousName.cpp": 7.222509400248977e-06,
+        "CStructFieldsOrder.cpp": 7.222509400248977e-06,
+        "FieldDependencyWarning.cpp": 0,
+        "FieldDependencyWarningDerived.cpp": 0,
+        "PlainCStructFieldsOrder.c": 6.099602068851199e-06
+    },
+    "subdirscores": {}
+}

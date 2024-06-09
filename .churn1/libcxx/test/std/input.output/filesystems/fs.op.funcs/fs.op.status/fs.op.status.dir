@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/input.output/filesystems/fs.op.funcs/fs.op.status",
+    "score.sum": 6.538378794168035e-05,
+    "sha.latest": "ac8c9f1e39e1a773fd81ce23dbf1c80ea186f226",
+    "time.latest": 1717904701.6507716,
+    "formatted_time": "2024-06-09 09:15:01.650774",
+    "filescores": {
+        "status.pass.cpp": 6.538378794168035e-05
+    },
+    "subdirscores": {}
+}

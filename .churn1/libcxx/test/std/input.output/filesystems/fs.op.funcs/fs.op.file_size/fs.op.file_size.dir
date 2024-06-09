@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/input.output/filesystems/fs.op.funcs/fs.op.file_size",
+    "score.sum": 6.667677988747387e-05,
+    "sha.latest": "ac8c9f1e39e1a773fd81ce23dbf1c80ea186f226",
+    "time.latest": 1717904193.1606565,
+    "formatted_time": "2024-06-09 09:06:33.160658",
+    "filescores": {
+        "file_size.pass.cpp": 6.667677988747387e-05
+    },
+    "subdirscores": {}
+}

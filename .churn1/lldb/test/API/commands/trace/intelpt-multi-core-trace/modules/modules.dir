@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/lldb/test/API/commands/trace/intelpt-multi-core-trace/modules",
+    "score.sum": 0,
+    "sha.latest": "a19fcc2bec81989f90700cfc63b89a0dfd330197",
+    "time.latest": 1717899459.4643865,
+    "formatted_time": "2024-06-09 07:47:39.464390",
+    "filescores": {
+        "m.out": 0
+    },
+    "subdirscores": {}
+}

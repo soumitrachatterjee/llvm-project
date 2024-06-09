@@ -1,0 +1,24 @@
+{
+    "directory name": "llvm-project/libcxx/include/__bit",
+    "score.sum": 7.253286364551055e-05,
+    "sha.latest": "dc57752031fb14166dff2174b36c28d27d742382",
+    "time.latest": 1717831238.3905578,
+    "formatted_time": "2024-06-08 12:50:38.390563",
+    "filescores": {
+        "bit_cast.h": 1.904074627830161e-05,
+        "bit_ceil.h": 2.147502363509606e-05,
+        "bit_floor.h": 6.099602068851199e-06,
+        "bit_log2.h": 0,
+        "bit_width.h": 6.099602068851199e-06,
+        "blsr.h": 6.099602068851199e-06,
+        "byteswap.h": 2.084802730773784e-05,
+        "countl.h": 1.9095472497846966e-05,
+        "countr.h": 8.863958934758446e-06,
+        "endian.h": 6.099602068851199e-06,
+        "has_single_bit.h": 6.099602068851199e-06,
+        "invert_if.h": 0,
+        "popcount.h": 1.4712749014399553e-05,
+        "rotate.h": 1.5274995737169777e-05
+    },
+    "subdirscores": {}
+}

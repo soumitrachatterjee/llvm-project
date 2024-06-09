@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/clang/test/APINotes/Inputs/Frameworks/SomeKit.framework",
+    "score.sum": 0,
+    "sha.latest": "85d506400081e121ef876a4c66fb337b050dcae6",
+    "time.latest": 1717843466.886384,
+    "formatted_time": "2024-06-08 16:14:26.886387",
+    "filescores": {},
+    "subdirscores": {
+        "Headers": 0
+    }
+}

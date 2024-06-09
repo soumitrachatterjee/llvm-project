@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/libcxx/test/libcxx/thread/futures",
+    "score.sum": 0.00010896608387314924,
+    "sha.latest": "58780b811c23df3d928d8452ee21c862dde754a2",
+    "time.latest": 1717865062.3957,
+    "formatted_time": "2024-06-08 22:14:22.395703",
+    "filescores": {},
+    "subdirscores": {
+        "futures.promise": 9.662970421295835e-05,
+        "futures.task": 1.864558898651669e-05
+    }
+}

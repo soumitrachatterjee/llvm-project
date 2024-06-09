@@ -1,0 +1,27 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/containers/views/views.span/span.cons",
+    "score.sum": 3.9667374218789215e-05,
+    "sha.latest": "dbbeee6b8357c5a68543f612f3b2b607f1911b4c",
+    "time.latest": 1717894544.8551688,
+    "formatted_time": "2024-06-09 06:25:44.855170",
+    "filescores": {
+        "array.pass.cpp": 1.0794409812495339e-05,
+        "assign.pass.cpp": 6.1866583636263625e-06,
+        "copy.pass.cpp": 0,
+        "deduct.pass.cpp": 6.099602068851199e-06,
+        "default.pass.cpp": 0,
+        "initializer_list.assert.pass.cpp": 0,
+        "initializer_list.pass.cpp": 6.099602068851199e-06,
+        "initializer_list.verify.cpp": 0,
+        "iterator_len.pass.cpp": 6.099602068851199e-06,
+        "iterator_len.verify.cpp": 1.1990008309840678e-05,
+        "iterator_sentinel.pass.cpp": 2.234556480925274e-05,
+        "iterator_sentinel.verify.cpp": 1.2119100391567903e-05,
+        "range.pass.cpp": 7.648554734026994e-06,
+        "span.dtor.compile.pass.cpp": 0,
+        "span.pass.cpp": 0,
+        "span.verify.cpp": 0,
+        "stdarray.pass.cpp": 6.099602068851199e-06
+    },
+    "subdirscores": {}
+}

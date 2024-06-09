@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/lang/cpp/covariant-return-types",
+    "score.sum": 1.3115563344396262e-05,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717930567.4343154,
+    "formatted_time": "2024-06-09 16:26:07.434317",
+    "filescores": {
+        "main.cpp": 6.099602068851199e-06,
+        "Makefile": 0,
+        "TestCovariantReturnTypes.py": 1.3115563344396262e-05
+    },
+    "subdirscores": {}
+}

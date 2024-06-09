@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/concepts/concepts.lang/concepts.arithmetic",
+    "score.sum": 1.682964312319629e-05,
+    "sha.latest": "480cd780d63fd9c658cc2f51d0c54416b8b1a5c3",
+    "time.latest": 1717875482.609233,
+    "formatted_time": "2024-06-09 01:08:02.609235",
+    "filescores": {
+        "arithmetic.h": 7.1712625970694084e-06,
+        "floating_point.pass.cpp": 6.099602068851199e-06,
+        "integral.pass.cpp": 1.6733694981819883e-05,
+        "signed_integral.pass.cpp": 1.6733694981819883e-05,
+        "unsigned_integral.pass.cpp": 1.6733694981819883e-05
+    },
+    "subdirscores": {}
+}

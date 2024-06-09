@@ -1,0 +1,16 @@
+{
+    "directory name": "llvm-project/clang/include/clang/Rewrite/Core",
+    "score.sum": 5.695139946993296e-05,
+    "sha.latest": "243bfed68367263cfc3fb3f396660acf60051fbf",
+    "time.latest": 1717800711.844793,
+    "formatted_time": "2024-06-08 04:21:51.844796",
+    "filescores": {
+        "DeltaTree.h": 1.5667385389289398e-05,
+        "HTMLRewrite.h": 2.0061614464768204e-05,
+        "RewriteBuffer.h": 1.5908973576099148e-05,
+        "Rewriter.h": 4.224082509874903e-05,
+        "RewriteRope.h": 2.331638479757478e-05,
+        "TokenRewriter.h": 1.8563623743222015e-05
+    },
+    "subdirscores": {}
+}

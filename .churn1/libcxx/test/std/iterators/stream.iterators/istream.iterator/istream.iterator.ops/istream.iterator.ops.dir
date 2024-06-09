@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/iterators/stream.iterators/istream.iterator/istream.iterator.ops",
+    "score.sum": 2.0620184082390118e-05,
+    "sha.latest": "43bc1e5600344d54ad87eae9b1515e2fa5a9597e",
+    "time.latest": 1717919995.2948618,
+    "formatted_time": "2024-06-09 13:29:55.294864",
+    "filescores": {
+        "arrow.pass.cpp": 1.9300015274626658e-05,
+        "dereference.pass.cpp": 1.7366275644238228e-05,
+        "equal.pass.cpp": 1.9419474068174546e-05,
+        "post_increment.pass.cpp": 1.7366275644238228e-05,
+        "pre_increment.pass.cpp": 1.7366275644238228e-05
+    },
+    "subdirscores": {}
+}

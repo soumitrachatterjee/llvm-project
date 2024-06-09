@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/source/Plugins/ObjectFile/COFF",
+    "score.sum": 6.099602068851199e-06,
+    "sha.latest": "43db8ac8ae56f24b5c06e9edb194fe1b7e9cbda0",
+    "time.latest": 1717871993.836853,
+    "formatted_time": "2024-06-09 00:09:53.836857",
+    "filescores": {
+        "CMakeLists.txt": 0,
+        "ObjectFileCOFF.cpp": 6.099602068851199e-06,
+        "ObjectFileCOFF.h": 0
+    },
+    "subdirscores": {}
+}

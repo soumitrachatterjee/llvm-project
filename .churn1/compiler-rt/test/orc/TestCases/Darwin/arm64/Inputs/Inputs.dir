@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/compiler-rt/test/orc/TestCases/Darwin/arm64/Inputs",
+    "score.sum": 6.099602068851199e-06,
+    "sha.latest": "93509b4462a74c3f96eb576f1bbaaa26328e63b2",
+    "time.latest": 1717835218.4231691,
+    "formatted_time": "2024-06-08 13:56:58.423171",
+    "filescores": {
+        "objc-Foo-foo-class-method.S": 0,
+        "ret_self.S": 0
+    },
+    "subdirscores": {}
+}

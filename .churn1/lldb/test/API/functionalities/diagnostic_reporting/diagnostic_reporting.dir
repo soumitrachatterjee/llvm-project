@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/lldb/test/API/functionalities/diagnostic_reporting",
+    "score.sum": 1.080046917794664e-05,
+    "sha.latest": "80fcecb13c388ff087a27a4b0e7ca3dd8c98eaa4",
+    "time.latest": 1717908989.6759412,
+    "formatted_time": "2024-06-09 10:26:29.675943",
+    "filescores": {
+        "minidump.yaml": 0,
+        "TestDiagnosticReporting.py": 1.080046917794664e-05
+    },
+    "subdirscores": {}
+}

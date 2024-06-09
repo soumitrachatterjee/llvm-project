@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/clang/include/clang/Analysis/FlowSensitive/Models",
+    "score.sum": 4.110023124647386e-05,
+    "sha.latest": "71f2ec2db1295462d61e1407fcc1e715ba5d458b",
+    "time.latest": 1717793842.3909905,
+    "formatted_time": "2024-06-08 02:27:22.390994",
+    "filescores": {
+        "ChromiumCheckModel.h": 9.48077432832278e-06,
+        "UncheckedOptionalAccessModel.h": 3.9144558159346016e-05
+    },
+    "subdirscores": {}
+}

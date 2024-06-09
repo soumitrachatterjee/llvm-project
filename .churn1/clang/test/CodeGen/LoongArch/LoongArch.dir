@@ -1,0 +1,29 @@
+{
+    "directory name": "llvm-project/clang/test/CodeGen/LoongArch",
+    "score.sum": 0.0001231123914301525,
+    "sha.latest": "2f479b811274fede36535e34ecb545ac22e399c3",
+    "time.latest": 1717900956.1911469,
+    "formatted_time": "2024-06-09 08:12:36.191149",
+    "filescores": {
+        "abi-lp64d-empty-structs.c": 1.841185438952537e-05,
+        "abi-lp64d-empty-unions.c": 6.099602068851199e-06,
+        "abi-lp64d.c": 0,
+        "atomics.c": 6.101440633765791e-06,
+        "attributes.cpp": 0,
+        "builtin-dbl-approximate.c": 0,
+        "builtin-flt-approximate.c": 0,
+        "inline-asm-constraints-error.c": 0,
+        "inline-asm-constraints.c": 1.353594468827362e-05,
+        "inline-asm-gcc-regs-error.c": 1.2095809511133184e-05,
+        "inline-asm-gcc-regs.c": 1.2095809511133184e-05,
+        "inline-asm-operand-modifiers.c": 1.2199095027051286e-05,
+        "intrinsic-la32-error.c": 1.99350809096868e-05,
+        "intrinsic-la32.c": 1.845618290211098e-05,
+        "intrinsic-la64-error.c": 1.003591197016332e-05,
+        "intrinsic-la64.c": 2.1763871322338894e-05
+    },
+    "subdirscores": {
+        "lasx": 2.08050417229636e-05,
+        "lsx": 2.0805041337561922e-05
+    }
+}

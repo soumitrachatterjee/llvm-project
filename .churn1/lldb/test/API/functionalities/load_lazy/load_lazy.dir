@@ -1,0 +1,17 @@
+{
+    "directory name": "llvm-project/lldb/test/API/functionalities/load_lazy",
+    "score.sum": 1.4650442822917429e-05,
+    "sha.latest": "80fcecb13c388ff087a27a4b0e7ca3dd8c98eaa4",
+    "time.latest": 1717911187.1141508,
+    "formatted_time": "2024-06-09 11:03:07.114153",
+    "filescores": {
+        "categories": 7.563739894112579e-06,
+        "main.cpp": 7.563739894112579e-06,
+        "Makefile": 6.100885807163575e-06,
+        "t1.c": 7.563739894112579e-06,
+        "t2_0.c": 7.563739894112579e-06,
+        "t2_1.c": 7.563739894112579e-06,
+        "TestLoadUsingLazyBind.py": 1.3424399212803452e-05
+    },
+    "subdirscores": {}
+}

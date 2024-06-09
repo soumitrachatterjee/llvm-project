@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/commands/memory/read",
+    "score.sum": 1.27554150519627e-05,
+    "sha.latest": "80fcecb13c388ff087a27a4b0e7ca3dd8c98eaa4",
+    "time.latest": 1717895840.3271024,
+    "formatted_time": "2024-06-09 06:47:20.327104",
+    "filescores": {
+        "main.c": 6.099602068851199e-06,
+        "Makefile": 0,
+        "TestMemoryRead.py": 1.27554150519627e-05
+    },
+    "subdirscores": {}
+}

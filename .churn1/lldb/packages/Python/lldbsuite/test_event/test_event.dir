@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/lldb/packages/Python/lldbsuite/test_event",
+    "score.sum": 5.4960949810178935e-05,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717861637.6849515,
+    "formatted_time": "2024-06-08 21:17:17.684956",
+    "filescores": {
+        "build_exception.py": 2.6157230974003562e-05,
+        "__init__.py": 0
+    },
+    "subdirscores": {}
+}

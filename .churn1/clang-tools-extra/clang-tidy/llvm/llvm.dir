@@ -1,0 +1,22 @@
+{
+    "directory name": "llvm-project/clang-tools-extra/clang-tidy/llvm",
+    "score.sum": 0.0002638110246601146,
+    "sha.latest": "da95d926f6fce4ed9707c77908ad96624268f134",
+    "time.latest": 1717796799.704324,
+    "formatted_time": "2024-06-08 03:16:39.704327",
+    "filescores": {
+        "CMakeLists.txt": 3.0151014326483772e-05,
+        "HeaderGuardCheck.cpp": 4.8047570137487415e-05,
+        "HeaderGuardCheck.h": 3.210806532575588e-05,
+        "IncludeOrderCheck.cpp": 9.672832592674966e-05,
+        "IncludeOrderCheck.h": 2.135101864031782e-05,
+        "LLVMTidyModule.cpp": 5.024681994816223e-05,
+        "PreferIsaOrDynCastInConditionalsCheck.cpp": 2.3812069515506075e-05,
+        "PreferIsaOrDynCastInConditionalsCheck.h": 1.3215648386806026e-05,
+        "PreferRegisterOverUnsignedCheck.cpp": 1.7715471601834355e-05,
+        "PreferRegisterOverUnsignedCheck.h": 1.1114044411307723e-05,
+        "TwineLocalCheck.cpp": 3.028844681233427e-05,
+        "TwineLocalCheck.h": 1.755456272597333e-05
+    },
+    "subdirscores": {}
+}

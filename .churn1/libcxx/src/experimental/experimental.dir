@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/libcxx/src/experimental",
+    "score.sum": 0.00018149750390719687,
+    "sha.latest": "12bb2910c3e339730279f65b2c0813ccfce024f1",
+    "time.latest": 1717842083.431075,
+    "formatted_time": "2024-06-08 15:51:23.431079",
+    "filescores": {
+        "keep.cpp": 0
+    },
+    "subdirscores": {}
+}

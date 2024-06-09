@@ -1,0 +1,22 @@
+{
+    "directory name": "llvm-project/libcxxabi",
+    "score.sum": 0.004445916285153755,
+    "sha.latest": "b8c6252bc19e05fc968c6504b69f5fed208f32d4",
+    "time.latest": 1717824514.3783379,
+    "formatted_time": "2024-06-08 10:58:34.378340",
+    "filescores": {
+        ".clang-format": 1.1249452977443624e-05,
+        "CMakeLists.txt": 0.000726910110709122,
+        "CREDITS.TXT": 2.8288302651121518e-05,
+        "LICENSE.TXT": 3.8732971364902096e-05
+    },
+    "subdirscores": {
+        "cmake": 0.00017411056932329567,
+        "fuzz": 0,
+        "include": 0.00019296597684963587,
+        "lib": 3.8655120409585e-05,
+        "src": 0.0025345474008697105,
+        "test": 0.0017901230866464626,
+        "www": 6.147385104005479e-05
+    }
+}

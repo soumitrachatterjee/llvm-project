@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/input.output/filesystems/fs.filesystem.synopsis",
+    "score.sum": 3.662634020844674e-05,
+    "sha.latest": "ac8c9f1e39e1a773fd81ce23dbf1c80ea186f226",
+    "time.latest": 1717903829.8465025,
+    "formatted_time": "2024-06-09 09:00:29.846505",
+    "filescores": {
+        "enable_borrowed_range.compile.pass.cpp": 7.573408853305417e-06,
+        "enable_view.compile.pass.cpp": 7.573408853305417e-06,
+        "file_time_type.pass.cpp": 2.0236029691615124e-05,
+        "file_time_type_resolution.compile.pass.cpp": 1.379121486564466e-05,
+        "space_info.pass.cpp": 6.099602068851199e-06
+    },
+    "subdirscores": {}
+}

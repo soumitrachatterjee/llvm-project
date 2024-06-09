@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/openmp/libomptarget/src/OpenMP/OMPT",
+    "score.sum": 1.4931841439886324e-05,
+    "sha.latest": "e521752c04a479e3751003645a728667f3199d24",
+    "time.latest": 1717796367.9078267,
+    "formatted_time": "2024-06-08 03:09:27.907830",
+    "filescores": {
+        "Callback.cpp": 1.4931841439886324e-05
+    },
+    "subdirscores": {}
+}

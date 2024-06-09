@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/lldb/test/API/commands/expression/import-std-module/missing-module-sources/root/usr/include/c++/v1",
+    "score.sum": 0,
+    "sha.latest": "99b7b41edf4fbc2d6e52bc4524c956e8f69042d9",
+    "time.latest": 1717891310.5714827,
+    "formatted_time": "2024-06-09 05:31:50.571485",
+    "filescores": {
+        "module.modulemap": 0,
+        "vector": 0
+    },
+    "subdirscores": {}
+}

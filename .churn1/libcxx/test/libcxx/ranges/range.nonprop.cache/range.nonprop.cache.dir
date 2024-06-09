@@ -1,0 +1,20 @@
+{
+    "directory name": "llvm-project/libcxx/test/libcxx/ranges/range.nonprop.cache",
+    "score.sum": 1.0546179734539203e-05,
+    "sha.latest": "b8cb1dc9ea87faa8e8e9ab7a31710a8c0bb8b084",
+    "time.latest": 1717863250.233266,
+    "formatted_time": "2024-06-08 21:44:10.233269",
+    "filescores": {
+        "assign.copy.pass.cpp": 1.0546179734539203e-05,
+        "assign.move.pass.cpp": 1.0546179734539203e-05,
+        "constraints.compile.pass.cpp": 1.0143640137117458e-05,
+        "ctor.copy.pass.cpp": 1.0546179734539203e-05,
+        "ctor.default.pass.cpp": 1.0143640137117458e-05,
+        "ctor.move.pass.cpp": 1.0546179734539203e-05,
+        "deref.pass.cpp": 1.0546179734539203e-05,
+        "emplace.pass.cpp": 9.564578625693594e-06,
+        "emplace_from.pass.cpp": 9.564578625693594e-06,
+        "has_value.pass.cpp": 1.0546179734539203e-05
+    },
+    "subdirscores": {}
+}

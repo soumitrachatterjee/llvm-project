@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/source/Plugins/Platform/MacOSX/objcxx",
+    "score.sum": 7.51841810744754e-05,
+    "sha.latest": "3b6a8f823bf873aa74cdb738f517e7333e20de7a",
+    "time.latest": 1717873183.6229465,
+    "formatted_time": "2024-06-09 00:29:43.622950",
+    "filescores": {
+        "CMakeLists.txt": 6.404578075723026e-06,
+        "PlatformiOSSimulatorCoreSimulatorSupport.h": 3.7784664554617766e-05,
+        "PlatformiOSSimulatorCoreSimulatorSupport.mm": 5.052113172974397e-05
+    },
+    "subdirscores": {}
+}

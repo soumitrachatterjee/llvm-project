@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/libcxx/test/libcxx/thread/thread.stoptoken",
+    "score.sum": 6.099602068851199e-06,
+    "sha.latest": "571178a21a8bc105bf86cf4bf92f842e07792e1a",
+    "time.latest": 1717865513.4676518,
+    "formatted_time": "2024-06-08 22:21:53.467655",
+    "filescores": {
+        "atomic_unique_lock.pass.cpp": 6.099602068851199e-06,
+        "intrusive_list_view.pass.cpp": 6.099602068851199e-06,
+        "intrusive_shared_ptr.pass.cpp": 6.099602068851199e-06
+    },
+    "subdirscores": {}
+}

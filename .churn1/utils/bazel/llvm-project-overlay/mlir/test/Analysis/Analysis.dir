@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/utils/bazel/llvm-project-overlay/mlir/test/Analysis",
+    "score.sum": 0,
+    "sha.latest": "70ac46667613f461e188bddb2090a7bcd53cdf39",
+    "time.latest": 1717790415.4145877,
+    "formatted_time": "2024-06-08 01:30:15.414592",
+    "filescores": {
+        "BUILD.bazel": 0
+    },
+    "subdirscores": {}
+}

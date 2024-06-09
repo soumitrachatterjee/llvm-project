@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/libcxx/test/libcxx/iterators/predef.iterators/reverse.iterators",
+    "score.sum": 1.5392646432587612e-05,
+    "sha.latest": "9bb9ec380ace81d040d3a0a0a2ae9a75733ab330",
+    "time.latest": 1717859512.477914,
+    "formatted_time": "2024-06-08 20:41:52.477930",
+    "filescores": {
+        "bad_template_argument.verify.cpp": 1.5392646432587612e-05
+    },
+    "subdirscores": {}
+}

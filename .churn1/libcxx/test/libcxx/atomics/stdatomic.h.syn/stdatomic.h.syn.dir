@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/libcxx/test/libcxx/atomics/stdatomic.h.syn",
+    "score.sum": 1.6420576076487266e-05,
+    "sha.latest": "a7f9895cc18995549c7facb96e72718da282a864",
+    "time.latest": 1717845530.3825653,
+    "formatted_time": "2024-06-08 16:48:50.382569",
+    "filescores": {
+        "dont_hijack_header.compile.pass.cpp": 1.097915874916427e-05
+    },
+    "subdirscores": {}
+}

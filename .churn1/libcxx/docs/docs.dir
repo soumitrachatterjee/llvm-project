@@ -1,0 +1,30 @@
+{
+    "directory name": "llvm-project/libcxx/docs",
+    "score.sum": 0.005739332852570651,
+    "sha.latest": "e1da74d916e58f3c7748c21757cba1922aecbc52",
+    "time.latest": 1717824798.1733887,
+    "formatted_time": "2024-06-08 11:03:18.173392",
+    "filescores": {
+        "AddingNewCIJobs.rst": 1.662953441764139e-05,
+        "BuildingLibcxx.rst": 0.0003037553071247087,
+        "CMakeLists.txt": 6.099602068851199e-06,
+        "conf.py": 7.354577162698475e-05,
+        "Contributing.rst": 0.00011097427455057705,
+        "FeatureTestMacroTable.rst": 0.000436861576122824,
+        "Hardening.rst": 1.6117476166074664e-05,
+        "ImplementationDefinedBehavior.rst": 6.099602068851199e-06,
+        "index.rst": 0.0004238860206577471,
+        "Modules.rst": 5.5930755757882845e-05,
+        "README.txt": 6.175933224573941e-06,
+        "ReleaseNotes.rst": 0.0009393419850840002,
+        "ReleaseProcedure.rst": 7.493727301554948e-06,
+        "TestingLibcxx.rst": 0.00019878637183345766,
+        "UsingLibcxx.rst": 0.00039584154191648783
+    },
+    "subdirscores": {
+        "DesignDocs": 0.0003155584418439617,
+        "Helpers": 2.0639428754361235e-05,
+        "ReleaseNotes": 0.00031422505229588345,
+        "Status": 0.001609073148609029
+    }
+}

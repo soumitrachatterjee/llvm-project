@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/input.output/file.streams/fstreams/ofstream.assign",
+    "score.sum": 3.689871281459335e-05,
+    "sha.latest": "7853371146d1f40513d5dfe5bc6b3f958cda97af",
+    "time.latest": 1717902060.3235798,
+    "formatted_time": "2024-06-09 08:31:00.323582",
+    "filescores": {
+        "member_swap.pass.cpp": 1.9563671195489574e-05,
+        "move_assign.pass.cpp": 3.487025048490939e-05,
+        "nonmember_swap.pass.cpp": 1.9563671195489574e-05
+    },
+    "subdirscores": {}
+}

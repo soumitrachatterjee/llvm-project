@@ -1,0 +1,41 @@
+{
+    "directory name": "llvm-project/clang/test/Analysis/diagnostics",
+    "score.sum": 0.0004132051192749165,
+    "sha.latest": "527fcb8e5d6b1d491b6699cde818db1127bbb12c",
+    "time.latest": 1717829894.7933602,
+    "formatted_time": "2024-06-08 12:28:14.793363",
+    "filescores": {
+        "deref-track-symbolic-region.c": 8.986745294601819e-05,
+        "deref-track-symbolic-region.cpp": 3.390043234157741e-05,
+        "dtors.cpp": 9.266020831303285e-06,
+        "explicit-suppression.cpp": 8.151202023892507e-05,
+        "false-positive-suppression.c": 3.1007425618255344e-05,
+        "find_last_store.c": 7.693200258449288e-06,
+        "implicit-cxx-std-suppression.cpp": 2.9108126242725166e-05,
+        "initializer.cpp": 0,
+        "invalid-srcloc-fix.cpp": 0,
+        "macro-null-return-suppression.cpp": 6.779125705495956e-06,
+        "macros.cpp": 2.841089714498478e-05,
+        "macros.m": 5.334152990841716e-05,
+        "no-prune-paths.c": 4.233835232725965e-05,
+        "no-store-func-path-notes.c": 1.602312590610598e-05,
+        "no-store-func-path-notes.cpp": 2.9107228596973298e-05,
+        "no-store-func-path-notes.m": 1.2911875678084509e-05,
+        "plist-diagnostics-include-check.cpp": 6.056125303517243e-05,
+        "plist-multi-file.c": 1.763245362099697e-05,
+        "plist-multi-file.h": 0,
+        "report-issues-within-main-file.cpp": 0.00011326750801196126,
+        "sarif-diagnostics-taint-test.c": 8.12718738899534e-06,
+        "sarif-multi-diagnostic-test.c": 1.137984580192772e-05,
+        "shortest-path-suppression.c": 3.0455316791085544e-05,
+        "text-diagnostics.c": 2.898736034034004e-05,
+        "track_subexpressions.cpp": 8.093289975335615e-06,
+        "undef-value-callee.h": 6.099602068851199e-06,
+        "undef-value-caller.c": 0.00011182812692230265,
+        "undef-value-param.c": 8.96727517520475e-05,
+        "undef-value-param.m": 0.00012224374693975008
+    },
+    "subdirscores": {
+        "Inputs": 0.00011766641971725644
+    }
+}

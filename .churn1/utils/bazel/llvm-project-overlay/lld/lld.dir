@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/utils/bazel/llvm-project-overlay/lld",
+    "score.sum": 5.6079204230777265e-05,
+    "sha.latest": "2fcfc9754a16805b81e541dc8222a8b5cf17a121",
+    "time.latest": 1717789561.119247,
+    "formatted_time": "2024-06-08 01:16:01.119251",
+    "filescores": {
+        "BUILD.bazel": 5.6079204230777265e-05
+    },
+    "subdirscores": {}
+}

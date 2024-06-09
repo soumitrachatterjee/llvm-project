@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/libcxx/test/libcxx/utilities/template.bitset",
+    "score.sum": 1.4030432606554413e-05,
+    "sha.latest": "86ab93828a56fb1208b4a63e83f3631f183a30fb",
+    "time.latest": 1717867413.8542743,
+    "formatted_time": "2024-06-08 22:53:33.854277",
+    "filescores": {
+        "includes.pass.cpp": 1.6279130360458672e-05
+    },
+    "subdirscores": {}
+}

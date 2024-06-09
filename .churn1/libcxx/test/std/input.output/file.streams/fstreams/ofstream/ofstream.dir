@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/input.output/file.streams/fstreams/ofstream",
+    "score.sum": 2.6821951499701823e-05,
+    "sha.latest": "92e243173c09fc78c25814a7d7e392971034f5be",
+    "time.latest": 1717902009.669973,
+    "formatted_time": "2024-06-09 08:30:09.669974",
+    "filescores": {
+        "types.pass.cpp": 2.6821951499701823e-05
+    },
+    "subdirscores": {}
+}

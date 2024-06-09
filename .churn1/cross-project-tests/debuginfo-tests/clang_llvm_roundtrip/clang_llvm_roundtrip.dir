@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/cross-project-tests/debuginfo-tests/clang_llvm_roundtrip",
+    "score.sum": 2.8406016313746305e-05,
+    "sha.latest": "f98ee40f4b5d7474fc67e82824bf6abbaedb7b1c",
+    "time.latest": 1717787948.8554115,
+    "formatted_time": "2024-06-08 00:49:08.856061",
+    "filescores": {
+        "lit.local.cfg": 6.099602068851199e-06,
+        "simplified_template_names.cpp": 4.2570854535872924e-05,
+        "simplified_template_names_noncanonical_type_units.cpp": 6.099602068851199e-06
+    },
+    "subdirscores": {}
+}

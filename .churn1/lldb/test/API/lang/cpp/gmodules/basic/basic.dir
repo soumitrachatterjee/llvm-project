@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/lldb/test/API/lang/cpp/gmodules/basic",
+    "score.sum": 6.099602068851199e-06,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717931892.8797784,
+    "formatted_time": "2024-06-09 16:48:12.879781",
+    "filescores": {
+        "main.cpp": 0,
+        "Makefile": 0,
+        "pch.h": 0,
+        "TestWithModuleDebugging.py": 6.099602068851199e-06
+    },
+    "subdirscores": {}
+}

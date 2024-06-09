@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/language.support/support.rtti",
+    "score.sum": 3.2687305364238365e-05,
+    "sha.latest": "1197fcabc4b5f39dbe8a94b1ab6e92354f3f0dd2",
+    "time.latest": 1717924563.861639,
+    "formatted_time": "2024-06-09 14:46:03.861641",
+    "filescores": {},
+    "subdirscores": {
+        "bad.cast": 1.7366275644238228e-05,
+        "bad.typeid": 1.7366275644238228e-05,
+        "type.info": 3.168659690264379e-05
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/source/Plugins/Instruction/LoongArch",
+    "score.sum": 1.0674851302188092e-05,
+    "sha.latest": "1e7101a3d95884c791d566b7b6192fbac55f55e0",
+    "time.latest": 1717869535.320976,
+    "formatted_time": "2024-06-08 23:28:55.320978",
+    "filescores": {
+        "CMakeLists.txt": 1.1893464432507802e-05,
+        "EmulateInstructionLoongArch.cpp": 1.0674851302188092e-05,
+        "EmulateInstructionLoongArch.h": 1.0117313639149579e-05
+    },
+    "subdirscores": {}
+}

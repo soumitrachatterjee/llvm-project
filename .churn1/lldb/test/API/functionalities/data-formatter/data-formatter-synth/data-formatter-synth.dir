@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/functionalities/data-formatter/data-formatter-synth",
+    "score.sum": 2.0453050577791408e-05,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717907589.8030984,
+    "formatted_time": "2024-06-09 10:03:09.803100",
+    "filescores": {
+        "main.cpp": 6.099602068851199e-06,
+        "Makefile": 0,
+        "TestDataFormatterSynth.py": 2.0409500451842785e-05
+    },
+    "subdirscores": {}
+}

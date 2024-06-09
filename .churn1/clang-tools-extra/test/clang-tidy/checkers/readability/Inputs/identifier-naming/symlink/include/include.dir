@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/clang-tools-extra/test/clang-tidy/checkers/readability/Inputs/identifier-naming/symlink/include",
+    "score.sum": 0,
+    "sha.latest": "c3107821aeeeb12a13e7a85f0e23b884c2881417",
+    "time.latest": 1717831130.2378073,
+    "formatted_time": "2024-06-08 12:48:50.237811",
+    "filescores": {
+        ".clang-tidy": 0,
+        "test.h": 0
+    },
+    "subdirscores": {}
+}

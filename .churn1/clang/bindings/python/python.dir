@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/clang/bindings/python",
+    "score.sum": 0.0006590505009563655,
+    "sha.latest": "ee08b992514bd1556c38f42409d92728af3451f7",
+    "time.latest": 1717788806.2384555,
+    "formatted_time": "2024-06-08 01:03:26.238462",
+    "filescores": {
+        "README.txt": 2.7900022413228192e-05
+    },
+    "subdirscores": {
+        "clang": 0.00040317753840682336,
+        "examples": 1.8219069876544942e-05,
+        "tests": 0.0004333187928376865
+    }
+}

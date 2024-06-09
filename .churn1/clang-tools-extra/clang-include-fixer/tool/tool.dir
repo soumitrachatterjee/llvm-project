@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/clang-tools-extra/clang-include-fixer/tool",
+    "score.sum": 4.810898593541283e-05,
+    "sha.latest": "5b4abae7630572c96a736faa1f09b1a3c37201a2",
+    "time.latest": 1717789543.3724973,
+    "formatted_time": "2024-06-08 01:15:43.372502",
+    "filescores": {
+        "clang-include-fixer-test.el": 0,
+        "clang-include-fixer.el": 1.2429322183884271e-05,
+        "clang-include-fixer.py": 1.0594092241856525e-05,
+        "ClangIncludeFixer.cpp": 7.384922160916817e-06,
+        "CMakeLists.txt": 3.283101932426024e-05
+    },
+    "subdirscores": {}
+}

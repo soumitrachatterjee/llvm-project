@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/lldb/test/API/functionalities/ubsan",
+    "score.sum": 3.806414195255984e-05,
+    "sha.latest": "80fcecb13c388ff087a27a4b0e7ca3dd8c98eaa4",
+    "time.latest": 1717923803.3119266,
+    "formatted_time": "2024-06-09 14:33:23.311929",
+    "filescores": {
+        "categories": 0
+    },
+    "subdirscores": {
+        "basic": 3.142588724384468e-05,
+        "user-expression": 1.6845708512627127e-05
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/clang-tools-extra/test/clang-tidy",
+    "score.sum": 0.007014507453826272,
+    "sha.latest": "4fdf10faf2b45f4bbbd2ddfb07272d19a47cc531",
+    "time.latest": 1717834624.0851882,
+    "formatted_time": "2024-06-08 13:47:04.085189",
+    "filescores": {
+        "check_clang_tidy.py": 0.00011002569640173948,
+        "CTTestTidyModule.cpp": 9.144484523194338e-06
+    },
+    "subdirscores": {
+        "checkers": 0.0027597309103122533,
+        "infrastructure": 0.00020122136161083624
+    }
+}

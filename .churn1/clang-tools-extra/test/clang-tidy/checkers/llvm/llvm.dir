@@ -1,0 +1,17 @@
+{
+    "directory name": "llvm-project/clang-tools-extra/test/clang-tidy/checkers/llvm",
+    "score.sum": 0,
+    "sha.latest": "89a1d03e2b379e325daa5249411e414bbd995b5e",
+    "time.latest": 1717824643.5477097,
+    "formatted_time": "2024-06-08 11:00:43.547713",
+    "filescores": {
+        "include-order.cpp": 0,
+        "prefer-isa-or-dyn-cast-in-conditionals.cpp": 0,
+        "prefer-register-over-unsigned.cpp": 0,
+        "prefer-register-over-unsigned2.cpp": 0,
+        "prefer-register-over-unsigned3.cpp": 0,
+        "qualified-auto.cpp": 0,
+        "twine-local.cpp": 0
+    },
+    "subdirscores": {}
+}

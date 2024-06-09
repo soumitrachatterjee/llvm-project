@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/cross-project-tests/debuginfo-tests/dexter/dex/tools/run_debugger_internal_",
+    "score.sum": 6.995816714415363e-06,
+    "sha.latest": "f98ee40f4b5d7474fc67e82824bf6abbaedb7b1c",
+    "time.latest": 1717789595.1946902,
+    "formatted_time": "2024-06-08 01:16:35.194695",
+    "filescores": {
+        "Tool.py": 6.995816714415363e-06,
+        "__init__.py": 0
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/libcxx/test/libcxx/thread/thread.lock",
+    "score.sum": 3.512956819198582e-05,
+    "sha.latest": "72f0edf3f4291d2614719a8c8af21a7a62ed5d74",
+    "time.latest": 1717865244.074149,
+    "formatted_time": "2024-06-08 22:17:24.074151",
+    "filescores": {},
+    "subdirscores": {
+        "thread.lock.guard": 3.512956819198582e-05
+    }
+}

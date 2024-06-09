@@ -1,0 +1,20 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/diagnostics/syserr",
+    "score.sum": 0.0001956839070946263,
+    "sha.latest": "f1d3ebc9918aa6d1d04cda98da1ecef2dd51978c",
+    "time.latest": 1717899071.9755259,
+    "formatted_time": "2024-06-09 07:41:11.975529",
+    "filescores": {
+        "errc.pass.cpp": 1.539456431908418e-05,
+        "is_error_code_enum.pass.cpp": 1.2911703261449596e-05,
+        "is_error_condition_enum.pass.cpp": 1.959996646385135e-05
+    },
+    "subdirscores": {
+        "syserr.compare": 1.9724840084344147e-05,
+        "syserr.errcat": 0.0001074929558031499,
+        "syserr.errcode": 6.4122367766756e-05,
+        "syserr.errcondition": 3.013072363955934e-05,
+        "syserr.hash": 3.416032035340963e-05,
+        "syserr.syserr": 3.0427387843258383e-05
+    }
+}

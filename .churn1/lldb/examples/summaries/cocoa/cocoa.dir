@@ -1,0 +1,33 @@
+{
+    "directory name": "llvm-project/lldb/examples/summaries/cocoa",
+    "score.sum": 4.9670353676699225e-05,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717842625.1306777,
+    "formatted_time": "2024-06-08 16:00:25.130683",
+    "filescores": {
+        "attrib_fromdict.py": 1.229842640245718e-05,
+        "cache.py": 1.2421131220433682e-05,
+        "CFArray.py": 2.4770851498458062e-05,
+        "CFBag.py": 2.296155469722825e-05,
+        "CFBinaryHeap.py": 2.296155469722825e-05,
+        "CFBitVector.py": 2.206310859141989e-05,
+        "CFDictionary.py": 2.2676157261564903e-05,
+        "CFString.py": 1.6821453549930665e-05,
+        "Class.py": 1.2346678063566416e-05,
+        "Logger.py": 1.4676869152329863e-05,
+        "metrics.py": 1.4458394298679273e-05,
+        "NSBundle.py": 1.4728734778521172e-05,
+        "NSData.py": 2.2670394795674246e-05,
+        "NSDate.py": 1.390390830911939e-05,
+        "NSException.py": 1.2673014555566478e-05,
+        "NSIndexSet.py": 2.345615206629472e-05,
+        "NSMachPort.py": 2.2916832907749094e-05,
+        "NSNotification.py": 1.3240215978290267e-05,
+        "NSNumber.py": 2.321362419603589e-05,
+        "NSSet.py": 2.242061639010358e-05,
+        "NSURL.py": 1.31166441906273e-05,
+        "objc_runtime.py": 1.5265498603633404e-05,
+        "Selector.py": 1.2309612907519471e-05
+    },
+    "subdirscores": {}
+}

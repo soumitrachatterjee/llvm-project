@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/clang-tools-extra/clang-reorder-fields",
+    "score.sum": 6.903346269979183e-05,
+    "sha.latest": "27254ae51192d83fd45777cc33b004d06c2ceb50",
+    "time.latest": 1717790103.96876,
+    "formatted_time": "2024-06-08 01:25:03.968764",
+    "filescores": {
+        "CMakeLists.txt": 2.4308807074014077e-05,
+        "ReorderFieldsAction.cpp": 3.118046703327012e-05,
+        "ReorderFieldsAction.h": 6.100676973123264e-06
+    },
+    "subdirscores": {
+        "tool": 2.3386976886269634e-05
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "directory name": "llvm-project/clang-tools-extra/pseudo/lib/grammar",
+    "score.sum": 2.7514633361875873e-05,
+    "sha.latest": "732bccb8c1b4ea724919db6ff02b1188e20850e7",
+    "time.latest": 1717814876.402469,
+    "formatted_time": "2024-06-08 08:17:56.402472",
+    "filescores": {
+        "CMakeLists.txt": 6.253920055130892e-06,
+        "Grammar.cpp": 2.6996865110025182e-05,
+        "GrammarBNF.cpp": 1.0807864133617128e-05,
+        "LRGraph.cpp": 1.7948724378411768e-05,
+        "LRTable.cpp": 4.107760581145574e-05,
+        "LRTableBuild.cpp": 3.694341506702887e-05
+    },
+    "subdirscores": {}
+}

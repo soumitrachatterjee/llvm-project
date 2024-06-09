@@ -1,0 +1,18 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/input.output/iostreams.base/fpos/fpos.operations",
+    "score.sum": 2.5675449015498747e-05,
+    "sha.latest": "679f8a885b65e0c82537590f1d88c2bc4c6869bc",
+    "time.latest": 1717907249.1338453,
+    "formatted_time": "2024-06-09 09:57:29.133846",
+    "filescores": {
+        "addition.pass.cpp": 1.7366275644238228e-05,
+        "ctor_int.pass.cpp": 1.7366275644238228e-05,
+        "difference.pass.cpp": 2.2049773399382614e-05,
+        "eq_int.pass.cpp": 1.7366275644238228e-05,
+        "fpos.pass.cpp": 6.099602068851199e-06,
+        "offset.pass.cpp": 1.7366275644238228e-05,
+        "streamsize.pass.cpp": 1.7366275644238228e-05,
+        "subtraction.pass.cpp": 2.2049773399382614e-05
+    },
+    "subdirscores": {}
+}

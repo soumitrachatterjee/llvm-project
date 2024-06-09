@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/clang-tools-extra/test/clang-tidy/checkers/bugprone/Inputs/signal-handler",
+    "score.sum": 6.687875970099297e-06,
+    "sha.latest": "6e75ec5e38dacb14c9ac9578c8e07548861b6d27",
+    "time.latest": 1717820507.7692995,
+    "formatted_time": "2024-06-08 09:51:47.769303",
+    "filescores": {
+        "stdcpp.h": 6.687875970099297e-06
+    },
+    "subdirscores": {}
+}

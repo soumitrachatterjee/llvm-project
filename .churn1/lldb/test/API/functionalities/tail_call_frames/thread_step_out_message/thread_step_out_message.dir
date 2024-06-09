@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/lldb/test/API/functionalities/tail_call_frames/thread_step_out_message",
+    "score.sum": 9.80735579765098e-06,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717920738.0799282,
+    "formatted_time": "2024-06-09 13:42:18.079930",
+    "filescores": {
+        "main.cpp": 6.567086391080576e-06,
+        "TestArtificialFrameStepOutMessage.py": 9.763805671702358e-06
+    },
+    "subdirscores": {}
+}

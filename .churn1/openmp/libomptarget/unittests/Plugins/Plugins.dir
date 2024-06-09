@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/openmp/libomptarget/unittests/Plugins",
+    "score.sum": 6.099602068851199e-06,
+    "sha.latest": "813a671232e2ecd49a4c861ca34727a01abf09c9",
+    "time.latest": 1717799257.6062465,
+    "formatted_time": "2024-06-08 03:57:37.606251",
+    "filescores": {
+        "CMakeLists.txt": 6.099602068851199e-06,
+        "NextgenPluginsTest.cpp": 0
+    },
+    "subdirscores": {}
+}

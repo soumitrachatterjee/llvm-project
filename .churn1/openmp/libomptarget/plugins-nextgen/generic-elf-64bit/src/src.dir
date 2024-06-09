@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/openmp/libomptarget/plugins-nextgen/generic-elf-64bit/src",
+    "score.sum": 0.00010277683434656878,
+    "sha.latest": "621bafd5c14cc324612e32c8123ac1ebf1c0530b",
+    "time.latest": 1717796056.6139042,
+    "formatted_time": "2024-06-08 03:04:16.613908",
+    "filescores": {
+        "rtl.cpp": 0.00010277683434656878
+    },
+    "subdirscores": {}
+}

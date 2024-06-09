@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/openmp/docs/optimizations",
+    "score.sum": 1.0393866523226774e-05,
+    "sha.latest": "0c660256eb41fb0ba44277a32f39d2a028f797f2",
+    "time.latest": 1717791989.9961758,
+    "formatted_time": "2024-06-08 01:56:29.996180",
+    "filescores": {
+        "OpenMPOpt.rst": 1.0393866523226774e-05,
+        "OpenMPUnawareOptimizations.rst": 6.099602068851199e-06,
+        "Overview.rst": 0
+    },
+    "subdirscores": {}
+}

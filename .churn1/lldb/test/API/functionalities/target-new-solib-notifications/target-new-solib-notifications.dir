@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/functionalities/target-new-solib-notifications",
+    "score.sum": 3.2196504722039514e-05,
+    "sha.latest": "9c2468821ec51defd09c246fea4a47886fff8c01",
+    "time.latest": 1717920847.9631402,
+    "formatted_time": "2024-06-09 13:44:07.963142",
+    "filescores": {
+        "main.cpp": 0,
+        "Makefile": 0,
+        "TestModuleLoadedNotifys.py": 3.2196504722039514e-05
+    },
+    "subdirscores": {}
+}

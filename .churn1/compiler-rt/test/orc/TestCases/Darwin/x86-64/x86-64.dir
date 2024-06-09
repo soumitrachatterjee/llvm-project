@@ -1,0 +1,27 @@
+{
+    "directory name": "llvm-project/compiler-rt/test/orc/TestCases/Darwin/x86-64",
+    "score.sum": 8.808378085742346e-05,
+    "sha.latest": "93509b4462a74c3f96eb576f1bbaaa26328e63b2",
+    "time.latest": 1717835567.163529,
+    "formatted_time": "2024-06-08 14:02:47.163531",
+    "filescores": {
+        "jit-re-dlopen-data-reset.S": 1.8268610165327598e-05,
+        "jit-re-dlopen-trivial.S": 1.8268662192393725e-05,
+        "lit.local.cfg.py": 7.5530880571189615e-06,
+        "lljit-ehframe.cpp": 0,
+        "lljit-initialize-deinitialize.ll": 0,
+        "MachO_gdb_jit_debuginfo_register.S": 6.099602068851199e-06,
+        "objc-imageinfo.S": 0,
+        "trivial-cxa-atexit.S": 0,
+        "trivial-dlsym.c": 0,
+        "trivial-jit-dlopen-nested.c": 1.8278546189064117e-05,
+        "trivial-jit-dlopen.c": 1.8278546189064117e-05,
+        "trivial-objc-methods.S": 7.471113148557228e-06,
+        "trivial-static-initializer.S": 0,
+        "trivial-swift-types-section.S": 6.479698154900079e-06,
+        "trivial-tlv.S": 1.1160213218724547e-05
+    },
+    "subdirscores": {
+        "Inputs": 1.639209196685369e-05
+    }
+}

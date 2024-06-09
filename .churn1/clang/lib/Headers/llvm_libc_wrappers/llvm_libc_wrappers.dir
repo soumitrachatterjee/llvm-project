@@ -1,0 +1,19 @@
+{
+    "directory name": "llvm-project/clang/lib/Headers/llvm_libc_wrappers",
+    "score.sum": 3.3776076635398334e-05,
+    "sha.latest": "a87dc23a6271cadd6d3f93561f2d8b1661399e6d",
+    "time.latest": 1717814393.668903,
+    "formatted_time": "2024-06-08 08:09:53.668906",
+    "filescores": {
+        "assert.h": 6.099602068851199e-06,
+        "ctype.h": 1.0044524927215486e-05,
+        "inttypes.h": 6.173382577714108e-06,
+        "stdio.h": 1.0696824941609525e-05,
+        "stdlib.h": 6.181401860323124e-06,
+        "string.h": 9.686192751379341e-06,
+        "time.h": 6.099602068851199e-06
+    },
+    "subdirscores": {
+        "llvm-libc-decls": 6.173382577714108e-06
+    }
+}

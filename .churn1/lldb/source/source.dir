@@ -1,0 +1,26 @@
+{
+    "directory name": "llvm-project/lldb/source",
+    "score.sum": 0.050784511884863465,
+    "sha.latest": "624ea68cbc3ce422b3ee110c0c0af839eec2e278",
+    "time.latest": 1717884881.7179666,
+    "formatted_time": "2024-06-09 03:44:41.717968",
+    "filescores": {
+        "CMakeLists.txt": 0.00014100292932216844
+    },
+    "subdirscores": {
+        "API": 0.004741678193710287,
+        "Breakpoint": 0.0014555182900756719,
+        "Commands": 0.0055961602473930784,
+        "Core": 0.007053636738958029,
+        "DataFormatters": 0.0009511261183611437,
+        "Expression": 0.002847385077709763,
+        "Host": 0.0050249207947571746,
+        "Initialization": 0.00018065520418190342,
+        "Interpreter": 0.0033455554789736906,
+        "Plugins": 0.029536263969968567,
+        "Symbol": 0.00458262237768391,
+        "Target": 0.007314342334347591,
+        "Utility": 0.003489494916577464,
+        "Version": 1.0891499308761073e-05
+    }
+}

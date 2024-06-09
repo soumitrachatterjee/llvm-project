@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/lldb/test/API/lang/cpp/gmodules",
+    "score.sum": 4.124129079053923e-05,
+    "sha.latest": "252f3c98db1383ee0e1f25020d488ffb7b4ac392",
+    "time.latest": 1717932282.0578356,
+    "formatted_time": "2024-06-09 16:54:42.057839",
+    "filescores": {},
+    "subdirscores": {
+        "alignment": 0,
+        "basic": 6.099602068851199e-06,
+        "pch-chain": 0,
+        "template-with-same-arg": 6.099602349963206e-06,
+        "templates": 6.389004403487171e-06
+    }
+}

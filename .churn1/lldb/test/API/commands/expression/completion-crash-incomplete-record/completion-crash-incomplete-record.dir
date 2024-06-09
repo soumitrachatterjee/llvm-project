@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/lldb/test/API/commands/expression/completion-crash-incomplete-record",
+    "score.sum": 0,
+    "sha.latest": "99451b4453688a94c6014cac233d371ab4cc342d",
+    "time.latest": 1717889669.0348177,
+    "formatted_time": "2024-06-09 05:04:29.034819",
+    "filescores": {
+        "main.cpp": 0,
+        "TestCompletionCrashIncompleteRecord.py": 0
+    },
+    "subdirscores": {}
+}

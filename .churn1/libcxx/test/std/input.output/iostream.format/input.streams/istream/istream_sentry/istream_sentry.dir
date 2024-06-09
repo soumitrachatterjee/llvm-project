@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/input.output/iostream.format/input.streams/istream/istream_sentry",
+    "score.sum": 1.7431479621988335e-05,
+    "sha.latest": "f4c1258d5633fcf06385ff3fd1f4bf57ab971964",
+    "time.latest": 1717905205.3062823,
+    "formatted_time": "2024-06-09 09:23:25.306284",
+    "filescores": {
+        "ctor.pass.cpp": 1.7431479621988335e-05
+    },
+    "subdirscores": {}
+}

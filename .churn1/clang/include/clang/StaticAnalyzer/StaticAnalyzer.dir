@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/clang/include/clang/StaticAnalyzer",
+    "score.sum": 0.004247093799547693,
+    "sha.latest": "67c6ad6f30e35c7670bce9bca902caa4b1c8c0e8",
+    "time.latest": 1717802326.0264628,
+    "formatted_time": "2024-06-08 04:48:46.026465",
+    "filescores": {},
+    "subdirscores": {
+        "Checkers": 0.000794317094226806,
+        "Core": 0.0035299093653289116,
+        "Frontend": 0.00022307452499800324
+    }
+}

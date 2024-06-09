@@ -1,0 +1,21 @@
+{
+    "directory name": "llvm-project/libcxx/test/libcxx/memory",
+    "score.sum": 0.00021013443648892392,
+    "sha.latest": "e0c734561d5b268f8d24e68c535df8aa41369690",
+    "time.latest": 1717861041.5915146,
+    "formatted_time": "2024-06-08 21:07:21.591520",
+    "filescores": {
+        "aligned_allocation_macro.compile.pass.cpp": 3.2404600007989545e-05,
+        "allocation_guard.pass.cpp": 0,
+        "allocator_void.trivial.compile.pass.cpp": 2.4280535757187913e-05,
+        "allocator_volatile.verify.cpp": 2.46928643436637e-05,
+        "is_allocator.pass.cpp": 1.211858392431765e-05,
+        "shared_ptr_array.pass.cpp": 0,
+        "swap_allocator.pass.cpp": 0,
+        "uninitialized_allocator_copy.pass.cpp": 7.203562163096103e-06
+    },
+    "subdirscores": {
+        "compressed_pair": 1.8268416687216878e-05,
+        "trivial_abi": 3.2832341811252425e-05
+    }
+}

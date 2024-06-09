@@ -1,0 +1,27 @@
+{
+    "directory name": "llvm-project/lldb/docs",
+    "score.sum": 0.001992763351481593,
+    "sha.latest": "235332150d52d11b340a10be1bb88432d2cf4179",
+    "time.latest": 1717840916.2505958,
+    "formatted_time": "2024-06-08 15:31:56.250600",
+    "filescores": {
+        ".htaccess": 2.212737160255359e-05,
+        "CMakeLists.txt": 6.497620964567225e-05,
+        "conf.py": 0.00011410057919643591,
+        "doxygen-mainpage.dox": 0,
+        "doxygen.cfg.in": 2.7784494109951326e-05,
+        "index.rst": 0.00014807996511830896,
+        "lldb-for-gdb-users.txt": 1.5662693381704663e-05,
+        "lldb-gdb-remote.txt": 0.0002756267368949036,
+        "lldb-platform-packets.txt": 4.031613115166617e-05,
+        "python_api.rst": 3.0466651472585953e-05,
+        "python_api_enums.rst": 3.0634449360093635e-05
+    },
+    "subdirscores": {
+        "man": 3.335240525898128e-05,
+        "resources": 0.00034905916436586617,
+        "testsuite": 3.8815764504774774e-05,
+        "use": 0.0002914316914685654,
+        "_lldb": 6.113621392708044e-06
+    }
+}

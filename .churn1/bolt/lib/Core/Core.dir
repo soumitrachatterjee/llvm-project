@@ -1,0 +1,30 @@
+{
+    "directory name": "llvm-project/bolt/lib/Core",
+    "score.sum": 0.0010687071670713543,
+    "sha.latest": "716042a63f26cd020eb72960f72fa97b9a197382",
+    "time.latest": 1717788690.8177798,
+    "formatted_time": "2024-06-08 01:01:30.817785",
+    "filescores": {
+        "AddressMap.cpp": 6.424500746335753e-06,
+        "BinaryBasicBlock.cpp": 4.4853553065225106e-05,
+        "BinaryContext.cpp": 0.0002658178187499168,
+        "BinaryData.cpp": 9.578657076994317e-06,
+        "BinaryEmitter.cpp": 0.0001399933799038217,
+        "BinaryFunction.cpp": 0.0004061393863287006,
+        "BinaryFunctionProfile.cpp": 1.600691745512336e-05,
+        "BinarySection.cpp": 6.215989588529878e-05,
+        "CMakeLists.txt": 3.91815656046026e-05,
+        "DebugData.cpp": 0.00018284175223710843,
+        "DebugNames.cpp": 0,
+        "DIEBuilder.cpp": 3.5850590865237e-05,
+        "DynoStats.cpp": 3.186554063453759e-05,
+        "Exceptions.cpp": 8.747352713417193e-05,
+        "FunctionLayout.cpp": 1.1037850929732927e-05,
+        "HashUtilities.cpp": 1.8358239419644235e-05,
+        "JumpTable.cpp": 1.3790799413337544e-05,
+        "MCPlusBuilder.cpp": 7.909743527563951e-05,
+        "ParallelUtilities.cpp": 2.1495749042211066e-05,
+        "Relocation.cpp": 0.00010134399912300507
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/openmp/libomptarget/plugins-nextgen/amdgpu/utils",
+    "score.sum": 4.999512366156748e-05,
+    "sha.latest": "ce4144406c94c3b9cf44bcf2997bae80debc6681",
+    "time.latest": 1717795580.3403752,
+    "formatted_time": "2024-06-08 02:56:20.340380",
+    "filescores": {
+        "UtilitiesRTL.h": 4.999512366156748e-05
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/cross-project-tests/debuginfo-tests/dexter/feature_tests/commands",
+    "score.sum": 7.029375851599172e-05,
+    "sha.latest": "e6cc7b723f244f52663b6d67a5d94597109da1ef",
+    "time.latest": 1717791747.7135954,
+    "formatted_time": "2024-06-08 01:52:27.713601",
+    "filescores": {},
+    "subdirscores": {
+        "penalty": 3.7211035502731993e-05,
+        "perfect": 7.029375851599172e-05
+    }
+}

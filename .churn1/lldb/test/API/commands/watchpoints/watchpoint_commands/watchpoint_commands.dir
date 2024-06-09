@@ -1,0 +1,16 @@
+{
+    "directory name": "llvm-project/lldb/test/API/commands/watchpoints/watchpoint_commands",
+    "score.sum": 3.4638870537205374e-05,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717900821.0839546,
+    "formatted_time": "2024-06-09 08:10:21.083957",
+    "filescores": {
+        "main.c": 6.099602068851199e-06,
+        "Makefile": 0,
+        "TestWatchpointCommands.py": 1.0459834404963863e-05
+    },
+    "subdirscores": {
+        "command": 2.0993623858008903e-05,
+        "condition": 2.414863121010894e-05
+    }
+}

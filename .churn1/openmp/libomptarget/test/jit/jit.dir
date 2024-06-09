@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/openmp/libomptarget/test/jit",
+    "score.sum": 2.0863477576664606e-05,
+    "sha.latest": "81a02b0767965d0d7312d3d27ca02a66414dc58c",
+    "time.latest": 1717796925.6567025,
+    "formatted_time": "2024-06-08 03:18:45.656705",
+    "filescores": {
+        "empty_kernel.inc": 0,
+        "empty_kernel_lvl1.c": 6.099602068851199e-06,
+        "empty_kernel_lvl2.c": 9.461901339239576e-06,
+        "type_punning.c": 6.925633874673188e-06
+    },
+    "subdirscores": {}
+}

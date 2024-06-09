@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/clang-tools-extra/docs/clang-tidy/checks/portability",
+    "score.sum": 0,
+    "sha.latest": "6e566bc5523f743bc34a7e26f050f1f2b4d699a8",
+    "time.latest": 1717812012.191171,
+    "formatted_time": "2024-06-08 07:30:12.191174",
+    "filescores": {
+        "restrict-system-includes.rst": 0,
+        "simd-intrinsics.rst": 0,
+        "std-allocator-const.rst": 0
+    },
+    "subdirscores": {}
+}

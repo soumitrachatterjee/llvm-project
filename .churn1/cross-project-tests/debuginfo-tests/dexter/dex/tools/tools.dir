@@ -1,0 +1,22 @@
+{
+    "directory name": "llvm-project/cross-project-tests/debuginfo-tests/dexter/dex/tools",
+    "score.sum": 5.5167436026730925e-05,
+    "sha.latest": "e6cc7b723f244f52663b6d67a5d94597109da1ef",
+    "time.latest": 1717789770.2093992,
+    "formatted_time": "2024-06-08 01:19:30.209404",
+    "filescores": {
+        "Main.py": 4.600768342450523e-05,
+        "TestToolBase.py": 4.3451017713267215e-05,
+        "ToolBase.py": 1.1580632099562936e-05,
+        "__init__.py": 0
+    },
+    "subdirscores": {
+        "clang_opt_bisect": 4.329947246315076e-05,
+        "help": 6.099602068851199e-06,
+        "list_debuggers": 6.099602068851199e-06,
+        "no_tool_": 6.099602068851199e-06,
+        "run_debugger_internal_": 6.995816714415363e-06,
+        "test": 4.37821851717863e-05,
+        "view": 6.099602068851199e-06
+    }
+}

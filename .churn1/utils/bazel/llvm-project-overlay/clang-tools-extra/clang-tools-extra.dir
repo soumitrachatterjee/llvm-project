@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/utils/bazel/llvm-project-overlay/clang-tools-extra",
+    "score.sum": 1.575658077899868e-05,
+    "sha.latest": "3b54337be54107a5f196bb98dfc858b10ec35b8a",
+    "time.latest": 1717788656.5841987,
+    "formatted_time": "2024-06-08 01:00:56.584204",
+    "filescores": {},
+    "subdirscores": {
+        "clang-tidy": 1.5215185704892315e-05,
+        "include-cleaner": 0,
+        "unittests": 1.3166137811327583e-05
+    }
+}

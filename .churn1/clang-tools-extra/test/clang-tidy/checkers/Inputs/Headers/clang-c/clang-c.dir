@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/clang-tools-extra/test/clang-tidy/checkers/Inputs/Headers/clang-c",
+    "score.sum": 0,
+    "sha.latest": "885c559369fe3d6323898c17787bd0454065fc34",
+    "time.latest": 1717824103.1448176,
+    "formatted_time": "2024-06-08 10:51:43.144820",
+    "filescores": {
+        "c.h": 0
+    },
+    "subdirscores": {}
+}

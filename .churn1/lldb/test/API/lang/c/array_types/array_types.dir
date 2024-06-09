@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/lldb/test/API/lang/c/array_types",
+    "score.sum": 2.1438337179272706e-05,
+    "sha.latest": "80fcecb13c388ff087a27a4b0e7ca3dd8c98eaa4",
+    "time.latest": 1717924829.0469248,
+    "formatted_time": "2024-06-09 14:50:29.046929",
+    "filescores": {
+        "cmds.txt": 0,
+        "main.c": 6.099602068851199e-06,
+        "Makefile": 0,
+        "TestArrayTypes.py": 2.140272753424085e-05
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,16 @@
+{
+    "directory name": "llvm-project/clang/test/ARCMT/Inputs/Module.framework/Headers",
+    "score.sum": 0,
+    "sha.latest": "fcfc213c3f2279fe12a6fc343937874a7dbbde62",
+    "time.latest": 1717845388.99906,
+    "formatted_time": "2024-06-08 16:46:28.999063",
+    "filescores": {
+        "Module.h": 0,
+        "NotInModule.h": 0,
+        "Sub.h": 0,
+        "Sub2.h": 0
+    },
+    "subdirscores": {
+        "Buried": 0
+    }
+}

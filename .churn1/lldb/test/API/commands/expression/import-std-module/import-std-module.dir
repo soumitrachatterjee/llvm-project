@@ -1,0 +1,43 @@
+{
+    "directory name": "llvm-project/lldb/test/API/commands/expression/import-std-module",
+    "score.sum": 0.00016985626590531835,
+    "sha.latest": "74c5e474043daa7900686d0a210b8e03cebf9472",
+    "time.latest": 1717892382.5214102,
+    "formatted_time": "2024-06-09 05:49:42.521412",
+    "filescores": {
+        "categories": 0
+    },
+    "subdirscores": {
+        "array": 1.3879497085814177e-05,
+        "basic": 1.4697868651332112e-05,
+        "conflicts": 1.1695229924379234e-05,
+        "deque-basic": 4.3205454875246936e-05,
+        "deque-dbg-info-content": 4.9147852451470485e-05,
+        "empty-module": 1.8708743315153963e-05,
+        "forward_decl_from_module": 1.684053668680815e-05,
+        "forward_list": 2.875359178829676e-05,
+        "forward_list-dbg-info-content": 4.311940291667407e-05,
+        "iterator": 9.740574510144878e-06,
+        "list": 2.875359178829676e-05,
+        "list-dbg-info-content": 4.346221271180716e-05,
+        "missing-module-sources": 1.2915504201336036e-05,
+        "module-build-errors": 8.712156225698628e-06,
+        "no-std-module": 1.162782275014115e-05,
+        "non-module-type-separation": 2.589014353793564e-05,
+        "pair": 1.2016561732145226e-05,
+        "queue": 3.1831366551371965e-05,
+        "retry-with-std-module": 2.792114587897939e-05,
+        "shared_ptr": 4.187903116857149e-05,
+        "shared_ptr-dbg-info-content": 1.162782275014115e-05,
+        "stack": 1.7922128185696394e-05,
+        "sysroot": 1.3381427487843404e-05,
+        "unique_ptr": 3.464767001911382e-05,
+        "unique_ptr-dbg-info-content": 2.865418408409777e-05,
+        "vector": 4.028189767749511e-05,
+        "vector-bool": 2.257267459834074e-05,
+        "vector-dbg-info-content": 5.2607059720563286e-05,
+        "vector-of-vectors": 3.5268777896729245e-05,
+        "weak_ptr": 4.187903116857149e-05,
+        "weak_ptr-dbg-info-content": 4.187903116857149e-05
+    }
+}

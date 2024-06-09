@@ -1,0 +1,17 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/experimental/utilities/meta/meta.detect",
+    "score.sum": 2.3687970411341956e-05,
+    "sha.latest": "b82dcb624e6bfa58ed566511cb564f8f201fa62e",
+    "time.latest": 1717900252.8536932,
+    "formatted_time": "2024-06-09 08:00:52.853695",
+    "filescores": {
+        "detected_or.pass.cpp": 1.3801172498317251e-05,
+        "detected_t.pass.cpp": 1.3801172498317251e-05,
+        "is_detected.pass.cpp": 1.3801172498317251e-05,
+        "is_detected_convertible.pass.cpp": 1.3801172498317251e-05,
+        "is_detected_exact.pass.cpp": 1.3801172498317251e-05,
+        "nonesuch.pass.cpp": 6.099602068851199e-06,
+        "nonesuch.verify.cpp": 0
+    },
+    "subdirscores": {}
+}

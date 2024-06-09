@@ -1,0 +1,20 @@
+{
+    "directory name": "llvm-project/lldb/cmake/modules",
+    "score.sum": 0.0010125049221185746,
+    "sha.latest": "3239b4dcfebbaa3eeaff9258893a6674050d8354",
+    "time.latest": 1717840228.749939,
+    "formatted_time": "2024-06-08 15:20:28.749943",
+    "filescores": {
+        "AddLLDB.cmake": 0.00021049406968362642,
+        "debugserverConfig.cmake": 0,
+        "FindCursesAndPanel.cmake": 7.526485658620855e-06,
+        "FindGNUstepObjC.cmake": 0,
+        "FindLuaAndSwig.cmake": 2.732999663298533e-05,
+        "FindPythonAndSwig.cmake": 1.69788533059263e-05,
+        "LLDBConfig.cmake": 0.0004747342639903288,
+        "LLDBFramework.cmake": 3.7895430444540745e-05,
+        "LLDBGenerateConfig.cmake": 4.966750804962517e-05,
+        "LLDBStandalone.cmake": 0.0002376354288944878
+    },
+    "subdirscores": {}
+}

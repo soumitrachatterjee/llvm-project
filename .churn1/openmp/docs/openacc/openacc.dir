@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/openmp/docs/openacc",
+    "score.sum": 6.099602068851199e-06,
+    "sha.latest": "4a368136693ba9c4e827702e9d390280c3d5e7ac",
+    "time.latest": 1717791907.3347142,
+    "formatted_time": "2024-06-08 01:55:07.334718",
+    "filescores": {
+        "OpenMPExtensions.rst": 6.099602068851199e-06,
+        "Overview.rst": 0
+    },
+    "subdirscores": {}
+}

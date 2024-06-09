@@ -1,0 +1,17 @@
+{
+    "directory name": "llvm-project/cross-project-tests",
+    "score.sum": 0.00027364682730824676,
+    "sha.latest": "69b8bc71110aca64c74a14800e800f4b151d5d6f",
+    "time.latest": 1717793352.4252753,
+    "formatted_time": "2024-06-08 02:19:12.425280",
+    "filescores": {
+        "CMakeLists.txt": 1.5760072198247372e-05,
+        "lit.cfg.py": 6.814930993927547e-05,
+        "lit.site.cfg.py.in": 2.0543572658307543e-05
+    },
+    "subdirscores": {
+        "amdgpu": 7.834452159093279e-06,
+        "debuginfo-tests": 0.00023177562187457485,
+        "intrinsic-header-tests": 1.2104294751881432e-05
+    }
+}

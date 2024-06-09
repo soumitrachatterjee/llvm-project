@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/functionalities/data-formatter/data-formatter-stl/libcxx/shared_ptr",
+    "score.sum": 5.224590179066567e-05,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717906631.8316143,
+    "formatted_time": "2024-06-09 09:47:11.831616",
+    "filescores": {
+        "main.cpp": 0,
+        "Makefile": 6.099602068851199e-06,
+        "TestDataFormatterLibcxxSharedPtr.py": 4.64272930180295e-05
+    },
+    "subdirscores": {}
+}

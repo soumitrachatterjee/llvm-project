@@ -1,0 +1,22 @@
+{
+    "directory name": "llvm-project/clang/test/Analysis/scan-build",
+    "score.sum": 2.524217663668327e-05,
+    "sha.latest": "dcbb574cfc3445251ff1c751f27b52ed6503bead",
+    "time.latest": 1717839510.5088809,
+    "formatted_time": "2024-06-08 15:08:30.508885",
+    "filescores": {
+        "cxx-name.test": 0,
+        "deduplication.test": 0,
+        "exclude_directories.test": 3.0431732047882362e-05,
+        "help.test": 2.1879430143158256e-05,
+        "html_output.test": 9.105550476657255e-06,
+        "lit.local.cfg": 1.3070184011735975e-05,
+        "plist_html_output.test": 3.0431732047882362e-05,
+        "plist_output.test": 3.0431732047882362e-05,
+        "silence-core-checkers.test": 0
+    },
+    "subdirscores": {
+        "Inputs": 9.312232518482317e-06,
+        "rebuild_index": 6.6431367117372006e-06
+    }
+}

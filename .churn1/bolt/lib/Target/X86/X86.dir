@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/bolt/lib/Target/X86",
+    "score.sum": 0.00016106768386594744,
+    "sha.latest": "52cf07116bf0a8cab87b0f55176d198bcaa02575",
+    "time.latest": 1717789317.931354,
+    "formatted_time": "2024-06-08 01:11:57.931358",
+    "filescores": {
+        "CMakeLists.txt": 4.596325768756677e-05,
+        "X86MCPlusBuilder.cpp": 0.0001328754979880386,
+        "X86MCSymbolizer.cpp": 2.0778540301400906e-05,
+        "X86MCSymbolizer.h": 1.4592423192264618e-05
+    },
+    "subdirscores": {}
+}

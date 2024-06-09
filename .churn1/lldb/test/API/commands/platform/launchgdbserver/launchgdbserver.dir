@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/commands/platform/launchgdbserver",
+    "score.sum": 0,
+    "sha.latest": "dfbe3a79e20f1bc51a59ee858fabce792d59c9ae",
+    "time.latest": 1717896098.5815294,
+    "formatted_time": "2024-06-09 06:51:38.581531",
+    "filescores": {
+        "main.c": 0,
+        "Makefile": 0,
+        "TestPlatformLaunchGDBServer.py": 0
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/lldb/source/Version",
+    "score.sum": 1.0891499308761073e-05,
+    "sha.latest": "247b7d068497de085b7fd66c6531034afa9709f0",
+    "time.latest": 1717884881.7084205,
+    "formatted_time": "2024-06-09 03:44:41.708422",
+    "filescores": {
+        "CMakeLists.txt": 1.0844307306094435e-05,
+        "Version.cpp": 6.099602068851199e-06
+    },
+    "subdirscores": {}
+}

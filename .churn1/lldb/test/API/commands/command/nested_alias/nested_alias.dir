@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/commands/command/nested_alias",
+    "score.sum": 2.340828636964917e-05,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717888346.740558,
+    "formatted_time": "2024-06-09 04:42:26.740559",
+    "filescores": {
+        "main.cpp": 6.099602068851199e-06,
+        "Makefile": 0,
+        "TestNestedAlias.py": 2.3364736243700546e-05
+    },
+    "subdirscores": {}
+}

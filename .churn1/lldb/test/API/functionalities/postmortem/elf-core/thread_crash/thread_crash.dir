@@ -1,0 +1,16 @@
+{
+    "directory name": "llvm-project/lldb/test/API/functionalities/postmortem/elf-core/thread_crash",
+    "score.sum": 2.6492904068367298e-05,
+    "sha.latest": "ecbe78c124a78a4ea6e06b1d52ce281dcc394332",
+    "time.latest": 1717915960.3561597,
+    "formatted_time": "2024-06-09 12:22:40.356162",
+    "filescores": {
+        "linux-i386.core": 0,
+        "linux-x86_64.core": 0,
+        "main.cpp": 6.099602068851199e-06,
+        "main.mk": 0,
+        "make-core.sh": 0,
+        "TestLinuxCoreThreads.py": 2.6451790782133722e-05
+    },
+    "subdirscores": {}
+}

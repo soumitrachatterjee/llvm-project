@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/functionalities/ubsan/user-expression",
+    "score.sum": 1.6845708512627127e-05,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717923803.2968261,
+    "formatted_time": "2024-06-09 14:33:23.296828",
+    "filescores": {
+        "main.c": 0,
+        "Makefile": 0,
+        "TestUbsanUserExpression.py": 1.6845708512627127e-05
+    },
+    "subdirscores": {}
+}

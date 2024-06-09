@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/libcxx/test/libcxx/selftest/compile.fail.cpp",
+    "score.sum": 6.099602068851199e-06,
+    "sha.latest": "504bc07d1afc7bad7b980a977141696ec8298e7e",
+    "time.latest": 1717863470.1560075,
+    "formatted_time": "2024-06-08 21:47:50.156010",
+    "filescores": {
+        "compile-error.compile.fail.cpp": 6.099602068851199e-06,
+        "compile-success.compile.fail.cpp": 6.099602068851199e-06
+    },
+    "subdirscores": {}
+}

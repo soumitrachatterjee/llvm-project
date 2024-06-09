@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/lldb/test/API/commands/target/modules/search-paths",
+    "score.sum": 1.0228257440187292e-05,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717898745.724953,
+    "formatted_time": "2024-06-09 07:35:45.724956",
+    "filescores": {},
+    "subdirscores": {
+        "insert": 1.0228257440187292e-05
+    }
+}

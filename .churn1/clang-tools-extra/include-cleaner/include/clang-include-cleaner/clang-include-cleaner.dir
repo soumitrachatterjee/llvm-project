@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/clang-tools-extra/include-cleaner/include/clang-include-cleaner",
+    "score.sum": 9.114348042175125e-05,
+    "sha.latest": "7837110ed8efdd510516c849178a7af28b93aea4",
+    "time.latest": 1717813318.7085004,
+    "formatted_time": "2024-06-08 07:51:58.708503",
+    "filescores": {
+        "Analysis.h": 5.164597084080978e-05,
+        "IncludeSpeller.h": 0,
+        "Record.h": 2.9051877694823386e-05,
+        "Types.h": 4.589497590360003e-05
+    },
+    "subdirscores": {}
+}

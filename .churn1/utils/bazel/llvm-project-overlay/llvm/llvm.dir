@@ -1,0 +1,21 @@
+{
+    "directory name": "llvm-project/utils/bazel/llvm-project-overlay/llvm",
+    "score.sum": 0.0009768883226757901,
+    "sha.latest": "d016712b2cbeecf13c0d558c7c8932fd66e14847",
+    "time.latest": 1717789932.998839,
+    "formatted_time": "2024-06-08 01:22:12.998842",
+    "filescores": {
+        "binary_alias.bzl": 0,
+        "BUILD.bazel": 0.0007989735176280958,
+        "cc_plugin_library.bzl": 7.3279270313818815e-06,
+        "config.bzl": 3.320510124767364e-05,
+        "enum_targets_gen.bzl": 8.898831955036712e-06,
+        "lit_test.bzl": 6.099602068851199e-06,
+        "tblgen.bzl": 6.099602068851199e-06
+    },
+    "subdirscores": {
+        "include": 8.132790024728701e-05,
+        "unittests": 0.00016718073086488753,
+        "utils": 6.358022939491074e-06
+    }
+}

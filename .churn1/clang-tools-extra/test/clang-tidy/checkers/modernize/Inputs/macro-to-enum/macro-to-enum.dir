@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/clang-tools-extra/test/clang-tidy/checkers/modernize/Inputs/macro-to-enum",
+    "score.sum": 0,
+    "sha.latest": "89a1d03e2b379e325daa5249411e414bbd995b5e",
+    "time.latest": 1717826563.4367406,
+    "formatted_time": "2024-06-08 11:32:43.436746",
+    "filescores": {
+        "modernize-macro-to-enum.h": 0,
+        "modernize-macro-to-enum2.h": 0,
+        "modernize-macro-to-enum3.h": 0
+    },
+    "subdirscores": {}
+}

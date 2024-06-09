@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/commands/expression/import-std-module/iterator",
+    "score.sum": 9.740574510144878e-06,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717891089.1321013,
+    "formatted_time": "2024-06-09 05:28:09.132103",
+    "filescores": {
+        "main.cpp": 0,
+        "Makefile": 0,
+        "TestIteratorFromStdModule.py": 9.740574510144878e-06
+    },
+    "subdirscores": {}
+}

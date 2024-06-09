@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/libunwind/cmake",
+    "score.sum": 0.0001669293514474739,
+    "sha.latest": "a4336f2ec1747ea234a07d683930683f67fbd655",
+    "time.latest": 1717825838.8268135,
+    "formatted_time": "2024-06-08 11:20:38.826817",
+    "filescores": {
+        "config-ix.cmake": 0.00013482390605868634
+    },
+    "subdirscores": {
+        "Modules": 5.290094385886689e-05
+    }
+}

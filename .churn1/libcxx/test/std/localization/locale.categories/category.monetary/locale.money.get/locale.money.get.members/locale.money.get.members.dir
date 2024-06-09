@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/localization/locale.categories/category.monetary/locale.money.get/locale.money.get.members",
+    "score.sum": 0.00014713494466023927,
+    "sha.latest": "bce3b505931cee9dc79d1c56c021983b4a8fb819",
+    "time.latest": 1717928409.8981767,
+    "formatted_time": "2024-06-09 15:50:09.898180",
+    "filescores": {
+        "get_long_double_en_US.pass.cpp": 4.7719560305841094e-05,
+        "get_long_double_fr_FR.pass.cpp": 9.114350562553847e-05,
+        "get_long_double_ru_RU.pass.cpp": 8.621062342235262e-05,
+        "get_long_double_zh_CN.pass.cpp": 6.524759520170197e-05,
+        "get_string_en_US.pass.cpp": 4.7719560305841094e-05
+    },
+    "subdirscores": {}
+}

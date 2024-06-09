@@ -1,0 +1,16 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/input.output/file.streams/fstreams/filebuf.virtuals",
+    "score.sum": 4.603678856340983e-05,
+    "sha.latest": "af8c49dc1ec44339d915d988ffe0f38da68ca0e7",
+    "time.latest": 1717901405.9458761,
+    "formatted_time": "2024-06-09 08:20:05.945878",
+    "filescores": {
+        "overflow.pass.cpp": 2.8927565844481936e-05,
+        "pbackfail.pass.cpp": 1.9445960959024347e-05,
+        "seekoff.pass.cpp": 2.4295779081362524e-05,
+        "underflow.dat": 0,
+        "underflow.pass.cpp": 3.679406472893547e-05,
+        "underflow_utf8.dat": 0
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/libcxx/test/libcxx/ranges/range.adaptors/range.lazy.split",
+    "score.sum": 4.410379896825113e-05,
+    "sha.latest": "58780b811c23df3d928d8452ee21c862dde754a2",
+    "time.latest": 1717862808.3787246,
+    "formatted_time": "2024-06-08 21:36:48.378727",
+    "filescores": {
+        "no_unique_address.compile.pass.cpp": 1.142179833475637e-05,
+        "types.h": 6.099602068851199e-06
+    },
+    "subdirscores": {
+        "range.lazy.split.inner": 3.5791690617322576e-05,
+        "range.lazy.split.outer": 3.5791690617322576e-05
+    }
+}

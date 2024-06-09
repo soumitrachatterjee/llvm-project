@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/lldb/test/API/functionalities/breakpoint/serialize",
+    "score.sum": 3.931911315859541e-05,
+    "sha.latest": "9c2468821ec51defd09c246fea4a47886fff8c01",
+    "time.latest": 1717903830.4970958,
+    "formatted_time": "2024-06-09 09:00:30.497098",
+    "filescores": {
+        "main.c": 6.099602068851199e-06,
+        "Makefile": 0,
+        "resolver.py": 6.099602068851199e-06,
+        "side_effect.py": 0,
+        "TestBreakpointSerialization.py": 3.928361452445883e-05
+    },
+    "subdirscores": {}
+}

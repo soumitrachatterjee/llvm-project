@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/utils/bazel/llvm-project-overlay/mlir/test/Rewrite",
+    "score.sum": 0,
+    "sha.latest": "70ac46667613f461e188bddb2090a7bcd53cdf39",
+    "time.latest": 1717790867.4359093,
+    "formatted_time": "2024-06-08 01:37:47.435914",
+    "filescores": {
+        "BUILD.bazel": 0
+    },
+    "subdirscores": {}
+}

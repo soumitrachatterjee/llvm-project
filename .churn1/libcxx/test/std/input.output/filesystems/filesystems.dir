@@ -1,0 +1,21 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/input.output/filesystems",
+    "score.sum": 0.0006709631699613321,
+    "sha.latest": "1197fcabc4b5f39dbe8a94b1ab6e92354f3f0dd2",
+    "time.latest": 1717904818.9631486,
+    "formatted_time": "2024-06-09 09:16:58.963151",
+    "filescores": {},
+    "subdirscores": {
+        "class.directory_entry": 0.00013922607947671392,
+        "class.directory_iterator": 0.00016759862925846522,
+        "class.filesystem_error": 2.9360811555158186e-05,
+        "class.file_status": 2.4692487762411485e-05,
+        "class.path": 0.0003124213351024117,
+        "class.rec.dir.itr": 0.00010028710424694317,
+        "fs.enum": 4.71425068501616e-05,
+        "fs.error.report": 2.1750211311050404e-05,
+        "fs.filesystem.synopsis": 3.662634020844674e-05,
+        "fs.op.funcs": 0.0003097223128411332,
+        "fs.req.namespace": 2.2997762431045205e-05
+    }
+}

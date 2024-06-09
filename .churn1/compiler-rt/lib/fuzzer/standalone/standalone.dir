@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/compiler-rt/lib/fuzzer/standalone",
+    "score.sum": 1.1775787117580978e-05,
+    "sha.latest": "9b6135bf2a7aa2b9a79818671a5f12a98a41349f",
+    "time.latest": 1717798943.2413042,
+    "formatted_time": "2024-06-08 03:52:23.241307",
+    "filescores": {
+        "StandaloneFuzzTargetMain.c": 1.1775787117580978e-05
+    },
+    "subdirscores": {}
+}

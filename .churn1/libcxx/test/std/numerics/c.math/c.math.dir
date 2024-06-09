@@ -1,0 +1,20 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/numerics/c.math",
+    "score.sum": 0.00013779060104601856,
+    "sha.latest": "59f05239dbbc2c37d9de2bf638a64e1e9abd9163",
+    "time.latest": 1717933500.5909784,
+    "formatted_time": "2024-06-09 17:15:00.590982",
+    "filescores": {
+        "abs.pass.cpp": 1.0000534579631717e-05,
+        "abs.verify.cpp": 0,
+        "cmath.pass.cpp": 6.597183452418668e-05,
+        "ctgmath.pass.cpp": 2.6319181393471187e-05,
+        "isfinite.pass.cpp": 6.099602068851199e-06,
+        "isinf.pass.cpp": 6.099602068851199e-06,
+        "isnan.pass.cpp": 6.099602068851199e-06,
+        "isnormal.pass.cpp": 6.099602068851199e-06,
+        "lerp.pass.cpp": 0,
+        "tgmath_h.pass.cpp": 1.983809631803331e-05
+    },
+    "subdirscores": {}
+}

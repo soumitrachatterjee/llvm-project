@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/clang-tools-extra/test/clang-tidy/checkers/bugprone/Inputs/assert-side-effect",
+    "score.sum": 0,
+    "sha.latest": "0d6d8a853a6ea29b5f461a475a8f8eb7e7ba18e2",
+    "time.latest": 1717820368.2623432,
+    "formatted_time": "2024-06-08 09:49:28.262347",
+    "filescores": {
+        "assert.h": 0
+    },
+    "subdirscores": {}
+}

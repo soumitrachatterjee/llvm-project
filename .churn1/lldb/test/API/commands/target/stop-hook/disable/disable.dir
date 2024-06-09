@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/lldb/test/API/commands/target/stop-hook/disable",
+    "score.sum": 1.0228257440187292e-05,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717898846.8548455,
+    "formatted_time": "2024-06-09 07:37:26.854848",
+    "filescores": {
+        "TestTargetStopHookDisable.py": 1.0228257440187292e-05
+    },
+    "subdirscores": {}
+}

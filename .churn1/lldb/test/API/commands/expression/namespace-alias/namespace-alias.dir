@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/commands/expression/namespace-alias",
+    "score.sum": 7.972657394599702e-06,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717892900.4960103,
+    "formatted_time": "2024-06-09 05:58:20.496012",
+    "filescores": {
+        "main.cpp": 6.232894501548236e-06,
+        "Makefile": 6.232894501548236e-06,
+        "TestInlineNamespaceAlias.py": 7.972657394599702e-06
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,19 @@
+{
+    "directory name": "llvm-project/lldb/examples/summaries",
+    "score.sum": 8.72189033070554e-05,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717842763.2853732,
+    "formatted_time": "2024-06-08 16:02:43.285378",
+    "filescores": {
+        "essentials": 8.574396102346221e-06,
+        "lldb": 7.04194840520168e-06,
+        "objc.py": 6.695268320218532e-06,
+        "pysummary.py": 7.795118541855562e-06,
+        "sp_cp.py": 1.219104899446645e-05,
+        "synth.py": 1.3797361088843467e-05,
+        "unicode_strings.py": 1.1291374997589417e-05
+    },
+    "subdirscores": {
+        "cocoa": 4.9670353676699225e-05
+    }
+}

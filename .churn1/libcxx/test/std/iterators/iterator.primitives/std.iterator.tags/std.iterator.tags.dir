@@ -1,0 +1,16 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/iterators/iterator.primitives/std.iterator.tags",
+    "score.sum": 2.7270193660762846e-05,
+    "sha.latest": "31cbe0f240f660f15602c96b787c58a26f17e179",
+    "time.latest": 1717912361.0939028,
+    "formatted_time": "2024-06-09 11:22:41.093905",
+    "filescores": {
+        "bidirectional_iterator_tag.pass.cpp": 1.9243570527850683e-05,
+        "contiguous_iterator_tag.pass.cpp": 6.099602068851199e-06,
+        "forward_iterator_tag.pass.cpp": 1.9243570527850683e-05,
+        "input_iterator_tag.pass.cpp": 1.9243570527850683e-05,
+        "output_iterator_tag.pass.cpp": 1.9243570527850683e-05,
+        "random_access_iterator_tag.pass.cpp": 1.9243570527850683e-05
+    },
+    "subdirscores": {}
+}

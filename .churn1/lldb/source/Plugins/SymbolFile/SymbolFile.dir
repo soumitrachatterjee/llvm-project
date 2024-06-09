@@ -1,0 +1,19 @@
+{
+    "directory name": "llvm-project/lldb/source/Plugins/SymbolFile",
+    "score.sum": 0.006534771426658466,
+    "sha.latest": "f0eb0c5689b25153067e66647590a8300b997740",
+    "time.latest": 1717881536.2834852,
+    "formatted_time": "2024-06-09 02:48:56.283487",
+    "filescores": {
+        "CMakeLists.txt": 3.251649656281304e-05
+    },
+    "subdirscores": {
+        "Breakpad": 0.00019353048469780728,
+        "CTF": 2.4028308076553567e-05,
+        "DWARF": 0.005243209584904975,
+        "JSON": 8.460272721593823e-06,
+        "NativePDB": 0.0006455444711848203,
+        "PDB": 0.000630993992138803,
+        "Symtab": 0.00023648453998330028
+    }
+}

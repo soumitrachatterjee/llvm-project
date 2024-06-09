@@ -1,0 +1,18 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/experimental/simd/simd.class",
+    "score.sum": 2.8970635488342252e-05,
+    "sha.latest": "6bb5c989bd725deb3f96d4374541b5aeec776ba2",
+    "time.latest": 1717899789.0241523,
+    "formatted_time": "2024-06-09 07:53:09.024155",
+    "filescores": {
+        "simd_alias.pass.cpp": 0,
+        "simd_ctor_broadcast.pass.cpp": 7.372878028461929e-06,
+        "simd_ctor_conversion.pass.cpp": 7.508307081053278e-06,
+        "simd_ctor_default.pass.cpp": 6.099602068851199e-06,
+        "simd_ctor_generator.pass.cpp": 6.099602068851199e-06,
+        "simd_ctor_load.pass.cpp": 0,
+        "simd_subscr.pass.cpp": 6.099602068851199e-06,
+        "simd_width.pass.cpp": 0
+    },
+    "subdirscores": {}
+}

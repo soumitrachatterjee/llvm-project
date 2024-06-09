@@ -1,0 +1,17 @@
+{
+    "directory name": "llvm-project/clang-tools-extra/test/clang-tidy/checkers/portability/Inputs/restrict-system-includes/system",
+    "score.sum": 0,
+    "sha.latest": "89a1d03e2b379e325daa5249411e414bbd995b5e",
+    "time.latest": 1717829673.0829575,
+    "formatted_time": "2024-06-08 12:24:33.082963",
+    "filescores": {
+        "float.h": 0,
+        "r.h": 0,
+        "s.h": 0,
+        "stddef.h": 0,
+        "stdint.h": 0,
+        "t.h": 0,
+        "transitive.h": 0
+    },
+    "subdirscores": {}
+}

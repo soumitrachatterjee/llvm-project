@@ -1,0 +1,18 @@
+{
+    "directory name": "llvm-project/libcxx/test/libcxx/utilities/function.objects",
+    "score.sum": 0.00016841112902905725,
+    "sha.latest": "a65070a76a7c823c28f1c95a21e4857ed6e123ef",
+    "time.latest": 1717866871.7559707,
+    "formatted_time": "2024-06-08 22:44:31.755973",
+    "filescores": {
+        "func.blocks.arc.pass.mm": 6.099602068851199e-06,
+        "func.blocks.pass.cpp": 6.099602068851199e-06
+    },
+    "subdirscores": {
+        "func.bind.partial": 6.099602068851199e-06,
+        "func.require": 2.1928913888617567e-05,
+        "func.wrap": 2.632999831429144e-05,
+        "refwrap": 1.752097603030064e-05,
+        "unord.hash": 3.099577775398568e-05
+    }
+}

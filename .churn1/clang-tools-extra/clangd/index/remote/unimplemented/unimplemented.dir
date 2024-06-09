@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/clang-tools-extra/clangd/index/remote/unimplemented",
+    "score.sum": 7.501691198079058e-06,
+    "sha.latest": "2fb1c1082c01ddf9b2531083196ff2dace1fdab7",
+    "time.latest": 1717802449.3239226,
+    "formatted_time": "2024-06-08 04:50:49.323925",
+    "filescores": {
+        "CMakeLists.txt": 7.1147235932787596e-06,
+        "UnimplementedClient.cpp": 6.50770774154612e-06
+    },
+    "subdirscores": {}
+}

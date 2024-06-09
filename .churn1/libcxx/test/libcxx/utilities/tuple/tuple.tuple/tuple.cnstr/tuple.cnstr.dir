@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/libcxx/test/libcxx/utilities/tuple/tuple.tuple/tuple.cnstr",
+    "score.sum": 5.341419379712471e-05,
+    "sha.latest": "dc71a77d33620830020c939bba25ebdfdd1b6194",
+    "time.latest": 1717867497.7517512,
+    "formatted_time": "2024-06-08 22:54:57.751754",
+    "filescores": {
+        "PR20855_tuple_ref_binding_diagnostics.verify.cpp": 0
+    },
+    "subdirscores": {}
+}

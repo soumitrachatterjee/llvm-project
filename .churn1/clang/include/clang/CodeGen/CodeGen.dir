@@ -1,0 +1,19 @@
+{
+    "directory name": "llvm-project/clang/include/clang/CodeGen",
+    "score.sum": 0.0006709039432757321,
+    "sha.latest": "07ec9a3799fa1e80888f8bd0c1101ad6dd546842",
+    "time.latest": 1717798845.0340846,
+    "formatted_time": "2024-06-08 03:50:45.034087",
+    "filescores": {
+        "BackendUtil.h": 7.600967731091281e-05,
+        "CGFunctionInfo.h": 0.00014322052211712102,
+        "CodeGenABITypes.h": 5.784339194552967e-05,
+        "CodeGenAction.h": 7.712064817105476e-05,
+        "ConstantInitBuilder.h": 2.4374440230964276e-05,
+        "ConstantInitFuture.h": 1.0994472996249739e-05,
+        "ModuleBuilder.h": 7.121600253279921e-05,
+        "ObjectFilePCHContainerOperations.h": 1.6085549818228085e-05,
+        "SwiftCallingConv.h": 2.5305941173354254e-05
+    },
+    "subdirscores": {}
+}

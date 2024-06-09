@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/lang/cpp/member-and-local-vars-with-same-name",
+    "score.sum": 1.5965996945812298e-05,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717933177.6305437,
+    "formatted_time": "2024-06-09 17:09:37.630546",
+    "filescores": {
+        "main.cpp": 0,
+        "Makefile": 0,
+        "TestMembersAndLocalsWithSameName.py": 1.5965996945812298e-05
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/lang/cpp/diamond",
+    "score.sum": 2.013129776938369e-05,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717930843.2666001,
+    "formatted_time": "2024-06-09 16:30:43.266603",
+    "filescores": {
+        "main.cpp": 6.185065669804486e-06,
+        "Makefile": 0,
+        "TestCppDiamond.py": 1.1890584318437173e-05
+    },
+    "subdirscores": {}
+}

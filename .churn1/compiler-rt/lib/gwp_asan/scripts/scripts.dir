@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/compiler-rt/lib/gwp_asan/scripts",
+    "score.sum": 1.1522627015602255e-05,
+    "sha.latest": "626e2a6c6236d2fd7582928a0363d381c55eb43d",
+    "time.latest": 1717799439.22162,
+    "formatted_time": "2024-06-08 04:00:39.221626",
+    "filescores": {
+        "symbolize.sh": 1.1522627015602255e-05
+    },
+    "subdirscores": {}
+}

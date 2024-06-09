@@ -1,0 +1,32 @@
+{
+    "directory name": "llvm-project/clang-tools-extra/docs/clang-tidy/checks/misc",
+    "score.sum": 0.00011333277321587293,
+    "sha.latest": "cc38cd856d9a9df77d5d727377e38a891807774b",
+    "time.latest": 1717810996.8829765,
+    "formatted_time": "2024-06-08 07:13:16.882979",
+    "filescores": {
+        "confusable-identifiers.rst": 6.1292239751649046e-06,
+        "const-correctness.rst": 1.5178226532644478e-05,
+        "coroutine-hostile-raii.rst": 6.376712665925076e-06,
+        "definitions-in-headers.rst": 2.111186706309643e-05,
+        "header-include-cycle.rst": 2.3797948477158605e-05,
+        "include-cleaner.rst": 1.2198905743929769e-05,
+        "misleading-bidirectional.rst": 0,
+        "misleading-identifier.rst": 0,
+        "misplaced-const.rst": 0,
+        "new-delete-overloads.rst": 0,
+        "no-recursion.rst": 0,
+        "non-copyable-objects.rst": 0,
+        "non-private-member-variables-in-classes.rst": 0,
+        "redundant-expression.rst": 0,
+        "static-assert.rst": 0,
+        "throw-by-value-catch-by-reference.rst": 6.099602068851199e-06,
+        "unconventional-assign-operator.rst": 1.219919370314117e-05,
+        "uniqueptr-reset-release.rst": 0,
+        "unused-alias-decls.rst": 0,
+        "unused-parameters.rst": 6.099602068851199e-06,
+        "unused-using-decls.rst": 1.5233075694848536e-05,
+        "use-anonymous-namespace.rst": 9.049624679896856e-06
+    },
+    "subdirscores": {}
+}

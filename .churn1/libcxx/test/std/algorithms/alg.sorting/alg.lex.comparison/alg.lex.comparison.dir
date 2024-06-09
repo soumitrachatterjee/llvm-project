@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/algorithms/alg.sorting/alg.lex.comparison",
+    "score.sum": 3.078333869836483e-05,
+    "sha.latest": "02540b2f6dc6c2d42a3365bef78833d7fab98491",
+    "time.latest": 1717870845.570715,
+    "formatted_time": "2024-06-08 23:50:45.570717",
+    "filescores": {
+        "lexicographical_compare.pass.cpp": 1.6931227172323814e-05,
+        "lexicographical_compare_comp.pass.cpp": 1.992445697632647e-05,
+        "ranges.lexicographical_compare.pass.cpp": 6.86612068015691e-06
+    },
+    "subdirscores": {}
+}

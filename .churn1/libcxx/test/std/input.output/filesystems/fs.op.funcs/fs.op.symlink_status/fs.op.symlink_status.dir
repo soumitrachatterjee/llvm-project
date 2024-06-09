@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/input.output/filesystems/fs.op.funcs/fs.op.symlink_status",
+    "score.sum": 6.794174546609786e-05,
+    "sha.latest": "ac8c9f1e39e1a773fd81ce23dbf1c80ea186f226",
+    "time.latest": 1717904748.566751,
+    "formatted_time": "2024-06-09 09:15:48.566753",
+    "filescores": {
+        "symlink_status.pass.cpp": 6.794174546609786e-05
+    },
+    "subdirscores": {}
+}

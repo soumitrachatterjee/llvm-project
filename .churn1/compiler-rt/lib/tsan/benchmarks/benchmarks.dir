@@ -1,0 +1,16 @@
+{
+    "directory name": "llvm-project/compiler-rt/lib/tsan/benchmarks",
+    "score.sum": 1.1794679631003803e-05,
+    "sha.latest": "d11b16e1fef5886c73a7a6701b6e0264ae6b44d4",
+    "time.latest": 1717806935.7172062,
+    "formatted_time": "2024-06-08 06:05:35.717210",
+    "filescores": {
+        "func_entry_exit.cpp": 0,
+        "mini_bench_local.cpp": 0,
+        "mini_bench_shared.cpp": 0,
+        "mop.cpp": 0,
+        "start_many_threads.cpp": 0,
+        "vts_many_threads_bench.cpp": 0
+    },
+    "subdirscores": {}
+}

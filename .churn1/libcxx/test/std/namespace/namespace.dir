@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/namespace",
+    "score.sum": 1.3412850545732238e-05,
+    "sha.latest": "a7f9895cc18995549c7facb96e72718da282a864",
+    "time.latest": 1717932921.2368693,
+    "formatted_time": "2024-06-09 17:05:21.236886",
+    "filescores": {
+        "addressable_functions.sh.cpp": 1.3412850545732238e-05
+    },
+    "subdirscores": {}
+}

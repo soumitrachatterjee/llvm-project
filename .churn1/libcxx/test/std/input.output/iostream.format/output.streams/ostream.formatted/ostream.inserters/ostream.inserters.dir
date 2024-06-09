@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/input.output/iostream.format/output.streams/ostream.formatted/ostream.inserters",
+    "score.sum": 3.1255679719428676e-05,
+    "sha.latest": "50cfb76e029bbfda21622d4f00c9fe8a2a7099a6",
+    "time.latest": 1717906097.6206865,
+    "formatted_time": "2024-06-09 09:38:17.620688",
+    "filescores": {
+        "basic_ios.pass.cpp": 2.6391927543327865e-05,
+        "ios_base.pass.cpp": 2.6391927543327865e-05,
+        "ostream.pass.cpp": 2.6391927543327865e-05,
+        "streambuf.pass.cpp": 2.52206877694585e-05
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,16 @@
+{
+    "directory name": "llvm-project/clang/lib/Tooling/Inclusions/Stdlib",
+    "score.sum": 0.00010988048845174728,
+    "sha.latest": "764c3afd43128f7ccddb070953c330b340ebe811",
+    "time.latest": 1717823362.1161711,
+    "formatted_time": "2024-06-08 10:39:22.116175",
+    "filescores": {
+        "CMakeLists.txt": 6.099602068851199e-06,
+        "CSymbolMap.inc": 0,
+        "StandardLibrary.cpp": 4.703478022497045e-05,
+        "StdSpecialSymbolMap.inc": 3.0323630506294453e-05,
+        "StdSymbolMap.inc": 7.421503663579058e-06,
+        "StdTsSymbolMap.inc": 6.099602068851199e-06
+    },
+    "subdirscores": {}
+}

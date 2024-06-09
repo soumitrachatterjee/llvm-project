@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/clang/lib/Tooling/Refactoring/Extract",
+    "score.sum": 2.2243403282577783e-05,
+    "sha.latest": "6ad0788c332bb2043142954d300c49ac3e537f34",
+    "time.latest": 1717823523.5464337,
+    "formatted_time": "2024-06-08 10:42:03.546437",
+    "filescores": {
+        "Extract.cpp": 1.809329682813414e-05,
+        "SourceExtraction.cpp": 1.9850806879823107e-05
+    },
+    "subdirscores": {}
+}

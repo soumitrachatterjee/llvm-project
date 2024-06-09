@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/input.output/iostream.format/ext.manip",
+    "score.sum": 4.464625870685924e-05,
+    "sha.latest": "bce3b505931cee9dc79d1c56c021983b4a8fb819",
+    "time.latest": 1717904928.4799695,
+    "formatted_time": "2024-06-09 09:18:48.479972",
+    "filescores": {
+        "get_money.pass.cpp": 3.159843652762957e-05,
+        "get_time.pass.cpp": 2.3313409026780353e-05,
+        "put_money.pass.cpp": 4.0152856119013184e-05,
+        "put_time.pass.cpp": 2.9202845786449492e-05
+    },
+    "subdirscores": {}
+}

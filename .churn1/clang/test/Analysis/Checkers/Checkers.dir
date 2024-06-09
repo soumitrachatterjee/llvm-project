@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/clang/test/Analysis/Checkers",
+    "score.sum": 0.0001588026342668143,
+    "sha.latest": "7ce1cfed9a11735f0f4ee8a3a8bebfa87ee76d07",
+    "time.latest": 1717825961.3132968,
+    "formatted_time": "2024-06-08 11:22:41.313328",
+    "filescores": {
+        "RunLoopAutoreleaseLeakChecker.m": 6.816999300637019e-06
+    },
+    "subdirscores": {
+        "WebKit": 0.00013490654565972288
+    }
+}

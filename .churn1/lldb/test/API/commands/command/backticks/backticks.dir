@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/commands/command/backticks",
+    "score.sum": 1.5351025207804193e-05,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717888216.313233,
+    "formatted_time": "2024-06-09 04:40:16.313234",
+    "filescores": {
+        "main.c": 6.96517184975652e-06,
+        "Makefile": 6.96517184975652e-06,
+        "TestBackticksInAlias.py": 1.5351025207804193e-05
+    },
+    "subdirscores": {}
+}

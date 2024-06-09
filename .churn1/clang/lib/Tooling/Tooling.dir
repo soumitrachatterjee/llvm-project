@@ -1,0 +1,37 @@
+{
+    "directory name": "llvm-project/clang/lib/Tooling",
+    "score.sum": 0.004798980427066575,
+    "sha.latest": "a87dc23a6271cadd6d3f93561f2d8b1661399e6d",
+    "time.latest": 1717824005.4693887,
+    "formatted_time": "2024-06-08 10:50:05.469391",
+    "filescores": {
+        "AllTUsExecution.cpp": 2.8205338519735272e-05,
+        "ArgumentsAdjusters.cpp": 8.736430865654637e-05,
+        "CMakeLists.txt": 0.0002880655471405188,
+        "CommonOptionsParser.cpp": 7.579976671648719e-05,
+        "CompilationDatabase.cpp": 0.00015182142788753734,
+        "EmptyNodeIntrospection.inc.in": 6.099602068851199e-06,
+        "Execution.cpp": 1.4463349539334585e-05,
+        "ExpandResponseFilesCompilationDatabase.cpp": 7.184716558315297e-05,
+        "FileMatchTrie.cpp": 3.358572968960138e-05,
+        "FixIt.cpp": 1.772869723365418e-05,
+        "GuessTargetAndModeCompilationDatabase.cpp": 6.099602068851199e-06,
+        "InterpolatingCompilationDatabase.cpp": 9.941159033806576e-05,
+        "JSONCompilationDatabase.cpp": 0.00015709953541025016,
+        "NodeIntrospection.cpp": 3.577001259222939e-05,
+        "Refactoring.cpp": 5.760516653205739e-05,
+        "RefactoringCallbacks.cpp": 3.922788655143996e-05,
+        "StandaloneExecution.cpp": 1.5995055578255308e-05,
+        "Tooling.cpp": 0.0004110351890519491
+    },
+    "subdirscores": {
+        "ASTDiff": 6.817473566102137e-05,
+        "Core": 0.00018016983008886114,
+        "DependencyScanning": 0.000819940453321134,
+        "DumpTool": 5.000727874352127e-05,
+        "Inclusions": 0.00034525509861368285,
+        "Refactoring": 0.0002506274245299717,
+        "Syntax": 0.0003664392022422682,
+        "Transformer": 0.00018431906716239398
+    }
+}

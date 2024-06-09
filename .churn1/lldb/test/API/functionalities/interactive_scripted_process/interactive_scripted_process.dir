@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/lldb/test/API/functionalities/interactive_scripted_process",
+    "score.sum": 3.385623236589464e-05,
+    "sha.latest": "6bf923d5c3daf5d66e0acf53d037a12ceff4a275",
+    "time.latest": 1717910712.7825272,
+    "formatted_time": "2024-06-09 10:55:12.782529",
+    "filescores": {
+        "interactive_scripted_process.py": 2.5561927663047085e-05,
+        "main.cpp": 6.099899789440212e-06,
+        "Makefile": 1.21980304704975e-05,
+        "TestInteractiveScriptedProcess.py": 1.5052352808784267e-05
+    },
+    "subdirscores": {}
+}

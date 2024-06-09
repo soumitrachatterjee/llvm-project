@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/libcxx/test/libcxx/utilities/expol",
+    "score.sum": 6.099602068851199e-06,
+    "sha.latest": "e7e371188513348e493ed8afb1465834ab7afbf5",
+    "time.latest": 1717866425.9718633,
+    "formatted_time": "2024-06-08 22:37:05.971866",
+    "filescores": {
+        "policies.compile.pass.cpp": 6.099602068851199e-06
+    },
+    "subdirscores": {}
+}

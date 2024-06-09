@@ -1,0 +1,33 @@
+{
+    "directory name": "llvm-project/clang-tools-extra/docs",
+    "score.sum": 0.0056642214298105314,
+    "sha.latest": "4fdf10faf2b45f4bbbd2ddfb07272d19a47cc531",
+    "time.latest": 1717813217.9552004,
+    "formatted_time": "2024-06-08 07:50:17.955204",
+    "filescores": {
+        "clang-doc.rst": 3.412596438660399e-05,
+        "clang-include-fixer.rst": 1.1906220246405065e-05,
+        "clang-modernize.rst": 2.2158207282480243e-05,
+        "clang-rename.rst": 2.5076747284238462e-05,
+        "clang-tidy.rst": 2.9311469410444926e-05,
+        "clangd.rst": 4.2042058039529524e-05,
+        "CMakeLists.txt": 6.099602068851199e-06,
+        "conf.py": 7.028920917339684e-05,
+        "cpp11-migrate.rst": 2.1260257318889066e-05,
+        "doxygen-mainpage.dox": 0,
+        "doxygen.cfg.in": 2.6639495441299074e-05,
+        "index.rst": 7.02315808239323e-05,
+        "make.bat": 0,
+        "modularize.rst": 2.1724480926386802e-05,
+        "ModularizeUsage.rst": 3.2498851162195155e-05,
+        "pp-trace.rst": 5.079231734388446e-05,
+        "README.txt": 6.447698354675985e-06,
+        "ReleaseNotes.rst": 0.0030677778751148853
+    },
+    "subdirscores": {
+        "clang-tidy": 0.0029958683833519674,
+        "clangd": 3.398029043582471e-05,
+        "_static": 0,
+        "_templates": 6.099602068851199e-06
+    }
+}

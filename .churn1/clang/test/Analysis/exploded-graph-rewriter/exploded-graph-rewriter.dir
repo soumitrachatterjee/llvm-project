@@ -1,0 +1,33 @@
+{
+    "directory name": "llvm-project/clang/test/Analysis/exploded-graph-rewriter",
+    "score.sum": 7.513817983509352e-05,
+    "sha.latest": "dd3c26a045c081620375a878159f536758baba6e",
+    "time.latest": 1717831087.288929,
+    "formatted_time": "2024-06-08 12:48:07.288934",
+    "filescores": {
+        "checker_messages.dot": 1.3966819664680928e-05,
+        "checker_messages_diff.dot": 1.3966819664680928e-05,
+        "constraints.dot": 1.4193976727984543e-05,
+        "constraints_diff.dot": 1.4193976727984543e-05,
+        "dynamic_types.cpp": 3.736574694248553e-05,
+        "edge.dot": 1.270551216271034e-05,
+        "empty.dot": 6.678371026444181e-06,
+        "environment.dot": 1.6246931795630953e-05,
+        "environment_diff.dot": 1.4513732365743311e-05,
+        "escapes.c": 1.4601618763357415e-05,
+        "initializers_under_construction.cpp": 8.387799708010336e-06,
+        "lit.local.cfg": 7.78321324871132e-06,
+        "l_name_starts_with_l.cpp": 6.099818969060273e-06,
+        "macros.c": 1.3340111285975041e-05,
+        "node_labels.dot": 1.3237205418209134e-05,
+        "objects_under_construction.cpp": 1.327079579983857e-05,
+        "program_points.dot": 1.8463490518314832e-05,
+        "program_state_traits.dot": 0,
+        "store.dot": 1.5526648940894324e-05,
+        "store_diff.dot": 1.43985656139397e-05,
+        "topology.dot": 1.3913065317093599e-05,
+        "trimmers.dot": 1.032260570762583e-05,
+        "win_path_forbidden_chars.cpp": 1.0744858267726211e-05
+    },
+    "subdirscores": {}
+}

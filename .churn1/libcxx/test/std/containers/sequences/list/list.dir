@@ -1,0 +1,27 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/containers/sequences/list",
+    "score.sum": 0.00044000131566015224,
+    "sha.latest": "f5832bab6f5024cabe32a9f668b7f44e6b7cfef5",
+    "time.latest": 1717886675.3722475,
+    "formatted_time": "2024-06-09 04:14:35.372249",
+    "filescores": {
+        "allocator_mismatch.verify.cpp": 6.099602068851199e-06,
+        "compare.pass.cpp": 6.099602068851199e-06,
+        "compare.three_way.pass.cpp": 6.099602068851199e-06,
+        "exception_safety.pass.cpp": 0,
+        "get_allocator.pass.cpp": 0,
+        "incomplete_type.pass.cpp": 1.9478655392118894e-05,
+        "iterators.pass.cpp": 2.0030978233456204e-05,
+        "iterator_concept_conformance.compile.pass.cpp": 1.7528829786346963e-05,
+        "range_concept_conformance.compile.pass.cpp": 1.922836633199134e-05,
+        "types.pass.cpp": 4.0607503624689735e-05
+    },
+    "subdirscores": {
+        "list.capacity": 6.921409458244389e-05,
+        "list.cons": 0.00010965851133550103,
+        "list.erasure": 1.1746257905290978e-05,
+        "list.modifiers": 7.551455590879245e-05,
+        "list.ops": 7.550547714276322e-05,
+        "list.special": 5.4897035426605144e-05
+    }
+}

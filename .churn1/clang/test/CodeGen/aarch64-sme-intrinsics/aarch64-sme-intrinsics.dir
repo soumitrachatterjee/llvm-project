@@ -1,0 +1,28 @@
+{
+    "directory name": "llvm-project/clang/test/CodeGen/aarch64-sme-intrinsics",
+    "score.sum": 9.283618825076992e-05,
+    "sha.latest": "3c90fce4504e22953ec5586599afaecfb2923a9e",
+    "time.latest": 1717879514.652163,
+    "formatted_time": "2024-06-09 02:15:14.652278",
+    "filescores": {
+        "aarch64-sme-attrs.cpp": 1.1651088518144435e-05,
+        "acle_sme_add-i32.c": 4.411337790643135e-05,
+        "acle_sme_add-i64.c": 4.411337790643135e-05,
+        "acle_sme_cnt.c": 1.4484595162727218e-05,
+        "acle_sme_ld1.c": 3.29184634844502e-05,
+        "acle_sme_ld1_vnum.c": 3.29184634844502e-05,
+        "acle_sme_ldr.c": 3.271702050143544e-05,
+        "acle_sme_mopa-za32.c": 4.411337790643135e-05,
+        "acle_sme_mopa-za64.c": 4.429178121810221e-05,
+        "acle_sme_mops-za32.c": 4.411337790643135e-05,
+        "acle_sme_mops-za64.c": 4.429178121810221e-05,
+        "acle_sme_read.c": 4.57607755176219e-05,
+        "acle_sme_st1.c": 3.29184634844502e-05,
+        "acle_sme_st1_vnum.c": 3.29184634844502e-05,
+        "acle_sme_state_funs.c": 1.0001251624564673e-05,
+        "acle_sme_str.c": 3.271702050143544e-05,
+        "acle_sme_write.c": 4.57607755176219e-05,
+        "acle_sme_zero.c": 3.045641444618016e-05
+    },
+    "subdirscores": {}
+}

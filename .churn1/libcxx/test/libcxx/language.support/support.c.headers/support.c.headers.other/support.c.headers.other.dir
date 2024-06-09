@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/libcxx/test/libcxx/language.support/support.c.headers/support.c.headers.other",
+    "score.sum": 6.099602068851199e-06,
+    "sha.latest": "3401b308f82a503f7f1650e0f2eca8d1f8f9ff63",
+    "time.latest": 1717860130.456829,
+    "formatted_time": "2024-06-08 20:52:10.456832",
+    "filescores": {
+        "math.lerp.verify.cpp": 6.099602068851199e-06
+    },
+    "subdirscores": {}
+}

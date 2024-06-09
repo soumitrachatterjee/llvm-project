@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/numerics/bit/bit.pow.two",
+    "score.sum": 9.924779783000751e-05,
+    "sha.latest": "1ee41b415398cde51c055a7b1a4d419350e7038f",
+    "time.latest": 1717933112.4785838,
+    "formatted_time": "2024-06-09 17:08:32.478587",
+    "filescores": {
+        "bit_ceil.pass.cpp": 4.0034030660840196e-05,
+        "bit_ceil.verify.cpp": 9.616085188113193e-06,
+        "bit_floor.pass.cpp": 4.432453410629382e-05,
+        "bit_width.pass.cpp": 4.690027984350772e-05,
+        "has_single_bit.pass.cpp": 4.432453410629382e-05
+    },
+    "subdirscores": {}
+}

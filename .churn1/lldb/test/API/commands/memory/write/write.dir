@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/lldb/test/API/commands/memory/write",
+    "score.sum": 8.375141052996306e-06,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717895895.5980194,
+    "formatted_time": "2024-06-09 06:48:15.598022",
+    "filescores": {
+        "file.txt": 0,
+        "main.c": 0,
+        "Makefile": 0,
+        "TestMemoryWrite.py": 8.375141052996306e-06
+    },
+    "subdirscores": {}
+}

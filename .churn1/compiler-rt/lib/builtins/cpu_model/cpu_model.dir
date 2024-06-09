@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/compiler-rt/lib/builtins/cpu_model",
+    "score.sum": 3.221051728912817e-05,
+    "sha.latest": "1fe6be8794964c011aeba7a66bd2dcd891d21ab0",
+    "time.latest": 1717794049.0641434,
+    "formatted_time": "2024-06-08 02:30:49.064147",
+    "filescores": {
+        "aarch64.c": 8.727417316630416e-06,
+        "cpu_model.h": 1.070728815746758e-05,
+        "x86.c": 1.4381555390998238e-05
+    },
+    "subdirscores": {
+        "aarch64": 2.4580766579116955e-05
+    }
+}

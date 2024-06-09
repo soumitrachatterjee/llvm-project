@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/clang-tools-extra/test/modularize/Inputs/SubModule2",
+    "score.sum": 0,
+    "sha.latest": "5ab4f11152aff787007daf45e45c51fb38e17c77",
+    "time.latest": 1717835738.8679235,
+    "formatted_time": "2024-06-08 14:05:38.867926",
+    "filescores": {
+        "Header3.h": 0,
+        "Header4.h": 0
+    },
+    "subdirscores": {}
+}

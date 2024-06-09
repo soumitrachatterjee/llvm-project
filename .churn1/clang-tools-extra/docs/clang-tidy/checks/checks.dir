@@ -1,0 +1,38 @@
+{
+    "directory name": "llvm-project/clang-tools-extra/docs/clang-tidy/checks",
+    "score.sum": 0.00277066955021807,
+    "sha.latest": "4fdf10faf2b45f4bbbd2ddfb07272d19a47cc531",
+    "time.latest": 1717812757.77259,
+    "formatted_time": "2024-06-08 07:42:37.772593",
+    "filescores": {
+        "gen-static-analyzer-docs.py": 1.788375185763113e-05,
+        "list.rst": 0.0012321772293271908
+    },
+    "subdirscores": {
+        "abseil": 1.261187770433914e-05,
+        "altera": 0,
+        "android": 0,
+        "boost": 0,
+        "bugprone": 0.00021326679183258706,
+        "cert": 2.3451203397509447e-05,
+        "clang-analyzer": 2.9741119526218535e-05,
+        "concurrency": 6.099602068851199e-06,
+        "cppcoreguidelines": 8.798628485854191e-05,
+        "darwin": 0,
+        "fuchsia": 1.7462304415939423e-05,
+        "google": 2.1745626615192144e-05,
+        "hicpp": 2.6522331790013552e-05,
+        "linuxkernel": 0,
+        "llvm": 1.7580305794348544e-05,
+        "llvmlibc": 2.7545032432234776e-05,
+        "misc": 0.00011333277321587293,
+        "modernize": 0.00013318571630892176,
+        "mpi": 0,
+        "objc": 6.768186303740966e-06,
+        "openmp": 0,
+        "performance": 3.305634527038874e-05,
+        "portability": 0,
+        "readability": 0.00013775819500286,
+        "zircon": 0
+    }
+}

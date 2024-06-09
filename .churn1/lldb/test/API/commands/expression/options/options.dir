@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/lldb/test/API/commands/expression/options",
+    "score.sum": 1.117107419523803e-05,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717893151.4185104,
+    "formatted_time": "2024-06-09 06:02:31.418513",
+    "filescores": {
+        "foo.cpp": 0,
+        "main.cpp": 0,
+        "Makefile": 0,
+        "TestExprOptions.py": 1.117107419523803e-05
+    },
+    "subdirscores": {}
+}

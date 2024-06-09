@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/functionalities/data-formatter/data-formatter-stl/libcxx/ranges/ref_view",
+    "score.sum": 9.29328425519157e-06,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717906590.0767992,
+    "formatted_time": "2024-06-09 09:46:30.076801",
+    "filescores": {
+        "main.cpp": 0,
+        "Makefile": 0,
+        "TestDataFormatterLibcxxRangesRefView.py": 9.29328425519157e-06
+    },
+    "subdirscores": {}
+}

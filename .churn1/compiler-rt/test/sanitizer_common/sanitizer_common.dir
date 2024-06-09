@@ -1,0 +1,22 @@
+{
+    "directory name": "llvm-project/compiler-rt/test/sanitizer_common",
+    "score.sum": 0.002771169369476344,
+    "sha.latest": "c3acbf6bb06f9039f9850e18e0ae2f2adef63905",
+    "time.latest": 1717843988.0279522,
+    "formatted_time": "2024-06-08 16:23:08.027956",
+    "filescores": {
+        "CMakeLists.txt": 7.324088606357014e-05,
+        "lit.common.cfg.py": 5.4765595619237926e-05,
+        "lit.site.cfg.py.in": 2.4539569964837402e-05,
+        "print_address.h": 2.1563739013961673e-05,
+        "sanitizer_specific.h": 1.219015690325292e-05,
+        "sanitizer_ucontext.h": 0
+    },
+    "subdirscores": {
+        "android_commands": 3.218089427240353e-05,
+        "ios_commands": 6.564739984714575e-05,
+        "netbsd_commands": 6.099602068851199e-06,
+        "TestCases": 0.0024569490542174902,
+        "Unit": 1.5278852876114904e-05
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "directory name": "llvm-project/lldb/test/API/commands/target",
+    "score.sum": 0.00012285412498071126,
+    "sha.latest": "dd7386d85f11cf6ad911b9827c7018fb08c6c205",
+    "time.latest": 1717898978.9552033,
+    "formatted_time": "2024-06-09 07:39:38.955208",
+    "filescores": {},
+    "subdirscores": {
+        "auto-install-main-executable": 2.740999455827404e-05,
+        "basic": 4.2504527774658854e-05,
+        "create-deps": 1.3381275763502102e-05,
+        "create-no-such-arch": 1.0459834404963863e-05,
+        "debuginfo": 6.099602068851199e-06,
+        "dump": 1.1253816631382188e-05,
+        "dump-pcm-info": 9.88099025838714e-06,
+        "dump-separate-debug-info": 9.412124159937833e-06,
+        "dump-symtab-demangle": 1.0459834404963863e-05,
+        "modules": 1.0228257440187292e-05,
+        "select": 1.0228257440187292e-05,
+        "stop-hook": 1.0228257440187292e-05,
+        "stop-hooks": 3.614319165225998e-05
+    }
+}

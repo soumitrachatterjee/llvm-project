@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/lldb/test/API/lang/cpp/llvm-style",
+    "score.sum": 6.099602068851199e-06,
+    "sha.latest": "fdea9a4ec9b0d9585b8fe8a612686d9f44f40ddc",
+    "time.latest": 1717933108.4249,
+    "formatted_time": "2024-06-09 17:08:28.424904",
+    "filescores": {
+        "main.cpp": 6.099602068851199e-06,
+        "TestLLVMStyle.py": 0
+    },
+    "subdirscores": {}
+}

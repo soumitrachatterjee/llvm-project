@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/functionalities/non-overlapping-index-variable-i",
+    "score.sum": 1.0503384530912484e-05,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717913386.96685,
+    "formatted_time": "2024-06-09 11:39:46.966852",
+    "filescores": {
+        "main.cpp": 6.099602068851199e-06,
+        "Makefile": 0,
+        "TestIndexVariable.py": 1.0459834404963863e-05
+    },
+    "subdirscores": {}
+}

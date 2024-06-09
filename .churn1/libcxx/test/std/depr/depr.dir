@@ -1,0 +1,19 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/depr",
+    "score.sum": 0.00046300820144922915,
+    "sha.latest": "59f05239dbbc2c37d9de2bf638a64e1e9abd9163",
+    "time.latest": 1717897137.087949,
+    "formatted_time": "2024-06-09 07:08:57.087951",
+    "filescores": {},
+    "subdirscores": {
+        "depr.atomics": 6.099602068851199e-06,
+        "depr.auto.ptr": 4.9060923760198944e-05,
+        "depr.c.headers": 0.00031682990018281883,
+        "depr.function.objects": 4.512369227998792e-05,
+        "depr.ios.members": 2.834305654851966e-05,
+        "depr.lib.binders": 6.730385792423853e-05,
+        "depr.numeric.limits.has.denorm": 6.099602068851199e-06,
+        "depr.str.strstreams": 6.725655956807193e-05,
+        "exception.unexpected": 3.085111021522714e-05
+    }
+}

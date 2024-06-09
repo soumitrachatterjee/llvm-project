@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/lang/cpp/global_variables",
+    "score.sum": 2.5844412652106867e-05,
+    "sha.latest": "ab05d9134d18db34501985a01fbfc02609767587",
+    "time.latest": 1717931710.9502738,
+    "formatted_time": "2024-06-09 16:45:10.950278",
+    "filescores": {
+        "main.cpp": 6.179848768091728e-06,
+        "Makefile": 0,
+        "TestCPPGlobalVariables.py": 2.5800997935789434e-05
+    },
+    "subdirscores": {}
+}

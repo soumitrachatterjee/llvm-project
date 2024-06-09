@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/lldb/source/Plugins/JITLoader/GDB",
+    "score.sum": 0.00018466265747581916,
+    "sha.latest": "9f9dd6be0d21a156dcfee01ebbd571eca79b08bd",
+    "time.latest": 1717870109.5185869,
+    "formatted_time": "2024-06-08 23:38:29.518589",
+    "filescores": {
+        "CMakeLists.txt": 2.8008997465966652e-05,
+        "JITLoaderGDB.cpp": 0.00017248703249553795,
+        "JITLoaderGDB.h": 4.688941365926844e-05,
+        "JITLoaderGDBProperties.td": 0
+    },
+    "subdirscores": {}
+}

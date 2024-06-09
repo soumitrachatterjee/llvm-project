@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/lldb/include/lldb/Host/macosx",
+    "score.sum": 0.00013914429061250984,
+    "sha.latest": "7de43526e3cc07a02d01a0c4bf0670900495b938",
+    "time.latest": 1717847832.9831731,
+    "formatted_time": "2024-06-08 17:27:12.983178",
+    "filescores": {
+        "HostInfoMacOSX.h": 0.00010289802889328553,
+        "HostThreadMacOSX.h": 1.574705741803927e-05
+    },
+    "subdirscores": {}
+}

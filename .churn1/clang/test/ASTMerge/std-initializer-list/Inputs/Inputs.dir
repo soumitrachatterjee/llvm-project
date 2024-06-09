@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/clang/test/ASTMerge/std-initializer-list/Inputs",
+    "score.sum": 1.0715028846527817e-05,
+    "sha.latest": "0333dd95636da52229ca14b4e5525c1cd8ba62d2",
+    "time.latest": 1717866201.0834842,
+    "formatted_time": "2024-06-08 22:33:21.083486",
+    "filescores": {
+        "il.cpp": 1.0715028846527817e-05
+    },
+    "subdirscores": {}
+}

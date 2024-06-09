@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/libcxx/test/libcxx/input.output/iostream.format/output.streams/ostream.formatted/ostream.formatted.print",
+    "score.sum": 6.099602068851199e-06,
+    "sha.latest": "4a87db6b10a075849673247ded426504561a8a25",
+    "time.latest": 1717851234.2337768,
+    "formatted_time": "2024-06-08 18:23:54.233780",
+    "filescores": {
+        "vprint_unicode.pass.cpp": 6.099602068851199e-06
+    },
+    "subdirscores": {}
+}

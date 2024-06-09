@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/cross-project-tests/debuginfo-tests/dexter/feature_tests/commands/perfect/dex_declare_file/windows_noncanonical_path/source",
+    "score.sum": 0,
+    "sha.latest": "1364750dadbb56032ef73b4d0d8cbc88a51392da",
+    "time.latest": 1717791044.9040723,
+    "formatted_time": "2024-06-08 01:40:44.904077",
+    "filescores": {
+        "test file.cpp": 0
+    },
+    "subdirscores": {}
+}

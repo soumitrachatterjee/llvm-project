@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/iterators/stream.iterators/ostream.iterator/ostream.iterator.cons.des",
+    "score.sum": 3.326596907727898e-05,
+    "sha.latest": "f4c1258d5633fcf06385ff3fd1f4bf57ab971964",
+    "time.latest": 1717920310.7956786,
+    "formatted_time": "2024-06-09 13:35:10.795680",
+    "filescores": {
+        "copy.pass.cpp": 2.012705392162987e-05,
+        "ostream.pass.cpp": 1.9300194756368122e-05,
+        "ostream_delim.pass.cpp": 1.5794953281383337e-05
+    },
+    "subdirscores": {}
+}

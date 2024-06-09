@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/localization/locale.categories/category.numeric/locale.nm.put",
+    "score.sum": 0.0001143229101794347,
+    "sha.latest": "be811d1617654e46f4f4daa82259ae4fad4c8e6a",
+    "time.latest": 1717929660.1554096,
+    "formatted_time": "2024-06-09 16:11:00.155413",
+    "filescores": {
+        "ctor.pass.cpp": 1.7366275644238228e-05,
+        "types.pass.cpp": 1.7431479621988335e-05
+    },
+    "subdirscores": {
+        "facet.num.put.members": 0.00010967687254520402,
+        "facet.num.put.virtuals": 1.2132863580760565e-05
+    }
+}

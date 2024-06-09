@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/compiler-rt/lib/asan/scripts",
+    "score.sum": 0.00028376263833506884,
+    "sha.latest": "f98ee40f4b5d7474fc67e82824bf6abbaedb7b1c",
+    "time.latest": 1717790414.145659,
+    "formatted_time": "2024-06-08 01:30:14.145664",
+    "filescores": {
+        "asan_device_setup": 7.682823750438834e-05,
+        "asan_symbolize.py": 0.00017720766997757965,
+        "CMakeLists.txt": 0
+    },
+    "subdirscores": {}
+}

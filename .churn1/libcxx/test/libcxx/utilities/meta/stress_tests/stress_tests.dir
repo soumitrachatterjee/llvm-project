@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/libcxx/test/libcxx/utilities/meta/stress_tests",
+    "score.sum": 1.5766419538304584e-05,
+    "sha.latest": "f5832bab6f5024cabe32a9f668b7f44e6b7cfef5",
+    "time.latest": 1717867197.8240602,
+    "formatted_time": "2024-06-08 22:49:57.824063",
+    "filescores": {
+        "stress_test_is_same.sh.cpp": 8.782416517085116e-06,
+        "stress_test_metafunctions.sh.cpp": 1.4468824238358719e-05,
+        "stress_test_variant_overloads_impl.sh.cpp": 1.3950289445702297e-05
+    },
+    "subdirscores": {}
+}

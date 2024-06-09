@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/libcxx/test/libcxx/ranges/range.adaptors/range.common.view",
+    "score.sum": 1.0512956826320703e-05,
+    "sha.latest": "b8cb1dc9ea87faa8e8e9ab7a31710a8c0bb8b084",
+    "time.latest": 1717862575.9980674,
+    "formatted_time": "2024-06-08 21:32:55.998070",
+    "filescores": {
+        "adaptor.nodiscard.verify.cpp": 1.0512956826320703e-05
+    },
+    "subdirscores": {}
+}

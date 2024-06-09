@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/lldb/test/API/lang/c/full_lto_stepping",
+    "score.sum": 1.5608468474693473e-05,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717925704.9002028,
+    "formatted_time": "2024-06-09 15:05:04.900204",
+    "filescores": {
+        "foo.c": 0,
+        "foo.h": 0,
+        "main.c": 0,
+        "Makefile": 0,
+        "TestFullLtoStepping.py": 1.5608468474693473e-05
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/commands/expression/import-std-module/deque-dbg-info-content",
+    "score.sum": 4.9147852451470485e-05,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717890628.8938146,
+    "formatted_time": "2024-06-09 05:20:28.893817",
+    "filescores": {
+        "main.cpp": 0,
+        "Makefile": 6.099602068851199e-06,
+        "TestDbgInfoContentDequeFromStdModule.py": 4.39175201118793e-05
+    },
+    "subdirscores": {}
+}

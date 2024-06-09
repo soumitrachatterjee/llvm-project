@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/depr/depr.lib.binders/depr.lib.bind.1st",
+    "score.sum": 5.870059954490481e-05,
+    "sha.latest": "72f0edf3f4291d2614719a8c8af21a7a62ed5d74",
+    "time.latest": 1717896136.9635956,
+    "formatted_time": "2024-06-09 06:52:16.963597",
+    "filescores": {
+        "bind1st.depr_in_cxx11.verify.cpp": 9.253702030704793e-06,
+        "bind1st.pass.cpp": 2.6978501188730957e-05
+    },
+    "subdirscores": {}
+}

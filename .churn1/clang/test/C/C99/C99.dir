@@ -1,0 +1,16 @@
+{
+    "directory name": "llvm-project/clang/test/C/C99",
+    "score.sum": 6.099602068851199e-06,
+    "sha.latest": "fb9b3e9a5f23cfc43106c1209fd4a07761eee5e9",
+    "time.latest": 1717867032.6479273,
+    "formatted_time": "2024-06-08 22:47:12.647930",
+    "filescores": {
+        "n505.c": 0,
+        "n617.c": 0,
+        "n629.c": 0,
+        "n636.c": 0,
+        "n725.c": 0,
+        "n736.c": 0
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/depr/depr.str.strstreams/depr.ostrstream/depr.ostrstream.members",
+    "score.sum": 1.5243905614613615e-05,
+    "sha.latest": "66c7388c83bb0320f2223da3e3f31363f44bb3aa",
+    "time.latest": 1717896502.212719,
+    "formatted_time": "2024-06-09 06:58:22.212720",
+    "filescores": {
+        "freeze.pass.cpp": 1.5243905614613615e-05,
+        "pcount.pass.cpp": 1.5243905614613615e-05,
+        "rdbuf.pass.cpp": 1.5243905614613615e-05,
+        "str.pass.cpp": 1.5243905614613615e-05
+    },
+    "subdirscores": {}
+}

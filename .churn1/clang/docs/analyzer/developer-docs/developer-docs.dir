@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/clang/docs/analyzer/developer-docs",
+    "score.sum": 4.164385660273407e-05,
+    "sha.latest": "3a14993fa428c67634c979107ca6ddaafeb7037b",
+    "time.latest": 1717790136.0104985,
+    "formatted_time": "2024-06-08 01:25:36.010503",
+    "filescores": {
+        "DebugChecks.rst": 2.3627888191338253e-05,
+        "InitializerLists.rst": 6.099602068851199e-06,
+        "IPA.rst": 1.0676998482640167e-05,
+        "nullability.rst": 1.9818166345134782e-05,
+        "RegionStore.rst": 0
+    },
+    "subdirscores": {}
+}

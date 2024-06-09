@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/commands/expression/codegen-crash-import-def-arraytype-element",
+    "score.sum": 1.4573572332688931e-05,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717889521.6136334,
+    "formatted_time": "2024-06-09 05:02:01.613635",
+    "filescores": {
+        "main.cpp": 6.099602068851199e-06,
+        "Makefile": 0,
+        "TestImportDefinitionArrayType.py": 1.0062093663913918e-05
+    },
+    "subdirscores": {}
+}

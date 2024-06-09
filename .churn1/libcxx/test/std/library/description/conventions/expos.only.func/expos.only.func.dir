@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/library/description/conventions/expos.only.func",
+    "score.sum": 1.1820889807708196e-05,
+    "sha.latest": "430b397f6715d4d2f2569716c93fcd6292ace3dc",
+    "time.latest": 1717925131.4830966,
+    "formatted_time": "2024-06-09 14:55:31.483100",
+    "filescores": {
+        "synth_three_way.pass.cpp": 1.1820889807708196e-05
+    },
+    "subdirscores": {}
+}

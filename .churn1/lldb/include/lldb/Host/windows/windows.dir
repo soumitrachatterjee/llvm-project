@@ -1,0 +1,21 @@
+{
+    "directory name": "llvm-project/lldb/include/lldb/Host/windows",
+    "score.sum": 0.0002554139310054706,
+    "sha.latest": "2fe8327406050d2585d2ced910a678e28caefcf5",
+    "time.latest": 1717848665.4748406,
+    "formatted_time": "2024-06-08 17:41:05.474845",
+    "filescores": {
+        "AutoHandle.h": 1.193113251304048e-05,
+        "ConnectionGenericFileWindows.h": 2.734174112506895e-05,
+        "HostInfoWindows.h": 5.021802498523956e-05,
+        "HostProcessWindows.h": 3.308064329934425e-05,
+        "HostThreadWindows.h": 2.5308644730126233e-05,
+        "LockFileWindows.h": 1.161780865662352e-05,
+        "MainLoopWindows.h": 6.099602068851199e-06,
+        "PipeWindows.h": 4.9976456016278114e-05,
+        "PosixApi.h": 5.235530838557995e-05,
+        "ProcessLauncherWindows.h": 1.4995196171410587e-05,
+        "windows.h": 2.3837866149050583e-05
+    },
+    "subdirscores": {}
+}

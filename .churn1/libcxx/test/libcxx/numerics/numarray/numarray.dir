@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/libcxx/test/libcxx/numerics/numarray",
+    "score.sum": 1.8174206120540174e-05,
+    "sha.latest": "5ca2777c69f8708d583e230c56ac7f5f6376fb40",
+    "time.latest": 1717861484.0525713,
+    "formatted_time": "2024-06-08 21:14:44.052575",
+    "filescores": {},
+    "subdirscores": {
+        "class.gslice.array": 0,
+        "class.indirect.array": 0,
+        "class.mask.array": 0,
+        "class.slice.array": 0
+    }
+}

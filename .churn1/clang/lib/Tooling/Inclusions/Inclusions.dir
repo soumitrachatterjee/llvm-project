@@ -1,0 +1,16 @@
+{
+    "directory name": "llvm-project/clang/lib/Tooling/Inclusions",
+    "score.sum": 0.00034525509861368285,
+    "sha.latest": "984dd15d4da33337b2800d4776aa8ecc168b145e",
+    "time.latest": 1717823362.1330304,
+    "formatted_time": "2024-06-08 10:39:22.133032",
+    "filescores": {
+        "CMakeLists.txt": 2.6529449935929913e-05,
+        "HeaderAnalysis.cpp": 2.0363625178873973e-05,
+        "HeaderIncludes.cpp": 9.23267360827842e-05,
+        "IncludeStyle.cpp": 1.1102091273868193e-05
+    },
+    "subdirscores": {
+        "Stdlib": 0.00010988048845174728
+    }
+}

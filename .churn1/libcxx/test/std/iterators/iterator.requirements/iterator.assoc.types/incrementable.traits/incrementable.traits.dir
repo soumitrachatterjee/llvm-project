@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/iterators/iterator.requirements/iterator.assoc.types/incrementable.traits",
+    "score.sum": 1.081030956711383e-05,
+    "sha.latest": "d2baefae6846765eef6a6dd69d4fdf1082ce29ad",
+    "time.latest": 1717913846.7293375,
+    "formatted_time": "2024-06-09 11:47:26.729339",
+    "filescores": {
+        "incrementable_traits.compile.pass.cpp": 9.617822715830757e-06,
+        "iter_difference_t.compile.pass.cpp": 7.751528014955807e-06
+    },
+    "subdirscores": {}
+}

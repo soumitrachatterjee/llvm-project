@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/functionalities/thread/thread_specific_break_plus_condition",
+    "score.sum": 2.0940030428485408e-05,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717923201.7734427,
+    "formatted_time": "2024-06-09 14:23:21.773445",
+    "filescores": {
+        "main.cpp": 6.099602068851199e-06,
+        "Makefile": 0,
+        "TestThreadSpecificBpPlusCondition.py": 2.0940030428485408e-05
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/cross-project-tests/debuginfo-tests/dexter/feature_tests/commands/perfect/expect_step_kind",
+    "score.sum": 3.023950417094275e-05,
+    "sha.latest": "45a40c163932d12b72b33bd1d8a84519392b5d39",
+    "time.latest": 1717791368.5261223,
+    "formatted_time": "2024-06-08 01:46:08.526128",
+    "filescores": {
+        "direction.cpp": 3.023950417094275e-05,
+        "func.cpp": 3.023950417094275e-05,
+        "func_external.cpp": 3.023950417094275e-05,
+        "recursive.cpp": 3.023950417094275e-05,
+        "small_loop.cpp": 3.023950417094275e-05
+    },
+    "subdirscores": {}
+}

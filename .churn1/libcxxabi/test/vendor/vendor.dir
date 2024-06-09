@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/libcxxabi/test/vendor",
+    "score.sum": 2.2347290292008674e-05,
+    "sha.latest": "0133e25d99df9468ec3d9b523f14733a4b5e7180",
+    "time.latest": 1717824430.8150227,
+    "formatted_time": "2024-06-08 10:57:10.815025",
+    "filescores": {},
+    "subdirscores": {
+        "apple": 6.419310609013007e-06,
+        "ibm": 1.9396545357741864e-05
+    }
+}

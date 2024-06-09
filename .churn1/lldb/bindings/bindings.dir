@@ -1,0 +1,18 @@
+{
+    "directory name": "llvm-project/lldb/bindings",
+    "score.sum": 0.0007408210735509025,
+    "sha.latest": "79e8f29ab06560d159389d940c35c563e0c8640e",
+    "time.latest": 1717839981.3993073,
+    "formatted_time": "2024-06-08 15:16:21.399311",
+    "filescores": {
+        "CMakeLists.txt": 2.02961041879851e-05,
+        "headers.swig": 6.086287227220482e-05,
+        "interfaces.swig": 9.52132620122492e-05,
+        "macros.swig": 1.7670667216959585e-05
+    },
+    "subdirscores": {
+        "interface": 0.0004167173491225807,
+        "lua": 3.632728171821401e-05,
+        "python": 0.0003354223780450839
+    }
+}

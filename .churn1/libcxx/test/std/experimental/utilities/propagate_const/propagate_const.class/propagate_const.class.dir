@@ -1,0 +1,16 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/experimental/utilities/propagate_const/propagate_const.class",
+    "score.sum": 2.977844467156034e-05,
+    "sha.latest": "31cbe0f240f660f15602c96b787c58a26f17e179",
+    "time.latest": 1717900716.2014558,
+    "formatted_time": "2024-06-09 08:08:36.201458",
+    "filescores": {
+        "swap.pass.cpp": 2.38335119804237e-05
+    },
+    "subdirscores": {
+        "propagate_const.assignment": 2.3834070111951515e-05,
+        "propagate_const.ctors": 2.977844467156034e-05,
+        "propagate_const.non-const_observers": 2.3834070111951515e-05,
+        "propagate_const.observers": 2.3834070111951515e-05
+    }
+}

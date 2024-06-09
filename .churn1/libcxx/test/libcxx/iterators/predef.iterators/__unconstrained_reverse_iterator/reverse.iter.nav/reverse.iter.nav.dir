@@ -1,0 +1,18 @@
+{
+    "directory name": "llvm-project/libcxx/test/libcxx/iterators/predef.iterators/__unconstrained_reverse_iterator/reverse.iter.nav",
+    "score.sum": 0,
+    "sha.latest": "20a11cb550ac6f4540bd320c8d8a255da4a9e3a9",
+    "time.latest": 1717859935.9221828,
+    "formatted_time": "2024-06-08 20:48:55.922185",
+    "filescores": {
+        "decrement-assign.pass.cpp": 0,
+        "increment-assign.pass.cpp": 0,
+        "minus.pass.cpp": 0,
+        "plus.pass.cpp": 0,
+        "postdecrement.pass.cpp": 0,
+        "postincrement.pass.cpp": 0,
+        "predecrement.pass.cpp": 0,
+        "preincrement.pass.cpp": 0
+    },
+    "subdirscores": {}
+}

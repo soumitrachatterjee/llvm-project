@@ -1,0 +1,23 @@
+{
+    "directory name": "llvm-project/libcxx/test/configs",
+    "score.sum": 0.00020395886944703272,
+    "sha.latest": "6d1396148977ca275df243a965ac504448bf5faa",
+    "time.latest": 1717844138.527715,
+    "formatted_time": "2024-06-08 16:25:38.527719",
+    "filescores": {
+        "apple-libc++-backdeployment.cfg.in": 1.2904734415392611e-05,
+        "apple-libc++-shared.cfg.in": 1.7416527217269432e-05,
+        "armv7m-picolibc-libc++.cfg.in": 6.122996146782288e-06,
+        "cmake-bridge.cfg.in": 4.1506869591717e-05,
+        "ibm-libc++-shared.cfg.in": 2.4379739100850023e-05,
+        "llvm-libc++-android-ndk.cfg.in": 6.099602068851199e-06,
+        "llvm-libc++-mingw.cfg.in": 1.4607326446250797e-05,
+        "llvm-libc++-shared-clangcl.cfg.in": 3.43245893997003e-05,
+        "llvm-libc++-shared-gcc.cfg.in": 2.1342484458054443e-05,
+        "llvm-libc++-shared-no-vcruntime-clangcl.cfg.in": 3.1098787026788825e-05,
+        "llvm-libc++-shared.cfg.in": 1.6604621012047354e-05,
+        "llvm-libc++-static-clangcl.cfg.in": 3.235707686990309e-05,
+        "llvm-libc++-static.cfg.in": 1.6604621012047354e-05
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/input.output/filesystems/class.path/path.member/path.generic.obs",
+    "score.sum": 3.7128186533612024e-05,
+    "sha.latest": "ac8c9f1e39e1a773fd81ce23dbf1c80ea186f226",
+    "time.latest": 1717903115.8393083,
+    "formatted_time": "2024-06-09 08:48:35.839310",
+    "filescores": {
+        "generic_string_alloc.pass.cpp": 3.150036238126628e-05,
+        "named_overloads.pass.cpp": 3.393201546524449e-05
+    },
+    "subdirscores": {}
+}

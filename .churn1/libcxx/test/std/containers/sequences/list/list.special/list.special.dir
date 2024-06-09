@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/containers/sequences/list/list.special",
+    "score.sum": 5.4897035426605144e-05,
+    "sha.latest": "fb855eb941b6d740cc6560297d0b4d3201dcaf9f",
+    "time.latest": 1717886652.97884,
+    "formatted_time": "2024-06-09 04:14:12.978842",
+    "filescores": {
+        "swap.addressof.compile.pass.cpp": 0,
+        "swap.pass.cpp": 3.0306155831362002e-05,
+        "swap_noexcept.pass.cpp": 2.8583457050169908e-05
+    },
+    "subdirscores": {}
+}

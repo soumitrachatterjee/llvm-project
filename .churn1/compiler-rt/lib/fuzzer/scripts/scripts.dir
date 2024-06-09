@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/compiler-rt/lib/fuzzer/scripts",
+    "score.sum": 2.252030920359513e-05,
+    "sha.latest": "f98ee40f4b5d7474fc67e82824bf6abbaedb7b1c",
+    "time.latest": 1717798912.3969,
+    "formatted_time": "2024-06-08 03:51:52.396902",
+    "filescores": {
+        "unbalanced_allocs.py": 7.949339727327739e-06
+    },
+    "subdirscores": {}
+}

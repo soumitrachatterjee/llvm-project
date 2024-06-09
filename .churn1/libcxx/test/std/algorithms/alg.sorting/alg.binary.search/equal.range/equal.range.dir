@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/algorithms/alg.sorting/alg.binary.search/equal.range",
+    "score.sum": 3.025099742664562e-05,
+    "sha.latest": "b8cb1dc9ea87faa8e8e9ab7a31710a8c0bb8b084",
+    "time.latest": 1717870353.2967317,
+    "formatted_time": "2024-06-08 23:42:33.296734",
+    "filescores": {
+        "equal_range.pass.cpp": 2.244883233547477e-05,
+        "equal_range_comp.pass.cpp": 2.244883233547477e-05,
+        "ranges_equal_range.pass.cpp": 7.724869622568694e-06
+    },
+    "subdirscores": {}
+}

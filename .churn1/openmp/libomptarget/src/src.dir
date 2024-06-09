@@ -1,0 +1,22 @@
+{
+    "directory name": "llvm-project/openmp/libomptarget/src",
+    "score.sum": 0.001582881387621858,
+    "sha.latest": "70677c81debbeacfc2a2fe968e632522ea1b53e1",
+    "time.latest": 1717796394.9540725,
+    "formatted_time": "2024-06-08 03:09:54.954076",
+    "filescores": {
+        "CMakeLists.txt": 0.00022796950517020576,
+        "device.cpp": 0.00044890953343523467,
+        "DeviceImage.cpp": 9.011023888780074e-06,
+        "exports": 0.00011152403900675061,
+        "interface.cpp": 0.00041285569088468676,
+        "LegacyAPI.cpp": 1.4336103212044396e-05,
+        "OffloadRTL.cpp": 6.099602068851199e-06,
+        "omptarget.cpp": 0.0007207191959616869,
+        "PluginManager.cpp": 4.3861112726504325e-05,
+        "private.h": 0.0003163761622694937
+    },
+    "subdirscores": {
+        "OpenMP": 3.608143682798059e-05
+    }
+}

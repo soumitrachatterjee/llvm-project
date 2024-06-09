@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/compiler-rt/test/builtins/TestCases",
+    "score.sum": 1.862677142540688e-05,
+    "sha.latest": "f98ee40f4b5d7474fc67e82824bf6abbaedb7b1c",
+    "time.latest": 1717818182.5948205,
+    "formatted_time": "2024-06-08 09:13:02.594824",
+    "filescores": {},
+    "subdirscores": {
+        "Darwin": 1.862677142540688e-05
+    }
+}

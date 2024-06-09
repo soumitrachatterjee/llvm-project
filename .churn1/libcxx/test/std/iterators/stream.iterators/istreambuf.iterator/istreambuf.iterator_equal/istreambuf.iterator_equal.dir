@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/iterators/stream.iterators/istreambuf.iterator/istreambuf.iterator_equal",
+    "score.sum": 1.905058960823703e-05,
+    "sha.latest": "f4c1258d5633fcf06385ff3fd1f4bf57ab971964",
+    "time.latest": 1717920105.6741135,
+    "formatted_time": "2024-06-09 13:31:45.674115",
+    "filescores": {
+        "equal.pass.cpp": 1.905058960823703e-05
+    },
+    "subdirscores": {}
+}

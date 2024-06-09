@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/lldb/test/API/commands/register/register/aarch64_sme_z_registers",
+    "score.sum": 6.5855795380930595e-06,
+    "sha.latest": "9c2468821ec51defd09c246fea4a47886fff8c01",
+    "time.latest": 1717897149.0402539,
+    "formatted_time": "2024-06-09 07:09:09.040256",
+    "filescores": {},
+    "subdirscores": {
+        "save_restore": 6.5855795380930595e-06,
+        "za_dynamic_resize": 6.099602068851199e-06
+    }
+}

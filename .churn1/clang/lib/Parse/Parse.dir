@@ -1,0 +1,28 @@
+{
+    "directory name": "llvm-project/clang/lib/Parse",
+    "score.sum": 0.010266400176499576,
+    "sha.latest": "2b5f68a5f63d2342a056bf9f86bd116c100fd81a",
+    "time.latest": 1717817555.4989877,
+    "formatted_time": "2024-06-08 09:02:35.498992",
+    "filescores": {
+        "CMakeLists.txt": 7.277953362449645e-05,
+        "ParseAST.cpp": 0.00013451629932632024,
+        "ParseCXXInlineMethods.cpp": 0.0005052473806753068,
+        "ParseDecl.cpp": 0.0029303846990361626,
+        "ParseDeclCXX.cpp": 0.0021488374833210084,
+        "ParseExpr.cpp": 0.00143874833587181,
+        "ParseExprCXX.cpp": 0.0014359195291647853,
+        "ParseHLSL.cpp": 2.102320888340337e-05,
+        "ParseInit.cpp": 0.00021961310748577192,
+        "ParseObjc.cpp": 0.000800838690701838,
+        "ParseOpenACC.cpp": 0.00013035337482566076,
+        "ParseOpenMP.cpp": 0.0013375663888527845,
+        "ParsePragma.cpp": 0.0007647591047475635,
+        "Parser.cpp": 0.00143757324626777,
+        "ParseStmt.cpp": 0.0011495929449198176,
+        "ParseStmtAsm.cpp": 0.00017932970491975312,
+        "ParseTemplate.cpp": 0.0006795302112937512,
+        "ParseTentative.cpp": 0.0006775934464908218
+    },
+    "subdirscores": {}
+}

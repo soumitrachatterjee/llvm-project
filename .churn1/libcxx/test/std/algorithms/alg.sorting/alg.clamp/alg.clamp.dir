@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/algorithms/alg.sorting/alg.clamp",
+    "score.sum": 8.017233818385903e-05,
+    "sha.latest": "64d413efdd76f2e6464ae6f578161811b9d12411",
+    "time.latest": 1717870499.791253,
+    "formatted_time": "2024-06-08 23:44:59.791255",
+    "filescores": {
+        "assert.ranges_clamp.pass.cpp": 2.9997669917467133e-05,
+        "clamp.comp.pass.cpp": 2.088942480731076e-05,
+        "clamp.pass.cpp": 2.2890660220493686e-05,
+        "ranges.clamp.pass.cpp": 1.5027252832696298e-05
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/lldb/test/API/functionalities/paths",
+    "score.sum": 2.982617666838113e-05,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717914045.287966,
+    "formatted_time": "2024-06-09 11:50:45.287968",
+    "filescores": {
+        "TestPaths.py": 2.982617666838113e-05
+    },
+    "subdirscores": {}
+}

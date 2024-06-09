@@ -1,0 +1,18 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/depr/depr.function.objects/depr.adaptors/depr.function.pointer.adaptors",
+    "score.sum": 3.1484876294872974e-05,
+    "sha.latest": "61f2b3ed2183d24252561f9b48007e6cde937ce4",
+    "time.latest": 1717895608.05475,
+    "formatted_time": "2024-06-09 06:43:28.054751",
+    "filescores": {
+        "pointer_to_binary_function.cxx1z.compile.fail.cpp": 6.534094028098095e-06,
+        "pointer_to_binary_function.pass.cpp": 2.6978501188730957e-05,
+        "pointer_to_unary_function.cxx1z.compile.fail.cpp": 6.534094028098095e-06,
+        "pointer_to_unary_function.pass.cpp": 2.6978501188730957e-05,
+        "ptr_fun1.cxx1z.compile.fail.cpp": 6.534094028098095e-06,
+        "ptr_fun1.pass.cpp": 2.6978501188730957e-05,
+        "ptr_fun2.cxx1z.compile.fail.cpp": 6.534094028098095e-06,
+        "ptr_fun2.pass.cpp": 2.6978501188730957e-05
+    },
+    "subdirscores": {}
+}

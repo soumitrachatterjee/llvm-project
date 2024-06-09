@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/compiler-rt/lib/scudo/standalone/include/scudo",
+    "score.sum": 3.92294051191673e-05,
+    "sha.latest": "58c2a4e806b2882c0622cbded923b32f94c5b47b",
+    "time.latest": 1717805920.249298,
+    "formatted_time": "2024-06-08 05:48:40.249300",
+    "filescores": {
+        "interface.h": 3.92294051191673e-05
+    },
+    "subdirscores": {}
+}

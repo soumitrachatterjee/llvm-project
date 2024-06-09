@@ -1,0 +1,27 @@
+{
+    "directory name": "llvm-project/openmp/docs",
+    "score.sum": 0.00038356119394120433,
+    "sha.latest": "987087df90026605fc8d03ebda5a1cd31b71e609",
+    "time.latest": 1717792808.410912,
+    "formatted_time": "2024-06-08 02:10:08.410915",
+    "filescores": {
+        "CMakeLists.txt": 6.099602068851199e-06,
+        "CommandLineArgumentReference.rst": 1.0208085591110941e-05,
+        "conf.py": 6.357767391803295e-06,
+        "doxygen-mainpage.dox": 0,
+        "doxygen.cfg.in": 8.42820354190143e-06,
+        "index.rst": 1.2732069686854846e-05,
+        "README.txt": 6.099602068851199e-06,
+        "ReleaseNotes.rst": 6.813286589696199e-05,
+        "SupportAndFAQ.rst": 0.00013566222939620086
+    },
+    "subdirscores": {
+        "design": 0.00014545034722777617,
+        "openacc": 6.099602068851199e-06,
+        "optimizations": 1.0393866523226774e-05,
+        "remarks": 3.157720173416322e-05,
+        "_static": 0,
+        "_templates": 0,
+        "_themes": 6.099602068851199e-06
+    }
+}

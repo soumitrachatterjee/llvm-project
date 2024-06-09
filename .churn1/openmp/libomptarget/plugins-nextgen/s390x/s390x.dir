@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/openmp/libomptarget/plugins-nextgen/s390x",
+    "score.sum": 0,
+    "sha.latest": "1111ef025762d9b7ecc3cafc576083987ae63fe6",
+    "time.latest": 1717796133.395336,
+    "formatted_time": "2024-06-08 03:05:33.395339",
+    "filescores": {
+        "CMakeLists.txt": 0
+    },
+    "subdirscores": {}
+}

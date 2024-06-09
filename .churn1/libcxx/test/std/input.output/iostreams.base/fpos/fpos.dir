@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/input.output/iostreams.base/fpos",
+    "score.sum": 3.020053882045736e-05,
+    "sha.latest": "679f8a885b65e0c82537590f1d88c2bc4c6869bc",
+    "time.latest": 1717907249.1531157,
+    "formatted_time": "2024-06-09 09:57:29.153117",
+    "filescores": {},
+    "subdirscores": {
+        "fpos.members": 1.7366275644238228e-05,
+        "fpos.operations": 2.5675449015498747e-05
+    }
+}

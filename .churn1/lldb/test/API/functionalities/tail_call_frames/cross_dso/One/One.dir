@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/lldb/test/API/functionalities/tail_call_frames/cross_dso/One",
+    "score.sum": 0,
+    "sha.latest": "99451b4453688a94c6014cac233d371ab4cc342d",
+    "time.latest": 1717920412.2952626,
+    "formatted_time": "2024-06-09 13:36:52.295264",
+    "filescores": {
+        "One.c": 0
+    },
+    "subdirscores": {}
+}

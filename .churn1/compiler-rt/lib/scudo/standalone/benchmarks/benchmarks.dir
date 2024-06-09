@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/compiler-rt/lib/scudo/standalone/benchmarks",
+    "score.sum": 1.1000641873231502e-05,
+    "sha.latest": "e2a9d3f851c1d11b0bb97fd6c2b2739c992edffd",
+    "time.latest": 1717805635.015017,
+    "formatted_time": "2024-06-08 05:43:55.015019",
+    "filescores": {
+        "CMakeLists.txt": 6.099602068851199e-06,
+        "malloc_benchmark.cpp": 1.1000641873231502e-05
+    },
+    "subdirscores": {}
+}

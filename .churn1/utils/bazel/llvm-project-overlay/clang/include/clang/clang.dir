@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/utils/bazel/llvm-project-overlay/clang/include/clang",
+    "score.sum": 4.9808920579730984e-05,
+    "sha.latest": "5f254eb05566f5b400a212ae77117a9efd9019a1",
+    "time.latest": 1717788469.6854327,
+    "formatted_time": "2024-06-08 00:57:49.685437",
+    "filescores": {},
+    "subdirscores": {
+        "Config": 4.9808920579730984e-05
+    }
+}

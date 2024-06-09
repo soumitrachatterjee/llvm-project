@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/clang/test/ARCMT/Inputs/Module.framework/PrivateHeaders",
+    "score.sum": 0,
+    "sha.latest": "fcfc213c3f2279fe12a6fc343937874a7dbbde62",
+    "time.latest": 1717845481.6422782,
+    "formatted_time": "2024-06-08 16:48:01.642282",
+    "filescores": {
+        "ModulePrivate.h": 0
+    },
+    "subdirscores": {}
+}

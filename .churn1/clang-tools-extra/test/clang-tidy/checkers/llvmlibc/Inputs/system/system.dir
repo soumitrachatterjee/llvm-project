@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/clang-tools-extra/test/clang-tidy/checkers/llvmlibc/Inputs/system",
+    "score.sum": 0,
+    "sha.latest": "89a1d03e2b379e325daa5249411e414bbd995b5e",
+    "time.latest": 1717824795.2284167,
+    "formatted_time": "2024-06-08 11:03:15.228418",
+    "filescores": {
+        "stdio.h": 0,
+        "stdlib.h": 0,
+        "string.h": 0
+    },
+    "subdirscores": {}
+}

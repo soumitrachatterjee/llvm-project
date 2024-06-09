@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/openmp/runtime/tools/lib",
+    "score.sum": 5.1425155519906614e-05,
+    "sha.latest": "1111ef025762d9b7ecc3cafc576083987ae63fe6",
+    "time.latest": 1717805783.373703,
+    "formatted_time": "2024-06-08 05:46:23.373705",
+    "filescores": {
+        "Build.pm": 6.099602068851199e-06,
+        "LibOMP.pm": 1.513341892595416e-05,
+        "Platform.pm": 3.8108787495925845e-05,
+        "tools.pm": 2.7334726904279183e-05,
+        "Uname.pm": 3.1693529165430566e-05
+    },
+    "subdirscores": {}
+}

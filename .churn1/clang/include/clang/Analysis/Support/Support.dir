@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/clang/include/clang/Analysis/Support",
+    "score.sum": 6.919014491173042e-05,
+    "sha.latest": "b4fbc4bdbf58b9cecc9c66e8b8d97d3cebb5a976",
+    "time.latest": 1717794100.2778835,
+    "formatted_time": "2024-06-08 02:31:40.277889",
+    "filescores": {
+        "BumpVector.h": 3.755011760335209e-05
+    },
+    "subdirscores": {}
+}

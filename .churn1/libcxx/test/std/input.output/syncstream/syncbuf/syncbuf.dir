@@ -1,0 +1,20 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/input.output/syncstream/syncbuf",
+    "score.sum": 9.574903265779628e-06,
+    "sha.latest": "b2cc4b994e5fb85053b1acedec5ea0d1d42e5ec4",
+    "time.latest": 1717911081.643382,
+    "formatted_time": "2024-06-09 11:01:21.643383",
+    "filescores": {
+        "helpers.h": 0,
+        "sputc.pass.cpp": 6.099602068851199e-06,
+        "sputn.pass.cpp": 6.099602068851199e-06,
+        "sync.pass.cpp": 0,
+        "types.compile.pass.cpp": 0
+    },
+    "subdirscores": {
+        "syncstream.syncbuf.assign": 9.574903265779628e-06,
+        "syncstream.syncbuf.cons": 0,
+        "syncstream.syncbuf.members": 0,
+        "syncstream.syncbuf.special": 0
+    }
+}

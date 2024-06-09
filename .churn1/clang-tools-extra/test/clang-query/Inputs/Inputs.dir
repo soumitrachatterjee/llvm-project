@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/clang-tools-extra/test/clang-query/Inputs",
+    "score.sum": 0,
+    "sha.latest": "8b1265b353b027d90252f1a23c5c3121ee70f3a1",
+    "time.latest": 1717817872.5958593,
+    "formatted_time": "2024-06-08 09:07:52.595862",
+    "filescores": {
+        "foo.script": 0
+    },
+    "subdirscores": {}
+}

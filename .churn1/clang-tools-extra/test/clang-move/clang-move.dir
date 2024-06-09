@@ -1,0 +1,21 @@
+{
+    "directory name": "llvm-project/clang-tools-extra/test/clang-move",
+    "score.sum": 2.5726636252335063e-05,
+    "sha.latest": "dd5571d51a0f6164cb66d02c8cd0e7032e42abe4",
+    "time.latest": 1717817764.6032293,
+    "formatted_time": "2024-06-08 09:06:04.603233",
+    "filescores": {
+        "move-class.cpp": 1.3123945079533542e-05,
+        "move-enum-decl.cpp": 0,
+        "move-function.cpp": 6.099602068851199e-06,
+        "move-multiple-classes.cpp": 1.1239001110858337e-05,
+        "move-template-class.cpp": 0,
+        "move-type-alias.cpp": 0,
+        "move-used-helper-decls.cpp": 1.299677396792303e-05,
+        "move-var.cpp": 0,
+        "no-move-macro-helpers.cpp": 6.099602068851199e-06
+    },
+    "subdirscores": {
+        "Inputs": 3.556492225635309e-05
+    }
+}

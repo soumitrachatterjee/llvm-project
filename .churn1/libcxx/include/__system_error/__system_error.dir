@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/libcxx/include/__system_error",
+    "score.sum": 2.6637185733336208e-05,
+    "sha.latest": "3fa14233c4631ad1062553883835a5d5b36f2fe6",
+    "time.latest": 1717837283.6878238,
+    "formatted_time": "2024-06-08 14:31:23.687826",
+    "filescores": {
+        "errc.h": 6.099602068851199e-06,
+        "error_category.h": 8.521046401295002e-06,
+        "error_code.h": 1.7501651047503012e-05,
+        "error_condition.h": 2.1281058514864966e-05,
+        "system_error.h": 1.4819949879688255e-05
+    },
+    "subdirscores": {}
+}

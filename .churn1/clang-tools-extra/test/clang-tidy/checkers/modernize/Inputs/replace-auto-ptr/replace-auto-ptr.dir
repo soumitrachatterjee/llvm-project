@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/clang-tools-extra/test/clang-tidy/checkers/modernize/Inputs/replace-auto-ptr",
+    "score.sum": 0,
+    "sha.latest": "89a1d03e2b379e325daa5249411e414bbd995b5e",
+    "time.latest": 1717826662.9219215,
+    "formatted_time": "2024-06-08 11:34:22.921925",
+    "filescores": {
+        "memory.h": 0
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/openmp/runtime/src/include",
+    "score.sum": 0.00035123361178815107,
+    "sha.latest": "edfc21a5759e9f5f5025885da9b0b879204aff22",
+    "time.latest": 1717799688.5319667,
+    "formatted_time": "2024-06-08 04:04:48.531969",
+    "filescores": {
+        "omp-tools.h.var": 3.179470037203608e-05,
+        "omp.h.var": 5.594432600490836e-05,
+        "ompx.h.var": 6.099602068851199e-06,
+        "omp_lib.f90.var": 3.7994481219067154e-05,
+        "omp_lib.h.var": 5.393084387039848e-05
+    },
+    "subdirscores": {}
+}

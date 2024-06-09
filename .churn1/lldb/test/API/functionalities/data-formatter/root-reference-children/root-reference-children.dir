@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/functionalities/data-formatter/root-reference-children",
+    "score.sum": 0,
+    "sha.latest": "c7eb1b07470b9babfcd258f014df3661e5f84b30",
+    "time.latest": 1717908355.7117722,
+    "formatted_time": "2024-06-09 10:15:55.711774",
+    "filescores": {
+        "main.cpp": 0,
+        "Makefile": 0,
+        "TestRootReferenceChildren.py": 0
+    },
+    "subdirscores": {}
+}

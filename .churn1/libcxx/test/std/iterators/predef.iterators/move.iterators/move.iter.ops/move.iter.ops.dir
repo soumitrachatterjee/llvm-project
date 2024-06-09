@@ -1,0 +1,24 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/iterators/predef.iterators/move.iterators/move.iter.ops",
+    "score.sum": 0.00010573352103753737,
+    "sha.latest": "70248920fcd804a5825ecf69f24b96a7e340afe6",
+    "time.latest": 1717919262.3967788,
+    "formatted_time": "2024-06-09 13:17:42.396781",
+    "filescores": {},
+    "subdirscores": {
+        "move.iter.nonmember": 3.2155445665558995e-05,
+        "move.iter.op.+": 1.4898207517284381e-05,
+        "move.iter.op.+=": 1.4898207517284381e-05,
+        "move.iter.op.-": 1.437931600397554e-05,
+        "move.iter.op.-=": 1.4898207517284381e-05,
+        "move.iter.op.comp": 3.127939910369878e-05,
+        "move.iter.op.const": 5.436668876680885e-05,
+        "move.iter.op.conv": 1.2842469594762593e-05,
+        "move.iter.op.decr": 1.4898207517284381e-05,
+        "move.iter.op.incr": 2.4026028695758694e-05,
+        "move.iter.op.index": 1.598444777128297e-05,
+        "move.iter.op.ref": 2.4545222192666284e-05,
+        "move.iter.op.star": 1.970069678645705e-05,
+        "move.iter.op=": 5.297832164930977e-05
+    }
+}

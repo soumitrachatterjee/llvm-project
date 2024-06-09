@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/driver",
+    "score.sum": 3.979137230939358e-05,
+    "sha.latest": "503075e4d4a9c1b3754b21ee9ec41f176e54fd83",
+    "time.latest": 1717901337.3603966,
+    "formatted_time": "2024-06-09 08:18:57.360399",
+    "filescores": {},
+    "subdirscores": {
+        "batch_mode": 1.533243454278508e-05,
+        "job_control": 1.1155638386439644e-05,
+        "quit_speed": 6.099602068851199e-06
+    }
+}

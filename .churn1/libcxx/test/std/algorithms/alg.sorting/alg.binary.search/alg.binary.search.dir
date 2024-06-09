@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/algorithms/alg.sorting/alg.binary.search",
+    "score.sum": 5.634725329345758e-05,
+    "sha.latest": "33912468a7dbd2cdef3648878ccd6b8f99e0b5bf",
+    "time.latest": 1717870444.1290746,
+    "formatted_time": "2024-06-08 23:44:04.129077",
+    "filescores": {},
+    "subdirscores": {
+        "binary.search": 3.0050305399549042e-05,
+        "equal.range": 3.025099742664562e-05,
+        "lower.bound": 3.9735524116685556e-05,
+        "upper.bound": 2.8617021274163794e-05
+    }
+}

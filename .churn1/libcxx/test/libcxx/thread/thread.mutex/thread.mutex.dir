@@ -1,0 +1,17 @@
+{
+    "directory name": "llvm-project/libcxx/test/libcxx/thread/thread.mutex",
+    "score.sum": 5.5514330232083016e-05,
+    "sha.latest": "dc71a77d33620830020c939bba25ebdfdd1b6194",
+    "time.latest": 1717865388.4571018,
+    "formatted_time": "2024-06-08 22:19:48.457104",
+    "filescores": {
+        "thread_safety_annotations_not_enabled.pass.cpp": 1.9297989070188417e-05,
+        "thread_safety_lock_guard.pass.cpp": 3.0922101610546094e-05,
+        "thread_safety_lock_unlock.pass.cpp": 2.6492667084776398e-05,
+        "thread_safety_missing_unlock.verify.cpp": 0,
+        "thread_safety_requires_capability.pass.cpp": 2.6492667084776398e-05
+    },
+    "subdirscores": {
+        "thread.mutex.requirements": 1.5285836437724337e-05
+    }
+}
