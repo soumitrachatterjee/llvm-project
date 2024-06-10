@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/re/re.regex/re.regex.const",
+    "score.sum": 1.803678986525532e-05,
+    "sha.latest": "2df59c50688c122bbcae7467d3eaf862c3ea3088",
+    "time.latest": 1717966877.2895796,
+    "formatted_time": "2024-06-10 02:31:17.289581",
+    "filescores": {
+        "constants.pass.cpp": 1.803678986525532e-05
+    },
+    "subdirscores": {}
+}

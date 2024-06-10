@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/python_api/run_locker",
+    "score.sum": 1.2167117506506885e-05,
+    "sha.latest": "83f8caeab476646eea21bdde619b0beb84ebd70b",
+    "time.latest": 1717966343.7281358,
+    "formatted_time": "2024-06-10 02:22:23.728140",
+    "filescores": {
+        "main.c": 0,
+        "Makefile": 0,
+        "TestRunLocker.py": 1.2167117506506885e-05
+    },
+    "subdirscores": {}
+}

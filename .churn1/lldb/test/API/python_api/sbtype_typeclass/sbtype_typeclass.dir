@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/lldb/test/API/python_api/sbtype_typeclass",
+    "score.sum": 8.903940202167583e-06,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717966593.8451633,
+    "formatted_time": "2024-06-10 02:26:33.845165",
+    "filescores": {
+        "main.m": 6.099602068851199e-06,
+        "TestSBTypeTypeClass.py": 8.860390076218962e-06
+    },
+    "subdirscores": {}
+}

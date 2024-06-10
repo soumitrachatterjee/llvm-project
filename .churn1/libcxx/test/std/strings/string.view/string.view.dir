@@ -1,0 +1,32 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/strings/string.view",
+    "score.sum": 0.0005528720486438434,
+    "sha.latest": "164c204a19f7859d570003d4c5e82faf48cb65a9",
+    "time.latest": 1717974225.4158008,
+    "formatted_time": "2024-06-10 04:33:45.415804",
+    "filescores": {
+        "char.bad.verify.cpp": 1.0318771534829485e-05,
+        "enable_borrowed_range.compile.pass.cpp": 6.441176266062561e-06,
+        "range_concept_conformance.compile.pass.cpp": 1.5642755401491874e-05,
+        "traits_mismatch.compile.fail.cpp": 9.95083441961179e-06,
+        "trivially_copyable.compile.pass.cpp": 9.30628593433582e-06,
+        "types.pass.cpp": 3.066122157125561e-05
+    },
+    "subdirscores": {
+        "string.view.access": 4.45948294233301e-05,
+        "string.view.capacity": 7.906096219391392e-05,
+        "string.view.comparison": 7.258429977203908e-05,
+        "string.view.cons": 0.0001504792584100448,
+        "string.view.deduct": 1.6293112316503342e-05,
+        "string.view.find": 3.3298267204433884e-05,
+        "string.view.hash": 0.00010679007236920417,
+        "string.view.io": 4.744708345797919e-05,
+        "string.view.iterators": 0.0001241967671414982,
+        "string.view.modifiers": 3.325039047598382e-05,
+        "string.view.nonmem": 3.2494865838043926e-05,
+        "string.view.ops": 7.088119287666223e-05,
+        "string.view.synop": 1.7230376696862196e-05,
+        "string.view.template": 4.9287605024595166e-05,
+        "string_view.literals": 5.102559196527813e-05
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/utilities/memory/allocator.uses/allocator.uses.construction",
+    "score.sum": 3.339114902124432e-05,
+    "sha.latest": "bcf172ec578a2a787de45858871e59fd64f7b196",
+    "time.latest": 1717998048.525866,
+    "formatted_time": "2024-06-10 11:10:48.525868",
+    "filescores": {
+        "common.h": 7.923126108916824e-06,
+        "make_obj_using_allocator.pass.cpp": 9.650658914826631e-06,
+        "uninitialized_construct_using_allocator.pass.cpp": 9.650658914826631e-06,
+        "uses_allocator_construction_args.pass.cpp": 6.3922964739383744e-06
+    },
+    "subdirscores": {}
+}

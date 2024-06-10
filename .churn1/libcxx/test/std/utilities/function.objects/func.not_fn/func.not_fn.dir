@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/utilities/function.objects/func.not_fn",
+    "score.sum": 3.95352308258315e-05,
+    "sha.latest": "275ff33abf22689b8eef15a2d03d0025ba35a9c2",
+    "time.latest": 1717996087.5060375,
+    "formatted_time": "2024-06-10 10:38:07.506040",
+    "filescores": {
+        "not_fn.pass.cpp": 3.95352308258315e-05
+    },
+    "subdirscores": {}
+}

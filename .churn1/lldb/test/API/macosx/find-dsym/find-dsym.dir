@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/lldb/test/API/macosx/find-dsym",
+    "score.sum": 2.7061570943452666e-05,
+    "sha.latest": "80fcecb13c388ff087a27a4b0e7ca3dd8c98eaa4",
+    "time.latest": 1717962769.7722502,
+    "formatted_time": "2024-06-10 01:22:49.772252",
+    "filescores": {},
+    "subdirscores": {
+        "bundle-with-dot-in-filename": 2.7061570943452666e-05,
+        "deep-bundle": 2.7061570943452666e-05
+    }
+}

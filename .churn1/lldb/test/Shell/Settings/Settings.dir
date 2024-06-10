@@ -1,0 +1,25 @@
+{
+    "directory name": "llvm-project/lldb/test/Shell/Settings",
+    "score.sum": 6.187716543349522e-05,
+    "sha.latest": "f4ede08c61cba631de204398a91aa59bac9d5db9",
+    "time.latest": 1717979441.5308137,
+    "formatted_time": "2024-06-10 06:00:41.530817",
+    "filescores": {
+        "TestDefaultModuleCachePath.test": 0,
+        "TestDisableColor.test": 8.22683439832498e-06,
+        "TestDisassemblyFormat.test": 6.1063492891555956e-06,
+        "TestEchoCommands.test": 1.2188712750988476e-05,
+        "TestFrameFormatColor.test": 6.142562783957262e-06,
+        "TestFrameFormatMangling.test": 0,
+        "TestFrameFormatName.test": 0,
+        "TestFrameFormatNoColor.test": 6.142562783957262e-06,
+        "TestLineMarkerColor.test": 0,
+        "TestModuleCacheSanity.test": 8.22683439832498e-06,
+        "TestSettingsSet.test": 1.0484750714845843e-05,
+        "TestSettingsWrite.test": 8.22683439832498e-06,
+        "TestStopCommandSourceOnError.test": 7.116387020756694e-06
+    },
+    "subdirscores": {
+        "Inputs": 2.294269180133865e-05
+    }
+}

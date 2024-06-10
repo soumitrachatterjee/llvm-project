@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/lldb/test/API/python_api/thread",
+    "score.sum": 4.485039054191451e-05,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717967114.8837183,
+    "formatted_time": "2024-06-10 02:35:14.883721",
+    "filescores": {
+        "main.cpp": 6.099602068851199e-06,
+        "main2.cpp": 6.099602068851199e-06,
+        "Makefile": 6.099602068851199e-06,
+        "TestThreadAPI.py": 4.0316484292037853e-05
+    },
+    "subdirscores": {}
+}

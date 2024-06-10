@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/unittests/Platform/Android",
+    "score.sum": 1.2278267893332228e-05,
+    "sha.latest": "fabd16c7460e6cfae3106155ec79142bfa54db2e",
+    "time.latest": 1717997014.8897576,
+    "formatted_time": "2024-06-10 10:53:34.889761",
+    "filescores": {
+        "AdbClientTest.cpp": 0,
+        "CMakeLists.txt": 6.178674718981363e-06,
+        "PlatformAndroidTest.cpp": 6.099602068851199e-06
+    },
+    "subdirscores": {}
+}

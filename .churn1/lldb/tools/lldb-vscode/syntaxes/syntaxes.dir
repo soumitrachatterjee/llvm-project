@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/lldb/tools/lldb-vscode/syntaxes",
+    "score.sum": 6.099602068851199e-06,
+    "sha.latest": "01263c6c6fb495a94fe0ccbb1420bb1ec8460748",
+    "time.latest": 1717995544.180599,
+    "formatted_time": "2024-06-10 10:29:04.180602",
+    "filescores": {
+        "arm.disasm": 6.099602068851199e-06,
+        "arm64.disasm": 6.099602068851199e-06,
+        "disassembly.json": 6.099602068851199e-06,
+        "x86.disasm": 6.099602068851199e-06
+    },
+    "subdirscores": {}
+}

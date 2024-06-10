@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/strings/char.traits/char.traits.typedefs",
+    "score.sum": 1.185658575618799e-05,
+    "sha.latest": "a40bada91aeda276a772acfbcae6e8de26755a11",
+    "time.latest": 1717972231.4728024,
+    "formatted_time": "2024-06-10 04:00:31.472804",
+    "filescores": {
+        "nothing_to_do.pass.cpp": 1.185658575618799e-05
+    },
+    "subdirscores": {}
+}

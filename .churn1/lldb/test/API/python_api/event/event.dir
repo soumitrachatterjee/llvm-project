@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/python_api/event",
+    "score.sum": 5.049924866778793e-05,
+    "sha.latest": "9c2468821ec51defd09c246fea4a47886fff8c01",
+    "time.latest": 1717965201.7141612,
+    "formatted_time": "2024-06-10 02:03:21.714163",
+    "filescores": {
+        "main.c": 6.099602068851199e-06,
+        "Makefile": 0,
+        "TestEvents.py": 5.0463750033651344e-05
+    },
+    "subdirscores": {}
+}

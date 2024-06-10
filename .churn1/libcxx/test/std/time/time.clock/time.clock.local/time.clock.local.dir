@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/time/time.clock/time.clock.local",
+    "score.sum": 8.081069242965268e-06,
+    "sha.latest": "042a6a1349d512edaaa225380771c64a8d92810a",
+    "time.latest": 1717983561.0056765,
+    "formatted_time": "2024-06-10 07:09:21.005679",
+    "filescores": {
+        "ostream.pass.cpp": 8.081069242965268e-06,
+        "ostream.verify.cpp": 0
+    },
+    "subdirscores": {}
+}

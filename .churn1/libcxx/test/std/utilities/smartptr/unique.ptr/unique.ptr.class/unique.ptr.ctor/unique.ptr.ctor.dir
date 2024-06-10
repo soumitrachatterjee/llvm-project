@@ -1,0 +1,21 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/utilities/smartptr/unique.ptr/unique.ptr.class/unique.ptr.ctor",
+    "score.sum": 5.980589689800703e-05,
+    "sha.latest": "5d976edd3f2af2f0ddcbcf45c8b2b5631ce4deec",
+    "time.latest": 1718004687.0151439,
+    "formatted_time": "2024-06-10 13:01:27.015146",
+    "filescores": {
+        "auto_pointer.pass.cpp": 1.8255248525120338e-05,
+        "deduct.pass.cpp": 6.099602068851199e-06,
+        "default.pass.cpp": 2.6320947256498178e-05,
+        "move.pass.cpp": 1.3002692137756947e-05,
+        "move_convert.pass.cpp": 1.655070919565861e-05,
+        "move_convert.runtime.pass.cpp": 1.6106907127558326e-05,
+        "move_convert.single.pass.cpp": 1.4024156492935191e-05,
+        "nullptr.pass.cpp": 2.916461947852648e-05,
+        "pointer.pass.cpp": 1.8226220557150378e-05,
+        "pointer_deleter.pass.cpp": 1.0148003384763522e-05,
+        "pointer_deleter.verify.cpp": 0
+    },
+    "subdirscores": {}
+}

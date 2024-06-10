@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/lldb/test/API/tools/lldb-dap/module",
+    "score.sum": 6.099602068851199e-06,
+    "sha.latest": "80fcecb13c388ff087a27a4b0e7ca3dd8c98eaa4",
+    "time.latest": 1717969245.5613742,
+    "formatted_time": "2024-06-10 03:10:45.561377",
+    "filescores": {
+        "foo.cpp": 0,
+        "foo.h": 0,
+        "main.cpp": 0,
+        "Makefile": 0,
+        "TestDAP_module.py": 6.099602068851199e-06
+    },
+    "subdirscores": {}
+}

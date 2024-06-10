@@ -1,0 +1,22 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/ranges/range.adaptors/range.transform",
+    "score.sum": 4.8838289246058205e-05,
+    "sha.latest": "ba2236d3000645d3127f972aa7ac1844c47e299c",
+    "time.latest": 1717963635.2525113,
+    "formatted_time": "2024-06-10 01:37:15.252513",
+    "filescores": {
+        "adaptor.pass.cpp": 1.00380404206283e-05,
+        "base.pass.cpp": 1.2529673382280437e-05,
+        "begin.pass.cpp": 1.6099905017162177e-05,
+        "ctad.compile.pass.cpp": 1.7904327451601123e-05,
+        "ctor.default.pass.cpp": 1.3573041166277093e-05,
+        "ctor.view_function.pass.cpp": 1.1965243853202396e-05,
+        "end.pass.cpp": 1.8049466032401112e-05,
+        "general.pass.cpp": 2.1832488162244884e-05,
+        "size.pass.cpp": 1.2529673382280437e-05,
+        "types.h": 1.634233896391508e-05
+    },
+    "subdirscores": {
+        "iterator": 2.609205489392688e-05
+    }
+}

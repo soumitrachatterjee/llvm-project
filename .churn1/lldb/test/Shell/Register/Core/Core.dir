@@ -1,0 +1,36 @@
+{
+    "directory name": "llvm-project/lldb/test/Shell/Register/Core",
+    "score.sum": 7.865728239325691e-06,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717977668.7881155,
+    "formatted_time": "2024-06-10 05:31:08.788117",
+    "filescores": {
+        "aarch64-freebsd-multithread.test": 0,
+        "x86-32-freebsd-addr.test": 6.099602068851199e-06,
+        "x86-32-freebsd-fp.test": 0,
+        "x86-32-freebsd-gp.test": 0,
+        "x86-32-freebsd-multithread.test": 0,
+        "x86-32-linux-addr.test": 0,
+        "x86-32-linux-fp.test": 0,
+        "x86-32-linux-gp.test": 0,
+        "x86-32-linux-multithread.test": 0,
+        "x86-32-netbsd-addr.test": 0,
+        "x86-32-netbsd-gp.test": 0,
+        "x86-32-netbsd-multithread.test": 0,
+        "x86-64-freebsd-addr.test": 0,
+        "x86-64-freebsd-fp.test": 0,
+        "x86-64-freebsd-gp.test": 0,
+        "x86-64-freebsd-multithread.test": 0,
+        "x86-64-linux-addr.test": 0,
+        "x86-64-linux-fp.test": 0,
+        "x86-64-linux-gp.test": 0,
+        "x86-64-linux-multithread.test": 0,
+        "x86-64-netbsd-addr.test": 0,
+        "x86-64-netbsd-fp.test": 0,
+        "x86-64-netbsd-gp.test": 0,
+        "x86-64-netbsd-multithread.test": 0
+    },
+    "subdirscores": {
+        "Inputs": 7.221955484747654e-06
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/lldb/unittests/Host/linux",
+    "score.sum": 1.5698342131251818e-05,
+    "sha.latest": "bc9b106a5750cf05ddab1dfce2a77d73bcc7d44a",
+    "time.latest": 1717996332.4775178,
+    "formatted_time": "2024-06-10 10:42:12.477520",
+    "filescores": {
+        "HostTest.cpp": 1.5698342131251818e-05,
+        "SupportTest.cpp": 1.0039145875408124e-05
+    },
+    "subdirscores": {}
+}

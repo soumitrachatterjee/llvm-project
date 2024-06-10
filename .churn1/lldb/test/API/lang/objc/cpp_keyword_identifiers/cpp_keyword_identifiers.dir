@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/lang/objc/cpp_keyword_identifiers",
+    "score.sum": 9.93270199642458e-06,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717956264.2422595,
+    "formatted_time": "2024-06-09 23:34:24.242264",
+    "filescores": {
+        "main.m": 0,
+        "Makefile": 0,
+        "TestCppKeywordsAsObjCIdentifiers.py": 9.93270199642458e-06
+    },
+    "subdirscores": {}
+}

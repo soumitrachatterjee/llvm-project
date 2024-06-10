@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/time/time.zone/time.zone.timezone",
+    "score.sum": 0,
+    "sha.latest": "d332d88b919faa15564ab70b0633d94f21bc3e3c",
+    "time.latest": 1717986898.19929,
+    "formatted_time": "2024-06-10 08:04:58.199293",
+    "filescores": {
+        "types.compile.pass.cpp": 0
+    },
+    "subdirscores": {
+        "time.zone.members": 0,
+        "time.zone.nonmembers": 0
+    }
+}

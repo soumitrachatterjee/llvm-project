@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/utilities/memory/pointer.traits/pointer.traits.types",
+    "score.sum": 1.3771881462391153e-05,
+    "sha.latest": "029c9c31769c26c53108aba7436d46f9ab63ed8d",
+    "time.latest": 1717998467.0988452,
+    "formatted_time": "2024-06-10 11:17:47.098847",
+    "filescores": {
+        "difference_type.compile.pass.cpp": 0,
+        "element_type.compile.pass.cpp": 0,
+        "lwg3545.compile.pass.cpp": 0,
+        "pointer.compile.pass.cpp": 0,
+        "rebind.compile.pass.cpp": 0
+    },
+    "subdirscores": {}
+}

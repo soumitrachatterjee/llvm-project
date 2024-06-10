@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/python_api/sbdata",
+    "score.sum": 3.673941464826835e-05,
+    "sha.latest": "9c2468821ec51defd09c246fea4a47886fff8c01",
+    "time.latest": 1717966388.7559206,
+    "formatted_time": "2024-06-10 02:23:08.755923",
+    "filescores": {
+        "main.cpp": 6.099602068851199e-06,
+        "Makefile": 0,
+        "TestSBData.py": 3.670391601413177e-05
+    },
+    "subdirscores": {}
+}

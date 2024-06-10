@@ -1,0 +1,18 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/numerics/rand/rand.util/rand.util.seedseq",
+    "score.sum": 2.8234919384136897e-05,
+    "sha.latest": "8b29b84c99ac8140c9820fd34b733bdedf5bb0f5",
+    "time.latest": 1717959957.6777246,
+    "formatted_time": "2024-06-10 00:35:57.677729",
+    "filescores": {
+        "assign.compile.fail.cpp": 0,
+        "copy.compile.fail.cpp": 0,
+        "default.pass.cpp": 1.6974228057404206e-05,
+        "generate.pass.cpp": 1.7366275644238228e-05,
+        "initializer_list.pass.cpp": 2.285653105334383e-05,
+        "iterator.pass.cpp": 1.6974228057404206e-05,
+        "iterator.verify.cpp": 0,
+        "types.pass.cpp": 1.7366275644238228e-05
+    },
+    "subdirscores": {}
+}

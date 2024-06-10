@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/lldb/test/API/tools/lldb-server/libraries-svr4",
+    "score.sum": 2.2284444250235078e-05,
+    "sha.latest": "5b386158aacac4b41126983a5379d36ed413d0ea",
+    "time.latest": 1717970003.441327,
+    "formatted_time": "2024-06-10 03:23:23.441329",
+    "filescores": {
+        "main.cpp": 6.099602068851199e-06,
+        "Makefile": 0,
+        "svr4lib_a.cpp": 6.099602068851199e-06,
+        "svr4lib_b_quote.cpp": 6.099602068851199e-06,
+        "TestGdbRemoteLibrariesSvr4Support.py": 2.2248754847639626e-05
+    },
+    "subdirscores": {}
+}

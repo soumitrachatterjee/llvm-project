@@ -1,0 +1,32 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/utilities/memory/util.smartptr/util.smartptr.shared/util.smartptr.shared.const",
+    "score.sum": 0.00020838357269544876,
+    "sha.latest": "f5832bab6f5024cabe32a9f668b7f44e6b7cfef5",
+    "time.latest": 1717999712.0720582,
+    "formatted_time": "2024-06-10 11:38:32.072061",
+    "filescores": {
+        "auto_ptr.pass.cpp": 6.538241194967886e-05,
+        "deduction.pass.cpp": 3.625313808755077e-05,
+        "default.pass.cpp": 4.265402714249186e-05,
+        "nullptr_t.pass.cpp": 2.8984315101092184e-05,
+        "nullptr_t_deleter.pass.cpp": 3.5610182581416965e-05,
+        "nullptr_t_deleter_allocator.pass.cpp": 4.268083245523902e-05,
+        "nullptr_t_deleter_allocator_throw.pass.cpp": 2.6335252725335404e-05,
+        "nullptr_t_deleter_throw.pass.cpp": 2.8315440518423425e-05,
+        "pointer.pass.cpp": 4.902073476232313e-05,
+        "pointer_deleter.pass.cpp": 5.269239757283421e-05,
+        "pointer_deleter_allocator.pass.cpp": 5.840593899466312e-05,
+        "pointer_deleter_allocator_throw.pass.cpp": 2.6335252725335404e-05,
+        "pointer_deleter_throw.pass.cpp": 5.1317766499071046e-05,
+        "pointer_throw.pass.cpp": 4.893438815942025e-05,
+        "shared_ptr.pass.cpp": 2.8984315101092184e-05,
+        "shared_ptr_copy_move.verify.cpp": 0,
+        "shared_ptr_pointer.pass.cpp": 6.229617889641258e-05,
+        "shared_ptr_rv.pass.cpp": 4.7641078329806515e-05,
+        "shared_ptr_Y.pass.cpp": 5.121829869770032e-05,
+        "shared_ptr_Y_rv.pass.cpp": 4.3385785845336e-05,
+        "unique_ptr.pass.cpp": 9.678741922514319e-05,
+        "weak_ptr.pass.cpp": 4.007096732633959e-05
+    },
+    "subdirscores": {}
+}

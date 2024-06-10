@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/lldb/test/Shell/Error/Inputs",
+    "score.sum": 0,
+    "sha.latest": "b6d56ddac1bf50d532abdc86a84f9bc8e3e7a266",
+    "time.latest": 1717972513.6204495,
+    "formatted_time": "2024-06-10 04:05:13.620451",
+    "filescores": {
+        "cleanup.lldbinit": 0
+    },
+    "subdirscores": {}
+}

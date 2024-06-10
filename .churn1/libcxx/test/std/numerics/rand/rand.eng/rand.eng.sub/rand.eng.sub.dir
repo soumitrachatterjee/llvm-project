@@ -1,0 +1,22 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/numerics/rand/rand.eng/rand.eng.sub",
+    "score.sum": 3.709336869271517e-05,
+    "sha.latest": "bd5d0fee9bbb3762ff26538f03d59926f5635c78",
+    "time.latest": 1717959480.5675092,
+    "formatted_time": "2024-06-10 00:28:00.567514",
+    "filescores": {
+        "assign.pass.cpp": 2.1352974869156478e-05,
+        "copy.pass.cpp": 2.1352974869156478e-05,
+        "ctor_result_type.pass.cpp": 2.9834829872930333e-05,
+        "ctor_sseq.pass.cpp": 2.128627699197688e-05,
+        "default.pass.cpp": 1.7366275644238228e-05,
+        "discard.pass.cpp": 2.1352974869156478e-05,
+        "eval.pass.cpp": 1.7366275644238228e-05,
+        "io.pass.cpp": 2.128627699197688e-05,
+        "result_type.pass.cpp": 1.7366275644238228e-05,
+        "seed_result_type.pass.cpp": 1.7366275644238228e-05,
+        "seed_sseq.pass.cpp": 1.7366275644238228e-05,
+        "values.pass.cpp": 2.231363763959832e-05
+    },
+    "subdirscores": {}
+}

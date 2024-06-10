@@ -1,0 +1,20 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/strings/string.conversions",
+    "score.sum": 6.340598400915784e-05,
+    "sha.latest": "a40bada91aeda276a772acfbcae6e8de26755a11",
+    "time.latest": 1717972363.1925411,
+    "formatted_time": "2024-06-10 04:02:43.192543",
+    "filescores": {
+        "stod.pass.cpp": 3.889154053393476e-05,
+        "stof.pass.cpp": 3.923429419303591e-05,
+        "stoi.pass.cpp": 3.889154053393476e-05,
+        "stol.pass.cpp": 3.923429419303591e-05,
+        "stold.pass.cpp": 4.234208057980666e-05,
+        "stoll.pass.cpp": 3.923429419303591e-05,
+        "stoul.pass.cpp": 3.923429419303591e-05,
+        "stoull.pass.cpp": 3.923429419303591e-05,
+        "to_string.pass.cpp": 2.1880862304681954e-05,
+        "to_wstring.pass.cpp": 3.1870244122978314e-05
+    },
+    "subdirscores": {}
+}

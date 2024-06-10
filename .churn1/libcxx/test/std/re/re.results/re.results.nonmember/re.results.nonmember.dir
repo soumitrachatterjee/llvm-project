@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/re/re.results/re.results.nonmember",
+    "score.sum": 1.2964179810982022e-05,
+    "sha.latest": "cdcfc5ec9b33da441218041b6cd4f4ad19620eca",
+    "time.latest": 1717967569.1409557,
+    "formatted_time": "2024-06-10 02:42:49.140957",
+    "filescores": {
+        "equal.pass.cpp": 1.2964179810982022e-05
+    },
+    "subdirscores": {}
+}

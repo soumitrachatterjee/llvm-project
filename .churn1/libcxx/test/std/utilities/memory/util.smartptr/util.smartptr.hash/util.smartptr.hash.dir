@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/utilities/memory/util.smartptr/util.smartptr.hash",
+    "score.sum": 4.873164919875326e-05,
+    "sha.latest": "fb855eb941b6d740cc6560297d0b4d3201dcaf9f",
+    "time.latest": 1717999249.7537668,
+    "formatted_time": "2024-06-10 11:30:49.753769",
+    "filescores": {
+        "enabled_hash.pass.cpp": 2.3106030924689765e-05,
+        "hash_shared_ptr.pass.cpp": 3.0162513433525544e-05,
+        "hash_unique_ptr.pass.cpp": 3.676894114217103e-05
+    },
+    "subdirscores": {}
+}

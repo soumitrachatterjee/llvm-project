@@ -1,0 +1,23 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/thread/thread.threads/thread.thread.class/thread.thread.id",
+    "score.sum": 0.00010461480319484916,
+    "sha.latest": "08fe7df600aeff45917eb865d103d6c431f42285",
+    "time.latest": 1717980149.691037,
+    "formatted_time": "2024-06-10 06:12:29.691038",
+    "filescores": {
+        "assign.pass.cpp": 1.6482671913285826e-05,
+        "cmp.pass.cpp": 0,
+        "copy.pass.cpp": 1.6482671913285826e-05,
+        "default.pass.cpp": 1.6482671913285826e-05,
+        "enabled_hashes.pass.cpp": 2.2945632985650276e-05,
+        "format.functions.format.pass.cpp": 1.0346011134835537e-05,
+        "format.functions.tests.h": 8.070464063927469e-06,
+        "format.functions.vformat.pass.cpp": 1.0346011134835537e-05,
+        "format.pass.cpp": 1.4056826778812323e-05,
+        "parse.pass.cpp": 1.0630772836068592e-05,
+        "stream.pass.cpp": 4.251798212781856e-05,
+        "thread_id.pass.cpp": 2.5736386314965547e-05,
+        "types.compile.pass.cpp": 8.05464712425067e-06
+    },
+    "subdirscores": {}
+}

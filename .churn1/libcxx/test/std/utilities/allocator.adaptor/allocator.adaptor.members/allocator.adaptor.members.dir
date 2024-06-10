@@ -1,0 +1,27 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/utilities/allocator.adaptor/allocator.adaptor.members",
+    "score.sum": 7.468054876406432e-05,
+    "sha.latest": "4d3b502704809c9605b9568c6feb2a2f0ca51907",
+    "time.latest": 1717987513.713101,
+    "formatted_time": "2024-06-10 08:15:13.713104",
+    "filescores": {
+        "allocate_size.pass.cpp": 1.9415982717167288e-05,
+        "allocate_size.verify.cpp": 1.1058841209615539e-05,
+        "allocate_size_hint.pass.cpp": 1.9415982717167288e-05,
+        "allocate_size_hint.verify.cpp": 1.1058841209615539e-05,
+        "construct.pass.cpp": 3.8574191766455865e-05,
+        "construct_pair.pass.cpp": 3.236973125851091e-05,
+        "construct_pair_const_lvalue_pair.pass.cpp": 3.216198522687306e-05,
+        "construct_pair_piecewise.pass.cpp": 3.216198522687306e-05,
+        "construct_pair_rvalue.pass.cpp": 3.216198522687306e-05,
+        "construct_pair_values.pass.cpp": 3.216198522687306e-05,
+        "construct_type.pass.cpp": 3.296581639765393e-05,
+        "deallocate.pass.cpp": 1.9415982717167288e-05,
+        "destroy.pass.cpp": 1.9415982717167288e-05,
+        "inner_allocator.pass.cpp": 1.9415982717167288e-05,
+        "max_size.pass.cpp": 1.9415982717167288e-05,
+        "outer_allocator.pass.cpp": 1.9415982717167288e-05,
+        "select_on_container_copy_construction.pass.cpp": 1.9415982717167288e-05
+    },
+    "subdirscores": {}
+}

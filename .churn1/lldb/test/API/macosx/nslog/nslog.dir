@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/lldb/test/API/macosx/nslog",
+    "score.sum": 2.018925006322398e-05,
+    "sha.latest": "99824cf7967922bdd9ac895c949f330bb8d6b85a",
+    "time.latest": 1717963544.450294,
+    "formatted_time": "2024-06-10 01:35:44.450296",
+    "filescores": {
+        "categories": 0,
+        "main.m": 6.099602068851199e-06,
+        "Makefile": 0,
+        "TestDarwinNSLogOutput.py": 1.7904377863491246e-05
+    },
+    "subdirscores": {}
+}

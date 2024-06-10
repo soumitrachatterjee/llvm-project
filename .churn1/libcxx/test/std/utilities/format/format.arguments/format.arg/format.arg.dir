@@ -1,0 +1,16 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/utilities/format/format.arguments/format.arg",
+    "score.sum": 5.1830486551798705e-05,
+    "sha.latest": "27e67cdb31bed4c346af925686c031d57aef9846",
+    "time.latest": 1717993894.7243786,
+    "formatted_time": "2024-06-10 10:01:34.724380",
+    "filescores": {
+        "ctor.pass.cpp": 1.8140282575369807e-05,
+        "operator_bool.pass.cpp": 1.556924372887488e-05,
+        "visit.pass.cpp": 7.039215689524916e-06,
+        "visit.return_type.pass.cpp": 7.039215689524916e-06,
+        "visit_format_arg.deprecated.verify.cpp": 7.039215689524916e-06,
+        "visit_format_arg.pass.cpp": 3.779024196706045e-05
+    },
+    "subdirscores": {}
+}

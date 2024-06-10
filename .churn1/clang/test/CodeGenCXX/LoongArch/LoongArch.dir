@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/clang/test/CodeGenCXX/LoongArch",
+    "score.sum": 0,
+    "sha.latest": "7d88a05cc01c8d8950d88e96fd8516af67b10b8e",
+    "time.latest": 1718003072.8368883,
+    "formatted_time": "2024-06-10 12:34:32.836891",
+    "filescores": {
+        "abi-lp64d-struct-inherit.cpp": 0
+    },
+    "subdirscores": {}
+}

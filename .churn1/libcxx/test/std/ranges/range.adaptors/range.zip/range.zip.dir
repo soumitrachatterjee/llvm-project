@@ -1,0 +1,24 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/ranges/range.adaptors/range.zip",
+    "score.sum": 2.829914060174271e-05,
+    "sha.latest": "e07a2f49e3d3c13b6e9b89e0f6118652f2b2d3ac",
+    "time.latest": 1717963958.6593995,
+    "formatted_time": "2024-06-10 01:42:38.659403",
+    "filescores": {
+        "begin.pass.cpp": 6.099602068851199e-06,
+        "borrowing.compile.pass.cpp": 6.099602068851199e-06,
+        "cpo.pass.cpp": 8.823078201102395e-06,
+        "ctad.compile.pass.cpp": 6.099602068851199e-06,
+        "ctor.default.pass.cpp": 8.823078201102395e-06,
+        "ctor.views.pass.cpp": 6.099602068851199e-06,
+        "end.pass.cpp": 7.312371485091827e-06,
+        "general.pass.cpp": 2.3365814957279795e-05,
+        "range.concept.compile.pass.cpp": 1.554095787754184e-05,
+        "size.pass.cpp": 6.099602068851199e-06,
+        "types.h": 2.040007593554204e-05
+    },
+    "subdirscores": {
+        "iterator": 1.4776607131491798e-05,
+        "sentinel": 1.7312761087513304e-05
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/lldb/unittests/DataFormatter",
+    "score.sum": 5.0767718489939274e-05,
+    "sha.latest": "570117b6a5c8d1bd4e611aa3087794c215753ab7",
+    "time.latest": 1717995869.560794,
+    "formatted_time": "2024-06-10 10:34:29.560797",
+    "filescores": {
+        "CMakeLists.txt": 5.168935856947784e-05,
+        "FormatManagerTests.cpp": 6.173054182193587e-06,
+        "FormattersContainerTest.cpp": 6.131115084641888e-06,
+        "StringPrinterTests.cpp": 2.7227667809495357e-05
+    },
+    "subdirscores": {}
+}

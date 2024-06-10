@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/lldb/test/API/python_api/formatters",
+    "score.sum": 2.1412713261698132e-05,
+    "sha.latest": "9c2468821ec51defd09c246fea4a47886fff8c01",
+    "time.latest": 1717965373.1645365,
+    "formatted_time": "2024-06-10 02:06:13.164541",
+    "filescores": {
+        "main.cpp": 0,
+        "Makefile": 0,
+        "synth.py": 6.099602068851199e-06,
+        "TestFormattersSBAPI.py": 2.1412713261698132e-05
+    },
+    "subdirscores": {}
+}

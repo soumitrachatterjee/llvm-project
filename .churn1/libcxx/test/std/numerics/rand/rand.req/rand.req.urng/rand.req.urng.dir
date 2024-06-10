@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/numerics/rand/rand.req/rand.req.urng",
+    "score.sum": 3.2615054516279334e-05,
+    "sha.latest": "72f0edf3f4291d2614719a8c8af21a7a62ed5d74",
+    "time.latest": 1717959814.1263523,
+    "formatted_time": "2024-06-10 00:33:34.126355",
+    "filescores": {
+        "uniform_random_bit_generator.compile.pass.cpp": 1.4745948990775995e-05
+    },
+    "subdirscores": {}
+}

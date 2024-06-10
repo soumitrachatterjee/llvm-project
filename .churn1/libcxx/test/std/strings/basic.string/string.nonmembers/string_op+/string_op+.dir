@@ -1,0 +1,16 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/strings/basic.string/string.nonmembers/string_op+",
+    "score.sum": 6.275524776887895e-05,
+    "sha.latest": "9ed20568e7de53dce85f1631d7d8c1415e7930ae",
+    "time.latest": 1717970199.6546056,
+    "formatted_time": "2024-06-10 03:26:39.654608",
+    "filescores": {
+        "allocator_propagation.pass.cpp": 1.385342860677208e-05,
+        "char_string.pass.cpp": 4.695866815351514e-05,
+        "pointer_string.pass.cpp": 4.0828123637555675e-05,
+        "string_char.pass.cpp": 4.5973420213277784e-05,
+        "string_pointer.pass.cpp": 4.5973420213277784e-05,
+        "string_string.pass.cpp": 4.5973420213277784e-05
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/unittests/SymbolFile/DWARF/Inputs",
+    "score.sum": 1.8295178081799436e-05,
+    "sha.latest": "ce6a56e66781eaad11c7285d37c1c410414676de",
+    "time.latest": 1717997992.78498,
+    "formatted_time": "2024-06-10 11:09:52.784982",
+    "filescores": {
+        "DW_AT_default_value-test.yaml": 8.84828140680202e-06,
+        "test-dwarf.cpp": 0,
+        "test-dwarf.exe": 0
+    },
+    "subdirscores": {}
+}

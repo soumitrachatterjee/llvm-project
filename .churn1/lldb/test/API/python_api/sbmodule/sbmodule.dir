@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/python_api/sbmodule",
+    "score.sum": 1.7365670961047936e-05,
+    "sha.latest": "9c2468821ec51defd09c246fea4a47886fff8c01",
+    "time.latest": 1717966490.3061178,
+    "formatted_time": "2024-06-10 02:24:50.306121",
+    "filescores": {
+        "main.c": 0,
+        "Makefile": 0,
+        "TestSBModule.py": 1.7365670961047936e-05
+    },
+    "subdirscores": {}
+}

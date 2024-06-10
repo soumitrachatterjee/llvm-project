@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/utilities/expected/expected.expected/monadic",
+    "score.sum": 1.1278010823868002e-05,
+    "sha.latest": "4f4690530e8b40cdf3a17c76a352b26c2fb0446c",
+    "time.latest": 1717991737.75475,
+    "formatted_time": "2024-06-10 09:25:37.754753",
+    "filescores": {
+        "and_then.pass.cpp": 1.1560407967935187e-05,
+        "or_else.pass.cpp": 6.1055484473134965e-06,
+        "transform.pass.cpp": 1.1278010823868002e-05,
+        "transform_error.pass.cpp": 8.834542360010717e-06
+    },
+    "subdirscores": {}
+}

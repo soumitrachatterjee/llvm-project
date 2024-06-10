@@ -1,0 +1,25 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/re",
+    "score.sum": 0.0005645386524849171,
+    "sha.latest": "d83a3ea529575f17ea6ea608a43bca0b3065dcfe",
+    "time.latest": 1717968353.9812462,
+    "formatted_time": "2024-06-10 02:55:53.981247",
+    "filescores": {
+        "lit.local.cfg": 9.845454441214068e-06
+    },
+    "subdirscores": {
+        "re.alg": 0.00014385791076060932,
+        "re.badexp": 1.9713914524379327e-05,
+        "re.const": 7.968758455106348e-05,
+        "re.def": 1.8238835810051744e-05,
+        "re.general": 1.3483256061814899e-05,
+        "re.grammar": 4.615295231138565e-05,
+        "re.iter": 0.00013200124047779113,
+        "re.regex": 0.00010840590929976397,
+        "re.req": 1.3483256061814899e-05,
+        "re.results": 0.0001836093431631381,
+        "re.submatch": 2.6625059712534698e-05,
+        "re.syn": 1.9533354536140457e-05,
+        "re.traits": 9.424515267882724e-05
+    }
+}

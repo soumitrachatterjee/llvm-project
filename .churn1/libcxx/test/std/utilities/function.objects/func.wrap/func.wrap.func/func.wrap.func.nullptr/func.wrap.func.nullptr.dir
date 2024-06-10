@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/utilities/function.objects/func.wrap/func.wrap.func/func.wrap.func.nullptr",
+    "score.sum": 2.5961028767357702e-05,
+    "sha.latest": "dbe60caa922d5e4a30e4f335f33b2628dd82e3e7",
+    "time.latest": 1717996741.6595628,
+    "formatted_time": "2024-06-10 10:49:01.659565",
+    "filescores": {
+        "operator_==.pass.cpp": 2.5961028767357702e-05
+    },
+    "subdirscores": {}
+}

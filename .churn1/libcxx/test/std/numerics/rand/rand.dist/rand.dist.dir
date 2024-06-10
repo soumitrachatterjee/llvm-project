@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/numerics/rand/rand.dist",
+    "score.sum": 4.796019891718665e-05,
+    "sha.latest": "b51f8f13edf3f7ab6407d2b7b46285ea675730b6",
+    "time.latest": 1717958951.0668402,
+    "formatted_time": "2024-06-10 00:19:11.066844",
+    "filescores": {},
+    "subdirscores": {
+        "rand.dist.bern": 3.243253852322403e-05,
+        "rand.dist.norm": 6.099697876606596e-06,
+        "rand.dist.pois": 9.57791549756688e-06,
+        "rand.dist.samp": 2.877622511209855e-05,
+        "rand.dist.uni": 1.3806569081284493e-05
+    }
+}

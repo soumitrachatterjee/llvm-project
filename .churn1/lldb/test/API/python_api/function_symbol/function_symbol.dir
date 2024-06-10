@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/lldb/test/API/python_api/function_symbol",
+    "score.sum": 4.651736345670335e-05,
+    "sha.latest": "ab855530f797bbc113f75f833a4ca5711749d7c8",
+    "time.latest": 1717965575.9305415,
+    "formatted_time": "2024-06-10 02:09:35.930544",
+    "filescores": {
+        "main.c": 7.050467538700764e-06,
+        "Makefile": 0,
+        "TestDisasmAPI.py": 4.11839206083933e-05,
+        "TestSymbolAPI.py": 4.620028746631049e-05
+    },
+    "subdirscores": {}
+}

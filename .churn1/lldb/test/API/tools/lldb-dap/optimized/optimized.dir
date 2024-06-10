@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/tools/lldb-dap/optimized",
+    "score.sum": 1.2197820794736694e-05,
+    "sha.latest": "0d19a8983c05de321d8ab592995e7a36bca448ee",
+    "time.latest": 1717969286.768529,
+    "formatted_time": "2024-06-10 03:11:26.768532",
+    "filescores": {
+        "main.cpp": 0,
+        "Makefile": 0,
+        "TestDAP_optimized.py": 1.2197820794736694e-05
+    },
+    "subdirscores": {}
+}

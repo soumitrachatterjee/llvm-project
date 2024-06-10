@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/lldb/test/Shell/ObjectFile/wasm",
+    "score.sum": 1.1380983016219653e-05,
+    "sha.latest": "7ad54d193871ce69968565ea46372e81c9f1ce62",
+    "time.latest": 1717976233.2411664,
+    "formatted_time": "2024-06-10 05:07:13.241168",
+    "filescores": {
+        "basic.yaml": 8.182289476841373e-06,
+        "embedded-debug-sections.yaml": 1.099362648543533e-05,
+        "stripped-debug-sections.yaml": 8.182289476841373e-06,
+        "unified-debug-sections.yaml": 8.718293445786635e-06
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/lldb/test/API/macosx/lc-note",
+    "score.sum": 5.5775193266905166e-05,
+    "sha.latest": "1eeeab82c6eb185f5139e633a59c2dbcb15616e4",
+    "time.latest": 1717963256.0514612,
+    "formatted_time": "2024-06-10 01:30:56.051466",
+    "filescores": {},
+    "subdirscores": {
+        "addrable-bits": 1.2575469148276015e-05,
+        "firmware-corefile": 2.7817496112457676e-05,
+        "kern-ver-str": 1.8765874620622977e-05,
+        "multiple-binary-corefile": 1.3249020295693292e-05
+    }
+}

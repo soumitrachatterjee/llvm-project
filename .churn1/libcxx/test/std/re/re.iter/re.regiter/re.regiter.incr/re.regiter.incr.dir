@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/re/re.iter/re.regiter/re.regiter.incr",
+    "score.sum": 2.3184428713088284e-05,
+    "sha.latest": "3cd4531b9ba421d1d096e746d787fe3039a546bb",
+    "time.latest": 1717966504.6857567,
+    "formatted_time": "2024-06-10 02:25:04.685758",
+    "filescores": {
+        "post.pass.cpp": 2.3184428713088284e-05
+    },
+    "subdirscores": {}
+}

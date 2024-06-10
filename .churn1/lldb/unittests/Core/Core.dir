@@ -1,0 +1,24 @@
+{
+    "directory name": "llvm-project/lldb/unittests/Core",
+    "score.sum": 0.00041875324102766024,
+    "sha.latest": "458636690afdd223ffa72f49164f30449b588892",
+    "time.latest": 1717995815.2297769,
+    "formatted_time": "2024-06-10 10:33:35.229779",
+    "filescores": {
+        "CMakeLists.txt": 0.0001291452952042638,
+        "CommunicationTest.cpp": 4.788539168858995e-05,
+        "DiagnosticEventTest.cpp": 1.3085022899557406e-05,
+        "DumpDataExtractorTest.cpp": 2.6200136029963633e-05,
+        "DumpRegisterInfoTest.cpp": 6.099602068851199e-06,
+        "FileSpecListTest.cpp": 9.296466977714036e-06,
+        "FormatEntityTest.cpp": 6.099602068851199e-06,
+        "MangledTest.cpp": 3.526771975473841e-05,
+        "ModuleSpecTest.cpp": 0,
+        "ProgressReportTest.cpp": 1.8317648751411154e-05,
+        "RichManglingContextTest.cpp": 1.4990266384129235e-05,
+        "SourceLocationSpecTest.cpp": 1.5824740243761643e-05,
+        "SourceManagerTest.cpp": 1.216792805621328e-05,
+        "UniqueCStringMapTest.cpp": 7.526008178304912e-06
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/test_runner/test",
+    "score.sum": 1.0757275168687244e-05,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717968430.2017362,
+    "formatted_time": "2024-06-10 02:57:10.201740",
+    "filescores": {
+        "inferior.py": 1.0757275168687244e-05,
+        "test_process_control.py": 6.099602068851199e-06,
+        "__init__.py": 0
+    },
+    "subdirscores": {}
+}

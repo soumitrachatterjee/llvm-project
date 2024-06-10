@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/strings/basic.string/string.ops/string.accessors",
+    "score.sum": 3.896696542394149e-05,
+    "sha.latest": "6e1dcc9335116f650d68cdbed12bbb34a99b2d9b",
+    "time.latest": 1717970564.2919815,
+    "formatted_time": "2024-06-10 03:32:44.291983",
+    "filescores": {
+        "c_str.pass.cpp": 3.727392722966729e-05,
+        "data.pass.cpp": 3.48417597150899e-05,
+        "get_allocator.pass.cpp": 3.727392722966729e-05
+    },
+    "subdirscores": {}
+}

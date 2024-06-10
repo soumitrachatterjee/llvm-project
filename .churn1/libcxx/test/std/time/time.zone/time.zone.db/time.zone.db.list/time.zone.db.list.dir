@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/time/time.zone/time.zone.db/time.zone.db.list",
+    "score.sum": 9.16302057067432e-06,
+    "sha.latest": "d332d88b919faa15564ab70b0633d94f21bc3e3c",
+    "time.latest": 1717986269.5409303,
+    "formatted_time": "2024-06-10 07:54:29.540932",
+    "filescores": {
+        "erase_after.compile.pass.cpp": 6.099602068851199e-06,
+        "front.pass.cpp": 6.136410310392832e-06,
+        "iterators.pass.cpp": 6.136410310392832e-06,
+        "types.compile.pass.cpp": 0
+    },
+    "subdirscores": {}
+}

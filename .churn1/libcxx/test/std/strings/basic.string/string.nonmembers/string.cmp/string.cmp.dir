@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/strings/basic.string/string.nonmembers/string.cmp",
+    "score.sum": 6.099602068851199e-06,
+    "sha.latest": "fb855eb941b6d740cc6560297d0b4d3201dcaf9f",
+    "time.latest": 1717969950.4635386,
+    "formatted_time": "2024-06-10 03:22:30.463541",
+    "filescores": {
+        "comparison.pass.cpp": 6.099602068851199e-06
+    },
+    "subdirscores": {}
+}

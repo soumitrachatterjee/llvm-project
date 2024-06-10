@@ -1,0 +1,24 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/utilities/memory/specialized.algorithms",
+    "score.sum": 0.00019033819244783191,
+    "sha.latest": "02540b2f6dc6c2d42a3365bef78833d7fab98491",
+    "time.latest": 1717999025.2166831,
+    "formatted_time": "2024-06-10 11:27:05.216686",
+    "filescores": {
+        "buffer.h": 0,
+        "counted.h": 6.099602068851199e-06,
+        "overload_compare_iterator.h": 0,
+        "ranges_robust_against_nonbool.compile.pass.cpp": 0
+    },
+    "subdirscores": {
+        "specialized.addressof": 4.9407104481778626e-05,
+        "specialized.construct": 4.609009731299531e-05,
+        "specialized.destroy": 6.689047379069745e-05,
+        "uninitialized.construct.default": 4.91158467464637e-05,
+        "uninitialized.construct.value": 3.9287876942377024e-05,
+        "uninitialized.copy": 5.8628750105369875e-05,
+        "uninitialized.fill": 4.5556501944939445e-05,
+        "uninitialized.fill.n": 4.867425579281499e-05,
+        "uninitialized.move": 6.411186935039755e-05
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/time/time.point/time.point.special",
+    "score.sum": 0,
+    "sha.latest": "7738db2c06b177fe916ac1bcf3633449b3c1fca9",
+    "time.latest": 1717985490.6851034,
+    "formatted_time": "2024-06-10 07:41:30.685107",
+    "filescores": {
+        "max.pass.cpp": 0,
+        "min.pass.cpp": 0
+    },
+    "subdirscores": {}
+}

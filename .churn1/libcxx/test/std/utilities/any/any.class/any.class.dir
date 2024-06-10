@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/utilities/any/any.class",
+    "score.sum": 8.609252059365461e-05,
+    "sha.latest": "ec350ad418a24f70c88758259c774a1e11c06d74",
+    "time.latest": 1717988698.5010064,
+    "formatted_time": "2024-06-10 08:34:58.501008",
+    "filescores": {},
+    "subdirscores": {
+        "any.assign": 5.4275038950837955e-05,
+        "any.cons": 5.7639507476511254e-05,
+        "any.modifiers": 5.73212099610649e-05,
+        "any.observers": 3.0484558519721054e-05
+    }
+}

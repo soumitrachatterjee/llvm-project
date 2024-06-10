@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/numerics/numarray/template.slice.array/slice.arr.assign",
+    "score.sum": 2.1127044693170327e-05,
+    "sha.latest": "644f68ed4d741f33d254354c2b7bc9606b77c721",
+    "time.latest": 1717949611.996234,
+    "formatted_time": "2024-06-09 21:43:31.996238",
+    "filescores": {
+        "slice_array.pass.cpp": 2.012705392162987e-05,
+        "template.pass.cpp": 0,
+        "valarray.pass.cpp": 1.906576750260324e-05
+    },
+    "subdirscores": {}
+}

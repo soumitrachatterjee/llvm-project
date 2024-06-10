@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/lldb/tools/lldb-dap/src-ts",
+    "score.sum": 0,
+    "sha.latest": "b5d4332286154838557a8ab5c76b794e85d946b3",
+    "time.latest": 1717990664.3404155,
+    "formatted_time": "2024-06-10 09:07:44.340423",
+    "filescores": {
+        "debug-adapter-factory.ts": 0,
+        "disposable-context.ts": 0,
+        "extension.ts": 0,
+        "types.ts": 0
+    },
+    "subdirscores": {}
+}

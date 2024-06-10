@@ -1,0 +1,18 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/ranges/range.req/range.range",
+    "score.sum": 2.4121803155333654e-05,
+    "sha.latest": "a8ead9194cfb18922408404c8cabfa83c276944f",
+    "time.latest": 1717964953.2658331,
+    "formatted_time": "2024-06-10 01:59:13.265837",
+    "filescores": {
+        "borrowed_range.compile.pass.cpp": 1.1384714426625167e-05,
+        "borrowed_range.subsumption.compile.pass.cpp": 1.1384714426625167e-05,
+        "enable_borrowed_range.compile.pass.cpp": 1.308080087726761e-05,
+        "helper_aliases.compile.pass.cpp": 1.5632886977443755e-05,
+        "iterator_t.compile.pass.cpp": 1.3560950811112246e-05,
+        "range.compile.pass.cpp": 1.6638959039174673e-05,
+        "range_size_t.compile.pass.cpp": 1.0000093823902655e-05,
+        "sentinel_t.compile.pass.cpp": 1.6637455970112596e-05
+    },
+    "subdirscores": {}
+}

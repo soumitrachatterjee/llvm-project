@@ -1,0 +1,19 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/thread/futures",
+    "score.sum": 0.00028512828613099086,
+    "sha.latest": "f5832bab6f5024cabe32a9f668b7f44e6b7cfef5",
+    "time.latest": 1717976401.4338186,
+    "formatted_time": "2024-06-10 05:10:01.433821",
+    "filescores": {},
+    "subdirscores": {
+        "futures.async": 0.00011453542813876748,
+        "futures.errors": 2.5982328723385314e-05,
+        "futures.future_error": 4.970133248677976e-05,
+        "futures.overview": 3.1932904992933246e-05,
+        "futures.promise": 5.3102933072054694e-05,
+        "futures.shared_future": 8.265957399583655e-05,
+        "futures.state": 1.3483256061814899e-05,
+        "futures.task": 7.35452425248768e-05,
+        "futures.unique_future": 9.876013318432633e-05
+    }
+}

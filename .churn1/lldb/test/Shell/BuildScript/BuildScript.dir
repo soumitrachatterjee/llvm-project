@@ -1,0 +1,16 @@
+{
+    "directory name": "llvm-project/lldb/test/Shell/BuildScript",
+    "score.sum": 2.2539728833412522e-05,
+    "sha.latest": "85cb7fbc07e3a974e5c2580e650f61177c941a76",
+    "time.latest": 1717971534.5066214,
+    "formatted_time": "2024-06-10 03:48:54.506623",
+    "filescores": {
+        "compiler-full-path.test": 6.100721813272553e-06,
+        "modes.test": 8.22683439832498e-06,
+        "script-args.test": 8.22683439832498e-06,
+        "toolchain-clang-cl.test": 6.100601938081166e-06,
+        "toolchain-clang.test": 1.0416987026696788e-05,
+        "toolchain-msvc.test": 1.7783056856210104e-05
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,17 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/strings/basic.string/string.nonmembers/string.io",
+    "score.sum": 7.175408259476767e-05,
+    "sha.latest": "6e1dcc9335116f650d68cdbed12bbb34a99b2d9b",
+    "time.latest": 1717970034.5321736,
+    "formatted_time": "2024-06-10 03:23:54.532177",
+    "filescores": {
+        "get_line.pass.cpp": 3.7556431599133546e-05,
+        "get_line_delim.pass.cpp": 3.7556431599133546e-05,
+        "get_line_delim_rv.pass.cpp": 4.165486372869732e-05,
+        "get_line_rv.pass.cpp": 4.165486372869732e-05,
+        "lit.local.cfg": 9.845454441214068e-06,
+        "stream_extract.pass.cpp": 3.2576176014619635e-05,
+        "stream_insert.pass.cpp": 2.6723836258049893e-05
+    },
+    "subdirscores": {}
+}

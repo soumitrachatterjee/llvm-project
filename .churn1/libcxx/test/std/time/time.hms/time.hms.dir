@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/time/time.hms",
+    "score.sum": 5.9369117566349844e-05,
+    "sha.latest": "9bb9ec380ace81d040d3a0a0a2ae9a75733ab330",
+    "time.latest": 1717984997.865865,
+    "formatted_time": "2024-06-10 07:33:17.865868",
+    "filescores": {
+        "hhmmss.verify.cpp": 6.099602068851199e-06
+    },
+    "subdirscores": {
+        "time.12": 6.099602068851199e-06,
+        "time.hms.members": 1.0260730507052815e-05,
+        "time.hms.nonmembers": 4.6668956106533376e-05
+    }
+}

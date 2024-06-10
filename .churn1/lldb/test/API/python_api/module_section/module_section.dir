@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/lldb/test/API/python_api/module_section",
+    "score.sum": 2.9357197566067832e-05,
+    "sha.latest": "9c2468821ec51defd09c246fea4a47886fff8c01",
+    "time.latest": 1717966001.0080793,
+    "formatted_time": "2024-06-10 02:16:41.008082",
+    "filescores": {
+        "b.cpp": 0,
+        "c.cpp": 0,
+        "main.cpp": 0,
+        "Makefile": 0,
+        "TestModuleAndSection.py": 2.9357197566067832e-05
+    },
+    "subdirscores": {}
+}

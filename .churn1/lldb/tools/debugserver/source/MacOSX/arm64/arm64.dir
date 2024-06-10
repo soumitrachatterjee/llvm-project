@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/lldb/tools/debugserver/source/MacOSX/arm64",
+    "score.sum": 0.00012489060320650865,
+    "sha.latest": "147d7a64f8493e78669581097a3ff06c985aa3a1",
+    "time.latest": 1717986633.8821733,
+    "formatted_time": "2024-06-10 08:00:33.882177",
+    "filescores": {
+        "DNBArchImplARM64.cpp": 0.00011382091883924218,
+        "DNBArchImplARM64.h": 3.881405830002089e-05
+    },
+    "subdirscores": {}
+}

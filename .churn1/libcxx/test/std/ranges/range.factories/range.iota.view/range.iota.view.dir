@@ -1,0 +1,26 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/ranges/range.factories/range.iota.view",
+    "score.sum": 4.330721887027379e-05,
+    "sha.latest": "b09551f07408aad37c5be7fdbd8dd5a6f9056738",
+    "time.latest": 1717964326.871544,
+    "formatted_time": "2024-06-10 01:48:46.871547",
+    "filescores": {
+        "begin.pass.cpp": 1.2954262782884103e-05,
+        "borrowing.compile.pass.cpp": 1.2345046119824622e-05,
+        "ctad.compile.pass.cpp": 9.592170861939149e-06,
+        "ctor.default.pass.cpp": 1.2639006114065868e-05,
+        "ctor.first.last.pass.cpp": 1.7293280076561846e-05,
+        "ctor.value.bound.pass.cpp": 1.602655679556386e-05,
+        "ctor.value.pass.cpp": 1.230490153900064e-05,
+        "end.pass.cpp": 1.9105541147617196e-05,
+        "range_concept_conformance.compile.pass.cpp": 1.2118574840390393e-05,
+        "size.pass.cpp": 1.1833815947011063e-05,
+        "type.compile.pass.cpp": 9.592170861939149e-06,
+        "types.h": 6.099602068851199e-06,
+        "views_iota.pass.cpp": 1.3771464828288749e-05
+    },
+    "subdirscores": {
+        "iterator": 2.435704379795429e-05,
+        "sentinel": 1.4275938695008142e-05
+    }
+}

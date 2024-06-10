@@ -1,0 +1,30 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/numerics/numarray/template.valarray/valarray.cassign",
+    "score.sum": 1.5850809152903916e-05,
+    "sha.latest": "5ca2777c69f8708d583e230c56ac7f5f6376fb40",
+    "time.latest": 1717950204.1729927,
+    "formatted_time": "2024-06-09 21:53:24.172997",
+    "filescores": {
+        "and_valarray.pass.cpp": 1.5850809152903916e-05,
+        "and_value.pass.cpp": 2.0014104209518827e-05,
+        "divide_valarray.pass.cpp": 1.5850809152903916e-05,
+        "divide_value.pass.cpp": 2.0014104209518827e-05,
+        "minus_valarray.pass.cpp": 1.5850809152903916e-05,
+        "minus_value.pass.cpp": 2.0014104209518827e-05,
+        "modulo_valarray.pass.cpp": 1.5850809152903916e-05,
+        "modulo_value.pass.cpp": 2.0014104209518827e-05,
+        "or_valarray.pass.cpp": 1.5850809152903916e-05,
+        "or_value.pass.cpp": 2.0014104209518827e-05,
+        "plus_valarray.pass.cpp": 1.5850809152903916e-05,
+        "plus_value.pass.cpp": 2.0014104209518827e-05,
+        "shift_left_valarray.pass.cpp": 1.5850809152903916e-05,
+        "shift_left_value.pass.cpp": 2.0014104209518827e-05,
+        "shift_right_valarray.pass.cpp": 1.5850809152903916e-05,
+        "shift_right_value.pass.cpp": 2.0014104209518827e-05,
+        "times_valarray.pass.cpp": 1.5850809152903916e-05,
+        "times_value.pass.cpp": 2.0014104209518827e-05,
+        "xor_valarray.pass.cpp": 1.5850809152903916e-05,
+        "xor_value.pass.cpp": 2.0014104209518827e-05
+    },
+    "subdirscores": {}
+}

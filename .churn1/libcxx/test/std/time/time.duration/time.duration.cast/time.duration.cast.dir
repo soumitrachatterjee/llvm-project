@@ -1,0 +1,18 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/time/time.duration/time.duration.cast",
+    "score.sum": 0,
+    "sha.latest": "7738db2c06b177fe916ac1bcf3633449b3c1fca9",
+    "time.latest": 1717984167.7179565,
+    "formatted_time": "2024-06-10 07:19:27.717959",
+    "filescores": {
+        "ceil.compile.fail.cpp": 0,
+        "ceil.pass.cpp": 0,
+        "duration_cast.pass.cpp": 0,
+        "floor.compile.fail.cpp": 0,
+        "floor.pass.cpp": 0,
+        "round.compile.fail.cpp": 0,
+        "round.pass.cpp": 0,
+        "toduration.compile.fail.cpp": 0
+    },
+    "subdirscores": {}
+}

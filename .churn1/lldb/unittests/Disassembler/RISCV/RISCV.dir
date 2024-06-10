@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/lldb/unittests/Disassembler/RISCV",
+    "score.sum": 6.099602068851199e-06,
+    "sha.latest": "dfa8a15d7886f34de9d3175611a2844c921ef5b6",
+    "time.latest": 1717996022.325292,
+    "formatted_time": "2024-06-10 10:37:02.325295",
+    "filescores": {
+        "CMakeLists.txt": 0,
+        "TestMCDisasmInstanceRISCV.cpp": 6.099602068851199e-06
+    },
+    "subdirscores": {}
+}

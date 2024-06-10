@@ -1,0 +1,16 @@
+{
+    "directory name": "llvm-project/lldb/test/API/python_api/frame",
+    "score.sum": 3.089211142084905e-05,
+    "sha.latest": "9c2468821ec51defd09c246fea4a47886fff8c01",
+    "time.latest": 1717965521.9994714,
+    "formatted_time": "2024-06-10 02:08:41.999473",
+    "filescores": {
+        "main.c": 6.099602068851199e-06,
+        "Makefile": 0,
+        "TestFrames.py": 3.0372180820422634e-05
+    },
+    "subdirscores": {
+        "get-variables": 1.845770267669984e-05,
+        "inlines": 2.3628357080646984e-05
+    }
+}

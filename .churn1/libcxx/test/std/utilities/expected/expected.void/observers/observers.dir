@@ -1,0 +1,16 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/utilities/expected/expected.void/observers",
+    "score.sum": 1.800518418937741e-05,
+    "sha.latest": "7ded34576f348d8f5b915deb53e8bfa45f72c79c",
+    "time.latest": 1717993673.4525971,
+    "formatted_time": "2024-06-10 09:57:53.452600",
+    "filescores": {
+        "bool.pass.cpp": 0,
+        "deref.pass.cpp": 0,
+        "error.pass.cpp": 0,
+        "error_or.pass.cpp": 1.1494653778830298e-05,
+        "has_value.pass.cpp": 6.099602068851199e-06,
+        "value.pass.cpp": 6.099602068851199e-06
+    },
+    "subdirscores": {}
+}

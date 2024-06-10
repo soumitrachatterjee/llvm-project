@@ -1,0 +1,28 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/numerics/rand/rand.dist/rand.dist.bern/rand.dist.bern.geo",
+    "score.sum": 9.57791549756688e-06,
+    "sha.latest": "0a4aa8a122aa097499c498b639a75b5e9a73e9f0",
+    "time.latest": 1717953729.5585558,
+    "formatted_time": "2024-06-09 22:52:09.558558",
+    "filescores": {
+        "assign.pass.cpp": 0,
+        "copy.pass.cpp": 0,
+        "ctor_double.pass.cpp": 0,
+        "ctor_param.pass.cpp": 0,
+        "eq.pass.cpp": 0,
+        "eval.pass.cpp": 7.291738447753131e-06,
+        "eval_param.pass.cpp": 0,
+        "get_param.pass.cpp": 0,
+        "io.pass.cpp": 6.099602068851199e-06,
+        "max.pass.cpp": 6.099602068851199e-06,
+        "min.pass.cpp": 0,
+        "param_assign.pass.cpp": 0,
+        "param_copy.pass.cpp": 0,
+        "param_ctor.pass.cpp": 0,
+        "param_eq.pass.cpp": 0,
+        "param_types.pass.cpp": 0,
+        "set_param.pass.cpp": 0,
+        "types.pass.cpp": 0
+    },
+    "subdirscores": {}
+}

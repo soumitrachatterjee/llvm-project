@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/utilities/memory/specialized.algorithms/uninitialized.copy",
+    "score.sum": 5.8628750105369875e-05,
+    "sha.latest": "7961fa36baa31234a26e5028492688dbbf79cc8e",
+    "time.latest": 1717998904.719442,
+    "formatted_time": "2024-06-10 11:25:04.719444",
+    "filescores": {
+        "ranges_uninitialized_copy.pass.cpp": 1.079897542845616e-05,
+        "ranges_uninitialized_copy_n.pass.cpp": 1.489451262120142e-05,
+        "uninitialized_copy.pass.cpp": 2.2730298059031182e-05,
+        "uninitialized_copy_n.pass.cpp": 2.093045974031658e-05
+    },
+    "subdirscores": {}
+}

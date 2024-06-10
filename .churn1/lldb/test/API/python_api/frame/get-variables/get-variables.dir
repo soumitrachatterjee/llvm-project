@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/python_api/frame/get-variables",
+    "score.sum": 1.845770267669984e-05,
+    "sha.latest": "9c2468821ec51defd09c246fea4a47886fff8c01",
+    "time.latest": 1717965430.1678267,
+    "formatted_time": "2024-06-10 02:07:10.167829",
+    "filescores": {
+        "main.c": 6.099602068851199e-06,
+        "Makefile": 0,
+        "TestGetVariables.py": 1.842220404256326e-05
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/time/time.cal/time.cal.day",
+    "score.sum": 3.829193344975257e-05,
+    "sha.latest": "efac016e32f3b7ded78650b0e40a9880a298bdbe",
+    "time.latest": 1717980570.7999597,
+    "formatted_time": "2024-06-10 06:19:30.799961",
+    "filescores": {
+        "types.pass.cpp": 0
+    },
+    "subdirscores": {
+        "time.cal.day.members": 6.099602068851199e-06,
+        "time.cal.day.nonmembers": 3.829193344975257e-05
+    }
+}

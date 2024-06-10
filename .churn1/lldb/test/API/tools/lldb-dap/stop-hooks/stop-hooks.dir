@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/tools/lldb-dap/stop-hooks",
+    "score.sum": 0,
+    "sha.latest": "01263c6c6fb495a94fe0ccbb1420bb1ec8460748",
+    "time.latest": 1717969588.9881072,
+    "formatted_time": "2024-06-10 03:16:28.988109",
+    "filescores": {
+        "main.c": 0,
+        "Makefile": 0,
+        "TestDAP_stop_hooks.py": 0
+    },
+    "subdirscores": {}
+}

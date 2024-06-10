@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/python_api/class_members",
+    "score.sum": 2.1472666165733474e-05,
+    "sha.latest": "80fcecb13c388ff087a27a4b0e7ca3dd8c98eaa4",
+    "time.latest": 1717964616.7935865,
+    "formatted_time": "2024-06-10 01:53:36.793589",
+    "filescores": {
+        "main.mm": 6.2244180030747585e-06,
+        "Makefile": 0,
+        "TestSBTypeClassMembers.py": 1.9696856714814998e-05
+    },
+    "subdirscores": {}
+}

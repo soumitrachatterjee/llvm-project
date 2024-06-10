@@ -1,0 +1,20 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/time/time.cal/time.cal.weekday/time.cal.weekday.members",
+    "score.sum": 7.465700352779418e-06,
+    "sha.latest": "efac016e32f3b7ded78650b0e40a9880a298bdbe",
+    "time.latest": 1717981857.520368,
+    "formatted_time": "2024-06-10 06:40:57.520372",
+    "filescores": {
+        "ctor.local_days.pass.cpp": 6.099602068851199e-06,
+        "ctor.pass.cpp": 0,
+        "ctor.sys_days.pass.cpp": 6.099602068851199e-06,
+        "c_encoding.pass.cpp": 6.099602068851199e-06,
+        "decrement.pass.cpp": 6.099602068851199e-06,
+        "increment.pass.cpp": 6.099602068851199e-06,
+        "iso_encoding.pass.cpp": 6.099602068851199e-06,
+        "ok.pass.cpp": 0,
+        "operator[].pass.cpp": 0,
+        "plus_minus_equal.pass.cpp": 6.099602068851199e-06
+    },
+    "subdirscores": {}
+}

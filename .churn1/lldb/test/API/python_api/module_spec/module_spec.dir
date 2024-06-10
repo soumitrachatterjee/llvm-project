@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/lldb/test/API/python_api/module_spec",
+    "score.sum": 0,
+    "sha.latest": "c4fa6fafc43ad5374a29d542737c0238b85516e4",
+    "time.latest": 1717966019.808745,
+    "formatted_time": "2024-06-10 02:16:59.808747",
+    "filescores": {
+        "TestModuleSpec.py": 0
+    },
+    "subdirscores": {}
+}

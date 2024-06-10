@@ -1,0 +1,17 @@
+{
+    "directory name": "llvm-project/lldb/tools/driver",
+    "score.sum": 0.0007879527623970323,
+    "sha.latest": "2f343fc1574f36b3b5ff1acf63407c53dcdac331",
+    "time.latest": 1717988548.8787913,
+    "formatted_time": "2024-06-10 08:32:28.878794",
+    "filescores": {
+        "CMakeLists.txt": 7.802088875647894e-05,
+        "Driver.cpp": 0.0006139582644169303,
+        "Driver.h": 0.0001001713574708967,
+        "lldb-Info.plist.in": 0,
+        "Options.td": 4.827927781700849e-05,
+        "Platform.cpp": 2.1031323033864014e-05,
+        "Platform.h": 5.046095351078095e-05
+    },
+    "subdirscores": {}
+}

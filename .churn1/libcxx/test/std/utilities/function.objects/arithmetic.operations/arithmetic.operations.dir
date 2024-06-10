@@ -1,0 +1,17 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/utilities/function.objects/arithmetic.operations",
+    "score.sum": 3.453000126130876e-05,
+    "sha.latest": "dc066888bd98c0500ca7b590317dc91ccce0fd38",
+    "time.latest": 1717995434.887072,
+    "formatted_time": "2024-06-10 10:27:14.887074",
+    "filescores": {
+        "divides.pass.cpp": 1.748574005475208e-05,
+        "minus.pass.cpp": 1.748574005475208e-05,
+        "modulus.pass.cpp": 1.5632914891306654e-05,
+        "multiplies.pass.cpp": 1.748574005475208e-05,
+        "negate.pass.cpp": 1.748588376803e-05,
+        "plus.pass.cpp": 1.8849506848053083e-05,
+        "transparent.pass.cpp": 2.939478967207953e-05
+    },
+    "subdirscores": {}
+}

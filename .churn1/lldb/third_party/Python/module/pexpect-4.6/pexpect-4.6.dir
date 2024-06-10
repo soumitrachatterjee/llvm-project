@@ -1,0 +1,20 @@
+{
+    "directory name": "llvm-project/lldb/third_party/Python/module/pexpect-4.6",
+    "score.sum": 2.95918244836067e-05,
+    "sha.latest": "97c6ef4ea678ef9a69e1feaf9d77a0880bca09ba",
+    "time.latest": 1717985036.8748477,
+    "formatted_time": "2024-06-10 07:33:56.874850",
+    "filescores": {
+        ".travis.yml": 0,
+        "DEVELOPERS.rst": 0,
+        "LICENSE": 0,
+        "MANIFEST.in": 0,
+        "README.rst": 0,
+        "requirements-testing.txt": 0,
+        "setup.cfg": 0,
+        "setup.py": 0
+    },
+    "subdirscores": {
+        "pexpect": 2.9591823513423776e-05
+    }
+}

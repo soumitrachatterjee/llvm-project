@@ -1,0 +1,21 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/ranges/range.adaptors/range.drop.while",
+    "score.sum": 7.976504346127186e-06,
+    "sha.latest": "ba2236d3000645d3127f972aa7ac1844c47e299c",
+    "time.latest": 1717961049.5376513,
+    "formatted_time": "2024-06-10 00:54:09.537653",
+    "filescores": {
+        "adaptor.pass.cpp": 6.099602068851199e-06,
+        "base.pass.cpp": 0,
+        "begin.pass.cpp": 0,
+        "borrowed.compile.pass.cpp": 0,
+        "ctad.compile.pass.cpp": 0,
+        "ctor.default.pass.cpp": 0,
+        "ctor.view.pass.cpp": 6.099602068851199e-06,
+        "end.pass.cpp": 0,
+        "general.pass.cpp": 0,
+        "pred.pass.cpp": 0,
+        "range.concept.compile.pass.cpp": 0
+    },
+    "subdirscores": {}
+}

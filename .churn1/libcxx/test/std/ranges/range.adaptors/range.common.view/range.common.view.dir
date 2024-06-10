@@ -1,0 +1,20 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/ranges/range.adaptors/range.common.view",
+    "score.sum": 1.7631298048039392e-05,
+    "sha.latest": "ba2236d3000645d3127f972aa7ac1844c47e299c",
+    "time.latest": 1717960773.383793,
+    "formatted_time": "2024-06-10 00:49:33.383795",
+    "filescores": {
+        "adaptor.pass.cpp": 9.439911374734765e-06,
+        "base.pass.cpp": 1.2266249851986782e-05,
+        "begin.pass.cpp": 1.6903574212536627e-05,
+        "borrowing.compile.pass.cpp": 1.4216521438064616e-05,
+        "ctad.compile.pass.cpp": 1.3997019729806344e-05,
+        "ctor.default.pass.cpp": 1.2266249851986782e-05,
+        "ctor.view.pass.cpp": 1.2266249671524485e-05,
+        "end.pass.cpp": 1.6850899793902974e-05,
+        "size.pass.cpp": 1.109388482718161e-05,
+        "types.h": 8.263952133616418e-06
+    },
+    "subdirscores": {}
+}

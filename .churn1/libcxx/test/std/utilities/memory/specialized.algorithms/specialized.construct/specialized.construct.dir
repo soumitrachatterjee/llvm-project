@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/utilities/memory/specialized.algorithms/specialized.construct",
+    "score.sum": 4.609009731299531e-05,
+    "sha.latest": "b8cb1dc9ea87faa8e8e9ab7a31710a8c0bb8b084",
+    "time.latest": 1717998663.5985546,
+    "formatted_time": "2024-06-10 11:21:03.598556",
+    "filescores": {
+        "construct_at.pass.cpp": 3.9703536060519415e-05,
+        "ranges_construct_at.pass.cpp": 8.712721597257803e-06
+    },
+    "subdirscores": {}
+}

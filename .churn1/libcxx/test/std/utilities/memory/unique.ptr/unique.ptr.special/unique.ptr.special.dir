@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/utilities/memory/unique.ptr/unique.ptr.special",
+    "score.sum": 3.91732971447948e-05,
+    "sha.latest": "b82dcb624e6bfa58ed566511cb564f8f201fa62e",
+    "time.latest": 1717999175.0830011,
+    "formatted_time": "2024-06-10 11:29:35.083004",
+    "filescores": {
+        "io.pass.cpp": 1.8677156141155616e-05,
+        "io.verify.cpp": 0
+    },
+    "subdirscores": {}
+}

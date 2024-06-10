@@ -1,0 +1,24 @@
+{
+    "directory name": "llvm-project/lldb/test/Shell/ScriptInterpreter/Python",
+    "score.sum": 0.00020338053060530334,
+    "sha.latest": "5000e4c2527ae53bf7c1a609f739a97cdc522bbe",
+    "time.latest": 1717979161.166946,
+    "formatted_time": "2024-06-10 05:56:01.166948",
+    "filescores": {
+        "command_import.test": 6.099602068851199e-06,
+        "command_relative_import.test": 1.6690485800540313e-05,
+        "eof.test": 0,
+        "exit.test": 6.099602068851199e-06,
+        "fail_breakpoint_oneline.test": 6.099602068851199e-06,
+        "lit.local.cfg": 0,
+        "python.test": 8.938215246989628e-06,
+        "sb_address_exception.test": 6.099602068851199e-06,
+        "scripted_breakpoint.test": 6.4435910204636375e-06,
+        "scripted_breakpoint_lua.test": 0,
+        "silent_command_script_import.test": 1.0885122295285955e-05
+    },
+    "subdirscores": {
+        "Crashlog": 0.00013865820234690786,
+        "Inputs": 6.941124892594795e-06
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/utilities/optional/optional.object",
+    "score.sum": 0.0002053810344938512,
+    "sha.latest": "ec350ad418a24f70c88758259c774a1e11c06d74",
+    "time.latest": 1718003792.7089772,
+    "formatted_time": "2024-06-10 12:46:32.708978",
+    "filescores": {
+        "optional_requires_destructible_object.verify.cpp": 6.099602068851199e-06,
+        "special_members.pass.cpp": 1.084718782905173e-05,
+        "triviality.pass.cpp": 1.084718782905173e-05,
+        "types.pass.cpp": 1.8187449852492002e-05
+    },
+    "subdirscores": {
+        "optional.object.assign": 5.751030416374518e-05,
+        "optional.object.ctor": 0.0001654960241134785,
+        "optional.object.dtor": 2.09585454466096e-05,
+        "optional.object.mod": 2.158630496538833e-05,
+        "optional.object.observe": 5.3797544600368586e-05,
+        "optional.object.swap": 2.600474185022525e-05
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/ranges/range.adaptors/range.all/range.owning.view",
+    "score.sum": 1.3087516464765997e-05,
+    "sha.latest": "c2df70766647b39d302ab5ab952980e0b3b4d725",
+    "time.latest": 1717960328.6415772,
+    "formatted_time": "2024-06-10 00:42:08.641579",
+    "filescores": {
+        "base.pass.cpp": 7.755780670980664e-06,
+        "begin_end.pass.cpp": 8.06887404670796e-06,
+        "borrowing.compile.pass.cpp": 8.151226760388824e-06,
+        "constructor.pass.cpp": 7.755780670980664e-06,
+        "data.pass.cpp": 7.755780670980664e-06,
+        "empty.pass.cpp": 7.755780670980664e-06,
+        "implicit_ctad.pass.cpp": 0,
+        "size.pass.cpp": 7.755780670980664e-06
+    },
+    "subdirscores": {}
+}

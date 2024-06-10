@@ -1,0 +1,20 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/numerics",
+    "score.sum": 0.0009292571579516029,
+    "sha.latest": "2ea5d167ae43bed5a511d5d819ae7c52cc76ec5c",
+    "time.latest": 1717959957.73541,
+    "formatted_time": "2024-06-10 00:35:57.735415",
+    "filescores": {},
+    "subdirscores": {
+        "bit": null,
+        "c.math": null,
+        "cfenv": null,
+        "complex.number": null,
+        "numarray": 9.610888858253818e-05,
+        "numbers": 3.1291000789477786e-05,
+        "numeric.ops": 0.0002398510053643616,
+        "numeric.requirements": 1.2132863580760565e-05,
+        "numerics.general": 1.2132863580760565e-05,
+        "rand": 0.00037001400042931825
+    }
+}

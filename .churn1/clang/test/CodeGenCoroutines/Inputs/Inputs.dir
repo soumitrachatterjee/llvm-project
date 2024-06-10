@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/clang/test/CodeGenCoroutines/Inputs",
+    "score.sum": 4.003943085501167e-05,
+    "sha.latest": "f54ca1f632646ee9a2a052a28e93ffb0bcc4340d",
+    "time.latest": 1717990598.9701889,
+    "formatted_time": "2024-06-10 09:06:38.970192",
+    "filescores": {
+        "coroutine-exp-namespace.h": 0,
+        "coroutine.h": 3.754894297939685e-05,
+        "numeric.h": 0
+    },
+    "subdirscores": {}
+}

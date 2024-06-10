@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/python_api/value_var_update",
+    "score.sum": 1.7413882258031403e-05,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717967500.9288778,
+    "formatted_time": "2024-06-10 02:41:40.928880",
+    "filescores": {
+        "main.c": 0,
+        "Makefile": 0,
+        "TestValueVarUpdate.py": 1.7413882258031403e-05
+    },
+    "subdirscores": {}
+}

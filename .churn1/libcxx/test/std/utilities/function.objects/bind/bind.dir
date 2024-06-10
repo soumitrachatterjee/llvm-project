@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/utilities/function.objects/bind",
+    "score.sum": 9.055345505440906e-05,
+    "sha.latest": "13f5579caeee2c75baf1249b9f64de54f7c361e2",
+    "time.latest": 1717995653.113894,
+    "formatted_time": "2024-06-10 10:30:53.113896",
+    "filescores": {},
+    "subdirscores": {
+        "func.bind": 9.055345505440906e-05
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "directory name": "llvm-project/lldb/test/Shell/Driver",
+    "score.sum": 5.074794260910408e-05,
+    "sha.latest": "d3173f4ab61c17337908eb7df3f1c515ddcd428c",
+    "time.latest": 1717972458.3492928,
+    "formatted_time": "2024-06-10 04:04:18.349294",
+    "filescores": {
+        "CommandOnCrashMultiThreaded.test": 0,
+        "LocalLLDBInit.test": 6.1084541434916165e-06,
+        "TestCommands.test": 8.22683439832498e-06,
+        "TestConvenienceVariables.test": 1.5115088956508272e-05,
+        "TestCore.test": 6.1084541434916165e-06,
+        "TestEmptyArgument.test": 0,
+        "TestError.test": 6.099602068851199e-06,
+        "TestFile.test": 6.1084541434916165e-06,
+        "TestHelp.test": 1.4715904627194762e-05,
+        "TestNoUseColor.test": 1.1661611353542843e-05,
+        "TestPageZeroRead.test": 0,
+        "TestPositionalArgs.test": 1.8027962438933178e-05,
+        "TestProcessAttach.test": 6.10406332833436e-06,
+        "TestQuiet.test": 0,
+        "TestRepl.test": 6.1084541434916165e-06,
+        "TestSingleQuote.test": 6.142562783957262e-06,
+        "TestTarget.test": 6.142562783957262e-06,
+        "TestUseColor.test": 0
+    },
+    "subdirscores": {
+        "Inputs": 2.1122410133787997e-05
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/ranges/range.adaptors/range.reverse",
+    "score.sum": 2.576027551915932e-05,
+    "sha.latest": "ba2236d3000645d3127f972aa7ac1844c47e299c",
+    "time.latest": 1717962653.2294767,
+    "formatted_time": "2024-06-10 01:20:53.229479",
+    "filescores": {
+        "adaptor.pass.cpp": 1.0202878062490664e-05,
+        "base.pass.cpp": 1.0399067455486533e-05,
+        "begin.pass.cpp": 1.223087230260279e-05,
+        "borrowing.compile.pass.cpp": 1.2452082372175323e-05,
+        "ctad.compile.pass.cpp": 1.2956753503313012e-05,
+        "ctor.default.pass.cpp": 1.3477316177445656e-05,
+        "ctor.view.pass.cpp": 1.0399067455486533e-05,
+        "end.pass.cpp": 1.37582276170799e-05,
+        "range_concept_conformance.compile.pass.cpp": 9.66476874803875e-06,
+        "size.pass.cpp": 1.2704443821277571e-05,
+        "types.h": 1.0838880085743515e-05
+    },
+    "subdirscores": {}
+}

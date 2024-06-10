@@ -1,0 +1,21 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/strings/basic.string/string.modifiers/string_append",
+    "score.sum": 0.00015542317360590363,
+    "sha.latest": "a315fb1c577a40a40968daa9d346435458d7e06e",
+    "time.latest": 1717969313.8113232,
+    "formatted_time": "2024-06-10 03:11:53.811325",
+    "filescores": {
+        "append_range.pass.cpp": 1.3771414519846959e-05,
+        "initializer_list.pass.cpp": 3.753578092621509e-05,
+        "iterator.pass.cpp": 8.506321769127775e-05,
+        "pointer.pass.cpp": 4.8545725254048735e-05,
+        "pointer_size.pass.cpp": 4.915133935321557e-05,
+        "push_back.pass.cpp": 6.973549533345628e-05,
+        "size_char.pass.cpp": 4.547986429244315e-05,
+        "string.pass.cpp": 4.78800075104515e-05,
+        "string_size_size.pass.cpp": 5.872633690387889e-05,
+        "string_view.pass.cpp": 3.536549635743412e-05,
+        "T_size_size.pass.cpp": 4.489003923149247e-05
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,18 @@
+{
+    "directory name": "llvm-project/lldb/test/Shell/ObjectFile/Breakpad",
+    "score.sum": 6.106330312226319e-06,
+    "sha.latest": "c08a1c7071c43b7bd0384e71c486ad5e5546b08f",
+    "time.latest": 1717974462.4706144,
+    "formatted_time": "2024-06-10 04:37:42.470617",
+    "filescores": {
+        "breakpad-identification.test": 8.22683439832498e-06,
+        "discontiguous-sections.test": 8.22683439832498e-06,
+        "lit.local.cfg": 8.22683439832498e-06,
+        "sections-trailing-func.test": 8.22683439832498e-06,
+        "sections.test": 8.22683439832498e-06,
+        "uuid-matching-mac.test": 8.22683439832498e-06
+    },
+    "subdirscores": {
+        "Inputs": 6.106330312226319e-06
+    }
+}

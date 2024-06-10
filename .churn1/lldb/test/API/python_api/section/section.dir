@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/lldb/test/API/python_api/section",
+    "score.sum": 4.2327606038238145e-05,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717966822.164226,
+    "formatted_time": "2024-06-10 02:30:22.164229",
+    "filescores": {
+        "aligned.yaml": 1.0320308857565197e-05,
+        "compressed-sections.yaml": 1.1804365901926157e-05,
+        "main.c": 6.099602068851199e-06,
+        "Makefile": 0,
+        "TestSectionAPI.py": 4.2284055912289525e-05
+    },
+    "subdirscores": {}
+}

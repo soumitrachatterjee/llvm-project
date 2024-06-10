@@ -1,0 +1,20 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/ranges/range.factories/range.repeat.view",
+    "score.sum": 1.6220954316495054e-05,
+    "sha.latest": "bcb917eba70b454a3d11010c45889c364fd4d9ec",
+    "time.latest": 1717964703.6301422,
+    "formatted_time": "2024-06-10 01:55:03.630145",
+    "filescores": {
+        "begin.pass.cpp": 0,
+        "ctad.compile.pass.cpp": 0,
+        "ctor.default.pass.cpp": 0,
+        "ctor.piecewise.pass.cpp": 0,
+        "ctor.value.bound.pass.cpp": 0,
+        "end.pass.cpp": 0,
+        "size.pass.cpp": 1.053926486443577e-05,
+        "views_repeat.pass.cpp": 6.099602068851199e-06
+    },
+    "subdirscores": {
+        "iterator": 0
+    }
+}

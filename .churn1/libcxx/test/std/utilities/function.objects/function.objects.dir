@@ -1,0 +1,30 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/utilities/function.objects",
+    "score.sum": 0.0007453091686190086,
+    "sha.latest": "ca06c330fd07f05e65a638892c32ca1474d47b5e",
+    "time.latest": 1717997519.4568226,
+    "formatted_time": "2024-06-10 11:01:59.456824",
+    "filescores": {
+        "operations.implicit_ctad.pass.cpp": 0
+    },
+    "subdirscores": {
+        "arithmetic.operations": 3.453000126130876e-05,
+        "bind": 9.055345505440906e-05,
+        "bitwise.operations": 3.280016993697355e-05,
+        "comparisons": 6.149624032834114e-05,
+        "func.bind_front": 2.842666400244316e-05,
+        "func.def": 1.2132863580760565e-05,
+        "func.identity": 1.0058815074352478e-05,
+        "func.invoke": 4.562921412563401e-05,
+        "func.memfn": 4.6153747113994724e-05,
+        "func.not_fn": 3.95352308258315e-05,
+        "func.require": 2.763448641247487e-05,
+        "func.search": 6.03941036941057e-05,
+        "func.wrap": 0.00031019393471218255,
+        "logical.operations": 3.2677176097863334e-05,
+        "negators": 6.470455248978528e-05,
+        "range.cmp": 1.7321714063077956e-05,
+        "refwrap": 0.00010915378835936365,
+        "unord.hash": 9.46997611813857e-05
+    }
+}

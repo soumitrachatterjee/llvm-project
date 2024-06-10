@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/utilities/function.objects/bind/func.bind/func.bind.isbind",
+    "score.sum": 3.5592023769967705e-05,
+    "sha.latest": "049a3fe10f644c259a33f185a0a7711757252188",
+    "time.latest": 1717995603.6110578,
+    "formatted_time": "2024-06-10 10:30:03.611060",
+    "filescores": {
+        "is_bind_expression.pass.cpp": 2.6513487624765167e-05,
+        "is_bind_expression_03.pass.cpp": 1.7224631237834027e-05,
+        "specialization.pass.cpp": 6.099602068851199e-06
+    },
+    "subdirscores": {}
+}

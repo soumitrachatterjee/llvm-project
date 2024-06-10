@@ -1,0 +1,16 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/ranges/range.factories/range.istream.view/iterator",
+    "score.sum": 6.099602068851199e-06,
+    "sha.latest": "60a6a0d17ad5afcac5c71dcf9a05f8c814951804",
+    "time.latest": 1717964463.6202934,
+    "formatted_time": "2024-06-10 01:51:03.620296",
+    "filescores": {
+        "compare.pass.cpp": 0,
+        "ctor.pass.cpp": 6.099602068851199e-06,
+        "deref.pass.cpp": 0,
+        "increment.pass.cpp": 0,
+        "member_types.compile.pass.cpp": 0,
+        "special_op.pass.cpp": 6.099602068851199e-06
+    },
+    "subdirscores": {}
+}

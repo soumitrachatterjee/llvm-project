@@ -1,0 +1,19 @@
+{
+    "directory name": "llvm-project/lldb/unittests/Platform",
+    "score.sum": 0.0001320931714342765,
+    "sha.latest": "fabd16c7460e6cfae3106155ec79142bfa54db2e",
+    "time.latest": 1717997097.8449874,
+    "formatted_time": "2024-06-10 10:54:57.844989",
+    "filescores": {
+        "CMakeLists.txt": 2.6811172068178046e-05,
+        "PlatformAppleSimulatorTest.cpp": 2.8692092867883887e-05,
+        "PlatformDarwinTest.cpp": 4.1731769811197105e-05,
+        "PlatformMacOSXTest.cpp": 6.099602068851199e-06,
+        "PlatformSiginfoTest.cpp": 2.8270323010929072e-05,
+        "PlatformTest.cpp": 1.2468321147554974e-05
+    },
+    "subdirscores": {
+        "Android": 1.2278267893332228e-05,
+        "tools": 0
+    }
+}

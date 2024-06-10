@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/strings/string.view/string.view.hash",
+    "score.sum": 0.00010679007236920417,
+    "sha.latest": "a40bada91aeda276a772acfbcae6e8de26755a11",
+    "time.latest": 1717973263.2616587,
+    "formatted_time": "2024-06-10 04:17:43.261660",
+    "filescores": {
+        "char_type.hash.verify.cpp": 6.099602068851199e-06,
+        "enabled_hashes.pass.cpp": 5.9552122831281145e-05,
+        "string_view.pass.cpp": 5.1903908637507826e-05
+    },
+    "subdirscores": {}
+}

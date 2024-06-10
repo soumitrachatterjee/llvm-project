@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/lldb/test/API/symbol_ondemand/shared_library",
+    "score.sum": 8.582921540677191e-06,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717968348.7908936,
+    "formatted_time": "2024-06-10 02:55:48.790897",
+    "filescores": {
+        "foo.c": 0,
+        "foo.h": 0,
+        "Makefile": 0,
+        "shared.c": 0,
+        "TestSharedLibOnDemand.py": 8.548466703595976e-06
+    },
+    "subdirscores": {}
+}

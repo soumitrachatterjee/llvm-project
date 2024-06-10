@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/python_api/objc_type",
+    "score.sum": 2.258913282146836e-05,
+    "sha.latest": "80fcecb13c388ff087a27a4b0e7ca3dd8c98eaa4",
+    "time.latest": 1717966108.0285141,
+    "formatted_time": "2024-06-10 02:18:28.028516",
+    "filescores": {
+        "main.m": 6.2244180030747585e-06,
+        "Makefile": 6.099602068851199e-06,
+        "TestObjCType.py": 2.0813323370549883e-05
+    },
+    "subdirscores": {}
+}

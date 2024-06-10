@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/lldb/third_party",
+    "score.sum": 6.97838853582072e-05,
+    "sha.latest": "252f1cdebfffd846afe969d3f6e4684ed39536ad",
+    "time.latest": 1717985209.9283826,
+    "formatted_time": "2024-06-10 07:36:49.928386",
+    "filescores": {},
+    "subdirscores": {
+        "Python": 6.97838853582072e-05
+    }
+}
