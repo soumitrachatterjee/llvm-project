@@ -136,7 +136,7 @@ let Component = "Sema" in {
     def err_ice_ambiguous_conversion
         : Error<"ambiguous conversion from type %0 to an integral or unscoped "
                 "enumeration type">;
-    def err_invalid_enum_decl : Error<"Unsupported declaration type at %0. "
+    def err_invalid_enum_decl : Error<"Unsupported declaration type. "
                                       "Only enum constants are supported.">;
     def err_ice_too_large
         : Error<

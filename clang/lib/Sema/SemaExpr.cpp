@@ -68,6 +68,9 @@ private:
   std::string EnumName;
 
 public:
+ Sema &S;
+
+  EnumNameVisitor(Sema &S) : S(S) {}
   void VisitDeclRefExpr(DeclRefExpr *Node) {
     const Decl *D = Node->getDecl();
     // Check if the declaration referenced is an enum constant
@@ -80,7 +83,7 @@ public:
     }
   }
   void VisitExpr(Expr *Ex) {
-    if (!Ex->children().empty()) {
+     if (!Ex->children().empty()) {
       // Recursively visit child expressions
       for (auto *Child : Ex->children()) {
         if (auto *ChildExpr = dyn_cast<Expr>(Child)) {
@@ -4882,7 +4885,7 @@ ExprResult Sema::CreateUnaryExprOrTypeTraitExpr(TypeSourceInfo *TInfo,
 /// operand.
 ExprResult Sema::CreateUnaryExprOrTypeTraitExpr(Expr *E, SourceLocation OpLoc,
                                                 UnaryExprOrTypeTrait ExprKind) {
-  EnumNameVisitor obj;
+  EnumNameVisitor obj(*this);
   obj.VisitExpr(E);
   StringRef EnumName = obj.getEnumName();
   ExprResult PE = CheckPlaceholderExpr(E);
