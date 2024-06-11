@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/iterators/iterator.requirements/iterator.concepts/iterator.concept.iterator",
+    "score.sum": 9.93926746307188e-06,
+    "sha.latest": "d2baefae6846765eef6a6dd69d4fdf1082ce29ad",
+    "time.latest": 1717914440.8406444,
+    "formatted_time": "2024-06-09 11:57:20.840646",
+    "filescores": {
+        "input_or_output_iterator.compile.pass.cpp": 8.446817113020487e-06,
+        "subsumption.compile.pass.cpp": 9.796683310802745e-06
+    },
+    "subdirscores": {}
+}

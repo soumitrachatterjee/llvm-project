@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/commands/expression/persistent_variables",
+    "score.sum": 1.2992269801375059e-05,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717893342.5436764,
+    "formatted_time": "2024-06-09 06:05:42.543678",
+    "filescores": {
+        "main.c": 6.528214498386814e-06,
+        "Makefile": 0,
+        "TestPersistentVariables.py": 1.2948719675426438e-05
+    },
+    "subdirscores": {}
+}

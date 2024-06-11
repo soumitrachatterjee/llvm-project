@@ -1,0 +1,18 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/utilities/function.objects/negators",
+    "score.sum": 6.470455248978528e-05,
+    "sha.latest": "72f0edf3f4291d2614719a8c8af21a7a62ed5d74",
+    "time.latest": 1717996963.484351,
+    "formatted_time": "2024-06-10 10:52:43.484352",
+    "filescores": {
+        "binary_negate.depr_in_cxx17.verify.cpp": 1.1565061029035416e-05,
+        "binary_negate.pass.cpp": 3.738060435694758e-05,
+        "not1.depr_in_cxx17.verify.cpp": 1.1565061029035416e-05,
+        "not1.pass.cpp": 3.733225118447735e-05,
+        "not2.depr_in_cxx17.verify.cpp": 1.1565061029035416e-05,
+        "not2.pass.cpp": 3.733225118447735e-05,
+        "unary_negate.depr_in_cxx17.verify.cpp": 1.1565061029035416e-05,
+        "unary_negate.pass.cpp": 3.73807480702255e-05
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/lldb/test/Shell/Target/Inputs",
+    "score.sum": 0,
+    "sha.latest": "fe17e026959cc263c12fafa3a8e9e83503f9a18b",
+    "time.latest": 1717983952.3593276,
+    "formatted_time": "2024-06-10 07:15:52.359331",
+    "filescores": {
+        "main.c": 0,
+        "shlib.c": 0
+    },
+    "subdirscores": {}
+}

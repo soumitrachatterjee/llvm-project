@@ -1,0 +1,31 @@
+{
+    "directory name": "llvm-project/clang-tools-extra/clang-doc",
+    "score.sum": 0.0003990787893060322,
+    "sha.latest": "716042a63f26cd020eb72960f72fa97b9a197382",
+    "time.latest": 1717788564.932746,
+    "formatted_time": "2024-06-08 00:59:24.932751",
+    "filescores": {
+        "BitcodeReader.cpp": 9.383678601612465e-05,
+        "BitcodeReader.h": 1.1991780398955975e-05,
+        "BitcodeWriter.cpp": 8.621735448344605e-05,
+        "BitcodeWriter.h": 6.969014671723459e-05,
+        "ClangDoc.cpp": 1.7660138005382364e-05,
+        "ClangDoc.h": 8.325736031026518e-06,
+        "CMakeLists.txt": 1.913581588716403e-05,
+        "Generators.cpp": 2.6452750677231087e-05,
+        "Generators.h": 3.198543250742852e-05,
+        "HTMLGenerator.cpp": 0.0001041483034297348,
+        "Mapper.cpp": 3.568724254711716e-05,
+        "Mapper.h": 2.1861382875458805e-05,
+        "MDGenerator.cpp": 8.086349973371403e-05,
+        "Representation.cpp": 0.00010093042169005599,
+        "Representation.h": 0.00013923083677251245,
+        "Serialize.cpp": 9.994697846329043e-05,
+        "Serialize.h": 2.5202265307015378e-05,
+        "YAMLGenerator.cpp": 9.339528027295613e-05
+    },
+    "subdirscores": {
+        "assets": 4.961364763922143e-05,
+        "tool": 0.00011856673227455739
+    }
+}

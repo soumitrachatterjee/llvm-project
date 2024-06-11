@@ -1,0 +1,24 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/ranges/range.adaptors/range.elements",
+    "score.sum": 2.3096947121583087e-05,
+    "sha.latest": "ba2236d3000645d3127f972aa7ac1844c47e299c",
+    "time.latest": 1717961380.04462,
+    "formatted_time": "2024-06-10 00:59:40.044624",
+    "filescores": {
+        "adaptor.pass.cpp": 6.099602068851199e-06,
+        "base.pass.cpp": 0,
+        "begin.pass.cpp": 0,
+        "borrowed.compile.pass.cpp": 0,
+        "ctor.default.pass.cpp": 0,
+        "ctor.view.pass.cpp": 0,
+        "end.pass.cpp": 0,
+        "general.pass.cpp": 6.099602068851199e-06,
+        "range.concept.compile.pass.cpp": 6.099602068851199e-06,
+        "size.pass.cpp": 0,
+        "types.h": 7.223017267642048e-06
+    },
+    "subdirscores": {
+        "iterator": 1.4620381968957935e-05,
+        "sentinel": 7.597425718181066e-06
+    }
+}

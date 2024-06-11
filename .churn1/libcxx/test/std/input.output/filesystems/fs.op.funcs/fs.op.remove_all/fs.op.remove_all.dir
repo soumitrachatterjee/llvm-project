@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/input.output/filesystems/fs.op.funcs/fs.op.remove_all",
+    "score.sum": 6.857499885006907e-05,
+    "sha.latest": "1197fcabc4b5f39dbe8a94b1ab6e92354f3f0dd2",
+    "time.latest": 1717904607.3657196,
+    "formatted_time": "2024-06-09 09:13:27.365722",
+    "filescores": {
+        "remove_all.pass.cpp": 4.1181042659577576e-05,
+        "toctou.pass.cpp": 2.25732356290992e-05
+    },
+    "subdirscores": {}
+}

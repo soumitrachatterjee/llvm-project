@@ -1,0 +1,19 @@
+{
+    "directory name": "llvm-project/clang/lib/Tooling/Syntax",
+    "score.sum": 0.0003664392022422682,
+    "sha.latest": "9d1dada57741d204f8a95aa2b0c89a7242e101f1",
+    "time.latest": 1717823858.5040524,
+    "formatted_time": "2024-06-08 10:47:38.504055",
+    "filescores": {
+        "BuildTree.cpp": 0.00014085497795207904,
+        "CMakeLists.txt": 3.176427375162498e-05,
+        "ComputeReplacements.cpp": 1.4154248825812336e-05,
+        "Mutations.cpp": 1.7125513392164548e-05,
+        "Nodes.cpp": 8.902792341384364e-05,
+        "Synthesis.cpp": 2.8148630385456734e-05,
+        "TokenBufferTokenManager.cpp": 0,
+        "Tokens.cpp": 0.00010961146424222316,
+        "Tree.cpp": 8.956990991665279e-05
+    },
+    "subdirscores": {}
+}

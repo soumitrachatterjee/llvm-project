@@ -1,0 +1,20 @@
+{
+    "directory name": "llvm-project/lldb/unittests/SymbolFile/DWARF",
+    "score.sum": 0.00026832550943343703,
+    "sha.latest": "91f4a84a1504e718e4f4d4eef5db7713dc30a030",
+    "time.latest": 1717998013.842231,
+    "formatted_time": "2024-06-10 11:10:13.842234",
+    "filescores": {
+        "CMakeLists.txt": 6.76578597427988e-05,
+        "DWARFASTParserClangTests.cpp": 6.262269310884134e-05,
+        "DWARFDebugNamesIndexTest.cpp": 0,
+        "DWARFDIETest.cpp": 1.1542596521291199e-05,
+        "DWARFIndexCachingTest.cpp": 3.300776173640066e-05,
+        "DWARFUnitTest.cpp": 9.927840407669793e-06,
+        "SymbolFileDWARFTests.cpp": 7.0805959800863e-05,
+        "XcodeSDKModuleTests.cpp": 1.638950559297061e-05
+    },
+    "subdirscores": {
+        "Inputs": 1.8295178081799436e-05
+    }
+}

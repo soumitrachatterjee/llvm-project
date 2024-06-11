@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/ranges/range.factories",
+    "score.sum": 8.980946936035972e-05,
+    "sha.latest": "bcb917eba70b454a3d11010c45889c364fd4d9ec",
+    "time.latest": 1717964843.647938,
+    "formatted_time": "2024-06-10 01:57:23.647941",
+    "filescores": {},
+    "subdirscores": {
+        "range.iota.view": 4.330721887027379e-05,
+        "range.istream.view": 8.249574459792727e-06,
+        "range.repeat.view": 1.6220954316495054e-05,
+        "range.single.view": 2.566714881057941e-05
+    }
+}

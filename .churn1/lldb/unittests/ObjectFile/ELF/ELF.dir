@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/lldb/unittests/ObjectFile/ELF",
+    "score.sum": 6.188117544684481e-05,
+    "sha.latest": "b0b9605a544dbf26940a48777af401a419f4e4f1",
+    "time.latest": 1717996887.909193,
+    "formatted_time": "2024-06-10 10:51:27.909196",
+    "filescores": {
+        "CMakeLists.txt": 2.0156600064151568e-05,
+        "TestObjectFileELF.cpp": 5.376676021135855e-05
+    },
+    "subdirscores": {
+        "Inputs": 1.5573971768052157e-05
+    }
+}

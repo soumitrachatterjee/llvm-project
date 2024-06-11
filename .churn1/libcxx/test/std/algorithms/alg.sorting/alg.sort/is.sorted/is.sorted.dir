@@ -1,0 +1,16 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/algorithms/alg.sorting/alg.sort/is.sorted",
+    "score.sum": 2.9194223662938273e-05,
+    "sha.latest": "c000f754bfb9fb3a7a0a1f9b0485f36ae70534b7",
+    "time.latest": 1717872105.4860497,
+    "formatted_time": "2024-06-09 00:11:45.486051",
+    "filescores": {
+        "is_sorted.pass.cpp": 2.5801158260775747e-05,
+        "is_sorted_comp.pass.cpp": 2.5801158260775747e-05,
+        "is_sorted_until.pass.cpp": 2.5801158260775747e-05,
+        "is_sorted_until_comp.pass.cpp": 2.5801158260775747e-05,
+        "ranges.is_sorted.pass.cpp": 7.017438267559953e-06,
+        "ranges.is_sorted_until.pass.cpp": 7.017438267559953e-06
+    },
+    "subdirscores": {}
+}

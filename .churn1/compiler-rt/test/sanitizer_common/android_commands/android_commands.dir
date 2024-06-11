@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/compiler-rt/test/sanitizer_common/android_commands",
+    "score.sum": 3.218089427240353e-05,
+    "sha.latest": "f98ee40f4b5d7474fc67e82824bf6abbaedb7b1c",
+    "time.latest": 1717839844.921328,
+    "formatted_time": "2024-06-08 15:14:04.921331",
+    "filescores": {
+        "android_common.py": 1.732962314921982e-05,
+        "android_compile.py": 1.3239829980834003e-05,
+        "android_run.py": 2.1008487247701865e-05
+    },
+    "subdirscores": {}
+}

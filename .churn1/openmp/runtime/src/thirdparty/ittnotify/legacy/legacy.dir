@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/openmp/runtime/src/thirdparty/ittnotify/legacy",
+    "score.sum": 2.922978616429756e-05,
+    "sha.latest": "7f1a6d891e085929f9ec4c82569151933264d4d8",
+    "time.latest": 1717800696.6863816,
+    "formatted_time": "2024-06-08 04:21:36.686385",
+    "filescores": {
+        "ittnotify.h": 2.922978616429756e-05
+    },
+    "subdirscores": {}
+}

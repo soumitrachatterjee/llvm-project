@@ -1,0 +1,22 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/time/time.duration/time.duration.arithmetic",
+    "score.sum": 0,
+    "sha.latest": "7738db2c06b177fe916ac1bcf3633449b3c1fca9",
+    "time.latest": 1717984042.9447758,
+    "formatted_time": "2024-06-10 07:17:22.944779",
+    "filescores": {
+        "op_++.pass.cpp": 0,
+        "op_++int.pass.cpp": 0,
+        "op_+.pass.cpp": 0,
+        "op_+=.pass.cpp": 0,
+        "op_--.pass.cpp": 0,
+        "op_--int.pass.cpp": 0,
+        "op_-.pass.cpp": 0,
+        "op_-=.pass.cpp": 0,
+        "op_divide=.pass.cpp": 0,
+        "op_mod=duration.pass.cpp": 0,
+        "op_mod=rep.pass.cpp": 0,
+        "op_times=.pass.cpp": 0
+    },
+    "subdirscores": {}
+}

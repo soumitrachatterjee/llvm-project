@@ -1,0 +1,32 @@
+{
+    "directory name": "llvm-project/libcxx/include/__concepts",
+    "score.sum": 6.117783958535656e-05,
+    "sha.latest": "bddd8f46f81477a52ff7ef2873e5671db71c431e",
+    "time.latest": 1717832432.3994904,
+    "formatted_time": "2024-06-08 13:10:32.399495",
+    "filescores": {
+        "arithmetic.h": 2.7356225577104234e-05,
+        "assignable.h": 2.818801767355173e-05,
+        "boolean_testable.h": 2.206763115169902e-05,
+        "class_or_enum.h": 3.081842741163816e-05,
+        "common_reference_with.h": 2.4283896303727775e-05,
+        "common_with.h": 2.8961926075897e-05,
+        "constructible.h": 2.4283896303727775e-05,
+        "convertible_to.h": 3.0482767963238775e-05,
+        "copyable.h": 1.9811740160574226e-05,
+        "derived_from.h": 2.4283896303727775e-05,
+        "destructible.h": 2.4283896303727775e-05,
+        "different_from.h": 2.4283896303727775e-05,
+        "equality_comparable.h": 2.7599202427575686e-05,
+        "invocable.h": 2.5534685219016947e-05,
+        "movable.h": 2.4283896303727775e-05,
+        "predicate.h": 2.4283896303727775e-05,
+        "regular.h": 1.9811740160574226e-05,
+        "relation.h": 1.9811740160574226e-05,
+        "same_as.h": 2.4283896303727775e-05,
+        "semiregular.h": 1.9811740160574226e-05,
+        "swappable.h": 4.456114691544235e-05,
+        "totally_ordered.h": 2.4283896303727775e-05
+    },
+    "subdirscores": {}
+}

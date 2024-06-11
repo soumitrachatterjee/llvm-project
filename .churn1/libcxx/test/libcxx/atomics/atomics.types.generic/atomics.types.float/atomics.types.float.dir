@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/libcxx/test/libcxx/atomics/atomics.types.generic/atomics.types.float",
+    "score.sum": 9.149276837041909e-06,
+    "sha.latest": "85a847fd1d639a0e7d5319b17e994ea157be6046",
+    "time.latest": 1717845358.431449,
+    "formatted_time": "2024-06-08 16:45:58.431453",
+    "filescores": {
+        "lockfree.pass.cpp": 9.149276837041909e-06
+    },
+    "subdirscores": {}
+}

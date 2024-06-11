@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/lldb/unittests/ObjectFile/MachO",
+    "score.sum": 6.099602068851199e-06,
+    "sha.latest": "4ad19b80eafa1505b8bb86eef84ffefcd20410a3",
+    "time.latest": 1717996920.003171,
+    "formatted_time": "2024-06-10 10:52:00.003174",
+    "filescores": {
+        "CMakeLists.txt": 0,
+        "TestObjectFileMachO.cpp": 6.099602068851199e-06
+    },
+    "subdirscores": {}
+}

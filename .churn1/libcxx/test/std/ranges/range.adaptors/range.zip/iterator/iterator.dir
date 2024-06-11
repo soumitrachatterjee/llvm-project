@@ -1,0 +1,22 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/ranges/range.adaptors/range.zip/iterator",
+    "score.sum": 1.4776607131491798e-05,
+    "sha.latest": "f5832bab6f5024cabe32a9f668b7f44e6b7cfef5",
+    "time.latest": 1717963871.7547216,
+    "formatted_time": "2024-06-10 01:41:11.754724",
+    "filescores": {
+        "arithmetic.pass.cpp": 1.044170903417137e-05,
+        "compare.pass.cpp": 1.5199663609044587e-05,
+        "ctor.default.pass.cpp": 8.224031757334653e-06,
+        "ctor.other.pass.cpp": 1.1942731661397713e-05,
+        "decrement.pass.cpp": 6.099602068851199e-06,
+        "deref.pass.cpp": 8.823078201102395e-06,
+        "increment.pass.cpp": 6.099602068851199e-06,
+        "iter_move.pass.cpp": 7.312371485091827e-06,
+        "iter_swap.pass.cpp": 8.578372987056959e-06,
+        "member_types.compile.pass.cpp": 1.298198633220787e-05,
+        "singular.pass.cpp": 6.099602068851199e-06,
+        "subscript.pass.cpp": 8.823078201102395e-06
+    },
+    "subdirscores": {}
+}

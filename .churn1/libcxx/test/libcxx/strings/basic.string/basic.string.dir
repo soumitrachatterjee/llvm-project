@@ -1,0 +1,18 @@
+{
+    "directory name": "llvm-project/libcxx/test/libcxx/strings/basic.string",
+    "score.sum": 0.000286245608068531,
+    "sha.latest": "04ce0baf015ced39e994b8839e30bd5cef6c995e",
+    "time.latest": 1717864840.3783505,
+    "formatted_time": "2024-06-08 22:10:40.378353",
+    "filescores": {
+        "alignof.compile.pass.cpp": 1.40723811875009e-05,
+        "sizeof.compile.pass.cpp": 1.40723811875009e-05
+    },
+    "subdirscores": {
+        "string.access": 5.104791935411552e-05,
+        "string.capacity": 7.575988978885865e-05,
+        "string.cons": 3.264567835510164e-05,
+        "string.iterators": 3.302416372292628e-05,
+        "string.modifiers": 0.0001156460243896066
+    }
+}

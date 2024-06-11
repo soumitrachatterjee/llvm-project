@@ -1,0 +1,22 @@
+{
+    "directory name": "llvm-project/cross-project-tests/debuginfo-tests/dexter/dex/debugger/dbgeng",
+    "score.sum": 1.759673565496461e-05,
+    "sha.latest": "f98ee40f4b5d7474fc67e82824bf6abbaedb7b1c",
+    "time.latest": 1717788629.4864771,
+    "formatted_time": "2024-06-08 01:00:29.486482",
+    "filescores": {
+        "breakpoint.py": 6.099602068851199e-06,
+        "client.py": 6.099602068851199e-06,
+        "control.py": 6.099602068851199e-06,
+        "dbgeng.py": 1.759673565496461e-05,
+        "probe_process.py": 6.099602068851199e-06,
+        "README.md": 0,
+        "setup.py": 6.099602068851199e-06,
+        "symbols.py": 6.099602068851199e-06,
+        "symgroup.py": 6.099602068851199e-06,
+        "sysobjs.py": 6.099602068851199e-06,
+        "utils.py": 6.099602068851199e-06,
+        "__init__.py": 6.099602068851199e-06
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/clang-tools-extra/clangd/test/xpc",
+    "score.sum": 0,
+    "sha.latest": "b804eef09052cf40e79aa2ed8a23f2f39e2dda1b",
+    "time.latest": 1717804983.2946968,
+    "formatted_time": "2024-06-08 05:33:03.294699",
+    "filescores": {
+        "initialize.test": 0
+    },
+    "subdirscores": {}
+}

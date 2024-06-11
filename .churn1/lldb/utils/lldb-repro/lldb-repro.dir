@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/lldb/utils/lldb-repro",
+    "score.sum": 1.0720431186374924e-05,
+    "sha.latest": "602e47c5f9fd2e14c7bfb6111e6558fa0d27c87f",
+    "time.latest": 1717999790.8494732,
+    "formatted_time": "2024-06-10 11:39:50.849476",
+    "filescores": {
+        "CMakeLists.txt": 6.313790114838513e-06,
+        "lldb-repro.py": 8.415214795264679e-06
+    },
+    "subdirscores": {}
+}

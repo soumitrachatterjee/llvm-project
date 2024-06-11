@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/numerics/numarray/template.valarray/valarray.access",
+    "score.sum": 2.0079139427232928e-05,
+    "sha.latest": "7fc6a55688c816f5fc1a5481ae7af25be7500356",
+    "time.latest": 1717949851.0221655,
+    "formatted_time": "2024-06-09 21:47:31.022168",
+    "filescores": {
+        "access.pass.cpp": 2.0079139427232928e-05,
+        "const_access.pass.cpp": 2.0079139427232928e-05
+    },
+    "subdirscores": {}
+}

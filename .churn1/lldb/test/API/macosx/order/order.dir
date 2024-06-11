@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/lldb/test/API/macosx/order",
+    "score.sum": 1.0503384530912484e-05,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717963660.8458707,
+    "formatted_time": "2024-06-10 01:37:40.845876",
+    "filescores": {
+        "cmds.txt": 0,
+        "main.c": 6.099602068851199e-06,
+        "Makefile": 0,
+        "order-file": 0,
+        "TestOrderFile.py": 1.0459834404963863e-05
+    },
+    "subdirscores": {}
+}

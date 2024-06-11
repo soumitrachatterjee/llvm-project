@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/bolt/lib/Target/AArch64",
+    "score.sum": 0.0001290508706717962,
+    "sha.latest": "71c2a132b2713c568ef41b0d18f92c4fa8ee73a6",
+    "time.latest": 1717789190.2958448,
+    "formatted_time": "2024-06-08 01:09:50.295851",
+    "filescores": {
+        "AArch64MCPlusBuilder.cpp": 0.0001134875122287198,
+        "CMakeLists.txt": 3.90835587201105e-05
+    },
+    "subdirscores": {}
+}

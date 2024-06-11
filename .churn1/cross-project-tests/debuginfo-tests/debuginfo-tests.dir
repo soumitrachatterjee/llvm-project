@@ -1,0 +1,19 @@
+{
+    "directory name": "llvm-project/cross-project-tests/debuginfo-tests",
+    "score.sum": 0.00023177562187457485,
+    "sha.latest": "69b8bc71110aca64c74a14800e800f4b151d5d6f",
+    "time.latest": 1717793268.7256918,
+    "formatted_time": "2024-06-08 02:17:48.725696",
+    "filescores": {
+        "lit.local.cfg": 6.099602068851199e-06,
+        "README.txt": 0
+    },
+    "subdirscores": {
+        "clang_llvm_roundtrip": 2.8406016313746305e-05,
+        "dexter": 0.00013753656400631182,
+        "dexter-tests": 8.459052681420055e-05,
+        "llgdb-tests": 3.784357948847645e-05,
+        "llvm-prettyprinters": 2.9106812829894764e-05,
+        "win_cdb-tests": 0
+    }
+}

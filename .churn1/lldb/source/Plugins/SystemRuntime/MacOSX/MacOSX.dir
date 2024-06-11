@@ -1,0 +1,21 @@
+{
+    "directory name": "llvm-project/lldb/source/Plugins/SystemRuntime/MacOSX",
+    "score.sum": 0.0002958848635455357,
+    "sha.latest": "1b26c25f7e56fe3d5e06c285566ef43812d7baee",
+    "time.latest": 1717882073.106,
+    "formatted_time": "2024-06-09 02:57:53.106001",
+    "filescores": {
+        "AppleGetItemInfoHandler.cpp": 0.00012272285427551312,
+        "AppleGetItemInfoHandler.h": 4.531960101806267e-05,
+        "AppleGetPendingItemsHandler.cpp": 0.0001135755419798621,
+        "AppleGetPendingItemsHandler.h": 4.531960101806267e-05,
+        "AppleGetQueuesHandler.cpp": 0.00011340954369003754,
+        "AppleGetQueuesHandler.h": 4.531960101806267e-05,
+        "AppleGetThreadItemInfoHandler.cpp": 0.0001120838627703322,
+        "AppleGetThreadItemInfoHandler.h": 4.5332649645775494e-05,
+        "CMakeLists.txt": 1.3252223722602148e-05,
+        "SystemRuntimeMacOSX.cpp": 0.00020082349847440006,
+        "SystemRuntimeMacOSX.h": 7.283108800342313e-05
+    },
+    "subdirscores": {}
+}

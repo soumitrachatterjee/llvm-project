@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/lldb/test/API/commands/expression/import_base_class_when_class_has_derived_member",
+    "score.sum": 0,
+    "sha.latest": "def7c7f6020530ef2deb64f786d28775b5d0e47f",
+    "time.latest": 1717892421.7947762,
+    "formatted_time": "2024-06-09 05:50:21.794778",
+    "filescores": {
+        "main.cpp": 0,
+        "TestImportBaseClassWhenClassHasDerivedMember.py": 0
+    },
+    "subdirscores": {}
+}

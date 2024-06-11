@@ -1,0 +1,16 @@
+{
+    "directory name": "llvm-project/lldb/test/API/functionalities/postmortem/minidump",
+    "score.sum": 5.008804880624916e-05,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717916770.2260654,
+    "formatted_time": "2024-06-09 12:36:10.226067",
+    "filescores": {
+        "fizzbuzz.cpp": 0,
+        "fizzbuzz.syms": 0,
+        "fizzbuzz_no_heap.dmp": 0,
+        "main.cpp": 0,
+        "Makefile": 0,
+        "TestMiniDump.py": 5.008804880624916e-05
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/commands/expression/nested",
+    "score.sum": 6.508337677040265e-06,
+    "sha.latest": "096c530ab3ea5c96526451181117f30db17b4b1d",
+    "time.latest": 1717893048.183392,
+    "formatted_time": "2024-06-09 06:00:48.183393",
+    "filescores": {
+        "main.cpp": 0,
+        "Makefile": 0,
+        "TestNestedExpressions.py": 6.508337677040265e-06
+    },
+    "subdirscores": {}
+}

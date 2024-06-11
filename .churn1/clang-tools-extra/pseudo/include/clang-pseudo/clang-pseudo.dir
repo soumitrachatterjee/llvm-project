@@ -1,0 +1,21 @@
+{
+    "directory name": "llvm-project/clang-tools-extra/pseudo/include/clang-pseudo",
+    "score.sum": 8.941071138485062e-05,
+    "sha.latest": "c60ac509399da5cba533b9b6cc5b983c59f7d7b3",
+    "time.latest": 1717814593.4562893,
+    "formatted_time": "2024-06-08 08:13:13.456293",
+    "filescores": {
+        "Bracket.h": 0,
+        "DirectiveTree.h": 1.8839126420357368e-05,
+        "Disambiguate.h": 0,
+        "Forest.h": 3.4446983583922326e-05,
+        "GLR.h": 2.450836730671657e-05,
+        "Language.h": 1.6666099819141653e-05,
+        "Token.h": 1.1711296974896208e-05
+    },
+    "subdirscores": {
+        "cli": 0,
+        "cxx": 2.3508318545736666e-05,
+        "grammar": 4.6966114453162e-05
+    }
+}

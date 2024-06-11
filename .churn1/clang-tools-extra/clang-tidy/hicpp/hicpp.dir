@@ -1,0 +1,23 @@
+{
+    "directory name": "llvm-project/clang-tools-extra/clang-tidy/hicpp",
+    "score.sum": 0.00014012779857524655,
+    "sha.latest": "0097fd2b068e374b02571b391bd4a0a84e8ed3e2",
+    "time.latest": 1717796587.3314154,
+    "formatted_time": "2024-06-08 03:13:07.331420",
+    "filescores": {
+        "CMakeLists.txt": 2.7686364463624362e-05,
+        "ExceptionBaseclassCheck.cpp": 2.3252641991734757e-05,
+        "ExceptionBaseclassCheck.h": 1.9240439287186724e-05,
+        "HICPPTidyModule.cpp": 2.9224091710327622e-05,
+        "IgnoredRemoveResultCheck.cpp": 6.099602068851199e-06,
+        "IgnoredRemoveResultCheck.h": 0,
+        "LICENSE.TXT": 7.83631205964982e-06,
+        "MultiwayPathsCoveredCheck.cpp": 4.5843824572166563e-05,
+        "MultiwayPathsCoveredCheck.h": 1.9182424613264522e-05,
+        "NoAssemblerCheck.cpp": 8.986471777451769e-06,
+        "NoAssemblerCheck.h": 1.692064950148438e-05,
+        "SignedBitwiseCheck.cpp": 2.2086695833184913e-05,
+        "SignedBitwiseCheck.h": 2.2999583862067907e-05
+    },
+    "subdirscores": {}
+}

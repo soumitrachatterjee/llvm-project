@@ -1,0 +1,28 @@
+{
+    "directory name": "llvm-project/lldb/source/Plugins/Process/minidump",
+    "score.sum": 0.0004862409590562149,
+    "sha.latest": "0123cefc00177e4fc7daa0dadf98ca8336760785",
+    "time.latest": 1717876530.4829726,
+    "formatted_time": "2024-06-09 01:25:30.482976",
+    "filescores": {
+        "CMakeLists.txt": 1.884382626935006e-05,
+        "MinidumpParser.cpp": 0.00016880326995659002,
+        "MinidumpParser.h": 8.48324036124673e-05,
+        "MinidumpTypes.cpp": 6.771637730377931e-05,
+        "MinidumpTypes.h": 6.371760938579073e-05,
+        "NtStructures.h": 1.0199508608340677e-05,
+        "ProcessMinidump.cpp": 0.00029972059341980387,
+        "ProcessMinidump.h": 8.806023396721045e-05,
+        "RegisterContextMinidump_ARM.cpp": 4.803698848725211e-05,
+        "RegisterContextMinidump_ARM.h": 1.375748804589032e-05,
+        "RegisterContextMinidump_ARM64.cpp": 5.2729791066554015e-05,
+        "RegisterContextMinidump_ARM64.h": 8.75458278134088e-06,
+        "RegisterContextMinidump_x86_32.cpp": 1.4882277427578424e-05,
+        "RegisterContextMinidump_x86_32.h": 1.2832400806476514e-05,
+        "RegisterContextMinidump_x86_64.cpp": 1.5316055137209906e-05,
+        "RegisterContextMinidump_x86_64.h": 1.4351218573538704e-05,
+        "ThreadMinidump.cpp": 3.8633489275321756e-05,
+        "ThreadMinidump.h": 2.0551590022230828e-05
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/functionalities/breakpoint/breakpoint_ignore_count",
+    "score.sum": 2.0401824742733102e-05,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717902380.143362,
+    "formatted_time": "2024-06-09 08:36:20.143364",
+    "filescores": {
+        "main.c": 6.2092376679784985e-06,
+        "Makefile": 0,
+        "TestBreakpointIgnoreCount.py": 2.0358274616784483e-05
+    },
+    "subdirscores": {}
+}

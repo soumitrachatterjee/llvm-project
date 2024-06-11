@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/lldb/test/API/tools/lldb-server/test",
+    "score.sum": 1.1098236381966638e-05,
+    "sha.latest": "5b386158aacac4b41126983a5379d36ed413d0ea",
+    "time.latest": 1717970268.4963276,
+    "formatted_time": "2024-06-10 03:27:48.496331",
+    "filescores": {
+        "test_lldbgdbserverutils.py": 1.1098236381966638e-05
+    },
+    "subdirscores": {}
+}

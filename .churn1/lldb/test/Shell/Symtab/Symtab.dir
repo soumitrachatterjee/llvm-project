@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/lldb/test/Shell/Symtab",
+    "score.sum": 6.099602068851199e-06,
+    "sha.latest": "1f64f8bcabb65c9622386d7458e42ee33b2eb7dc",
+    "time.latest": 1717983884.2738764,
+    "formatted_time": "2024-06-10 07:14:44.273879",
+    "filescores": {
+        "symtab-regex-demangled.test": 6.099602068851199e-06,
+        "symtab-regex-mangled.test": 6.099602068851199e-06
+    },
+    "subdirscores": {
+        "Inputs": 0
+    }
+}

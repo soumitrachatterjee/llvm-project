@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/functionalities/thread/concurrent_events/exit",
+    "score.sum": 6.099602068851199e-06,
+    "sha.latest": "4cc8f2a017c76af25234afc7c380550e9c93135c",
+    "time.latest": 1717921140.53588,
+    "formatted_time": "2024-06-09 13:49:00.535882",
+    "filescores": {
+        "main.cpp": 0,
+        "Makefile": 0,
+        "TestConcurrentThreadExit.py": 6.099602068851199e-06
+    },
+    "subdirscores": {}
+}

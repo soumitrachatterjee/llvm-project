@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/lldb/test/API/functionalities/dyld-launch-linux",
+    "score.sum": 1.6544241035032143e-05,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717909252.4474978,
+    "formatted_time": "2024-06-09 10:30:52.447500",
+    "filescores": {
+        "main.cpp": 6.1245591649235025e-06,
+        "Makefile": 6.1245591649235025e-06,
+        "signal_file.cpp": 6.1245591649235025e-06,
+        "signal_file.h": 6.1245591649235025e-06,
+        "TestDyldLaunchLinux.py": 1.6544241035032143e-05
+    },
+    "subdirscores": {}
+}

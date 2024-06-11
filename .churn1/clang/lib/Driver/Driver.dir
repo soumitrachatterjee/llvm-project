@@ -1,0 +1,29 @@
+{
+    "directory name": "llvm-project/clang/lib/Driver",
+    "score.sum": 0.027243778367029074,
+    "sha.latest": "124d0b787b5d1ff4aa06bbd61a98d3fc344d0cc6",
+    "time.latest": 1717811057.004535,
+    "formatted_time": "2024-06-08 07:14:17.004537",
+    "filescores": {
+        "Action.cpp": 0.0002168575259792626,
+        "CMakeLists.txt": 0.00033629446951277225,
+        "Compilation.cpp": 0.00028410491475316295,
+        "Distro.cpp": 0.0001147254492447502,
+        "Driver.cpp": 0.0036185374626611293,
+        "DriverOptions.cpp": 0.00010881353769005172,
+        "Job.cpp": 0.0002805211713732399,
+        "Multilib.cpp": 8.951845086668132e-05,
+        "MultilibBuilder.cpp": 1.988442375200158e-05,
+        "OffloadBundler.cpp": 7.443696691537297e-05,
+        "OptionUtils.cpp": 0,
+        "Phases.cpp": 4.152254227130486e-05,
+        "SanitizerArgs.cpp": 0.0008804467661771043,
+        "Tool.cpp": 3.498725392850274e-05,
+        "ToolChain.cpp": 0.001312923898453641,
+        "Types.cpp": 0.00032719760731264857,
+        "XRayArgs.cpp": 0.00012466011409152075
+    },
+    "subdirscores": {
+        "ToolChains": 0.0117311728612104
+    }
+}

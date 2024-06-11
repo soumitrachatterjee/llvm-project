@@ -1,0 +1,17 @@
+{
+    "directory name": "llvm-project/libcxx/test/libcxx/depr/depr.default.allocator/allocator.members",
+    "score.sum": 3.162382353884483e-05,
+    "sha.latest": "8751bbe7d3642e2641dad02da7ad9b95a3f77d4f",
+    "time.latest": 1717849338.5719264,
+    "formatted_time": "2024-06-08 17:52:18.571930",
+    "filescores": {
+        "address.cxx2a.pass.cpp": 6.099602068851199e-06,
+        "address.depr_in_cxx17.verify.cpp": 1.1124255989802736e-05,
+        "allocate.cxx2a.pass.cpp": 1.1071678640736551e-05,
+        "allocate.cxx2a.verify.cpp": 6.444216048599437e-06,
+        "allocate.depr_in_cxx17.verify.cpp": 1.9353245173691007e-05,
+        "construct.cxx2a.pass.cpp": 1.2162183060022852e-05,
+        "max_size.cxx2a.pass.cpp": 6.099602068851199e-06
+    },
+    "subdirscores": {}
+}

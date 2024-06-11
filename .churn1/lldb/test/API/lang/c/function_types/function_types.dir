@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/lang/c/function_types",
+    "score.sum": 1.537305568831805e-05,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717925787.0518684,
+    "formatted_time": "2024-06-09 15:06:27.051869",
+    "filescores": {
+        "main.c": 6.099602068851199e-06,
+        "Makefile": 0,
+        "TestFunctionTypes.py": 1.532950556236943e-05
+    },
+    "subdirscores": {}
+}

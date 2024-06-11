@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/input.output/syncstream/osyncstream/syncstream.osyncstream.cons",
+    "score.sum": 0,
+    "sha.latest": "7cc72a0a2ec22855572d96411febd4f2c4ac5a49",
+    "time.latest": 1717910814.5658317,
+    "formatted_time": "2024-06-09 10:56:54.565833",
+    "filescores": {
+        "cons.move.pass.cpp": 0,
+        "cons.ostream.allocator.pass.cpp": 0,
+        "cons.ostream.pass.cpp": 0,
+        "cons.pointer.allocator.pass.cpp": 0,
+        "cons.pointer.pass.cpp": 0
+    },
+    "subdirscores": {}
+}

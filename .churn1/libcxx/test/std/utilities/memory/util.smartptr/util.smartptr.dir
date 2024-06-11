@@ -1,0 +1,16 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/utilities/memory/util.smartptr",
+    "score.sum": 0.0005428734445145027,
+    "sha.latest": "65a1efc60ca390cb68409fd27d5648b4caa6cb54",
+    "time.latest": 1718000554.5454004,
+    "formatted_time": "2024-06-10 11:52:34.545402",
+    "filescores": {},
+    "subdirscores": {
+        "util.smartptr.enab": 5.0707769036332134e-05,
+        "util.smartptr.hash": 4.873164919875326e-05,
+        "util.smartptr.shared": 0.000463421318163565,
+        "util.smartptr.shared.atomic": 3.204471974435705e-05,
+        "util.smartptr.weak": 9.569855650053994e-05,
+        "util.smartptr.weakptr": 2.8300152805362822e-05
+    }
+}

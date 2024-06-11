@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/clang/test/Analysis/diagnostics/Inputs/expected-sarif",
+    "score.sum": 2.5054744770433338e-05,
+    "sha.latest": "7b6fe711b210a90cbb8facfe5343a0f999de5a0c",
+    "time.latest": 1717829318.0483458,
+    "formatted_time": "2024-06-08 12:18:38.048350",
+    "filescores": {
+        "sarif-diagnostics-taint-test.c.sarif": 1.3132140077550966e-05,
+        "sarif-multi-diagnostic-test.c.sarif": 2.4642658654154616e-05
+    },
+    "subdirscores": {}
+}

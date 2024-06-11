@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/bolt/tools/heatmap",
+    "score.sum": 3.1089511652227056e-05,
+    "sha.latest": "6da4a7a8e2f13bcb8889898323e72270829ce63a",
+    "time.latest": 1717796921.1145084,
+    "formatted_time": "2024-06-08 03:18:41.114511",
+    "filescores": {
+        "CMakeLists.txt": 2.7619803221801795e-05,
+        "heatmap.cpp": 1.2395746786986581e-05
+    },
+    "subdirscores": {}
+}

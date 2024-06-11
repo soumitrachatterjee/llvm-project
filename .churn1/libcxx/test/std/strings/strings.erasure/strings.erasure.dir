@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/strings/strings.erasure",
+    "score.sum": 2.0197921353424256e-05,
+    "sha.latest": "a40bada91aeda276a772acfbcae6e8de26755a11",
+    "time.latest": 1717974294.5852137,
+    "formatted_time": "2024-06-10 04:34:54.585215",
+    "filescores": {
+        "erase.pass.cpp": 2.0197921353424256e-05,
+        "erase_if.pass.cpp": 2.0197921353424256e-05
+    },
+    "subdirscores": {}
+}

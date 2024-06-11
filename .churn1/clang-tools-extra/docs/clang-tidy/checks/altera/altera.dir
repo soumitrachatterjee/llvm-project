@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/clang-tools-extra/docs/clang-tidy/checks/altera",
+    "score.sum": 0,
+    "sha.latest": "6e566bc5523f743bc34a7e26f050f1f2b4d699a8",
+    "time.latest": 1717807137.0240011,
+    "formatted_time": "2024-06-08 06:08:57.024003",
+    "filescores": {
+        "id-dependent-backward-branch.rst": 0,
+        "kernel-name-restriction.rst": 0,
+        "single-work-item-barrier.rst": 0,
+        "struct-pack-align.rst": 0,
+        "unroll-loops.rst": 0
+    },
+    "subdirscores": {}
+}

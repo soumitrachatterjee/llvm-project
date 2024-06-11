@@ -1,0 +1,22 @@
+{
+    "directory name": "llvm-project/compiler-rt/test/asan/TestCases/Helpers",
+    "score.sum": 2.0440579335404696e-05,
+    "sha.latest": "d7ec48d71bd67118e7996c45e9c7fb1b09d4f59a",
+    "time.latest": 1717810867.6234946,
+    "formatted_time": "2024-06-08 07:11:07.623497",
+    "filescores": {
+        "echo-env.cpp": 0,
+        "ignorelist-extra.cpp": 0,
+        "init-order-atexit-extra.cpp": 0,
+        "initialization-bug-extra.cpp": 0,
+        "initialization-bug-extra2.cpp": 0,
+        "initialization-constexpr-extra.cpp": 0,
+        "initialization-ignorelist-extra.cpp": 0,
+        "initialization-ignorelist-extra2.cpp": 0,
+        "initialization-ignorelist.txt": 0,
+        "initialization-nobug-extra.cpp": 0,
+        "lit.local.cfg.py": 0,
+        "underflow.cpp": 0
+    },
+    "subdirscores": {}
+}

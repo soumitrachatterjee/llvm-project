@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/compiler-rt/lib/fuzzer/afl",
+    "score.sum": 4.7365811966319496e-05,
+    "sha.latest": "53065c543fe3f1e7913c9e8f2487d76034afa249",
+    "time.latest": 1717798252.8137722,
+    "formatted_time": "2024-06-08 03:40:52.813776",
+    "filescores": {
+        "afl_driver.cpp": 4.7365811966319496e-05
+    },
+    "subdirscores": {}
+}

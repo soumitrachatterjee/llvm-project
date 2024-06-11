@@ -1,0 +1,16 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/time/time.point/time.point.comparisons",
+    "score.sum": 6.099602068851199e-06,
+    "sha.latest": "d94a770f7b05161e0b8bc87975cfbc7f79d4b497",
+    "time.latest": 1717985290.7153912,
+    "formatted_time": "2024-06-10 07:38:10.715395",
+    "filescores": {
+        "compare.three_way.compile.fail.cpp": 0,
+        "compare.three_way.pass.cpp": 0,
+        "op_equal.compile.fail.cpp": 0,
+        "op_equal.pass.cpp": 0,
+        "op_less.compile.fail.cpp": 0,
+        "op_less.pass.cpp": 0
+    },
+    "subdirscores": {}
+}

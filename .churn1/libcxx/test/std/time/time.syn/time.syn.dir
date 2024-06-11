@@ -1,0 +1,30 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/time/time.syn",
+    "score.sum": 8.535378075776735e-05,
+    "sha.latest": "e4d4cfa5a0111372dff2b01126545cf3139ee40b",
+    "time.latest": 1717985762.6346922,
+    "formatted_time": "2024-06-10 07:46:02.634695",
+    "filescores": {
+        "formatter.day.pass.cpp": 3.9769710660083886e-05,
+        "formatter.duration.pass.cpp": 5.381049044200147e-05,
+        "formatter.file_time.pass.cpp": 1.9860104740270317e-05,
+        "formatter.hh_mm_ss.pass.cpp": 2.8317948756299154e-05,
+        "formatter.local_time.pass.cpp": 1.3665017858931912e-05,
+        "formatter.month.pass.cpp": 3.288505730169616e-05,
+        "formatter.month_day.pass.cpp": 3.0132465574872738e-05,
+        "formatter.month_day_last.pass.cpp": 2.5143715020724486e-05,
+        "formatter.month_weekday.pass.cpp": 2.5143715020724486e-05,
+        "formatter.sys_time.pass.cpp": 2.18609218018727e-05,
+        "formatter.weekday.pass.cpp": 3.7431381885451126e-05,
+        "formatter.weekday_index.pass.cpp": 3.0132465574872738e-05,
+        "formatter.weekday_last.pass.cpp": 3.0132465574872738e-05,
+        "formatter.year.pass.cpp": 3.746403215377517e-05,
+        "formatter.year_month.pass.cpp": 2.5143715020724486e-05,
+        "formatter.year_month_day.pass.cpp": 3.0132465574872738e-05,
+        "formatter.year_month_day_last.pass.cpp": 2.5143715020724486e-05,
+        "formatter.year_month_weekday.pass.cpp": 2.5143715020724486e-05,
+        "formatter.year_month_weekday_last.pass.cpp": 2.0994433874964195e-05,
+        "formatter_tests.h": 1.0533199894972856e-05
+    },
+    "subdirscores": {}
+}

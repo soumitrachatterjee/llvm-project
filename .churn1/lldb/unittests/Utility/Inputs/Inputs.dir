@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/unittests/Utility/Inputs",
+    "score.sum": 8.08947313698594e-06,
+    "sha.latest": "e861d053dd43f2e5a63f150ee2f9d1d643ea29c1",
+    "time.latest": 1717999274.841453,
+    "formatted_time": "2024-06-10 11:31:14.841455",
+    "filescores": {
+        "StructuredData-basic.json": 0,
+        "StructuredData-full.json": 0,
+        "StructuredData-nested.json": 0
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/libcxx/test/libcxx/input.output/filesystems/class.path/path.itr",
+    "score.sum": 7.508725942427223e-05,
+    "sha.latest": "58780b811c23df3d928d8452ee21c862dde754a2",
+    "time.latest": 1717850995.9535916,
+    "formatted_time": "2024-06-08 18:19:55.953595",
+    "filescores": {
+        "assert.iterator.pass.cpp": 2.9305139581042225e-05
+    },
+    "subdirscores": {}
+}

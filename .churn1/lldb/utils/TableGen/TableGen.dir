@@ -1,0 +1,17 @@
+{
+    "directory name": "llvm-project/lldb/utils/TableGen",
+    "score.sum": 2.1090247460313156e-05,
+    "sha.latest": "b0e28eb832710964067a17d845de15ada2da2b9c",
+    "time.latest": 1718000018.4129674,
+    "formatted_time": "2024-06-10 11:43:38.412970",
+    "filescores": {
+        "CMakeLists.txt": 8.396347444869639e-06,
+        "LLDBOptionDefEmitter.cpp": 1.7440565277773567e-05,
+        "LLDBPropertyDefEmitter.cpp": 7.849566747114705e-06,
+        "LLDBTableGen.cpp": 2.7279513639666706e-05,
+        "LLDBTableGenBackends.h": 8.947759852706944e-06,
+        "LLDBTableGenUtils.cpp": 0,
+        "LLDBTableGenUtils.h": 6.099602068851199e-06
+    },
+    "subdirscores": {}
+}

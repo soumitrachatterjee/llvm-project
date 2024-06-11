@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/source/Plugins/Architecture/PPC64",
+    "score.sum": 3.9978080987143474e-05,
+    "sha.latest": "b5e9f83ea48e29f0fe6d03354303179e5daaec1e",
+    "time.latest": 1717868144.6554046,
+    "formatted_time": "2024-06-08 23:05:44.655407",
+    "filescores": {
+        "ArchitecturePPC64.cpp": 3.439468188725063e-05,
+        "ArchitecturePPC64.h": 2.5127912099346834e-05,
+        "CMakeLists.txt": 0
+    },
+    "subdirscores": {}
+}

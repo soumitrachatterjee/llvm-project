@@ -1,0 +1,21 @@
+{
+    "directory name": "llvm-project/compiler-rt/lib/tsan/tests/rtl",
+    "score.sum": 8.411418528489317e-05,
+    "sha.latest": "ca50840b5bc0679e824850ca4fd322504d6713a0",
+    "time.latest": 1717808020.2334027,
+    "formatted_time": "2024-06-08 06:23:40.233405",
+    "filescores": {
+        "CMakeLists.txt": 1.2564450746551033e-05,
+        "tsan_bench.cpp": 6.099602068851199e-06,
+        "tsan_mop.cpp": 1.0474901622296104e-05,
+        "tsan_mutex.cpp": 1.0474901622296104e-05,
+        "tsan_posix.cpp": 6.099602068851199e-06,
+        "tsan_posix_util.h": 6.099602068851199e-06,
+        "tsan_string.cpp": 6.099602068851199e-06,
+        "tsan_test.cpp": 2.4011795337552952e-05,
+        "tsan_test_util.h": 2.076716307103408e-05,
+        "tsan_test_util_posix.cpp": 1.309792882810488e-05,
+        "tsan_thread.cpp": 6.099602068851199e-06
+    },
+    "subdirscores": {}
+}

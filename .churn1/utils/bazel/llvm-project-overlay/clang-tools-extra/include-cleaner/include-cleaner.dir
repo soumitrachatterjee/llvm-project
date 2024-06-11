@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/utils/bazel/llvm-project-overlay/clang-tools-extra/include-cleaner",
+    "score.sum": 0,
+    "sha.latest": "c5564a0075b221decc26598f30aba49c2fe6814e",
+    "time.latest": 1717788620.6999497,
+    "formatted_time": "2024-06-08 01:00:20.699955",
+    "filescores": {
+        "BUILD.bazel": 0
+    },
+    "subdirscores": {}
+}

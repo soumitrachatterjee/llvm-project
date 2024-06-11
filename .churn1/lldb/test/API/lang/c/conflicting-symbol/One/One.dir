@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/lang/c/conflicting-symbol/One",
+    "score.sum": 6.099602068851199e-06,
+    "sha.latest": "10df88de21772ff40818bec7eef6b099ba4279fb",
+    "time.latest": 1717925214.4709387,
+    "formatted_time": "2024-06-09 14:56:54.470941",
+    "filescores": {
+        "One.c": 6.099602068851199e-06,
+        "One.h": 0,
+        "OneConstant.c": 0
+    },
+    "subdirscores": {}
+}

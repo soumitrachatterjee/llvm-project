@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/source/Plugins/SymbolLocator/DebugSymbols",
+    "score.sum": 6.3250572506819695e-06,
+    "sha.latest": "80bfac4327b6fb94cb9bf44eeb0d032799b9d418",
+    "time.latest": 1717881655.8771615,
+    "formatted_time": "2024-06-09 02:50:55.877163",
+    "filescores": {
+        "CMakeLists.txt": 0,
+        "SymbolLocatorDebugSymbols.cpp": 6.3250572506819695e-06,
+        "SymbolLocatorDebugSymbols.h": 7.615731005877857e-06
+    },
+    "subdirscores": {}
+}

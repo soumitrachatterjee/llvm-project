@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/clang/test/Analysis/copypaste/Inputs/expected-plists",
+    "score.sum": 8.581221626649102e-06,
+    "sha.latest": "15e3e95263fadcc9af8269aa26bad302219a183c",
+    "time.latest": 1717827265.5784726,
+    "formatted_time": "2024-06-08 11:44:25.578477",
+    "filescores": {
+        "MismatchedDeallocator-path-notes.cpp.plist": 6.130312426287229e-06,
+        "plist-diagnostics-notes-as-events.cpp.plist": 8.581221626649102e-06,
+        "plist-diagnostics.cpp.plist": 8.581221626649102e-06
+    },
+    "subdirscores": {}
+}

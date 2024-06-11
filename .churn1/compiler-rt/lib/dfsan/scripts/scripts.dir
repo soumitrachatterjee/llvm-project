@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/compiler-rt/lib/dfsan/scripts",
+    "score.sum": 7.295800842351385e-05,
+    "sha.latest": "f98ee40f4b5d7474fc67e82824bf6abbaedb7b1c",
+    "time.latest": 1717798215.1781645,
+    "formatted_time": "2024-06-08 03:40:15.178185",
+    "filescores": {
+        "build-libc-list.py": 4.4643207141106465e-05,
+        "check_custom_wrappers.sh": 3.448204787565657e-05
+    },
+    "subdirscores": {}
+}

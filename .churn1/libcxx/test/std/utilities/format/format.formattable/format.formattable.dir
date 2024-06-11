@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/utilities/format/format.formattable",
+    "score.sum": 6.17959849758125e-05,
+    "sha.latest": "f5832bab6f5024cabe32a9f668b7f44e6b7cfef5",
+    "time.latest": 1717994233.3633187,
+    "formatted_time": "2024-06-10 10:07:13.363321",
+    "filescores": {
+        "concept.formattable.compile.pass.cpp": 6.17959849758125e-05,
+        "concept.formattable.float.compile.pass.cpp": 6.099602068851199e-06
+    },
+    "subdirscores": {}
+}

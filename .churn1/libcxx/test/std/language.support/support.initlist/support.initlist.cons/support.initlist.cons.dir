@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/language.support/support.initlist/support.initlist.cons",
+    "score.sum": 2.331101852155543e-05,
+    "sha.latest": "4cd6ca102a94e1b64ba3f940cc26b4d7b2b82964",
+    "time.latest": 1717923258.8668606,
+    "formatted_time": "2024-06-09 14:24:18.866862",
+    "filescores": {
+        "default.pass.cpp": 2.331101852155543e-05
+    },
+    "subdirscores": {}
+}

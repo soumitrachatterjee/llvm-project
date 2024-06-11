@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/libcxx/test/libcxx/lint",
+    "score.sum": 3.417759675782336e-05,
+    "sha.latest": "6fd27d5b0321f65c8a09624e456e33874ae3730b",
+    "time.latest": 1717860394.0752027,
+    "formatted_time": "2024-06-08 20:56:34.075207",
+    "filescores": {
+        "lint_cmakelists.sh.py": 6.099602068851199e-06,
+        "lint_headers.sh.py": 2.0283068699367527e-05
+    },
+    "subdirscores": {}
+}

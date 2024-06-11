@@ -1,0 +1,23 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/utilities/memory",
+    "score.sum": 0.001037833114397757,
+    "sha.latest": "1197fcabc4b5f39dbe8a94b1ab6e92354f3f0dd2",
+    "time.latest": 1718000554.5526488,
+    "formatted_time": "2024-06-10 11:52:34.552650",
+    "filescores": {},
+    "subdirscores": {
+        "allocator.tag": 4.689350711823399e-05,
+        "allocator.traits": 0.00011911861340072433,
+        "allocator.uses": 5.275325408189423e-05,
+        "c.malloc": 1.2132863580760565e-05,
+        "default.allocator": 0.00020026378774805372,
+        "pointer.conversion": 5.414536780894241e-05,
+        "pointer.traits": 5.0206507692701945e-05,
+        "ptr.align": 2.8090681593748076e-05,
+        "specialized.algorithms": 0.00019033819244783191,
+        "storage.iterator": 5.669224876531135e-05,
+        "temporary.buffer": 7.105457115591128e-05,
+        "unique.ptr": 0.00011956821768535872,
+        "util.smartptr": 0.0005428734445145027
+    }
+}

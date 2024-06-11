@@ -1,0 +1,20 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/numerics/numarray",
+    "score.sum": 9.610888858253818e-05,
+    "sha.latest": "5ca2777c69f8708d583e230c56ac7f5f6376fb40",
+    "time.latest": 1717951655.2951252,
+    "formatted_time": "2024-06-09 22:17:35.295129",
+    "filescores": {},
+    "subdirscores": {
+        "class.gslice": null,
+        "class.slice": null,
+        "template.gslice.array": 2.0607948046759235e-05,
+        "template.indirect.array": 2.0607948046759235e-05,
+        "template.mask.array": 2.0607948046759235e-05,
+        "template.slice.array": 2.6578282871885487e-05,
+        "template.valarray": 5.804504847071277e-05,
+        "valarray.nonmembers": 3.227571294638551e-05,
+        "valarray.range": 1.848995649829957e-05,
+        "valarray.syn": 1.2132863580760565e-05
+    }
+}

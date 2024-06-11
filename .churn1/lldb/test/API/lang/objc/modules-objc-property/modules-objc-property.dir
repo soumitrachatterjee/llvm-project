@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/lldb/test/API/lang/objc/modules-objc-property",
+    "score.sum": 1.3480569855953681e-05,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717958208.5649276,
+    "formatted_time": "2024-06-10 00:06:48.564932",
+    "filescores": {
+        "main.m": 6.099602068851199e-06,
+        "Makefile": 0,
+        "module.modulemap": 0,
+        "myModule.h": 6.099602068851199e-06,
+        "TestModulesObjCProperty.py": 1.342875595767416e-05
+    },
+    "subdirscores": {}
+}

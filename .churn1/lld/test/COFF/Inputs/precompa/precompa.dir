@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/lld/test/COFF/Inputs/precompa",
+    "score.sum": 0,
+    "sha.latest": "02c53868116d9bc5e76400183250772af5807eb9",
+    "time.latest": 1717849038.9828784,
+    "formatted_time": "2024-06-08 17:47:18.982883",
+    "filescores": {
+        "precomp.obj": 0,
+        "useprecomp.obj": 0
+    },
+    "subdirscores": {}
+}

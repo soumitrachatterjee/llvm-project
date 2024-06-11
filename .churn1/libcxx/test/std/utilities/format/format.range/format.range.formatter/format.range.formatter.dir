@@ -1,0 +1,18 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/utilities/format/format.range/format.range.formatter",
+    "score.sum": 3.3185270707843886e-05,
+    "sha.latest": "b29301cd40441b5eb8cef9356429fb081e6b6a72",
+    "time.latest": 1717995173.0241523,
+    "formatted_time": "2024-06-10 10:22:53.024155",
+    "filescores": {
+        "format.functions.format.pass.cpp": 2.1321616959661258e-05,
+        "format.functions.tests.h": 2.21832961960404e-05,
+        "format.functions.vformat.pass.cpp": 1.9228877823029912e-05,
+        "format.pass.cpp": 2.3643547736845443e-05,
+        "parse.pass.cpp": 1.741835107126727e-05,
+        "set_brackets.pass.cpp": 1.7045974115878764e-05,
+        "set_separator.pass.cpp": 1.7045974115878764e-05,
+        "underlying.pass.cpp": 1.594927061644546e-05
+    },
+    "subdirscores": {}
+}

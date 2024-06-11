@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/numerics/bit/bit.cast",
+    "score.sum": 1.0195284351382059e-05,
+    "sha.latest": "1c834112f27adc8b9372e3cb8ebd39e827d3c7cd",
+    "time.latest": 1717932992.2156658,
+    "formatted_time": "2024-06-09 17:06:32.215669",
+    "filescores": {
+        "bit_cast.compile.pass.cpp": 6.099602068851199e-06,
+        "bit_cast.pass.cpp": 8.501054014461476e-06
+    },
+    "subdirscores": {}
+}

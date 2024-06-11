@@ -1,0 +1,21 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/input.output",
+    "score.sum": 0.0016929792889545027,
+    "sha.latest": "80f9458cf30d13eef21b09042ea590945c5e64db",
+    "time.latest": 1717911081.6850512,
+    "formatted_time": "2024-06-09 11:01:21.685053",
+    "filescores": {},
+    "subdirscores": {
+        "file.streams": 0.0002469687836723731,
+        "filesystems": 0.0006709631699613321,
+        "input.output.general": 2.1661363755069944e-05,
+        "iostream.format": 0.0003562922091531022,
+        "iostream.forward": 3.80169201473054e-05,
+        "iostream.objects": 0.00014173985559091473,
+        "iostreams.base": 0.00013364999593785216,
+        "iostreams.requirements": 2.5488921681069465e-05,
+        "stream.buffers": 9.924560800084852e-05,
+        "string.streams": 0.00020030378735554706,
+        "syncstream": 9.574903265779628e-06
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "directory name": "llvm-project/lldb/test/Shell/ScriptInterpreter/Lua",
+    "score.sum": 6.0279622757821945e-05,
+    "sha.latest": "c9ecaf32f6aa92f79a054478df55b4b8c3e53697",
+    "time.latest": 1717978602.0716505,
+    "formatted_time": "2024-06-10 05:46:42.071652",
+    "filescores": {
+        "bindings.test": 6.4635340903470775e-06,
+        "breakpoint_callback.test": 1.4634450572330322e-05,
+        "breakpoint_function_callback.test": 8.248212235471124e-06,
+        "breakpoint_oneline_callback.test": 6.099602068851199e-06,
+        "command_script_import.test": 6.099602068851199e-06,
+        "convenience_variables.test": 6.257006529693821e-06,
+        "fail_breakpoint_oneline.test": 7.762198670558377e-06,
+        "independent_state.test": 6.099602068851199e-06,
+        "io.test": 6.132160545823059e-06,
+        "lit.local.cfg": 0,
+        "lua-python.test": 6.099602068851199e-06,
+        "lua.test": 9.002750437852077e-06,
+        "nested_sessions.test": 1.1853883767413363e-05,
+        "partial_statements.test": 6.099602068851199e-06,
+        "persistent_state.test": 6.099602068851199e-06,
+        "print.test": 6.099602068851199e-06,
+        "quit.test": 6.099602068851199e-06,
+        "watchpoint_callback.test": 3.517356340826228e-05
+    },
+    "subdirscores": {
+        "Inputs": 6.108332812995786e-06
+    }
+}

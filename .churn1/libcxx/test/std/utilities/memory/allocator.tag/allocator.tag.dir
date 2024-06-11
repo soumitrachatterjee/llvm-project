@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/utilities/memory/allocator.tag",
+    "score.sum": 4.689350711823399e-05,
+    "sha.latest": "dc71a77d33620830020c939bba25ebdfdd1b6194",
+    "time.latest": 1717997658.2607698,
+    "formatted_time": "2024-06-10 11:04:18.260771",
+    "filescores": {
+        "allocator_arg.pass.cpp": 2.6038886753501957e-05,
+        "allocator_arg.verify.cpp": 0
+    },
+    "subdirscores": {}
+}

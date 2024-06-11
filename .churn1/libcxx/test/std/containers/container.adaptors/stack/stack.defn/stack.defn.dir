@@ -1,0 +1,25 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/containers/container.adaptors/stack/stack.defn",
+    "score.sum": 7.636767823476793e-05,
+    "sha.latest": "520c7fbbd0356f135a19cc764ff70e7f52ba11a0",
+    "time.latest": 1717882515.9922752,
+    "formatted_time": "2024-06-09 03:05:15.992277",
+    "filescores": {
+        "assign_copy.pass.cpp": 1.7366275644238228e-05,
+        "assign_move.pass.cpp": 2.297803747804357e-05,
+        "emplace.pass.cpp": 3.0754681514804806e-05,
+        "empty.pass.cpp": 1.7366275644238228e-05,
+        "empty.verify.cpp": 9.49368308932207e-06,
+        "pop.pass.cpp": 1.7366275644238228e-05,
+        "push.pass.cpp": 1.7366275644238228e-05,
+        "push_range.pass.cpp": 6.099602068851199e-06,
+        "push_rv.pass.cpp": 2.297803747804357e-05,
+        "size.pass.cpp": 1.7366275644238228e-05,
+        "swap.pass.cpp": 1.7366275644238228e-05,
+        "top.pass.cpp": 1.7366275644238228e-05,
+        "top_const.pass.cpp": 1.7366275644238228e-05,
+        "types.compile.fail.cpp": 0,
+        "types.pass.cpp": 1.90592949108163e-05
+    },
+    "subdirscores": {}
+}

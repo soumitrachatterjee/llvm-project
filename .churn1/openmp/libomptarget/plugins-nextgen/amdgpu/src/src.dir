@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/openmp/libomptarget/plugins-nextgen/amdgpu/src",
+    "score.sum": 0.0002421973477353819,
+    "sha.latest": "5c752df1e10b7af0684e549601f0a8dccffcfcf0",
+    "time.latest": 1717795553.5891476,
+    "formatted_time": "2024-06-08 02:55:53.589151",
+    "filescores": {
+        "rtl.cpp": 0.0002421973477353819
+    },
+    "subdirscores": {}
+}

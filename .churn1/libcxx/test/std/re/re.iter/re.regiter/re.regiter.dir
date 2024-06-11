@@ -1,0 +1,17 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/re/re.iter/re.regiter",
+    "score.sum": 0.00011773776411342538,
+    "sha.latest": "6a664674990094c1b5d2e717256f08cb04485899",
+    "time.latest": 1717966514.3419282,
+    "formatted_time": "2024-06-10 02:25:14.341932",
+    "filescores": {
+        "iterator_concept_conformance.compile.pass.cpp": 1.1892698845579806e-05,
+        "types.pass.cpp": 1.722387923781734e-05
+    },
+    "subdirscores": {
+        "re.regiter.cnstr": 2.2007394008648602e-05,
+        "re.regiter.comp": 1.8074379797628748e-05,
+        "re.regiter.deref": 1.412973324667397e-05,
+        "re.regiter.incr": 2.3184428713088284e-05
+    }
+}

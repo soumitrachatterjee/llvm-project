@@ -1,0 +1,16 @@
+{
+    "directory name": "llvm-project/lldb/test/API/linux",
+    "score.sum": 0.00020716868919021827,
+    "sha.latest": "9c2468821ec51defd09c246fea4a47886fff8c01",
+    "time.latest": 1717961515.603854,
+    "formatted_time": "2024-06-10 01:01:55.603859",
+    "filescores": {},
+    "subdirscores": {
+        "aarch64": 0.00016505334521151266,
+        "add-symbols": 1.4783959703798128e-05,
+        "builtin_trap": 1.9200974035655456e-05,
+        "mix-dwo-and-regular-objects": 1.4783959703798128e-05,
+        "sepdebugsymlink": 1.0459834404963863e-05,
+        "thread": 2.072608427040947e-05
+    }
+}

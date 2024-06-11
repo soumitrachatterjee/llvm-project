@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/lldb/source/Plugins/ObjectFile/Breakpad",
+    "score.sum": 0.00010798246156898839,
+    "sha.latest": "68fbc8eec38d2930b60e01ffb2cbf297eac658fb",
+    "time.latest": 1717871917.9367778,
+    "formatted_time": "2024-06-09 00:08:37.936781",
+    "filescores": {
+        "BreakpadRecords.cpp": 5.632714339271634e-05,
+        "BreakpadRecords.h": 2.557441818395649e-05,
+        "CMakeLists.txt": 6.286499838723978e-06,
+        "ObjectFileBreakpad.cpp": 6.128412440546646e-05,
+        "ObjectFileBreakpad.h": 5.017353835642843e-05
+    },
+    "subdirscores": {}
+}

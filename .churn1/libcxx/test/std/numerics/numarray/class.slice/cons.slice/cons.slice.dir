@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/numerics/numarray/class.slice/cons.slice",
+    "score.sum": 1.7366275644238228e-05,
+    "sha.latest": "7fc6a55688c816f5fc1a5481ae7af25be7500356",
+    "time.latest": 1717936038.2847152,
+    "formatted_time": "2024-06-09 17:57:18.284719",
+    "filescores": {
+        "default.pass.cpp": 1.7366275644238228e-05,
+        "start_size_stride.pass.cpp": 1.7366275644238228e-05
+    },
+    "subdirscores": {}
+}

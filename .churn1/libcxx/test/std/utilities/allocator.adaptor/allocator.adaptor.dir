@@ -1,0 +1,17 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/utilities/allocator.adaptor",
+    "score.sum": 0.00010832053539727857,
+    "sha.latest": "1f8b7e3c0b0743dbc899278f016b710f18240b9b",
+    "time.latest": 1717987996.350485,
+    "formatted_time": "2024-06-10 08:23:16.350488",
+    "filescores": {
+        "base-is-uglified.compile.pass.cpp": 0,
+        "types.compile.pass.cpp": 0
+    },
+    "subdirscores": {
+        "allocator.adaptor.cnstr": 3.333108612253434e-05,
+        "allocator.adaptor.members": 7.468054876406432e-05,
+        "allocator.adaptor.types": 2.7148259998833852e-05,
+        "scoped.adaptor.operators": 2.0954536792318884e-05
+    }
+}

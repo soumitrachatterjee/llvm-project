@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/clang-tools-extra/test/clang-tidy/checkers/readability/Inputs",
+    "score.sum": 3.0404477012365082e-05,
+    "sha.latest": "9fb552812c65a13cd19eedea1cc2ef739ad652e9",
+    "time.latest": 1717831223.3069777,
+    "formatted_time": "2024-06-08 12:50:23.306981",
+    "filescores": {},
+    "subdirscores": {
+        "duplicate-include": 0,
+        "identifier-naming": 3.0404477012365082e-05,
+        "static-accessed-through-instance": 0
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/containers/sequences/array",
+    "score.sum": 0.0004920666935456726,
+    "sha.latest": "1c7607e8ee6ec4ca3abce1561dd39a98d4efac96",
+    "time.latest": 1717883570.2444692,
+    "formatted_time": "2024-06-09 03:22:50.244471",
+    "filescores": {
+        "aggregate.pass.cpp": 6.684239438419772e-06,
+        "at.pass.cpp": 5.553706970775583e-05,
+        "at_const.pass.cpp": 1.2390249209002548e-05,
+        "compare.pass.cpp": 2.5850803209162286e-05,
+        "compare.three_way.pass.cpp": 0,
+        "compare.three_way.verify.cpp": 0,
+        "compare.verify.cpp": 6.099602068851199e-06,
+        "contiguous.pass.cpp": 3.379119708403139e-05,
+        "empty.pass.cpp": 1.187970561855868e-05,
+        "empty.verify.cpp": 9.49368308932207e-06,
+        "front_back.pass.cpp": 3.371833999800947e-05,
+        "front_back_const.pass.cpp": 6.099602068851199e-06,
+        "indexing.pass.cpp": 3.752897817637458e-05,
+        "indexing_const.pass.cpp": 6.099602068851199e-06,
+        "iterators.pass.cpp": 3.5109049050939666e-05,
+        "iterator_concept_conformance.compile.pass.cpp": 1.7987838634748017e-05,
+        "max_size.pass.cpp": 1.187970561855868e-05,
+        "range_concept_conformance.compile.pass.cpp": 1.9934771682938306e-05,
+        "size_and_alignment.compile.pass.cpp": 6.099602068851199e-06,
+        "types.pass.cpp": 1.4514679953155892e-05
+    },
+    "subdirscores": {
+        "array.cons": 8.123483515789874e-05,
+        "array.creation": 2.1064145165301218e-05,
+        "array.data": 5.976574962334773e-05,
+        "array.fill": 6.833734691547994e-05,
+        "array.size": 2.1739186318159878e-05,
+        "array.special": 2.4248319095094422e-05,
+        "array.swap": 6.702216086933743e-05,
+        "array.tuple": 8.248800831491537e-05,
+        "array.zero": 1.7366275644238228e-05
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/lldb/include/lldb/Host/freebsd",
+    "score.sum": 5.876606092310909e-05,
+    "sha.latest": "2fe8327406050d2585d2ced910a678e28caefcf5",
+    "time.latest": 1717847378.9075499,
+    "formatted_time": "2024-06-08 17:19:38.907558",
+    "filescores": {
+        "HostInfoFreeBSD.h": 3.3945762529469405e-05
+    },
+    "subdirscores": {}
+}

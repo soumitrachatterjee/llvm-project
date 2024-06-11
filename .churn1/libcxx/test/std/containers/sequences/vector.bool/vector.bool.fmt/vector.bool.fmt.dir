@@ -1,0 +1,16 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/containers/sequences/vector.bool/vector.bool.fmt",
+    "score.sum": 3.174140619139333e-05,
+    "sha.latest": "b29301cd40441b5eb8cef9356429fb081e6b6a72",
+    "time.latest": 1717888381.4905298,
+    "formatted_time": "2024-06-09 04:43:01.490531",
+    "filescores": {
+        "format.functions.format.pass.cpp": 1.8004316823087394e-05,
+        "format.functions.tests.h": 1.7963370330739555e-05,
+        "format.functions.vformat.pass.cpp": 1.922571718575275e-05,
+        "format.pass.cpp": 1.8391011140789582e-05,
+        "parse.pass.cpp": 1.742227385612498e-05,
+        "types.compile.pass.cpp": 8.416687350334051e-06
+    },
+    "subdirscores": {}
+}

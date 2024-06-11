@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/localization/locale.categories/category.monetary",
+    "score.sum": 0.0002264732218234556,
+    "sha.latest": "bce3b505931cee9dc79d1c56c021983b4a8fb819",
+    "time.latest": 1717929274.1388938,
+    "formatted_time": "2024-06-09 16:04:34.138895",
+    "filescores": {},
+    "subdirscores": {
+        "locale.money.get": 0.00014713494466023927,
+        "locale.money.put": 0.00014103644194303646,
+        "locale.moneypunct": 3.720225979602297e-05,
+        "locale.moneypunct.byname": 0.0001255830322931293
+    }
+}

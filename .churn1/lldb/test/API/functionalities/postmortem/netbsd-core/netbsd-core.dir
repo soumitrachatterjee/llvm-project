@@ -1,0 +1,27 @@
+{
+    "directory name": "llvm-project/lldb/test/API/functionalities/postmortem/netbsd-core",
+    "score.sum": 2.336100330679266e-05,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717918425.4443545,
+    "formatted_time": "2024-06-09 13:03:45.444356",
+    "filescores": {
+        "1lwp_SIGSEGV.aarch64": 0,
+        "1lwp_SIGSEGV.aarch64.core": 0,
+        "1lwp_SIGSEGV.amd64": 0,
+        "1lwp_SIGSEGV.amd64.core": 0,
+        "1lwp_SIGSEGV.c": 0,
+        "2lwp_process_SIGSEGV.aarch64": 0,
+        "2lwp_process_SIGSEGV.aarch64.core": 0,
+        "2lwp_process_SIGSEGV.amd64": 0,
+        "2lwp_process_SIGSEGV.amd64.core": 0,
+        "2lwp_process_SIGSEGV.c": 0,
+        "2lwp_t2_SIGSEGV.aarch64": 0,
+        "2lwp_t2_SIGSEGV.aarch64.core": 0,
+        "2lwp_t2_SIGSEGV.amd64": 0,
+        "2lwp_t2_SIGSEGV.amd64.core": 0,
+        "2lwp_t2_SIGSEGV.c": 0,
+        "GNUmakefile": 0,
+        "TestNetBSDCore.py": 2.336100330679266e-05
+    },
+    "subdirscores": {}
+}

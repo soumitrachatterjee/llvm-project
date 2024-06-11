@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/lld/test/MachO/Inputs/WatchOS.sdk/usr",
+    "score.sum": 6.992048197385216e-06,
+    "sha.latest": "2d28100bf2e427c892305e08a57cdffa9620bf6e",
+    "time.latest": 1717898122.402999,
+    "formatted_time": "2024-06-09 07:25:22.403002",
+    "filescores": {},
+    "subdirscores": {
+        "lib": 6.992048197385216e-06
+    }
+}

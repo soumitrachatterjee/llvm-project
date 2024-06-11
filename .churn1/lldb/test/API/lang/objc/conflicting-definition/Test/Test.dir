@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/lang/objc/conflicting-definition/Test",
+    "score.sum": 9.342249335125708e-06,
+    "sha.latest": "af2ea183f5e3301406724bba116a7e200f108b79",
+    "time.latest": 1717956089.9807687,
+    "formatted_time": "2024-06-09 23:31:29.980775",
+    "filescores": {
+        "Foo.h": 0,
+        "Test.h": 6.099602068851199e-06,
+        "Test.m": 6.099602068851199e-06
+    },
+    "subdirscores": {}
+}

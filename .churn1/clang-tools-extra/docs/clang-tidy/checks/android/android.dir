@@ -1,0 +1,25 @@
+{
+    "directory name": "llvm-project/clang-tools-extra/docs/clang-tidy/checks/android",
+    "score.sum": 0,
+    "sha.latest": "6e566bc5523f743bc34a7e26f050f1f2b4d699a8",
+    "time.latest": 1717807300.2427392,
+    "formatted_time": "2024-06-08 06:11:40.242741",
+    "filescores": {
+        "cloexec-accept.rst": 0,
+        "cloexec-accept4.rst": 0,
+        "cloexec-creat.rst": 0,
+        "cloexec-dup.rst": 0,
+        "cloexec-epoll-create.rst": 0,
+        "cloexec-epoll-create1.rst": 0,
+        "cloexec-fopen.rst": 0,
+        "cloexec-inotify-init.rst": 0,
+        "cloexec-inotify-init1.rst": 0,
+        "cloexec-memfd-create.rst": 0,
+        "cloexec-open.rst": 0,
+        "cloexec-pipe.rst": 0,
+        "cloexec-pipe2.rst": 0,
+        "cloexec-socket.rst": 0,
+        "comparison-in-temp-failure-retry.rst": 0
+    },
+    "subdirscores": {}
+}

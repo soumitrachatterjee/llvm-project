@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/clang-tools-extra/test/clang-tidy/checkers/cppcoreguidelines/Inputs",
+    "score.sum": 0,
+    "sha.latest": "17d403f6644337e3e099e6dcb7b057fce11e65a5",
+    "time.latest": 1717822385.0965314,
+    "formatted_time": "2024-06-08 10:23:05.096534",
+    "filescores": {},
+    "subdirscores": {
+        "system": 0
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/lldb/unittests/Instruction/RISCV",
+    "score.sum": 5.212868416272358e-05,
+    "sha.latest": "0ef58c66c6e4652ff3582bf0972673708afb912e",
+    "time.latest": 1717996521.1900017,
+    "formatted_time": "2024-06-10 10:45:21.190005",
+    "filescores": {
+        "TestRISCVEmulator.cpp": 5.212868416272358e-05
+    },
+    "subdirscores": {}
+}

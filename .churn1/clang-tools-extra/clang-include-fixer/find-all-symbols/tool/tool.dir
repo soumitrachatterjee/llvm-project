@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/clang-tools-extra/clang-include-fixer/find-all-symbols/tool",
+    "score.sum": 3.947561977714398e-05,
+    "sha.latest": "716042a63f26cd020eb72960f72fa97b9a197382",
+    "time.latest": 1717789057.3309684,
+    "formatted_time": "2024-06-08 01:07:37.330973",
+    "filescores": {
+        "CMakeLists.txt": 3.260489581548544e-05,
+        "FindAllSymbolsMain.cpp": 9.308356938638033e-06,
+        "run-find-all-symbols.py": 1.3690008992920215e-05
+    },
+    "subdirscores": {}
+}

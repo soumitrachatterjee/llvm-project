@@ -1,0 +1,19 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/utilities/ratio/ratio.arithmetic",
+    "score.sum": 1.808971834475731e-05,
+    "sha.latest": "fe0d277f31d3369de1fd92ad8dd8044f5b1d4ed7",
+    "time.latest": 1718004087.7911046,
+    "formatted_time": "2024-06-10 12:51:27.791106",
+    "filescores": {
+        "R1_R2_requirement.verify.cpp": 0,
+        "ratio_add.compile.fail.cpp": 0,
+        "ratio_add.pass.cpp": 1.7366275644238228e-05,
+        "ratio_divide.compile.fail.cpp": 0,
+        "ratio_divide.pass.cpp": 1.7366275644238228e-05,
+        "ratio_multiply.compile.fail.cpp": 0,
+        "ratio_multiply.pass.cpp": 1.7366275644238228e-05,
+        "ratio_subtract.compile.fail.cpp": 0,
+        "ratio_subtract.pass.cpp": 1.7366275644238228e-05
+    },
+    "subdirscores": {}
+}

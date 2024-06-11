@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/bolt/cmake/modules",
+    "score.sum": 7.515477655158214e-06,
+    "sha.latest": "f3269a94e729b02e9d7c07257c45b098506cca22",
+    "time.latest": 1717784374.59848,
+    "formatted_time": "2024-06-07 23:49:34.598495",
+    "filescores": {
+        "AddBOLT.cmake": 7.515477655158214e-06
+    },
+    "subdirscores": {}
+}

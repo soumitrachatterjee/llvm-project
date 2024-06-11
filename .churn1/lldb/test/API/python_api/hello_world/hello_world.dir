@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/python_api/hello_world",
+    "score.sum": 1.9657097264897347e-05,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717965714.1546335,
+    "formatted_time": "2024-06-10 02:11:54.154636",
+    "filescores": {
+        "main.c": 0,
+        "Makefile": 0,
+        "TestHelloWorld.py": 1.9657097264897347e-05
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/bolt/test/runtime/Inputs",
+    "score.sum": 6.779725771117928e-06,
+    "sha.latest": "777e268b8168b326db54ecacb62733ee926bb781",
+    "time.latest": 1717791567.554983,
+    "formatted_time": "2024-06-08 01:49:27.554988",
+    "filescores": {
+        "exceptions_split.cpp": 6.779725771117928e-06,
+        "fptr.c": 0
+    },
+    "subdirscores": {}
+}

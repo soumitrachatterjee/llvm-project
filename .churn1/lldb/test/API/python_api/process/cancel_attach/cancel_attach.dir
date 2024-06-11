@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/lldb/test/API/python_api/process/cancel_attach",
+    "score.sum": 6.099602068851199e-06,
+    "sha.latest": "096c530ab3ea5c96526451181117f30db17b4b1d",
+    "time.latest": 1717966179.7577515,
+    "formatted_time": "2024-06-10 02:19:39.757754",
+    "filescores": {
+        "TestCancelAttach.py": 6.099602068851199e-06
+    },
+    "subdirscores": {}
+}

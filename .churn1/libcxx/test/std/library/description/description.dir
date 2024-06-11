@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/library/description",
+    "score.sum": 0.00014876590257390678,
+    "sha.latest": "a6b846ae1e58e11160185e427e20a995f6656859",
+    "time.latest": 1717925131.5289252,
+    "formatted_time": "2024-06-09 14:55:31.528928",
+    "filescores": {},
+    "subdirscores": {
+        "conventions": 0.00014876590257390678
+    }
+}

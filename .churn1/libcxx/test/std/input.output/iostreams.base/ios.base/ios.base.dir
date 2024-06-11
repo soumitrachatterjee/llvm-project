@@ -1,0 +1,17 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/input.output/iostreams.base/ios.base",
+    "score.sum": 6.143692445123285e-05,
+    "sha.latest": "60a6a0d17ad5afcac5c71dcf9a05f8c814951804",
+    "time.latest": 1717908117.050333,
+    "formatted_time": "2024-06-09 10:11:57.050334",
+    "filescores": {},
+    "subdirscores": {
+        "fmtflags.state": 1.7366275644238228e-05,
+        "ios.base.callback": 1.885982252081835e-05,
+        "ios.base.cons": 1.7366275644238228e-05,
+        "ios.base.locales": 1.885982252081835e-05,
+        "ios.base.storage": 2.3142923531384718e-05,
+        "ios.members.static": 1.7366275644238228e-05,
+        "ios.types": 5.1332390086291125e-05
+    }
+}

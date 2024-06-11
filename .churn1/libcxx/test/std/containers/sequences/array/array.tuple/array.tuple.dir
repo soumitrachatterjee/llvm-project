@@ -1,0 +1,18 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/containers/sequences/array/array.tuple",
+    "score.sum": 8.248800831491537e-05,
+    "sha.latest": "64addd65210db59c8cb3794f792720e03e25b5af",
+    "time.latest": 1717883316.1320553,
+    "formatted_time": "2024-06-09 03:18:36.132056",
+    "filescores": {
+        "get.pass.cpp": 1.9643902365354132e-05,
+        "get.verify.cpp": 9.552924517274571e-06,
+        "get_const.pass.cpp": 1.9643902365354132e-05,
+        "get_const_rv.pass.cpp": 2.2107346058041245e-05,
+        "get_rv.pass.cpp": 2.862984093758589e-05,
+        "tuple_element.pass.cpp": 1.7695207240419838e-05,
+        "tuple_element.verify.cpp": 6.099602068851199e-06,
+        "tuple_size.pass.cpp": 1.7695207240419838e-05
+    },
+    "subdirscores": {}
+}

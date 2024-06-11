@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/lldb/test/API/python_api/was_interrupted",
+    "score.sum": 6.099602068851199e-06,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717967549.2467482,
+    "formatted_time": "2024-06-10 02:42:29.246749",
+    "filescores": {
+        "interruptible.py": 6.099602068851199e-06,
+        "main.c": 0,
+        "Makefile": 0,
+        "TestDebuggerInterruption.py": 6.099602068851199e-06
+    },
+    "subdirscores": {}
+}

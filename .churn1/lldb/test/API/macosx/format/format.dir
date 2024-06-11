@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/macosx/format",
+    "score.sum": 0,
+    "sha.latest": "c1d55d26d373e8804aba92f7d0f07de353ea93c9",
+    "time.latest": 1717962813.8685088,
+    "formatted_time": "2024-06-10 01:23:33.868513",
+    "filescores": {
+        "main.c": 0,
+        "Makefile": 0,
+        "TestFunctionNameWithoutArgs.py": 0
+    },
+    "subdirscores": {}
+}

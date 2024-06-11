@@ -1,0 +1,18 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/localization/locale.categories",
+    "score.sum": 0.000576362051649399,
+    "sha.latest": "1197fcabc4b5f39dbe8a94b1ab6e92354f3f0dd2",
+    "time.latest": 1717931188.253106,
+    "formatted_time": "2024-06-09 16:36:28.253109",
+    "filescores": {},
+    "subdirscores": {
+        "category.collate": 7.00139394744872e-05,
+        "category.ctype": 0.0002016660589619547,
+        "category.messages": 2.342049976996858e-05,
+        "category.monetary": 0.0002264732218234556,
+        "category.numeric": 0.00019683133194171466,
+        "category.time": 0.0001666131587029375,
+        "facet.numpunct": 7.551562224274721e-05,
+        "facets.examples": 1.2132863580760565e-05
+    }
+}

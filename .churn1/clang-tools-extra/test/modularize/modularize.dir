@@ -1,0 +1,32 @@
+{
+    "directory name": "llvm-project/clang-tools-extra/test/modularize",
+    "score.sum": 7.189365865360109e-05,
+    "sha.latest": "a171d248ca34b8b6f8de11d42a83ad981285963a",
+    "time.latest": 1717836093.2945697,
+    "formatted_time": "2024-06-08 14:11:33.294571",
+    "filescores": {
+        "NoProblems.modularize": 1.2190226306265841e-05,
+        "NoProblemsAnonymous.modularize": 0,
+        "NoProblemsAssistant.modularize": 6.099602068851199e-06,
+        "NoProblemsCoverage.modularize": 0,
+        "NoProblemsDependencies.modularize": 1.29712850033004e-05,
+        "NoProblemsGuard.modularize": 6.099602068851199e-06,
+        "NoProblemsList.modularize": 7.232666089525291e-06,
+        "NoProblemsNamespace.modularize": 6.099602068851199e-06,
+        "NoProblemsNamespaceClasses.modularize": 0,
+        "NoProblemsNestedMacro.modularize": 0,
+        "NoProblemsTemplateClasses.modularize": 0,
+        "ProblemsCompileError.modularize": 0,
+        "ProblemsCoverage.modularize": 6.099602068851199e-06,
+        "ProblemsDisplayLists.modularize": 2.3406513454158357e-05,
+        "ProblemsDuplicate.modularize": 6.989321350351391e-06,
+        "ProblemsExternC.modularize": 6.099602068851199e-06,
+        "ProblemsInconsistent.modularize": 1.8017180321144237e-05,
+        "ProblemsMissingHeader.modularize": 0,
+        "ProblemsNamespace.modularize": 6.099602068851199e-06,
+        "SubModule2.h": 6.099602068851199e-06
+    },
+    "subdirscores": {
+        "Inputs": 1.7749496026784682e-05
+    }
+}

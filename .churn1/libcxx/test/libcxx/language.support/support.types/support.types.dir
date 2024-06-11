@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/libcxx/test/libcxx/language.support/support.types",
+    "score.sum": 1.8273594302995836e-05,
+    "sha.latest": "86ab93828a56fb1208b4a63e83f3631f183a30fb",
+    "time.latest": 1717860296.728562,
+    "formatted_time": "2024-06-08 20:54:56.728565",
+    "filescores": {
+        "cstddef.compile.pass.cpp": 0
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,17 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/ranges/range.adaptors/range.split/iterator",
+    "score.sum": 0,
+    "sha.latest": "a2b3ab8f7786b9bb6e1b8bbb01b88d4bbe28af69",
+    "time.latest": 1717962903.4502764,
+    "formatted_time": "2024-06-10 01:25:03.450279",
+    "filescores": {
+        "base.pass.cpp": 0,
+        "ctor.base.pass.cpp": 0,
+        "ctor.default.pass.cpp": 0,
+        "deref.pass.cpp": 0,
+        "equal.pass.cpp": 0,
+        "increment.pass.cpp": 0,
+        "member_types.compile.pass.cpp": 0
+    },
+    "subdirscores": {}
+}

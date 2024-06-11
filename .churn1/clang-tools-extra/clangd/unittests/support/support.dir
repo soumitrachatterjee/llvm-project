@@ -1,0 +1,21 @@
+{
+    "directory name": "llvm-project/clang-tools-extra/clangd/unittests/support",
+    "score.sum": 5.141296122527927e-05,
+    "sha.latest": "e26dad0a661e055076002d0de4ceb713b8ca6917",
+    "time.latest": 1717806040.1193094,
+    "formatted_time": "2024-06-08 05:50:40.119311",
+    "filescores": {
+        "CancellationTests.cpp": 1.0263191757649e-05,
+        "ContextTests.cpp": 0,
+        "FileCacheTests.cpp": 2.1596508904085737e-05,
+        "FunctionTests.cpp": 0,
+        "MarkupTests.cpp": 6.099602068851199e-06,
+        "MemoryTreeTests.cpp": 0,
+        "PathTests.cpp": 6.099602068851199e-06,
+        "TestTracer.cpp": 0,
+        "TestTracer.h": 6.100047774831405e-06,
+        "ThreadingTests.cpp": 9.50427980694064e-06,
+        "TraceTests.cpp": 1.8006238409780738e-05
+    },
+    "subdirscores": {}
+}

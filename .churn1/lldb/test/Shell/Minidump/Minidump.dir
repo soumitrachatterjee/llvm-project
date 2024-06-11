@@ -1,0 +1,21 @@
+{
+    "directory name": "llvm-project/lldb/test/Shell/Minidump",
+    "score.sum": 3.4791717365864376e-05,
+    "sha.latest": "24993e749ccd0b8f701f5d8cecaaa49cc205aaa2",
+    "time.latest": 1717973975.5488255,
+    "formatted_time": "2024-06-10 04:29:35.548829",
+    "filescores": {
+        "breakpad-symbols.test": 8.628487707879728e-06,
+        "disassemble-no-module.yaml": 9.5965651536565e-06,
+        "dump-all.test": 6.5053033327752715e-06,
+        "fb-dump.test": 6.5053033327752715e-06,
+        "lit.local.cfg": 8.22683439832498e-06,
+        "memory-region-from-module.yaml": 6.203059081746456e-06,
+        "memory-region.yaml": 6.099602068851199e-06,
+        "no-process-id.yaml": 1.3850101678849315e-05
+    },
+    "subdirscores": {
+        "Inputs": 9.446014329389945e-06,
+        "Windows": 1.80630172963732e-05
+    }
+}

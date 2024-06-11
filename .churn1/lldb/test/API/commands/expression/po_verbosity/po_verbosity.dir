@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/commands/expression/po_verbosity",
+    "score.sum": 1.654329487616822e-05,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717893477.928066,
+    "formatted_time": "2024-06-09 06:07:57.928068",
+    "filescores": {
+        "main.m": 0,
+        "Makefile": 0,
+        "TestPoVerbosity.py": 1.654329487616822e-05
+    },
+    "subdirscores": {}
+}

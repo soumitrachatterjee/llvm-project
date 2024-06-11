@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/lldb/source/Plugins/SymbolFile/CTF",
+    "score.sum": 2.4028308076553567e-05,
+    "sha.latest": "bafdaa171a2806ceff628ed7b64ace2b92c05578",
+    "time.latest": 1717880411.816045,
+    "formatted_time": "2024-06-09 02:30:11.816047",
+    "filescores": {
+        "CMakeLists.txt": 0,
+        "CTFTypes.h": 9.771456341898945e-06,
+        "SymbolFileCTF.cpp": 1.838196161088222e-05,
+        "SymbolFileCTF.h": 1.4237043117303233e-05
+    },
+    "subdirscores": {}
+}

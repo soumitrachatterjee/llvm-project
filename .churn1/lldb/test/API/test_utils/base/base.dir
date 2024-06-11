@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/test_utils/base",
+    "score.sum": 1.1611607274542809e-05,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717968481.9973187,
+    "formatted_time": "2024-06-10 02:58:01.997320",
+    "filescores": {
+        "Makefile": 0,
+        "return0.cpp": 0,
+        "TestBaseTest.py": 1.1611607274542809e-05
+    },
+    "subdirscores": {}
+}

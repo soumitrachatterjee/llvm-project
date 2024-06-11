@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/lldb/test/API/functionalities/step_scripted",
+    "score.sum": 4.7857699870447206e-05,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717920229.0262754,
+    "formatted_time": "2024-06-09 13:33:49.026277",
+    "filescores": {
+        "main.c": 0,
+        "Makefile": 0,
+        "Steps.py": 1.9078169578432933e-05,
+        "TestStepScripted.py": 4.1772652563989925e-05
+    },
+    "subdirscores": {}
+}

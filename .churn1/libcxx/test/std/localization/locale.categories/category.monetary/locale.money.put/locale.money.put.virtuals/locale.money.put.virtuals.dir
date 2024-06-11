@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/localization/locale.categories/category.monetary/locale.money.put/locale.money.put.virtuals",
+    "score.sum": 1.2132863580760565e-05,
+    "sha.latest": "2df59c50688c122bbcae7467d3eaf862c3ea3088",
+    "time.latest": 1717928700.609725,
+    "formatted_time": "2024-06-09 15:55:00.609728",
+    "filescores": {
+        "tested_elsewhere.pass.cpp": 1.2132863580760565e-05
+    },
+    "subdirscores": {}
+}

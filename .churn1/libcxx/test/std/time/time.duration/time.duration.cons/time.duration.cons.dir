@@ -1,0 +1,22 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/time/time.duration/time.duration.cons",
+    "score.sum": 0,
+    "sha.latest": "7738db2c06b177fe916ac1bcf3633449b3c1fca9",
+    "time.latest": 1717984396.8057053,
+    "formatted_time": "2024-06-10 07:23:16.805708",
+    "filescores": {
+        "convert_exact.pass.cpp": 0,
+        "convert_float_to_int.compile.fail.cpp": 0,
+        "convert_inexact.compile.fail.cpp": 0,
+        "convert_inexact.pass.cpp": 0,
+        "convert_int_to_float.pass.cpp": 0,
+        "convert_overflow.pass.cpp": 0,
+        "default.pass.cpp": 0,
+        "rep.pass.cpp": 0,
+        "rep01.compile.fail.cpp": 0,
+        "rep02.compile.fail.cpp": 0,
+        "rep02.pass.cpp": 0,
+        "rep03.compile.fail.cpp": 0
+    },
+    "subdirscores": {}
+}

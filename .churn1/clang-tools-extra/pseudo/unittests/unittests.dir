@@ -1,0 +1,20 @@
+{
+    "directory name": "llvm-project/clang-tools-extra/pseudo/unittests",
+    "score.sum": 9.785398017995086e-05,
+    "sha.latest": "3432f4bf86e7c77666ae9dede1610ae843dde648",
+    "time.latest": 1717815684.6163733,
+    "formatted_time": "2024-06-08 08:31:24.616376",
+    "filescores": {
+        "BracketTest.cpp": 6.099602068851199e-06,
+        "CMakeLists.txt": 2.0730077210264034e-05,
+        "CXXTest.cpp": 0,
+        "DirectiveTreeTest.cpp": 7.5250609738030854e-06,
+        "DisambiguateTest.cpp": 0,
+        "ForestTest.cpp": 1.8209933094931804e-05,
+        "GLRTest.cpp": 7.847427199197721e-05,
+        "GrammarTest.cpp": 3.602340072882729e-05,
+        "LRTableTest.cpp": 1.994183473180102e-05,
+        "TokenTest.cpp": 6.6298675628384225e-06
+    },
+    "subdirscores": {}
+}

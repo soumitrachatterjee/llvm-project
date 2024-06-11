@@ -1,0 +1,31 @@
+{
+    "directory name": "llvm-project/lldb/source/Plugins/SymbolFile/NativePDB",
+    "score.sum": 0.0006455444711848203,
+    "sha.latest": "dd7386d85f11cf6ad911b9827c7018fb08c6c205",
+    "time.latest": 1717881392.8843594,
+    "formatted_time": "2024-06-09 02:46:32.884361",
+    "filescores": {
+        "CMakeLists.txt": 1.9789754791153295e-05,
+        "CodeViewRegisterMapping.cpp": 1.9746277306214433e-05,
+        "CodeViewRegisterMapping.h": 1.3093769493767408e-05,
+        "CompileUnitIndex.cpp": 4.0120734401505547e-05,
+        "CompileUnitIndex.h": 3.7276584014881696e-05,
+        "DWARFLocationExpression.cpp": 6.34597164125811e-05,
+        "DWARFLocationExpression.h": 2.1587613700386162e-05,
+        "PdbAstBuilder.cpp": 0.00019244121235170936,
+        "PdbAstBuilder.h": 4.879583354842288e-05,
+        "PdbFPOProgramToDWARFExpression.cpp": 1.846372401977428e-05,
+        "PdbFPOProgramToDWARFExpression.h": 8.135198345479373e-06,
+        "PdbIndex.cpp": 3.082003930323913e-05,
+        "PdbIndex.h": 3.448282304281993e-05,
+        "PdbSymUid.cpp": 7.002229852145095e-06,
+        "PdbSymUid.h": 9.404055185332676e-06,
+        "PdbUtil.cpp": 9.106791307895254e-05,
+        "PdbUtil.h": 3.230619001491079e-05,
+        "SymbolFileNativePDB.cpp": 0.00040135514528777155,
+        "SymbolFileNativePDB.h": 0.0001327497481866608,
+        "UdtRecordCompleter.cpp": 7.714755717240745e-05,
+        "UdtRecordCompleter.h": 3.0966856610608314e-05
+    },
+    "subdirscores": {}
+}

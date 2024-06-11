@@ -1,0 +1,33 @@
+{
+    "directory name": "llvm-project/cross-project-tests/debuginfo-tests/dexter-tests",
+    "score.sum": 8.459052681420055e-05,
+    "sha.latest": "a8837b49c1c1650357d7d8f2957c903b3a5ab039",
+    "time.latest": 1717792840.0324416,
+    "formatted_time": "2024-06-08 02:10:40.032445",
+    "filescores": {
+        "aggregate-indirect-arg.cpp": 4.209241622398842e-05,
+        "asan-deque.cpp": 3.197003085899112e-05,
+        "asan.c": 3.197003085899112e-05,
+        "ctor.cpp": 4.209241622398842e-05,
+        "dbg-arg.c": 4.4327896641967066e-05,
+        "deferred_globals.cpp": 4.209241622398842e-05,
+        "global-constant.cpp": 3.6217854126312784e-05,
+        "hello.c": 3.6217854126312784e-05,
+        "inline-line-gap.cpp": 3.6217854126312784e-05,
+        "lit.local.cfg": 6.099602068851199e-06,
+        "namespace.cpp": 4.209241622398842e-05,
+        "nrvo-string.cpp": 3.197003085899112e-05,
+        "nrvo.cpp": 3.6217854126312784e-05,
+        "optnone-fastmath.cpp": 3.6337375501945694e-05,
+        "optnone-loops.cpp": 3.023950417094275e-05,
+        "optnone-simple-functions.cpp": 4.373774429260901e-05,
+        "optnone-struct-and-methods.cpp": 3.6337375501945694e-05,
+        "optnone-vectors-and-functions.cpp": 4.2315383290444235e-05,
+        "realigned-frame.cpp": 3.6217854126312784e-05,
+        "stack-var.c": 4.209241622398842e-05,
+        "vla.c": 4.209241622398842e-05
+    },
+    "subdirscores": {
+        "memvars": 5.8500908006099785e-05
+    }
+}

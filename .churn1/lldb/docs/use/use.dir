@@ -1,0 +1,25 @@
+{
+    "directory name": "llvm-project/lldb/docs/use",
+    "score.sum": 0.0002914316914685654,
+    "sha.latest": "ae92f6e8aeb97e39b95a40fde8a176f6aff94063",
+    "time.latest": 1717840889.5893419,
+    "formatted_time": "2024-06-08 15:31:29.589345",
+    "filescores": {
+        "aarch64-linux.rst": 7.719419733186054e-06,
+        "formatting.rst": 2.6551967674568226e-05,
+        "intel_pt.rst": 2.823602421370507e-05,
+        "links.rst": 0,
+        "map.rst": 4.521143181591286e-05,
+        "ondemand.rst": 2.3176244604043e-05,
+        "python-reference.rst": 7.550550308571025e-05,
+        "python.rst": 2.7755024263633994e-05,
+        "qemu-testing.rst": 2.9406914689225013e-05,
+        "remote.rst": 2.94703405581018e-05,
+        "symbolication.rst": 2.32880582294025e-05,
+        "symbols.rst": 1.9588648993902208e-05,
+        "troubleshooting.rst": 2.213134325556429e-05,
+        "tutorial.rst": 4.368176018516349e-05,
+        "variable.rst": 6.539599077384167e-05
+    },
+    "subdirscores": {}
+}

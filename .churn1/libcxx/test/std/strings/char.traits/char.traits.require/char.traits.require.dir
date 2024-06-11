@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/strings/char.traits/char.traits.require",
+    "score.sum": 1.185658575618799e-05,
+    "sha.latest": "a40bada91aeda276a772acfbcae6e8de26755a11",
+    "time.latest": 1717971366.8030627,
+    "formatted_time": "2024-06-10 03:46:06.803064",
+    "filescores": {
+        "nothing_to_do.pass.cpp": 1.185658575618799e-05
+    },
+    "subdirscores": {}
+}

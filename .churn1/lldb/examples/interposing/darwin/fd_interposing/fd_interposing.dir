@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/lldb/examples/interposing/darwin/fd_interposing",
+    "score.sum": 3.6209848284186274e-05,
+    "sha.latest": "eaebcbc67926a18befaa297f1778edde63baec9b",
+    "time.latest": 1717841391.4282875,
+    "formatted_time": "2024-06-08 15:39:51.428291",
+    "filescores": {
+        "FDInterposing.cpp": 3.620976543319745e-05,
+        "Makefile": 6.099602068851199e-06
+    },
+    "subdirscores": {}
+}

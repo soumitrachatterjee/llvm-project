@@ -1,0 +1,33 @@
+{
+    "directory name": "llvm-project/lldb/source/Plugins/Process/elf-core",
+    "score.sum": 0.0005720515904616524,
+    "sha.latest": "0123cefc00177e4fc7daa0dadf98ca8336760785",
+    "time.latest": 1717874316.4634376,
+    "formatted_time": "2024-06-09 00:48:36.463441",
+    "filescores": {
+        "CMakeLists.txt": 2.504666564382403e-05,
+        "ProcessElfCore.cpp": 0.0003385683384647736,
+        "ProcessElfCore.h": 0.00013810363167924704,
+        "RegisterContextLinuxCore_x86_64.cpp": 0,
+        "RegisterContextLinuxCore_x86_64.h": 0,
+        "RegisterContextPOSIXCore_arm.cpp": 4.0849216580043086e-05,
+        "RegisterContextPOSIXCore_arm.h": 2.6550862432937624e-05,
+        "RegisterContextPOSIXCore_arm64.cpp": 0.00012678873276879128,
+        "RegisterContextPOSIXCore_arm64.h": 8.739631704381137e-05,
+        "RegisterContextPOSIXCore_mips64.cpp": 4.8657218543584175e-05,
+        "RegisterContextPOSIXCore_mips64.h": 3.128029000911704e-05,
+        "RegisterContextPOSIXCore_powerpc.cpp": 3.748378323254383e-05,
+        "RegisterContextPOSIXCore_powerpc.h": 2.406291143360232e-05,
+        "RegisterContextPOSIXCore_ppc64le.cpp": 1.493477527570524e-05,
+        "RegisterContextPOSIXCore_ppc64le.h": 9.362883381670796e-06,
+        "RegisterContextPOSIXCore_s390x.cpp": 2.7283767196809638e-05,
+        "RegisterContextPOSIXCore_s390x.h": 1.6778679156713836e-05,
+        "RegisterContextPOSIXCore_x86_64.cpp": 4.247652222994465e-05,
+        "RegisterContextPOSIXCore_x86_64.h": 2.6558903958497007e-05,
+        "RegisterUtilities.cpp": 2.651833552376843e-05,
+        "RegisterUtilities.h": 6.876149485234298e-05,
+        "ThreadElfCore.cpp": 0.00013524748715233989,
+        "ThreadElfCore.h": 5.350694711465031e-05
+    },
+    "subdirscores": {}
+}

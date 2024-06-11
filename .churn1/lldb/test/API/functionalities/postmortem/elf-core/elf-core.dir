@@ -1,0 +1,40 @@
+{
+    "directory name": "llvm-project/lldb/test/API/functionalities/postmortem/elf-core",
+    "score.sum": 0.00010872758308474411,
+    "sha.latest": "0123cefc00177e4fc7daa0dadf98ca8336760785",
+    "time.latest": 1717915960.3810582,
+    "formatted_time": "2024-06-09 12:22:40.381061",
+    "filescores": {
+        "altmain.c": 0,
+        "altmain.core": 0,
+        "altmain.out": 0,
+        "fpr_sse.cpp": 0,
+        "linux-aarch64-neon.c": 6.099602068851199e-06,
+        "linux-aarch64-neon.core": 6.099602068851199e-06,
+        "linux-aarch64-pac.core": 0,
+        "linux-aarch64-pac.out": 0,
+        "linux-aarch64-sve-fpsimd.core": 6.176496214122361e-06,
+        "linux-aarch64-sve-full.core": 6.176496214122361e-06,
+        "linux-aarch64-sve.c": 6.176496214122361e-06,
+        "linux-aarch64.core": 0,
+        "linux-aarch64.out": 0,
+        "linux-arm.core": 0,
+        "linux-fpr_sse_i386.core": 0,
+        "linux-fpr_sse_x86_64.core": 0,
+        "linux-i386.core": 0,
+        "linux-i386.out": 0,
+        "linux-ppc64le.core": 0,
+        "linux-ppc64le.out": 0,
+        "linux-s390x.core": 0,
+        "linux-s390x.out": 0,
+        "linux-x86_64.core": 6.099602068851199e-06,
+        "linux-x86_64.out": 0,
+        "main.c": 0,
+        "make-core.sh": 0,
+        "TestLinuxCore.py": 9.35772949945958e-05
+    },
+    "subdirscores": {
+        "gcore": 1.521679869271196e-05,
+        "thread_crash": 2.6492904068367298e-05
+    }
+}

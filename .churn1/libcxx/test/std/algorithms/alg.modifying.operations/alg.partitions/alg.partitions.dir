@@ -1,0 +1,19 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/algorithms/alg.modifying.operations/alg.partitions",
+    "score.sum": 9.819702144904471e-05,
+    "sha.latest": "d05bada59205b9bcf1195a6eac7e09b721e3b79b",
+    "time.latest": 1717868593.4631004,
+    "formatted_time": "2024-06-08 23:13:13.463103",
+    "filescores": {
+        "is_partitioned.pass.cpp": 3.377498382855702e-05,
+        "partition.pass.cpp": 2.1080578180046173e-05,
+        "partition_copy.pass.cpp": 2.976774626376211e-05,
+        "partition_point.pass.cpp": 2.0842009591347835e-05,
+        "ranges_partition.pass.cpp": 7.3712550774787435e-06,
+        "ranges_partition_copy.pass.cpp": 9.82375019184254e-06,
+        "ranges_partition_point.pass.cpp": 7.2077603553634535e-06,
+        "ranges_stable_partition.pass.cpp": 7.3712550774787435e-06,
+        "stable_partition.pass.cpp": 2.2988004789720525e-05
+    },
+    "subdirscores": {}
+}

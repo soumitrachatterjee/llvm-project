@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/clang-tools-extra/test/modularize/Inputs/CoverageNoProblems/NonIncludes",
+    "score.sum": 0,
+    "sha.latest": "8eb8d9367291c65b7f508bbc1555e7606f01b554",
+    "time.latest": 1717834936.805685,
+    "formatted_time": "2024-06-08 13:52:16.805687",
+    "filescores": {
+        "Level3A.h": 0
+    },
+    "subdirscores": {}
+}

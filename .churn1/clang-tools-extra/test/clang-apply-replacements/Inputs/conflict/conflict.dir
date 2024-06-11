@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/clang-tools-extra/test/clang-apply-replacements/Inputs/conflict",
+    "score.sum": 1.8952046019540643e-05,
+    "sha.latest": "f2879d8a4877eafcdb12c852030746d175f8abbd",
+    "time.latest": 1717816069.9183474,
+    "formatted_time": "2024-06-08 08:37:49.918350",
+    "filescores": {
+        "common.h": 0,
+        "expected.txt": 6.099602068851199e-06,
+        "file1.yaml": 1.3933008559483207e-05,
+        "file2.yaml": 1.3955143454351465e-05,
+        "file3.yaml": 1.3933008559483207e-05
+    },
+    "subdirscores": {}
+}

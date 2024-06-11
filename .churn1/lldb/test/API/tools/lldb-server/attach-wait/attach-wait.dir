@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/lldb/test/API/tools/lldb-server/attach-wait",
+    "score.sum": 9.60147219945371e-06,
+    "sha.latest": "9c2468821ec51defd09c246fea4a47886fff8c01",
+    "time.latest": 1717969807.678485,
+    "formatted_time": "2024-06-10 03:20:07.678487",
+    "filescores": {
+        "main.cpp": 1.0360261487715662e-05,
+        "Makefile": 1.0360261487715662e-05,
+        "shim.cpp": 1.0360261487715662e-05,
+        "TestGdbRemoteAttachWait.py": 9.60147219945371e-06
+    },
+    "subdirscores": {}
+}

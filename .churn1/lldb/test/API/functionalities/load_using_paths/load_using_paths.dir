@@ -1,0 +1,16 @@
+{
+    "directory name": "llvm-project/lldb/test/API/functionalities/load_using_paths",
+    "score.sum": 2.580571506856478e-05,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717911578.7618675,
+    "formatted_time": "2024-06-09 11:09:38.761869",
+    "filescores": {
+        "categories": 0,
+        "main.cpp": 6.099602068851199e-06,
+        "Makefile": 0,
+        "TestLoadUsingPaths.py": 2.437492491527763e-05
+    },
+    "subdirscores": {
+        "hidden": 6.099602068851199e-06
+    }
+}

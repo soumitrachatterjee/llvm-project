@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/libcxx/test/libcxx/localization",
+    "score.sum": 7.034453230571986e-05,
+    "sha.latest": "233e7c5de2d2abda024577e79dcd195562de68c8",
+    "time.latest": 1717860724.2778513,
+    "formatted_time": "2024-06-08 21:02:04.277854",
+    "filescores": {
+        "lit.local.cfg": 6.100016742778657e-06
+    },
+    "subdirscores": {
+        "locale.categories": 1.695599740761423e-05,
+        "locales": 5.157295829298285e-05
+    }
+}

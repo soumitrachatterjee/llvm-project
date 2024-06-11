@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/lldb/test/API/functionalities/history",
+    "score.sum": 2.1693633633096516e-05,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717910352.6304111,
+    "formatted_time": "2024-06-09 10:49:12.630413",
+    "filescores": {
+        "TestHistoryRecall.py": 2.1693633633096516e-05
+    },
+    "subdirscores": {}
+}

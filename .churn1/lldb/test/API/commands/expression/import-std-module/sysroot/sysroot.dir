@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/lldb/test/API/commands/expression/import-std-module/sysroot",
+    "score.sum": 1.3381427487843404e-05,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717892017.4537053,
+    "formatted_time": "2024-06-09 05:43:37.453707",
+    "filescores": {
+        "main.cpp": 0,
+        "Makefile": 0,
+        "TestStdModuleSysroot.py": 1.162782275014115e-05
+    },
+    "subdirscores": {
+        "root": 6.099602068851199e-06
+    }
+}

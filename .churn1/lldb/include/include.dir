@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/include",
+    "score.sum": 0.017866736438103978,
+    "sha.latest": "624ea68cbc3ce422b3ee110c0c0af839eec2e278",
+    "time.latest": 1717860572.1088696,
+    "formatted_time": "2024-06-08 20:59:32.108873",
+    "filescores": {
+        "module.modulemap": 0
+    },
+    "subdirscores": {
+        "lldb": 0.017866736438103978
+    }
+}

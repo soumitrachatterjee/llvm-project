@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/input.output/iostream.format/output.streams/ostream.cons",
+    "score.sum": 3.0241889740414077e-05,
+    "sha.latest": "f4c1258d5633fcf06385ff3fd1f4bf57ab971964",
+    "time.latest": 1717905928.9466999,
+    "formatted_time": "2024-06-09 09:35:28.946702",
+    "filescores": {
+        "move.pass.cpp": 3.0241889740414077e-05,
+        "streambuf.pass.cpp": 1.7431479621988335e-05
+    },
+    "subdirscores": {}
+}

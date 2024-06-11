@@ -1,0 +1,37 @@
+{
+    "directory name": "llvm-project/compiler-rt/lib/msan",
+    "score.sum": 0.0019103744586156427,
+    "sha.latest": "95bde4b9d6fe258ff7fea6da5024b2a8813c1e0c",
+    "time.latest": 1717801516.0364666,
+    "formatted_time": "2024-06-08 04:35:16.036470",
+    "filescores": {
+        ".clang-format": 2.3322092761216942e-05,
+        "CMakeLists.txt": 0.00012147886545897965,
+        "msan.cpp": 0.00010007771510623116,
+        "msan.h": 0.00018038663471851653,
+        "msan.syms.extra": 6.099602068851199e-06,
+        "msan_allocator.cpp": 0.00011845391395552293,
+        "msan_allocator.h": 2.525810093478475e-05,
+        "msan_chained_origin_depot.cpp": 1.7321235794087793e-05,
+        "msan_chained_origin_depot.h": 1.821074457741165e-05,
+        "msan_dl.cpp": 2.13059779194558e-05,
+        "msan_dl.h": 1.2259915389688097e-05,
+        "msan_flags.h": 2.220342956756539e-05,
+        "msan_flags.inc": 1.0445162008086634e-05,
+        "msan_ignorelist.txt": 0,
+        "msan_interceptors.cpp": 0.0002302444463876414,
+        "msan_interface_internal.h": 7.149786012866707e-05,
+        "msan_linux.cpp": 2.7387264819757896e-05,
+        "msan_new_delete.cpp": 6.255276124338241e-06,
+        "msan_origin.h": 1.2146129802345349e-05,
+        "msan_poisoning.cpp": 1.8588702030398873e-05,
+        "msan_poisoning.h": 6.099602068851199e-06,
+        "msan_report.cpp": 5.5676132780726e-05,
+        "msan_report.h": 6.855178761129394e-06,
+        "msan_thread.cpp": 1.7237238693918388e-05,
+        "msan_thread.h": 1.6319691670438522e-05
+    },
+    "subdirscores": {
+        "tests": 0.0005322256278985975
+    }
+}

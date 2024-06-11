@@ -1,0 +1,40 @@
+{
+    "directory name": "llvm-project/lldb/test/Shell/Commands",
+    "score.sum": 0.00020819908878401332,
+    "sha.latest": "af009451ec439593554f03bc714e46ad2cd41738",
+    "time.latest": 1717971997.9701388,
+    "formatted_time": "2024-06-10 03:56:37.970141",
+    "filescores": {
+        "command-backtrace-parser-1.test": 1.9061740524404732e-05,
+        "command-backtrace-parser-2.test": 1.9061740524404732e-05,
+        "command-breakpoint-col.test": 6.206234623694888e-06,
+        "command-disassemble-aarch64-color.s": 0,
+        "command-disassemble-aarch64-extensions.s": 2.302787113665103e-05,
+        "command-disassemble-mixed.c": 1.1256432270782695e-05,
+        "command-disassemble-mixed.test": 6.099602068851199e-06,
+        "command-disassemble-process.yaml": 2.0982386342569654e-05,
+        "command-disassemble.s": 1.3969793285000324e-05,
+        "command-image-lookup-color.test": 1.7614223905985906e-05,
+        "command-image-lookup.yaml": 0,
+        "command-language-cplusplus-demangle.test": 0,
+        "command-process-launch-user-entry.test": 0,
+        "command-regex-delete.test": 8.22683439832498e-06,
+        "command-regex-unalias.test": 8.22683439832498e-06,
+        "command-script-add.test": 0,
+        "command-script-import.test": 6.142562783957262e-06,
+        "command-source.test": 7.116387020756694e-06,
+        "command-stop-hook-no-target.test": 1.1766452681487292e-05,
+        "command-stop-hook-output.test": 1.041801508034867e-05,
+        "command-target-create-resolve-exe.test": 8.728551996066332e-06,
+        "command-target-modules-dump-sections.yaml": 6.099602068851199e-06,
+        "command-target-modules-lookup.test": 6.099602068851199e-06,
+        "command-thread-backtrace.test": 0,
+        "command-thread-select.test": 0,
+        "command-thread-siginfo.test": 6.099602068851199e-06,
+        "lit.local.cfg": 1.0264857131011641e-05
+    },
+    "subdirscores": {
+        "CommandScriptImmediateOutput": 1.0894163706071993e-05,
+        "Inputs": 3.7451350579909115e-05
+    }
+}

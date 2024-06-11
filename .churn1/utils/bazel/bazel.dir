@@ -1,0 +1,24 @@
+{
+    "directory name": "llvm-project/utils/bazel",
+    "score.sum": 0.006510494040222773,
+    "sha.latest": "a116f0ebaf0304e73b26098a7141c4ab836b7dc9",
+    "time.latest": 1717791367.5233486,
+    "formatted_time": "2024-06-08 01:46:07.523353",
+    "filescores": {
+        ".bazelignore": 6.099602068851199e-06,
+        ".bazelrc": 7.808792734520669e-05,
+        ".bazelversion": 1.0187906946993593e-05,
+        "BUILD.bazel": 0,
+        "configure.bzl": 4.302297832285433e-05,
+        "overlay_directories.py": 6.099602068851199e-06,
+        "README.md": 1.633962010206245e-05,
+        "vulkan_sdk.bzl": 6.099602068851199e-06,
+        "WORKSPACE": 4.9633545442065216e-05
+    },
+    "subdirscores": {
+        "examples": 1.671258418977272e-05,
+        "llvm-project-overlay": 0.006342028736305156,
+        "llvm_configs": 0.0001175444631936541,
+        "third_party_build": 2.780306983115079e-05
+    }
+}

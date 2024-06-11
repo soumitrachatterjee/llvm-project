@@ -1,0 +1,20 @@
+{
+    "directory name": "llvm-project/openmp/runtime",
+    "score.sum": 0.004717783558655979,
+    "sha.latest": "fa4cc39255767bbaf63a6a3b445dc94b43ebd447",
+    "time.latest": 1717805807.347966,
+    "formatted_time": "2024-06-08 05:46:47.347968",
+    "filescores": {
+        ".clang-format": 1.780213391765619e-05,
+        ".clang-tidy": 0,
+        "CMakeLists.txt": 0.0001801140285689604,
+        "README.txt": 2.405048274433676e-05
+    },
+    "subdirscores": {
+        "cmake": 0.0004259088234844416,
+        "doc": 3.438749834007644e-05,
+        "src": 0.003661649477513406,
+        "test": 0.0012124171096666156,
+        "tools": 0.00011915362629603125
+    }
+}

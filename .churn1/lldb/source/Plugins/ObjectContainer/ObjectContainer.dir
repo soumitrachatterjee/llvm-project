@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/lldb/source/Plugins/ObjectContainer",
+    "score.sum": 0.0003349093392611462,
+    "sha.latest": "d4a141ef932a596df61581090b70d0b546de68b2",
+    "time.latest": 1717871801.8964198,
+    "formatted_time": "2024-06-09 00:06:41.896424",
+    "filescores": {
+        "CMakeLists.txt": 6.478306433849605e-06
+    },
+    "subdirscores": {
+        "BSD-Archive": 0.0002504769248948976,
+        "Mach-O-Fileset": 1.2203771925951421e-05,
+        "Universal-Mach-O": 0.00016581900013710655
+    }
+}

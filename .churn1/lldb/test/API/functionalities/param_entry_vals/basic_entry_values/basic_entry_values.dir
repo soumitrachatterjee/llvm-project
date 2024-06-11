@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/lldb/test/API/functionalities/param_entry_vals/basic_entry_values",
+    "score.sum": 2.1308997627637086e-05,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717913986.9918375,
+    "formatted_time": "2024-06-09 11:49:46.991839",
+    "filescores": {
+        "main.cpp": 6.443009409554418e-06,
+        "TestBasicEntryValues.py": 1.7591613077467843e-05
+    },
+    "subdirscores": {}
+}

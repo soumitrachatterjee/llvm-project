@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/tools/lldb-dap/stackTrace",
+    "score.sum": 1.3213618155398283e-05,
+    "sha.latest": "9c2468821ec51defd09c246fea4a47886fff8c01",
+    "time.latest": 1717969421.7056985,
+    "formatted_time": "2024-06-10 03:13:41.705701",
+    "filescores": {
+        "main.c": 0,
+        "Makefile": 0,
+        "TestDAP_stackTrace.py": 1.3213618155398283e-05
+    },
+    "subdirscores": {}
+}

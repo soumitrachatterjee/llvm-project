@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/source/Plugins/TypeSystem/Clang",
+    "score.sum": 0.0006187794011256605,
+    "sha.latest": "624ea68cbc3ce422b3ee110c0c0af839eec2e278",
+    "time.latest": 1717882689.6368363,
+    "formatted_time": "2024-06-09 03:08:09.636838",
+    "filescores": {
+        "CMakeLists.txt": 0,
+        "TypeSystemClang.cpp": 0.0005966601113556654,
+        "TypeSystemClang.h": 0.00025925155257061004
+    },
+    "subdirscores": {}
+}

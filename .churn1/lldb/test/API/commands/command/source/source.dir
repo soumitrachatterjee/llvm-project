@@ -1,0 +1,18 @@
+{
+    "directory name": "llvm-project/lldb/test/API/commands/command/source",
+    "score.sum": 1.815111047916372e-05,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717888923.0593529,
+    "formatted_time": "2024-06-09 04:52:03.059354",
+    "filescores": {
+        ".lldb": 0,
+        "commands.txt": 0,
+        "commands2.txt": 0,
+        "my.py": 1.0757275168687244e-05,
+        "not-relative.txt": 0,
+        "TestCommandSource.py": 1.3493437379327673e-05
+    },
+    "subdirscores": {
+        "subdir": 0
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/clang/include/clang/Config",
+    "score.sum": 0.00017755934959324895,
+    "sha.latest": "d430c145ba92328e8363fab7adca4fc1e61e6637",
+    "time.latest": 1717798868.6398206,
+    "formatted_time": "2024-06-08 03:51:08.639824",
+    "filescores": {
+        "config.h.cmake": 0.00017400340311978958
+    },
+    "subdirscores": {}
+}

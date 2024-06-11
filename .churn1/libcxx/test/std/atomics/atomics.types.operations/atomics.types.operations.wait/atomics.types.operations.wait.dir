@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/atomics/atomics.types.operations/atomics.types.operations.wait",
+    "score.sum": 5.541149901267193e-05,
+    "sha.latest": "85a847fd1d639a0e7d5319b17e994ea157be6046",
+    "time.latest": 1717874555.8566387,
+    "formatted_time": "2024-06-09 00:52:35.856641",
+    "filescores": {
+        "atomic_notify_all.pass.cpp": 3.158842909085482e-05,
+        "atomic_notify_one.pass.cpp": 1.5075593406645738e-05,
+        "atomic_wait.pass.cpp": 3.815751862586779e-05,
+        "atomic_wait_explicit.pass.cpp": 1.5075593406645738e-05
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,17 @@
+{
+    "directory name": "llvm-project/clang/lib/ASTMatchers/Dynamic",
+    "score.sum": 0.0008991045529483625,
+    "sha.latest": "7457e2c1535acd548d2619dfb34eb93d27d15908",
+    "time.latest": 1717806742.7621953,
+    "formatted_time": "2024-06-08 06:02:22.762200",
+    "filescores": {
+        "CMakeLists.txt": 2.5751197964954794e-05,
+        "Diagnostics.cpp": 3.5371795539255014e-05,
+        "Marshallers.cpp": 4.381059044170068e-05,
+        "Marshallers.h": 0.00019949426416310807,
+        "Parser.cpp": 0.00016924324848560884,
+        "Registry.cpp": 0.0006056258219449965,
+        "VariantValue.cpp": 8.514306877683759e-05
+    },
+    "subdirscores": {}
+}

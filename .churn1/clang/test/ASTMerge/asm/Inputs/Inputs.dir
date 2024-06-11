@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/clang/test/ASTMerge/asm/Inputs",
+    "score.sum": 1.2462214301284185e-05,
+    "sha.latest": "0333dd95636da52229ca14b4e5525c1cd8ba62d2",
+    "time.latest": 1717864346.4161832,
+    "formatted_time": "2024-06-08 22:02:26.416186",
+    "filescores": {
+        "asm-function.cpp": 1.2462214301284185e-05
+    },
+    "subdirscores": {}
+}

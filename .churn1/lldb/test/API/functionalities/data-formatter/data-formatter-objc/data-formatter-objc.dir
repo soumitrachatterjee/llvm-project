@@ -1,0 +1,30 @@
+{
+    "directory name": "llvm-project/lldb/test/API/functionalities/data-formatter/data-formatter-objc",
+    "score.sum": 5.970585900120517e-05,
+    "sha.latest": "b7355ee99ec63f44a6dc4f7dad9bb5a130bcc0eb",
+    "time.latest": 1717905401.862809,
+    "formatted_time": "2024-06-09 09:26:41.862816",
+    "filescores": {
+        "categories": 0,
+        "main.m": 3.267340733221609e-05,
+        "Makefile": 0,
+        "ObjCDataFormatterTestCase.py": 1.8734830229107885e-05,
+        "TestDataFormatterObjCCF.py": 1.8551435771892826e-05,
+        "TestDataFormatterObjCExpr.py": 1.2183062540055554e-05,
+        "TestDataFormatterObjCKVO.py": 2.4216005531346465e-05,
+        "TestDataFormatterObjCNSBundle.py": 1.5761837920333742e-05,
+        "TestDataFormatterObjCNSContainer.py": 2.495263197735559e-05,
+        "TestDataFormatterObjCNSData.py": 2.0458058364199575e-05,
+        "TestDataFormatterObjCNSDate.py": 2.6201052858510536e-05,
+        "TestDataFormatterObjCNSError.py": 1.5761837920333742e-05,
+        "TestDataFormatterObjCNSNumber.py": 1.3105623084692695e-05,
+        "TestDataFormatterObjCNSURL.py": 1.5761837920333742e-05,
+        "TestDataFormatterObjCPlain.py": 7.486842096189721e-06,
+        "TestDataFormatterObjNSException.py": 1.5761837920333742e-05
+    },
+    "subdirscores": {
+        "cmtime": 1.170932980813097e-05,
+        "nsindexpath": 1.0503384530912484e-05,
+        "nsstring": 1.576152558132303e-05
+    }
+}

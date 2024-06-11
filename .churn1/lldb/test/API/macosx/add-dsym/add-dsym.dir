@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/lldb/test/API/macosx/add-dsym",
+    "score.sum": 2.0909490502893554e-05,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717961778.6405537,
+    "formatted_time": "2024-06-10 01:06:18.640559",
+    "filescores": {
+        "main.c": 0,
+        "Makefile": 0,
+        "TestAddDsymDownload.py": 1.1649274596987921e-05,
+        "TestAddDsymMidExecutionCommand.py": 1.791582494306716e-05
+    },
+    "subdirscores": {}
+}

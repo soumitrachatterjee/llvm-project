@@ -1,0 +1,19 @@
+{
+    "directory name": "llvm-project/openmp/runtime/test/worksharing/sections",
+    "score.sum": 1.1270229646987421e-05,
+    "sha.latest": "fdcca8cd5577cb2370f888bf7156777fd0f022ee",
+    "time.latest": 1717805572.6242428,
+    "formatted_time": "2024-06-08 05:42:52.624244",
+    "filescores": {
+        "omp_parallel_sections_firstprivate.c": 6.099602068851199e-06,
+        "omp_parallel_sections_lastprivate.c": 6.099602068851199e-06,
+        "omp_parallel_sections_private.c": 6.099602068851199e-06,
+        "omp_parallel_sections_reduction.c": 6.099602068851199e-06,
+        "omp_sections_nowait.c": 1.1270229646987421e-05,
+        "omp_sections_reduction.c": 6.099602068851199e-06,
+        "omp_section_firstprivate.c": 6.099602068851199e-06,
+        "omp_section_lastprivate.c": 6.099602068851199e-06,
+        "omp_section_private.c": 6.099602068851199e-06
+    },
+    "subdirscores": {}
+}

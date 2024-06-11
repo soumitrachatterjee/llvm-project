@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/lang/objcxx/hide-runtime-values",
+    "score.sum": 1.7861610839113693e-05,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717960460.8150327,
+    "formatted_time": "2024-06-10 00:44:20.815038",
+    "filescores": {
+        "main.mm": 0,
+        "Makefile": 0,
+        "TestObjCXXHideRuntimeValues.py": 1.7861610839113693e-05
+    },
+    "subdirscores": {}
+}

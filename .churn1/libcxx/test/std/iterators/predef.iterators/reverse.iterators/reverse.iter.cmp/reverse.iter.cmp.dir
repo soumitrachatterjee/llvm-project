@@ -1,0 +1,18 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/iterators/predef.iterators/reverse.iterators/reverse.iter.cmp",
+    "score.sum": 1.7897594541697817e-05,
+    "sha.latest": "d868135691bb0d5c924b8fd2ae26171fbf5d1387",
+    "time.latest": 1717919521.1684463,
+    "formatted_time": "2024-06-09 13:22:01.168448",
+    "filescores": {
+        "equal.pass.cpp": 0,
+        "greater-equal.pass.cpp": 0,
+        "greater.pass.cpp": 0,
+        "less-equal.pass.cpp": 0,
+        "less.pass.cpp": 0,
+        "not-equal.pass.cpp": 0,
+        "sfinae.compile.pass.cpp": 6.140651014290145e-06,
+        "three-way.pass.cpp": 9.469762648690948e-06
+    },
+    "subdirscores": {}
+}

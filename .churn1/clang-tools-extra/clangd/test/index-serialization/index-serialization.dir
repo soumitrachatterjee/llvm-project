@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/clang-tools-extra/clangd/test/index-serialization",
+    "score.sum": 1.3847638292903441e-05,
+    "sha.latest": "16d79d26b3b6b7ab4b024f478f05569e0a033c76",
+    "time.latest": 1717804115.7915692,
+    "formatted_time": "2024-06-08 05:18:35.791571",
+    "filescores": {
+        "version-is-correct.test": 0
+    },
+    "subdirscores": {
+        "Inputs": 1.3847638292903441e-05
+    }
+}

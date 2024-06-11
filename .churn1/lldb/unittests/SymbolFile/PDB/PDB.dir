@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/lldb/unittests/SymbolFile/PDB",
+    "score.sum": 0.000194157435165593,
+    "sha.latest": "87bf1afbbf0343fd7560a4e1344d2ca0e066a905",
+    "time.latest": 1717998230.9976413,
+    "formatted_time": "2024-06-10 11:13:50.997644",
+    "filescores": {
+        "CMakeLists.txt": 2.5503313917524082e-05,
+        "SymbolFilePDBTests.cpp": 0.00017378075522725956
+    },
+    "subdirscores": {
+        "Inputs": 2.8085708483207143e-05
+    }
+}

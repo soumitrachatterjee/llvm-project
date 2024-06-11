@@ -1,0 +1,25 @@
+{
+    "directory name": "llvm-project/libcxx/docs/DesignDocs",
+    "score.sum": 0.0003155584418439617,
+    "sha.latest": "7162fd750ee5f786f3b9b7a7b26b72ee36ce772e",
+    "time.latest": 1717824217.5848446,
+    "formatted_time": "2024-06-08 10:53:37.584850",
+    "filescores": {
+        "ABIVersioning.rst": 1.0720624687279529e-05,
+        "AtomicDesign.rst": 0,
+        "CapturingConfigInfo.rst": 2.5512584389098147e-05,
+        "ExperimentalFeatures.rst": 1.6038466569933406e-05,
+        "ExtendedCXX03Support.rst": 1.0656718823378526e-05,
+        "FeatureTestMacros.rst": 1.1624625706167296e-05,
+        "FileTimeType.rst": 1.0039129935345457e-05,
+        "HeaderRemovalPolicy.rst": 6.099602068851199e-06,
+        "NoexceptPolicy.rst": 6.099602068851199e-06,
+        "PSTLIntegration.rst": 0,
+        "ThreadingSupportAPI.rst": 1.2617050157407558e-05,
+        "TimeZone.rst": 0,
+        "UniquePtrTrivialAbi.rst": 6.335433909086989e-06,
+        "UnspecifiedBehaviorRandomization.rst": 7.014754728528878e-06,
+        "VisibilityMacros.rst": 6.20901555729794e-05
+    },
+    "subdirscores": {}
+}

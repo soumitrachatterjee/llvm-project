@@ -1,0 +1,22 @@
+{
+    "directory name": "llvm-project/lldb/scripts",
+    "score.sum": 0.0020586449205917583,
+    "sha.latest": "2260ebf7b6df15db96c76039758dd9dbf009c334",
+    "time.latest": 1717861918.166198,
+    "formatted_time": "2024-06-08 21:21:58.166202",
+    "filescores": {
+        "analyze-project-deps.py": 1.6408197074133992e-05,
+        "disasm-gdb-remote.pl": 1.249988854253598e-05,
+        "framework-header-fix.sh": 1.1314957405695071e-05,
+        "install_custom_python.py": 9.974754651816812e-06,
+        "macos-setup-codesign.sh": 0,
+        "msvc_extract_private_symbols.py": 6.099602068851199e-06,
+        "reproducer-replay.py": 6.603725767761787e-06,
+        "use_lldb_suite.py": 1.901203980699311e-05,
+        "verify_api.py": 1.9771706503296785e-05
+    },
+    "subdirscores": {
+        "android": 1.206087465842214e-05,
+        "lldb-test-qemu": 1.787179940735638e-05
+    }
+}

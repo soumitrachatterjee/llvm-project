@@ -1,0 +1,28 @@
+{
+    "directory name": "llvm-project/lldb/test/Shell/SymbolFile/Breakpad",
+    "score.sum": 4.879243475400973e-05,
+    "sha.latest": "1da5db97cbf3451da05788b1d35b8a107a7f6a69",
+    "time.latest": 1717980131.7886183,
+    "formatted_time": "2024-06-10 06:12:11.788620",
+    "filescores": {
+        "inline-record.test": 6.099602068851199e-06,
+        "line-table-discontinuous-file-ids.test": 6.102551435803408e-06,
+        "line-table-edgecases.test": 6.102551435803408e-06,
+        "line-table-missing-file.test": 6.102551435803408e-06,
+        "line-table-mixed-path-styles.test": 6.102551435803408e-06,
+        "line-table.test": 8.628487707879728e-06,
+        "lit.local.cfg": 0,
+        "stack-cfi-arm.yaml": 8.585027927673242e-06,
+        "stack-cfi-parsing.test": 1.6445699940573402e-05,
+        "symtab-macho.test": 6.102551435803408e-06,
+        "symtab-sorted-by-size.test": 6.099602068851199e-06,
+        "symtab.test": 3.665406822837119e-05,
+        "unwind-via-raSearch.test": 1.7536478457002692e-05,
+        "unwind-via-stack-cfi.test": 1.661423901304809e-05,
+        "unwind-via-stack-win-no-memory-info.yaml": 1.1394637200092725e-05,
+        "unwind-via-stack-win.test": 1.9801396933025293e-05
+    },
+    "subdirscores": {
+        "Inputs": 1.4371361572712206e-05
+    }
+}

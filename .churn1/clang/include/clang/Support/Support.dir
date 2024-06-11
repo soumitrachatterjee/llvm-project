@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/clang/include/clang/Support",
+    "score.sum": 0.00018225323941037825,
+    "sha.latest": "4bbae068d704752acbd7c5d8652c11b0954742be",
+    "time.latest": 1717802348.9588308,
+    "formatted_time": "2024-06-08 04:49:08.958834",
+    "filescores": {
+        "RISCVVIntrinsicUtils.h": 0.00018225323941037825
+    },
+    "subdirscores": {}
+}

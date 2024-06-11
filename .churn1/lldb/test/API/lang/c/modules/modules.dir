@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/lang/c/modules",
+    "score.sum": 1.8784601582937028e-05,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717926253.139296,
+    "formatted_time": "2024-06-09 15:14:13.139299",
+    "filescores": {
+        "main.c": 0,
+        "Makefile": 0,
+        "TestCModules.py": 1.8784601582937028e-05
+    },
+    "subdirscores": {}
+}

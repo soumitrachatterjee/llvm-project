@@ -1,0 +1,30 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/thread/futures/futures.promise",
+    "score.sum": 5.3102933072054694e-05,
+    "sha.latest": "72f0edf3f4291d2614719a8c8af21a7a62ed5d74",
+    "time.latest": 1717975344.4508858,
+    "formatted_time": "2024-06-10 04:52:24.450888",
+    "filescores": {
+        "alloc_ctor.pass.cpp": 2.7169695994612316e-05,
+        "copy_assign.verify.cpp": 1.0305371247547422e-05,
+        "copy_ctor.verify.cpp": 1.0305371247547422e-05,
+        "default.pass.cpp": 2.1521932548475056e-05,
+        "dtor.pass.cpp": 2.1642713282723376e-05,
+        "get_future.pass.cpp": 2.0080240287085982e-05,
+        "move_assign.pass.cpp": 2.585437234942723e-05,
+        "move_ctor.pass.cpp": 2.5728003733223242e-05,
+        "set_exception.pass.cpp": 2.8107856441593866e-05,
+        "set_exception_at_thread_exit.pass.cpp": 3.463153088000273e-05,
+        "set_lvalue.pass.cpp": 2.0080240287085982e-05,
+        "set_lvalue_at_thread_exit.pass.cpp": 2.6394973640599004e-05,
+        "set_rvalue.pass.cpp": 2.9055332122145766e-05,
+        "set_rvalue_at_thread_exit.pass.cpp": 2.763689320157711e-05,
+        "set_value_at_thread_exit_const.pass.cpp": 2.6394973640599004e-05,
+        "set_value_at_thread_exit_void.pass.cpp": 2.6394973640599004e-05,
+        "set_value_const.pass.cpp": 2.0080240287085982e-05,
+        "set_value_void.pass.cpp": 2.8107856441593866e-05,
+        "swap.pass.cpp": 2.7169695994612316e-05,
+        "uses_allocator.pass.cpp": 1.704674399838476e-05
+    },
+    "subdirscores": {}
+}

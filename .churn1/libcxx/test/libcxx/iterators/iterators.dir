@@ -1,0 +1,22 @@
+{
+    "directory name": "llvm-project/libcxx/test/libcxx/iterators",
+    "score.sum": 0.0003511454813411927,
+    "sha.latest": "58780b811c23df3d928d8452ee21c862dde754a2",
+    "time.latest": 1717860053.8961294,
+    "formatted_time": "2024-06-08 20:50:53.896132",
+    "filescores": {
+        "assert.advance.pass.cpp": 3.551326933647007e-05,
+        "assert.next.pass.cpp": 3.405613133608281e-05,
+        "assert.prev.pass.cpp": 3.405613133608281e-05,
+        "contiguous_iterators.pass.cpp": 1.3830464949432585e-05,
+        "iterator_with_data.pass.cpp": 6.099602068851199e-06,
+        "unwrap_iter.pass.cpp": 6.099602068851199e-06
+    },
+    "subdirscores": {
+        "bounded_iter": null,
+        "iterator.concepts": null,
+        "iterator.requirements": null,
+        "predef.iterators": 3.10240263511501e-05,
+        "stream.iterators": 6.099602068851199e-06
+    }
+}

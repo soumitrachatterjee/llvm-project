@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/lld/MachO/Arch",
+    "score.sum": 0.00017569722096100613,
+    "sha.latest": "391393179a6e316909add3b8455eb6d7c7c38ddb",
+    "time.latest": 1717840841.8874578,
+    "formatted_time": "2024-06-08 15:30:41.887461",
+    "filescores": {
+        "ARM64.cpp": 7.759772124539969e-05,
+        "ARM64Common.cpp": 1.6206923635395503e-05,
+        "ARM64Common.h": 3.680502038262776e-05,
+        "ARM64_32.cpp": 3.0611769881105063e-05,
+        "X86_64.cpp": 8.03760679101355e-05
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/lldb/unittests/Language/ObjC",
+    "score.sum": 1.815577156639576e-05,
+    "sha.latest": "915256388f865a1a42808f168fc388fccff14eda",
+    "time.latest": 1717996762.5318513,
+    "formatted_time": "2024-06-10 10:49:22.531854",
+    "filescores": {
+        "CMakeLists.txt": 6.102326581211739e-06,
+        "ObjCLanguageTest.cpp": 6.943974829349352e-06
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,30 @@
+{
+    "directory name": "llvm-project/clang-tools-extra/clang-tidy/objc",
+    "score.sum": 0.00015487099966029694,
+    "sha.latest": "ec5f4be4521c3b28d6bb14f34f39a87c36fe8c00",
+    "time.latest": 1717798679.5753753,
+    "formatted_time": "2024-06-08 03:47:59.575378",
+    "filescores": {
+        "AssertEquals.cpp": 6.099602068851199e-06,
+        "AssertEquals.h": 8.966304262692434e-06,
+        "AvoidNSErrorInitCheck.cpp": 1.2364463157698458e-05,
+        "AvoidNSErrorInitCheck.h": 1.8192681691679675e-05,
+        "CMakeLists.txt": 3.4544931803379376e-05,
+        "DeallocInCategoryCheck.cpp": 6.22530481676763e-06,
+        "DeallocInCategoryCheck.h": 1.1073802745832025e-05,
+        "ForbiddenSubclassingCheck.cpp": 2.309751231319532e-05,
+        "ForbiddenSubclassingCheck.h": 2.638801809053255e-05,
+        "MissingHashCheck.cpp": 6.928366455267486e-06,
+        "MissingHashCheck.h": 1.1917763680762926e-05,
+        "NSDateFormatterCheck.cpp": 6.747529298618858e-06,
+        "NSDateFormatterCheck.h": 1.1479243208306945e-05,
+        "NSInvocationArgumentLifetimeCheck.cpp": 3.8222321937394665e-05,
+        "NSInvocationArgumentLifetimeCheck.h": 1.0875506176389969e-05,
+        "ObjCTidyModule.cpp": 2.9939694753010573e-05,
+        "PropertyDeclarationCheck.cpp": 3.397955636290475e-05,
+        "PropertyDeclarationCheck.h": 2.1922445857320656e-05,
+        "SuperSelfCheck.cpp": 1.2403446557254654e-05,
+        "SuperSelfCheck.h": 1.833295272117038e-05
+    },
+    "subdirscores": {}
+}

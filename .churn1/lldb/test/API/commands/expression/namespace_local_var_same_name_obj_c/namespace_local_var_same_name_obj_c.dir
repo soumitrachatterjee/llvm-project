@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/lldb/test/API/commands/expression/namespace_local_var_same_name_obj_c",
+    "score.sum": 1.3975315830224806e-05,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717893005.084703,
+    "formatted_time": "2024-06-09 06:00:05.084705",
+    "filescores": {
+        "main.mm": 6.099602068851199e-06,
+        "Makefile": 0,
+        "TestNamespaceLocalVarSameNameObjC.py": 1.1847074432302387e-05,
+        "util.mm": 0
+    },
+    "subdirscores": {}
+}

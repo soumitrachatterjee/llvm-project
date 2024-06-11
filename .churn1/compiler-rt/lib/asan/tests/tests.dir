@@ -1,0 +1,30 @@
+{
+    "directory name": "llvm-project/compiler-rt/lib/asan/tests",
+    "score.sum": 0.0009070452333082696,
+    "sha.latest": "dcafbd0c673eb7513f2bf7b05e758c58de022af4",
+    "time.latest": 1717790854.1112187,
+    "formatted_time": "2024-06-08 01:37:34.111224",
+    "filescores": {
+        "asan_benchmarks_test.cpp": 0,
+        "asan_exceptions_test.cpp": 0,
+        "asan_fake_stack_test.cpp": 0,
+        "asan_globals_test.cpp": 0,
+        "asan_interface_test.cpp": 3.047333749223298e-05,
+        "asan_internal_interface_test.cpp": 6.099602068851199e-06,
+        "asan_mac_test.cpp": 0,
+        "asan_mac_test.h": 1.976944550820342e-05,
+        "asan_mac_test_helpers.mm": 7.072269236526918e-06,
+        "asan_mem_test.cpp": 1.3292630304811144e-05,
+        "asan_noinst_test.cpp": 5.212855674590037e-05,
+        "asan_oob_test.cpp": 6.1461254320723115e-06,
+        "asan_racy_double_free_test.cpp": 0,
+        "asan_str_test.cpp": 1.2607111788880281e-05,
+        "asan_test.cpp": 3.812496238775231e-05,
+        "asan_test.ignore": 6.674564220340656e-06,
+        "asan_test_config.h": 2.0052824587370597e-05,
+        "asan_test_main.cpp": 2.4131895260455616e-05,
+        "asan_test_utils.h": 4.73662460209256e-05,
+        "CMakeLists.txt": 0.0003065516490688626
+    },
+    "subdirscores": {}
+}

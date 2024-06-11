@@ -1,0 +1,25 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/utilities/function.objects/func.wrap/func.wrap.func",
+    "score.sum": 0.0003006647166483197,
+    "sha.latest": "ca06c330fd07f05e65a638892c32ca1474d47b5e",
+    "time.latest": 1717996814.464167,
+    "formatted_time": "2024-06-10 10:50:14.464170",
+    "filescores": {
+        "addressof.pass.cpp": 9.674847789988237e-06,
+        "derive_from.pass.cpp": 2.1077478050434696e-05,
+        "derive_from.verify.cpp": 0,
+        "function_types.h": 7.115517634216942e-06,
+        "noncopyable_return_type.pass.cpp": 1.0470166365274214e-05,
+        "robust_against_adl.pass.cpp": 1.142616032168595e-05,
+        "types.pass.cpp": 3.218527726118885e-05
+    },
+    "subdirscores": {
+        "func.wrap.func.alg": 4.437143292812607e-05,
+        "func.wrap.func.cap": 3.1029254303316866e-05,
+        "func.wrap.func.con": 0.00025032044076010685,
+        "func.wrap.func.inv": 4.145126181120772e-05,
+        "func.wrap.func.mod": 4.8254243770700886e-05,
+        "func.wrap.func.nullptr": 2.5961028767357702e-05,
+        "func.wrap.func.targ": 3.6808004961803785e-05
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/cross-project-tests/debuginfo-tests/dexter/dex/utils/windows",
+    "score.sum": 3.554477546729832e-05,
+    "sha.latest": "45a40c163932d12b72b33bd1d8a84519392b5d39",
+    "time.latest": 1717790086.7574317,
+    "formatted_time": "2024-06-08 01:24:46.757437",
+    "filescores": {
+        "PrettyOutput.py": 3.554477546729832e-05,
+        "__init__.py": 0
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/clang/include/clang/ARCMigrate",
+    "score.sum": 7.877202257265032e-05,
+    "sha.latest": "1afb313b26851bdb050061f6d786c83ec1f569a3",
+    "time.latest": 1717794258.3726676,
+    "formatted_time": "2024-06-08 02:34:18.372672",
+    "filescores": {
+        "ARCMT.h": 2.128748415225645e-05,
+        "ARCMTActions.h": 3.543130374491025e-05,
+        "FileRemapper.h": 3.862654031942223e-05
+    },
+    "subdirscores": {}
+}

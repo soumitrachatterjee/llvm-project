@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/lldb/test/API/functionalities/show_location",
+    "score.sum": 1.6207704846833398e-05,
+    "sha.latest": "e067b0e4a728615675d229e818c22d29ead5e4d4",
+    "time.latest": 1717919777.2499585,
+    "formatted_time": "2024-06-09 13:26:17.249960",
+    "filescores": {
+        "a.yaml": 0,
+        "TestShowLocationDwarf5.py": 1.6207704846833398e-05
+    },
+    "subdirscores": {}
+}

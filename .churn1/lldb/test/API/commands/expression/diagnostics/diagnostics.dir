@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/commands/expression/diagnostics",
+    "score.sum": 2.6741938257776744e-05,
+    "sha.latest": "133c3eaac0a532380c3d6ad21a60da1490f51fb8",
+    "time.latest": 1717889915.0189824,
+    "formatted_time": "2024-06-09 05:08:35.018984",
+    "filescores": {
+        "main.cpp": 0,
+        "Makefile": 0,
+        "TestExprDiagnostics.py": 2.6741938257776744e-05
+    },
+    "subdirscores": {}
+}

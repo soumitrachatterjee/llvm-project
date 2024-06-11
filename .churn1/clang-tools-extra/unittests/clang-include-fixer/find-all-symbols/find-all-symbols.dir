@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/clang-tools-extra/unittests/clang-include-fixer/find-all-symbols",
+    "score.sum": 1.3792967335843e-05,
+    "sha.latest": "f9d558c871337699d2815dbf116bae94025f5d90",
+    "time.latest": 1717836763.3878863,
+    "formatted_time": "2024-06-08 14:22:43.387888",
+    "filescores": {
+        "CMakeLists.txt": 9.20809684192444e-06,
+        "FindAllSymbolsTests.cpp": 6.099602068851199e-06
+    },
+    "subdirscores": {}
+}

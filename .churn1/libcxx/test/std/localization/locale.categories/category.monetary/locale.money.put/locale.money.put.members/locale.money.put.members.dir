@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/localization/locale.categories/category.monetary/locale.money.put/locale.money.put.members",
+    "score.sum": 0.00014103644194303646,
+    "sha.latest": "bce3b505931cee9dc79d1c56c021983b4a8fb819",
+    "time.latest": 1717928650.569107,
+    "formatted_time": "2024-06-09 15:54:10.569109",
+    "filescores": {
+        "put_long_double_en_US.pass.cpp": 4.36800673536155e-05,
+        "put_long_double_fr_FR.pass.cpp": 8.926343941014327e-05,
+        "put_long_double_ru_RU.pass.cpp": 8.683429683282751e-05,
+        "put_long_double_zh_CN.pass.cpp": 6.582182764015547e-05,
+        "put_string_en_US.pass.cpp": 4.36800673536155e-05
+    },
+    "subdirscores": {}
+}

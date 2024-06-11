@@ -1,0 +1,24 @@
+{
+    "directory name": "llvm-project/clang/test/CodeGen/WebAssembly",
+    "score.sum": 7.065956532485946e-05,
+    "sha.latest": "158d72d728261c1e54dc77931372b2322c52849f",
+    "time.latest": 1717983627.9832304,
+    "formatted_time": "2024-06-10 07:10:27.983233",
+    "filescores": {
+        "builtins-table.c": 0,
+        "wasm-arguments.c": 2.8056102894910705e-05,
+        "wasm-call-main.c": 0,
+        "wasm-eh.ll": 6.099602068851199e-06,
+        "wasm-export-name.c": 1.0571264962230846e-05,
+        "wasm-externref.c": 8.041133067479803e-06,
+        "wasm-funcref.c": 0,
+        "wasm-import-module.c": 0,
+        "wasm-import-name.c": 0,
+        "wasm-main.c": 0,
+        "wasm-main_argc_argv.c": 3.270497438791182e-05,
+        "wasm-regparm.c": 0,
+        "wasm-rotate.c": 0,
+        "wasm-varargs.c": 2.1976541503911733e-05
+    },
+    "subdirscores": {}
+}

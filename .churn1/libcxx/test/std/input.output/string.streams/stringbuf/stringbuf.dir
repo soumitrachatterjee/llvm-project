@@ -1,0 +1,16 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/input.output/string.streams/stringbuf",
+    "score.sum": 0.00010498467596594776,
+    "sha.latest": "80f9458cf30d13eef21b09042ea590945c5e64db",
+    "time.latest": 1717910398.0381389,
+    "formatted_time": "2024-06-09 10:49:58.038141",
+    "filescores": {
+        "types.compile.pass.cpp": 0
+    },
+    "subdirscores": {
+        "stringbuf.assign": 4.2082540582973216e-05,
+        "stringbuf.cons": 4.65477162403937e-05,
+        "stringbuf.members": 4.176854353706424e-05,
+        "stringbuf.virtuals": 3.244159565763918e-05
+    }
+}

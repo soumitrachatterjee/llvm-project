@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/source/Plugins/Disassembler/LLVMC",
+    "score.sum": 0.00015320909076927116,
+    "sha.latest": "847de9c332775d1841fec9fea5cb5c41592a4c8f",
+    "time.latest": 1717868222.7925394,
+    "formatted_time": "2024-06-08 23:07:02.792542",
+    "filescores": {
+        "CMakeLists.txt": 6.873472730373977e-06,
+        "DisassemblerLLVMC.cpp": 0.00014275654470973436,
+        "DisassemblerLLVMC.h": 3.4923078164438474e-05
+    },
+    "subdirscores": {}
+}

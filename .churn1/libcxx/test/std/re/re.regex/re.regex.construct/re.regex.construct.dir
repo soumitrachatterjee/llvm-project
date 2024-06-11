@@ -1,0 +1,29 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/re/re.regex/re.regex.construct",
+    "score.sum": 8.66982146301042e-05,
+    "sha.latest": "b82dcb624e6bfa58ed566511cb564f8f201fa62e",
+    "time.latest": 1717967105.909759,
+    "formatted_time": "2024-06-10 02:35:05.909761",
+    "filescores": {
+        "awk_oct.pass.cpp": 1.8466415968533167e-05,
+        "bad_backref.pass.cpp": 2.304127063197627e-05,
+        "bad_ctype.pass.cpp": 1.15829916938126e-05,
+        "bad_escape.pass.cpp": 3.56611115787812e-05,
+        "bad_range.pass.cpp": 6.1000054248048255e-06,
+        "bad_repeat.pass.cpp": 1.9145273230770603e-05,
+        "copy.pass.cpp": 1.412973324667397e-05,
+        "deduct.pass.cpp": 1.8152703788639663e-05,
+        "deduct.verify.cpp": 0,
+        "default.pass.cpp": 1.8484465603788473e-05,
+        "il_flg.pass.cpp": 1.9396914251497965e-05,
+        "iter_iter.pass.cpp": 1.412973324667397e-05,
+        "iter_iter_flg.pass.cpp": 1.412973324667397e-05,
+        "ptr.pass.cpp": 1.412973324667397e-05,
+        "ptr_flg.pass.cpp": 1.412973324667397e-05,
+        "ptr_size.pass.cpp": 1.682428749941709e-05,
+        "ptr_size_flg.pass.cpp": 1.412973324667397e-05,
+        "string.pass.cpp": 1.412973324667397e-05,
+        "string_flg.pass.cpp": 1.412973324667397e-05
+    },
+    "subdirscores": {}
+}

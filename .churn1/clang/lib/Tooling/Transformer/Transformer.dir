@@ -1,0 +1,18 @@
+{
+    "directory name": "llvm-project/clang/lib/Tooling/Transformer",
+    "score.sum": 0.00018431906716239398,
+    "sha.latest": "f3dcc2351cff7b26c9870d737e5d431551542d9e",
+    "time.latest": 1717824005.458347,
+    "formatted_time": "2024-06-08 10:50:05.458350",
+    "filescores": {
+        "CMakeLists.txt": 2.4905690813174046e-05,
+        "Parsing.cpp": 4.284503346036225e-05,
+        "RangeSelector.cpp": 1.3659316249440556e-05,
+        "RewriteRule.cpp": 7.200853732754398e-05,
+        "SourceCode.cpp": 4.038175067526626e-05,
+        "SourceCodeBuilders.cpp": 3.037677295281158e-05,
+        "Stencil.cpp": 4.3985432990807786e-05,
+        "Transformer.cpp": 3.873730364007658e-05
+    },
+    "subdirscores": {}
+}

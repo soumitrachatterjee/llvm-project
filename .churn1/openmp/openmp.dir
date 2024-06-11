@@ -1,0 +1,21 @@
+{
+    "directory name": "llvm-project/openmp",
+    "score.sum": 0.013210114484368894,
+    "sha.latest": "8a790033073e005b41140b5c38a4eaada321c2f1",
+    "time.latest": 1717806698.0697777,
+    "formatted_time": "2024-06-08 06:01:38.069780",
+    "filescores": {
+        "CMakeLists.txt": 0.00029645877499274374,
+        "CREDITS.txt": 3.2147800078443556e-05,
+        "LICENSE.TXT": 0,
+        "README.rst": 6.62551203407742e-05
+    },
+    "subdirscores": {
+        "cmake": 0.00022286883163502927,
+        "docs": 0.00038356119394120433,
+        "libompd": 0.00010361850872635614,
+        "libomptarget": 0.006789421936262206,
+        "runtime": 0.004717783558655979,
+        "tools": 0.0002436449964236569
+    }
+}

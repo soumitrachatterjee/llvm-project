@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/utils/bazel/llvm-project-overlay/libunwind",
+    "score.sum": 6.099602068851199e-06,
+    "sha.latest": "69778121e4a66856985bfc2ff875a864b41ee592",
+    "time.latest": 1717789523.4048417,
+    "formatted_time": "2024-06-08 01:15:23.404847",
+    "filescores": {
+        "BUILD.bazel": 6.099602068851199e-06
+    },
+    "subdirscores": {}
+}

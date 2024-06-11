@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/clang-tools-extra/clangd/index/dex/dexp",
+    "score.sum": 9.023624347332904e-05,
+    "sha.latest": "d5953e3e3092f7142a07aa012fc9665ede09e53b",
+    "time.latest": 1717801971.6827996,
+    "formatted_time": "2024-06-08 04:42:51.682802",
+    "filescores": {
+        "CMakeLists.txt": 1.2320676521347595e-05,
+        "Dexp.cpp": 8.574928458928968e-05
+    },
+    "subdirscores": {}
+}

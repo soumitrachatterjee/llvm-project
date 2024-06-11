@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/utilities/memory/specialized.algorithms/uninitialized.construct.value",
+    "score.sum": 3.9287876942377024e-05,
+    "sha.latest": "b8cb1dc9ea87faa8e8e9ab7a31710a8c0bb8b084",
+    "time.latest": 1717998849.2685487,
+    "formatted_time": "2024-06-10 11:24:09.268550",
+    "filescores": {
+        "ranges_uninitialized_value_construct.pass.cpp": 1.0205345433740492e-05,
+        "ranges_uninitialized_value_construct_n.pass.cpp": 1.0205345433740492e-05,
+        "uninitialized_value_construct.pass.cpp": 1.5690292436367677e-05,
+        "uninitialized_value_construct_n.pass.cpp": 1.6945124352799645e-05
+    },
+    "subdirscores": {}
+}

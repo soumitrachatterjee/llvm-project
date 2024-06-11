@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/openmp/libomptarget/docs",
+    "score.sum": 0,
+    "sha.latest": "1b409df6131b6469c586835a8062095e4916a85c",
+    "time.latest": 1717794994.856002,
+    "formatted_time": "2024-06-08 02:46:34.856005",
+    "filescores": {
+        "declare_target_indirect.md": 0
+    },
+    "subdirscores": {}
+}

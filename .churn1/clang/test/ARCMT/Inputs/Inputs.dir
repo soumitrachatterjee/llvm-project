@@ -1,0 +1,20 @@
+{
+    "directory name": "llvm-project/clang/test/ARCMT/Inputs",
+    "score.sum": 1.5924088778335207e-05,
+    "sha.latest": "a171d248ca34b8b6f8de11d42a83ad981285963a",
+    "time.latest": 1717845854.35535,
+    "formatted_time": "2024-06-08 16:54:14.355354",
+    "filescores": {
+        "module.modulemap": 0,
+        "test.h": 0,
+        "test.h.result": 0,
+        "test1.m.in": 6.099602068851199e-06,
+        "test1.m.in.result": 6.099602068851199e-06,
+        "test2.m.in": 0,
+        "test2.m.in.result": 0
+    },
+    "subdirscores": {
+        "Module.framework": 0,
+        "with space": 0.0
+    }
+}

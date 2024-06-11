@@ -1,0 +1,19 @@
+{
+    "directory name": "llvm-project/clang/lib/Headers/openmp_wrappers",
+    "score.sum": 7.007246412090965e-05,
+    "sha.latest": "18914f795523b7099cad0cf16ac4cd062ac998d4",
+    "time.latest": 1717814752.5533025,
+    "formatted_time": "2024-06-08 08:15:52.553306",
+    "filescores": {
+        "cmath": 2.7249484825451276e-05,
+        "complex": 1.9934953337567735e-05,
+        "complex.h": 1.3335505223415189e-05,
+        "complex_cmath.h": 0,
+        "math.h": 3.8606934329932036e-05,
+        "new": 8.34319915890525e-06,
+        "stdlib.h": 0,
+        "time.h": 0,
+        "__clang_openmp_device_functions.h": 2.3484867223328537e-05
+    },
+    "subdirscores": {}
+}

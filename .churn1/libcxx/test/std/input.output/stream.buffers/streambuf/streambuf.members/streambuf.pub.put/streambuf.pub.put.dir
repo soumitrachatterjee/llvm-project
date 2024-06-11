@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/input.output/stream.buffers/streambuf/streambuf.members/streambuf.pub.put",
+    "score.sum": 1.922604531842868e-05,
+    "sha.latest": "7fc6a55688c816f5fc1a5481ae7af25be7500356",
+    "time.latest": 1717909052.2034628,
+    "formatted_time": "2024-06-09 10:27:32.203464",
+    "filescores": {
+        "sputc.pass.cpp": 1.922604531842868e-05,
+        "sputn.pass.cpp": 1.922604531842868e-05
+    },
+    "subdirscores": {}
+}

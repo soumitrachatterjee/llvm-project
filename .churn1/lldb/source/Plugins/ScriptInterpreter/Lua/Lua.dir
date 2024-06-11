@@ -1,0 +1,16 @@
+{
+    "directory name": "llvm-project/lldb/source/Plugins/ScriptInterpreter/Lua",
+    "score.sum": 0.00012055335282131047,
+    "sha.latest": "f2d32ddcec82c20582c6aa32558b82ca7c3d3c50",
+    "time.latest": 1717879901.238897,
+    "formatted_time": "2024-06-09 02:21:41.238899",
+    "filescores": {
+        "CMakeLists.txt": 1.7605578665331267e-05,
+        "Lua.cpp": 4.0449813296617876e-05,
+        "Lua.h": 2.768294445681125e-05,
+        "ScriptInterpreterLua.cpp": 6.72954312191431e-05,
+        "ScriptInterpreterLua.h": 6.189893999738791e-05,
+        "SWIGLuaBridge.h": 6.183815032548005e-06
+    },
+    "subdirscores": {}
+}

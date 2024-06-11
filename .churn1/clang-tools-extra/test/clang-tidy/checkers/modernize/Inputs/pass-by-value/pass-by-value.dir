@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/clang-tools-extra/test/clang-tidy/checkers/modernize/Inputs/pass-by-value",
+    "score.sum": 0,
+    "sha.latest": "89a1d03e2b379e325daa5249411e414bbd995b5e",
+    "time.latest": 1717826622.2152274,
+    "formatted_time": "2024-06-08 11:33:42.215231",
+    "filescores": {
+        "header-with-fix.h": 0,
+        "header.h": 0
+    },
+    "subdirscores": {}
+}

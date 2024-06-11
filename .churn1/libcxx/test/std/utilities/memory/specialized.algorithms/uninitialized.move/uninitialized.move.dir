@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/utilities/memory/specialized.algorithms/uninitialized.move",
+    "score.sum": 6.411186935039755e-05,
+    "sha.latest": "7961fa36baa31234a26e5028492688dbbf79cc8e",
+    "time.latest": 1717999025.2024164,
+    "formatted_time": "2024-06-10 11:27:05.202419",
+    "filescores": {
+        "ranges_uninitialized_move.pass.cpp": 1.550964250032275e-05,
+        "ranges_uninitialized_move_n.pass.cpp": 1.9605179693068008e-05,
+        "uninitialized_move.pass.cpp": 1.9343295143585242e-05,
+        "uninitialized_move_n.pass.cpp": 1.9343295143585242e-05
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,18 @@
+{
+    "directory name": "llvm-project/lldb/test/API/lua_api",
+    "score.sum": 2.142544347278966e-05,
+    "sha.latest": "9c2468821ec51defd09c246fea4a47886fff8c01",
+    "time.latest": 1717961708.9241312,
+    "formatted_time": "2024-06-10 01:05:08.924136",
+    "filescores": {
+        "lua_lldb_test.lua": 6.099602068851199e-06,
+        "main.c": 0,
+        "Makefile": 0,
+        "TestBreakpointAPI.lua": 6.099602068851199e-06,
+        "TestComprehensive.lua": 6.099602068851199e-06,
+        "TestFileHandle.lua": 9.443818282271118e-06,
+        "TestLuaAPI.py": 1.2031854915787984e-05,
+        "TestProcessAPI.lua": 6.099602068851199e-06
+    },
+    "subdirscores": {}
+}

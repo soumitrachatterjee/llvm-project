@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/clang/test/CodeGen/Mips",
+    "score.sum": 0,
+    "sha.latest": "c88beb4112d5bbf07d76a615ab7f13ba2ba023e6",
+    "time.latest": 1717901769.1224854,
+    "formatted_time": "2024-06-09 08:26:09.122487",
+    "filescores": {
+        "inline-asm-constraints.c": 0
+    },
+    "subdirscores": {}
+}

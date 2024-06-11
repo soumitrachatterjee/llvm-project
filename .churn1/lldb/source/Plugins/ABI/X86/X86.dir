@@ -1,0 +1,24 @@
+{
+    "directory name": "llvm-project/lldb/source/Plugins/ABI/X86",
+    "score.sum": 0.00010983784277989818,
+    "sha.latest": "89c9fee420e1ed099aaa4aab48f3b58e233a3ea9",
+    "time.latest": 1717867932.405795,
+    "formatted_time": "2024-06-08 23:02:12.405797",
+    "filescores": {
+        "ABIMacOSX_i386.cpp": 3.038202339623864e-05,
+        "ABIMacOSX_i386.h": 2.3970335375183448e-05,
+        "ABISysV_i386.cpp": 3.556110675405581e-05,
+        "ABISysV_i386.h": 3.7384021189773745e-05,
+        "ABISysV_x86_64.cpp": 6.0083487227913336e-05,
+        "ABISysV_x86_64.h": 1.9438870606386793e-05,
+        "ABIWindows_x86_64.cpp": 5.444330249535623e-05,
+        "ABIWindows_x86_64.h": 1.7596239159153956e-05,
+        "ABIX86.cpp": 6.606532072754002e-05,
+        "ABIX86.h": 2.4317880921198503e-05,
+        "ABIX86_64.h": 1.8301973065050678e-05,
+        "ABIX86_i386.cpp": 1.0438337822473287e-05,
+        "ABIX86_i386.h": 1.0438337822473287e-05,
+        "CMakeLists.txt": 1.6748294246808674e-05
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/time/time.hms/time.12",
+    "score.sum": 6.099602068851199e-06,
+    "sha.latest": "355e0ce3c5366bd0b564a25e4b6675353da3c53e",
+    "time.latest": 1717984842.2084532,
+    "formatted_time": "2024-06-10 07:30:42.208455",
+    "filescores": {
+        "is_am.pass.cpp": 6.099602068851199e-06,
+        "is_pm.pass.cpp": 0,
+        "make12.pass.cpp": 0,
+        "make24.pass.cpp": 0
+    },
+    "subdirscores": {}
+}

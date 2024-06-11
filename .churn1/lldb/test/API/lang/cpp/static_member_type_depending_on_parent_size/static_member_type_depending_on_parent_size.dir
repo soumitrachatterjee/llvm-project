@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/lang/cpp/static_member_type_depending_on_parent_size",
+    "score.sum": 9.50215503257537e-06,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717935547.8702397,
+    "formatted_time": "2024-06-09 17:49:07.870244",
+    "filescores": {
+        "main.cpp": 0,
+        "Makefile": 0,
+        "TestStaticMemberTypeDependingOnParentSize.py": 9.50215503257537e-06
+    },
+    "subdirscores": {}
+}

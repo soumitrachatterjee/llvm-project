@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/python_api/watchpoint/condition",
+    "score.sum": 2.1297536780595592e-05,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717967613.9489243,
+    "formatted_time": "2024-06-10 02:43:33.948926",
+    "filescores": {
+        "main.cpp": 6.099602068851199e-06,
+        "Makefile": 0,
+        "TestWatchpointConditionAPI.py": 2.1253986654646972e-05
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/localization/locale.categories/facet.numpunct/locale.numpunct",
+    "score.sum": 1.9136731819259903e-05,
+    "sha.latest": "f4c1258d5633fcf06385ff3fd1f4bf57ab971964",
+    "time.latest": 1717931112.8688626,
+    "formatted_time": "2024-06-09 16:35:12.868864",
+    "filescores": {
+        "ctor.pass.cpp": 1.7431479621988335e-05,
+        "types.pass.cpp": 1.9136731819259903e-05
+    },
+    "subdirscores": {
+        "facet.numpunct.members": 1.7431479621988335e-05,
+        "facet.numpunct.virtuals": 1.2132863580760565e-05
+    }
+}

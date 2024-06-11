@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/source/Plugins/Platform/NetBSD",
+    "score.sum": 0.00017273296929730864,
+    "sha.latest": "edd690b02e16e991393bf7f67631196942369aed",
+    "time.latest": 1717873617.4106178,
+    "formatted_time": "2024-06-09 00:36:57.410620",
+    "filescores": {
+        "CMakeLists.txt": 1.3231609266260741e-05,
+        "PlatformNetBSD.cpp": 0.00014890604075492382,
+        "PlatformNetBSD.h": 9.222543995957198e-05
+    },
+    "subdirscores": {}
+}

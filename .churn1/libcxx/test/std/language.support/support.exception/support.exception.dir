@@ -1,0 +1,16 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/language.support/support.exception",
+    "score.sum": 9.134208204144522e-05,
+    "sha.latest": "e0c734561d5b268f8d24e68c535df8aa41369690",
+    "time.latest": 1717923166.5525117,
+    "formatted_time": "2024-06-09 14:22:46.552513",
+    "filescores": {},
+    "subdirscores": {
+        "bad.exception": 1.7366275644238228e-05,
+        "except.nested": 4.680180741272616e-05,
+        "exception": 1.7366275644238228e-05,
+        "exception.terminate": 2.2058319604004796e-05,
+        "propagation": 3.3167926334307495e-05,
+        "uncaught": 4.857674287475961e-05
+    }
+}

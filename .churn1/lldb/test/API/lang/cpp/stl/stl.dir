@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/lldb/test/API/lang/cpp/stl",
+    "score.sum": 3.5620266418394806e-05,
+    "sha.latest": "9c2468821ec51defd09c246fea4a47886fff8c01",
+    "time.latest": 1717935993.7188234,
+    "formatted_time": "2024-06-09 17:56:33.718827",
+    "filescores": {
+        "cmds.txt": 0,
+        "main.cpp": 6.099602068851199e-06,
+        "Makefile": 1.2199013614808114e-05,
+        "TestStdCXXDisassembly.py": 2.138896697553996e-05,
+        "TestSTL.py": 2.327969191979255e-05
+    },
+    "subdirscores": {}
+}

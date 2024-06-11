@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/clang-tools-extra/pseudo/fuzzer",
+    "score.sum": 2.392714438292105e-05,
+    "sha.latest": "9ab67cc8bfe7181b7d775bab4d7a908dc8774889",
+    "time.latest": 1717814330.7814028,
+    "formatted_time": "2024-06-08 08:08:50.781406",
+    "filescores": {
+        "CMakeLists.txt": 8.564009351501623e-06,
+        "Fuzzer.cpp": 2.1638885413514688e-05,
+        "Main.cpp": 0
+    },
+    "subdirscores": {}
+}

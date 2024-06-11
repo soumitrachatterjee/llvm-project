@@ -1,0 +1,18 @@
+{
+    "directory name": "llvm-project/clang/test/ClangScanDeps/Inputs/modules-pch-common-via-submodule",
+    "score.sum": 6.099602068851199e-06,
+    "sha.latest": "f726da1193baf51e0a66453cc32dcffb8a9121d4",
+    "time.latest": 1717869032.9194174,
+    "formatted_time": "2024-06-08 23:20:32.919420",
+    "filescores": {
+        "cdb_pch.json": 6.099602068851199e-06,
+        "cdb_tu.json": 0,
+        "module.modulemap": 0,
+        "mod_common.h": 0,
+        "mod_tu.h": 0,
+        "mod_tu_sub.h": 0,
+        "pch.h": 0,
+        "tu.c": 0
+    },
+    "subdirscores": {}
+}

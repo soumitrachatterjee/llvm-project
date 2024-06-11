@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/source/Plugins/DynamicLoader/Static",
+    "score.sum": 0.00014196837299345602,
+    "sha.latest": "6fa1b4ff4b05b9b9a432f7310802255c160c8f4f",
+    "time.latest": 1717868627.0905254,
+    "formatted_time": "2024-06-08 23:13:47.090528",
+    "filescores": {
+        "CMakeLists.txt": 1.6792718901076877e-05,
+        "DynamicLoaderStatic.cpp": 9.623706966543501e-05,
+        "DynamicLoaderStatic.h": 7.175755861484894e-05
+    },
+    "subdirscores": {}
+}

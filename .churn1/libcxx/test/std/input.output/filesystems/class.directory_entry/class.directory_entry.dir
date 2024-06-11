@@ -1,0 +1,16 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/input.output/filesystems/class.directory_entry",
+    "score.sum": 0.00013922607947671392,
+    "sha.latest": "ac8c9f1e39e1a773fd81ce23dbf1c80ea186f226",
+    "time.latest": 1717902557.6404662,
+    "formatted_time": "2024-06-09 08:39:17.640468",
+    "filescores": {
+        "lit.local.cfg": 0
+    },
+    "subdirscores": {
+        "directory_entry.cons": 4.918130322791987e-05,
+        "directory_entry.io": 7.291454021801042e-06,
+        "directory_entry.mods": 7.020304229995338e-05,
+        "directory_entry.obs": 0.00011415413043728359
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/lang/objc/objc_direct-methods",
+    "score.sum": 1.89570357375024e-05,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717959523.7491143,
+    "formatted_time": "2024-06-10 00:28:43.749119",
+    "filescores": {
+        "main.m": 6.099602068851199e-06,
+        "Makefile": 6.099602068851199e-06,
+        "TestObjCDirectMethods.py": 1.800214007890259e-05
+    },
+    "subdirscores": {}
+}

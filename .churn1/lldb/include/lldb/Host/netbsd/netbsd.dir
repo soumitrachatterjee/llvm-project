@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/lldb/include/lldb/Host/netbsd",
+    "score.sum": 3.5458970178206345e-05,
+    "sha.latest": "98b4c1ee212901f6b6478a928ca74ed6edb311a9",
+    "time.latest": 1717847923.169344,
+    "formatted_time": "2024-06-08 17:28:43.169350",
+    "filescores": {
+        "HostInfoNetBSD.h": 3.3263281461752075e-05
+    },
+    "subdirscores": {}
+}

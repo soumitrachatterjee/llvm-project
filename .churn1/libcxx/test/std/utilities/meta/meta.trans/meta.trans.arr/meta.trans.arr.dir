@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/utilities/meta/meta.trans/meta.trans.arr",
+    "score.sum": 2.051625508181459e-05,
+    "sha.latest": "24fa56bcc8b9e61f450cc5c12d8c6da6dabf782d",
+    "time.latest": 1718000881.4480019,
+    "formatted_time": "2024-06-10 11:58:01.448004",
+    "filescores": {
+        "remove_all_extents.pass.cpp": 2.051625508181459e-05,
+        "remove_extent.pass.cpp": 2.051625508181459e-05
+    },
+    "subdirscores": {}
+}

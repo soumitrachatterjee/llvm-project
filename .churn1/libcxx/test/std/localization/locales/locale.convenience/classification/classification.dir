@@ -1,0 +1,22 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/localization/locales/locale.convenience/classification",
+    "score.sum": 1.5398420783552127e-05,
+    "sha.latest": "0bc0edb847a0cc473a8b005c4725948de3306a20",
+    "time.latest": 1717932299.5859246,
+    "formatted_time": "2024-06-09 16:54:59.585929",
+    "filescores": {
+        "isalnum.pass.cpp": 1.7366275644238228e-05,
+        "isalpha.pass.cpp": 1.7366275644238228e-05,
+        "isblank.pass.cpp": 0,
+        "iscntrl.pass.cpp": 1.7366275644238228e-05,
+        "isdigit.pass.cpp": 1.7366275644238228e-05,
+        "isgraph.pass.cpp": 1.7366275644238228e-05,
+        "islower.pass.cpp": 1.7366275644238228e-05,
+        "isprint.pass.cpp": 1.7366275644238228e-05,
+        "ispunct.pass.cpp": 1.7366275644238228e-05,
+        "isspace.pass.cpp": 1.7366275644238228e-05,
+        "isupper.pass.cpp": 1.7366275644238228e-05,
+        "isxdigit.pass.cpp": 1.7366275644238228e-05
+    },
+    "subdirscores": {}
+}

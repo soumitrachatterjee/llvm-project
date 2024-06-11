@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/macosx/universal64",
+    "score.sum": 1.1929107920123029e-05,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717964385.696873,
+    "formatted_time": "2024-06-10 01:49:45.696879",
+    "filescores": {
+        "main.c": 0,
+        "Makefile": 6.255911417559049e-06,
+        "TestUniversal64.py": 1.1827246287925552e-05
+    },
+    "subdirscores": {}
+}

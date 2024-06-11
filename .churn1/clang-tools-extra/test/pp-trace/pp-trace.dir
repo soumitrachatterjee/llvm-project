@@ -1,0 +1,21 @@
+{
+    "directory name": "llvm-project/clang-tools-extra/test/pp-trace",
+    "score.sum": 8.661324777568261e-05,
+    "sha.latest": "da95d926f6fce4ed9707c77908ad96624268f134",
+    "time.latest": 1717836361.8897743,
+    "formatted_time": "2024-06-08 14:16:01.889777",
+    "filescores": {
+        "pp-trace-conditional.cpp": 3.930894194097303e-05,
+        "pp-trace-filter.cpp": 6.121367158214168e-06,
+        "pp-trace-ident.cpp": 1.2181369070077484e-05,
+        "pp-trace-include.cpp": 2.5666835997655316e-05,
+        "pp-trace-macro.cpp": 3.575364783382396e-05,
+        "pp-trace-modules.cpp": 2.4213297206244976e-05,
+        "pp-trace-pragma-general.cpp": 2.5830411888946485e-05,
+        "pp-trace-pragma-ms.cpp": 1.7664574721190766e-05,
+        "pp-trace-pragma-opencl.cpp": 2.1804187209008336e-05
+    },
+    "subdirscores": {
+        "Inputs": 6.1374348249021934e-06
+    }
+}

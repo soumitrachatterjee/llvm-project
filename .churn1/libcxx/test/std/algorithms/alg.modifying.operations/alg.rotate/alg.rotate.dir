@@ -1,0 +1,16 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/algorithms/alg.modifying.operations/alg.rotate",
+    "score.sum": 8.285790277951977e-05,
+    "sha.latest": "8dfc67d6724eb0af5d278f4d1d5511ca9f9e039f",
+    "time.latest": 1717869075.542849,
+    "formatted_time": "2024-06-08 23:21:15.542851",
+    "filescores": {
+        "pstl.exception_handling.pass.cpp": 6.099602068851199e-06,
+        "pstl.rotate_copy.pass.cpp": 0,
+        "ranges.rotate_copy.pass.cpp": 9.561696879737939e-06,
+        "ranges_rotate.pass.cpp": 6.495568212297646e-06,
+        "rotate.pass.cpp": 4.2294081957480535e-05,
+        "rotate_copy.pass.cpp": 3.546897168714544e-05
+    },
+    "subdirscores": {}
+}

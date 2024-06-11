@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/input.output/stream.buffers/streambuf/streambuf.virtuals/streambuf.virt.get",
+    "score.sum": 2.298114526946035e-05,
+    "sha.latest": "7fc6a55688c816f5fc1a5481ae7af25be7500356",
+    "time.latest": 1717909278.6873481,
+    "formatted_time": "2024-06-09 10:31:18.687350",
+    "filescores": {
+        "showmanyc.pass.cpp": 1.7366275644238228e-05,
+        "uflow.pass.cpp": 1.7366275644238228e-05,
+        "underflow.pass.cpp": 1.7366275644238228e-05,
+        "xsgetn.pass.cpp": 2.298114526946035e-05
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/unittests/ObjectFile/ELF/Inputs",
+    "score.sum": 1.5573971768052157e-05,
+    "sha.latest": "b0b9605a544dbf26940a48777af401a419f4e4f1",
+    "time.latest": 1717996878.4020576,
+    "formatted_time": "2024-06-10 10:51:18.402059",
+    "filescores": {
+        "early-section-headers.so": 6.099602068851199e-06,
+        "liboffset-test.so": 0,
+        "offset-test.bin": 0
+    },
+    "subdirscores": {}
+}

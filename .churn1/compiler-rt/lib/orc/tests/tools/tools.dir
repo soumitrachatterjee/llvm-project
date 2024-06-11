@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/compiler-rt/lib/orc/tests/tools",
+    "score.sum": 0,
+    "sha.latest": "1169586dcde0376ef291802208daedc4f8107c7e",
+    "time.latest": 1717801937.0205173,
+    "formatted_time": "2024-06-08 04:42:17.020522",
+    "filescores": {
+        "CMakeLists.txt": 0,
+        "orc-rt-executor.cpp": 0
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/clang/test/ClangScanDeps/Inputs/header-search-pruning/b",
+    "score.sum": 0,
+    "sha.latest": "6a1f50b84ae8f8a8087fcdbe5f27dae8c76878f1",
+    "time.latest": 1717868344.2772563,
+    "formatted_time": "2024-06-08 23:09:04.277259",
+    "filescores": {
+        "b.h": 0
+    },
+    "subdirscores": {}
+}

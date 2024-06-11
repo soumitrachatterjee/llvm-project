@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/lldb/test/API/lang/cpp/class-template-parameter-pack",
+    "score.sum": 2.417334090562803e-05,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717929722.2366009,
+    "formatted_time": "2024-06-09 16:12:02.236603",
+    "filescores": {
+        "main.cpp": 8.117637869470485e-06,
+        "Makefile": 0,
+        "TestClassTemplateParameterPack.py": 1.4427658491595638e-05,
+        "TestTemplatePackArgs.py": 7.65002288927955e-06
+    },
+    "subdirscores": {}
+}

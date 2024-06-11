@@ -1,0 +1,29 @@
+{
+    "directory name": "llvm-project/lldb/unittests/Host",
+    "score.sum": 0.000568209294660816,
+    "sha.latest": "2c1108f44342019a67ce55bb98e2a05b57a70b9a",
+    "time.latest": 1717996437.2769995,
+    "formatted_time": "2024-06-10 10:43:57.277002",
+    "filescores": {
+        "CMakeLists.txt": 9.626282361157435e-05,
+        "ConnectionFileDescriptorTest.cpp": 5.010799840408975e-05,
+        "FileActionTest.cpp": 6.153348898630898e-06,
+        "FileSystemTest.cpp": 4.959887842712495e-05,
+        "FileTest.cpp": 7.273331771734686e-06,
+        "HostInfoTest.cpp": 6.649284449500028e-05,
+        "HostTest.cpp": 1.1138488686285461e-05,
+        "MainLoopTest.cpp": 6.90881666247899e-05,
+        "NativeProcessProtocolTest.cpp": 2.391912733150951e-05,
+        "PipeTest.cpp": 6.099602068851199e-06,
+        "ProcessLaunchInfoTest.cpp": 6.153348898630898e-06,
+        "SocketAddressTest.cpp": 3.167921259792104e-05,
+        "SocketTest.cpp": 0.00013215855640656238,
+        "ThreadLauncherTest.cpp": 0,
+        "XMLTest.cpp": 0
+    },
+    "subdirscores": {
+        "common": 0,
+        "linux": 1.5698342131251818e-05,
+        "posix": 6.846228846459375e-06
+    }
+}

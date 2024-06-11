@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/tools/lldb-dap/startDebugging",
+    "score.sum": 0,
+    "sha.latest": "01263c6c6fb495a94fe0ccbb1420bb1ec8460748",
+    "time.latest": 1717969505.0887032,
+    "formatted_time": "2024-06-10 03:15:05.088706",
+    "filescores": {
+        "main.c": 0,
+        "Makefile": 0,
+        "TestDAP_startDebugging.py": 0
+    },
+    "subdirscores": {}
+}

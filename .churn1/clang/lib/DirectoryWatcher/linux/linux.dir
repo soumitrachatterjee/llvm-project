@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/clang/lib/DirectoryWatcher/linux",
+    "score.sum": 2.775168300892741e-05,
+    "sha.latest": "ba13fa2a5d57581bff1a7e9322234af30f4882f6",
+    "time.latest": 1717809473.4851363,
+    "formatted_time": "2024-06-08 06:47:53.485140",
+    "filescores": {
+        "DirectoryWatcher-linux.cpp": 2.775168300892741e-05
+    },
+    "subdirscores": {}
+}

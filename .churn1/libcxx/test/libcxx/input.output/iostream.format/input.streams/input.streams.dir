@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/libcxx/test/libcxx/input.output/iostream.format/input.streams",
+    "score.sum": 6.376311027012557e-05,
+    "sha.latest": "9bb9ec380ace81d040d3a0a0a2ae9a75733ab330",
+    "time.latest": 1717851150.4845188,
+    "formatted_time": "2024-06-08 18:22:30.484523",
+    "filescores": {
+        "traits_mismatch.verify.cpp": 6.099602068851199e-06
+    },
+    "subdirscores": {}
+}

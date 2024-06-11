@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/time/time.cal/time.cal.ymdlast",
+    "score.sum": 4.293933498838179e-05,
+    "sha.latest": "766bf140ffd6ce420426b80aa2cce0cb0d25ab7d",
+    "time.latest": 1717982839.7332506,
+    "formatted_time": "2024-06-10 06:57:19.733253",
+    "filescores": {},
+    "subdirscores": {
+        "time.cal.ymdlast.members": 1.205904218653514e-05,
+        "time.cal.ymdlast.nonmembers": 4.293933498838179e-05
+    }
+}

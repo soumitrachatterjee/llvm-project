@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/lldb/examples/darwin",
+    "score.sum": 0.0001173627465974202,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717841234.9021149,
+    "formatted_time": "2024-06-08 15:37:14.902119",
+    "filescores": {},
+    "subdirscores": {
+        "heap_find": 0.0001173627465974202
+    }
+}

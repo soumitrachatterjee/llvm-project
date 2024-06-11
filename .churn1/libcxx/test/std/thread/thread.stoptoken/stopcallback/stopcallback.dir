@@ -1,0 +1,16 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/thread/thread.stoptoken/stopcallback",
+    "score.sum": 8.500343726639563e-06,
+    "sha.latest": "477f6bc407db14f6856420c6eb275747f8670758",
+    "time.latest": 1717979587.6771266,
+    "formatted_time": "2024-06-10 06:03:07.677129",
+    "filescores": {
+        "cons.const.token.pass.cpp": 6.099602068851199e-06,
+        "cons.rvalue.token.pass.cpp": 6.099602068851199e-06,
+        "copy.move.compile.pass.cpp": 6.099602068851199e-06,
+        "ctad.compile.pass.cpp": 6.099602068851199e-06,
+        "dtor.pass.cpp": 8.500343726639563e-06,
+        "typedef.compile.pass.cpp": 6.099602068851199e-06
+    },
+    "subdirscores": {}
+}

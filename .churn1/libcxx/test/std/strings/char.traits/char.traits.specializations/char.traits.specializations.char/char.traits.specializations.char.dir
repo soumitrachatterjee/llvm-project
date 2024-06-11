@@ -1,0 +1,25 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/strings/char.traits/char.traits.specializations/char.traits.specializations.char",
+    "score.sum": 6.594127098332142e-05,
+    "sha.latest": "a40bada91aeda276a772acfbcae6e8de26755a11",
+    "time.latest": 1717971539.0426693,
+    "formatted_time": "2024-06-10 03:48:59.042671",
+    "filescores": {
+        "assign2.pass.cpp": 1.3304143268251483e-05,
+        "assign3.pass.cpp": 2.8756500479196227e-05,
+        "compare.pass.cpp": 1.3688156335874535e-05,
+        "copy.pass.cpp": 3.65414181835543e-05,
+        "eof.pass.cpp": 1.4973327301477305e-05,
+        "eq.pass.cpp": 1.6308669955857708e-05,
+        "eq_int_type.pass.cpp": 1.4973327301477305e-05,
+        "find.pass.cpp": 1.3410869686074731e-05,
+        "length.pass.cpp": 1.3304143268251483e-05,
+        "lt.pass.cpp": 2.3456050520754244e-05,
+        "move.pass.cpp": 2.7345812985593976e-05,
+        "not_eof.pass.cpp": 1.4973327301477305e-05,
+        "to_char_type.pass.cpp": 1.4973327301477305e-05,
+        "to_int_type.pass.cpp": 1.4973327301477305e-05,
+        "types.compile.pass.cpp": 0
+    },
+    "subdirscores": {}
+}

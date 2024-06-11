@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/libcxx/benchmarks/libcxxabi",
+    "score.sum": 6.099602068851199e-06,
+    "sha.latest": "679c0b48d7418b40996e5dcab61c0ffa73089718",
+    "time.latest": 1717822877.3328497,
+    "formatted_time": "2024-06-08 10:31:17.332854",
+    "filescores": {
+        "dynamic_cast.bench.cpp": 0,
+        "dynamic_cast_old_stress.bench.cpp": 0
+    },
+    "subdirscores": {}
+}

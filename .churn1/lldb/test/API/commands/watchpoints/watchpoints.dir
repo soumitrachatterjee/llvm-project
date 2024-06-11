@@ -1,0 +1,28 @@
+{
+    "directory name": "llvm-project/lldb/test/API/commands/watchpoints",
+    "score.sum": 0.00021862556077140887,
+    "sha.latest": "80fcecb13c388ff087a27a4b0e7ca3dd8c98eaa4",
+    "time.latest": 1717901178.4509537,
+    "formatted_time": "2024-06-09 08:16:18.450956",
+    "filescores": {
+        "categories": 0
+    },
+    "subdirscores": {
+        "hello_watchlocation": 1.8302754984142592e-05,
+        "hello_watchpoint": 1.0503384530912484e-05,
+        "multiple_hits": 5.371087424959462e-05,
+        "multiple_threads": 2.6436574164207087e-05,
+        "multi_watchpoint_slots": 1.4914626861402345e-05,
+        "step_over_watchpoint": 8.793719802791176e-05,
+        "unaligned-watchpoint": 3.191901684530625e-05,
+        "variable_out_of_scope": 1.5100822831745932e-05,
+        "watchpoint_commands": 3.4638870537205374e-05,
+        "watchpoint_count": 2.1943961210629957e-05,
+        "watchpoint_disable": 1.7447746106561788e-05,
+        "watchpoint_events": 2.1137453411321954e-05,
+        "watchpoint_on_vectors": 1.0503384530912484e-05,
+        "watchpoint_set_command": 2.40507303282099e-05,
+        "watchpoint_size": 1.0503384530912484e-05,
+        "watch_tagged_addr": 2.5477137295822132e-05
+    }
+}

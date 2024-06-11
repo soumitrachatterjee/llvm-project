@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/strings/basic.string/string.access",
+    "score.sum": 8.114523301574591e-05,
+    "sha.latest": "178a1fea57b542c39de79624662085f86f3e348f",
+    "time.latest": 1717968457.1062982,
+    "formatted_time": "2024-06-10 02:57:37.106300",
+    "filescores": {
+        "at.pass.cpp": 5.767378102513422e-05,
+        "back.pass.cpp": 4.692364713572152e-05,
+        "front.pass.cpp": 4.692364713572152e-05,
+        "index.pass.cpp": 5.0571449560450316e-05
+    },
+    "subdirscores": {}
+}

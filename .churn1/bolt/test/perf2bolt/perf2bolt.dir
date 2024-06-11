@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/bolt/test/perf2bolt",
+    "score.sum": 6.099602068851199e-06,
+    "sha.latest": "af4d8d5af670d41d31fd5d508daf15a5d29d01ff",
+    "time.latest": 1717790752.2677567,
+    "formatted_time": "2024-06-08 01:35:52.267761",
+    "filescores": {
+        "lit.local.cfg": 0,
+        "perf_test.test": 0
+    },
+    "subdirscores": {
+        "Inputs": 6.099602068851199e-06
+    }
+}

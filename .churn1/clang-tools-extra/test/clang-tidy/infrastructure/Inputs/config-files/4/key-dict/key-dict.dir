@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/clang-tools-extra/test/clang-tidy/infrastructure/Inputs/config-files/4/key-dict",
+    "score.sum": 0,
+    "sha.latest": "fbf611ed2a768999202e2c5e1e1a6c3c6bb94725",
+    "time.latest": 1717833246.5227644,
+    "formatted_time": "2024-06-08 13:24:06.522768",
+    "filescores": {
+        ".clang-tidy": 0
+    },
+    "subdirscores": {}
+}

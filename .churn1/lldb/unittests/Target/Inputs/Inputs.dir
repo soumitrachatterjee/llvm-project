@@ -1,0 +1,16 @@
+{
+    "directory name": "llvm-project/lldb/unittests/Target/Inputs",
+    "score.sum": 1.829577982072735e-05,
+    "sha.latest": "55147ceb62020633cd7e7d403120d3915f4be3b6",
+    "time.latest": 1717998379.6191907,
+    "formatted_time": "2024-06-10 11:16:19.619193",
+    "filescores": {
+        "AndroidModule.c": 1.2167004836811047e-05,
+        "AndroidModule.so": 1.2167004836811047e-05,
+        "AndroidModule.so.sym": 1.2167004836811047e-05,
+        "AndroidModule.unstripped.so": 1.2167004836811047e-05,
+        "TestModule.c": 0,
+        "TestModule.so": 0
+    },
+    "subdirscores": {}
+}

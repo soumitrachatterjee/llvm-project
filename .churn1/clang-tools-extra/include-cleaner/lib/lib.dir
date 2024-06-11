@@ -1,0 +1,21 @@
+{
+    "directory name": "llvm-project/clang-tools-extra/include-cleaner/lib",
+    "score.sum": 0.00040321860733449926,
+    "sha.latest": "bd595d54219e434acce2c05e97440847d30b5240",
+    "time.latest": 1717813473.243836,
+    "formatted_time": "2024-06-08 07:54:33.243839",
+    "filescores": {
+        "Analysis.cpp": 8.378642288566466e-05,
+        "AnalysisInternal.h": 4.297349176919981e-05,
+        "CMakeLists.txt": 3.4533833031491745e-05,
+        "FindHeaders.cpp": 4.869379118964265e-05,
+        "HTMLReport.cpp": 3.223593949845571e-05,
+        "IncludeSpeller.cpp": 1.5014245876476554e-05,
+        "LocateSymbol.cpp": 1.296252174782495e-05,
+        "Record.cpp": 7.969924726113836e-05,
+        "Types.cpp": 3.084245072783431e-05,
+        "TypesInternal.h": 1.583718918556832e-05,
+        "WalkAST.cpp": 0.00010731499624637772
+    },
+    "subdirscores": {}
+}

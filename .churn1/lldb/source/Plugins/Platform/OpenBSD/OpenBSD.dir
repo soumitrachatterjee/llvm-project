@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/source/Plugins/Platform/OpenBSD",
+    "score.sum": 8.736489917057384e-05,
+    "sha.latest": "d667840465b0ea0dbd39dcbd56788e73698dc853",
+    "time.latest": 1717873685.0159388,
+    "formatted_time": "2024-06-09 00:38:05.015948",
+    "filescores": {
+        "CMakeLists.txt": 0,
+        "PlatformOpenBSD.cpp": 7.627015993773364e-05,
+        "PlatformOpenBSD.h": 5.120432723113773e-05
+    },
+    "subdirscores": {}
+}

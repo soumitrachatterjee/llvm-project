@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/lldb/test/API/lang/cpp/standards",
+    "score.sum": 2.386945129220054e-05,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717935334.0041096,
+    "formatted_time": "2024-06-09 17:45:34.004114",
+    "filescores": {},
+    "subdirscores": {
+        "cpp20": 1.0221003683229683e-05
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "directory name": "llvm-project/libcxxabi/lib",
+    "score.sum": 3.8655120409585e-05,
+    "sha.latest": "6a884a9aef397f76178b141d789efadf280f2c3f",
+    "time.latest": 1717822524.3612947,
+    "formatted_time": "2024-06-08 10:25:24.361297",
+    "filescores": {
+        "cxxabiv1.exp": 0,
+        "fundamental-types.exp": 0,
+        "itanium-base.exp": 7.514595799449993e-06,
+        "itanium-exceptions.exp": 0,
+        "new-delete.exp": 6.099602068851199e-06,
+        "personality-sjlj.exp": 0,
+        "personality-v0.exp": 0,
+        "std-exceptions.exp": 0,
+        "std-misc.exp": 0
+    },
+    "subdirscores": {}
+}

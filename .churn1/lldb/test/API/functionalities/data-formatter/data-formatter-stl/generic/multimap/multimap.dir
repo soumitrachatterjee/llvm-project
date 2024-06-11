@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/functionalities/data-formatter/data-formatter-stl/generic/multimap",
+    "score.sum": 1.4355670077558536e-05,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717906023.1057906,
+    "formatted_time": "2024-06-09 09:37:03.105792",
+    "filescores": {
+        "main.cpp": 1.2193738938110887e-05,
+        "Makefile": 0,
+        "TestDataFormatterGenericMultiMap.py": 1.4355670077558536e-05
+    },
+    "subdirscores": {}
+}

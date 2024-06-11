@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/compiler-rt/lib/interception/tests",
+    "score.sum": 0.0001839191776165755,
+    "sha.latest": "d79aee9f7339e80facedb140492181a4bba3c5b7",
+    "time.latest": 1717800412.6972754,
+    "formatted_time": "2024-06-08 04:16:52.697278",
+    "filescores": {
+        "CMakeLists.txt": 0.00013387956605767306,
+        "interception_linux_foreign_test.cpp": 6.240553468546393e-06,
+        "interception_linux_test.cpp": 1.8280818243877823e-05,
+        "interception_test_main.cpp": 0,
+        "interception_win_test.cpp": 2.9766988356723503e-05
+    },
+    "subdirscores": {}
+}

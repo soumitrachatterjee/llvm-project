@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/lldb/test/API/functionalities/stats_api",
+    "score.sum": 5.1583944024584975e-05,
+    "sha.latest": "1eeeab82c6eb185f5139e633a59c2dbcb15616e4",
+    "time.latest": 1717920052.1259525,
+    "formatted_time": "2024-06-09 13:30:52.125954",
+    "filescores": {
+        "main-main.dwo.yaml": 0,
+        "main.c": 6.099602068851199e-06,
+        "main.yaml": 0,
+        "Makefile": 0,
+        "TestStatisticsAPI.py": 5.1583944024584975e-05
+    },
+    "subdirscores": {}
+}

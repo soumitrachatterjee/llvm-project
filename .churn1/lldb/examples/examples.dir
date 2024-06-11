@@ -1,0 +1,23 @@
+{
+    "directory name": "llvm-project/lldb/examples",
+    "score.sum": 0.0014953972189977465,
+    "sha.latest": "5000e4c2527ae53bf7c1a609f739a97cdc522bbe",
+    "time.latest": 1717843334.2383127,
+    "formatted_time": "2024-06-08 16:12:14.238318",
+    "filescores": {
+        "ptrace_example.c": 0
+    },
+    "subdirscores": {
+        "customization": 2.2475763732171178e-05,
+        "darwin": 0.0001173627465974202,
+        "functions": 1.5353601032437876e-05,
+        "interposing": 3.6209848284186274e-05,
+        "lookup": 2.3540743115028877e-05,
+        "plugins": 1.005734482776868e-05,
+        "python": 0.0011237665327481876,
+        "scripting": 2.23431947825613e-05,
+        "summaries": 8.72189033070554e-05,
+        "synthetic": 0.00016348773561250123,
+        "test": 9.485399435412063e-06
+    }
+}

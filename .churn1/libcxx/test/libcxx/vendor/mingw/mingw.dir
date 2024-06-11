@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/libcxx/test/libcxx/vendor/mingw",
+    "score.sum": 8.840113830649391e-06,
+    "sha.latest": "6d1396148977ca275df243a965ac504448bf5faa",
+    "time.latest": 1717868007.5427115,
+    "formatted_time": "2024-06-08 23:03:27.542714",
+    "filescores": {
+        "static-lib-exports.sh.cpp": 7.87788131073603e-06
+    },
+    "subdirscores": {}
+}

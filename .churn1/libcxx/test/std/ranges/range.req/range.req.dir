@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/ranges/range.req",
+    "score.sum": 4.2338416837280953e-05,
+    "sha.latest": "a8ead9194cfb18922408404c8cabfa83c276944f",
+    "time.latest": 1717965154.2168157,
+    "formatted_time": "2024-06-10 02:02:34.216819",
+    "filescores": {},
+    "subdirscores": {
+        "range.range": 2.4121803155333654e-05,
+        "range.refinements": 3.8946853481533815e-05,
+        "range.sized": 1.3560950811112246e-05,
+        "range.view": 1.4611282346342639e-05
+    }
+}

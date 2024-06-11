@@ -1,0 +1,19 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/time/time.clock/time.clock.system",
+    "score.sum": 3.25688608655448e-05,
+    "sha.latest": "d1a461dbb2293d9258d400b5426f610bb5191228",
+    "time.latest": 1717983730.712795,
+    "formatted_time": "2024-06-10 07:12:10.712797",
+    "filescores": {
+        "consistency.pass.cpp": 0,
+        "from_time_t.pass.cpp": 1.1386053146879522e-05,
+        "local_time.types.pass.cpp": 6.099602068851199e-06,
+        "now.pass.cpp": 1.1386053146879522e-05,
+        "rep_signed.pass.cpp": 0,
+        "sys.time.types.pass.cpp": 6.099602068851199e-06,
+        "sys_date.ostream.pass.cpp": 0,
+        "sys_time.ostream.pass.cpp": 0,
+        "to_time_t.pass.cpp": 1.1386053146879522e-05
+    },
+    "subdirscores": {}
+}

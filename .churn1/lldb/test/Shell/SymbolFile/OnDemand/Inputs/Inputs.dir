@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/lldb/test/Shell/SymbolFile/OnDemand/Inputs",
+    "score.sum": 0,
+    "sha.latest": "7b81192d462bbd8031d5c665e29cd6b4c0c6887a",
+    "time.latest": 1717983109.463258,
+    "formatted_time": "2024-06-10 07:01:49.463262",
+    "filescores": {
+        "basic.cpp": 0
+    },
+    "subdirscores": {}
+}

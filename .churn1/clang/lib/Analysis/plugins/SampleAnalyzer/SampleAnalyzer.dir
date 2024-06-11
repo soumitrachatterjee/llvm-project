@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/clang/lib/Analysis/plugins/SampleAnalyzer",
+    "score.sum": 8.95769360683058e-06,
+    "sha.latest": "491c154677bcf0fba3c91fdaa7897a48ab605327",
+    "time.latest": 1717804372.5937533,
+    "formatted_time": "2024-06-08 05:22:52.593756",
+    "filescores": {
+        "CMakeLists.txt": 7.135705155619024e-06,
+        "MainCallChecker.cpp": 1.6802615794071973e-05,
+        "SampleAnalyzerPlugin.exports": 6.108476501963893e-06
+    },
+    "subdirscores": {}
+}

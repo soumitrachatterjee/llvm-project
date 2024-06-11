@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/ranges/range.adaptors/range.all/range.ref.view",
+    "score.sum": 8.596183918804367e-06,
+    "sha.latest": "3903438860b6eebf53a912c672560e1e55311220",
+    "time.latest": 1717960360.931444,
+    "formatted_time": "2024-06-10 00:42:40.931446",
+    "filescores": {
+        "borrowing.compile.pass.cpp": 8.286912993745565e-06,
+        "range.ref.view.pass.cpp": 8.50079542526386e-06
+    },
+    "subdirscores": {}
+}

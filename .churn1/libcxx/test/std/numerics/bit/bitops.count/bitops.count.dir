@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/numerics/bit/bitops.count",
+    "score.sum": 5.544065998696697e-05,
+    "sha.latest": "1ee41b415398cde51c055a7b1a4d419350e7038f",
+    "time.latest": 1717933207.1745095,
+    "formatted_time": "2024-06-09 17:10:07.174512",
+    "filescores": {
+        "countl_one.pass.cpp": 5.544065998696697e-05,
+        "countl_zero.pass.cpp": 5.544065998696697e-05,
+        "countr_one.pass.cpp": 5.544065998696697e-05,
+        "countr_zero.pass.cpp": 5.544065998696697e-05,
+        "popcount.pass.cpp": 5.544065998696697e-05
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,31 @@
+{
+    "directory name": "llvm-project/lldb/test/Shell/Register/Inputs",
+    "score.sum": 2.8867284673936808e-05,
+    "sha.latest": "f37834c7dcbe69405bf3e182d2b3e3227cc4a569",
+    "time.latest": 1717977940.5095344,
+    "formatted_time": "2024-06-10 05:35:40.509536",
+    "filescores": {
+        "aarch64-fp-read.cpp": 0,
+        "aarch64-gp-read.cpp": 0,
+        "arm-fp-read.cpp": 0,
+        "arm-gp-read.cpp": 0,
+        "x86-64-gp-read.cpp": 8.22683439832498e-06,
+        "x86-64-gp-write.cpp": 8.22683439832498e-06,
+        "x86-64-read.cpp": 8.22683439832498e-06,
+        "x86-64-write.cpp": 6.102038736311772e-06,
+        "x86-db-read.cpp": 0,
+        "x86-fp-read.cpp": 6.099602068851199e-06,
+        "x86-fp-write.cpp": 0,
+        "x86-gp-read.cpp": 8.22683439832498e-06,
+        "x86-gp-write.cpp": 8.22683439832498e-06,
+        "x86-mm-xmm-read.cpp": 8.22683439832498e-06,
+        "x86-mm-xmm-write.cpp": 6.102038736311772e-06,
+        "x86-multithread-read.cpp": 0,
+        "x86-multithread-write.cpp": 0,
+        "x86-ymm-read.cpp": 8.22683439832498e-06,
+        "x86-ymm-write.cpp": 6.102038736311772e-06,
+        "x86-zmm-read.cpp": 8.22683439832498e-06,
+        "x86-zmm-write.cpp": 6.102038736311772e-06
+    },
+    "subdirscores": {}
+}

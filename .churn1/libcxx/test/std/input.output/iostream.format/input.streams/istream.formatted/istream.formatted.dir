@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/input.output/iostream.format/input.streams/istream.formatted",
+    "score.sum": 6.287294841474038e-05,
+    "sha.latest": "ed61d6a46611cfb144b260e0dd0fb1b5783562d9",
+    "time.latest": 1717905535.9843361,
+    "formatted_time": "2024-06-09 09:28:55.984337",
+    "filescores": {},
+    "subdirscores": {
+        "istream.formatted.arithmetic": 4.403327900024777e-05,
+        "istream.formatted.reqmts": 1.2132863580760565e-05,
+        "istream_extractors": 5.4279263398986765e-05
+    }
+}

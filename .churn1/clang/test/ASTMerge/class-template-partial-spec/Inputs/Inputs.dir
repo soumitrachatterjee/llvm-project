@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/clang/test/ASTMerge/class-template-partial-spec/Inputs",
+    "score.sum": 1.1636012531457866e-05,
+    "sha.latest": "0333dd95636da52229ca14b4e5525c1cd8ba62d2",
+    "time.latest": 1717864819.9709322,
+    "formatted_time": "2024-06-08 22:10:19.970935",
+    "filescores": {
+        "class-template-partial-spec1.cpp": 1.1636012531457866e-05,
+        "class-template-partial-spec2.cpp": 1.1636012531457866e-05
+    },
+    "subdirscores": {}
+}

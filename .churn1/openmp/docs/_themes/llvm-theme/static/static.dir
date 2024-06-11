@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/openmp/docs/_themes/llvm-theme/static",
+    "score.sum": 0,
+    "sha.latest": "1c4c21489f013d6a501a52e79a36df07d772d9b8",
+    "time.latest": 1717792792.0090897,
+    "formatted_time": "2024-06-08 02:09:52.009094",
+    "filescores": {
+        "contents.png": 0,
+        "llvm-theme.css": 0,
+        "logo.png": 0,
+        "navigation.png": 0
+    },
+    "subdirscores": {}
+}

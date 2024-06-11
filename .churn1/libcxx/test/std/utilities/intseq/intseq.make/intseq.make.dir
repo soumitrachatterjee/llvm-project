@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/utilities/intseq/intseq.make",
+    "score.sum": 6.389737490900644e-05,
+    "sha.latest": "21c7bc51e9ed2402a3a2f7a88d63cc8f5c2e303c",
+    "time.latest": 1717997619.2813773,
+    "formatted_time": "2024-06-10 11:03:39.281380",
+    "filescores": {
+        "make_integer_seq.pass.cpp": 2.1337835331242158e-05,
+        "make_integer_seq.verify.cpp": 6.099602068851199e-06
+    },
+    "subdirscores": {}
+}

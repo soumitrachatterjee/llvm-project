@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/concepts/concepts.lang/concept.same",
+    "score.sum": 6.099602068851199e-06,
+    "sha.latest": "d2baefae6846765eef6a6dd69d4fdf1082ce29ad",
+    "time.latest": 1717875345.5682118,
+    "formatted_time": "2024-06-09 01:05:45.568214",
+    "filescores": {
+        "same_as.pass.cpp": 6.099602068851199e-06
+    },
+    "subdirscores": {}
+}

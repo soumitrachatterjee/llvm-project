@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/numerics/bit/bitops.rot",
+    "score.sum": 6.614502682728772e-05,
+    "sha.latest": "1ee41b415398cde51c055a7b1a4d419350e7038f",
+    "time.latest": 1717933266.3611882,
+    "formatted_time": "2024-06-09 17:11:06.361191",
+    "filescores": {
+        "nodiscard.verify.cpp": 0,
+        "rotl.pass.cpp": 6.069116027819505e-05,
+        "rotr.pass.cpp": 6.069116027819505e-05
+    },
+    "subdirscores": {}
+}

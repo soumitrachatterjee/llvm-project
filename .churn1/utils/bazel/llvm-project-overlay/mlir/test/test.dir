@@ -1,0 +1,26 @@
+{
+    "directory name": "llvm-project/utils/bazel/llvm-project-overlay/mlir/test",
+    "score.sum": 0.000540038358893485,
+    "sha.latest": "a116f0ebaf0304e73b26098a7141c4ab836b7dc9",
+    "time.latest": 1717790946.1157978,
+    "formatted_time": "2024-06-08 01:39:06.115803",
+    "filescores": {
+        "BUILD.bazel": 0.0004242782519867356
+    },
+    "subdirscores": {
+        "Analysis": 0,
+        "Conversion": 0,
+        "Dialect": 9.122652597230294e-05,
+        "IR": 0,
+        "mlir-linalg-ods-gen": 0,
+        "mlir-lsp-server": 0,
+        "mlir-opt": 0,
+        "mlir-pdll": 1.189194939053429e-05,
+        "mlir-tblgen": 2.407072264209988e-05,
+        "Pass": 0,
+        "python": 0,
+        "Rewrite": 0,
+        "Target": 0,
+        "Transforms": 0
+    }
+}

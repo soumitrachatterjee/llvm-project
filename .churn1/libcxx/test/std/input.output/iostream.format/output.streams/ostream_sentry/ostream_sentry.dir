@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/input.output/iostream.format/output.streams/ostream_sentry",
+    "score.sum": 1.9301001887989714e-05,
+    "sha.latest": "eae745c18e2e432b238b8e8b69726b2ea9aeaf7b",
+    "time.latest": 1717906594.6415648,
+    "formatted_time": "2024-06-09 09:46:34.641566",
+    "filescores": {
+        "construct.pass.cpp": 1.7366275644238228e-05,
+        "destruct.pass.cpp": 1.551450672400516e-05
+    },
+    "subdirscores": {}
+}

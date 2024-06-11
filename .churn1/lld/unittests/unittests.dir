@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/lld/unittests",
+    "score.sum": 0.000394514124580871,
+    "sha.latest": "6f2e92c10cebca51f9bc98b99fa3b5583ff396c4",
+    "time.latest": 1717904851.733513,
+    "formatted_time": "2024-06-09 09:17:31.733515",
+    "filescores": {
+        "CMakeLists.txt": 6.592360269162997e-05
+    },
+    "subdirscores": {
+        "AsLibAll": 7.192470623251516e-06,
+        "AsLibELF": 7.192470623251516e-06
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/thread",
+    "score.sum": 0.000937322616688817,
+    "sha.latest": "08fe7df600aeff45917eb865d103d6c431f42285",
+    "time.latest": 1717980286.1282585,
+    "formatted_time": "2024-06-10 06:14:46.128260",
+    "filescores": {
+        "macro.pass.cpp": 2.0263927046649965e-05
+    },
+    "subdirscores": {
+        "futures": 0.00028512828613099086,
+        "thread.barrier": 4.105646179476733e-05,
+        "thread.condition": 0.00018230930464565784,
+        "thread.general": 1.2132863580760565e-05,
+        "thread.jthread": 7.953180640093878e-06,
+        "thread.latch": 3.6850450982346466e-05,
+        "thread.mutex": 0.0003361886039395526,
+        "thread.req": 1.5570024931144824e-05,
+        "thread.semaphore": 6.0877666782056395e-05,
+        "thread.stoptoken": 8.500343726639563e-06,
+        "thread.threads": 0.0002485103151334283
+    }
+}

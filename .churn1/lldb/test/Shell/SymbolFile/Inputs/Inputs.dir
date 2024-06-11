@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/lldb/test/Shell/SymbolFile/Inputs",
+    "score.sum": 6.961851964764349e-06,
+    "sha.latest": "af91446aa2903324c81d9e0b0a8a9fc037edc1a4",
+    "time.latest": 1717982041.3365257,
+    "formatted_time": "2024-06-10 06:44:01.336529",
+    "filescores": {
+        "a.yaml": 0,
+        "dsymforuuid.sh": 0,
+        "symbol-binding.s": 0,
+        "target-symbols-add-unwind.c": 8.22683439832498e-06
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,22 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/utilities/format",
+    "score.sum": 0.0006270985675863519,
+    "sha.latest": "b29301cd40441b5eb8cef9356429fb081e6b6a72",
+    "time.latest": 1717995336.9038408,
+    "formatted_time": "2024-06-10 10:25:36.903843",
+    "filescores": {
+        "types.compile.pass.cpp": 7.439971696149388e-06
+    },
+    "subdirscores": {
+        "format.arguments": 7.57615991177934e-05,
+        "format.error": 1.487672306437189e-05,
+        "format.fmt.string": 1.2810944242484088e-05,
+        "format.formattable": 6.17959849758125e-05,
+        "format.formatter": 0.00023370620389817314,
+        "format.functions": 0.00024499273595412027,
+        "format.range": 5.801787185272548e-05,
+        "format.string": 1.032213959017171e-05,
+        "format.syn": 1.4612684494646573e-05,
+        "format.tuple": 4.0550949702654534e-05
+    }
+}

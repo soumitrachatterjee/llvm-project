@@ -1,0 +1,34 @@
+{
+    "directory name": "llvm-project/lldb/include/lldb",
+    "score.sum": 0.017866736438103978,
+    "sha.latest": "624ea68cbc3ce422b3ee110c0c0af839eec2e278",
+    "time.latest": 1717860558.6336865,
+    "formatted_time": "2024-06-08 20:59:18.633689",
+    "filescores": {
+        "lldb-defines.h": 0.00018186882389446734,
+        "lldb-enumerations.h": 0.0007605964853901026,
+        "lldb-forward.h": 0.0006574095505344508,
+        "lldb-private-enumerations.h": 0.00015673996211232658,
+        "lldb-private-forward.h": 4.158709378549247e-05,
+        "lldb-private-interfaces.h": 0.0002543154228327738,
+        "lldb-private-types.h": 0.0001620575528512851,
+        "lldb-private.h": 5.062345973727651e-05,
+        "lldb-public.h": 2.135230014467892e-05,
+        "lldb-types.h": 0.00011503362365675309,
+        "lldb-versioning.h": 2.4262554149724974e-05
+    },
+    "subdirscores": {
+        "API": null,
+        "Breakpoint": null,
+        "Core": null,
+        "DataFormatters": null,
+        "Expression": null,
+        "Host": null,
+        "Initialization": null,
+        "Interpreter": null,
+        "Symbol": null,
+        "Target": null,
+        "Utility": 0.0031469351493877006,
+        "Version": 6.099602068851199e-06
+    }
+}

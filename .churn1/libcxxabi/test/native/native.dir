@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/libcxxabi/test/native",
+    "score.sum": 3.7696233195573e-05,
+    "sha.latest": "2c5fe1486c36203e78daee6be571145a5d6084e2",
+    "time.latest": 1717823925.2311268,
+    "formatted_time": "2024-06-08 10:48:45.231129",
+    "filescores": {},
+    "subdirscores": {
+        "AArch64": 6.099602068851199e-06,
+        "arm-linux-eabi": 1.7376434466782376e-05,
+        "x86_64": 6.099602068851199e-06
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/containers/sequences/forwardlist/forwardlist.spec",
+    "score.sum": 5.0312280025829167e-05,
+    "sha.latest": "1ee41b415398cde51c055a7b1a4d419350e7038f",
+    "time.latest": 1717885503.6478722,
+    "formatted_time": "2024-06-09 03:55:03.647873",
+    "filescores": {
+        "equal.pass.cpp": 9.307211533953054e-06,
+        "member_swap.pass.cpp": 2.9160177544630048e-05,
+        "non_member_swap.pass.cpp": 2.9160177544630048e-05,
+        "relational.pass.cpp": 9.307211533953054e-06,
+        "swap_noexcept.pass.cpp": 2.967191438063107e-05
+    },
+    "subdirscores": {}
+}

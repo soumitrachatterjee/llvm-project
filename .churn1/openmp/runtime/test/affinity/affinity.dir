@@ -1,0 +1,24 @@
+{
+    "directory name": "llvm-project/openmp/runtime/test/affinity",
+    "score.sum": 7.110064919536947e-05,
+    "sha.latest": "e8679b93daa0db1e9b1838186f6309f59ad5cd0b",
+    "time.latest": 1717801150.4674087,
+    "formatted_time": "2024-06-08 04:29:10.467413",
+    "filescores": {
+        "bug-nested.c": 6.099602068851199e-06,
+        "disabled.c": 0,
+        "kmp-affinity-reset.c": 0,
+        "kmp-affinity.c": 6.099602068851199e-06,
+        "kmp-hw-subset.c": 6.099602068851199e-06,
+        "libomp_test_affinity.h": 6.099602068851199e-06,
+        "libomp_test_topology.h": 6.099602068851199e-06,
+        "omp-places-invalid-syntax.c": 8.652868853024335e-06,
+        "omp-places.c": 6.099602068851199e-06,
+        "redetect.c": 0,
+        "root-threads-affinity.c": 6.099602068851199e-06,
+        "teams-affinity.c": 0
+    },
+    "subdirscores": {
+        "format": 2.1851050345845007e-05
+    }
+}

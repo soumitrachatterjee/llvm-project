@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/libcxx/test/libcxx/ranges/range.factories/range.repeat.view",
+    "score.sum": 1.2763647925961918e-05,
+    "sha.latest": "120b0bfbf0bade430fa9b19d78025ccd1d6148d0",
+    "time.latest": 1717863096.466806,
+    "formatted_time": "2024-06-08 21:41:36.466809",
+    "filescores": {
+        "ctor.piecewise.pass.cpp": 9.927028201153315e-06,
+        "ctor.value.bound.pass.cpp": 9.927028201153315e-06,
+        "no_unique_address.compile.pass.cpp": 0
+    },
+    "subdirscores": {}
+}

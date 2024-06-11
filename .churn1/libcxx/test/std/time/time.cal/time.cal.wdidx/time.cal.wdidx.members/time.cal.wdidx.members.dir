@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/time/time.cal/time.cal.wdidx/time.cal.wdidx.members",
+    "score.sum": 6.099602068851199e-06,
+    "sha.latest": "45f81e904f20e761743b4a1a16c5e31fe820149c",
+    "time.latest": 1717981469.0249217,
+    "formatted_time": "2024-06-10 06:34:29.024924",
+    "filescores": {
+        "ctor.pass.cpp": 0,
+        "index.pass.cpp": 6.099602068851199e-06,
+        "ok.pass.cpp": 0,
+        "weekday.pass.cpp": 0
+    },
+    "subdirscores": {}
+}

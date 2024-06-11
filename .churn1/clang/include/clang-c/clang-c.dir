@@ -1,0 +1,23 @@
+{
+    "directory name": "llvm-project/clang/include/clang-c",
+    "score.sum": 0.0014106861531224247,
+    "sha.latest": "f6557783007377a80a4dc0c5e3c8e2513ed36b2f",
+    "time.latest": 1717803566.4208467,
+    "formatted_time": "2024-06-08 05:09:26.420849",
+    "filescores": {
+        "BuildSystem.h": 2.3324374214537737e-05,
+        "CXCompilationDatabase.h": 2.7405973851542562e-05,
+        "CXDiagnostic.h": 0,
+        "CXErrorCode.h": 1.627451913728668e-05,
+        "CXFile.h": 0,
+        "CXSourceLocation.h": 0,
+        "CXString.h": 2.3571209154501564e-05,
+        "Documentation.h": 2.0426525653764698e-05,
+        "ExternC.h": 0,
+        "FatalErrorHandler.h": 7.685125857033962e-06,
+        "Index.h": 0.00131493225582702,
+        "Platform.h": 3.651221919643387e-05,
+        "Rewrite.h": 0
+    },
+    "subdirscores": {}
+}

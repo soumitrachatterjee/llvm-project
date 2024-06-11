@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/lldb/test/API/lang/objc/objc-foundation-dictionary-empty",
+    "score.sum": 1.2139001116993191e-05,
+    "sha.latest": "a852cf66ea5d130a09cd796b97b15c18059e95cd",
+    "time.latest": 1717958756.7974849,
+    "formatted_time": "2024-06-10 00:15:56.797489",
+    "filescores": {
+        "main.m": 0,
+        "TestNSDictionary0.py": 1.2139001116993191e-05
+    },
+    "subdirscores": {}
+}

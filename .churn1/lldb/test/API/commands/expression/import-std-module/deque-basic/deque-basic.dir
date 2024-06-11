@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/commands/expression/import-std-module/deque-basic",
+    "score.sum": 4.3205454875246936e-05,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717890585.5124345,
+    "formatted_time": "2024-06-09 05:19:45.512436",
+    "filescores": {
+        "main.cpp": 0,
+        "Makefile": 0,
+        "TestDequeFromStdModule.py": 4.3205454875246936e-05
+    },
+    "subdirscores": {}
+}

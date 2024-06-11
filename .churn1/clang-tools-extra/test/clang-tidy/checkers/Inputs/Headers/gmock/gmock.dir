@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/clang-tools-extra/test/clang-tidy/checkers/Inputs/Headers/gmock",
+    "score.sum": 0,
+    "sha.latest": "5a9f3867046c4e1c97760e22a505f4d1d788417e",
+    "time.latest": 1717824219.4427395,
+    "formatted_time": "2024-06-08 10:53:39.442743",
+    "filescores": {
+        "foo.h": 0
+    },
+    "subdirscores": {}
+}

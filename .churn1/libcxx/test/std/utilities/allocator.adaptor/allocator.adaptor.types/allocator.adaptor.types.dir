@@ -1,0 +1,16 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/utilities/allocator.adaptor/allocator.adaptor.types",
+    "score.sum": 2.7148259998833852e-05,
+    "sha.latest": "4d3b502704809c9605b9568c6feb2a2f0ca51907",
+    "time.latest": 1717987775.0711799,
+    "formatted_time": "2024-06-10 08:19:35.071182",
+    "filescores": {
+        "allocator_pointers.pass.cpp": 2.3906634837243197e-05,
+        "inner_allocator_type.pass.cpp": 1.9415982717167288e-05,
+        "is_always_equal.pass.cpp": 2.0735219642370983e-05,
+        "propagate_on_container_copy_assignment.pass.cpp": 1.9415982717167288e-05,
+        "propagate_on_container_move_assignment.pass.cpp": 1.9415982717167288e-05,
+        "propagate_on_container_swap.pass.cpp": 1.9415982717167288e-05
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/lldb/include/lldb/Interpreter/Interfaces",
+    "score.sum": 1.769133595281862e-05,
+    "sha.latest": "61384850c5950b8c5ee0abd75982f5cad8f98536",
+    "time.latest": 1717849042.9365933,
+    "formatted_time": "2024-06-08 17:47:22.936599",
+    "filescores": {
+        "OperatingSystemInterface.h": 0,
+        "ScriptedInterface.h": 1.632054879397147e-05,
+        "ScriptedPlatformInterface.h": 2.0682055521740644e-05,
+        "ScriptedProcessInterface.h": 2.219852197303509e-05,
+        "ScriptedThreadInterface.h": 2.0682055521740644e-05
+    },
+    "subdirscores": {}
+}

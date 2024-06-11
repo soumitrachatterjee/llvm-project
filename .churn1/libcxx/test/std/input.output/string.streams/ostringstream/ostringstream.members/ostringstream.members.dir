@@ -1,0 +1,18 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/input.output/string.streams/ostringstream/ostringstream.members",
+    "score.sum": 4.179587690384019e-05,
+    "sha.latest": "80f9458cf30d13eef21b09042ea590945c5e64db",
+    "time.latest": 1717910007.1172547,
+    "formatted_time": "2024-06-09 10:43:27.117256",
+    "filescores": {
+        "str.alloc.pass.cpp": 0,
+        "str.allocator_propagation.pass.cpp": 0,
+        "str.move.pass.cpp": 7.219274678038385e-06,
+        "str.pass.cpp": 1.7431479621988335e-05,
+        "str.string-alloc.pass.cpp": 0,
+        "str.string.move.pass.cpp": 0,
+        "str.string_view.pass.cpp": 0,
+        "view.pass.cpp": 0
+    },
+    "subdirscores": {}
+}

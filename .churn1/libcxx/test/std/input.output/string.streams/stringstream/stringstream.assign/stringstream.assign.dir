@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/input.output/string.streams/stringstream/stringstream.assign",
+    "score.sum": 0,
+    "sha.latest": "0b8c8bc87404d324120a88e08ee97cdd0f711b31",
+    "time.latest": 1717910446.6060085,
+    "formatted_time": "2024-06-09 10:50:46.606011",
+    "filescores": {
+        "member_swap.pass.cpp": 0,
+        "move.pass.cpp": 0,
+        "nonmember_swap.pass.cpp": 0
+    },
+    "subdirscores": {}
+}

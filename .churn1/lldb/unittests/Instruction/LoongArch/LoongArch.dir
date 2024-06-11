@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/lldb/unittests/Instruction/LoongArch",
+    "score.sum": 6.332281040007613e-06,
+    "sha.latest": "52731683c9a2f4f8138c317201ea68eaedca7225",
+    "time.latest": 1717996500.8772597,
+    "formatted_time": "2024-06-10 10:45:00.877262",
+    "filescores": {
+        "TestLoongArchEmulator.cpp": 6.332281040007613e-06
+    },
+    "subdirscores": {}
+}

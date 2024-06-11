@@ -1,0 +1,16 @@
+{
+    "directory name": "llvm-project/openmp/libomptarget/include/OpenMP",
+    "score.sum": 1.4274458860337118e-05,
+    "sha.latest": "e521752c04a479e3751003645a728667f3199d24",
+    "time.latest": 1717795208.1251643,
+    "formatted_time": "2024-06-08 02:50:08.125168",
+    "filescores": {
+        "InternalTypes.h": 6.773313298179807e-06,
+        "InteropAPI.h": 0,
+        "Mapping.h": 6.6942959138502325e-06,
+        "omp.h": 6.099602068851199e-06
+    },
+    "subdirscores": {
+        "OMPT": 1.2046971921957639e-05
+    }
+}

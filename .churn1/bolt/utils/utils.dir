@@ -1,0 +1,17 @@
+{
+    "directory name": "llvm-project/bolt/utils",
+    "score.sum": 6.276486793296829e-05,
+    "sha.latest": "9584f5834499e6093797d4a28fde209f927ea556",
+    "time.latest": 1717797168.2661989,
+    "formatted_time": "2024-06-08 03:22:48.266202",
+    "filescores": {
+        "bughunter.sh": 6.099602068851199e-06,
+        "llvm-bolt-wrapper.py": 2.2275684036385554e-05,
+        "nfc-check-setup.py": 1.7518844261124438e-05,
+        "nfc-stat-parser.py": 1.1259932748230699e-05
+    },
+    "subdirscores": {
+        "docker": 6.099602068851199e-06,
+        "dot2html": 1.1406691318795628e-05
+    }
+}

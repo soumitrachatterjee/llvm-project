@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/time/time.hms/time.hms.nonmembers",
+    "score.sum": 4.6668956106533376e-05,
+    "sha.latest": "520c7fbbd0356f135a19cc764ff70e7f52ba11a0",
+    "time.latest": 1717984997.8393342,
+    "formatted_time": "2024-06-10 07:33:17.839337",
+    "filescores": {
+        "nothing.to.do.pass.cpp": 0,
+        "ostream.pass.cpp": 2.5361061449498024e-05
+    },
+    "subdirscores": {}
+}

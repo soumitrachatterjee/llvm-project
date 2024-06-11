@@ -1,0 +1,19 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/algorithms/algorithms.results",
+    "score.sum": 1.206012994215213e-05,
+    "sha.latest": "3903438860b6eebf53a912c672560e1e55311220",
+    "time.latest": 1717872686.2126365,
+    "formatted_time": "2024-06-09 00:21:26.212639",
+    "filescores": {
+        "in_found_result.pass.cpp": 8.125778576971321e-06,
+        "in_fun_result.pass.cpp": 8.679748115800379e-06,
+        "in_in_out_result.pass.cpp": 9.285732428296402e-06,
+        "in_in_result.pass.cpp": 1.099792119294178e-05,
+        "in_out_out_result.pass.cpp": 9.101021876599343e-06,
+        "in_out_result.pass.cpp": 1.3564818259337814e-05,
+        "in_value_result.pass.cpp": 0,
+        "min_max_result.pass.cpp": 8.126422327382013e-06,
+        "no_unique_address.compile.pass.cpp": 9.73014928223075e-06
+    },
+    "subdirscores": {}
+}

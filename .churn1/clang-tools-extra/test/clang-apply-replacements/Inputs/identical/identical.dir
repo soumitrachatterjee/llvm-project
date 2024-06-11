@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/clang-tools-extra/test/clang-apply-replacements/Inputs/identical",
+    "score.sum": 8.8415020767353e-06,
+    "sha.latest": "f2879d8a4877eafcdb12c852030746d175f8abbd",
+    "time.latest": 1717816350.8188226,
+    "formatted_time": "2024-06-08 08:42:30.818826",
+    "filescores": {
+        "file1.yaml": 8.8415020767353e-06,
+        "file2.yaml": 6.099602068851199e-06,
+        "identical.cpp": 6.099602068851199e-06
+    },
+    "subdirscores": {}
+}

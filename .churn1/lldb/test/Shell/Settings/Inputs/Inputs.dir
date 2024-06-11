@@ -1,0 +1,20 @@
+{
+    "directory name": "llvm-project/lldb/test/Shell/Settings/Inputs",
+    "score.sum": 2.294269180133865e-05,
+    "sha.latest": "f4ede08c61cba631de204398a91aa59bac9d5db9",
+    "time.latest": 1717979294.9544055,
+    "formatted_time": "2024-06-10 05:58:14.954409",
+    "filescores": {
+        "DontStopCommandSource.in": 6.1003452035903096e-06,
+        "EchoCommandsAll.out": 8.22683439832498e-06,
+        "EchoCommandsNoComments.out": 8.22683439832498e-06,
+        "EchoCommandsNone.out": 8.22683439832498e-06,
+        "EchoCommandsQuiet.out": 6.1008370494471615e-06,
+        "EchoCommandsTest.in": 8.22683439832498e-06,
+        "main.c": 8.22683439832498e-06,
+        "main.cpp": 0,
+        "names.cpp": 6.141420415998451e-06,
+        "StopCommandSource.in": 6.1003452035903096e-06
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/compiler-rt/test/cfi/cross-dso/util",
+    "score.sum": 0,
+    "sha.latest": "1993de54eed1cf78f8f2c0a8e6ff19e59a8435ac",
+    "time.latest": 1717822654.9543324,
+    "formatted_time": "2024-06-08 10:27:34.954334",
+    "filescores": {
+        "cfi_stubs.h": 0
+    },
+    "subdirscores": {}
+}

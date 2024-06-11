@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/utilities/function.objects/func.search/func.search.default",
+    "score.sum": 3.359122076848402e-05,
+    "sha.latest": "c2df70766647b39d302ab5ab952980e0b3b4d725",
+    "time.latest": 1717996300.6084635,
+    "formatted_time": "2024-06-10 10:41:40.608465",
+    "filescores": {
+        "default.pass.cpp": 2.8802431127497492e-05,
+        "default.pred.pass.cpp": 4.014832486336617e-05,
+        "implicit_ctad.pass.cpp": 0
+    },
+    "subdirscores": {}
+}

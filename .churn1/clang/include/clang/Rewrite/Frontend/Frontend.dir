@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/clang/include/clang/Rewrite/Frontend",
+    "score.sum": 6.0960436876260976e-05,
+    "sha.latest": "2946cd701067404b99c39fb29dc9c74bd7193eb3",
+    "time.latest": 1717800790.0483375,
+    "formatted_time": "2024-06-08 04:23:10.048340",
+    "filescores": {
+        "ASTConsumers.h": 2.5138450838753027e-05,
+        "FixItRewriter.h": 3.5298201275620065e-05,
+        "FrontendActions.h": 3.663189563795016e-05,
+        "Rewriters.h": 7.96120384861411e-06
+    },
+    "subdirscores": {}
+}

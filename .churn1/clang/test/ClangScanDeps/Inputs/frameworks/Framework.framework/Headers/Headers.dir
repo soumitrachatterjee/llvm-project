@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/clang/test/ClangScanDeps/Inputs/frameworks/Framework.framework/Headers",
+    "score.sum": 0,
+    "sha.latest": "e1f4c4aad27992d6b8a0b8d85af42c14fa68c298",
+    "time.latest": 1717868167.4186184,
+    "formatted_time": "2024-06-08 23:06:07.418621",
+    "filescores": {
+        "Framework.h": 0
+    },
+    "subdirscores": {}
+}

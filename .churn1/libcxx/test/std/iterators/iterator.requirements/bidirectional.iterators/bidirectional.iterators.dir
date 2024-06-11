@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/iterators/iterator.requirements/bidirectional.iterators",
+    "score.sum": 1.2132863580760565e-05,
+    "sha.latest": "2df59c50688c122bbcae7467d3eaf862c3ea3088",
+    "time.latest": 1717913245.0319898,
+    "formatted_time": "2024-06-09 11:37:25.031991",
+    "filescores": {
+        "nothing_to_do.pass.cpp": 1.2132863580760565e-05
+    },
+    "subdirscores": {}
+}

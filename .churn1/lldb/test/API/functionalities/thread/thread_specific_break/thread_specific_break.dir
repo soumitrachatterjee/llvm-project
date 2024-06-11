@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/functionalities/thread/thread_specific_break",
+    "score.sum": 1.859404258104038e-05,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717923161.9830825,
+    "formatted_time": "2024-06-09 14:22:41.983084",
+    "filescores": {
+        "main.cpp": 0,
+        "Makefile": 0,
+        "TestThreadSpecificBreakpoint.py": 1.859404258104038e-05
+    },
+    "subdirscores": {}
+}

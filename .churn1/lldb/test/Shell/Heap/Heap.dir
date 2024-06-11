@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/Shell/Heap",
+    "score.sum": 7.1100879623649925e-06,
+    "sha.latest": "f8d889a789e2ac7012d202971d4e214d0b13949c",
+    "time.latest": 1717972885.9776692,
+    "formatted_time": "2024-06-10 04:11:25.977671",
+    "filescores": {
+        "heap-cstr.test": 7.1100879623649925e-06
+    },
+    "subdirscores": {
+        "Inputs": 8.22683439832498e-06
+    }
+}

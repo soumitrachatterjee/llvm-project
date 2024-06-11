@@ -1,0 +1,16 @@
+{
+    "directory name": "llvm-project/lldb/test/Shell/Minidump/Windows/Inputs",
+    "score.sum": 6.555268967556066e-06,
+    "sha.latest": "c8daf4a707ad502b9694461246114bba01af5222",
+    "time.latest": 1717973813.435092,
+    "formatted_time": "2024-06-10 04:26:53.435099",
+    "filescores": {
+        "arm-fp-unwind.dmp.yaml": 0,
+        "arm-fp-unwind.exe.yaml": 0,
+        "broken-unwind.dmp.yaml": 0,
+        "broken-unwind.exe.yaml": 0,
+        "find-module.dmp.yaml": 8.22683439832498e-06,
+        "find-module.exe.yaml": 6.100559829880711e-06
+    },
+    "subdirscores": {}
+}

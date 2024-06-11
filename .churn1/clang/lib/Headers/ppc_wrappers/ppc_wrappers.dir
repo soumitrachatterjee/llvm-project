@@ -1,0 +1,23 @@
+{
+    "directory name": "llvm-project/clang/lib/Headers/ppc_wrappers",
+    "score.sum": 4.659738411836449e-05,
+    "sha.latest": "de7c0068329d78027df7b7184d72646c1ca9f2bd",
+    "time.latest": 1717815027.642185,
+    "formatted_time": "2024-06-08 08:20:27.642188",
+    "filescores": {
+        "bmi2intrin.h": 6.099602068851199e-06,
+        "bmiintrin.h": 0,
+        "emmintrin.h": 3.126103969882202e-05,
+        "immintrin.h": 0,
+        "mmintrin.h": 2.1637805363659415e-05,
+        "mm_malloc.h": 2.639741393461741e-05,
+        "nmmintrin.h": 0,
+        "pmmintrin.h": 2.5803056266492042e-05,
+        "smmintrin.h": 3.606782179358851e-05,
+        "tmmintrin.h": 2.5803056266492042e-05,
+        "x86gprintrin.h": 0,
+        "x86intrin.h": 0,
+        "xmmintrin.h": 2.993866579125236e-05
+    },
+    "subdirscores": {}
+}

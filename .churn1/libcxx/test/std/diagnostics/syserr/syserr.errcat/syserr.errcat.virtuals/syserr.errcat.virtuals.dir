@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/diagnostics/syserr/syserr.errcat/syserr.errcat.virtuals",
+    "score.sum": 1.7366275644238228e-05,
+    "sha.latest": "7fc6a55688c816f5fc1a5481ae7af25be7500356",
+    "time.latest": 1717898023.0265355,
+    "formatted_time": "2024-06-09 07:23:43.026537",
+    "filescores": {
+        "default_error_condition.pass.cpp": 1.7366275644238228e-05,
+        "equivalent_error_code_int.pass.cpp": 1.7366275644238228e-05,
+        "equivalent_int_error_condition.pass.cpp": 1.7366275644238228e-05
+    },
+    "subdirscores": {}
+}

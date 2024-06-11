@@ -1,0 +1,22 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/numerics/numarray/template.valarray/valarray.cons",
+    "score.sum": 3.3117100325157695e-05,
+    "sha.latest": "fb855eb941b6d740cc6560297d0b4d3201dcaf9f",
+    "time.latest": 1717950355.5684016,
+    "formatted_time": "2024-06-09 21:55:55.568404",
+    "filescores": {
+        "copy.pass.cpp": 2.2726967992513527e-05,
+        "deduct.pass.cpp": 6.099602068851199e-06,
+        "default.pass.cpp": 2.167288198598348e-05,
+        "gslice_array.pass.cpp": 1.7366275644238228e-05,
+        "indirect_array.pass.cpp": 1.7366275644238228e-05,
+        "initializer_list.pass.cpp": 2.5067268859766338e-05,
+        "mask_array.pass.cpp": 1.7366275644238228e-05,
+        "move.pass.cpp": 2.7081553001058066e-05,
+        "pointer_size.pass.cpp": 2.2726967992513527e-05,
+        "size.pass.cpp": 1.777668798319651e-05,
+        "slice_array.pass.cpp": 1.7366275644238228e-05,
+        "value_size.pass.cpp": 1.7366275644238228e-05
+    },
+    "subdirscores": {}
+}

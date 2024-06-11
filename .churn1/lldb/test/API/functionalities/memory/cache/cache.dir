@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/functionalities/memory/cache",
+    "score.sum": 1.7376714945152794e-05,
+    "sha.latest": "80fcecb13c388ff087a27a4b0e7ca3dd8c98eaa4",
+    "time.latest": 1717911954.7233794,
+    "formatted_time": "2024-06-09 11:15:54.723383",
+    "filescores": {
+        "main.cpp": 6.099602068851199e-06,
+        "Makefile": 0,
+        "TestMemoryCache.py": 1.7341105300120937e-05
+    },
+    "subdirscores": {}
+}

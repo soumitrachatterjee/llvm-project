@@ -1,0 +1,17 @@
+{
+    "directory name": "llvm-project/lldb/test/Shell/ExecControl/StopHook/Inputs",
+    "score.sum": 6.106581997893812e-06,
+    "sha.latest": "fdea9a4ec9b0d9585b8fe8a612686d9f44f40ddc",
+    "time.latest": 1717972640.2765265,
+    "formatted_time": "2024-06-10 04:07:20.276528",
+    "filescores": {
+        "stop-hook-1.lldbinit": 8.22683439832498e-06,
+        "stop-hook-2.lldbinit": 6.106581997893812e-06,
+        "stop-hook-3.lldbinit": 6.106581997893812e-06,
+        "stop-hook-threads-1.lldbinit": 8.22683439832498e-06,
+        "stop-hook-threads-2.lldbinit": 8.22683439832498e-06,
+        "stop-hook-threads.cpp": 6.106581997893812e-06,
+        "stop-hook.c": 6.106581997893812e-06
+    },
+    "subdirscores": {}
+}

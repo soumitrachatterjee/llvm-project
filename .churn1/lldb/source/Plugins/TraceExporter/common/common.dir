@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/source/Plugins/TraceExporter/common",
+    "score.sum": 6.242216548793036e-05,
+    "sha.latest": "e6b52355a1f3eae9310003ee714c802ac8a63b46",
+    "time.latest": 1717882530.1681657,
+    "formatted_time": "2024-06-09 03:05:30.168167",
+    "filescores": {
+        "CMakeLists.txt": 1.1409060554401639e-05,
+        "TraceHTR.cpp": 5.495244068668524e-05,
+        "TraceHTR.h": 2.5552804669901422e-05
+    },
+    "subdirscores": {}
+}

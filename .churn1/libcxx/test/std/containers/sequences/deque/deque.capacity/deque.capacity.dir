@@ -1,0 +1,18 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/containers/sequences/deque/deque.capacity",
+    "score.sum": 0.00010461531382230189,
+    "sha.latest": "10ec9276d40024c23a481e6671dad1521151dd85",
+    "time.latest": 1717883720.1226716,
+    "formatted_time": "2024-06-09 03:25:20.122675",
+    "filescores": {
+        "access.pass.cpp": 4.4699365853426066e-05,
+        "empty.pass.cpp": 3.2619648466612866e-05,
+        "empty.verify.cpp": 9.49368308932207e-06,
+        "max_size.pass.cpp": 4.171227032474676e-05,
+        "resize_size.pass.cpp": 4.82344161570707e-05,
+        "resize_size_value.pass.cpp": 4.82344161570707e-05,
+        "shrink_to_fit.pass.cpp": 3.6573234391684295e-05,
+        "size.pass.cpp": 3.2619648466612866e-05
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/numerics/numarray/class.slice/slice.ops",
+    "score.sum": 0,
+    "sha.latest": "f877e88c354eacba1db81b82270ff8c27f000ea6",
+    "time.latest": 1717936114.0060287,
+    "formatted_time": "2024-06-09 17:58:34.006032",
+    "filescores": {
+        "slice.ops.pass.cpp": 0
+    },
+    "subdirscores": {}
+}

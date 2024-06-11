@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/lldb/test/API/commands/target/dump-symtab-demangle",
+    "score.sum": 1.0459834404963863e-05,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717898653.0233521,
+    "formatted_time": "2024-06-09 07:34:13.023355",
+    "filescores": {
+        "a.yaml": 0,
+        "TestDumpSymtabDemangle.py": 1.0459834404963863e-05
+    },
+    "subdirscores": {}
+}

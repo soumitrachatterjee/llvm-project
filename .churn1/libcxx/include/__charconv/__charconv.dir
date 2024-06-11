@@ -1,0 +1,20 @@
+{
+    "directory name": "llvm-project/libcxx/include/__charconv",
+    "score.sum": 7.345932521285117e-05,
+    "sha.latest": "37dca605c9bd41732da010ee97ed15ad9585a37d",
+    "time.latest": 1717831418.933015,
+    "formatted_time": "2024-06-08 12:53:38.933019",
+    "filescores": {
+        "chars_format.h": 3.097650227787331e-05,
+        "from_chars_integral.h": 1.1359143976590404e-05,
+        "from_chars_result.h": 3.427591510788895e-05,
+        "tables.h": 1.7978676143152894e-05,
+        "to_chars.h": 0,
+        "to_chars_base_10.h": 2.3719941473939544e-05,
+        "to_chars_floating_point.h": 6.168450583686689e-06,
+        "to_chars_integral.h": 1.6509484285738475e-05,
+        "to_chars_result.h": 3.427591510788895e-05,
+        "traits.h": 1.3096771277148324e-05
+    },
+    "subdirscores": {}
+}

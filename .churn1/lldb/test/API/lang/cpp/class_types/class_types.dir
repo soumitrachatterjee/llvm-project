@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/lldb/test/API/lang/cpp/class_types",
+    "score.sum": 2.7241496993894222e-05,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717930020.2815454,
+    "formatted_time": "2024-06-09 16:17:00.281548",
+    "filescores": {
+        "cmds.txt": 0,
+        "main.cpp": 6.099602068851199e-06,
+        "Makefile": 0,
+        "TestClassTypes.py": 1.7392230541000063e-05,
+        "TestClassTypesDisassembly.py": 2.0265550731909404e-05
+    },
+    "subdirscores": {}
+}

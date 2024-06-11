@@ -1,0 +1,17 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/re/re.def",
+    "score.sum": 1.8238835810051744e-05,
+    "sha.latest": "d4b59a05fc7507cf69993109443dc5af47ae4fa8",
+    "time.latest": 1717966287.5136387,
+    "formatted_time": "2024-06-10 02:21:27.513642",
+    "filescores": {},
+    "subdirscores": {
+        "defns.regex.collating.element": 1.3483256061814899e-05,
+        "defns.regex.finite.state.machine": 1.3483256061814899e-05,
+        "defns.regex.format.specifier": 1.3483256061814899e-05,
+        "defns.regex.matched": 1.3483256061814899e-05,
+        "defns.regex.primary.equivalence.class": 1.3483256061814899e-05,
+        "defns.regex.regular.expression": 1.3483256061814899e-05,
+        "defns.regex.subexpression": 1.3483256061814899e-05
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "directory name": "llvm-project/clang-tools-extra/test/clang-include-fixer",
+    "score.sum": 9.326284259170864e-06,
+    "sha.latest": "d3dd489b9a6f7c578ea461507d29b351e93f6172",
+    "time.latest": 1717817259.8352664,
+    "formatted_time": "2024-06-08 08:57:39.835269",
+    "filescores": {
+        "commandline_options.cpp": 0,
+        "exit_on_fatal.cpp": 0,
+        "fixeddb.cpp": 0,
+        "include_path.cpp": 0,
+        "merge.test": 9.326284259170864e-06,
+        "multiple_fixes.cpp": 0,
+        "prefix_variable.cpp": 0,
+        "query_symbol.cpp": 0,
+        "ranking.cpp": 0,
+        "yamldb.cpp": 0,
+        "yamldb_autodetect.cpp": 0,
+        "yaml_fuzzy.cpp": 0
+    },
+    "subdirscores": {
+        "Inputs": 0
+    }
+}

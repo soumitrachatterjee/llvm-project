@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/utilities/tuple/tuple.general",
+    "score.sum": 2.8167861864313905e-05,
+    "sha.latest": "430b397f6715d4d2f2569716c93fcd6292ace3dc",
+    "time.latest": 1718005949.8625014,
+    "formatted_time": "2024-06-10 13:22:29.862503",
+    "filescores": {
+        "ignore.pass.cpp": 1.4510443693044785e-05,
+        "tuple.smartptr.pass.cpp": 2.6722245527027487e-05
+    },
+    "subdirscores": {}
+}

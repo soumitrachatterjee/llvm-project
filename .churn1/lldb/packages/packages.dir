@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/lldb/packages",
+    "score.sum": 0.0058621449923321745,
+    "sha.latest": "d93a126090b6e772d3b96f201cdd44ea0d6360ef",
+    "time.latest": 1717861653.4589612,
+    "formatted_time": "2024-06-08 21:17:33.458965",
+    "filescores": {},
+    "subdirscores": {
+        "Python": 0.0058621449923321745
+    }
+}

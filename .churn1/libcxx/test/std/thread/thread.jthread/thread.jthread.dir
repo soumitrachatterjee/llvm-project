@@ -1,0 +1,29 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/thread/thread.jthread",
+    "score.sum": 7.953180640093878e-06,
+    "sha.latest": "64addd65210db59c8cb3794f792720e03e25b5af",
+    "time.latest": 1717977587.9957652,
+    "formatted_time": "2024-06-10 05:29:47.995767",
+    "filescores": {
+        "assign.move.pass.cpp": 7.943989722263278e-06,
+        "cons.default.pass.cpp": 0,
+        "cons.func.token.pass.cpp": 0,
+        "cons.move.pass.cpp": 6.099602068851199e-06,
+        "copy.delete.compile.pass.cpp": 0,
+        "detach.pass.cpp": 6.099602068851199e-06,
+        "dtor.pass.cpp": 6.099602068851199e-06,
+        "get_id.pass.cpp": 6.099602068851199e-06,
+        "get_stop_source.pass.cpp": 6.099602068851199e-06,
+        "get_stop_token.pass.cpp": 6.099602068851199e-06,
+        "hardware_concurrency.pass.cpp": 0,
+        "join.deadlock.pass.cpp": 6.099602068851199e-06,
+        "join.pass.cpp": 6.099602068851199e-06,
+        "joinable.pass.cpp": 6.129997491044818e-06,
+        "nodiscard.verify.cpp": 0,
+        "request_stop.pass.cpp": 6.099602068851199e-06,
+        "swap.free.pass.cpp": 6.099602068851199e-06,
+        "swap.member.pass.cpp": 6.099602068851199e-06,
+        "type.compile.pass.cpp": 0
+    },
+    "subdirscores": {}
+}

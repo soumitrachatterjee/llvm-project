@@ -1,0 +1,23 @@
+{
+    "directory name": "llvm-project/compiler-rt/test/safestack",
+    "score.sum": 6.0377576631012824e-05,
+    "sha.latest": "058e9b0374b09a9f70c9964c533caf2d49eb219a",
+    "time.latest": 1717839781.096766,
+    "formatted_time": "2024-06-08 15:13:01.096768",
+    "filescores": {
+        "buffer-copy-vla.c": 0,
+        "buffer-copy.c": 0,
+        "canary.c": 6.112743076680841e-06,
+        "CMakeLists.txt": 1.2527196337918854e-05,
+        "init.c": 0,
+        "lit.cfg.py": 1.0653688854278084e-05,
+        "lit.site.cfg.py.in": 0,
+        "lto.c": 6.099602068851199e-06,
+        "overflow.c": 7.0451583306151544e-06,
+        "pthread-cleanup.c": 1.7446522672141924e-05,
+        "pthread-stack-size.c": 0,
+        "pthread.c": 6.104379467419199e-06,
+        "utils.h": 0
+    },
+    "subdirscores": {}
+}

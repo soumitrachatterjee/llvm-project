@@ -1,0 +1,16 @@
+{
+    "directory name": "llvm-project/lldb/test/API/functionalities/type_get_module",
+    "score.sum": 1.0649276145462571e-05,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717923664.6931398,
+    "formatted_time": "2024-06-09 14:31:04.693141",
+    "filescores": {
+        "compile_unit1.c": 6.099602068851199e-06,
+        "compile_unit2.c": 6.099602068851199e-06,
+        "main.c": 6.099602068851199e-06,
+        "Makefile": 0,
+        "TestTypeGetModule.py": 1.0649276145462571e-05,
+        "type_definitions.h": 0
+    },
+    "subdirscores": {}
+}

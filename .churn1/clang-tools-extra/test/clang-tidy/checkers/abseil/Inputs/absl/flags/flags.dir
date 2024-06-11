@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/clang-tools-extra/test/clang-tidy/checkers/abseil/Inputs/absl/flags",
+    "score.sum": 0,
+    "sha.latest": "89a1d03e2b379e325daa5249411e414bbd995b5e",
+    "time.latest": 1717818344.5630205,
+    "formatted_time": "2024-06-08 09:15:44.563024",
+    "filescores": {
+        "internal-file.h": 0
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/macosx/early-process-launch",
+    "score.sum": 7.82811123093934e-06,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717962356.4657197,
+    "formatted_time": "2024-06-10 01:15:56.465722",
+    "filescores": {
+        "main.c": 0,
+        "Makefile": 0,
+        "TestEarlyProcessLaunch.py": 7.82811123093934e-06
+    },
+    "subdirscores": {}
+}

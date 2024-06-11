@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/thread/futures/futures.overview",
+    "score.sum": 3.1932904992933246e-05,
+    "sha.latest": "a7f9895cc18995549c7facb96e72718da282a864",
+    "time.latest": 1717974876.8510349,
+    "formatted_time": "2024-06-10 04:44:36.851036",
+    "filescores": {
+        "future_errc.pass.cpp": 2.3466519186419854e-05,
+        "future_status.pass.cpp": 1.6482671913285826e-05,
+        "is_error_code_enum_future_errc.pass.cpp": 1.4283726931971964e-05,
+        "launch.pass.cpp": 2.1107848828235514e-05
+    },
+    "subdirscores": {}
+}

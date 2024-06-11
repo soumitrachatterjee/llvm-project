@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/lld/test/ELF/fatlto",
+    "score.sum": 6.156124703221143e-06,
+    "sha.latest": "14e3bec8fc3e1f10c3dc57277ae3dbf9a4087b1c",
+    "time.latest": 1717872033.9061182,
+    "formatted_time": "2024-06-09 00:10:33.906122",
+    "filescores": {
+        "fatlto.invalid.s": 6.156124703221143e-06,
+        "fatlto.test": 6.137753081454253e-06
+    },
+    "subdirscores": {}
+}

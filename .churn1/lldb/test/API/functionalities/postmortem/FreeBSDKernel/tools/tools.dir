@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/lldb/test/API/functionalities/postmortem/FreeBSDKernel/tools",
+    "score.sum": 6.369668687486491e-06,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717916309.4638195,
+    "formatted_time": "2024-06-09 12:28:29.463822",
+    "filescores": {
+        "copy-sparse.py": 6.369668687486491e-06,
+        "libfbsdvmcore-hacks.patch": 0,
+        "lldb-minimize-processes.patch": 0,
+        "README.rst": 6.146783534436573e-06,
+        "test.script": 6.146783534436573e-06
+    },
+    "subdirscores": {}
+}

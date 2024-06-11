@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/lldb/test/API/functionalities/jitloader_gdb",
+    "score.sum": 3.167662544973819e-05,
+    "sha.latest": "5b386158aacac4b41126983a5379d36ed413d0ea",
+    "time.latest": 1717910770.782302,
+    "formatted_time": "2024-06-09 10:56:10.782304",
+    "filescores": {
+        "main.c": 0,
+        "Makefile": 0,
+        "simple.c": 0,
+        "TestJITLoaderGDB.py": 3.167662544973819e-05
+    },
+    "subdirscores": {}
+}

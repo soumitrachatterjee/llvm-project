@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/commands/frame/diagnose/bad-reference",
+    "score.sum": 1.2557410235174005e-05,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717894622.272505,
+    "formatted_time": "2024-06-09 06:27:02.272507",
+    "filescores": {
+        "main.cpp": 0,
+        "Makefile": 0,
+        "TestBadReference.py": 1.2557410235174005e-05
+    },
+    "subdirscores": {}
+}

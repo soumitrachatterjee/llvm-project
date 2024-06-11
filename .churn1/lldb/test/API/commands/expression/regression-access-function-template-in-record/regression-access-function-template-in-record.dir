@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/lldb/test/API/commands/expression/regression-access-function-template-in-record",
+    "score.sum": 0,
+    "sha.latest": "99451b4453688a94c6014cac233d371ab4cc342d",
+    "time.latest": 1717893816.007171,
+    "formatted_time": "2024-06-09 06:13:36.007173",
+    "filescores": {
+        "main.cpp": 0,
+        "TestRegressionAccessFunctionTemplateInRecord.py": 0
+    },
+    "subdirscores": {}
+}

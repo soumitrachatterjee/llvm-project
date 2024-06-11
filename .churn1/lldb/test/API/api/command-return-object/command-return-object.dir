@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/api/command-return-object",
+    "score.sum": 3.41025642786255e-05,
+    "sha.latest": "0da0966da4b813386a85cf70ae0d0efc7cb2eaea",
+    "time.latest": 1717885065.214284,
+    "formatted_time": "2024-06-09 03:47:45.214286",
+    "filescores": {
+        "main.cpp": 0,
+        "Makefile": 0,
+        "TestSBCommandReturnObject.py": 3.41025642786255e-05
+    },
+    "subdirscores": {}
+}

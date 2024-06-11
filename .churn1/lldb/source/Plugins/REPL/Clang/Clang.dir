@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/source/Plugins/REPL/Clang",
+    "score.sum": 1.432362135953882e-05,
+    "sha.latest": "0bb6f832fbf8ae022063c07e2090f07832136bd4",
+    "time.latest": 1717879788.6337078,
+    "formatted_time": "2024-06-09 02:19:48.633709",
+    "filescores": {
+        "ClangREPL.cpp": 1.393109802197447e-05,
+        "ClangREPL.h": 1.2463354787310728e-05,
+        "CMakeLists.txt": 0
+    },
+    "subdirscores": {}
+}

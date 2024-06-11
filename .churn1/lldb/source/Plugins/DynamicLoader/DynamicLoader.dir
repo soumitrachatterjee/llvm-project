@@ -1,0 +1,20 @@
+{
+    "directory name": "llvm-project/lldb/source/Plugins/DynamicLoader",
+    "score.sum": 0.001667823983356361,
+    "sha.latest": "aeaa11aeac0aedf32cafec6532d303fea595c5fc",
+    "time.latest": 1717868717.741753,
+    "formatted_time": "2024-06-08 23:15:17.741755",
+    "filescores": {
+        "CMakeLists.txt": 3.9966566878195125e-05
+    },
+    "subdirscores": {
+        "Darwin-Kernel": 0.000577833052355089,
+        "FreeBSD-Kernel": 9.607343422723644e-06,
+        "Hexagon-DYLD": 0.0001960772012646694,
+        "MacOSX-DYLD": 0.0007185834407248937,
+        "POSIX-DYLD": 0.0005370339294347203,
+        "Static": 0.00014196837299345602,
+        "wasm-DYLD": 3.1604037799573934e-05,
+        "Windows-DYLD": 0.00010712508223626813
+    }
+}

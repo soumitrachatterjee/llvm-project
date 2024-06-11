@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/lang/objc/objc-struct-return",
+    "score.sum": 2.1844584691511332e-05,
+    "sha.latest": "9c2468821ec51defd09c246fea4a47886fff8c01",
+    "time.latest": 1717959433.0686767,
+    "formatted_time": "2024-06-10 00:27:13.068680",
+    "filescores": {
+        "Makefile": 0,
+        "test.m": 0,
+        "TestObjCStructReturn.py": 2.1844584691511332e-05
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/lang/objc/objc-optimized",
+    "score.sum": 1.5851320191400728e-05,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717959050.7661903,
+    "formatted_time": "2024-06-10 00:20:50.766196",
+    "filescores": {
+        "main.m": 0,
+        "Makefile": 0,
+        "TestObjcOptimized.py": 1.5851320191400728e-05
+    },
+    "subdirscores": {}
+}

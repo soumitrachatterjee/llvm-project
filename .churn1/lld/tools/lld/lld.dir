@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/lld/tools/lld",
+    "score.sum": 0.0003901962866947554,
+    "sha.latest": "3c6f47d6b879ddd2842925d2e5da54657d9e5631",
+    "time.latest": 1717904719.1994448,
+    "formatted_time": "2024-06-09 09:15:19.199447",
+    "filescores": {
+        "CMakeLists.txt": 0.00013562468778691617,
+        "lld.cpp": 0.00027533899679441434
+    },
+    "subdirscores": {}
+}

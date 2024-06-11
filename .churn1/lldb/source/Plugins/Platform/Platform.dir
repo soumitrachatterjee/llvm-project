@@ -1,0 +1,22 @@
+{
+    "directory name": "llvm-project/lldb/source/Plugins/Platform",
+    "score.sum": 0.002752046692196095,
+    "sha.latest": "1b26c25f7e56fe3d5e06c285566ef43812d7baee",
+    "time.latest": 1717873889.621866,
+    "formatted_time": "2024-06-09 00:41:29.621869",
+    "filescores": {
+        "CMakeLists.txt": 2.4654499596600226e-05
+    },
+    "subdirscores": {
+        "Android": 0.00033775930727610563,
+        "FreeBSD": 0.0003380775107276687,
+        "gdb-server": 0.0005754383369669953,
+        "Linux": 0.0004251149531595564,
+        "MacOSX": 0.0015250074741470865,
+        "NetBSD": 0.00017273296929730864,
+        "OpenBSD": 8.736489917057384e-05,
+        "POSIX": 0.00040977466591776576,
+        "QemuUser": 7.543969732135148e-05,
+        "Windows": 0.0002909056132855674
+    }
+}

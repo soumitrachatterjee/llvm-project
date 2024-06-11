@@ -1,0 +1,16 @@
+{
+    "directory name": "llvm-project/lldb/examples/synthetic",
+    "score.sum": 0.00016348773561250123,
+    "sha.latest": "00d3ed6deadb1d647b70ab37ac66ada6a550c1ba",
+    "time.latest": 1717842952.4764395,
+    "formatted_time": "2024-06-08 16:05:52.476444",
+    "filescores": {
+        "gnu_libstdcpp.py": 0.00013628640098442216,
+        "libcxx.py": 2.7417904420262666e-05,
+        "unordered_multi.py": 1.0488211876475642e-05
+    },
+    "subdirscores": {
+        "bitfield": 1.2497349642908548e-05,
+        "recognizer_function": 6.099602068851199e-06
+    }
+}

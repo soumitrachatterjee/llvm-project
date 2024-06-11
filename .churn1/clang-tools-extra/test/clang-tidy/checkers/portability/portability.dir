@@ -1,0 +1,19 @@
+{
+    "directory name": "llvm-project/clang-tools-extra/test/clang-tidy/checkers/portability",
+    "score.sum": 9.349707976325258e-06,
+    "sha.latest": "e8a3ddafe063c970df9c23e803812369abde4c82",
+    "time.latest": 1717829798.20066,
+    "formatted_time": "2024-06-08 12:26:38.200664",
+    "filescores": {
+        "restrict-system-includes-allow.cpp": 6.099602068851199e-06,
+        "restrict-system-includes-disallow.cpp": 6.099602068851199e-06,
+        "restrict-system-includes-glob.cpp": 6.099602068851199e-06,
+        "restrict-system-includes-transitive.cpp": 6.099602068851199e-06,
+        "simd-intrinsics-ppc.cpp": 9.349707976325258e-06,
+        "simd-intrinsics-x86.cpp": 9.349707976325258e-06,
+        "std-allocator-const.cpp": 0
+    },
+    "subdirscores": {
+        "Inputs": 0
+    }
+}

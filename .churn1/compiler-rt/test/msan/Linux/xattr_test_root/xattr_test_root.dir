@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/compiler-rt/test/msan/Linux/xattr_test_root",
+    "score.sum": 0,
+    "sha.latest": "8434e60f7e2d8e5da48d94f612cf980a5d63bcec",
+    "time.latest": 1717833963.8691428,
+    "formatted_time": "2024-06-08 13:36:03.869145",
+    "filescores": {
+        "a": 0
+    },
+    "subdirscores": {}
+}

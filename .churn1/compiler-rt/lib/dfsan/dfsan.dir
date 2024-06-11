@@ -1,0 +1,32 @@
+{
+    "directory name": "llvm-project/compiler-rt/lib/dfsan",
+    "score.sum": 0.0008169357800980069,
+    "sha.latest": "648560062af8deb4e6478130deb1dd8fa62929a8",
+    "time.latest": 1717798215.190806,
+    "formatted_time": "2024-06-08 03:40:15.190809",
+    "filescores": {
+        ".clang-format": 2.3322092761216942e-05,
+        "CMakeLists.txt": 9.882805460070927e-05,
+        "dfsan.cpp": 0.00014042881857562157,
+        "dfsan.h": 0.00011071830878998241,
+        "dfsan.syms.extra": 6.099602068851199e-06,
+        "dfsan_allocator.cpp": 4.6939183344608924e-05,
+        "dfsan_allocator.h": 0,
+        "dfsan_chained_origin_depot.cpp": 1.2195127641963121e-05,
+        "dfsan_chained_origin_depot.h": 6.099602068851199e-06,
+        "dfsan_custom.cpp": 0.00014701355990538964,
+        "dfsan_flags.h": 0,
+        "dfsan_flags.inc": 3.673667766175174e-05,
+        "dfsan_interceptors.cpp": 3.4718352078908964e-05,
+        "dfsan_new_delete.cpp": 0,
+        "dfsan_origin.h": 0,
+        "dfsan_platform.h": 4.2245490528715045e-05,
+        "dfsan_thread.cpp": 2.4401840854956883e-05,
+        "dfsan_thread.h": 2.755864668149842e-05,
+        "done_abilist.txt": 0.00023183123870329834,
+        "libc_ubuntu1404_abilist.txt": 1.059167746793979e-05
+    },
+    "subdirscores": {
+        "scripts": 7.295800842351385e-05
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/iterators/iterator.requirements/alg.req.ind.swap",
+    "score.sum": 7.100547834015149e-06,
+    "sha.latest": "d2baefae6846765eef6a6dd69d4fdf1082ce29ad",
+    "time.latest": 1717912910.163153,
+    "formatted_time": "2024-06-09 11:31:50.163154",
+    "filescores": {
+        "indirectly_swappable.compile.pass.cpp": 7.100547834015149e-06,
+        "indirectly_swappable.subsumption.compile.pass.cpp": 7.100547834015149e-06
+    },
+    "subdirscores": {}
+}

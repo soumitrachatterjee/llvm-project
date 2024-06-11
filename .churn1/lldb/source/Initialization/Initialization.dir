@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/lldb/source/Initialization",
+    "score.sum": 0.00018065520418190342,
+    "sha.latest": "a2e61bc2f3bc66124575c0abf9b8421073470202",
+    "time.latest": 1717866634.338202,
+    "formatted_time": "2024-06-08 22:40:34.338205",
+    "filescores": {
+        "CMakeLists.txt": 3.9329292820020485e-05,
+        "SystemInitializer.cpp": 1.5907304222509128e-05,
+        "SystemInitializerCommon.cpp": 0.00017077867199537263,
+        "SystemLifetimeManager.cpp": 2.4580694530747508e-05
+    },
+    "subdirscores": {}
+}

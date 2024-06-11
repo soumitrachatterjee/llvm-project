@@ -1,0 +1,20 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/ranges/range.adaptors/range.join/range.join.iterator",
+    "score.sum": 0,
+    "sha.latest": "6a664674990094c1b5d2e717256f08cb04485899",
+    "time.latest": 1717961972.6879098,
+    "formatted_time": "2024-06-10 01:09:32.687914",
+    "filescores": {
+        "arrow.pass.cpp": 0,
+        "ctor.default.pass.cpp": 0,
+        "ctor.other.pass.cpp": 0,
+        "decrement.pass.cpp": 0,
+        "eq.pass.cpp": 0,
+        "increment.pass.cpp": 0,
+        "iter.move.pass.cpp": 0,
+        "iter.swap.pass.cpp": 0,
+        "member_types.compile.pass.cpp": 0,
+        "star.pass.cpp": 0
+    },
+    "subdirscores": {}
+}

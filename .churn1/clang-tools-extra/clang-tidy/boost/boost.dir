@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/clang-tools-extra/clang-tidy/boost",
+    "score.sum": 4.43241055811883e-05,
+    "sha.latest": "2fb1c1082c01ddf9b2531083196ff2dace1fdab7",
+    "time.latest": 1717791838.8505836,
+    "formatted_time": "2024-06-08 01:53:58.850589",
+    "filescores": {
+        "BoostTidyModule.cpp": 8.574793150007997e-06,
+        "CMakeLists.txt": 1.6365181647228228e-05,
+        "UseToStringCheck.cpp": 1.593050264255105e-05,
+        "UseToStringCheck.h": 2.0225854901409067e-05
+    },
+    "subdirscores": {}
+}

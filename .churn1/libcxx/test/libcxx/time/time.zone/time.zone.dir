@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/libcxx/test/libcxx/time/time.zone",
+    "score.sum": 6.099602068851199e-06,
+    "sha.latest": "d332d88b919faa15564ab70b0633d94f21bc3e3c",
+    "time.latest": 1717865758.9681928,
+    "formatted_time": "2024-06-08 22:25:58.968196",
+    "filescores": {},
+    "subdirscores": {
+        "time.zone.db": 6.099602068851199e-06
+    }
+}

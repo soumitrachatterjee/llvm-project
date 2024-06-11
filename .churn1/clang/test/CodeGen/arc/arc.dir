@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/clang/test/CodeGen/arc",
+    "score.sum": 5.6672228917466616e-05,
+    "sha.latest": "158d72d728261c1e54dc77931372b2322c52849f",
+    "time.latest": 1717887124.1962032,
+    "formatted_time": "2024-06-09 04:22:04.196205",
+    "filescores": {
+        "arguments.c": 5.6672228917466616e-05,
+        "struct-align.c": 1.4557521670882674e-05
+    },
+    "subdirscores": {}
+}

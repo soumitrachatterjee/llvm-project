@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/compiler-rt/test/ubsan/TestCases/TypeCheck/Function",
+    "score.sum": 9.76485666654655e-05,
+    "sha.latest": "52a280bb60c20e12df3e1e91701f6338e03595d1",
+    "time.latest": 1717864936.0002964,
+    "formatted_time": "2024-06-08 22:12:16.000299",
+    "filescores": {
+        "c.c": 0,
+        "function.cpp": 7.36963615852744e-05,
+        "lit.local.cfg.py": 3.042990099353806e-05
+    },
+    "subdirscores": {}
+}

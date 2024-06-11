@@ -1,0 +1,27 @@
+{
+    "directory name": "llvm-project/compiler-rt/lib/builtins/ppc",
+    "score.sum": 7.277746717611031e-05,
+    "sha.latest": "d56729b4a4393da9c65bdfe762b51f8b7b0ce0ca",
+    "time.latest": 1717797314.8207371,
+    "formatted_time": "2024-06-08 03:25:14.820740",
+    "filescores": {
+        "atomic.exp": 0,
+        "DD.h": 2.0228768645779218e-05,
+        "divtc3.c": 3.71101320760482e-05,
+        "fixtfdi.c": 1.8266987394534683e-05,
+        "fixtfti.c": 0,
+        "fixunstfdi.c": 1.7978924103831285e-05,
+        "fixunstfti.c": 8.468262901000824e-06,
+        "floatditf.c": 1.7978924103831285e-05,
+        "floattitf.c": 6.600324624669968e-06,
+        "floatunditf.c": 1.7978924103831285e-05,
+        "gcc_qadd.c": 1.7978924103831285e-05,
+        "gcc_qdiv.c": 1.7978924103831285e-05,
+        "gcc_qmul.c": 1.7978924103831285e-05,
+        "gcc_qsub.c": 1.7978924103831285e-05,
+        "multc3.c": 2.0054538193929254e-05,
+        "restFP.S": 9.012169714578006e-06,
+        "saveFP.S": 9.012169714578006e-06
+    },
+    "subdirscores": {}
+}

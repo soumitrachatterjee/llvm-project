@@ -1,0 +1,17 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/depr/depr.auto.ptr/auto.ptr",
+    "score.sum": 4.458209051201173e-05,
+    "sha.latest": "61f2b3ed2183d24252561f9b48007e6cde937ce4",
+    "time.latest": 1717895190.3130822,
+    "formatted_time": "2024-06-09 06:36:30.313084",
+    "filescores": {
+        "A.h": 1.5769885388937643e-05,
+        "AB.h": 1.5769885388937643e-05,
+        "element_type.pass.cpp": 2.9146570560596048e-05
+    },
+    "subdirscores": {
+        "auto.ptr.cons": 3.3163985647300554e-05,
+        "auto.ptr.conv": 2.9146570560596048e-05,
+        "auto.ptr.members": 2.8657610541158544e-05
+    }
+}

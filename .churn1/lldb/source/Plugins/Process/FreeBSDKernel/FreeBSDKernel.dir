@@ -1,0 +1,21 @@
+{
+    "directory name": "llvm-project/lldb/source/Plugins/Process/FreeBSDKernel",
+    "score.sum": 1.750315382277727e-05,
+    "sha.latest": "8884ba43a8485bebef5c4d41e7ed457e3fa84f07",
+    "time.latest": 1717874788.8828876,
+    "formatted_time": "2024-06-09 00:56:28.882891",
+    "filescores": {
+        "CMakeLists.txt": 6.237501854604975e-06,
+        "ProcessFreeBSDKernel.cpp": 1.750315382277727e-05,
+        "ProcessFreeBSDKernel.h": 6.343027814714985e-06,
+        "RegisterContextFreeBSDKernel_arm64.cpp": 6.456684504286612e-06,
+        "RegisterContextFreeBSDKernel_arm64.h": 6.456684504286612e-06,
+        "RegisterContextFreeBSDKernel_i386.cpp": 6.456684504286612e-06,
+        "RegisterContextFreeBSDKernel_i386.h": 6.456684504286612e-06,
+        "RegisterContextFreeBSDKernel_x86_64.cpp": 6.456684504286612e-06,
+        "RegisterContextFreeBSDKernel_x86_64.h": 6.456684504286612e-06,
+        "ThreadFreeBSDKernel.cpp": 6.146783534436573e-06,
+        "ThreadFreeBSDKernel.h": 6.146783534436573e-06
+    },
+    "subdirscores": {}
+}

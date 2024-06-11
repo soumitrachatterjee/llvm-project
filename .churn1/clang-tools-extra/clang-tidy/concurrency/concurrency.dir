@@ -1,0 +1,16 @@
+{
+    "directory name": "llvm-project/clang-tools-extra/clang-tidy/concurrency",
+    "score.sum": 4.398250836800026e-05,
+    "sha.latest": "ec5f4be4521c3b28d6bb14f34f39a87c36fe8c00",
+    "time.latest": 1717794808.7483957,
+    "formatted_time": "2024-06-08 02:43:28.748399",
+    "filescores": {
+        "CMakeLists.txt": 6.62472609193096e-06,
+        "ConcurrencyTidyModule.cpp": 6.76112382214941e-06,
+        "MtUnsafeCheck.cpp": 1.5896135820296594e-05,
+        "MtUnsafeCheck.h": 1.6467193243004664e-05,
+        "ThreadCanceltypeAsynchronousCheck.cpp": 1.1522955820383888e-05,
+        "ThreadCanceltypeAsynchronousCheck.h": 1.0274842285602371e-05
+    },
+    "subdirscores": {}
+}

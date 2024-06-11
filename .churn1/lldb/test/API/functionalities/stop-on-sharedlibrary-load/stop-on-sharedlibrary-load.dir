@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/lldb/test/API/functionalities/stop-on-sharedlibrary-load",
+    "score.sum": 1.7006157228849294e-05,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717920288.3578453,
+    "formatted_time": "2024-06-09 13:34:48.357848",
+    "filescores": {
+        "a.cpp": 6.130656138916883e-06,
+        "b.cpp": 6.130656138916883e-06,
+        "main.cpp": 6.130656138916883e-06,
+        "Makefile": 6.130656138916883e-06,
+        "TestStopOnSharedlibraryEvents.py": 1.7006157228849294e-05
+    },
+    "subdirscores": {}
+}

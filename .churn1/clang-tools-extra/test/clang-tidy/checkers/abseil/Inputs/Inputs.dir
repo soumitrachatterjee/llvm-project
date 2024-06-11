@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/clang-tools-extra/test/clang-tidy/checkers/abseil/Inputs",
+    "score.sum": 6.099602068851199e-06,
+    "sha.latest": "96ec447a6ae39edff92674e9849de2bf21bfd430",
+    "time.latest": 1717818403.285357,
+    "formatted_time": "2024-06-08 09:16:43.285361",
+    "filescores": {},
+    "subdirscores": {
+        "absl": 6.099602068851199e-06
+    }
+}

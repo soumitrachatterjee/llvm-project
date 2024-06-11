@@ -1,0 +1,16 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/numerics/numarray/template.gslice.array",
+    "score.sum": 2.0607948046759235e-05,
+    "sha.latest": "7a6aaf9b23d6ac2fb8c11c00c73e55c0bc7aa2f0",
+    "time.latest": 1717949036.0025148,
+    "formatted_time": "2024-06-09 21:33:56.002523",
+    "filescores": {
+        "default.compile.fail.cpp": 0,
+        "types.pass.cpp": 1.7366275644238228e-05
+    },
+    "subdirscores": {
+        "gslice.array.assign": null,
+        "gslice.array.comp.assign": 1.7366275644238228e-05,
+        "gslice.array.fill": 1.7366275644238228e-05
+    }
+}

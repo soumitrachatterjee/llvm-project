@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/clang-tools-extra/test/clang-tidy/checkers/bugprone/Inputs/unchecked-optional-access/absl/types",
+    "score.sum": 6.099602068851199e-06,
+    "sha.latest": "14bc11a651971bbbdf96565898be2c94fa2b1cf5",
+    "time.latest": 1717820566.9563935,
+    "formatted_time": "2024-06-08 09:52:46.956397",
+    "filescores": {
+        "optional.h": 6.099602068851199e-06
+    },
+    "subdirscores": {}
+}

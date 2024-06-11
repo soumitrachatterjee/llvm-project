@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/iterators/iterator.requirements/indirectcallable",
+    "score.sum": 1.2261977333059902e-05,
+    "sha.latest": "4d08eccd63669a6ff39b6aa01f46b4d467e6d489",
+    "time.latest": 1717913664.59621,
+    "formatted_time": "2024-06-09 11:44:24.596211",
+    "filescores": {},
+    "subdirscores": {
+        "indirectinvocable": 1.2261977333059902e-05,
+        "projected": 7.706036083622107e-06
+    }
+}

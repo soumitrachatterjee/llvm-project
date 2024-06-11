@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/ranges/range.adaptors/range.split/sentinel",
+    "score.sum": 0,
+    "sha.latest": "a2b3ab8f7786b9bb6e1b8bbb01b88d4bbe28af69",
+    "time.latest": 1717962945.5162725,
+    "formatted_time": "2024-06-10 01:25:45.516276",
+    "filescores": {
+        "ctor.default.pass.cpp": 0,
+        "ctor.parent.pass.cpp": 0,
+        "equal.pass.cpp": 0
+    },
+    "subdirscores": {}
+}

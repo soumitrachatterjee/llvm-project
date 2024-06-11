@@ -1,0 +1,31 @@
+{
+    "directory name": "llvm-project/libcxx/modules/std.compat",
+    "score.sum": 1.2198962850602211e-05,
+    "sha.latest": "9a90aa01edfc5a56d975658a0cbbfa980a0ef7ed",
+    "time.latest": 1717841772.7731905,
+    "formatted_time": "2024-06-08 15:46:12.773193",
+    "filescores": {
+        "cassert.inc": 0,
+        "cctype.inc": 0,
+        "cerrno.inc": 0,
+        "cfenv.inc": 0,
+        "cfloat.inc": 0,
+        "cinttypes.inc": 0,
+        "climits.inc": 0,
+        "clocale.inc": 0,
+        "cmath.inc": 0,
+        "csetjmp.inc": 0,
+        "csignal.inc": 0,
+        "cstdarg.inc": 0,
+        "cstddef.inc": 0,
+        "cstdint.inc": 0,
+        "cstdio.inc": 0,
+        "cstdlib.inc": 6.099602068851199e-06,
+        "cstring.inc": 0,
+        "ctime.inc": 6.099602068851199e-06,
+        "cuchar.inc": 0,
+        "cwchar.inc": 0,
+        "cwctype.inc": 0
+    },
+    "subdirscores": {}
+}

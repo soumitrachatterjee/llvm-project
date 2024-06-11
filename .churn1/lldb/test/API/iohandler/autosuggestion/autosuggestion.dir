@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/lldb/test/API/iohandler/autosuggestion",
+    "score.sum": 2.520004593568083e-05,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717924515.1464467,
+    "formatted_time": "2024-06-09 14:45:15.146450",
+    "filescores": {
+        "TestAutosuggestion.py": 2.520004593568083e-05
+    },
+    "subdirscores": {}
+}

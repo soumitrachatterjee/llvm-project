@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/experimental/utilities/propagate_const",
+    "score.sum": 2.3546708521034355e-05,
+    "sha.latest": "fb855eb941b6d740cc6560297d0b4d3201dcaf9f",
+    "time.latest": 1717900951.7551053,
+    "formatted_time": "2024-06-09 08:12:31.755107",
+    "filescores": {},
+    "subdirscores": {
+        "propagate_const.class": 2.977844467156034e-05,
+        "propagate_const.nonmembers": 1.750676067549219e-05
+    }
+}

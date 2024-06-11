@@ -1,0 +1,22 @@
+{
+    "directory name": "llvm-project/lldb/source/Plugins/ObjectFile",
+    "score.sum": 0.0029047828776687396,
+    "sha.latest": "aeaa11aeac0aedf32cafec6532d303fea595c5fc",
+    "time.latest": 1717872644.7821152,
+    "formatted_time": "2024-06-09 00:20:44.782118",
+    "filescores": {
+        "CMakeLists.txt": 6.929550767373044e-05
+    },
+    "subdirscores": {
+        "Breakpad": 0.00010798246156898839,
+        "COFF": 6.099602068851199e-06,
+        "ELF": 0.001140849333131894,
+        "JSON": 6.099602068851199e-06,
+        "Mach-O": 0.0014870429511170495,
+        "Minidump": 3.238762828107456e-05,
+        "PDB": 4.056003471806019e-05,
+        "PECOFF": 0.000702762198921418,
+        "Placeholder": 0,
+        "wasm": 7.962469332456388e-05
+    }
+}

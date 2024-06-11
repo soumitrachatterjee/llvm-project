@@ -1,0 +1,19 @@
+{
+    "directory name": "llvm-project/bolt/include/bolt/Rewrite",
+    "score.sum": 0.00022773047967450407,
+    "sha.latest": "6de5fcc74637116581d7b9b39c16fc252a5a54ef",
+    "time.latest": 1717788483.1194484,
+    "formatted_time": "2024-06-08 00:58:03.119453",
+    "filescores": {
+        "BinaryPassManager.h": 7.396858620452781e-06,
+        "DWARFRewriter.h": 7.99224975450359e-05,
+        "ExecutableFileMemoryManager.h": 1.4990487253603807e-05,
+        "JITLinkLinker.h": 6.099602068851199e-06,
+        "MachORewriteInstance.h": 1.7675852539190505e-05,
+        "MetadataManager.h": 6.305568411263146e-06,
+        "MetadataRewriter.h": 6.305568411263146e-06,
+        "MetadataRewriters.h": 1.2618989055892366e-05,
+        "RewriteInstance.h": 0.00014297204318395915
+    },
+    "subdirscores": {}
+}

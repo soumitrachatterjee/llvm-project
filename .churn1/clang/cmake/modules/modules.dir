@@ -1,0 +1,16 @@
+{
+    "directory name": "llvm-project/clang/cmake/modules",
+    "score.sum": 0.0003670674603163532,
+    "sha.latest": "eb4aa6c7a5f22583e319aaaae3f6ee73cbc5464a",
+    "time.latest": 1717789616.9223797,
+    "formatted_time": "2024-06-08 01:16:56.922385",
+    "filescores": {
+        "AddClang.cmake": 0.00017437007171842178,
+        "AddGRPC.cmake": 1.2073986818045005e-05,
+        "ClangConfig.cmake.in": 2.8896396356599887e-05,
+        "ClangConfigVersion.cmake.in": 1.1641262391094303e-05,
+        "CMakeLists.txt": 0.00010154552101822943,
+        "ProtobufMutator.cmake": 2.1016960163407725e-05
+    },
+    "subdirscores": {}
+}

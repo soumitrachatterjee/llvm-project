@@ -1,0 +1,20 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/strings/basic.string/string.iterators",
+    "score.sum": 0.00016828055036268688,
+    "sha.latest": "6e1dcc9335116f650d68cdbed12bbb34a99b2d9b",
+    "time.latest": 1717969172.726627,
+    "formatted_time": "2024-06-10 03:09:32.726630",
+    "filescores": {
+        "begin.pass.cpp": 3.7271579617702504e-05,
+        "cbegin.pass.cpp": 3.7271579617702504e-05,
+        "cend.pass.cpp": 4.2310999444495175e-05,
+        "crbegin.pass.cpp": 3.7271579617702504e-05,
+        "crend.pass.cpp": 3.7271579617702504e-05,
+        "end.pass.cpp": 3.863675433187271e-05,
+        "iterators.pass.cpp": 4.790370850225296e-05,
+        "iterator_concept_conformance.compile.pass.cpp": 1.294240733691695e-05,
+        "rbegin.pass.cpp": 3.7271579617702504e-05,
+        "rend.pass.cpp": 4.367617415866538e-05
+    },
+    "subdirscores": {}
+}

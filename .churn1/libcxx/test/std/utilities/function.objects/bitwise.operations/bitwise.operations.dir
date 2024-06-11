@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/utilities/function.objects/bitwise.operations",
+    "score.sum": 3.280016993697355e-05,
+    "sha.latest": "dc066888bd98c0500ca7b590317dc91ccce0fd38",
+    "time.latest": 1717995718.1256058,
+    "formatted_time": "2024-06-10 10:31:58.125608",
+    "filescores": {
+        "bit_and.pass.cpp": 1.5632914891306654e-05,
+        "bit_not.pass.cpp": 2.4527987036651093e-05,
+        "bit_or.pass.cpp": 1.5632914891306654e-05,
+        "bit_xor.pass.cpp": 1.5755908730416868e-05,
+        "transparent.pass.cpp": 2.939478967207953e-05
+    },
+    "subdirscores": {}
+}

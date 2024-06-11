@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/compiler-rt/lib/hwasan/scripts",
+    "score.sum": 8.369372250392987e-05,
+    "sha.latest": "8565e8352be8900b20ebf1f741aeb425614f7906",
+    "time.latest": 1717800231.5635686,
+    "formatted_time": "2024-06-08 04:13:51.563572",
+    "filescores": {
+        "CMakeLists.txt": 0,
+        "hwasan_symbolize": 8.369372250392987e-05
+    },
+    "subdirscores": {}
+}

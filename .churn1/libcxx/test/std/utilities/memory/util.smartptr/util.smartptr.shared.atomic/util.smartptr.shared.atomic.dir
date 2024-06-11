@@ -1,0 +1,21 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/utilities/memory/util.smartptr/util.smartptr.shared.atomic",
+    "score.sum": 3.204471974435705e-05,
+    "sha.latest": "a7f9895cc18995549c7facb96e72718da282a864",
+    "time.latest": 1718000222.7959013,
+    "formatted_time": "2024-06-10 11:47:02.795903",
+    "filescores": {
+        "atomic_compare_exchange_strong.pass.cpp": 3.204471974435705e-05,
+        "atomic_compare_exchange_strong_explicit.pass.cpp": 3.204471974435705e-05,
+        "atomic_compare_exchange_weak.pass.cpp": 2.6722211113239292e-05,
+        "atomic_compare_exchange_weak_explicit.pass.cpp": 3.204471974435705e-05,
+        "atomic_exchange.pass.cpp": 2.6722211113239292e-05,
+        "atomic_exchange_explicit.pass.cpp": 3.204471974435705e-05,
+        "atomic_is_lock_free.pass.cpp": 1.853018881600324e-05,
+        "atomic_load.pass.cpp": 2.6722211113239292e-05,
+        "atomic_load_explicit.pass.cpp": 3.204471974435705e-05,
+        "atomic_store.pass.cpp": 2.6722211113239292e-05,
+        "atomic_store_explicit.pass.cpp": 3.204471974435705e-05
+    },
+    "subdirscores": {}
+}

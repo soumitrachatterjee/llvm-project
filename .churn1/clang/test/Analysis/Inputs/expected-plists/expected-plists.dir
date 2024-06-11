@@ -1,0 +1,32 @@
+{
+    "directory name": "llvm-project/clang/test/Analysis/Inputs/expected-plists",
+    "score.sum": 0.00011229494215054926,
+    "sha.latest": "37c19f9a35c5adad009ad82c608b9ca11155ec06",
+    "time.latest": 1717834093.850242,
+    "formatted_time": "2024-06-08 13:38:13.850247",
+    "filescores": {
+        "conditional-path-notes.c.plist": 8.581221626649102e-06,
+        "cxx-for-range.cpp.plist": 3.620721337921183e-05,
+        "edges-new.mm.plist": 3.616961573356159e-05,
+        "generics.m.plist": 1.0072280134088452e-05,
+        "inline-plist.c.plist": 2.1530324480363913e-05,
+        "inline-unique-reports.c.plist": 8.581221626649102e-06,
+        "lambda-notes.cpp.plist": 6.130312426287229e-06,
+        "malloc-plist.c.plist": 1.8910404981724937e-05,
+        "method-call-path-notes.cpp.plist": 3.205090621505224e-05,
+        "model-file.cpp.plist": 8.581221626649102e-06,
+        "NewDelete-path-notes.cpp.plist": 3.9831906573528465e-05,
+        "null-deref-path-notes.m.plist": 8.581221626649102e-06,
+        "nullability-notes.m.plist": 2.0318198803474314e-05,
+        "objc-arc.m.plist": 1.4772777355004286e-05,
+        "objc-radar17039661.m.plist": 1.652499412115097e-05,
+        "plist-macros.cpp.plist": 1.4481839663158033e-05,
+        "plist-output-alternate.m.plist": 1.1589972304012128e-05,
+        "plist-output.m.plist": 2.816390705628321e-05,
+        "retain-release-path-notes.m.plist": 3.36618125531419e-05,
+        "retain-release.m.objc.plist": 3.699455570629012e-05,
+        "retain-release.m.objcpp.plist": 3.699455570629012e-05,
+        "unix-fns.c.plist": 1.1741936105290826e-05
+    },
+    "subdirscores": {}
+}

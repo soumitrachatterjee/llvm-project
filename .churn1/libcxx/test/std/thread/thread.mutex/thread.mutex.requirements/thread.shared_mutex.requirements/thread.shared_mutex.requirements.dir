@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/thread/thread.mutex/thread.mutex.requirements/thread.shared_mutex.requirements",
+    "score.sum": 9.626896801529846e-05,
+    "sha.latest": "164c204a19f7859d570003d4c5e82faf48cb65a9",
+    "time.latest": 1717978886.190776,
+    "formatted_time": "2024-06-10 05:51:26.190778",
+    "filescores": {},
+    "subdirscores": {
+        "thread.shared_mutex.class": 9.14897695212173e-05
+    }
+}

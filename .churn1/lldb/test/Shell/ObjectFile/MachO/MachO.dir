@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/lldb/test/Shell/ObjectFile/MachO",
+    "score.sum": 9.050780543678458e-06,
+    "sha.latest": "b71b25008f2a746d11ed1db1f49a6461b387cc8a",
+    "time.latest": 1717975547.6095943,
+    "formatted_time": "2024-06-10 04:55:47.609596",
+    "filescores": {
+        "lc_build_version.yaml": 9.041261968026179e-06,
+        "lc_build_version_notools.yaml": 9.041261968026179e-06,
+        "lc_version_min.yaml": 9.041261968026179e-06,
+        "subsections.yaml": 6.102551435803408e-06,
+        "symtab.yaml": 6.110542350585359e-06
+    },
+    "subdirscores": {}
+}

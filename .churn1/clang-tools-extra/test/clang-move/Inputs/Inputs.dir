@@ -1,0 +1,27 @@
+{
+    "directory name": "llvm-project/clang-tools-extra/test/clang-move/Inputs",
+    "score.sum": 3.556492225635309e-05,
+    "sha.latest": "4a92050ce220b2ab75585c961f4fa9b6b82829f2",
+    "time.latest": 1717817602.1407924,
+    "formatted_time": "2024-06-08 09:03:22.140796",
+    "filescores": {
+        "database_template.json": 1.2967260624703986e-05,
+        "enum.h": 0,
+        "function_test.cpp": 0,
+        "function_test.h": 0,
+        "helper_decls_test.cpp": 6.099602068851199e-06,
+        "helper_decls_test.h": 6.099602068851199e-06,
+        "macro_helper_test.cpp": 0,
+        "macro_helper_test.h": 0,
+        "multiple_class_test.cpp": 1.071916242867643e-05,
+        "multiple_class_test.h": 1.2356909656667254e-05,
+        "template_class_test.cpp": 0,
+        "template_class_test.h": 0,
+        "test.cpp": 6.099602068851199e-06,
+        "test.h": 7.82762769761409e-06,
+        "type_alias.h": 0,
+        "var_test.cpp": 0,
+        "var_test.h": 0
+    },
+    "subdirscores": {}
+}

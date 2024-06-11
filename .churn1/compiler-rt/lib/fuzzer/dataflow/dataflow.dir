@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/compiler-rt/lib/fuzzer/dataflow",
+    "score.sum": 3.4719269508751597e-05,
+    "sha.latest": "070556237e29e8a804fbec1d416d431239384ab0",
+    "time.latest": 1717798325.6981013,
+    "formatted_time": "2024-06-08 03:42:05.698104",
+    "filescores": {
+        "DataFlow.cpp": 3.4719269508751597e-05,
+        "DataFlow.h": 0,
+        "DataFlowCallbacks.cpp": 0
+    },
+    "subdirscores": {}
+}

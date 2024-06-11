@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/lldb/source/Plugins/Trace",
+    "score.sum": 0.00030560380536616405,
+    "sha.latest": "a50ea2f76f993f65c8756067f7ad5a21e560b0c9",
+    "time.latest": 1717882464.1291423,
+    "formatted_time": "2024-06-09 03:04:24.129144",
+    "filescores": {
+        "CMakeLists.txt": 6.099602068851199e-06
+    },
+    "subdirscores": {
+        "common": 2.318509814522511e-05,
+        "intel-pt": 0.00030560380536616405
+    }
+}

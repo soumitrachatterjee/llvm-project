@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/utilities/format/format.range/format.range.fmtstr",
+    "score.sum": 2.3605477525449137e-05,
+    "sha.latest": "b29301cd40441b5eb8cef9356429fb081e6b6a72",
+    "time.latest": 1717995085.3481283,
+    "formatted_time": "2024-06-10 10:21:25.348130",
+    "filescores": {
+        "format.functions.format.pass.cpp": 1.032218019668888e-05,
+        "format.functions.tests.h": 1.5594941485405686e-05,
+        "format.functions.vformat.pass.cpp": 1.032218019668888e-05,
+        "format.pass.cpp": 6.960657863615568e-06,
+        "parse.pass.cpp": 7.003477672816006e-06
+    },
+    "subdirscores": {}
+}

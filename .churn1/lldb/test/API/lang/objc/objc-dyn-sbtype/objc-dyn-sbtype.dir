@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/lldb/test/API/lang/objc/objc-dyn-sbtype",
+    "score.sum": 2.016654627179795e-05,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717958662.078018,
+    "formatted_time": "2024-06-10 00:14:22.078023",
+    "filescores": {
+        "categories": 0,
+        "main.m": 0,
+        "Makefile": 0,
+        "TestObjCDynamicSBType.py": 1.877930624445943e-05
+    },
+    "subdirscores": {}
+}

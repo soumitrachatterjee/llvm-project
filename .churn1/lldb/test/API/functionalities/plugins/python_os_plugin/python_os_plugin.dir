@@ -1,0 +1,17 @@
+{
+    "directory name": "llvm-project/lldb/test/API/functionalities/plugins/python_os_plugin",
+    "score.sum": 3.478561042060852e-05,
+    "sha.latest": "80fcecb13c388ff087a27a4b0e7ca3dd8c98eaa4",
+    "time.latest": 1717914522.5187175,
+    "formatted_time": "2024-06-09 11:58:42.518719",
+    "filescores": {
+        "main.c": 0,
+        "Makefile": 0,
+        "operating_system.py": 1.2208130654983371e-05,
+        "operating_system2.py": 6.893549111409893e-06,
+        "TestPythonOSPlugin.py": 1.6379354928371145e-05
+    },
+    "subdirscores": {
+        "stepping_plugin_threads": 2.4221899318728798e-05
+    }
+}

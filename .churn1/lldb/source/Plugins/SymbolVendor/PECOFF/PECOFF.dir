@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/source/Plugins/SymbolVendor/PECOFF",
+    "score.sum": 1.2875142928847161e-05,
+    "sha.latest": "745e8bfd1ade216c909074153d2dc9eb39d4adb7",
+    "time.latest": 1717881861.374288,
+    "formatted_time": "2024-06-09 02:54:21.374290",
+    "filescores": {
+        "CMakeLists.txt": 0,
+        "SymbolVendorPECOFF.cpp": 1.2875142928847161e-05,
+        "SymbolVendorPECOFF.h": 0
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,17 @@
+{
+    "directory name": "llvm-project/compiler-rt/lib/builtins/cpu_model/aarch64/fmv",
+    "score.sum": 2.4527492084191904e-05,
+    "sha.latest": "659419ac2f05035cd8ff19806a9e48ccc725d3ba",
+    "time.latest": 1717793931.1115928,
+    "formatted_time": "2024-06-08 02:28:51.111597",
+    "filescores": {
+        "android.inc": 1.3877284706870512e-05,
+        "apple.inc": 1.9081902312549387e-05,
+        "freebsd.inc": 1.070728815746758e-05,
+        "fuchsia.inc": 6.167747384265451e-06,
+        "mrs.inc": 6.124870242788437e-06,
+        "sysauxv.inc": 1.3877284706870512e-05,
+        "unimplemented.inc": 1.070728815746758e-05
+    },
+    "subdirscores": {}
+}

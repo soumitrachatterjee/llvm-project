@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/lld/test/MachO/Inputs/MacOSX.sdk/System/Library/Frameworks/CoreFoundation.framework",
+    "score.sum": 1.0083498065674537e-05,
+    "sha.latest": "ac2dd06b91ae7264fa7d396c15c7647510ede231",
+    "time.latest": 1717897884.2197387,
+    "formatted_time": "2024-06-09 07:21:24.219789",
+    "filescores": {
+        "CoreFoundation.tbd": 1.0083498065674537e-05
+    },
+    "subdirscores": {}
+}

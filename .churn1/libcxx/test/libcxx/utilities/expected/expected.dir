@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/libcxx/test/libcxx/utilities/expected",
+    "score.sum": 8.429727900532021e-05,
+    "sha.latest": "c58c6aac7715d720358e317c26b6768940430ce9",
+    "time.latest": 1717866406.5314417,
+    "formatted_time": "2024-06-08 22:36:46.531444",
+    "filescores": {
+        "types.h": 0
+    },
+    "subdirscores": {
+        "expected.expected": 7.310210499423753e-05,
+        "expected.unexpected": 6.099602068851199e-06,
+        "expected.void": 7.504138997857851e-05
+    }
+}

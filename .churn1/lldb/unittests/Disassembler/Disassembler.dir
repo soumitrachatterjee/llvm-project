@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/lldb/unittests/Disassembler",
+    "score.sum": 3.8365835960435365e-05,
+    "sha.latest": "89c9fee420e1ed099aaa4aab48f3b58e233a3ea9",
+    "time.latest": 1717996052.8182588,
+    "formatted_time": "2024-06-10 10:37:32.818261",
+    "filescores": {
+        "CMakeLists.txt": 2.042160550405186e-05
+    },
+    "subdirscores": {
+        "ARM": 6.099602068851199e-06,
+        "RISCV": 6.099602068851199e-06,
+        "x86": 1.5012672635242692e-05
+    }
+}

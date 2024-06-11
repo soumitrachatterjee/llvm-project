@@ -1,0 +1,29 @@
+{
+    "directory name": "llvm-project/clang-tools-extra/unittests/clang-tidy",
+    "score.sum": 0.0007193166276788548,
+    "sha.latest": "308a2360725948fd6c77d005110c169ab1a8322c",
+    "time.latest": 1717837159.1347167,
+    "formatted_time": "2024-06-08 14:29:19.134720",
+    "filescores": {
+        "AddConstTest.cpp": 1.2199137284884008e-05,
+        "ClangTidyDiagnosticConsumerTest.cpp": 6.139912441660018e-05,
+        "ClangTidyOptionsTest.cpp": 0.00015354124828726023,
+        "ClangTidyTest.h": 0.0001171237704448094,
+        "CMakeLists.txt": 0.0001265156232401974,
+        "DeclRefExprUtilsTest.cpp": 1.655471216705498e-05,
+        "GlobListTest.cpp": 1.503415708024008e-05,
+        "GoogleModuleTest.cpp": 1.3383699244171747e-05,
+        "IncludeCleanerTest.cpp": 1.89429865182029e-05,
+        "IncludeInserterTest.cpp": 4.817387727081138e-05,
+        "LLVMModuleTest.cpp": 6.68366864124723e-05,
+        "ModernizeModuleTest.cpp": 1.2525693673810871e-05,
+        "NamespaceAliaserTest.cpp": 3.8989347657129704e-05,
+        "ObjCModuleTest.cpp": 6.112763345088207e-06,
+        "OptionsProviderTest.cpp": 1.7951172231479385e-05,
+        "OverlappingReplacementsTest.cpp": 1.6699048092347508e-05,
+        "ReadabilityModuleTest.cpp": 4.135841652302718e-05,
+        "TransformerClangTidyCheckTest.cpp": 6.461846225695676e-05,
+        "UsingInserterTest.cpp": 3.8989347657129704e-05
+    },
+    "subdirscores": {}
+}

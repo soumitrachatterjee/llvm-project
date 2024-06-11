@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/lldb/tools/debugserver/debugserver.xcodeproj",
+    "score.sum": 0.0003048615704640396,
+    "sha.latest": "13d613de4b97388eb258f62b40be67dc2018a929",
+    "time.latest": 1717985578.5195048,
+    "formatted_time": "2024-06-10 07:42:58.519508",
+    "filescores": {
+        "project.pbxproj": 0.0002951866135661253
+    },
+    "subdirscores": {
+        "project.xcworkspace": 0,
+        "xcshareddata": 3.886495880615825e-05
+    }
+}

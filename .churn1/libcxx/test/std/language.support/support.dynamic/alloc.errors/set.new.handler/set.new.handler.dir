@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/language.support/support.dynamic/alloc.errors/set.new.handler",
+    "score.sum": 3.362781069882892e-05,
+    "sha.latest": "b5bada6f85ce6789415d8b9844b6fd3a26d5408f",
+    "time.latest": 1717921469.50645,
+    "formatted_time": "2024-06-09 13:54:29.506451",
+    "filescores": {
+        "get_new_handler.pass.cpp": 2.822676410089119e-05,
+        "set_new_handler.pass.cpp": 2.443791426119639e-05
+    },
+    "subdirscores": {}
+}

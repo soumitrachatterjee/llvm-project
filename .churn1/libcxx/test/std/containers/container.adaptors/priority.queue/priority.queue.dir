@@ -1,0 +1,17 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/containers/container.adaptors/priority.queue",
+    "score.sum": 0.00012189047187910364,
+    "sha.latest": "b82dcb624e6bfa58ed566511cb564f8f201fa62e",
+    "time.latest": 1717881472.7062352,
+    "formatted_time": "2024-06-09 02:47:52.706237",
+    "filescores": {
+        "types.compile.fail.cpp": 0,
+        "types.pass.cpp": 2.3321593002011566e-05
+    },
+    "subdirscores": {
+        "priqueue.cons": 7.829784893440021e-05,
+        "priqueue.cons.alloc": 3.1821827518664255e-05,
+        "priqueue.members": 5.2969132447931184e-05,
+        "priqueue.special": 2.3819743171414074e-05
+    }
+}
