@@ -1,0 +1,17 @@
+{
+    "directory name": "llvm-project/llvm/utils/gn/secondary/bolt/lib",
+    "score.sum": 4.684527605121069e-05,
+    "sha.latest": "b1916599befa8575c43349ef0819389b8b5c3ab4",
+    "time.latest": 1718080836.571292,
+    "formatted_time": "2024-06-10 23:40:36.571292",
+    "filescores": {},
+    "subdirscores": {
+        "Core": 1.5269339277035894e-05,
+        "Passes": 9.865410456001615e-06,
+        "Profile": 6.099602068851199e-06,
+        "Rewrite": 2.634194906548378e-05,
+        "RuntimeLibs": 6.099602068851199e-06,
+        "Target": 0,
+        "Utils": 0
+    }
+}

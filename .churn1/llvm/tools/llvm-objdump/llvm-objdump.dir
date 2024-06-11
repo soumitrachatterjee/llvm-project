@@ -1,0 +1,30 @@
+{
+    "directory name": "llvm-project/llvm/tools/llvm-objdump",
+    "score.sum": 0.0036095779445256665,
+    "sha.latest": "9ca8db352d22444feabd859380252f13826a8aff",
+    "time.latest": 1718081839.267555,
+    "formatted_time": "2024-06-10 23:57:19.267558",
+    "filescores": {
+        "CMakeLists.txt": 0.00012893971839976465,
+        "COFFDump.cpp": 0.00025999726696408895,
+        "COFFDump.h": 1.5191743051031035e-05,
+        "ELFDump.cpp": 0.00022271751974356783,
+        "ELFDump.h": 6.099602068851199e-06,
+        "MachODump.cpp": 0.0011272116192207868,
+        "MachODump.h": 3.714746185978797e-05,
+        "ObjdumpOptID.h": 6.139514719233427e-06,
+        "ObjdumpOpts.td": 6.40656380375596e-05,
+        "OffloadDump.cpp": 1.2802621009798168e-05,
+        "OffloadDump.h": 0,
+        "OtoolOpts.td": 1.605651716961091e-05,
+        "SourcePrinter.cpp": 4.878108632079071e-05,
+        "SourcePrinter.h": 4.367450600910808e-05,
+        "WasmDump.cpp": 3.3527511444976816e-05,
+        "WasmDump.h": 0,
+        "XCOFFDump.cpp": 7.92454411429012e-05,
+        "XCOFFDump.h": 2.2045696467137238e-05,
+        "llvm-objdump.cpp": 0.0023116971567243103,
+        "llvm-objdump.h": 0.0003831460649011501
+    },
+    "subdirscores": {}
+}

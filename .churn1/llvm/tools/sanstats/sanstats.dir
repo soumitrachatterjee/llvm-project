@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/llvm/tools/sanstats",
+    "score.sum": 4.234317995141877e-05,
+    "sha.latest": "61b8a8a672457f2597979172ef2776206701d1ec",
+    "time.latest": 1718085215.7228653,
+    "formatted_time": "2024-06-11 00:53:35.722869",
+    "filescores": {
+        "CMakeLists.txt": 6.099602068851199e-06,
+        "sanstats.cpp": 4.152572543464849e-05
+    },
+    "subdirscores": {}
+}

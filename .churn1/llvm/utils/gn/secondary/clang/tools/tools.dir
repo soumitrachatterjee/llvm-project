@@ -1,0 +1,32 @@
+{
+    "directory name": "llvm-project/llvm/utils/gn/secondary/clang/tools",
+    "score.sum": 0.00020438972808832666,
+    "sha.latest": "1c81b4a8f237db286aae5b8893aea09676a41d68",
+    "time.latest": 1718085062.4780242,
+    "formatted_time": "2024-06-11 00:51:02.478025",
+    "filescores": {},
+    "subdirscores": {
+        "apinotes-test": 6.099602068851199e-06,
+        "arcmt-test": 1.0238524766317193e-05,
+        "c-arcmt-test": 1.437018068607832e-05,
+        "c-index-test": 0,
+        "clang-check": 1.372633898950593e-05,
+        "clang-diff": 1.0238535357787684e-05,
+        "clang-extdef-mapping": 9.514114587340946e-06,
+        "clang-format": 3.9322126768941224e-05,
+        "clang-fuzzer": 6.099602068851199e-06,
+        "clang-import-test": 1.011674162766369e-05,
+        "clang-installapi": 0,
+        "clang-linker-wrapper": 9.204379044649892e-06,
+        "clang-offload-bundler": 1.56104393597696e-05,
+        "clang-offload-packager": 6.099602068851199e-06,
+        "clang-refactor": 0,
+        "clang-rename": 1.0238531113279542e-05,
+        "clang-repl": 1.1459073857569922e-05,
+        "clang-scan-deps": 3.2117793985020036e-05,
+        "diagtool": 0,
+        "driver": 5.052013539792691e-05,
+        "libclang": 5.8940229371666986e-05,
+        "scan-build": 6.099602068851199e-06
+    }
+}

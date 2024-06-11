@@ -1,0 +1,19 @@
+{
+    "directory name": "llvm-project/llvm/tools/llvm-jitlink",
+    "score.sum": 0.0006823436705130834,
+    "sha.latest": "00f412168cf6aee234615a11d1424fc58221eb78",
+    "time.latest": 1718080686.6849234,
+    "formatted_time": "2024-06-10 23:38:06.684927",
+    "filescores": {
+        "CMakeLists.txt": 3.971235263885762e-05,
+        "llvm-jitlink-coff.cpp": 2.1228756026408192e-05,
+        "llvm-jitlink-elf.cpp": 7.128263231815171e-05,
+        "llvm-jitlink-macho.cpp": 5.169020175173797e-05,
+        "llvm-jitlink-statistics.cpp": 0,
+        "llvm-jitlink.cpp": 0.0005565268280300824,
+        "llvm-jitlink.h": 0.0001387982758142754
+    },
+    "subdirscores": {
+        "llvm-jitlink-executor": 5.447244052354758e-05
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/llvm/utils/gn/secondary/clang/lib/StaticAnalyzer/Frontend",
+    "score.sum": 1.8253211744121348e-05,
+    "sha.latest": "b9943d68d3c7b354f40a618ece2bf7906688b057",
+    "time.latest": 1718084166.3296232,
+    "formatted_time": "2024-06-11 00:36:06.329627",
+    "filescores": {
+        "BUILD.gn": 1.8222640757484844e-05,
+        "enable.gni": 8.216522786864262e-06
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/llvm/utils/gn/secondary/clang/lib/Tooling/Core",
+    "score.sum": 1.2198826212859763e-05,
+    "sha.latest": "abef77c3ddac0d5745b794185d22bc014672ead7",
+    "time.latest": 1718084285.7813816,
+    "formatted_time": "2024-06-11 00:38:05.781385",
+    "filescores": {
+        "BUILD.gn": 1.2198826212859763e-05
+    },
+    "subdirscores": {}
+}

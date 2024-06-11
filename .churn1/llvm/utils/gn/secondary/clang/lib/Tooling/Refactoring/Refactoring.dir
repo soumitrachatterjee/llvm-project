@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/llvm/utils/gn/secondary/clang/lib/Tooling/Refactoring",
+    "score.sum": 1.6021736709612624e-05,
+    "sha.latest": "e572c9ce90fd8f49d08e8326b4b5dc989a19004e",
+    "time.latest": 1718084404.0434673,
+    "formatted_time": "2024-06-11 00:40:04.043471",
+    "filescores": {
+        "BUILD.gn": 1.6021736709612624e-05
+    },
+    "subdirscores": {}
+}

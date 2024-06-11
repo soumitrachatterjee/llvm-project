@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/llvm/utils/gn/secondary/clang/include/clang/AST",
+    "score.sum": 2.2186086024344658e-05,
+    "sha.latest": "6a71355e522368387e33ecfa3458b455db5804fc",
+    "time.latest": 1718083213.1045213,
+    "formatted_time": "2024-06-11 00:20:13.104524",
+    "filescores": {
+        "BUILD.gn": 2.2186086024344658e-05
+    },
+    "subdirscores": {}
+}

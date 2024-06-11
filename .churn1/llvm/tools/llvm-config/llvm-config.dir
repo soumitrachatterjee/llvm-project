@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/llvm/tools/llvm-config",
+    "score.sum": 0.00058335543455502,
+    "sha.latest": "c03c4e2b1459cc5a3c40534f4a7f99144126fbf4",
+    "time.latest": 1718078594.9095452,
+    "formatted_time": "2024-06-10 23:03:14.909549",
+    "filescores": {
+        "BuildVariables.inc.in": 0.00010261825218042379,
+        "CMakeLists.txt": 0.0002024613886802824,
+        "llvm-config.cpp": 0.00023454538461097413
+    },
+    "subdirscores": {}
+}

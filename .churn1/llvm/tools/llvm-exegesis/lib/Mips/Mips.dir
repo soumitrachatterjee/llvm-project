@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/llvm/tools/llvm-exegesis/lib/Mips",
+    "score.sum": 5.282989410848242e-05,
+    "sha.latest": "faf675ce34ee1e2c6105e9a816f220412fd2f8d5",
+    "time.latest": 1718079963.0122151,
+    "formatted_time": "2024-06-10 23:26:03.012219",
+    "filescores": {
+        "CMakeLists.txt": 4.584356304227501e-05,
+        "Target.cpp": 1.3381723490458403e-05
+    },
+    "subdirscores": {}
+}

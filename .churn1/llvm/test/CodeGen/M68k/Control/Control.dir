@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/llvm/test/CodeGen/M68k/Control",
+    "score.sum": 1.744763674338946e-05,
+    "sha.latest": "cd0d11be7a6de335dcfcf2788a97d915f017e25e",
+    "time.latest": 1718071411.4215934,
+    "formatted_time": "2024-06-10 21:03:31.421597",
+    "filescores": {
+        "cmp.ll": 1.744763674338946e-05,
+        "long-setcc.ll": 0,
+        "setcc.ll": 8.007354907333346e-06
+    },
+    "subdirscores": {}
+}

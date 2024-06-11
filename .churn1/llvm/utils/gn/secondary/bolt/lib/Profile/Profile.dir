@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/llvm/utils/gn/secondary/bolt/lib/Profile",
+    "score.sum": 6.099602068851199e-06,
+    "sha.latest": "1f41942afedb2316f41cc42c6a286074d168da97",
+    "time.latest": 1718080724.3849585,
+    "formatted_time": "2024-06-10 23:38:44.384962",
+    "filescores": {
+        "BUILD.gn": 6.099602068851199e-06
+    },
+    "subdirscores": {}
+}

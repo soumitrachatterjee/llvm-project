@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/llvm/tools/llvm-rust-demangle-fuzzer",
+    "score.sum": 1.800209501736353e-05,
+    "sha.latest": "12d967c95f1633bebd1b225ddd53573951a7ca43",
+    "time.latest": 1718084029.155031,
+    "formatted_time": "2024-06-11 00:33:49.155034",
+    "filescores": {
+        "CMakeLists.txt": 1.8297443035499777e-05,
+        "DummyDemanglerFuzzer.cpp": 0,
+        "llvm-rust-demangle-fuzzer.cpp": 9.152218815241525e-06
+    },
+    "subdirscores": {}
+}

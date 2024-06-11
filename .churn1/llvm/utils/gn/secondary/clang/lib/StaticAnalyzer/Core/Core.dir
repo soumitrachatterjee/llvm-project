@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/llvm/utils/gn/secondary/clang/lib/StaticAnalyzer/Core",
+    "score.sum": 5.276929116780102e-05,
+    "sha.latest": "8abc80eeb0cd18de2365fcadc39315a2918c93bf",
+    "time.latest": 1718084125.1845553,
+    "formatted_time": "2024-06-11 00:35:25.184559",
+    "filescores": {
+        "BUILD.gn": 5.276929116780102e-05
+    },
+    "subdirscores": {}
+}

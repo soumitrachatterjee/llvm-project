@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/llvm/utils/gn/secondary/clang-tools-extra/clang-tidy/mpi",
+    "score.sum": 0,
+    "sha.latest": "50be01149cd8398fce6f4ea9ae7e9f76988d8548",
+    "time.latest": 1718082003.8867123,
+    "formatted_time": "2024-06-11 00:00:03.886716",
+    "filescores": {
+        "BUILD.gn": 0
+    },
+    "subdirscores": {}
+}

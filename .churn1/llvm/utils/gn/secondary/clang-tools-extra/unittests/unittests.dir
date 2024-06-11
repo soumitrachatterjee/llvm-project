@@ -1,0 +1,19 @@
+{
+    "directory name": "llvm-project/llvm/utils/gn/secondary/clang-tools-extra/unittests",
+    "score.sum": 5.238771532370849e-05,
+    "sha.latest": "d72545b293f9fe33fb6c7f5ab611f48860fd8d16",
+    "time.latest": 1718083155.5639348,
+    "formatted_time": "2024-06-11 00:19:15.563936",
+    "filescores": {
+        "BUILD.gn": 1.2469253239023635e-05
+    },
+    "subdirscores": {
+        "clang-apply-replacements": 9.631908258763151e-06,
+        "clang-change-namespace": 9.631908258763151e-06,
+        "clang-doc": 7.159758666934664e-06,
+        "clang-include-fixer": 9.631908258763151e-06,
+        "clang-move": 9.631908258763151e-06,
+        "clang-query": 6.099602068851199e-06,
+        "clang-tidy": 4.79514792942762e-05
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/llvm/tools/llvm-dwarfdump/fuzzer",
+    "score.sum": 1.7804034689392856e-05,
+    "sha.latest": "1287f5aaf7b0f7630ff7910850e3154179654e71",
+    "time.latest": 1718079494.8752074,
+    "formatted_time": "2024-06-10 23:18:14.875211",
+    "filescores": {
+        "CMakeLists.txt": 1.214009713137412e-05,
+        "llvm-dwarfdump-fuzzer.cpp": 1.6198935964604984e-05
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/llvm/unittests/Bitstream",
+    "score.sum": 3.446933673833882e-05,
+    "sha.latest": "38818b60c58c76ba89b990978cdfd2d7b6799260",
+    "time.latest": 1718079232.9444776,
+    "formatted_time": "2024-06-10 23:13:52.944481",
+    "filescores": {
+        "BitstreamReaderTest.cpp": 3.0966861255817215e-05,
+        "BitstreamWriterTest.cpp": 6.099602068851199e-06,
+        "CMakeLists.txt": 0
+    },
+    "subdirscores": {}
+}

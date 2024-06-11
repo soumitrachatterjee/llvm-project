@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/llvm/tools/llvm-opt-report",
+    "score.sum": 0.00010415248181608066,
+    "sha.latest": "b0abd4893fa1bfae7f71b6b6e98770c9b1c07620",
+    "time.latest": 1718081910.1490507,
+    "formatted_time": "2024-06-10 23:58:30.149054",
+    "filescores": {
+        "CMakeLists.txt": 2.0094430662109914e-05,
+        "OptReport.cpp": 9.230111878603195e-05
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/llvm/utils/gn/secondary/clang/unittests/Analysis/FlowSensitive",
+    "score.sum": 5.5082000301776195e-05,
+    "sha.latest": "7c636728c0fc18fc79831bfc3cdf41841b9b517c",
+    "time.latest": 1718085193.447859,
+    "formatted_time": "2024-06-11 00:53:13.447862",
+    "filescores": {
+        "BUILD.gn": 5.5082000301776195e-05
+    },
+    "subdirscores": {}
+}

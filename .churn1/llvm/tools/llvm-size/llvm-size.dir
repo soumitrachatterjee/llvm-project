@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/llvm/tools/llvm-size",
+    "score.sum": 0.00031863173745152437,
+    "sha.latest": "3c6f47d6b879ddd2842925d2e5da54657d9e5631",
+    "time.latest": 1718084154.5779405,
+    "formatted_time": "2024-06-11 00:35:54.577945",
+    "filescores": {
+        "CMakeLists.txt": 2.1908430761864093e-05,
+        "Opts.td": 0,
+        "llvm-size.cpp": 0.0003020720560641635
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,20 @@
+{
+    "directory name": "llvm-project/llvm/unittests/DebugInfo",
+    "score.sum": 0.0020103717072764236,
+    "sha.latest": "a23d4ceb8866df91334750627827a1724363e755",
+    "time.latest": 1718080457.8921072,
+    "formatted_time": "2024-06-10 23:34:17.892108",
+    "filescores": {
+        "CMakeLists.txt": 4.191091033729293e-05
+    },
+    "subdirscores": {
+        "BTF": 6.183552420676637e-06,
+        "CodeView": 6.390145919030249e-05,
+        "DWARF": 0.0011061755358164635,
+        "GSYM": 0.00015048278944293253,
+        "LogicalView": 1.3338700786720176e-05,
+        "MSF": 3.16668887279927e-05,
+        "PDB": 0.00021883779756130134,
+        "Symbolizer": 1.0389905210198675e-05
+    }
+}

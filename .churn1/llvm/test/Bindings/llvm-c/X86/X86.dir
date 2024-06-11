@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/llvm/test/Bindings/llvm-c/X86",
+    "score.sum": 0,
+    "sha.latest": "47ab1fa6d6af6569c9b6cf2049c91aae1bfc2402",
+    "time.latest": 1717937859.4072497,
+    "formatted_time": "2024-06-09 07:57:39.407253",
+    "filescores": {
+        "disassemble.test": 0,
+        "lit.local.cfg": 0
+    },
+    "subdirscores": {}
+}

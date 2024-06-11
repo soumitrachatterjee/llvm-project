@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/llvm/utils/gn/secondary/clang/lib/Headers",
+    "score.sum": 0.00030577435344427697,
+    "sha.latest": "312acdfae1409bee29a33f71306e3ae3e1ea7d66",
+    "time.latest": 1718083896.1379614,
+    "formatted_time": "2024-06-11 00:31:36.137965",
+    "filescores": {
+        "BUILD.gn": 0.00030577435344427697
+    },
+    "subdirscores": {}
+}

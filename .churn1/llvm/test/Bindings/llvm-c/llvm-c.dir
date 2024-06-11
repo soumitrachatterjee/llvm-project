@@ -1,0 +1,35 @@
+{
+    "directory name": "llvm-project/llvm/test/Bindings/llvm-c",
+    "score.sum": 0.0002981699439085179,
+    "sha.latest": "d5c95302b9736b4e785c77463d7f2026b772ba1b",
+    "time.latest": 1717938114.5989773,
+    "formatted_time": "2024-06-09 08:01:54.598981",
+    "filescores": {
+        "add_named_metadata_operand.ll": 0,
+        "atomics.ll": 1.944527805966113e-05,
+        "calc.test": 0,
+        "callsite_attributes.ll": 0,
+        "debug_info.ll": 4.0030575559695086e-05,
+        "di-type-get-name.ll": 0,
+        "echo.ll": 0.00011303210453653691,
+        "empty.ll": 6.099602068851199e-06,
+        "float_ops.ll": 0,
+        "freeze.ll": 1.2243173132754526e-05,
+        "function_attributes.ll": 0,
+        "functions.ll": 6.099602068851199e-06,
+        "get-di-tag.ll": 0,
+        "globals.ll": 6.099602068851199e-06,
+        "invalid-bitcode.test": 1.4306093360971941e-05,
+        "invoke.ll": 1.9578874695294268e-05,
+        "is_a_value_as_metadata.ll": 0,
+        "memops.ll": 1.622694835379528e-05,
+        "objectfile.ll": 0,
+        "replace_md_operand.ll": 0,
+        "set_metadata.ll": 0
+    },
+    "subdirscores": {
+        "ARM": 6.099602068851199e-06,
+        "Inputs": 1.0282806779068527e-05,
+        "X86": 0
+    }
+}

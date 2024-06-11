@@ -1,0 +1,23 @@
+{
+    "directory name": "llvm-project/llvm/test/CodeGen/MLRegAlloc",
+    "score.sum": 4.445751982227298e-05,
+    "sha.latest": "c49965b97e159b7ff92a5fca3e144b2d2574a84d",
+    "time.latest": 1718082093.5345316,
+    "formatted_time": "2024-06-11 00:01:33.534535",
+    "filescores": {
+        "default-eviction-advisor.ll": 6.099602068851199e-06,
+        "default-priority-advisor.ll": 0,
+        "dev-mode-extra-features-logging.ll": 2.674921640893063e-05,
+        "dev-mode-log-2-fcts.ll": 0,
+        "dev-mode-logging.ll": 1.1095410990835775e-05,
+        "dev-mode-prio-logging.ll": 1.8609893086725352e-05,
+        "dev-rel-equivalence.ll": 0,
+        "empty-log.ll": 0,
+        "interactive-mode.ll": 0,
+        "lit.local.cfg": 0,
+        "rel-codepath.ll": 0
+    },
+    "subdirscores": {
+        "Inputs": 2.9971560221440823e-05
+    }
+}

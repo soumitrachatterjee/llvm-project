@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/llvm/utils/gn/secondary/clang/lib/ASTMatchers/Dynamic",
+    "score.sum": 6.099602068851199e-06,
+    "sha.latest": "f32d4161db0e14a0ec0cd08c369e0f4d862a9f51",
+    "time.latest": 1718083588.806027,
+    "formatted_time": "2024-06-11 00:26:28.806030",
+    "filescores": {
+        "BUILD.gn": 6.099602068851199e-06
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,33 @@
+{
+    "directory name": "llvm-project/llvm/utils/gn/build",
+    "score.sum": 0.0004808472910648338,
+    "sha.latest": "82811a8f50f7a8a2afab3207f51670a7d9b57d4d",
+    "time.latest": 1718080536.9131427,
+    "formatted_time": "2024-06-10 23:35:36.913146",
+    "filescores": {
+        "BUILD.gn": 0.00020006613641289616,
+        "BUILDCONFIG.gn": 1.152494032068598e-05,
+        "buildflags.gni": 3.095107064982942e-05,
+        "compiled_action.gni": 6.099602068851199e-06,
+        "driver_executable.gni": 6.099602068851199e-06,
+        "fuzzer.gni": 6.099602068851199e-06,
+        "mac_sdk.gni": 2.6230220893086108e-05,
+        "run_built_binary.py": 6.099602068851199e-06,
+        "symbol_exports.gni": 6.099602068851199e-06,
+        "symbol_exports.py": 1.2299888976987626e-05,
+        "symlink_or_copy.gni": 7.8292003969105e-06,
+        "symlink_or_copy.py": 1.1853947012557606e-05,
+        "sync_source_lists_from_cmake.py": 7.143583823924114e-05,
+        "sysroot.gni": 0,
+        "write_cmake_config.gni": 1.4026338694278226e-05,
+        "write_cmake_config.py": 2.5912287142428272e-05,
+        "write_file.py": 6.099602068851199e-06,
+        "write_library_dependencies.py": 1.0120833623748344e-05,
+        "write_vcsrevision.gni": 1.81327316003282e-05,
+        "write_vcsrevision.py": 1.4060888144656537e-05
+    },
+    "subdirscores": {
+        "libs": 3.177741200796027e-05,
+        "toolchain": 0.00015099480289807268
+    }
+}

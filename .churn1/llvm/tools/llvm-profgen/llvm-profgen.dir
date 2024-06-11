@@ -1,0 +1,24 @@
+{
+    "directory name": "llvm-project/llvm/tools/llvm-profgen",
+    "score.sum": 0.0005257493295715484,
+    "sha.latest": "8466ab98ca5353e22eab0ae6d9885a65091786fb",
+    "time.latest": 1718082553.9295163,
+    "formatted_time": "2024-06-11 00:09:13.929520",
+    "filescores": {
+        "CMakeLists.txt": 1.8595148641434844e-05,
+        "CSPreInliner.cpp": 6.559542742860114e-05,
+        "CSPreInliner.h": 1.9044744599463002e-05,
+        "CallContext.h": 1.5247850672558185e-05,
+        "ErrorHandling.h": 1.0367878010547555e-05,
+        "MissingFrameInferrer.cpp": 6.1675704492546485e-06,
+        "MissingFrameInferrer.h": 6.099602068851199e-06,
+        "PerfReader.cpp": 0.0001381857898120679,
+        "PerfReader.h": 8.71795292379051e-05,
+        "ProfileGenerator.cpp": 0.00021237161745536485,
+        "ProfileGenerator.h": 7.85083207046151e-05,
+        "ProfiledBinary.cpp": 0.00017920728629328023,
+        "ProfiledBinary.h": 0.00013105925301969473,
+        "llvm-profgen.cpp": 8.525612183295046e-05
+    },
+    "subdirscores": {}
+}

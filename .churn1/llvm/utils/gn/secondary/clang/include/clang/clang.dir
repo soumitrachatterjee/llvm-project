@@ -1,0 +1,19 @@
+{
+    "directory name": "llvm-project/llvm/utils/gn/secondary/clang/include/clang",
+    "score.sum": 0.00020629865844499422,
+    "sha.latest": "1f780bfac919dc34deface0f8e276d3573240291",
+    "time.latest": 1718083450.6440396,
+    "formatted_time": "2024-06-11 00:24:10.644041",
+    "filescores": {},
+    "subdirscores": {
+        "AST": 2.2186086024344658e-05,
+        "Basic": 7.939067628339509e-05,
+        "Config": 0.00011672161919915511,
+        "Driver": 0,
+        "Parse": 6.099602068851199e-06,
+        "Sema": 6.099602068851199e-06,
+        "Serialization": 6.099602068851199e-06,
+        "StaticAnalyzer": 0,
+        "Tooling": 1.8297191700976875e-05
+    }
+}

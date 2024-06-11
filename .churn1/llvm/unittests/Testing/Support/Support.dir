@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/llvm/unittests/Testing/Support",
+    "score.sum": 1.1831451820158265e-05,
+    "sha.latest": "77c90c8ce0fe763b6ee2809a6dc437d6f18e1af2",
+    "time.latest": 1718084663.7354026,
+    "formatted_time": "2024-06-11 00:44:23.735406",
+    "filescores": {
+        "CMakeLists.txt": 0,
+        "TempPathTest.cpp": 1.1831451820158265e-05
+    },
+    "subdirscores": {}
+}

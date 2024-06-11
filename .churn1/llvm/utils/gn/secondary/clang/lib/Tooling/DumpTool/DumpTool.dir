@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/llvm/utils/gn/secondary/clang/lib/Tooling/DumpTool",
+    "score.sum": 1.865166795036649e-05,
+    "sha.latest": "19740652c4c4329e2b9e77f96e5e31c360b4e8bb",
+    "time.latest": 1718084333.756574,
+    "formatted_time": "2024-06-11 00:38:53.756578",
+    "filescores": {
+        "BUILD.gn": 1.865166795036649e-05
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/llvm/utils/gn/secondary/clang/lib/APINotes",
+    "score.sum": 1.779178008861266e-05,
+    "sha.latest": "b469d1d6208573cb9fa5be7982c75115414b6e8e",
+    "time.latest": 1718083480.5030015,
+    "formatted_time": "2024-06-11 00:24:40.503005",
+    "filescores": {
+        "BUILD.gn": 1.779178008861266e-05
+    },
+    "subdirscores": {}
+}

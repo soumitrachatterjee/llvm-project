@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/llvm/tools/llvm-jitlink/llvm-jitlink-executor",
+    "score.sum": 5.447244052354758e-05,
+    "sha.latest": "626d0fa30addc6e8fb9af4a80df853af645733b4",
+    "time.latest": 1718080648.9465303,
+    "formatted_time": "2024-06-10 23:37:28.946534",
+    "filescores": {
+        "CMakeLists.txt": 7.676943850846742e-06,
+        "llvm-jitlink-executor.cpp": 4.6732429957469895e-05
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/llvm/tools/llvm-diff",
+    "score.sum": 0.0002326318656030985,
+    "sha.latest": "8c3304453c22ad1b5a914e64a7f6435f58f4099c",
+    "time.latest": 1718079282.3835592,
+    "formatted_time": "2024-06-10 23:14:42.383563",
+    "filescores": {
+        "CMakeLists.txt": 2.5609018499360625e-05,
+        "llvm-diff.cpp": 5.524930620480266e-05
+    },
+    "subdirscores": {
+        "lib": 1.5097002006621152e-05
+    }
+}

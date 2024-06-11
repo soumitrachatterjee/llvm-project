@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/llvm/unittests/Target/X86",
+    "score.sum": 4.830811884533834e-05,
+    "sha.latest": "0a1aa6cda2758b0926a95f87d39ffefb1cb90200",
+    "time.latest": 1718084474.3746395,
+    "formatted_time": "2024-06-11 00:41:14.374643",
+    "filescores": {
+        "CMakeLists.txt": 3.359846642053794e-05,
+        "MachineSizeOptsTest.cpp": 1.791639775617241e-05,
+        "TernlogTest.cpp": 6.099602068851199e-06
+    },
+    "subdirscores": {}
+}

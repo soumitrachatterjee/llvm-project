@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/llvm/tools/llvm-special-case-list-fuzzer",
+    "score.sum": 2.1336181368042303e-05,
+    "sha.latest": "7f69c8b3a6c02ea32fefb16c2016dfa1ba994858",
+    "time.latest": 1718084197.7846515,
+    "formatted_time": "2024-06-11 00:36:37.784655",
+    "filescores": {
+        "CMakeLists.txt": 1.9054229260825108e-05,
+        "DummySpecialCaseListFuzzer.cpp": 6.099602068851199e-06,
+        "special-case-list-fuzzer.cpp": 7.33579067322034e-06
+    },
+    "subdirscores": {}
+}

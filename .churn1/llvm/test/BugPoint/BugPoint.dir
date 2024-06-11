@@ -1,0 +1,23 @@
+{
+    "directory name": "llvm-project/llvm/test/BugPoint",
+    "score.sum": 0.00022987100747188017,
+    "sha.latest": "b71edfaa4ec3c998aadb35255ce2f60bba2940b0",
+    "time.latest": 1717944327.3019006,
+    "formatted_time": "2024-06-09 09:45:27.301904",
+    "filescores": {
+        "attr-crash.ll": 8.880765723710296e-06,
+        "compile-custom.ll": 2.9739141302002326e-05,
+        "compile-custom.ll.py": 9.303688212611552e-06,
+        "crash-narrowfunctiontest.ll": 3.690733858386677e-05,
+        "func-attrs-keyval.ll": 9.78381841635058e-06,
+        "func-attrs.ll": 1.2158009378148431e-05,
+        "invalid-debuginfo.ll": 1.4688781826830912e-05,
+        "metadata.ll": 8.011045006514745e-05,
+        "named-md.ll": 1.9124531886146924e-05,
+        "remove_arguments_test.ll": 5.2215985197174276e-05,
+        "replace-funcs-with-null.ll": 1.96011434409523e-05,
+        "retain-crashing-metadata.ll": 6.099602068851199e-06,
+        "unsymbolized.ll": 1.764995789023548e-05
+    },
+    "subdirscores": {}
+}

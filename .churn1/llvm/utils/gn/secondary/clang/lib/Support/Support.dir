@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/llvm/utils/gn/secondary/clang/lib/Support",
+    "score.sum": 0,
+    "sha.latest": "59bd20526c73c610aa23d10c138f51c86f93f407",
+    "time.latest": 1718084189.6121633,
+    "formatted_time": "2024-06-11 00:36:29.612167",
+    "filescores": {
+        "BUILD.gn": 0
+    },
+    "subdirscores": {}
+}

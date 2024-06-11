@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/llvm/tools/llvm-stress",
+    "score.sum": 0.00023540140305308995,
+    "sha.latest": "586ecdf205aa8b3d162da6f955170a6736656615",
+    "time.latest": 1718084267.4002888,
+    "formatted_time": "2024-06-11 00:37:47.400293",
+    "filescores": {
+        "CMakeLists.txt": 1.8630840833685904e-05,
+        "llvm-stress.cpp": 0.0002107006892196476
+    },
+    "subdirscores": {}
+}

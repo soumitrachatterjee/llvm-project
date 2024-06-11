@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/llvm/tools/lli",
+    "score.sum": 0.002058691715850985,
+    "sha.latest": "3bf9e63e705f580917e89259e71469a81679bab5",
+    "time.latest": 1718078113.6870267,
+    "formatted_time": "2024-06-10 22:55:13.687030",
+    "filescores": {
+        "CMakeLists.txt": 0.0001353854162874449,
+        "ForwardingMemoryManager.h": 9.38578128181453e-06,
+        "lli.cpp": 0.001371314598602799
+    },
+    "subdirscores": {
+        "ChildTarget": 9.775941775055196e-05
+    }
+}

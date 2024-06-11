@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/llvm/tools/llvm-split",
+    "score.sum": 4.207087004345416e-05,
+    "sha.latest": "75e164f61d391979b4829bf2746a5d74b94e95f2",
+    "time.latest": 1718084236.0995061,
+    "formatted_time": "2024-06-11 00:37:16.099509",
+    "filescores": {
+        "CMakeLists.txt": 6.099602068851199e-06,
+        "llvm-split.cpp": 3.5501863403845446e-05
+    },
+    "subdirscores": {}
+}

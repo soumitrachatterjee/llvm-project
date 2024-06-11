@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/llvm/tools/spirv-tools",
+    "score.sum": 0,
+    "sha.latest": "f368e6424fbfb7fdea4b9d9a2e44f2f7e188c133",
+    "time.latest": 1718085235.4896886,
+    "formatted_time": "2024-06-11 00:53:55.489692",
+    "filescores": {
+        "CMakeLists.txt": 0
+    },
+    "subdirscores": {}
+}

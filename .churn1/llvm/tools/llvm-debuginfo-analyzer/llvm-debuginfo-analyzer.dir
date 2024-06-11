@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/llvm/tools/llvm-debuginfo-analyzer",
+    "score.sum": 1.7570731394450635e-05,
+    "sha.latest": "077a2a4bcddf62fd002f80f150ef0e5c785ba89b",
+    "time.latest": 1718079091.908445,
+    "formatted_time": "2024-06-10 23:11:31.908449",
+    "filescores": {
+        "CMakeLists.txt": 1.2226469845563007e-05,
+        "Options.cpp": 6.314409029024866e-06,
+        "Options.h": 6.314409029024866e-06,
+        "README.txt": 0,
+        "llvm-debuginfo-analyzer.cpp": 6.613670628750449e-06
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/llvm/unittests/Option",
+    "score.sum": 0.0002979067969423808,
+    "sha.latest": "8d5bb54f774d9ddccdb9097fdc395ef46e372c70",
+    "time.latest": 1718082372.1852577,
+    "formatted_time": "2024-06-11 00:06:12.185261",
+    "filescores": {
+        "CMakeLists.txt": 6.854837735044689e-06,
+        "OptionMarshallingTest.cpp": 6.659621162668036e-05,
+        "OptionParsingTest.cpp": 0.00019969718563470727,
+        "Opts.td": 0.00010414164220590517
+    },
+    "subdirscores": {}
+}

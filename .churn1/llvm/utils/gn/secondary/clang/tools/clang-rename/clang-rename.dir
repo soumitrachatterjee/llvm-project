@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/llvm/utils/gn/secondary/clang/tools/clang-rename",
+    "score.sum": 1.0238531113279542e-05,
+    "sha.latest": "1afd889d0b4352ddaef33680ace94045938591f1",
+    "time.latest": 1718084922.2650998,
+    "formatted_time": "2024-06-11 00:48:42.265103",
+    "filescores": {
+        "BUILD.gn": 1.0238531113279542e-05
+    },
+    "subdirscores": {}
+}

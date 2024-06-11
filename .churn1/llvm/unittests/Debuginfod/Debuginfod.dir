@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/llvm/unittests/Debuginfod",
+    "score.sum": 1.3726667220524626e-05,
+    "sha.latest": "716042a63f26cd020eb72960f72fa97b9a197382",
+    "time.latest": 1718080497.66518,
+    "formatted_time": "2024-06-10 23:34:57.665183",
+    "filescores": {
+        "CMakeLists.txt": 1.1061100251351523e-05,
+        "DebuginfodTests.cpp": 7.773484586723565e-06,
+        "HTTPServerTests.cpp": 9.839685663693073e-06
+    },
+    "subdirscores": {}
+}

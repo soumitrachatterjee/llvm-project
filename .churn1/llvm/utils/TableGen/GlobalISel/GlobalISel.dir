@@ -1,0 +1,21 @@
+{
+    "directory name": "llvm-project/llvm/utils/TableGen/GlobalISel",
+    "score.sum": 0.00025815739920602714,
+    "sha.latest": "6deb7cfd74cacda4b460a7f8e1e7a1be012b1b9e",
+    "time.latest": 1718078308.6331363,
+    "formatted_time": "2024-06-10 22:58:28.633140",
+    "filescores": {
+        "CMakeLists.txt": 9.577097094811065e-05,
+        "CXXPredicates.cpp": 0,
+        "CXXPredicates.h": 0,
+        "CodeExpander.cpp": 1.681481237029201e-05,
+        "CodeExpander.h": 1.0039620124322947e-05,
+        "CodeExpansions.h": 1.0786684023969195e-05,
+        "CombinerUtils.h": 1.882195688617205e-05,
+        "MatchDataInfo.cpp": 0,
+        "MatchDataInfo.h": 0,
+        "Patterns.cpp": 1.7935957407994115e-05,
+        "Patterns.h": 6.099602068851199e-06
+    },
+    "subdirscores": {}
+}

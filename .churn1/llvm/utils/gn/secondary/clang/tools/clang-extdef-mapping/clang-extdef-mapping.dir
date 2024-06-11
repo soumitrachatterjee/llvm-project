@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/llvm/utils/gn/secondary/clang/tools/clang-extdef-mapping",
+    "score.sum": 9.514114587340946e-06,
+    "sha.latest": "9983d276a15b5a838cbf7d46c09817f7e28d9ad7",
+    "time.latest": 1718084702.014797,
+    "formatted_time": "2024-06-11 00:45:02.014801",
+    "filescores": {
+        "BUILD.gn": 9.514114587340946e-06
+    },
+    "subdirscores": {}
+}

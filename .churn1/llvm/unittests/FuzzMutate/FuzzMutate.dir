@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/llvm/unittests/FuzzMutate",
+    "score.sum": 0.00018584064060305112,
+    "sha.latest": "7b9d73c2f90c0ed8497339a16fc39785349d9610",
+    "time.latest": 1718081239.230373,
+    "formatted_time": "2024-06-10 23:47:19.230376",
+    "filescores": {
+        "CMakeLists.txt": 1.2235839510534732e-05,
+        "OperationsTest.cpp": 4.443002828754046e-05,
+        "RandomIRBuilderTest.cpp": 6.542623789428567e-05,
+        "ReservoirSamplerTest.cpp": 7.743894011055648e-06,
+        "StrategiesTest.cpp": 0.00011474946687951906
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/llvm/tools/llvm-dwp",
+    "score.sum": 0.0003336897892107391,
+    "sha.latest": "3c6f47d6b879ddd2842925d2e5da54657d9e5631",
+    "time.latest": 1718079632.8765512,
+    "formatted_time": "2024-06-10 23:20:32.876554",
+    "filescores": {
+        "CMakeLists.txt": 3.9413743882277645e-05,
+        "Opts.td": 1.1546088925605748e-05,
+        "llvm-dwp.cpp": 0.000312548244780698
+    },
+    "subdirscores": {}
+}

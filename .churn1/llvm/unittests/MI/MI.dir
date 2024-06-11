@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/llvm/unittests/MI",
+    "score.sum": 0.00012609261880370374,
+    "sha.latest": "db1d9ad109d8e0f17acb2de60c8b57085fe2de77",
+    "time.latest": 1718082011.281216,
+    "formatted_time": "2024-06-11 00:00:11.281219",
+    "filescores": {
+        "CMakeLists.txt": 1.226039789585099e-05,
+        "LiveIntervalTest.cpp": 0.00011507679796278986
+    },
+    "subdirscores": {}
+}

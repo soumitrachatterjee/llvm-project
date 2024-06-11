@@ -1,0 +1,18 @@
+{
+    "directory name": "llvm-project/llvm/unittests/TextAPI",
+    "score.sum": 0.0002263446218197516,
+    "sha.latest": "50ae8a2a38b618d76193bed04b1d7df6890d5c8a",
+    "time.latest": 1718084752.3486438,
+    "formatted_time": "2024-06-11 00:45:52.348647",
+    "filescores": {
+        "CMakeLists.txt": 3.96276830226689e-05,
+        "RecordTests.cpp": 1.011226204534835e-05,
+        "TextStubHelpers.h": 4.123518510120155e-05,
+        "TextStubV1Tests.cpp": 4.013246052614287e-05,
+        "TextStubV2Tests.cpp": 4.2462652964191134e-05,
+        "TextStubV3Tests.cpp": 5.3241330951962145e-05,
+        "TextStubV4Tests.cpp": 9.119295223722957e-05,
+        "TextStubV5Tests.cpp": 3.720613159550603e-05
+    },
+    "subdirscores": {}
+}

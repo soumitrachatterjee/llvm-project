@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/llvm/utils/gn/build/libs/xar",
+    "score.sum": 0,
+    "sha.latest": "6b66308fa6b4b8f4448fcfea6026e5784ffd55ec",
+    "time.latest": 1718080273.3746707,
+    "formatted_time": "2024-06-10 23:31:13.374674",
+    "filescores": {
+        "BUILD.gn": 0,
+        "enable.gni": 0
+    },
+    "subdirscores": {}
+}

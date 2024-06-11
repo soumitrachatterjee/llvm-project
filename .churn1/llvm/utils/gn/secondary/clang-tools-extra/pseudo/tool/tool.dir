@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/llvm/utils/gn/secondary/clang-tools-extra/pseudo/tool",
+    "score.sum": 1.0717529054401875e-05,
+    "sha.latest": "ec91c56102d001591c8bfb626301c19a6bbf14bb",
+    "time.latest": 1718082909.4642673,
+    "formatted_time": "2024-06-11 00:15:09.464271",
+    "filescores": {
+        "BUILD.gn": 1.0717529054401875e-05
+    },
+    "subdirscores": {}
+}

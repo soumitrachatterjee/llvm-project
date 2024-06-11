@@ -1,0 +1,33 @@
+{
+    "directory name": "llvm-project/llvm/test/CodeGen/Lanai",
+    "score.sum": 9.948109566647608e-05,
+    "sha.latest": "ff9af4c43ad71eeba2cabe99609cfaa0fd54c1d0",
+    "time.latest": 1718063592.2029757,
+    "formatted_time": "2024-06-10 18:53:12.202979",
+    "filescores": {
+        "atomic-oversize.ll": 0,
+        "codemodel.ll": 4.0281948596759454e-05,
+        "comparisons_i32.ll": 0,
+        "comparisons_i64.ll": 6.099602068851199e-06,
+        "constant_multiply.ll": 1.3462136598934135e-05,
+        "delay_filler.ll": 0,
+        "i32.ll": 0,
+        "inlineasm-output-template.ll": 6.099602068851199e-06,
+        "lanai-misched-trivial-disjoint.ll": 9.753282064040801e-06,
+        "lit.local.cfg": 8.851740742778202e-06,
+        "lowering-128.ll": 6.099602068851199e-06,
+        "lshift64.ll": 0,
+        "masking_setccs.ll": 0,
+        "mem_alu_combiner.ll": 1.2000984427989975e-05,
+        "multiply.ll": 6.099602068851199e-06,
+        "peephole-compare.mir": 1.4401815228148525e-05,
+        "rshift64.ll": 0,
+        "select.ll": 6.099602068851199e-06,
+        "set_and_hi.ll": 6.099602068851199e-06,
+        "shift.ll": 6.099602068851199e-06,
+        "stack-frame.ll": 0,
+        "sub-cmp-peephole.ll": 1.649281823619415e-05,
+        "subword.ll": 6.099602068851199e-06
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/llvm/utils/gn/secondary/clang-tools-extra/clangd/quality",
+    "score.sum": 8.072326477014192e-06,
+    "sha.latest": "af3c51e3546eccff714ec146fb8daf18177e2028",
+    "time.latest": 1718082393.8104935,
+    "formatted_time": "2024-06-11 00:06:33.810497",
+    "filescores": {
+        "gen_decision_forest.gni": 8.072326477014192e-06
+    },
+    "subdirscores": {}
+}

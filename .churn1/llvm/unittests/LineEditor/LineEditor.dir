@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/llvm/unittests/LineEditor",
+    "score.sum": 1.0877662546821994e-05,
+    "sha.latest": "2946cd701067404b99c39fb29dc9c74bd7193eb3",
+    "time.latest": 1718081770.7925458,
+    "formatted_time": "2024-06-10 23:56:10.792549",
+    "filescores": {
+        "CMakeLists.txt": 6.099602068851199e-06,
+        "LineEditor.cpp": 7.855731213068156e-06
+    },
+    "subdirscores": {}
+}

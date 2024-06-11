@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/llvm/test/CodeGen/M68k/ShiftRotate",
+    "score.sum": 0,
+    "sha.latest": "0365af1a87ebc17a75dc6352e63cf1be536a49b4",
+    "time.latest": 1718071630.051509,
+    "formatted_time": "2024-06-10 21:07:10.051513",
+    "filescores": {
+        "asr.ll": 0,
+        "lsl.ll": 0,
+        "lsr.ll": 0,
+        "rol.ll": 0,
+        "ror.ll": 0
+    },
+    "subdirscores": {}
+}

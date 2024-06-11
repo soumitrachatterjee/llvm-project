@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/llvm/tools/llvm-yaml-numeric-parser-fuzzer",
+    "score.sum": 2.6031642837786307e-05,
+    "sha.latest": "f9306f6de3bd19a2dcacd64566852a5f92c86e77",
+    "time.latest": 1718084694.0419333,
+    "formatted_time": "2024-06-11 00:44:54.041937",
+    "filescores": {
+        "CMakeLists.txt": 1.8298437656066837e-05,
+        "DummyYAMLNumericParserFuzzer.cpp": 6.099602068851199e-06,
+        "yaml-numeric-parser-fuzzer.cpp": 1.2914898458942939e-05
+    },
+    "subdirscores": {}
+}

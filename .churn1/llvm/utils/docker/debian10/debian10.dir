@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/llvm/utils/docker/debian10",
+    "score.sum": 6.099602068851199e-06,
+    "sha.latest": "2d9b7fdaa379cfa3ce21259bf6669b71cab2b75d",
+    "time.latest": 1718079473.8069582,
+    "formatted_time": "2024-06-10 23:17:53.806961",
+    "filescores": {
+        "Dockerfile": 6.099602068851199e-06
+    },
+    "subdirscores": {}
+}

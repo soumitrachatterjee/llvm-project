@@ -1,0 +1,26 @@
+{
+    "directory name": "llvm-project/llvm/tools/llvm-rc",
+    "score.sum": 0.00039725067028892114,
+    "sha.latest": "fab2bb8bfda865bd438dee981d7be7df8017b76d",
+    "time.latest": 1718082728.36542,
+    "formatted_time": "2024-06-11 00:12:08.365424",
+    "filescores": {
+        "CMakeLists.txt": 2.366197596551611e-05,
+        "Opts.td": 2.5739451809478274e-05,
+        "ResourceFileWriter.cpp": 6.600550913028757e-05,
+        "ResourceFileWriter.h": 3.2261910134657325e-05,
+        "ResourceScriptCppFilter.cpp": 1.0270826478446204e-05,
+        "ResourceScriptCppFilter.h": 6.099602068851199e-06,
+        "ResourceScriptParser.cpp": 5.957147128016018e-05,
+        "ResourceScriptParser.h": 2.4478623394831014e-05,
+        "ResourceScriptStmt.cpp": 1.602740247515117e-05,
+        "ResourceScriptStmt.h": 4.606760955098098e-05,
+        "ResourceScriptToken.cpp": 2.6292321201950235e-05,
+        "ResourceScriptToken.h": 9.202241268298178e-06,
+        "ResourceScriptTokenList.def": 6.099602068851199e-06,
+        "ResourceVisitor.h": 9.949704878344479e-06,
+        "WindresOpts.td": 6.099602068851199e-06,
+        "llvm-rc.cpp": 0.00024706324801416964
+    },
+    "subdirscores": {}
+}

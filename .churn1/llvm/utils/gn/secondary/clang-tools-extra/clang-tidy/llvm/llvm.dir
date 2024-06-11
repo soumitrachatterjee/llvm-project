@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/llvm/utils/gn/secondary/clang-tools-extra/clang-tidy/llvm",
+    "score.sum": 8.434216654629219e-06,
+    "sha.latest": "b83b4e94056a458c5e5297d8192619f6d3ed62e1",
+    "time.latest": 1718081893.0953975,
+    "formatted_time": "2024-06-10 23:58:13.095401",
+    "filescores": {
+        "BUILD.gn": 8.434216654629219e-06
+    },
+    "subdirscores": {}
+}

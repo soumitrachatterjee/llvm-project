@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/llvm/unittests/AsmParser",
+    "score.sum": 4.96941321750054e-05,
+    "sha.latest": "f2df4bfe54cd4161b7a2d89a0bc5dc69e747b01e",
+    "time.latest": 1718079045.5344765,
+    "formatted_time": "2024-06-10 23:10:45.534479",
+    "filescores": {
+        "AsmParserTest.cpp": 4.921228989401457e-05,
+        "CMakeLists.txt": 0
+    },
+    "subdirscores": {}
+}

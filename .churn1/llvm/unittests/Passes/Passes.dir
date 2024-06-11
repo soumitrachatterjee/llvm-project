@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/llvm/unittests/Passes",
+    "score.sum": 0.00011997748277483361,
+    "sha.latest": "a6ea0185d698dfce0811c37e910d5c08b6a20ed0",
+    "time.latest": 1718082516.701247,
+    "formatted_time": "2024-06-11 00:08:36.701248",
+    "filescores": {
+        "CMakeLists.txt": 6.78840632667668e-05
+    },
+    "subdirscores": {
+        "PassBuilderBindings": 0,
+        "Plugins": 6.1405642005062045e-06
+    }
+}

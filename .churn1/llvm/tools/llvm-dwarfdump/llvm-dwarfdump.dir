@@ -1,0 +1,17 @@
+{
+    "directory name": "llvm-project/llvm/tools/llvm-dwarfdump",
+    "score.sum": 0.0009360317530816012,
+    "sha.latest": "6244dfef5cd45f1395c66abbe061c6a7eb002676",
+    "time.latest": 1718079515.9012303,
+    "formatted_time": "2024-06-10 23:18:35.901234",
+    "filescores": {
+        "CMakeLists.txt": 2.5515245489314185e-05,
+        "SectionSizes.cpp": 1.1020017382516116e-05,
+        "Statistics.cpp": 0.0001458155735987516,
+        "llvm-dwarfdump.cpp": 0.0006661758574585198,
+        "llvm-dwarfdump.h": 7.0068878603520415e-06
+    },
+    "subdirscores": {
+        "fuzzer": 1.7804034689392856e-05
+    }
+}

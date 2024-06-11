@@ -1,0 +1,18 @@
+{
+    "directory name": "llvm-project/llvm/test/CodeGen/M68k/CodeModel",
+    "score.sum": 2.2396182908657564e-05,
+    "sha.latest": "cd0d11be7a6de335dcfcf2788a97d915f017e25e",
+    "time.latest": 1718071356.0678928,
+    "formatted_time": "2024-06-10 21:02:36.067896",
+    "filescores": {
+        "medium-pic.ll": 2.0148830831844645e-05,
+        "medium-pie-global-access.ll": 1.0373491259287404e-05,
+        "medium-pie.ll": 7.661860134136818e-06,
+        "medium-static.ll": 2.0148830831844645e-05,
+        "small-pic.ll": 2.2396182908657564e-05,
+        "small-pie-global-access.ll": 1.0373491259287404e-05,
+        "small-pie.ll": 7.661860134136818e-06,
+        "small-static.ll": 2.2396182908657564e-05
+    },
+    "subdirscores": {}
+}

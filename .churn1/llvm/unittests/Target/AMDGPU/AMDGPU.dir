@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/llvm/unittests/Target/AMDGPU",
+    "score.sum": 4.1433829362823624e-05,
+    "sha.latest": "53697a5dcdc4d83cbe0cb6d88e33c3f1bb3ea487",
+    "time.latest": 1718084134.4881876,
+    "formatted_time": "2024-06-11 00:35:34.488191",
+    "filescores": {
+        "AMDGPUUnitTests.cpp": 6.960696986361816e-06,
+        "AMDGPUUnitTests.h": 0,
+        "CMakeLists.txt": 2.3470294080955345e-05,
+        "DwarfRegMappings.cpp": 1.5684565557770935e-05,
+        "ExecMayBeModifiedBeforeAnyUse.cpp": 1.5076352752434353e-05
+    },
+    "subdirscores": {}
+}

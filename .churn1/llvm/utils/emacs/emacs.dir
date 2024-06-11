@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/llvm/utils/emacs",
+    "score.sum": 0.0002597662666129436,
+    "sha.latest": "5b4abae7630572c96a736faa1f09b1a3c37201a2",
+    "time.latest": 1718079650.9358182,
+    "formatted_time": "2024-06-10 23:20:50.935822",
+    "filescores": {
+        "README": 9.848662175816053e-06,
+        "emacs.el": 1.9141769808980377e-05,
+        "llvm-mir-mode.el": 0,
+        "llvm-mode.el": 0.00018601166029926574,
+        "tablegen-mode.el": 5.320320535442684e-05
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/llvm/test/CodeGen/MIR/Mips",
+    "score.sum": 3.383655855350621e-05,
+    "sha.latest": "ff9af4c43ad71eeba2cabe99609cfaa0fd54c1d0",
+    "time.latest": 1718079649.3531656,
+    "formatted_time": "2024-06-10 23:20:49.353169",
+    "filescores": {
+        "expected-global-value-or-symbol-after-call-entry.mir": 1.2244111493849004e-05,
+        "lit.local.cfg": 6.099602068851199e-06,
+        "memory-operands.mir": 1.6944571029058263e-05,
+        "setRegClassOrRegBank.ll": 9.362607711730272e-06,
+        "setRegClassOrRegBank.mir": 8.502576219421164e-06
+    },
+    "subdirscores": {}
+}

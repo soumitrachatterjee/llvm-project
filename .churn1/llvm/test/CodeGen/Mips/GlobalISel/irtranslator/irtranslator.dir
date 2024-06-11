@@ -1,0 +1,24 @@
+{
+    "directory name": "llvm-project/llvm/test/CodeGen/Mips/GlobalISel/irtranslator",
+    "score.sum": 9.096546459160318e-05,
+    "sha.latest": "ff9af4c43ad71eeba2cabe99609cfaa0fd54c1d0",
+    "time.latest": 1718084562.429386,
+    "formatted_time": "2024-06-11 00:42:42.429389",
+    "filescores": {
+        "add.ll": 0,
+        "aggregate_struct_return.ll": 1.3901419128247013e-05,
+        "bitwise.ll": 6.099602068851199e-06,
+        "call.ll": 2.0650182170913846e-05,
+        "extend_args.ll": 2.6607803119785784e-05,
+        "float_args.ll": 2.013202933229634e-05,
+        "global_address.ll": 1.2199163128878828e-05,
+        "global_address_pic.ll": 0,
+        "pointers.ll": 1.5003854342318794e-05,
+        "ret.ll": 0,
+        "split_args.ll": 7.096303874841058e-06,
+        "sret_pointer.ll": 1.6100065653754722e-05,
+        "stack_args.ll": 2.1367050630137324e-05,
+        "var_arg.ll": 2.4759118786481104e-05
+    },
+    "subdirscores": {}
+}

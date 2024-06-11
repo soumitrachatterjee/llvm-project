@@ -1,0 +1,17 @@
+{
+    "directory name": "llvm-project/llvm/unittests/Demangle",
+    "score.sum": 0.00014409850383300383,
+    "sha.latest": "f5371eb3d3aed06ba84a69533586a60243ad2f24",
+    "time.latest": 1718080576.6226127,
+    "formatted_time": "2024-06-10 23:36:16.622616",
+    "filescores": {
+        "CMakeLists.txt": 2.86669851208586e-05,
+        "DLangDemangleTest.cpp": 9.395163982881931e-06,
+        "DemangleTest.cpp": 2.2038327434718202e-05,
+        "ItaniumDemangleTest.cpp": 4.547157943452606e-05,
+        "OutputBufferTest.cpp": 2.1447097057866697e-05,
+        "PartialDemangleTest.cpp": 8.412136797199123e-06,
+        "RustDemangleTest.cpp": 6.099602068851199e-06
+    },
+    "subdirscores": {}
+}

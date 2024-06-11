@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/llvm/unittests/Passes/Plugins/TestPlugin",
+    "score.sum": 6.099602068851199e-06,
+    "sha.latest": "8e4f8259f75fa3415e3834058cd19a1ae52d9ec6",
+    "time.latest": 1718082516.698955,
+    "formatted_time": "2024-06-11 00:08:36.698958",
+    "filescores": {
+        "CMakeLists.txt": 6.099602068851199e-06,
+        "TestPlugin.cpp": 0
+    },
+    "subdirscores": {}
+}

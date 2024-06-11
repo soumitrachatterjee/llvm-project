@@ -1,0 +1,25 @@
+{
+    "directory name": "llvm-project/llvm/tools/llvm-c-test",
+    "score.sum": 0.0004944284413021765,
+    "sha.latest": "d5c95302b9736b4e785c77463d7f2026b772ba1b",
+    "time.latest": 1718078426.4200938,
+    "formatted_time": "2024-06-10 23:00:26.420098",
+    "filescores": {
+        "CMakeLists.txt": 3.1795256850921686e-05,
+        "attributes.c": 1.987052391315823e-05,
+        "calc.c": 1.3474689231717785e-05,
+        "debuginfo.c": 6.332357778871278e-05,
+        "diagnostic.c": 8.814799995270565e-06,
+        "disassemble.c": 9.853568650829497e-06,
+        "echo.cpp": 0.0002086753853220153,
+        "helpers.c": 1.3581475937906926e-05,
+        "include-all.c": 4.548703583583827e-05,
+        "llvm-c-test.h": 4.9570380288948296e-05,
+        "main.c": 7.391154001991116e-05,
+        "metadata.c": 2.740263231852063e-05,
+        "module.c": 2.126113566448648e-05,
+        "object.c": 2.0014760192333438e-05,
+        "targets.c": 8.762577682790006e-06
+    },
+    "subdirscores": {}
+}

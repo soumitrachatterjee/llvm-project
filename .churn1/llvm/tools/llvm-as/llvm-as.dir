@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/llvm/tools/llvm-as",
+    "score.sum": 0.0003625521851303021,
+    "sha.latest": "586ecdf205aa8b3d162da6f955170a6736656615",
+    "time.latest": 1718078214.062531,
+    "formatted_time": "2024-06-10 22:56:54.062534",
+    "filescores": {
+        "CMakeLists.txt": 2.7304600062085922e-05,
+        "llvm-as.cpp": 0.0003022717814056171
+    },
+    "subdirscores": {}
+}

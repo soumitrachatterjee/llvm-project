@@ -1,0 +1,22 @@
+{
+    "directory name": "llvm-project/llvm/unittests/DebugInfo/LogicalView",
+    "score.sum": 1.3338700786720176e-05,
+    "sha.latest": "5c9d82de6b72cc0c037daecce452c450870f0034",
+    "time.latest": 1718080232.5306334,
+    "formatted_time": "2024-06-10 23:30:32.530637",
+    "filescores": {
+        "CMakeLists.txt": 1.1009406018623086e-05,
+        "CodeViewReaderTest.cpp": 6.099602068851199e-06,
+        "CommandLineOptionsTest.cpp": 6.314409029024866e-06,
+        "CompareElementsTest.cpp": 6.123763528261301e-06,
+        "ELFReaderTest.cpp": 9.188650046316311e-06,
+        "LocationRangesTest.cpp": 6.165856132358756e-06,
+        "LogicalElementsTest.cpp": 6.099602068851199e-06,
+        "SelectElementsTest.cpp": 6.099602068851199e-06,
+        "StringPoolTest.cpp": 6.314409029024866e-06,
+        "WarningInternalTest.cpp": 6.099602068851199e-06
+    },
+    "subdirscores": {
+        "Inputs": 6.099602068851199e-06
+    }
+}

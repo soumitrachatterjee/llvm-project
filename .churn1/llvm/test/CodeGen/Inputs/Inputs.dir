@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/llvm/test/CodeGen/Inputs",
+    "score.sum": 3.399317867636685e-05,
+    "sha.latest": "e018cbf7208b3d34f18997ddee84c66cee32fb1b",
+    "time.latest": 1718063305.4132912,
+    "formatted_time": "2024-06-10 18:48:25.413295",
+    "filescores": {
+        "DbgValueOtherTargets.ll": 7.937513955317001e-05,
+        "stack-guard-reassign.ll": 6.099602068851199e-06
+    },
+    "subdirscores": {}
+}

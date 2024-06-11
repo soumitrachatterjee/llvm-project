@@ -1,0 +1,16 @@
+{
+    "directory name": "llvm-project/llvm/unittests/DebugInfo/LogicalView/Inputs",
+    "score.sum": 6.099602068851199e-06,
+    "sha.latest": "e7950fceb1e7f82370f6cff80b258e552eb410a6",
+    "time.latest": 1718080184.6521547,
+    "formatted_time": "2024-06-10 23:29:44.652158",
+    "filescores": {
+        "test-codeview-clang.o": 0,
+        "test-codeview-msvc.o": 0,
+        "test-codeview-pdb-msvc-.pdb": 0,
+        "test-codeview-pdb-msvc.o": 0,
+        "test-dwarf-clang.o": 0,
+        "test-dwarf-gcc.o": 0
+    },
+    "subdirscores": {}
+}

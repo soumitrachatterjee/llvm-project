@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/llvm/unittests/InterfaceStub",
+    "score.sum": 4.183455877229264e-05,
+    "sha.latest": "8e9c531922c4f9a1ee583ef3553b8529bb8e9a9a",
+    "time.latest": 1718081726.3544934,
+    "formatted_time": "2024-06-10 23:55:26.354497",
+    "filescores": {
+        "CMakeLists.txt": 0,
+        "ELFYAMLTest.cpp": 4.183455877229264e-05
+    },
+    "subdirscores": {}
+}

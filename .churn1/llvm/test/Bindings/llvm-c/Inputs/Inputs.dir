@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/llvm/test/Bindings/llvm-c/Inputs",
+    "score.sum": 1.0282806779068527e-05,
+    "sha.latest": "24830ea7108197c7880939aa2e32db3aa4bc6284",
+    "time.latest": 1717937808.2847404,
+    "formatted_time": "2024-06-09 07:56:48.284744",
+    "filescores": {
+        "invalid.ll.bc": 1.0282806779068527e-05
+    },
+    "subdirscores": {}
+}

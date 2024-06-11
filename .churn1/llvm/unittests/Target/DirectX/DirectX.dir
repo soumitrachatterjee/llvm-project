@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/llvm/unittests/Target/DirectX",
+    "score.sum": 3.324499109767247e-05,
+    "sha.latest": "9423a025784b05612f5111d0bb631d345b7c0464",
+    "time.latest": 1718084224.8441775,
+    "formatted_time": "2024-06-11 00:37:04.844181",
+    "filescores": {
+        "CBufferDataLayoutTests.cpp": 6.099602068851199e-06,
+        "CMakeLists.txt": 2.069046848363787e-05,
+        "PointerTypeAnalysisTests.cpp": 1.3142806356598449e-05
+    },
+    "subdirscores": {}
+}

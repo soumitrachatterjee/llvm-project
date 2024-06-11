@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/llvm/test/CodeGen/M68k/Alloc",
+    "score.sum": 1.3336023733735686e-05,
+    "sha.latest": "cd0d11be7a6de335dcfcf2788a97d915f017e25e",
+    "time.latest": 1718070947.1861587,
+    "formatted_time": "2024-06-10 20:55:47.186162",
+    "filescores": {
+        "dyn_alloca_aligned.ll": 1.3336023733735686e-05
+    },
+    "subdirscores": {}
+}

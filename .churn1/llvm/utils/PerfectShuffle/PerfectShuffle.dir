@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/llvm/utils/PerfectShuffle",
+    "score.sum": 7.62353366576767e-05,
+    "sha.latest": "4c6a070a2ce1722f53da8164b6d50d5d54fdc1d2",
+    "time.latest": 1718077752.7887244,
+    "formatted_time": "2024-06-10 22:49:12.788728",
+    "filescores": {
+        "CMakeLists.txt": 0,
+        "PerfectShuffle.cpp": 6.743182486928607e-05
+    },
+    "subdirscores": {}
+}

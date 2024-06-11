@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/llvm/unittests/Support/CommandLineInit",
+    "score.sum": 1.672844894004779e-05,
+    "sha.latest": "f7872cdce1102a5c12633dad462a1d9763a578d3",
+    "time.latest": 1718082966.9784684,
+    "formatted_time": "2024-06-11 00:16:06.978472",
+    "filescores": {
+        "CMakeLists.txt": 1.81775950805597e-05,
+        "CommandLineInitTest.cpp": 6.099602068851199e-06
+    },
+    "subdirscores": {}
+}

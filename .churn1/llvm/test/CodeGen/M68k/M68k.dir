@@ -1,0 +1,34 @@
+{
+    "directory name": "llvm-project/llvm/test/CodeGen/M68k",
+    "score.sum": 0.0002446105956332113,
+    "sha.latest": "a490bbf5391de358ad400a23ae8e9ed494e5004e",
+    "time.latest": 1718071800.7925582,
+    "formatted_time": "2024-06-10 21:10:00.792561",
+    "filescores": {
+        "CollapseMOVEM.mir": 6.099602068851199e-06,
+        "PR57660.ll": 6.099602068851199e-06,
+        "gcc_except_table.ll": 0,
+        "global-address.ll": 0,
+        "inline-asm.ll": 1.0626208854661906e-05,
+        "is-pcrel-register-operand-legal.mir": 0,
+        "link-unlnk.ll": 7.157113495277078e-06,
+        "lit.local.cfg": 6.1606519017137295e-06,
+        "load-extend.ll": 0,
+        "m6888x-features.ll": 0,
+        "multiple-return.ll": 0,
+        "pipeline.ll": 1.7345788452797593e-05,
+        "reserved-regs.ll": 6.099602068851199e-06,
+        "varargs.ll": 1.1450120850554895e-05
+    },
+    "subdirscores": {
+        "Alloc": 1.3336023733735686e-05,
+        "Arith": 5.828154277801766e-05,
+        "Atomics": 1.3333904961441449e-05,
+        "CConv": 1.8148089178869086e-05,
+        "CodeModel": 2.2396182908657564e-05,
+        "Control": 1.744763674338946e-05,
+        "GlobalISel": 1.9885007591880832e-05,
+        "ShiftRotate": 0,
+        "TLS": 6.099602068851199e-06
+    }
+}

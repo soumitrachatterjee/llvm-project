@@ -1,0 +1,19 @@
+{
+    "directory name": "llvm-project/llvm/unittests/Remarks",
+    "score.sum": 6.564331788415689e-05,
+    "sha.latest": "e800967eb1105177f561732814297bfecfaf63c2",
+    "time.latest": 1718082726.4320738,
+    "formatted_time": "2024-06-11 00:12:06.432077",
+    "filescores": {
+        "BitstreamRemarksFormatTest.cpp": 1.0988809219893207e-05,
+        "BitstreamRemarksParsingTest.cpp": 0,
+        "BitstreamRemarksSerializerTest.cpp": 1.6930959975153395e-05,
+        "CMakeLists.txt": 3.2629521537489447e-05,
+        "RemarksAPITest.cpp": 6.099602068851199e-06,
+        "RemarksLinkingTest.cpp": 6.099682342131603e-06,
+        "RemarksStrTabParsingTest.cpp": 0,
+        "YAMLRemarksParsingTest.cpp": 2.5917708410782247e-05,
+        "YAMLRemarksSerializerTest.cpp": 1.886208896548699e-05
+    },
+    "subdirscores": {}
+}

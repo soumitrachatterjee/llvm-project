@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/llvm/utils/gn/secondary/clang/tools/clang-offload-packager",
+    "score.sum": 6.099602068851199e-06,
+    "sha.latest": "1b976f2cb22fb022421380caec8254f20f6754b5",
+    "time.latest": 1718084864.1628265,
+    "formatted_time": "2024-06-11 00:47:44.162830",
+    "filescores": {
+        "BUILD.gn": 6.099602068851199e-06
+    },
+    "subdirscores": {}
+}

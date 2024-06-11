@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/llvm/tools/opt",
+    "score.sum": 0.003392949163415774,
+    "sha.latest": "8fccf6bf5ccb4404cfe184ceda7c32e349e122c0",
+    "time.latest": 1718085085.1890547,
+    "formatted_time": "2024-06-11 00:51:25.189058",
+    "filescores": {
+        "CMakeLists.txt": 0.00020161025618524556,
+        "NewPMDriver.cpp": 0.0005861217767361404,
+        "NewPMDriver.h": 0.00011653474534325904,
+        "opt.cpp": 0.0021959254084526016,
+        "optdriver.cpp": 1.3536293419410971e-05
+    },
+    "subdirscores": {}
+}

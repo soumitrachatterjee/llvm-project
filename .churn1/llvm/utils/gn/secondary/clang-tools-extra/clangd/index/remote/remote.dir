@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/llvm/utils/gn/secondary/clang-tools-extra/clangd/index/remote",
+    "score.sum": 8.662987377170028e-06,
+    "sha.latest": "191117cec5cdffb46fc3b889bd0627b77b798864",
+    "time.latest": 1718082348.9801168,
+    "formatted_time": "2024-06-11 00:05:48.980118",
+    "filescores": {
+        "BUILD.gn": 8.662987377170028e-06
+    },
+    "subdirscores": {
+        "unimplemented": 8.659944158603684e-06
+    }
+}

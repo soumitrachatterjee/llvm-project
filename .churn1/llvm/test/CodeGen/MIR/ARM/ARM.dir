@@ -1,0 +1,19 @@
+{
+    "directory name": "llvm-project/llvm/test/CodeGen/MIR/ARM",
+    "score.sum": 8.947840432849721e-05,
+    "sha.latest": "ff9af4c43ad71eeba2cabe99609cfaa0fd54c1d0",
+    "time.latest": 1718078794.2021472,
+    "formatted_time": "2024-06-10 23:06:34.202151",
+    "filescores": {
+        "bundled-instructions.mir": 2.784753529768336e-05,
+        "call-frame-size.mir": 6.099602068851199e-06,
+        "cfi-same-value.mir": 1.1979732671424991e-05,
+        "expected-closing-brace.mir": 8.536957162929226e-06,
+        "extraneous-closing-brace-error.mir": 8.376035488730589e-06,
+        "lit.local.cfg": 6.099602068851199e-06,
+        "nested-instruction-bundle-error.mir": 1.6751132525738914e-05,
+        "target-constant-pools-error.mir": 0,
+        "thumb2-sub-sp-t3.mir": 1.3197820374054741e-05
+    },
+    "subdirscores": {}
+}

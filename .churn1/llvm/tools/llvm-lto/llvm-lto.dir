@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/llvm/tools/llvm-lto",
+    "score.sum": 0.0004987271470540237,
+    "sha.latest": "92eaf036bf22ecc276146cd073208e6a867af8d4",
+    "time.latest": 1718080865.3013837,
+    "formatted_time": "2024-06-10 23:41:05.301387",
+    "filescores": {
+        "CMakeLists.txt": 3.3273655822650504e-05,
+        "llvm-lto.cpp": 0.0004672556720231994
+    },
+    "subdirscores": {}
+}
