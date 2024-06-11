@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/clang/test/CXX/basic/basic.def",
+    "score.sum": 6.099602068851199e-06,
+    "sha.latest": "1f6ea2a37c4393a2147cb82c8fe7966a2f690e24",
+    "time.latest": 1718082123.010924,
+    "formatted_time": "2024-06-11 10:32:03.010926",
+    "filescores": {
+        "p2.cpp": 6.099602068851199e-06,
+        "p4.cpp": 0
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/clang/tools/clang-fuzzer/handle-cxx",
+    "score.sum": 2.9093959179067923e-05,
+    "sha.latest": "bcf6ffb87ec67ba41daeaab905b2c57a50568aa0",
+    "time.latest": 1718081942.7849834,
+    "formatted_time": "2024-06-11 10:29:02.784986",
+    "filescores": {
+        "CMakeLists.txt": 2.0070178920770204e-05,
+        "handle_cxx.cpp": 1.5735564408873267e-05,
+        "handle_cxx.h": 1.0109189355427892e-05
+    },
+    "subdirscores": {}
+}

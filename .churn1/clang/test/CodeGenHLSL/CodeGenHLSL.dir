@@ -1,0 +1,38 @@
+{
+    "directory name": "llvm-project/clang/test/CodeGenHLSL",
+    "score.sum": 0.0002098348426555575,
+    "sha.latest": "5a5266248d4f7af101ad5a54960cbd814599a8d6",
+    "time.latest": 1718011240.746755,
+    "formatted_time": "2024-06-10 14:50:40.746757",
+    "filescores": {
+        "basic-target.c": 0,
+        "basic_types.hlsl": 1.1902018843999792e-05,
+        "buffer-array-operator.hlsl": 0,
+        "cbuf.hlsl": 1.2259601696759138e-05,
+        "cbuf_in_namespace.hlsl": 0,
+        "disable_opt.hlsl": 6.099602068851199e-06,
+        "entry.hlsl": 1.3707497836444763e-05,
+        "float3.hlsl": 6.2393801568671495e-06,
+        "GlobalConstructorFunction.hlsl": 7.048700028853093e-06,
+        "GlobalConstructorLib.hlsl": 6.099602068851199e-06,
+        "GlobalConstructors.hlsl": 6.099602068851199e-06,
+        "GlobalDestructors.hlsl": 6.641080201613798e-06,
+        "group_shared.hlsl": 0,
+        "half.hlsl": 6.099602068851199e-06,
+        "lit.local.cfg": 6.099602068851199e-06,
+        "no_int_promotion.hlsl": 0,
+        "shader_type_attr.hlsl": 8.602769747738253e-06,
+        "shift-mask.hlsl": 0,
+        "sret_output.hlsl": 6.099602068851199e-06,
+        "static_global_and_function_in_cb.hlsl": 0,
+        "this-assignment-overload.hlsl": 0,
+        "this-assignment.hlsl": 0,
+        "this-reference.hlsl": 6.099602068851199e-06,
+        "validator_version.hlsl": 2.1633224184636164e-05
+    },
+    "subdirscores": {
+        "BasicFeatures": 0,
+        "builtins": 0.00012167300464951574,
+        "semantics": 1.2724426618371806e-05
+    }
+}

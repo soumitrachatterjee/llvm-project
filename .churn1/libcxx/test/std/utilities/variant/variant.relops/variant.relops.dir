@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/utilities/variant/variant.relops",
+    "score.sum": 6.416529562551137e-05,
+    "sha.latest": "9bb9ec380ace81d040d3a0a0a2ae9a75733ab330",
+    "time.latest": 1718009513.2592402,
+    "formatted_time": "2024-06-10 14:21:53.259242",
+    "filescores": {
+        "relops.pass.cpp": 2.8300163098881426e-05,
+        "relops_bool_conv.verify.cpp": 6.099602068851199e-06,
+        "three_way.pass.cpp": 6.099602068851199e-06
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/clang/tools/scan-build-py/tests/functional/exec",
+    "score.sum": 7.262176950584786e-05,
+    "sha.latest": "cbaa3597aaf6273e66b3f445ed36a6458143fe6a",
+    "time.latest": 1718082889.5798883,
+    "formatted_time": "2024-06-11 10:44:49.579891",
+    "filescores": {
+        "CMakeLists.txt": 7.012341063777908e-05,
+        "config.h.in": 6.099602068851199e-06,
+        "main.c": 6.099602068851199e-06
+    },
+    "subdirscores": {}
+}

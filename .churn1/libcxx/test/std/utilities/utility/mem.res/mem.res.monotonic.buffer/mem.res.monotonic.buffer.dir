@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/utilities/utility/mem.res/mem.res.monotonic.buffer",
+    "score.sum": 1.7490703759234713e-05,
+    "sha.latest": "2da049a1418f7a2f96e7cac4368cac3ce8667d2e",
+    "time.latest": 1718008632.3800976,
+    "formatted_time": "2024-06-10 14:07:12.380099",
+    "filescores": {},
+    "subdirscores": {
+        "mem.res.monotonic.buffer.ctor": 1.0144352726900491e-05,
+        "mem.res.monotonic.buffer.mem": 1.7490703759234713e-05
+    }
+}

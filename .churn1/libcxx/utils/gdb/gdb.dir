@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/libcxx/utils/gdb",
+    "score.sum": 5.0322423034944115e-05,
+    "sha.latest": "0d3c40b82b3b667a4f7f69f45658c184615fd54f",
+    "time.latest": 1718011094.5630817,
+    "formatted_time": "2024-06-10 14:48:14.563083",
+    "filescores": {},
+    "subdirscores": {
+        "libcxx": 5.0322423034944115e-05
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/clang/test/CXX/dcl.decl/dcl.meaning/dcl.ref",
+    "score.sum": 1.8651576809962835e-05,
+    "sha.latest": "40259443073bd36d50134980eb962cbfb82dcb67",
+    "time.latest": 1718092027.9006727,
+    "formatted_time": "2024-06-11 13:17:07.900676",
+    "filescores": {
+        "p5.cpp": 7.780364422180993e-06,
+        "p6-0x.cpp": 1.100017445077164e-05
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/clang/test/CXX/module/basic",
+    "score.sum": 1.8074267677751353e-05,
+    "sha.latest": "b37233a253f30e4bd5f040d598826df443293bee",
+    "time.latest": 1718102298.35278,
+    "formatted_time": "2024-06-11 16:08:18.352784",
+    "filescores": {},
+    "subdirscores": {
+        "basic.def.odr": 1.3813261171306973e-05,
+        "basic.link": 2.4146501101311096e-05,
+        "basic.search": 7.115367438114322e-06
+    }
+}

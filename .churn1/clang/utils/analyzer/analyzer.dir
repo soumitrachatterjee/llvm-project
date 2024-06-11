@@ -1,0 +1,28 @@
+{
+    "directory name": "llvm-project/clang/utils/analyzer",
+    "score.sum": 0.0007611714708223392,
+    "sha.latest": "dd3c26a045c081620375a878159f536758baba6e",
+    "time.latest": 1718082089.056753,
+    "formatted_time": "2024-06-11 10:31:29.056756",
+    "filescores": {
+        ".dockerignore": 0,
+        "CmpRuns.py": 0.0001323303377498957,
+        "Dockerfile": 1.339771870027526e-05,
+        "entrypoint.py": 9.005922482838514e-06,
+        "exploded-graph-rewriter.py": 3.6181072080034254e-05,
+        "ProjectMap.py": 6.493279729362679e-06,
+        "reducer.pl": 6.099826267198485e-06,
+        "requirements.txt": 6.099602068851199e-06,
+        "SATest.py": 1.4120020043832842e-05,
+        "SATestAdd.py": 5.419426553361283e-05,
+        "SATestBenchmark.py": 6.099602068851199e-06,
+        "SATestBuild.py": 0.0002778266243663375,
+        "SATestUpdateDiffs.py": 3.151801292832278e-05,
+        "SATestUtils.py": 1.6739394516634646e-05,
+        "SumTimerInfo.py": 2.6958107097746482e-05,
+        "update_plist_test.pl": 6.099602068851199e-06
+    },
+    "subdirscores": {
+        "projects": 8.022923003536397e-06
+    }
+}

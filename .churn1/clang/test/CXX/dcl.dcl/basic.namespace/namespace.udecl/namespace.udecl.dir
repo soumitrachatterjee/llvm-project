@@ -1,0 +1,25 @@
+{
+    "directory name": "llvm-project/clang/test/CXX/dcl.dcl/basic.namespace/namespace.udecl",
+    "score.sum": 9.612116959183649e-05,
+    "sha.latest": "012898b92cad00e230a960a08a3f418628bec060",
+    "time.latest": 1718085290.139094,
+    "formatted_time": "2024-06-11 11:24:50.139097",
+    "filescores": {
+        "p1.cpp": 1.1161157620672216e-05,
+        "p10.cpp": 1.4056537804809577e-05,
+        "p11.cpp": 2.732671891355201e-05,
+        "p12.cpp": 9.961369488408734e-06,
+        "p13.cpp": 7.430872597549844e-06,
+        "p15.cpp": 1.1983025986408799e-05,
+        "p18.cpp": 0,
+        "p3.cpp": 6.099602068851199e-06,
+        "p4.cpp": 1.05997740508057e-05,
+        "p5-cxx0x.cpp": 6.757363745998272e-06,
+        "p6-cxx11.cpp": 0,
+        "p7-cxx20.cpp": 0,
+        "p7.cpp": 6.099602068851199e-06,
+        "p8-cxx0x.cpp": 3.0067526306066086e-05,
+        "p8.cpp": 1.4732763122386087e-05
+    },
+    "subdirscores": {}
+}

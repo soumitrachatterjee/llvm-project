@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/clang/test/CXX/dcl.dcl/dcl.spec/dcl.inline",
+    "score.sum": 0,
+    "sha.latest": "62f19e700d3126415bb443162501eefe22cf1811",
+    "time.latest": 1718085799.9674942,
+    "formatted_time": "2024-06-11 11:33:19.967502",
+    "filescores": {
+        "p1.cpp": 0,
+        "p5.cpp": 0
+    },
+    "subdirscores": {}
+}

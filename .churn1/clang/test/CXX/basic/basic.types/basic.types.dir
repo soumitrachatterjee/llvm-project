@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/clang/test/CXX/basic/basic.types",
+    "score.sum": 5.70070215461257e-05,
+    "sha.latest": "84a3aadf0f2483dde0acfc4e79f2a075a5f35bd1",
+    "time.latest": 1718082752.9612167,
+    "formatted_time": "2024-06-11 10:42:32.961218",
+    "filescores": {
+        "p10.cpp": 5.70070215461257e-05
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/clang/unittests/ASTMatchers/Dynamic",
+    "score.sum": 0.00027253133982192045,
+    "sha.latest": "a87dc23a6271cadd6d3f93561f2d8b1661399e6d",
+    "time.latest": 1718081923.7588284,
+    "formatted_time": "2024-06-11 10:28:43.758831",
+    "filescores": {
+        "CMakeLists.txt": 4.118203498747222e-05,
+        "ParserTest.cpp": 0.00018211940533413606,
+        "RegistryTest.cpp": 8.073465097071965e-05,
+        "VariantValueTest.cpp": 2.358609814851689e-05
+    },
+    "subdirscores": {}
+}

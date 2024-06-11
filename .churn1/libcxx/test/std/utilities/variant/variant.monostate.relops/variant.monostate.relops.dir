@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/utilities/variant/variant.monostate.relops",
+    "score.sum": 1.9703244598821657e-05,
+    "sha.latest": "c4566cac490cf81c141e7deb84008b2cc1de48b7",
+    "time.latest": 1718009473.046321,
+    "formatted_time": "2024-06-10 14:21:13.046322",
+    "filescores": {
+        "relops.pass.cpp": 1.9703244598821657e-05
+    },
+    "subdirscores": {}
+}

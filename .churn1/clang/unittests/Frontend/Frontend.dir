@@ -1,0 +1,23 @@
+{
+    "directory name": "llvm-project/clang/unittests/Frontend",
+    "score.sum": 0.0006172801666872029,
+    "sha.latest": "f3dcc2351cff7b26c9870d737e5d431551542d9e",
+    "time.latest": 1718082396.5503685,
+    "formatted_time": "2024-06-11 10:36:36.550371",
+    "filescores": {
+        "ASTUnitTest.cpp": 6.697521408492838e-05,
+        "CMakeLists.txt": 6.205548590309485e-05,
+        "CodeGenActionTest.cpp": 2.6469011712905094e-05,
+        "CompilerInstanceTest.cpp": 2.369786581518986e-05,
+        "CompilerInvocationTest.cpp": 8.009546053498055e-05,
+        "FixedPointString.cpp": 0,
+        "FrontendActionTest.cpp": 9.66910782787895e-05,
+        "OutputStreamTest.cpp": 2.1458792569997215e-05,
+        "ParsedSourceLocationTest.cpp": 1.3662187378075859e-05,
+        "PCHPreambleTest.cpp": 1.5392676705597277e-05,
+        "ReparseWorkingDirTest.cpp": 0,
+        "TextDiagnosticTest.cpp": 6.656540641005949e-06,
+        "UtilsTest.cpp": 2.4081222957655934e-05
+    },
+    "subdirscores": {}
+}

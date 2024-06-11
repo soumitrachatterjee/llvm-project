@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/clang/tools/clang-format-vs/ClangFormat/Properties",
+    "score.sum": 6.099602068851199e-06,
+    "sha.latest": "e5c485c70b9a2295b820aa2fa1933509fa807d32",
+    "time.latest": 1718081647.8070266,
+    "formatted_time": "2024-06-11 10:24:07.807029",
+    "filescores": {
+        "AssemblyInfo.cs": 6.099602068851199e-06
+    },
+    "subdirscores": {}
+}

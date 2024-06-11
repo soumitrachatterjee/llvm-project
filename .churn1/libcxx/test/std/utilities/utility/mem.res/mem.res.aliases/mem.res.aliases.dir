@@ -1,0 +1,28 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/utilities/utility/mem.res/mem.res.aliases",
+    "score.sum": 1.0639288336404008e-05,
+    "sha.latest": "2da049a1418f7a2f96e7cac4368cac3ce8667d2e",
+    "time.latest": 1718008491.7172887,
+    "formatted_time": "2024-06-10 14:04:51.717290",
+    "filescores": {
+        "header_deque_synop.pass.cpp": 1.0144352726900491e-05,
+        "header_deque_synop2.pass.cpp": 1.0144352726900491e-05,
+        "header_forward_list_synop.pass.cpp": 1.0144352726900491e-05,
+        "header_list_synop.pass.cpp": 1.0144352726900491e-05,
+        "header_list_synop2.pass.cpp": 1.0144352726900491e-05,
+        "header_map_synop.pass.cpp": 1.0144352726900491e-05,
+        "header_map_synop2.pass.cpp": 1.0144352726900491e-05,
+        "header_regex_synop.pass.cpp": 1.0639288336404008e-05,
+        "header_set_synop.pass.cpp": 1.0144352726900491e-05,
+        "header_set_synop2.pass.cpp": 1.0144352726900491e-05,
+        "header_string_synop.pass.cpp": 1.0639288336404008e-05,
+        "header_string_synop2.pass.cpp": 1.0639288336404008e-05,
+        "header_unordered_map_synop.pass.cpp": 1.0144352726900491e-05,
+        "header_unordered_map_synop2.pass.cpp": 1.0144352726900491e-05,
+        "header_unordered_set_synop.pass.cpp": 1.0144352726900491e-05,
+        "header_unordered_set_synop2.pass.cpp": 1.0144352726900491e-05,
+        "header_vector_synop.pass.cpp": 1.0144352726900491e-05,
+        "header_vector_synop2.pass.cpp": 1.0144352726900491e-05
+    },
+    "subdirscores": {}
+}

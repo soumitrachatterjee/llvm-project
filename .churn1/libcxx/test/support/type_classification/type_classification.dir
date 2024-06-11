@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/libcxx/test/support/type_classification",
+    "score.sum": 1.1014589326923562e-05,
+    "sha.latest": "480cd780d63fd9c658cc2f51d0c54416b8b1a5c3",
+    "time.latest": 1718010299.7555046,
+    "formatted_time": "2024-06-10 14:34:59.755506",
+    "filescores": {
+        "copyable.h": 6.099602068851199e-06,
+        "movable.h": 9.706968190569887e-06,
+        "moveconstructible.h": 6.099602068851199e-06,
+        "semiregular.h": 6.099602068851199e-06,
+        "swappable.h": 7.405894365547277e-06
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,19 @@
+{
+    "directory name": "llvm-project/clang/test/CXX/module/module.interface",
+    "score.sum": 6.968466486278812e-05,
+    "sha.latest": "a0d266d705d6c145e8daa08a08f70e9498ec3d0b",
+    "time.latest": 1718103591.2287176,
+    "formatted_time": "2024-06-11 16:29:51.228721",
+    "filescores": {
+        "p1.cpp": 1.2152228379226481e-05,
+        "p2-2.cpp": 8.150297153233392e-06,
+        "p2.cpp": 3.929190667716169e-05,
+        "p3.cpp": 1.0456004229977013e-05,
+        "p5.cpp": 6.131091277100522e-06,
+        "p6.cpp": 6.265624353351089e-06,
+        "p7.cpp": 1.0188895165163926e-05
+    },
+    "subdirscores": {
+        "Inputs": 0
+    }
+}

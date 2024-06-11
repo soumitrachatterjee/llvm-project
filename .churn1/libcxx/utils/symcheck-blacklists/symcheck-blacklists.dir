@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/libcxx/utils/symcheck-blacklists",
+    "score.sum": 0,
+    "sha.latest": "0b37f209bf2aaf9b06276a0c40d1c29b5d6bfe89",
+    "time.latest": 1718011352.2289906,
+    "formatted_time": "2024-06-10 14:52:32.228992",
+    "filescores": {
+        "linux_blacklist.txt": 0,
+        "osx_blacklist.txt": 0
+    },
+    "subdirscores": {}
+}

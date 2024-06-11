@@ -1,0 +1,17 @@
+{
+    "directory name": "llvm-project/clang/test/CXX/basic/basic.lookup/basic.lookup.unqual",
+    "score.sum": 4.616254622802221e-05,
+    "sha.latest": "0f1c1be1968076d6f96f8a7bcc4a15cf195ecd97",
+    "time.latest": 1718082490.6540148,
+    "formatted_time": "2024-06-11 10:38:10.654017",
+    "filescores": {
+        "p11.cpp": 6.099602068851199e-06,
+        "p12.cpp": 7.0137962604407155e-06,
+        "p13.cpp": 7.024929711713795e-06,
+        "p14.cpp": 2.557330516562372e-05,
+        "p15.cpp": 1.382019018218016e-05,
+        "p3.cpp": 1.9993859723823084e-05,
+        "p7.cpp": 6.671652529825027e-06
+    },
+    "subdirscores": {}
+}

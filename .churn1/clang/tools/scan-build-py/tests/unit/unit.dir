@@ -1,0 +1,18 @@
+{
+    "directory name": "llvm-project/clang/tools/scan-build-py/tests/unit",
+    "score.sum": 2.9875830185949507e-05,
+    "sha.latest": "dd3c26a045c081620375a878159f536758baba6e",
+    "time.latest": 1718083022.2786756,
+    "formatted_time": "2024-06-11 10:47:02.278677",
+    "filescores": {
+        "test_analyze.py": 2.724866858049364e-05,
+        "test_clang.py": 1.718452004489269e-05,
+        "test_compilation.py": 8.466333309259763e-06,
+        "test_intercept.py": 9.690349293878513e-06,
+        "test_libear.py": 8.466333309259763e-06,
+        "test_report.py": 1.5496901753896477e-05,
+        "test_shell.py": 8.601848480478217e-06,
+        "__init__.py": 9.132052772532094e-06
+    },
+    "subdirscores": {}
+}

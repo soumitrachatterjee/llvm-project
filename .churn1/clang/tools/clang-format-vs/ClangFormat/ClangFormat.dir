@@ -1,0 +1,26 @@
+{
+    "directory name": "llvm-project/clang/tools/clang-format-vs/ClangFormat",
+    "score.sum": 7.649466052325159e-05,
+    "sha.latest": "e20a1e486e144c88188bc7b420885d5326b39088",
+    "time.latest": 1718081721.4267826,
+    "formatted_time": "2024-06-11 10:25:21.426786",
+    "filescores": {
+        "ClangFormat.csproj": 3.460601409828778e-05,
+        "ClangFormat.vsct": 7.503009253826592e-06,
+        "ClangFormatPackage.cs": 3.688066898451211e-05,
+        "GlobalSuppressions.cs": 0,
+        "Guids.cs": 6.099602068851199e-06,
+        "license.txt": 1.6236885988670994e-05,
+        "packages.config": 6.099602068851199e-06,
+        "PkgCmdID.cs": 9.824149633829386e-06,
+        "Resources.Designer.cs": 9.482801996946437e-06,
+        "Resources.resx": 0,
+        "RunningDocTableEventsDispatcher.cs": 0,
+        "Vsix.cs": 0,
+        "VSPackage.resx": 0
+    },
+    "subdirscores": {
+        "Properties": 6.099602068851199e-06,
+        "Resources": 1.829052524057714e-05
+    }
+}

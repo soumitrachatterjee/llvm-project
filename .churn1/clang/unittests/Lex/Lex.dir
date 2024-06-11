@@ -1,0 +1,21 @@
+{
+    "directory name": "llvm-project/clang/unittests/Lex",
+    "score.sum": 0.0006045061499304279,
+    "sha.latest": "00e80fbfb9151a68e7383dcec7da69c867225e54",
+    "time.latest": 1718082555.9151733,
+    "formatted_time": "2024-06-11 10:39:15.915176",
+    "filescores": {
+        "CMakeLists.txt": 8.450172353997936e-05,
+        "DependencyDirectivesScannerTest.cpp": 1.4908212901398053e-05,
+        "HeaderMapTest.cpp": 1.3549142452958624e-05,
+        "HeaderMapTestUtils.h": 6.099602068851199e-06,
+        "HeaderSearchTest.cpp": 0.00011176307786172828,
+        "LexerTest.cpp": 0.00017486700705436907,
+        "ModuleDeclStateTest.cpp": 6.230244768305842e-06,
+        "PPCallbacksTest.cpp": 0.00013931598234661434,
+        "PPConditionalDirectiveRecordTest.cpp": 4.331849825861601e-05,
+        "PPDependencyDirectivesTest.cpp": 1.9326361041355786e-05,
+        "PPMemoryAllocationsTest.cpp": 6.128094059950004e-06
+    },
+    "subdirscores": {}
+}

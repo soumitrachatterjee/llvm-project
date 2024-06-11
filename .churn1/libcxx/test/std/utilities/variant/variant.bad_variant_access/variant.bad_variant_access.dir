@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/utilities/variant/variant.bad_variant_access",
+    "score.sum": 4.419877126185881e-05,
+    "sha.latest": "ec350ad418a24f70c88758259c774a1e11c06d74",
+    "time.latest": 1718009403.7372196,
+    "formatted_time": "2024-06-10 14:20:03.737221",
+    "filescores": {
+        "bad_variant_access.pass.cpp": 4.419877126185881e-05
+    },
+    "subdirscores": {}
+}

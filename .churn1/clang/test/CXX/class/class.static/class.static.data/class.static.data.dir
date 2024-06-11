@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/clang/test/CXX/class/class.static/class.static.data",
+    "score.sum": 2.888315180200008e-05,
+    "sha.latest": "263a0a33cc28e1549c51af30f2b8b47ffac3215e",
+    "time.latest": 1718083117.564454,
+    "formatted_time": "2024-06-11 10:48:37.564456",
+    "filescores": {
+        "p2.cpp": 0,
+        "p3.cpp": 1.5195479754781554e-05,
+        "p4.cpp": 6.099602068851199e-06
+    },
+    "subdirscores": {}
+}

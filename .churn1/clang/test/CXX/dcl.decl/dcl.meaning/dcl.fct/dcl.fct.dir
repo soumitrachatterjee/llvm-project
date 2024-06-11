@@ -1,0 +1,22 @@
+{
+    "directory name": "llvm-project/clang/test/CXX/dcl.decl/dcl.meaning/dcl.fct",
+    "score.sum": 9.022103445870302e-05,
+    "sha.latest": "8302cef83f0614f1fb2078f2335b94aa77bde271",
+    "time.latest": 1718091049.8957896,
+    "formatted_time": "2024-06-11 13:00:49.895793",
+    "filescores": {
+        "p13.cpp": 2.5276671531712944e-05,
+        "p14.cpp": 1.057004995378034e-05,
+        "p2-cxx0x.cpp": 7.665811435157953e-06,
+        "p23.cpp": 6.099602068851199e-06,
+        "p3.cpp": 6.317816281382598e-06,
+        "p6-0x.cpp": 1.1487459214979097e-05,
+        "p6.cpp": 8.354413045315542e-06,
+        "p8-0x.cpp": 6.099602068851199e-06,
+        "p8.cpp": 1.0177130515223536e-05,
+        "p9-0x.cpp": 8.329390655162712e-06
+    },
+    "subdirscores": {
+        "dcl.fct.def.default": 1.3725379595118928e-05
+    }
+}

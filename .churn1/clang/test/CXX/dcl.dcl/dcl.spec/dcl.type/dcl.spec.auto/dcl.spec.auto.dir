@@ -1,0 +1,22 @@
+{
+    "directory name": "llvm-project/clang/test/CXX/dcl.dcl/dcl.spec/dcl.type/dcl.spec.auto",
+    "score.sum": 0.0001253712728276212,
+    "sha.latest": "ba15d186e5cef2620d562c6c9d9a6d570382cd0a",
+    "time.latest": 1718086423.9962833,
+    "formatted_time": "2024-06-11 11:43:43.996286",
+    "filescores": {
+        "p12-1y.cpp": 0,
+        "p2-1z.cpp": 0,
+        "p2.cpp": 1.1903022190077053e-05,
+        "p3-1y.cpp": 1.631755986647639e-05,
+        "p3-1z.cpp": 0,
+        "p3-generic-lambda-1y.cpp": 6.400372935343156e-06,
+        "p3.cpp": 3.2617783449508945e-05,
+        "p4.cpp": 1.4547633092330945e-05,
+        "p5.cpp": 2.5111364909267775e-05,
+        "p6.cpp": 2.2209453266244373e-05,
+        "p7-cxx14.cpp": 8.729338755548797e-06,
+        "p7.cpp": 1.0462623239229303e-05
+    },
+    "subdirscores": {}
+}

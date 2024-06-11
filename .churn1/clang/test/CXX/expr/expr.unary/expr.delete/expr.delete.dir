@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/clang/test/CXX/expr/expr.unary/expr.delete",
+    "score.sum": 1.980543839256426e-05,
+    "sha.latest": "b2f0f057421309b628d51b4c260392d228c4993a",
+    "time.latest": 1718100346.0441089,
+    "formatted_time": "2024-06-11 15:35:46.044111",
+    "filescores": {
+        "p10.cpp": 9.860937704031768e-06,
+        "p5.cpp": 8.554409988115978e-06
+    },
+    "subdirscores": {}
+}

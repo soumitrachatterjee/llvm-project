@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/clang/unittests/Rewrite",
+    "score.sum": 4.019230916195307e-05,
+    "sha.latest": "9be6d7edb20b87dfa35d21e981591a9a81959344",
+    "time.latest": 1718082657.081177,
+    "formatted_time": "2024-06-11 10:40:57.081181",
+    "filescores": {
+        "CMakeLists.txt": 2.8256465106967322e-05,
+        "RewriteBufferTest.cpp": 1.141492535404728e-05,
+        "RewriterTest.cpp": 0
+    },
+    "subdirscores": {}
+}

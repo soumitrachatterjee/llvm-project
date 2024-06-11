@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/clang/test/CXX/expr/expr.prim/expr.prim.lambda/expr.prim.lambda.capture",
+    "score.sum": 6.099602068851199e-06,
+    "sha.latest": "0fb84bc7fdec1c20c2461e54d5c994939fe5b47f",
+    "time.latest": 1718099424.0678358,
+    "formatted_time": "2024-06-11 15:20:24.067837",
+    "filescores": {
+        "p17.cpp": 0,
+        "p5.cpp": 0
+    },
+    "subdirscores": {}
+}

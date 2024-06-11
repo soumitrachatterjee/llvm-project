@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/clang/test/CXX/basic/basic.scope/basic.scope.pdecl",
+    "score.sum": 8.686353982141265e-06,
+    "sha.latest": "09abecef7bbfda18d34f046954eaa4d491062839",
+    "time.latest": 1718082629.184913,
+    "formatted_time": "2024-06-11 10:40:29.184915",
+    "filescores": {
+        "p3.cpp": 6.099602068851199e-06,
+        "p7.cpp": 0,
+        "p9.cpp": 6.099602068851199e-06
+    },
+    "subdirscores": {}
+}

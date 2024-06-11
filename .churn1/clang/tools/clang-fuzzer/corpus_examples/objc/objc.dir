@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/clang/tools/clang-fuzzer/corpus_examples/objc",
+    "score.sum": 0,
+    "sha.latest": "e5ecba4f53e77210c960606b4a3b5a411a4d5823",
+    "time.latest": 1718081824.0589206,
+    "formatted_time": "2024-06-11 10:27:04.058924",
+    "filescores": {
+        "BasicClass.m": 0,
+        "ClassCategory.m": 0,
+        "ClassExtension.m": 0,
+        "SharedInstance.m": 0
+    },
+    "subdirscores": {}
+}

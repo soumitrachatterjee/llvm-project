@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/clang/tools/include-mapping",
+    "score.sum": 5.61185670904325e-05,
+    "sha.latest": "7213ae8423f88a3f74e201f85900aa838a4143e3",
+    "time.latest": 1718082391.4463658,
+    "formatted_time": "2024-06-11 10:36:31.446368",
+    "filescores": {
+        "cppreference_parser.py": 2.5758319710680737e-05,
+        "gen_std.py": 4.5425829734167265e-05,
+        "test.py": 1.0573116869835078e-05
+    },
+    "subdirscores": {}
+}

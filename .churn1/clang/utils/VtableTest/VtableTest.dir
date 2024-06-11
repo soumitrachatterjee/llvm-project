@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/clang/utils/VtableTest",
+    "score.sum": 7.239459885612747e-06,
+    "sha.latest": "2bf68c6c1cd47de381745bb94e6168d33334649a",
+    "time.latest": 1718082559.8772132,
+    "formatted_time": "2024-06-11 10:39:19.877215",
+    "filescores": {
+        "check-zti": 6.099602068851199e-06,
+        "check-ztt": 1.2265338503868477e-05,
+        "check-zvt": 6.099602068851199e-06,
+        "gen.cc": 2.4866098641469598e-05
+    },
+    "subdirscores": {}
+}

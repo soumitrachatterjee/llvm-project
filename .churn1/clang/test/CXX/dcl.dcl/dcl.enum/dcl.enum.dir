@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/clang/test/CXX/dcl.dcl/dcl.enum",
+    "score.sum": 7.813586957920676e-06,
+    "sha.latest": "a0d266d705d6c145e8daa08a08f70e9498ec3d0b",
+    "time.latest": 1718085586.1979911,
+    "formatted_time": "2024-06-11 11:29:46.197994",
+    "filescores": {
+        "p1.cpp": 0,
+        "p2.cpp": 0,
+        "p5.cpp": 0
+    },
+    "subdirscores": {}
+}

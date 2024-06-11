@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/clang/test/CXX/dcl.dcl/dcl.spec/dcl.type/dcl.type.class.deduct",
+    "score.sum": 7.942460274910126e-06,
+    "sha.latest": "e97e9851b227e98e39c27c4c8f5558e331cde8b4",
+    "time.latest": 1718086651.8730621,
+    "formatted_time": "2024-06-11 11:47:31.873065",
+    "filescores": {
+        "p1.cpp": 6.110978932939497e-06,
+        "p2.cpp": 0
+    },
+    "subdirscores": {}
+}

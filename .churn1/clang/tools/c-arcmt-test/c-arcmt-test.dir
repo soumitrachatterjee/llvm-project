@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/clang/tools/c-arcmt-test",
+    "score.sum": 4.146580117285683e-05,
+    "sha.latest": "ab380c287a42c0701cd86ae2932c0cb125b9a294",
+    "time.latest": 1718077522.022037,
+    "formatted_time": "2024-06-11 09:15:22.022039",
+    "filescores": {
+        "c-arcmt-test.c": 9.647500885380699e-06,
+        "CMakeLists.txt": 1.2474566806932942e-05
+    },
+    "subdirscores": {}
+}

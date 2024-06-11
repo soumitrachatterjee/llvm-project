@@ -1,0 +1,18 @@
+{
+    "directory name": "llvm-project/clang/test/CXX/class.access",
+    "score.sum": 0.00018089733028282693,
+    "sha.latest": "a0d266d705d6c145e8daa08a08f70e9498ec3d0b",
+    "time.latest": 1718083686.631656,
+    "formatted_time": "2024-06-11 10:58:06.631657",
+    "filescores": {
+        "p4.cpp": 9.967237519731984e-05,
+        "p6.cpp": 3.168997816089915e-05
+    },
+    "subdirscores": {
+        "class.access.base": 2.6670626538796055e-05,
+        "class.access.dcl": 6.629546885319155e-06,
+        "class.access.nest": 6.099602068851199e-06,
+        "class.friend": 7.900114128038844e-05,
+        "class.protected": 3.06270421092376e-05
+    }
+}

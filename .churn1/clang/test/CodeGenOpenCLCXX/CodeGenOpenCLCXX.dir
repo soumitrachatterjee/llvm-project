@@ -1,0 +1,29 @@
+{
+    "directory name": "llvm-project/clang/test/CodeGenOpenCLCXX",
+    "score.sum": 0.0001389281362891483,
+    "sha.latest": "158d72d728261c1e54dc77931372b2322c52849f",
+    "time.latest": 1718031193.5957272,
+    "formatted_time": "2024-06-10 20:23:13.595729",
+    "filescores": {
+        "address-space-castoperators.cpp": 1.1713781303079826e-05,
+        "address-space-deduction.clcpp": 2.4812878365204836e-05,
+        "address-space-deduction2.clcpp": 0,
+        "addrspace-constructors.clcpp": 1.4087522186405611e-05,
+        "addrspace-conversion.clcpp": 9.644771982605641e-06,
+        "addrspace-derived-base.clcpp": 2.4812878365204836e-05,
+        "addrspace-new-delete.clcpp": 2.4812878365204836e-05,
+        "addrspace-of-this.clcpp": 2.1913567316459854e-05,
+        "addrspace-operators.clcpp": 2.8878400318932263e-05,
+        "addrspace-references.clcpp": 2.4812878365204836e-05,
+        "addrspace-with-class.clcpp": 2.4812878365204836e-05,
+        "addrspace_cast.clcpp": 9.644771982605641e-06,
+        "atexit.clcpp": 9.644771982605641e-06,
+        "constexpr.clcpp": 9.644771982605641e-06,
+        "global_init.clcpp": 0,
+        "local_addrspace_init.clcpp": 0,
+        "method-overload-address-space.clcpp": 9.644771982605641e-06,
+        "reinterpret_cast.clcpp": 9.91404345668182e-06,
+        "template-address-spaces.clcpp": 2.4812878365204836e-05
+    },
+    "subdirscores": {}
+}

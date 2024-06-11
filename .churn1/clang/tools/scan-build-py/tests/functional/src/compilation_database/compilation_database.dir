@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/clang/tools/scan-build-py/tests/functional/src/compilation_database",
+    "score.sum": 0,
+    "sha.latest": "bc68758dd5b3a4e15c23572e9b1ece7abbb2455b",
+    "time.latest": 1718082953.698033,
+    "formatted_time": "2024-06-11 10:45:53.698035",
+    "filescores": {
+        "build_broken.json.in": 0,
+        "build_clean.json.in": 0,
+        "build_regular.json.in": 0
+    },
+    "subdirscores": {}
+}

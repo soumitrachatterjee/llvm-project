@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/clang/test/CXX/lex/lex.pptoken",
+    "score.sum": 7.82443465303556e-06,
+    "sha.latest": "8af8b8611c5daee5f04eac93e9315368f42ab70e",
+    "time.latest": 1718101714.6280096,
+    "formatted_time": "2024-06-11 15:58:34.628012",
+    "filescores": {
+        "p3-0x.cpp": 7.826818616294762e-06,
+        "p3-2a.cpp": 0
+    },
+    "subdirscores": {
+        "Inputs": 0
+    }
+}

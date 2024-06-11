@@ -1,0 +1,26 @@
+{
+    "directory name": "llvm-project/libcxx/test/tools/clang_tidy_checks",
+    "score.sum": 7.974376220528908e-05,
+    "sha.latest": "e19e8600cf743690e1a23fb8a2b0dfbe2dafe559",
+    "time.latest": 1718010527.2370286,
+    "formatted_time": "2024-06-10 14:38:47.237030",
+    "filescores": {
+        "abi_tag_on_virtual.cpp": 0,
+        "abi_tag_on_virtual.hpp": 0,
+        "CMakeLists.txt": 2.7826272691627902e-05,
+        "header_exportable_declarations.cpp": 3.056085484932627e-05,
+        "header_exportable_declarations.hpp": 6.099602068851199e-06,
+        "hide_from_abi.cpp": 6.099602068851199e-06,
+        "hide_from_abi.hpp": 0,
+        "libcpp_module.cpp": 1.1909223320366462e-05,
+        "proper_version_checks.cpp": 6.099602068851199e-06,
+        "proper_version_checks.hpp": 0,
+        "qualify_declval.cpp": 0,
+        "qualify_declval.hpp": 0,
+        "robust_against_adl.cpp": 0,
+        "robust_against_adl.hpp": 0,
+        "uglify_attributes.cpp": 1.1499977927589491e-05,
+        "uglify_attributes.hpp": 0
+    },
+    "subdirscores": {}
+}

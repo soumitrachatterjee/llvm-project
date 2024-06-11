@@ -1,0 +1,29 @@
+{
+    "directory name": "llvm-project/clang/test/CXX/except/except.spec",
+    "score.sum": 0.00021860591212229956,
+    "sha.latest": "9cfb138eccb83b5876928b08be346fde5ca78b47",
+    "time.latest": 1718095834.0416899,
+    "formatted_time": "2024-06-11 14:20:34.041691",
+    "filescores": {
+        "canonical.cpp": 1.0041028084061189e-05,
+        "p1.cpp": 7.79193306734867e-05,
+        "p11-2a.cpp": 0,
+        "p11.cpp": 1.7356882929819183e-05,
+        "p13.cpp": 0,
+        "p14-ir.cpp": 8.182752070982263e-05,
+        "p14.cpp": 2.1279937587882205e-05,
+        "p15.cpp": 1.069085867153812e-05,
+        "p2-dynamic-types.cpp": 6.099602068851199e-06,
+        "p2-places-1z.cpp": 0,
+        "p2-places.cpp": 6.7421247813631664e-06,
+        "p3.cpp": 1.0397794249895772e-05,
+        "p4.cpp": 7.924515264989387e-06,
+        "p5-delayed.cpp": 0,
+        "p5-pointers.cpp": 1.3020295437857872e-05,
+        "p5-virtual.cpp": 6.099602068851199e-06,
+        "p9-dynamic.cpp": 2.6138432232234433e-05,
+        "p9-noexcept.cpp": 1.663574319670831e-05,
+        "template.cpp": 6.099602068851199e-06
+    },
+    "subdirscores": {}
+}

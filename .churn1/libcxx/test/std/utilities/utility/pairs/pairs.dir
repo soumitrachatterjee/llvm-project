@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/utilities/utility/pairs",
+    "score.sum": 0.0002630553273984633,
+    "sha.latest": "6e4930c67508a90bdfd756f6e45417b5253cd741",
+    "time.latest": 1718009138.4486923,
+    "formatted_time": "2024-06-10 14:15:38.448694",
+    "filescores": {},
+    "subdirscores": {
+        "pair.astuple": 5.100010896505264e-05,
+        "pair.piecewise": 5.299148954410751e-05,
+        "pairs.general": 1.2132863580760565e-05,
+        "pairs.pair": 0.00021765933737606977,
+        "pairs.spec": 4.6940656501282686e-05
+    }
+}

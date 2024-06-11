@@ -1,0 +1,20 @@
+{
+    "directory name": "llvm-project/libcxx/test/support/test.support",
+    "score.sum": 0.0001430116458970183,
+    "sha.latest": "314526557ec66ee627ae8a1c03f6ccc610668fdb",
+    "time.latest": 1718010135.1165867,
+    "formatted_time": "2024-06-10 14:32:15.116588",
+    "filescores": {
+        "make_string_header.pass.cpp": 2.0477518538024768e-05,
+        "test_check_assertion.pass.cpp": 3.0358607494628617e-05,
+        "test_convertible_header.pass.cpp": 2.3553308895970214e-05,
+        "test_macros_header.exceptions.pass.cpp": 0,
+        "test_macros_header.no_exceptions.verify.cpp": 6.099602068851199e-06,
+        "test_macros_header.no_rtti.verify.cpp": 6.152344763876994e-06,
+        "test_macros_header.rtti.pass.cpp": 6.099602068851199e-06,
+        "test_poisoned_hash_helper.pass.cpp": 1.8310371456967835e-05,
+        "test_proxy.pass.cpp": 1.216709580096385e-05,
+        "type_algorithms.pass.cpp": 6.099602068851199e-06
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,17 @@
+{
+    "directory name": "llvm-project/libcxx/utils/data/unicode",
+    "score.sum": 1.0905762238543598e-05,
+    "sha.latest": "0133e25d99df9468ec3d9b523f14733a4b5e7180",
+    "time.latest": 1718011055.0038035,
+    "formatted_time": "2024-06-10 14:47:35.003805",
+    "filescores": {
+        "DerivedCoreProperties.txt": 0,
+        "DerivedGeneralCategory.txt": 0,
+        "EastAsianWidth.txt": 0,
+        "emoji-data.txt": 6.751909801697049e-06,
+        "GraphemeBreakProperty.txt": 6.099602068851199e-06,
+        "GraphemeBreakTest.txt": 6.099602068851199e-06,
+        "README.txt": 7.70263873390868e-06
+    },
+    "subdirscores": {}
+}

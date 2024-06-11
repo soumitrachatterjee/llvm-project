@@ -1,0 +1,24 @@
+{
+    "directory name": "llvm-project/clang/utils/ABITest",
+    "score.sum": 5.644047768287621e-05,
+    "sha.latest": "dd3c26a045c081620375a878159f536758baba6e",
+    "time.latest": 1718081534.9533746,
+    "formatted_time": "2024-06-11 10:22:14.953378",
+    "filescores": {
+        "ABITestGen.py": 3.6508958106354233e-05,
+        "build-and-summarize-all.sh": 0,
+        "build-and-summarize.sh": 0,
+        "build.sh": 6.099602068851199e-06,
+        "Enumeration.py": 2.7154575107014123e-05,
+        "Makefile.test.common": 1.2228400361052122e-05,
+        "summarize.sh": 6.099602068851199e-06,
+        "TypeGen.py": 3.9315662767592034e-05
+    },
+    "subdirscores": {
+        "layout": null,
+        "return-types-32": 1.2184096775073705e-05,
+        "return-types-64": 1.2184096775073705e-05,
+        "single-args-32": 1.2180094883513593e-05,
+        "single-args-64": 1.2180094883513593e-05
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "directory name": "llvm-project/clang/tools",
+    "score.sum": 0.01360458781911678,
+    "sha.latest": "124d0b787b5d1ff4aa06bbd61a98d3fc344d0cc6",
+    "time.latest": 1718083062.652331,
+    "formatted_time": "2024-06-11 10:47:42.652333",
+    "filescores": {
+        "CMakeLists.txt": 0.0002398460106370537
+    },
+    "subdirscores": {
+        "amdgpu-arch": null,
+        "apinotes-test": null,
+        "arcmt-test": null,
+        "c-arcmt-test": null,
+        "c-index-test": 0.0009594401339413404,
+        "clang-check": 0.0001819617541247977,
+        "clang-diff": 2.7763916596026284e-05,
+        "clang-extdef-mapping": 5.304061997483059e-05,
+        "clang-format": 0.0007784135568888158,
+        "clang-format-vs": 0.00011447285792293483,
+        "clang-fuzzer": 0.0002505158261460068,
+        "clang-import-test": 0.00013463697858580385,
+        "clang-installapi": 1.8405637794429023e-05,
+        "clang-linker-wrapper": 0.0003726777862096457,
+        "clang-offload-bundler": 0.0002713122905072644,
+        "clang-offload-packager": 3.686689340100404e-05,
+        "clang-refactor": 0.00010627538510881831,
+        "clang-rename": 8.799801298145396e-05,
+        "clang-repl": 0.0001893198474724562,
+        "clang-scan-deps": 0.00038341544413912073,
+        "clang-shlib": 3.1842363106365895e-05,
+        "diag-build": 7.1054932175406055e-06,
+        "diagtool": 0.0002664421243399776,
+        "driver": 0.0017571253407616238,
+        "include-mapping": 5.61185670904325e-05,
+        "libclang": 0.004523467950949522,
+        "nvptx-arch": 2.483324854962059e-05,
+        "scan-build": 0.0005350268490271149,
+        "scan-build-py": 0.00023261506888177114,
+        "scan-view": 0.0001708740733539672
+    }
+}

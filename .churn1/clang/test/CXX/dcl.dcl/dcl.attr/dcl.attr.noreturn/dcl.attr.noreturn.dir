@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/clang/test/CXX/dcl.dcl/dcl.attr/dcl.attr.noreturn",
+    "score.sum": 2.3306913695275923e-05,
+    "sha.latest": "d238b60285820691b08bcca3ec510d13ea46a5ed",
+    "time.latest": 1718085515.9434352,
+    "formatted_time": "2024-06-11 11:28:35.943439",
+    "filescores": {
+        "p1.cpp": 2.3306913695275923e-05
+    },
+    "subdirscores": {}
+}

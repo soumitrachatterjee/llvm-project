@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/clang/tools/scan-build-py/tests/functional/cases",
+    "score.sum": 1.757526689383772e-05,
+    "sha.latest": "dd3c26a045c081620375a878159f536758baba6e",
+    "time.latest": 1718082871.9537337,
+    "formatted_time": "2024-06-11 10:44:31.953735",
+    "filescores": {
+        "test_create_cdb.py": 8.823283578748059e-06,
+        "test_exec_anatomy.py": 1.3333070624177519e-05,
+        "test_from_cdb.py": 1.757526689383772e-05,
+        "test_from_cmd.py": 1.3333070624177519e-05,
+        "__init__.py": 1.3111635525907677e-05
+    },
+    "subdirscores": {}
+}

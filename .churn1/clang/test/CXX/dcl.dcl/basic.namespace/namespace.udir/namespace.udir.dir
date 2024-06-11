@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/clang/test/CXX/dcl.dcl/basic.namespace/namespace.udir",
+    "score.sum": 1.9861048331749683e-05,
+    "sha.latest": "0f1c1be1968076d6f96f8a7bcc4a15cf195ecd97",
+    "time.latest": 1718085310.0429413,
+    "formatted_time": "2024-06-11 11:25:10.042945",
+    "filescores": {
+        "p1.cpp": 6.20727490180402e-06,
+        "p6.cpp": 1.920271268113659e-05
+    },
+    "subdirscores": {}
+}

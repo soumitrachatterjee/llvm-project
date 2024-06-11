@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/clang/test/CXX/class/class.union/class.union.anon",
+    "score.sum": 6.09979465596741e-06,
+    "sha.latest": "3ac3e9ce047450d4fa9489055ca243bcfc035bd0",
+    "time.latest": 1718083192.8916392,
+    "formatted_time": "2024-06-11 10:49:52.891642",
+    "filescores": {
+        "p1.cpp": 6.099602068851199e-06,
+        "p4.cpp": 6.099602068851199e-06
+    },
+    "subdirscores": {}
+}

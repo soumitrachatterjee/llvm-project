@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/clang/utils/analyzer/projects/capnproto",
+    "score.sum": 0,
+    "sha.latest": "089a0ad8bc993923817d7957f08bd67dbecd56af",
+    "time.latest": 1718081643.0117338,
+    "formatted_time": "2024-06-11 10:24:03.011738",
+    "filescores": {
+        "cleanup_run_static_analyzer.sh": 0,
+        "run_static_analyzer.cmd": 0
+    },
+    "subdirscores": {}
+}

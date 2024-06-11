@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/clang/test/CodeGenObjC/Inputs",
+    "score.sum": 3.6387324640791126e-05,
+    "sha.latest": "1c2558021c155878c305701e11e3714cb521f599",
+    "time.latest": 1718014319.3369439,
+    "formatted_time": "2024-06-10 15:41:59.336966",
+    "filescores": {
+        "literal-support.h": 2.2846758366712487e-05,
+        "nsvalue-boxed-expressions-support.h": 6.099602068851199e-06
+    },
+    "subdirscores": {}
+}

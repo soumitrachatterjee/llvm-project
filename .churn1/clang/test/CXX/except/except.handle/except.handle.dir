@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/clang/test/CXX/except/except.handle",
+    "score.sum": 7.3449134980858114e-06,
+    "sha.latest": "fa755d3e71ed590ac5c62f0e1eff09435c9593fe",
+    "time.latest": 1718094738.0886242,
+    "formatted_time": "2024-06-11 14:02:18.088628",
+    "filescores": {
+        "p16.cpp": 7.3449134980858114e-06
+    },
+    "subdirscores": {}
+}

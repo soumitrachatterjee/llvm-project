@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/clang/test/CXX/dcl.dcl/dcl.attr/dcl.attr.grammar",
+    "score.sum": 6.798378310467358e-06,
+    "sha.latest": "b7d7a046d8e0d06288d01c4eaa675a8a4c15c30e",
+    "time.latest": 1718085433.0355647,
+    "formatted_time": "2024-06-11 11:27:13.035568",
+    "filescores": {
+        "p2-1z.cpp": 0,
+        "p6.cpp": 6.099602068851199e-06
+    },
+    "subdirscores": {}
+}

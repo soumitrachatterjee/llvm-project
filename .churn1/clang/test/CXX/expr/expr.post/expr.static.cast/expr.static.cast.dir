@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/clang/test/CXX/expr/expr.post/expr.static.cast",
+    "score.sum": 1.6305276589527554e-05,
+    "sha.latest": "1da9e4c910d1cf1048910aca82d900fa78682a60",
+    "time.latest": 1718098686.4853668,
+    "formatted_time": "2024-06-11 15:08:06.485371",
+    "filescores": {
+        "p3-0x.cpp": 8.638354659742058e-06,
+        "p3-p4-0x.cpp": 6.099602068851199e-06,
+        "p7.cpp": 0,
+        "p9-0x.cpp": 8.479880364678211e-06
+    },
+    "subdirscores": {}
+}

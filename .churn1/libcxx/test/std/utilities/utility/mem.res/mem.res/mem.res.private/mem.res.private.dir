@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/utilities/utility/mem.res/mem.res/mem.res.private",
+    "score.sum": 1.1901272748419892e-05,
+    "sha.latest": "b82dcb624e6bfa58ed566511cb564f8f201fa62e",
+    "time.latest": 1718008185.649591,
+    "formatted_time": "2024-06-10 13:59:45.649595",
+    "filescores": {
+        "private_members.verify.cpp": 0,
+        "protected_members.verify.cpp": 0
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,33 @@
+{
+    "directory name": "llvm-project/clang/www/analyzer",
+    "score.sum": 0.000422141225231037,
+    "sha.latest": "2b5e4eeb26ce57a8d7c2835cffc80388f43f044a",
+    "time.latest": 1718081750.829764,
+    "formatted_time": "2024-06-11 10:25:50.829767",
+    "filescores": {
+        "alpha_checks.html": 6.09118909449758e-05,
+        "annotations.html": 3.812604458458099e-05,
+        "available_checks.html": 7.127921500285765e-05,
+        "checker_dev_manual.html": 5.7122312984256506e-05,
+        "codechecker.html": 0,
+        "command-line.html": 0,
+        "content.css": 4.470382120378795e-05,
+        "faq.html": 2.078865964324713e-05,
+        "filing_bugs.html": 1.3854522619652112e-05,
+        "implicit_checks.html": 9.65134846874801e-06,
+        "index.html": 3.137932243158975e-05,
+        "installation.html": 2.5700335701976737e-05,
+        "latest_checker.html.incl": 0.00011403582865006457,
+        "menu.css": 3.8327571250890735e-05,
+        "menu.html.incl": 2.2278009738361538e-05,
+        "open_projects.html": 3.6452935421541905e-05,
+        "potential_checkers.html": 2.997957773686452e-05,
+        "release_notes.html": 6.107587480718936e-05,
+        "scan-build.html": 4.442647230975085e-05,
+        "xcode.html": 1.5901389071244476e-05
+    },
+    "subdirscores": {
+        "images": 1.7612197988795528e-05,
+        "scripts": 1.3108688743653815e-05
+    }
+}

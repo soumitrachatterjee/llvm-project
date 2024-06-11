@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/libcxx/vendor/llvm",
+    "score.sum": 6.099602068851199e-06,
+    "sha.latest": "58780b811c23df3d928d8452ee21c862dde754a2",
+    "time.latest": 1718011376.2338831,
+    "formatted_time": "2024-06-10 14:52:56.233885",
+    "filescores": {
+        "default_assertion_handler.in": 6.099602068851199e-06
+    },
+    "subdirscores": {}
+}

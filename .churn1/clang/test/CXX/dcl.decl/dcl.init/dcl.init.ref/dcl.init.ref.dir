@@ -1,0 +1,21 @@
+{
+    "directory name": "llvm-project/clang/test/CXX/dcl.decl/dcl.init/dcl.init.ref",
+    "score.sum": 0.00011944771734219617,
+    "sha.latest": "f9ead46931aef2978ddf350ba6523638175d7861",
+    "time.latest": 1718089393.0158734,
+    "formatted_time": "2024-06-11 12:33:13.015877",
+    "filescores": {
+        "basic.cpp": 6.099602068851199e-06,
+        "p1.cpp": 1.0107760311345781e-05,
+        "p3.cpp": 8.436891676977689e-06,
+        "p4-ast.cpp": 6.099602068851199e-06,
+        "p4.cpp": 0,
+        "p5-0x.cpp": 4.553366757433237e-05,
+        "p5-cxx03-extra-copy.cpp": 3.0196003863771367e-05,
+        "p5-cxx0x-no-extra-copy.cpp": 6.9391102505812e-06,
+        "p5-examples.cpp": 2.8225253294482118e-05,
+        "p5-var.cpp": 2.2235871763747934e-05,
+        "p5.cpp": 1.764713090397663e-05
+    },
+    "subdirscores": {}
+}

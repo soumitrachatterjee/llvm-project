@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/clang/test/CXX/dcl.dcl/dcl.spec/dcl.constinit",
+    "score.sum": 0,
+    "sha.latest": "a6e8b685e13492abfb2e58dc49007deda165a00d",
+    "time.latest": 1718085745.546693,
+    "formatted_time": "2024-06-11 11:32:25.546695",
+    "filescores": {
+        "p1.cpp": 0,
+        "p2.cpp": 0,
+        "p3.cpp": 0
+    },
+    "subdirscores": {}
+}

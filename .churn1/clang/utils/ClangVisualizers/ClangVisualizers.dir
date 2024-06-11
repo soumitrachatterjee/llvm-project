@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/clang/utils/ClangVisualizers",
+    "score.sum": 0.00010162861319136845,
+    "sha.latest": "d554355dce523ec4e06305519b83161beca0f417",
+    "time.latest": 1718082204.8499324,
+    "formatted_time": "2024-06-11 10:33:24.849935",
+    "filescores": {
+        "clang.natvis": 0.00010162851465017906,
+        "CMakeLists.txt": 6.099602068851199e-06
+    },
+    "subdirscores": {}
+}

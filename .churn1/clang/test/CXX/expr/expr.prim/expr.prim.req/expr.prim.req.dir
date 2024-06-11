@@ -1,0 +1,17 @@
+{
+    "directory name": "llvm-project/clang/test/CXX/expr/expr.prim/expr.prim.req",
+    "score.sum": 9.739916690964003e-05,
+    "sha.latest": "ca9683651e52196f590bc244d9c506ed39fe1d92",
+    "time.latest": 1718100254.7212238,
+    "formatted_time": "2024-06-11 15:34:14.721225",
+    "filescores": {
+        "compound-requirement.cpp": 2.548258736675122e-05,
+        "equivalence.cpp": 7.037222635107703e-06,
+        "nested-requirement.cpp": 7.736779988617332e-05,
+        "p3.cpp": 7.037222635107703e-06,
+        "requires-expr.cpp": 7.037222635107703e-06,
+        "simple-requirement.cpp": 3.8929937977875796e-05,
+        "type-requirement.cpp": 2.7065077729296448e-05
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/clang/test/CXX/class/class.nest",
+    "score.sum": 1.9499503517224267e-05,
+    "sha.latest": "85dec55989d42c659708467623c360e59078b121",
+    "time.latest": 1718083077.8238046,
+    "formatted_time": "2024-06-11 10:47:57.823806",
+    "filescores": {
+        "p1-cxx0x.cpp": 1.1211026692268884e-05,
+        "p1.cpp": 1.253249086428579e-05,
+        "p3.cpp": 6.099602068851199e-06
+    },
+    "subdirscores": {}
+}

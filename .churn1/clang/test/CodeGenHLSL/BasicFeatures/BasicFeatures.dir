@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/clang/test/CodeGenHLSL/BasicFeatures",
+    "score.sum": 0,
+    "sha.latest": "5c57fd717d5d6a285efeb8402c6fe0c8f70592f3",
+    "time.latest": 1718010449.218268,
+    "formatted_time": "2024-06-10 14:37:29.218269",
+    "filescores": {
+        "standard_conversion_sequences.hlsl": 0
+    },
+    "subdirscores": {}
+}

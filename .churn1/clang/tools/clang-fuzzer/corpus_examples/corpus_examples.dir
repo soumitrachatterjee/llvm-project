@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/clang/tools/clang-fuzzer/corpus_examples",
+    "score.sum": 0,
+    "sha.latest": "e5ecba4f53e77210c960606b4a3b5a411a4d5823",
+    "time.latest": 1718081824.0708368,
+    "formatted_time": "2024-06-11 10:27:04.070839",
+    "filescores": {},
+    "subdirscores": {
+        "objc": 0
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/clang/test/CXX/expr/expr.prim/expr.prim.id",
+    "score.sum": 5.199255431951143e-05,
+    "sha.latest": "fb615cf3b9c2d887441a4c0cca326eddc592351a",
+    "time.latest": 1718099259.2203333,
+    "formatted_time": "2024-06-11 15:17:39.220336",
+    "filescores": {
+        "mixed-constraints.cpp": 1.830495057921076e-05,
+        "p3.cpp": 5.1253980371999983e-05,
+        "p4.cpp": 2.0129715612221115e-05
+    },
+    "subdirscores": {
+        "expr.prim.id.qual": 0
+    }
+}

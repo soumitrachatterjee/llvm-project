@@ -1,0 +1,16 @@
+{
+    "directory name": "llvm-project/clang/tools/scan-build",
+    "score.sum": 0.0005350268490271149,
+    "sha.latest": "dcbb574cfc3445251ff1c751f27b52ed6503bead",
+    "time.latest": 1718082701.801183,
+    "formatted_time": "2024-06-11 10:41:41.801185",
+    "filescores": {
+        "CMakeLists.txt": 7.467902912919752e-05
+    },
+    "subdirscores": {
+        "bin": 7.61203440773201e-05,
+        "libexec": 5.055058971638443e-05,
+        "man": 3.983183511678224e-05,
+        "share": 6.10128924996553e-06
+    }
+}

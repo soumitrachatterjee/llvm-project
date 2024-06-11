@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/clang/tools/scan-build-py/lib",
+    "score.sum": 2.0479665532305297e-05,
+    "sha.latest": "dd3c26a045c081620375a878159f536758baba6e",
+    "time.latest": 1718082798.5298665,
+    "formatted_time": "2024-06-11 10:43:18.529868",
+    "filescores": {},
+    "subdirscores": {
+        "libear": 1.1599238757743155e-05,
+        "libscanbuild": 1.4980028843413346e-05
+    }
+}

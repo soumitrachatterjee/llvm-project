@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/clang/tools/clang-fuzzer/proto-to-llvm",
+    "score.sum": 7.1480598796562795e-06,
+    "sha.latest": "a87dc23a6271cadd6d3f93561f2d8b1661399e6d",
+    "time.latest": 1718082043.805943,
+    "formatted_time": "2024-06-11 10:30:43.805946",
+    "filescores": {
+        "CMakeLists.txt": 0,
+        "loop_proto_to_llvm.cpp": 1.0373774173861201e-05,
+        "loop_proto_to_llvm.h": 6.716077357854867e-06,
+        "loop_proto_to_llvm_main.cpp": 6.099602068851199e-06
+    },
+    "subdirscores": {}
+}

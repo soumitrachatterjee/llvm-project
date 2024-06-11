@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/clang/test/CXX/class/class.compare/class.eq",
+    "score.sum": 3.8639683328978146e-05,
+    "sha.latest": "02bb2beeef3d93360694de29573430f584caafe9",
+    "time.latest": 1718082855.1676962,
+    "formatted_time": "2024-06-11 10:44:15.167698",
+    "filescores": {
+        "p1.cpp": 6.099602068851199e-06,
+        "p2.cpp": 3.703300595073044e-05,
+        "p3.cpp": 8.227119901013998e-06
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/clang/test/CXX/module/module.private.frag",
+    "score.sum": 0,
+    "sha.latest": "ae4eb938c00785540a8c395c9d166cff7516f280",
+    "time.latest": 1718103666.867406,
+    "formatted_time": "2024-06-11 16:31:06.867409",
+    "filescores": {
+        "p1.cpp": 0
+    },
+    "subdirscores": {}
+}

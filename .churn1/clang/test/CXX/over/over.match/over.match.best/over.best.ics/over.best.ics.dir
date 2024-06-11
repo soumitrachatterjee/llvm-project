@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/clang/test/CXX/over/over.match/over.match.best/over.best.ics",
+    "score.sum": 3.43773111716994e-05,
+    "sha.latest": "0f1c1be1968076d6f96f8a7bcc4a15cf195ecd97",
+    "time.latest": 1718106136.703336,
+    "formatted_time": "2024-06-11 17:12:16.703340",
+    "filescores": {
+        "p6.cpp": 6.099602068851199e-06
+    },
+    "subdirscores": {
+        "over.ics.list": 1.8161424101448293e-05,
+        "over.ics.scs": 0,
+        "over.ics.user": 6.099602068851199e-06
+    }
+}

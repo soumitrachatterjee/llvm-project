@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/clang/unittests/DirectoryWatcher",
+    "score.sum": 8.062029749912101e-05,
+    "sha.latest": "a2d1611b7b78b62b573ab04b09c106933007a4d7",
+    "time.latest": 1718082067.3039742,
+    "formatted_time": "2024-06-11 10:31:07.303978",
+    "filescores": {
+        "CMakeLists.txt": 2.5812093781580456e-05,
+        "DirectoryWatcherTest.cpp": 5.960145967486743e-05
+    },
+    "subdirscores": {}
+}

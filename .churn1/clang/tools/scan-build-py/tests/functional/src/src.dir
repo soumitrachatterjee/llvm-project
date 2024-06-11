@@ -1,0 +1,21 @@
+{
+    "directory name": "llvm-project/clang/tools/scan-build-py/tests/functional/src",
+    "score.sum": 6.97196321490036e-06,
+    "sha.latest": "8bd63e5518f12352387e0e4a183dc331b657c4d1",
+    "time.latest": 1718082982.2001505,
+    "formatted_time": "2024-06-11 10:46:22.200152",
+    "filescores": {
+        "broken-one.c": 0,
+        "broken-two.c": 0,
+        "clean-one.c": 0,
+        "clean-two.c": 0,
+        "emit-one.c": 0,
+        "emit-two.c": 0,
+        "main.c": 0
+    },
+    "subdirscores": {
+        "build": 6.97196321490036e-06,
+        "compilation_database": 0,
+        "include": 0
+    }
+}

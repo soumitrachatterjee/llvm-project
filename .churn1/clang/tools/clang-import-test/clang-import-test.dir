@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/clang/tools/clang-import-test",
+    "score.sum": 0.00013463697858580385,
+    "sha.latest": "5746002ebb9c3d02be408edf13c2edc39aecf591",
+    "time.latest": 1718082068.445241,
+    "formatted_time": "2024-06-11 10:31:08.445244",
+    "filescores": {
+        "clang-import-test.cpp": 0.00011596725261984392,
+        "CMakeLists.txt": 2.0900636440751134e-05
+    },
+    "subdirscores": {}
+}
