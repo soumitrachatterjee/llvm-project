@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/clang/test/CXX/temp/temp.res/temp.dep/temp.dep.constexpr",
+    "score.sum": 1.8030255344123807e-05,
+    "sha.latest": "7e7f38f853fbf96c6ab2a0e5f9d7747ef8a76ffe",
+    "time.latest": 1718116222.6755865,
+    "formatted_time": "2024-06-11 20:00:22.675589",
+    "filescores": {
+        "p2-0x.cpp": 6.734961892731095e-06,
+        "p2.cpp": 1.18657819655914e-05
+    },
+    "subdirscores": {}
+}

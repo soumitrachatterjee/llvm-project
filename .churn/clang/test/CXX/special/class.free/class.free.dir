@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/clang/test/CXX/special/class.free",
+    "score.sum": 6.4933441675829975e-06,
+    "sha.latest": "fa0a1f531f7d31ef90419c2ef36bfa0060a73b2c",
+    "time.latest": 1718110560.6287878,
+    "formatted_time": "2024-06-11 18:26:00.628791",
+    "filescores": {
+        "p1.cpp": 6.309993124930401e-06,
+        "p6.cpp": 6.493212394222055e-06
+    },
+    "subdirscores": {}
+}

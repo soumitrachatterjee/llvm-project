@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/clang/test/CXX/temp/temp.arg",
+    "score.sum": 0.00014074371815778536,
+    "sha.latest": "5518a9d7673bfe55b4110bea049140316d032fbf",
+    "time.latest": 1718112312.811443,
+    "formatted_time": "2024-06-11 18:55:12.811445",
+    "filescores": {},
+    "subdirscores": {
+        "temp.arg.nontype": 7.195589400055257e-05,
+        "temp.arg.template": 4.608031657919179e-05,
+        "temp.arg.type": 2.2569449039329856e-05
+    }
+}

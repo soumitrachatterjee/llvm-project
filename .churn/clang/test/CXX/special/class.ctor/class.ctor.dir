@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/clang/test/CXX/special/class.ctor",
+    "score.sum": 9.155757972610938e-05,
+    "sha.latest": "0b89d1d59f82cf5b45c250cd5c3351e43ce35ef9",
+    "time.latest": 1718109773.7482443,
+    "formatted_time": "2024-06-11 18:12:53.748249",
+    "filescores": {
+        "p1.cpp": 1.7667963945925446e-05,
+        "p4-0x.cpp": 6.099602068851199e-06,
+        "p5-0x.cpp": 6.479359251643784e-05,
+        "p6-0x.cpp": 6.48692665959387e-06
+    },
+    "subdirscores": {}
+}

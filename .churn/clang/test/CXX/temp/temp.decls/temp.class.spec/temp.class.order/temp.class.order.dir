@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/clang/test/CXX/temp/temp.decls/temp.class.spec/temp.class.order",
+    "score.sum": 8.922051221566834e-06,
+    "sha.latest": "c6e68daac0fa6e77a89f3ca72f266a528503dd1c",
+    "time.latest": 1718113309.3385139,
+    "formatted_time": "2024-06-11 19:11:49.338516",
+    "filescores": {
+        "p2.cpp": 8.922051221566834e-06
+    },
+    "subdirscores": {}
+}

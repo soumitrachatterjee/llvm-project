@@ -1,0 +1,27 @@
+{
+    "directory name": "llvm-project/clang/test/CXX/special/class.copy",
+    "score.sum": 0.00018958636251306915,
+    "sha.latest": "99500e8c08a4d941acb8a7eb00523296fb2acf7a",
+    "time.latest": 1718109467.517278,
+    "formatted_time": "2024-06-11 18:07:47.517281",
+    "filescores": {
+        "implicit-move-def.cpp": 1.9800626199059515e-05,
+        "implicit-move.cpp": 3.982706347258459e-05,
+        "p11.0x.copy.cpp": 3.402130054544678e-05,
+        "p11.0x.move.cpp": 2.9398598273366393e-05,
+        "p12-0x.cpp": 1.642237545811187e-05,
+        "p13-0x.cpp": 7.325887139669116e-06,
+        "p15-0x.cpp": 8.540021179405172e-06,
+        "p15-inclass.cpp": 1.738159230757022e-05,
+        "p18-cxx11.cpp": 0,
+        "p20.cpp": 6.099602068851199e-06,
+        "p23-cxx11.cpp": 5.445354187905326e-05,
+        "p25-0x.cpp": 1.6880120658372712e-05,
+        "p28-cxx11.cpp": 0,
+        "p3-cxx11.cpp": 2.48095400769215e-05,
+        "p3.cpp": 6.099602068851199e-06,
+        "p8-cxx11.cpp": 7.747406364308502e-06,
+        "p9.cpp": 7.844996306608493e-06
+    },
+    "subdirscores": {}
+}

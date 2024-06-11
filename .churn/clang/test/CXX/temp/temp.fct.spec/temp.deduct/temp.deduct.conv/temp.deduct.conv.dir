@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/clang/test/CXX/temp/temp.fct.spec/temp.deduct/temp.deduct.conv",
+    "score.sum": 2.4023517700422038e-05,
+    "sha.latest": "f8c5a68365fb82d9ffc64511f4b50b9c1e68144f",
+    "time.latest": 1718115049.953982,
+    "formatted_time": "2024-06-11 19:40:49.953984",
+    "filescores": {
+        "p2.cpp": 6.711756854164623e-06,
+        "p3.cpp": 6.711756854164623e-06,
+        "p4.cpp": 1.6689896923045528e-05,
+        "p5.cpp": 6.099602068851199e-06
+    },
+    "subdirscores": {}
+}

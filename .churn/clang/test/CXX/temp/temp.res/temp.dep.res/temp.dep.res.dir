@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/clang/test/CXX/temp/temp.res/temp.dep.res",
+    "score.sum": 1.0718274988004633e-05,
+    "sha.latest": "8fbe78f6fc7b41d1a4228c126fcb522131150518",
+    "time.latest": 1718116344.6099474,
+    "formatted_time": "2024-06-11 20:02:24.609948",
+    "filescores": {},
+    "subdirscores": {
+        "temp.point": 1.0718274988004633e-05
+    }
+}

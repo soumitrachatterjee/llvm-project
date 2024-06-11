@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/clang/test/CXX/temp/temp.decls/temp.alias",
+    "score.sum": 1.1388480043855332e-05,
+    "sha.latest": "66ed89d07ffd6d5c372e4bb566216da30844a796",
+    "time.latest": 1718112840.5015905,
+    "formatted_time": "2024-06-11 19:04:00.501592",
+    "filescores": {
+        "p1.cpp": 7.94365720059168e-06,
+        "p2.cpp": 6.099602068851199e-06,
+        "p3.cpp": 7.32737188880631e-06
+    },
+    "subdirscores": {}
+}

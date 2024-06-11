@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/clang/test/CXX/temp/temp.decls/temp.friend",
+    "score.sum": 7.357671071642583e-05,
+    "sha.latest": "29bd78b2f61e638f6c26bc417ae476754b91e985",
+    "time.latest": 1718113736.4239185,
+    "formatted_time": "2024-06-11 19:18:56.423920",
+    "filescores": {
+        "p1.cpp": 3.402749774596968e-05,
+        "p3.cpp": 9.20192902166773e-06,
+        "p4.cpp": 3.095060319882653e-05,
+        "p5.cpp": 2.8092529382337173e-05,
+        "p8.cpp": 0
+    },
+    "subdirscores": {}
+}

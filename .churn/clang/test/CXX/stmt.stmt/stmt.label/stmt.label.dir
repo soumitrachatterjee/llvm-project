@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/clang/test/CXX/stmt.stmt/stmt.label",
+    "score.sum": 6.099602068851199e-06,
+    "sha.latest": "c8e630e4db137cbe4bb28193f83c4092e24fd502",
+    "time.latest": 1718111833.332992,
+    "formatted_time": "2024-06-11 18:47:13.332993",
+    "filescores": {
+        "p1.cpp": 6.099602068851199e-06
+    },
+    "subdirscores": {}
+}

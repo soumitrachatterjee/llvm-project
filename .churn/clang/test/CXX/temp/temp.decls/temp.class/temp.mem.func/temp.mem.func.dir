@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/clang/test/CXX/temp/temp.decls/temp.class/temp.mem.func",
+    "score.sum": 2.1982142517836163e-05,
+    "sha.latest": "1156bbc5b1837e688b0e5d6952f1a900aca29062",
+    "time.latest": 1718113055.0092695,
+    "formatted_time": "2024-06-11 19:07:35.009271",
+    "filescores": {
+        "p1-retmem.cpp": 7.01641033334361e-06,
+        "p1.cpp": 6.704578028196951e-06,
+        "p1inst.cpp": 1.46752469071181e-05,
+        "pr5056.cpp": 6.5259831153354925e-06
+    },
+    "subdirscores": {}
+}

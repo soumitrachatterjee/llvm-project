@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/clang/test/CXX/temp/temp.explicit",
+    "score.sum": 1.830495057921076e-05,
+    "sha.latest": "aee49255074fd4ef38d97e6e70cbfbf2f9fd0fa7",
+    "time.latest": 1718114476.35862,
+    "formatted_time": "2024-06-11 19:31:16.358624",
+    "filescores": {
+        "p8.cpp": 1.830495057921076e-05
+    },
+    "subdirscores": {}
+}

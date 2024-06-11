@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/clang/test/CXX/temp/temp.fct.spec/temp.deduct/temp.deduct.funcaddr",
+    "score.sum": 6.824194874783686e-06,
+    "sha.latest": "8fbe78f6fc7b41d1a4228c126fcb522131150518",
+    "time.latest": 1718115102.8956416,
+    "formatted_time": "2024-06-11 19:41:42.895643",
+    "filescores": {
+        "p1.cpp": 6.824194874783686e-06
+    },
+    "subdirscores": {}
+}

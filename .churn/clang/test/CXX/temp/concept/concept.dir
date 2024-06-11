@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/clang/test/CXX/temp/concept",
+    "score.sum": 0,
+    "sha.latest": "0330fba6e16db9b5d2079313646f93485c5ccf39",
+    "time.latest": 1718112048.2519119,
+    "formatted_time": "2024-06-11 18:50:48.251914",
+    "filescores": {
+        "p4.cpp": 0
+    },
+    "subdirscores": {}
+}

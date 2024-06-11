@@ -1,0 +1,18 @@
+{
+    "directory name": "llvm-project/clang/test/CXX/temp/temp.decls/temp.class.spec",
+    "score.sum": 4.425065000218684e-05,
+    "sha.latest": "421c098b32bd50122de8de03a71092c7f36994eb",
+    "time.latest": 1718113371.835145,
+    "formatted_time": "2024-06-11 19:12:51.835147",
+    "filescores": {
+        "p6.cpp": 1.8621211324457567e-05,
+        "p8-0x.cpp": 9.642195639413244e-06,
+        "p8-1y.cpp": 6.943439535816128e-06,
+        "p9-0x.cpp": 6.099602068851199e-06,
+        "p9.cpp": 6.099602068851199e-06
+    },
+    "subdirscores": {
+        "temp.class.order": 8.922051221566834e-06,
+        "temp.class.spec.mfunc": 7.907922361853003e-06
+    }
+}

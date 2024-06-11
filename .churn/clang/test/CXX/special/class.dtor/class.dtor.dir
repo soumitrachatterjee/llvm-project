@@ -1,0 +1,18 @@
+{
+    "directory name": "llvm-project/clang/test/CXX/special/class.dtor",
+    "score.sum": 8.559471287770276e-05,
+    "sha.latest": "970bf07d0b184c7ec356ae8f47b193a5e3ff0309",
+    "time.latest": 1718110344.0433311,
+    "formatted_time": "2024-06-11 18:22:24.043339",
+    "filescores": {
+        "p10-0x.cpp": 1.2617071824681197e-05,
+        "p2-0x.cpp": 6.099602068851199e-06,
+        "p2.cpp": 6.253979419175607e-06,
+        "p3-0x.cpp": 1.581009378456908e-05,
+        "p3.cpp": 6.099602068851199e-06,
+        "p5-0x.cpp": 2.1394197356428616e-05,
+        "p5-implicit.cpp": 0,
+        "p9.cpp": 4.47555240250501e-05
+    },
+    "subdirscores": {}
+}
