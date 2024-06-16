@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/strings/char.traits/char.traits.specializations",
+    "score.sum": 0.0002305149697307305,
+    "sha.latest": "a40bada91aeda276a772acfbcae6e8de26755a11",
+    "time.latest": 1717972210.6812122,
+    "formatted_time": "2024-06-10 04:00:10.681214",
+    "filescores": {},
+    "subdirscores": {
+        "char.traits.specializations.char": 28.606068864138773,
+        "char.traits.specializations.char16_t": 25.36651324275522,
+        "char.traits.specializations.char32_t": 25.36651324275522,
+        "char.traits.specializations.char8_t": 18.014828312672456,
+        "char.traits.specializations.wchar_t": 2.646076337678319
+    }
+}

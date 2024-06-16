@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/compiler-rt/test/ubsan/TestCases/Float",
+    "score.sum": 5.390777071635172e-05,
+    "sha.latest": "95507c82bcfa5f9e5c2381d39fee3c17f4651bfb",
+    "time.latest": 1717863854.1691122,
+    "formatted_time": "2024-06-08 21:54:14.169115",
+    "filescores": {
+        "cast-overflow.cpp": 100.0
+    },
+    "subdirscores": {}
+}

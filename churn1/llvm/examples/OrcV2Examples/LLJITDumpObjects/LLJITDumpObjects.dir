@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/llvm/examples/OrcV2Examples/LLJITDumpObjects",
+    "score.sum": 1.4591000141131713e-05,
+    "sha.latest": "b92839c9548a55bc7a3267b05d11c9d9c530b792",
+    "time.latest": 1717804486.8413758,
+    "formatted_time": "2024-06-07 18:54:46.841379",
+    "filescores": {
+        "CMakeLists.txt": 41.80386546400307,
+        "LLJITDumpObjects.cpp": 58.19613453599693
+    },
+    "subdirscores": {}
+}

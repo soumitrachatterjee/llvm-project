@@ -1,0 +1,19 @@
+{
+    "directory name": "llvm-project/compiler-rt/test/orc/TestCases/FreeBSD/x86-64",
+    "score.sum": 1.9318213271210754e-05,
+    "sha.latest": "f98ee40f4b5d7474fc67e82824bf6abbaedb7b1c",
+    "time.latest": 1717835706.674732,
+    "formatted_time": "2024-06-08 14:05:06.674734",
+    "filescores": {
+        "ehframe-default.cpp": 0.0,
+        "ehframe-libunwind.cpp": 0.0,
+        "lit.local.cfg.py": 35.18240627826552,
+        "lljit-ehframe.cpp": 0.0,
+        "lljit-initialize-deinitialize.ll": 0.0,
+        "priority-static-initializer.S": 0.0,
+        "trivial-cxa-atexit.S": 32.40879686086724,
+        "trivial-static-initializer.S": 32.40879686086724,
+        "trivial-tls.S": 0.0
+    },
+    "subdirscores": {}
+}

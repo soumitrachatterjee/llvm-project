@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/python_api/value/empty_class",
+    "score.sum": 2.272886506367688e-05,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717967380.1371145,
+    "formatted_time": "2024-06-10 02:39:40.137118",
+    "filescores": {
+        "main.cpp": 26.83636887175245,
+        "Makefile": 0.0,
+        "TestValueAPIEmptyClass.py": 73.16363112824756
+    },
+    "subdirscores": {}
+}

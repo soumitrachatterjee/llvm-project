@@ -1,0 +1,17 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/thread/thread.mutex/thread.lock/thread.lock.guard",
+    "score.sum": 0.00010744626266719794,
+    "sha.latest": "b82dcb624e6bfa58ed566511cb564f8f201fa62e",
+    "time.latest": 1717977750.0174634,
+    "formatted_time": "2024-06-10 05:32:30.017465",
+    "filescores": {
+        "adopt_lock.pass.cpp": 40.6498638906795,
+        "assign.compile.fail.cpp": 0.0,
+        "copy.compile.fail.cpp": 0.0,
+        "implicit_ctad.pass.cpp": 0.0,
+        "mutex.pass.cpp": 44.009749664852954,
+        "mutex.verify.cpp": 0.0,
+        "types.pass.cpp": 15.340386444467546
+    },
+    "subdirscores": {}
+}

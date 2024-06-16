@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/lang/cpp/template-function",
+    "score.sum": 1.8229567961891647e-05,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717954370.6365826,
+    "formatted_time": "2024-06-09 23:02:50.636588",
+    "filescores": {
+        "main.cpp": 41.6450015122213,
+        "Makefile": 0.0,
+        "TestTemplateFunctions.py": 58.35499848777871
+    },
+    "subdirscores": {}
+}

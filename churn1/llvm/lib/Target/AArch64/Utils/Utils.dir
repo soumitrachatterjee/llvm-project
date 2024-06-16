@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/llvm/lib/Target/AArch64/Utils",
+    "score.sum": 0.0004564750515500465,
+    "sha.latest": "33c6b77d2a18862fb5b16160ef9d600382e93f19",
+    "time.latest": 1717846894.007341,
+    "formatted_time": "2024-06-08 06:41:34.007345",
+    "filescores": {
+        "AArch64BaseInfo.cpp": 21.71395809421154,
+        "AArch64BaseInfo.h": 56.269412164566255,
+        "AArch64SMEAttributes.cpp": 7.814651598537706,
+        "AArch64SMEAttributes.h": 10.213811682734567,
+        "CMakeLists.txt": 3.9881664599499254
+    },
+    "subdirscores": {}
+}

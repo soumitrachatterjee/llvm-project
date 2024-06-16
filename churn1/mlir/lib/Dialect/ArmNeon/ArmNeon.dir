@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/mlir/lib/Dialect/ArmNeon",
+    "score.sum": 1.820524775640644e-05,
+    "sha.latest": "cb6ff746e0c7b9218b6f5c11db44162cacd623a4",
+    "time.latest": 1717805213.0751956,
+    "formatted_time": "2024-06-07 19:06:53.075196",
+    "filescores": {
+        "CMakeLists.txt": 49.05138715538705
+    },
+    "subdirscores": {
+        "IR": 50.94861284461296,
+        "Transforms": 0.0
+    }
+}

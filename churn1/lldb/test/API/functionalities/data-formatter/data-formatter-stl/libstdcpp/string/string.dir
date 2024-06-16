@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/functionalities/data-formatter/data-formatter-stl/libstdcpp/string",
+    "score.sum": 3.59349243824276e-05,
+    "sha.latest": "487ab39a5082098f92e886de606505f25031a22a",
+    "time.latest": 1717907291.2708263,
+    "formatted_time": "2024-06-09 09:58:11.270828",
+    "filescores": {
+        "main.cpp": 32.7499341233149,
+        "Makefile": 0.0,
+        "TestDataFormatterStdString.py": 67.2500658766851
+    },
+    "subdirscores": {}
+}

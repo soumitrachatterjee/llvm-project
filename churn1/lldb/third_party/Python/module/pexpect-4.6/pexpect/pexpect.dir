@@ -1,0 +1,26 @@
+{
+    "directory name": "llvm-project/lldb/third_party/Python/module/pexpect-4.6/pexpect",
+    "score.sum": 2.9696744636722734e-05,
+    "sha.latest": "97c6ef4ea678ef9a69e1feaf9d77a0880bca09ba",
+    "time.latest": 1717984969.3764265,
+    "formatted_time": "2024-06-10 07:32:49.376429",
+    "filescores": {
+        "ANSI.py": 0.0,
+        "bashrc.sh": 0.0,
+        "exceptions.py": 0.0,
+        "expect.py": 0.0,
+        "fdpexpect.py": 0.0,
+        "FSM.py": 0.0,
+        "popen_spawn.py": 0.0,
+        "pty_spawn.py": 70.2676959955594,
+        "pxssh.py": 0.0,
+        "replwrap.py": 0.0,
+        "run.py": 0.0,
+        "screen.py": 0.0,
+        "spawnbase.py": 29.732304004440607,
+        "utils.py": 0.0,
+        "_async.py": 0.0,
+        "__init__.py": 0.0
+    },
+    "subdirscores": {}
+}

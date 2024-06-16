@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/iterators/iterator.requirements/alg.req.permutable",
+    "score.sum": 1.3746148889951822e-05,
+    "sha.latest": "d2baefae6846765eef6a6dd69d4fdf1082ce29ad",
+    "time.latest": 1717913087.8023627,
+    "formatted_time": "2024-06-09 11:34:47.802364",
+    "filescores": {
+        "permutable.compile.pass.cpp": 55.62682961109279,
+        "permutable.subsumption.compile.pass.cpp": 44.373170388907205
+    },
+    "subdirscores": {}
+}

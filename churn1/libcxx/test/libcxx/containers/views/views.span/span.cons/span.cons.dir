@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/libcxx/test/libcxx/containers/views/views.span/span.cons",
+    "score.sum": 8.823778668467246e-05,
+    "sha.latest": "58780b811c23df3d928d8452ee21c862dde754a2",
+    "time.latest": 1717848776.507331,
+    "formatted_time": "2024-06-08 17:42:56.507336",
+    "filescores": {
+        "assert.iter_sent.pass.cpp": 25.0,
+        "assert.iter_size.pass.cpp": 25.0,
+        "assert.other_span.pass.cpp": 25.0,
+        "assert.range.pass.cpp": 25.0
+    },
+    "subdirscores": {}
+}

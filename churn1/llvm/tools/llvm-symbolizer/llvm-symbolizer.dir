@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/llvm/tools/llvm-symbolizer",
+    "score.sum": 0.0007317900967298183,
+    "sha.latest": "3c6f47d6b879ddd2842925d2e5da54657d9e5631",
+    "time.latest": 1718084350.9904194,
+    "formatted_time": "2024-06-11 00:39:10.990423",
+    "filescores": {
+        "CMakeLists.txt": 11.526376646408917,
+        "Opts.td": 3.4070365486863015,
+        "llvm-symbolizer.cpp": 85.06658680490477
+    },
+    "subdirscores": {}
+}

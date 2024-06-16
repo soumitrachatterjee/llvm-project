@@ -1,0 +1,27 @@
+{
+    "directory name": "llvm-project/flang/include/flang/Frontend",
+    "score.sum": 0.0004794809237595746,
+    "sha.latest": "f443fbc49b8914a8453de61aea741221df9648cf",
+    "time.latest": 1717788932.0770493,
+    "formatted_time": "2024-06-07 14:35:32.077053",
+    "filescores": {
+        ".clang-format": 0.0,
+        ".clang-tidy": 0.0,
+        "CodeGenOptions.def": 6.651058178413908,
+        "CodeGenOptions.h": 12.1670740196765,
+        "CompilerInstance.h": 7.40198854184798,
+        "CompilerInvocation.h": 14.801005263986266,
+        "FrontendAction.h": 3.785632790994126,
+        "FrontendActions.h": 16.278786456659795,
+        "FrontendOptions.h": 18.791148501317235,
+        "FrontendPluginRegistry.h": 1.4410917363418465,
+        "LangOptions.def": 5.312992996612912,
+        "LangOptions.h": 1.2721261194344644,
+        "PreprocessorOptions.h": 2.802162015957347,
+        "TargetOptions.h": 2.882164792822838,
+        "TextDiagnostic.h": 1.2721261194344644,
+        "TextDiagnosticBuffer.h": 2.2538710671146522,
+        "TextDiagnosticPrinter.h": 2.8867713993856654
+    },
+    "subdirscores": {}
+}

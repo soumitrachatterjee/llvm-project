@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/functionalities/data-formatter/data-formatter-advanced",
+    "score.sum": 4.410804277409148e-05,
+    "sha.latest": "096c530ab3ea5c96526451181117f30db17b4b1d",
+    "time.latest": 1717904694.2905288,
+    "formatted_time": "2024-06-09 09:14:54.290531",
+    "filescores": {
+        "main.cpp": 24.025939177980547,
+        "Makefile": 0.0,
+        "TestDataFormatterAdv.py": 75.97406082201945
+    },
+    "subdirscores": {}
+}

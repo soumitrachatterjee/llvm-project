@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/llvm/unittests/DebugInfo/GSYM",
+    "score.sum": 0.00015474428541418733,
+    "sha.latest": "3bdc4c702dfdd1f2fb513943f034d49bb79ded29",
+    "time.latest": 1718080058.4427505,
+    "formatted_time": "2024-06-10 23:27:38.442754",
+    "filescores": {
+        "CMakeLists.txt": 5.211948023447245,
+        "GSYMTest.cpp": 94.78805197655275
+    },
+    "subdirscores": {}
+}

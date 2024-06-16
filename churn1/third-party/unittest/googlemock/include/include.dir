@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/third-party/unittest/googlemock/include",
+    "score.sum": 1.8257891228743476e-05,
+    "sha.latest": "a866ce789eb99da4d7a486eeb60a53be6c75f4fd",
+    "time.latest": 1717789910.4868581,
+    "formatted_time": "2024-06-07 14:51:50.486859",
+    "filescores": {},
+    "subdirscores": {
+        "gmock": 100.0
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "directory name": "llvm-project/mlir/lib/Transforms/Utils",
+    "score.sum": 0.0013145598928443458,
+    "sha.latest": "9b6bd7093ccb07ba8d6987220b2703549af02933",
+    "time.latest": 1717813248.8696637,
+    "formatted_time": "2024-06-07 21:20:48.869668",
+    "filescores": {
+        "CFGToSCF.cpp": 0.9251092006312727,
+        "CMakeLists.txt": 7.831478046566826,
+        "CommutativityUtils.cpp": 0.47035275459646025,
+        "ControlFlowSinkUtils.cpp": 0.9428992888091247,
+        "DialectConversion.cpp": 33.465359174338865,
+        "FoldUtils.cpp": 10.393423300785962,
+        "GreedyPatternRewriteDriver.cpp": 27.724198118788625,
+        "Inliner.cpp": 0.0,
+        "InliningUtils.cpp": 6.081112039955184,
+        "LoopInvariantCodeMotionUtils.cpp": 2.8138397262966013,
+        "OneToNTypeConversion.cpp": 1.2543263906531212,
+        "RegionUtils.cpp": 6.9654992573877585,
+        "TopologicalSortUtils.cpp": 1.132402701190194
+    },
+    "subdirscores": {}
+}

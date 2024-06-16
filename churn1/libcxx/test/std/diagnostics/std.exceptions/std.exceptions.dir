@@ -1,0 +1,19 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/diagnostics/std.exceptions",
+    "score.sum": 0.00015629648079814405,
+    "sha.latest": "7fc6a55688c816f5fc1a5481ae7af25be7500356",
+    "time.latest": 1717897647.8977926,
+    "formatted_time": "2024-06-09 07:17:27.897794",
+    "filescores": {},
+    "subdirscores": {
+        "domain.error": 11.111111111111112,
+        "invalid.argument": 11.111111111111112,
+        "length.error": 11.111111111111112,
+        "logic.error": 11.111111111111112,
+        "out.of.range": 11.111111111111112,
+        "overflow.error": 11.111111111111112,
+        "range.error": 11.111111111111112,
+        "runtime.error": 11.111111111111112,
+        "underflow.error": 11.111111111111112
+    }
+}

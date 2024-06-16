@@ -1,0 +1,33 @@
+{
+    "directory name": "llvm-project/mlir/test/Pass",
+    "score.sum": 0.00048400025822907273,
+    "sha.latest": "03e29a49d9827532499234e3e460e2b5b29a11a7",
+    "time.latest": 1717828796.4335852,
+    "formatted_time": "2024-06-08 01:39:56.433589",
+    "filescores": {
+        "action-logging-filter.mlir": 1.5912492406345426,
+        "action-logging.mlir": 2.333023739634778,
+        "action-profiler.mlir": 0.0,
+        "crash-recovery-dynamic-failure.mlir": 4.278430279288599,
+        "crash-recovery.mlir": 8.973120072746209,
+        "crashless-reproducer.mlir": 0.0,
+        "dynamic-pipeline-fail-on-parent.mlir": 2.798480215667741,
+        "dynamic-pipeline-nested.mlir": 3.860992931642879,
+        "dynamic-pipeline.mlir": 4.5150525949693465,
+        "generic-pipeline.mlir": 1.2602476889515035,
+        "interface-pass.mlir": 1.5668728746494172,
+        "invalid-interface-pass.mlir": 1.5046223206816585,
+        "invalid-ir-print-after-failure.mlir": 1.2769617701120501,
+        "invalid-parent.mlir": 1.4527660976432286,
+        "invalid-pass.mlir": 2.6143409572374505,
+        "ir-printing.mlir": 15.445976284553383,
+        "pass-timing.mlir": 7.35571944837153,
+        "pipeline-invalid.mlir": 1.2616385270769737,
+        "pipeline-options-parsing.mlir": 8.824715408181259,
+        "pipeline-parsing.mlir": 11.110981199267545,
+        "pipeline-stats-nested.mlir": 0.0,
+        "pipeline-stats.mlir": 7.134901470797073,
+        "run-reproducer.mlir": 10.83990687789282
+    },
+    "subdirscores": {}
+}

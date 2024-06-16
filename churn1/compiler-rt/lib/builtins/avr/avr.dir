@@ -1,0 +1,17 @@
+{
+    "directory name": "llvm-project/compiler-rt/lib/builtins/avr",
+    "score.sum": 1.2199204137702398e-05,
+    "sha.latest": "3902ebdd5793763431264259dfdca871ef453017",
+    "time.latest": 1717793622.4696383,
+    "formatted_time": "2024-06-08 02:23:42.469642",
+    "filescores": {
+        "divmodhi4.S": 0.0,
+        "divmodqi4.S": 0.0,
+        "exit.S": 0.0,
+        "mulhi3.S": 50.0,
+        "mulqi3.S": 50.0,
+        "udivmodhi4.S": 0.0,
+        "udivmodqi4.S": 0.0
+    },
+    "subdirscores": {}
+}

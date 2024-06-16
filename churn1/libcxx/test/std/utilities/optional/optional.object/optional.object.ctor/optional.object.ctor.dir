@@ -1,0 +1,27 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/utilities/optional/optional.object/optional.object.ctor",
+    "score.sum": 0.000407126618895855,
+    "sha.latest": "ec350ad418a24f70c88758259c774a1e11c06d74",
+    "time.latest": 1718003561.0327935,
+    "formatted_time": "2024-06-10 12:42:41.032797",
+    "filescores": {
+        "const_optional_U.pass.cpp": 5.492732682507135,
+        "const_T.pass.cpp": 10.302353073428792,
+        "copy.pass.cpp": 4.812231390091869,
+        "ctor.verify.cpp": 1.4982076301946514,
+        "deduct.pass.cpp": 6.285334440608629,
+        "deduct.verify.cpp": 1.4982076301946514,
+        "default.pass.cpp": 4.558760605840552,
+        "empty_in_place_t_does_not_clobber.pass.cpp": 2.0382096699810957,
+        "explicit_const_optional_U.pass.cpp": 6.549367567304892,
+        "explicit_optional_U.pass.cpp": 5.562044187835159,
+        "initializer_list.pass.cpp": 3.3896093090283927,
+        "in_place_t.pass.cpp": 3.4153827305296023,
+        "move.pass.cpp": 10.862946709430249,
+        "nullopt_t.pass.cpp": 5.641622714813402,
+        "optional_U.pass.cpp": 6.419385813921025,
+        "rvalue_T.pass.cpp": 11.162561145549637,
+        "U.pass.cpp": 10.51104269874028
+    },
+    "subdirscores": {}
+}

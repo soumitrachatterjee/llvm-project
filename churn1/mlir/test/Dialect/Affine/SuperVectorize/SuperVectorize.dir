@@ -1,0 +1,25 @@
+{
+    "directory name": "llvm-project/mlir/test/Dialect/Affine/SuperVectorize",
+    "score.sum": 0.00023416719274119044,
+    "sha.latest": "181d9602f35c476201ecc72c26c00042ad949544",
+    "time.latest": 1717817395.3298924,
+    "formatted_time": "2024-06-07 22:29:55.329896",
+    "filescores": {
+        "compose_maps.mlir": 5.516047214582741,
+        "invalid-zero-size.mlir": 0.0,
+        "invalid_type.mlir": 0.0,
+        "uniform_divergent.mlir": 5.224522510000085,
+        "vector_utils.mlir": 9.928986826553045,
+        "vectorize_1d.mlir": 23.92154844598126,
+        "vectorize_2d.mlir": 12.183818678046933,
+        "vectorize_3d.mlir": 7.046566492827741,
+        "vectorize_affine_apply.mlir": 0.0,
+        "vectorize_outer_loop_2d.mlir": 6.852579403799389,
+        "vectorize_outer_loop_transpose_2d.mlir": 6.852579403799389,
+        "vectorize_reduction.mlir": 11.823646759814983,
+        "vectorize_reduction_2d.mlir": 3.7971248607950434,
+        "vectorize_transpose_2d.mlir": 6.852579403799389,
+        "vectorize_unsupported.mlir": 0.0
+    },
+    "subdirscores": {}
+}

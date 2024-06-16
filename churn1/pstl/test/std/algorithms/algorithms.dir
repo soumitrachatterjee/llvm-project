@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/pstl/test/std/algorithms",
+    "score.sum": 9.063166758599276e-05,
+    "sha.latest": "5425106e493e26f7e0a87077c8eca657a9aff293",
+    "time.latest": 1717791914.2362628,
+    "formatted_time": "2024-06-07 15:25:14.236264",
+    "filescores": {},
+    "subdirscores": {
+        "alg.merge": 18.097196907213238,
+        "alg.modifying.operations": 31.02303228583266,
+        "alg.nonmodifying": 22.41160367844969,
+        "alg.sorting": 28.46816712850443
+    }
+}

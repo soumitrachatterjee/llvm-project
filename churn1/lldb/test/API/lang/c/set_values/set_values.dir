@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/lang/c/set_values",
+    "score.sum": 1.983849663828261e-05,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717926694.7348204,
+    "formatted_time": "2024-06-09 15:21:34.734822",
+    "filescores": {
+        "main.c": 30.746291818709263,
+        "Makefile": 0.0,
+        "TestSetValues.py": 69.25370818129075
+    },
+    "subdirscores": {}
+}

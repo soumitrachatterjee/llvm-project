@@ -1,0 +1,17 @@
+{
+    "directory name": "llvm-project/llvm/tools/llvm-dwarfutil",
+    "score.sum": 0.000267253687537438,
+    "sha.latest": "0ed8194256c6c96875ed9dd102d15ee8a9260fec",
+    "time.latest": 1718079593.2749624,
+    "formatted_time": "2024-06-10 23:19:53.274966",
+    "filescores": {
+        "CMakeLists.txt": 14.812975416817306,
+        "DebugInfoLinker.cpp": 41.029438272332705,
+        "DebugInfoLinker.h": 2.393211039221579,
+        "Error.h": 3.210748367306096,
+        "Options.h": 11.129557816092468,
+        "Options.td": 7.038360192299138,
+        "llvm-dwarfutil.cpp": 20.385708895930716
+    },
+    "subdirscores": {}
+}

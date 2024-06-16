@@ -1,0 +1,18 @@
+{
+    "directory name": "llvm-project/lldb/unittests/Interpreter",
+    "score.sum": 0.00015419987200028163,
+    "sha.latest": "7e1432f1258e229a4fcc9c017937166f0578e1f8",
+    "time.latest": 1717996613.727641,
+    "formatted_time": "2024-06-10 10:46:53.727643",
+    "filescores": {
+        "CMakeLists.txt": 27.871265750860452,
+        "TestCommandPaths.cpp": 11.551476409975132,
+        "TestCompletion.cpp": 23.67584547587425,
+        "TestOptionArgParser.cpp": 5.6734640455108,
+        "TestOptions.cpp": 0.0,
+        "TestOptionValue.cpp": 24.40200860850186,
+        "TestOptionValueFileColonLine.cpp": 6.82593970927751,
+        "TestRegexCommand.cpp": 0.0
+    },
+    "subdirscores": {}
+}

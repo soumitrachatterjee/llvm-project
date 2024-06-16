@@ -1,0 +1,24 @@
+{
+    "directory name": "llvm-project/lld/test/wasm/lto/Inputs",
+    "score.sum": 5.489641861966079e-05,
+    "sha.latest": "83305faeb54cf254d133e39ddac7f2fee36972cc",
+    "time.latest": 1717903395.4777765,
+    "formatted_time": "2024-06-09 08:53:15.477779",
+    "filescores": {
+        "archive.ll": 11.11111111111111,
+        "cache.ll": 11.11111111111111,
+        "comdat_ordering1.ll": 0.0,
+        "comdat_ordering2.ll": 0.0,
+        "foo.ll": 0.0,
+        "libcall-archive.ll": 11.11111111111111,
+        "libcall-truncsfhf2.ll": 11.11111111111111,
+        "libcall.ll": 0.0,
+        "save-temps.ll": 11.11111111111111,
+        "stub.so": 0.0,
+        "thin1.ll": 11.11111111111111,
+        "thin2.ll": 11.11111111111111,
+        "thinlto.ll": 11.11111111111111,
+        "used.ll": 11.11111111111111
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/llvm/tools/llvm-mc-assemble-fuzzer",
+    "score.sum": 8.632081070495706e-05,
+    "sha.latest": "8de9f2b558a046da15cf73191da627bdd83676ca",
+    "time.latest": 1718080922.9798968,
+    "formatted_time": "2024-06-10 23:42:02.979901",
+    "filescores": {
+        "CMakeLists.txt": 16.952042005435132,
+        "llvm-mc-assemble-fuzzer.cpp": 83.04795799456487
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/llvm/tools/llvm-microsoft-demangle-fuzzer",
+    "score.sum": 3.248834806493105e-05,
+    "sha.latest": "c2709fcb0a5b32e42a35661fab4d5744e11d04c0",
+    "time.latest": 1718081354.1943595,
+    "formatted_time": "2024-06-10 23:49:14.194363",
+    "filescores": {
+        "CMakeLists.txt": 56.322947121845104,
+        "DummyDemanglerFuzzer.cpp": 18.774737504845014,
+        "llvm-microsoft-demangle-fuzzer.cpp": 24.90231537330989
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/libc/src/string/memory_utils/x86_64",
+    "score.sum": 6.193788967568e-05,
+    "sha.latest": "88d82b747cdc521686e6bbc108b021753842a902",
+    "time.latest": 1717840577.087208,
+    "formatted_time": "2024-06-08 04:56:17.087211",
+    "filescores": {
+        "inline_bcmp.h": 15.681644468229939,
+        "inline_memcmp.h": 15.681644468229939,
+        "inline_memcpy.h": 25.156828341573434,
+        "inline_memmove.h": 23.06695017395308,
+        "inline_memset.h": 20.412932548013604
+    },
+    "subdirscores": {}
+}

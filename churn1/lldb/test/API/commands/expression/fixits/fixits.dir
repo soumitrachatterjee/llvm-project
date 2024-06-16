@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/commands/expression/fixits",
+    "score.sum": 6.220317432514141e-05,
+    "sha.latest": "9c2468821ec51defd09c246fea4a47886fff8c01",
+    "time.latest": 1717890232.4786751,
+    "formatted_time": "2024-06-09 05:13:52.478677",
+    "filescores": {
+        "main.cpp": 9.805933756640854,
+        "Makefile": 0.0,
+        "TestFixIts.py": 90.19406624335915
+    },
+    "subdirscores": {}
+}

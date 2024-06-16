@@ -1,0 +1,16 @@
+{
+    "directory name": "llvm-project/libcxx/test/libcxx/selftest/pass.mm",
+    "score.sum": 3.6597612413107194e-05,
+    "sha.latest": "504bc07d1afc7bad7b980a977141696ec8298e7e",
+    "time.latest": 1717864213.9153974,
+    "formatted_time": "2024-06-08 22:00:13.915400",
+    "filescores": {
+        "compile-error.pass.mm": 16.666666666666664,
+        "link-error.pass.mm": 16.666666666666664,
+        "no-arc.pass.mm": 16.666666666666664,
+        "run-error.pass.mm": 16.666666666666664,
+        "run-success.pass.mm": 16.666666666666664,
+        "use-objective-cxx.pass.mm": 16.666666666666664
+    },
+    "subdirscores": {}
+}

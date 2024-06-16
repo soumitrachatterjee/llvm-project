@@ -1,0 +1,18 @@
+{
+    "directory name": "llvm-project/clang-tools-extra/clangd/test/Inputs",
+    "score.sum": 4.350535936944597e-05,
+    "sha.latest": "4b1cec065227db64f870a179a2d45cffa314641a",
+    "time.latest": 1717804457.1380782,
+    "formatted_time": "2024-06-08 05:24:17.138080",
+    "filescores": {
+        "BenchmarkHeader.h": 41.97569174440665,
+        "BenchmarkSource.cpp": 0.0,
+        "requests.json": 14.02034636021184,
+        "symbols.test.yaml": 14.02034636021184
+    },
+    "subdirscores": {
+        "background-index": 29.983615535169672,
+        "include-cleaner": 0.0,
+        "path-mappings": 0.0
+    }
+}

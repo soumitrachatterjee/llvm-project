@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/re/re.regex/re.regex.locale",
+    "score.sum": 1.5738105086309447e-05,
+    "sha.latest": "2df59c50688c122bbcae7467d3eaf862c3ea3088",
+    "time.latest": 1717967134.2360766,
+    "formatted_time": "2024-06-10 02:35:34.236078",
+    "filescores": {
+        "imbue.pass.cpp": 100.0
+    },
+    "subdirscores": {}
+}

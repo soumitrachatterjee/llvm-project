@@ -1,0 +1,20 @@
+{
+    "directory name": "llvm-project/libcxx/modules",
+    "score.sum": 0.0002978212709913509,
+    "sha.latest": "4d80df0922ef7e48d53d4ae382977d8a2ff34ce0",
+    "time.latest": 1717841799.1370258,
+    "formatted_time": "2024-06-08 15:46:39.137028",
+    "filescores": {
+        ".clang-format": 0.0,
+        "CMakeLists.txt": 12.809720860852982,
+        "CMakeLists.txt.in": 15.435324028263214,
+        "modules.json.in": 2.0480746887378434,
+        "README.md": 0.0,
+        "std.compat.cppm.in": 5.461019183475109,
+        "std.cppm.in": 9.505520355198334
+    },
+    "subdirscores": {
+        "std": 50.64427252341355,
+        "std.compat": 4.096068360058971
+    }
+}

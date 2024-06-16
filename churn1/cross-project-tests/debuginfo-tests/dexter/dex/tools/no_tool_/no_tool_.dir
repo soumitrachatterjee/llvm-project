@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/cross-project-tests/debuginfo-tests/dexter/dex/tools/no_tool_",
+    "score.sum": 6.099602068851199e-06,
+    "sha.latest": "f98ee40f4b5d7474fc67e82824bf6abbaedb7b1c",
+    "time.latest": 1717789539.2943249,
+    "formatted_time": "2024-06-08 01:15:39.294330",
+    "filescores": {
+        "Tool.py": 100.0,
+        "__init__.py": 0.0
+    },
+    "subdirscores": {}
+}

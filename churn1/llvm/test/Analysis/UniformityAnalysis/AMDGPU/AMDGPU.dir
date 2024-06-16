@@ -1,0 +1,35 @@
+{
+    "directory name": "llvm-project/llvm/test/Analysis/UniformityAnalysis/AMDGPU",
+    "score.sum": 0.00010714668883946468,
+    "sha.latest": "1aee1e1f4c4b504becc06521546de992a662694b",
+    "time.latest": 1717893822.809764,
+    "formatted_time": "2024-06-08 19:43:42.809768",
+    "filescores": {
+        "always_uniform.ll": 7.692155346005122,
+        "atomics.ll": 12.296379408034886,
+        "b42473-r1-crash.ll": 0.0,
+        "control-flow-intrinsics.ll": 0.0,
+        "hidden_diverge.ll": 0.0,
+        "hidden_loopdiverge.ll": 0.0,
+        "inline-asm.ll": 0.0,
+        "interp_f16.ll": 0.0,
+        "intrinsics.ll": 21.56833434075036,
+        "join-at-loop-exit.ll": 0.0,
+        "kernel-args.ll": 10.077681687934051,
+        "lit.local.cfg": 5.692758343648012,
+        "llvm.amdgcn.buffer.atomic.ll": 5.692758343648012,
+        "llvm.amdgcn.image.atomic.ll": 0.0,
+        "no-return-blocks.ll": 0.0,
+        "phi-undef.ll": 0.0,
+        "propagate-loop-live-out.ll": 0.0,
+        "temporal_diverge.ll": 11.276091899881239,
+        "trivial-join-at-loop-exit.ll": 0.0,
+        "unreachable-loop-block.ll": 0.0,
+        "workitem-intrinsics.ll": 5.692758343648012
+    },
+    "subdirscores": {
+        "MIR": 14.318323942802296,
+        "deprecated": 0.0,
+        "irreducible": 5.692758343648012
+    }
+}

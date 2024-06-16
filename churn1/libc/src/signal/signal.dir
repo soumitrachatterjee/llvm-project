@@ -1,0 +1,23 @@
+{
+    "directory name": "llvm-project/libc/src/signal",
+    "score.sum": 0.00020575779016166227,
+    "sha.latest": "2c0d20668a11dd4cc9a678706cd3f0312ed97b23",
+    "time.latest": 1717836522.4958766,
+    "formatted_time": "2024-06-08 03:48:42.495880",
+    "filescores": {
+        "CMakeLists.txt": 6.0457145116012,
+        "kill.h": 2.9644574157113515,
+        "raise.h": 5.850524480776938,
+        "sigaction.h": 5.146834180416659,
+        "sigaddset.h": 8.145436241107392,
+        "sigaltstack.h": 5.88545434556037,
+        "sigdelset.h": 5.752488482974851,
+        "sigemptyset.h": 5.825839914868701,
+        "sigfillset.h": 5.752488482974851,
+        "signal.h": 5.777064513677757,
+        "sigprocmask.h": 5.825839914868701
+    },
+    "subdirscores": {
+        "linux": 37.02785751546122
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/ranges/range.adaptors/range.drop",
+    "score.sum": 0.00018017065776705779,
+    "sha.latest": "ba2236d3000645d3127f972aa7ac1844c47e299c",
+    "time.latest": 1717960922.129173,
+    "formatted_time": "2024-06-10 00:52:02.129176",
+    "filescores": {
+        "adaptor.pass.cpp": 7.698970936148151,
+        "base.pass.cpp": 7.021062304925244,
+        "begin.pass.cpp": 14.648838252122257,
+        "ctad.compile.pass.cpp": 10.71125864577031,
+        "ctor.default.pass.cpp": 8.87181803209847,
+        "ctor.view.pass.cpp": 9.36340526389217,
+        "dangling.cache.pass.cpp": 9.764413635777082,
+        "end.pass.cpp": 7.021062304925244,
+        "general.pass.cpp": 7.0294277612312275,
+        "size.pass.cpp": 7.021062304925244,
+        "types.h": 10.848680558184597
+    },
+    "subdirscores": {}
+}

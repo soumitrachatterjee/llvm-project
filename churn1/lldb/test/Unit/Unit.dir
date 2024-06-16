@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/lldb/test/Unit",
+    "score.sum": 6.746312429391141e-05,
+    "sha.latest": "17226c976e04856b10e2da34e93c89596660f882",
+    "time.latest": 1717984575.133257,
+    "formatted_time": "2024-06-10 07:26:15.133260",
+    "filescores": {
+        "CMakeLists.txt": 33.266940571411006,
+        "lit.cfg.py": 24.292766887565104,
+        "lit.site.cfg.py.in": 30.245727755551222,
+        "README.md": 12.194564785472672
+    },
+    "subdirscores": {}
+}

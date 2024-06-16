@@ -1,0 +1,19 @@
+{
+    "directory name": "llvm-project/bolt/lib",
+    "score.sum": 0.00350535305734729,
+    "sha.latest": "a9b0d7590b9e08151243b97aa75366e988e0d6c8",
+    "time.latest": 1717789334.4051178,
+    "formatted_time": "2024-06-08 01:12:14.405122",
+    "filescores": {
+        "CMakeLists.txt": 0.0
+    },
+    "subdirscores": {
+        "Core": 30.487860982542763,
+        "Passes": 19.230386368402392,
+        "Profile": 10.266530053612714,
+        "Rewrite": 28.114168862810494,
+        "RuntimeLibs": 1.5210123681142491,
+        "Target": 8.520061966974778,
+        "Utils": 1.85997939754261
+    }
+}

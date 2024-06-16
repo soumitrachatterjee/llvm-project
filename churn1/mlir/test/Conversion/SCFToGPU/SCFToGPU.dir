@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/mlir/test/Conversion/SCFToGPU",
+    "score.sum": 0.00011819225701287724,
+    "sha.latest": "5b33cff39753c790ecc6847435664592abe40415",
+    "time.latest": 1717816555.0803015,
+    "formatted_time": "2024-06-07 22:15:55.080305",
+    "filescores": {
+        "no_blocks_no_threads.mlir": 21.939668545244842,
+        "parallel_loop.mlir": 30.996630434841986,
+        "step_one.mlir": 24.682111437649684,
+        "step_positive.mlir": 22.381589582263487
+    },
+    "subdirscores": {}
+}

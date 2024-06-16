@@ -1,0 +1,17 @@
+{
+    "directory name": "llvm-project/clang/include/clang/StaticAnalyzer/Checkers",
+    "score.sum": 0.0005428716989488527,
+    "sha.latest": "0d8e16a0967cfd2dbcd00c7bb7a56f476c0e64fb",
+    "time.latest": 1717801580.5775154,
+    "formatted_time": "2024-06-08 04:36:20.577517",
+    "filescores": {
+        "BuiltinCheckerRegistration.h": 2.923909687337382,
+        "CheckerBase.td": 9.378095264476109,
+        "Checkers.td": 75.75896618104879,
+        "CMakeLists.txt": 1.1235807798899238,
+        "MPIFunctionClassifier.h": 1.6379811446581554,
+        "SValExplainer.h": 7.716418028440309,
+        "Taint.h": 1.4610489141493461
+    },
+    "subdirscores": {}
+}

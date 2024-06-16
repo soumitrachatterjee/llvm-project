@@ -1,0 +1,17 @@
+{
+    "directory name": "llvm-project/bolt/tools",
+    "score.sum": 0.00028755934977804914,
+    "sha.latest": "716042a63f26cd020eb72960f72fa97b9a197382",
+    "time.latest": 1717796962.2389061,
+    "formatted_time": "2024-06-08 03:19:22.238909",
+    "filescores": {
+        "CMakeLists.txt": 15.276553793199687
+    },
+    "subdirscores": {
+        "bat-dump": 8.430215912517001,
+        "driver": 20.67006128508423,
+        "heatmap": 10.81151131974088,
+        "llvm-bolt-fuzzer": 7.8050393325998,
+        "merge-fdata": 37.0066183568584
+    }
+}

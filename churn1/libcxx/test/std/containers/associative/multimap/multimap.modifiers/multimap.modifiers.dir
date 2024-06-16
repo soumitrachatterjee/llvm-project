@@ -1,0 +1,29 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/containers/associative/multimap/multimap.modifiers",
+    "score.sum": 0.0003266165151008417,
+    "sha.latest": "64addd65210db59c8cb3794f792720e03e25b5af",
+    "time.latest": 1717878368.1666212,
+    "formatted_time": "2024-06-09 01:56:08.166624",
+    "filescores": {
+        "clear.pass.cpp": 6.048126933052375,
+        "emplace.pass.cpp": 7.585867335725534,
+        "emplace_hint.pass.cpp": 7.585867335725534,
+        "erase_iter.pass.cpp": 7.524311981606605,
+        "erase_iter_iter.pass.cpp": 5.555773100228091,
+        "erase_key.pass.cpp": 5.555773100228091,
+        "extract_iterator.pass.cpp": 3.34000690614584,
+        "extract_key.pass.cpp": 3.34000690614584,
+        "insert_allocator_requirements.pass.cpp": 5.85315249316822,
+        "insert_cv.pass.cpp": 4.355175991936995,
+        "insert_initializer_list.pass.cpp": 7.587572284126601,
+        "insert_iter_cv.pass.cpp": 4.355175991936995,
+        "insert_iter_iter.pass.cpp": 7.215900339866546,
+        "insert_iter_rv.pass.cpp": 6.351366050765253,
+        "insert_node_type.pass.cpp": 3.7083315986406484,
+        "insert_node_type_hint.pass.cpp": 3.34000690614584,
+        "insert_range.pass.cpp": 1.8675118332482266,
+        "insert_rv.pass.cpp": 6.351366050765253,
+        "merge.pass.cpp": 2.478706860541504
+    },
+    "subdirscores": {}
+}

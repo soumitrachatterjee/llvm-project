@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/utilities/meta/meta.unary.prop.query",
+    "score.sum": 9.347428276326318e-05,
+    "sha.latest": "d59a43fe2ad81f5c3918c9ef79a986955256f7ea",
+    "time.latest": 1718002770.4205372,
+    "formatted_time": "2024-06-10 12:29:30.420539",
+    "filescores": {
+        "alignment_of.pass.cpp": 36.385865212726465,
+        "extent.pass.cpp": 17.46101314265204,
+        "rank.pass.cpp": 17.46101314265204,
+        "void_t.pass.cpp": 28.692108501969454
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/llvm/lib/Target/Sparc/TargetInfo",
+    "score.sum": 7.459585278159656e-05,
+    "sha.latest": "09c1ee1086a43bb09677971ebd49d82627342d3b",
+    "time.latest": 1717867180.6899574,
+    "formatted_time": "2024-06-08 12:19:40.689960",
+    "filescores": {
+        "CMakeLists.txt": 32.839228708176634,
+        "SparcTargetInfo.cpp": 67.16077129182338,
+        "SparcTargetInfo.h": 0.0
+    },
+    "subdirscores": {}
+}

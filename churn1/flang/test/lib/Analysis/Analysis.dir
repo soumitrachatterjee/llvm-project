@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/flang/test/lib/Analysis",
+    "score.sum": 6.099602068851199e-06,
+    "sha.latest": "33a7f162d627f522a5dedc06ce2de4a30b2588bc",
+    "time.latest": 1717812554.7802303,
+    "formatted_time": "2024-06-07 21:09:14.780234",
+    "filescores": {
+        "CMakeLists.txt": 0.0
+    },
+    "subdirscores": {
+        "AliasAnalysis": 100.0
+    }
+}

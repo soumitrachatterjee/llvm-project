@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/libcxxabi/www",
+    "score.sum": 6.796883859241236e-05,
+    "sha.latest": "44f81dfba407c82589abbb5867714ad030d1b80c",
+    "time.latest": 1717824514.37299,
+    "formatted_time": "2024-06-08 10:58:34.372991",
+    "filescores": {
+        "content.css": 0.0,
+        "index.html": 84.97497635494396,
+        "menu.css": 0.0,
+        "spec.html": 15.025023645056027
+    },
+    "subdirscores": {}
+}

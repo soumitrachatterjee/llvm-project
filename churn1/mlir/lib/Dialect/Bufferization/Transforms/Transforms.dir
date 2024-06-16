@@ -1,0 +1,27 @@
+{
+    "directory name": "llvm-project/mlir/lib/Dialect/Bufferization/Transforms",
+    "score.sum": 0.0012420717994528693,
+    "sha.latest": "afac64cef40c77320cc49808be30f3e5ef7f7357",
+    "time.latest": 1717805770.3727093,
+    "formatted_time": "2024-06-07 19:16:10.372713",
+    "filescores": {
+        "BufferDeallocation.cpp": 11.615465878164686,
+        "BufferDeallocationSimplification.cpp": 2.1219736078390388,
+        "BufferOptimizations.cpp": 3.1995236525594857,
+        "BufferResultsToOutParams.cpp": 2.1472356768173295,
+        "BufferUtils.cpp": 6.321772576941584,
+        "BufferViewFlowAnalysis.cpp": 3.56041233157827,
+        "Bufferize.cpp": 17.723568439385524,
+        "CMakeLists.txt": 7.932604725986427,
+        "DropEquivalentBufferResults.cpp": 1.1279029458198917,
+        "EmptyTensorElimination.cpp": 5.543189205023339,
+        "EmptyTensorToAllocTensor.cpp": 0.49108288840774456,
+        "FuncBufferizableOpInterfaceImpl.cpp": 8.288454914582822,
+        "LowerDeallocations.cpp": 0.49108288840774456,
+        "OneShotAnalysis.cpp": 17.613522469354763,
+        "OneShotModuleBufferize.cpp": 5.556876514815733,
+        "OwnershipBasedBufferDeallocation.cpp": 2.9485069023637274,
+        "TensorCopyInsertion.cpp": 3.316824381951883
+    },
+    "subdirscores": {}
+}

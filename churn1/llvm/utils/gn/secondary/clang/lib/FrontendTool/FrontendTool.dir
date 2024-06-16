@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/llvm/utils/gn/secondary/clang/lib/FrontendTool",
+    "score.sum": 1.711839322934251e-05,
+    "sha.latest": "e22b78de27aad2655af107d975523a4989ce6baf",
+    "time.latest": 1718083876.5512013,
+    "formatted_time": "2024-06-11 00:31:16.551204",
+    "filescores": {
+        "BUILD.gn": 100.0
+    },
+    "subdirscores": {}
+}

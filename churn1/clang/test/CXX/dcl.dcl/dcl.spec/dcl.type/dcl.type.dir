@@ -1,0 +1,18 @@
+{
+    "directory name": "llvm-project/clang/test/CXX/dcl.dcl/dcl.spec/dcl.type",
+    "score.sum": 0.00020098487284490326,
+    "sha.latest": "3a48630a4b25d50abefd945742c247f17bd61156",
+    "time.latest": 1718087167.814343,
+    "formatted_time": "2024-06-11 11:56:07.814346",
+    "filescores": {
+        "p3-0x.cpp": 6.141278728110384
+    },
+    "subdirscores": {
+        "dcl.spec.auto": 62.37846214643634,
+        "dcl.type.auto.deduct": 3.034856296651819,
+        "dcl.type.class.deduct": 3.9517701817485507,
+        "dcl.type.decltype": 0.0,
+        "dcl.type.elab": 13.279906526212681,
+        "dcl.type.simple": 11.21372612084021
+    }
+}

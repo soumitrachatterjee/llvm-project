@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/llvm/lib/Target/ARC/TargetInfo",
+    "score.sum": 3.4087771647333725e-05,
+    "sha.latest": "b3a6d096d7c369f5290172c126bd699716bb383c",
+    "time.latest": 1717850662.154892,
+    "formatted_time": "2024-06-08 07:44:22.154896",
+    "filescores": {
+        "ARCTargetInfo.cpp": 58.39619582821184,
+        "ARCTargetInfo.h": 0.0,
+        "CMakeLists.txt": 41.60380417178817
+    },
+    "subdirscores": {}
+}

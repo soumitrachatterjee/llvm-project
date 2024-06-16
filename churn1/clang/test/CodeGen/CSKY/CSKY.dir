@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/clang/test/CodeGen/CSKY",
+    "score.sum": 2.2310307439748052e-05,
+    "sha.latest": "158d72d728261c1e54dc77931372b2322c52849f",
+    "time.latest": 1717894930.5719416,
+    "formatted_time": "2024-06-09 06:32:10.571944",
+    "filescores": {
+        "csky-abi.c": 33.33333333333333,
+        "csky-hard-abi.c": 33.33333333333333,
+        "csky-soft-abi.c": 33.33333333333333
+    },
+    "subdirscores": {}
+}

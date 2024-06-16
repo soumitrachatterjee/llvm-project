@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/mlir/utils/mbr/mbr",
+    "score.sum": 2.652773155747102e-05,
+    "sha.latest": "f9008e6366c2496b1ca1785b891d5578174ad63e",
+    "time.latest": 1717836995.2867322,
+    "formatted_time": "2024-06-08 03:56:35.286736",
+    "filescores": {
+        "__init__.py": 22.993304405379376,
+        "config.ini": 0.0,
+        "discovery.py": 22.993304405379376,
+        "main.py": 31.02008678386187,
+        "stats.py": 22.993304405379376
+    },
+    "subdirscores": {}
+}

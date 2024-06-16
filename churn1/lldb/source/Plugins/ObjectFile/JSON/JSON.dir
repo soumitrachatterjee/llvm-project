@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/source/Plugins/ObjectFile/JSON",
+    "score.sum": 1.2199204137702398e-05,
+    "sha.latest": "0e5cdbf07e6d45ca168a76b2bc19b6e385cfae17",
+    "time.latest": 1717872150.6618078,
+    "formatted_time": "2024-06-09 00:12:30.661811",
+    "filescores": {
+        "CMakeLists.txt": 0.0,
+        "ObjectFileJSON.cpp": 50.0,
+        "ObjectFileJSON.h": 50.0
+    },
+    "subdirscores": {}
+}

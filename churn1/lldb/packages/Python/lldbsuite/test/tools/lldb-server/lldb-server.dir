@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/packages/Python/lldbsuite/test/tools/lldb-server",
+    "score.sum": 0.0003253123608385867,
+    "sha.latest": "5953532615595918d006ace2ad83fe33d1cd3915",
+    "time.latest": 1717861564.8249567,
+    "formatted_time": "2024-06-08 21:16:04.824961",
+    "filescores": {
+        "fork_testbase.py": 1.8796093561764247,
+        "gdbremote_testcase.py": 67.12506338227733,
+        "lldbgdbserverutils.py": 30.99532726154623
+    },
+    "subdirscores": {}
+}

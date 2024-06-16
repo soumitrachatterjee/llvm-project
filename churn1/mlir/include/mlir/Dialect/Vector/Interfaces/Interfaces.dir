@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/mlir/include/mlir/Dialect/Vector/Interfaces",
+    "score.sum": 1.7220302085032256e-05,
+    "sha.latest": "72fd36448d7c97c9dab094d6deda401d97baf0ef",
+    "time.latest": 1717798235.4713387,
+    "formatted_time": "2024-06-07 17:10:35.471342",
+    "filescores": {
+        "CMakeLists.txt": 35.42099342236814,
+        "MaskableOpInterface.h": 0.0,
+        "MaskableOpInterface.td": 64.57900657763184,
+        "MaskingOpInterface.h": 0.0,
+        "MaskingOpInterface.td": 0.0
+    },
+    "subdirscores": {}
+}

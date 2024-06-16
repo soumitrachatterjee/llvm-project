@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/lang/objc/objc-dynamic-value",
+    "score.sum": 1.932231198350135e-05,
+    "sha.latest": "80fcecb13c388ff087a27a4b0e7ca3dd8c98eaa4",
+    "time.latest": 1717958713.0115938,
+    "formatted_time": "2024-06-10 00:15:13.011597",
+    "filescores": {
+        "dynamic-value.m": 0.0,
+        "Makefile": 0.0,
+        "TestObjCDynamicValue.py": 100.0
+    },
+    "subdirscores": {}
+}

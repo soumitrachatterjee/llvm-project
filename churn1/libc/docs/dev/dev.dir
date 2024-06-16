@@ -1,0 +1,25 @@
+{
+    "directory name": "llvm-project/libc/docs/dev",
+    "score.sum": 0.0001534850761158407,
+    "sha.latest": "75fb825bccaa1e0f1ca9f76f9c72434a26d9966a",
+    "time.latest": 1717825467.3470337,
+    "formatted_time": "2024-06-08 00:44:27.347037",
+    "filescores": {
+        "api_test.rst": 4.7584234579616655,
+        "clang_tidy_checks.rst": 10.005485919811488,
+        "cmake_build_rules.rst": 3.9740685043851496,
+        "code_style.rst": 29.520650097711034,
+        "config_options.rst": 3.9740685043851496,
+        "entrypoints.rst": 0.0,
+        "fuzzing.rst": 0.0,
+        "ground_truth_specification.rst": 0.0,
+        "header_generation.rst": 3.9740685043851496,
+        "implementation_standard.rst": 7.971944927843904,
+        "index.rst": 9.962961380285813,
+        "mechanics_of_public_api.rst": 3.9740685043851496,
+        "printf_behavior.rst": 11.256785830644848,
+        "source_tree_layout.rst": 3.9740685043851496,
+        "undefined_behavior.rst": 6.653405863815479
+    },
+    "subdirscores": {}
+}

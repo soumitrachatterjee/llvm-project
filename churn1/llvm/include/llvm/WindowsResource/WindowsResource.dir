@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/llvm/include/llvm/WindowsResource",
+    "score.sum": 1.8298806206553597e-05,
+    "sha.latest": "2946cd701067404b99c39fb29dc9c74bd7193eb3",
+    "time.latest": 1717826607.6225235,
+    "formatted_time": "2024-06-08 01:03:27.622527",
+    "filescores": {
+        "ResourceProcessor.h": 33.33333333333333,
+        "ResourceScriptToken.h": 33.33333333333333,
+        "ResourceScriptTokenList.h": 33.33333333333333
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/llvm/utils/gn/secondary/clang/tools/clang-repl",
+    "score.sum": 1.1459073857569922e-05,
+    "sha.latest": "a5e7d166be7f169b3515beb8508d5e1713551847",
+    "time.latest": 1718084943.2585404,
+    "formatted_time": "2024-06-11 00:49:03.258544",
+    "filescores": {
+        "BUILD.gn": 100.0
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/llvm/tools/gold",
+    "score.sum": 0.0011613379336820912,
+    "sha.latest": "a3319371970b599ef65ef1567c440fbdc3a330f4",
+    "time.latest": 1718077995.2400265,
+    "formatted_time": "2024-06-10 22:53:15.240030",
+    "filescores": {
+        "CMakeLists.txt": 2.9893913178799285,
+        "README.txt": 0.6899655907800626,
+        "gold-plugin.cpp": 96.32064309134,
+        "gold.exports": 0.0
+    },
+    "subdirscores": {}
+}

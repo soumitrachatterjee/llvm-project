@@ -1,0 +1,25 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/iterators/predef.iterators/iterators.common",
+    "score.sum": 0.0001613325571220524,
+    "sha.latest": "430b397f6715d4d2f2569716c93fcd6292ace3dc",
+    "time.latest": 1717918486.0367868,
+    "formatted_time": "2024-06-09 13:04:46.036794",
+    "filescores": {
+        "arrow.pass.cpp": 11.509711516267817,
+        "assign.pass.cpp": 7.630143102729356,
+        "constraints.compile.pass.cpp": 3.780763274108825,
+        "ctor.converting.pass.cpp": 4.319376207333553,
+        "ctor.default.pass.cpp": 3.780763274108825,
+        "ctor.iter.pass.cpp": 3.780763274108825,
+        "ctor.sentinel.pass.cpp": 3.780763274108825,
+        "deref.pass.cpp": 4.150676925224148,
+        "eq.pass.cpp": 4.150676925224148,
+        "iterator_traits.compile.pass.cpp": 14.127728123797855,
+        "iter_move.pass.cpp": 7.164136170317074,
+        "iter_swap.pass.cpp": 7.164136170317074,
+        "minus.pass.cpp": 4.150676925224148,
+        "plus_plus.pass.cpp": 10.392117130028907,
+        "types.h": 10.117567707100605
+    },
+    "subdirscores": {}
+}

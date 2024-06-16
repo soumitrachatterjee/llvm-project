@@ -1,0 +1,17 @@
+{
+    "directory name": "llvm-project/llvm/lib/ObjCopy/wasm",
+    "score.sum": 3.79677899401409e-05,
+    "sha.latest": "586ecdf205aa8b3d162da6f955170a6736656615",
+    "time.latest": 1717841272.9599211,
+    "formatted_time": "2024-06-08 05:07:52.959925",
+    "filescores": {
+        "WasmObjcopy.cpp": 45.37786682432642,
+        "WasmObject.cpp": 0.0,
+        "WasmObject.h": 16.06520178937906,
+        "WasmReader.cpp": 22.49172959691546,
+        "WasmReader.h": 0.0,
+        "WasmWriter.cpp": 16.06520178937906,
+        "WasmWriter.h": 0.0
+    },
+    "subdirscores": {}
+}

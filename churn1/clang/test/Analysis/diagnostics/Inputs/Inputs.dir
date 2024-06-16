@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/clang/test/Analysis/diagnostics/Inputs",
+    "score.sum": 5.304480770246126e-05,
+    "sha.latest": "7b6fe711b210a90cbb8facfe5343a0f999de5a0c",
+    "time.latest": 1717829483.8830462,
+    "formatted_time": "2024-06-08 12:21:23.883049",
+    "filescores": {},
+    "subdirscores": {
+        "expected-plists": 38.20475652853619,
+        "expected-sarif": 47.23317107862907,
+        "include": 14.562072392834738
+    }
+}

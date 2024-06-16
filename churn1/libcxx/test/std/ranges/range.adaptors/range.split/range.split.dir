@@ -1,0 +1,24 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/ranges/range.adaptors/range.split",
+    "score.sum": 3.685690309435217e-05,
+    "sha.latest": "ba2236d3000645d3127f972aa7ac1844c47e299c",
+    "time.latest": 1717962956.1351385,
+    "formatted_time": "2024-06-10 01:25:56.135141",
+    "filescores": {
+        "adaptor.pass.cpp": 29.61448153108619,
+        "base.pass.cpp": 0.0,
+        "begin.pass.cpp": 0.0,
+        "constraints.compile.pass.cpp": 0.0,
+        "ctad.compile.pass.cpp": 0.0,
+        "ctor.default.pass.cpp": 0.0,
+        "ctor.range.pass.cpp": 16.549415595869426,
+        "ctor.view.pass.cpp": 20.737271681305526,
+        "end.pass.cpp": 0.0,
+        "general.pass.cpp": 16.549415595869426,
+        "types.h": 16.549415595869426
+    },
+    "subdirscores": {
+        "iterator": 0.0,
+        "sentinel": 0.0
+    }
+}

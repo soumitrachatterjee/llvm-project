@@ -1,0 +1,25 @@
+{
+    "directory name": "llvm-project/llvm/lib/Target/VE/MCTargetDesc",
+    "score.sum": 0.0002409253754805952,
+    "sha.latest": "e87f33d9ce785668223c3bcc4e06956985cccda1",
+    "time.latest": 1717868576.4151564,
+    "formatted_time": "2024-06-08 12:42:56.415159",
+    "filescores": {
+        "CMakeLists.txt": 10.943440449687799,
+        "VEAsmBackend.cpp": 7.976071423737217,
+        "VEELFObjectWriter.cpp": 7.46405956590931,
+        "VEFixupKinds.h": 5.44223004350107,
+        "VEInstPrinter.cpp": 6.528538309712715,
+        "VEInstPrinter.h": 3.853208413579284,
+        "VEMCAsmInfo.cpp": 4.229355657455794,
+        "VEMCAsmInfo.h": 0.0,
+        "VEMCCodeEmitter.cpp": 13.236611149475538,
+        "VEMCExpr.cpp": 5.681852175998374,
+        "VEMCExpr.h": 2.927040526630002,
+        "VEMCTargetDesc.cpp": 12.426898166573462,
+        "VEMCTargetDesc.h": 12.403088455342214,
+        "VETargetStreamer.cpp": 3.5516312044612066,
+        "VETargetStreamer.h": 3.3359744579360093
+    },
+    "subdirscores": {}
+}

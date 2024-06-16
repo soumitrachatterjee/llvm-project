@@ -1,0 +1,24 @@
+{
+    "directory name": "llvm-project/llvm/include/llvm/MCA",
+    "score.sum": 0.0005203272637429921,
+    "sha.latest": "85e3875ad7461fa8320db6895e0189cffb91ae7d",
+    "time.latest": 1717819241.5948648,
+    "formatted_time": "2024-06-07 23:00:41.594868",
+    "filescores": {
+        "CodeEmitter.h": 1.9232807811476456,
+        "Context.h": 5.126755069955889,
+        "CustomBehaviour.h": 7.610535870774336,
+        "HWEventListener.h": 11.490867408187018,
+        "IncrementalSourceMgr.h": 1.172262630440216,
+        "InstrBuilder.h": 7.960412589792683,
+        "Instruction.h": 16.794558428505628,
+        "Pipeline.h": 2.4606421840583366,
+        "SourceMgr.h": 1.4168346716069886,
+        "Support.h": 7.63078778911797,
+        "View.h": 0.0
+    },
+    "subdirscores": {
+        "HardwareUnits": 21.75885656964043,
+        "Stages": 14.65420600677288
+    }
+}

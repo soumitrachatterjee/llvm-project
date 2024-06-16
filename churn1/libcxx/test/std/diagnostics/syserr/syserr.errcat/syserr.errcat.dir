@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/diagnostics/syserr/syserr.errcat",
+    "score.sum": 0.00016278031152844896,
+    "sha.latest": "f1d3ebc9918aa6d1d04cda98da1ecef2dd51978c",
+    "time.latest": 1717898023.039572,
+    "formatted_time": "2024-06-09 07:23:43.039573",
+    "filescores": {},
+    "subdirscores": {
+        "syserr.errcat.derived": 8.962958329971569,
+        "syserr.errcat.nonvirtuals": 13.980791092171438,
+        "syserr.errcat.objects": 55.23240643663482,
+        "syserr.errcat.overview": 11.155308443523166,
+        "syserr.errcat.virtuals": 10.668535697699006
+    }
+}

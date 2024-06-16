@@ -1,0 +1,16 @@
+{
+    "directory name": "llvm-project/lldb/test/Shell/Process",
+    "score.sum": 5.092580933529292e-05,
+    "sha.latest": "428775d5186fb075e76563c5ebab8607c3620a13",
+    "time.latest": 1717976508.508138,
+    "formatted_time": "2024-06-10 05:11:48.508141",
+    "filescores": {
+        "Optimization.test": 11.977600979811518,
+        "TestEnvironment.test": 14.46660199641844,
+        "UnsupportedLanguage.test": 18.12622901439635
+    },
+    "subdirscores": {
+        "Inputs": 24.462721619631953,
+        "Windows": 30.966846389741743
+    }
+}

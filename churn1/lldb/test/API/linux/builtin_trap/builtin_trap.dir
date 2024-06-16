@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/linux/builtin_trap",
+    "score.sum": 2.5257025978558032e-05,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717961347.9826283,
+    "formatted_time": "2024-06-10 00:59:07.982633",
+    "filescores": {
+        "main.cpp": 24.150119946938567,
+        "Makefile": 0.0,
+        "TestBuiltinTrap.py": 75.84988005306144
+    },
+    "subdirscores": {}
+}

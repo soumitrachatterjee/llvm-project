@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/clang/test/CXX/conv/conv.qual",
+    "score.sum": 6.099602068851199e-06,
+    "sha.latest": "c6e68daac0fa6e77a89f3ca72f266a528503dd1c",
+    "time.latest": 1718084431.8600116,
+    "formatted_time": "2024-06-11 11:10:31.860014",
+    "filescores": {
+        "pr6089.cpp": 100.0
+    },
+    "subdirscores": {}
+}

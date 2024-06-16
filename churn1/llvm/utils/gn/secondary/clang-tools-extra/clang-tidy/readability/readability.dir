@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/llvm/utils/gn/secondary/clang-tools-extra/clang-tidy/readability",
+    "score.sum": 7.828211521115651e-05,
+    "sha.latest": "e96ba2509d5a1a3ba4ebba806828fc62cd2c34de",
+    "time.latest": 1718082142.7538545,
+    "formatted_time": "2024-06-11 00:02:22.753858",
+    "filescores": {
+        "BUILD.gn": 100.0
+    },
+    "subdirscores": {}
+}

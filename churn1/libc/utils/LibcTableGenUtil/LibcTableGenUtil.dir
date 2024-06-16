@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/libc/utils/LibcTableGenUtil",
+    "score.sum": 6.941621349711583e-05,
+    "sha.latest": "467077796a26845bfdf0b3810dd8eb35f15a6ae3",
+    "time.latest": 1717851890.6148126,
+    "formatted_time": "2024-06-08 08:04:50.614816",
+    "filescores": {
+        "APIIndexer.cpp": 23.17367066263043,
+        "APIIndexer.h": 29.074623164674414,
+        "CMakeLists.txt": 47.75170617269516
+    },
+    "subdirscores": {}
+}

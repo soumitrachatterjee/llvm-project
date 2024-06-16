@@ -1,0 +1,32 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/containers",
+    "score.sum": 0.0034382090685960163,
+    "sha.latest": "1c7607e8ee6ec4ca3abce1561dd39a98d4efac96",
+    "time.latest": 1717894854.4624715,
+    "formatted_time": "2024-06-09 06:30:54.462473",
+    "filescores": {
+        "check_consecutive.h": 0.34009548701326425,
+        "Copyable.h": 0.2917656074453112,
+        "Emplaceable.h": 0.5417702779765123,
+        "exception_safety_helpers.h": 0.0,
+        "from_range_helpers.h": 0.23173791258215706,
+        "insert_range_helpers.h": 0.17740637486428235,
+        "insert_range_maps_sets.h": 0.0,
+        "iterator.rel_ops.compile.pass.cpp": 0.41094161648256944,
+        "map_allocator_requirement_test_templates.h": 0.8073988956708359,
+        "NotConstructible.h": 0.3668215113515173,
+        "set_allocator_requirement_test_templates.h": 0.7654922020038198,
+        "test_compare.h": 0.6360851116110873,
+        "test_hash.h": 0.46240614133849467
+    },
+    "subdirscores": {
+        "associative": 17.030401721197848,
+        "container.adaptors": 7.889264266665514,
+        "container.node": 0.4707656299482232,
+        "container.requirements": 0.8441992141924617,
+        "containers.general": 0.3528832406260562,
+        "sequences": 38.4801390117385,
+        "unord": 15.789831891586454,
+        "views": 14.110593885705084
+    }
+}

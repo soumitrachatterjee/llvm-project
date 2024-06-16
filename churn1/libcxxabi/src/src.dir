@@ -1,0 +1,39 @@
+{
+    "directory name": "llvm-project/libcxxabi/src",
+    "score.sum": 0.0028559924914175294,
+    "sha.latest": "b8c6252bc19e05fc968c6504b69f5fed208f32d4",
+    "time.latest": 1717823042.6699357,
+    "formatted_time": "2024-06-08 10:34:02.669939",
+    "filescores": {
+        "abort_message.cpp": 1.4318171171270493,
+        "abort_message.h": 0.7994166780024674,
+        "aix_state_tab_eh.inc": 0.4969098134959744,
+        "CMakeLists.txt": 15.133942800372683,
+        "cxa_aux_runtime.cpp": 1.1492998101933014,
+        "cxa_default_handlers.cpp": 4.192301729234612,
+        "cxa_demangle.cpp": 13.51674296357371,
+        "cxa_exception.cpp": 7.770332442735745,
+        "cxa_exception.h": 0.7670337172168259,
+        "cxa_exception_storage.cpp": 3.627700430005798,
+        "cxa_guard.cpp": 2.8780329540116063,
+        "cxa_guard_impl.h": 3.101893768759736,
+        "cxa_handlers.cpp": 2.582486828349752,
+        "cxa_handlers.h": 0.5849188933686594,
+        "cxa_noexception.cpp": 0.8498866098717108,
+        "cxa_personality.cpp": 5.426914514855982,
+        "cxa_thread_atexit.cpp": 2.049104250907755,
+        "cxa_vector.cpp": 1.701073569756651,
+        "cxa_virtual.cpp": 0.6758705478787315,
+        "fallback_malloc.cpp": 5.003326807594263,
+        "fallback_malloc.h": 0.8196825816795742,
+        "private_typeinfo.cpp": 4.64434693875968,
+        "private_typeinfo.h": 1.3238329425341568,
+        "stdlib_exception.cpp": 0.8421504158993781,
+        "stdlib_new_delete.cpp": 2.549467342423656,
+        "stdlib_stdexcept.cpp": 1.076794134332674,
+        "stdlib_typeinfo.cpp": 0.48949004485657627
+    },
+    "subdirscores": {
+        "demangle": 14.515229352201276
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/llvm/lib/Target/MSP430/Disassembler",
+    "score.sum": 4.3888130084331244e-05,
+    "sha.latest": "a33ae9ac3593d999e16eacc8aa22e8bd8e220409",
+    "time.latest": 1717859572.3463278,
+    "formatted_time": "2024-06-08 10:12:52.346332",
+    "filescores": {
+        "CMakeLists.txt": 24.330546243234032,
+        "MSP430Disassembler.cpp": 75.66945375676598
+    },
+    "subdirscores": {}
+}

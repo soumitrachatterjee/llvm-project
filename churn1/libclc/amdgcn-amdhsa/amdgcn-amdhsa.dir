@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/libclc/amdgcn-amdhsa",
+    "score.sum": 2.4111204616111665e-05,
+    "sha.latest": "3d21fa56f5f5afbbf16b35b199480af71e1189a3",
+    "time.latest": 1717822213.7224898,
+    "formatted_time": "2024-06-07 23:50:13.722490",
+    "filescores": {},
+    "subdirscores": {
+        "lib": 100.0
+    }
+}

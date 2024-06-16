@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/clang/tools/clang-format-vs/ClangFormat/Resources",
+    "score.sum": 1.829052524057714e-05,
+    "sha.latest": "c51098d4aafd9b3de5f599824fa68a031ea4e686",
+    "time.latest": 1718081678.0789473,
+    "formatted_time": "2024-06-11 10:24:38.078951",
+    "filescores": {
+        "Images_32bit.bmp": 0.0,
+        "Package.ico": 100.0
+    },
+    "subdirscores": {}
+}

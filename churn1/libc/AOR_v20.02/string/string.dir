@@ -1,0 +1,18 @@
+{
+    "directory name": "llvm-project/libc/AOR_v20.02/string",
+    "score.sum": 1.2286091086581417e-05,
+    "sha.latest": "69c0b2febe01108f50db6e8ed21cd8b2e6088caf",
+    "time.latest": 1717823974.3758235,
+    "formatted_time": "2024-06-08 00:19:34.375825",
+    "filescores": {
+        "Dir.mk": 0.0,
+        "asmdefs.h": 0.0
+    },
+    "subdirscores": {
+        "aarch64": 49.64640116914844,
+        "arm": 50.35359883085157,
+        "include": 0.0,
+        "test": 0.0,
+        "x86_64": 0.0
+    }
+}

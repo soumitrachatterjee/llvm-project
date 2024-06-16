@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/mlir/test/mlir-pdll-lsp-server/include",
+    "score.sum": 6.099602068851199e-06,
+    "sha.latest": "0429472efe6a894a6554d75fd77baeb9cdb32dd5",
+    "time.latest": 1717832958.054092,
+    "formatted_time": "2024-06-08 02:49:18.054095",
+    "filescores": {
+        "included.pdll": 0.0,
+        "included.td": 100.0
+    },
+    "subdirscores": {}
+}

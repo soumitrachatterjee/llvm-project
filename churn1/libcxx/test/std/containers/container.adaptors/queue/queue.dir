@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/containers/container.adaptors/queue",
+    "score.sum": 0.0002561392668416899,
+    "sha.latest": "b82dcb624e6bfa58ed566511cb564f8f201fa62e",
+    "time.latest": 1717882056.6016738,
+    "formatted_time": "2024-06-09 02:57:36.601675",
+    "filescores": {},
+    "subdirscores": {
+        "queue.cons": 34.760517584317505,
+        "queue.cons.alloc": 14.974727538129496,
+        "queue.defn": 32.65436017830517,
+        "queue.ops": 8.310866569444851,
+        "queue.special": 9.299528129802981
+    }
+}

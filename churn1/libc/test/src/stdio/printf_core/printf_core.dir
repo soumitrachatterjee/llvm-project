@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/libc/test/src/stdio/printf_core",
+    "score.sum": 7.64163276383634e-05,
+    "sha.latest": "e28ca2dd46c137fd33dd327aed1afb1e66a32908",
+    "time.latest": 1717849833.3669088,
+    "formatted_time": "2024-06-08 07:30:33.366912",
+    "filescores": {
+        "CMakeLists.txt": 12.994037133614686,
+        "converter_test.cpp": 27.02556754620218,
+        "parser_test.cpp": 51.99832884648753,
+        "writer_test.cpp": 7.982066473695612
+    },
+    "subdirscores": {}
+}

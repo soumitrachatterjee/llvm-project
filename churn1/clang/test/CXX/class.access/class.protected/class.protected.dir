@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/clang/test/CXX/class.access/class.protected",
+    "score.sum": 3.465602776845582e-05,
+    "sha.latest": "0f1c1be1968076d6f96f8a7bcc4a15cf195ecd97",
+    "time.latest": 1718083653.3541806,
+    "formatted_time": "2024-06-11 10:57:33.354182",
+    "filescores": {
+        "p1-cxx11.cpp": 17.600407379645233,
+        "p1.cpp": 82.39959262035477
+    },
+    "subdirscores": {}
+}

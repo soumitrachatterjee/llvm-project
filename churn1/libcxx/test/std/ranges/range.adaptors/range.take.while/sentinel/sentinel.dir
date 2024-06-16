@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/ranges/range.adaptors/range.take.while/sentinel",
+    "score.sum": 6.099602068851199e-06,
+    "sha.latest": "d59a43fe2ad81f5c3918c9ef79a986955256f7ea",
+    "time.latest": 1717963338.8748298,
+    "formatted_time": "2024-06-10 01:32:18.874832",
+    "filescores": {
+        "ctor.base.pass.cpp": 0.0,
+        "ctor.convert.pass.cpp": 0.0,
+        "ctor.default.pass.cpp": 0.0,
+        "equality.pass.cpp": 100.0
+    },
+    "subdirscores": {}
+}

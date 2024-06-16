@@ -1,0 +1,37 @@
+{
+    "directory name": "llvm-project/lldb/test/API/tools/lldb-dap",
+    "score.sum": 0.00019838988539028365,
+    "sha.latest": "82c1bfc44ecee97425582f345d04e787f066b899",
+    "time.latest": 1717969734.5686698,
+    "formatted_time": "2024-06-10 03:18:54.568671",
+    "filescores": {
+        "categories": 0.0
+    },
+    "subdirscores": {
+        "attach": 3.0745529475213527,
+        "breakpoint": 6.64440771222775,
+        "breakpoint-events": 0.0,
+        "commands": 5.65876172909042,
+        "completions": 3.0745529475213527,
+        "console": 3.0745529475213527,
+        "coreFile": 6.036393314966315,
+        "databreakpoint": 5.202805588633566,
+        "disassemble": 3.0745529475213527,
+        "disconnect": 0.0,
+        "evaluate": 7.544159806042865,
+        "exception": 0.0,
+        "launch": 8.719791582154864,
+        "module": 3.0745529475213527,
+        "optimized": 6.148408610015808,
+        "restart": 3.0745529475213527,
+        "runInTerminal": 3.0745529475213527,
+        "stackTrace": 6.660429350722047,
+        "stackTraceMissingFunctionName": 3.0745529475213527,
+        "startDebugging": 0.0,
+        "step": 0.0,
+        "stop-hooks": 0.0,
+        "terminated-event": 6.036393314966315,
+        "threads": 3.0745529475213527,
+        "variables": 13.677472463487872
+    }
+}

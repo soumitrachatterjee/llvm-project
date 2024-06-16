@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/concepts/concepts.callable/concept.relation",
+    "score.sum": 1.3934411928893703e-05,
+    "sha.latest": "6cb3fdc278b95204baf60587fe2c25ff65f4e612",
+    "time.latest": 1717874833.5322464,
+    "formatted_time": "2024-06-09 00:57:13.532250",
+    "filescores": {
+        "relation.compile.pass.cpp": 43.77365977105476,
+        "relation.subsumption.compile.pass.cpp": 56.22634022894524
+    },
+    "subdirscores": {}
+}

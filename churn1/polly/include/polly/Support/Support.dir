@@ -1,0 +1,21 @@
+{
+    "directory name": "llvm-project/polly/include/polly/Support",
+    "score.sum": 0.0006263841468250502,
+    "sha.latest": "81e149aab9b3676b16728e883e2f21ee938cff93",
+    "time.latest": 1717793485.6275907,
+    "formatted_time": "2024-06-07 15:51:25.627594",
+    "filescores": {
+        "DumpFunctionPass.h": 1.5674708245469162,
+        "DumpModulePass.h": 2.1099043081787947,
+        "GICHelper.h": 23.79024502444807,
+        "ISLOStream.h": 1.5973413118485724,
+        "ISLOperators.h": 1.2850545647890195,
+        "ISLTools.h": 10.427218311913274,
+        "SCEVAffinator.h": 7.5568746408090925,
+        "SCEVValidator.h": 14.26587864529326,
+        "ScopHelper.h": 31.669137509607076,
+        "ScopLocation.h": 1.6236779369752017,
+        "VirtualInstruction.h": 4.1071969215907345
+    },
+    "subdirscores": {}
+}

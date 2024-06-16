@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/utilities/variant/variant.variant/variant.mod",
+    "score.sum": 0.00020452981862787844,
+    "sha.latest": "ec350ad418a24f70c88758259c774a1e11c06d74",
+    "time.latest": 1718009609.0339131,
+    "formatted_time": "2024-06-10 14:23:29.033915",
+    "filescores": {
+        "emplace_index_args.pass.cpp": 27.605762689883367,
+        "emplace_index_init_list_args.pass.cpp": 25.11148009675447,
+        "emplace_type_args.pass.cpp": 24.88851990324553,
+        "emplace_type_init_list_args.pass.cpp": 22.394237310116637
+    },
+    "subdirscores": {}
+}

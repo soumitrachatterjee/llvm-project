@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/mlir/include/mlir/Tools/PDLL/ODS",
+    "score.sum": 4.6353685834841834e-05,
+    "sha.latest": "db3013d684ddff31a7ee97b2ba499eac29ac8704",
+    "time.latest": 1717800673.3152921,
+    "formatted_time": "2024-06-07 17:51:13.315295",
+    "filescores": {
+        "Constraint.h": 13.158828600133502,
+        "Context.h": 28.686335671656966,
+        "Dialect.h": 26.31765546986472,
+        "Operation.h": 31.837180258344816
+    },
+    "subdirscores": {}
+}

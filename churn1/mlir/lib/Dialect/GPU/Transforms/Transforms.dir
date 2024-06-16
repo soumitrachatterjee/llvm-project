@@ -1,0 +1,28 @@
+{
+    "directory name": "llvm-project/mlir/lib/Dialect/GPU/Transforms",
+    "score.sum": 0.0007656696782964217,
+    "sha.latest": "886ecb3078e5f3a5cffc70408a637242c223c363",
+    "time.latest": 1717806384.4800851,
+    "formatted_time": "2024-06-07 19:26:24.480089",
+    "filescores": {
+        "AllReduceLowering.cpp": 14.994411197354541,
+        "AsyncRegionRewriter.cpp": 12.148708170417027,
+        "BufferDeallocationOpInterfaceImpl.cpp": 0.0,
+        "DecomposeMemrefs.cpp": 0.8009035632040254,
+        "EliminateBarriers.cpp": 0.0,
+        "GlobalIdRewriter.cpp": 0.0,
+        "KernelOutlining.cpp": 24.103479775455856,
+        "MemoryPromotion.cpp": 9.916795941427234,
+        "ModuleToBinary.cpp": 3.3696297151889634,
+        "NVVMAttachTarget.cpp": 1.557589677708595,
+        "ParallelLoopMapper.cpp": 5.728483778166013,
+        "ROCDLAttachTarget.cpp": 1.482747370692045,
+        "SPIRVAttachTarget.cpp": 0.8047016656944159,
+        "SerializeToBlob.cpp": 8.25111624581993,
+        "SerializeToHsaco.cpp": 16.044796667641396,
+        "ShuffleRewriter.cpp": 0.0,
+        "SubgroupReduceLowering.cpp": 0.7966362312299633,
+        "Utils.cpp": 0.0
+    },
+    "subdirscores": {}
+}

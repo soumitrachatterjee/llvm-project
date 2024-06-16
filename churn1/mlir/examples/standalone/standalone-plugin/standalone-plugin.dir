@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/mlir/examples/standalone/standalone-plugin",
+    "score.sum": 1.2836002189209397e-05,
+    "sha.latest": "d8214f5143f69c72e3faa75fd2c1f25c14b430df",
+    "time.latest": 1717789064.7845721,
+    "formatted_time": "2024-06-07 14:37:44.784575",
+    "filescores": {
+        "CMakeLists.txt": 52.20976764424854,
+        "standalone-plugin.cpp": 47.79023235575146
+    },
+    "subdirscores": {}
+}

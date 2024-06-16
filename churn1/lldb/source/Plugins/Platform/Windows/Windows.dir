@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/source/Plugins/Platform/Windows",
+    "score.sum": 0.0004007068338956015,
+    "sha.latest": "3125bd4bc7367a05ddf5477793a1ee51cecc3046",
+    "time.latest": 1717873889.6021056,
+    "formatted_time": "2024-06-09 00:41:29.602109",
+    "filescores": {
+        "CMakeLists.txt": 6.919541374891012,
+        "PlatformWindows.cpp": 63.775509908939185,
+        "PlatformWindows.h": 29.304948716169804
+    },
+    "subdirscores": {}
+}

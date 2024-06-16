@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/lldb/unittests/UnwindAssembly/PPC64",
+    "score.sum": 4.5524216900263334e-05,
+    "sha.latest": "478c9cc4f5e06072d533c6b72aaa173654bee02d",
+    "time.latest": 1717999000.0390942,
+    "formatted_time": "2024-06-10 11:26:40.039096",
+    "filescores": {
+        "CMakeLists.txt": 66.97631672427767,
+        "TestPPC64InstEmulation.cpp": 33.023683275722334
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/lang/cpp/bool",
+    "score.sum": 1.6599296524835022e-05,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717928736.9532437,
+    "formatted_time": "2024-06-09 15:55:36.953246",
+    "filescores": {
+        "main.cpp": 36.74614800528013,
+        "Makefile": 0.0,
+        "TestCPPBool.py": 63.25385199471988
+    },
+    "subdirscores": {}
+}

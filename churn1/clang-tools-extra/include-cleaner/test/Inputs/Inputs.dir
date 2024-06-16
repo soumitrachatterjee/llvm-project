@@ -1,0 +1,16 @@
+{
+    "directory name": "llvm-project/clang-tools-extra/include-cleaner/test/Inputs",
+    "score.sum": 6.099602068851199e-06,
+    "sha.latest": "a171d248ca34b8b6f8de11d42a83ad981285963a",
+    "time.latest": 1717813642.7060218,
+    "formatted_time": "2024-06-08 07:57:22.706026",
+    "filescores": {
+        "bar.h": 0.0,
+        "foo.h": 0.0,
+        "foo2.h": 0.0,
+        "foobar.h": 0.0
+    },
+    "subdirscores": {
+        "modules": 100.0
+    }
+}

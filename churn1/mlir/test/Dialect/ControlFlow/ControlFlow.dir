@@ -1,0 +1,16 @@
+{
+    "directory name": "llvm-project/mlir/test/Dialect/ControlFlow",
+    "score.sum": 7.469606224205772e-05,
+    "sha.latest": "6bf043e7433680c6f4e36393734ef83699b30f14",
+    "time.latest": 1717818724.959658,
+    "formatted_time": "2024-06-07 22:52:04.959662",
+    "filescores": {
+        "canonicalize.mlir": 17.551374485951214,
+        "invalid.mlir": 14.622711991885733,
+        "one-shot-bufferize-analysis.mlir": 19.886672815271154,
+        "one-shot-bufferize-invalid.mlir": 19.886672815271154,
+        "one-shot-bufferize.mlir": 19.886672815271154,
+        "ops.mlir": 8.165895076349566
+    },
+    "subdirscores": {}
+}

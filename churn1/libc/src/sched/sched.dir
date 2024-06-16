@@ -1,0 +1,24 @@
+{
+    "directory name": "llvm-project/libc/src/sched",
+    "score.sum": 0.00013373958068537426,
+    "sha.latest": "128d53f44cae211ad5501733ec1d9bc787b6f7a9",
+    "time.latest": 1717836061.9011564,
+    "formatted_time": "2024-06-08 03:41:01.901160",
+    "filescores": {
+        "CMakeLists.txt": 9.192321517939165,
+        "sched_get_priority_max.h": 4.5608054381452465,
+        "sched_get_priority_min.h": 4.5608054381452465,
+        "sched_getaffinity.h": 9.05827279256439,
+        "sched_getcpucount.h": 9.057370680253758,
+        "sched_getparam.h": 4.5608054381452465,
+        "sched_getscheduler.h": 4.5608054381452465,
+        "sched_rr_get_interval.h": 4.5608054381452465,
+        "sched_setaffinity.h": 9.05827279256439,
+        "sched_setparam.h": 4.5608054381452465,
+        "sched_setscheduler.h": 4.5608054381452465,
+        "sched_yield.h": 4.5608054381452465
+    },
+    "subdirscores": {
+        "linux": 27.14731871151631
+    }
+}

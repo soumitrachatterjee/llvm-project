@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/containers/associative/multimap/multimap.special",
+    "score.sum": 7.037063181912663e-05,
+    "sha.latest": "5cc55fdb57c989b0987faaae7b667cd3459abae1",
+    "time.latest": 1717878870.1576436,
+    "formatted_time": "2024-06-09 02:04:30.157644",
+    "filescores": {
+        "member_swap.pass.cpp": 27.857045949312955,
+        "non_member_swap.pass.cpp": 35.185970710121175,
+        "swap_noexcept.pass.cpp": 36.95698334056588
+    },
+    "subdirscores": {}
+}

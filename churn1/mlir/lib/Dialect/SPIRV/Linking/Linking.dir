@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/mlir/lib/Dialect/SPIRV/Linking",
+    "score.sum": 4.971475548705666e-05,
+    "sha.latest": "4f4cd963a6e820b50514706a1a3faed3a05779a2",
+    "time.latest": 1717808674.9581544,
+    "formatted_time": "2024-06-07 20:04:34.958155",
+    "filescores": {
+        "CMakeLists.txt": 35.49132230311007
+    },
+    "subdirscores": {
+        "ModuleCombiner": 64.50867769688993
+    }
+}

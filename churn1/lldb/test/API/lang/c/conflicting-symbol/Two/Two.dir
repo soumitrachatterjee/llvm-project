@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/lang/c/conflicting-symbol/Two",
+    "score.sum": 6.099602068851199e-06,
+    "sha.latest": "10df88de21772ff40818bec7eef6b099ba4279fb",
+    "time.latest": 1717925287.435569,
+    "formatted_time": "2024-06-09 14:58:07.435572",
+    "filescores": {
+        "Two.c": 100.0,
+        "Two.h": 0.0,
+        "TwoConstant.c": 0.0
+    },
+    "subdirscores": {}
+}

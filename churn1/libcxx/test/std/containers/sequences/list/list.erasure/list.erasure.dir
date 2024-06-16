@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/containers/sequences/list/list.erasure",
+    "score.sum": 2.3492515810581955e-05,
+    "sha.latest": "fb855eb941b6d740cc6560297d0b4d3201dcaf9f",
+    "time.latest": 1717886090.3557305,
+    "formatted_time": "2024-06-09 04:04:50.355732",
+    "filescores": {
+        "erase.pass.cpp": 50.0,
+        "erase_if.pass.cpp": 50.0
+    },
+    "subdirscores": {}
+}

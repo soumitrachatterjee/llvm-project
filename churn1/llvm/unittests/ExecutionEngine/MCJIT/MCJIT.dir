@@ -1,0 +1,19 @@
+{
+    "directory name": "llvm-project/llvm/unittests/ExecutionEngine/MCJIT",
+    "score.sum": 0.00035950961063747807,
+    "sha.latest": "5c9d82de6b72cc0c037daecce452c450870f0034",
+    "time.latest": 1718080822.120811,
+    "formatted_time": "2024-06-10 23:40:22.120814",
+    "filescores": {
+        "CMakeLists.txt": 9.632461673181798,
+        "MCJITCAPITest.cpp": 22.514310131587848,
+        "MCJITMemoryManagerTest.cpp": 4.430473889311394,
+        "MCJITMultipleModuleTest.cpp": 9.223749211224723,
+        "MCJITObjectCacheTest.cpp": 7.9922078258521045,
+        "MCJITTest.cpp": 19.282222594229985,
+        "MCJITTestAPICommon.h": 14.854258339055018,
+        "MCJITTestBase.h": 12.070316335557127,
+        "MCJITTests.def": 0.0
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,18 @@
+{
+    "directory name": "llvm-project/llvm/lib/Target/PowerPC/GISel",
+    "score.sum": 0.0002978653683129384,
+    "sha.latest": "c4821073cdba29c747c50e818cf39c269f88e4fd",
+    "time.latest": 1717862739.9740283,
+    "formatted_time": "2024-06-08 11:05:39.974031",
+    "filescores": {
+        "PPCCallLowering.cpp": 11.900631072762545,
+        "PPCCallLowering.h": 6.964236894923948,
+        "PPCInstructionSelector.cpp": 21.591785879301945,
+        "PPCLegalizerInfo.cpp": 17.19945455034283,
+        "PPCLegalizerInfo.h": 0.0,
+        "PPCRegisterBankInfo.cpp": 22.979102702661443,
+        "PPCRegisterBankInfo.h": 11.906819520424595,
+        "PPCRegisterBanks.td": 7.457969379582681
+    },
+    "subdirscores": {}
+}

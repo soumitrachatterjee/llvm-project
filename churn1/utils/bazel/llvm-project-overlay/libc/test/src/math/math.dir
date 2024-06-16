@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/utils/bazel/llvm-project-overlay/libc/test/src/math",
+    "score.sum": 8.192183514172505e-05,
+    "sha.latest": "659a217b91a93869b6399fb85e24722a524c9d95",
+    "time.latest": 1717788988.1727798,
+    "formatted_time": "2024-06-08 01:06:28.172785",
+    "filescores": {
+        "BUILD.bazel": 53.91868770790319,
+        "libc_math_test_rules.bzl": 46.08131229209682
+    },
+    "subdirscores": {}
+}

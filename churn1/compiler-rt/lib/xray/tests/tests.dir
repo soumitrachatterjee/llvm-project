@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/compiler-rt/lib/xray/tests",
+    "score.sum": 0.00024313600306732772,
+    "sha.latest": "23c665371a98c7a16765d12bf2db19b0626b7181",
+    "time.latest": 1717808776.9168131,
+    "formatted_time": "2024-06-08 06:36:16.916815",
+    "filescores": {
+        "CMakeLists.txt": 48.19220278647846
+    },
+    "subdirscores": {
+        "unit": 51.80779721352153
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/llvm/lib/Target/BPF/TargetInfo",
+    "score.sum": 4.677483982772583e-05,
+    "sha.latest": "b3a6d096d7c369f5290172c126bd699716bb383c",
+    "time.latest": 1717853903.8267303,
+    "formatted_time": "2024-06-08 08:38:23.826734",
+    "filescores": {
+        "BPFTargetInfo.cpp": 66.29212125638358,
+        "BPFTargetInfo.h": 0.0,
+        "CMakeLists.txt": 33.70787874361643
+    },
+    "subdirscores": {}
+}

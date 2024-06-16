@@ -1,0 +1,16 @@
+{
+    "directory name": "llvm-project/compiler-rt/lib/builtins/aarch64",
+    "score.sum": 4.7109569716274705e-05,
+    "sha.latest": "2e2b6b53f5f63179b52168ee156df7c76b90bc71",
+    "time.latest": 1717791266.4230585,
+    "formatted_time": "2024-06-08 01:44:26.423064",
+    "filescores": {
+        "chkstk.S": 12.947692168676294,
+        "fp_mode.c": 23.530211036861637,
+        "lse.S": 14.371410060500292,
+        "sme-abi-init.c": 20.09746592100322,
+        "sme-abi.S": 14.903635804761944,
+        "sme-libc-routines.c": 14.149585008196624
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/libcxx/test/libcxx/strings/c.strings",
+    "score.sum": 3.152147272660999e-05,
+    "sha.latest": "a40bada91aeda276a772acfbcae6e8de26755a11",
+    "time.latest": 1717864887.4608743,
+    "formatted_time": "2024-06-08 22:11:27.460877",
+    "filescores": {
+        "constexpr.cstring.compile.pass.cpp": 76.9427761626106,
+        "constexpr.cwchar.compile.pass.cpp": 0.0,
+        "constexpr_memmove.pass.cpp": 23.057223837389394
+    },
+    "subdirscores": {}
+}

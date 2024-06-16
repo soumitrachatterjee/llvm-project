@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/functionalities/breakpoint/auto_continue",
+    "score.sum": 2.179363928545626e-05,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717901858.2622292,
+    "formatted_time": "2024-06-09 08:27:38.262231",
+    "filescores": {
+        "main.c": 0.0,
+        "Makefile": 0.0,
+        "TestBreakpointAutoContinue.py": 100.0
+    },
+    "subdirscores": {}
+}

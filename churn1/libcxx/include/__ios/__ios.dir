@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/libcxx/include/__ios",
+    "score.sum": 1.216456477909776e-05,
+    "sha.latest": "9783f28cbb155e4a8d49c12e1c60ce14dcfaf0c7",
+    "time.latest": 1717834167.1170166,
+    "formatted_time": "2024-06-08 13:39:27.117021",
+    "filescores": {
+        "fpos.h": 100.0
+    },
+    "subdirscores": {}
+}

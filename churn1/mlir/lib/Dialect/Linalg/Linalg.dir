@@ -1,0 +1,16 @@
+{
+    "directory name": "llvm-project/mlir/lib/Dialect/Linalg",
+    "score.sum": 0.007331542313257739,
+    "sha.latest": "fab2bb8bfda865bd438dee981d7be7df8017b76d",
+    "time.latest": 1717807105.218575,
+    "formatted_time": "2024-06-07 19:38:25.218576",
+    "filescores": {
+        "CMakeLists.txt": 0.3683021023458324
+    },
+    "subdirscores": {
+        "IR": 20.940767516796235,
+        "TransformOps": 10.607132704142437,
+        "Transforms": 60.583530462401704,
+        "Utils": 7.5002672143137925
+    }
+}

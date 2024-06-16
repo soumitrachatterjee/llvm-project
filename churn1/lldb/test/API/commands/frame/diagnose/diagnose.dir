@@ -1,0 +1,19 @@
+{
+    "directory name": "llvm-project/lldb/test/API/commands/frame/diagnose",
+    "score.sum": 0.00011060480156212908,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717894943.0625203,
+    "formatted_time": "2024-06-09 06:32:23.062522",
+    "filescores": {},
+    "subdirscores": {
+        "array": 10.263085144254935,
+        "bad-reference": 11.35340424449859,
+        "complicated-expression": 11.35340424449859,
+        "dereference-argument": 11.35340424449859,
+        "dereference-function-return": 10.263085144254935,
+        "dereference-this": 11.35340424449859,
+        "inheritance": 11.35340424449859,
+        "local-variable": 11.35340424449859,
+        "virtual-method-call": 11.35340424449859
+    }
+}

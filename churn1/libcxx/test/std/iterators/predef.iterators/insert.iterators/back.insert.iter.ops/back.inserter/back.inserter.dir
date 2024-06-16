@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/iterators/predef.iterators/insert.iterators/back.insert.iter.ops/back.inserter",
+    "score.sum": 2.2511825093137214e-05,
+    "sha.latest": "8a5f0d883832aa088460df87df99c40d8f238655",
+    "time.latest": 1717916841.7931178,
+    "formatted_time": "2024-06-09 12:37:21.793119",
+    "filescores": {
+        "test.pass.cpp": 100.0
+    },
+    "subdirscores": {}
+}

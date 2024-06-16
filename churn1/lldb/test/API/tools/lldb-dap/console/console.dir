@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/lldb/test/API/tools/lldb-dap/console",
+    "score.sum": 6.099602068851199e-06,
+    "sha.latest": "10664813fca8d5ccbfd90bae9e791b7062dabd7c",
+    "time.latest": 1717968863.496129,
+    "formatted_time": "2024-06-10 03:04:23.496132",
+    "filescores": {
+        "main.cpp": 0.0,
+        "Makefile": 0.0,
+        "TestDAP_console.py": 100.0,
+        "TestDAP_redirection_to_console.py": 0.0
+    },
+    "subdirscores": {}
+}

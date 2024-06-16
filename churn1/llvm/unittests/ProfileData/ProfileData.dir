@@ -1,0 +1,19 @@
+{
+    "directory name": "llvm-project/llvm/unittests/ProfileData",
+    "score.sum": 0.0008173185226030593,
+    "sha.latest": "c087bebb02ef35021547c6ddf0a3fdf1cbc8ad17",
+    "time.latest": 1718082615.275488,
+    "formatted_time": "2024-06-11 00:10:15.275491",
+    "filescores": {
+        "BPFunctionNodeTest.cpp": 2.23147267085009,
+        "CMakeLists.txt": 7.5206764349933035,
+        "CoverageMappingTest.cpp": 29.532322182053043,
+        "InstrProfDataTest.cpp": 1.6503163839310813,
+        "InstrProfTest.cpp": 38.18227131374931,
+        "ItaniumManglingCanonicalizerTest.cpp": 0.0,
+        "MemProfTest.cpp": 6.7404398190944805,
+        "SampleProfTest.cpp": 14.14250119532868,
+        "SymbolRemappingReaderTest.cpp": 0.0
+    },
+    "subdirscores": {}
+}

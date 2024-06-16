@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/libcxx/test/libcxx/utilities/utility/pairs",
+    "score.sum": 0.00011057298245775608,
+    "sha.latest": "5fa5ffeb6cb5bc9aa414c02513e44b8405f0e7cc",
+    "time.latest": 1717867797.4473054,
+    "formatted_time": "2024-06-08 22:59:57.447308",
+    "filescores": {},
+    "subdirscores": {
+        "pairs.pair": 100.0
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/libcxx/test/libcxx/numerics/rand/rand.req.urng",
+    "score.sum": 6.099602068851199e-06,
+    "sha.latest": "727fef79c0421133744700717603ff1b8a7d6628",
+    "time.latest": 1717862260.1774306,
+    "formatted_time": "2024-06-08 21:27:40.177434",
+    "filescores": {
+        "valid_int_type.verify.cpp": 100.0,
+        "valid_real_type.verify.cpp": 0.0
+    },
+    "subdirscores": {}
+}

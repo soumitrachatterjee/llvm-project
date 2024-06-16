@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/clang/utils/ABITest/layout",
+    "score.sum": 1.4268068022966416e-05,
+    "sha.latest": "2e4c67299e46108b3c1c80b323a3e7e46132893e",
+    "time.latest": 1718077364.142042,
+    "formatted_time": "2024-06-11 09:12:44.142052",
+    "filescores": {
+        "Makefile": 100.0
+    },
+    "subdirscores": {}
+}

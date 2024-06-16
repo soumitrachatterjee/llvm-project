@@ -1,0 +1,16 @@
+{
+    "directory name": "llvm-project/mlir/lib/Dialect/Mesh/Transforms",
+    "score.sum": 0.00010092046250378001,
+    "sha.latest": "e93489c434da5fd93ed54c3c41b0c06f718bb8ff",
+    "time.latest": 1717807695.6812012,
+    "formatted_time": "2024-06-07 19:48:15.681204",
+    "filescores": {
+        "CMakeLists.txt": 19.021709368389956,
+        "ShardingPropagation.cpp": 14.894232977865457,
+        "Simplifications.cpp": 27.555290968249935,
+        "Spmdization.cpp": 24.772801249851746,
+        "Transforms.cpp": 13.755965435642898,
+        "TransformsDetail.h": 0.0
+    },
+    "subdirscores": {}
+}

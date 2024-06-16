@@ -1,0 +1,32 @@
+{
+    "directory name": "llvm-project/libcxx/test/libcxx/selftest",
+    "score.sum": 0.00021406321640781128,
+    "sha.latest": "a859df3b0a099648ec4cd305f22c87ea12ebaac9",
+    "time.latest": 1717864411.285904,
+    "formatted_time": "2024-06-08 22:03:31.285907",
+    "filescores": {
+        "remote-substitutions.sh.cpp": 5.612694657487313,
+        "shell-no-escape-builtins.sh.cpp": 0.0,
+        "stdin-is-piped.sh.cpp": 5.399520489563447,
+        "test_macros.pass.cpp": 10.924834218775743,
+        "tmpdir-exists.sh.cpp": 0.0
+    },
+    "subdirscores": {
+        "additional_compile_flags": 8.48175123729592,
+        "compile.fail.cpp": 2.8494396053691275,
+        "compile.pass.cpp": 2.8494396053691275,
+        "compile.pass.mm": 0.0,
+        "convenience_substitutions": 2.8494396053691275,
+        "dsl": 29.36301817659374,
+        "file_dependencies": 0.0,
+        "gen.cpp": 2.8494396053691275,
+        "link.fail.cpp": 2.8494396053691275,
+        "link.pass.cpp": 2.8494396053691275,
+        "link.pass.mm": 0.0,
+        "modules": 6.67106898756521,
+        "pass.cpp": 2.8494396053691275,
+        "pass.mm": 2.8494396053691275,
+        "sh.cpp": 7.613912677494955,
+        "verify.cpp": 3.1376827122706197
+    }
+}

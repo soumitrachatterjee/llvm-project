@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/thread/thread.stoptoken/nostopstate",
+    "score.sum": 6.099602068851199e-06,
+    "sha.latest": "477f6bc407db14f6856420c6eb275747f8670758",
+    "time.latest": 1717979522.4307454,
+    "formatted_time": "2024-06-10 06:02:02.430749",
+    "filescores": {
+        "cons.default.pass.cpp": 100.0
+    },
+    "subdirscores": {}
+}

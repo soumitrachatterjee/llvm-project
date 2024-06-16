@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/source/Plugins/Platform/Linux",
+    "score.sum": 0.0005767125663910444,
+    "sha.latest": "edd690b02e16e991393bf7f67631196942369aed",
+    "time.latest": 1717873090.2363992,
+    "formatted_time": "2024-06-09 00:28:10.236402",
+    "filescores": {
+        "CMakeLists.txt": 2.7915094725799143,
+        "PlatformLinux.cpp": 67.73262771441675,
+        "PlatformLinux.h": 29.475862813003324
+    },
+    "subdirscores": {}
+}

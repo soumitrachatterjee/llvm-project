@@ -1,0 +1,17 @@
+{
+    "directory name": "llvm-project/compiler-rt/include",
+    "score.sum": 0.0010903508576127325,
+    "sha.latest": "16e74fd48988ac95551d0f64e1b36f78a82a89a2",
+    "time.latest": 1717788887.0150628,
+    "formatted_time": "2024-06-08 01:04:47.015069",
+    "filescores": {
+        "CMakeLists.txt": 13.800024711861806
+    },
+    "subdirscores": {
+        "fuzzer": 2.269264904222666,
+        "orc_rt": 0.5594164507932764,
+        "profile": 24.034209312597905,
+        "sanitizer": 54.362364328704906,
+        "xray": 4.974720291819424
+    }
+}

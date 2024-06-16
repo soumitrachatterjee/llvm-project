@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/libcxx/test/libcxx/ranges/range.factories",
+    "score.sum": 1.886324999481312e-05,
+    "sha.latest": "120b0bfbf0bade430fa9b19d78025ccd1d6148d0",
+    "time.latest": 1717863119.635215,
+    "formatted_time": "2024-06-08 21:41:59.635218",
+    "filescores": {},
+    "subdirscores": {
+        "range.istream.view": 32.335902193569105,
+        "range.repeat.view": 67.66409780643089,
+        "range.single.view": 0.0
+    }
+}

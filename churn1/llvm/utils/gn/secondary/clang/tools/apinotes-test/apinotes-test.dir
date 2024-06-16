@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/llvm/utils/gn/secondary/clang/tools/apinotes-test",
+    "score.sum": 6.099602068851199e-06,
+    "sha.latest": "439b5bebafec4d4008006fa6a8fb448db7e6c59d",
+    "time.latest": 1718084542.5889452,
+    "formatted_time": "2024-06-11 00:42:22.588948",
+    "filescores": {
+        "BUILD.gn": 100.0
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/llvm/include/llvm/Transforms/HipStdPar",
+    "score.sum": 6.4992862040776705e-06,
+    "sha.latest": "8b1181133d5029f8bb4b40f8706d6c3e3fe3598c",
+    "time.latest": 1717823832.8136578,
+    "formatted_time": "2024-06-08 00:17:12.813661",
+    "filescores": {
+        "HipStdPar.h": 100.0
+    },
+    "subdirscores": {}
+}

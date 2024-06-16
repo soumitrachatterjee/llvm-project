@@ -1,0 +1,26 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/input.output/iostream.format/output.streams/ostream.formatted/ostream.inserters.arithmetic",
+    "score.sum": 0.0003820545265879737,
+    "sha.latest": "00e80fbfb9151a68e7383dcec7da69c867225e54",
+    "time.latest": 1717906274.1851354,
+    "formatted_time": "2024-06-09 09:41:14.185137",
+    "filescores": {
+        "bool.pass.cpp": 5.884792060998354,
+        "double.pass.cpp": 5.884792060998354,
+        "float.pass.cpp": 5.884792060998354,
+        "int.pass.cpp": 5.884792060998354,
+        "long.pass.cpp": 5.884792060998354,
+        "long_double.pass.cpp": 5.884792060998354,
+        "long_long.pass.cpp": 5.884792060998354,
+        "minmax_showbase.pass.cpp": 7.758365828725928,
+        "minus1.pass.cpp": 11.236480747745587,
+        "pointer.pass.cpp": 6.993122446781544,
+        "pointer.volatile.pass.cpp": 2.96429591526674,
+        "short.pass.cpp": 5.884792060998354,
+        "unsigned_int.pass.cpp": 5.884792060998354,
+        "unsigned_long.pass.cpp": 5.884792060998354,
+        "unsigned_long_long.pass.cpp": 6.3150223904983065,
+        "unsigned_short.pass.cpp": 5.884792060998354
+    },
+    "subdirscores": {}
+}

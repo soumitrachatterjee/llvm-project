@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/cross-project-tests/debuginfo-tests/llvm-prettyprinters",
+    "score.sum": 2.9106812829894764e-05,
+    "sha.latest": "f98ee40f4b5d7474fc67e82824bf6abbaedb7b1c",
+    "time.latest": 1717793205.5774395,
+    "formatted_time": "2024-06-08 02:16:45.577443",
+    "filescores": {},
+    "subdirscores": {
+        "gdb": 100.0
+    }
+}

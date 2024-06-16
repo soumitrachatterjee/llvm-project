@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/libcxx/test/libcxx/thread/thread.condition",
+    "score.sum": 6.188911852139268e-05,
+    "sha.latest": "1197fcabc4b5f39dbe8a94b1ab6e92354f3f0dd2",
+    "time.latest": 1717865164.0004756,
+    "formatted_time": "2024-06-08 22:16:04.000478",
+    "filescores": {
+        "PR30202_notify_from_pthread_created_thread.pass.cpp": 68.44167858345978
+    },
+    "subdirscores": {
+        "thread.condition.condvar": 31.558321416540213
+    }
+}

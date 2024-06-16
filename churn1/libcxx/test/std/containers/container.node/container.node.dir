@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/containers/container.node",
+    "score.sum": 1.9461638309729968e-05,
+    "sha.latest": "3c355e2881887fea6f4b31e26b68aefa4d216fd0",
+    "time.latest": 1717882630.181041,
+    "formatted_time": "2024-06-09 03:07:10.181042",
+    "filescores": {
+        "node_handle.nodiscard.verify.cpp": 31.34166801261364,
+        "node_handle.pass.cpp": 68.65833198738636
+    },
+    "subdirscores": {}
+}

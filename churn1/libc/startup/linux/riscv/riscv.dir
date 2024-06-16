@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/libc/startup/linux/riscv",
+    "score.sum": 2.616912335565899e-05,
+    "sha.latest": "2bc994456c5be2ab6d98b94de2349302577a9823",
+    "time.latest": 1717843796.990385,
+    "formatted_time": "2024-06-08 05:49:56.990389",
+    "filescores": {
+        "CMakeLists.txt": 23.30839281833329,
+        "start.cpp": 76.69160718166671,
+        "tls.cpp": 0.0
+    },
+    "subdirscores": {}
+}

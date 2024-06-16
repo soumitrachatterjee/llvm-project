@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/libcxx/test/libcxx/thread/thread.shared_mutex",
+    "score.sum": 6.099602068851199e-06,
+    "sha.latest": "ec350ad418a24f70c88758259c774a1e11c06d74",
+    "time.latest": 1717865446.9334896,
+    "formatted_time": "2024-06-08 22:20:46.933493",
+    "filescores": {
+        "thread_safety.verify.cpp": 100.0
+    },
+    "subdirscores": {}
+}

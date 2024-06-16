@@ -1,0 +1,21 @@
+{
+    "directory name": "llvm-project/flang/lib",
+    "score.sum": 0.01848007097387884,
+    "sha.latest": "c4a89f1538bbcac19628570b6b489cd9ce4265e2",
+    "time.latest": 1717792515.3835084,
+    "formatted_time": "2024-06-07 15:35:15.383509",
+    "filescores": {
+        "CMakeLists.txt": 0.3705878401981238
+    },
+    "subdirscores": {
+        "Common": 0.2043388860491743,
+        "Decimal": 0.926310581630519,
+        "Evaluate": 10.399141896115397,
+        "Frontend": 4.891159772479016,
+        "FrontendTool": 0.5637907336761028,
+        "Lower": 30.814997635641134,
+        "Optimizer": 26.24381442383003,
+        "Parser": 3.9258325116029904,
+        "Semantics": 21.66002571877752
+    }
+}

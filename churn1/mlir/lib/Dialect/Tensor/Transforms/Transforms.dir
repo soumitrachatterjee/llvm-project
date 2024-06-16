@@ -1,0 +1,24 @@
+{
+    "directory name": "llvm-project/mlir/lib/Dialect/Tensor/Transforms",
+    "score.sum": 0.0005655582009922862,
+    "sha.latest": "fab2bb8bfda865bd438dee981d7be7df8017b76d",
+    "time.latest": 1717809524.2092948,
+    "formatted_time": "2024-06-07 20:18:44.209298",
+    "filescores": {
+        "BufferizableOpInterfaceImpl.cpp": 36.284035101167824,
+        "Bufferize.cpp": 14.57702918932386,
+        "CMakeLists.txt": 23.504962794754316,
+        "ConcatOpPatterns.cpp": 1.07851005575541,
+        "EmptyOpPatterns.cpp": 2.141760743110995,
+        "ExtractSliceFromReshapeUtils.cpp": 5.731908442299893,
+        "FoldTensorSubsetOps.cpp": 1.5677680573306398,
+        "IndependenceTransforms.cpp": 0.0,
+        "MergeConsecutiveInsertExtractSlicePatterns.cpp": 3.052559095164952,
+        "PackAndUnpackPatterns.cpp": 3.3270154169028197,
+        "ReshapePatterns.cpp": 2.4724506518107843,
+        "RewriteAsConstant.cpp": 0.0,
+        "SubsetInsertionOpInterfaceImpl.cpp": 4.594653858058387,
+        "SwapExtractSliceWithProducerPatterns.cpp": 1.6673465943201267
+    },
+    "subdirscores": {}
+}

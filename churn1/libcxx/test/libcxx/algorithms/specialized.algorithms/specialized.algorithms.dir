@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/libcxx/test/libcxx/algorithms/specialized.algorithms",
+    "score.sum": 1.7239978915986658e-05,
+    "sha.latest": "c90801457f7cbbaee97821a06a893f4146ab1b2e",
+    "time.latest": 1717844888.6974988,
+    "formatted_time": "2024-06-08 16:38:08.697502",
+    "filescores": {},
+    "subdirscores": {
+        "special.mem.concepts": 100.0
+    }
+}

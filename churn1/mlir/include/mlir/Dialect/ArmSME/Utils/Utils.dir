@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/mlir/include/mlir/Dialect/ArmSME/Utils",
+    "score.sum": 1.9681751721753706e-05,
+    "sha.latest": "042800a4dd79375ec0895c8959a43c86149232f3",
+    "time.latest": 1717793302.7548883,
+    "formatted_time": "2024-06-07 15:48:22.754892",
+    "filescores": {
+        "Utils.h": 100.0
+    },
+    "subdirscores": {}
+}

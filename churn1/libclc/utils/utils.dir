@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/libclc/utils",
+    "score.sum": 6.740608703218797e-05,
+    "sha.latest": "5ec9faf007cc2589682cd28a10aa5a351f6aebda",
+    "time.latest": 1717832102.5921943,
+    "formatted_time": "2024-06-08 02:35:02.592198",
+    "filescores": {
+        "prepare-builtins.cpp": 100.0
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/lldb/test/API/commands/command/script/add",
+    "score.sum": 1.4223744581558238e-05,
+    "sha.latest": "096c530ab3ea5c96526451181117f30db17b4b1d",
+    "time.latest": 1717888421.168573,
+    "formatted_time": "2024-06-09 04:43:41.168575",
+    "filescores": {
+        "TestAddParsedCommand.py": 57.116763213256625,
+        "test_commands.py": 42.88323678674337
+    },
+    "subdirscores": {}
+}

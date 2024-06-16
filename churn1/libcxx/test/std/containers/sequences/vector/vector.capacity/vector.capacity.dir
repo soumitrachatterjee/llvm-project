@@ -1,0 +1,20 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/containers/sequences/vector/vector.capacity",
+    "score.sum": 0.00031143048442995054,
+    "sha.latest": "fb855eb941b6d740cc6560297d0b4d3201dcaf9f",
+    "time.latest": 1717886918.9834378,
+    "formatted_time": "2024-06-09 04:18:38.983439",
+    "filescores": {
+        "capacity.pass.cpp": 5.975985212577195,
+        "empty.pass.cpp": 8.478142233097174,
+        "empty.verify.cpp": 3.0484116244109893,
+        "max_size.pass.cpp": 5.649709288386417,
+        "reserve.pass.cpp": 19.12653477999597,
+        "resize_size.pass.cpp": 11.786231806003485,
+        "resize_size_value.pass.cpp": 12.266400957401324,
+        "shrink_to_fit.pass.cpp": 13.795704635829956,
+        "size.pass.cpp": 8.478142233097174,
+        "swap.pass.cpp": 11.394737229200315
+    },
+    "subdirscores": {}
+}

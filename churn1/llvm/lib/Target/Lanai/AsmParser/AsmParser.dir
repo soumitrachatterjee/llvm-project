@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/llvm/lib/Target/Lanai/AsmParser",
+    "score.sum": 0.00016534027616547345,
+    "sha.latest": "1e4c76cdc9d47c06eb30c811fd497d7b0a3ae5e8",
+    "time.latest": 1717857238.147394,
+    "formatted_time": "2024-06-08 09:33:58.147397",
+    "filescores": {
+        "CMakeLists.txt": 15.350214877867355,
+        "LanaiAsmParser.cpp": 84.64978512213264
+    },
+    "subdirscores": {}
+}

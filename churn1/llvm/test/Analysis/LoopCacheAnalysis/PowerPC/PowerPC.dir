@@ -1,0 +1,20 @@
+{
+    "directory name": "llvm-project/llvm/test/Analysis/LoopCacheAnalysis/PowerPC",
+    "score.sum": 0.00012557402878854987,
+    "sha.latest": "1aee1e1f4c4b504becc06521546de992a662694b",
+    "time.latest": 1717888820.2847579,
+    "formatted_time": "2024-06-08 18:20:20.284761",
+    "filescores": {
+        "LoopnestFixedSize.ll": 5.096463739813984,
+        "compute-cost-m32.ll": 4.85737546823645,
+        "compute-cost.ll": 12.414546905137753,
+        "lit.local.cfg": 4.85737546823645,
+        "loads-store.ll": 10.828992870015188,
+        "matmul.ll": 10.828992870015188,
+        "matvecmul.ll": 13.781185238825097,
+        "multi-store.ll": 5.116933660351276,
+        "single-store.ll": 16.739347394082994,
+        "stencil.ll": 15.478786385285623
+    },
+    "subdirscores": {}
+}

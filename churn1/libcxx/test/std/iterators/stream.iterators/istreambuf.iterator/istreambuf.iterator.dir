@@ -1,0 +1,20 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/iterators/stream.iterators/istreambuf.iterator",
+    "score.sum": 0.00021422886441102863,
+    "sha.latest": "d2baefae6846765eef6a6dd69d4fdf1082ce29ad",
+    "time.latest": 1717920237.584345,
+    "formatted_time": "2024-06-09 13:33:57.584347",
+    "filescores": {
+        "iterator_concept_conformance.compile.pass.cpp": 7.898201336219064,
+        "types.pass.cpp": 19.469633879680206
+    },
+    "subdirscores": {
+        "istreambuf.iterator.cons": 13.007363771117003,
+        "istreambuf.iterator_equal": 8.892634361206227,
+        "istreambuf.iterator_op!=": 11.309282448995837,
+        "istreambuf.iterator_op++": 8.13684919159332,
+        "istreambuf.iterator_op==": 11.309282448995837,
+        "istreambuf.iterator_op_astrk": 9.150311330770005,
+        "istreambuf.iterator_proxy": 10.826441231422496
+    }
+}

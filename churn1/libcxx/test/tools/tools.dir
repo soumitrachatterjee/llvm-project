@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/libcxx/test/tools",
+    "score.sum": 8.584336427414028e-05,
+    "sha.latest": "e19e8600cf743690e1a23fb8a2b0dfbe2dafe559",
+    "time.latest": 1718010537.1091735,
+    "formatted_time": "2024-06-10 14:38:57.109175",
+    "filescores": {
+        "CMakeLists.txt": 7.105502120550816
+    },
+    "subdirscores": {
+        "clang_tidy_checks": 92.89449787944918
+    }
+}

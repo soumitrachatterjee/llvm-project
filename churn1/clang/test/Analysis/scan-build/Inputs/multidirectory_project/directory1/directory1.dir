@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/clang/test/Analysis/scan-build/Inputs/multidirectory_project/directory1",
+    "score.sum": 6.148971965740883e-06,
+    "sha.latest": "5521236a18074584542b81fd680158d89a845fca",
+    "time.latest": 1717839266.9652164,
+    "formatted_time": "2024-06-08 15:04:26.965218",
+    "filescores": {
+        "file1.c": 100.0
+    },
+    "subdirscores": {}
+}

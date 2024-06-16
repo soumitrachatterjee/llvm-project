@@ -1,0 +1,17 @@
+{
+    "directory name": "llvm-project/mlir/test/Examples/Toy",
+    "score.sum": 0.00025614191905449737,
+    "sha.latest": "444bb1f1bbbd7450fd30acc4ac1091fe916a740f",
+    "time.latest": 1717824416.47907,
+    "formatted_time": "2024-06-08 00:26:56.479070",
+    "filescores": {},
+    "subdirscores": {
+        "Ch1": 7.123444426427604,
+        "Ch2": 7.870972771143031,
+        "Ch3": 9.366801417310278,
+        "Ch4": 12.15039511061726,
+        "Ch5": 23.164544380680173,
+        "Ch6": 20.42909926052012,
+        "Ch7": 19.894742633301536
+    }
+}

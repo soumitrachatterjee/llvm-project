@@ -1,0 +1,21 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/input.output/iostream.objects/wide.stream.objects",
+    "score.sum": 0.00021022082069829004,
+    "sha.latest": "98418c27bc17946990e5980d56ef98ae82da8770",
+    "time.latest": 1717907088.1239133,
+    "formatted_time": "2024-06-09 09:54:48.123915",
+    "filescores": {
+        "test.dat": 0.0,
+        "wcerr-imbue.sh.cpp": 4.153627243327069,
+        "wcerr-wide-mode.sh.cpp": 4.153627243327069,
+        "wcerr.sh.cpp": 16.767093741793342,
+        "wcin-imbue.sh.cpp": 8.36020410531441,
+        "wcin-wide-mode.sh.cpp": 4.153627243327069,
+        "wcin.sh.cpp": 23.50000939546873,
+        "wclog.sh.cpp": 12.71791744618396,
+        "wcout-imbue.sh.cpp": 4.153627243327069,
+        "wcout-wide-mode.sh.cpp": 4.153627243327069,
+        "wcout.sh.cpp": 17.886639094604202
+    },
+    "subdirscores": {}
+}

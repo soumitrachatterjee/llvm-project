@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/lldb/test/API/functionalities/inferior-crashing/recursive-inferior",
+    "score.sum": 4.22075749512512e-05,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717910543.9814076,
+    "formatted_time": "2024-06-09 10:52:23.981410",
+    "filescores": {
+        "main.c": 0.0,
+        "Makefile": 0.0,
+        "TestRecursiveInferior.py": 46.50105138814106,
+        "TestRecursiveInferiorStep.py": 53.49894861185894
+    },
+    "subdirscores": {}
+}

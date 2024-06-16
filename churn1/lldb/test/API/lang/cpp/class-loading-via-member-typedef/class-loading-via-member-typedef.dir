@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/lang/cpp/class-loading-via-member-typedef",
+    "score.sum": 8.541507358181316e-06,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717929523.707793,
+    "formatted_time": "2024-06-09 16:08:43.707794",
+    "filescores": {
+        "main.cpp": 0.0,
+        "Makefile": 0.0,
+        "TestClassLoadingViaMemberTypedef.py": 100.0
+    },
+    "subdirscores": {}
+}

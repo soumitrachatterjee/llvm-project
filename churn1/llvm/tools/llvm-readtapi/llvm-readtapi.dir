@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/llvm/tools/llvm-readtapi",
+    "score.sum": 0.00011574305425057938,
+    "sha.latest": "6eb7273b11e6a3ec7c5ddb2d55bc585a25c0a923",
+    "time.latest": 1718083009.0074887,
+    "formatted_time": "2024-06-11 00:16:49.007492",
+    "filescores": {
+        "CMakeLists.txt": 19.365715325103892,
+        "DiffEngine.cpp": 14.976951116366441,
+        "DiffEngine.h": 8.478073526297878,
+        "TapiOpts.td": 10.326076272765384,
+        "llvm-readtapi.cpp": 46.853183759466404
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/libc/benchmarks/automemcpy/include",
+    "score.sum": 1.6340214499352538e-05,
+    "sha.latest": "b5516be05654ecdd4fd7e317b1f21f940c1a967b",
+    "time.latest": 1717824226.4863706,
+    "formatted_time": "2024-06-08 00:23:46.486371",
+    "filescores": {},
+    "subdirscores": {
+        "automemcpy": 100.0
+    }
+}

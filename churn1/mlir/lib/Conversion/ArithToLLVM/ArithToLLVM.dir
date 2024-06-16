@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/mlir/lib/Conversion/ArithToLLVM",
+    "score.sum": 7.748165752821982e-05,
+    "sha.latest": "f7ef73ea889a43b893f6277a2ecc227fd2bf803a",
+    "time.latest": 1717802516.3782656,
+    "formatted_time": "2024-06-07 18:21:56.378269",
+    "filescores": {
+        "ArithToLLVM.cpp": 92.12768252069255,
+        "CMakeLists.txt": 7.872317479307467
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,16 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/algorithms/alg.nonmodifying/alg.count",
+    "score.sum": 6.163443038340224e-05,
+    "sha.latest": "164c204a19f7859d570003d4c5e82faf48cb65a9",
+    "time.latest": 1717869591.5652134,
+    "formatted_time": "2024-06-08 23:29:51.565216",
+    "filescores": {
+        "count.pass.cpp": 39.10856918622707,
+        "count_if.pass.cpp": 38.68793952773191,
+        "pstl.count.pass.cpp": 0.0,
+        "pstl.count_if.pass.cpp": 0.0,
+        "ranges.count.pass.cpp": 12.307071329033063,
+        "ranges.count_if.pass.cpp": 9.896419957007963
+    },
+    "subdirscores": {}
+}

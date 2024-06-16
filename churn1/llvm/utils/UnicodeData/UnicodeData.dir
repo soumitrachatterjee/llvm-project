@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/llvm/utils/UnicodeData",
+    "score.sum": 2.1765000033697687e-05,
+    "sha.latest": "03e43cf1c7ed0770b4afef915f82f2503a9f18fb",
+    "time.latest": 1718079020.5194173,
+    "formatted_time": "2024-06-10 23:10:20.519421",
+    "filescores": {
+        "CMakeLists.txt": 0.0,
+        "UnicodeNameMappingGenerator.cpp": 100.0
+    },
+    "subdirscores": {}
+}

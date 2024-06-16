@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/utilities/optional/optional.syn",
+    "score.sum": 1.9871954136069934e-05,
+    "sha.latest": "dc71a77d33620830020c939bba25ebdfdd1b6194",
+    "time.latest": 1718003944.2850063,
+    "formatted_time": "2024-06-10 12:49:04.285008",
+    "filescores": {
+        "optional_includes_initializer_list.pass.cpp": 100.0,
+        "optional_in_place_t.verify.cpp": 0.0,
+        "optional_nullopt_t.verify.cpp": 0.0
+    },
+    "subdirscores": {}
+}

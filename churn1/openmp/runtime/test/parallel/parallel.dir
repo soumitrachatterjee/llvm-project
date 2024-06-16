@@ -1,0 +1,22 @@
+{
+    "directory name": "llvm-project/openmp/runtime/test/parallel",
+    "score.sum": 7.72003879414572e-05,
+    "sha.latest": "375862b481d952add7510270dc0adaed04049b1b",
+    "time.latest": 1717803847.868467,
+    "formatted_time": "2024-06-08 05:14:07.868470",
+    "filescores": {
+        "bug54082.c": 8.037295189278177,
+        "bug63197.c": 9.0940677285605,
+        "omp_nested.c": 19.45112794031737,
+        "omp_parallel_copyin.c": 7.900999245595326,
+        "omp_parallel_copyin_combined.c": 0.0,
+        "omp_parallel_default.c": 7.900999245595326,
+        "omp_parallel_firstprivate.c": 7.900999245595326,
+        "omp_parallel_if.c": 16.011513668271974,
+        "omp_parallel_num_threads.c": 0.0,
+        "omp_parallel_private.c": 7.900999245595326,
+        "omp_parallel_reduction.c": 7.900999245595326,
+        "omp_parallel_shared.c": 7.900999245595326
+    },
+    "subdirscores": {}
+}

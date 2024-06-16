@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/libcxx/test/libcxx/ranges/range.adaptors/range.reverse",
+    "score.sum": 8.401745052419121e-06,
+    "sha.latest": "b8cb1dc9ea87faa8e8e9ab7a31710a8c0bb8b084",
+    "time.latest": 1717862965.1554048,
+    "formatted_time": "2024-06-08 21:39:25.155407",
+    "filescores": {
+        "adaptor.nodiscard.verify.cpp": 100.0
+    },
+    "subdirscores": {}
+}

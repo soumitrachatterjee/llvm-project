@@ -1,0 +1,37 @@
+{
+    "directory name": "llvm-project/lldb/test/Shell/SymbolFile/DWARF",
+    "score.sum": 0.0004208585221649418,
+    "sha.latest": "f0eb0c5689b25153067e66647590a8300b997740",
+    "time.latest": 1717981966.2538037,
+    "formatted_time": "2024-06-10 06:42:46.253806",
+    "filescores": {
+        "anon_class_w_and_wo_export_symbols.ll": 1.944665153620024,
+        "clang-ast-from-dwarf-objc-property.m": 0.0,
+        "clang-ast-from-dwarf-unamed-and-anon-structs.cpp": 3.744064865205864,
+        "clang-gmodules-type-lookup.c": 0.0,
+        "debug-types-expressions.test": 1.660406871218033,
+        "deterministic-build.cpp": 1.4595315196088354,
+        "dwarf5-lazy-dwo.c": 1.499616865198719,
+        "dwo-debug-file-search-path-symlink-relative-compdir.c": 2.8840122427019037,
+        "dwo-debug-file-search-paths-dwoname-absolute-compdir.c": 2.8840122427019037,
+        "dwo-debug-file-search-paths-filename-only-absolute-compdir.c": 2.8840122427019037,
+        "dwo-debug-file-search-paths-filename-only-relative-compdir.c": 2.8840122427019037,
+        "dwo-debug-file-search-paths-relative-compdir.c": 2.8840122427019037,
+        "dwo-missing-error.test": 0.0,
+        "dwo-relative-filename-only-binary-dir.c": 2.8840122427019037,
+        "dwo-relative-path.s": 1.908195103215574,
+        "dwo-static-data-member-access.test": 0.0,
+        "DW_AT_range-DW_FORM_sec_offset.s": 9.639028625026048,
+        "find-type-in-function.cpp": 1.9547743398435309,
+        "ignored_artificial_fields.test": 2.4297508165632435,
+        "inlined-file0-line0-col0.test": 0.0,
+        "lit.local.cfg": 9.028896416939837,
+        "range-lower-then-low-pc.s": 0.0,
+        "split-dwarf-expression-eval-bug.cpp": 1.7576212556679751,
+        "split-optimized.c": 1.4712859647765022
+    },
+    "subdirscores": {
+        "Inputs": 9.138354878867819,
+        "x86": 35.05973386803657
+    }
+}

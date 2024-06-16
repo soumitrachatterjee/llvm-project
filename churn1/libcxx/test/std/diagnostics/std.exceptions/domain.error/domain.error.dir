@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/diagnostics/std.exceptions/domain.error",
+    "score.sum": 1.7366275644238228e-05,
+    "sha.latest": "7fc6a55688c816f5fc1a5481ae7af25be7500356",
+    "time.latest": 1717897335.0994654,
+    "formatted_time": "2024-06-09 07:12:15.099468",
+    "filescores": {
+        "domain_error.pass.cpp": 100.0
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,30 @@
+{
+    "directory name": "llvm-project/compiler-rt/lib/gwp_asan/tests",
+    "score.sum": 0.0003835786665878542,
+    "sha.latest": "4f1f171f330545c7fad254a672c61eaffcd9344c",
+    "time.latest": 1717799705.1096888,
+    "formatted_time": "2024-06-08 04:05:05.109692",
+    "filescores": {
+        "alignment.cpp": 6.80564895489187,
+        "backtrace.cpp": 11.405956751023133,
+        "basic.cpp": 5.522588151134882,
+        "CMakeLists.txt": 22.685244483101027,
+        "compression.cpp": 1.9896064401073856,
+        "crash_handler_api.cpp": 8.12456279221439,
+        "driver.cpp": 1.5901828230205177,
+        "enable_disable.cpp": 1.5901828230205177,
+        "harness.cpp": 6.028514556423211,
+        "harness.h": 21.008585032168682,
+        "iterate.cpp": 2.215094339499631,
+        "late_init.cpp": 1.5901828230205177,
+        "mutex_test.cpp": 1.5904562916250566,
+        "never_allocated.cpp": 1.5901828230205177,
+        "options.cpp": 0.0,
+        "recoverable.cpp": 2.553539900658697,
+        "slot_reuse.cpp": 1.7603073198064891,
+        "thread_contention.cpp": 1.9491636952634852
+    },
+    "subdirscores": {
+        "platform_specific": 0.0
+    }
+}

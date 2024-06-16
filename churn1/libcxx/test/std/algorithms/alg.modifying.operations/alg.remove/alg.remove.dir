@@ -1,0 +1,18 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/algorithms/alg.modifying.operations/alg.remove",
+    "score.sum": 0.00016368457822419586,
+    "sha.latest": "f5832bab6f5024cabe32a9f668b7f44e6b7cfef5",
+    "time.latest": 1717868799.0164833,
+    "formatted_time": "2024-06-08 23:16:39.016485",
+    "filescores": {
+        "ranges.remove.pass.cpp": 11.245793087873215,
+        "ranges.remove_if.pass.cpp": 7.7379696118358225,
+        "ranges_remove_copy.pass.cpp": 5.895979477149585,
+        "ranges_remove_copy_if.pass.cpp": 5.895979477149585,
+        "remove.pass.cpp": 15.152047375871893,
+        "remove_copy.pass.cpp": 17.262916392614667,
+        "remove_copy_if.pass.cpp": 19.68297373420331,
+        "remove_if.pass.cpp": 17.126340843301925
+    },
+    "subdirscores": {}
+}

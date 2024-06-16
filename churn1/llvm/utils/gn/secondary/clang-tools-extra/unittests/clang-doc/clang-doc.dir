@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/llvm/utils/gn/secondary/clang-tools-extra/unittests/clang-doc",
+    "score.sum": 7.159758666934664e-06,
+    "sha.latest": "ce2474ff60c9ca0a9a5747e6e401abb284d8378f",
+    "time.latest": 1718083052.2767308,
+    "formatted_time": "2024-06-11 00:17:32.276735",
+    "filescores": {
+        "BUILD.gn": 100.0
+    },
+    "subdirscores": {}
+}

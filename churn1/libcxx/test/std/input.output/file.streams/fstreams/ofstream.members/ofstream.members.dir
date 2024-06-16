@@ -1,0 +1,18 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/input.output/file.streams/fstreams/ofstream.members",
+    "score.sum": 0.00014421427860525232,
+    "sha.latest": "92e243173c09fc78c25814a7d7e392971034f5be",
+    "time.latest": 1717902237.5558298,
+    "formatted_time": "2024-06-09 08:33:57.555832",
+    "filescores": {
+        "buffered_writes.pass.cpp": 10.563680681348407,
+        "close.pass.cpp": 12.08720786219949,
+        "native_handle.assert.pass.cpp": 5.451497350312017,
+        "native_handle.pass.cpp": 5.451497350312017,
+        "open_path.pass.cpp": 28.801460878767436,
+        "open_pointer.pass.cpp": 13.470240152661662,
+        "open_string.pass.cpp": 12.08720786219949,
+        "rdbuf.pass.cpp": 12.08720786219949
+    },
+    "subdirscores": {}
+}

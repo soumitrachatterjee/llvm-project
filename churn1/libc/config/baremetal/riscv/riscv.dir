@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/libc/config/baremetal/riscv",
+    "score.sum": 6.753835400681306e-05,
+    "sha.latest": "14171b87a3b5a403f39d78da964595175636a0ae",
+    "time.latest": 1717824964.9011397,
+    "formatted_time": "2024-06-08 00:36:04.901143",
+    "filescores": {
+        "entrypoints.txt": 60.26416880245823,
+        "headers.txt": 39.73583119754176
+    },
+    "subdirscores": {}
+}

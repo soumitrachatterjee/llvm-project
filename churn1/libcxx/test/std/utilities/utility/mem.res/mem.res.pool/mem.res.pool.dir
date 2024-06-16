@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/utilities/utility/mem.res/mem.res.pool",
+    "score.sum": 2.418823521896309e-05,
+    "sha.latest": "2da049a1418f7a2f96e7cac4368cac3ce8667d2e",
+    "time.latest": 1718008762.5791838,
+    "formatted_time": "2024-06-10 14:09:22.579185",
+    "filescores": {},
+    "subdirscores": {
+        "mem.res.pool.ctor": 41.939201579069824,
+        "mem.res.pool.mem": 58.06079842093018
+    }
+}

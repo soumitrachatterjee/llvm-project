@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/libc/src/sys/select",
+    "score.sum": 2.490603417856047e-05,
+    "sha.latest": "b6bc9d72f65a5086f310f321e969d96e9a559e75",
+    "time.latest": 1717841702.485958,
+    "formatted_time": "2024-06-08 05:15:02.485962",
+    "filescores": {
+        "CMakeLists.txt": 0.0,
+        "select.h": 24.490458918994975
+    },
+    "subdirscores": {
+        "linux": 75.50954108100503
+    }
+}

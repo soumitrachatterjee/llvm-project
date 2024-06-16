@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/lldb/test/API/functionalities/unwind/noreturn",
+    "score.sum": 3.322867862255891e-05,
+    "sha.latest": "80fcecb13c388ff087a27a4b0e7ca3dd8c98eaa4",
+    "time.latest": 1717924047.5242643,
+    "formatted_time": "2024-06-09 14:37:27.524266",
+    "filescores": {
+        "main.c": 0.0,
+        "Makefile": 0.0,
+        "TestNoreturnUnwind.py": 50.28222364037913
+    },
+    "subdirscores": {
+        "module-end": 49.71777635962087
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/algorithms/alg.modifying.operations/alg.generate",
+    "score.sum": 7.3831587809107e-05,
+    "sha.latest": "cd916108b4c6fea5908deed6066d5d4720cf7659",
+    "time.latest": 1717868375.6517138,
+    "formatted_time": "2024-06-08 23:09:35.651716",
+    "filescores": {
+        "generate.pass.cpp": 28.918463328686382,
+        "generate_n.pass.cpp": 51.1522752639192,
+        "pstl.generate.pass.cpp": 0.0,
+        "pstl.generate_n.pass.cpp": 0.0,
+        "ranges_generate.pass.cpp": 9.964630703697209,
+        "ranges_generate_n.pass.cpp": 9.964630703697209
+    },
+    "subdirscores": {}
+}

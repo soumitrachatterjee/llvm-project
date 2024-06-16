@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/source/Plugins/ABI/Hexagon",
+    "score.sum": 5.876318315737176e-05,
+    "sha.latest": "57c8fee1b97eb7e70513b935b765f8381a941b18",
+    "time.latest": 1717867461.2726393,
+    "formatted_time": "2024-06-08 22:54:21.272642",
+    "filescores": {
+        "ABISysV_hexagon.cpp": 58.923455541810974,
+        "ABISysV_hexagon.h": 30.69657226962318,
+        "CMakeLists.txt": 10.379972188565848
+    },
+    "subdirscores": {}
+}

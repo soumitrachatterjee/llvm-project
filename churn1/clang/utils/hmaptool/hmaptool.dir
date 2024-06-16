@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/clang/utils/hmaptool",
+    "score.sum": 9.256130490351407e-05,
+    "sha.latest": "32560211c6206a7c63224a52200f41d17652fb0d",
+    "time.latest": 1718082260.378426,
+    "formatted_time": "2024-06-11 10:34:20.378428",
+    "filescores": {
+        "CMakeLists.txt": 75.69741257898302,
+        "hmaptool": 24.30258742101698
+    },
+    "subdirscores": {}
+}

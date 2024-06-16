@@ -1,0 +1,19 @@
+{
+    "directory name": "llvm-project/libc/startup/linux",
+    "score.sum": 0.00015677806411800132,
+    "sha.latest": "69c0b2febe01108f50db6e8ed21cd8b2e6088caf",
+    "time.latest": 1717843827.0939004,
+    "formatted_time": "2024-06-08 05:50:27.093901",
+    "filescores": {
+        "CMakeLists.txt": 18.723578946016033,
+        "crti.cpp": 0.0,
+        "crtn.cpp": 0.0,
+        "do_start.cpp": 7.3710481560419945,
+        "do_start.h": 0.0
+    },
+    "subdirscores": {
+        "aarch64": 27.04327858253318,
+        "riscv": 12.801230452560104,
+        "x86_64": 34.06086386284868
+    }
+}

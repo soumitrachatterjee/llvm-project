@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/lldb/source/Plugins/DynamicLoader/Darwin-Kernel",
+    "score.sum": 0.000648781979146085,
+    "sha.latest": "aeaa11aeac0aedf32cafec6532d303fea595c5fc",
+    "time.latest": 1717868301.4410124,
+    "formatted_time": "2024-06-08 23:08:21.441015",
+    "filescores": {
+        "CMakeLists.txt": 3.6987755981524644,
+        "DynamicLoaderDarwinKernel.cpp": 81.52313213358697,
+        "DynamicLoaderDarwinKernel.h": 14.778092268260561,
+        "DynamicLoaderDarwinKernelProperties.td": 0.0
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,19 @@
+{
+    "directory name": "llvm-project/lldb/source/Plugins/Process/NetBSD",
+    "score.sum": 0.0005273408227779194,
+    "sha.latest": "b96bae2887f276345f9c0ea9974703e8dd3b5ddf",
+    "time.latest": 1717876687.4248655,
+    "formatted_time": "2024-06-09 01:28:07.424869",
+    "filescores": {
+        "CMakeLists.txt": 2.905845913762473,
+        "NativeProcessNetBSD.cpp": 22.020831036226237,
+        "NativeProcessNetBSD.h": 13.049930350359858,
+        "NativeRegisterContextNetBSD.cpp": 4.644340836476809,
+        "NativeRegisterContextNetBSD.h": 5.582141877773578,
+        "NativeRegisterContextNetBSD_x86_64.cpp": 24.99556343061907,
+        "NativeRegisterContextNetBSD_x86_64.h": 11.03139618363224,
+        "NativeThreadNetBSD.cpp": 10.53567166708363,
+        "NativeThreadNetBSD.h": 5.234278704066099
+    },
+    "subdirscores": {}
+}

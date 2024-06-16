@@ -1,0 +1,16 @@
+{
+    "directory name": "llvm-project/lldb/test/API/iohandler",
+    "score.sum": 0.0001132289960114871,
+    "sha.latest": "0f339e6567bffb290e409ef5de272fb75ce70234",
+    "time.latest": 1717924709.8848512,
+    "formatted_time": "2024-06-09 14:48:29.884854",
+    "filescores": {},
+    "subdirscores": {
+        "autosuggestion": 22.255823882006588,
+        "completion": 20.588349980503914,
+        "resize": 14.72151253288701,
+        "sigint": 16.580594417797048,
+        "stdio": 6.735099238168854,
+        "unicode": 19.118619948636592
+    }
+}

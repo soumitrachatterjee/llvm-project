@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/functionalities/signal/handle-segv",
+    "score.sum": 2.17511903827744e-05,
+    "sha.latest": "9c2468821ec51defd09c246fea4a47886fff8c01",
+    "time.latest": 1717919868.0271313,
+    "formatted_time": "2024-06-09 13:27:48.027133",
+    "filescores": {
+        "main.c": 0.0,
+        "Makefile": 0.0,
+        "TestHandleSegv.py": 100.0
+    },
+    "subdirscores": {}
+}

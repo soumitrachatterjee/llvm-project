@@ -1,0 +1,22 @@
+{
+    "directory name": "llvm-project/libcxx/include/__algorithm/pstl_backends/cpu_backends",
+    "score.sum": 0.0001333912483249124,
+    "sha.latest": "7b4622514d232ce5f7110dd8b20d90e81127c467",
+    "time.latest": 1717828554.5907056,
+    "formatted_time": "2024-06-08 12:05:54.590841",
+    "filescores": {
+        "any_of.h": 7.462668747232587,
+        "backend.h": 7.0706978752125185,
+        "fill.h": 7.462668747232587,
+        "find_if.h": 8.079062809860375,
+        "for_each.h": 11.731527356597976,
+        "libdispatch.h": 8.562998075061994,
+        "merge.h": 7.010372391016697,
+        "serial.h": 6.483960160224927,
+        "stable_sort.h": 4.572715335862125,
+        "thread.h": 6.7573663905728605,
+        "transform.h": 11.565253089312748,
+        "transform_reduce.h": 13.240709021812602
+    },
+    "subdirscores": {}
+}

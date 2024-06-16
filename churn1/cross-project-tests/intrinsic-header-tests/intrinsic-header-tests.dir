@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/cross-project-tests/intrinsic-header-tests",
+    "score.sum": 1.2199204137702398e-05,
+    "sha.latest": "f98ee40f4b5d7474fc67e82824bf6abbaedb7b1c",
+    "time.latest": 1717793323.6695766,
+    "formatted_time": "2024-06-08 02:18:43.669581",
+    "filescores": {
+        "lit.local.cfg": 50.0,
+        "README.txt": 0.0,
+        "wasm_simd128.c": 50.0
+    },
+    "subdirscores": {}
+}

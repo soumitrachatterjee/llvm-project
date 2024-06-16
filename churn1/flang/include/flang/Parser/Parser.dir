@@ -1,0 +1,27 @@
+{
+    "directory name": "llvm-project/flang/include/flang/Parser",
+    "score.sum": 0.0006613002578893364,
+    "sha.latest": "f31ac3cb1ff7958fadf6e3e431790f2d668583b4",
+    "time.latest": 1717790078.8652298,
+    "formatted_time": "2024-06-07 14:54:38.865233",
+    "filescores": {
+        "char-block.h": 2.114601244271284,
+        "char-buffer.h": 1.5883048765516006,
+        "char-set.h": 0.9223649917087922,
+        "characters.h": 4.146729553178083,
+        "dump-parse-tree.h": 21.983912841506058,
+        "format-specification.h": 0.9435712667797795,
+        "instrumented-parser.h": 2.361167275712237,
+        "message.h": 7.125384917422704,
+        "parse-state.h": 2.1729391457279377,
+        "parse-tree-visitor.h": 4.450723666664757,
+        "parse-tree.h": 35.03536942234462,
+        "parsing.h": 3.005289672571543,
+        "provenance.h": 5.595762610195902,
+        "source.h": 2.3765463497811954,
+        "tools.h": 3.938541921400364,
+        "unparse.h": 0.987647062731976,
+        "user-state.h": 1.2511431814511638
+    },
+    "subdirscores": {}
+}

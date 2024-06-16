@@ -1,0 +1,24 @@
+{
+    "directory name": "llvm-project/libc/test/src/time",
+    "score.sum": 0.0003944952458622581,
+    "sha.latest": "330793c91d08e6ac60334e4813746db898b9407e",
+    "time.latest": 1717851382.1583374,
+    "formatted_time": "2024-06-08 07:56:22.158341",
+    "filescores": {
+        "CMakeLists.txt": 17.526543163251002,
+        "TmHelper.h": 4.857815839843712,
+        "TmMatcher.h": 5.366154700387575,
+        "asctime_r_test.cpp": 6.717048442515551,
+        "asctime_test.cpp": 5.981024130538139,
+        "clock_gettime_test.cpp": 3.5688499917145724,
+        "clock_test.cpp": 3.4746779317887415,
+        "difftime_test.cpp": 5.737399384834168,
+        "gettimeofday_test.cpp": 7.669464226491179,
+        "gmtime_r_test.cpp": 3.1417731398482323,
+        "gmtime_test.cpp": 11.869326128899726,
+        "mktime_test.cpp": 14.100463223830703,
+        "nanosleep_test.cpp": 6.5147817642679575,
+        "time_test.cpp": 3.4746779317887415
+    },
+    "subdirscores": {}
+}

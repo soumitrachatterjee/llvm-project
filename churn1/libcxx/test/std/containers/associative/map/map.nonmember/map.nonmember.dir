@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/containers/associative/map/map.nonmember",
+    "score.sum": 1.2199204137702398e-05,
+    "sha.latest": "9bb9ec380ace81d040d3a0a0a2ae9a75733ab330",
+    "time.latest": 1717876763.217028,
+    "formatted_time": "2024-06-09 01:29:23.217031",
+    "filescores": {
+        "compare.three_way.pass.cpp": 0.0,
+        "compare.three_way.verify.cpp": 50.0,
+        "op_compare.pass.cpp": 50.0
+    },
+    "subdirscores": {}
+}

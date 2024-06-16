@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/mlir/lib/Conversion/ArmNeon2dToIntr",
+    "score.sum": 3.9147564558194366e-05,
+    "sha.latest": "5550c821897ab77e664977121a0e90ad5be1ff59",
+    "time.latest": 1717802564.2335775,
+    "formatted_time": "2024-06-07 18:22:44.233581",
+    "filescores": {
+        "ArmNeon2dToIntr.cpp": 64.89465718886474,
+        "CMakeLists.txt": 35.10534281113526
+    },
+    "subdirscores": {}
+}

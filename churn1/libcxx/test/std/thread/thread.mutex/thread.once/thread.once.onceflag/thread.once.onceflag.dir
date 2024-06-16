@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/thread/thread.mutex/thread.once/thread.once.onceflag",
+    "score.sum": 4.4147045137068016e-05,
+    "sha.latest": "a7f9895cc18995549c7facb96e72718da282a864",
+    "time.latest": 1717979149.9154422,
+    "formatted_time": "2024-06-10 05:55:49.915445",
+    "filescores": {
+        "assign.compile.fail.cpp": 24.25138334671199,
+        "copy.compile.fail.cpp": 24.25138334671199,
+        "default.pass.cpp": 51.49723330657601
+    },
+    "subdirscores": {}
+}

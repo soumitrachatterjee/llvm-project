@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/input.output/iostream.format/output.streams/ostream.unformatted",
+    "score.sum": 6.400810840755317e-05,
+    "sha.latest": "f4c1258d5633fcf06385ff3fd1f4bf57ab971964",
+    "time.latest": 1717906560.8977835,
+    "formatted_time": "2024-06-09 09:46:00.897785",
+    "filescores": {
+        "flush.pass.cpp": 27.13136831612563,
+        "put.pass.cpp": 36.434315841937185,
+        "write.pass.cpp": 36.434315841937185
+    },
+    "subdirscores": {}
+}

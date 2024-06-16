@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/mlir/test/lib/Conversion/OneToNTypeConversion",
+    "score.sum": 1.688727476484614e-05,
+    "sha.latest": "4a6b31b8d87748f48756674015e00d89e1880dbf",
+    "time.latest": 1717830838.9054642,
+    "formatted_time": "2024-06-08 02:13:58.905468",
+    "filescores": {
+        "CMakeLists.txt": 47.47493790211508,
+        "TestOneToNTypeConversionPass.cpp": 52.52506209788492
+    },
+    "subdirscores": {}
+}

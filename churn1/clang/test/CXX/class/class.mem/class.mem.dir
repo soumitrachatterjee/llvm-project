@@ -1,0 +1,17 @@
+{
+    "directory name": "llvm-project/clang/test/CXX/class/class.mem",
+    "score.sum": 8.954575683304578e-05,
+    "sha.latest": "15f3cd6bfc670ba6106184a903eb04be059e5977",
+    "time.latest": 1718083032.395647,
+    "formatted_time": "2024-06-11 10:47:12.395649",
+    "filescores": {
+        "p1.cpp": 6.904358807485194,
+        "p13.cpp": 20.55444570860295,
+        "p14.cpp": 8.215938410108913,
+        "p1b.cpp": 6.811715356009159,
+        "p2.cpp": 41.67566739238142,
+        "p5-0x.cpp": 6.811715356009159,
+        "p8-0x.cpp": 9.026158969403204
+    },
+    "subdirscores": {}
+}

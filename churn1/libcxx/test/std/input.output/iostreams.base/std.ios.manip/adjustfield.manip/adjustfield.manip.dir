@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/input.output/iostreams.base/std.ios.manip/adjustfield.manip",
+    "score.sum": 5.209882693271469e-05,
+    "sha.latest": "7fc6a55688c816f5fc1a5481ae7af25be7500356",
+    "time.latest": 1717908203.0792034,
+    "formatted_time": "2024-06-09 10:13:23.079205",
+    "filescores": {
+        "internal.pass.cpp": 33.33333333333333,
+        "left.pass.cpp": 33.33333333333333,
+        "right.pass.cpp": 33.33333333333333
+    },
+    "subdirscores": {}
+}

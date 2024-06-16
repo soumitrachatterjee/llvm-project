@@ -1,0 +1,23 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/iterators/iterator.requirements/iterator.concepts",
+    "score.sum": 0.00013005839086739475,
+    "sha.latest": "3903438860b6eebf53a912c672560e1e55311220",
+    "time.latest": 1717914909.1526756,
+    "formatted_time": "2024-06-09 12:05:09.152677",
+    "filescores": {
+        "incrementable.h": 4.6898950757204485
+    },
+    "subdirscores": {
+        "iterator.concept.bidir": 6.216525834517997,
+        "iterator.concept.forward": 7.240853219153632,
+        "iterator.concept.inc": 7.547561040102788,
+        "iterator.concept.input": 7.113633136927114,
+        "iterator.concept.iterator": 7.642157800649543,
+        "iterator.concept.output": 12.83850363020048,
+        "iterator.concept.random.access": 13.694585059855,
+        "iterator.concept.readable": 9.053313899752343,
+        "iterator.concept.sentinel": 7.565364533146064,
+        "iterator.concept.winc": 8.704520309090915,
+        "iterator.concept.writable": 7.693086460883671
+    }
+}

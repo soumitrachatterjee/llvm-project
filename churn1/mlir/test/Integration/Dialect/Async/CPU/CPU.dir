@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/mlir/test/Integration/Dialect/Async/CPU",
+    "score.sum": 0.00026068210291180645,
+    "sha.latest": "f9008e6366c2496b1ca1785b891d5578174ad63e",
+    "time.latest": 1717825445.909697,
+    "formatted_time": "2024-06-08 00:44:05.909701",
+    "filescores": {
+        "lit.local.cfg": 8.49978468623727,
+        "microbench-linalg-async-parallel-for.mlir": 24.847195156962787,
+        "microbench-scf-async-parallel-for.mlir": 20.10686205550606,
+        "test-async-parallel-for-1d.mlir": 23.57959988531598,
+        "test-async-parallel-for-2d.mlir": 22.966558215977898
+    },
+    "subdirscores": {}
+}

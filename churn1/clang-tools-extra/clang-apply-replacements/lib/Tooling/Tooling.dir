@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/clang-tools-extra/clang-apply-replacements/lib/Tooling",
+    "score.sum": 0.00010721738222655527,
+    "sha.latest": "45fec0c110cccd5e0c9b60d51bc2ffc1645c9a40",
+    "time.latest": 1717787843.5907745,
+    "formatted_time": "2024-06-08 00:47:23.591661",
+    "filescores": {
+        "ApplyReplacements.cpp": 100.0
+    },
+    "subdirscores": {}
+}

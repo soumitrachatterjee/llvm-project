@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/mlir/include/mlir/Conversion/AffineToStandard",
+    "score.sum": 4.1882337438951974e-05,
+    "sha.latest": "4c48f016effde67d500fc95290096aec9f3bdb70",
+    "time.latest": 1717791161.6053052,
+    "formatted_time": "2024-06-07 15:12:41.605309",
+    "filescores": {
+        "AffineToStandard.h": 100.0
+    },
+    "subdirscores": {}
+}

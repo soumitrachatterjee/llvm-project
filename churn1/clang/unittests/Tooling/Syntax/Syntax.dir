@@ -1,0 +1,18 @@
+{
+    "directory name": "llvm-project/clang/unittests/Tooling/Syntax",
+    "score.sum": 0.0003072947996083803,
+    "sha.latest": "9d1dada57741d204f8a95aa2b0c89a7242e101f1",
+    "time.latest": 1718083110.2336266,
+    "formatted_time": "2024-06-11 10:48:30.233629",
+    "filescores": {
+        "BuildTreeTest.cpp": 8.089576740857472,
+        "CMakeLists.txt": 13.632864471767725,
+        "MutationsTest.cpp": 2.8432701345494613,
+        "SynthesisTest.cpp": 3.311806169568956,
+        "TokensTest.cpp": 24.86016571491043,
+        "TreeTest.cpp": 36.130109456004774,
+        "TreeTestBase.cpp": 7.3237818766088845,
+        "TreeTestBase.h": 3.8084254357322793
+    },
+    "subdirscores": {}
+}

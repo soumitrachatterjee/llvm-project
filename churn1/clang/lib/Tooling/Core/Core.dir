@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/clang/lib/Tooling/Core",
+    "score.sum": 0.0001751597432177927,
+    "sha.latest": "27254ae51192d83fd45777cc33b004d06c2ceb50",
+    "time.latest": 1717822873.8932972,
+    "formatted_time": "2024-06-08 10:31:13.893301",
+    "filescores": {
+        "CMakeLists.txt": 24.078118653906948,
+        "Diagnostic.cpp": 14.030907407959692,
+        "Replacement.cpp": 61.890973938133364
+    },
+    "subdirscores": {}
+}

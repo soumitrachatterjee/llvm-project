@@ -1,0 +1,17 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/thread/thread.mutex/thread.mutex.requirements/thread.timedmutex.requirements/thread.timedmutex.recursive",
+    "score.sum": 0.00019184389975248752,
+    "sha.latest": "e655d8a54880cf550567dda0e9a1a33f6ee98df5",
+    "time.latest": 1717979065.2334237,
+    "formatted_time": "2024-06-10 05:54:25.233425",
+    "filescores": {
+        "assign.compile.fail.cpp": 0.0,
+        "copy.compile.fail.cpp": 0.0,
+        "default.pass.cpp": 10.883567453412388,
+        "lock.pass.cpp": 25.841884867512583,
+        "try_lock.pass.cpp": 24.61789381827462,
+        "try_lock_for.pass.cpp": 19.328326930400202,
+        "try_lock_until.pass.cpp": 19.328326930400202
+    },
+    "subdirscores": {}
+}

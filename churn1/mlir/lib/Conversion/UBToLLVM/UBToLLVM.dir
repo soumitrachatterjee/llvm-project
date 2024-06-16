@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/mlir/lib/Conversion/UBToLLVM",
+    "score.sum": 8.833001433241365e-06,
+    "sha.latest": "a8599ac242e2d08c3eb157ab9331d7a32c3483b0",
+    "time.latest": 1717804166.8552032,
+    "formatted_time": "2024-06-07 18:49:26.855206",
+    "filescores": {
+        "CMakeLists.txt": 0.0,
+        "UBToLLVM.cpp": 100.0
+    },
+    "subdirscores": {}
+}

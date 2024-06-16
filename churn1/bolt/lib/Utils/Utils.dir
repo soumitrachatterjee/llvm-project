@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/bolt/lib/Utils",
+    "score.sum": 8.216648107825896e-05,
+    "sha.latest": "2abcbbd96ad731b05fae970a0abb23cda784dddd",
+    "time.latest": 1717789334.3935025,
+    "formatted_time": "2024-06-08 01:12:14.393506",
+    "filescores": {
+        "CMakeLists.txt": 13.345348612648811,
+        "CommandLineOpts.cpp": 55.224321830854606,
+        "Utils.cpp": 31.430329556496595
+    },
+    "subdirscores": {}
+}

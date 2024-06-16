@@ -1,0 +1,17 @@
+{
+    "directory name": "llvm-project/clang/test/CXX/dcl.dcl",
+    "score.sum": 0.0009928958021945017,
+    "sha.latest": "99500e8c08a4d941acb8a7eb00523296fb2acf7a",
+    "time.latest": 1718087531.182613,
+    "formatted_time": "2024-06-11 12:02:11.182616",
+    "filescores": {
+        "p4-0x.cpp": 6.973631904655623
+    },
+    "subdirscores": {
+        "basic.namespace": 12.575824828195707,
+        "dcl.attr": 17.827953222961128,
+        "dcl.enum": 0.786949339563231,
+        "dcl.link": 3.6620447380930705,
+        "dcl.spec": 58.173595966531245
+    }
+}

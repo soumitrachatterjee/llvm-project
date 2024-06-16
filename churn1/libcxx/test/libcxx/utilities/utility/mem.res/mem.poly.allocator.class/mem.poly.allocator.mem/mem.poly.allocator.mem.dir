@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/libcxx/test/libcxx/utilities/utility/mem.res/mem.poly.allocator.class/mem.poly.allocator.mem",
+    "score.sum": 1.2637015846095492e-05,
+    "sha.latest": "6082478e1a5bde8ac03ac7220b733313a5417a13",
+    "time.latest": 1717867599.5218236,
+    "formatted_time": "2024-06-08 22:56:39.521826",
+    "filescores": {
+        "allocate_vocabulary.attributes.verify.cpp": 0.0,
+        "assert.deallocate.pass.cpp": 0.0,
+        "construct_piecewise_pair.pass.cpp": 100.0
+    },
+    "subdirscores": {}
+}

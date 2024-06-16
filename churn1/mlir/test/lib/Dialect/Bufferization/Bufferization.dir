@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/mlir/test/lib/Dialect/Bufferization",
+    "score.sum": 1.823057335797002e-05,
+    "sha.latest": "067d2779fcfc62dd429177f350b8cefe49b65b51",
+    "time.latest": 1717831069.8509176,
+    "formatted_time": "2024-06-08 02:17:49.850921",
+    "filescores": {
+        "CMakeLists.txt": 0.0,
+        "TestTensorCopyInsertion.cpp": 100.0
+    },
+    "subdirscores": {}
+}

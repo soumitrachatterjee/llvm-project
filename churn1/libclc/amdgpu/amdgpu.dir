@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/libclc/amdgpu",
+    "score.sum": 9.601294917985975e-05,
+    "sha.latest": "0ba9339cdeb0d5d3af3185a6c3814679c8777a6d",
+    "time.latest": 1717823924.0842612,
+    "formatted_time": "2024-06-08 00:18:44.084261",
+    "filescores": {},
+    "subdirscores": {
+        "lib": 100.0
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "directory name": "llvm-project/llvm/include/llvm/Passes",
+    "score.sum": 0.0007273443853277591,
+    "sha.latest": "ed1aabef1da1b074b71ad523978ea836d6e7d2e7",
+    "time.latest": 1717820267.8921967,
+    "formatted_time": "2024-06-07 23:17:47.892200",
+    "filescores": {
+        "CodeGenPassBuilder.h": 3.5850826054585982,
+        "MachinePassRegistry.def": 1.8733283730121346,
+        "OptimizationLevel.h": 0.8386126561082299,
+        "PassBuilder.h": 63.84270947547726,
+        "PassPlugin.h": 0.9659020966235882,
+        "StandardInstrumentations.h": 28.894364793320204
+    },
+    "subdirscores": {}
+}

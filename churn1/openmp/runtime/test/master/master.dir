@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/openmp/runtime/test/master",
+    "score.sum": 1.2199204137702398e-05,
+    "sha.latest": "373107699709f6fb06992bf6b76274091570aaf2",
+    "time.latest": 1717801966.7865958,
+    "formatted_time": "2024-06-08 04:42:46.786600",
+    "filescores": {
+        "omp_master.c": 50.0,
+        "omp_master_3.c": 50.0
+    },
+    "subdirscores": {}
+}

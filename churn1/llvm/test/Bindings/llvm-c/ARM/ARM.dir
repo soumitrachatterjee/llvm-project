@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/llvm/test/Bindings/llvm-c/ARM",
+    "score.sum": 6.099602068851199e-06,
+    "sha.latest": "b8baa2a9132498ea286dbb0d03f005760ecc6fdb",
+    "time.latest": 1717937778.8909268,
+    "formatted_time": "2024-06-09 07:56:18.890930",
+    "filescores": {
+        "disassemble.test": 100.0,
+        "lit.local.cfg": 0.0
+    },
+    "subdirscores": {}
+}

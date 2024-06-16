@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/lldb/test/Shell/Expr/Inputs",
+    "score.sum": 3.290733759329992e-05,
+    "sha.latest": "87aa9c9e4d41ed881453e2fab85b3d25f648bb55",
+    "time.latest": 1717972738.4874535,
+    "formatted_time": "2024-06-10 04:08:58.487456",
+    "filescores": {
+        "call-function.cpp": 25.0,
+        "ir-memory-map-basic": 25.0,
+        "ir-memory-map-mix-malloc-free": 25.0,
+        "ir-memory-map-overlap1": 25.0
+    },
+    "subdirscores": {}
+}

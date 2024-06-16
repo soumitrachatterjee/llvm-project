@@ -1,0 +1,17 @@
+{
+    "directory name": "llvm-project/compiler-rt/lib/builtins/x86_64",
+    "score.sum": 0.00011099645718673655,
+    "sha.latest": "248aeac1ad2cf4f583490dd1312a5b448d2bb8cc",
+    "time.latest": 1717797893.1780717,
+    "formatted_time": "2024-06-08 03:34:53.178074",
+    "filescores": {
+        "chkstk.S": 5.962491660561469,
+        "floatdidf.c": 19.51980017672742,
+        "floatdisf.c": 19.51980017672742,
+        "floatdixf.c": 14.187936257693117,
+        "floatundidf.S": 10.939897148135962,
+        "floatundisf.S": 15.86220727513427,
+        "floatundixf.S": 14.00786730502034
+    },
+    "subdirscores": {}
+}

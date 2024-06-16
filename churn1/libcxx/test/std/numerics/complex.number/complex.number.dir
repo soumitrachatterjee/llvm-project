@@ -1,0 +1,25 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/numerics/complex.number",
+    "score.sum": 0.00033356152404744694,
+    "sha.latest": "2ea5d167ae43bed5a511d5d819ae7c52cc76ec5c",
+    "time.latest": 1717935808.3119478,
+    "formatted_time": "2024-06-09 17:53:28.311951",
+    "filescores": {
+        "cases.h": 6.08352252358542,
+        "layout.pass.cpp": 5.206318592598825
+    },
+    "subdirscores": {
+        "ccmplx": 7.106891716927438,
+        "cmplx.over": 10.757489628665795,
+        "complex": 5.206318592598825,
+        "complex.literals": 11.36047178536649,
+        "complex.member.ops": 5.031838291537119,
+        "complex.members": 4.648397482467179,
+        "complex.ops": 13.969082067813767,
+        "complex.special": 5.451090099106447,
+        "complex.synopsis": 3.6373690327169586,
+        "complex.transcendentals": 13.582847306580636,
+        "complex.tuple": 0.0,
+        "complex.value.ops": 7.958362880035104
+    }
+}

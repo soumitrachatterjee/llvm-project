@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/lldb/test/API/lang/cpp/lambdas",
+    "score.sum": 6.099602068851199e-06,
+    "sha.latest": "fdea9a4ec9b0d9585b8fe8a612686d9f44f40ddc",
+    "time.latest": 1717932925.2520814,
+    "formatted_time": "2024-06-09 17:05:25.252085",
+    "filescores": {
+        "main.cpp": 100.0,
+        "TestLambdas.py": 0.0
+    },
+    "subdirscores": {}
+}

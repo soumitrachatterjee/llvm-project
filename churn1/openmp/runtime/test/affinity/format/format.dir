@@ -1,0 +1,26 @@
+{
+    "directory name": "llvm-project/openmp/runtime/test/affinity/format",
+    "score.sum": 9.540132227164525e-05,
+    "sha.latest": "f98ee40f4b5d7474fc67e82824bf6abbaedb7b1c",
+    "time.latest": 1717801028.6164424,
+    "formatted_time": "2024-06-08 04:27:08.616445",
+    "filescores": {
+        "affinity_display.1.c": 6.3936242429462595,
+        "affinity_values.c": 6.3936242429462595,
+        "api.c": 6.3936242429462595,
+        "api2.c": 6.43514850865043,
+        "check.py": 6.3936242429462595,
+        "fields_modifiers.c": 0.0,
+        "fields_values.c": 6.3936242429462595,
+        "increase.c": 6.4186078576190395,
+        "lit.local.cfg": 6.3936242429462595,
+        "nested.c": 6.4186078576190395,
+        "nested2.c": 6.4186078576190395,
+        "nested_mixed.c": 6.4186078576190395,
+        "nested_serial.c": 6.4186078576190395,
+        "proc_bind.c": 6.4186078576190395,
+        "simple.c": 6.4186078576190395,
+        "simple_env.c": 10.272851030338733
+    },
+    "subdirscores": {}
+}

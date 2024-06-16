@@ -1,0 +1,29 @@
+{
+    "directory name": "llvm-project/mlir/test/Conversion/SPIRVToLLVM",
+    "score.sum": 0.0003994933116570827,
+    "sha.latest": "747d8fb01c2417546ebaa774874ff8c3005e058a",
+    "time.latest": 1717816787.154179,
+    "formatted_time": "2024-06-07 22:19:47.154182",
+    "filescores": {
+        "arithmetic-ops-to-llvm.mlir": 4.82146605022924,
+        "bitwise-ops-to-llvm.mlir": 5.701491205353246,
+        "cast-ops-to-llvm.mlir": 4.770512758804997,
+        "comparison-ops-to-llvm.mlir": 4.771958049241331,
+        "constant-op-to-llvm.mlir": 4.926675303314389,
+        "control-flow-ops-to-llvm.mlir": 6.411609800502916,
+        "func-ops-to-llvm.mlir": 4.364216264747958,
+        "gl-ops-to-llvm.mlir": 2.76701804981898,
+        "logical-ops-to-llvm.mlir": 5.5169487020267125,
+        "lower-host-to-llvm-calls.mlir": 12.957625878381481,
+        "lower-host-to-llvm-calls_fail.mlir": 1.6761439100986208,
+        "memory-ops-to-llvm.mlir": 7.5941869634287755,
+        "misc-ops-to-llvm.mlir": 10.826738723100174,
+        "module-ops-to-llvm.mlir": 6.607825705809351,
+        "shift-ops-to-llvm.mlir": 4.161409775041618,
+        "spirv-storage-class-mapping-unsupported.mlir": 0.0,
+        "spirv-storage-class-mapping.mlir": 2.2816228937576613,
+        "spirv-types-to-llvm-invalid.mlir": 5.366374918208891,
+        "spirv-types-to-llvm.mlir": 4.476175048133672
+    },
+    "subdirscores": {}
+}

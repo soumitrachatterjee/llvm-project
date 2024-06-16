@@ -1,0 +1,24 @@
+{
+    "directory name": "llvm-project/mlir/test/Analysis",
+    "score.sum": 0.0002818571412492327,
+    "sha.latest": "2bd6642533ce858c07f1c412e1b8a669c17afb54",
+    "time.latest": 1717814581.549293,
+    "formatted_time": "2024-06-07 21:43:01.549297",
+    "filescores": {
+        "invalid.mlir": 0.0,
+        "test-alias-analysis-extending.mlir": 0.0,
+        "test-alias-analysis-modref.mlir": 4.982614580942692,
+        "test-alias-analysis.mlir": 9.89427912981915,
+        "test-callgraph.mlir": 5.630015644357628,
+        "test-cfg-loop-info.mlir": 0.0,
+        "test-dominance.mlir": 11.436541481120974,
+        "test-foo-analysis.mlir": 4.005333164399563,
+        "test-liveness.mlir": 18.510683546946005,
+        "test-match-reduction.mlir": 7.891477214310702,
+        "test-shape-fn-report.mlir": 10.035134723153078,
+        "test-topoligical-sort.mlir": 4.617902780223981
+    },
+    "subdirscores": {
+        "DataFlow": 22.99601773472623
+    }
+}

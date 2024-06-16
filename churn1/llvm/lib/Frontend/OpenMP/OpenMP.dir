@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/llvm/lib/Frontend/OpenMP",
+    "score.sum": 0.0010640756479729616,
+    "sha.latest": "141ebdd242f35bfebc576c51d8b60182ae4eac2d",
+    "time.latest": 1717838195.8405206,
+    "formatted_time": "2024-06-08 04:16:35.840524",
+    "filescores": {
+        "CMakeLists.txt": 3.112225399087556,
+        "OMP.cpp": 0.5732301157789668,
+        "OMPContext.cpp": 5.655444379964671,
+        "OMPIRBuilder.cpp": 90.6591001051688
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/mlir/lib/Dialect/Shape/IR",
+    "score.sum": 0.00047007718374828325,
+    "sha.latest": "91d5653e3ae9742f7fb847f809b534ee128501b0",
+    "time.latest": 1717808812.774618,
+    "formatted_time": "2024-06-07 20:06:52.774621",
+    "filescores": {
+        "CMakeLists.txt": 7.594601925838014,
+        "Shape.cpp": 86.19463445963937,
+        "ShapeCanonicalization.td": 6.210763614522615
+    },
+    "subdirscores": {}
+}

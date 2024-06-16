@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/llvm/examples/BrainF",
+    "score.sum": 0.0003443364658548456,
+    "sha.latest": "46d7876957deb817b48a5fa8a854b5a47a6a0653",
+    "time.latest": 1717803514.4286947,
+    "formatted_time": "2024-06-07 18:38:34.428700",
+    "filescores": {
+        "BrainF.cpp": 41.012043224078695,
+        "BrainF.h": 13.180842703707803,
+        "BrainFDriver.cpp": 37.01540347382919,
+        "CMakeLists.txt": 8.791710598384306
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/Shell/ScriptInterpreter",
+    "score.sum": 0.00026975975543197647,
+    "sha.latest": "5000e4c2527ae53bf7c1a609f739a97cdc522bbe",
+    "time.latest": 1717979161.1775093,
+    "formatted_time": "2024-06-10 05:56:01.177511",
+    "filescores": {},
+    "subdirscores": {
+        "Lua": 22.3456692645995,
+        "None": 2.2611238133292626,
+        "Python": 75.39320692207124
+    }
+}

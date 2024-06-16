@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/clang-tools-extra/test/modularize/Inputs/CoverageNoProblems",
+    "score.sum": 1.2462904321575242e-05,
+    "sha.latest": "a171d248ca34b8b6f8de11d42a83ad981285963a",
+    "time.latest": 1717834936.8184214,
+    "formatted_time": "2024-06-08 13:52:16.818423",
+    "filescores": {
+        "module.modulemap": 51.05794033665306
+    },
+    "subdirscores": {
+        "Includes1": 48.94205966334694,
+        "Includes2": 0.0,
+        "NonIncludes": 0.0
+    }
+}

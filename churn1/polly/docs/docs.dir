@@ -1,0 +1,23 @@
+{
+    "directory name": "llvm-project/polly/docs",
+    "score.sum": 0.0002779919809012593,
+    "sha.latest": "4706251a3186c34da0ee8fd894f7e6b095da8fdc",
+    "time.latest": 1717793014.0467043,
+    "formatted_time": "2024-06-07 15:43:34.046708",
+    "filescores": {
+        "Architecture.rst": 3.8167200871295277,
+        "CMakeLists.txt": 2.1941647557875896,
+        "HowToManuallyUseTheIndividualPiecesOfPolly.rst": 7.844999933556402,
+        "Performance.rst": 2.1942771599883093,
+        "ReleaseNotes.rst": 33.21014708669725,
+        "TipsAndTricks.rst": 3.8612534440692867,
+        "UsingPollyWithClang.rst": 7.329372953977045,
+        "conf.py": 14.515305213384641,
+        "doxygen.cfg.in": 4.006911877073702,
+        "index.rst": 6.197520413517734
+    },
+    "subdirscores": {
+        "experiments": 9.256048432836442,
+        "images": 5.5732786419821005
+    }
+}

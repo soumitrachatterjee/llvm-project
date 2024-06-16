@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/libcxx/test/libcxx/atomics/atomics.flag",
+    "score.sum": 2.2312301010266476e-05,
+    "sha.latest": "4e730aeb731cb9b7116ed51bbef662d363f72b66",
+    "time.latest": 1717845236.9180639,
+    "formatted_time": "2024-06-08 16:43:56.918067",
+    "filescores": {
+        "init_bool.pass.cpp": 100.0
+    },
+    "subdirscores": {}
+}

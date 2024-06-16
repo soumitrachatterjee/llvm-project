@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/mlir/include/mlir/Dialect/Mesh/Interfaces",
+    "score.sum": 5.0567661585397094e-05,
+    "sha.latest": "fb582b6ace781ff6991775d6dcd4df98aa16698f",
+    "time.latest": 1717795750.397508,
+    "formatted_time": "2024-06-07 16:29:10.397511",
+    "filescores": {
+        "CMakeLists.txt": 14.11615576032126,
+        "ShardingInterface.h": 46.95118508124709,
+        "ShardingInterface.td": 23.059609683837362,
+        "ShardingInterfaceImpl.h": 15.873049474594279
+    },
+    "subdirscores": {}
+}

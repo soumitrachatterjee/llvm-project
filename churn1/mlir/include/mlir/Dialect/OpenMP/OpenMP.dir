@@ -1,0 +1,16 @@
+{
+    "directory name": "llvm-project/mlir/include/mlir/Dialect/OpenMP",
+    "score.sum": 0.0007147719026737644,
+    "sha.latest": "c54064de80e93494d1d44550b56ce8f2f3cf9c4b",
+    "time.latest": 1717796167.343449,
+    "formatted_time": "2024-06-07 16:36:07.343452",
+    "filescores": {
+        "CMakeLists.txt": 4.143768235585403,
+        "OpenMPDialect.h": 4.662122812902294,
+        "OpenMPInterfaces.h": 1.635702672515434,
+        "OpenMPOps.td": 74.51805839119058,
+        "OpenMPOpsInterfaces.td": 14.186984451717901,
+        "OpenMPTypeInterfaces.td": 0.85336343608839
+    },
+    "subdirscores": {}
+}

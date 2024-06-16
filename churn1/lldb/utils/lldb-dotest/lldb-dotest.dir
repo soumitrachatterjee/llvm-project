@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/lldb/utils/lldb-dotest",
+    "score.sum": 0.00013737747115306366,
+    "sha.latest": "249cf356ef21d0b6ed0d1fa962f3fc5a9e3fcc9e",
+    "time.latest": 1717999756.2705605,
+    "formatted_time": "2024-06-10 11:39:16.270564",
+    "filescores": {
+        "CMakeLists.txt": 51.55307006151881,
+        "lldb-dotest.in": 48.44692993848119
+    },
+    "subdirscores": {}
+}

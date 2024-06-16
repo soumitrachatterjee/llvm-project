@@ -1,0 +1,31 @@
+{
+    "directory_name": "llvm-project/libcxx/test/std",
+    "score.sum": 0.020052818527952185,
+    "sha.latest": "ee22e255648ee9b056280484b4b70d4542bc807e",
+    "time.latest": 1718013177.9438052,
+    "formatted_time": "2024-06-10 15:22:57.943820",
+    "filescores": {},
+    "subdirscores": {
+        "algorithms": 8.177074106185403,
+        "atomics": 2.2731805348214604,
+        "concepts": 0.7292316093641651,
+        "containers": 10.859513703623849,
+        "depr": 2.308943258045392,
+        "diagnostics": 0.998534173971795,
+        "experimental": 3.599078485333016,
+        "input.output": 8.44260015914776,
+        "iterators": 4.986154396291445,
+        "language.support": 8.539149945246043,
+        "library": 0.7418702880422411,
+        "localization": 3.5196096613756764,
+        "modules": 0.21912474577091348,
+        "namespace": 0.0668876074803933,
+        "numerics": 4.634047611094098,
+        "ranges": 2.514061677348552,
+        "re": 2.815258372273159,
+        "strings": 6.586595385282308,
+        "thread": 4.674268683887289,
+        "time": 1.0767328236253162,
+        "utilities": 22.23808277178973
+    }
+}

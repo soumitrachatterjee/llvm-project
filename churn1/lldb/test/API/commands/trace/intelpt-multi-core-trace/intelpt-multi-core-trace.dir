@@ -1,0 +1,17 @@
+{
+    "directory name": "llvm-project/lldb/test/API/commands/trace/intelpt-multi-core-trace",
+    "score.sum": 1.220445788625438e-05,
+    "sha.latest": "9f45f23d860251edceed6128110855c51af4f39f",
+    "time.latest": 1717899532.6331494,
+    "formatted_time": "2024-06-09 07:48:52.633153",
+    "filescores": {
+        "multi_thread.cpp": 0.0,
+        "trace.json": 50.02152389151958,
+        "trace_missing_threads.json": 49.978476108480415,
+        "trace_with_string_numbers.json": 0.0
+    },
+    "subdirscores": {
+        "cores": 0.0,
+        "modules": 0.0
+    }
+}

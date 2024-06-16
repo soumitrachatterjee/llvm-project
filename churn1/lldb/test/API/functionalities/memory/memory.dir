@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/functionalities/memory",
+    "score.sum": 4.877864635720942e-05,
+    "sha.latest": "80fcecb13c388ff087a27a4b0e7ca3dd8c98eaa4",
+    "time.latest": 1717912193.6424072,
+    "formatted_time": "2024-06-09 11:19:53.642409",
+    "filescores": {},
+    "subdirscores": {
+        "cache": 35.623610417357426,
+        "find": 36.5732819841877,
+        "tag": 27.803107598454872
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "directory name": "llvm-project/openmp/libompd/src",
+    "score.sum": 6.266619838940247e-05,
+    "sha.latest": "822142ffdfbe93f213c2c6b3f2aec7fe5f0af072",
+    "time.latest": 1717793192.511639,
+    "formatted_time": "2024-06-08 02:16:32.511644",
+    "filescores": {
+        "CMakeLists.txt": 90.26651970979827,
+        "Debug.h": 0.0,
+        "omp-debug.cpp": 0.0,
+        "omp-debug.h": 0.0,
+        "omp-icv.cpp": 9.733480290201724,
+        "omp-state.cpp": 0.0,
+        "ompd-private.h": 0.0,
+        "ompd-types.h": 0.0,
+        "TargetValue.cpp": 0.0,
+        "TargetValue.h": 0.0
+    },
+    "subdirscores": {}
+}

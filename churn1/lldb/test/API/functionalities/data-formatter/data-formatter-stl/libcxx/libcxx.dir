@@ -1,0 +1,30 @@
+{
+    "directory name": "llvm-project/lldb/test/API/functionalities/data-formatter/data-formatter-stl/libcxx",
+    "score.sum": 0.00047083912747264563,
+    "sha.latest": "9c2468821ec51defd09c246fea4a47886fff8c01",
+    "time.latest": 1717907103.3589876,
+    "formatted_time": "2024-06-09 09:55:03.358989",
+    "filescores": {},
+    "subdirscores": {
+        "atomic": 4.000325905308617,
+        "chrono": 6.723129372608157,
+        "deque": 4.362027523436001,
+        "function": 2.2307798817171793,
+        "initializerlist": 2.898487264956019,
+        "iterator": 4.263294791964959,
+        "map": 4.555354254038264,
+        "queue": 3.432472395673537,
+        "ranges": 1.973770596567823,
+        "shared_ptr": 11.096338163548442,
+        "span": 2.703822706917047,
+        "string": 13.54790744796062,
+        "string_view": 7.442239651217779,
+        "tuple": 3.042369144579551,
+        "unique_ptr": 14.726218325888452,
+        "unordered_map": 1.2954747625993694,
+        "valarray": 0.0,
+        "variant": 5.89977956640041,
+        "vbool": 2.2215304112701526,
+        "vector": 3.5846778333476244
+    }
+}

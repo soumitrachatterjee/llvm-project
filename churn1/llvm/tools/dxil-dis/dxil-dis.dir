@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/llvm/tools/dxil-dis",
+    "score.sum": 6.099602068851199e-06,
+    "sha.latest": "4eaccea4f154e79102942debd75106f4daf2e535",
+    "time.latest": 1718077935.2708588,
+    "formatted_time": "2024-06-10 22:52:15.270863",
+    "filescores": {
+        "CMakeLists.txt": 100.0
+    },
+    "subdirscores": {}
+}

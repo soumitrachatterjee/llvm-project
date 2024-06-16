@@ -1,0 +1,18 @@
+{
+    "directory name": "llvm-project/lldb/unittests/tools/lldb-server/tests",
+    "score.sum": 0.0002829926202199485,
+    "sha.latest": "133bcacecfb70e8b1692f9c2c0a44ec640a0422a",
+    "time.latest": 1717998892.3730416,
+    "formatted_time": "2024-06-10 11:24:52.373043",
+    "filescores": {
+        "CMakeLists.txt": 4.657222063377019,
+        "LLGSTest.cpp": 6.877216440885955,
+        "MessageObjects.cpp": 27.589217737565303,
+        "MessageObjects.h": 5.986271561981074,
+        "TestBase.cpp": 5.410700582398373,
+        "TestBase.h": 9.395619543334153,
+        "TestClient.cpp": 28.24142578135706,
+        "TestClient.h": 11.842326289101077
+    },
+    "subdirscores": {}
+}

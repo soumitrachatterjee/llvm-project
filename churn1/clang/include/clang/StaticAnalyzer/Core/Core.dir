@@ -1,0 +1,20 @@
+{
+    "directory name": "llvm-project/clang/include/clang/StaticAnalyzer/Core",
+    "score.sum": 0.004011975474387392,
+    "sha.latest": "67c6ad6f30e35c7670bce9bca902caa4b1c8c0e8",
+    "time.latest": 1717802248.1188388,
+    "formatted_time": "2024-06-08 04:47:28.118841",
+    "filescores": {
+        "Analyses.def": 2.3568425516412637,
+        "AnalyzerOptions.def": 2.1851219310393595,
+        "AnalyzerOptions.h": 9.240219583267779,
+        "Checker.h": 2.6251190537714515,
+        "CheckerManager.h": 4.496349262259783,
+        "CheckerRegistryData.h": 0.1520348792706061,
+        "PathDiagnosticConsumers.h": 2.2953638292046152
+    },
+    "subdirscores": {
+        "BugReporter": 18.166148110284396,
+        "PathSensitive": 58.48280079926075
+    }
+}

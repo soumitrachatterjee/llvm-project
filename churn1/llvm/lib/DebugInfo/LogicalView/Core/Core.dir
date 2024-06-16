@@ -1,0 +1,23 @@
+{
+    "directory name": "llvm-project/llvm/lib/DebugInfo/LogicalView/Core",
+    "score.sum": 0.00013048931697037092,
+    "sha.latest": "f9306f6de3bd19a2dcacd64566852a5f92c86e77",
+    "time.latest": 1717834376.8270738,
+    "formatted_time": "2024-06-08 03:12:56.827078",
+    "filescores": {
+        "LVCompare.cpp": 4.674407231540788,
+        "LVElement.cpp": 7.248082390935726,
+        "LVLine.cpp": 10.318718303450988,
+        "LVLocation.cpp": 10.541417791887817,
+        "LVObject.cpp": 9.194675174726006,
+        "LVOptions.cpp": 9.633377193882827,
+        "LVRange.cpp": 0.0,
+        "LVReader.cpp": 5.001828626391832,
+        "LVScope.cpp": 13.587859943647263,
+        "LVSort.cpp": 4.674407231540788,
+        "LVSupport.cpp": 8.840848169859832,
+        "LVSymbol.cpp": 7.14696370147906,
+        "LVType.cpp": 9.137414240657067
+    },
+    "subdirscores": {}
+}

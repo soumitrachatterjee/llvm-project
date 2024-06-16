@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/input.output/stream.buffers/streambuf/streambuf.cons",
+    "score.sum": 3.681210374357945e-05,
+    "sha.latest": "b82dcb624e6bfa58ed566511cb564f8f201fa62e",
+    "time.latest": 1717908785.0000498,
+    "formatted_time": "2024-06-09 10:23:05.000051",
+    "filescores": {
+        "copy.pass.cpp": 50.0,
+        "copy.verify.cpp": 0.0,
+        "default.compile.fail.cpp": 0.0,
+        "default.pass.cpp": 50.0
+    },
+    "subdirscores": {}
+}

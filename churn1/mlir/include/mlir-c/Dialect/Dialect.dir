@@ -1,0 +1,36 @@
+{
+    "directory name": "llvm-project/mlir/include/mlir-c/Dialect",
+    "score.sum": 0.00020900543674410037,
+    "sha.latest": "3714f937b835c06c8c32ca4f3f61ba2317db2296",
+    "time.latest": 1717790515.4180474,
+    "formatted_time": "2024-06-07 15:01:55.418052",
+    "filescores": {
+        "AMDGPU.h": 0.0,
+        "Arith.h": 0.0,
+        "Async.h": 2.918393972841653,
+        "ControlFlow.h": 2.918393972841653,
+        "Func.h": 3.721689462400579,
+        "GPU.h": 5.593356612345601,
+        "LLVM.h": 9.46766034273388,
+        "Linalg.h": 7.015397982068189,
+        "MLProgram.h": 0.0,
+        "Math.h": 0.0,
+        "MemRef.h": 0.0,
+        "NVGPU.h": 0.0,
+        "NVVM.h": 0.0,
+        "OpenMP.h": 0.0,
+        "PDL.h": 3.560937675004939,
+        "Quant.h": 4.633692149143785,
+        "ROCDL.h": 0.0,
+        "SCF.h": 2.918393972841653,
+        "SPIRV.h": 0.0,
+        "Shape.h": 2.918393972841653,
+        "SparseTensor.h": 42.515477673896136,
+        "Tensor.h": 2.918393972841653,
+        "Transform.h": 8.899818238198622,
+        "Vector.h": 0.0
+    },
+    "subdirscores": {
+        "Transform": 0.0
+    }
+}

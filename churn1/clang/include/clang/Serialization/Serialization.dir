@@ -1,0 +1,27 @@
+{
+    "directory name": "llvm-project/clang/include/clang/Serialization",
+    "score.sum": 0.0037560425630054502,
+    "sha.latest": "3f6bc1adf805681293c2ef0b93b708ff52244c00",
+    "time.latest": 1717801471.0087557,
+    "formatted_time": "2024-06-08 04:34:31.008758",
+    "filescores": {
+        "ASTBitCodes.h": 34.379955084356254,
+        "ASTDeserializationListener.h": 1.1946410300872063,
+        "ASTReader.h": 31.565220914941612,
+        "ASTRecordReader.h": 1.012784232166814,
+        "ASTRecordWriter.h": 0.6717386873832156,
+        "ASTWriter.h": 19.06429819196089,
+        "CMakeLists.txt": 0.16239438096171405,
+        "ContinuousRangeMap.h": 1.6670814305711312,
+        "GlobalModuleIndex.h": 1.2818484867315212,
+        "InMemoryModuleCache.h": 0.2434465438363528,
+        "ModuleFile.h": 2.3281727406482324,
+        "ModuleFileExtension.h": 0.9360109948537483,
+        "ModuleManager.h": 3.876546794166892,
+        "PCHContainerOperations.h": 0.3974361639304028,
+        "SerializationDiagnostic.h": 0.4312522471806049,
+        "SourceLocationEncoding.h": 0.16243028078541324,
+        "TypeBitCodes.def": 0.624741795437987
+    },
+    "subdirscores": {}
+}

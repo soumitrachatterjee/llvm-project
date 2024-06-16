@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/commands/watchpoints/hello_watchlocation",
+    "score.sum": 2.435880692704517e-05,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717900294.8225682,
+    "formatted_time": "2024-06-09 08:01:34.822570",
+    "filescores": {
+        "main.cpp": 25.04064376847174,
+        "Makefile": 0.0,
+        "TestWatchLocation.py": 74.95935623152826
+    },
+    "subdirscores": {}
+}

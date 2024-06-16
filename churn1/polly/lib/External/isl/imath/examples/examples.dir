@@ -1,0 +1,18 @@
+{
+    "directory name": "llvm-project/polly/lib/External/isl/imath/examples",
+    "score.sum": 4.598880454661493e-05,
+    "sha.latest": "658eb9e14264d48888ade0e3daf0b648f76c3f0e",
+    "time.latest": 1717794404.8496208,
+    "formatted_time": "2024-06-07 16:06:44.849624",
+    "filescores": {
+        "basecvt.c": 14.020474248392803,
+        "findprime.c": 14.020474248392803,
+        "imcalc.c": 14.639367668809596,
+        "input.c": 14.020474248392803,
+        "pi.c": 0.0,
+        "randprime.c": 14.639367668809596,
+        "rounding.c": 14.020474248392803,
+        "rsakey.c": 14.639367668809596
+    },
+    "subdirscores": {}
+}

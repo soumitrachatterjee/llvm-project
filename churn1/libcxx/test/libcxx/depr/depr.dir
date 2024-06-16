@@ -1,0 +1,20 @@
+{
+    "directory name": "llvm-project/libcxx/test/libcxx/depr",
+    "score.sum": 0.00023637560230960035,
+    "sha.latest": "e0443624b9b418cd2a1b26cac662885aedfb4977",
+    "time.latest": 1717849609.379355,
+    "formatted_time": "2024-06-08 17:56:49.379363",
+    "filescores": {
+        "enable_removed_cpp17_features.compile.pass.cpp": 4.667594063629318,
+        "enable_removed_cpp17_features.deprecated.verify.cpp": 0.0,
+        "enable_removed_cpp20_features.deprecated.verify.cpp": 0.0
+    },
+    "subdirscores": {
+        "depr.auto.ptr": 19.824813577856574,
+        "depr.c.headers": 34.381411472954895,
+        "depr.default.allocator": 14.562113451588358,
+        "depr.func.adaptor.typedefs": 0.0,
+        "depr.function.objects": 18.882678562488145,
+        "exception.unexpected": 7.681388871482703
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/library/description/conventions/customization.point.object",
+    "score.sum": 0.00010997330818180844,
+    "sha.latest": "a6b846ae1e58e11160185e427e20a995f6656859",
+    "time.latest": 1717925111.5351095,
+    "formatted_time": "2024-06-09 14:55:11.535113",
+    "filescores": {
+        "cpo.compile.pass.cpp": 18.412554395037183,
+        "niebloid.compile.pass.cpp": 81.58744560496281
+    },
+    "subdirscores": {}
+}

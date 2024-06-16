@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/lldb/source/Host/android",
+    "score.sum": 5.092614839615621e-05,
+    "sha.latest": "76e47d4887f456878c0e2f20ebfae36267006cd7",
+    "time.latest": 1717865485.8788989,
+    "formatted_time": "2024-06-08 22:21:25.878902",
+    "filescores": {
+        "HostInfoAndroid.cpp": 66.72703790447382,
+        "LibcGlue.cpp": 33.272962095526175
+    },
+    "subdirscores": {}
+}

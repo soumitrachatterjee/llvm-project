@@ -1,0 +1,40 @@
+{
+    "directory name": "llvm-project/lldb/tools/debugserver/source/MacOSX",
+    "score.sum": 0.001691581948163811,
+    "sha.latest": "01450dd1c69d1edb0d01159352a56c99988839f4",
+    "time.latest": 1717987375.4832244,
+    "formatted_time": "2024-06-10 08:12:55.483227",
+    "filescores": {
+        "CFBundle.cpp": 1.3575863850134555,
+        "CFBundle.h": 1.331202612526328,
+        "CFString.cpp": 1.084156605007945,
+        "CFString.h": 1.27330489790112,
+        "CFUtils.h": 1.5439270612992015,
+        "dbgnub-mig.defs": 0.36058566807669196,
+        "Genealogy.cpp": 1.3290061635041521,
+        "Genealogy.h": 1.15304043798831,
+        "GenealogySPI.h": 1.1061974772171788,
+        "MachException.cpp": 5.144239522208137,
+        "MachException.h": 1.8905736688401034,
+        "MachProcess.h": 10.387797981133321,
+        "MachProcess.mm": 16.813604480396265,
+        "MachTask.h": 3.6534976348316284,
+        "MachTask.mm": 4.521491064047155,
+        "MachThread.cpp": 4.624292503067735,
+        "MachThread.h": 3.328004121473735,
+        "MachThreadList.cpp": 4.786369240165651,
+        "MachThreadList.h": 2.433454035688664,
+        "MachVMMemory.cpp": 5.59270213366191,
+        "MachVMMemory.h": 2.770259185278873,
+        "MachVMRegion.cpp": 2.104428090072304,
+        "MachVMRegion.h": 1.3398558275964476,
+        "OsLogger.cpp": 0.9346319644627071,
+        "OsLogger.h": 0.6150678721968549,
+        "stack_logging.h": 0.36058566807669196,
+        "ThreadInfo.h": 1.0267965531952203
+    },
+    "subdirscores": {
+        "arm64": 7.383065499255043,
+        "x86_64": 9.750275645817165
+    }
+}

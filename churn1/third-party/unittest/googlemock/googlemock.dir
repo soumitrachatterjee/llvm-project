@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/third-party/unittest/googlemock",
+    "score.sum": 6.145435930490816e-05,
+    "sha.latest": "a866ce789eb99da4d7a486eeb60a53be6c75f4fd",
+    "time.latest": 1717789976.956384,
+    "formatted_time": "2024-06-07 14:52:56.956384",
+    "filescores": {
+        "LICENSE.txt": 10.870971065748568,
+        "README.LLVM": 29.709676311417144
+    },
+    "subdirscores": {
+        "include": 29.709676311417144,
+        "src": 29.709676311417144
+    }
+}

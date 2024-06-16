@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/lldb/source/Plugins/DynamicLoader/POSIX-DYLD",
+    "score.sum": 0.0007748359981314667,
+    "sha.latest": "a2e61bc2f3bc66124575c0abf9b8421073470202",
+    "time.latest": 1717868575.6735494,
+    "formatted_time": "2024-06-08 23:12:55.673551",
+    "filescores": {
+        "CMakeLists.txt": 1.6695844228760872,
+        "DYLDRendezvous.cpp": 25.668094475014737,
+        "DYLDRendezvous.h": 8.730241267492456,
+        "DynamicLoaderPOSIXDYLD.cpp": 48.71498670488735,
+        "DynamicLoaderPOSIXDYLD.h": 15.21709312972937
+    },
+    "subdirscores": {}
+}

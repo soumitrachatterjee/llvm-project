@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/utilities/smartptr",
+    "score.sum": 0.00018431983576723467,
+    "sha.latest": "65a1efc60ca390cb68409fd27d5648b4caa6cb54",
+    "time.latest": 1718005149.8183188,
+    "formatted_time": "2024-06-10 13:09:09.818320",
+    "filescores": {},
+    "subdirscores": {
+        "unique.ptr": 100.0
+    }
+}

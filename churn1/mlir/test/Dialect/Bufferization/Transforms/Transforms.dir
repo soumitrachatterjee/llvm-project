@@ -1,0 +1,38 @@
+{
+    "directory name": "llvm-project/mlir/test/Dialect/Bufferization/Transforms",
+    "score.sum": 0.0007381941215962217,
+    "sha.latest": "0940be158104e055ab255ccb5c1af9c7ccc7358f",
+    "time.latest": 1717818524.2564235,
+    "formatted_time": "2024-06-07 22:48:44.256427",
+    "filescores": {
+        "buffer-deallocation-simplification.mlir": 1.3344346043696216,
+        "buffer-deallocation.mlir": 3.6481647364844814,
+        "buffer-hoisting.mlir": 0.0,
+        "buffer-loop-hoisting.mlir": 0.0,
+        "finalizing-bufferize.mlir": 1.7866340845958166,
+        "lower-deallocations-func.mlir": 0.0,
+        "lower-deallocations.mlir": 0.8262870009939699,
+        "one-shot-bufferize-allow-return-allocs.mlir": 5.5947096371640495,
+        "one-shot-bufferize-analysis-empty-tensor-elimination.mlir": 2.4516329725560726,
+        "one-shot-bufferize-analysis.mlir": 3.158859471064505,
+        "one-shot-bufferize-compat.mlir": 5.048626837282789,
+        "one-shot-bufferize-empty-tensor-elimination.mlir": 9.649536589149823,
+        "one-shot-bufferize-memory-space-invalid.mlir": 0.8262870009939699,
+        "one-shot-bufferize-partial.mlir": 5.073068621938371,
+        "one-shot-bufferize-pass-statistics.mlir": 2.6034213183870145,
+        "one-shot-bufferize.mlir": 9.439219277353756,
+        "one-shot-module-bufferize-allow-return-allocs.mlir": 3.1604970012679305,
+        "one-shot-module-bufferize-analysis.mlir": 4.250791994681181,
+        "one-shot-module-bufferize-force-copy-before-write.mlir": 0.8262870009939699,
+        "one-shot-module-bufferize-invalid.mlir": 8.435832140937643,
+        "one-shot-module-bufferize-out-params.mlir": 5.515477191870074,
+        "one-shot-module-bufferize.mlir": 7.648326633229134,
+        "tensor-copy-insertion-memory-space-invalid.mlir": 0.8262870009939699,
+        "tensor-copy-insertion-memory-space.mlir": 2.751364335873729,
+        "tensor-copy-insertion.mlir": 3.1317163411253195,
+        "transform-ops.mlir": 8.216643622439282
+    },
+    "subdirscores": {
+        "OwnershipBasedBufferDeallocation": 3.795894584253534
+    }
+}

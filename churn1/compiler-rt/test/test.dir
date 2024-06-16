@@ -1,0 +1,40 @@
+{
+    "directory name": "llvm-project/compiler-rt/test",
+    "score.sum": 0.017119974842874287,
+    "sha.latest": "0d6f9bf274c1bc69e71ff7dd740f2cee1a4ca769",
+    "time.latest": 1717871880.960894,
+    "formatted_time": "2024-06-09 00:08:00.960916",
+    "filescores": {
+        ".clang-format": 0.06790276721711382,
+        ".clang-tidy": 0.0,
+        "CMakeLists.txt": 2.484783041027562,
+        "lit.common.cfg.py": 1.4149554186833633,
+        "lit.common.configured.in": 1.4939354828563483
+    },
+    "subdirscores": {
+        "asan": 19.510828976641577,
+        "asan_abi": 0.08117495778343337,
+        "BlocksRuntime": 0.058872884578476566,
+        "builtins": 3.828244272220217,
+        "cfi": 1.0382536179620714,
+        "dfsan": 3.2026923131344462,
+        "fuzzer": 4.38247266202919,
+        "gwp_asan": 0.15984938579835722,
+        "hwasan": 5.7754603076533995,
+        "interception": 0.0710220434069094,
+        "lsan": 4.227518049462508,
+        "memprof": 0.4773552031025784,
+        "metadata": 0.10555141360959251,
+        "msan": 5.671519578756846,
+        "orc": 0.9192789049428789,
+        "profile": 10.245726297934606,
+        "safestack": 0.35267327893383743,
+        "sanitizer_common": 16.18676075700991,
+        "scudo": 0.8201184237688418,
+        "shadowcallstack": 0.0963693255705765,
+        "tsan": 10.711692960237869,
+        "ubsan": 5.0360049830639655,
+        "ubsan_minimal": 0.30549297918795026,
+        "xray": 1.2734897134255911
+    }
+}

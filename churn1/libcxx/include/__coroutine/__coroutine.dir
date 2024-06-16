@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/libcxx/include/__coroutine",
+    "score.sum": 9.101854101386949e-05,
+    "sha.latest": "6082478e1a5bde8ac03ac7220b733313a5417a13",
+    "time.latest": 1717832568.1442327,
+    "formatted_time": "2024-06-08 13:12:48.144238",
+    "filescores": {
+        "coroutine_handle.h": 44.60252213236612,
+        "coroutine_traits.h": 22.745489341763804,
+        "noop_coroutine_handle.h": 16.506097022376416,
+        "trivial_awaitables.h": 16.145891503493665
+    },
+    "subdirscores": {}
+}

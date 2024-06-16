@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/openmp/libomptarget/tools",
+    "score.sum": 8.384828583915047e-05,
+    "sha.latest": "d03b8c3a048262eae1b13be829e20971e1714ade",
+    "time.latest": 1717799203.3096118,
+    "formatted_time": "2024-06-08 03:56:43.309614",
+    "filescores": {
+        "CMakeLists.txt": 20.69065351405867
+    },
+    "subdirscores": {
+        "deviceinfo": 31.2473992654043,
+        "kernelreplay": 48.06194722053703
+    }
+}

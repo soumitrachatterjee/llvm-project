@@ -1,0 +1,24 @@
+{
+    "directory name": "llvm-project/flang/test/Driver/Inputs",
+    "score.sum": 6.099602068851199e-06,
+    "sha.latest": "17feb330aab39c6c0c21ee9b02efb484dfb2261e",
+    "time.latest": 1717793804.6423197,
+    "formatted_time": "2024-06-07 15:56:44.642324",
+    "filescores": {
+        "basic-header-one.h": 0.0,
+        "basic-header-two.h": 0.0,
+        "basictestmoduleone.mod": 0.0,
+        "empty.h": 0.0,
+        "fixed-form-test.f": 0.0,
+        "fixed-line-length-test.f": 0.0,
+        "free-form-test.f90": 0.0,
+        "hello.f90": 100.0,
+        "ieee_arithmetic.mod": 0.0,
+        "iso_fortran_env.mod": 0.0,
+        "no_duplicate_main.ll": 0.0
+    },
+    "subdirscores": {
+        "header-dir": 0.0,
+        "module-dir": 0.0
+    }
+}

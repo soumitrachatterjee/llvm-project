@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/commands/watchpoints/multiple_hits",
+    "score.sum": 5.6005521683409474e-05,
+    "sha.latest": "75e862077834c06e574d34e8958dd2ee7cc1d334",
+    "time.latest": 1717900397.3014479,
+    "formatted_time": "2024-06-09 08:03:17.301450",
+    "filescores": {
+        "main.cpp": 54.483413215731346,
+        "Makefile": 0.0,
+        "TestMultipleHits.py": 45.51658678426866
+    },
+    "subdirscores": {}
+}

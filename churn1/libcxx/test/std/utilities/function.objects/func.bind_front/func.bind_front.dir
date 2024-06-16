@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/utilities/function.objects/func.bind_front",
+    "score.sum": 3.491877482765558e-05,
+    "sha.latest": "9bb9ec380ace81d040d3a0a0a2ae9a75733ab330",
+    "time.latest": 1717995875.6714423,
+    "formatted_time": "2024-06-10 10:34:35.671444",
+    "filescores": {
+        "bind_front.pass.cpp": 35.36161344584531,
+        "bind_front.verify.cpp": 64.63838655415469
+    },
+    "subdirscores": {}
+}

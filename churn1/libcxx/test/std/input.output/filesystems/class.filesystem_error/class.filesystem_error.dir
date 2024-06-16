@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/input.output/filesystems/class.filesystem_error",
+    "score.sum": 2.9360811555158186e-05,
+    "sha.latest": "ac8c9f1e39e1a773fd81ce23dbf1c80ea186f226",
+    "time.latest": 1717902755.4816098,
+    "formatted_time": "2024-06-09 08:42:35.481611",
+    "filescores": {
+        "filesystem_error.members.pass.cpp": 100.0
+    },
+    "subdirscores": {}
+}

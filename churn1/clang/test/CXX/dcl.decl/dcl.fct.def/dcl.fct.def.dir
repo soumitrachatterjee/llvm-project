@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/clang/test/CXX/dcl.decl/dcl.fct.def",
+    "score.sum": 6.477531919235908e-05,
+    "sha.latest": "99500e8c08a4d941acb8a7eb00523296fb2acf7a",
+    "time.latest": 1718088181.0373132,
+    "formatted_time": "2024-06-11 12:13:01.037315",
+    "filescores": {},
+    "subdirscores": {
+        "dcl.fct.def.default": 90.58344729921343,
+        "dcl.fct.def.delete": 0.0,
+        "dcl.fct.def.general": 9.416552700786552
+    }
+}

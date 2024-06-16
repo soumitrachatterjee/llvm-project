@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/llvm/utils/gn/secondary/clang/include/clang/Parse",
+    "score.sum": 6.099602068851199e-06,
+    "sha.latest": "449b179902a0cf8c9e0b4d198ee37f75447eb2ff",
+    "time.latest": 1718083309.3029456,
+    "formatted_time": "2024-06-11 00:21:49.302949",
+    "filescores": {
+        "BUILD.gn": 100.0
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/utilities/memory/util.smartptr/util.smartptr.weak/util.smartptr.weak.mod",
+    "score.sum": 3.4732551288476456e-05,
+    "sha.latest": "7fc6a55688c816f5fc1a5481ae7af25be7500356",
+    "time.latest": 1718000455.8288307,
+    "formatted_time": "2024-06-10 11:50:55.828832",
+    "filescores": {
+        "reset.pass.cpp": 50.0,
+        "swap.pass.cpp": 50.0
+    },
+    "subdirscores": {}
+}

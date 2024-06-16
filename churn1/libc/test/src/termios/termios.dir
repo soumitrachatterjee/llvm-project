@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/libc/test/src/termios",
+    "score.sum": 3.377247691610583e-05,
+    "sha.latest": "3eb1e6d8e930f5aff17b8d6bcc160f5bbf8cabc7",
+    "time.latest": 1717851267.4874463,
+    "formatted_time": "2024-06-08 07:54:27.487450",
+    "filescores": {
+        "CMakeLists.txt": 33.4793347555709,
+        "termios_test.cpp": 66.5206652444291
+    },
+    "subdirscores": {}
+}

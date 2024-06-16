@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/llvm/lib/Target/Sparc/Disassembler",
+    "score.sum": 0.0001437055350292084,
+    "sha.latest": "dd477ebd235e17e9a87cada3fe83fcd4491e53d4",
+    "time.latest": 1717866529.0991688,
+    "formatted_time": "2024-06-08 12:08:49.099172",
+    "filescores": {
+        "CMakeLists.txt": 10.367626660095718,
+        "SparcDisassembler.cpp": 89.63237333990428
+    },
+    "subdirscores": {}
+}

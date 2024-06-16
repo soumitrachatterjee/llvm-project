@@ -1,0 +1,19 @@
+{
+    "directory name": "llvm-project/lldb/test/API/functionalities/completion",
+    "score.sum": 0.0001753887353672319,
+    "sha.latest": "ee297a73b590ee63f0f4ec9f21c5114c106c8467",
+    "time.latest": 1717904228.0540364,
+    "formatted_time": "2024-06-09 09:07:08.054038",
+    "filescores": {
+        "breakpoints.json": 0.0,
+        "breakpoints_invalid.json": 0.0,
+        "categories": 0.0,
+        "main.cpp": 3.9361482346935617,
+        "Makefile": 3.4777615883253556,
+        "my_test_cmd.py": 0.0,
+        "shared.cpp": 0.0,
+        "TestCompletion.py": 89.10832858865572,
+        "thread_plan_script.py": 3.4777615883253556
+    },
+    "subdirscores": {}
+}

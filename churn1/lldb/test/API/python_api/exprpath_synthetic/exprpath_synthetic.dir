@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/lldb/test/API/python_api/exprpath_synthetic",
+    "score.sum": 1.3572752117731639e-05,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717965233.752205,
+    "formatted_time": "2024-06-10 02:03:53.752207",
+    "filescores": {
+        "main.mm": 44.94005354214486,
+        "TestExprPathSynthetic.py": 55.05994645785513
+    },
+    "subdirscores": {}
+}

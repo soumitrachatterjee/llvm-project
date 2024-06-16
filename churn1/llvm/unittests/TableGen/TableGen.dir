@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/llvm/unittests/TableGen",
+    "score.sum": 6.656337108967808e-05,
+    "sha.latest": "dc1f2083466023bbd0477528fee6b534e6c1489f",
+    "time.latest": 1718083977.5562723,
+    "formatted_time": "2024-06-11 00:32:57.556276",
+    "filescores": {
+        "Automata.td": 9.163601495833884,
+        "AutomataTest.cpp": 16.311314800597167,
+        "CMakeLists.txt": 29.542963776758548,
+        "CodeExpanderTest.cpp": 9.189337510349223,
+        "ParserEntryPointTest.cpp": 35.79278241646118
+    },
+    "subdirscores": {}
+}

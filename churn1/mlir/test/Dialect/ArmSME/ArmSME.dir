@@ -1,0 +1,22 @@
+{
+    "directory name": "llvm-project/mlir/test/Dialect/ArmSME",
+    "score.sum": 0.00021924381305815264,
+    "sha.latest": "d1fc59c3b5c5ce292a6060d7a5545094cdf1b5fc",
+    "time.latest": 1717818038.7570884,
+    "formatted_time": "2024-06-07 22:40:38.757092",
+    "filescores": {
+        "canonicalize.mlir": 2.7821090975248315,
+        "cse.mlir": 2.7821090975248315,
+        "enable-arm-streaming.mlir": 9.734331962234519,
+        "enable-arm-za.mlir": 9.195639641160987,
+        "invalid.mlir": 17.534763568101795,
+        "outer-product-fusion.mlir": 4.863756643291259,
+        "roundtrip.mlir": 22.853518714500325,
+        "tile-allocation-invalid.mlir": 0.0,
+        "tile-allocation.mlir": 4.890171549397129,
+        "tile-zero-masks.mlir": 5.672234365633278,
+        "vector-legalization.mlir": 5.3735794402850265,
+        "vector-ops-to-llvm.mlir": 14.31778592034602
+    },
+    "subdirscores": {}
+}

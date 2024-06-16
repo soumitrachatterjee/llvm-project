@@ -1,0 +1,16 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/language.support/support.dynamic/new.delete",
+    "score.sum": 0.0006680714706374232,
+    "sha.latest": "1197fcabc4b5f39dbe8a94b1ab6e92354f3f0dd2",
+    "time.latest": 1717922577.4619,
+    "formatted_time": "2024-06-09 14:12:57.461902",
+    "filescores": {
+        "types.h": 0.9130163967384239
+    },
+    "subdirscores": {
+        "new.delete.array": 43.50147171910923,
+        "new.delete.dataraces": 1.8161026348250293,
+        "new.delete.placement": 8.031344817911751,
+        "new.delete.single": 45.73806443141556
+    }
+}

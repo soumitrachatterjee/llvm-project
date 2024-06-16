@@ -1,0 +1,32 @@
+{
+    "directory name": "llvm-project/polly/www",
+    "score.sum": 0.0006415880899268865,
+    "sha.latest": "06055d98f061f0e1aaf14a396a97d17e6f80a931",
+    "time.latest": 1717820491.2984946,
+    "formatted_time": "2024-06-07 23:21:31.298498",
+    "filescores": {
+        ".htaccess": 0.0,
+        "bugs.html": 2.608308070237565,
+        "changelog.html": 1.0983400442616498,
+        "content.css": 7.165331901528265,
+        "contributors.html": 2.097414575387205,
+        "documentation.html": 4.4130808327552,
+        "favicon.ico": 0.0,
+        "get_started.html": 7.338610442350253,
+        "google1242f26b67e33344.html": 0.0,
+        "hangouts.html": 0.0,
+        "index.html": 13.437012748594801,
+        "menu.css": 8.019996026515434,
+        "menu.html.incl": 16.964309528449526,
+        "performance.html": 2.830139089469183,
+        "phonecall.html": 0.9507037559793686,
+        "projects.html": 2.2238402035825287,
+        "publications.html": 8.243555917630632,
+        "todo.html": 11.925458418416385
+    },
+    "subdirscores": {
+        "documentation": 6.764921146589529,
+        "images": 2.9346131453326496,
+        "publications": 0.9843641529198467
+    }
+}

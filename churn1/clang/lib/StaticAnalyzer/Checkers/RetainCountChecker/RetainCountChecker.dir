@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/clang/lib/StaticAnalyzer/Checkers/RetainCountChecker",
+    "score.sum": 0.00025343576410788963,
+    "sha.latest": "f7a759d1b7b8830c3c70802a1e0cc84ae6e12ef6",
+    "time.latest": 1717820889.328405,
+    "formatted_time": "2024-06-08 09:58:09.328409",
+    "filescores": {
+        "RetainCountChecker.cpp": 31.414668734228368,
+        "RetainCountChecker.h": 7.899290384176326,
+        "RetainCountDiagnostics.cpp": 47.94755213961541,
+        "RetainCountDiagnostics.h": 12.73848874197989
+    },
+    "subdirscores": {}
+}

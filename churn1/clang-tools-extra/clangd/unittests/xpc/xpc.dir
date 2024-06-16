@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/clang-tools-extra/clangd/unittests/xpc",
+    "score.sum": 1.2202453177776058e-05,
+    "sha.latest": "26e1553a107f52667be879e99739a4153f8799d8",
+    "time.latest": 1717806523.2224789,
+    "formatted_time": "2024-06-08 05:58:43.222480",
+    "filescores": {
+        "CMakeLists.txt": 100.0,
+        "ConversionTests.cpp": 0.0
+    },
+    "subdirscores": {}
+}

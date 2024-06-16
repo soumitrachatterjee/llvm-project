@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/libcxx/test/libcxx/iterators/predef.iterators/counted.iterator",
+    "score.sum": 6.099602068851199e-06,
+    "sha.latest": "58780b811c23df3d928d8452ee21c862dde754a2",
+    "time.latest": 1717852095.5961146,
+    "formatted_time": "2024-06-08 18:38:15.596118",
+    "filescores": {
+        "assert.pass.cpp": 100.0
+    },
+    "subdirscores": {}
+}

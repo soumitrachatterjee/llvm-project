@@ -1,0 +1,18 @@
+{
+    "directory name": "llvm-project/mlir/include/mlir/Dialect/SCF/Transforms",
+    "score.sum": 0.00014267003365329832,
+    "sha.latest": "f7201505a6ec7a0f904d2f09cece5c770058a991",
+    "time.latest": 1717796558.7348862,
+    "formatted_time": "2024-06-07 16:42:38.734890",
+    "filescores": {
+        "BufferDeallocationOpInterfaceImpl.h": 4.9262160975225715,
+        "BufferizableOpInterfaceImpl.h": 0.0,
+        "CMakeLists.txt": 0.0,
+        "Passes.h": 8.940306163917581,
+        "Passes.td": 10.207600685075937,
+        "Patterns.h": 14.244198049847967,
+        "TileUsingInterface.h": 34.44039816752949,
+        "Transforms.h": 27.241280836106462
+    },
+    "subdirscores": {}
+}

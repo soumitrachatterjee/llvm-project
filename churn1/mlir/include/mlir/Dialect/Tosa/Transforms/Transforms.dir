@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/mlir/include/mlir/Dialect/Tosa/Transforms",
+    "score.sum": 0.00013869986657074837,
+    "sha.latest": "af972f01c01843a9ffe41ff496154267fa387a51",
+    "time.latest": 1717797641.298255,
+    "formatted_time": "2024-06-07 17:00:41.298258",
+    "filescores": {
+        "CMakeLists.txt": 5.342590829167556,
+        "Passes.h": 43.44621558346618,
+        "Passes.td": 51.21119358736625
+    },
+    "subdirscores": {}
+}

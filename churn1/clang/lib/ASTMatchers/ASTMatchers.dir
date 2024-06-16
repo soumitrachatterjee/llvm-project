@@ -1,0 +1,16 @@
+{
+    "directory name": "llvm-project/clang/lib/ASTMatchers",
+    "score.sum": 0.0017912712720336448,
+    "sha.latest": "7457e2c1535acd548d2619dfb34eb93d27d15908",
+    "time.latest": 1717806753.7876394,
+    "formatted_time": "2024-06-08 06:02:33.787641",
+    "filescores": {
+        "ASTMatchersInternal.cpp": 26.143977804454728,
+        "ASTMatchFinder.cpp": 20.507026144242424,
+        "CMakeLists.txt": 2.5101818508805422,
+        "GtestMatchers.cpp": 0.6451574949473339
+    },
+    "subdirscores": {
+        "Dynamic": 50.19365670547498
+    }
+}

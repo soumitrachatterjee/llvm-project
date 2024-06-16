@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/llvm/utils/Reviewing",
+    "score.sum": 1.7792802490882443e-05,
+    "sha.latest": "b71edfaa4ec3c998aadb35255ce2f60bba2940b0",
+    "time.latest": 1718077772.53415,
+    "formatted_time": "2024-06-10 22:49:32.534153",
+    "filescores": {
+        "find_interesting_reviews.py": 100.0
+    },
+    "subdirscores": {}
+}

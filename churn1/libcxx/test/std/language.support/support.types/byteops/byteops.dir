@@ -1,0 +1,28 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/language.support/support.types/byteops",
+    "score.sum": 0.0002279890133584415,
+    "sha.latest": "31cbe0f240f660f15602c96b787c58a26f17e179",
+    "time.latest": 1717924950.2089212,
+    "formatted_time": "2024-06-09 14:52:30.208924",
+    "filescores": {
+        "and.assign.pass.cpp": 6.293170294337605,
+        "and.pass.cpp": 6.293170294337605,
+        "enum_direct_init.pass.cpp": 8.21338102080665,
+        "lshift.assign.compile.fail.cpp": 2.6753929845125826,
+        "lshift.assign.pass.cpp": 6.386753353476919,
+        "lshift.compile.fail.cpp": 2.6753929845125826,
+        "lshift.pass.cpp": 6.386753353476919,
+        "not.pass.cpp": 6.293170294337605,
+        "or.assign.pass.cpp": 6.293170294337605,
+        "or.pass.cpp": 6.293170294337605,
+        "rshift.assign.compile.fail.cpp": 2.6753929845125826,
+        "rshift.assign.pass.cpp": 6.386753353476919,
+        "rshift.compile.fail.cpp": 2.6753929845125826,
+        "rshift.pass.cpp": 6.386753353476919,
+        "to_integer.compile.fail.cpp": 2.6753929845125826,
+        "to_integer.pass.cpp": 8.810448582359514,
+        "xor.assign.pass.cpp": 6.293170294337605,
+        "xor.pass.cpp": 6.293170294337605
+    },
+    "subdirscores": {}
+}

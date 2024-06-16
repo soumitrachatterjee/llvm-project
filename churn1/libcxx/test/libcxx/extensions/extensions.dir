@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/libcxx/test/libcxx/extensions",
+    "score.sum": 4.17373819447813e-05,
+    "sha.latest": "3401b308f82a503f7f1650e0f2eca8d1f8f9ff63",
+    "time.latest": 1717850056.1936543,
+    "formatted_time": "2024-06-08 18:04:16.193658",
+    "filescores": {},
+    "subdirscores": {
+        "hash": 65.12230778256492,
+        "hash_map": 34.87769221743508
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/mlir/lib/Dialect/Affine/TransformOps",
+    "score.sum": 4.274002136982356e-05,
+    "sha.latest": "c63d2b2c714195d150ebec0ad4c712df36814c06",
+    "time.latest": 1717804760.3820767,
+    "formatted_time": "2024-06-07 18:59:20.382080",
+    "filescores": {
+        "AffineTransformOps.cpp": 81.45723327580394,
+        "CMakeLists.txt": 18.54276672419606
+    },
+    "subdirscores": {}
+}

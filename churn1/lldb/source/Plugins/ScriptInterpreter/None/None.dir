@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/source/Plugins/ScriptInterpreter/None",
+    "score.sum": 0.0001064780896476185,
+    "sha.latest": "8167934480a7b6a8e122aa6233aa8ed2e2683d6a",
+    "time.latest": 1717879947.6792696,
+    "formatted_time": "2024-06-09 02:22:27.679271",
+    "filescores": {
+        "CMakeLists.txt": 7.439740371939012,
+        "ScriptInterpreterNone.cpp": 54.393897864378836,
+        "ScriptInterpreterNone.h": 38.166361763682154
+    },
+    "subdirscores": {}
+}

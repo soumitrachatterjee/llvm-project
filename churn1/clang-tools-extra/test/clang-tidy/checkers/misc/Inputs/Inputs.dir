@@ -1,0 +1,32 @@
+{
+    "directory name": "llvm-project/clang-tools-extra/test/clang-tidy/checkers/misc/Inputs",
+    "score.sum": 0.00027867486175234333,
+    "sha.latest": "7f6e0052a97f13a5f595f3fd0c135c2c4db119d4",
+    "time.latest": 1717825289.6518714,
+    "formatted_time": "2024-06-08 11:11:29.651874",
+    "filescores": {
+        "bar.h": 0.0,
+        "baz.h": 0.0,
+        "foo.h": 0.0,
+        "header-include-cycle.first-d.hpp": 6.5603123672867625,
+        "header-include-cycle.first.hpp": 6.5603123672867625,
+        "header-include-cycle.fourth-d.hpp": 6.5603123672867625,
+        "header-include-cycle.fourth.hpp": 6.5603123672867625,
+        "header-include-cycle.second-d.hpp": 6.5603123672867625,
+        "header-include-cycle.second.hpp": 6.5603123672867625,
+        "header-include-cycle.self-d.hpp": 6.5603123672867625,
+        "header-include-cycle.self-e.hpp": 6.5603123672867625,
+        "header-include-cycle.self-i.hpp": 6.5603123672867625,
+        "header-include-cycle.self-n.hpp": 6.5603123672867625,
+        "header-include-cycle.self-o.hpp": 6.5603123672867625,
+        "header-include-cycle.self.hpp": 6.5603123672867625,
+        "header-include-cycle.third-d.hpp": 6.5603123672867625,
+        "header-include-cycle.third.hpp": 6.5603123672867625,
+        "private.h": 0.0,
+        "unused-using-decls.h": 0.0,
+        "use-anonymous-namespace.h": 0.0
+    },
+    "subdirscores": {
+        "system": 8.155626857985334
+    }
+}

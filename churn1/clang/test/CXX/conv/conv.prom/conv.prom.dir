@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/clang/test/CXX/conv/conv.prom",
+    "score.sum": 2.2303841174872873e-05,
+    "sha.latest": "d870a575631d2cedab2ff237af8edd17916edc64",
+    "time.latest": 1718084282.976523,
+    "formatted_time": "2024-06-11 11:08:02.976524",
+    "filescores": {
+        "p2.cpp": 36.02926408425962,
+        "p4.cpp": 36.62297092303183,
+        "p5.cpp": 27.34776499270855
+    },
+    "subdirscores": {}
+}

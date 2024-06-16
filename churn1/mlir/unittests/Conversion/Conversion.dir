@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/mlir/unittests/Conversion",
+    "score.sum": 1.4898585827842832e-05,
+    "sha.latest": "abc362a1077b9cb4186e3e53a616589c7fed4387",
+    "time.latest": 1717835930.429409,
+    "formatted_time": "2024-06-08 03:38:50.429410",
+    "filescores": {
+        "CMakeLists.txt": 0.0
+    },
+    "subdirscores": {
+        "PDLToPDLInterp": 100.0
+    }
+}

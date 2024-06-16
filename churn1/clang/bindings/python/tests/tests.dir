@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/clang/bindings/python/tests",
+    "score.sum": 0.00036044675868314707,
+    "sha.latest": "ee08b992514bd1556c38f42409d92728af3451f7",
+    "time.latest": 1717788806.2274466,
+    "formatted_time": "2024-06-08 01:03:26.227452",
+    "filescores": {
+        "CMakeLists.txt": 8.543003189693248,
+        "__init__.py": 0.0
+    },
+    "subdirscores": {
+        "cindex": 91.45699681030676
+    }
+}

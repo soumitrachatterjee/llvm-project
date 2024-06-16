@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/mlir/lib/Dialect/UB/IR",
+    "score.sum": 8.362946693532862e-06,
+    "sha.latest": "b43c50490c5964b3b1aa1b95a9025a5b5942a46e",
+    "time.latest": 1717810027.7961907,
+    "formatted_time": "2024-06-07 20:27:07.796194",
+    "filescores": {
+        "CMakeLists.txt": 0.0,
+        "UBOps.cpp": 100.0
+    },
+    "subdirscores": {}
+}

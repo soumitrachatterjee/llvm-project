@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/thread/thread.req/thread.req.lockable",
+    "score.sum": 4.853145432304226e-05,
+    "sha.latest": "aaaa25e23db7af931b4354700f48027a034444ae",
+    "time.latest": 1717979316.3251417,
+    "formatted_time": "2024-06-10 05:58:36.325143",
+    "filescores": {},
+    "subdirscores": {
+        "thread.req.lockable.basic": 25.0,
+        "thread.req.lockable.general": 25.0,
+        "thread.req.lockable.req": 25.0,
+        "thread.req.lockable.timed": 25.0
+    }
+}

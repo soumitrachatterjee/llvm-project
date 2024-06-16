@@ -1,0 +1,18 @@
+{
+    "directory name": "llvm-project/cross-project-tests/debuginfo-tests/dexter/feature_tests/commands/perfect/dex_declare_address",
+    "score.sum": 0.0002972956931078729,
+    "sha.latest": "e6cc7b723f244f52663b6d67a5d94597109da1ef",
+    "time.latest": 1717790628.3558822,
+    "formatted_time": "2024-06-08 01:33:48.355888",
+    "filescores": {
+        "address_after_ref.cpp": 14.285714285714285,
+        "address_hit_count.cpp": 14.285714285714285,
+        "expression_address.cpp": 14.285714285714285,
+        "identical_address.cpp": 14.285714285714285,
+        "lit.local.cfg": 0.0,
+        "multiple_address.cpp": 14.285714285714285,
+        "offset_address.cpp": 14.285714285714285,
+        "self_comparison.cpp": 14.285714285714285
+    },
+    "subdirscores": {}
+}

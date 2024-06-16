@@ -1,0 +1,16 @@
+{
+    "directory name": "llvm-project/llvm/unittests/ExecutionEngine",
+    "score.sum": 0.0019284034630768364,
+    "sha.latest": "54226e234fa4fd00b58e7550329f1645ca37a0a1",
+    "time.latest": 1718081087.4241755,
+    "formatted_time": "2024-06-10 23:44:47.424176",
+    "filescores": {
+        "CMakeLists.txt": 1.1201468336150768,
+        "ExecutionEngineTest.cpp": 3.723140401169611
+    },
+    "subdirscores": {
+        "JITLink": 16.13952963509039,
+        "MCJIT": 11.359063204765995,
+        "Orc": 67.65811992535892
+    }
+}

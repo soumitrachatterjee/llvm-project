@@ -1,0 +1,29 @@
+{
+    "directory name": "llvm-project/clang/test/Coverage",
+    "score.sum": 0.00029191561366292404,
+    "sha.latest": "0f1c1be1968076d6f96f8a7bcc4a15cf195ecd97",
+    "time.latest": 1718081531.227513,
+    "formatted_time": "2024-06-11 10:22:11.227520",
+    "filescores": {
+        "ast-print-func.cpp": 0.0,
+        "ast-print-temp-class.cpp": 0.0,
+        "ast-print-temp-func.cpp": 0.0,
+        "ast-printing.c": 10.067384866401985,
+        "ast-printing.cpp": 10.7665002420367,
+        "ast-printing.m": 3.7054465049669636,
+        "c-language-features.inc": 8.79451213583688,
+        "codegen-gnu.m": 6.254687307518989,
+        "codegen-next.m": 7.759591456855302,
+        "codegen.c": 3.6649432742188806,
+        "cxx-language-features.inc": 11.551575632989609,
+        "html-diagnostics.c": 10.557401245312857,
+        "html-multifile-diagnostics.c": 2.43358841909395,
+        "html-multifile-diagnostics.h": 0.0,
+        "html-print.c": 4.152237253769787,
+        "objc-language-features.inc": 3.9117461495595856,
+        "targets.c": 13.476860134530048,
+        "unresolved-ctor-expr.cpp": 0.0,
+        "verbose.c": 2.9035253769084566
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/mlir/test/Dialect/X86Vector",
+    "score.sum": 1.2334055543410568e-05,
+    "sha.latest": "c48e3a13f3898c5856c129b65ece50a3db1cb637",
+    "time.latest": 1717824000.6869953,
+    "formatted_time": "2024-06-08 00:20:00.686998",
+    "filescores": {
+        "legalize-for-llvm.mlir": 50.0,
+        "roundtrip.mlir": 50.0
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/llvm/examples/OrcV2Examples/LLJITRemovableCode",
+    "score.sum": 1.2494720410350718e-05,
+    "sha.latest": "d467396ae0594310848f84f29ec5439fde3ef905",
+    "time.latest": 1717804516.4255872,
+    "formatted_time": "2024-06-07 18:55:16.425590",
+    "filescores": {
+        "CMakeLists.txt": 48.817435432954895,
+        "LLJITRemovableCode.cpp": 51.182564567045105
+    },
+    "subdirscores": {}
+}

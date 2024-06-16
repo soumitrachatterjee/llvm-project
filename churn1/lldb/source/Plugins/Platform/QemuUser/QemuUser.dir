@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/lldb/source/Plugins/Platform/QemuUser",
+    "score.sum": 0.00010541508991900165,
+    "sha.latest": "14d95b26aee0ac0ac8a70252e8a3c7a986e0e812",
+    "time.latest": 1717873827.188746,
+    "formatted_time": "2024-06-09 00:40:27.188750",
+    "filescores": {
+        "CMakeLists.txt": 0.0,
+        "PlatformQemuUser.cpp": 55.14053625686404,
+        "PlatformQemuUser.h": 32.92036230200805,
+        "PlatformQemuUserProperties.td": 11.939101441127917
+    },
+    "subdirscores": {}
+}

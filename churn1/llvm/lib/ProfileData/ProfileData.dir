@@ -1,0 +1,26 @@
+{
+    "directory name": "llvm-project/llvm/lib/ProfileData",
+    "score.sum": 0.004072576094251089,
+    "sha.latest": "fab2bb8bfda865bd438dee981d7be7df8017b76d",
+    "time.latest": 1717842363.5622478,
+    "formatted_time": "2024-06-08 05:26:03.562250",
+    "filescores": {
+        "CMakeLists.txt": 3.263627331006063,
+        "GCOV.cpp": 3.9074257582409615,
+        "InstrProf.cpp": 18.653218183440664,
+        "InstrProfCorrelator.cpp": 2.3830676954441423,
+        "InstrProfReader.cpp": 14.731244566077692,
+        "InstrProfWriter.cpp": 8.87054106259254,
+        "ItaniumManglingCanonicalizer.cpp": 0.3837777752227694,
+        "MemProf.cpp": 0.4601658148294131,
+        "ProfileSummaryBuilder.cpp": 3.4045553869274316,
+        "RawMemProfReader.cpp": 2.576539829347983,
+        "SampleProf.cpp": 6.418369414089069,
+        "SampleProfReader.cpp": 11.399248635092665,
+        "SampleProfWriter.cpp": 7.799974342736027,
+        "SymbolRemappingReader.cpp": 0.14977257459870402
+    },
+    "subdirscores": {
+        "Coverage": 15.59847163035388
+    }
+}

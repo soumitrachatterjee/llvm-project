@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/libcxx/test/libcxx/ranges/range.factories/range.istream.view",
+    "score.sum": 6.099602068851199e-06,
+    "sha.latest": "a6cdbba4d68c9387e560c026320772d383be3d52",
+    "time.latest": 1717863049.3126452,
+    "formatted_time": "2024-06-08 21:40:49.312648",
+    "filescores": {
+        "no_unique_address.compile.pass.cpp": 100.0
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/lldb/test/API/functionalities/asan",
+    "score.sum": 4.03598907572919e-05,
+    "sha.latest": "9c2468821ec51defd09c246fea4a47886fff8c01",
+    "time.latest": 1717901647.2320373,
+    "formatted_time": "2024-06-09 08:24:07.232039",
+    "filescores": {
+        "categories": 0.0,
+        "main.c": 15.113029184176302,
+        "Makefile": 0.0,
+        "TestMemoryHistory.py": 53.073911878904326,
+        "TestReportData.py": 31.81305893691938
+    },
+    "subdirscores": {}
+}

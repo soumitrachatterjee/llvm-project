@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/llvm/examples/Kaleidoscope/BuildingAJIT/Chapter2",
+    "score.sum": 0.00013018349964010573,
+    "sha.latest": "c118d05f9ed1c5f29c42fba66f8f36c5af01868e",
+    "time.latest": 1717803815.4225483,
+    "formatted_time": "2024-06-07 18:43:35.422552",
+    "filescores": {
+        "CMakeLists.txt": 4.685387999027251,
+        "KaleidoscopeJIT.h": 63.2926089999229,
+        "toy.cpp": 32.02200300104985
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/mlir/lib/Rewrite",
+    "score.sum": 0.00028559347382248895,
+    "sha.latest": "0ec318e57b0c7cbc0d9c899390daf3248cbe6a53",
+    "time.latest": 1717811422.8883889,
+    "formatted_time": "2024-06-07 20:50:22.888392",
+    "filescores": {
+        "ByteCode.cpp": 48.36807252371246,
+        "ByteCode.h": 10.25527321356467,
+        "CMakeLists.txt": 10.312173142900988,
+        "FrozenRewritePatternSet.cpp": 15.55954505393817,
+        "PatternApplicator.cpp": 15.50493606588371
+    },
+    "subdirscores": {}
+}

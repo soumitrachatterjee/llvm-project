@@ -1,0 +1,18 @@
+{
+    "directory name": "llvm-project/compiler-rt/test/asan/TestCases/Posix/asan_symbolize_script",
+    "score.sum": 3.1788383297248705e-05,
+    "sha.latest": "f98ee40f4b5d7474fc67e82824bf6abbaedb7b1c",
+    "time.latest": 1717812934.9743595,
+    "formatted_time": "2024-06-08 07:45:34.974363",
+    "filescores": {
+        "logging_options_in_help.cpp": 19.188148110001936,
+        "plugin_no_op.py": 19.188148110001936,
+        "plugin_no_op_help_output.cpp": 19.188148110001936,
+        "plugin_no_op_symbolicate.cpp": 0.0,
+        "plugin_wrong_frame_number_bug.cpp": 23.18465724258786,
+        "plugin_wrong_frame_number_bug.py": 19.250898427406316,
+        "set_log_dest.cpp": 0.0,
+        "set_log_level.cpp": 0.0
+    },
+    "subdirscores": {}
+}

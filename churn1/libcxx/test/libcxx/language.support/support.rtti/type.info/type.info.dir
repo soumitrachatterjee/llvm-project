@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/libcxx/test/libcxx/language.support/support.rtti/type.info",
+    "score.sum": 3.783547542464896e-05,
+    "sha.latest": "f244166c475dd3d2f9ea1be9979c1ab1a4a5ddcc",
+    "time.latest": 1717860267.8361657,
+    "formatted_time": "2024-06-08 20:54:27.836169",
+    "filescores": {
+        "type_info.comparison.apple.compile.pass.cpp": 26.25424221982288,
+        "type_info.comparison.merged.sh.cpp": 36.55646425803333,
+        "type_info.comparison.unmerged.sh.cpp": 37.189293522143785
+    },
+    "subdirscores": {}
+}

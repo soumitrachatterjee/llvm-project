@@ -1,0 +1,16 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/thread/thread.condition",
+    "score.sum": 0.00026645075571659645,
+    "sha.latest": "85a8e5c3e0586e85a2fa3ff9cef12455bd039921",
+    "time.latest": 1717977327.8101263,
+    "formatted_time": "2024-06-10 05:25:27.810128",
+    "filescores": {
+        "cv_status.pass.cpp": 6.186010570304855,
+        "notify_all_at_thread_exit.pass.cpp": 15.533298484608837,
+        "notify_all_at_thread_exit_lwg3343.pass.cpp": 3.106960067483
+    },
+    "subdirscores": {
+        "thread.condition.condvar": 32.73439198659756,
+        "thread.condition.condvarany": 42.439338891005754
+    }
+}

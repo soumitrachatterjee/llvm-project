@@ -1,0 +1,16 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/numerics/rand/rand.req",
+    "score.sum": 9.327937242008216e-05,
+    "sha.latest": "72f0edf3f4291d2614719a8c8af21a7a62ed5d74",
+    "time.latest": 1717959814.1395998,
+    "formatted_time": "2024-06-10 00:33:34.139602",
+    "filescores": {},
+    "subdirscores": {
+        "rand.req.adapt": 13.007016734761473,
+        "rand.req.dst": 13.007016734761473,
+        "rand.req.eng": 13.007016734761473,
+        "rand.req.genl": 13.007016734761473,
+        "rand.req.seedseq": 13.007016734761473,
+        "rand.req.urng": 34.96491632619263
+    }
+}

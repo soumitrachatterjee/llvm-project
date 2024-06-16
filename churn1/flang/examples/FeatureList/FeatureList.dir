@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/flang/examples/FeatureList",
+    "score.sum": 2.9140439406943274e-05,
+    "sha.latest": "a2d7af757bc33dc91f2e038742915a146cfb0c13",
+    "time.latest": 1717788408.4440897,
+    "formatted_time": "2024-06-07 14:26:48.444093",
+    "filescores": {
+        "CMakeLists.txt": 26.804688886764666,
+        "FeatureList.cpp": 73.19531111323533
+    },
+    "subdirscores": {}
+}

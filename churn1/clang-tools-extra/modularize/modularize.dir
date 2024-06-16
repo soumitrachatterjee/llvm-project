@@ -1,0 +1,20 @@
+{
+    "directory name": "llvm-project/clang-tools-extra/modularize",
+    "score.sum": 0.0005892502815461845,
+    "sha.latest": "da95d926f6fce4ed9707c77908ad96624268f134",
+    "time.latest": 1717814119.0792475,
+    "formatted_time": "2024-06-08 08:05:19.079251",
+    "filescores": {
+        "CMakeLists.txt": 9.649178924146955,
+        "CoverageChecker.cpp": 15.430255730037487,
+        "CoverageChecker.h": 3.0609966743501915,
+        "Modularize.cpp": 25.329146663292168,
+        "Modularize.h": 2.272455618318744,
+        "ModularizeUtilities.cpp": 15.25898782503505,
+        "ModularizeUtilities.h": 2.337236213725517,
+        "ModuleAssistant.cpp": 7.421772520898302,
+        "PreprocessorTracker.cpp": 16.98105027388709,
+        "PreprocessorTracker.h": 2.2589195563084976
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/thread/futures/futures.task/futures.task.nonmembers",
+    "score.sum": 3.0063324903427723e-05,
+    "sha.latest": "a7f9895cc18995549c7facb96e72718da282a864",
+    "time.latest": 1717976140.1129968,
+    "formatted_time": "2024-06-10 05:05:40.112998",
+    "filescores": {
+        "swap.pass.cpp": 79.71082011572265,
+        "uses_allocator.compile.pass.cpp": 20.289179884277345
+    },
+    "subdirscores": {}
+}

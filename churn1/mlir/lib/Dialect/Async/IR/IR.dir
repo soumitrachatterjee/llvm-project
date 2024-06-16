@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/mlir/lib/Dialect/Async/IR",
+    "score.sum": 0.00017759550245927184,
+    "sha.latest": "91d5653e3ae9742f7fb847f809b534ee128501b0",
+    "time.latest": 1717805427.4936862,
+    "formatted_time": "2024-06-07 19:10:27.493690",
+    "filescores": {
+        "Async.cpp": 91.30540119237111,
+        "CMakeLists.txt": 8.694598807628894
+    },
+    "subdirscores": {}
+}

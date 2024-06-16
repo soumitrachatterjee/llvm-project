@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/lang/cpp/structured-binding",
+    "score.sum": 7.687056741183244e-06,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717936059.8026323,
+    "formatted_time": "2024-06-09 17:57:39.802636",
+    "filescores": {
+        "main.cpp": 0.0,
+        "Makefile": 0.0,
+        "TestStructuredBinding.py": 100.0
+    },
+    "subdirscores": {}
+}

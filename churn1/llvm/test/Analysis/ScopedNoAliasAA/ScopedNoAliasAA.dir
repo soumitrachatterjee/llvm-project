@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/llvm/test/Analysis/ScopedNoAliasAA",
+    "score.sum": 7.743236454790475e-05,
+    "sha.latest": "7cf5581712b24d4aea5dffa2e23f0ed42af1954d",
+    "time.latest": 1717892990.8068497,
+    "formatted_time": "2024-06-08 19:29:50.806854",
+    "filescores": {
+        "alias-scope-merging.ll": 12.848452772324872,
+        "basic-domains.ll": 28.53666545932198,
+        "basic.ll": 30.81370555566196,
+        "basic2.ll": 27.801176212691185
+    },
+    "subdirscores": {}
+}

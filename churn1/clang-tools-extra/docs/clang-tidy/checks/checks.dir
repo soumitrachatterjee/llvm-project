@@ -1,0 +1,38 @@
+{
+    "directory name": "llvm-project/clang-tools-extra/docs/clang-tidy/checks",
+    "score.sum": 0.0021581746777223822,
+    "sha.latest": "4fdf10faf2b45f4bbbd2ddfb07272d19a47cc531",
+    "time.latest": 1717812757.77259,
+    "formatted_time": "2024-06-08 07:42:37.772593",
+    "filescores": {
+        "gen-static-analyzer-docs.py": 0.828651732514286,
+        "list.rst": 57.09348932902698
+    },
+    "subdirscores": {
+        "abseil": 0.584377058748971,
+        "altera": 0.0,
+        "android": 0.0,
+        "boost": 0.0,
+        "bugprone": 9.881813276470142,
+        "cert": 1.0866221181993734,
+        "clang-analyzer": 1.3780682274340121,
+        "concurrency": 0.28262782117749524,
+        "cppcoreguidelines": 4.076884311857358,
+        "darwin": 0.0,
+        "fuchsia": 0.809123774650538,
+        "google": 1.007593446427667,
+        "hicpp": 1.2289242415726864,
+        "linuxkernel": 0.0,
+        "llvm": 0.8145914219001876,
+        "llvmlibc": 1.276311538475851,
+        "misc": 5.25132531605264,
+        "modernize": 6.171220415276051,
+        "mpi": 0.0,
+        "objc": 0.31360697415297883,
+        "openmp": 0.0,
+        "performance": 1.531680712020705,
+        "portability": 0.0,
+        "readability": 6.383088284042067,
+        "zircon": 0.0
+    }
+}

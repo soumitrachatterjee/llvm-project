@@ -1,0 +1,18 @@
+{
+    "directory name": "llvm-project/mlir/include/mlir/Dialect/GPU/IR",
+    "score.sum": 0.00043505634974898733,
+    "sha.latest": "fb3e4e78c65ea22b5eda1b4f7e2b5a5e8c6dd5b4",
+    "time.latest": 1717794357.8628993,
+    "formatted_time": "2024-06-07 16:05:57.862903",
+    "filescores": {
+        "CMakeLists.txt": 1.438671190284347,
+        "CompilationAttrInterfaces.td": 2.7007859721407144,
+        "CompilationAttrs.td": 2.559973865213089,
+        "CompilationInterfaces.h": 3.8657555281591196,
+        "GPUBase.td": 19.332121622441083,
+        "GPUDialect.h": 12.522143045148171,
+        "GPUOps.td": 56.17852302239326,
+        "ParallelLoopMapperAttr.td": 1.4020257542202204
+    },
+    "subdirscores": {}
+}

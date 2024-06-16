@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/mlir/test/Conversion/OpenACCToSCF",
+    "score.sum": 2.622740595458698e-05,
+    "sha.latest": "15a480c05efd24adbc846b5c5b1d66439239eb43",
+    "time.latest": 1717816398.9442947,
+    "formatted_time": "2024-06-07 22:13:18.944298",
+    "filescores": {
+        "convert-openacc-to-scf.mlir": 100.0
+    },
+    "subdirscores": {}
+}

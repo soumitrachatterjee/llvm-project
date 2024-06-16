@@ -1,0 +1,17 @@
+{
+    "directory name": "llvm-project/clang/test/Analysis/diagnostics/Inputs/expected-plists",
+    "score.sum": 6.437258662561419e-05,
+    "sha.latest": "15e3e95263fadcc9af8269aa26bad302219a183c",
+    "time.latest": 1717829264.9971156,
+    "formatted_time": "2024-06-08 12:17:44.997120",
+    "filescores": {
+        "deref-track-symbolic-region.c.plist": 22.497409341282804,
+        "plist-diagnostics-include-check.cpp.plist": 9.52317243664704,
+        "plist-multi-file.c.plist": 18.464587488902577,
+        "report-issues-within-main-file.cpp.plist": 9.52317243664704,
+        "undef-value-caller.c.plist": 13.330552765506845,
+        "undef-value-param.c.plist": 13.330552765506845,
+        "undef-value-param.m.plist": 13.330552765506845
+    },
+    "subdirscores": {}
+}

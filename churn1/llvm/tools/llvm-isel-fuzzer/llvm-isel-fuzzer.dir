@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/llvm/tools/llvm-isel-fuzzer",
+    "score.sum": 9.035283754393078e-05,
+    "sha.latest": "a8f8613dec435cfb78bf202c392f2acf150a5937",
+    "time.latest": 1718080538.4573355,
+    "formatted_time": "2024-06-10 23:35:38.457339",
+    "filescores": {
+        "CMakeLists.txt": 27.841861113591186,
+        "DummyISelFuzzer.cpp": 13.105235315178215,
+        "llvm-isel-fuzzer.cpp": 59.052903571230594
+    },
+    "subdirscores": {}
+}

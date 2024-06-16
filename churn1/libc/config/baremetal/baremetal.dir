@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/libc/config/baremetal",
+    "score.sum": 0.00015253578498365387,
+    "sha.latest": "14171b87a3b5a403f39d78da964595175636a0ae",
+    "time.latest": 1717824964.9022799,
+    "formatted_time": "2024-06-08 00:36:04.902281",
+    "filescores": {
+        "api.td": 16.58411671342636,
+        "config.json": 3.998800720437403
+    },
+    "subdirscores": {
+        "arm": 43.1898493249156,
+        "riscv": 36.22723324122064
+    }
+}

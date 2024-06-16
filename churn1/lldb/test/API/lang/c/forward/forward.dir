@@ -1,0 +1,16 @@
+{
+    "directory name": "llvm-project/lldb/test/API/lang/c/forward",
+    "score.sum": 2.904432918574966e-05,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717925604.621666,
+    "formatted_time": "2024-06-09 15:03:24.621670",
+    "filescores": {
+        "foo.c": 21.001008595660437,
+        "foo.h": 0.0,
+        "main.c": 21.001008595660437,
+        "Makefile": 0.0,
+        "README.txt": 0.0,
+        "TestForwardDeclaration.py": 57.997982808679126
+    },
+    "subdirscores": {}
+}

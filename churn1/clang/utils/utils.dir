@@ -1,0 +1,41 @@
+{
+    "directory name": "llvm-project/clang/utils",
+    "score.sum": 0.004675064526486785,
+    "sha.latest": "9e4f289bd6c905a2a436b3311ca49ad2d6328060",
+    "time.latest": 1718082559.8824942,
+    "formatted_time": "2024-06-11 10:39:19.882496",
+    "filescores": {
+        "analyze_safe_buffer_debug_notes.py": 0.0,
+        "bash-autocomplete.sh": 0.5178560717873235,
+        "builtin-defines.c": 0.26251189459005003,
+        "bundle_resources.py": 0.1304709707062573,
+        "CaptureCmd": 0.1304709707062573,
+        "ClangDataFormat.py": 0.2477048598155953,
+        "clangdiag.py": 0.2847484268627547,
+        "CmpDriver": 0.2310009611482597,
+        "convert_arm_neon.py": 0.20571667844766817,
+        "creduce-clang-crash.py": 0.6061519725706127,
+        "find-unused-diagnostics.sh": 0.1986829870346535,
+        "FindSpecRefs": 0.16464570227669972,
+        "FuzzTest": 0.521712401692621,
+        "make-ast-dump-check.sh": 0.3701862313081753,
+        "modfuzz.py": 0.39341678414826387,
+        "module-deps-to-rsp.py": 0.4352888986491977,
+        "token-delta.py": 0.48937028214106354,
+        "update_options_td_flags.py": 0.0
+    },
+    "subdirscores": {
+        "ABITest": 1.2072662818472384,
+        "analyzer": 16.28151796643423,
+        "check_cfc": 0.5890259867168388,
+        "ci": 0.5339387308163557,
+        "CIndex": 0.30343648380098104,
+        "ClangVisualizers": 2.1738440745702445,
+        "hmaptool": 1.9341422374825772,
+        "perf-training": 3.482062482521787,
+        "TableGen": 67.59895205033739,
+        "TestUtils": 0.42055402131577674,
+        "valgrind": 0.1304709707062573,
+        "VtableTest": 0.15485261956486945
+    }
+}

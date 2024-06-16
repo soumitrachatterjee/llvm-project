@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/libcxx/docs/ReleaseNotes",
+    "score.sum": 0.00027383312039849116,
+    "sha.latest": "716a23c412704c0224bbe97c1a55ced1b1624e0c",
+    "time.latest": 1717824375.037315,
+    "formatted_time": "2024-06-08 10:56:15.037319",
+    "filescores": {
+        "18.rst": 86.06870569015993,
+        "19.rst": 13.931294309840062
+    },
+    "subdirscores": {}
+}

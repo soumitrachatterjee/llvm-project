@@ -1,0 +1,19 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/ranges/range.factories/range.istream.view",
+    "score.sum": 1.8298806206553597e-05,
+    "sha.latest": "60a6a0d17ad5afcac5c71dcf9a05f8c814951804",
+    "time.latest": 1717964485.1705852,
+    "formatted_time": "2024-06-10 01:51:25.170586",
+    "filescores": {
+        "begin.pass.cpp": 0.0,
+        "cpo.pass.cpp": 33.33333333333333,
+        "ctor.pass.cpp": 0.0,
+        "end.pass.cpp": 0.0,
+        "general.pass.cpp": 0.0,
+        "range.concept.compile.pass.cpp": 0.0,
+        "utils.h": 33.33333333333333
+    },
+    "subdirscores": {
+        "iterator": 33.33333333333333
+    }
+}

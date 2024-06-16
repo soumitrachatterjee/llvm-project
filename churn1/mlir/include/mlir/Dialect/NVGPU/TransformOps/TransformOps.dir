@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/mlir/include/mlir/Dialect/NVGPU/TransformOps",
+    "score.sum": 3.909206631840045e-05,
+    "sha.latest": "888717e85395c22dcc70a7d16ae8459e70df822c",
+    "time.latest": 1717795892.0807173,
+    "formatted_time": "2024-06-07 16:31:32.080721",
+    "filescores": {
+        "CMakeLists.txt": 21.448291805376734,
+        "NVGPUTransformOps.h": 17.24670296281773,
+        "NVGPUTransformOps.td": 61.30500523180555
+    },
+    "subdirscores": {}
+}

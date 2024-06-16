@@ -1,0 +1,21 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/input.output/iostreams.base/ios/iostate.flags",
+    "score.sum": 0.0001974198681468125,
+    "sha.latest": "c1a8f12873783e8f4827437f6b2dddadfc58109d",
+    "time.latest": 1717907608.7174647,
+    "formatted_time": "2024-06-09 10:03:28.717466",
+    "filescores": {
+        "bad.pass.cpp": 8.796620019684994,
+        "bool.pass.cpp": 13.710491620656276,
+        "clear.pass.cpp": 8.237722747182922,
+        "eof.pass.cpp": 8.796620019684994,
+        "exceptions.pass.cpp": 8.796620019684994,
+        "exceptions_iostate.pass.cpp": 8.237722747182922,
+        "fail.pass.cpp": 8.796620019684994,
+        "good.pass.cpp": 8.796620019684994,
+        "not.pass.cpp": 8.796620019684994,
+        "rdstate.pass.cpp": 8.796620019684994,
+        "setstate.pass.cpp": 8.237722747182922
+    },
+    "subdirscores": {}
+}

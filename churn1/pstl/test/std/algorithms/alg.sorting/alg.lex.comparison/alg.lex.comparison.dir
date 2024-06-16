@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/pstl/test/std/algorithms/alg.sorting/alg.lex.comparison",
+    "score.sum": 1.1661997467057341e-05,
+    "sha.latest": "3b9a1bb1af90db9472340ef2122d3855eb9ba3fc",
+    "time.latest": 1717791820.4932249,
+    "formatted_time": "2024-06-07 15:23:40.493228",
+    "filescores": {
+        "lexicographical_compare.pass.cpp": 100.0
+    },
+    "subdirscores": {}
+}

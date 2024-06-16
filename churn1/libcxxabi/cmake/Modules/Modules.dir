@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/libcxxabi/cmake/Modules",
+    "score.sum": 3.410473715405649e-05,
+    "sha.latest": "d0e95fec65b7ac68021e956a3da74aa8d42e699f",
+    "time.latest": 1717822241.0856855,
+    "formatted_time": "2024-06-08 10:20:41.085714",
+    "filescores": {
+        "HandleLibcxxabiFlags.cmake": 100.0,
+        "MacroEnsureOutOfSourceBuild.cmake": 0.0
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/llvm/lib/ExecutionEngine/PerfJITEvents",
+    "score.sum": 6.099570673570004e-05,
+    "sha.latest": "111fcb0df02db3db8bed1d5db6d911b7ce544d92",
+    "time.latest": 1717837611.8976464,
+    "formatted_time": "2024-06-08 04:06:51.897649",
+    "filescores": {
+        "CMakeLists.txt": 15.759717530223433,
+        "PerfJITEventListener.cpp": 84.24028246977657
+    },
+    "subdirscores": {}
+}

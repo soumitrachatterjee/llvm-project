@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/functionalities/data-formatter/data-formatter-stl/libcxx/atomic",
+    "score.sum": 2.9650015071731375e-05,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717906243.5104449,
+    "formatted_time": "2024-06-09 09:40:43.510447",
+    "filescores": {
+        "main.cpp": 36.62212509097596,
+        "Makefile": 0.0,
+        "TestLibCxxAtomic.py": 63.37787490902404
+    },
+    "subdirscores": {}
+}

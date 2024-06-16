@@ -1,0 +1,18 @@
+{
+    "directory name": "llvm-project/mlir/include/mlir/Bytecode",
+    "score.sum": 0.00020524525927717642,
+    "sha.latest": "4488f4933ee2a5326be643e8d1afec623c318fb9",
+    "time.latest": 1717790993.6063163,
+    "formatted_time": "2024-06-07 15:09:53.606319",
+    "filescores": {
+        "BytecodeImplementation.h": 34.343897497172975,
+        "BytecodeOpInterface.h": 3.08615459111411,
+        "BytecodeOpInterface.td": 3.620250133461489,
+        "BytecodeReader.h": 12.25956016336191,
+        "BytecodeReaderConfig.h": 5.943720298663662,
+        "BytecodeWriter.h": 26.52803393834928,
+        "CMakeLists.txt": 3.620250133461489,
+        "Encoding.h": 10.598133244415079
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/clang/tools/apinotes-test",
+    "score.sum": 1.2199204137702398e-05,
+    "sha.latest": "ba7a92c01e86b5048a93abe7c26c25b90ea9040a",
+    "time.latest": 1718077282.5649142,
+    "formatted_time": "2024-06-11 09:11:22.564916",
+    "filescores": {
+        "APINotesTest.cpp": 50.0,
+        "CMakeLists.txt": 50.0
+    },
+    "subdirscores": {}
+}

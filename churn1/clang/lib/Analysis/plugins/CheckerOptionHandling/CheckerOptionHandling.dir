@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/clang/lib/Analysis/plugins/CheckerOptionHandling",
+    "score.sum": 1.9452054829917163e-05,
+    "sha.latest": "491c154677bcf0fba3c91fdaa7897a48ab605327",
+    "time.latest": 1717804305.0018857,
+    "formatted_time": "2024-06-08 05:21:45.001888",
+    "filescores": {
+        "CheckerOptionHandling.cpp": 31.913714137729905,
+        "CheckerOptionHandlingAnalyzerPlugin.exports": 31.40273125576989,
+        "CMakeLists.txt": 36.68355460650021
+    },
+    "subdirscores": {}
+}

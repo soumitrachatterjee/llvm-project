@@ -1,0 +1,19 @@
+{
+    "directory name": "llvm-project/utils/bazel/llvm-project-overlay/mlir",
+    "score.sum": 0.003804885089127666,
+    "sha.latest": "a116f0ebaf0304e73b26098a7141c4ab836b7dc9",
+    "time.latest": 1717790983.0127912,
+    "formatted_time": "2024-06-08 01:39:43.012795",
+    "filescores": {
+        "BUILD.bazel": 75.80423628726034,
+        "build_defs.bzl": 0.27101614540182384,
+        "linalggen.bzl": 0.16030975774486886,
+        "tblgen.bzl": 0.29733699361740806
+    },
+    "subdirscores": {
+        "examples": 0.7499194079387802,
+        "python": 5.493518769483266,
+        "test": 14.193289580193285,
+        "unittests": 3.0303730583602313
+    }
+}

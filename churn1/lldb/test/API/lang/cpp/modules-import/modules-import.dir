@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/lldb/test/API/lang/cpp/modules-import",
+    "score.sum": 1.8376606292103716e-05,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717933324.508145,
+    "formatted_time": "2024-06-09 17:12:04.508150",
+    "filescores": {
+        "main.cpp": 0.0,
+        "Makefile": 0.0,
+        "TestCXXModulesImport.py": 100.0
+    },
+    "subdirscores": {
+        "Inputs": 0.0
+    }
+}

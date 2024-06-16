@@ -1,0 +1,16 @@
+{
+    "directory name": "llvm-project/lldb/test/API/commands/expression/call-function",
+    "score.sum": 6.736501605156432e-05,
+    "sha.latest": "34ee53c9e390019d757b453ceba9cc3e47ab0df1",
+    "time.latest": 1717889235.6827228,
+    "formatted_time": "2024-06-09 04:57:15.682725",
+    "filescores": {
+        "main.cpp": 9.05455446515782,
+        "Makefile": 0.0,
+        "TestCallBuiltinFunction.py": 26.648683602549365,
+        "TestCallStdStringFunction.py": 28.912466624423992,
+        "TestCallStopAndContinue.py": 15.901591217063975,
+        "TestCallUserDefinedFunction.py": 19.48270409080484
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/mlir/lib/Dialect/MemRef/IR",
+    "score.sum": 0.0006339865181152203,
+    "sha.latest": "91d5653e3ae9742f7fb847f809b534ee128501b0",
+    "time.latest": 1717807400.0888128,
+    "formatted_time": "2024-06-07 19:43:20.088816",
+    "filescores": {
+        "CMakeLists.txt": 7.119454866059266,
+        "MemRefDialect.cpp": 7.779524127371633,
+        "MemRefMemorySlot.cpp": 1.7415915926346215,
+        "MemRefOps.cpp": 82.3973266097637,
+        "ValueBoundsOpInterfaceImpl.cpp": 0.9621028041707759
+    },
+    "subdirscores": {}
+}

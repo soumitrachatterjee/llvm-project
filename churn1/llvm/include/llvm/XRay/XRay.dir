@@ -1,0 +1,27 @@
+{
+    "directory name": "llvm-project/llvm/include/llvm/XRay",
+    "score.sum": 0.00022873665407986514,
+    "sha.latest": "a2b715920ab6978949db8c85a8afd22942898f5b",
+    "time.latest": 1717826812.473451,
+    "formatted_time": "2024-06-08 01:06:52.473454",
+    "filescores": {
+        "BlockIndexer.h": 5.055019232198941,
+        "BlockPrinter.h": 5.006294071507,
+        "BlockVerifier.h": 6.8331511266032905,
+        "FDRLogBuilder.h": 3.0918665965586833,
+        "FDRRecordConsumer.h": 4.908045559865145,
+        "FDRRecordProducer.h": 4.318043115685846,
+        "FDRRecords.h": 7.067986964744814,
+        "FDRTraceExpander.h": 5.128216440512178,
+        "FDRTraceWriter.h": 3.3021421822282835,
+        "FileHeaderReader.h": 4.14752486197165,
+        "Graph.h": 6.332832825159275,
+        "InstrumentationMap.h": 9.778015033973931,
+        "Profile.h": 3.1013717769001263,
+        "RecordPrinter.h": 5.032827034916942,
+        "Trace.h": 11.4802745301868,
+        "XRayRecord.h": 7.711072242057518,
+        "YAMLXRayRecord.h": 7.705316404929562
+    },
+    "subdirscores": {}
+}

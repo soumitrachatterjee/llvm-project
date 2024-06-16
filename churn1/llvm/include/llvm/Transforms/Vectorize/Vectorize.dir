@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/llvm/include/llvm/Transforms/Vectorize",
+    "score.sum": 0.0005051988534114846,
+    "sha.latest": "b070629c10431fef4923fdb158a46a6c74dc431a",
+    "time.latest": 1717826494.5217438,
+    "formatted_time": "2024-06-08 01:01:34.521748",
+    "filescores": {
+        "LoadStoreVectorizer.h": 2.4193746182408757,
+        "LoopVectorizationLegality.h": 44.39187985457716,
+        "LoopVectorize.h": 17.730684688697078,
+        "SLPVectorizer.h": 33.09013187918496,
+        "VectorCombine.h": 2.3679289592999355
+    },
+    "subdirscores": {}
+}

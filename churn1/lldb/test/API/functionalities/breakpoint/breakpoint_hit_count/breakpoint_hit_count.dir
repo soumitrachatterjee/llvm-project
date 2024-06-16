@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/functionalities/breakpoint/breakpoint_hit_count",
+    "score.sum": 2.5206618701325546e-05,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717902279.005874,
+    "formatted_time": "2024-06-09 08:34:39.005876",
+    "filescores": {
+        "main.cpp": 24.198414476474138,
+        "Makefile": 0.0,
+        "TestBreakpointHitCount.py": 75.80158552352586
+    },
+    "subdirscores": {}
+}

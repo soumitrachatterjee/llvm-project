@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/input.output/filesystems/class.rec.dir.itr/rec.dir.itr.nonmembers",
+    "score.sum": 4.872651088869624e-05,
+    "sha.latest": "ac8c9f1e39e1a773fd81ce23dbf1c80ea186f226",
+    "time.latest": 1717903634.0721698,
+    "formatted_time": "2024-06-09 08:57:14.072172",
+    "filescores": {
+        "begin_end.pass.cpp": 100.0
+    },
+    "subdirscores": {}
+}

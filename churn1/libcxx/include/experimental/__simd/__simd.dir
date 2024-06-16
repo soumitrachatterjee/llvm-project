@@ -1,0 +1,19 @@
+{
+    "directory name": "llvm-project/libcxx/include/experimental/__simd",
+    "score.sum": 0.00014436516949665733,
+    "sha.latest": "37dca605c9bd41732da010ee97ed15ad9585a37d",
+    "time.latest": 1717825554.1441987,
+    "formatted_time": "2024-06-08 11:15:54.144202",
+    "filescores": {
+        "aligned_tag.h": 10.12886647239246,
+        "declaration.h": 7.329888958189927,
+        "reference.h": 9.01700742959356,
+        "scalar.h": 13.094213228402202,
+        "simd.h": 16.28043717209269,
+        "simd_mask.h": 15.301152669064527,
+        "traits.h": 7.32989205344597,
+        "utility.h": 5.917827942632381,
+        "vec_ext.h": 15.600714074186294
+    },
+    "subdirscores": {}
+}

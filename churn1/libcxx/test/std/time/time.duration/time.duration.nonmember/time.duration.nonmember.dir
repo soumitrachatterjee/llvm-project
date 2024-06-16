@@ -1,0 +1,22 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/time/time.duration/time.duration.nonmember",
+    "score.sum": 4.992694227691313e-05,
+    "sha.latest": "7d9540ea96ecb1e83f19cc68a202e8fa697c513d",
+    "time.latest": 1717984652.15898,
+    "formatted_time": "2024-06-10 07:27:32.158982",
+    "filescores": {
+        "op_+.pass.cpp": 0.0,
+        "op_-.pass.cpp": 0.0,
+        "op_divide_duration.pass.cpp": 12.21705514233291,
+        "op_divide_rep.compile.fail.cpp": 0.0,
+        "op_divide_rep.pass.cpp": 0.0,
+        "op_mod_duration.pass.cpp": 12.21705514233291,
+        "op_mod_rep.compile.fail.cpp": 0.0,
+        "op_mod_rep.pass.cpp": 0.0,
+        "op_times_rep.pass.cpp": 12.21705514233291,
+        "op_times_rep1.compile.fail.cpp": 0.0,
+        "op_times_rep2.compile.fail.cpp": 0.0,
+        "ostream.pass.cpp": 63.34883457300127
+    },
+    "subdirscores": {}
+}

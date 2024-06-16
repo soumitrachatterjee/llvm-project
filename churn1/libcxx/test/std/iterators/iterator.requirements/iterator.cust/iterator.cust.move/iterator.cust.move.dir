@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/iterators/iterator.requirements/iterator.cust/iterator.cust.move",
+    "score.sum": 4.5177271355433435e-05,
+    "sha.latest": "67c4033358f39adcba53e9b70bdd4799c5a306ac",
+    "time.latest": 1717915063.3934474,
+    "formatted_time": "2024-06-09 12:07:43.393449",
+    "filescores": {
+        "iter_move.nodiscard.verify.cpp": 39.30003484583794,
+        "iter_move.pass.cpp": 47.19848114273868,
+        "iter_rvalue_reference_t.compile.pass.cpp": 13.50148401142338
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,16 @@
+{
+    "directory name": "llvm-project/libc/fuzzing",
+    "score.sum": 0.00017477950992551085,
+    "sha.latest": "73aab2f69773324ef0250f093bd4d782beee921a",
+    "time.latest": 1717825946.3770702,
+    "formatted_time": "2024-06-08 00:52:26.377071",
+    "filescores": {
+        "CMakeLists.txt": 7.72984888461705
+    },
+    "subdirscores": {
+        "math": 17.059813820260043,
+        "stdio": 21.14997319385421,
+        "stdlib": 44.995419346082414,
+        "string": 9.064944755186282
+    }
+}

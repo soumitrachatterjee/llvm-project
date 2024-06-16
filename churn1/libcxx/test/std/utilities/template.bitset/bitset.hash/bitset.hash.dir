@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/utilities/template.bitset/bitset.hash",
+    "score.sum": 4.0135278134047214e-05,
+    "sha.latest": "681cde7dd8b5613dbafc9ca54e0288477f946be3",
+    "time.latest": 1718005359.328592,
+    "formatted_time": "2024-06-10 13:12:39.328593",
+    "filescores": {
+        "bitset.pass.cpp": 44.30947215298031,
+        "enabled_hash.pass.cpp": 55.6905278470197
+    },
+    "subdirscores": {}
+}

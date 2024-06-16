@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/llvm/utils/gn/secondary/clang/lib/Sema",
+    "score.sum": 7.981190957817127e-05,
+    "sha.latest": "62e88bc89a718ed557784afb2572e1e664cfd94e",
+    "time.latest": 1718084053.2221453,
+    "formatted_time": "2024-06-11 00:34:13.222149",
+    "filescores": {
+        "BUILD.gn": 100.0
+    },
+    "subdirscores": {}
+}

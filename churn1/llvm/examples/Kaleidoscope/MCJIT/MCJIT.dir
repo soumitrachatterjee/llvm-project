@@ -1,0 +1,16 @@
+{
+    "directory name": "llvm-project/llvm/examples/Kaleidoscope/MCJIT",
+    "score.sum": 0.000126133422478008,
+    "sha.latest": "b71edfaa4ec3c998aadb35255ce2f60bba2940b0",
+    "time.latest": 1717804358.8152344,
+    "formatted_time": "2024-06-07 18:52:38.815235",
+    "filescores": {
+        "README.txt": 4.835833317624197
+    },
+    "subdirscores": {
+        "cached": 25.035515168696875,
+        "complete": 25.035515168696875,
+        "initial": 17.973654548333823,
+        "lazy": 27.11948179664822
+    }
+}

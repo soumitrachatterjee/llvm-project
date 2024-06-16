@@ -1,0 +1,20 @@
+{
+    "directory name": "llvm-project/mlir/examples/toy/Ch6/include/toy",
+    "score.sum": 0.00028912019368433644,
+    "sha.latest": "34a35a8b244243f5a4ad5d531007bccfeaa0b02e",
+    "time.latest": 1717789727.5991323,
+    "formatted_time": "2024-06-07 14:48:47.599136",
+    "filescores": {
+        "AST.h": 14.457238750637405,
+        "CMakeLists.txt": 6.297368808904944,
+        "Dialect.h": 14.411964599044422,
+        "Lexer.h": 2.5928488087847827,
+        "MLIRGen.h": 4.598987707430439,
+        "Ops.td": 33.39922911301556,
+        "Parser.h": 8.87520735126832,
+        "Passes.h": 8.147904238240587,
+        "ShapeInferenceInterface.h": 2.561029868346376,
+        "ShapeInferenceInterface.td": 4.658220754327179
+    },
+    "subdirscores": {}
+}

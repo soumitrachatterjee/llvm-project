@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/libc/test/src/pthread",
+    "score.sum": 2.8347900958233103e-05,
+    "sha.latest": "b6bc9d72f65a5086f310f321e969d96e9a559e75",
+    "time.latest": 1717848695.7564967,
+    "formatted_time": "2024-06-08 07:11:35.756500",
+    "filescores": {
+        "CMakeLists.txt": 32.43922196771733,
+        "pthread_attr_test.cpp": 33.7207199283865,
+        "pthread_mutexattr_test.cpp": 33.840058103896176
+    },
+    "subdirscores": {}
+}

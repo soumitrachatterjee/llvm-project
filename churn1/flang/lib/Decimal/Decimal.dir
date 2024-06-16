@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/flang/lib/Decimal",
+    "score.sum": 0.0002120029553953802,
+    "sha.latest": "4762c6557d15ba45594793749fea8df6c911f0a8",
+    "time.latest": 1717790506.0758479,
+    "formatted_time": "2024-06-07 15:01:46.075851",
+    "filescores": {
+        "CMakeLists.txt": 51.19486933873202,
+        "big-radix-floating-point.h": 15.722424192615343,
+        "binary-to-decimal.cpp": 9.177861615516509,
+        "decimal-to-binary.cpp": 23.904844853136137
+    },
+    "subdirscores": {}
+}

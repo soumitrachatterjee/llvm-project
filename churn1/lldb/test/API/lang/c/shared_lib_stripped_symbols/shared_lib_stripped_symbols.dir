@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/lldb/test/API/lang/c/shared_lib_stripped_symbols",
+    "score.sum": 2.7725374657478635e-05,
+    "sha.latest": "5b386158aacac4b41126983a5379d36ed413d0ea",
+    "time.latest": 1717926966.8262937,
+    "formatted_time": "2024-06-09 15:26:06.826297",
+    "filescores": {
+        "foo.c": 0.0,
+        "foo.h": 0.0,
+        "main.c": 0.0,
+        "Makefile": 0.0,
+        "TestSharedLibStrippedSymbols.py": 100.0
+    },
+    "subdirscores": {}
+}

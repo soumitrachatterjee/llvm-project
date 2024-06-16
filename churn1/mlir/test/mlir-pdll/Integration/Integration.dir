@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/mlir/test/mlir-pdll/Integration",
+    "score.sum": 6.183976500219257e-06,
+    "sha.latest": "919fcab6e2f48fdcb3911302958514cce2e01387",
+    "time.latest": 1717833151.4231002,
+    "formatted_time": "2024-06-08 02:52:31.423104",
+    "filescores": {
+        "test-pdll.mlir": 100.0
+    },
+    "subdirscores": {}
+}

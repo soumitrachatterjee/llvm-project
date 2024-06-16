@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/mlir/lib/Conversion/SCFToGPU",
+    "score.sum": 0.0002450759116744526,
+    "sha.latest": "227bfa1fb14ac6023499b4740401e5e980bfd426",
+    "time.latest": 1717803744.7265794,
+    "formatted_time": "2024-06-07 18:42:24.726583",
+    "filescores": {
+        "CMakeLists.txt": 14.911525903288537,
+        "SCFToGPU.cpp": 57.24786188373234,
+        "SCFToGPUPass.cpp": 27.84061221297911
+    },
+    "subdirscores": {}
+}

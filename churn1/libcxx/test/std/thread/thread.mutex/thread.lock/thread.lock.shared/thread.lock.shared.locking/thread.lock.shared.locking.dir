@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/thread/thread.mutex/thread.lock/thread.lock.shared/thread.lock.shared.locking",
+    "score.sum": 0.00023469106183939096,
+    "sha.latest": "ec350ad418a24f70c88758259c774a1e11c06d74",
+    "time.latest": 1717978038.8254888,
+    "formatted_time": "2024-06-10 05:37:18.825492",
+    "filescores": {
+        "lock.pass.cpp": 34.740920584596225,
+        "try_lock.pass.cpp": 17.521280239276145,
+        "try_lock_for.pass.cpp": 14.229443712044345,
+        "try_lock_until.pass.cpp": 18.577396349054002,
+        "unlock.pass.cpp": 14.930959115029271
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/llvm/unittests/Frontend",
+    "score.sum": 0.0005412333126971033,
+    "sha.latest": "64422cf826354ee1d586c2484ec72d66db898e75",
+    "time.latest": 1718081177.2323751,
+    "formatted_time": "2024-06-10 23:46:17.232379",
+    "filescores": {
+        "CMakeLists.txt": 3.3541664704978027,
+        "OpenACCTest.cpp": 1.1269820104855206,
+        "OpenMPContextTest.cpp": 2.40343745434079,
+        "OpenMPIRBuilderTest.cpp": 91.17409115501485,
+        "OpenMPParsingTest.cpp": 1.9413229096610443
+    },
+    "subdirscores": {}
+}

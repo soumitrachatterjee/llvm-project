@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/libc/cmake/modules/compiler_features",
+    "score.sum": 1.9031360251872355e-05,
+    "sha.latest": "75fb825bccaa1e0f1ca9f76f9c72434a26d9966a",
+    "time.latest": 1717824800.0883577,
+    "formatted_time": "2024-06-08 00:33:20.088361",
+    "filescores": {
+        "check_fixed_point.cpp": 32.05026854689015,
+        "check_float128.cpp": 67.94973145310986
+    },
+    "subdirscores": {}
+}

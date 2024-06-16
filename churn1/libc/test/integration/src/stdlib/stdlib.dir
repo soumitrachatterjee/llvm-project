@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/libc/test/integration/src/stdlib",
+    "score.sum": 2.36558169178805e-05,
+    "sha.latest": "b6bc9d72f65a5086f310f321e969d96e9a559e75",
+    "time.latest": 1717844446.6180685,
+    "formatted_time": "2024-06-08 06:00:46.618071",
+    "filescores": {
+        "CMakeLists.txt": 45.019600680470425,
+        "getenv_test.cpp": 54.98039931952958
+    },
+    "subdirscores": {}
+}

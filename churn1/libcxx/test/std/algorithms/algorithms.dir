@@ -1,0 +1,28 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/algorithms",
+    "score.sum": 0.001934989437659384,
+    "sha.latest": "a6b846ae1e58e11160185e427e20a995f6656859",
+    "time.latest": 1717872946.4468057,
+    "formatted_time": "2024-06-09 00:25:46.446808",
+    "filescores": {
+        "ranges_result_alias_declarations.compile.pass.cpp": 0.45412800872869685,
+        "ranges_robust_against_dangling.pass.cpp": 0.7987546272864444,
+        "ranges_robust_against_differing_projections.pass.cpp": 0.6386108059661573,
+        "ranges_robust_against_nonbool.compile.pass.cpp": 0.0,
+        "ranges_robust_against_omitting_invoke.pass.cpp": 0.8884869828181475,
+        "ranges_robust_against_proxy_iterators.pass.cpp": 0.7765812079643233,
+        "robust_against_adl.compile.pass.cpp": 1.2276396490295853,
+        "robust_against_adl_on_new.pass.cpp": 0.44425629889964324,
+        "robust_against_proxy_iterators_lifetime_bugs.pass.cpp": 0.6792046624653023,
+        "robust_re_difference_type.compile.pass.cpp": 0.3168479024410786
+    },
+    "subdirscores": {
+        "alg.c.library": 0.6270247963439433,
+        "alg.modifying.operations": 33.407641911563815,
+        "alg.nonmodifying": 22.38136745918142,
+        "alg.sorting": 35.50750706717936,
+        "algorithms.general": 0.6270247963439433,
+        "algorithms.results": 0.6232659314533723,
+        "numeric.ops": 0.6016578923347645
+    }
+}

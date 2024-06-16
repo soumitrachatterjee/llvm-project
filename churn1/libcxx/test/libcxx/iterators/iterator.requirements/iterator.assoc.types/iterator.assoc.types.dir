@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/libcxx/test/libcxx/iterators/iterator.requirements/iterator.assoc.types",
+    "score.sum": 3.351577411674209e-05,
+    "sha.latest": "66a562d22e708ba40b8443b58e504ac3f983ba59",
+    "time.latest": 1717851954.2889667,
+    "formatted_time": "2024-06-08 18:35:54.288970",
+    "filescores": {},
+    "subdirscores": {
+        "iterator.traits": 100.0
+    }
+}

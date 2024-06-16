@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/input.output/filesystems/class.path/path.member/path.gen",
+    "score.sum": 8.150307537829629e-05,
+    "sha.latest": "ac8c9f1e39e1a773fd81ce23dbf1c80ea186f226",
+    "time.latest": 1717903080.5111868,
+    "formatted_time": "2024-06-09 08:48:00.511189",
+    "filescores": {
+        "lexically_normal.pass.cpp": 52.364476942633246,
+        "lexically_relative_and_proximate.pass.cpp": 47.63552305736677
+    },
+    "subdirscores": {}
+}

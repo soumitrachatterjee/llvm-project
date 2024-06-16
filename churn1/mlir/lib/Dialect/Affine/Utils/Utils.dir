@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/mlir/lib/Dialect/Affine/Utils",
+    "score.sum": 0.0005417088569450366,
+    "sha.latest": "fab2bb8bfda865bd438dee981d7be7df8017b76d",
+    "time.latest": 1717804949.7110405,
+    "formatted_time": "2024-06-07 19:02:29.711044",
+    "filescores": {
+        "CMakeLists.txt": 5.643903415828961,
+        "LoopFusionUtils.cpp": 12.143302061832285,
+        "LoopUtils.cpp": 22.220580905651747,
+        "Utils.cpp": 56.79279156935758,
+        "ViewLikeInterfaceUtils.cpp": 3.1994220473294326
+    },
+    "subdirscores": {}
+}

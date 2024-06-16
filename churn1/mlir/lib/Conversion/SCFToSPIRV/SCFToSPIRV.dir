@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/mlir/lib/Conversion/SCFToSPIRV",
+    "score.sum": 0.00016186505791918412,
+    "sha.latest": "91d5653e3ae9742f7fb847f809b534ee128501b0",
+    "time.latest": 1717803800.8216417,
+    "formatted_time": "2024-06-07 18:43:20.821645",
+    "filescores": {
+        "CMakeLists.txt": 20.622228387561393,
+        "SCFToSPIRV.cpp": 47.410982231352286,
+        "SCFToSPIRVPass.cpp": 31.96678938108632
+    },
+    "subdirscores": {}
+}

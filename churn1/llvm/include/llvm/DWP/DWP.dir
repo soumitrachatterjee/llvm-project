@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/llvm/include/llvm/DWP",
+    "score.sum": 2.7831288389569412e-05,
+    "sha.latest": "4c44dcffd5f1557bde2c21773221081437308895",
+    "time.latest": 1717811452.3992312,
+    "formatted_time": "2024-06-07 20:50:52.399235",
+    "filescores": {
+        "DWP.h": 78.083651811329,
+        "DWPError.h": 0.0,
+        "DWPStringPool.h": 21.916348188671
+    },
+    "subdirscores": {}
+}

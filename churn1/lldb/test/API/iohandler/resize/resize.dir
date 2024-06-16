@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/iohandler/resize",
+    "score.sum": 2.597583732240959e-05,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717924599.7032535,
+    "formatted_time": "2024-06-09 14:46:39.703256",
+    "filescores": {
+        "input_file": 0.0,
+        "TestIOHandlerResize.py": 49.22655960863954,
+        "TestIOHandlerResizeNoEditline.py": 50.77344039136046
+    },
+    "subdirscores": {}
+}

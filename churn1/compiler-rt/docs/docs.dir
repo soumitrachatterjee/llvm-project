@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/compiler-rt/docs",
+    "score.sum": 1.9354759973195775e-05,
+    "sha.latest": "a82f2b2db34c58f18d7abbdbe7af51cc1e7ec3aa",
+    "time.latest": 1717788311.6802342,
+    "formatted_time": "2024-06-08 00:55:11.680241",
+    "filescores": {
+        "ASanABI.rst": 0.0,
+        "BuildingCompilerRT.rst": 68.48526110735303,
+        "TestingGuide.rst": 31.51473889264698
+    },
+    "subdirscores": {}
+}

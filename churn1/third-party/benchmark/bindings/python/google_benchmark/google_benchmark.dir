@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/third-party/benchmark/bindings/python/google_benchmark",
+    "score.sum": 5.97966203606372e-05,
+    "sha.latest": "a5b797172cc902db166e9a695716fb81405f86e4",
+    "time.latest": 1717788312.7230272,
+    "formatted_time": "2024-06-07 14:25:12.723031",
+    "filescores": {
+        "__init__.py": 30.864541892692387,
+        "benchmark.cc": 31.19672464500441,
+        "example.py": 37.9387334623032,
+        "version.py": 0.0
+    },
+    "subdirscores": {}
+}

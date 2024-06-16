@@ -1,0 +1,27 @@
+{
+    "directory name": "llvm-project/mlir",
+    "score.sum": 0.12300146628025704,
+    "sha.latest": "fab2bb8bfda865bd438dee981d7be7df8017b76d",
+    "time.latest": 1717837672.32708,
+    "formatted_time": "2024-06-08 04:07:52.327080",
+    "filescores": {
+        ".clang-format": 0.004958966956502246,
+        ".clang-tidy": 0.01582526482467972,
+        "CMakeLists.txt": 0.3151165953413646,
+        "LICENSE.TXT": 0.0,
+        "README.md": 0.023561304441677276
+    },
+    "subdirscores": {
+        "benchmark": 0.0234570725797276,
+        "cmake": 0.2865343210490854,
+        "docs": 1.7257105447153545,
+        "examples": 0.9596226175876867,
+        "include": 24.110721471768077,
+        "lib": 37.02587498710978,
+        "python": 0.8858365958649441,
+        "test": 28.791883216920173,
+        "tools": 3.4445008954440297,
+        "unittests": 2.0217702310636807,
+        "utils": 0.3646259143332598
+    }
+}

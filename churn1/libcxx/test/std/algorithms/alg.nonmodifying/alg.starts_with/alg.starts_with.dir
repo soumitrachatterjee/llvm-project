@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/algorithms/alg.nonmodifying/alg.starts_with",
+    "score.sum": 6.15796744463881e-06,
+    "sha.latest": "c000f754bfb9fb3a7a0a1f9b0485f36ae70534b7",
+    "time.latest": 1717870195.0072381,
+    "formatted_time": "2024-06-08 23:39:55.007241",
+    "filescores": {
+        "ranges.starts_with.pass.cpp": 100.0
+    },
+    "subdirscores": {}
+}

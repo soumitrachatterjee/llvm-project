@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/mlir/test/Examples/standalone",
+    "score.sum": 5.9233306530664275e-05,
+    "sha.latest": "f9008e6366c2496b1ca1785b891d5578174ad63e",
+    "time.latest": 1717824442.664112,
+    "formatted_time": "2024-06-08 00:27:22.664116",
+    "filescores": {
+        "lit.local.cfg": 33.69320703956935,
+        "test.toy": 66.30679296043066
+    },
+    "subdirscores": {}
+}

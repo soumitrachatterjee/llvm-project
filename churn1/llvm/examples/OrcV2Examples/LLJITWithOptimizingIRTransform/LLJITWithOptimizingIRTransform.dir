@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/llvm/examples/OrcV2Examples/LLJITWithOptimizingIRTransform",
+    "score.sum": 2.5754891880697132e-05,
+    "sha.latest": "b92839c9548a55bc7a3267b05d11c9d9c530b792",
+    "time.latest": 1717804743.242379,
+    "formatted_time": "2024-06-07 18:59:03.242382",
+    "filescores": {
+        "CMakeLists.txt": 23.755617061759203,
+        "LLJITWithOptimizingIRTransform.cpp": 76.24438293824079
+    },
+    "subdirscores": {}
+}

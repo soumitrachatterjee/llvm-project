@@ -1,0 +1,27 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/iterators/iterator.requirements",
+    "score.sum": 0.00023313119354048635,
+    "sha.latest": "3903438860b6eebf53a912c672560e1e55311220",
+    "time.latest": 1717915421.474356,
+    "formatted_time": "2024-06-09 12:13:41.474357",
+    "filescores": {},
+    "subdirscores": {
+        "alg.req.ind.copy": 2.61638177895397,
+        "alg.req.ind.move": 6.449593751678131,
+        "alg.req.ind.swap": 3.045730485990089,
+        "alg.req.mergeable": 3.802016500632156,
+        "alg.req.permutable": 3.2799329446115917,
+        "alg.req.sortable": 3.8017784259627088,
+        "bidirectional.iterators": 5.204307238556445,
+        "forward.iterators": 5.204307238556445,
+        "indirectcallable": 5.259689682380683,
+        "input.iterators": 5.204307238556445,
+        "iterator.assoc.types": 5.366653871596032,
+        "iterator.concepts": 12.669620292986034,
+        "iterator.cust": 17.278451595313488,
+        "iterator.iterators": 5.204307238556445,
+        "iterator.requirements.general": 5.204307238556445,
+        "output.iterators": 5.204307238556445,
+        "random.access.iterators": 5.204307238556445
+    }
+}

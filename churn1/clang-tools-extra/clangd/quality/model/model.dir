@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/clang-tools-extra/clangd/quality/model",
+    "score.sum": 2.582678020931401e-05,
+    "sha.latest": "7d1b499caef6ebde09a2697a97b43b89f7fa35c8",
+    "time.latest": 1717802835.474086,
+    "formatted_time": "2024-06-08 04:57:15.474088",
+    "filescores": {
+        "features.json": 70.30376273745328,
+        "forest.json": 29.69623726254673
+    },
+    "subdirscores": {}
+}

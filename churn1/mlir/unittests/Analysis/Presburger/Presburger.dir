@@ -1,0 +1,29 @@
+{
+    "directory name": "llvm-project/mlir/unittests/Analysis/Presburger",
+    "score.sum": 0.000659774266850959,
+    "sha.latest": "562790f371f230d8f67a1a8fb4b54e02e8d1e31f",
+    "time.latest": 1717835859.2050412,
+    "formatted_time": "2024-06-08 03:37:39.205045",
+    "filescores": {
+        "BarvinokTest.cpp": 1.5096765139576394,
+        "CMakeLists.txt": 12.386191439107536,
+        "FractionTest.cpp": 0.0,
+        "GeneratingFunctionTest.cpp": 0.9244983284910505,
+        "IntegerPolyhedronTest.cpp": 13.256394565154602,
+        "IntegerRelationTest.cpp": 4.883565208827646,
+        "LinearTransformTest.cpp": 3.254942802064569,
+        "MPIntTest.cpp": 1.2107760089777022,
+        "MatrixTest.cpp": 8.621187089739859,
+        "PWMAFunctionTest.cpp": 4.905244587254156,
+        "Parser.h": 4.224090617883006,
+        "ParserTest.cpp": 1.7522342035624077,
+        "PresburgerRelationTest.cpp": 3.367076812486327,
+        "PresburgerSetTest.cpp": 7.659283587603924,
+        "PresburgerSpaceTest.cpp": 4.207547912998384,
+        "QuasiPolynomialTest.cpp": 0.0,
+        "SimplexTest.cpp": 18.54910677866293,
+        "Utils.h": 8.363395166267543,
+        "UtilsTest.cpp": 0.9247883769607321
+    },
+    "subdirscores": {}
+}

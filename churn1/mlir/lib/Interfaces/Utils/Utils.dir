@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/mlir/lib/Interfaces/Utils",
+    "score.sum": 1.2630574850508918e-05,
+    "sha.latest": "f8f3db27565cae8e07c2487f9714a32840c6d548",
+    "time.latest": 1717811128.7845483,
+    "formatted_time": "2024-06-07 20:45:28.784552",
+    "filescores": {
+        "CMakeLists.txt": 49.942140775627884,
+        "InferIntRangeCommon.cpp": 50.057859224372116
+    },
+    "subdirscores": {}
+}

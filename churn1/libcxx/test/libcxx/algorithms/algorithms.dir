@@ -1,0 +1,32 @@
+{
+    "directory name": "llvm-project/libcxx/test/libcxx/algorithms",
+    "score.sum": 0.0006134926810693043,
+    "sha.latest": "a6b846ae1e58e11160185e427e20a995f6656859",
+    "time.latest": 1717844888.7230997,
+    "formatted_time": "2024-06-08 16:38:08.723103",
+    "filescores": {
+        "bad_iterator_traits.verify.cpp": 0.9942420271778508,
+        "callable.verify.cpp": 1.6783212033842199,
+        "cpp17_iterator_concepts.verify.cpp": 3.2172626894921876,
+        "debug_less.inconsistent.pass.cpp": 2.0165008145699668,
+        "debug_less.pass.cpp": 13.909777194725478,
+        "debug_three_way_comp.inconsistent.pass.cpp": 1.5378162890751286,
+        "half_positive.pass.cpp": 2.61624639444361,
+        "lifetimebound.verify.cpp": 0.9942420271778508,
+        "nth_element_stability.pass.cpp": 2.3096690166041296,
+        "partial_sort_stability.pass.cpp": 3.284301883364338,
+        "pstl.libdispatch.chunk_partitions.pass.cpp": 1.4728022879848024,
+        "pstl.robust_against_customization_points_not_working.pass.cpp": 4.891814359085407,
+        "ranges_robust_against_copying_comparators.pass.cpp": 9.298658602076447,
+        "ranges_robust_against_copying_projections.pass.cpp": 9.759538477588848,
+        "robust_against_copying_comparators.pass.cpp": 2.1352518318814044,
+        "robust_against_cpp20_hostile_iterators.compile.pass.cpp": 1.1557013047507871,
+        "robust_against_using_non_transparent_comparators.pass.cpp": 0.9942420271778508,
+        "sort_stability.pass.cpp": 2.151096324181621
+    },
+    "subdirscores": {
+        "alg.modifying.operations": 17.99463417099523,
+        "alg.sorting": 14.777745037116045,
+        "specialized.algorithms": 2.8101360371468083
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/llvm/unittests/Transforms/Coroutines",
+    "score.sum": 6.099602068851199e-06,
+    "sha.latest": "5c9d82de6b72cc0c037daecce452c450870f0034",
+    "time.latest": 1718084800.240598,
+    "formatted_time": "2024-06-11 00:46:40.240601",
+    "filescores": {
+        "CMakeLists.txt": 0.0,
+        "ExtraRematTest.cpp": 100.0
+    },
+    "subdirscores": {}
+}

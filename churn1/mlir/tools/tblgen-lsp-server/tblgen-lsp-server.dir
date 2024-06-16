@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/mlir/tools/tblgen-lsp-server",
+    "score.sum": 1.0685478968148157e-05,
+    "sha.latest": "07b749800c5cd4105d49ab46be5f0a2079dd709a",
+    "time.latest": 1717835646.946521,
+    "formatted_time": "2024-06-08 03:34:06.946525",
+    "filescores": {
+        "CMakeLists.txt": 100.0,
+        "tblgen-lsp-server.cpp": 0.0
+    },
+    "subdirscores": {}
+}

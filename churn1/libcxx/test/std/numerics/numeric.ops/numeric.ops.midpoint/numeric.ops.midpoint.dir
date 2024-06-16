@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/numerics/numeric.ops/numeric.ops.midpoint",
+    "score.sum": 8.01614844042369e-05,
+    "sha.latest": "c9535d7b61a37d6fa58e51222a9ccecc54431193",
+    "time.latest": 1717952144.1302838,
+    "formatted_time": "2024-06-09 22:25:44.130286",
+    "filescores": {
+        "midpoint.float.pass.cpp": 36.490523887661915,
+        "midpoint.integer.pass.cpp": 46.55334227658485,
+        "midpoint.pointer.pass.cpp": 16.956133835753242,
+        "midpoint.verify.cpp": 0.0
+    },
+    "subdirscores": {}
+}

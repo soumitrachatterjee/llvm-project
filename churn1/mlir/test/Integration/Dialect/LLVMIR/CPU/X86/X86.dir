@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/mlir/test/Integration/Dialect/LLVMIR/CPU/X86",
+    "score.sum": 9.150714437906627e-05,
+    "sha.latest": "f36e909da03767c317eaa5ded9abbf3214299ff5",
+    "time.latest": 1717825537.4413538,
+    "formatted_time": "2024-06-08 00:45:37.441357",
+    "filescores": {
+        "lit.local.cfg": 24.213866155928113,
+        "test-inline-asm-vector.mlir": 50.65331648208019,
+        "test-inline-asm.mlir": 25.132817361991695
+    },
+    "subdirscores": {}
+}

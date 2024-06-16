@@ -1,0 +1,28 @@
+{
+    "directory name": "llvm-project/clang/lib/Serialization",
+    "score.sum": 0.015352685084192129,
+    "sha.latest": "3f6bc1adf805681293c2ef0b93b708ff52244c00",
+    "time.latest": 1717819033.9187942,
+    "formatted_time": "2024-06-08 09:27:13.918800",
+    "filescores": {
+        "ASTCommon.cpp": 2.4643856959764583,
+        "ASTCommon.h": 0.6319620545570387,
+        "ASTReader.cpp": 24.62559573143427,
+        "ASTReaderDecl.cpp": 13.691716166188646,
+        "ASTReaderInternals.h": 0.5211027746293654,
+        "ASTReaderStmt.cpp": 11.380698324431608,
+        "ASTWriter.cpp": 21.58504607017256,
+        "ASTWriterDecl.cpp": 9.3213031675769,
+        "ASTWriterStmt.cpp": 10.606914272214436,
+        "CMakeLists.txt": 0.47063714551828534,
+        "GeneratePCH.cpp": 0.9368516644505446,
+        "GlobalModuleIndex.cpp": 1.3076268897750436,
+        "InMemoryModuleCache.cpp": 0.073647540198198,
+        "ModuleFile.cpp": 0.0,
+        "ModuleFileExtension.cpp": 0.10273255016883023,
+        "ModuleManager.cpp": 2.12892132087404,
+        "MultiOnDiskHashTable.h": 0.09904110567621306,
+        "PCHContainerOperations.cpp": 0.05181752615755974
+    },
+    "subdirscores": {}
+}

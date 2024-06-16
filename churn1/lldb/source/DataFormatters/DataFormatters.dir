@@ -1,0 +1,27 @@
+{
+    "directory name": "llvm-project/lldb/source/DataFormatters",
+    "score.sum": 0.001578008028401719,
+    "sha.latest": "624ea68cbc3ce422b3ee110c0c0af839eec2e278",
+    "time.latest": 1717865217.4436166,
+    "formatted_time": "2024-06-08 22:16:57.443619",
+    "filescores": {
+        "CMakeLists.txt": 2.2481969797459906,
+        "CXXFunctionPointer.cpp": 1.3866462329005866,
+        "DataVisualization.cpp": 6.385319846235562,
+        "DumpValueObjectOptions.cpp": 1.950520060839069,
+        "FormatCache.cpp": 2.7528746681128697,
+        "FormatClasses.cpp": 1.8941371049215363,
+        "FormatManager.cpp": 21.843285000084435,
+        "FormattersHelpers.cpp": 3.82688728950544,
+        "LanguageCategory.cpp": 3.3386702000607804,
+        "StringPrinter.cpp": 5.824998924269408,
+        "TypeCategory.cpp": 6.850708160440927,
+        "TypeCategoryMap.cpp": 6.635893588334239,
+        "TypeFormat.cpp": 7.063387682435899,
+        "TypeSummary.cpp": 4.242600309570372,
+        "TypeSynthetic.cpp": 6.559336839225116,
+        "ValueObjectPrinter.cpp": 10.831033489753326,
+        "VectorType.cpp": 6.36550362356445
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/strings/basic.string/string.modifiers/string_copy",
+    "score.sum": 5.437339570036556e-05,
+    "sha.latest": "9ed20568e7de53dce85f1631d7d8c1415e7930ae",
+    "time.latest": 1717969454.9793732,
+    "formatted_time": "2024-06-10 03:14:14.979375",
+    "filescores": {
+        "copy.pass.cpp": 100.0
+    },
+    "subdirscores": {}
+}

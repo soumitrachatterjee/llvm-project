@@ -1,0 +1,40 @@
+{
+    "directory name": "llvm-project/llvm/include/llvm-c",
+    "score.sum": 0.002650714917810424,
+    "sha.latest": "e1405e4f71c899420ebf8262d5e9745598419df8",
+    "time.latest": 1717805452.2003915,
+    "formatted_time": "2024-06-07 19:10:52.200395",
+    "filescores": {
+        "Analysis.h": 0.7449564059694308,
+        "BitReader.h": 1.510819039707559,
+        "BitWriter.h": 1.128998608153374,
+        "Comdat.h": 0.601022912366358,
+        "Core.h": 38.80725107669532,
+        "DataTypes.h": 0.49722071745463964,
+        "DebugInfo.h": 4.984536715100747,
+        "Deprecated.h": 0.0,
+        "Disassembler.h": 2.095955465494649,
+        "DisassemblerTypes.h": 0.6356809360751817,
+        "Error.h": 0.5734794288232392,
+        "ErrorHandling.h": 0.7108703583980304,
+        "ExecutionEngine.h": 4.361331419293198,
+        "ExternC.h": 0.23011158340217386,
+        "IRReader.h": 0.6202188558744962,
+        "LLJIT.h": 0.6948908095126433,
+        "LLJITUtils.h": 0.0,
+        "Linker.h": 0.9724258000951822,
+        "Object.h": 1.9830802356835673,
+        "Orc.h": 3.053918465398483,
+        "OrcEE.h": 0.34216818542288463,
+        "Remarks.h": 0.5768821591196039,
+        "Support.h": 1.176785704003459,
+        "Target.h": 4.221972865706524,
+        "TargetMachine.h": 2.289148330739828,
+        "Types.h": 1.3171909675649862,
+        "blake3.h": 0.0,
+        "lto.h": 11.015325580798557
+    },
+    "subdirscores": {
+        "Transforms": 14.853757373145857
+    }
+}

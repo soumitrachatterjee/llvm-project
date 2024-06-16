@@ -1,0 +1,19 @@
+{
+    "directory name": "llvm-project/clang/lib/Tooling/Refactoring",
+    "score.sum": 0.0003022786556570841,
+    "sha.latest": "a87dc23a6271cadd6d3f93561f2d8b1661399e6d",
+    "time.latest": 1717823655.699894,
+    "formatted_time": "2024-06-08 10:44:15.699896",
+    "filescores": {
+        "ASTSelection.cpp": 11.641257736006407,
+        "ASTSelectionRequirements.cpp": 6.028192818634503,
+        "AtomicChange.cpp": 12.71688370411723,
+        "CMakeLists.txt": 18.024297660285093,
+        "Lookup.cpp": 4.014609950470885,
+        "RefactoringActions.cpp": 4.519023985832478
+    },
+    "subdirscores": {
+        "Extract": 7.358575561422209,
+        "Rename": 35.69715858323118
+    }
+}

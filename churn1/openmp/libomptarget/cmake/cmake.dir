@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/openmp/libomptarget/cmake",
+    "score.sum": 0.00010960207465548793,
+    "sha.latest": "c7c68f1764ddd38d940946007c634b4bacb902b2",
+    "time.latest": 1717794541.3380768,
+    "formatted_time": "2024-06-08 02:39:01.338082",
+    "filescores": {},
+    "subdirscores": {
+        "Modules": 100.0
+    }
+}

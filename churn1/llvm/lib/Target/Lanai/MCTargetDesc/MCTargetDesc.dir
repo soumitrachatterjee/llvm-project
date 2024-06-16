@@ -1,0 +1,24 @@
+{
+    "directory name": "llvm-project/llvm/lib/Target/Lanai/MCTargetDesc",
+    "score.sum": 0.0003080377429828465,
+    "sha.latest": "4a0ccfa865437fe29ef2ecb18152df7694dddb7f",
+    "time.latest": 1717857849.2312365,
+    "formatted_time": "2024-06-08 09:44:09.231240",
+    "filescores": {
+        "CMakeLists.txt": 5.452774080353411,
+        "LanaiAsmBackend.cpp": 11.325232390603492,
+        "LanaiBaseInfo.h": 2.1757573015176725,
+        "LanaiELFObjectWriter.cpp": 6.510690777680679,
+        "LanaiFixupKinds.h": 1.9801476305424246,
+        "LanaiInstPrinter.cpp": 4.609496318359246,
+        "LanaiInstPrinter.h": 7.387223550313997,
+        "LanaiMCAsmInfo.cpp": 5.072639318636937,
+        "LanaiMCAsmInfo.h": 3.5711765182880835,
+        "LanaiMCCodeEmitter.cpp": 11.774149500843414,
+        "LanaiMCExpr.cpp": 1.9801476305424246,
+        "LanaiMCExpr.h": 2.191107668987425,
+        "LanaiMCTargetDesc.cpp": 23.039178221760995,
+        "LanaiMCTargetDesc.h": 12.930279091569789
+    },
+    "subdirscores": {}
+}

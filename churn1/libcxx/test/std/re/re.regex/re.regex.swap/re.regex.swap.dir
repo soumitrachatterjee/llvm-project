@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/re/re.regex/re.regex.swap",
+    "score.sum": 1.412973324667397e-05,
+    "sha.latest": "2df59c50688c122bbcae7467d3eaf862c3ea3088",
+    "time.latest": 1717967233.1175625,
+    "formatted_time": "2024-06-10 02:37:13.117564",
+    "filescores": {
+        "swap.pass.cpp": 100.0
+    },
+    "subdirscores": {}
+}

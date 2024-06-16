@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/mlir/lib/Dialect/Tosa/IR",
+    "score.sum": 0.0005036683383940772,
+    "sha.latest": "d57f158a9546746219e3b01398886e104d8a0fdb",
+    "time.latest": 1717809596.1347184,
+    "formatted_time": "2024-06-07 20:19:56.134722",
+    "filescores": {
+        "ShardingInterfaceImpl.cpp": 2.31515552973132,
+        "TosaCanonicalizations.cpp": 21.554000012669523,
+        "TosaOps.cpp": 76.13084445759915
+    },
+    "subdirscores": {}
+}

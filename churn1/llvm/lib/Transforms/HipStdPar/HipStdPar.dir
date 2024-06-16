@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/llvm/lib/Transforms/HipStdPar",
+    "score.sum": 2.4802587364117248e-05,
+    "sha.latest": "0ce6255a50584863c2f462390cac6a63ccb5f136",
+    "time.latest": 1717874748.473733,
+    "formatted_time": "2024-06-08 14:25:48.473736",
+    "filescores": {
+        "CMakeLists.txt": 50.0,
+        "HipStdPar.cpp": 50.0
+    },
+    "subdirscores": {}
+}

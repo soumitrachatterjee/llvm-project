@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/polly/test/PruneUnprofitable",
+    "score.sum": 1.6328482952506065e-05,
+    "sha.latest": "b332499a94df11870dfc7598645c59656deb933d",
+    "time.latest": 1717814199.114689,
+    "formatted_time": "2024-06-07 21:36:39.114693",
+    "filescores": {
+        "prune_only_scalardeps.ll": 100.0
+    },
+    "subdirscores": {}
+}

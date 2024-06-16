@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/libcxx/test/libcxx/numerics/rand/rand.device",
+    "score.sum": 1.0168115317620309e-05,
+    "sha.latest": "72f0edf3f4291d2614719a8c8af21a7a62ed5d74",
+    "time.latest": 1717861565.6297064,
+    "formatted_time": "2024-06-08 21:16:05.629710",
+    "filescores": {
+        "has-no-random-device.verify.cpp": 100.0
+    },
+    "subdirscores": {}
+}

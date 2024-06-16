@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/localization/locales/locale/locale.operators",
+    "score.sum": 5.3400958785365877e-05,
+    "sha.latest": "2d8ec3c61d3c2d47b303187bb882ca23544f6fc5",
+    "time.latest": 1717931815.058305,
+    "formatted_time": "2024-06-09 16:46:55.058308",
+    "filescores": {
+        "compare.pass.cpp": 64.68261441405667,
+        "eq.pass.cpp": 35.317385585943335
+    },
+    "subdirscores": {}
+}

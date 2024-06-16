@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/functionalities/process_group",
+    "score.sum": 2.671661389265693e-05,
+    "sha.latest": "80fcecb13c388ff087a27a4b0e7ca3dd8c98eaa4",
+    "time.latest": 1717918917.3630683,
+    "formatted_time": "2024-06-09 13:11:57.363070",
+    "filescores": {
+        "main.c": 0.0,
+        "Makefile": 0.0,
+        "TestChangeProcessGroup.py": 100.0
+    },
+    "subdirscores": {}
+}

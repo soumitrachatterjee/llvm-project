@@ -1,0 +1,23 @@
+{
+    "directory name": "llvm-project/mlir/test/Dialect/Async",
+    "score.sum": 0.00020347227171463103,
+    "sha.latest": "88f0e4c75c1ac498f2223fc640c4ff6c572c5ed1",
+    "time.latest": 1717818198.2956,
+    "formatted_time": "2024-06-07 22:43:18.295603",
+    "filescores": {
+        "async-parallel-for-async-dispatch.mlir": 7.726672367556859,
+        "async-parallel-for-canonicalize.mlir": 4.067333045807287,
+        "async-parallel-for-compute-fn.mlir": 6.986506147723766,
+        "async-parallel-for-num-worker-threads.mlir": 10.037939181544917,
+        "async-parallel-for-seq-dispatch.mlir": 4.093534578905103,
+        "async-runtime-policy-based-ref-counting.mlir": 4.585621571783297,
+        "async-runtime-ref-counting-opt.mlir": 4.967281472146092,
+        "async-runtime-ref-counting.mlir": 8.581814989460431,
+        "async-to-async-runtime.mlir": 17.69181910434132,
+        "coro.mlir": 2.9977559190010243,
+        "ops.mlir": 11.539668336416911,
+        "runtime.mlir": 11.089104779022959,
+        "verify.mlir": 5.634948506290008
+    },
+    "subdirscores": {}
+}

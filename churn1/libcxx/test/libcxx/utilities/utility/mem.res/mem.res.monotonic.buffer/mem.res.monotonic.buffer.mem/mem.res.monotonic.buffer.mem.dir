@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/libcxx/test/libcxx/utilities/utility/mem.res/mem.res.monotonic.buffer/mem.res.monotonic.buffer.mem",
+    "score.sum": 2.0274986901451748e-05,
+    "sha.latest": "2da049a1418f7a2f96e7cac4368cac3ce8667d2e",
+    "time.latest": 1717867637.7633502,
+    "formatted_time": "2024-06-08 22:57:17.763352",
+    "filescores": {
+        "allocate_from_underaligned_buffer.pass.cpp": 44.088670101649456,
+        "allocate_in_geometric_progression.pass.cpp": 55.91132989835054
+    },
+    "subdirscores": {}
+}

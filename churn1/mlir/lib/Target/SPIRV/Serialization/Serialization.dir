@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/mlir/lib/Target/SPIRV/Serialization",
+    "score.sum": 0.00021155086205254663,
+    "sha.latest": "ead0a9777f8ccb5c26d50d96bade6cd5b47f496b",
+    "time.latest": 1717812364.2162516,
+    "formatted_time": "2024-06-07 21:06:04.216255",
+    "filescores": {
+        "CMakeLists.txt": 5.368180006824201,
+        "Serialization.cpp": 7.426107721298292,
+        "SerializeOps.cpp": 31.597056087219404,
+        "Serializer.cpp": 44.792111644268296,
+        "Serializer.h": 10.816544540389806
+    },
+    "subdirscores": {}
+}

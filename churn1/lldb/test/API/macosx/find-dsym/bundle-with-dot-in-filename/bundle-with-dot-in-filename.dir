@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/lldb/test/API/macosx/find-dsym/bundle-with-dot-in-filename",
+    "score.sum": 3.926077508115506e-05,
+    "sha.latest": "80fcecb13c388ff087a27a4b0e7ca3dd8c98eaa4",
+    "time.latest": 1717962624.350067,
+    "formatted_time": "2024-06-10 01:20:24.350070",
+    "filescores": {
+        "bundle.c": 0.0,
+        "main.c": 15.536122392496962,
+        "Makefile": 15.536122392496962,
+        "TestBundleWithDotInFilename.py": 68.92775521500609
+    },
+    "subdirscores": {}
+}

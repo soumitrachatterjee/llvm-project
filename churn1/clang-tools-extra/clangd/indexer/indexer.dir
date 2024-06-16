@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/clang-tools-extra/clangd/indexer",
+    "score.sum": 8.522260235017017e-05,
+    "sha.latest": "109bc024c8d741e57fa6bb5a028d8a4ed4e64a61",
+    "time.latest": 1717802642.124816,
+    "formatted_time": "2024-06-08 04:54:02.124817",
+    "filescores": {
+        "CMakeLists.txt": 23.18706777208563,
+        "IndexerMain.cpp": 76.81293222791437
+    },
+    "subdirscores": {}
+}

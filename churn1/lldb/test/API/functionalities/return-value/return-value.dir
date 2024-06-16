@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/functionalities/return-value",
+    "score.sum": 5.083969209092377e-05,
+    "sha.latest": "9c2468821ec51defd09c246fea4a47886fff8c01",
+    "time.latest": 1717919586.6815486,
+    "formatted_time": "2024-06-09 13:23:06.681552",
+    "filescores": {
+        "call-func.cpp": 0.0,
+        "Makefile": 0.0,
+        "TestReturnValue.py": 100.0
+    },
+    "subdirscores": {}
+}

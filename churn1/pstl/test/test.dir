@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/pstl/test",
+    "score.sum": 9.662572083948758e-05,
+    "sha.latest": "f98ee40f4b5d7474fc67e82824bf6abbaedb7b1c",
+    "time.latest": 1717792144.4591784,
+    "formatted_time": "2024-06-07 15:29:04.459179",
+    "filescores": {
+        "CMakeLists.txt": 15.807645777331803
+    },
+    "subdirscores": {
+        "pstl": 30.564747854330776,
+        "std": 37.99686398636602,
+        "support": 15.630742381971407
+    }
+}

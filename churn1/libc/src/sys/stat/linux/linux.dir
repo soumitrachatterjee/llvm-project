@@ -1,0 +1,20 @@
+{
+    "directory name": "llvm-project/libc/src/sys/stat/linux",
+    "score.sum": 0.00016028234701146712,
+    "sha.latest": "b6bc9d72f65a5086f310f321e969d96e9a559e75",
+    "time.latest": 1717841944.353587,
+    "formatted_time": "2024-06-08 05:19:04.353590",
+    "filescores": {
+        "CMakeLists.txt": 13.459818312739646,
+        "chmod.cpp": 11.589235066888163,
+        "fchmod.cpp": 9.326726085601353,
+        "fchmodat.cpp": 9.310976242343932,
+        "fstat.cpp": 5.590711503216431,
+        "kernel_statx.h": 14.022415406348983,
+        "lstat.cpp": 5.590711503216431,
+        "mkdir.cpp": 11.368411311781367,
+        "mkdirat.cpp": 14.150283064647276,
+        "stat.cpp": 5.590711503216431
+    },
+    "subdirscores": {}
+}

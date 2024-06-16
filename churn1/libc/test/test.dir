@@ -1,0 +1,18 @@
+{
+    "directory name": "llvm-project/libc/test",
+    "score.sum": 0.0050295395591541696,
+    "sha.latest": "fe1645e25c5ab5e3ba8aa16d4f637633ded328ab",
+    "time.latest": 1717851722.3668833,
+    "formatted_time": "2024-06-08 08:02:02.366884",
+    "filescores": {
+        "CMakeLists.txt": 1.9084002030484535
+    },
+    "subdirscores": {
+        "IntegrationTest": 0.7384535699167996,
+        "UnitTest": 5.964141733538965,
+        "include": 1.503929539926748,
+        "integration": 5.716227741650556,
+        "src": 81.2615539441915,
+        "utils": 2.907293267726979
+    }
+}

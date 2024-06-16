@@ -1,0 +1,19 @@
+{
+    "directory name": "llvm-project/libc/src/__support/OSUtil/linux",
+    "score.sum": 0.00016768643391565512,
+    "sha.latest": "3568521e3d2d09d12bd0c476d0376de165b19178",
+    "time.latest": 1717829254.448821,
+    "formatted_time": "2024-06-08 01:47:34.448822",
+    "filescores": {
+        "CMakeLists.txt": 5.3286044244714965,
+        "io.h": 17.545003118581125,
+        "quick_exit.h": 16.949616867328878,
+        "syscall.h": 29.1128372563602
+    },
+    "subdirscores": {
+        "aarch64": 10.990366572304305,
+        "arm": 8.869402872467594,
+        "riscv": 0.0,
+        "x86_64": 11.204168888486393
+    }
+}

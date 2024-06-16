@@ -1,0 +1,16 @@
+{
+    "directory name": "llvm-project/clang/lib/Tooling/DependencyScanning",
+    "score.sum": 0.0010907029849385585,
+    "sha.latest": "de3b2c293b8bf336f8e1380148cf16b54a794c0c",
+    "time.latest": 1717822979.436551,
+    "formatted_time": "2024-06-08 10:32:59.436554",
+    "filescores": {
+        "CMakeLists.txt": 3.152082749025527,
+        "DependencyScanningFilesystem.cpp": 11.28062891038769,
+        "DependencyScanningService.cpp": 2.373799370753887,
+        "DependencyScanningTool.cpp": 18.015484197047897,
+        "DependencyScanningWorker.cpp": 27.74032229141553,
+        "ModuleDepCollector.cpp": 37.43768248136948
+    },
+    "subdirscores": {}
+}

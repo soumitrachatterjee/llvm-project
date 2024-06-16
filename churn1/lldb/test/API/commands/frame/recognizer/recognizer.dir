@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/lldb/test/API/commands/frame/recognizer",
+    "score.sum": 3.4802806604712706e-05,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717895105.7580137,
+    "formatted_time": "2024-06-09 06:35:05.758016",
+    "filescores": {
+        "categories": 0.0,
+        "main.m": 19.38451715932712,
+        "Makefile": 17.52617867326034,
+        "recognizer.py": 17.52617867326034,
+        "TestFrameRecognizer.py": 45.56312549415219
+    },
+    "subdirscores": {}
+}

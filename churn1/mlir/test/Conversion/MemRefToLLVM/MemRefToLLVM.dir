@@ -1,0 +1,18 @@
+{
+    "directory name": "llvm-project/mlir/test/Conversion/MemRefToLLVM",
+    "score.sum": 0.0003563736732338844,
+    "sha.latest": "d4fd20258f63d30be638b04f10eaa469707759f0",
+    "time.latest": 1717816266.102922,
+    "formatted_time": "2024-06-07 22:11:06.102926",
+    "filescores": {
+        "convert-alloca-scope.mlir": 5.828754939671317,
+        "convert-dynamic-memref-ops.mlir": 21.63266216724998,
+        "convert-static-memref-ops.mlir": 18.59282359033487,
+        "expand-then-convert-to-llvm.mlir": 4.227089325193507,
+        "generic-functions.mlir": 3.52692103953874,
+        "invalid.mlir": 1.7115748235555248,
+        "issue-70160.mlir": 0.0,
+        "memref-to-llvm.mlir": 44.480174114456055
+    },
+    "subdirscores": {}
+}

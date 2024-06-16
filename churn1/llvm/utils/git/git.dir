@@ -1,0 +1,18 @@
+{
+    "directory name": "llvm-project/llvm/utils/git",
+    "score.sum": 0.00028484875752261845,
+    "sha.latest": "9a894e7d84892489826375f94c08ab16ccacc4bb",
+    "time.latest": 1718079888.4511614,
+    "formatted_time": "2024-06-10 23:24:48.451165",
+    "filescores": {
+        "arcfilter.sh": 0.0,
+        "code-format-helper.py": 14.378562468696263,
+        "github-automation.py": 59.90284431940881,
+        "pre-push.py": 3.848098947712464,
+        "requirements.txt": 10.286288941564772,
+        "requirements.txt.in": 7.201943794259466,
+        "requirements_formatting.txt": 2.191130764179117,
+        "requirements_formatting.txt.in": 2.191130764179117
+    },
+    "subdirscores": {}
+}

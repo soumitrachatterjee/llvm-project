@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/openmp/runtime/test/ompt/loadtool",
+    "score.sum": 4.316555500683369e-05,
+    "sha.latest": "97ae7d83e3c67ad41fca9c90a9383a05602647f9",
+    "time.latest": 1717802228.629461,
+    "formatted_time": "2024-06-08 04:47:08.629464",
+    "filescores": {},
+    "subdirscores": {
+        "tool_available": 44.76090644899181,
+        "tool_available_search": 34.35370066316899,
+        "tool_not_available": 20.885392887839203
+    }
+}

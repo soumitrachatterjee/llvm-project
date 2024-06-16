@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/libcxx/test/libcxx/containers/sequences",
+    "score.sum": 0.0006733612242952622,
+    "sha.latest": "08457e1f7693bdafe5330cde2bf41290cad4cade",
+    "time.latest": 1717847046.8930304,
+    "formatted_time": "2024-06-08 17:14:06.893034",
+    "filescores": {},
+    "subdirscores": {
+        "array": 12.401529030896588,
+        "deque": 27.6889674412581,
+        "list": 15.989369496281833,
+        "vector": 42.252463355067846,
+        "vector.bool": 1.667670676495616
+    }
+}

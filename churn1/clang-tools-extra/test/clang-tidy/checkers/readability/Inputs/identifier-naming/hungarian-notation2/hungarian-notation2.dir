@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/clang-tools-extra/test/clang-tidy/checkers/readability/Inputs/identifier-naming/hungarian-notation2",
+    "score.sum": 2.1452816934861183e-05,
+    "sha.latest": "e8a3ddafe063c970df9c23e803812369abde4c82",
+    "time.latest": 1717831040.1829576,
+    "formatted_time": "2024-06-08 12:47:20.182961",
+    "filescores": {
+        ".clang-tidy": 100.0
+    },
+    "subdirscores": {}
+}

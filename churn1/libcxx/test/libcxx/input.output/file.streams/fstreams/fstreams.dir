@@ -1,0 +1,20 @@
+{
+    "directory name": "llvm-project/libcxx/test/libcxx/input.output/file.streams/fstreams",
+    "score.sum": 0.0001575189200209921,
+    "sha.latest": "efc60dc00796fd113e057a92c6861eeb57e649ae",
+    "time.latest": 1717850861.3524597,
+    "formatted_time": "2024-06-08 18:17:41.352464",
+    "filescores": {
+        "fstream.close.pass.cpp": 7.448190989950756,
+        "traits_mismatch.verify.cpp": 3.872298050315684
+    },
+    "subdirscores": {
+        "filebuf": 34.951065206003804,
+        "fstream.cons": 9.216963187913736,
+        "fstream.members": 9.216963187913736,
+        "ifstream.cons": 8.43029650103741,
+        "ifstream.members": 8.43029650103741,
+        "ofstream.cons": 9.216963187913736,
+        "ofstream.members": 9.216963187913736
+    }
+}

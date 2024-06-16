@@ -1,0 +1,21 @@
+{
+    "directory name": "llvm-project/mlir/test/Dialect/SPIRV/Transforms",
+    "score.sum": 0.0003554395459439689,
+    "sha.latest": "9a5fb74fd162da70609fe5f81864d01cdc776df1",
+    "time.latest": 1717821939.7645533,
+    "formatted_time": "2024-06-07 23:45:39.764557",
+    "filescores": {
+        "abi-interface-opencl.mlir": 4.853372918505134,
+        "abi-interface.mlir": 11.604631613289715,
+        "abi-load-store.mlir": 12.8059235191171,
+        "canonicalize.mlir": 24.15484384609837,
+        "gl-canonicalize.mlir": 1.716072997069587,
+        "inlining.mlir": 10.54357760912017,
+        "layout-decoration.mlir": 6.778758313575659,
+        "rewrite-inserts.mlir": 4.059769203088904,
+        "unify-aliased-resource.mlir": 8.173346242602618,
+        "vce-deduction.mlir": 13.578611957160572,
+        "webgpu-prepare.mlir": 1.7310917803721608
+    },
+    "subdirscores": {}
+}

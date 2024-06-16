@@ -1,0 +1,24 @@
+{
+    "directory name": "llvm-project/llvm/lib/MCA",
+    "score.sum": 0.0006292386832210115,
+    "sha.latest": "a6ee0adb724a3f1705fc54937e734ffc2a032096",
+    "time.latest": 1717840798.3427079,
+    "formatted_time": "2024-06-08 04:59:58.342711",
+    "filescores": {
+        "CMakeLists.txt": 5.417856086927847,
+        "CodeEmitter.cpp": 1.6345385193237603,
+        "Context.cpp": 8.219140109117376,
+        "CustomBehaviour.cpp": 5.625965669143112,
+        "HWEventListener.cpp": 0.96936222001291,
+        "IncrementalSourceMgr.cpp": 0.0,
+        "InstrBuilder.cpp": 24.544727183211947,
+        "Instruction.cpp": 2.257522291790833,
+        "Pipeline.cpp": 3.2807010144925903,
+        "Support.cpp": 5.675582166652805,
+        "View.cpp": 0.0
+    },
+    "subdirscores": {
+        "HardwareUnits": 20.497476104217522,
+        "Stages": 21.877128635109308
+    }
+}

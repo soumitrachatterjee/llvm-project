@@ -1,0 +1,19 @@
+{
+    "directory name": "llvm-project/lldb/unittests/SymbolFile/PDB/Inputs",
+    "score.sum": 6.731192139652778e-05,
+    "sha.latest": "9bd72b5c258549b8743557a79c7929de38f05a6d",
+    "time.latest": 1717998220.5494301,
+    "formatted_time": "2024-06-10 11:13:40.549432",
+    "filescores": {
+        "test-pdb-alt.cpp": 9.061696564742306,
+        "test-pdb-nested.h": 10.79247422079638,
+        "test-pdb-types.cpp": 24.802088209382166,
+        "test-pdb-types.exe": 17.74360986547189,
+        "test-pdb-types.pdb": 17.745960354068576,
+        "test-pdb.cpp": 9.061696564742306,
+        "test-pdb.exe": 0.0,
+        "test-pdb.h": 10.79247422079638,
+        "test-pdb.pdb": 0.0
+    },
+    "subdirscores": {}
+}

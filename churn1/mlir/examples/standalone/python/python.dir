@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/mlir/examples/standalone/python",
+    "score.sum": 2.1626412313105956e-05,
+    "sha.latest": "83fd5d805c66a954026b66597dab899d65947576",
+    "time.latest": 1717789010.2985442,
+    "formatted_time": "2024-06-07 14:36:50.298545",
+    "filescores": {
+        "CMakeLists.txt": 28.560822349869035,
+        "StandaloneExtension.cpp": 43.09133423361366
+    },
+    "subdirscores": {
+        "mlir_standalone": 28.347843416517303
+    }
+}

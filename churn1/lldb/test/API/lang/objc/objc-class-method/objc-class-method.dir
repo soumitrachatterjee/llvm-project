@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/lang/objc/objc-class-method",
+    "score.sum": 2.103370364459591e-05,
+    "sha.latest": "9c2468821ec51defd09c246fea4a47886fff8c01",
+    "time.latest": 1717958600.220793,
+    "formatted_time": "2024-06-10 00:13:20.220799",
+    "filescores": {
+        "class.m": 0.0,
+        "Makefile": 0.0,
+        "TestObjCClassMethod.py": 100.0
+    },
+    "subdirscores": {}
+}

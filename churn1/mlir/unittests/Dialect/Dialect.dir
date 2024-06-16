@@ -1,0 +1,23 @@
+{
+    "directory name": "llvm-project/mlir/unittests/Dialect",
+    "score.sum": 0.00044097938250129364,
+    "sha.latest": "d82e93e7f129d9e8b72570efdf4a15d6ec3d4336",
+    "time.latest": 1717836242.740081,
+    "formatted_time": "2024-06-08 03:44:02.740082",
+    "filescores": {
+        "BroadcastShapeTest.cpp": 3.3260640483596537,
+        "CMakeLists.txt": 23.381535507972977
+    },
+    "subdirscores": {
+        "ArmSME": 0.0,
+        "Index": 0.0,
+        "LLVMIR": 4.455848372847834,
+        "MemRef": 1.6101137203871185,
+        "OpenACC": 3.098048321982445,
+        "SCF": 5.578184326154852,
+        "SPIRV": 19.90044463073509,
+        "SparseTensor": 29.30177836443613,
+        "Transform": 4.869375390848421,
+        "Utils": 4.478607316275494
+    }
+}

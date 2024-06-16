@@ -1,0 +1,19 @@
+{
+    "directory name": "llvm-project/mlir/lib/Dialect/LLVMIR/Transforms",
+    "score.sum": 0.0001469641876874934,
+    "sha.latest": "89cd345667a5f8f4c37c621fd8abe8d84e85c050",
+    "time.latest": 1717806694.2931006,
+    "formatted_time": "2024-06-07 19:31:34.293104",
+    "filescores": {
+        "AddComdats.cpp": 0.0,
+        "CMakeLists.txt": 27.274806565027564,
+        "DIExpressionLegalization.cpp": 0.0,
+        "DIExpressionRewriter.cpp": 0.0,
+        "DIScopeForLLVMFuncOp.cpp": 13.3477928723894,
+        "LegalizeForExport.cpp": 19.996809782552145,
+        "OptimizeForNVVM.cpp": 12.44928666430465,
+        "RequestCWrappers.cpp": 12.385185584054204,
+        "TypeConsistency.cpp": 14.546118531672036
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/commands/expression/multiline-completion",
+    "score.sum": 3.248335420140818e-05,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717892838.2920294,
+    "formatted_time": "2024-06-09 05:57:18.292031",
+    "filescores": {
+        "main.c": 18.777623859382032,
+        "Makefile": 0.0,
+        "TestMultilineCompletion.py": 81.22237614061797
+    },
+    "subdirscores": {}
+}

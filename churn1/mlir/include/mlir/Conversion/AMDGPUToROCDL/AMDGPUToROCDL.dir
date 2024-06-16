@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/mlir/include/mlir/Conversion/AMDGPUToROCDL",
+    "score.sum": 1.8935185460374614e-05,
+    "sha.latest": "51b65d0895af613f41903faf03dcffe700248d03",
+    "time.latest": 1717791155.3833838,
+    "formatted_time": "2024-06-07 15:12:35.383387",
+    "filescores": {
+        "AMDGPUToROCDL.h": 100.0
+    },
+    "subdirscores": {}
+}

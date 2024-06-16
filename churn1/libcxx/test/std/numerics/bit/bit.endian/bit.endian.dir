@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/numerics/bit/bit.endian",
+    "score.sum": 1.939924713264407e-05,
+    "sha.latest": "da79d6e177c5467e4a2132e017a347ff51f5228e",
+    "time.latest": 1717933022.8625684,
+    "formatted_time": "2024-06-09 17:07:02.862571",
+    "filescores": {
+        "endian.pass.cpp": 100.0
+    },
+    "subdirscores": {}
+}

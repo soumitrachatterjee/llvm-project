@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/lang/cpp/alignas_base_class",
+    "score.sum": 2.0873827828493846e-05,
+    "sha.latest": "439b16e2b369a0e3d482597b2c6597ce187e65f9",
+    "time.latest": 1717928477.0299244,
+    "formatted_time": "2024-06-09 15:51:17.029926",
+    "filescores": {
+        "main.cpp": 29.221291461094307,
+        "Makefile": 0.0,
+        "TestAlignAsBaseClass.py": 70.7787085389057
+    },
+    "subdirscores": {}
+}

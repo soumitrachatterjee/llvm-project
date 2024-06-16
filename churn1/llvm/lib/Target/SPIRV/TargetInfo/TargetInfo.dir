@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/llvm/lib/Target/SPIRV/TargetInfo",
+    "score.sum": 1.2199204137702398e-05,
+    "sha.latest": "56396b25f1793a4853561efe89df04f61b0306a0",
+    "time.latest": 1717866429.805784,
+    "formatted_time": "2024-06-08 12:07:09.805788",
+    "filescores": {
+        "CMakeLists.txt": 0.0,
+        "SPIRVTargetInfo.cpp": 50.0,
+        "SPIRVTargetInfo.h": 50.0
+    },
+    "subdirscores": {}
+}

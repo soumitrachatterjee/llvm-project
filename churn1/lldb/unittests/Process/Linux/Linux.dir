@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/unittests/Process/Linux",
+    "score.sum": 7.837314967914319e-05,
+    "sha.latest": "6db44e52ce474bbeb66042073a6e3c6c586f78a2",
+    "time.latest": 1717997264.8969657,
+    "formatted_time": "2024-06-10 10:57:44.896968",
+    "filescores": {
+        "CMakeLists.txt": 51.404852217450255,
+        "PerfTests.cpp": 39.27026398677648,
+        "ProcfsTests.cpp": 9.32488379577326
+    },
+    "subdirscores": {}
+}

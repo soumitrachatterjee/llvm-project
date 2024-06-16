@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/llvm/include/llvm/Linker",
+    "score.sum": 8.915290763749641e-05,
+    "sha.latest": "236695e70c41e3d649b2b8a4a72f58e4218f0aa9",
+    "time.latest": 1717817931.1741128,
+    "formatted_time": "2024-06-07 22:38:51.174116",
+    "filescores": {
+        "IRMover.h": 20.08349604907611,
+        "Linker.h": 79.9165039509239
+    },
+    "subdirscores": {}
+}

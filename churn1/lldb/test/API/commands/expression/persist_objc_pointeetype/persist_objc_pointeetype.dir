@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/commands/expression/persist_objc_pointeetype",
+    "score.sum": 1.733606927856171e-05,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717893389.2996705,
+    "formatted_time": "2024-06-09 06:06:29.299672",
+    "filescores": {
+        "main.m": 0.0,
+        "Makefile": 0.0,
+        "TestPersistObjCPointeeType.py": 100.0
+    },
+    "subdirscores": {}
+}

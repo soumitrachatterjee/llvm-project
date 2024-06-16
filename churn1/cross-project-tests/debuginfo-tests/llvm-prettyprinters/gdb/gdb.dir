@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/cross-project-tests/debuginfo-tests/llvm-prettyprinters/gdb",
+    "score.sum": 6.803049075947833e-05,
+    "sha.latest": "f98ee40f4b5d7474fc67e82824bf6abbaedb7b1c",
+    "time.latest": 1717793205.5654132,
+    "formatted_time": "2024-06-08 02:16:45.565417",
+    "filescores": {
+        "lit.local.cfg": 8.965982753845376,
+        "llvm-support.cpp": 24.571071235608756,
+        "llvm-support.gdb": 22.529824631749275,
+        "mlir-support.cpp": 26.067165985283207,
+        "mlir-support.gdb": 17.865955393513396
+    },
+    "subdirscores": {}
+}

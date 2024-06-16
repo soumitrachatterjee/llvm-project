@@ -1,0 +1,16 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/utilities/memory/util.smartptr/util.smartptr.shared/util.smartptr.shared.mod",
+    "score.sum": 0.0001330848909440097,
+    "sha.latest": "a38a4654ce4b1d2ae8a03797d2e520e415150492",
+    "time.latest": 1717999979.871463,
+    "formatted_time": "2024-06-10 11:42:59.871465",
+    "filescores": {
+        "reset.pass.cpp": 14.476527319290632,
+        "reset_helper.h": 0.0,
+        "reset_pointer.pass.cpp": 18.845681720001092,
+        "reset_pointer_deleter.pass.cpp": 23.25844506031126,
+        "reset_pointer_deleter_allocator.pass.cpp": 30.370324692163525,
+        "swap.pass.cpp": 13.049021208233484
+    },
+    "subdirscores": {}
+}

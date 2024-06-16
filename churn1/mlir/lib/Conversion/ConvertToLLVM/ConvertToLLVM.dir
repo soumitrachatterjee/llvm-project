@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/mlir/lib/Conversion/ConvertToLLVM",
+    "score.sum": 2.4625467837695164e-05,
+    "sha.latest": "9e7b6f46ba13ef0bac72e18b425aed37f576fb1e",
+    "time.latest": 1717802883.8521705,
+    "formatted_time": "2024-06-07 18:28:03.852174",
+    "filescores": {
+        "CMakeLists.txt": 25.092992867640884,
+        "ConvertToLLVMPass.cpp": 49.84823023417729,
+        "ToLLVMInterface.cpp": 25.05877689818183
+    },
+    "subdirscores": {}
+}

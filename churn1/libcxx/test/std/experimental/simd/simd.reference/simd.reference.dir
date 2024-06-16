@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/experimental/simd/simd.reference",
+    "score.sum": 2.1561859328636026e-05,
+    "sha.latest": "503dbe75a042af2af35b90d23153752c66dcbf25",
+    "time.latest": 1717899982.6169841,
+    "formatted_time": "2024-06-09 07:56:22.616988",
+    "filescores": {
+        "reference_alias.pass.cpp": 0.0,
+        "reference_assignment.pass.cpp": 71.71114987866378,
+        "reference_value_type.pass.cpp": 28.28885012133623
+    },
+    "subdirscores": {}
+}

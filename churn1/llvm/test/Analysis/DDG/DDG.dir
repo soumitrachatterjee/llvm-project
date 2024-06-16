@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/llvm/test/Analysis/DDG",
+    "score.sum": 3.9663876391621095e-05,
+    "sha.latest": "7cf5581712b24d4aea5dffa2e23f0ed42af1954d",
+    "time.latest": 1717886770.7021794,
+    "formatted_time": "2024-06-08 17:46:10.702183",
+    "filescores": {
+        "basic-a.ll": 22.144403391479884,
+        "basic-b.ll": 22.144403391479884,
+        "basic-loopnest.ll": 22.144403391479884,
+        "print-dot-ddg.ll": 15.389396245354728,
+        "root-node.ll": 18.177393580205628
+    },
+    "subdirscores": {}
+}

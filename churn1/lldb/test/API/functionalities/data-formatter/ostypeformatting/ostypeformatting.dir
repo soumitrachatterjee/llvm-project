@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/functionalities/data-formatter/ostypeformatting",
+    "score.sum": 1.655943647381506e-05,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717908083.4186137,
+    "formatted_time": "2024-06-09 10:11:23.418616",
+    "filescores": {
+        "main.mm": 36.834599284198575,
+        "Makefile": 0.0,
+        "TestFormattersOsType.py": 63.16540071580145
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/lldb/test/API/lang/cpp/printf",
+    "score.sum": 1.4944606931828715e-05,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717934706.693397,
+    "formatted_time": "2024-06-09 17:35:06.693402",
+    "filescores": {
+        "main.cpp": 40.814737360943184,
+        "TestPrintf.py": 59.18526263905682
+    },
+    "subdirscores": {}
+}

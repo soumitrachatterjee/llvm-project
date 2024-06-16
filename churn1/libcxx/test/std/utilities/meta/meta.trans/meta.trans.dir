@@ -1,0 +1,18 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/utilities/meta/meta.trans",
+    "score.sum": 0.0003565682383880197,
+    "sha.latest": "64addd65210db59c8cb3794f792720e03e25b5af",
+    "time.latest": 1718001410.3104806,
+    "formatted_time": "2024-06-10 12:06:50.310483",
+    "filescores": {
+        "objc_support.compile.pass.mm": 0.0
+    },
+    "subdirscores": {
+        "meta.trans.arr": 5.753808913145169,
+        "meta.trans.cv": 5.753808913145169,
+        "meta.trans.other": 66.99009369660303,
+        "meta.trans.ptr": 6.019052756271307,
+        "meta.trans.ref": 8.291635027661028,
+        "meta.trans.sign": 7.1916006931743075
+    }
+}

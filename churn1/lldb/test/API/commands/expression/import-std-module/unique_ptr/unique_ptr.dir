@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/commands/expression/import-std-module/unique_ptr",
+    "score.sum": 4.074727208796502e-05,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717892062.9173832,
+    "formatted_time": "2024-06-09 05:44:22.917385",
+    "filescores": {
+        "main.cpp": 14.96935072287393,
+        "Makefile": 0.0,
+        "TestUniquePtrFromStdModule.py": 85.03064927712607
+    },
+    "subdirscores": {}
+}

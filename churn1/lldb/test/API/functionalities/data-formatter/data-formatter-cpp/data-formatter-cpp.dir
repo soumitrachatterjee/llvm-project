@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/functionalities/data-formatter/data-formatter-cpp",
+    "score.sum": 0.00012132207156067644,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717904861.0613904,
+    "formatted_time": "2024-06-09 09:17:41.061392",
+    "filescores": {
+        "main.cpp": 27.981467328829158,
+        "Makefile": 0.0,
+        "TestDataFormatterCpp.py": 72.01853267117085
+    },
+    "subdirscores": {}
+}

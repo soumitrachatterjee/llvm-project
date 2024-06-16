@@ -1,0 +1,19 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/utilities/memory/util.smartptr/util.smartptr.weak",
+    "score.sum": 0.00022384853573970443,
+    "sha.latest": "1ee41b415398cde51c055a7b1a4d419350e7038f",
+    "time.latest": 1718000535.6625426,
+    "formatted_time": "2024-06-10 11:52:15.662544",
+    "filescores": {
+        "types.pass.cpp": 7.760436459882913
+    },
+    "subdirscores": {
+        "util.smartptr.ownerless": 12.682208794684142,
+        "util.smartptr.weak.assign": 22.853750090949728,
+        "util.smartptr.weak.const": 26.46346083212723,
+        "util.smartptr.weak.dest": 5.420121932300197,
+        "util.smartptr.weak.mod": 7.758047461356675,
+        "util.smartptr.weak.obs": 11.726332302641453,
+        "util.smartptr.weak.spec": 5.335642126057667
+    }
+}

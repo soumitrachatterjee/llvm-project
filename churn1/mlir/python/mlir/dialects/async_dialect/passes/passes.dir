@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/mlir/python/mlir/dialects/async_dialect/passes",
+    "score.sum": 6.099602068851199e-06,
+    "sha.latest": "cb7b03819ae667a87e49fa2546498dcf6248d99c",
+    "time.latest": 1717813807.844032,
+    "formatted_time": "2024-06-07 21:30:07.844036",
+    "filescores": {
+        "__init__.py": 100.0
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/lldb/test/API/commands/breakpoint/set",
+    "score.sum": 1.0392303540544403e-05,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717888163.1545913,
+    "formatted_time": "2024-06-09 04:39:23.154593",
+    "filescores": {},
+    "subdirscores": {
+        "func-regex": 100.0
+    }
+}

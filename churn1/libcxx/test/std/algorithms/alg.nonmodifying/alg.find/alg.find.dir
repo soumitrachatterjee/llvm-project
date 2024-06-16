@@ -1,0 +1,20 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/algorithms/alg.nonmodifying/alg.find",
+    "score.sum": 0.0001568628840222595,
+    "sha.latest": "c9535d7b61a37d6fa58e51222a9ccecc54431193",
+    "time.latest": 1717869791.1639485,
+    "formatted_time": "2024-06-08 23:33:11.163951",
+    "filescores": {
+        "find.pass.cpp": 26.53713717701627,
+        "find_if.pass.cpp": 14.787660864631075,
+        "find_if_not.pass.cpp": 14.787660864631075,
+        "pstl.exception_handling.pass.cpp": 3.888492875080405,
+        "pstl.find.pass.cpp": 3.99173676812638,
+        "pstl.find_if.pass.cpp": 3.99173676812638,
+        "pstl.find_if_not.pass.cpp": 3.99173676812638,
+        "ranges.find.pass.cpp": 17.85403238808336,
+        "ranges.find_if.pass.cpp": 5.084902763089351,
+        "ranges.find_if_not.pass.cpp": 5.084902763089351
+    },
+    "subdirscores": {}
+}

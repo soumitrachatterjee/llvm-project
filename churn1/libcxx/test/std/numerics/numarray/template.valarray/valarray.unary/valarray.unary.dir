@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/numerics/numarray/template.valarray/valarray.unary",
+    "score.sum": 8.296100176181771e-05,
+    "sha.latest": "b8f6f9e741c60a06cbe14adf890db0889b3b333f",
+    "time.latest": 1717950660.3144972,
+    "formatted_time": "2024-06-09 22:01:00.314500",
+    "filescores": {
+        "bit_not.pass.cpp": 23.671861680449897,
+        "negate.pass.cpp": 23.671861680449897,
+        "not.pass.cpp": 28.984414958650305,
+        "plus.pass.cpp": 23.671861680449897
+    },
+    "subdirscores": {}
+}

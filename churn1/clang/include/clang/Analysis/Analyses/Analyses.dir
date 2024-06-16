@@ -1,0 +1,29 @@
+{
+    "directory name": "llvm-project/clang/include/clang/Analysis/Analyses",
+    "score.sum": 0.0009441636580370364,
+    "sha.latest": "be024307075c37f057fd51d4de0e9c2443b51686",
+    "time.latest": 1717793391.0013642,
+    "formatted_time": "2024-06-08 02:19:51.001372",
+    "filescores": {
+        "CalledOnceCheck.h": 1.312841793077133,
+        "CFGReachabilityAnalysis.h": 2.8261560636703433,
+        "Consumed.h": 5.19878864816149,
+        "Dominators.h": 12.162381572507055,
+        "ExprMutationAnalyzer.h": 2.005775630168217,
+        "IntervalPartition.h": 0.6460322865563982,
+        "LiveVariables.h": 8.60023984134787,
+        "PostOrderCFGView.h": 5.494421896932397,
+        "ReachableCode.h": 4.065036374920697,
+        "ThreadSafety.h": 10.637085635081537,
+        "ThreadSafetyCommon.h": 8.352212572172785,
+        "ThreadSafetyLogical.h": 1.5867561001967074,
+        "ThreadSafetyOps.def": 0.7557741061284956,
+        "ThreadSafetyTIL.h": 10.372349326264066,
+        "ThreadSafetyTraverse.h": 3.7122231358927027,
+        "ThreadSafetyUtil.h": 3.335121587705415,
+        "UninitializedValues.h": 6.441663562208038,
+        "UnsafeBufferUsage.h": 7.586477060839088,
+        "UnsafeBufferUsageGadgets.def": 4.9086628061695805
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/llvm/lib/Target/ARM/AsmParser",
+    "score.sum": 0.002167296504687062,
+    "sha.latest": "b8e0f3e81e579ea6db439d39ced3926d6ae4f563",
+    "time.latest": 1717851691.675416,
+    "formatted_time": "2024-06-08 08:01:31.675420",
+    "filescores": {
+        "ARMAsmParser.cpp": 98.0256496627849,
+        "CMakeLists.txt": 1.9743503372151077
+    },
+    "subdirscores": {}
+}

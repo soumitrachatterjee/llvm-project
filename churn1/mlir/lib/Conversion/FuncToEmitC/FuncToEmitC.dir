@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/mlir/lib/Conversion/FuncToEmitC",
+    "score.sum": 1.2199204137702398e-05,
+    "sha.latest": "df267fe32759658bebd846f98fdf5db61312837d",
+    "time.latest": 1717802915.3792276,
+    "formatted_time": "2024-06-07 18:28:35.379231",
+    "filescores": {
+        "CMakeLists.txt": 0.0,
+        "FuncToEmitC.cpp": 50.0,
+        "FuncToEmitCPass.cpp": 50.0
+    },
+    "subdirscores": {}
+}

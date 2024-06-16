@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/llvm/examples/OrcV2Examples/OrcV2CBindingsBasicUsage",
+    "score.sum": 2.975360880797713e-05,
+    "sha.latest": "c2cabe479b27af031d3d63cc73630e2c23bddbcd",
+    "time.latest": 1717804871.9230342,
+    "formatted_time": "2024-06-07 19:01:11.923037",
+    "filescores": {
+        "CMakeLists.txt": 20.500377309578184,
+        "OrcV2CBindingsBasicUsage.c": 79.49962269042182
+    },
+    "subdirscores": {}
+}

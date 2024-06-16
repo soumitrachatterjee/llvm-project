@@ -1,0 +1,17 @@
+{
+    "directory name": "llvm-project/mlir/test/Dialect/Transform/include",
+    "score.sum": 4.627245589540154e-05,
+    "sha.latest": "5468f8841353cd56350a6ebe6898d2563e5c34b0",
+    "time.latest": 1717823242.4959352,
+    "formatted_time": "2024-06-08 00:07:22.495936",
+    "filescores": {
+        "test-interpreter-external-concurrent-source.mlir": 21.683536962676765,
+        "test-interpreter-external-source.mlir": 21.683536962676765,
+        "test-interpreter-external-symbol-def-invalid.mlir": 13.184612544452042
+    },
+    "subdirscores": {
+        "Library": 17.08177244786815,
+        "test-interpreter-library-invalid": 13.18192853787422,
+        "test-interpreter-library": 13.184612544452042
+    }
+}

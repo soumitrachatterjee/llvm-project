@@ -1,0 +1,16 @@
+{
+    "directory name": "llvm-project/clang-tools-extra/pseudo/tool",
+    "score.sum": 7.647979758013893e-05,
+    "sha.latest": "d2535bed2a7dabc4b3e45d717681a6e5eaf40c87",
+    "time.latest": 1717815544.821211,
+    "formatted_time": "2024-06-08 08:29:04.821215",
+    "filescores": {
+        "ClangPseudo.cpp": 77.99002395249329,
+        "CMakeLists.txt": 14.034533823748529,
+        "HTMLForest.cpp": 7.975442223758194,
+        "HTMLForest.css": 0.0,
+        "HTMLForest.html": 0.0,
+        "HTMLForest.js": 0.0
+    },
+    "subdirscores": {}
+}

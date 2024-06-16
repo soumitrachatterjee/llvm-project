@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/functionalities/data-formatter/data-formatter-stl/libcxx/vbool",
+    "score.sum": 1.0459834404963863e-05,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717907057.9367297,
+    "formatted_time": "2024-06-09 09:54:17.936731",
+    "filescores": {
+        "main.cpp": 0.0,
+        "Makefile": 0.0,
+        "TestDataFormatterLibcxxVBool.py": 100.0
+    },
+    "subdirscores": {}
+}

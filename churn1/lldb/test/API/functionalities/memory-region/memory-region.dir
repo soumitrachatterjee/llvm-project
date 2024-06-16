@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/functionalities/memory-region",
+    "score.sum": 5.547177645733322e-05,
+    "sha.latest": "737bc9f76a14b955bdfeb3811ce6c9156572be9f",
+    "time.latest": 1717912314.978681,
+    "formatted_time": "2024-06-09 11:21:54.978688",
+    "filescores": {
+        "main.cpp": 0.0,
+        "Makefile": 0.0,
+        "TestMemoryRegion.py": 100.0
+    },
+    "subdirscores": {}
+}

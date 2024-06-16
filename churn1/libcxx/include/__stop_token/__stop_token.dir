@@ -1,0 +1,17 @@
+{
+    "directory name": "llvm-project/libcxx/include/__stop_token",
+    "score.sum": 7.169136859279332e-05,
+    "sha.latest": "37dca605c9bd41732da010ee97ed15ad9585a37d",
+    "time.latest": 1717837056.9821672,
+    "formatted_time": "2024-06-08 14:27:36.982170",
+    "filescores": {
+        "atomic_unique_lock.h": 9.850139217536245,
+        "intrusive_list_view.h": 13.795109996976173,
+        "intrusive_shared_ptr.h": 15.157730669501317,
+        "stop_callback.h": 22.35322077431595,
+        "stop_source.h": 11.145888751477424,
+        "stop_state.h": 16.552021838715465,
+        "stop_token.h": 11.145888751477424
+    },
+    "subdirscores": {}
+}

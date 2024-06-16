@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/utils/bazel/llvm-project-overlay/libc/test/src/sys",
+    "score.sum": 1.0239714661572554e-05,
+    "sha.latest": "4d89356fef1a568de790ad8b3f53dc494b461e5b",
+    "time.latest": 1717789191.885831,
+    "formatted_time": "2024-06-08 01:09:51.885835",
+    "filescores": {},
+    "subdirscores": {
+        "epoll": 100.0
+    }
+}

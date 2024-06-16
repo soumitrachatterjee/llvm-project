@@ -1,0 +1,23 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/time/time.cal/time.cal.ymwd/time.cal.ymwd.members",
+    "score.sum": 2.4258246324237538e-05,
+    "sha.latest": "766bf140ffd6ce420426b80aa2cce0cb0d25ab7d",
+    "time.latest": 1717983077.9774418,
+    "formatted_time": "2024-06-10 07:01:17.977445",
+    "filescores": {
+        "ctor.local_days.pass.cpp": 0.0,
+        "ctor.pass.cpp": 0.0,
+        "ctor.sys_days.pass.cpp": 0.0,
+        "index.pass.cpp": 0.0,
+        "month.pass.cpp": 0.0,
+        "ok.pass.cpp": 0.0,
+        "op.local_days.pass.cpp": 0.0,
+        "op.sys_days.pass.cpp": 25.144447736755005,
+        "plus_minus_equal_month.pass.cpp": 49.71110452649,
+        "plus_minus_equal_year.pass.cpp": 25.144447736755005,
+        "weekday.pass.cpp": 0.0,
+        "weekday_indexed.pass.cpp": 0.0,
+        "year.pass.cpp": 0.0
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/lldb/test/API/commands/memory",
+    "score.sum": 2.1130556104959007e-05,
+    "sha.latest": "80fcecb13c388ff087a27a4b0e7ca3dd8c98eaa4",
+    "time.latest": 1717895895.6084487,
+    "formatted_time": "2024-06-09 06:48:15.608451",
+    "filescores": {},
+    "subdirscores": {
+        "read": 60.36478637194601,
+        "write": 39.63521362805399
+    }
+}

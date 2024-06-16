@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/mlir/test/lib/Dialect/Shape",
+    "score.sum": 5.4850442716806606e-05,
+    "sha.latest": "830b9b072d8458ee89c48f00d4de59456c9f467f",
+    "time.latest": 1717831588.3164747,
+    "formatted_time": "2024-06-08 02:26:28.316478",
+    "filescores": {
+        "CMakeLists.txt": 20.41670844065557,
+        "TestShapeFunctions.cpp": 49.21370923665361,
+        "TestShapeMappingAnalysis.cpp": 30.369582322690825
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/llvm/utils/gn/secondary/clang-tools-extra/clang-tidy/hicpp",
+    "score.sum": 6.099602068851199e-06,
+    "sha.latest": "7030aab1d7a33c17d72eaf721c679be6ca0b073d",
+    "time.latest": 1718081834.2469354,
+    "formatted_time": "2024-06-10 23:57:14.246939",
+    "filescores": {
+        "BUILD.gn": 100.0
+    },
+    "subdirscores": {}
+}

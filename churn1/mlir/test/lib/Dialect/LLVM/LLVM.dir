@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/mlir/test/lib/Dialect/LLVM",
+    "score.sum": 4.4072750652340736e-05,
+    "sha.latest": "f6643263631bcb0d191ef923963ac1a5ca9ac5fd",
+    "time.latest": 1717831216.0514338,
+    "formatted_time": "2024-06-08 02:20:16.051437",
+    "filescores": {
+        "CMakeLists.txt": 26.153610692666195,
+        "TestLowerToLLVM.cpp": 73.84638930733381
+    },
+    "subdirscores": {}
+}

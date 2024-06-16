@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/utils/bazel/llvm-project-overlay/libc/test/src/__support/FPUtil",
+    "score.sum": 7.38981997382166e-06,
+    "sha.latest": "03232350536655234a30eca17ea56c8cb636831c",
+    "time.latest": 1717789365.7059946,
+    "formatted_time": "2024-06-08 01:12:45.705999",
+    "filescores": {
+        "BUILD.bazel": 100.0
+    },
+    "subdirscores": {}
+}

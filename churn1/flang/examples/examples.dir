@@ -1,0 +1,16 @@
+{
+    "directory name": "llvm-project/flang/examples",
+    "score.sum": 0.00014512098197976375,
+    "sha.latest": "a2d7af757bc33dc91f2e038742915a146cfb0c13",
+    "time.latest": 1717788485.9360394,
+    "formatted_time": "2024-06-07 14:28:05.936040",
+    "filescores": {
+        "CMakeLists.txt": 30.967593584014953
+    },
+    "subdirscores": {
+        "ExternalHelloWorld": 8.283297237425314,
+        "FeatureList": 14.697692223892354,
+        "FlangOmpReport": 33.76039404029359,
+        "PrintFlangFunctionNames": 12.291022914373793
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/commands/platform/connect",
+    "score.sum": 1.3609200619890556e-05,
+    "sha.latest": "03588a27261f7ebea15af49268d2ec901fe1979e",
+    "time.latest": 1717896007.823158,
+    "formatted_time": "2024-06-09 06:50:07.823160",
+    "filescores": {
+        "main.cpp": 0.0,
+        "Makefile": 0.0,
+        "TestPlatformConnect.py": 100.0
+    },
+    "subdirscores": {}
+}

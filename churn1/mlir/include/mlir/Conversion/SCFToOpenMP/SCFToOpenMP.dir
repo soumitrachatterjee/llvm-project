@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/mlir/include/mlir/Conversion/SCFToOpenMP",
+    "score.sum": 2.2813566178568438e-05,
+    "sha.latest": "7c4e45ec7d6daf936c9a01f1ef2d107e9977f681",
+    "time.latest": 1717792132.1312191,
+    "formatted_time": "2024-06-07 15:28:52.131222",
+    "filescores": {
+        "SCFToOpenMP.h": 100.0
+    },
+    "subdirscores": {}
+}

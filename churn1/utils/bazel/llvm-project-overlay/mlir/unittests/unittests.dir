@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/utils/bazel/llvm-project-overlay/mlir/unittests",
+    "score.sum": 0.00011530221264249046,
+    "sha.latest": "c448bd8b043f57ac51145664d2edde6dae98e5ea",
+    "time.latest": 1717790983.0001826,
+    "formatted_time": "2024-06-08 01:39:43.000187",
+    "filescores": {
+        "BUILD.bazel": 100.0
+    },
+    "subdirscores": {}
+}

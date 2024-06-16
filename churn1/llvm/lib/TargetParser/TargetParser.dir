@@ -1,0 +1,25 @@
+{
+    "directory name": "llvm-project/llvm/lib/TargetParser",
+    "score.sum": 0.0006888094780165874,
+    "sha.latest": "70da9155efb3aeb2c6b37678168cf29f91e80734",
+    "time.latest": 1717874002.4444695,
+    "formatted_time": "2024-06-08 14:13:22.444472",
+    "filescores": {
+        "AArch64TargetParser.cpp": 7.2492357227674535,
+        "ARMTargetParser.cpp": 8.408919070048245,
+        "ARMTargetParserCommon.cpp": 5.857976660050021,
+        "CMakeLists.txt": 2.0307414048448087,
+        "CSKYTargetParser.cpp": 0.8855281850091372,
+        "Host.cpp": 17.130954555543042,
+        "LoongArchTargetParser.cpp": 6.642742568697443,
+        "RISCVTargetParser.cpp": 4.076527690608033,
+        "SubtargetFeature.cpp": 0.8855281850091372,
+        "TargetParser.cpp": 11.955474731420034,
+        "Triple.cpp": 18.746209772011134,
+        "X86TargetParser.cpp": 16.130161453991516
+    },
+    "subdirscores": {
+        "Unix": 0.0,
+        "Windows": 0.0
+    }
+}

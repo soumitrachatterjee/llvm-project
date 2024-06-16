@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/lldb/test/API/commands/expression/issue_11588",
+    "score.sum": 2.4378133970466888e-05,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717892681.9160078,
+    "formatted_time": "2024-06-09 05:54:41.916010",
+    "filescores": {
+        "main.cpp": 0.0,
+        "Makefile": 0.0,
+        "s11588.py": 25.020791485683922,
+        "Test11588.py": 74.97920851431607
+    },
+    "subdirscores": {}
+}

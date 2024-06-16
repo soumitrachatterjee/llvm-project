@@ -1,0 +1,25 @@
+{
+    "directory name": "llvm-project/llvm/include/llvm/DebugInfo/GSYM",
+    "score.sum": 0.0003764153936322671,
+    "sha.latest": "3bdc4c702dfdd1f2fb513943f034d49bb79ded29",
+    "time.latest": 1717812706.7498147,
+    "formatted_time": "2024-06-07 21:11:46.749818",
+    "filescores": {
+        "DwarfTransformer.h": 4.3258870040289805,
+        "ExtractRanges.h": 1.6204443739647127,
+        "FileEntry.h": 3.186842914713133,
+        "FileWriter.h": 6.404127822923803,
+        "FunctionInfo.h": 18.35897367083364,
+        "GsymCreator.h": 15.62475558084281,
+        "GsymReader.h": 8.498891460688572,
+        "Header.h": 1.6938077623084251,
+        "InlineInfo.h": 6.979908484754574,
+        "LineEntry.h": 2.636325435003457,
+        "LineTable.h": 5.8928492623100395,
+        "LookupResult.h": 9.778317162566937,
+        "ObjectFileTransformer.h": 4.18128697780272,
+        "OutputAggregator.h": 0.0,
+        "StringTable.h": 10.817582087258202
+    },
+    "subdirscores": {}
+}

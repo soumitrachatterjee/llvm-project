@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/openmp/tools/Modules",
+    "score.sum": 0.00012810497531911354,
+    "sha.latest": "cbaa3597aaf6273e66b3f445ed36a6458143fe6a",
+    "time.latest": 1717806492.3320518,
+    "formatted_time": "2024-06-08 05:58:12.332054",
+    "filescores": {
+        "CMakeLists.txt": 0.0,
+        "FindOpenMPTarget.cmake": 49.50943189121676,
+        "README.rst": 50.49056810878324
+    },
+    "subdirscores": {}
+}

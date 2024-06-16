@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/mlir/test/Dialect/Builtin/Bytecode",
+    "score.sum": 2.2725695180480496e-05,
+    "sha.latest": "728a8d5a81f35f24492fcd31928ef95e597a66af",
+    "time.latest": 1717818594.4536974,
+    "formatted_time": "2024-06-07 22:49:54.453701",
+    "filescores": {
+        "attrs.mlir": 63.38121136893604,
+        "types.mlir": 36.61878863106396
+    },
+    "subdirscores": {}
+}

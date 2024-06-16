@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/llvm/lib/Target/WebAssembly/Utils",
+    "score.sum": 0.00012075690630405042,
+    "sha.latest": "184ca39529a93e69eb175861d7fff5fc79988e53",
+    "time.latest": 1717869450.914006,
+    "formatted_time": "2024-06-08 12:57:30.914009",
+    "filescores": {
+        "CMakeLists.txt": 13.462737647420989,
+        "WasmAddressSpaces.h": 0.0,
+        "WebAssemblyTypeUtilities.cpp": 45.239007665197335,
+        "WebAssemblyTypeUtilities.h": 41.29825468738167
+    },
+    "subdirscores": {}
+}

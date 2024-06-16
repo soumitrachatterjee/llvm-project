@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/libc/src/sys/socket/linux",
+    "score.sum": 1.880924755596431e-05,
+    "sha.latest": "8180ea8694cbc58f105f27f2044dabc3febbcf6a",
+    "time.latest": 1717841803.2178485,
+    "formatted_time": "2024-06-08 05:16:43.217853",
+    "filescores": {
+        "CMakeLists.txt": 32.428740441119075,
+        "bind.cpp": 0.0,
+        "socket.cpp": 67.57125955888091
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,16 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/utilities/memory/allocator.traits",
+    "score.sum": 0.00017569497547985762,
+    "sha.latest": "7d78ccf7d5a9861839126d5899b443f55236cab9",
+    "time.latest": 1717997984.9408083,
+    "formatted_time": "2024-06-10 11:09:44.940810",
+    "filescores": {
+        "allocator_type.pass.cpp": 9.884332546680692,
+        "rebind_traits.pass.cpp": 8.390946151156124,
+        "value_type.pass.cpp": 9.884332546680692
+    },
+    "subdirscores": {
+        "allocator.traits.members": 56.9410988844447,
+        "allocator.traits.types": 14.899289871037794
+    }
+}

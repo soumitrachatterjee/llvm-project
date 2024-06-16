@@ -1,0 +1,24 @@
+{
+    "directory name": "llvm-project/llvm/unittests/CodeGen/GlobalISel",
+    "score.sum": 0.0008734884846845722,
+    "sha.latest": "96049fcf4e5f2eb0271bdfa89e113eef9c5fa9f6",
+    "time.latest": 1718079489.2861316,
+    "formatted_time": "2024-06-10 23:18:09.286136",
+    "filescores": {
+        "CMakeLists.txt": 7.736315611046353,
+        "CSETest.cpp": 6.182659021027656,
+        "ConstantFoldingTest.cpp": 5.473953952907601,
+        "GISelAliasTest.cpp": 1.2569958106280654,
+        "GISelMITest.cpp": 1.6208078196392157,
+        "GISelMITest.h": 3.8921790558194203,
+        "GISelUtilsTest.cpp": 2.551732080206603,
+        "KnownBitsTest.cpp": 14.263612717835061,
+        "KnownBitsVectorTest.cpp": 2.4223660680234964,
+        "LegalizerHelperTest.cpp": 21.590438426825468,
+        "LegalizerInfoTest.cpp": 6.870864114577106,
+        "LegalizerTest.cpp": 5.417395310496165,
+        "MachineIRBuilderTest.cpp": 6.555998805174193,
+        "PatternMatchTest.cpp": 14.164681205793617
+    },
+    "subdirscores": {}
+}

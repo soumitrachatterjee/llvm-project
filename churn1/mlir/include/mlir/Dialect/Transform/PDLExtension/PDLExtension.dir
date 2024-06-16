@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/mlir/include/mlir/Dialect/Transform/PDLExtension",
+    "score.sum": 1.5967912496317667e-05,
+    "sha.latest": "b9fe461e7382875156890b286d53b4429fcaa588",
+    "time.latest": 1717797935.9795115,
+    "formatted_time": "2024-06-07 17:05:35.979515",
+    "filescores": {
+        "CMakeLists.txt": 0.0,
+        "PDLExtension.h": 0.0,
+        "PDLExtensionOps.h": 61.80087991928929,
+        "PDLExtensionOps.td": 38.19912008071073
+    },
+    "subdirscores": {}
+}

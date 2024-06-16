@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/lldb/test/Shell/Recognizer",
+    "score.sum": 3.766609687988651e-05,
+    "sha.latest": "7b5dc63fc4464e777e4210a68120b36cb283a9fd",
+    "time.latest": 1717976839.3852856,
+    "formatted_time": "2024-06-10 05:17:19.385288",
+    "filescores": {
+        "assert.test": 54.56076867337415,
+        "lit.local.cfg": 0.0
+    },
+    "subdirscores": {
+        "Inputs": 45.439231326625844
+    }
+}

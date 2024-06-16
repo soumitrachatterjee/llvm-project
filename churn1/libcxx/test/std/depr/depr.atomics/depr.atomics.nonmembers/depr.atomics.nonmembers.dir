@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/depr/depr.atomics/depr.atomics.nonmembers",
+    "score.sum": 6.099602068851199e-06,
+    "sha.latest": "92832e4889ae6038cc8b3e6e449af2a9b9374ab4",
+    "time.latest": 1717894900.9810545,
+    "formatted_time": "2024-06-09 06:31:40.981056",
+    "filescores": {
+        "atomic_init.depr_in_cxx20.verify.cpp": 100.0
+    },
+    "subdirscores": {}
+}

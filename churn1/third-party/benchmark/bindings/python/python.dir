@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/third-party/benchmark/bindings/python",
+    "score.sum": 5.9801181813571054e-05,
+    "sha.latest": "a5b797172cc902db166e9a695716fb81405f86e4",
+    "time.latest": 1717788328.5609226,
+    "formatted_time": "2024-06-07 14:25:28.560926",
+    "filescores": {
+        "build_defs.bzl": 30.862187638965306,
+        "nanobind.BUILD": 0.0,
+        "python_headers.BUILD": 30.862187638965306
+    },
+    "subdirscores": {
+        "google_benchmark": 38.27562472206939
+    }
+}

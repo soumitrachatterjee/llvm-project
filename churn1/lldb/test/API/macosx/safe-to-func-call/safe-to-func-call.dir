@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/macosx/safe-to-func-call",
+    "score.sum": 1.621032154510571e-05,
+    "sha.latest": "1eeeab82c6eb185f5139e633a59c2dbcb15616e4",
+    "time.latest": 1717963963.703173,
+    "formatted_time": "2024-06-10 01:42:43.703176",
+    "filescores": {
+        "main.c": 0.0,
+        "Makefile": 0.0,
+        "TestSafeFuncCalls.py": 100.0
+    },
+    "subdirscores": {}
+}

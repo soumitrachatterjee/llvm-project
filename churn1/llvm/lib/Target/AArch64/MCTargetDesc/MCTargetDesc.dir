@@ -1,0 +1,32 @@
+{
+    "directory name": "llvm-project/llvm/lib/Target/AArch64/MCTargetDesc",
+    "score.sum": 0.0023259671370516304,
+    "sha.latest": "04a906ec980e7bf49ffda0808766f51d08e8ae76",
+    "time.latest": 1717846732.4265058,
+    "formatted_time": "2024-06-08 06:38:52.426509",
+    "filescores": {
+        "AArch64AddressingModes.h": 5.622577686897955,
+        "AArch64AsmBackend.cpp": 15.367947166002107,
+        "AArch64ELFObjectWriter.cpp": 5.4896857891886315,
+        "AArch64ELFStreamer.cpp": 7.074165907860512,
+        "AArch64ELFStreamer.h": 1.2614506610593517,
+        "AArch64FixupKinds.h": 1.3363351228685816,
+        "AArch64InstPrinter.cpp": 8.928836170286813,
+        "AArch64InstPrinter.h": 4.378054478406666,
+        "AArch64MCAsmInfo.cpp": 4.245638060720275,
+        "AArch64MCAsmInfo.h": 1.7712934638484974,
+        "AArch64MCCodeEmitter.cpp": 7.397855450751485,
+        "AArch64MCExpr.cpp": 2.71723984358157,
+        "AArch64MCExpr.h": 2.3000388776713874,
+        "AArch64MCTargetDesc.cpp": 10.310701870367918,
+        "AArch64MCTargetDesc.h": 5.267004164841752,
+        "AArch64MachObjectWriter.cpp": 3.511076544846229,
+        "AArch64TargetStreamer.cpp": 2.960877024856217,
+        "AArch64TargetStreamer.h": 2.852389282316367,
+        "AArch64WinCOFFObjectWriter.cpp": 1.5807771238579658,
+        "AArch64WinCOFFStreamer.cpp": 2.9928542206023714,
+        "AArch64WinCOFFStreamer.h": 0.7321694016292346,
+        "CMakeLists.txt": 1.9010316875381155
+    },
+    "subdirscores": {}
+}

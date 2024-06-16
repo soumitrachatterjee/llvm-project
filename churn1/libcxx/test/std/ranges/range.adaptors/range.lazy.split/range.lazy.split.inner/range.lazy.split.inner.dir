@@ -1,0 +1,19 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/ranges/range.adaptors/range.lazy.split/range.lazy.split.inner",
+    "score.sum": 6.319178988882506e-05,
+    "sha.latest": "d868135691bb0d5c924b8fd2ae26171fbf5d1387",
+    "time.latest": 1717962274.1360896,
+    "formatted_time": "2024-06-10 01:14:34.136091",
+    "filescores": {
+        "base.pass.cpp": 9.652523024877734,
+        "ctor.default.pass.cpp": 9.652523024877734,
+        "ctor.outer_iterator.pass.cpp": 9.652523024877734,
+        "deref.pass.cpp": 9.652523024877734,
+        "equal.pass.cpp": 9.652523024877734,
+        "increment.pass.cpp": 13.250277164381325,
+        "iter_move.pass.cpp": 14.417292343176136,
+        "iter_swap.pass.cpp": 14.417292343176136,
+        "types.compile.pass.cpp": 9.652523024877734
+    },
+    "subdirscores": {}
+}

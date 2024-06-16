@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/llvm/utils/UpdateTestChecks",
+    "score.sum": 0.0007438447280623192,
+    "sha.latest": "3846019d8f6379ea1a8bf3a0fdfb0202de8e2f2a",
+    "time.latest": 1718079091.9151711,
+    "formatted_time": "2024-06-10 23:11:31.915174",
+    "filescores": {
+        "__init__.py": 0.0,
+        "asm.py": 32.42793789372257,
+        "common.py": 65.69191481369468,
+        "isel.py": 1.880147292582754
+    },
+    "subdirscores": {}
+}

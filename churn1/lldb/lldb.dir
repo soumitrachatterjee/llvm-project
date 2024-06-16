@@ -1,0 +1,31 @@
+{
+    "directory_name": "llvm-project/lldb",
+    "score.sum": 0.1174664700906434,
+    "sha.latest": "624ea68cbc3ce422b3ee110c0c0af839eec2e278",
+    "time.latest": 1718000888.0316148,
+    "formatted_time": "2024-06-10 11:58:08.031629",
+    "filescores": {
+        ".clang-format": 0.02738966897781495,
+        ".clang-tidy": 0.014535226019981758,
+        "CMakeLists.txt": 0.5300178376355663,
+        "CodeOwners.rst": 0.00519263247132941,
+        "LICENSE.TXT": 0.010382483030460255,
+        "use_lldb_suite_root.py": 0.010633435766106161
+    },
+    "subdirscores": {
+        "bindings": 0.6306659874764649,
+        "cmake": 0.9770354660668732,
+        "docs": 1.6964529111531745,
+        "examples": 1.273041760635029,
+        "include": 15.210073499541657,
+        "packages": 4.990483657003255,
+        "resources": 0.10105421888177184,
+        "scripts": 1.7525383362615714,
+        "source": 43.233198244295096,
+        "test": 19.023318357843653,
+        "third_party": 0.0594074933079697,
+        "tools": 5.557106878677803,
+        "unittests": 4.515514306183875,
+        "utils": 0.38195759877056507
+    }
+}

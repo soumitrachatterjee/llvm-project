@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/flang/unittests/Frontend",
+    "score.sum": 9.65848826252167e-05,
+    "sha.latest": "aa26faf05ecd7ee77487772fe0406f2de1df0dac",
+    "time.latest": 1717812900.1554558,
+    "formatted_time": "2024-06-07 21:15:00.155459",
+    "filescores": {
+        ".clang-tidy": 0.0,
+        "CMakeLists.txt": 35.51033768216541,
+        "CodeGenActionTest.cpp": 10.311367611319543,
+        "CompilerInstanceTest.cpp": 10.957847172665916,
+        "FrontendActionTest.cpp": 43.22044753384914
+    },
+    "subdirscores": {}
+}

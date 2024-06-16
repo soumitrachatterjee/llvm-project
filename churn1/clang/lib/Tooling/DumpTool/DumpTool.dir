@@ -1,0 +1,16 @@
+{
+    "directory name": "llvm-project/clang/lib/Tooling/DumpTool",
+    "score.sum": 0.0001307571158829216,
+    "sha.latest": "2402b14046b9628b584c07789830d7ed481f7d74",
+    "time.latest": 1717823084.3636742,
+    "formatted_time": "2024-06-08 10:34:44.363677",
+    "filescores": {
+        "APIData.h": 16.155577091728734,
+        "ASTSrcLocProcessor.cpp": 26.768470652348743,
+        "ASTSrcLocProcessor.h": 5.24096848170504,
+        "ClangSrcLocDump.cpp": 12.711271121084506,
+        "CMakeLists.txt": 28.919886104263913,
+        "generate_cxx_src_locs.py": 10.203826548869056
+    },
+    "subdirscores": {}
+}

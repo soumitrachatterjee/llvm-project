@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/llvm/bindings",
+    "score.sum": 0.0009356892963124996,
+    "sha.latest": "e1405e4f71c899420ebf8262d5e9745598419df8",
+    "time.latest": 1717788655.4853806,
+    "formatted_time": "2024-06-07 14:30:55.485381",
+    "filescores": {
+        "README.txt": 0.0
+    },
+    "subdirscores": {
+        "ocaml": 100.0
+    }
+}

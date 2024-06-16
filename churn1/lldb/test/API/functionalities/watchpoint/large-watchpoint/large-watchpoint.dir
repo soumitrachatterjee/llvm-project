@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/functionalities/watchpoint/large-watchpoint",
+    "score.sum": 3.9758712603729715e-05,
+    "sha.latest": "5953532615595918d006ace2ad83fe33d1cd3915",
+    "time.latest": 1717924318.6197903,
+    "formatted_time": "2024-06-09 14:41:58.619793",
+    "filescores": {
+        "main.c": 0.0,
+        "Makefile": 0.0,
+        "TestLargeWatchpoint.py": 100.0
+    },
+    "subdirscores": {}
+}

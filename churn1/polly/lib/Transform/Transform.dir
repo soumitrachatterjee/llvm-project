@@ -1,0 +1,25 @@
+{
+    "directory name": "llvm-project/polly/lib/Transform",
+    "score.sum": 0.001378016814645836,
+    "sha.latest": "8de230093f585b64fcd642b46e6560131e95b394",
+    "time.latest": 1717809372.729481,
+    "formatted_time": "2024-06-07 20:16:12.729484",
+    "filescores": {
+        "Canonicalization.cpp": 5.127609384894829,
+        "CodePreparation.cpp": 3.7945998163765498,
+        "DeLICM.cpp": 6.405578022864978,
+        "DeadCodeElimination.cpp": 4.520241567181995,
+        "FlattenAlgo.cpp": 5.755234306100753,
+        "FlattenSchedule.cpp": 2.9974968482735176,
+        "ForwardOpTree.cpp": 6.220086959069828,
+        "ManualOptimizer.cpp": 4.162257058253005,
+        "MatmulOptimizer.cpp": 2.891969858753538,
+        "MaximalStaticExpansion.cpp": 4.898757712147543,
+        "ScheduleOptimizer.cpp": 30.376766600437616,
+        "ScheduleTreeTransform.cpp": 7.118380561361823,
+        "ScopInliner.cpp": 3.179661252797615,
+        "Simplify.cpp": 6.4686760072186615,
+        "ZoneAlgo.cpp": 6.08268404426776
+    },
+    "subdirscores": {}
+}

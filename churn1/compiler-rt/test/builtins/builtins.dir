@@ -1,0 +1,17 @@
+{
+    "directory name": "llvm-project/compiler-rt/test/builtins",
+    "score.sum": 0.0007211702222313971,
+    "sha.latest": "c22828991e7ca7b99048761c078252e94403ba6e",
+    "time.latest": 1717822297.1539524,
+    "formatted_time": "2024-06-08 10:21:37.153955",
+    "filescores": {
+        "CMakeLists.txt": 16.41511611797643,
+        "lit.cfg.py": 2.4659137847975323,
+        "lit.site.cfg.py.in": 0.0
+    },
+    "subdirscores": {
+        "TestCases": 2.582853652466842,
+        "timing": 0.0,
+        "Unit": 78.5361164447592
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "directory name": "llvm-project/compiler-rt/test/orc/TestCases/Darwin/arm64",
+    "score.sum": 3.1046135035831374e-05,
+    "sha.latest": "93509b4462a74c3f96eb576f1bbaaa26328e63b2",
+    "time.latest": 1717835323.0584161,
+    "formatted_time": "2024-06-08 13:58:43.058420",
+    "filescores": {
+        "lit.local.cfg.py": 19.64689666462974,
+        "objc-category.S": 19.64689666462974,
+        "objc-cross-file-method-call.S": 19.64689666462974,
+        "objc-imageinfo.S": 0.0,
+        "trivial-cxa-atexit.S": 0.0,
+        "trivial-dlsym.c": 0.0,
+        "trivial-objc-methods.S": 21.412413341481052,
+        "trivial-static-initializer.S": 0.0,
+        "trivial-tlv.S": 0.0
+    },
+    "subdirscores": {
+        "Inputs": 19.64689666462974
+    }
+}

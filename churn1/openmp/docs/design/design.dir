@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/openmp/docs/design",
+    "score.sum": 0.00015154994929662737,
+    "sha.latest": "b8b2a279d002f4d424d9b089bc32a0e5d6989dbb",
+    "time.latest": 1717791791.828316,
+    "formatted_time": "2024-06-08 01:53:11.828321",
+    "filescores": {
+        "GPUGenericMode.rst": 0.0,
+        "GPUSPMDMode.rst": 0.0,
+        "Offloading.rst": 0.0,
+        "Overview.rst": 4.024813005323084,
+        "Runtimes.rst": 95.9751869946769
+    },
+    "subdirscores": {}
+}

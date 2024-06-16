@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/libc/config/linux/riscv",
+    "score.sum": 0.00016113355677160835,
+    "sha.latest": "fe1645e25c5ab5e3ba8aa16d4f637633ded328ab",
+    "time.latest": 1717825169.8984318,
+    "formatted_time": "2024-06-08 00:39:29.898435",
+    "filescores": {
+        "entrypoints.txt": 70.75044003254042,
+        "headers.txt": 29.249559967459582
+    },
+    "subdirscores": {}
+}

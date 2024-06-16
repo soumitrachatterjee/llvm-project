@@ -1,0 +1,17 @@
+{
+    "directory name": "llvm-project/pstl/include",
+    "score.sum": 0.000126095263303352,
+    "sha.latest": "9c4717af22307ea64e3514c3c384dda0bdfdf12d",
+    "time.latest": 1717791243.1449397,
+    "formatted_time": "2024-06-07 15:14:03.144940",
+    "filescores": {
+        "__pstl_algorithm": 0.0,
+        "__pstl_config_site.in": 4.867592818019803,
+        "__pstl_execution": 0.0,
+        "__pstl_memory": 0.0,
+        "__pstl_numeric": 0.0
+    },
+    "subdirscores": {
+        "pstl": 95.1324071819802
+    }
+}

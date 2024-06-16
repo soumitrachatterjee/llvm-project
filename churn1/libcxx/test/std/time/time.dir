@@ -1,0 +1,32 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/time",
+    "score.sum": 0.00034372250625009043,
+    "sha.latest": "e4d4cfa5a0111372dff2b01126545cf3139ee40b",
+    "time.latest": 1717986924.8135178,
+    "formatted_time": "2024-06-10 08:05:24.813521",
+    "filescores": {
+        "clock.h": 0.0,
+        "days.pass.cpp": 0.0,
+        "hours.pass.cpp": 0.0,
+        "microseconds.pass.cpp": 0.0,
+        "milliseconds.pass.cpp": 0.0,
+        "minutes.pass.cpp": 0.0,
+        "months.pass.cpp": 0.0,
+        "nanoseconds.pass.cpp": 0.0,
+        "rep.h": 1.7745716262214046,
+        "seconds.pass.cpp": 0.0,
+        "weeks.pass.cpp": 0.0,
+        "years.pass.cpp": 0.0
+    },
+    "subdirscores": {
+        "time.cal": 24.091749773902922,
+        "time.clock": 15.145748411785101,
+        "time.clock.req": 0.0,
+        "time.duration": 9.971883652872137,
+        "time.hms": 17.2723974970534,
+        "time.point": 4.245652948356528,
+        "time.syn": 24.832176888546382,
+        "time.traits": 0.0,
+        "time.zone": 2.665819201262125
+    }
+}

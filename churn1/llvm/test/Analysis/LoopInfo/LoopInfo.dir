@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/llvm/test/Analysis/LoopInfo",
+    "score.sum": 6.056486408549884e-05,
+    "sha.latest": "1aee1e1f4c4b504becc06521546de992a662694b",
+    "time.latest": 1717888883.155016,
+    "formatted_time": "2024-06-08 18:21:23.155020",
+    "filescores": {
+        "2003-02-19-LoopInfoNestingBug.ll": 10.071189229848594,
+        "2003-05-15-NestingProblem.ll": 42.36407271524648,
+        "annotated-parallel-complex.ll": 18.835288255992136,
+        "annotated-parallel-simple.ll": 28.72944979891279
+    },
+    "subdirscores": {}
+}

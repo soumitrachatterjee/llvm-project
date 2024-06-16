@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/libcxx/utils/ci/vendor",
+    "score.sum": 1.0847907733929176e-05,
+    "sha.latest": "f4e3fb5972b2c42b5373952fccc8259e98b3423b",
+    "time.latest": 1718010910.9041233,
+    "formatted_time": "2024-06-10 14:45:10.904124",
+    "filescores": {},
+    "subdirscores": {
+        "android": 100.0
+    }
+}

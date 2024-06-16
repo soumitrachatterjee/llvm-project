@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/llvm/examples/ModuleMaker",
+    "score.sum": 7.672179919922291e-05,
+    "sha.latest": "32b38d248fd3c75abc5c86ab6677b6cb08a703cc",
+    "time.latest": 1717804427.6949017,
+    "formatted_time": "2024-06-07 18:53:47.694905",
+    "filescores": {
+        "CMakeLists.txt": 13.937063176302722,
+        "ModuleMaker.cpp": 75.81718278866644,
+        "README.txt": 10.245754035030853
+    },
+    "subdirscores": {}
+}

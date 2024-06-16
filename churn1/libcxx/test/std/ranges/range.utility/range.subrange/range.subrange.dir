@@ -1,0 +1,26 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/ranges/range.utility/range.subrange",
+    "score.sum": 0.0001794180706533354,
+    "sha.latest": "ee22e255648ee9b056280484b4b70d4542bc807e",
+    "time.latest": 1717965374.2959578,
+    "formatted_time": "2024-06-10 02:06:14.295959",
+    "filescores": {
+        "advance.pass.cpp": 8.282644632474485,
+        "borrowing.compile.pass.cpp": 4.151051254888404,
+        "ctad.compile.pass.cpp": 7.370290621192031,
+        "ctor.begin_end.pass.cpp": 7.059028997203179,
+        "ctor.begin_end_size.pass.cpp": 6.680624315520296,
+        "ctor.default.pass.cpp": 5.139386168726663,
+        "ctor.pair_like_conv.pass.cpp": 8.695155429847128,
+        "ctor.range.pass.cpp": 7.059028997203179,
+        "ctor.range_size.pass.cpp": 5.276624819368408,
+        "general.compile.pass.cpp": 6.407083763219841,
+        "get.pass.cpp": 7.609219061220348,
+        "lwg3470.pass.cpp": 4.161260462148293,
+        "operator.pair_like.pass.cpp": 3.3996587114330374,
+        "primitives.pass.cpp": 7.098853072638295,
+        "structured_bindings.pass.cpp": 7.077383166556464,
+        "types.h": 4.532706526359952
+    },
+    "subdirscores": {}
+}

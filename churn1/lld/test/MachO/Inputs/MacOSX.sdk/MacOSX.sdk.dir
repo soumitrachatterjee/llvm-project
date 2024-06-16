@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/lld/test/MachO/Inputs/MacOSX.sdk",
+    "score.sum": 4.918236597076199e-05,
+    "sha.latest": "453102a028a29a8b4010ce7e94be3ca83fd60807",
+    "time.latest": 1717898018.8904448,
+    "formatted_time": "2024-06-09 07:23:38.890448",
+    "filescores": {},
+    "subdirscores": {
+        "System": 23.183322841302743,
+        "usr": 76.81667715869726
+    }
+}

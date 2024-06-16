@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/lldb/test/API/python_api/sbvalue_unsigned_enum_bitfield_value",
+    "score.sum": 6.2022433790694715e-06,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717966759.4947286,
+    "formatted_time": "2024-06-10 02:29:19.494730",
+    "filescores": {
+        "main.cpp": 0.0,
+        "TestSBValueUnsignedEnumBitField.py": 100.0
+    },
+    "subdirscores": {}
+}

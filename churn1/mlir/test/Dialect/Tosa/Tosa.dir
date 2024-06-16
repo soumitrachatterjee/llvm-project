@@ -1,0 +1,28 @@
+{
+    "directory name": "llvm-project/mlir/test/Dialect/Tosa",
+    "score.sum": 0.0007791157264642491,
+    "sha.latest": "d57f158a9546746219e3b01398886e104d8a0fdb",
+    "time.latest": 1717823105.1286507,
+    "formatted_time": "2024-06-08 00:05:05.128654",
+    "filescores": {
+        "broadcast.mlir": 4.251573563333717,
+        "canonicalize.mlir": 18.314004033827295,
+        "constant-op-fold.mlir": 7.047178324980654,
+        "constant-reciprocal-fold.mlir": 0.0,
+        "constant_folding.mlir": 2.49745954879182,
+        "constrained_shapes.mlir": 1.914382419332963,
+        "fold_concats.mlir": 1.565463939858466,
+        "inlining.mlir": 2.315628286210834,
+        "invalid.mlir": 12.259151497421792,
+        "level_check.mlir": 2.7770477823514637,
+        "ops.mlir": 16.675687669324653,
+        "quant-test.mlir": 1.8841774833007017,
+        "tosa-decompose-conv2d.mlir": 3.4208239821128688,
+        "tosa-decompose-depthwise.mlir": 4.556727133490257,
+        "tosa-decompose-transpose-conv.mlir": 5.0087049867657845,
+        "tosa-infer-shapes.mlir": 14.7291015362566,
+        "transpose-fold.mlir": 0.7828878126401274,
+        "variables.mlir": 0.0
+    },
+    "subdirscores": {}
+}

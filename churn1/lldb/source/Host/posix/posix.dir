@@ -1,0 +1,20 @@
+{
+    "directory name": "llvm-project/lldb/source/Host/posix",
+    "score.sum": 0.0007160878046708236,
+    "sha.latest": "a2e61bc2f3bc66124575c0abf9b8421073470202",
+    "time.latest": 1717866443.1232312,
+    "formatted_time": "2024-06-08 22:37:23.123233",
+    "filescores": {
+        "ConnectionFileDescriptorPosix.cpp": 30.665786721674195,
+        "DomainSocket.cpp": 7.90482465571323,
+        "FileSystemPosix.cpp": 3.586392834687412,
+        "HostInfoPosix.cpp": 15.43886450832311,
+        "HostProcessPosix.cpp": 7.852765097304921,
+        "HostThreadPosix.cpp": 5.6834174855307,
+        "LockFilePosix.cpp": 3.2211537482784096,
+        "MainLoopPosix.cpp": 5.807313775967544,
+        "PipePosix.cpp": 12.453905340469555,
+        "ProcessLauncherPosixFork.cpp": 7.385575832050918
+    },
+    "subdirscores": {}
+}

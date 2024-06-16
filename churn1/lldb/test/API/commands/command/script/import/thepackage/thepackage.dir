@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/commands/command/script/import/thepackage",
+    "score.sum": 2.2956479306389644e-05,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717888711.1736546,
+    "formatted_time": "2024-06-09 04:48:31.173656",
+    "filescores": {
+        "TPunitA.py": 26.57028539717522,
+        "TPunitB.py": 26.57028539717522,
+        "__init__.py": 46.85942920564955
+    },
+    "subdirscores": {}
+}

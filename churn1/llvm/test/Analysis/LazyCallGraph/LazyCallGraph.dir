@@ -1,0 +1,17 @@
+{
+    "directory name": "llvm-project/llvm/test/Analysis/LazyCallGraph",
+    "score.sum": 5.718028789367967e-05,
+    "sha.latest": "1aee1e1f4c4b504becc06521546de992a662694b",
+    "time.latest": 1717888021.155541,
+    "formatted_time": "2024-06-08 18:07:01.155546",
+    "filescores": {
+        "alias.ll": 15.225119255892203,
+        "basic.ll": 32.03887847760794,
+        "blockaddress.ll": 10.667316121584985,
+        "invalidate.ll": 0.0,
+        "non-leaf-intrinsics.ll": 42.06868614491487,
+        "remove-dead-function-spurious-ref-edge.ll": 0.0,
+        "replace-libcall.ll": 0.0
+    },
+    "subdirscores": {}
+}

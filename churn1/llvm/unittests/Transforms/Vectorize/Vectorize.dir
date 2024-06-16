@@ -1,0 +1,17 @@
+{
+    "directory name": "llvm-project/llvm/unittests/Transforms/Vectorize",
+    "score.sum": 0.000507025565629504,
+    "sha.latest": "22cf983387e52e3df01504c69df8266e9d80d9da",
+    "time.latest": 1718085238.5678244,
+    "formatted_time": "2024-06-11 00:53:58.567828",
+    "filescores": {
+        "CMakeLists.txt": 5.961469638176963,
+        "VPDomTreeTest.cpp": 2.3726461818172098,
+        "VPlanHCFGTest.cpp": 24.700225964326496,
+        "VPlanSlpTest.cpp": 4.837525616785307,
+        "VPlanTest.cpp": 54.83642828768718,
+        "VPlanTestBase.h": 5.778533105092031,
+        "VPlanVerifierTest.cpp": 1.5131712061148164
+    },
+    "subdirscores": {}
+}

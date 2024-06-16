@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/lang/c/typedef",
+    "score.sum": 1.80838800517136e-05,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717927747.8734052,
+    "formatted_time": "2024-06-09 15:39:07.873408",
+    "filescores": {
+        "main.c": 33.72949859990478,
+        "Makefile": 0.0,
+        "Testtypedef.py": 66.27050140009521
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/llvm/utils/gn/secondary/clang-tools-extra/clang-tidy/cppcoreguidelines",
+    "score.sum": 6.134113176334943e-05,
+    "sha.latest": "144477f25b82ad8679cbc9de6dd0536895367e61",
+    "time.latest": 1718081717.0910354,
+    "formatted_time": "2024-06-10 23:55:17.091039",
+    "filescores": {
+        "BUILD.gn": 100.0
+    },
+    "subdirscores": {}
+}

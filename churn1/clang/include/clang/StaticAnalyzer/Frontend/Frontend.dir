@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/clang/include/clang/StaticAnalyzer/Frontend",
+    "score.sum": 0.00023009690850256978,
+    "sha.latest": "ac2090d507a67d1e98594d081ce3951837d43f28",
+    "time.latest": 1717802326.0120454,
+    "formatted_time": "2024-06-08 04:48:46.012048",
+    "filescores": {
+        "AnalysisConsumer.h": 14.772054158359222,
+        "AnalyzerHelpFlags.h": 2.7625600349616017,
+        "CheckerRegistry.h": 39.84218355914487,
+        "FrontendActions.h": 36.45762065725579,
+        "ModelConsumer.h": 6.165581590278513
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/llvm/unittests/Analysis/Inputs/ir2native_x86_64_model",
+    "score.sum": 1.8083205059600915e-05,
+    "sha.latest": "5ce4c9aa0405bb28dbe374aa741044025d63f05c",
+    "time.latest": 1718078780.5229437,
+    "formatted_time": "2024-06-10 23:06:20.522944",
+    "filescores": {
+        "model.tflite": 0.0,
+        "saved_model.pbtxt": 50.0
+    },
+    "subdirscores": {
+        "variables": 50.0
+    }
+}

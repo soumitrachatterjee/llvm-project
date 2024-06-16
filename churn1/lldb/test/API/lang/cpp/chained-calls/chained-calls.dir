@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/lang/cpp/chained-calls",
+    "score.sum": 1.0499694455983825e-05,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717929232.30362,
+    "formatted_time": "2024-06-09 16:03:52.303621",
+    "filescores": {
+        "main.cpp": 0.0,
+        "Makefile": 0.0,
+        "TestCppChainedCalls.py": 100.0
+    },
+    "subdirscores": {}
+}

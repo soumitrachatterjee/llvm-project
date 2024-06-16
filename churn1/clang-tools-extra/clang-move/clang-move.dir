@@ -1,0 +1,17 @@
+{
+    "directory name": "llvm-project/clang-tools-extra/clang-move",
+    "score.sum": 0.00016871858824515869,
+    "sha.latest": "da95d926f6fce4ed9707c77908ad96624268f134",
+    "time.latest": 1717789775.132624,
+    "formatted_time": "2024-06-08 01:19:35.132630",
+    "filescores": {
+        "CMakeLists.txt": 12.059307692154684,
+        "HelperDeclRefGraph.cpp": 17.254781187121907,
+        "HelperDeclRefGraph.h": 3.6152519602570967,
+        "Move.cpp": 35.29997805149739,
+        "Move.h": 3.6152519602570967
+    },
+    "subdirscores": {
+        "tool": 28.155429148711807
+    }
+}

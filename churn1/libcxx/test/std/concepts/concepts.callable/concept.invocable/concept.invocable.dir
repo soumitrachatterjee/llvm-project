@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/concepts/concepts.callable/concept.invocable",
+    "score.sum": 1.7927937837570796e-05,
+    "sha.latest": "34f73804ed60e90276e2303398162c2fc05f47ec",
+    "time.latest": 1717874710.572326,
+    "formatted_time": "2024-06-09 00:55:10.572328",
+    "filescores": {
+        "invocable.compile.pass.cpp": 100.0
+    },
+    "subdirscores": {}
+}

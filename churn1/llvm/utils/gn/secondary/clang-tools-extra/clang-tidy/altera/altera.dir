@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/llvm/utils/gn/secondary/clang-tools-extra/clang-tidy/altera",
+    "score.sum": 1.5189878705346451e-05,
+    "sha.latest": "fca10c8808ff22f3069359b2f6b2d410612c70c1",
+    "time.latest": 1718081571.9436429,
+    "formatted_time": "2024-06-10 23:52:51.943646",
+    "filescores": {
+        "BUILD.gn": 100.0
+    },
+    "subdirscores": {}
+}

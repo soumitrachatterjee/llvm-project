@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/mlir/lib/CAPI/ExecutionEngine",
+    "score.sum": 5.350550988690817e-05,
+    "sha.latest": "0a1aa6cda2758b0926a95f87d39ffefb1cb90200",
+    "time.latest": 1717802148.0249798,
+    "formatted_time": "2024-06-07 18:15:48.024983",
+    "filescores": {
+        "CMakeLists.txt": 23.691394130565964,
+        "ExecutionEngine.cpp": 76.30860586943403
+    },
+    "subdirscores": {}
+}

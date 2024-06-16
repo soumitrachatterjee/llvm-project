@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/libcxx/test/libcxx/input.output/file.streams/fstreams/fstream.cons",
+    "score.sum": 1.4518460872334124e-05,
+    "sha.latest": "efc60dc00796fd113e057a92c6861eeb57e649ae",
+    "time.latest": 1717850628.850858,
+    "formatted_time": "2024-06-08 18:13:48.850861",
+    "filescores": {
+        "wchar_pointer.pass.cpp": 100.0
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/clang/include/clang/Tooling/ASTDiff",
+    "score.sum": 4.317827184675424e-05,
+    "sha.latest": "6ad0788c332bb2043142954d300c49ac3e537f34",
+    "time.latest": 1717802466.969543,
+    "formatted_time": "2024-06-08 04:51:06.969545",
+    "filescores": {
+        "ASTDiff.h": 58.07028848927598,
+        "ASTDiffInternal.h": 41.92971151072403
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/macosx/arm-corefile-regctx",
+    "score.sum": 1.278617294690902e-05,
+    "sha.latest": "1eeeab82c6eb185f5139e633a59c2dbcb15616e4",
+    "time.latest": 1717961822.1919315,
+    "formatted_time": "2024-06-10 01:07:02.191936",
+    "filescores": {
+        "create-arm-corefiles.cpp": 47.704673589025255,
+        "Makefile": 0.0,
+        "TestArmMachoCorefileRegctx.py": 52.29532641097474
+    },
+    "subdirscores": {}
+}

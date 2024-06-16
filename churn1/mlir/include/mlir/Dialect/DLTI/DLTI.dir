@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/mlir/include/mlir/Dialect/DLTI",
+    "score.sum": 8.945745499391266e-05,
+    "sha.latest": "c1ed45a271145acbfad81d87706aeebf361809c3",
+    "time.latest": 1717793984.9217644,
+    "formatted_time": "2024-06-07 15:59:44.921768",
+    "filescores": {
+        "CMakeLists.txt": 6.818439077286807,
+        "DLTI.h": 26.481712827156645,
+        "DLTI.td": 0.0,
+        "DLTIBase.td": 66.69984809555655,
+        "Traits.h": 0.0
+    },
+    "subdirscores": {}
+}

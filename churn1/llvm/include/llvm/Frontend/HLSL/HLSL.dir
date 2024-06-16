@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/llvm/include/llvm/Frontend/HLSL",
+    "score.sum": 2.3215057661511112e-05,
+    "sha.latest": "ad7131864f5a1a23f8c8d054a5e31c9979edd497",
+    "time.latest": 1717815983.2484734,
+    "formatted_time": "2024-06-07 22:06:23.248476",
+    "filescores": {
+        "HLSLResource.h": 100.0
+    },
+    "subdirscores": {}
+}

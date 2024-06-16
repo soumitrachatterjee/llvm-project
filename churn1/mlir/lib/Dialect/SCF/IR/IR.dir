@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/mlir/lib/Dialect/SCF/IR",
+    "score.sum": 0.0003501953190193186,
+    "sha.latest": "492e8ba0384b038596e6b4a97313b7bdced5e868",
+    "time.latest": 1717808239.7790205,
+    "formatted_time": "2024-06-07 19:57:19.779024",
+    "filescores": {
+        "CMakeLists.txt": 5.592936332466234,
+        "DeviceMappingInterface.cpp": 0.0,
+        "SCF.cpp": 91.00993440050806,
+        "ValueBoundsOpInterfaceImpl.cpp": 3.3971292670256967
+    },
+    "subdirscores": {}
+}

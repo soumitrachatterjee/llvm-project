@@ -1,0 +1,38 @@
+{
+    "directory name": "llvm-project/lldb/unittests",
+    "score.sum": 0.006347401960314059,
+    "sha.latest": "458636690afdd223ffa72f49164f30449b588892",
+    "time.latest": 1717999656.8441117,
+    "formatted_time": "2024-06-10 11:37:36.844114",
+    "filescores": {
+        "CMakeLists.txt": 2.470257792801732,
+        "gtest_common.h": 0.23900026798999804
+    },
+    "subdirscores": {
+        "API": 0.20653267118363852,
+        "Breakpoint": 1.0531174408242807,
+        "Core": 6.59723842362334,
+        "DataFormatter": 0.7998188677407689,
+        "debugserver": 0.747294317725159,
+        "Disassembler": 0.604433691143409,
+        "Editline": 1.4723145001507703,
+        "Expression": 5.68467696322489,
+        "Host": 8.951840425633009,
+        "Instruction": 1.674163683999352,
+        "Interpreter": 3.057622237639277,
+        "Language": 2.383261996752204,
+        "ObjectFile": 1.7766944860341498,
+        "Platform": 2.081058868812221,
+        "Process": 9.295233982917612,
+        "ScriptInterpreter": 6.128742233037976,
+        "Signals": 0.6012482375591229,
+        "Symbol": 6.692584345420359,
+        "SymbolFile": 8.420674788425739,
+        "Target": 5.400756369689258,
+        "TestingSupport": 2.967022139267922,
+        "Thread": 0.8530437403364257,
+        "tools": 3.2734491735386584,
+        "UnwindAssembly": 1.0288098277927764,
+        "Utility": 15.539108526735932
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "directory name": "llvm-project/mlir/lib/Dialect/Affine/Analysis",
+    "score.sum": 0.0004178364796946364,
+    "sha.latest": "2679d3793b264b2884cf5c9492e3311f08f41de3",
+    "time.latest": 1717804681.9059632,
+    "formatted_time": "2024-06-07 18:58:01.905966",
+    "filescores": {
+        "AffineAnalysis.cpp": 20.599072523073225,
+        "AffineStructures.cpp": 26.487547454665965,
+        "CMakeLists.txt": 3.990686489349244,
+        "LoopAnalysis.cpp": 15.182659786693954,
+        "NestedMatcher.cpp": 2.3945616937469443,
+        "Utils.cpp": 31.345472052470676
+    },
+    "subdirscores": {}
+}

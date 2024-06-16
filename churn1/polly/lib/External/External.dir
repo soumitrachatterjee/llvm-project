@@ -1,0 +1,17 @@
+{
+    "directory name": "llvm-project/polly/lib/External",
+    "score.sum": 0.00041872900082371844,
+    "sha.latest": "b951239932c735deec633bb53c0efa71912155f1",
+    "time.latest": 1717809110.151544,
+    "formatted_time": "2024-06-07 20:11:50.151547",
+    "filescores": {
+        "CMakeLists.txt": 20.792183766953638,
+        "README.txt": 2.820404347101524,
+        "isl_config.h.cmake": 1.4566944388499814,
+        "isl_srcdir.c.cmake": 0.0,
+        "update-isl.sh": 4.150496051159544
+    },
+    "subdirscores": {
+        "isl": 70.78022139593531
+    }
+}

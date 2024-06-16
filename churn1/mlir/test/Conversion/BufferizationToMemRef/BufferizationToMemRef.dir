@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/mlir/test/Conversion/BufferizationToMemRef",
+    "score.sum": 2.8718756340938818e-05,
+    "sha.latest": "950f0944c95a5416415786487a1263de2dfcec13",
+    "time.latest": 1717815462.2216578,
+    "formatted_time": "2024-06-07 21:57:42.221661",
+    "filescores": {
+        "bufferization-to-memref.mlir": 100.0
+    },
+    "subdirscores": {}
+}

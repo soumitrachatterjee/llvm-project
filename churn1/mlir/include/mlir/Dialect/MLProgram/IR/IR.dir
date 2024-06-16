@@ -1,0 +1,18 @@
+{
+    "directory name": "llvm-project/mlir/include/mlir/Dialect/MLProgram/IR",
+    "score.sum": 0.0001172944930679302,
+    "sha.latest": "8f9da1e4be69215c89f913766b7976bcc2e24ac2",
+    "time.latest": 1717795256.4023938,
+    "formatted_time": "2024-06-07 16:20:56.402398",
+    "filescores": {
+        "CMakeLists.txt": 17.529153675893923,
+        "MLProgram.h": 18.659517220700458,
+        "MLProgramAttributes.h": 5.200245901841837,
+        "MLProgramAttributes.td": 5.200245901841837,
+        "MLProgramBase.td": 27.927245586150896,
+        "MLProgramOps.td": 25.48359171357104,
+        "MLProgramTypes.h": 0.0,
+        "MLProgramTypes.td": 0.0
+    },
+    "subdirscores": {}
+}

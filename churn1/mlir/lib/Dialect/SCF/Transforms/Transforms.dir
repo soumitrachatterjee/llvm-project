@@ -1,0 +1,26 @@
+{
+    "directory name": "llvm-project/mlir/lib/Dialect/SCF/Transforms",
+    "score.sum": 0.001157699268086649,
+    "sha.latest": "8189db978fa73a09c040a1e698d85f8b4a63cd37",
+    "time.latest": 1717808398.6821358,
+    "formatted_time": "2024-06-07 19:59:58.682140",
+    "filescores": {
+        "BufferDeallocationOpInterfaceImpl.cpp": 1.1505282237006107,
+        "BufferizableOpInterfaceImpl.cpp": 15.970603797285426,
+        "Bufferize.cpp": 4.184864824059578,
+        "CMakeLists.txt": 8.36279583115392,
+        "ForToWhile.cpp": 3.614018391212036,
+        "LoopCanonicalization.cpp": 6.5815509714701985,
+        "LoopPipelining.cpp": 7.741003690168069,
+        "LoopRangeFolding.cpp": 3.434371569343998,
+        "LoopSpecialization.cpp": 11.880292842814963,
+        "OneToNTypeConversion.cpp": 0.8936790512920022,
+        "ParallelLoopCollapsing.cpp": 1.4989431494138825,
+        "ParallelLoopFusion.cpp": 5.5761569871209895,
+        "ParallelLoopTiling.cpp": 6.784792652938442,
+        "StructuralTypeConversions.cpp": 6.574032827654931,
+        "TileUsingInterface.cpp": 15.752365190370968,
+        "WrapInZeroTripCheck.cpp": 0.0
+    },
+    "subdirscores": {}
+}

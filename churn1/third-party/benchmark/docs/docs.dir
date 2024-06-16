@@ -1,0 +1,24 @@
+{
+    "directory name": "llvm-project/third-party/benchmark/docs",
+    "score.sum": 0.00015377637507730176,
+    "sha.latest": "a5b797172cc902db166e9a695716fb81405f86e4",
+    "time.latest": 1717788660.6420462,
+    "formatted_time": "2024-06-07 14:31:00.642050",
+    "filescores": {
+        "AssemblyTests.md": 12.001812978323544,
+        "_config.yml": 12.130983703803112,
+        "dependencies.md": 11.899249963744573,
+        "index.md": 11.899249963744573,
+        "perf_counters.md": 12.001812978323544,
+        "platform_specific_build_instructions.md": 0.0,
+        "python_bindings.md": 0.0,
+        "random_interleaving.md": 4.034843766189422,
+        "reducing_variance.md": 0.0,
+        "releasing.md": 12.130983703803112,
+        "tools.md": 12.001812978323544,
+        "user_guide.md": 11.899249963744573
+    },
+    "subdirscores": {
+        "assets": 0.0
+    }
+}

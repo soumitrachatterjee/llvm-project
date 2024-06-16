@@ -1,0 +1,32 @@
+{
+    "directory name": "llvm-project/mlir/include/mlir/TableGen",
+    "score.sum": 0.000964611280209047,
+    "sha.latest": "45c226d4521515ff1a38292331d82356b273fff7",
+    "time.latest": 1717800029.5399547,
+    "formatted_time": "2024-06-07 17:40:29.539958",
+    "filescores": {
+        "Argument.h": 3.1108369272160488,
+        "AttrOrTypeDef.h": 4.205505797203272,
+        "Attribute.h": 8.580615542858824,
+        "Builder.h": 2.389007383955586,
+        "Class.h": 4.805292554765854,
+        "CodeGenHelpers.h": 5.3325690261918925,
+        "Constraint.h": 6.417086950880921,
+        "Dialect.h": 10.141423225355721,
+        "Format.h": 4.825501948834095,
+        "GenInfo.h": 2.220539307723155,
+        "GenNameParser.h": 1.595642471405749,
+        "Interfaces.h": 3.0225292132077755,
+        "Operator.h": 16.484888813834537,
+        "Pass.h": 1.8359232575528721,
+        "Pattern.h": 9.845597304988353,
+        "Predicate.h": 3.8911154983347274,
+        "Property.h": 2.4466940053004675,
+        "Region.h": 1.1485078529392205,
+        "SideEffects.h": 1.2304399263443189,
+        "Successor.h": 0.6323378332802946,
+        "Trait.h": 1.0594929278064802,
+        "Type.h": 4.778452230019822
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/libclc/amdgcn/lib/math",
+    "score.sum": 1.5667361928273028e-05,
+    "sha.latest": "70a270da5f4a27b670cba1cb8148fcce5c094f4f",
+    "time.latest": 1717823494.4049473,
+    "formatted_time": "2024-06-08 00:11:34.404951",
+    "filescores": {
+        "fmax.cl": 38.93190249115246,
+        "fmin.cl": 61.06809750884754,
+        "ldexp.cl": 0.0
+    },
+    "subdirscores": {}
+}

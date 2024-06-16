@@ -1,0 +1,24 @@
+{
+    "directory name": "llvm-project/libc/test/src/sys",
+    "score.sum": 0.0004266323139463201,
+    "sha.latest": "fe1645e25c5ab5e3ba8aa16d4f637633ded328ab",
+    "time.latest": 1717851244.5041683,
+    "formatted_time": "2024-06-08 07:54:04.504169",
+    "filescores": {
+        "CMakeLists.txt": 14.713702131227258
+    },
+    "subdirscores": {
+        "auxv": 0.0,
+        "epoll": 1.4302642749975334,
+        "mman": 28.144970164577966,
+        "prctl": 2.61245269840893,
+        "random": 6.892731712951146,
+        "resource": 7.395255058106663,
+        "select": 5.575998713728536,
+        "sendfile": 6.907181759902203,
+        "socket": 4.658231312696669,
+        "stat": 11.636639733257194,
+        "utsname": 6.354123340282316,
+        "wait": 3.678449099863608
+    }
+}

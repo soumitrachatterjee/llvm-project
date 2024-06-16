@@ -1,0 +1,17 @@
+{
+    "directory name": "llvm-project/mlir/lib/Dialect/Async/Transforms",
+    "score.sum": 0.0003729006823499253,
+    "sha.latest": "ea2d9383a23ca17b9240ad64c2adc5f2b5a73dc0",
+    "time.latest": 1717805494.0199797,
+    "formatted_time": "2024-06-07 19:11:34.019983",
+    "filescores": {
+        "AsyncParallelFor.cpp": 30.174561108507405,
+        "AsyncRuntimeRefCounting.cpp": 9.299837993073364,
+        "AsyncRuntimeRefCountingOpt.cpp": 8.021740210038022,
+        "AsyncToAsyncRuntime.cpp": 35.36499794699162,
+        "CMakeLists.txt": 7.235332307804343,
+        "PassDetail.cpp": 0.0,
+        "PassDetail.h": 9.903530433585246
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,16 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/numerics/numarray/template.mask.array",
+    "score.sum": 6.946510257695291e-05,
+    "sha.latest": "7a6aaf9b23d6ac2fb8c11c00c73e55c0bc7aa2f0",
+    "time.latest": 1717949537.553127,
+    "formatted_time": "2024-06-09 21:42:17.553129",
+    "filescores": {
+        "default.compile.fail.cpp": 0.0,
+        "types.pass.cpp": 25.0
+    },
+    "subdirscores": {
+        "mask.array.assign": 25.0,
+        "mask.array.comp.assign": 25.0,
+        "mask.array.fill": 25.0
+    }
+}

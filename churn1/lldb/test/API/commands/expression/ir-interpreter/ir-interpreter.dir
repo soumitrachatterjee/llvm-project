@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/commands/expression/ir-interpreter",
+    "score.sum": 4.076230126595221e-05,
+    "sha.latest": "7822e5dbf1cb4be2d73eb13da27b04de684c318b",
+    "time.latest": 1717892577.9567213,
+    "formatted_time": "2024-06-09 05:52:57.956723",
+    "filescores": {
+        "main.c": 0.0,
+        "Makefile": 0.0,
+        "TestIRInterpreter.py": 100.0
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/functionalities/data-formatter/data-formatter-stl/libcxx/string_view",
+    "score.sum": 4.114057830706825e-05,
+    "sha.latest": "9c2468821ec51defd09c246fea4a47886fff8c01",
+    "time.latest": 1717906803.403803,
+    "formatted_time": "2024-06-09 09:50:03.403805",
+    "filescores": {
+        "main.cpp": 14.826242896549763,
+        "Makefile": 0.0,
+        "TestDataFormatterLibcxxStringView.py": 85.17375710345024
+    },
+    "subdirscores": {}
+}

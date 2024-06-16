@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/lldb/test/API/python_api/interpreter",
+    "score.sum": 4.059316450803237e-05,
+    "sha.latest": "1eeeab82c6eb185f5139e633a59c2dbcb15616e4",
+    "time.latest": 1717965768.3007524,
+    "formatted_time": "2024-06-10 02:12:48.300755",
+    "filescores": {
+        "main.c": 0.0,
+        "Makefile": 0.0,
+        "TestCommandInterpreterAPI.py": 49.194461902736755,
+        "TestRunCommandInterpreterAPI.py": 50.80553809726324
+    },
+    "subdirscores": {}
+}

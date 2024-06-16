@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/utilities/utility/utility.inplace",
+    "score.sum": 2.4227218874055294e-05,
+    "sha.latest": "fb855eb941b6d740cc6560297d0b4d3201dcaf9f",
+    "time.latest": 1718009164.63522,
+    "formatted_time": "2024-06-10 14:16:04.635221",
+    "filescores": {
+        "inplace.pass.cpp": 100.0
+    },
+    "subdirscores": {}
+}

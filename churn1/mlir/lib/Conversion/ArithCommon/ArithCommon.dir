@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/mlir/lib/Conversion/ArithCommon",
+    "score.sum": 3.017076153345825e-05,
+    "sha.latest": "8934b10642664c0824f45f115b2a0afcb56a5e5f",
+    "time.latest": 1717802413.6534317,
+    "formatted_time": "2024-06-07 18:20:13.653436",
+    "filescores": {
+        "AttrToLLVMConverter.cpp": 100.0,
+        "CMakeLists.txt": 0.0
+    },
+    "subdirscores": {}
+}

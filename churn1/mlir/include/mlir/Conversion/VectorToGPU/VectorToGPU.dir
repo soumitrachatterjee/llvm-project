@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/mlir/include/mlir/Conversion/VectorToGPU",
+    "score.sum": 3.3734500000244935e-05,
+    "sha.latest": "c0f504df485707e9852047671222076a7de035da",
+    "time.latest": 1717792405.6566312,
+    "formatted_time": "2024-06-07 15:33:25.656635",
+    "filescores": {
+        "VectorToGPU.h": 100.0
+    },
+    "subdirscores": {}
+}

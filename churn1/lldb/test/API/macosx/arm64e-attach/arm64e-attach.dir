@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/macosx/arm64e-attach",
+    "score.sum": 3.0883942110561854e-05,
+    "sha.latest": "01450dd1c69d1edb0d01159352a56c99988839f4",
+    "time.latest": 1717961868.09015,
+    "formatted_time": "2024-06-10 01:07:48.090156",
+    "filescores": {
+        "main.c": 20.1666159347682,
+        "Makefile": 39.916692032615906,
+        "TestArm64eAttach.py": 39.916692032615906
+    },
+    "subdirscores": {}
+}

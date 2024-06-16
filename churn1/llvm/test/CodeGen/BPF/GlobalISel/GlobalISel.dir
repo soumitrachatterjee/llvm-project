@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/llvm/test/CodeGen/BPF/GlobalISel",
+    "score.sum": 6.099602068851199e-06,
+    "sha.latest": "c4ac1d239fbc13c66d3eabdc24783ebb407c35e4",
+    "time.latest": 1718042018.0604308,
+    "formatted_time": "2024-06-10 12:53:38.060434",
+    "filescores": {
+        "ir-translator-ret.ll": 100.0
+    },
+    "subdirscores": {}
+}

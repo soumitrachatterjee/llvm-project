@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/source/Plugins/ABI/ARC",
+    "score.sum": 8.259851666598975e-05,
+    "sha.latest": "57c8fee1b97eb7e70513b935b765f8381a941b18",
+    "time.latest": 1717867316.902357,
+    "formatted_time": "2024-06-08 22:51:56.902360",
+    "filescores": {
+        "ABISysV_arc.cpp": 57.770352041485275,
+        "ABISysV_arc.h": 34.8450092082613,
+        "CMakeLists.txt": 7.3846387502534085
+    },
+    "subdirscores": {}
+}

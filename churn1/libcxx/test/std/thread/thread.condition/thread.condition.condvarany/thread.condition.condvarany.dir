@@ -1,0 +1,27 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/thread/thread.condition/thread.condition.condvarany",
+    "score.sum": 0.00040986294302558035,
+    "sha.latest": "85a8e5c3e0586e85a2fa3ff9cef12455bd039921",
+    "time.latest": 1717977327.8020232,
+    "formatted_time": "2024-06-10 05:25:27.802025",
+    "filescores": {
+        "assign.compile.fail.cpp": 0.0,
+        "copy.compile.fail.cpp": 0.0,
+        "default.pass.cpp": 4.021508212382379,
+        "destructor.pass.cpp": 5.210452266741499,
+        "helpers.h": 0.0,
+        "notify_all.pass.cpp": 8.486213841315115,
+        "notify_one.pass.cpp": 10.658434048678075,
+        "wait.pass.cpp": 5.210452266741499,
+        "wait_for.pass.cpp": 13.596441392192988,
+        "wait_for_pred.pass.cpp": 10.013580259200854,
+        "wait_for_token_pred.pass.cpp": 1.4882053068336336,
+        "wait_pred.pass.cpp": 6.444318915595192,
+        "wait_terminates.sh.cpp": 11.604424928751019,
+        "wait_token_pred.pass.cpp": 1.4882053068336336,
+        "wait_until.pass.cpp": 9.208100078543671,
+        "wait_until_pred.pass.cpp": 11.081457869356823,
+        "wait_until_token_pred.pass.cpp": 1.4882053068336336
+    },
+    "subdirscores": {}
+}

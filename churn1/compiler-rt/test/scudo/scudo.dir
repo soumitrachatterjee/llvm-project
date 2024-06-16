@@ -1,0 +1,39 @@
+{
+    "directory name": "llvm-project/compiler-rt/test/scudo",
+    "score.sum": 0.0005699450448942914,
+    "sha.latest": "f98ee40f4b5d7474fc67e82824bf6abbaedb7b1c",
+    "time.latest": 1717844603.8134391,
+    "formatted_time": "2024-06-08 16:33:23.813444",
+    "filescores": {
+        "aligned-new.cpp": 3.204797388044447,
+        "alignment.c": 3.306851329835784,
+        "dealloc-race.c": 3.2011851237217517,
+        "double-free.cpp": 4.1257834214348685,
+        "fsanitize.c": 2.1403846227781473,
+        "interface.cpp": 4.29642205615176,
+        "lit.cfg.py": 2.392623648146602,
+        "lit.site.cfg.py.in": 2.1403674744394916,
+        "malloc.cpp": 3.957014866466821,
+        "memalign.c": 3.4852798330114023,
+        "mismatch.cpp": 4.659055435042919,
+        "options.cpp": 4.0764818792462,
+        "overflow.c": 3.203259800980459,
+        "preinit.c": 3.203259800980459,
+        "preload.cpp": 2.3509093482515437,
+        "quarantine.c": 3.203259800980459,
+        "random_shuffle.cpp": 6.204326686624706,
+        "realloc.cpp": 4.647713381362516,
+        "rss.c": 3.9268722377484186,
+        "secondary.c": 3.203259800980459,
+        "sized-delete.cpp": 4.303230518042078,
+        "sizes.cpp": 3.8967650163386582,
+        "stats.c": 3.2021149451555773,
+        "symbols.test": 2.1403846227781473,
+        "threads.c": 3.203259800980459,
+        "tsd_destruction.c": 3.203259800980459,
+        "valloc.c": 3.4417646474194754
+    },
+    "subdirscores": {
+        "standalone": 5.680112712075931
+    }
+}

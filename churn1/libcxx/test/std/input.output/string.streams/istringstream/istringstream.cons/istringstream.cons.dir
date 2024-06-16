@@ -1,0 +1,21 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/input.output/string.streams/istringstream/istringstream.cons",
+    "score.sum": 7.559707103655704e-05,
+    "sha.latest": "80f9458cf30d13eef21b09042ea590945c5e64db",
+    "time.latest": 1717909632.656916,
+    "formatted_time": "2024-06-09 10:37:12.656917",
+    "filescores": {
+        "default.pass.cpp": 36.93754439328919,
+        "mode.alloc.pass.cpp": 0.0,
+        "move.pass.cpp": 40.0040495296303,
+        "string-alloc.mode.pass.cpp": 0.0,
+        "string.alloc.pass.cpp": 0.0,
+        "string.mode.alloc.pass.cpp": 0.0,
+        "string.move.mode.pass.cpp": 0.0,
+        "string.pass.cpp": 23.058406077080505,
+        "string_view.alloc.pass.cpp": 0.0,
+        "string_view.mode.alloc.pass.cpp": 0.0,
+        "string_view.mode.pass.cpp": 0.0
+    },
+    "subdirscores": {}
+}

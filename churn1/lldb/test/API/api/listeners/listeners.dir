@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/api/listeners",
+    "score.sum": 2.8933774538258395e-05,
+    "sha.latest": "2e7aa2ee34eb53347396731dc8a3b2dbc6a3df45",
+    "time.latest": 1717885114.0856938,
+    "formatted_time": "2024-06-09 03:48:34.085696",
+    "filescores": {
+        "main.c": 0.0,
+        "Makefile": 0.0,
+        "TestListener.py": 100.0
+    },
+    "subdirscores": {}
+}

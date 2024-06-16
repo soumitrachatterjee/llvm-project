@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/functionalities/data-formatter/data-formatter-globals",
+    "score.sum": 1.982744318273844e-05,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717905014.030872,
+    "formatted_time": "2024-06-09 09:20:14.030874",
+    "filescores": {
+        "main.cpp": 31.181727389871238,
+        "Makefile": 0.0,
+        "TestDataFormatterGlobals.py": 68.81827261012876
+    },
+    "subdirscores": {}
+}

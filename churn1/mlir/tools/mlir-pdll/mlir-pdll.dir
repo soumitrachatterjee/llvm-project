@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/mlir/tools/mlir-pdll",
+    "score.sum": 4.797328136005892e-05,
+    "sha.latest": "8f555a52e033ceec4c4508eb800c9a186acec87f",
+    "time.latest": 1717835238.8150442,
+    "formatted_time": "2024-06-08 03:27:18.815048",
+    "filescores": {
+        "CMakeLists.txt": 50.330634109524375,
+        "mlir-pdll.cpp": 49.669365890475625
+    },
+    "subdirscores": {}
+}

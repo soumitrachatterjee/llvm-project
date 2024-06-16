@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/utilities/optional/optional.bad_optional_access",
+    "score.sum": 8.299004888956041e-05,
+    "sha.latest": "ec350ad418a24f70c88758259c774a1e11c06d74",
+    "time.latest": 1718002814.004864,
+    "formatted_time": "2024-06-10 12:30:14.004865",
+    "filescores": {
+        "default.pass.cpp": 49.003429019499464,
+        "derive.pass.cpp": 50.996570980500536
+    },
+    "subdirscores": {}
+}

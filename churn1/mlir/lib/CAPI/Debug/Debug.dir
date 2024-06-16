@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/mlir/lib/CAPI/Debug",
+    "score.sum": 6.099602068851199e-06,
+    "sha.latest": "c265170110b2e3b82ab8fca6658bfbbce79381c5",
+    "time.latest": 1717801864.4776363,
+    "formatted_time": "2024-06-07 18:11:04.477640",
+    "filescores": {
+        "CMakeLists.txt": 100.0,
+        "Debug.cpp": 0.0
+    },
+    "subdirscores": {}
+}

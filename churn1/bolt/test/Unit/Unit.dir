@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/bolt/test/Unit",
+    "score.sum": 1.410813584050438e-05,
+    "sha.latest": "f98ee40f4b5d7474fc67e82824bf6abbaedb7b1c",
+    "time.latest": 1717792280.6475592,
+    "formatted_time": "2024-06-08 02:01:20.647565",
+    "filescores": {
+        "CMakeLists.txt": 0.0,
+        "lit.cfg.py": 43.23464232134252,
+        "lit.site.cfg.py.in": 56.76535767865748
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,19 @@
+{
+    "directory name": "llvm-project/clang/test/CodeGen/RISCV/rvk-intrinsics",
+    "score.sum": 0.00021579647586404503,
+    "sha.latest": "1a3b14d26152ab7e7352c8e7aa97ec880cdac82d",
+    "time.latest": 1717907548.3335598,
+    "formatted_time": "2024-06-09 10:02:28.333562",
+    "filescores": {
+        "riscv32-zknd.c": 12.765878828113596,
+        "riscv32-zkne.c": 12.765878828113596,
+        "riscv32-zknh.c": 12.918164616750563,
+        "riscv64-zknd-zkne.c": 14.962699221887855,
+        "riscv64-zknd.c": 12.867345977723478,
+        "riscv64-zkne.c": 12.867345977723478,
+        "riscv64-zknh.c": 15.110063181644504,
+        "zksed.c": 2.871311684021455,
+        "zksh.c": 2.871311684021455
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/llvm/utils/gn/secondary/clang-tools-extra/clang-tidy/android",
+    "score.sum": 1.2152816400432234e-05,
+    "sha.latest": "95dd67ac2f95adce10dca89fd6b74217a8e1321f",
+    "time.latest": 1718081601.2230477,
+    "formatted_time": "2024-06-10 23:53:21.223051",
+    "filescores": {
+        "BUILD.gn": 100.0
+    },
+    "subdirscores": {}
+}

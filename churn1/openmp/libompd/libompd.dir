@@ -1,0 +1,16 @@
+{
+    "directory name": "llvm-project/openmp/libompd",
+    "score.sum": 0.0001343384963467916,
+    "sha.latest": "822142ffdfbe93f213c2c6b3f2aec7fe5f0af072",
+    "time.latest": 1717794471.270931,
+    "formatted_time": "2024-06-08 02:37:51.270934",
+    "filescores": {
+        ".clang-tidy": 0.0,
+        "CMakeLists.txt": 39.007091906720284
+    },
+    "subdirscores": {
+        "gdb-plugin": 10.175873245611628,
+        "src": 42.107510400091094,
+        "test": 8.709524447576978
+    }
+}

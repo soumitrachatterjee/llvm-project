@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/clang/test/Analysis/scan-build/rebuild_index",
+    "score.sum": 2.5490441890930926e-05,
+    "sha.latest": "73093599287cc6d546ac46652ee781789d7de61f",
+    "time.latest": 1717839493.8453646,
+    "formatted_time": "2024-06-08 15:08:13.845367",
+    "filescores": {
+        "rebuild_index.test": 26.061285010915082,
+        "report-1.html": 23.938714989084918,
+        "report-2.html": 23.938714989084918
+    },
+    "subdirscores": {
+        "subdirectory": 26.061285010915082
+    }
+}

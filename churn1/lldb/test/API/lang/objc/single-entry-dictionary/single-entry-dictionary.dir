@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/lang/objc/single-entry-dictionary",
+    "score.sum": 2.9865606097813092e-05,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717960040.8055358,
+    "formatted_time": "2024-06-10 00:37:20.805541",
+    "filescores": {
+        "main.m": 0.0,
+        "Makefile": 0.0,
+        "TestObjCSingleEntryDictionary.py": 100.0
+    },
+    "subdirscores": {}
+}

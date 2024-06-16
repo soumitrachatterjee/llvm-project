@@ -1,0 +1,17 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/numerics/numeric.ops/numeric.ops.gcd",
+    "score.sum": 6.397550875994216e-05,
+    "sha.latest": "63aeadb4849d760dce3b8e9f343ede8d6c250519",
+    "time.latest": 1717951999.4392726,
+    "formatted_time": "2024-06-09 22:23:19.439276",
+    "filescores": {
+        "gcd.bool1.compile.fail.cpp": 9.534276767909699,
+        "gcd.bool2.compile.fail.cpp": 9.534276767909699,
+        "gcd.bool3.compile.fail.cpp": 9.534276767909699,
+        "gcd.bool4.compile.fail.cpp": 9.534276767909699,
+        "gcd.not_integral1.compile.fail.cpp": 9.534276767909699,
+        "gcd.not_integral2.compile.fail.cpp": 9.534276767909699,
+        "gcd.pass.cpp": 42.794339392541815
+    },
+    "subdirscores": {}
+}

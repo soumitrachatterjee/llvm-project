@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/lang/cpp/reference-to-outer-type",
+    "score.sum": 1.9629925974192544e-05,
+    "sha.latest": "5b386158aacac4b41126983a5379d36ed413d0ea",
+    "time.latest": 1717934789.4044173,
+    "formatted_time": "2024-06-09 17:36:29.404422",
+    "filescores": {
+        "main.cpp": 0.0,
+        "Makefile": 0.0,
+        "TestCppReferenceToOuterClass.py": 100.0
+    },
+    "subdirscores": {}
+}

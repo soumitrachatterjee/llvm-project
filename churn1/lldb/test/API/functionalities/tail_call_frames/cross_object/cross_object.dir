@@ -1,0 +1,16 @@
+{
+    "directory name": "llvm-project/lldb/test/API/functionalities/tail_call_frames/cross_object",
+    "score.sum": 2.5953217210531988e-05,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717920552.9022453,
+    "formatted_time": "2024-06-09 13:39:12.902248",
+    "filescores": {
+        "main.c": 0.0,
+        "Makefile": 23.502296533687314,
+        "One.c": 0.0,
+        "shared.h": 0.0,
+        "TestCrossObjectTailCalls.py": 76.49770346631269,
+        "Two.c": 0.0
+    },
+    "subdirscores": {}
+}

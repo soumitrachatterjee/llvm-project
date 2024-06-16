@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/utils/bazel/llvm-project-overlay/third-party/unittest",
+    "score.sum": 1.599657524988166e-05,
+    "sha.latest": "2fcfc9754a16805b81e541dc8222a8b5cf17a121",
+    "time.latest": 1717791037.2096171,
+    "formatted_time": "2024-06-08 01:40:37.209622",
+    "filescores": {
+        "BUILD.bazel": 100.0
+    },
+    "subdirscores": {}
+}

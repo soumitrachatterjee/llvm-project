@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/clang-tools-extra/unittests/include",
+    "score.sum": 1.6933220363336426e-05,
+    "sha.latest": "282dc72c8b84759dda4fe12420228158962351e8",
+    "time.latest": 1717837222.858391,
+    "formatted_time": "2024-06-08 14:30:22.858394",
+    "filescores": {},
+    "subdirscores": {
+        "common": 100.0
+    }
+}

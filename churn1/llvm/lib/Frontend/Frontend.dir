@@ -1,0 +1,17 @@
+{
+    "directory name": "llvm-project/llvm/lib/Frontend",
+    "score.sum": 0.0011277492891155609,
+    "sha.latest": "141ebdd242f35bfebc576c51d8b60182ae4eac2d",
+    "time.latest": 1717838195.8414671,
+    "formatted_time": "2024-06-08 04:16:35.841468",
+    "filescores": {
+        "CMakeLists.txt": 1.712206883983243
+    },
+    "subdirscores": {
+        "Driver": 0.5408650777013411,
+        "HLSL": 1.6116273218151118,
+        "Offloading": 2.757747246368875,
+        "OpenACC": 1.6146662974281494,
+        "OpenMP": 91.76288717270329
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/clang/tools/clang-linker-wrapper",
+    "score.sum": 0.00037556013182983144,
+    "sha.latest": "124d0b787b5d1ff4aa06bbd61a98d3fc344d0cc6",
+    "time.latest": 1718082113.971792,
+    "formatted_time": "2024-06-11 10:31:53.971794",
+    "filescores": {
+        "ClangLinkerWrapper.cpp": 80.60635154233464,
+        "CMakeLists.txt": 6.448017715759131,
+        "LinkerWrapperOpts.td": 12.945630741906225
+    },
+    "subdirscores": {}
+}

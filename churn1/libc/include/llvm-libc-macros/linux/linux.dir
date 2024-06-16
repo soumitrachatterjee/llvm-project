@@ -1,0 +1,24 @@
+{
+    "directory name": "llvm-project/libc/include/llvm-libc-macros/linux",
+    "score.sum": 0.00014772900526807437,
+    "sha.latest": "330793c91d08e6ac60334e4813746db898b9407e",
+    "time.latest": 1717826298.3023646,
+    "formatted_time": "2024-06-08 00:58:18.302368",
+    "filescores": {
+        "CMakeLists.txt": 22.946619201230366,
+        "fcntl-macros.h": 11.543084026146158,
+        "sched-macros.h": 5.724997939566237,
+        "signal-macros.h": 8.008633588540073,
+        "sys-ioctl-macros.h": 4.128912976691775,
+        "sys-random-macros.h": 4.128912976691775,
+        "sys-resource-macros.h": 4.128912976691775,
+        "sys-socket-macros.h": 4.902740710865698,
+        "sys-stat-macros.h": 10.624638756103447,
+        "sys-time-macros.h": 4.128912976691775,
+        "sys-wait-macros.h": 6.804026819838738,
+        "termios-macros.h": 4.128912976691775,
+        "time-macros.h": 4.3367347855417515,
+        "unistd-macros.h": 4.463959288708644
+    },
+    "subdirscores": {}
+}

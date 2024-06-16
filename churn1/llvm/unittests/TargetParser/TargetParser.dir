@@ -1,0 +1,16 @@
+{
+    "directory name": "llvm-project/llvm/unittests/TargetParser",
+    "score.sum": 0.0003066324742971519,
+    "sha.latest": "81601391369c267216199db3f7fcb9864ccf6fec",
+    "time.latest": 1718084541.018238,
+    "formatted_time": "2024-06-11 00:42:21.018241",
+    "filescores": {
+        "CMakeLists.txt": 1.9892224666785248,
+        "CSKYTargetParserTest.cpp": 1.9892224666785248,
+        "Host.cpp": 4.030346132921083,
+        "RISCVTargetParserTest.cpp": 0.0,
+        "TargetParserTest.cpp": 66.15457317180102,
+        "TripleTest.cpp": 25.836635761920856
+    },
+    "subdirscores": {}
+}

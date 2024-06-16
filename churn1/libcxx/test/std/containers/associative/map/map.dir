@@ -1,0 +1,29 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/containers/associative/map",
+    "score.sum": 0.000665763765753153,
+    "sha.latest": "64addd65210db59c8cb3794f792720e03e25b5af",
+    "time.latest": 1717877436.4247327,
+    "formatted_time": "2024-06-09 01:40:36.424736",
+    "filescores": {
+        "allocator_mismatch.verify.cpp": 0.9161811415121026,
+        "compare.pass.cpp": 3.390143802784736,
+        "gcc_workaround.pass.cpp": 1.1333070600344524,
+        "get_allocator.pass.cpp": 0.0,
+        "incomplete_type.pass.cpp": 3.0154479331001096,
+        "iterator_concept_conformance.compile.pass.cpp": 2.6559019304998905,
+        "PR28469_undefined_behavior_segfault.sh.cpp": 5.786567461422528,
+        "range_concept_conformance.compile.pass.cpp": 2.88816654211258,
+        "types.pass.cpp": 2.9147664114503073
+    },
+    "subdirscores": {
+        "map.access": 14.693215435087954,
+        "map.cons": 32.62044848549478,
+        "map.erasure": 2.1619725063203856,
+        "map.modifiers": 11.576686504295866,
+        "map.nonmember": 2.0053257146961285,
+        "map.observers": 0.0,
+        "map.ops": 8.66369259868483,
+        "map.special": 5.57817647250335,
+        "map.value_compare": 0.0
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/containers/views/mdspan/layout_stride",
+    "score.sum": 7.31099936188776e-05,
+    "sha.latest": "64addd65210db59c8cb3794f792720e03e25b5af",
+    "time.latest": 1717894075.9730022,
+    "formatted_time": "2024-06-09 06:17:55.973004",
+    "filescores": {
+        "comparison.pass.cpp": 8.343048285092767,
+        "ctor.default.pass.cpp": 0.0,
+        "ctor.extents_array.pass.cpp": 0.0,
+        "ctor.extents_span.pass.cpp": 0.0,
+        "ctor.strided_mapping.pass.cpp": 8.343048285092767,
+        "deduction.pass.cpp": 15.424795114006306,
+        "extents.verify.cpp": 13.183696862433433,
+        "index_operator.pass.cpp": 14.74611668977075,
+        "is_exhaustive_corner_case.pass.cpp": 8.343048285092767,
+        "properties.pass.cpp": 15.33600696422809,
+        "required_span_size.pass.cpp": 0.0,
+        "static_requirements.pass.cpp": 16.280239514283114,
+        "stride.pass.cpp": 0.0
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/libcxxabi/test/vendor/apple",
+    "score.sum": 6.419310609013007e-06,
+    "sha.latest": "78669c4185e4f8784308b5e740721cd374052cae",
+    "time.latest": 1717824328.4945545,
+    "formatted_time": "2024-06-08 10:55:28.494558",
+    "filescores": {
+        "system-install-properties.sh.cpp": 100.0
+    },
+    "subdirscores": {}
+}

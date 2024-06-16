@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/macosx/universal",
+    "score.sum": 4.124761876747633e-05,
+    "sha.latest": "9c2468821ec51defd09c246fea4a47886fff8c01",
+    "time.latest": 1717964344.2130778,
+    "formatted_time": "2024-06-10 01:49:04.213080",
+    "filescores": {
+        "main.c": 0.0,
+        "Makefile": 17.89192177664592,
+        "TestUniversal.py": 82.10807822335408
+    },
+    "subdirscores": {}
+}

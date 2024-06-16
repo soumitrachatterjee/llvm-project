@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/commands/register/register/aarch64_sme_z_registers/za_dynamic_resize",
+    "score.sum": 6.099602068851199e-06,
+    "sha.latest": "9c2468821ec51defd09c246fea4a47886fff8c01",
+    "time.latest": 1717897148.9864624,
+    "formatted_time": "2024-06-09 07:09:08.986465",
+    "filescores": {
+        "main.c": 0.0,
+        "Makefile": 0.0,
+        "TestZAThreadedDynamic.py": 100.0
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/llvm/bindings/ocaml/target",
+    "score.sum": 0.00020358457334595338,
+    "sha.latest": "30416f39be326b403e19f23da387009736483119",
+    "time.latest": 1717788530.9150417,
+    "formatted_time": "2024-06-07 14:28:50.915045",
+    "filescores": {
+        "CMakeLists.txt": 7.1858972225800875,
+        "llvm_target.ml": 23.105017083952735,
+        "llvm_target.mli": 24.558538244910405,
+        "target_ocaml.c": 45.15054744855677,
+        "target_ocaml.h": 0.0
+    },
+    "subdirscores": {}
+}

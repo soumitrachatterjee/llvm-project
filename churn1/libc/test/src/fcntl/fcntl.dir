@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/libc/test/src/fcntl",
+    "score.sum": 7.084536015844224e-05,
+    "sha.latest": "73874f7a39df74eacf1682b3961da2d8cb675f33",
+    "time.latest": 1717845532.8949687,
+    "formatted_time": "2024-06-08 06:18:52.894970",
+    "filescores": {
+        "CMakeLists.txt": 20.013695074660856,
+        "creat_test.cpp": 44.01771093595676,
+        "openat_test.cpp": 35.968593989382384
+    },
+    "subdirscores": {
+        "testdata": 0.0
+    }
+}

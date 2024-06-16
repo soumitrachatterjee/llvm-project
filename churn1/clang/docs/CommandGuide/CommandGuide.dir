@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/clang/docs/CommandGuide",
+    "score.sum": 0.00017370254421272724,
+    "sha.latest": "3e0d71cdf4a406c6a1de825cf69d889d97ede46b",
+    "time.latest": 1717790789.896773,
+    "formatted_time": "2024-06-08 01:36:29.896777",
+    "filescores": {
+        "clang.rst": 92.97695713497293,
+        "diagtool.rst": 3.511521432513525,
+        "index.rst": 3.511521432513525
+    },
+    "subdirscores": {}
+}

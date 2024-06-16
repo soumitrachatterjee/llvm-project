@@ -1,0 +1,26 @@
+{
+    "directory name": "llvm-project/libcxx/include/__numeric",
+    "score.sum": 0.00042020317279634734,
+    "sha.latest": "37dca605c9bd41732da010ee97ed15ad9585a37d",
+    "time.latest": 1717835868.8842003,
+    "formatted_time": "2024-06-08 14:07:48.884206",
+    "filescores": {
+        "accumulate.h": 7.2643624137260625,
+        "adjacent_difference.h": 7.138302141100232,
+        "exclusive_scan.h": 7.138302141100232,
+        "gcd_lcm.h": 9.218716473566639,
+        "inclusive_scan.h": 6.007514109497903,
+        "inner_product.h": 7.2643624137260625,
+        "iota.h": 4.150013455818696,
+        "midpoint.h": 9.783363255700978,
+        "partial_sum.h": 7.138302141100232,
+        "pstl_reduce.h": 2.9901456375941264,
+        "pstl_transform_reduce.h": 3.294004003872048,
+        "reduce.h": 8.254997498095507,
+        "saturation_arithmetic.h": 1.5898577347376757,
+        "transform_exclusive_scan.h": 4.5814132931339335,
+        "transform_inclusive_scan.h": 6.007514109497903,
+        "transform_reduce.h": 8.178829177731757
+    },
+    "subdirscores": {}
+}

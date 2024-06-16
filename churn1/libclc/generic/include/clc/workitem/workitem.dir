@@ -1,0 +1,18 @@
+{
+    "directory name": "llvm-project/libclc/generic/include/clc/workitem",
+    "score.sum": 5.4592451448475243e-05,
+    "sha.latest": "3d21fa56f5f5afbbf16b35b199480af71e1189a3",
+    "time.latest": 1717827546.2973595,
+    "formatted_time": "2024-06-08 01:19:06.297362",
+    "filescores": {
+        "get_global_id.h": 13.646997439549358,
+        "get_global_offset.h": 11.1729770453852,
+        "get_global_size.h": 13.646997439549358,
+        "get_group_id.h": 11.1729770453852,
+        "get_local_id.h": 11.1729770453852,
+        "get_local_size.h": 11.1729770453852,
+        "get_num_groups.h": 11.1729770453852,
+        "get_work_dim.h": 16.84111989397529
+    },
+    "subdirscores": {}
+}

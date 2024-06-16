@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/mlir/include/mlir/Tools/mlir-lsp-server",
+    "score.sum": 1.1360661708952558e-05,
+    "sha.latest": "8f23296bccec83cf4c455f1f4bb7f800faaefe94",
+    "time.latest": 1717800798.6263118,
+    "formatted_time": "2024-06-07 17:53:18.626315",
+    "filescores": {
+        "MlirLspServerMain.h": 100.0
+    },
+    "subdirscores": {}
+}

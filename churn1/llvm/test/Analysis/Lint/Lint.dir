@@ -1,0 +1,21 @@
+{
+    "directory name": "llvm-project/llvm/test/Analysis/Lint",
+    "score.sum": 0.00011084840060836894,
+    "sha.latest": "756ff969fa01f4666276b926fbc4d24840860d0b",
+    "time.latest": 1717888202.1656868,
+    "formatted_time": "2024-06-08 18:10:02.165690",
+    "filescores": {
+        "abort-on-error.ll": 0.0,
+        "address-spaces.ll": 10.90974666225216,
+        "check-zero-divide.ll": 5.502652302942371,
+        "get-active-lane-mask.ll": 5.502652302942371,
+        "lit.local.cfg": 5.502652302942371,
+        "memintrin.ll": 10.833131209315832,
+        "noalias-byval.ll": 23.03103348839184,
+        "noalias-readnone.ll": 0.0,
+        "noalias-readonly.ll": 9.83858344598004,
+        "noop-cast-expr-no-pointer.ll": 14.775626284787908,
+        "tail-call-byval.ll": 14.103922000445102
+    },
+    "subdirscores": {}
+}

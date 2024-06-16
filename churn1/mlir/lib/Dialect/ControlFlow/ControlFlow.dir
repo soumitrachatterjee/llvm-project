@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/mlir/lib/Dialect/ControlFlow",
+    "score.sum": 5.832268702136215e-05,
+    "sha.latest": "a9304edf20756dd63f896a98bad89e9eac54aebd",
+    "time.latest": 1717805896.9115572,
+    "formatted_time": "2024-06-07 19:18:16.911558",
+    "filescores": {
+        "CMakeLists.txt": 10.458369427692977
+    },
+    "subdirscores": {
+        "IR": 73.32411500945149,
+        "Transforms": 16.21751556285553
+    }
+}

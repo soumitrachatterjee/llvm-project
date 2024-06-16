@@ -1,0 +1,23 @@
+{
+    "directory name": "llvm-project/llvm/examples/Kaleidoscope",
+    "score.sum": 0.001476064871409533,
+    "sha.latest": "33aaad94279e5e2b7ab413786abdde48e3486ad9",
+    "time.latest": 1717804376.5675569,
+    "formatted_time": "2024-06-07 18:52:56.567558",
+    "filescores": {
+        "CMakeLists.txt": 2.244524475298437
+    },
+    "subdirscores": {
+        "BuildingAJIT": 10.218978394114327,
+        "Chapter2": 4.458435483337526,
+        "Chapter3": 6.554782520789488,
+        "Chapter4": 13.7349376304932,
+        "Chapter5": 14.156286455762224,
+        "Chapter6": 14.378868103999864,
+        "Chapter7": 15.671629229829016,
+        "Chapter8": 6.266721132454685,
+        "Chapter9": 4.777551755801824,
+        "MCJIT": 2.3435266945468274,
+        "include": 5.193758123572574
+    }
+}

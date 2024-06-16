@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/re/re.const/re.err",
+    "score.sum": 1.8609527010276064e-05,
+    "sha.latest": "d4b59a05fc7507cf69993109443dc5af47ae4fa8",
+    "time.latest": 1717966019.2067287,
+    "formatted_time": "2024-06-10 02:16:59.206730",
+    "filescores": {
+        "error_type.pass.cpp": 100.0
+    },
+    "subdirscores": {}
+}

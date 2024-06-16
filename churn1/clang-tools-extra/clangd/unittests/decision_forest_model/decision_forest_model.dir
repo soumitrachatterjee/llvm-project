@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/clang-tools-extra/clangd/unittests/decision_forest_model",
+    "score.sum": 2.3460050084702162e-05,
+    "sha.latest": "985deba9319be464673c1002767f8a3ec597480d",
+    "time.latest": 1717805394.7824378,
+    "formatted_time": "2024-06-08 05:39:54.782441",
+    "filescores": {
+        "CategoricalFeature.h": 33.33333333333333,
+        "features.json": 33.33333333333333,
+        "forest.json": 33.33333333333333
+    },
+    "subdirscores": {}
+}

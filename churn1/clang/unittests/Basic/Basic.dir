@@ -1,0 +1,20 @@
+{
+    "directory name": "llvm-project/clang/unittests/Basic",
+    "score.sum": 0.0006462647211446918,
+    "sha.latest": "9cf9cb271bf86bda4996be9a31fa413381f2f5e3",
+    "time.latest": 1718081986.336224,
+    "formatted_time": "2024-06-11 10:29:46.336227",
+    "filescores": {
+        "CharInfoTest.cpp": 2.1598917355625176,
+        "CMakeLists.txt": 19.3859128503112,
+        "DarwinSDKInfoTest.cpp": 4.020784239182753,
+        "DiagnosticTest.cpp": 6.151065594344919,
+        "FileEntryTest.cpp": 4.390973899546976,
+        "FileManagerTest.cpp": 37.16624738938333,
+        "LineOffsetMappingTest.cpp": 0.9438240815694413,
+        "SanitizersTest.cpp": 0.0,
+        "SarifTest.cpp": 4.240629078492168,
+        "SourceManagerTest.cpp": 21.540671131606715
+    },
+    "subdirscores": {}
+}

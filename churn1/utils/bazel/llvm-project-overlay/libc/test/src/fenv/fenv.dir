@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/utils/bazel/llvm-project-overlay/libc/test/src/fenv",
+    "score.sum": 1.2136503493226087e-05,
+    "sha.latest": "b7a2ff296352acacdc413d6f3f912e50f90ebb31",
+    "time.latest": 1717788898.6274197,
+    "formatted_time": "2024-06-08 01:04:58.627424",
+    "filescores": {
+        "BUILD.bazel": 100.0
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/libc/utils/gpu/server",
+    "score.sum": 9.600924437352156e-05,
+    "sha.latest": "8a790033073e005b41140b5c38a4eaada321c2f1",
+    "time.latest": 1717852094.9676833,
+    "formatted_time": "2024-06-08 08:08:14.967686",
+    "filescores": {
+        "CMakeLists.txt": 31.897619425629653,
+        "llvmlibc_rpc_server.h": 6.353140375858859,
+        "rpc_server.cpp": 61.74924019851148
+    },
+    "subdirscores": {}
+}

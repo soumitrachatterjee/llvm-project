@@ -1,0 +1,37 @@
+{
+    "directory name": "llvm-project/compiler-rt/test/cfi",
+    "score.sum": 0.0003459628022684555,
+    "sha.latest": "adb555ea369a3a989a9db619c784aa76cccdb823",
+    "time.latest": 1717823049.9429924,
+    "formatted_time": "2024-06-08 10:34:09.942996",
+    "filescores": {
+        "anon-namespace.cpp": 2.761065031156319,
+        "bad-cast.cpp": 2.749107294409618,
+        "bad-split.cpp": 2.3616067840311348,
+        "base-derived-destructor.cpp": 1.8584865397048331,
+        "CMakeLists.txt": 15.089507440815547,
+        "create-derivers.test": 3.1826045158474896,
+        "cross-dso-diagnostic.cpp": 1.813199891393344,
+        "lit.cfg.py": 2.539915815159498,
+        "lit.site.cfg.py.in": 1.7630803163971693,
+        "mfcall.cpp": 1.8105687291960941,
+        "multiple-inheritance.cpp": 4.721123636980985,
+        "multiple-inheritance2.cpp": 0.0,
+        "nvcall.cpp": 2.494701048740682,
+        "overwrite.cpp": 3.6663824463806858,
+        "README.txt": 0.0,
+        "sibling.cpp": 3.831212393795125,
+        "simple-fail.cpp": 3.756755775466089,
+        "simple-pass.cpp": 6.783195193273809,
+        "stats.cpp": 10.253868695893836,
+        "target_uninstrumented.cpp": 4.292127929354451,
+        "two-vcalls.cpp": 2.640840916243726,
+        "utils.h": 1.7630803163971693,
+        "vdtor.cpp": 2.761065031156319,
+        "vtable-may-alias.cpp": 0.0
+    },
+    "subdirscores": {
+        "cross-dso": 10.757795234668848,
+        "icall": 6.348709023537263
+    }
+}

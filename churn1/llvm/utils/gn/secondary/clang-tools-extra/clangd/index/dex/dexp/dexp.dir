@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/llvm/utils/gn/secondary/clang-tools-extra/clangd/index/dex/dexp",
+    "score.sum": 1.983880423580575e-05,
+    "sha.latest": "1afd889d0b4352ddaef33680ace94045938591f1",
+    "time.latest": 1718082296.2794852,
+    "formatted_time": "2024-06-11 00:04:56.279488",
+    "filescores": {
+        "BUILD.gn": 100.0
+    },
+    "subdirscores": {}
+}

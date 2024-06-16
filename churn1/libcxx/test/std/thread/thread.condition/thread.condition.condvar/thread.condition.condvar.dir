@@ -1,0 +1,22 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/thread/thread.condition/thread.condition.condvar",
+    "score.sum": 0.00034908351913743625,
+    "sha.latest": "bce3b505931cee9dc79d1c56c021983b4a8fb819",
+    "time.latest": 1717976941.2822082,
+    "formatted_time": "2024-06-10 05:19:01.282210",
+    "filescores": {
+        "assign.compile.fail.cpp": 0.0,
+        "copy.compile.fail.cpp": 0.0,
+        "default.pass.cpp": 6.178819587188671,
+        "destructor.pass.cpp": 6.11765146007993,
+        "notify_all.pass.cpp": 9.362638459534194,
+        "notify_one.pass.cpp": 9.31607189835604,
+        "wait.pass.cpp": 6.11765146007993,
+        "wait_for.pass.cpp": 16.916089341776967,
+        "wait_for_pred.pass.cpp": 11.258928256313187,
+        "wait_pred.pass.cpp": 7.566348371494936,
+        "wait_until.pass.cpp": 14.155229766026126,
+        "wait_until_pred.pass.cpp": 13.010571399150031
+    },
+    "subdirscores": {}
+}

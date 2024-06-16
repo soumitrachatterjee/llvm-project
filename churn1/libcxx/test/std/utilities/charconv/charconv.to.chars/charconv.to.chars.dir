@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/utilities/charconv/charconv.to.chars",
+    "score.sum": 7.424317813437697e-05,
+    "sha.latest": "b82dcb624e6bfa58ed566511cb564f8f201fa62e",
+    "time.latest": 1717990414.1938887,
+    "formatted_time": "2024-06-10 09:03:34.193896",
+    "filescores": {
+        "integral.bool.verify.cpp": 0.0,
+        "integral.pass.cpp": 100.0
+    },
+    "subdirscores": {}
+}

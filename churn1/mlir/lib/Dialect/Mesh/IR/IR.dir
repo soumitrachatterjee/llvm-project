@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/mlir/lib/Dialect/Mesh/IR",
+    "score.sum": 8.927773188667264e-05,
+    "sha.latest": "fb582b6ace781ff6991775d6dcd4df98aa16698f",
+    "time.latest": 1717807616.6656227,
+    "formatted_time": "2024-06-07 19:46:56.665627",
+    "filescores": {
+        "CMakeLists.txt": 15.741114530629272,
+        "MeshOps.cpp": 84.25888546937072
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/source/Plugins/ObjectContainer/Mach-O-Fileset",
+    "score.sum": 1.830337399480262e-05,
+    "sha.latest": "be0e42c16b8cfb59d5e8e3527141cd7f4931cd17",
+    "time.latest": 1717871728.8039217,
+    "formatted_time": "2024-06-09 00:05:28.803926",
+    "filescores": {
+        "CMakeLists.txt": 0.0,
+        "ObjectContainerMachOFileset.cpp": 66.67498533011877,
+        "ObjectContainerMachOFileset.h": 33.325014669881234
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/clang/examples/LLVMPrintFunctionNames",
+    "score.sum": 6.099602068851199e-06,
+    "sha.latest": "407afbf1bc276fb70569da335e5ef57b7cb119db",
+    "time.latest": 1717792835.5878167,
+    "formatted_time": "2024-06-08 02:10:35.587822",
+    "filescores": {
+        "CMakeLists.txt": 0.0,
+        "LLVMPrintFunctionNames.cpp": 100.0,
+        "LLVMPrintFunctionNames.exports": 0.0
+    },
+    "subdirscores": {}
+}

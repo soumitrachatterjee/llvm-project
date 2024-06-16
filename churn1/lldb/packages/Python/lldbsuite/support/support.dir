@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/lldb/packages/Python/lldbsuite/support",
+    "score.sum": 6.889504260536471e-05,
+    "sha.latest": "e634c2f7149392b62e93c1b2b75701a12bc06721",
+    "time.latest": 1717860727.8438694,
+    "formatted_time": "2024-06-08 21:02:07.843882",
+    "filescores": {
+        "encoded_file.py": 27.94193151959952,
+        "funcutils.py": 21.83457263229631,
+        "gmodules.py": 17.78161600138923,
+        "seven.py": 32.44187984671495,
+        "__init__.py": 0.0
+    },
+    "subdirscores": {}
+}

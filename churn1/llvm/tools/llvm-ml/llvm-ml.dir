@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/llvm/tools/llvm-ml",
+    "score.sum": 0.00023583340481499103,
+    "sha.latest": "3c6f47d6b879ddd2842925d2e5da54657d9e5631",
+    "time.latest": 1718081416.016111,
+    "formatted_time": "2024-06-10 23:50:16.016115",
+    "filescores": {
+        "CMakeLists.txt": 10.510256508600188,
+        "Disassembler.cpp": 9.90403276047235,
+        "Disassembler.h": 3.286834150326351,
+        "Opts.td": 14.590959792119518,
+        "llvm-ml.cpp": 61.7079167884816
+    },
+    "subdirscores": {}
+}

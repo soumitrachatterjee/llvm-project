@@ -1,0 +1,26 @@
+{
+    "directory name": "llvm-project/libcxx/test/libcxx/thread",
+    "score.sum": 0.0005691525687709116,
+    "sha.latest": "1197fcabc4b5f39dbe8a94b1ab6e92354f3f0dd2",
+    "time.latest": 1717865621.93992,
+    "formatted_time": "2024-06-08 22:23:41.939922",
+    "filescores": {
+        "atomic.availability.verify.cpp": 3.1745593673082486,
+        "barrier.availability.verify.cpp": 3.1745593673082486,
+        "latch.availability.verify.cpp": 3.1745593673082486,
+        "semaphore.availability.verify.cpp": 3.1745593673082486
+    },
+    "subdirscores": {
+        "futures": 19.14532057870918,
+        "thread.barrier": 8.715427871691853,
+        "thread.condition": 10.339274812594756,
+        "thread.latch": 8.700724210484816,
+        "thread.lock": 6.17225856818117,
+        "thread.mutex": 9.753857450202947,
+        "thread.semaphore": 7.829292047478319,
+        "thread.shared_mutex": 1.0716989439269906,
+        "thread.shared_timed_mutex": 1.0716989439269906,
+        "thread.stoptoken": 1.0716989439269906,
+        "thread.threads": 13.430510159643017
+    }
+}

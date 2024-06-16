@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/libc/src/__support/HashTable/generic",
+    "score.sum": 8.050092008793092e-06,
+    "sha.latest": "c1023c585de2629911a529cdf32490b99df83345",
+    "time.latest": 1717828910.3328052,
+    "formatted_time": "2024-06-08 01:41:50.332808",
+    "filescores": {
+        "bitmask_impl.inc": 100.0
+    },
+    "subdirscores": {}
+}

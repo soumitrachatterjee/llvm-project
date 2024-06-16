@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/lldb/test/Shell/ScriptInterpreter/Python/Crashlog/Inputs/interactive_crashlog",
+    "score.sum": 1.729231517349678e-05,
+    "sha.latest": "7602641d7bf96b727e1739e2f68db1cadc27324a",
+    "time.latest": 1717978862.8988752,
+    "formatted_time": "2024-06-10 05:51:02.898878",
+    "filescores": {
+        "multithread-test.cpp": 0.0,
+        "multithread-test.crash": 35.273484248076905,
+        "multithread-test.ips": 64.72651575192309,
+        "multithread-test.yaml": 0.0
+    },
+    "subdirscores": {}
+}

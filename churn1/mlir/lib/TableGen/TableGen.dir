@@ -1,0 +1,32 @@
+{
+    "directory name": "llvm-project/mlir/lib/TableGen",
+    "score.sum": 0.0011245703563384309,
+    "sha.latest": "45c226d4521515ff1a38292331d82356b273fff7",
+    "time.latest": 1717811616.6331472,
+    "formatted_time": "2024-06-07 20:53:36.633151",
+    "filescores": {
+        "Argument.cpp": 1.506693223141532,
+        "AttrOrTypeDef.cpp": 7.632196503612733,
+        "Attribute.cpp": 8.947474964225533,
+        "Builder.cpp": 2.1910060671413,
+        "CMakeLists.txt": 6.773005804006238,
+        "Class.cpp": 2.1762567484649735,
+        "CodeGenHelpers.cpp": 2.0125460246962197,
+        "Constraint.cpp": 5.178208258335473,
+        "Dialect.cpp": 10.286449368360266,
+        "Format.cpp": 3.609716997828812,
+        "GenInfo.cpp": 0.0,
+        "Interfaces.cpp": 3.210478524265661,
+        "Operator.cpp": 18.436227501211686,
+        "Pass.cpp": 2.067665774950195,
+        "Pattern.cpp": 11.69700803874373,
+        "Predicate.cpp": 5.131996140338935,
+        "Property.cpp": 2.098675839559858,
+        "Region.cpp": 0.0,
+        "SideEffects.cpp": 0.8142717375471339,
+        "Successor.cpp": 0.5423939938014487,
+        "Trait.cpp": 0.9171444113073312,
+        "Type.cpp": 4.770584078460951
+    },
+    "subdirscores": {}
+}

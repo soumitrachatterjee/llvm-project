@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/clang/test/CXX/class/class.local",
+    "score.sum": 0.0001239492214076724,
+    "sha.latest": "ca619613801233ef2def8c3cc7d311d5ed0033cb",
+    "time.latest": 1718082986.37823,
+    "formatted_time": "2024-06-11 10:46:26.378232",
+    "filescores": {
+        "p1-0x.cpp": 63.350489619088876,
+        "p1.cpp": 6.105614567102304,
+        "p2.cpp": 19.252608864121637,
+        "p3.cpp": 6.1056229500395025,
+        "p4.cpp": 5.185663999647692
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,20 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/re/re.regex/re.regex.assign",
+    "score.sum": 0.0001644128491515745,
+    "sha.latest": "60a6a0d17ad5afcac5c71dcf9a05f8c814951804",
+    "time.latest": 1717966848.8184745,
+    "formatted_time": "2024-06-10 02:30:48.818476",
+    "filescores": {
+        "assign.il.pass.cpp": 11.797687560061489,
+        "assign.pass.cpp": 12.374096502192272,
+        "assign_iter_iter_flag.pass.cpp": 10.633460150163208,
+        "assign_ptr_flag.pass.cpp": 8.59405655919725,
+        "assign_ptr_size_flag.pass.cpp": 11.154377999566686,
+        "assign_string_flag.pass.cpp": 7.866463991165842,
+        "copy.pass.cpp": 8.59405655919725,
+        "il.pass.cpp": 11.797687560061489,
+        "ptr.pass.cpp": 8.59405655919725,
+        "string.pass.cpp": 8.59405655919725
+    },
+    "subdirscores": {}
+}

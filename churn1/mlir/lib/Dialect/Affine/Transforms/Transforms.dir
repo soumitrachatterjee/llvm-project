@@ -1,0 +1,27 @@
+{
+    "directory name": "llvm-project/mlir/lib/Dialect/Affine/Transforms",
+    "score.sum": 0.0010762106106302052,
+    "sha.latest": "181d9602f35c476201ecc72c26c00042ad949544",
+    "time.latest": 1717804902.487915,
+    "formatted_time": "2024-06-07 19:01:42.487919",
+    "filescores": {
+        "AffineDataCopyGeneration.cpp": 12.21544885723592,
+        "AffineExpandIndexOps.cpp": 1.1278467690989489,
+        "AffineLoopInvariantCodeMotion.cpp": 9.885833813202316,
+        "AffineLoopNormalize.cpp": 3.7628189240636787,
+        "AffineParallelize.cpp": 4.096668157805436,
+        "AffineScalarReplacement.cpp": 2.4922236576789896,
+        "CMakeLists.txt": 6.066383329801536,
+        "DecomposeAffineOps.cpp": 1.0851691932033902,
+        "LoopCoalescing.cpp": 2.8952621988348612,
+        "LoopFusion.cpp": 9.817875614598076,
+        "LoopTiling.cpp": 6.621779819951169,
+        "LoopUnroll.cpp": 7.081529513307102,
+        "LoopUnrollAndJam.cpp": 6.153169018527498,
+        "PipelineDataTransfer.cpp": 3.8690126440107617,
+        "ReifyValueBounds.cpp": 0.7058538974148815,
+        "SimplifyAffineStructures.cpp": 7.070999929708659,
+        "SuperVectorize.cpp": 15.052124661556773
+    },
+    "subdirscores": {}
+}

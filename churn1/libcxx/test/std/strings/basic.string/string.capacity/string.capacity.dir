@@ -1,0 +1,28 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/strings/basic.string/string.capacity",
+    "score.sum": 0.0006624772284292485,
+    "sha.latest": "04ce0baf015ced39e994b8839e30bd5cef6c995e",
+    "time.latest": 1717968647.1844919,
+    "formatted_time": "2024-06-10 03:00:47.184494",
+    "filescores": {
+        "capacity.pass.cpp": 6.584572735045109,
+        "clear.pass.cpp": 6.303477345591145,
+        "empty.pass.cpp": 5.393522562835186,
+        "empty.verify.cpp": 2.646099382783141,
+        "length.pass.cpp": 5.556344273325077,
+        "max_size.pass.cpp": 10.381535277387211,
+        "over_max_size.pass.cpp": 10.710780839874477,
+        "reserve.deprecated_in_cxx20.verify.cpp": 2.478231732742918,
+        "reserve.pass.cpp": 9.368425156496606,
+        "reserve.removed_in_cxx26.verify.cpp": 0.0,
+        "reserve_size.asan.pass.cpp": 0.0,
+        "reserve_size.pass.cpp": 6.295908976876423,
+        "resize_and_overwrite.pass.cpp": 3.2725452760369027,
+        "resize_size.pass.cpp": 7.8340627172439765,
+        "resize_size_char.pass.cpp": 7.8340627172439765,
+        "shrink_to_fit.explicit_instantiation.sh.cpp": 2.286019120213414,
+        "shrink_to_fit.pass.cpp": 7.498067612979363,
+        "size.pass.cpp": 5.556344273325077
+    },
+    "subdirscores": {}
+}

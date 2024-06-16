@@ -1,0 +1,22 @@
+{
+    "directory name": "llvm-project/mlir/test/lib",
+    "score.sum": 0.00549844252858111,
+    "sha.latest": "cb6ff746e0c7b9218b6f5c11db44162cacd623a4",
+    "time.latest": 1717832440.2464597,
+    "formatted_time": "2024-06-08 02:40:40.246460",
+    "filescores": {
+        "CMakeLists.txt": 0.6526780868977614
+    },
+    "subdirscores": {
+        "Analysis": 4.294699027723267,
+        "Conversion": 1.202584309463044,
+        "Dialect": 68.76837730849383,
+        "IR": 7.262320774361732,
+        "Interfaces": 1.632283124483654,
+        "Pass": 1.8910780172054498,
+        "Reducer": 0.31982761138985677,
+        "Rewrite": 0.798951186412732,
+        "Tools": 0.3376890194286153,
+        "Transforms": 12.839511534140065
+    }
+}

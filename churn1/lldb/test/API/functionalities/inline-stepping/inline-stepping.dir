@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/functionalities/inline-stepping",
+    "score.sum": 4.083725767451432e-05,
+    "sha.latest": "ab855530f797bbc113f75f833a4ca5711749d7c8",
+    "time.latest": 1717910661.006025,
+    "formatted_time": "2024-06-09 10:54:21.006027",
+    "filescores": {
+        "calling.cpp": 14.936365505898877,
+        "Makefile": 0.0,
+        "TestInlineStepping.py": 85.06363449410112
+    },
+    "subdirscores": {}
+}

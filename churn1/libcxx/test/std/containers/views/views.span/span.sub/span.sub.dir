@@ -1,0 +1,16 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/containers/views/views.span/span.sub",
+    "score.sum": 5.916797335169315e-05,
+    "sha.latest": "2e9058ced9f154b972e0caac99bc20f284161250",
+    "time.latest": 1717894833.2935312,
+    "formatted_time": "2024-06-09 06:30:33.293533",
+    "filescores": {
+        "first.pass.cpp": 20.002892525005443,
+        "first.verify.cpp": 10.308958923766573,
+        "last.pass.cpp": 20.002892525005443,
+        "last.verify.cpp": 10.308958923766573,
+        "subspan.pass.cpp": 20.002892525005443,
+        "subspan.verify.cpp": 19.373404577450533
+    },
+    "subdirscores": {}
+}

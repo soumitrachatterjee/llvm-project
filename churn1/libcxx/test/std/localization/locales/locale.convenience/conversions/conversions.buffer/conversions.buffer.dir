@@ -1,0 +1,19 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/localization/locales/locale.convenience/conversions/conversions.buffer",
+    "score.sum": 0.0003063864807848561,
+    "sha.latest": "233e7c5de2d2abda024577e79dcd195562de68c8",
+    "time.latest": 1717932510.747152,
+    "formatted_time": "2024-06-09 16:58:30.747155",
+    "filescores": {
+        "ctor.pass.cpp": 14.992047996700721,
+        "depr.verify.cpp": 3.313361815519396,
+        "overflow.pass.cpp": 13.319829824460308,
+        "pbackfail.pass.cpp": 12.603344718652753,
+        "rdbuf.pass.cpp": 9.667240192822087,
+        "seekoff.pass.cpp": 11.952202663521177,
+        "state.pass.cpp": 10.115815735565924,
+        "test.pass.cpp": 11.432812334104883,
+        "underflow.pass.cpp": 12.603344718652753
+    },
+    "subdirscores": {}
+}

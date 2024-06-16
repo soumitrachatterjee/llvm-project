@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/mlir/test/mlir-linalg-ods-gen",
+    "score.sum": 7.316306646476215e-05,
+    "sha.latest": "0b2197b0cf9d557cb3a20e0aca3f727aea5b290d",
+    "time.latest": 1717832665.4889526,
+    "formatted_time": "2024-06-08 02:44:25.488956",
+    "filescores": {
+        "test-linalg-ods-yaml-gen.yaml": 100.0
+    },
+    "subdirscores": {}
+}

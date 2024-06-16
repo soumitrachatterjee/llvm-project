@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/llvm/test/Analysis/LoopNestAnalysis",
+    "score.sum": 3.198549975753821e-05,
+    "sha.latest": "1aee1e1f4c4b504becc06521546de992a662694b",
+    "time.latest": 1717888943.9261858,
+    "formatted_time": "2024-06-08 18:22:23.926189",
+    "filescores": {
+        "duplicate-successors.ll": 19.069897657027134,
+        "imperfectnest.ll": 24.79322460933822,
+        "infinite.ll": 19.07305808823143,
+        "nests-with-lcssa.ll": 0.0,
+        "perfectnest.ll": 37.06381964540322
+    },
+    "subdirscores": {}
+}

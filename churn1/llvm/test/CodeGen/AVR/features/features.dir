@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/llvm/test/CodeGen/AVR/features",
+    "score.sum": 2.5576399796120635e-05,
+    "sha.latest": "7bdc80f35c325d148b1ddbdfce7dea8c6ba7af84",
+    "time.latest": 1718038460.6144824,
+    "formatted_time": "2024-06-10 11:54:20.614486",
+    "filescores": {
+        "avr-tiny.ll": 52.30288768182009,
+        "avr25.ll": 23.848556159089956,
+        "xmega_io.ll": 23.848556159089956
+    },
+    "subdirscores": {}
+}

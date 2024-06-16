@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/commands/expression/namespace_local_var_same_name_cpp_and_c",
+    "score.sum": 1.0459834404963863e-05,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717892946.2375846,
+    "formatted_time": "2024-06-09 05:59:06.237587",
+    "filescores": {
+        "main.cpp": 0.0,
+        "Makefile": 0.0,
+        "TestNamespaceLocalVarSameNameCppAndC.py": 100.0
+    },
+    "subdirscores": {}
+}

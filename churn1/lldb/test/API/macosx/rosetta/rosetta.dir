@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/macosx/rosetta",
+    "score.sum": 1.4582573017534986e-05,
+    "sha.latest": "a43a4a5329fbb4c5bedddb9cbbe89d3659422be3",
+    "time.latest": 1717963915.1885743,
+    "formatted_time": "2024-06-10 01:41:55.188579",
+    "filescores": {
+        "main.c": 0.0,
+        "Makefile": 41.82802350117953,
+        "TestRosetta.py": 58.17197649882046
+    },
+    "subdirscores": {}
+}

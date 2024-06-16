@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/mlir/lib/Dialect/MemRef/Utils",
+    "score.sum": 6.777212358867185e-05,
+    "sha.latest": "c5dee18b6305f8c04040f580ef3c0cd480ead3a3",
+    "time.latest": 1717807577.5030696,
+    "formatted_time": "2024-06-07 19:46:17.503073",
+    "filescores": {
+        "CMakeLists.txt": 28.28732039483675,
+        "MemRefUtils.cpp": 71.71267960516325
+    },
+    "subdirscores": {}
+}

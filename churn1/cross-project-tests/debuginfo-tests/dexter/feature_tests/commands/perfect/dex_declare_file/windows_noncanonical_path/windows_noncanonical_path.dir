@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/cross-project-tests/debuginfo-tests/dexter/feature_tests/commands/perfect/dex_declare_file/windows_noncanonical_path",
+    "score.sum": 3.726280991546718e-05,
+    "sha.latest": "45a40c163932d12b72b33bd1d8a84519392b5d39",
+    "time.latest": 1717791082.414449,
+    "formatted_time": "2024-06-08 01:41:22.414454",
+    "filescores": {
+        "lit.local.cfg.py": 16.369141464877433,
+        "test.cfg": 0.0,
+        "test.dex": 83.63085853512257
+    },
+    "subdirscores": {
+        "source": 0.0
+    }
+}

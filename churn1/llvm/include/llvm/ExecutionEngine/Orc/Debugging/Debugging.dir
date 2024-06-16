@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/llvm/include/llvm/ExecutionEngine/Orc/Debugging",
+    "score.sum": 6.8349459337870826e-06,
+    "sha.latest": "00f412168cf6aee234615a11d1424fc58221eb78",
+    "time.latest": 1717815198.9448206,
+    "formatted_time": "2024-06-07 21:53:18.944824",
+    "filescores": {
+        "DebugInfoSupport.h": 0.0,
+        "DebuggerSupport.h": 0.0,
+        "DebuggerSupportPlugin.h": 0.0,
+        "PerfSupportPlugin.h": 0.0,
+        "VTuneSupportPlugin.h": 100.0
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,28 @@
+{
+    "directory name": "llvm-project/clang/unittests/StaticAnalyzer",
+    "score.sum": 0.000666107531947268,
+    "sha.latest": "52a460f9d4640ddc04e65161c78958bdabaae2b2",
+    "time.latest": 1718082803.8963623,
+    "formatted_time": "2024-06-11 10:43:23.896365",
+    "filescores": {
+        "AnalyzerOptionsTest.cpp": 3.385940032798073,
+        "APSIntTypeTest.cpp": 0.0,
+        "BugReportInterestingnessTest.cpp": 5.378889765918536,
+        "CallDescriptionTest.cpp": 9.534507560756753,
+        "CallEventTest.cpp": 5.043533723420915,
+        "CheckerRegistration.h": 3.5099031093845925,
+        "CMakeLists.txt": 18.782308962541503,
+        "ConflictingEvalCallsTest.cpp": 6.433211479421816,
+        "FalsePositiveRefutationBRVisitorTest.cpp": 8.703396139238707,
+        "NoStateChangeFuncVisitorTest.cpp": 4.69277011049613,
+        "ParamRegionTest.cpp": 2.2909057612849235,
+        "RangeSetTest.cpp": 4.416000241546343,
+        "RegisterCustomCheckersTest.cpp": 7.6296845212456095,
+        "Reusables.h": 2.183609804570104,
+        "StoreTest.cpp": 1.483426253955357,
+        "SValTest.cpp": 8.749670901581597,
+        "SymbolReaperTest.cpp": 2.1454778226970785,
+        "TestReturnValueUnderConstruction.cpp": 5.636763809141937
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/llvm/lib/Testing/Support",
+    "score.sum": 0.00010926744879308682,
+    "sha.latest": "f25daa589ee0649ea87d1e8ae9332cb29d064b9e",
+    "time.latest": 1717874097.5267868,
+    "formatted_time": "2024-06-08 14:14:57.526790",
+    "filescores": {
+        "CMakeLists.txt": 86.74365616245575,
+        "Error.cpp": 7.657732801250628,
+        "SupportHelpers.cpp": 5.598611036293628
+    },
+    "subdirscores": {}
+}

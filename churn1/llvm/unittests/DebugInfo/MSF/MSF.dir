@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/llvm/unittests/DebugInfo/MSF",
+    "score.sum": 5.1888963045973516e-05,
+    "sha.latest": "02f67c097de12dc9f6c97a68d9e180af79a2483b",
+    "time.latest": 1718080288.9527783,
+    "formatted_time": "2024-06-10 23:31:28.952782",
+    "filescores": {
+        "CMakeLists.txt": 14.511214839472641,
+        "MSFBuilderTest.cpp": 24.24401603266478,
+        "MSFCommonTest.cpp": 15.182454637236267,
+        "MappedBlockStreamTest.cpp": 46.062314490626314
+    },
+    "subdirscores": {}
+}

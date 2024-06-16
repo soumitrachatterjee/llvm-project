@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/api/multiple-targets",
+    "score.sum": 3.805084964642638e-05,
+    "sha.latest": "0da0966da4b813386a85cf70ae0d0efc7cb2eaea",
+    "time.latest": 1717885253.5150568,
+    "formatted_time": "2024-06-09 03:50:53.515059",
+    "filescores": {
+        "main.cpp": 0.0,
+        "Makefile": 0.0,
+        "TestMultipleTargets.py": 100.0
+    },
+    "subdirscores": {}
+}

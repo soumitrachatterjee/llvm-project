@@ -1,0 +1,22 @@
+{
+    "directory name": "llvm-project/mlir/test/Integration/Dialect/SparseTensor/GPU/CUDA",
+    "score.sum": 0.00031209806980297885,
+    "sha.latest": "691fc7cdcc3679c5fb7963147a9c358ff9019ab7",
+    "time.latest": 1717826926.963871,
+    "formatted_time": "2024-06-08 01:08:46.963874",
+    "filescores": {
+        "dump-ptx.mlir": 8.320265643518333,
+        "lit.local.cfg": 3.088197931167277,
+        "sparse-gemm-lib.mlir": 6.715429638445344,
+        "sparse-matmul-lib.mlir": 10.008230188281477,
+        "sparse-matvec-const.mlir": 7.887396302026232,
+        "sparse-matvec-lib.mlir": 13.733187499078781,
+        "sparse-matvec.mlir": 8.356255645429897,
+        "sparse-mma-2-4-f16.mlir": 15.810192391966218,
+        "sparse-sampled-matmul-lib.mlir": 10.410367382982246,
+        "sparse-sddmm-lib.mlir": 5.848660245651082
+    },
+    "subdirscores": {
+        "sm80-lt": 9.821817131453122
+    }
+}

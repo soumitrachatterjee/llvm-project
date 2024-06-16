@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/lldb/test/API/commands/command/delete",
+    "score.sum": 1.0459834404963863e-05,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717888280.3528867,
+    "formatted_time": "2024-06-09 04:41:20.352888",
+    "filescores": {
+        "TestCommandDelete.py": 100.0
+    },
+    "subdirscores": {}
+}

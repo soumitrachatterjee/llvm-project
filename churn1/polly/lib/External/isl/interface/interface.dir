@@ -1,0 +1,26 @@
+{
+    "directory name": "llvm-project/polly/lib/External/isl/interface",
+    "score.sum": 0.00019310116918766813,
+    "sha.latest": "e1e34cc2a17c5f640333767df2d3bfe2b2f81a84",
+    "time.latest": 1717795905.353673,
+    "formatted_time": "2024-06-07 16:31:45.353676",
+    "filescores": {
+        "configure.ac": 4.288885499529204,
+        "cpp.cc": 9.50957455506815,
+        "cpp.h": 6.322104660093805,
+        "cpp_conversion.cc": 3.1587597809535857,
+        "cpp_conversion.h": 3.1918656523017166,
+        "extract_interface.cc": 17.506541394577066,
+        "extract_interface.h": 3.5007578273640894,
+        "generator.cc": 9.50957455506815,
+        "generator.h": 7.76976719665396,
+        "plain_cpp.cc": 3.1587597809535857,
+        "plain_cpp.h": 3.1587597809535857,
+        "python.cc": 14.204719807179028,
+        "python.h": 8.06526354573393,
+        "set_lang_defaults_arg4.h": 0.0,
+        "template_cpp.cc": 3.495906182616563,
+        "template_cpp.h": 3.1587597809535857
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/lldb/unittests/ScriptInterpreter",
+    "score.sum": 0.0003825010728697264,
+    "sha.latest": "675791335285fa86434dc46e5c92f543e0e79d19",
+    "time.latest": 1717997636.9108965,
+    "formatted_time": "2024-06-10 11:03:56.910899",
+    "filescores": {
+        "CMakeLists.txt": 3.182145964326957
+    },
+    "subdirscores": {
+        "Lua": 8.028775516614683,
+        "Python": 88.78907851905836
+    }
+}

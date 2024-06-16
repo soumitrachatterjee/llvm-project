@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/mlir/unittests/Conversion/PDLToPDLInterp",
+    "score.sum": 2.099818789669403e-05,
+    "sha.latest": "abc362a1077b9cb4186e3e53a616589c7fed4387",
+    "time.latest": 1717835930.4281843,
+    "formatted_time": "2024-06-08 03:38:50.428187",
+    "filescores": {
+        "CMakeLists.txt": 65.91533723723498,
+        "RootOrderingTest.cpp": 34.08466276276503
+    },
+    "subdirscores": {}
+}

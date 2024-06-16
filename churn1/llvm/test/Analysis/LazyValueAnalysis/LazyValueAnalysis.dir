@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/llvm/test/Analysis/LazyValueAnalysis",
+    "score.sum": 5.9128799358131235e-05,
+    "sha.latest": "1aee1e1f4c4b504becc06521546de992a662694b",
+    "time.latest": 1717888081.2216942,
+    "formatted_time": "2024-06-08 18:08:01.221698",
+    "filescores": {
+        "invalidation.ll": 15.495641295689158,
+        "lvi-after-jumpthreading.ll": 53.557271115944005,
+        "lvi-for-ashr.ll": 20.631298776375,
+        "pr60629.ll": 10.31578881199183,
+        "print.ll": 0.0
+    },
+    "subdirscores": {}
+}

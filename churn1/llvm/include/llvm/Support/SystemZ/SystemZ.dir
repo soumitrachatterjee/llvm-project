@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/llvm/include/llvm/Support/SystemZ",
+    "score.sum": 6.099602068851199e-06,
+    "sha.latest": "ec41462d7a7d2fcd74dcf1c60218f134fcfd55b2",
+    "time.latest": 1717822450.134234,
+    "formatted_time": "2024-06-07 23:54:10.134238",
+    "filescores": {
+        "zOSSupport.h": 100.0
+    },
+    "subdirscores": {}
+}

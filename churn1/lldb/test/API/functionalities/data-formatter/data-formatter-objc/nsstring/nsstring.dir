@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/functionalities/data-formatter/data-formatter-objc/nsstring",
+    "score.sum": 3.534470763782532e-05,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717905273.1154988,
+    "formatted_time": "2024-06-09 09:24:33.115501",
+    "filescores": {
+        "main.m": 55.529479501046154,
+        "Makefile": 0.0,
+        "TestDataFormatterNSString.py": 44.47052049895384
+    },
+    "subdirscores": {}
+}

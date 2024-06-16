@@ -1,0 +1,18 @@
+{
+    "directory name": "llvm-project/lldb/test/API/benchmarks",
+    "score.sum": 0.00012179204220083158,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717887921.2546008,
+    "formatted_time": "2024-06-09 04:35:21.254602",
+    "filescores": {},
+    "subdirscores": {
+        "continue": 12.412557693935023,
+        "expression": 12.448315470191709,
+        "frame_variable": 12.412557693935023,
+        "libcxxlist": 12.412557693935023,
+        "libcxxmap": 12.412557693935023,
+        "startup": 12.412557693935023,
+        "stepping": 12.84695974961288,
+        "turnaround": 12.641936310520297
+    }
+}

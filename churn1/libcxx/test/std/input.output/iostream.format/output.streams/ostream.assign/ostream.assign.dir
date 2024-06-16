@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/input.output/iostream.format/output.streams/ostream.assign",
+    "score.sum": 4.7673369362402415e-05,
+    "sha.latest": "f4c1258d5633fcf06385ff3fd1f4bf57ab971964",
+    "time.latest": 1717905894.9665327,
+    "formatted_time": "2024-06-09 09:34:54.966534",
+    "filescores": {
+        "member_swap.pass.cpp": 36.56439612958354,
+        "move_assign.pass.cpp": 63.43560387041644
+    },
+    "subdirscores": {}
+}

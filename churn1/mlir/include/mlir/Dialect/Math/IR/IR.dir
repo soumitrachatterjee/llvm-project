@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/mlir/include/mlir/Dialect/Math/IR",
+    "score.sum": 0.00024591211645452716,
+    "sha.latest": "b8dca4fa729fcbd5d42ce3ca056dc4d278da2548",
+    "time.latest": 1717795415.930055,
+    "formatted_time": "2024-06-07 16:23:35.930058",
+    "filescores": {
+        "CMakeLists.txt": 2.722031000447367,
+        "Math.h": 10.62130144762294,
+        "MathBase.td": 23.984966456475217,
+        "MathOps.td": 62.67170109545449
+    },
+    "subdirscores": {}
+}

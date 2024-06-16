@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/compiler-rt/test/scudo/standalone/unit",
+    "score.sum": 2.0030862601458195e-05,
+    "sha.latest": "e78b64df98878d1da56275e0c272ed58364da3ad",
+    "time.latest": 1717844513.706946,
+    "formatted_time": "2024-06-08 16:31:53.706950",
+    "filescores": {
+        "lit.site.cfg.py.in": 69.13754993851612
+    },
+    "subdirscores": {
+        "gwp_asan": 30.86245006148389
+    }
+}

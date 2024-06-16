@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/llvm/utils/gn/secondary/clang-tools-extra/clang-tidy/google",
+    "score.sum": 8.916803031447783e-06,
+    "sha.latest": "95429b88a469ee6537f15c82aec9f83e699b8b02",
+    "time.latest": 1718081813.318048,
+    "formatted_time": "2024-06-10 23:56:53.318052",
+    "filescores": {
+        "BUILD.gn": 100.0
+    },
+    "subdirscores": {}
+}

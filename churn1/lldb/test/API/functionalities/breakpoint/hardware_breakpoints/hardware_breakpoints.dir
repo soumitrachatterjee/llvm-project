@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/lldb/test/API/functionalities/breakpoint/hardware_breakpoints",
+    "score.sum": 6.07807644537775e-05,
+    "sha.latest": "9c2468821ec51defd09c246fea4a47886fff8c01",
+    "time.latest": 1717903494.0156858,
+    "formatted_time": "2024-06-09 08:54:54.015688",
+    "filescores": {
+        "base.py": 10.035415190425615
+    },
+    "subdirscores": {
+        "hardware_breakpoint_on_multiple_threads": 21.546234336616628,
+        "require_hw_breakpoints": 51.678791665633206,
+        "write_memory_with_hw_breakpoint": 16.73955880732455
+    }
+}

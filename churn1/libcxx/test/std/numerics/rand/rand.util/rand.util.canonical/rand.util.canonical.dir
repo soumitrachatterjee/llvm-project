@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/numerics/rand/rand.util/rand.util.canonical",
+    "score.sum": 2.6614284009218984e-05,
+    "sha.latest": "24e1736d84fd0fb45097245706a523c3398beb69",
+    "time.latest": 1717959848.5687864,
+    "formatted_time": "2024-06-10 00:34:08.568790",
+    "filescores": {
+        "generate_canonical.pass.cpp": 100.0
+    },
+    "subdirscores": {}
+}

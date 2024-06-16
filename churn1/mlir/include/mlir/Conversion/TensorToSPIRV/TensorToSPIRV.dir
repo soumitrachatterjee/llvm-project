@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/mlir/include/mlir/Conversion/TensorToSPIRV",
+    "score.sum": 2.4885810687673055e-05,
+    "sha.latest": "67d0d7ac0acb0665d6a09f61278fbcf51f0114c2",
+    "time.latest": 1717792254.750559,
+    "formatted_time": "2024-06-07 15:30:54.750563",
+    "filescores": {
+        "TensorToSPIRV.h": 0.0,
+        "TensorToSPIRVPass.h": 100.0
+    },
+    "subdirscores": {}
+}

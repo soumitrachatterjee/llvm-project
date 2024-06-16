@@ -1,0 +1,22 @@
+{
+    "directory name": "llvm-project/libc/src/__support/threads",
+    "score.sum": 0.00031937541369497205,
+    "sha.latest": "330793c91d08e6ac60334e4813746db898b9407e",
+    "time.latest": 1717829991.3159742,
+    "formatted_time": "2024-06-08 01:59:51.315977",
+    "filescores": {
+        "CMakeLists.txt": 7.556589224273093,
+        "callonce.h": 3.793298155911975,
+        "fork_callbacks.cpp": 1.9098533598070844,
+        "fork_callbacks.h": 3.789589646513789,
+        "mutex.h": 6.951673437180848,
+        "mutex_common.h": 3.8024984531058403,
+        "sleep.h": 0.0,
+        "thread.cpp": 6.509774337116772,
+        "thread.h": 19.30460666372225
+    },
+    "subdirscores": {
+        "gpu": 3.770151221659115,
+        "linux": 42.61196550070923
+    }
+}

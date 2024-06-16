@@ -1,0 +1,24 @@
+{
+    "directory name": "llvm-project/mlir/include/mlir/Analysis/Presburger",
+    "score.sum": 0.0006895733852658408,
+    "sha.latest": "2db8b9413862a159cd77ba47eda56abcda1b6dfd",
+    "time.latest": 1717790851.4127817,
+    "formatted_time": "2024-06-07 15:07:31.412785",
+    "filescores": {
+        "Barvinok.h": 1.8529366532163534,
+        "Fraction.h": 5.301410116081726,
+        "GeneratingFunction.h": 1.2596672390810293,
+        "IntegerRelation.h": 13.825847593002152,
+        "LinearTransform.h": 4.333242342866051,
+        "MPInt.h": 1.738363944918509,
+        "Matrix.h": 17.851267072433195,
+        "PWMAFunction.h": 6.334214934050948,
+        "PresburgerRelation.h": 8.57608401259836,
+        "PresburgerSpace.h": 3.6187335750779392,
+        "QuasiPolynomial.h": 1.4792323965794834,
+        "Simplex.h": 24.001453352098316,
+        "SlowMPInt.h": 0.8845471996428215,
+        "Utils.h": 8.942999568353109
+    },
+    "subdirscores": {}
+}

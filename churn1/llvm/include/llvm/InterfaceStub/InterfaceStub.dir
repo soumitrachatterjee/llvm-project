@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/llvm/include/llvm/InterfaceStub",
+    "score.sum": 6.508796175146554e-05,
+    "sha.latest": "0fd4175907b40fe63131482c162d7e0f76000521",
+    "time.latest": 1717817748.1656742,
+    "formatted_time": "2024-06-07 22:35:48.165678",
+    "filescores": {
+        "ELFObjHandler.h": 44.414484680673525,
+        "IFSHandler.h": 14.065892164409439,
+        "IFSStub.h": 41.519623154917035
+    },
+    "subdirscores": {}
+}

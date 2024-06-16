@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/utilities/optional/optional.object/optional.object.dtor",
+    "score.sum": 2.09585454466096e-05,
+    "sha.latest": "7d5275e0c0e4234ce1a75fd7a6dfae82ad8eb1c9",
+    "time.latest": 1718003577.6516,
+    "formatted_time": "2024-06-10 12:42:57.651601",
+    "filescores": {
+        "dtor.pass.cpp": 100.0
+    },
+    "subdirscores": {}
+}

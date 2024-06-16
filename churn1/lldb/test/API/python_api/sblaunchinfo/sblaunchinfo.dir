@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/lldb/test/API/python_api/sblaunchinfo",
+    "score.sum": 1.4652298120574071e-05,
+    "sha.latest": "80fcecb13c388ff087a27a4b0e7ca3dd8c98eaa4",
+    "time.latest": 1717966448.9881,
+    "formatted_time": "2024-06-10 02:24:08.988103",
+    "filescores": {
+        "TestSBLaunchInfo.py": 100.0
+    },
+    "subdirscores": {}
+}

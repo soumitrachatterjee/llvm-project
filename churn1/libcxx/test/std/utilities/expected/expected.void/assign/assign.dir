@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/utilities/expected/expected.void/assign",
+    "score.sum": 5.767306553547198e-05,
+    "sha.latest": "4f4690530e8b40cdf3a17c76a352b26c2fb0446c",
+    "time.latest": 1717992397.0918598,
+    "formatted_time": "2024-06-10 09:36:37.091863",
+    "filescores": {
+        "assign.copy.pass.cpp": 21.225559826534187,
+        "assign.move.pass.cpp": 21.225559826534187,
+        "assign.unexpected.copy.pass.cpp": 21.225559826534187,
+        "assign.unexpected.move.pass.cpp": 21.225559826534187,
+        "emplace.pass.cpp": 15.097760693863242
+    },
+    "subdirscores": {}
+}

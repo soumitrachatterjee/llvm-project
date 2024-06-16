@@ -1,0 +1,21 @@
+{
+    "directory name": "llvm-project/mlir/include/mlir/Dialect/Linalg/IR",
+    "score.sum": 0.0013793594627564735,
+    "sha.latest": "b9a071dc3995c1599724447b9db8ced449318839",
+    "time.latest": 1717795007.1762588,
+    "formatted_time": "2024-06-07 16:16:47.176262",
+    "filescores": {
+        "CMakeLists.txt": 3.7780007206792976,
+        "Linalg.h": 3.8385439217558557,
+        "LinalgBase.td": 11.618680040556049,
+        "LinalgDoc.td": 0.49077494965549223,
+        "LinalgEnums.td": 1.573561579947863,
+        "LinalgInterfaces.h": 5.378224106355645,
+        "LinalgInterfaces.td": 15.435521714074513,
+        "LinalgNamedStructuredOps.yaml": 15.153571326226286,
+        "LinalgOps.td": 20.434895195981177,
+        "LinalgStructuredOps.td": 22.29822644476782,
+        "ValueBoundsOpInterfaceImpl.h": 0.0
+    },
+    "subdirscores": {}
+}

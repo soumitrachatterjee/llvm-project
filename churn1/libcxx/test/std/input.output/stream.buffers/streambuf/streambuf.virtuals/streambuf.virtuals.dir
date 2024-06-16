@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/input.output/stream.buffers/streambuf/streambuf.virtuals",
+    "score.sum": 9.900110170740065e-05,
+    "sha.latest": "66a562d22e708ba40b8443b58e504ac3f983ba59",
+    "time.latest": 1717909379.0402634,
+    "formatted_time": "2024-06-09 10:32:59.040265",
+    "filescores": {},
+    "subdirscores": {
+        "streambuf.virt.buffer": 12.255281377190567,
+        "streambuf.virt.get": 23.21301972717586,
+        "streambuf.virt.locales": 12.255281377190567,
+        "streambuf.virt.pback": 17.54149736188243,
+        "streambuf.virt.put": 34.734920156560584
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/diagnostics/syserr/syserr.errcode/syserr.errcode.modifiers",
+    "score.sum": 5.62299667384998e-05,
+    "sha.latest": "e8cfbfd05a951b85f80156dffc8eeecb34c7271c",
+    "time.latest": 1717898195.2123935,
+    "formatted_time": "2024-06-09 07:26:35.212397",
+    "filescores": {
+        "assign.pass.cpp": 30.88437829778726,
+        "clear.pass.cpp": 30.88437829778726,
+        "ErrorCodeEnum.pass.cpp": 27.383643054210626,
+        "lwg3629.pass.cpp": 10.847600350214853
+    },
+    "subdirscores": {}
+}

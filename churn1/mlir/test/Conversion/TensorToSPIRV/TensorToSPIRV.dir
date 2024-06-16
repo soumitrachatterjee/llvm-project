@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/mlir/test/Conversion/TensorToSPIRV",
+    "score.sum": 1.18336501234203e-05,
+    "sha.latest": "2ad297db2c0ea168822b4958dbe3f3c1d3198d79",
+    "time.latest": 1717816842.8314886,
+    "formatted_time": "2024-06-07 22:20:42.831491",
+    "filescores": {
+        "tensor-ops-to-spirv.mlir": 100.0
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/functionalities/data-formatter/nsdictionarysynth",
+    "score.sum": 2.9530652741824916e-05,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717907996.2989647,
+    "formatted_time": "2024-06-09 10:09:56.298967",
+    "filescores": {
+        "main.m": 20.655154906928956,
+        "Makefile": 0.0,
+        "TestNSDictionarySynthetic.py": 79.34484509307104
+    },
+    "subdirscores": {}
+}

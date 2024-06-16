@@ -1,0 +1,30 @@
+{
+    "directory name": "llvm-project/llvm/include/llvm/DebugInfo/PDB/DIA",
+    "score.sum": 0.0003155671190316252,
+    "sha.latest": "89fab98e884f05076bbd420d95b5de3596f5452c",
+    "time.latest": 1717813275.6223626,
+    "formatted_time": "2024-06-07 21:21:15.622366",
+    "filescores": {
+        "DIADataStream.h": 4.0983644619203154,
+        "DIAEnumDebugStreams.h": 5.43416900379599,
+        "DIAEnumFrameData.h": 1.9936612623539751,
+        "DIAEnumInjectedSources.h": 4.217440542182648,
+        "DIAEnumLineNumbers.h": 5.43416900379599,
+        "DIAEnumSectionContribs.h": 3.171286412120116,
+        "DIAEnumSourceFiles.h": 5.43416900379599,
+        "DIAEnumSymbols.h": 5.434159237015209,
+        "DIAEnumTables.h": 3.2869078522409807,
+        "DIAError.h": 3.915120091081918,
+        "DIAFrameData.h": 1.9936612623539751,
+        "DIAInjectedSource.h": 3.294520261162674,
+        "DIALineNumber.h": 2.5361848336757067,
+        "DIARawSymbol.h": 14.422395070123045,
+        "DIASectionContrib.h": 2.057024597358899,
+        "DIASession.h": 22.08773557440809,
+        "DIASourceFile.h": 3.03724832403369,
+        "DIASupport.h": 4.28597989502607,
+        "DIATable.h": 1.932901655777361,
+        "DIAUtils.h": 1.932901655777361
+    },
+    "subdirscores": {}
+}

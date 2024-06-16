@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/llvm/bindings/ocaml/linker",
+    "score.sum": 5.893727949730681e-05,
+    "sha.latest": "dddf66fd6577fd20302cf2e71b7fd78fbaed5c61",
+    "time.latest": 1717788406.8948734,
+    "formatted_time": "2024-06-07 14:26:46.894876",
+    "filescores": {
+        "CMakeLists.txt": 17.820400396863104,
+        "linker_ocaml.c": 42.19148933991307,
+        "llvm_linker.ml": 20.52145049526539,
+        "llvm_linker.mli": 19.466659767958433
+    },
+    "subdirscores": {}
+}

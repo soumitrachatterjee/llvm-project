@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/libcxx/test/libcxx/ranges/range.utility.helpers",
+    "score.sum": 4.985028165989054e-05,
+    "sha.latest": "f502b981b471c04bef1b2a6c581c02b59f931163",
+    "time.latest": 1717863355.2127807,
+    "formatted_time": "2024-06-08 21:45:55.212783",
+    "filescores": {
+        "different_from.compile.pass.cpp": 31.536786173103298,
+        "has_arrow.compile.pass.cpp": 28.643403616428532,
+        "simple_view.compile.pass.cpp": 39.81981021046817
+    },
+    "subdirscores": {}
+}

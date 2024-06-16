@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/libc/test/src/dirent",
+    "score.sum": 3.552690964576248e-05,
+    "sha.latest": "3eb1e6d8e930f5aff17b8d6bcc160f5bbf8cabc7",
+    "time.latest": 1717845462.135866,
+    "formatted_time": "2024-06-08 06:17:42.135867",
+    "filescores": {
+        "CMakeLists.txt": 31.25679945252217,
+        "dirent_test.cpp": 68.74320054747783
+    },
+    "subdirscores": {
+        "testdata": 0.0
+    }
+}

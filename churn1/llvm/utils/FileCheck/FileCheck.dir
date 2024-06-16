@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/llvm/utils/FileCheck",
+    "score.sum": 0.0005667786157139862,
+    "sha.latest": "fab2bb8bfda865bd438dee981d7be7df8017b76d",
+    "time.latest": 1718077583.818886,
+    "formatted_time": "2024-06-10 22:46:23.818892",
+    "filescores": {
+        "CMakeLists.txt": 6.003628562769923,
+        "FileCheck.cpp": 93.99637143723008
+    },
+    "subdirscores": {}
+}

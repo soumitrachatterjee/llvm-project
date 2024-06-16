@@ -1,0 +1,16 @@
+{
+    "directory name": "llvm-project/clang/include/clang/APINotes",
+    "score.sum": 0.0001223512227791352,
+    "sha.latest": "864593b91d289c57c64a0f12658b9ff415da1ad8",
+    "time.latest": 1717794200.3952527,
+    "formatted_time": "2024-06-08 02:33:20.395256",
+    "filescores": {
+        "APINotesManager.h": 7.776015199919356,
+        "APINotesOptions.h": 5.148500823486704,
+        "APINotesReader.h": 0.0,
+        "APINotesWriter.h": 5.443055018483562,
+        "APINotesYAMLCompiler.h": 4.985321707705381,
+        "Types.h": 76.647107250405
+    },
+    "subdirscores": {}
+}

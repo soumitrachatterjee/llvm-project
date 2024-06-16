@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/compiler-rt/test/profile/Linux/Inputs",
+    "score.sum": 1.1642018814639115e-05,
+    "sha.latest": "75df61e93d22c5225469142bf79592bce4ffb3de",
+    "time.latest": 1717838738.1774156,
+    "formatted_time": "2024-06-08 14:55:38.177421",
+    "filescores": {
+        "instrprof-value-merge.c": 100.0
+    },
+    "subdirscores": {}
+}

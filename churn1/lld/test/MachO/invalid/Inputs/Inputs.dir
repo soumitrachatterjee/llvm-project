@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/lld/test/MachO/invalid/Inputs",
+    "score.sum": 6.099602068851199e-06,
+    "sha.latest": "55a32812fa5ec4d49839ea6f61b50d08a389ab09",
+    "time.latest": 1717898548.640191,
+    "formatted_time": "2024-06-09 07:32:28.640195",
+    "filescores": {
+        "libincompatible.tbd": 100.0
+    },
+    "subdirscores": {}
+}

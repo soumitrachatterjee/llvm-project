@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/unittests/ScriptInterpreter/Lua",
+    "score.sum": 3.8696567868532034e-05,
+    "sha.latest": "ee667db4b83eb6171bbceca1010cddd0da6f17ca",
+    "time.latest": 1717997582.7059662,
+    "formatted_time": "2024-06-10 11:03:02.705969",
+    "filescores": {
+        "CMakeLists.txt": 15.762643574939322,
+        "LuaTests.cpp": 50.71778595591638,
+        "ScriptInterpreterTests.cpp": 33.51957046914429
+    },
+    "subdirscores": {}
+}

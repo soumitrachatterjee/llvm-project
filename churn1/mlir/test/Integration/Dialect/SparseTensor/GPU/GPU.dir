@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/mlir/test/Integration/Dialect/SparseTensor/GPU",
+    "score.sum": 0.00014454761395262702,
+    "sha.latest": "691fc7cdcc3679c5fb7963147a9c358ff9019ab7",
+    "time.latest": 1717826926.9654825,
+    "formatted_time": "2024-06-08 01:08:46.965483",
+    "filescores": {},
+    "subdirscores": {
+        "CUDA": 100.0
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/language.support/support.coroutines/coroutine.handle/coroutine.handle.hash",
+    "score.sum": 1.1413146942272973e-05,
+    "sha.latest": "e5ec498fc54ba9fa0b7b1760ab8783ae47b61249",
+    "time.latest": 1717920922.0859241,
+    "formatted_time": "2024-06-09 13:45:22.085925",
+    "filescores": {
+        "hash.pass.cpp": 100.0
+    },
+    "subdirscores": {}
+}

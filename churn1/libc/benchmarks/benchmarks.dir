@@ -1,0 +1,32 @@
+{
+    "directory name": "llvm-project/libc/benchmarks",
+    "score.sum": 0.00040153079132790906,
+    "sha.latest": "73aab2f69773324ef0250f093bd4d782beee921a",
+    "time.latest": 1717824663.4765992,
+    "formatted_time": "2024-06-08 00:31:03.476602",
+    "filescores": {
+        "CMakeLists.txt": 21.10204913498569,
+        "JSON.cpp": 3.6241424304815557,
+        "JSON.h": 1.519087004181947,
+        "JSONTest.cpp": 1.519087004181947,
+        "LibcBenchmark.cpp": 3.9880359424872345,
+        "LibcBenchmark.h": 5.707902076185045,
+        "LibcBenchmarkTest.cpp": 4.822867312923318,
+        "LibcDefaultImplementations.cpp": 2.65511286675698,
+        "LibcFunctionPrototypes.h": 1.893787681303614,
+        "LibcMemoryBenchmark.cpp": 4.8642324733802695,
+        "LibcMemoryBenchmark.h": 8.375590279562664,
+        "LibcMemoryBenchmarkMain.cpp": 8.030047745496487,
+        "LibcMemoryBenchmarkTest.cpp": 1.825469219929636,
+        "LibcMemoryGoogleBenchmarkMain.cpp": 2.366976682206571,
+        "MemorySizeDistributions.cpp": 4.50116200394537,
+        "MemorySizeDistributions.h": 2.6116485522918746,
+        "RATIONALE.md": 2.1439582635309278,
+        "README.md": 2.1774860938466296,
+        "libc-benchmark-analysis.py3": 0.0
+    },
+    "subdirscores": {
+        "automemcpy": 14.42706276472085,
+        "distributions": 1.8442944676013773
+    }
+}

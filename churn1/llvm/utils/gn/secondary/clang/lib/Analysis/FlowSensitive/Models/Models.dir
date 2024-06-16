@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/llvm/utils/gn/secondary/clang/lib/Analysis/FlowSensitive/Models",
+    "score.sum": 6.099602068851199e-06,
+    "sha.latest": "00145bcb4ca63d214220d357c67d1d77d865ed00",
+    "time.latest": 1718083652.1466463,
+    "formatted_time": "2024-06-11 00:27:32.146650",
+    "filescores": {
+        "BUILD.gn": 100.0
+    },
+    "subdirscores": {}
+}

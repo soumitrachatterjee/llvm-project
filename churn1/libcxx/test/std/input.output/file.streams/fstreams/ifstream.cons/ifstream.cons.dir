@@ -1,0 +1,16 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/input.output/file.streams/fstreams/ifstream.cons",
+    "score.sum": 0.00014652605205973007,
+    "sha.latest": "60a6a0d17ad5afcac5c71dcf9a05f8c814951804",
+    "time.latest": 1717901840.3515043,
+    "formatted_time": "2024-06-09 08:27:20.351506",
+    "filescores": {
+        "default.pass.cpp": 11.896505349698867,
+        "move.pass.cpp": 23.847445109422928,
+        "path.pass.cpp": 31.625091547454957,
+        "pointer.pass.cpp": 16.315478996711626,
+        "string.pass.cpp": 16.315478996711626,
+        "test.dat": 0.0
+    },
+    "subdirscores": {}
+}

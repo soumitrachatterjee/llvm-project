@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/mlir/include/mlir/Dialect/Affine/Analysis",
+    "score.sum": 0.00023656600995338204,
+    "sha.latest": "2679d3793b264b2884cf5c9492e3311f08f41de3",
+    "time.latest": 1717792802.2554388,
+    "formatted_time": "2024-06-07 15:40:02.255442",
+    "filescores": {
+        "AffineAnalysis.h": 17.099094748386605,
+        "AffineStructures.h": 38.706633116355576,
+        "LoopAnalysis.h": 15.258013980982692,
+        "NestedMatcher.h": 2.8498322740515136,
+        "Utils.h": 26.086425880223622
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lld/MinGW",
+    "score.sum": 0.0005069841920950031,
+    "sha.latest": "d033366bd2189e33343ca93d276b40341dc39770",
+    "time.latest": 1717841547.493411,
+    "formatted_time": "2024-06-08 15:42:27.493414",
+    "filescores": {
+        "CMakeLists.txt": 1.9314557643854326,
+        "Driver.cpp": 64.21460172424901,
+        "Options.td": 33.853942511365545
+    },
+    "subdirscores": {}
+}

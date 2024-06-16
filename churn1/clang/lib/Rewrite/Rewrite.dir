@@ -1,0 +1,16 @@
+{
+    "directory name": "llvm-project/clang/lib/Rewrite",
+    "score.sum": 0.00047090657027669115,
+    "sha.latest": "243bfed68367263cfc3fb3f396660acf60051fbf",
+    "time.latest": 1717817678.0828373,
+    "formatted_time": "2024-06-08 09:04:38.082858",
+    "filescores": {
+        "CMakeLists.txt": 12.854352071795153,
+        "DeltaTree.cpp": 7.980250145109041,
+        "HTMLRewrite.cpp": 36.54015307119954,
+        "Rewriter.cpp": 25.54418871286434,
+        "RewriteRope.cpp": 10.322287302507602,
+        "TokenRewriter.cpp": 6.758768696524331
+    },
+    "subdirscores": {}
+}

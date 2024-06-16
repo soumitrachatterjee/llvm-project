@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/Shell/Minidump/Windows/Sigsegv",
+    "score.sum": 1.4328126551637395e-05,
+    "sha.latest": "f152472af576e77f9b8736dafaffd31fce7b13b0",
+    "time.latest": 1717973975.5221155,
+    "formatted_time": "2024-06-10 04:29:35.522119",
+    "filescores": {
+        "sigsegv.test": 42.58262328521358
+    },
+    "subdirscores": {
+        "Inputs": 57.417376714786414
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/compiler-rt/test/dfsan/Inputs",
+    "score.sum": 1.680209871870409e-05,
+    "sha.latest": "5bb06c7cce6bdcffb3ced29fa733c0dbb1b63c41",
+    "time.latest": 1717823294.0439126,
+    "formatted_time": "2024-06-08 10:38:14.043915",
+    "filescores": {
+        "flags_abilist.txt": 100.0
+    },
+    "subdirscores": {}
+}

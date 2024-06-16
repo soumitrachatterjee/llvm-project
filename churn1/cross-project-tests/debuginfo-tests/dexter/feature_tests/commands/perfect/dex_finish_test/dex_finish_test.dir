@@ -1,0 +1,18 @@
+{
+    "directory name": "llvm-project/cross-project-tests/debuginfo-tests/dexter/feature_tests/commands/perfect/dex_finish_test",
+    "score.sum": 0.00033361692212346836,
+    "sha.latest": "e6cc7b723f244f52663b6d67a5d94597109da1ef",
+    "time.latest": 1717791242.6744199,
+    "formatted_time": "2024-06-08 01:44:02.674425",
+    "filescores": {
+        "default_conditional.cpp": 12.839398901817583,
+        "default_conditional_hit_count.cpp": 12.839398901817583,
+        "default_hit_count.cpp": 12.839398901817583,
+        "default_simple.cpp": 12.839398901817583,
+        "limit_steps_conditional.cpp": 12.839398901817583,
+        "limit_steps_conditional_hit_count.cpp": 12.839398901817583,
+        "limit_steps_hit_count.cpp": 12.839398901817583,
+        "limit_steps_simple.cpp": 10.124207687276906
+    },
+    "subdirscores": {}
+}

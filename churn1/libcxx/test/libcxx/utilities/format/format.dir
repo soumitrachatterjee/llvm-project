@@ -1,0 +1,16 @@
+{
+    "directory name": "llvm-project/libcxx/test/libcxx/utilities/format",
+    "score.sum": 0.0001343420573349788,
+    "sha.latest": "123ab34abc68e2e64720f9690aed5cb9e62a035d",
+    "time.latest": 1717866607.4906733,
+    "formatted_time": "2024-06-08 22:40:07.490676",
+    "filescores": {
+        "enable_insertable.compile.pass.cpp": 4.540351837579785
+    },
+    "subdirscores": {
+        "format.arguments": 22.28054192004204,
+        "format.formatter": 17.12893590458252,
+        "format.functions": 0.0,
+        "format.string": 56.05017033779565
+    }
+}

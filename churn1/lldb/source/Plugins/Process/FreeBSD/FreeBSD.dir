@@ -1,0 +1,27 @@
+{
+    "directory name": "llvm-project/lldb/source/Plugins/Process/FreeBSD",
+    "score.sum": 0.0003044101660979334,
+    "sha.latest": "73b2d672c1c8318cd16a02812c39ae3997b9dbcd",
+    "time.latest": 1717874598.8270714,
+    "formatted_time": "2024-06-09 00:53:18.827074",
+    "filescores": {
+        "CMakeLists.txt": 9.251379028800818,
+        "NativeProcessFreeBSD.cpp": 12.506114165938056,
+        "NativeProcessFreeBSD.h": 3.1447544308322724,
+        "NativeRegisterContextFreeBSD.cpp": 0.0,
+        "NativeRegisterContextFreeBSD.h": 3.842752505116115,
+        "NativeRegisterContextFreeBSD_arm.cpp": 4.007406356770237,
+        "NativeRegisterContextFreeBSD_arm.h": 2.0037445355517014,
+        "NativeRegisterContextFreeBSD_arm64.cpp": 6.679726202315433,
+        "NativeRegisterContextFreeBSD_arm64.h": 2.643491991507927,
+        "NativeRegisterContextFreeBSD_mips64.cpp": 8.784803153585633,
+        "NativeRegisterContextFreeBSD_mips64.h": 5.807597624578347,
+        "NativeRegisterContextFreeBSD_powerpc.cpp": 8.204956634967347,
+        "NativeRegisterContextFreeBSD_powerpc.h": 5.208300102184657,
+        "NativeRegisterContextFreeBSD_x86_64.cpp": 10.645424679145625,
+        "NativeRegisterContextFreeBSD_x86_64.h": 5.565364096558593,
+        "NativeThreadFreeBSD.cpp": 9.28250131914993,
+        "NativeThreadFreeBSD.h": 2.42168317299729
+    },
+    "subdirscores": {}
+}

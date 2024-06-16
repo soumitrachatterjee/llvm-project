@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/lang/cpp/crtp",
+    "score.sum": 8.65938856194375e-06,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717930670.2552536,
+    "formatted_time": "2024-06-09 16:27:50.255256",
+    "filescores": {
+        "main.cpp": 0.0,
+        "Makefile": 0.0,
+        "TestCppCRTP.py": 100.0
+    },
+    "subdirscores": {}
+}

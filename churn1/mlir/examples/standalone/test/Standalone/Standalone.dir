@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/mlir/examples/standalone/test/Standalone",
+    "score.sum": 4.07617455402976e-05,
+    "sha.latest": "66fc381af3b2eac71a8a4779e23b266841e21f23",
+    "time.latest": 1717789207.3239212,
+    "formatted_time": "2024-06-07 14:40:07.323924",
+    "filescores": {
+        "dummy.mlir": 33.5523527387737,
+        "standalone-opt.mlir": 18.601570882666547,
+        "standalone-pass-plugin.mlir": 16.441020444454583,
+        "standalone-plugin.mlir": 16.441020444454583,
+        "standalone-translate.mlir": 14.964035489650588
+    },
+    "subdirscores": {}
+}

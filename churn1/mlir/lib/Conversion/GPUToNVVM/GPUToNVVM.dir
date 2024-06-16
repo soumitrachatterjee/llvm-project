@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/mlir/lib/Conversion/GPUToNVVM",
+    "score.sum": 0.0005341746825013472,
+    "sha.latest": "0039a2ff4fe98ce54654e5f4da90aeee718e1d41",
+    "time.latest": 1717803038.5852678,
+    "formatted_time": "2024-06-07 18:30:38.585271",
+    "filescores": {
+        "CMakeLists.txt": 11.716447297343661,
+        "GPUToNVVM.td": 2.4405865289969793,
+        "LowerGpuOpsToNVVMOps.cpp": 72.75177204848049,
+        "WmmaOpsToNvvm.cpp": 13.091194125178863
+    },
+    "subdirscores": {}
+}

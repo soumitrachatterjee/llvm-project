@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/mlir/include/mlir/Query",
+    "score.sum": 3.0250889755478994e-05,
+    "sha.latest": "58b44c8102afb0e76d1cb70d4a5d089f70d2f657",
+    "time.latest": 1717799713.7628775,
+    "formatted_time": "2024-06-07 17:35:13.762881",
+    "filescores": {
+        "Query.h": 0.0,
+        "QuerySession.h": 0.0
+    },
+    "subdirscores": {
+        "Matcher": 100.0
+    }
+}

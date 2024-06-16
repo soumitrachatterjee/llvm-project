@@ -1,0 +1,42 @@
+{
+    "directory name": "llvm-project/llvm/lib/Target/MSP430",
+    "score.sum": 0.00297311761708499,
+    "sha.latest": "fe42e72db29e48aa81eac2aa922afd90a7f01517",
+    "time.latest": 1717860065.5029092,
+    "formatted_time": "2024-06-08 10:21:05.502910",
+    "filescores": {
+        "CMakeLists.txt": 2.09527113637183,
+        "MSP430.h": 1.4775851191557388,
+        "MSP430.td": 1.2095551835062979,
+        "MSP430AsmPrinter.cpp": 5.161703974178446,
+        "MSP430BranchSelector.cpp": 3.0281749826079247,
+        "MSP430CallingConv.td": 0.6527390431103554,
+        "MSP430FrameLowering.cpp": 3.1879440035909408,
+        "MSP430FrameLowering.h": 1.850177773332911,
+        "MSP430ISelDAGToDAG.cpp": 6.075267210302864,
+        "MSP430ISelLowering.cpp": 14.217431479819972,
+        "MSP430ISelLowering.h": 4.08235392296627,
+        "MSP430InstrFormats.td": 0.9168194221309135,
+        "MSP430InstrInfo.cpp": 5.432449134724572,
+        "MSP430InstrInfo.h": 3.6576735870816863,
+        "MSP430InstrInfo.td": 2.3488017717465257,
+        "MSP430MCInstLower.cpp": 1.8681286972922144,
+        "MSP430MCInstLower.h": 0.7659840923629567,
+        "MSP430MachineFunctionInfo.cpp": 0.4892480920053759,
+        "MSP430MachineFunctionInfo.h": 1.4520985877212467,
+        "MSP430RegisterInfo.cpp": 3.498828823180423,
+        "MSP430RegisterInfo.h": 1.9241915525470583,
+        "MSP430RegisterInfo.td": 1.8693793184704568,
+        "MSP430Subtarget.cpp": 3.055221005073323,
+        "MSP430Subtarget.h": 2.060989017453172,
+        "MSP430TargetMachine.cpp": 6.669814379815403,
+        "MSP430TargetMachine.h": 3.362036195791701,
+        "README.txt": 0.4357579715791275
+    },
+    "subdirscores": {
+        "AsmParser": 3.2780230350183897,
+        "Disassembler": 1.3164137609585802,
+        "MCTargetDesc": 10.002892049685954,
+        "TargetInfo": 2.55704567641737
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/utilities/format/format.string",
+    "score.sum": 1.032213959017171e-05,
+    "sha.latest": "520c7fbbd0356f135a19cc764ff70e7f52ba11a0",
+    "time.latest": 1717995210.38222,
+    "formatted_time": "2024-06-10 10:23:30.382222",
+    "filescores": {},
+    "subdirscores": {
+        "format.string.std": 100.0
+    }
+}

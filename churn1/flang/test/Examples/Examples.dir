@@ -1,0 +1,22 @@
+{
+    "directory name": "llvm-project/flang/test/Examples",
+    "score.sum": 6.252299321894246e-05,
+    "sha.latest": "00d0749f92ece4b7bb4c7bc8f62c88f230f8710c",
+    "time.latest": 1717795735.8982399,
+    "formatted_time": "2024-06-07 16:28:55.898244",
+    "filescores": {
+        "feature-list-class.f90": 12.493010524807747,
+        "feature-list-functions.f90": 12.493010524807747,
+        "omp-atomic.f90": 9.883272480101768,
+        "omp-declarative-directive.f90": 9.883272480101768,
+        "omp-device-constructs.f90": 9.883272480101768,
+        "omp-in-reduction-clause.f90": 0.0,
+        "omp-nowait.f90": 0.0,
+        "omp-order-clause.f90": 0.0,
+        "omp-sections.f90": 0.0,
+        "print-fns-calls.f90": 15.121387170026404,
+        "print-fns-definitions.f90": 15.121387170026404,
+        "print-fns-interfaces.f90": 15.121387170026404
+    },
+    "subdirscores": {}
+}

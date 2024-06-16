@@ -1,0 +1,26 @@
+{
+    "directory name": "llvm-project/flang/unittests/Evaluate",
+    "score.sum": 0.00022459379056529263,
+    "sha.latest": "181eab27d244b9a9eb32d6716f9c38f7f3723356",
+    "time.latest": 1717812854.239321,
+    "formatted_time": "2024-06-07 21:14:14.239324",
+    "filescores": {
+        "CMakeLists.txt": 12.346444436207952,
+        "ISO-Fortran-binding.cpp": 16.27213464952138,
+        "bit-population-count.cpp": 0.0,
+        "expression.cpp": 6.904367671749403,
+        "folding.cpp": 7.346613310806347,
+        "fp-testing.cpp": 3.214796656465132,
+        "fp-testing.h": 3.1421799050991144,
+        "integer.cpp": 2.7158373584143938,
+        "intrinsics.cpp": 13.822819727651673,
+        "leading-zero-bit-count.cpp": 0.0,
+        "logical.cpp": 2.7158373584143938,
+        "real.cpp": 9.353402076974135,
+        "reshape.cpp": 11.996672109161704,
+        "testing.cpp": 3.726528690559988,
+        "testing.h": 2.7158373584143938,
+        "uint128.cpp": 3.726528690559988
+    },
+    "subdirscores": {}
+}

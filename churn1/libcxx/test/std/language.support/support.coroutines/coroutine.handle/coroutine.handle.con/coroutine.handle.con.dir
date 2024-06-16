@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/language.support/support.coroutines/coroutine.handle/coroutine.handle.con",
+    "score.sum": 1.2199204137702398e-05,
+    "sha.latest": "e5ec498fc54ba9fa0b7b1760ab8783ae47b61249",
+    "time.latest": 1717920875.1744416,
+    "formatted_time": "2024-06-09 13:44:35.174443",
+    "filescores": {
+        "assign.pass.cpp": 50.0,
+        "construct.pass.cpp": 50.0
+    },
+    "subdirscores": {}
+}

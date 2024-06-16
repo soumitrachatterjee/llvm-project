@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/llvm/unittests/DebugInfo/BTF",
+    "score.sum": 6.183552420676637e-06,
+    "sha.latest": "d15f96fe4b64e24d262fcc727dc0eede327804ba",
+    "time.latest": 1718079754.2351952,
+    "formatted_time": "2024-06-10 23:22:34.235199",
+    "filescores": {
+        "BTFParserTest.cpp": 100.0,
+        "CMakeLists.txt": 0.0
+    },
+    "subdirscores": {}
+}

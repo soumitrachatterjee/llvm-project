@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/mlir/include/mlir/Conversion/FuncToSPIRV",
+    "score.sum": 2.4885810687673055e-05,
+    "sha.latest": "67d0d7ac0acb0665d6a09f61278fbcf51f0114c2",
+    "time.latest": 1717791605.4584792,
+    "formatted_time": "2024-06-07 15:20:05.458483",
+    "filescores": {
+        "FuncToSPIRV.h": 0.0,
+        "FuncToSPIRVPass.h": 100.0
+    },
+    "subdirscores": {}
+}

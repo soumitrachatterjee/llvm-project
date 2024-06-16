@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/lldb/tools/intel-features/intel-mpx",
+    "score.sum": 6.261253295631129e-05,
+    "sha.latest": "c8387a31a4adfa9c29a578cf67321f756d3b4ac1",
+    "time.latest": 1717988998.029647,
+    "formatted_time": "2024-06-10 08:39:58.029650",
+    "filescores": {
+        "cli-wrapper-mpxtable.cpp": 41.93904298485076,
+        "cli-wrapper-mpxtable.h": 9.741822892083404,
+        "CMakeLists.txt": 9.741822892083404
+    },
+    "subdirscores": {
+        "test": 38.57731123098243
+    }
+}

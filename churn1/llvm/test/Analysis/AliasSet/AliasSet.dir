@@ -1,0 +1,18 @@
+{
+    "directory name": "llvm-project/llvm/test/Analysis/AliasSet",
+    "score.sum": 0.00020569295079850289,
+    "sha.latest": "84ea236af9f36d409d2c45c66f8a8b6eb027935d",
+    "time.latest": 1717878427.8895476,
+    "formatted_time": "2024-06-08 15:27:07.889551",
+    "filescores": {
+        "argmemonly.ll": 12.305548436116496,
+        "guards.ll": 12.177906544251089,
+        "intrinsics.ll": 15.20498877429075,
+        "memloc-vscale.ll": 5.3920658206352385,
+        "memset.ll": 12.162066626007416,
+        "memtransfer.ll": 17.852495145408003,
+        "saturation.ll": 14.29440122883289,
+        "unknown-inst-tracking.ll": 10.610527424458109
+    },
+    "subdirscores": {}
+}

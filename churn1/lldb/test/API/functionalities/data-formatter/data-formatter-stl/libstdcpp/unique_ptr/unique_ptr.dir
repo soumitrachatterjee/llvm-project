@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/lldb/test/API/functionalities/data-formatter/data-formatter-stl/libstdcpp/unique_ptr",
+    "score.sum": 2.3960777281887557e-05,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717907412.7580864,
+    "formatted_time": "2024-06-09 10:00:12.758088",
+    "filescores": {
+        "main.cpp": 0.0,
+        "Makefile": 0.0,
+        "TestDataFormatterStdUniquePtr.py": 74.54338815017486
+    },
+    "subdirscores": {
+        "invalid": 25.456611849825144
+    }
+}

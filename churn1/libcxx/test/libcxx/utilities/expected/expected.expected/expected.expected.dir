@@ -1,0 +1,21 @@
+{
+    "directory name": "llvm-project/libcxx/test/libcxx/utilities/expected/expected.expected",
+    "score.sum": 0.00014484797224576857,
+    "sha.latest": "4f4690530e8b40cdf3a17c76a352b26c2fb0446c",
+    "time.latest": 1717866252.1783264,
+    "formatted_time": "2024-06-08 22:34:12.178328",
+    "filescores": {
+        "and_then.mandates.verify.cpp": 7.735582621521572,
+        "assert.arrow.pass.cpp": 13.416799483403963,
+        "assert.deref.pass.cpp": 13.416799483403963,
+        "assert.error.pass.cpp": 13.416799483403963,
+        "error_or.mandates.verify.cpp": 4.21446991261462,
+        "noexcept.extension.compile.pass.cpp": 0.0,
+        "no_unique_address.compile.pass.cpp": 9.028542386968041,
+        "or_else.mandates.verify.cpp": 4.21446991261462,
+        "transform_error.mandates.verify.cpp": 26.134462213705078,
+        "value.observers.verify.cpp": 4.211037251182083,
+        "value_or.mandates.verify.cpp": 4.211037251182083
+    },
+    "subdirscores": {}
+}

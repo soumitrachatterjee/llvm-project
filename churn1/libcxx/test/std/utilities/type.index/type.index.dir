@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/utilities/type.index",
+    "score.sum": 0.00012471010246172125,
+    "sha.latest": "9df58928045f2370caa201ba14d4ec62cba00e46",
+    "time.latest": 1718007552.5818183,
+    "formatted_time": "2024-06-10 13:49:12.581819",
+    "filescores": {},
+    "subdirscores": {
+        "type.index.hash": 35.49929980580152,
+        "type.index.members": 20.46633383226703,
+        "type.index.overview": 20.475823653818654,
+        "type.index.synopsis": 23.558542708112785
+    }
+}

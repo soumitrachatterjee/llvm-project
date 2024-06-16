@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/mlir/lib/CAPI/Transforms",
+    "score.sum": 1.3272986824466236e-05,
+    "sha.latest": "c265170110b2e3b82ab8fca6658bfbbce79381c5",
+    "time.latest": 1717802347.7113464,
+    "formatted_time": "2024-06-07 18:19:07.711350",
+    "filescores": {
+        "CMakeLists.txt": 47.146716130950125,
+        "Passes.cpp": 52.85328386904988
+    },
+    "subdirscores": {}
+}

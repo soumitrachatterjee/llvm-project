@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/utilities/memory/storage.iterator",
+    "score.sum": 6.905631709116689e-05,
+    "sha.latest": "7afa1598a38103f9b940f219d7c2bef578139e94",
+    "time.latest": 1717999079.095584,
+    "formatted_time": "2024-06-10 11:27:59.095586",
+    "filescores": {
+        "deprecated.verify.cpp": 8.832793762804663,
+        "raw_storage_iterator.base.pass.cpp": 40.31134558817387,
+        "raw_storage_iterator.pass.cpp": 41.92948360474714,
+        "types.compile.pass.cpp": 8.926377044274313
+    },
+    "subdirscores": {}
+}

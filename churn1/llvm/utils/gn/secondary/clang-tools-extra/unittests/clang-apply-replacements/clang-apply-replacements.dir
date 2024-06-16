@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/llvm/utils/gn/secondary/clang-tools-extra/unittests/clang-apply-replacements",
+    "score.sum": 9.631908258763151e-06,
+    "sha.latest": "ce2474ff60c9ca0a9a5747e6e401abb284d8378f",
+    "time.latest": 1718083009.9486976,
+    "formatted_time": "2024-06-11 00:16:49.948702",
+    "filescores": {
+        "BUILD.gn": 100.0
+    },
+    "subdirscores": {}
+}

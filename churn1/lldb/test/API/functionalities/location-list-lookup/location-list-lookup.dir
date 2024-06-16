@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/functionalities/location-list-lookup",
+    "score.sum": 4.6969301924958224e-05,
+    "sha.latest": "b047c9116432375586ddf7f01bf272f99d9a005c",
+    "time.latest": 1717911697.0903044,
+    "formatted_time": "2024-06-09 11:11:37.090306",
+    "filescores": {
+        "main.cpp": 0.0,
+        "Makefile": 12.98635878939907,
+        "TestLocationListLookup.py": 87.01364121060094
+    },
+    "subdirscores": {}
+}

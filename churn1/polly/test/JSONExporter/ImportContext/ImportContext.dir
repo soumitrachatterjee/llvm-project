@@ -1,0 +1,18 @@
+{
+    "directory name": "llvm-project/polly/test/JSONExporter/ImportContext",
+    "score.sum": 8.643546932991652e-05,
+    "sha.latest": "b332499a94df11870dfc7598645c59656deb933d",
+    "time.latest": 1717814002.8374102,
+    "formatted_time": "2024-06-07 21:33:22.837414",
+    "filescores": {
+        "ImportContext-Context-mispelled.ll": 23.696331720259316,
+        "ImportContext-Not-parameter-set.ll": 23.696331720259316,
+        "ImportContext-Unvalid-Context.ll": 28.91100483922206,
+        "ImportContext-Wrong-dimension.ll": 23.696331720259316,
+        "ic2___%for.cond---%for.end10.jscop": 0.0,
+        "ic3___%for.cond---%for.end10.jscop": 0.0,
+        "ic4___%for.cond---%for.end10.jscop": 0.0,
+        "ic___%for.cond---%for.end10.jscop": 0.0
+    },
+    "subdirscores": {}
+}

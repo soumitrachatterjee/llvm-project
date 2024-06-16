@@ -1,0 +1,28 @@
+{
+    "directory name": "llvm-project/lldb/include/lldb/DataFormatters",
+    "score.sum": 0.0013806624521169,
+    "sha.latest": "624ea68cbc3ce422b3ee110c0c0af839eec2e278",
+    "time.latest": 1717846600.5002894,
+    "formatted_time": "2024-06-08 17:06:40.500294",
+    "filescores": {
+        "CXXFunctionPointer.h": 0.9016082852187796,
+        "DataVisualization.h": 5.814078541081228,
+        "DumpValueObjectOptions.h": 3.7777768805227137,
+        "FormatCache.h": 2.961050468887148,
+        "FormatClasses.h": 7.03765917365452,
+        "FormatManager.h": 10.13904123626447,
+        "FormattersContainer.h": 10.62271277187152,
+        "FormattersHelpers.h": 3.663533302084553,
+        "LanguageCategory.h": 2.0833761776843844,
+        "StringPrinter.h": 5.876805552169639,
+        "TypeCategory.h": 10.471578007020256,
+        "TypeCategoryMap.h": 6.692900052719408,
+        "TypeFormat.h": 3.4517910479395826,
+        "TypeSummary.h": 6.45150973109003,
+        "TypeSynthetic.h": 9.20219089629507,
+        "ValueObjectPrinter.h": 5.995590489572838,
+        "VectorIterator.h": 3.905211398865062,
+        "VectorType.h": 0.9515859870588176
+    },
+    "subdirscores": {}
+}

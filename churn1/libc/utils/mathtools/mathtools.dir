@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/libc/utils/mathtools",
+    "score.sum": 1.8838681549474208e-05,
+    "sha.latest": "69c0b2febe01108f50db6e8ed21cd8b2e6088caf",
+    "time.latest": 1717852126.2230437,
+    "formatted_time": "2024-06-08 08:08:46.223047",
+    "filescores": {
+        "GenerateHPDConstants.py": 54.56245115729112,
+        "expm1f.sollya": 0.0,
+        "ryu_tablegen.py": 45.43754884270888
+    },
+    "subdirscores": {}
+}

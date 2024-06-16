@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/containers/associative/map/map.special",
+    "score.sum": 6.849860517883781e-05,
+    "sha.latest": "5cc55fdb57c989b0987faaae7b667cd3459abae1",
+    "time.latest": 1717877340.0172791,
+    "formatted_time": "2024-06-09 01:39:00.017283",
+    "filescores": {
+        "member_swap.pass.cpp": 28.618362650590466,
+        "non_member_swap.pass.cpp": 33.41464136438731,
+        "swap_noexcept.pass.cpp": 37.96699598502223
+    },
+    "subdirscores": {}
+}

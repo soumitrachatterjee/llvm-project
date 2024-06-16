@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/lldb/test/API/commands/expression/import-std-module/empty-module/root",
+    "score.sum": 6.099602068851199e-06,
+    "sha.latest": "99b7b41edf4fbc2d6e52bc4524c956e8f69042d9",
+    "time.latest": 1717890786.069158,
+    "formatted_time": "2024-06-09 05:23:06.069160",
+    "filescores": {},
+    "subdirscores": {
+        "usr": 100.0
+    }
+}

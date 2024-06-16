@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/llvm/include/llvm/WindowsDriver",
+    "score.sum": 3.0326664891050675e-05,
+    "sha.latest": "af5f468228472ef2d4f58c2ac51842d4a6d91c9d",
+    "time.latest": 1717826525.7481651,
+    "formatted_time": "2024-06-08 01:02:05.748169",
+    "filescores": {
+        "MSVCPaths.h": 78.15395322238643,
+        "MSVCSetupApi.h": 21.846046777613576
+    },
+    "subdirscores": {}
+}

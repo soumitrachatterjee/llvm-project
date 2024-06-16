@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/functionalities/breakpoint/hardware_breakpoints/require_hw_breakpoints",
+    "score.sum": 3.1410764634846914e-05,
+    "sha.latest": "9c2468821ec51defd09c246fea4a47886fff8c01",
+    "time.latest": 1717903444.2895403,
+    "formatted_time": "2024-06-09 08:54:04.289542",
+    "filescores": {
+        "main.c": 0.0,
+        "Makefile": 0.0,
+        "TestRequireHWBreakpoints.py": 100.0
+    },
+    "subdirscores": {}
+}

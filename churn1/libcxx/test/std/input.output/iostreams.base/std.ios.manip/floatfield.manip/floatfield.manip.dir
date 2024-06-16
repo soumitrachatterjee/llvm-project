@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/input.output/iostreams.base/std.ios.manip/floatfield.manip",
+    "score.sum": 6.946510257695291e-05,
+    "sha.latest": "7fc6a55688c816f5fc1a5481ae7af25be7500356",
+    "time.latest": 1717908369.299732,
+    "formatted_time": "2024-06-09 10:16:09.299733",
+    "filescores": {
+        "defaultfloat.pass.cpp": 25.0,
+        "fixed.pass.cpp": 25.0,
+        "hexfloat.pass.cpp": 25.0,
+        "scientific.pass.cpp": 25.0
+    },
+    "subdirscores": {}
+}

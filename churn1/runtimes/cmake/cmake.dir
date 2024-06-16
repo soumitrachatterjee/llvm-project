@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/runtimes/cmake",
+    "score.sum": 7.4379554916800465e-06,
+    "sha.latest": "d173ce4a670e88b65c52f6fc1bf10d133ee35704",
+    "time.latest": 1717790604.4371178,
+    "formatted_time": "2024-06-07 15:03:24.437119",
+    "filescores": {},
+    "subdirscores": {
+        "Modules": 100.0,
+        "android": 0.0
+    }
+}

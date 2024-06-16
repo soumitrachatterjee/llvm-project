@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/clang/include/clang/Tooling/Core",
+    "score.sum": 0.00010084726749951823,
+    "sha.latest": "2d861436a9eb789bb70a3644393b21e548240ac6",
+    "time.latest": 1717802543.8299317,
+    "formatted_time": "2024-06-08 04:52:23.829934",
+    "filescores": {
+        "Diagnostic.h": 29.388030976680074,
+        "Replacement.h": 70.61196902331992
+    },
+    "subdirscores": {}
+}

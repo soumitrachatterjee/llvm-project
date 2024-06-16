@@ -1,0 +1,26 @@
+{
+    "directory name": "llvm-project/polly/test/JSONExporter/ImportAccesses",
+    "score.sum": 0.0001683636114754366,
+    "sha.latest": "b332499a94df11870dfc7598645c59656deb933d",
+    "time.latest": 1717813802.5711212,
+    "formatted_time": "2024-06-07 21:30:02.571124",
+    "filescores": {
+        "ImportAccesses-Bad-relation.ll": 14.842496250695053,
+        "ImportAccesses-No-accesses-key.ll": 12.165357678472136,
+        "ImportAccesses-Not-enough-MemAcc.ll": 12.165357678472136,
+        "ImportAccesses-Not-enough-statements.ll": 12.165357678472136,
+        "ImportAccesses-Relation-mispelled.ll": 12.165357678472136,
+        "ImportAccesses-Statements-mispelled.ll": 12.165357678472136,
+        "ImportAccesses-Undeclared-ScopArrayInfo.ll": 12.165357678472136,
+        "ImportAccesses-Wrong-number-dimensions.ll": 12.165357678472136,
+        "ia2___%for.cond---%for.end10.jscop": 0.0,
+        "ia3___%for.cond---%for.end10.jscop": 0.0,
+        "ia4___%for.cond---%for.end10.jscop": 0.0,
+        "ia5___%for.cond---%for.end10.jscop": 0.0,
+        "ia6___%for.cond---%for.end10.jscop": 0.0,
+        "ia7___%for.cond---%for.end10.jscop": 0.0,
+        "ia8___%for.cond---%for.end10.jscop": 0.0,
+        "ia___%for.cond---%for.end10.jscop": 0.0
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/polly/lib/External/isl/imath/tools",
+    "score.sum": 6.099602068851199e-06,
+    "sha.latest": "f98ee40f4b5d7474fc67e82824bf6abbaedb7b1c",
+    "time.latest": 1717795059.9794374,
+    "formatted_time": "2024-06-07 16:17:39.979441",
+    "filescores": {
+        "findthreshold.py": 0.0,
+        "mkdoc.py": 100.0
+    },
+    "subdirscores": {}
+}

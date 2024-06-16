@@ -1,0 +1,16 @@
+{
+    "directory name": "llvm-project/clang-tools-extra/clang-tidy/darwin",
+    "score.sum": 4.981152612501499e-05,
+    "sha.latest": "2fb1c1082c01ddf9b2531083196ff2dace1fdab7",
+    "time.latest": 1717795692.9094899,
+    "formatted_time": "2024-06-08 02:58:12.909494",
+    "filescores": {
+        "AvoidSpinlockCheck.cpp": 12.24536275709092,
+        "AvoidSpinlockCheck.h": 22.254484358218093,
+        "CMakeLists.txt": 18.636397731740836,
+        "DarwinTidyModule.cpp": 12.344614732544338,
+        "DispatchOnceNonstaticCheck.cpp": 12.250495002642875,
+        "DispatchOnceNonstaticCheck.h": 22.26864541776292
+    },
+    "subdirscores": {}
+}

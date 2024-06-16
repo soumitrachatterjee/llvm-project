@@ -1,0 +1,17 @@
+{
+    "directory name": "llvm-project/cross-project-tests/debuginfo-tests/dexter/dex/debugger/visualstudio",
+    "score.sum": 8.027264247404431e-05,
+    "sha.latest": "e1c0e7e515a6fcc8e0cedeaca65015dc27f15ff0",
+    "time.latest": 1717788965.9806654,
+    "formatted_time": "2024-06-08 01:06:05.980670",
+    "filescores": {
+        "VisualStudio.py": 69.60557479680092,
+        "VisualStudio2015.py": 7.598606300799765,
+        "VisualStudio2017.py": 7.598606300799765,
+        "VisualStudio2019.py": 7.598606300799765,
+        "__init__.py": 0.0
+    },
+    "subdirscores": {
+        "windows": 7.598606300799765
+    }
+}

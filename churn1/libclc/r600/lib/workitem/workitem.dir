@@ -1,0 +1,17 @@
+{
+    "directory name": "llvm-project/libclc/r600/lib/workitem",
+    "score.sum": 4.905933373846144e-05,
+    "sha.latest": "3d21fa56f5f5afbbf16b35b199480af71e1189a3",
+    "time.latest": 1717831806.7504056,
+    "formatted_time": "2024-06-08 02:30:06.750409",
+    "filescores": {
+        "get_global_offset.cl": 12.433112323474637,
+        "get_global_size.cl": 21.755228430398148,
+        "get_group_id.cl": 12.433112323474637,
+        "get_local_id.cl": 12.433112323474637,
+        "get_local_size.cl": 12.433112323474637,
+        "get_num_groups.cl": 12.433112323474637,
+        "get_work_dim.cl": 16.07920995222867
+    },
+    "subdirscores": {}
+}

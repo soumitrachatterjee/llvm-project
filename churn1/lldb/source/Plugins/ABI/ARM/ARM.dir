@@ -1,0 +1,17 @@
+{
+    "directory name": "llvm-project/lldb/source/Plugins/ABI/ARM",
+    "score.sum": 0.00019240090109393643,
+    "sha.latest": "678e3ee12351e525fa9d94e7ff68ba7c1a8ca657",
+    "time.latest": 1717867407.066179,
+    "formatted_time": "2024-06-08 22:53:27.066181",
+    "filescores": {
+        "ABIARM.cpp": 3.170256497849339,
+        "ABIARM.h": 3.170256497849339,
+        "ABIMacOSX_arm.cpp": 34.58281553767305,
+        "ABIMacOSX_arm.h": 7.651973749089108,
+        "ABISysV_arm.cpp": 40.58278474777107,
+        "ABISysV_arm.h": 7.651973749089108,
+        "CMakeLists.txt": 3.1899392206789825
+    },
+    "subdirscores": {}
+}

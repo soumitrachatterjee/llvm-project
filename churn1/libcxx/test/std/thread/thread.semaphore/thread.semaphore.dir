@@ -1,0 +1,19 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/thread/thread.semaphore",
+    "score.sum": 0.00019997315332568265,
+    "sha.latest": "825658856d94776889399a07a3939610ee1aa299",
+    "time.latest": 1717979494.5749204,
+    "formatted_time": "2024-06-10 06:01:34.574922",
+    "filescores": {
+        "acquire.pass.cpp": 15.939142022916334,
+        "binary.pass.cpp": 17.477092645810487,
+        "ctor.compile.pass.cpp": 5.412389442419905,
+        "ctor.verify.cpp": 3.0502104744616356,
+        "lost_wakeup.pass.cpp": 0.0,
+        "max.pass.cpp": 7.130026839873365,
+        "release.pass.cpp": 15.939142022916334,
+        "timed.pass.cpp": 16.686786767979925,
+        "try_acquire.pass.cpp": 18.36520978362204
+    },
+    "subdirscores": {}
+}

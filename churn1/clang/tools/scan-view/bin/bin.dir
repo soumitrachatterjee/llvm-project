@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/clang/tools/scan-view/bin",
+    "score.sum": 1.599926827026861e-05,
+    "sha.latest": "1be4db73642fa0658d3b1e1dad7ec95259d1d261",
+    "time.latest": 1718083037.8092442,
+    "formatted_time": "2024-06-11 10:47:17.809246",
+    "filescores": {
+        "scan-view": 100.0
+    },
+    "subdirscores": {}
+}

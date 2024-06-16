@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/concepts",
+    "score.sum": 0.00011074596016246935,
+    "sha.latest": "70bcd81e7a7365d2fa98a2d08ba81305eb7846f1",
+    "time.latest": 1717875554.8458967,
+    "formatted_time": "2024-06-09 01:09:14.845899",
+    "filescores": {},
+    "subdirscores": {
+        "concepts.callable": 23.641745448624764,
+        "concepts.compare": 15.145660666924574,
+        "concepts.lang": 43.89237602469475,
+        "concepts.object": 17.320217859755907
+    }
+}

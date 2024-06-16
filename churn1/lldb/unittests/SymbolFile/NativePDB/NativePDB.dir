@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/unittests/SymbolFile/NativePDB",
+    "score.sum": 6.405901388112034e-05,
+    "sha.latest": "20c77a5789331956cd47d1804df7885a82094964",
+    "time.latest": 1717998058.472446,
+    "formatted_time": "2024-06-10 11:10:58.472449",
+    "filescores": {
+        "CMakeLists.txt": 9.521848213540625,
+        "PdbFPOProgramToDWARFExpressionTests.cpp": 80.95630357291876,
+        "UdtRecordCompleterTests.cpp": 9.521848213540625
+    },
+    "subdirscores": {}
+}

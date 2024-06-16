@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/clang/lib/ExtractAPI/Serialization",
+    "score.sum": 0.00015582841635133508,
+    "sha.latest": "69fedaf830f8a2df4751a3c20189b7299daf88ae",
+    "time.latest": 1717811206.570016,
+    "formatted_time": "2024-06-08 07:16:46.570020",
+    "filescores": {
+        "SymbolGraphSerializer.cpp": 100.0
+    },
+    "subdirscores": {}
+}

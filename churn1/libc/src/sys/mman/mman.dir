@@ -1,0 +1,25 @@
+{
+    "directory name": "llvm-project/libc/src/sys/mman",
+    "score.sum": 0.00016633839510712245,
+    "sha.latest": "fe1645e25c5ab5e3ba8aa16d4f637633ded328ab",
+    "time.latest": 1717841497.7819574,
+    "formatted_time": "2024-06-08 05:11:37.781961",
+    "filescores": {
+        "CMakeLists.txt": 22.8146019735141,
+        "madvise.h": 3.666983840335261,
+        "mincore.h": 3.93780172005834,
+        "mlock.h": 0.0,
+        "mlock2.h": 0.0,
+        "mlockall.h": 0.0,
+        "mmap.h": 6.022645707540816,
+        "mprotect.h": 3.666983840335261,
+        "msync.h": 0.0,
+        "munlock.h": 0.0,
+        "munlockall.h": 0.0,
+        "munmap.h": 6.022645707540816,
+        "posix_madvise.h": 3.666983840335261
+    },
+    "subdirscores": {
+        "linux": 50.201353370340144
+    }
+}

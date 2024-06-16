@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/llvm/utils/gn/secondary/clang/lib/Index",
+    "score.sum": 8.889616945206823e-06,
+    "sha.latest": "d126943251d0cd77e572bced5ab6c23595acd468",
+    "time.latest": 1718083921.6307023,
+    "formatted_time": "2024-06-11 00:32:01.630706",
+    "filescores": {
+        "BUILD.gn": 100.0
+    },
+    "subdirscores": {}
+}

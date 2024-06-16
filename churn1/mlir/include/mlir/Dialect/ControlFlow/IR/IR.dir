@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/mlir/include/mlir/Dialect/ControlFlow/IR",
+    "score.sum": 8.582356559187685e-05,
+    "sha.latest": "cba4e7e9e629b50c836ae8dda3ef60985e417180",
+    "time.latest": 1717793906.3478487,
+    "formatted_time": "2024-06-07 15:58:26.347852",
+    "filescores": {
+        "CMakeLists.txt": 0.0,
+        "ControlFlow.h": 22.422115174545844,
+        "ControlFlowOps.h": 21.291943428072983,
+        "ControlFlowOps.td": 56.28594139738118
+    },
+    "subdirscores": {}
+}

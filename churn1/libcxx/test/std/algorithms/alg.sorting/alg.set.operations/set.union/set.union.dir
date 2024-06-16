@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/algorithms/alg.sorting/alg.set.operations/set.union",
+    "score.sum": 9.337766515717517e-05,
+    "sha.latest": "d05bada59205b9bcf1195a6eac7e09b721e3b79b",
+    "time.latest": 1717871974.4555178,
+    "formatted_time": "2024-06-09 00:09:34.455521",
+    "filescores": {
+        "ranges_set_union.pass.cpp": 12.13410681600179,
+        "set_union.pass.cpp": 35.540904175714296,
+        "set_union_comp.pass.cpp": 35.540904175714296,
+        "set_union_move.pass.cpp": 16.78408483256963
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/lldb/test/API/functionalities/data-formatter/pyobjsynthprovider",
+    "score.sum": 2.265903854266626e-05,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717908272.9289763,
+    "formatted_time": "2024-06-09 10:14:32.928978",
+    "filescores": {
+        "main.cpp": 26.91906833277961,
+        "Makefile": 0.0,
+        "provider.py": 26.91906833277961,
+        "TestPyObjSynthProvider.py": 46.16186333444079
+    },
+    "subdirscores": {}
+}

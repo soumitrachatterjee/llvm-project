@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/language.support/support.rtti/type.info",
+    "score.sum": 6.36855988202752e-05,
+    "sha.latest": "1197fcabc4b5f39dbe8a94b1ab6e92354f3f0dd2",
+    "time.latest": 1717924563.8410444,
+    "formatted_time": "2024-06-09 14:46:03.841048",
+    "filescores": {
+        "type_info.equal.pass.cpp": 9.577678756016196,
+        "type_info.pass.cpp": 50.326253794541756,
+        "type_info_hash.pass.cpp": 40.09606744944204
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/libcxx/test/libcxx/containers/associative/map",
+    "score.sum": 1.5231950905366977e-05,
+    "sha.latest": "86ab93828a56fb1208b4a63e83f3631f183a30fb",
+    "time.latest": 1717845746.20797,
+    "formatted_time": "2024-06-08 16:52:26.207974",
+    "filescores": {
+        "at.abort.pass.cpp": 50.0,
+        "at.const.abort.pass.cpp": 50.0,
+        "find.modules.compile.pass.mm": 0.0
+    },
+    "subdirscores": {}
+}

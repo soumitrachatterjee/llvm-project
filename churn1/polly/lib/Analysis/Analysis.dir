@@ -1,0 +1,19 @@
+{
+    "directory name": "llvm-project/polly/lib/Analysis",
+    "score.sum": 0.00382110624649653,
+    "sha.latest": "283feb42ee509cc56fb75316b4fd86b53a714cf4",
+    "time.latest": 1717793584.3585832,
+    "formatted_time": "2024-06-07 15:53:04.358587",
+    "filescores": {
+        "DependenceInfo.cpp": 4.965957490316096,
+        "PolyhedralInfo.cpp": 1.2991049359960307,
+        "PruneUnprofitable.cpp": 0.49394917997434395,
+        "ScopBuilder.cpp": 8.646231142852471,
+        "ScopDetection.cpp": 22.011365273035842,
+        "ScopDetectionDiagnostic.cpp": 2.822745164678703,
+        "ScopGraphPrinter.cpp": 2.3312999835944854,
+        "ScopInfo.cpp": 55.849638706899675,
+        "ScopPass.cpp": 1.5797081226523508
+    },
+    "subdirscores": {}
+}

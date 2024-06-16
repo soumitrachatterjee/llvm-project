@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/llvm/lib/Target/X86/TargetInfo",
+    "score.sum": 7.097176164328179e-05,
+    "sha.latest": "b3a6d096d7c369f5290172c126bd699716bb383c",
+    "time.latest": 1717871163.3790927,
+    "formatted_time": "2024-06-08 13:26:03.379096",
+    "filescores": {
+        "CMakeLists.txt": 34.51590083580166,
+        "X86TargetInfo.cpp": 65.48409916419834,
+        "X86TargetInfo.h": 0.0
+    },
+    "subdirscores": {}
+}

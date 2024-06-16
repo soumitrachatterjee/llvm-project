@@ -1,0 +1,20 @@
+{
+    "directory name": "llvm-project/clang/tools/diagtool",
+    "score.sum": 0.0003771846821716821,
+    "sha.latest": "a87dc23a6271cadd6d3f93561f2d8b1661399e6d",
+    "time.latest": 1718082333.4718661,
+    "formatted_time": "2024-06-11 10:35:33.471868",
+    "filescores": {
+        "CMakeLists.txt": 11.947511535805138,
+        "DiagnosticNames.cpp": 20.97138698389843,
+        "DiagnosticNames.h": 7.526232284612172,
+        "DiagTool.cpp": 9.452177494631183,
+        "DiagTool.h": 4.805332559128627,
+        "diagtool_main.cpp": 1.98483634037717,
+        "FindDiagnosticID.cpp": 6.894657776960754,
+        "ListWarnings.cpp": 9.09295533025501,
+        "ShowEnabledWarnings.cpp": 10.423004391771213,
+        "TreeView.cpp": 16.901905302560305
+    },
+    "subdirscores": {}
+}

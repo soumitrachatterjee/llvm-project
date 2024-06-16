@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/source/Plugins/Instruction/MIPS",
+    "score.sum": 0.00027327204250083957,
+    "sha.latest": "1e7101a3d95884c791d566b7b6192fbac55f55e0",
+    "time.latest": 1717869579.5868664,
+    "formatted_time": "2024-06-08 23:29:39.586869",
+    "filescores": {
+        "CMakeLists.txt": 4.350909297551088,
+        "EmulateInstructionMIPS.cpp": 70.89027630901029,
+        "EmulateInstructionMIPS.h": 24.758814393438623
+    },
+    "subdirscores": {}
+}

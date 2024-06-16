@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/clang-tools-extra/test/Unit",
+    "score.sum": 1.737142948688467e-05,
+    "sha.latest": "dd3c26a045c081620375a878159f536758baba6e",
+    "time.latest": 1717836397.497546,
+    "formatted_time": "2024-06-08 14:16:37.497549",
+    "filescores": {
+        "lit.cfg.py": 64.88716099353617,
+        "lit.site.cfg.py.in": 35.11283900646382
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,26 @@
+{
+    "directory name": "llvm-project/clang-tools-extra/clang-tidy/fuchsia",
+    "score.sum": 0.00025835632486990377,
+    "sha.latest": "e90e43fb9cd1d305f7196cd526aa503374e0f616",
+    "time.latest": 1717795944.07434,
+    "formatted_time": "2024-06-08 03:02:24.074343",
+    "filescores": {
+        "CMakeLists.txt": 8.353224594804107,
+        "DefaultArgumentsCallsCheck.cpp": 2.3609261634770022,
+        "DefaultArgumentsCallsCheck.h": 4.325167796287151,
+        "DefaultArgumentsDeclarationsCheck.cpp": 3.042205201617039,
+        "DefaultArgumentsDeclarationsCheck.h": 6.64922060126205,
+        "FuchsiaTidyModule.cpp": 6.090835408368171,
+        "MultipleInheritanceCheck.cpp": 15.170850428676353,
+        "MultipleInheritanceCheck.h": 9.282960732005858,
+        "OverloadedOperatorCheck.cpp": 3.7767865561294163,
+        "OverloadedOperatorCheck.h": 5.521689694747808,
+        "StaticallyConstructedObjectsCheck.cpp": 7.065747761988981,
+        "StaticallyConstructedObjectsCheck.h": 6.482858629586727,
+        "TrailingReturnCheck.cpp": 6.622284754523012,
+        "TrailingReturnCheck.h": 6.465428201950554,
+        "VirtualInheritanceCheck.cpp": 3.2535821261697544,
+        "VirtualInheritanceCheck.h": 5.536231348406024
+    },
+    "subdirscores": {}
+}

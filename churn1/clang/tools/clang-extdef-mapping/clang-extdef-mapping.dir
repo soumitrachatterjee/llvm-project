@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/clang/tools/clang-extdef-mapping",
+    "score.sum": 5.927483740822967e-05,
+    "sha.latest": "f3dcc2351cff7b26c9870d737e5d431551542d9e",
+    "time.latest": 1718081430.9491556,
+    "formatted_time": "2024-06-11 10:20:30.949158",
+    "filescores": {
+        "ClangExtDefMapGen.cpp": 86.95667329426684,
+        "CMakeLists.txt": 13.043326705733172
+    },
+    "subdirscores": {}
+}

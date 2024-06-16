@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/mlir/include/mlir/Dialect/MPI",
+    "score.sum": 1.3182794665566034e-05,
+    "sha.latest": "b334664f9f3a098b6f3fd9cfd17b856a9edfe446",
+    "time.latest": 1717795359.34432,
+    "formatted_time": "2024-06-07 16:22:39.344321",
+    "filescores": {
+        "CMakeLists.txt": 50.0
+    },
+    "subdirscores": {
+        "IR": 50.0
+    }
+}

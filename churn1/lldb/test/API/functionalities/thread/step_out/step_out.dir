@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/functionalities/thread/step_out",
+    "score.sum": 5.235844048374079e-05,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717923012.4008567,
+    "formatted_time": "2024-06-09 14:20:12.400859",
+    "filescores": {
+        "main.cpp": 41.240391515265756,
+        "Makefile": 0.0,
+        "TestThreadStepOut.py": 58.75960848473424
+    },
+    "subdirscores": {}
+}

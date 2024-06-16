@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/clang/include/clang/Edit",
+    "score.sum": 0.00015743685696104743,
+    "sha.latest": "781941183700b52d11b27227e3341385447610fa",
+    "time.latest": 1717799315.829608,
+    "formatted_time": "2024-06-08 03:58:35.829611",
+    "filescores": {
+        "Commit.h": 22.191391581494106,
+        "EditedSource.h": 29.91398729947295,
+        "EditsReceiver.h": 18.56625212044248,
+        "FileOffset.h": 12.124407373383992,
+        "Rewriters.h": 17.203961625206464
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/llvm/tools/llvm-exegesis/lib/PowerPC",
+    "score.sum": 6.072194283321084e-05,
+    "sha.latest": "37ef64078553af3e8d305ac2a5d50faa82f8b8bb",
+    "time.latest": 1718080043.913054,
+    "formatted_time": "2024-06-10 23:27:23.913058",
+    "filescores": {
+        "CMakeLists.txt": 80.64025694679576,
+        "Target.cpp": 19.359743053204234
+    },
+    "subdirscores": {}
+}

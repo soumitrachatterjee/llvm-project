@@ -1,0 +1,22 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/ranges/range.factories/range.iota.view/iterator",
+    "score.sum": 0.00014912526083922813,
+    "sha.latest": "0a4aa8a122aa097499c498b639a75b5e9a73e9f0",
+    "time.latest": 1717964218.255619,
+    "formatted_time": "2024-06-10 01:46:58.255623",
+    "filescores": {
+        "compare.pass.cpp": 6.988061221497752,
+        "ctor.default.pass.cpp": 6.4322910873433194,
+        "ctor.value.pass.cpp": 8.251386431616403,
+        "decrement.pass.cpp": 8.251386431616403,
+        "increment.pass.cpp": 8.251386431616403,
+        "member_typedefs.compile.pass.cpp": 9.552512684671143,
+        "minus.pass.cpp": 9.552512684671143,
+        "minus_eq.pass.cpp": 8.251386431616403,
+        "plus.pass.cpp": 8.251386431616403,
+        "plus_eq.pass.cpp": 8.251386431616403,
+        "star.pass.cpp": 11.534012644774903,
+        "subscript.pass.cpp": 6.4322910873433194
+    },
+    "subdirscores": {}
+}

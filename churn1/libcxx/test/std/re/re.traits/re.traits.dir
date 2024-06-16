@@ -1,0 +1,23 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/re/re.traits",
+    "score.sum": 0.00035354223817795857,
+    "sha.latest": "bce3b505931cee9dc79d1c56c021983b4a8fb819",
+    "time.latest": 1717968353.9713032,
+    "formatted_time": "2024-06-10 02:55:53.971305",
+    "filescores": {
+        "default.pass.cpp": 6.1404694859106215,
+        "getloc.pass.cpp": 4.422641182312162,
+        "imbue.pass.cpp": 4.451548750559059,
+        "isctype.pass.cpp": 11.541625019815381,
+        "length.pass.cpp": 5.864810131932432,
+        "lookup_classname.pass.cpp": 12.784838196247561,
+        "lookup_collatename.pass.cpp": 9.07994926344647,
+        "transform.pass.cpp": 8.166126057694772,
+        "transform_primary.pass.cpp": 9.133637475322319,
+        "translate.pass.cpp": 5.864810131932432,
+        "translate_nocase.pass.cpp": 11.52901137683691,
+        "types.pass.cpp": 5.864810131932432,
+        "value.pass.cpp": 5.15572279605744
+    },
+    "subdirscores": {}
+}

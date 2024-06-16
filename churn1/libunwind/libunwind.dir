@@ -1,0 +1,19 @@
+{
+    "directory name": "llvm-project/libunwind",
+    "score.sum": 0.003055760146832429,
+    "sha.latest": "4520b478d2512b0f39764e0464dcb4cb961845b5",
+    "time.latest": 1717827241.027824,
+    "formatted_time": "2024-06-08 11:44:01.027828",
+    "filescores": {
+        ".clang-format": 0.0,
+        "CMakeLists.txt": 18.557340841122183,
+        "LICENSE.TXT": 0.7336543906560569
+    },
+    "subdirscores": {
+        "cmake": 5.462776639079845,
+        "docs": 3.6843639551434797,
+        "include": 8.12170410207437,
+        "src": 44.56719427857575,
+        "test": 18.87296579334832
+    }
+}

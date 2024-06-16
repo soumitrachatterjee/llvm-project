@@ -1,0 +1,26 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/re/re.alg/re.alg.search",
+    "score.sum": 0.0002970839266551516,
+    "sha.latest": "fb855eb941b6d740cc6560297d0b4d3201dcaf9f",
+    "time.latest": 1717965936.0859,
+    "formatted_time": "2024-06-10 02:15:36.085901",
+    "filescores": {
+        "awk.locale.pass.cpp": 4.347930139586811,
+        "awk.pass.cpp": 9.196562715327287,
+        "backup.pass.cpp": 5.934423859787639,
+        "basic.compile.fail.cpp": 0.0,
+        "basic.locale.pass.cpp": 4.347930139586811,
+        "basic.pass.cpp": 10.325317293378372,
+        "ecma.locale.pass.cpp": 4.347930139586811,
+        "ecma.pass.cpp": 9.196562715327287,
+        "egrep.pass.cpp": 4.756141944722391,
+        "exponential.pass.cpp": 7.241224367548211,
+        "extended.locale.pass.cpp": 4.347930139586811,
+        "extended.pass.cpp": 10.482707312343752,
+        "grep.pass.cpp": 7.930659092197017,
+        "invert_neg_word_search.pass.cpp": 6.373989253508117,
+        "lookahead.pass.cpp": 6.414548942790282,
+        "no_update_pos.pass.cpp": 4.756141944722391
+    },
+    "subdirscores": {}
+}

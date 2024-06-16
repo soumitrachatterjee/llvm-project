@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/functionalities/data-formatter/data-formatter-stl/libstdcpp/variant",
+    "score.sum": 1.4928249878305669e-05,
+    "sha.latest": "00d3ed6deadb1d647b70ab37ac66ada6a550c1ba",
+    "time.latest": 1717907454.8328407,
+    "formatted_time": "2024-06-09 10:00:54.832842",
+    "filescores": {
+        "main.cpp": 0.0,
+        "Makefile": 0.0,
+        "TestDataFormatterLibStdcxxVariant.py": 100.0
+    },
+    "subdirscores": {}
+}

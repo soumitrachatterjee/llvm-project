@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/functionalities/abbreviation",
+    "score.sum": 2.0919668809927725e-05,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717901395.6793828,
+    "formatted_time": "2024-06-09 08:19:55.679385",
+    "filescores": {
+        "categories": 0.0,
+        "TestAbbreviations.py": 50.0,
+        "TestCommonShortSpellings.py": 50.0
+    },
+    "subdirscores": {}
+}

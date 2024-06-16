@@ -1,0 +1,23 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/language.support",
+    "score.sum": 0.001992081384062381,
+    "sha.latest": "80f9458cf30d13eef21b09042ea590945c5e64db",
+    "time.latest": 1717925052.759116,
+    "formatted_time": "2024-06-09 14:54:12.759119",
+    "filescores": {},
+    "subdirscores": {
+        "cmp": 6.296193744321046,
+        "cstdint": 1.0139505808873261,
+        "support.coroutines": 0.9516895651474088,
+        "support.dynamic": 22.2612763595275,
+        "support.exception": 4.585258552799411,
+        "support.general": 0.6090546138239817,
+        "support.initlist": 1.730279453574042,
+        "support.limits": 45.74358752185355,
+        "support.rtti": 1.6408619459903944,
+        "support.runtime": 7.5193618910217115,
+        "support.srcloc": 0.7970973910297339,
+        "support.start.term": 2.1133865681721318,
+        "support.types": 4.73800181185177
+    }
+}

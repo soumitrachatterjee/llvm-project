@@ -1,0 +1,18 @@
+{
+    "directory name": "llvm-project/clang/test/CXX/basic/basic.lookup/basic.lookup.argdep",
+    "score.sum": 0.00010484677761929278,
+    "sha.latest": "da00c60dae0040185dc45039c4397f6e746548e9",
+    "time.latest": 1718082275.2991931,
+    "formatted_time": "2024-06-11 10:34:35.299195",
+    "filescores": {
+        "p2-associated-namespaces-classes.cpp": 5.817634272938128,
+        "p2-inline-namespace.cpp": 0.0,
+        "p2-template-id.cpp": 6.596959929715726,
+        "p2.cpp": 18.10848009137539,
+        "p3.cpp": 5.839685156268932,
+        "p4-friend-in-reachable-class.cpp": 5.81781211419433,
+        "p4.cpp": 45.95301535552645,
+        "p5-ex2.cpp": 11.866413079981037
+    },
+    "subdirscores": {}
+}

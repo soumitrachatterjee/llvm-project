@@ -1,0 +1,28 @@
+{
+    "directory name": "llvm-project/llvm/docs/GlobalISel",
+    "score.sum": 0.00021460748534348034,
+    "sha.latest": "96049fcf4e5f2eb0271bdfa89e113eef9c5fa9f6",
+    "time.latest": 1717800893.909482,
+    "formatted_time": "2024-06-07 17:54:53.909485",
+    "filescores": {
+        "GMIR.rst": 4.523164306583545,
+        "GenericOpcode.rst": 61.096330562924365,
+        "IRTranslator.rst": 5.7947068245988635,
+        "InstructionSelect.rst": 0.0,
+        "KnownBits.rst": 2.842213103186385,
+        "Legalizer.rst": 3.984276568563929,
+        "MIRPatterns.rst": 7.598836931619635,
+        "Pipeline.rst": 5.653224307772183,
+        "Porting.rst": 5.610344954797477,
+        "RegBankSelect.rst": 0.0,
+        "Resources.rst": 0.0,
+        "block-extract.png": 0.0,
+        "index.rst": 2.8969024399536196,
+        "pipeline-overview-customized.png": 0.0,
+        "pipeline-overview-with-combiners.png": 0.0,
+        "pipeline-overview.png": 0.0,
+        "testing-pass-level.png": 0.0,
+        "testing-unit-level.png": 0.0
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/localization/locales/locale.convenience/conversions/conversions.character",
+    "score.sum": 3.4732551288476456e-05,
+    "sha.latest": "7fc6a55688c816f5fc1a5481ae7af25be7500356",
+    "time.latest": 1717932571.5287952,
+    "formatted_time": "2024-06-09 16:59:31.528798",
+    "filescores": {
+        "tolower.pass.cpp": 50.0,
+        "toupper.pass.cpp": 50.0
+    },
+    "subdirscores": {}
+}

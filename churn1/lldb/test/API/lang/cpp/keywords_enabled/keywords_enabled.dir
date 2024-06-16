@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/lldb/test/API/lang/cpp/keywords_enabled",
+    "score.sum": 9.93270199642458e-06,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717932858.7852402,
+    "formatted_time": "2024-06-09 17:04:18.785243",
+    "filescores": {
+        "TestCppKeywordsEnabled.py": 100.0
+    },
+    "subdirscores": {}
+}

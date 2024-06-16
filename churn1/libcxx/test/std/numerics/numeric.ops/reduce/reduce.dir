@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/numerics/numeric.ops/reduce",
+    "score.sum": 0.0001481504966641207,
+    "sha.latest": "34f73804ed60e90276e2303398162c2fc05f47ec",
+    "time.latest": 1717952335.5699506,
+    "formatted_time": "2024-06-09 22:28:55.569954",
+    "filescores": {
+        "reduce.pass.cpp": 33.664564147027065,
+        "reduce_init.pass.cpp": 33.664564147027065,
+        "reduce_init_op.pass.cpp": 32.670871705945856
+    },
+    "subdirscores": {}
+}

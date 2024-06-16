@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/depr/depr.str.strstreams/depr.ostrstream/depr.ostrstream.cons",
+    "score.sum": 3.244987548968094e-05,
+    "sha.latest": "66c7388c83bb0320f2223da3e3f31363f44bb3aa",
+    "time.latest": 1717896443.7309756,
+    "formatted_time": "2024-06-09 06:57:23.730978",
+    "filescores": {
+        "cp_size_mode.pass.cpp": 50.0,
+        "default.pass.cpp": 50.0
+    },
+    "subdirscores": {}
+}

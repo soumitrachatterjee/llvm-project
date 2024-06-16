@@ -1,0 +1,35 @@
+{
+    "directory name": "llvm-project/mlir/lib/Interfaces",
+    "score.sum": 0.0008234721436665299,
+    "sha.latest": "9b514235fc383e1b76b8044da273cc04bf5160a8",
+    "time.latest": 1717811152.5045817,
+    "formatted_time": "2024-06-07 20:45:52.504585",
+    "filescores": {
+        "CMakeLists.txt": 16.079619150882365,
+        "CallInterfaces.cpp": 0.9127315293750924,
+        "CastInterfaces.cpp": 0.7407174748732327,
+        "ControlFlowInterfaces.cpp": 16.037006191524014,
+        "CopyOpInterface.cpp": 0.0,
+        "DataLayoutInterfaces.cpp": 7.388738864129168,
+        "DerivedAttributeOpInterface.cpp": 0.0,
+        "DestinationStyleOpInterface.cpp": 2.0723984172368497,
+        "FunctionImplementation.cpp": 0.0,
+        "FunctionInterfaces.cpp": 0.0,
+        "InferIntRangeInterface.cpp": 1.9216853764908268,
+        "InferTypeOpInterface.cpp": 11.38972507206755,
+        "LoopLikeInterface.cpp": 7.4779877686687355,
+        "MemorySlotInterfaces.cpp": 0.7926172019944699,
+        "ParallelCombiningOpInterface.cpp": 0.0,
+        "RuntimeVerifiableOpInterface.cpp": 0.0,
+        "ShapedOpInterfaces.cpp": 0.0,
+        "SideEffectInterfaces.cpp": 6.198959653717114,
+        "SubsetOpInterface.cpp": 0.7407174748732327,
+        "TilingInterface.cpp": 0.7407174748732327,
+        "ValueBoundsOpInterface.cpp": 3.0655637799866513,
+        "VectorInterfaces.cpp": 3.738392726435591,
+        "ViewLikeInterface.cpp": 19.934624725929297
+    },
+    "subdirscores": {
+        "Utils": 0.7677971169425588
+    }
+}

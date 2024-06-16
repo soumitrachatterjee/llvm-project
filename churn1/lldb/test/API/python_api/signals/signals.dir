@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/python_api/signals",
+    "score.sum": 2.0228227014959674e-05,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717966864.9450583,
+    "formatted_time": "2024-06-10 02:31:04.945060",
+    "filescores": {
+        "main.cpp": 30.15391346132447,
+        "Makefile": 0.0,
+        "TestSignalsAPI.py": 69.84608653867552
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/lang/objcxx/conflicting-names-class-update-utility-expr",
+    "score.sum": 9.006739130307968e-06,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717960344.1008775,
+    "formatted_time": "2024-06-10 00:42:24.100883",
+    "filescores": {
+        "main.mm": 0.0,
+        "Makefile": 0.0,
+        "TestObjCConflictingNamesForClassUpdateExpr.py": 100.0
+    },
+    "subdirscores": {}
+}

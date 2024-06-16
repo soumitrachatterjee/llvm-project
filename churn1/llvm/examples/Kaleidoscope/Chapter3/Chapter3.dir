@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/llvm/examples/Kaleidoscope/Chapter3",
+    "score.sum": 0.00010015186160434254,
+    "sha.latest": "7579941d8b02af995e152a453da9b9cc0cc205e7",
+    "time.latest": 1717803979.216183,
+    "formatted_time": "2024-06-07 18:46:19.216187",
+    "filescores": {
+        "CMakeLists.txt": 13.178676463803365,
+        "toy.cpp": 86.82132353619664
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,42 @@
+{
+    "directory name": "llvm-project/flang/lib/Lower",
+    "score.sum": 0.005035573550346037,
+    "sha.latest": "860a40057da2fbb626fdf17feec18070d95b687b",
+    "time.latest": 1717791111.9376929,
+    "formatted_time": "2024-06-07 15:11:51.937696",
+    "filescores": {
+        ".clang-format": 0.0,
+        ".clang-tidy": 0.3581598025736708,
+        "Allocatable.cpp": 2.3396361205056166,
+        "Bridge.cpp": 13.897545503156561,
+        "CMakeLists.txt": 2.720707522231412,
+        "CallInterface.cpp": 4.276022643931386,
+        "Coarray.cpp": 0.3715055639662249,
+        "ComponentPath.cpp": 0.1952807417042177,
+        "ConvertArrayConstructor.cpp": 0.4583010922029564,
+        "ConvertCall.cpp": 5.041841771722807,
+        "ConvertConstant.cpp": 1.1210971369599276,
+        "ConvertExpr.cpp": 14.790459477075968,
+        "ConvertExprToHLFIR.cpp": 3.5094964077564925,
+        "ConvertProcedureDesignator.cpp": 0.6198771489157621,
+        "ConvertType.cpp": 3.6702568833333573,
+        "ConvertVariable.cpp": 6.626963001127181,
+        "CustomIntrinsicCall.cpp": 0.9182017636762914,
+        "DirectivesCommon.h": 1.1737004540540021,
+        "DumpEvaluateExpr.cpp": 0.0,
+        "HlfirIntrinsics.cpp": 0.6221020914802112,
+        "HostAssociations.cpp": 1.0380291495962595,
+        "IO.cpp": 4.241276652032471,
+        "IterationSpace.cpp": 0.7453650863224682,
+        "LoweringOptions.cpp": 0.12113023487527143,
+        "Mangler.cpp": 2.449385511277603,
+        "OpenACC.cpp": 23.049626795396826,
+        "PFTBuilder.cpp": 3.24171556238392,
+        "Runtime.cpp": 0.9701664738997682,
+        "SymbolMap.cpp": 0.7110143746849787,
+        "VectorSubscripts.cpp": 0.21392656270431404
+    },
+    "subdirscores": {
+        "OpenMP": 0.5072084704520644
+    }
+}

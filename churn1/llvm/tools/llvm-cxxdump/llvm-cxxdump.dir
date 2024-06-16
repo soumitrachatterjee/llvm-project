@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/llvm/tools/llvm-cxxdump",
+    "score.sum": 0.00011249990105525857,
+    "sha.latest": "586ecdf205aa8b3d162da6f955170a6736656615",
+    "time.latest": 1718078961.039348,
+    "formatted_time": "2024-06-10 23:09:21.039351",
+    "filescores": {
+        "CMakeLists.txt": 8.880534257520232,
+        "Error.cpp": 13.682198053583846,
+        "Error.h": 5.421873274230836,
+        "llvm-cxxdump.cpp": 66.59352114043425,
+        "llvm-cxxdump.h": 5.421873274230836
+    },
+    "subdirscores": {}
+}

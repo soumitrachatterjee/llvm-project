@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/source/Plugins/Instruction/MIPS64",
+    "score.sum": 0.00027654540640013035,
+    "sha.latest": "1e7101a3d95884c791d566b7b6192fbac55f55e0",
+    "time.latest": 1717869624.5566099,
+    "formatted_time": "2024-06-08 23:30:24.556612",
+    "filescores": {
+        "CMakeLists.txt": 4.923383427616378,
+        "EmulateInstructionMIPS64.cpp": 70.10898546301239,
+        "EmulateInstructionMIPS64.h": 24.967631109371233
+    },
+    "subdirscores": {}
+}

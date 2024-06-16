@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/utilities/function.objects/func.wrap/func.wrap.badcall/func.wrap.badcall.const",
+    "score.sum": 1.59578681326931e-05,
+    "sha.latest": "dbe60caa922d5e4a30e4f335f33b2628dd82e3e7",
+    "time.latest": 1717996350.7255557,
+    "formatted_time": "2024-06-10 10:42:30.725557",
+    "filescores": {
+        "bad_function_call_ctor.pass.cpp": 100.0
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,27 @@
+{
+    "directory name": "llvm-project/compiler-rt/test/builtins/Unit/ppc",
+    "score.sum": 0.00012868902812614912,
+    "sha.latest": "7661d3bc9d57e70bab7d81e91ec8e69df92ecff5",
+    "time.latest": 1717821889.8322425,
+    "formatted_time": "2024-06-08 10:14:49.832246",
+    "filescores": {
+        "DD.h": 0.0,
+        "fixtfdi_test.c": 13.777875336817221,
+        "fixtfti_test.c": 0.0,
+        "fixtfti_test.h": 0.0,
+        "fixunstfti_test.c": 0.0,
+        "fixunstfti_test.h": 4.7397996221340515,
+        "floatditf_test.c": 14.941220627276715,
+        "floatditf_test.h": 0.0,
+        "floattitf_test.c": 0.0,
+        "floattitf_test.h": 0.0,
+        "floatunditf_test.c": 14.941220627276715,
+        "floatunditf_test.h": 0.0,
+        "qadd_test.c": 12.899970946623826,
+        "qdiv_test.c": 12.899970946623826,
+        "qmul_test.c": 12.899970946623826,
+        "qsub_test.c": 12.899970946623826,
+        "test": 0.0
+    },
+    "subdirscores": {}
+}

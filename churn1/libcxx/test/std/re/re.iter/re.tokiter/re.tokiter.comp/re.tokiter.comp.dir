@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/re/re.iter/re.tokiter/re.tokiter.comp",
+    "score.sum": 1.9042950145179032e-05,
+    "sha.latest": "5f8e4315979c266f3610f89d11a48bd43809533d",
+    "time.latest": 1717966661.0543413,
+    "formatted_time": "2024-06-10 02:27:41.054343",
+    "filescores": {
+        "equal.pass.cpp": 100.0
+    },
+    "subdirscores": {}
+}

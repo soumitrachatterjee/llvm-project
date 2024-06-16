@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/source/Plugins/Trace/common",
+    "score.sum": 4.2532028485056164e-05,
+    "sha.latest": "2fe8327406050d2585d2ced910a678e28caefcf5",
+    "time.latest": 1717882139.7307143,
+    "formatted_time": "2024-06-09 02:58:59.730716",
+    "filescores": {
+        "CMakeLists.txt": 15.946936802131892,
+        "ThreadPostMortemTrace.cpp": 37.4996395553676,
+        "ThreadPostMortemTrace.h": 46.553423642500505
+    },
+    "subdirscores": {}
+}

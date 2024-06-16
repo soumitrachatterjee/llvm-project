@@ -1,0 +1,20 @@
+{
+    "directory name": "llvm-project/lld/test",
+    "score.sum": 0.015308276905461977,
+    "sha.latest": "7b275aa2438c22604505d618dd37ee60052f2800",
+    "time.latest": 1717904672.7939508,
+    "formatted_time": "2024-06-09 09:14:32.793953",
+    "filescores": {
+        "CMakeLists.txt": 1.9593338750360283,
+        "lit.cfg.py": 0.6976135802595161,
+        "lit.site.cfg.py.in": 0.9715986167729465
+    },
+    "subdirscores": {
+        "COFF": 16.708020790204767,
+        "ELF": 57.44656333352233,
+        "MachO": 12.75017694081512,
+        "MinGW": 1.224563980482621,
+        "Unit": 0.45199853394888717,
+        "wasm": 7.79013034895778
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/lldb/test/API/functionalities/data-formatter/typedef_array",
+    "score.sum": 1.2283699488196563e-05,
+    "sha.latest": "aee49255074fd4ef38d97e6e70cbfbf2f9fd0fa7",
+    "time.latest": 1717908597.7594907,
+    "formatted_time": "2024-06-09 10:19:57.759493",
+    "filescores": {
+        "main.cpp": 50.34393282974463,
+        "TestTypedefArray.py": 49.656067170255355
+    },
+    "subdirscores": {}
+}

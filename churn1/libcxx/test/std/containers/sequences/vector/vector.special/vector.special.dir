@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/containers/sequences/vector/vector.special",
+    "score.sum": 4.991203611484303e-05,
+    "sha.latest": "fb855eb941b6d740cc6560297d0b4d3201dcaf9f",
+    "time.latest": 1717887638.754488,
+    "formatted_time": "2024-06-09 04:30:38.754490",
+    "filescores": {
+        "swap.addressof.compile.pass.cpp": 0.0,
+        "swap.pass.cpp": 87.77929625067475,
+        "swap_noexcept.compile.pass.cpp": 12.220703749325258
+    },
+    "subdirscores": {}
+}

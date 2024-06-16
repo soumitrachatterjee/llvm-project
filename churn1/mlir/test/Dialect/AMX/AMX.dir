@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/mlir/test/Dialect/AMX",
+    "score.sum": 2.8115675470199723e-05,
+    "sha.latest": "5e7dea225be10d3ba0d01e87fb36e80c6764bd83",
+    "time.latest": 1717817254.6305304,
+    "formatted_time": "2024-06-07 22:27:34.630534",
+    "filescores": {
+        "invalid.mlir": 33.33333333333333,
+        "legalize-for-llvm.mlir": 33.33333333333333,
+        "roundtrip.mlir": 33.33333333333333
+    },
+    "subdirscores": {}
+}

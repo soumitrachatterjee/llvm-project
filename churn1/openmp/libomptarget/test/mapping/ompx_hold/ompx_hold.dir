@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/openmp/libomptarget/test/mapping/ompx_hold",
+    "score.sum": 5.8320370281956305e-05,
+    "sha.latest": "5d57041d39461d0262fcef71bd9cfa0ee20c6576",
+    "time.latest": 1717797436.1912944,
+    "formatted_time": "2024-06-08 03:27:16.191296",
+    "filescores": {
+        "omp_target_disassociate_ptr.c": 15.740849885130132,
+        "struct.c": 63.34158035541191,
+        "target-data.c": 10.458784879728979,
+        "target.c": 10.458784879728979
+    },
+    "subdirscores": {}
+}

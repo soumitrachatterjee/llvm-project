@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/libcxx/test/libcxx/selftest/gen.cpp",
+    "score.sum": 6.099602068851199e-06,
+    "sha.latest": "3daa771047e16919f161a12a8a9124bbe13a89a6",
+    "time.latest": 1717863800.7719586,
+    "formatted_time": "2024-06-08 21:53:20.771961",
+    "filescores": {
+        "empty.gen.cpp": 100.0,
+        "one.gen.cpp": 0.0,
+        "two.gen.cpp": 0.0
+    },
+    "subdirscores": {}
+}

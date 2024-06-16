@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/clang/tools/diag-build",
+    "score.sum": 7.1054932175406055e-06,
+    "sha.latest": "7f5ca8cc2158debe66663f09eb19b4613e75e124",
+    "time.latest": 1718082272.4880707,
+    "formatted_time": "2024-06-11 10:34:32.488073",
+    "filescores": {
+        "diag-build.sh": 100.0
+    },
+    "subdirscores": {}
+}

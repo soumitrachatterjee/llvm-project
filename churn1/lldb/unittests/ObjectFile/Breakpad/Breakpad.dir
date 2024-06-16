@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/lldb/unittests/ObjectFile/Breakpad",
+    "score.sum": 1.9876725587812362e-05,
+    "sha.latest": "d2a6114f27016065f6c7e7d39c0412e7d8d5e03b",
+    "time.latest": 1717996805.097153,
+    "formatted_time": "2024-06-10 10:50:05.097155",
+    "filescores": {
+        "BreakpadRecordsTest.cpp": 100.0,
+        "CMakeLists.txt": 0.0
+    },
+    "subdirscores": {}
+}

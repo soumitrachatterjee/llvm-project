@@ -1,0 +1,23 @@
+{
+    "directory name": "llvm-project/compiler-rt/test/profile/ContinuousSyncMode",
+    "score.sum": 7.565285290132408e-05,
+    "sha.latest": "8b2bdfbca7c1db272e4e703445f5626b4bc4b9d3",
+    "time.latest": 1717836730.127451,
+    "formatted_time": "2024-06-08 14:22:10.127455",
+    "filescores": {
+        "basic.c": 9.346385606383915,
+        "darwin-proof-of-concept.c": 0.0,
+        "get-filename.c": 0.0,
+        "image-with-mcdc.c": 0.0,
+        "image-with-no-counters.c": 0.0,
+        "multiple-DSOs.c": 9.804584256598114,
+        "online-merging-windows.c": 14.325968148449583,
+        "online-merging.c": 10.196965924460208,
+        "pid-substitution.c": 8.062620026778188,
+        "reset-default-profile.c": 0.0,
+        "runtime-counter-relocation.c": 15.90089226464718,
+        "set-file-object.c": 24.29996374590464,
+        "set-filename.c": 8.062620026778188
+    },
+    "subdirscores": {}
+}

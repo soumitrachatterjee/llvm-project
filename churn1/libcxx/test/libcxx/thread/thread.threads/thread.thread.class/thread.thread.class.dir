@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/libcxx/test/libcxx/thread/thread.threads/thread.thread.class",
+    "score.sum": 3.0655578882410035e-05,
+    "sha.latest": "a7f9895cc18995549c7facb96e72718da282a864",
+    "time.latest": 1717865587.5914738,
+    "formatted_time": "2024-06-08 22:23:07.591477",
+    "filescores": {
+        "types.pass.cpp": 50.13685275245204
+    },
+    "subdirscores": {
+        "thread.thread.member": 49.86314724754797
+    }
+}

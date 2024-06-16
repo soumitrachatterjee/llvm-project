@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/mlir/include/mlir/Conversion/TosaToTensor",
+    "score.sum": 1.8249814048354096e-05,
+    "sha.latest": "67d0d7ac0acb0665d6a09f61278fbcf51f0114c2",
+    "time.latest": 1717792340.8485641,
+    "formatted_time": "2024-06-07 15:32:20.848568",
+    "filescores": {
+        "TosaToTensor.h": 100.0
+    },
+    "subdirscores": {}
+}

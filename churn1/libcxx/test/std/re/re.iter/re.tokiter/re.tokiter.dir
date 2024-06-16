@@ -1,0 +1,17 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/re/re.iter/re.tokiter",
+    "score.sum": 0.00010174795475525119,
+    "sha.latest": "6a664674990094c1b5d2e717256f08cb04485899",
+    "time.latest": 1717966713.48166,
+    "formatted_time": "2024-06-10 02:28:33.481661",
+    "filescores": {
+        "iterator_concept_conformance.compile.pass.cpp": 11.688391058264516,
+        "types.pass.cpp": 12.379423101431165
+    },
+    "subdirscores": {
+        "re.tokiter.cnstr": 29.885952249046156,
+        "re.tokiter.comp": 18.71580631864861,
+        "re.tokiter.deref": 13.665213636304783,
+        "re.tokiter.incr": 13.665213636304783
+    }
+}

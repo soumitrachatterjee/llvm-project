@@ -1,0 +1,27 @@
+{
+    "directory name": "llvm-project/openmp/runtime/test/ompt/parallel",
+    "score.sum": 0.00012506042372777154,
+    "sha.latest": "f41d08540be21f852b7ee6293953f66f5a1123b6",
+    "time.latest": 1717802653.6237824,
+    "formatted_time": "2024-06-08 04:54:13.623786",
+    "filescores": {
+        "dynamic_enough_threads.c": 0.0,
+        "dynamic_not_enough_threads.c": 0.0,
+        "max_active_levels_serialized.c": 4.877324006296878,
+        "nested.c": 17.434122656781366,
+        "nested_lwt.c": 14.079188805603913,
+        "nested_lwt_thread_num.c": 0.0,
+        "nested_serialized.c": 10.751190395184961,
+        "nested_serialized_task_frames.c": 0.0,
+        "nested_threadnum.c": 4.877324006296878,
+        "nested_thread_num.c": 5.5451898866052725,
+        "normal.c": 10.779434827901778,
+        "not_enough_threads.c": 4.877324006296878,
+        "no_thread_num_clause.c": 4.9247740324282825,
+        "parallel_if0.c": 5.433022965709622,
+        "region_in_expl_task_task_frames.c": 0.0,
+        "repeated_calls.c": 4.877324006296878,
+        "serialized.c": 11.543780404597271
+    },
+    "subdirscores": {}
+}

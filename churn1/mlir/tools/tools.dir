@@ -1,0 +1,28 @@
+{
+    "directory name": "llvm-project/mlir/tools",
+    "score.sum": 0.004509407157392589,
+    "sha.latest": "cb6ff746e0c7b9218b6f5c11db44162cacd623a4",
+    "time.latest": 1717835678.510924,
+    "formatted_time": "2024-06-08 03:34:38.510924",
+    "filescores": {
+        "CMakeLists.txt": 1.8130495920133498
+    },
+    "subdirscores": {
+        "mlir-cpu-runner": 2.858587811468577,
+        "mlir-linalg-ods-gen": 7.991841130940183,
+        "mlir-lsp-server": 0.7998391836914016,
+        "mlir-opt": 18.125996396268704,
+        "mlir-parser-fuzzer": 0.2476306776309487,
+        "mlir-pdll-lsp-server": 0.31611398987340894,
+        "mlir-pdll": 0.8446874435442515,
+        "mlir-query": 0.0,
+        "mlir-reduce": 1.2190716845442005,
+        "mlir-shlib": 0.5046222492420485,
+        "mlir-spirv-cpu-runner": 2.340391564357206,
+        "mlir-tblgen": 55.79532065200925,
+        "mlir-translate": 2.2277724708866398,
+        "mlir-vulkan-runner": 4.522481976908959,
+        "tblgen-lsp-server": 0.23695972874462437,
+        "tblgen-to-irdl": 0.15563344787623928
+    }
+}

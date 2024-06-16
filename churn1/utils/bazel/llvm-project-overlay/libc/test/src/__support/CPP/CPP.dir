@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/utils/bazel/llvm-project-overlay/libc/test/src/__support/CPP",
+    "score.sum": 1.0747330586880523e-05,
+    "sha.latest": "23c397c7c9407deea3398e787f2901f86207dc11",
+    "time.latest": 1717789321.0138319,
+    "formatted_time": "2024-06-08 01:12:01.013836",
+    "filescores": {
+        "BUILD.bazel": 100.0
+    },
+    "subdirscores": {}
+}

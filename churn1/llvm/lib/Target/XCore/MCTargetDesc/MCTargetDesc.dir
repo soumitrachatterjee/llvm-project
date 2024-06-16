@@ -1,0 +1,17 @@
+{
+    "directory name": "llvm-project/llvm/lib/Target/XCore/MCTargetDesc",
+    "score.sum": 0.00029715707249464265,
+    "sha.latest": "6ae84d668f956a32472a1d93f702007754986a4b",
+    "time.latest": 1717872866.2064698,
+    "formatted_time": "2024-06-08 13:54:26.206473",
+    "filescores": {
+        "CMakeLists.txt": 6.753328307551939,
+        "XCoreInstPrinter.cpp": 2.787350763393588,
+        "XCoreInstPrinter.h": 6.679435214901401,
+        "XCoreMCAsmInfo.cpp": 13.3893655513006,
+        "XCoreMCAsmInfo.h": 10.862388653630653,
+        "XCoreMCTargetDesc.cpp": 45.47174238156863,
+        "XCoreMCTargetDesc.h": 14.05638912765319
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/lang/cpp/bitfields",
+    "score.sum": 4.886095106440731e-05,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717928649.1138496,
+    "formatted_time": "2024-06-09 15:54:09.113852",
+    "filescores": {
+        "main.cpp": 33.8022086369865,
+        "Makefile": 0.0,
+        "TestCppBitfields.py": 66.1977913630135
+    },
+    "subdirscores": {}
+}

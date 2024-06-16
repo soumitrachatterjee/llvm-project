@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/llvm/utils/gn/secondary/clang-tools-extra/clang-change-namespace",
+    "score.sum": 1.9772967571011417e-05,
+    "sha.latest": "1afd889d0b4352ddaef33680ace94045938591f1",
+    "time.latest": 1718081143.0653517,
+    "formatted_time": "2024-06-10 23:45:43.065353",
+    "filescores": {
+        "BUILD.gn": 50.0
+    },
+    "subdirscores": {
+        "tool": 50.0
+    }
+}

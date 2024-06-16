@@ -1,0 +1,24 @@
+{
+    "directory name": "llvm-project/llvm/unittests/Target",
+    "score.sum": 0.0006289973150316926,
+    "sha.latest": "d36d805373c27103edf13164260ef679efd30dc1",
+    "time.latest": 1718084474.3757863,
+    "formatted_time": "2024-06-11 00:41:14.375787",
+    "filescores": {
+        "CMakeLists.txt": 1.9391956936771007,
+        "TargetMachineOptionsTest.cpp": 0.0
+    },
+    "subdirscores": {
+        "AArch64": 29.501590366657748,
+        "AMDGPU": 6.587282389390794,
+        "ARM": 16.57254504718275,
+        "DirectX": 5.285394754983554,
+        "LoongArch": 5.4762250150600895,
+        "PowerPC": 5.185603798530669,
+        "RISCV": 10.543100513224124,
+        "SPIRV": 0.9697341980774377,
+        "VE": 1.038884441515643,
+        "WebAssembly": 9.220264917517767,
+        "X86": 7.68017886418232
+    }
+}

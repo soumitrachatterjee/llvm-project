@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/mlir/include/mlir/Conversion/AsyncToLLVM",
+    "score.sum": 2.8060908593739928e-05,
+    "sha.latest": "cd4ca2d7f991177b64db9df3c17986dc8e250f1d",
+    "time.latest": 1717791337.0996723,
+    "formatted_time": "2024-06-07 15:15:37.099676",
+    "filescores": {
+        "AsyncToLLVM.h": 100.0
+    },
+    "subdirscores": {}
+}

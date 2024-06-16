@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/commands/settings/use_source_cache",
+    "score.sum": 1.485424893273744e-05,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717897692.8728266,
+    "formatted_time": "2024-06-09 07:18:12.872829",
+    "filescores": {
+        "main.cpp": 0.0,
+        "Makefile": 0.0,
+        "TestUseSourceCache.py": 100.0
+    },
+    "subdirscores": {}
+}

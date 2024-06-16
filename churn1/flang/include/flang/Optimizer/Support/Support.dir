@@ -1,0 +1,17 @@
+{
+    "directory name": "llvm-project/flang/include/flang/Optimizer/Support",
+    "score.sum": 0.00022154807021928957,
+    "sha.latest": "137bd782959523e8168c346bc8801d0b14f684c5",
+    "time.latest": 1717789972.067358,
+    "formatted_time": "2024-06-07 14:52:52.067362",
+    "filescores": {
+        "DataLayout.h": 2.7531731884704644,
+        "FatalError.h": 3.355229043546353,
+        "InitFIR.h": 36.78594618514492,
+        "InternalNames.h": 23.928703581150977,
+        "Matcher.h": 0.0,
+        "TypeCode.h": 7.492275406062488,
+        "Utils.h": 25.68467259562479
+    },
+    "subdirscores": {}
+}

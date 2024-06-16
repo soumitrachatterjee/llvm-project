@@ -1,0 +1,40 @@
+{
+    "directory name": "llvm-project/llvm/test/CodeGen/DirectX",
+    "score.sum": 0.0001531484852426356,
+    "sha.latest": "b2ca23aed802abc43ed216ce9bf4c80c056a04c0",
+    "time.latest": 1718045894.2654917,
+    "formatted_time": "2024-06-10 13:58:14.265495",
+    "filescores": {
+        "UAVMetadata.ll": 9.247433187443981,
+        "cbuf.ll": 3.982802741527284,
+        "comput_ids.ll": 7.245732604443973,
+        "conflicting-bitcast-insert.ll": 3.982802741527284,
+        "dxil_ver.ll": 4.290064796832059,
+        "embed-dxil.ll": 8.571894754077753,
+        "exp2.ll": 0.0,
+        "fmad.ll": 0.0,
+        "fneg-conversion.ll": 3.982802741527284,
+        "frac.ll": 0.0,
+        "imad.ll": 0.0,
+        "legacy_cb_layout_0.ll": 3.982802741527284,
+        "legacy_cb_layout_1.ll": 3.982802741527284,
+        "legacy_cb_layout_2.ll": 3.982802741527284,
+        "legacy_cb_layout_3.ll": 3.982802741527284,
+        "lib_entry.ll": 0.0,
+        "lit.local.cfg": 3.982802741527284,
+        "min_vec_size.ll": 5.604195923237972,
+        "omit-bitcast-insert.ll": 3.982802741527284,
+        "round.ll": 0.0,
+        "sin.ll": 0.0,
+        "strip-call-attrs.ll": 0.0,
+        "strip-fn-attrs.ll": 8.91374294741161,
+        "typed_ptr.ll": 7.505582347192498,
+        "umad.ll": 0.0,
+        "umax.ll": 0.0
+    },
+    "subdirscores": {
+        "ContainerData": 4.506299450245725,
+        "Metadata": 3.982802741527284,
+        "ShaderFlags": 4.287026573841552
+    }
+}

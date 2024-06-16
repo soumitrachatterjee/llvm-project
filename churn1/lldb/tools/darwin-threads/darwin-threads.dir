@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/lldb/tools/darwin-threads",
+    "score.sum": 2.794191425730825e-05,
+    "sha.latest": "702895989a3353aa5ffde4eec5405da880518f67",
+    "time.latest": 1717985405.4838727,
+    "formatted_time": "2024-06-10 07:40:05.483875",
+    "filescores": {
+        "examine-threads.c": 100.0
+    },
+    "subdirscores": {}
+}

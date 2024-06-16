@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/clang/test/CXX/dcl/dcl.fct",
+    "score.sum": 1.0637283894045758e-05,
+    "sha.latest": "71e6e82746caba1a40a0faeb43fe0c0a1fadb77e",
+    "time.latest": 1718084805.3369098,
+    "formatted_time": "2024-06-11 11:16:45.336913",
+    "filescores": {
+        "p17.cpp": 100.0
+    },
+    "subdirscores": {}
+}

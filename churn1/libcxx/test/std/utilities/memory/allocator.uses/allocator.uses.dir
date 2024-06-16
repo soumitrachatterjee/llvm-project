@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/utilities/memory/allocator.uses",
+    "score.sum": 5.6277552383180304e-05,
+    "sha.latest": "bcf172ec578a2a787de45858871e59fd64f7b196",
+    "time.latest": 1717998070.2838051,
+    "formatted_time": "2024-06-10 11:11:10.283807",
+    "filescores": {},
+    "subdirscores": {
+        "allocator.uses.construction": 59.33298021543656,
+        "allocator.uses.trait": 40.667019784563436
+    }
+}

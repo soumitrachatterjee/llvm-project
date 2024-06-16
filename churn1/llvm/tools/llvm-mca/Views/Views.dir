@@ -1,0 +1,30 @@
+{
+    "directory name": "llvm-project/llvm/tools/llvm-mca/Views",
+    "score.sum": 0.0005787058030689153,
+    "sha.latest": "fab2bb8bfda865bd438dee981d7be7df8017b76d",
+    "time.latest": 1718081300.4060369,
+    "formatted_time": "2024-06-10 23:48:20.406040",
+    "filescores": {
+        "BottleneckAnalysis.cpp": 10.01288879460031,
+        "BottleneckAnalysis.h": 3.449703957352689,
+        "DispatchStatistics.cpp": 5.938804349363513,
+        "DispatchStatistics.h": 3.1128228526493893,
+        "InstructionInfoView.cpp": 12.441874775644438,
+        "InstructionInfoView.h": 5.1049839127094625,
+        "InstructionView.cpp": 4.14839437912952,
+        "InstructionView.h": 2.9498241090011637,
+        "RegisterFileStatistics.cpp": 2.4328657144271517,
+        "RegisterFileStatistics.h": 3.2204169362852255,
+        "ResourcePressureView.cpp": 8.624365237089489,
+        "ResourcePressureView.h": 6.914797492199962,
+        "RetireControlUnitStatistics.cpp": 1.902852788390861,
+        "RetireControlUnitStatistics.h": 3.2537808260649275,
+        "SchedulerStatistics.cpp": 2.295411048908124,
+        "SchedulerStatistics.h": 3.483706095421456,
+        "SummaryView.cpp": 5.0787369867604735,
+        "SummaryView.h": 4.37232838828406,
+        "TimelineView.cpp": 6.945276653554726,
+        "TimelineView.h": 4.316164702163074
+    },
+    "subdirscores": {}
+}

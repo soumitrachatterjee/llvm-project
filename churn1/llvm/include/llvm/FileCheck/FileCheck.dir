@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/llvm/include/llvm/FileCheck",
+    "score.sum": 2.1912467615502763e-05,
+    "sha.latest": "261b471015ef674253f03a4ae213919d983e016e",
+    "time.latest": 1717815882.4968355,
+    "formatted_time": "2024-06-07 22:04:42.496839",
+    "filescores": {
+        "FileCheck.h": 100.0
+    },
+    "subdirscores": {}
+}

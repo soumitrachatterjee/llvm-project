@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/mlir/examples/standalone/lib",
+    "score.sum": 6.40524994208084e-05,
+    "sha.latest": "5fcf907b34355980f77d7665a175b05fea7a6b7b",
+    "time.latest": 1717788955.2697399,
+    "formatted_time": "2024-06-07 14:35:55.269740",
+    "filescores": {
+        "CMakeLists.txt": 9.522816633240785
+    },
+    "subdirscores": {
+        "CAPI": 0.0,
+        "Standalone": 90.47718336675922
+    }
+}

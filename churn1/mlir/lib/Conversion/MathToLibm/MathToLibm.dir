@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/mlir/lib/Conversion/MathToLibm",
+    "score.sum": 0.0001406191542315283,
+    "sha.latest": "b8dca4fa729fcbd5d42ce3ca056dc4d278da2548",
+    "time.latest": 1717803361.659417,
+    "formatted_time": "2024-06-07 18:36:01.659420",
+    "filescores": {
+        "CMakeLists.txt": 14.5108140387001,
+        "MathToLibm.cpp": 85.48918596129991
+    },
+    "subdirscores": {}
+}

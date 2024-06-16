@@ -1,0 +1,35 @@
+{
+    "directory name": "llvm-project/clang/unittests",
+    "score.sum": 0.020840135202136584,
+    "sha.latest": "0baef3b18cdbbdcf9f07c10607407ad0fb541449",
+    "time.latest": 1718083120.084868,
+    "formatted_time": "2024-06-11 10:48:40.084870",
+    "filescores": {
+        "CMakeLists.txt": 0.8793309926114365
+    },
+    "subdirscores": {
+        "Analysis": 9.987090919435845,
+        "AST": 13.072038693783735,
+        "ASTMatchers": 7.779108981789686,
+        "Basic": 4.206350077228958,
+        "CodeGen": 0.8030002126992021,
+        "CrossTU": 0.3667576634910696,
+        "DirectoryWatcher": 0.38685112508701774,
+        "Driver": 2.082747128220432,
+        "Format": 34.0644962188468,
+        "Frontend": 2.961977744865675,
+        "Index": 0.20135114548714134,
+        "InstallAPI": 0.0,
+        "Interpreter": 1.304634176342419,
+        "Introspection": 0.2181969060366911,
+        "Lex": 2.9006824767070243,
+        "libclang": 0.9462484459220106,
+        "Rename": 0.25470949057736003,
+        "Rewrite": 0.19286011713509638,
+        "Sema": 1.135003980308248,
+        "Serialization": 0.5412277093167088,
+        "StaticAnalyzer": 2.250225153965566,
+        "Support": 0.17602181826459934,
+        "Tooling": 13.289088821877277
+    }
+}

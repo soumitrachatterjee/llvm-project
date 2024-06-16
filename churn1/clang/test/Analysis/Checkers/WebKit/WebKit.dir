@@ -1,0 +1,30 @@
+{
+    "directory name": "llvm-project/clang/test/Analysis/Checkers/WebKit",
+    "score.sum": 0.00012774727897720578,
+    "sha.latest": "7ce1cfed9a11735f0f4ee8a3a8bebfa87ee76d07",
+    "time.latest": 1717825961.2975354,
+    "formatted_time": "2024-06-08 11:22:41.297539",
+    "filescores": {
+        "assignment-to-refptr.cpp": 0.0,
+        "call-args-protected-return-value.cpp": 4.7747412842660735,
+        "call-args-safe-functions.cpp": 0.0,
+        "call-args-wtf-containers.cpp": 0.0,
+        "call-args.cpp": 13.852356960473145,
+        "implicit-cast-to-base-class-with-deref-in-superclass.cpp": 0.0,
+        "member-function-pointer-crash.cpp": 0.0,
+        "mock-types.h": 28.30991834720252,
+        "ref-allowing-partially-destroyed.cpp": 0.0,
+        "ref-cntbl-base-virtual-dtor-ref-deref-on-diff-classes.cpp": 0.0,
+        "ref-cntbl-base-virtual-dtor-templates.cpp": 5.6915383266180175,
+        "ref-cntbl-base-virtual-dtor.cpp": 4.7755710621717835,
+        "ref-countable-default-arg-nullptr.cpp": 0.0,
+        "ref-ptr-accessor.cpp": 0.0,
+        "uncounted-lambda-captures.cpp": 16.111030554339813,
+        "uncounted-local-vars.cpp": 9.464622473762137,
+        "uncounted-members-ref-deref-on-diff-classes.cpp": 0.0,
+        "uncounted-members-regression-46142.cpp": 4.7747412842660735,
+        "uncounted-members.cpp": 4.840789727708179,
+        "uncounted-obj-arg.cpp": 7.404689979192273
+    },
+    "subdirscores": {}
+}

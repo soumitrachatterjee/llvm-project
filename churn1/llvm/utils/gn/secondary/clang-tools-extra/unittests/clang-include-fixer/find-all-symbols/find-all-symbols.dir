@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/llvm/utils/gn/secondary/clang-tools-extra/unittests/clang-include-fixer/find-all-symbols",
+    "score.sum": 9.631908258763151e-06,
+    "sha.latest": "ce2474ff60c9ca0a9a5747e6e401abb284d8378f",
+    "time.latest": 1718083094.3710701,
+    "formatted_time": "2024-06-11 00:18:14.371074",
+    "filescores": {
+        "BUILD.gn": 100.0
+    },
+    "subdirscores": {}
+}

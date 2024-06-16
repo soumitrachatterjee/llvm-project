@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/mlir/test/Integration/Dialect/SparseTensor",
+    "score.sum": 0.001529682516131691,
+    "sha.latest": "4cb5a96af646e18f9fc8c1b337299d5465f0a4d6",
+    "time.latest": 1717826998.6270945,
+    "formatted_time": "2024-06-08 01:09:58.627095",
+    "filescores": {},
+    "subdirscores": {
+        "CPU": 81.45537338215946,
+        "GPU": 9.449517297103162,
+        "python": 9.095109320737368
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "directory name": "llvm-project/mlir/lib/Analysis",
+    "score.sum": 0.0016438703529172167,
+    "sha.latest": "1837579bbc9c5e0b49a54e60d99eed3d38b47d3b",
+    "time.latest": 1717801346.1978035,
+    "formatted_time": "2024-06-07 18:02:26.197807",
+    "filescores": {
+        "AliasAnalysis.cpp": 0.4111589291501212,
+        "CFGLoopInfo.cpp": 0.548180945924715,
+        "CMakeLists.txt": 12.65706487142987,
+        "CallGraph.cpp": 1.6621295525569062,
+        "DataFlowFramework.cpp": 1.2599200547500735,
+        "DataLayoutAnalysis.cpp": 0.37105128503758394,
+        "FlatLinearValueConstraints.cpp": 2.573623886866441,
+        "Liveness.cpp": 2.2650966290803236,
+        "SliceAnalysis.cpp": 7.464217511412214
+    },
+    "subdirscores": {
+        "AliasAnalysis": 4.856862808453017,
+        "DataFlow": 10.449624570978768,
+        "Presburger": 55.48106895435997
+    }
+}

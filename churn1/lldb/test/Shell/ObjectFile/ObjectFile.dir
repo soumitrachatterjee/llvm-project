@@ -1,0 +1,19 @@
+{
+    "directory name": "llvm-project/lldb/test/Shell/ObjectFile",
+    "score.sum": 0.00019499116550807707,
+    "sha.latest": "19df9aa3f4ca4c1ab1976c980ffa7981329ea78c",
+    "time.latest": 1717976233.2474904,
+    "formatted_time": "2024-06-10 05:07:13.247492",
+    "filescores": {
+        "lit.local.cfg": 4.219080580850316
+    },
+    "subdirscores": {
+        "Breakpad": 3.1315933192744456,
+        "COFF": 0.0,
+        "ELF": 49.56147746284476,
+        "MachO": 4.641636209566402,
+        "PDB": 3.668503425485593,
+        "PECOFF": 28.94104302454053,
+        "wasm": 5.8366659774379475
+    }
+}

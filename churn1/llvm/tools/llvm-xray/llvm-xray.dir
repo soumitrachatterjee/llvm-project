@@ -1,0 +1,30 @@
+{
+    "directory name": "llvm-project/llvm/tools/llvm-xray",
+    "score.sum": 0.000372300080127634,
+    "sha.latest": "92c2529ccde4a7eff344acd4ba22bf9d4af26b9d",
+    "time.latest": 1718084649.5890565,
+    "formatted_time": "2024-06-11 00:44:09.589060",
+    "filescores": {
+        "CMakeLists.txt": 5.37869695737399,
+        "func-id-helper.cpp": 5.034256575377759,
+        "func-id-helper.h": 2.64884877889504,
+        "llvm-xray.cpp": 1.9149571503675462,
+        "trie-node.h": 2.5068175203008685,
+        "xray-account.cpp": 9.40707043472262,
+        "xray-account.h": 7.761309576795419,
+        "xray-color-helper.cpp": 5.059248740703729,
+        "xray-color-helper.h": 2.42675590234406,
+        "xray-converter.cpp": 9.033797518046311,
+        "xray-converter.h": 2.307824436183591,
+        "xray-extract.cpp": 7.2741845704463515,
+        "xray-fdr-dump.cpp": 2.315620776627089,
+        "xray-graph-diff.cpp": 7.39518483474905,
+        "xray-graph-diff.h": 2.0785505375684408,
+        "xray-graph.cpp": 8.858275659179403,
+        "xray-graph.h": 4.683384615060093,
+        "xray-registry.cpp": 5.195846534985862,
+        "xray-registry.h": 1.6385790660567963,
+        "xray-stacks.cpp": 7.08078981421598
+    },
+    "subdirscores": {}
+}

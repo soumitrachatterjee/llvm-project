@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/functionalities/inferior-assert",
+    "score.sum": 3.138778576249014e-05,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717910396.8208373,
+    "formatted_time": "2024-06-09 10:49:56.820839",
+    "filescores": {
+        "main.c": 19.433043525295457,
+        "Makefile": 0.0,
+        "TestInferiorAssert.py": 80.56695647470454
+    },
+    "subdirscores": {}
+}

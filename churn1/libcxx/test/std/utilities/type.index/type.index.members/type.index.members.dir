@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/utilities/type.index/type.index.members",
+    "score.sum": 7.674434415263104e-05,
+    "sha.latest": "9df58928045f2370caa201ba14d4ec62cba00e46",
+    "time.latest": 1718007481.2850916,
+    "formatted_time": "2024-06-10 13:48:01.285094",
+    "filescores": {
+        "cmp.pass.cpp": 0.0,
+        "ctor.pass.cpp": 33.453283260136715,
+        "hash_code.pass.cpp": 33.273358369931636,
+        "name.pass.cpp": 33.273358369931636
+    },
+    "subdirscores": {}
+}

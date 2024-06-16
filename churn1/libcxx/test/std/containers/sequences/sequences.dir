@@ -1,0 +1,19 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/containers/sequences",
+    "score.sum": 0.0028954178868554558,
+    "sha.latest": "1c7607e8ee6ec4ca3abce1561dd39a98d4efac96",
+    "time.latest": 1717888392.6753492,
+    "formatted_time": "2024-06-09 04:43:12.675351",
+    "filescores": {
+        "from_range_sequence_containers.h": 0.2106639631032887,
+        "insert_range_sequence_containers.h": 0.27361913622905604
+    },
+    "subdirscores": {
+        "array": 16.99466925929913,
+        "deque": 15.982966709117278,
+        "forwardlist": 13.91509318987346,
+        "list": 15.196470176469482,
+        "vector": 21.346506893391293,
+        "vector.bool": 16.080010672517012
+    }
+}

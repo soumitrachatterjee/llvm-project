@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/mlir/include/mlir/Target/LLVM",
+    "score.sum": 1.997793886218003e-05,
+    "sha.latest": "d9dadfda85aad7942f6b61783402b9f2d5173782",
+    "time.latest": 1717800120.4500573,
+    "formatted_time": "2024-06-07 17:42:00.450058",
+    "filescores": {
+        "ModuleToObject.h": 30.560200944548377
+    },
+    "subdirscores": {
+        "NVVM": 35.16856140543302,
+        "ROCDL": 34.271237650018605
+    }
+}

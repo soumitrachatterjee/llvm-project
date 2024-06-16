@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/libcxx/test/libcxx/utilities/function.objects/func.require",
+    "score.sum": 6.677080678145468e-05,
+    "sha.latest": "1b9c5f60aabdfd59096fb66b2bff55b7e71e1c5f",
+    "time.latest": 1717866742.1170247,
+    "formatted_time": "2024-06-08 22:42:22.117027",
+    "filescores": {
+        "bullet_1_2_3.pass.cpp": 18.59299303272723,
+        "bullet_4_5_6.pass.cpp": 30.644930817692284,
+        "bullet_7.pass.cpp": 18.122202886558817,
+        "invoke.pass.cpp": 18.122202886558817,
+        "invoke_helpers.h": 14.51767037646285
+    },
+    "subdirscores": {}
+}

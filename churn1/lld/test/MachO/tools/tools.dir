@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lld/test/MachO/tools",
+    "score.sum": 4.739050727618588e-05,
+    "sha.latest": "f98ee40f4b5d7474fc67e82824bf6abbaedb7b1c",
+    "time.latest": 1717900889.5228224,
+    "formatted_time": "2024-06-09 08:11:29.522825",
+    "filescores": {
+        "generate-cfi-funcs.py": 59.79140466736793,
+        "generate-thunkable-program.py": 20.61545323579065,
+        "validate-unwind-info.py": 19.59314209684141
+    },
+    "subdirscores": {}
+}

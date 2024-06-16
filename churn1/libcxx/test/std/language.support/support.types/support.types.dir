@@ -1,0 +1,22 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/language.support/support.types",
+    "score.sum": 0.000175943363462063,
+    "sha.latest": "d868135691bb0d5c924b8fd2ae26171fbf5d1387",
+    "time.latest": 1717925052.7424555,
+    "formatted_time": "2024-06-09 14:54:12.742458",
+    "filescores": {
+        "byte.pass.cpp": 8.625589643555447,
+        "cstddef.compile.pass.cpp": 0.0,
+        "max_align_t.compile.pass.cpp": 3.4667986042942722,
+        "null.pass.cpp": 9.87037834364395,
+        "nullptr_t.pass.cpp": 16.622816890302737,
+        "nullptr_t_integral_cast.compile.fail.cpp": 0.0,
+        "nullptr_t_integral_cast.pass.cpp": 13.842211779817596,
+        "offsetof.pass.cpp": 9.629614552154685,
+        "ptrdiff_t.pass.cpp": 9.87037834364395,
+        "size_t.pass.cpp": 9.87037834364395
+    },
+    "subdirscores": {
+        "byteops": 18.201833498943415
+    }
+}

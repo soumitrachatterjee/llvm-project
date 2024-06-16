@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/libcxx/test/libcxx/memory/compressed_pair",
+    "score.sum": 1.8268416687216878e-05,
+    "sha.latest": "d5e26775d089d099d02b168de8ea52179b1b1f75",
+    "time.latest": 1717860877.5469534,
+    "formatted_time": "2024-06-08 21:04:37.546957",
+    "filescores": {
+        "compressed_pair.pass.cpp": 100.0
+    },
+    "subdirscores": {}
+}

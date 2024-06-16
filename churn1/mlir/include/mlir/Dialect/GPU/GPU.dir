@@ -1,0 +1,16 @@
+{
+    "directory name": "llvm-project/mlir/include/mlir/Dialect/GPU",
+    "score.sum": 0.0005665438145741797,
+    "sha.latest": "fb3e4e78c65ea22b5eda1b4f7e2b5a5e8c6dd5b4",
+    "time.latest": 1717794486.9717164,
+    "formatted_time": "2024-06-07 16:08:06.971717",
+    "filescores": {
+        "CMakeLists.txt": 7.19027237901696
+    },
+    "subdirscores": {
+        "IR": 58.37930880870652,
+        "Pipelines": 1.0766337769366918,
+        "TransformOps": 10.791388906051305,
+        "Transforms": 22.562396129288533
+    }
+}

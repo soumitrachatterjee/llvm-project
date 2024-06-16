@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/mlir/examples/toy/Ch1/parser",
+    "score.sum": 2.972761326909335e-05,
+    "sha.latest": "904c5b484ebf0936ef8c4a78e9fc8da615fb52d8",
+    "time.latest": 1717789300.0731156,
+    "formatted_time": "2024-06-07 14:41:40.073118",
+    "filescores": {
+        "AST.cpp": 100.0
+    },
+    "subdirscores": {}
+}

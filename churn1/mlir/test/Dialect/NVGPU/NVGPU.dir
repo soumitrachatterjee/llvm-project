@@ -1,0 +1,20 @@
+{
+    "directory name": "llvm-project/mlir/test/Dialect/NVGPU",
+    "score.sum": 0.0001341057784347329,
+    "sha.latest": "0a600c34c8c1fe87c9661b6020e5044b24da3dc7",
+    "time.latest": 1717821063.468486,
+    "formatted_time": "2024-06-07 23:31:03.468490",
+    "filescores": {
+        "canonicalization.mlir": 0.0,
+        "invalid.mlir": 36.944711120491654,
+        "mma-sync-f32-to-tf32.mlir": 5.072900823119158,
+        "mma-sync-f32-to-tf32x3.mlir": 4.54835141337312,
+        "optimize-shared-memory.mlir": 8.041314736671925,
+        "roundtrip.mlir": 5.275128621530567,
+        "tmaload-transform.mlir": 11.847961016273793,
+        "transform-create-async-groups.mlir": 8.252321351477832,
+        "transform-matmul-to-nvvm.mlir": 8.18839183404024,
+        "transform-pipeline-shared.mlir": 11.828919083021706
+    },
+    "subdirscores": {}
+}

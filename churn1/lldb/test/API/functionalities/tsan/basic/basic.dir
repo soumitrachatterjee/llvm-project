@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/functionalities/tsan/basic",
+    "score.sum": 3.0494192916702574e-05,
+    "sha.latest": "9c2468821ec51defd09c246fea4a47886fff8c01",
+    "time.latest": 1717923301.6822684,
+    "formatted_time": "2024-06-09 14:25:01.682270",
+    "filescores": {
+        "main.c": 20.265572881482694,
+        "Makefile": 0.0,
+        "TestTsanBasic.py": 79.73442711851732
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/llvm/docs/Frontend",
+    "score.sum": 4.145609042966899e-05,
+    "sha.latest": "ff66e9b7e2fad71d1c65e884d6f94fb6ea5bdc21",
+    "time.latest": 1717800582.1591985,
+    "formatted_time": "2024-06-07 17:49:42.159201",
+    "filescores": {
+        "PerformanceTips.rst": 100.0
+    },
+    "subdirscores": {}
+}

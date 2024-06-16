@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/llvm/utils/gn/secondary/clang-tools-extra/clangd/test",
+    "score.sum": 4.1829100434591906e-05,
+    "sha.latest": "3d4f1169563e3aa9e7fce3c6d8445adf8256a142",
+    "time.latest": 1718082484.2221525,
+    "formatted_time": "2024-06-11 00:08:04.222156",
+    "filescores": {
+        "BUILD.gn": 100.0,
+        "clangd_lit_site_cfg_files.gni": 0.0
+    },
+    "subdirscores": {}
+}

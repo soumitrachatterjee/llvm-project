@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/functionalities/breakpoint/breakpoint_by_line_and_column",
+    "score.sum": 2.9443374330107424e-05,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717901956.720236,
+    "formatted_time": "2024-06-09 08:29:16.720238",
+    "filescores": {
+        "main.cpp": 0.0,
+        "Makefile": 20.716382573766452,
+        "TestBreakpointByLineAndColumn.py": 79.28361742623355
+    },
+    "subdirscores": {}
+}

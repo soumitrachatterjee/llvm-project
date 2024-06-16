@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/mlir/tools/mlir-vulkan-runner",
+    "score.sum": 0.0002745910878490257,
+    "sha.latest": "1150e8ef7765f43a730575bd224eda18e916ac1e",
+    "time.latest": 1717835619.385437,
+    "formatted_time": "2024-06-08 03:33:39.385440",
+    "filescores": {
+        "CMakeLists.txt": 29.479723843149845,
+        "VulkanRuntime.cpp": 8.490644329179247,
+        "VulkanRuntime.h": 7.6927358423841286,
+        "mlir-vulkan-runner.cpp": 49.789277380533356,
+        "vulkan-runtime-wrappers.cpp": 4.547618604753431
+    },
+    "subdirscores": {}
+}

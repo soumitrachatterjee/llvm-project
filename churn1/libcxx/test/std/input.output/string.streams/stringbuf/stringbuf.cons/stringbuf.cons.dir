@@ -1,0 +1,23 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/input.output/string.streams/stringbuf/stringbuf.cons",
+    "score.sum": 7.923597208277076e-05,
+    "sha.latest": "80f9458cf30d13eef21b09042ea590945c5e64db",
+    "time.latest": 1717910231.9296515,
+    "formatted_time": "2024-06-09 10:47:11.929653",
+    "filescores": {
+        "alloc.pass.cpp": 0.0,
+        "default.pass.cpp": 32.245299302292885,
+        "mode.alloc.pass.cpp": 0.0,
+        "move.alloc.pass.cpp": 7.698021376552923,
+        "move.pass.cpp": 30.359205973747393,
+        "string-alloc.mode.pass.cpp": 0.0,
+        "string.alloc.pass.cpp": 0.0,
+        "string.mode.alloc.pass.cpp": 0.0,
+        "string.move.mode.pass.cpp": 7.698021376552923,
+        "string.pass.cpp": 21.99945197085387,
+        "string_view.alloc.pass.cpp": 0.0,
+        "string_view.mode.alloc.pass.cpp": 0.0,
+        "string_view.mode.pass.cpp": 0.0
+    },
+    "subdirscores": {}
+}

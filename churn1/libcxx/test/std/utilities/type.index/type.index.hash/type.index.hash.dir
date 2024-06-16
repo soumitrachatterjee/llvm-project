@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/utilities/type.index/type.index.hash",
+    "score.sum": 5.215908112140378e-05,
+    "sha.latest": "681cde7dd8b5613dbafc9ca54e0288477f946be3",
+    "time.latest": 1718007462.7158642,
+    "formatted_time": "2024-06-10 13:47:42.715866",
+    "filescores": {
+        "enabled_hash.pass.cpp": 44.299152569250445,
+        "hash.pass.cpp": 55.700847430749555
+    },
+    "subdirscores": {}
+}

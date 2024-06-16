@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/lang/objc/tagged-pointer",
+    "score.sum": 1.4728007088064287e-05,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717960085.7626455,
+    "formatted_time": "2024-06-10 00:38:05.762651",
+    "filescores": {
+        "main.m": 41.41498596775101,
+        "Makefile": 0.0,
+        "TestTaggedPointerCmd.py": 58.585014032248985
+    },
+    "subdirscores": {}
+}

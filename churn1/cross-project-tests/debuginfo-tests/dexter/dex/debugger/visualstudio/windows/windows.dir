@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/cross-project-tests/debuginfo-tests/dexter/dex/debugger/visualstudio/windows",
+    "score.sum": 6.099602068851199e-06,
+    "sha.latest": "f98ee40f4b5d7474fc67e82824bf6abbaedb7b1c",
+    "time.latest": 1717788946.3363903,
+    "formatted_time": "2024-06-08 01:05:46.336398",
+    "filescores": {
+        "ComInterface.py": 100.0,
+        "__init__.py": 0.0
+    },
+    "subdirscores": {}
+}

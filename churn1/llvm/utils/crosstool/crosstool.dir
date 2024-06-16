@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/llvm/utils/crosstool",
+    "score.sum": 2.197961968116651e-05,
+    "sha.latest": "bbabd39cced9f72061ec3ce151636a9ad07844f3",
+    "time.latest": 1718079408.6146123,
+    "formatted_time": "2024-06-10 23:16:48.614616",
+    "filescores": {
+        "create-snapshots.sh": 27.751172028138924
+    },
+    "subdirscores": {
+        "ARM": 72.24882797186108
+    }
+}

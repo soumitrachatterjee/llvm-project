@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/lldb/test/API/functionalities/breakpoint/break_in_loaded_dylib",
+    "score.sum": 8.628623784908478e-06,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717902931.7331285,
+    "formatted_time": "2024-06-09 08:45:31.733145",
+    "filescores": {
+        "b.cpp": 0.0,
+        "main.cpp": 0.0,
+        "Makefile": 0.0,
+        "TestBreakInLoadedDylib.py": 100.0
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/algorithms/alg.nonmodifying/alg.is_permutation",
+    "score.sum": 6.862854003447525e-05,
+    "sha.latest": "b8cb1dc9ea87faa8e8e9ab7a31710a8c0bb8b084",
+    "time.latest": 1717870041.8620017,
+    "formatted_time": "2024-06-08 23:37:21.862004",
+    "filescores": {
+        "is_permutation.pass.cpp": 34.79319373335857,
+        "is_permutation_pred.pass.cpp": 56.31895572255714,
+        "ranges.is_permutation.pass.cpp": 8.88785054408427
+    },
+    "subdirscores": {}
+}

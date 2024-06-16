@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/compiler-rt/utils",
+    "score.sum": 4.682811662853598e-05,
+    "sha.latest": "a1e7e401d2af002af26e1512a31e09eb2d0cf1dc",
+    "time.latest": 1717865839.2359452,
+    "formatted_time": "2024-06-08 22:27:19.235948",
+    "filescores": {
+        "generate_netbsd_ioctls.awk": 58.134736281558254,
+        "generate_netbsd_syscalls.awk": 41.86526371844175
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,16 @@
+{
+    "directory name": "llvm-project/mlir/test/Integration/GPU/ROCM",
+    "score.sum": 0.0002160932156218023,
+    "sha.latest": "5db8990cdae2b4e9bcb4ed6e874d1bd5be9962db",
+    "time.latest": 1717828328.5714357,
+    "formatted_time": "2024-06-08 01:32:08.571439",
+    "filescores": {
+        "gpu-to-hsaco.mlir": 19.450233342578976,
+        "lit.local.cfg": 3.6871409810510474,
+        "printf.mlir": 13.417276067877848,
+        "two-modules.mlir": 19.450233342578976,
+        "vecadd.mlir": 22.030718279089438,
+        "vector-transferops.mlir": 21.964397986823705
+    },
+    "subdirscores": {}
+}

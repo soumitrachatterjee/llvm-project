@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/lldb/test/API/lang/cpp/inlines",
+    "score.sum": 1.6210297804498427e-05,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717932828.5997128,
+    "formatted_time": "2024-06-09 17:03:48.599720",
+    "filescores": {
+        "inlines.cpp": 0.0,
+        "inlines.h": 0.0,
+        "Makefile": 0.0,
+        "TestInlines.py": 100.0
+    },
+    "subdirscores": {}
+}

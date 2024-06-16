@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/openmp/runtime/test/threadprivate",
+    "score.sum": 1.5601540089600052e-05,
+    "sha.latest": "4c6a098ad52fc2844f7733bc051cd7a729500f04",
+    "time.latest": 1717804858.719307,
+    "formatted_time": "2024-06-08 05:30:58.719308",
+    "filescores": {
+        "omp_threadprivate.c": 45.05431143539377,
+        "omp_threadprivate_for.c": 54.94568856460624
+    },
+    "subdirscores": {}
+}

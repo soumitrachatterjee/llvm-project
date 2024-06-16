@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/clang/test/CodeGenHipStdPar",
+    "score.sum": 6.099602068851199e-06,
+    "sha.latest": "791b890c468e5784113507f1f2fe7fed694c3962",
+    "time.latest": 1718010403.0695634,
+    "formatted_time": "2024-06-10 14:36:43.069566",
+    "filescores": {
+        "unannotated-functions-get-emitted.cpp": 100.0,
+        "unsupported-ASM.cpp": 0.0,
+        "unsupported-builtins.cpp": 0.0
+    },
+    "subdirscores": {}
+}

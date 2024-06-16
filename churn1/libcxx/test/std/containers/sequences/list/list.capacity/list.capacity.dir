@@ -1,0 +1,16 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/containers/sequences/list/list.capacity",
+    "score.sum": 9.07719194295321e-05,
+    "sha.latest": "fb855eb941b6d740cc6560297d0b4d3201dcaf9f",
+    "time.latest": 1717885761.9621787,
+    "formatted_time": "2024-06-09 03:59:21.962180",
+    "filescores": {
+        "empty.pass.cpp": 13.192762988571042,
+        "empty.verify.cpp": 10.45883258719916,
+        "max_size.pass.cpp": 13.353273646745661,
+        "resize_size.pass.cpp": 28.42410593686046,
+        "resize_size_value.pass.cpp": 21.37826185205263,
+        "size.pass.cpp": 13.192762988571042
+    },
+    "subdirscores": {}
+}

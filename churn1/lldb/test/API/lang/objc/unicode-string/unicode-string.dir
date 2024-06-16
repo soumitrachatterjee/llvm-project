@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/lldb/test/API/lang/objc/unicode-string",
+    "score.sum": 7.486842096189721e-06,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717960120.8724356,
+    "formatted_time": "2024-06-10 00:38:40.872441",
+    "filescores": {
+        "main.m": 0.0,
+        "TestUnicodeString.py": 100.0
+    },
+    "subdirscores": {}
+}

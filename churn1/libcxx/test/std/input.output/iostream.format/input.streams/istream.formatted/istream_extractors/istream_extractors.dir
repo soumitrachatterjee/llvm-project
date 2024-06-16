@@ -1,0 +1,20 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/input.output/iostream.format/input.streams/istream.formatted/istream_extractors",
+    "score.sum": 0.00028458528900578676,
+    "sha.latest": "ed61d6a46611cfb144b260e0dd0fb1b5783562d9",
+    "time.latest": 1717905535.9599562,
+    "formatted_time": "2024-06-09 09:28:55.959958",
+    "filescores": {
+        "basic_ios.pass.cpp": 6.102309681891217,
+        "chart.pass.cpp": 8.772662280072737,
+        "ios_base.pass.cpp": 6.102309681891217,
+        "istream.pass.cpp": 6.102309681891217,
+        "signed_char.pass.cpp": 10.523030553531237,
+        "signed_char_pointer.pass.cpp": 12.481037924842214,
+        "streambuf.pass.cpp": 16.9060977345322,
+        "unsigned_char.pass.cpp": 10.523030553531237,
+        "unsigned_char_pointer.pass.cpp": 12.481037924842214,
+        "wchar_t_pointer.pass.cpp": 10.006173982974511
+    },
+    "subdirscores": {}
+}

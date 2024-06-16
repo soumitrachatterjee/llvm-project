@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/strings/string.view/string.view.io",
+    "score.sum": 5.189762643998777e-05,
+    "sha.latest": "a40bada91aeda276a772acfbcae6e8de26755a11",
+    "time.latest": 1717973331.479637,
+    "formatted_time": "2024-06-10 04:18:51.479638",
+    "filescores": {
+        "stream_insert.pass.cpp": 68.24944528253017,
+        "stream_insert_decl_present.compile.pass.cpp": 31.750554717469814
+    },
+    "subdirscores": {}
+}

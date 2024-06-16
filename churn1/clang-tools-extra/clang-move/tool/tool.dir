@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/clang-tools-extra/clang-move/tool",
+    "score.sum": 3.9809783533443664e-05,
+    "sha.latest": "2b00d449d2ed09cd0364038115f90a3eb4fd15b5",
+    "time.latest": 1717789775.1205342,
+    "formatted_time": "2024-06-08 01:19:35.120539",
+    "filescores": {
+        "ClangMove.cpp": 39.44426065761589,
+        "CMakeLists.txt": 60.55573934238409
+    },
+    "subdirscores": {}
+}

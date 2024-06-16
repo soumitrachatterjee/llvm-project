@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/utilities/function.objects/func.search/func.search.bmh",
+    "score.sum": 0.0001337179961727855,
+    "sha.latest": "fb855eb941b6d740cc6560297d0b4d3201dcaf9f",
+    "time.latest": 1717996259.1050165,
+    "formatted_time": "2024-06-10 10:40:59.105019",
+    "filescores": {
+        "default.pass.cpp": 24.507560321572083,
+        "hash.pass.cpp": 25.492439678427914,
+        "hash.pred.pass.cpp": 25.492439678427914,
+        "implicit_ctad.pass.cpp": 0.0,
+        "pred.pass.cpp": 24.507560321572083
+    },
+    "subdirscores": {}
+}

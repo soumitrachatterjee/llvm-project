@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/iterators/predef.iterators/insert.iterators/insert.iterator",
+    "score.sum": 5.327748376683067e-05,
+    "sha.latest": "b8cb1dc9ea87faa8e8e9ab7a31710a8c0bb8b084",
+    "time.latest": 1717918023.7515626,
+    "formatted_time": "2024-06-09 12:57:03.751564",
+    "filescores": {
+        "cxx20_iter_member.pass.cpp": 22.08093259493317,
+        "iterator_concept_conformance.compile.pass.cpp": 32.552379636573335,
+        "types.pass.cpp": 45.3666877684935
+    },
+    "subdirscores": {}
+}

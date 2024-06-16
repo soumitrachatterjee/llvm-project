@@ -1,0 +1,19 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/utilities/meta",
+    "score.sum": 0.0008189841725862353,
+    "sha.latest": "64addd65210db59c8cb3794f792720e03e25b5af",
+    "time.latest": 1718002770.425871,
+    "formatted_time": "2024-06-10 12:29:30.425872",
+    "filescores": {},
+    "subdirscores": {
+        "meta.const.eval": 6.16103817550376,
+        "meta.help": 1.816418803113594,
+        "meta.logical": 3.0631322012430426,
+        "meta.rel": 13.35964030206026,
+        "meta.rqmts": 1.4814527541413542,
+        "meta.trans": 33.044938412534066,
+        "meta.type.synop": 4.227651203810039,
+        "meta.unary": 30.632694181873454,
+        "meta.unary.prop.query": 6.2130339657204265
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/numerics/complex.number/complex.literals",
+    "score.sum": 7.645531742700777e-05,
+    "sha.latest": "d4b59a05fc7507cf69993109443dc5af47ae4fa8",
+    "time.latest": 1717933922.2355952,
+    "formatted_time": "2024-06-09 17:22:02.235599",
+    "filescores": {
+        "literals.pass.cpp": 27.618711773211075,
+        "literals1.compile.fail.cpp": 8.709198302967689,
+        "literals1.pass.cpp": 30.712848372768935,
+        "literals2.pass.cpp": 32.959241551052294
+    },
+    "subdirscores": {}
+}

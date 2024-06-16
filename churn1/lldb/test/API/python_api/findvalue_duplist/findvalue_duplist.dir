@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/python_api/findvalue_duplist",
+    "score.sum": 2.638220817731572e-05,
+    "sha.latest": "9c2468821ec51defd09c246fea4a47886fff8c01",
+    "time.latest": 1717965299.2128675,
+    "formatted_time": "2024-06-10 02:04:59.212870",
+    "filescores": {
+        "main.cpp": 0.0,
+        "Makefile": 0.0,
+        "TestSBFrameFindValue.py": 100.0
+    },
+    "subdirscores": {}
+}

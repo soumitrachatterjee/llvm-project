@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/mlir/include/mlir/Target/LLVM/ROCDL",
+    "score.sum": 1.2257943887602184e-05,
+    "sha.latest": "d9dadfda85aad7942f6b61783402b9f2d5173782",
+    "time.latest": 1717800120.4489138,
+    "formatted_time": "2024-06-07 17:42:00.448916",
+    "filescores": {
+        "Target.h": 50.18770746057849,
+        "Utils.h": 49.812292539421506
+    },
+    "subdirscores": {}
+}

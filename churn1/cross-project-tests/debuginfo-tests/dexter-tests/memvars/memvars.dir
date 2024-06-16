@@ -1,0 +1,22 @@
+{
+    "directory name": "llvm-project/cross-project-tests/debuginfo-tests/dexter-tests/memvars",
+    "score.sum": 0.00040513176229564895,
+    "sha.latest": "a8837b49c1c1650357d7d8f2957c903b3a5ab039",
+    "time.latest": 1717792681.9049098,
+    "formatted_time": "2024-06-08 02:08:01.904914",
+    "filescores": {
+        "bitcast.c": 7.464115871733397,
+        "const-branch.c": 8.776568512434272,
+        "ctrl-flow.c": 10.389808981027524,
+        "implicit-ptr.c": 7.464115871733397,
+        "inline-escaping-function.c": 7.464115871733397,
+        "inlining-dse.c": 7.464115871733397,
+        "inlining.c": 10.389808981027524,
+        "loop.c": 7.464115871733397,
+        "merged-store.c": 7.464115871733397,
+        "ptr-to.c": 7.464115871733397,
+        "struct-dse.c": 8.273594426310451,
+        "unused-merged-value.c": 9.921407997066463
+    },
+    "subdirscores": {}
+}

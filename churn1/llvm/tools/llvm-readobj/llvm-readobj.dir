@@ -1,0 +1,31 @@
+{
+    "directory name": "llvm-project/llvm/tools/llvm-readobj",
+    "score.sum": 0.005905710703977701,
+    "sha.latest": "fe8476472467acd15a4d3771313e5532d1eb032f",
+    "time.latest": 1718082951.5169675,
+    "formatted_time": "2024-06-11 00:15:51.516971",
+    "filescores": {
+        "ARMEHABIPrinter.h": 1.9180414800935144,
+        "ARMWinEHPrinter.cpp": 2.754900306843542,
+        "ARMWinEHPrinter.h": 1.1609386009008398,
+        "CMakeLists.txt": 1.8714028046814795,
+        "COFFDumper.cpp": 12.796937365411843,
+        "COFFImportDumper.cpp": 0.5070227688981962,
+        "DwarfCFIEHPrinter.h": 1.5549429042124114,
+        "ELFDumper.cpp": 43.564197230733654,
+        "MachODumper.cpp": 3.9585772524217764,
+        "ObjDumper.cpp": 2.8100754126784606,
+        "ObjDumper.h": 5.307198219237568,
+        "Opts.td": 0.8608514576395008,
+        "StackMapPrinter.h": 0.30269379204213964,
+        "WasmDumper.cpp": 1.739604418691059,
+        "Win64EHDumper.cpp": 0.9015555389056008,
+        "Win64EHDumper.h": 0.15337832898684817,
+        "WindowsResourceDumper.cpp": 0.2132060780671178,
+        "WindowsResourceDumper.h": 0.10328311653909673,
+        "XCOFFDumper.cpp": 2.2497338524122323,
+        "llvm-readobj.cpp": 12.668081046037367,
+        "llvm-readobj.h": 2.6033780245657754
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/clang/test/CXX/cpp/cpp.predefined",
+    "score.sum": 6.099602068851199e-06,
+    "sha.latest": "ecbcefd693dd62f9242618b3cf838565e829cc7f",
+    "time.latest": 1718084602.7031984,
+    "formatted_time": "2024-06-11 11:13:22.703202",
+    "filescores": {
+        "p1.cpp": 100.0,
+        "p2.cpp": 0.0
+    },
+    "subdirscores": {}
+}

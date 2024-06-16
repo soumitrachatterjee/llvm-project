@@ -1,0 +1,16 @@
+{
+    "directory name": "llvm-project/compiler-rt/lib/builtins/macho_embedded",
+    "score.sum": 1.8351017653477253e-05,
+    "sha.latest": "4b120c8d633fe149eda0ac0a20588b07b24efb33",
+    "time.latest": 1717796587.508141,
+    "formatted_time": "2024-06-08 03:13:07.508145",
+    "filescores": {
+        "arm.txt": 33.238494910909814,
+        "CMakeLists.txt": 0.0,
+        "common.txt": 33.523010178180364,
+        "i386.txt": 0.0,
+        "thumb2-64.txt": 0.0,
+        "thumb2.txt": 33.238494910909814
+    },
+    "subdirscores": {}
+}

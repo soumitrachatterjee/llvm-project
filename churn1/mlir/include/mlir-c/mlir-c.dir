@@ -1,0 +1,29 @@
+{
+    "directory name": "llvm-project/mlir/include/mlir-c",
+    "score.sum": 0.0007404233894286278,
+    "sha.latest": "3714f937b835c06c8c32ca4f3f61ba2317db2296",
+    "time.latest": 1717790597.419992,
+    "formatted_time": "2024-06-07 15:03:17.419995",
+    "filescores": {
+        "AffineExpr.h": 1.790748534828569,
+        "AffineMap.h": 1.843440719900992,
+        "BuiltinAttributes.h": 8.714613128761533,
+        "BuiltinTypes.h": 9.343225644790774,
+        "Conversion.h": 0.8237992148732847,
+        "Debug.h": 0.0,
+        "Diagnostics.h": 2.240844136077446,
+        "ExecutionEngine.h": 1.9683889775216883,
+        "IR.h": 26.297058264574126,
+        "IntegerSet.h": 0.0,
+        "Interfaces.h": 2.0558140063219597,
+        "Pass.h": 4.831905867342728,
+        "RegisterEverything.h": 0.8237992148732847,
+        "Support.h": 3.1957063153064347,
+        "Transforms.h": 1.755804120440939
+    },
+    "subdirscores": {
+        "Bindings": 5.097119417309049,
+        "Dialect": 26.33147218309237,
+        "Target": 2.8862602539848186
+    }
+}

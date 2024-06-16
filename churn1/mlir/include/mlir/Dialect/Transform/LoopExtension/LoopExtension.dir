@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/mlir/include/mlir/Dialect/Transform/LoopExtension",
+    "score.sum": 6.099602068851199e-06,
+    "sha.latest": "2798b72ae7e5caad793169b77cbac47fe2362d0f",
+    "time.latest": 1717797896.4130304,
+    "formatted_time": "2024-06-07 17:04:56.413034",
+    "filescores": {
+        "CMakeLists.txt": 0.0,
+        "LoopExtension.h": 100.0,
+        "LoopExtensionOps.h": 0.0,
+        "LoopExtensionOps.td": 0.0
+    },
+    "subdirscores": {}
+}

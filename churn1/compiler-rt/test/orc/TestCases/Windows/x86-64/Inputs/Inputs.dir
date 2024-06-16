@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/compiler-rt/test/orc/TestCases/Windows/x86-64/Inputs",
+    "score.sum": 6.099602068851199e-06,
+    "sha.latest": "73c4033987c5ca6cf8022f840f3c42e3324da1cb",
+    "time.latest": 1717836322.280226,
+    "formatted_time": "2024-06-08 14:15:22.280229",
+    "filescores": {
+        "standalone-dylib.c": 100.0
+    },
+    "subdirscores": {}
+}

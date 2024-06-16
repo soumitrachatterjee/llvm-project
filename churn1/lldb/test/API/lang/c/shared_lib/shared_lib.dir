@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/lldb/test/API/lang/c/shared_lib",
+    "score.sum": 2.902888308284319e-05,
+    "sha.latest": "5b386158aacac4b41126983a5379d36ed413d0ea",
+    "time.latest": 1717926830.4950268,
+    "formatted_time": "2024-06-09 15:23:50.495028",
+    "filescores": {
+        "foo.c": 0.0,
+        "foo.h": 0.0,
+        "main.c": 0.0,
+        "Makefile": 0.0,
+        "TestSharedLib.py": 100.0
+    },
+    "subdirscores": {}
+}

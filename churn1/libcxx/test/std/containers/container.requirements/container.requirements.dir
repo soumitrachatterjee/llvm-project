@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/containers/container.requirements",
+    "score.sum": 8.443111096319231e-05,
+    "sha.latest": "9a140a1586cc4d13ecc97a28065f9ed2f93c99de",
+    "time.latest": 1717882815.4240441,
+    "formatted_time": "2024-06-09 03:10:15.424045",
+    "filescores": {},
+    "subdirscores": {
+        "associative.reqmts": 18.441099203269477,
+        "container.requirements.dataraces": 14.37013376035035,
+        "container.requirements.general": 34.37753407276034,
+        "sequence.reqmts": 14.37013376035035,
+        "unord.req": 18.441099203269477
+    }
+}

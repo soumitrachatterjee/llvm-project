@@ -1,0 +1,18 @@
+{
+    "directory name": "llvm-project/mlir/lib/Debug",
+    "score.sum": 9.925442809202339e-05,
+    "sha.latest": "39c0ebd5584f0649d36eb2d3f0bc0363c9e40a86",
+    "time.latest": 1717804414.3901846,
+    "formatted_time": "2024-06-07 18:53:34.390185",
+    "filescores": {
+        "CLOptionsSetup.cpp": 9.866159950099952,
+        "CMakeLists.txt": 38.365347518015774,
+        "DebugCounter.cpp": 7.901103026893967,
+        "DebuggerExecutionContextHook.cpp": 6.145420598460327,
+        "ExecutionContext.cpp": 6.145420598460327
+    },
+    "subdirscores": {
+        "BreakpointManagers": 10.126288822341671,
+        "Observers": 21.450259485727972
+    }
+}

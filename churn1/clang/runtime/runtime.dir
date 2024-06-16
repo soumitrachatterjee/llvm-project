@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/clang/runtime",
+    "score.sum": 0.0003648419967063346,
+    "sha.latest": "5361a0a38f25a82872a8ac5a2596f0f2155ea089",
+    "time.latest": 1717824131.675405,
+    "formatted_time": "2024-06-08 10:52:11.675409",
+    "filescores": {
+        "CMakeLists.txt": 60.82104075215638
+    },
+    "subdirscores": {
+        "compiler-rt": 39.17895924784362
+    }
+}

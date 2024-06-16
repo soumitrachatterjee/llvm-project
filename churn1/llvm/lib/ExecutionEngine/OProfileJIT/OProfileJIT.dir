@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/llvm/lib/ExecutionEngine/OProfileJIT",
+    "score.sum": 0.0001120197132835494,
+    "sha.latest": "9218ff50f93085d0a16a974db28ca8f14bc66f64",
+    "time.latest": 1717836788.2283537,
+    "formatted_time": "2024-06-08 03:53:08.228356",
+    "filescores": {
+        "CMakeLists.txt": 10.275378303034827,
+        "OProfileJITEventListener.cpp": 65.89109215277836,
+        "OProfileWrapper.cpp": 23.833529544186817
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/llvm/tools/llvm-sim",
+    "score.sum": 7.173782834929883e-05,
+    "sha.latest": "67ba5c507af2264ff79e4948b976477929436e86",
+    "time.latest": 1718084113.809514,
+    "formatted_time": "2024-06-11 00:35:13.809517",
+    "filescores": {
+        "CMakeLists.txt": 35.80882807712832,
+        "llvm-sim.cpp": 64.19117192287167
+    },
+    "subdirscores": {}
+}

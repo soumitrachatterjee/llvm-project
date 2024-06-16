@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/libcxx/test/libcxx/containers/sequences/list/list.ops",
+    "score.sum": 2.350515571496575e-05,
+    "sha.latest": "e61764c32ff77ae85509e56234a13a47b2d36cec",
+    "time.latest": 1717846527.2938786,
+    "formatted_time": "2024-06-08 17:05:27.293883",
+    "filescores": {
+        "debug.splice.pos_list.pass.cpp": 33.33333333333333,
+        "debug.splice.pos_list_iter.pass.cpp": 33.33333333333333,
+        "debug.splice.pos_list_iter_iter.pass.cpp": 33.33333333333333
+    },
+    "subdirscores": {}
+}

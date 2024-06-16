@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/lldb/test/API/lang/cpp/function_refs",
+    "score.sum": 6.099602068851199e-06,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717931615.5623791,
+    "formatted_time": "2024-06-09 16:43:35.562382",
+    "filescores": {
+        "main.cpp": 0.0,
+        "TestFunctionRefs.py": 100.0
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/utilities/function.objects/func.wrap/func.wrap.func/func.wrap.func.cap",
+    "score.sum": 3.1029254303316866e-05,
+    "sha.latest": "dbe60caa922d5e4a30e4f335f33b2628dd82e3e7",
+    "time.latest": 1717996429.4273596,
+    "formatted_time": "2024-06-10 10:43:49.427362",
+    "filescores": {
+        "operator_bool.pass.cpp": 100.0
+    },
+    "subdirscores": {}
+}

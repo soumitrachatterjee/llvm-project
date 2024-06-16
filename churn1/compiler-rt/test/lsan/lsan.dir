@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/compiler-rt/test/lsan",
+    "score.sum": 0.0007452386624484729,
+    "sha.latest": "4ff2f60f1fdaadebafc2daa8fef77ed331545904",
+    "time.latest": 1717831626.476781,
+    "formatted_time": "2024-06-08 12:57:06.476784",
+    "filescores": {
+        "CMakeLists.txt": 6.282535191446279,
+        "lit.common.cfg.py": 10.659114304070783,
+        "lit.site.cfg.py.in": 0.0
+    },
+    "subdirscores": {
+        "TestCases": 83.05835050448293
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/llvm/include/llvm/Frontend/Directive",
+    "score.sum": 1.9385447656481384e-05,
+    "sha.latest": "67c82d6ffb4bbc21212116a11f390761d859297a",
+    "time.latest": 1717815944.380717,
+    "formatted_time": "2024-06-07 22:05:44.380720",
+    "filescores": {
+        "DirectiveBase.td": 100.0
+    },
+    "subdirscores": {}
+}

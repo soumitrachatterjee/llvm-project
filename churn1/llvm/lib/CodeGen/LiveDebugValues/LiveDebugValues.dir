@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/llvm/lib/CodeGen/LiveDebugValues",
+    "score.sum": 0.0007233283836845349,
+    "sha.latest": "7850c94b86ac4889f4c792a487f4c0b0c5759a98",
+    "time.latest": 1717830349.3268547,
+    "formatted_time": "2024-06-08 02:05:49.326858",
+    "filescores": {
+        "InstrRefBasedImpl.cpp": 50.966140323631926,
+        "InstrRefBasedImpl.h": 15.590351482362022,
+        "LiveDebugValues.cpp": 8.789230087578522,
+        "LiveDebugValues.h": 6.497782900130591,
+        "VarLocBasedImpl.cpp": 18.15649520629695
+    },
+    "subdirscores": {}
+}

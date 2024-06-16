@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/llvm/lib/Target/RISCV/MCA",
+    "score.sum": 7.9964978589228e-05,
+    "sha.latest": "ae709c192953be2af61f47e91a3ec9f8d5ffb027",
+    "time.latest": 1717864387.3924642,
+    "formatted_time": "2024-06-08 11:33:07.392467",
+    "filescores": {
+        "CMakeLists.txt": 15.501458320595942,
+        "RISCVCustomBehaviour.cpp": 59.24194373537903,
+        "RISCVCustomBehaviour.h": 25.25659794402502
+    },
+    "subdirscores": {}
+}

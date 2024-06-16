@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/functionalities/data-formatter/data-formatter-ptr-to-array",
+    "score.sum": 2.519225446278435e-05,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717905496.4031734,
+    "formatted_time": "2024-06-09 09:28:16.403175",
+    "filescores": {
+        "main.cpp": 24.212212042641642,
+        "Makefile": 0.0,
+        "TestPtrToArrayFormatting.py": 75.78778795735836
+    },
+    "subdirscores": {}
+}

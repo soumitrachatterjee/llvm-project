@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/llvm/include/llvm/IRReader",
+    "score.sum": 8.602223297921953e-05,
+    "sha.latest": "96d0a3b5643a2081e39c9302c86b40859a8752d0",
+    "time.latest": 1717817697.88673,
+    "formatted_time": "2024-06-07 22:34:57.886733",
+    "filescores": {
+        "IRReader.h": 100.0
+    },
+    "subdirscores": {}
+}

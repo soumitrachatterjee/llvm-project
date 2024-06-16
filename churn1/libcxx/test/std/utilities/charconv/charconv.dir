@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/utilities/charconv",
+    "score.sum": 0.0001965517090790207,
+    "sha.latest": "7291761669dd63624ccaab30887aca7e9c7d3273",
+    "time.latest": 1717990414.2112021,
+    "formatted_time": "2024-06-10 09:03:34.211206",
+    "filescores": {},
+    "subdirscores": {
+        "charconv.from.chars": 28.552770352074862,
+        "charconv.msvc": 19.084030707114298,
+        "charconv.syn": 11.904133308565262,
+        "charconv.to.chars": 40.459065632245576
+    }
+}

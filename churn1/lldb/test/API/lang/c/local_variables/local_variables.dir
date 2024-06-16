@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/lang/c/local_variables",
+    "score.sum": 2.333519146295692e-05,
+    "sha.latest": "5b6e58c565cf809e4133a10ff9d9b096754bea1e",
+    "time.latest": 1717926163.6686592,
+    "formatted_time": "2024-06-09 15:12:43.668662",
+    "filescores": {
+        "main.c": 26.139070161622268,
+        "Makefile": 0.0,
+        "TestLocalVariables.py": 73.86092983837773
+    },
+    "subdirscores": {}
+}

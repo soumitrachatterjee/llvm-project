@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/mlir/lib/CAPI/Interfaces",
+    "score.sum": 4.899533147711829e-05,
+    "sha.latest": "68f58812e3e99e31d77c0c23b6298489444dc0be",
+    "time.latest": 1717802268.8473475,
+    "formatted_time": "2024-06-07 18:17:48.847351",
+    "filescores": {
+        "CMakeLists.txt": 12.44935361178202,
+        "Interfaces.cpp": 87.55064638821798
+    },
+    "subdirscores": {}
+}

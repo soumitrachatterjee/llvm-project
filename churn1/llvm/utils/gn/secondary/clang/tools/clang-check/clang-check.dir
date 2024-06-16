@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/llvm/utils/gn/secondary/clang/tools/clang-check",
+    "score.sum": 1.372633898950593e-05,
+    "sha.latest": "229c1cff510b7a2fe9eb9ddf4cb4787f08cab7bd",
+    "time.latest": 1718084653.7641647,
+    "formatted_time": "2024-06-11 00:44:13.764168",
+    "filescores": {
+        "BUILD.gn": 100.0
+    },
+    "subdirscores": {}
+}

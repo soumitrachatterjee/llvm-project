@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/utils/bazel/llvm-project-overlay/clang/unittests",
+    "score.sum": 7.979063987947136e-05,
+    "sha.latest": "cb9b3ad50b0046c4e3aca4be6ea8f166333fdac4",
+    "time.latest": 1717788510.4753003,
+    "formatted_time": "2024-06-08 00:58:30.475305",
+    "filescores": {
+        "BUILD.bazel": 100.0
+    },
+    "subdirscores": {}
+}

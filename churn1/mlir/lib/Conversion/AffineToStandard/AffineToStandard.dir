@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/mlir/lib/Conversion/AffineToStandard",
+    "score.sum": 0.0002044440309083555,
+    "sha.latest": "a8364c9e17b46ec339e97cc00877c58a7bdf6089",
+    "time.latest": 1717802389.5260983,
+    "formatted_time": "2024-06-07 18:19:49.526101",
+    "filescores": {
+        "AffineToStandard.cpp": 79.54451747850781,
+        "CMakeLists.txt": 20.455482521492176
+    },
+    "subdirscores": {}
+}

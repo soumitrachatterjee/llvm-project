@@ -1,0 +1,19 @@
+{
+    "directory name": "llvm-project/libcxx/test/libcxx/containers/associative",
+    "score.sum": 0.00013205127812565467,
+    "sha.latest": "86ab93828a56fb1208b4a63e83f3631f183a30fb",
+    "time.latest": 1717845877.671697,
+    "formatted_time": "2024-06-08 16:54:37.671700",
+    "filescores": {
+        "non_const_comparator.incomplete.verify.cpp": 4.880086084791531,
+        "non_const_comparator.verify.cpp": 5.202167362022511,
+        "tree_balance_after_insert.pass.cpp": 13.206094536524146,
+        "tree_key_value_traits.pass.cpp": 9.16813539292928,
+        "tree_left_rotate.pass.cpp": 13.206094536524146,
+        "tree_remove.pass.cpp": 13.206094536524146,
+        "tree_right_rotate.pass.cpp": 13.206094536524146
+    },
+    "subdirscores": {
+        "map": 27.925233014160078
+    }
+}

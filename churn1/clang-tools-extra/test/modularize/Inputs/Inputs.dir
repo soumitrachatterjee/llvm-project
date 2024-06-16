@@ -1,0 +1,40 @@
+{
+    "directory name": "llvm-project/clang-tools-extra/test/modularize/Inputs",
+    "score.sum": 0.00015113832375935658,
+    "sha.latest": "a171d248ca34b8b6f8de11d42a83ad981285963a",
+    "time.latest": 1717835756.4579577,
+    "formatted_time": "2024-06-08 14:05:56.457960",
+    "filescores": {
+        "Anonymous.h": 0.0,
+        "DuplicateHeader1.h": 0.0,
+        "DuplicateHeader2.h": 0.0,
+        "Empty.h": 0.0,
+        "HeaderGuard.h": 4.03577459186528,
+        "HeaderGuardSub1.h": 4.334979816217867,
+        "HeaderGuardSub2.h": 4.03577459186528,
+        "HeaderGuardSubSub.h": 0.0,
+        "HeaderGuardSubSubDefined.h": 0.0,
+        "IncludeInExtern.h": 0.0,
+        "IncludeInNamespace.h": 0.0,
+        "InconsistentHeader1.h": 0.0,
+        "InconsistentHeader2.h": 0.0,
+        "InconsistentSubHeader.h": 20.319001152776664,
+        "IsDependent.h": 7.456592522253337,
+        "NamespaceClasses.h": 8.06563843289465,
+        "NestedMacro.h": 0.0,
+        "NoProblems.modulemap": 0.0,
+        "ProblemsDuplicate.modulemap": 0.0,
+        "SomeDecls.h": 11.43589501430904,
+        "SomeOtherTypes.h": 7.456592522253337,
+        "SomeTypes.h": 7.579566674297575,
+        "TemplateClasses.h": 8.06563843289465
+    },
+    "subdirscores": {
+        "CompileError": 4.03577459186528,
+        "CoverageNoProblems": 4.571498532320882,
+        "CoverageProblems": 4.571498532320882,
+        "MissingHeader": 4.03577459186528,
+        "SubModule1": 0.0,
+        "SubModule2": 0.0
+    }
+}

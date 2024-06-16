@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/lldb/unittests/Editline",
+    "score.sum": 0.00010459120303435902,
+    "sha.latest": "6ebbb1f53689f11303ae2ef69b7d593a52b40fde",
+    "time.latest": 1717996084.6282048,
+    "formatted_time": "2024-06-10 10:38:04.628207",
+    "filescores": {
+        "CMakeLists.txt": 11.590146499628686,
+        "EditlineTest.cpp": 88.40985350037131
+    },
+    "subdirscores": {}
+}

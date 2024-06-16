@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/commands/gui/spawn-threads",
+    "score.sum": 6.099602068851199e-06,
+    "sha.latest": "6bf923d5c3daf5d66e0acf53d037a12ceff4a275",
+    "time.latest": 1717895633.0001473,
+    "formatted_time": "2024-06-09 06:43:53.000149",
+    "filescores": {
+        "main.cpp": 0.0,
+        "Makefile": 0.0,
+        "TestGuiSpawnThreads.py": 100.0
+    },
+    "subdirscores": {}
+}

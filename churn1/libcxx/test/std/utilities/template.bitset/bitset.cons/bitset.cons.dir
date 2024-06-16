@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/utilities/template.bitset/bitset.cons",
+    "score.sum": 0.00013479580424247942,
+    "sha.latest": "ea82a822d990824c58c6fa4b503ca84c4870c940",
+    "time.latest": 1718005293.8038428,
+    "formatted_time": "2024-06-10 13:11:33.803844",
+    "filescores": {
+        "char_ptr_ctor.pass.cpp": 26.779429468195136,
+        "default.pass.cpp": 15.915655392507341,
+        "string_ctor.pass.cpp": 30.25837445700758,
+        "string_view_ctor.pass.cpp": 0.0,
+        "ull_ctor.pass.cpp": 27.046540682289944
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/mlir/lib/Conversion/MemRefToLLVM",
+    "score.sum": 0.0003972375262080083,
+    "sha.latest": "91d5653e3ae9742f7fb847f809b534ee128501b0",
+    "time.latest": 1717803424.0089724,
+    "formatted_time": "2024-06-07 18:37:04.008976",
+    "filescores": {
+        "AllocLikeConversion.cpp": 15.647603656047771,
+        "CMakeLists.txt": 2.306897928664569,
+        "MemRefToLLVM.cpp": 82.04549841528767
+    },
+    "subdirscores": {}
+}

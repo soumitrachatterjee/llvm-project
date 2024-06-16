@@ -1,0 +1,22 @@
+{
+    "directory name": "llvm-project/mlir/lib/Dialect/Arith/Transforms",
+    "score.sum": 0.00022268889696050052,
+    "sha.latest": "9c7cde64e6556f8a04dc4a14cbfb2b277d5ab4d9",
+    "time.latest": 1717805125.9885445,
+    "formatted_time": "2024-06-07 19:05:25.988548",
+    "filescores": {
+        "BufferDeallocationOpInterfaceImpl.cpp": 5.747333695155707,
+        "BufferizableOpInterfaceImpl.cpp": 15.592437052335239,
+        "Bufferize.cpp": 5.47808894193276,
+        "CMakeLists.txt": 16.565334577993607,
+        "EmulateNarrowType.cpp": 0.0,
+        "EmulateUnsupportedFloats.cpp": 5.368021192064175,
+        "EmulateWideInt.cpp": 14.410574572635698,
+        "ExpandOps.cpp": 17.720974454404978,
+        "IntNarrowing.cpp": 8.281465325397159,
+        "IntRangeOptimizations.cpp": 2.761836088429236,
+        "ReifyValueBounds.cpp": 3.0533868015526946,
+        "UnsignedWhenEquivalent.cpp": 5.020547298098769
+    },
+    "subdirscores": {}
+}

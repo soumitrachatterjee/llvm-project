@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/compiler-rt/test/ubsan",
+    "score.sum": 0.0008508264882373128,
+    "sha.latest": "acdb4cdc04ed4d9a130f0fa706ed1b0f42cc1aa0",
+    "time.latest": 1717865079.6371813,
+    "formatted_time": "2024-06-08 22:14:39.637184",
+    "filescores": {
+        "CMakeLists.txt": 11.486561583098842,
+        "lit.common.cfg.py": 1.574050193329279,
+        "lit.site.cfg.py.in": 0.7169031704088056
+    },
+    "subdirscores": {
+        "TestCases": 86.22248505316307
+    }
+}

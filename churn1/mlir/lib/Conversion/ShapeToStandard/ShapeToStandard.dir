@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/mlir/lib/Conversion/ShapeToStandard",
+    "score.sum": 0.0002056078170324384,
+    "sha.latest": "d4fd20258f63d30be638b04f10eaa469707759f0",
+    "time.latest": 1717803898.3979983,
+    "formatted_time": "2024-06-07 18:44:58.398002",
+    "filescores": {
+        "CMakeLists.txt": 12.856372963069704,
+        "ConvertShapeConstraints.cpp": 28.240893687918657,
+        "ShapeToStandard.cpp": 54.59548850149128,
+        "ShapeToStandard.td": 4.3072448475203595
+    },
+    "subdirscores": {}
+}

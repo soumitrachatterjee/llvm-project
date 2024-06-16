@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/lang/c/register_variables",
+    "score.sum": 2.04029597564374e-05,
+    "sha.latest": "9c2468821ec51defd09c246fea4a47886fff8c01",
+    "time.latest": 1717926606.8253706,
+    "formatted_time": "2024-06-09 15:20:06.825372",
+    "filescores": {
+        "Makefile": 0.0,
+        "test.c": 0.0,
+        "TestRegisterVariables.py": 100.0
+    },
+    "subdirscores": {}
+}

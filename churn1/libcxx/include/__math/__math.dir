@@ -1,0 +1,29 @@
+{
+    "directory name": "llvm-project/libcxx/include/__math",
+    "score.sum": 0.00015500488548109175,
+    "sha.latest": "dcdcc7c8046fa1380d6f1dc2a9c2487ed24ee491",
+    "time.latest": 1717835073.7257125,
+    "formatted_time": "2024-06-08 13:54:33.725715",
+    "filescores": {
+        "abs.h": 3.935505655892885,
+        "copysign.h": 3.935505655892885,
+        "error_functions.h": 3.935505655892885,
+        "exponential_functions.h": 6.458044909696407,
+        "fdim.h": 6.458044909696407,
+        "fma.h": 6.458044909696407,
+        "gamma.h": 3.935505655892885,
+        "hyperbolic_functions.h": 3.935505655892885,
+        "hypot.h": 6.458044909696407,
+        "inverse_hyperbolic_functions.h": 3.935505655892885,
+        "inverse_trigonometric_functions.h": 6.458044909696407,
+        "logarithms.h": 3.935505655892885,
+        "min_max.h": 6.458044909696407,
+        "modulo.h": 6.458044909696407,
+        "remainder.h": 6.458044909696407,
+        "roots.h": 3.935505655892885,
+        "rounding_functions.h": 6.458044909696407,
+        "traits.h": 6.458044909696407,
+        "trigonometric_functions.h": 3.935505655892885
+    },
+    "subdirscores": {}
+}

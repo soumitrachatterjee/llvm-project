@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/utilities/utility/mem.res/mem.res.global",
+    "score.sum": 3.9951091234024266e-05,
+    "sha.latest": "2da049a1418f7a2f96e7cac4368cac3ce8667d2e",
+    "time.latest": 1718008513.1737173,
+    "formatted_time": "2024-06-10 14:05:13.173719",
+    "filescores": {
+        "default_resource.pass.cpp": 25.472964866468434,
+        "new_delete_resource.pass.cpp": 35.15268809504296,
+        "null_memory_resource.pass.cpp": 39.3743470384886
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/input.output/filesystems/class.path/path.member/path.decompose",
+    "score.sum": 4.743616698729952e-05,
+    "sha.latest": "ac8c9f1e39e1a773fd81ce23dbf1c80ea186f226",
+    "time.latest": 1717903044.3617496,
+    "formatted_time": "2024-06-09 08:47:24.361752",
+    "filescores": {
+        "empty.verify.cpp": 40.34557739037109,
+        "path.decompose.pass.cpp": 59.65442260962891
+    },
+    "subdirscores": {}
+}

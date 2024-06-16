@@ -1,0 +1,19 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/strings/string.view/string.view.comparison",
+    "score.sum": 0.00011122689450981004,
+    "sha.latest": "164c204a19f7859d570003d4c5e82faf48cb65a9",
+    "time.latest": 1717972597.7429583,
+    "formatted_time": "2024-06-10 04:06:37.742960",
+    "filescores": {
+        "common_type_specialization.pass.cpp": 8.067195743587945,
+        "comparison.pass.cpp": 5.483927332263352,
+        "comparison.verify.cpp": 8.474901389434407,
+        "equal.pass.cpp": 12.995662589119048,
+        "greater.pass.cpp": 12.995662589119048,
+        "greater_equal.pass.cpp": 12.995662589119048,
+        "less.pass.cpp": 12.995662589119048,
+        "less_equal.pass.cpp": 12.995662589119048,
+        "not_equal.pass.cpp": 12.995662589119048
+    },
+    "subdirscores": {}
+}

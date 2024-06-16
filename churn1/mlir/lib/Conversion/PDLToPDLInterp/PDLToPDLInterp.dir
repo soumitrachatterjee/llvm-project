@@ -1,0 +1,18 @@
+{
+    "directory name": "llvm-project/mlir/lib/Conversion/PDLToPDLInterp",
+    "score.sum": 0.00032368218096128187,
+    "sha.latest": "fab2bb8bfda865bd438dee981d7be7df8017b76d",
+    "time.latest": 1717803637.7655175,
+    "formatted_time": "2024-06-07 18:40:37.765521",
+    "filescores": {
+        "CMakeLists.txt": 3.1377544096660372,
+        "PDLToPDLInterp.cpp": 34.59485963733228,
+        "Predicate.cpp": 7.8230982966126685,
+        "Predicate.h": 15.278282223467865,
+        "PredicateTree.cpp": 27.927945888046658,
+        "PredicateTree.h": 4.883422586646062,
+        "RootOrdering.cpp": 3.6291293670456777,
+        "RootOrdering.h": 2.7255075911827578
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/clang-tools-extra/test/clang-doc",
+    "score.sum": 9.14677861604902e-05,
+    "sha.latest": "640ef55bbbc081b72a87f71cab1bce08762e48b0",
+    "time.latest": 1717816924.365908,
+    "formatted_time": "2024-06-08 08:52:04.365911",
+    "filescores": {
+        "single-file-public.cpp": 42.5412202908268,
+        "single-file.cpp": 50.77407268954891,
+        "templates.cpp": 6.684707019624272
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/clang/www/analyzer/scripts",
+    "score.sum": 6.099602068851199e-06,
+    "sha.latest": "c5e54ddab31ca40a93e61f277d2bbd349fb84f3e",
+    "time.latest": 1718081743.9924896,
+    "formatted_time": "2024-06-11 10:25:43.992492",
+    "filescores": {
+        "expandcollapse.js": 100.0,
+        "menu.js": 0.0
+    },
+    "subdirscores": {}
+}

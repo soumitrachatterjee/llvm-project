@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/llvm/tools/llvm-ifs",
+    "score.sum": 0.00022949878689433042,
+    "sha.latest": "d9a9872ec4760762fdc467ef283cea302a3742e5",
+    "time.latest": 1718080495.3116345,
+    "formatted_time": "2024-06-10 23:34:55.311638",
+    "filescores": {
+        "CMakeLists.txt": 17.257808737196548,
+        "ErrorCollector.cpp": 2.6577927279675237,
+        "ErrorCollector.h": 4.587421264328727,
+        "Opts.td": 0.0,
+        "llvm-ifs.cpp": 75.4969772705072
+    },
+    "subdirscores": {}
+}

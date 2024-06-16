@@ -1,0 +1,24 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/utilities/utility",
+    "score.sum": 0.0006325481543318592,
+    "sha.latest": "6e4930c67508a90bdfd756f6e45417b5253cd741",
+    "time.latest": 1718009314.1610448,
+    "formatted_time": "2024-06-10 14:18:34.161046",
+    "filescores": {
+        "synopsis.pass.cpp": 4.1870320565691985
+    },
+    "subdirscores": {
+        "as_const": 3.834254426820744,
+        "declval": 2.415227939598439,
+        "exchange": 4.4712743469140905,
+        "forward": 15.510611993362433,
+        "mem.res": 5.422398316743219,
+        "operators": 2.7454472082970005,
+        "pairs": 41.5866089556961,
+        "utility.inplace": 3.8300987376440525,
+        "utility.intcmp": 5.0425103806484,
+        "utility.swap": 3.050772228348948,
+        "utility.underlying": 2.027603590925629,
+        "utility.unreachable": 5.876159818431733
+    }
+}

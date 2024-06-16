@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/lldb/test/API/commands/gui/basicdebug",
+    "score.sum": 3.9650321965514594e-05,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717895480.31217,
+    "formatted_time": "2024-06-09 06:41:20.312171",
+    "filescores": {
+        "func.c": 15.383486858331835,
+        "main.c": 15.383486858331835,
+        "Makefile": 0.0,
+        "TestGuiBasicDebug.py": 69.23302628333633
+    },
+    "subdirscores": {}
+}

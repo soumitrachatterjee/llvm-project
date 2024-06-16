@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/containers/associative/map/map.erasure",
+    "score.sum": 1.4393629572626426e-05,
+    "sha.latest": "fb855eb941b6d740cc6560297d0b4d3201dcaf9f",
+    "time.latest": 1717876362.4680076,
+    "formatted_time": "2024-06-09 01:22:42.468011",
+    "filescores": {
+        "erase_if.pass.cpp": 100.0
+    },
+    "subdirscores": {}
+}

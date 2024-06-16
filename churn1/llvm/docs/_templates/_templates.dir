@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/llvm/docs/_templates",
+    "score.sum": 3.7948703777176615e-05,
+    "sha.latest": "96484553d96ed97f679fe7a696c433e6d3228ce0",
+    "time.latest": 1717802641.8557642,
+    "formatted_time": "2024-06-07 18:24:01.855768",
+    "filescores": {
+        "indexsidebar.html": 83.92671706204507,
+        "layout.html": 16.073282937954946
+    },
+    "subdirscores": {}
+}

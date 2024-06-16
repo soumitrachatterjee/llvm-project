@@ -1,0 +1,16 @@
+{
+    "directory name": "llvm-project/cross-project-tests/debuginfo-tests/dexter/feature_tests",
+    "score.sum": 0.00014982440974886522,
+    "sha.latest": "9120e854486d00307e14751769200ae4c45909a9",
+    "time.latest": 1717792298.796135,
+    "formatted_time": "2024-06-08 02:01:38.796140",
+    "filescores": {
+        "lit.local.cfg": 4.0711670942507405,
+        "Readme.md": 0.0
+    },
+    "subdirscores": {
+        "commands": 46.91742729627148,
+        "subtools": 49.01140560947778,
+        "unittests": 0.0
+    }
+}

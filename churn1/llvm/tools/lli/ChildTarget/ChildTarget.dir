@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/llvm/tools/lli/ChildTarget",
+    "score.sum": 0.00010627722881251125,
+    "sha.latest": "f25daa589ee0649ea87d1e8ae9332cb29d064b9e",
+    "time.latest": 1718078094.416836,
+    "formatted_time": "2024-06-10 22:54:54.416840",
+    "filescores": {
+        "CMakeLists.txt": 40.84479683333778,
+        "ChildTarget.cpp": 59.155203166662204
+    },
+    "subdirscores": {}
+}

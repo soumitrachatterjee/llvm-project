@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/llvm/include/llvm/CodeGen/MIRParser",
+    "score.sum": 6.987339872086904e-05,
+    "sha.latest": "7eeedc124f9901a65573668bc504a45111a3f837",
+    "time.latest": 1717809836.2262146,
+    "formatted_time": "2024-06-07 20:23:56.226218",
+    "filescores": {
+        "MIParser.h": 26.14883093459711,
+        "MIRParser.h": 73.85116906540289
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/lldb/tools/debugserver/scripts",
+    "score.sum": 1.2199121752925275e-05,
+    "sha.latest": "aab764965aa6fc21a2e143322ba9511f82130133",
+    "time.latest": 1717985694.0887167,
+    "formatted_time": "2024-06-10 07:44:54.088719",
+    "filescores": {
+        "diagnose-termination.d": 100.0
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/clang/test/CXX/dcl.decl/dcl.init/dcl.init.aggr",
+    "score.sum": 2.693470759570345e-05,
+    "sha.latest": "c00e44656dfbcb400af8d7f4fabf8f04d188104d",
+    "time.latest": 1718088441.69386,
+    "formatted_time": "2024-06-11 12:17:21.693863",
+    "filescores": {
+        "p1.cpp": 38.512593998198,
+        "p4.cpp": 38.84152411435879,
+        "p7.cpp": 22.645881887443213
+    },
+    "subdirscores": {}
+}

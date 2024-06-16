@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/localization/locales/locale/locale.types/locale.facet",
+    "score.sum": 1.2100331926119643e-05,
+    "sha.latest": "2df59c50688c122bbcae7467d3eaf862c3ea3088",
+    "time.latest": 1717931983.5222943,
+    "formatted_time": "2024-06-09 16:49:43.522296",
+    "filescores": {
+        "tested_elsewhere.pass.cpp": 100.0
+    },
+    "subdirscores": {}
+}

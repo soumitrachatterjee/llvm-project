@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/lldb/test/API/python_api/sbstructureddata",
+    "score.sum": 3.3692585527052796e-05,
+    "sha.latest": "57bd882343f8e4cca598b6ad47da93476cffb987",
+    "time.latest": 1717966562.0560186,
+    "formatted_time": "2024-06-10 02:26:02.056021",
+    "filescores": {
+        "TestStructuredDataAPI.py": 100.0
+    },
+    "subdirscores": {}
+}

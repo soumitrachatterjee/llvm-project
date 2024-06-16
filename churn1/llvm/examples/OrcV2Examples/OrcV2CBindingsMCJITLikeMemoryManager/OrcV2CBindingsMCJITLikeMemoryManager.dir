@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/llvm/examples/OrcV2Examples/OrcV2CBindingsMCJITLikeMemoryManager",
+    "score.sum": 8.27742742322019e-06,
+    "sha.latest": "c2cabe479b27af031d3d63cc73630e2c23bddbcd",
+    "time.latest": 1717804980.7628977,
+    "formatted_time": "2024-06-07 19:03:00.762901",
+    "filescores": {
+        "CMakeLists.txt": 0.0,
+        "OrcV2CBindingsMCJITLikeMemoryManager.c": 100.0
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,20 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/input.output/iostream.format/output.streams/ostream.formatted/ostream.inserters.character",
+    "score.sum": 0.00026180192715523766,
+    "sha.latest": "a7f9895cc18995549c7facb96e72718da282a864",
+    "time.latest": 1717906390.2168531,
+    "formatted_time": "2024-06-09 09:43:10.216855",
+    "filescores": {
+        "char.pass.cpp": 8.587833822935295,
+        "CharT.pass.cpp": 12.118249265597058,
+        "CharT_pointer.pass.cpp": 12.118249265597058,
+        "char_pointer.pass.cpp": 8.587833822935295,
+        "char_to_wide.pass.cpp": 12.118249265597058,
+        "char_to_wide_pointer.pass.cpp": 12.118249265597058,
+        "signed_char.pass.cpp": 8.587833822935295,
+        "signed_char_pointer.pass.cpp": 8.587833822935295,
+        "unsigned_char.pass.cpp": 8.587833822935295,
+        "unsigned_char_pointer.pass.cpp": 8.587833822935295
+    },
+    "subdirscores": {}
+}

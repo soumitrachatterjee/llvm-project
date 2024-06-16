@@ -1,0 +1,16 @@
+{
+    "directory name": "llvm-project/mlir/lib/Tools/PDLL",
+    "score.sum": 0.00019643255876002167,
+    "sha.latest": "780a20984b6af067eed5870eb7c00ea076b6072a",
+    "time.latest": 1717812616.6004038,
+    "formatted_time": "2024-06-07 21:10:16.600405",
+    "filescores": {
+        "CMakeLists.txt": 6.002678671119873
+    },
+    "subdirscores": {
+        "AST": 21.0546328843015,
+        "CodeGen": 20.674961838692784,
+        "ODS": 6.258035133146779,
+        "Parser": 46.00969147273905
+    }
+}

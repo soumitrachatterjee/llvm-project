@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/llvm/unittests/MIR",
+    "score.sum": 6.233461361413711e-05,
+    "sha.latest": "4ebee956455caa0da7783280f8515040eac89d08",
+    "time.latest": 1718082051.7635365,
+    "formatted_time": "2024-06-11 00:00:51.763540",
+    "filescores": {
+        "CMakeLists.txt": 31.472909174218085,
+        "MachineMetadata.cpp": 34.163848704328935,
+        "PassBuilderCallbacksTest.cpp": 34.363242121453
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/mlir/examples/standalone/python/mlir_standalone/dialects",
+    "score.sum": 1.2266226338164507e-05,
+    "sha.latest": "67a910bbff772ebf4c47e8b434b59cdc4820bb68",
+    "time.latest": 1717789010.2968311,
+    "formatted_time": "2024-06-07 14:36:50.296834",
+    "filescores": {
+        "StandaloneOps.td": 49.97968674404118,
+        "standalone.py": 50.02031325595881
+    },
+    "subdirscores": {}
+}

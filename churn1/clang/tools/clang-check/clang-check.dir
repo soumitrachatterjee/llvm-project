@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/clang/tools/clang-check",
+    "score.sum": 0.00018396749216930002,
+    "sha.latest": "263dcf452fa04d98456df04d2c3a753ba6d916ab",
+    "time.latest": 1718081393.9387412,
+    "formatted_time": "2024-06-11 10:19:53.938743",
+    "filescores": {
+        "ClangCheck.cpp": 72.19542238453123,
+        "CMakeLists.txt": 27.804577615468784
+    },
+    "subdirscores": {}
+}

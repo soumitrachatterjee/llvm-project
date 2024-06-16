@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/mlir/lib/Analysis/AliasAnalysis",
+    "score.sum": 7.984052779002166e-05,
+    "sha.latest": "a2e69c570823bec919b3e786ade152e4db6a08ba",
+    "time.latest": 1717801131.7720606,
+    "formatted_time": "2024-06-07 17:58:51.772064",
+    "filescores": {
+        "LocalAliasAnalysis.cpp": 100.0
+    },
+    "subdirscores": {}
+}

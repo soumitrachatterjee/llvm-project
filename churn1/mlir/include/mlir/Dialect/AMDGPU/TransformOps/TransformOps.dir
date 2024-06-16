@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/mlir/include/mlir/Dialect/AMDGPU/TransformOps",
+    "score.sum": 6.099602068851199e-06,
+    "sha.latest": "87c0260f45e5a02cb07722d089dae3f0f84c7b3d",
+    "time.latest": 1717792640.7726495,
+    "formatted_time": "2024-06-07 15:37:20.772653",
+    "filescores": {
+        "AMDGPUTransformOps.h": 0.0,
+        "AMDGPUTransformOps.td": 100.0,
+        "CMakeLists.txt": 0.0
+    },
+    "subdirscores": {}
+}

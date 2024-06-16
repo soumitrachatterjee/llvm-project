@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/mlir/lib/Conversion/MathToSPIRV",
+    "score.sum": 0.00010677952599614642,
+    "sha.latest": "18ad80ea6f69879b7ada4089de259553917e5166",
+    "time.latest": 1717803392.2703462,
+    "formatted_time": "2024-06-07 18:36:32.270350",
+    "filescores": {
+        "CMakeLists.txt": 5.712332970153219,
+        "MathToSPIRV.cpp": 69.3871826416024,
+        "MathToSPIRVPass.cpp": 24.900484388244383
+    },
+    "subdirscores": {}
+}

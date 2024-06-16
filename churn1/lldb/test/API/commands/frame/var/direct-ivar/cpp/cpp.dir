@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/commands/frame/var/direct-ivar/cpp",
+    "score.sum": 6.099602068851199e-06,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717895213.156623,
+    "formatted_time": "2024-06-09 06:36:53.156625",
+    "filescores": {
+        "main.cpp": 0.0,
+        "Makefile": 0.0,
+        "TestFrameVarDirectIvarCpp.py": 100.0
+    },
+    "subdirscores": {}
+}

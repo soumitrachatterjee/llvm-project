@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/algorithms/alg.nonmodifying/alg.equal",
+    "score.sum": 9.435854017820644e-05,
+    "sha.latest": "8dfc67d6724eb0af5d278f4d1d5511ca9f9e039f",
+    "time.latest": 1717869675.2779083,
+    "formatted_time": "2024-06-08 23:31:15.277911",
+    "filescores": {
+        "equal.pass.cpp": 60.058651425989375,
+        "equal_pred.pass.cpp": 22.87621458388419,
+        "pstl.equal.pass.cpp": 0.0,
+        "pstl.exception_handling.pass.cpp": 6.464281937100163,
+        "ranges.equal.pass.cpp": 10.60085205302628
+    },
+    "subdirscores": {}
+}

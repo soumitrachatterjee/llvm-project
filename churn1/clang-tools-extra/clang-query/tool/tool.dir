@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/clang-tools-extra/clang-query/tool",
+    "score.sum": 0.00012272927882715494,
+    "sha.latest": "f71ffd3b735b4d6ae3c12be1806cdd6205b3b378",
+    "time.latest": 1717789968.738053,
+    "formatted_time": "2024-06-08 01:22:48.738057",
+    "filescores": {
+        "ClangQuery.cpp": 73.49889657476606,
+        "CMakeLists.txt": 26.50110342523393
+    },
+    "subdirscores": {}
+}

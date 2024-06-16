@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/openmp/tools/archer/tests/critical",
+    "score.sum": 1.8298806206553597e-05,
+    "sha.latest": "77ad98c80881ba90bf18ec2780169c60e02c159b",
+    "time.latest": 1717805970.6741924,
+    "formatted_time": "2024-06-08 05:49:30.674196",
+    "filescores": {
+        "critical.c": 33.33333333333333,
+        "lock-nested.c": 33.33333333333333,
+        "lock.c": 33.33333333333333
+    },
+    "subdirscores": {}
+}

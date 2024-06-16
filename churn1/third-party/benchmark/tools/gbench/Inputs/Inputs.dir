@@ -1,0 +1,20 @@
+{
+    "directory name": "llvm-project/third-party/benchmark/tools/gbench/Inputs",
+    "score.sum": 6.173045181796048e-05,
+    "sha.latest": "a5b797172cc902db166e9a695716fb81405f86e4",
+    "time.latest": 1717789630.8107154,
+    "formatted_time": "2024-06-07 14:47:10.810719",
+    "filescores": {
+        "test1_run1.json": 29.89764759222665,
+        "test1_run2.json": 29.89764759222665,
+        "test2_run.json": 10.051176203886676,
+        "test3_run0.json": 10.051176203886676,
+        "test3_run1.json": 10.051176203886676,
+        "test4_run.json": 10.051176203886676,
+        "test4_run0.json": 0.0,
+        "test4_run1.json": 0.0,
+        "test5_run0.json": 0.0,
+        "test5_run1.json": 0.0
+    },
+    "subdirscores": {}
+}

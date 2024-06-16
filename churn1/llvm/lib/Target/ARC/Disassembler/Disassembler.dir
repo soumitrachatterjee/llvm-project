@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/llvm/lib/Target/ARC/Disassembler",
+    "score.sum": 7.994995834619873e-05,
+    "sha.latest": "5d71ec6e448fa3ecb7e22368e97cf8274d5c84c6",
+    "time.latest": 1717850497.7850869,
+    "formatted_time": "2024-06-08 07:41:37.785090",
+    "filescores": {
+        "ARCDisassembler.cpp": 69.81582466348281,
+        "CMakeLists.txt": 30.18417533651717
+    },
+    "subdirscores": {}
+}

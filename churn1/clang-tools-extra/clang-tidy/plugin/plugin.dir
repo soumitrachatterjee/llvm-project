@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/clang-tools-extra/clang-tidy/plugin",
+    "score.sum": 0.00010009407665591368,
+    "sha.latest": "76bbbcb41bcf4a1d7a26bb11b78cf97b60ea7d4b",
+    "time.latest": 1717799220.6084044,
+    "formatted_time": "2024-06-08 03:57:00.608407",
+    "filescores": {
+        "ClangTidyPlugin.cpp": 54.649834935459786,
+        "CMakeLists.txt": 45.350165064540214
+    },
+    "subdirscores": {}
+}

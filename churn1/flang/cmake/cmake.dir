@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/flang/cmake",
+    "score.sum": 0.00014239409956245375,
+    "sha.latest": "cbfa4aa75ffd31f0068b0603e83cd8a7c3ee4260",
+    "time.latest": 1717787690.860339,
+    "formatted_time": "2024-06-07 14:14:50.860340",
+    "filescores": {},
+    "subdirscores": {
+        "modules": 100.0
+    }
+}

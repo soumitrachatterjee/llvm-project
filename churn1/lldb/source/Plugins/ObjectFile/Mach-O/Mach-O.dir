@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/source/Plugins/ObjectFile/Mach-O",
+    "score.sum": 0.0017545332184507841,
+    "sha.latest": "aeaa11aeac0aedf32cafec6532d303fea595c5fc",
+    "time.latest": 1717872217.2474954,
+    "formatted_time": "2024-06-09 00:13:37.247499",
+    "filescores": {
+        "CMakeLists.txt": 0.6226315331293933,
+        "ObjectFileMachO.cpp": 83.32125877123944,
+        "ObjectFileMachO.h": 16.056109695631175
+    },
+    "subdirscores": {}
+}

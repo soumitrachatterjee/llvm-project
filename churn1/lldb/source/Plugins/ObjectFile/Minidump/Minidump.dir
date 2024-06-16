@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/lldb/source/Plugins/ObjectFile/Minidump",
+    "score.sum": 7.785186884669518e-05,
+    "sha.latest": "beb702c0ad69244da6caedca9a0f3c6ee42e5bae",
+    "time.latest": 1717872311.6447306,
+    "formatted_time": "2024-06-09 00:15:11.644734",
+    "filescores": {
+        "CMakeLists.txt": 7.995836845946947,
+        "MinidumpFileBuilder.cpp": 35.77979923341948,
+        "MinidumpFileBuilder.h": 16.16655740324845,
+        "ObjectFileMinidump.cpp": 20.36255305690392,
+        "ObjectFileMinidump.h": 19.695253460481187
+    },
+    "subdirscores": {}
+}

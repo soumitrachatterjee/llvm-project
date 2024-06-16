@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/llvm/utils/gn/secondary/clang/lib/Driver",
+    "score.sum": 0.0001288429229658384,
+    "sha.latest": "5165593a97a04caad553cb0c213d3b3d359b1853",
+    "time.latest": 1718083734.1381361,
+    "formatted_time": "2024-06-11 00:28:54.138140",
+    "filescores": {
+        "BUILD.gn": 100.0
+    },
+    "subdirscores": {}
+}

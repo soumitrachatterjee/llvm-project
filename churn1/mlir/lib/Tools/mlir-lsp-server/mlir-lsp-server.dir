@@ -1,0 +1,18 @@
+{
+    "directory name": "llvm-project/mlir/lib/Tools/mlir-lsp-server",
+    "score.sum": 0.0002661337501000632,
+    "sha.latest": "88d319a29ff5d3be1bb9a7e88ef6e17df1dfe607",
+    "time.latest": 1717812776.508666,
+    "formatted_time": "2024-06-07 21:12:56.508669",
+    "filescores": {
+        "CMakeLists.txt": 4.574263996951766,
+        "LSPServer.cpp": 16.406061902099204,
+        "LSPServer.h": 2.2919310559287647,
+        "MLIRServer.cpp": 50.91356365134311,
+        "MLIRServer.h": 14.387671880038006,
+        "MlirLspServerMain.cpp": 6.84264540178163,
+        "Protocol.cpp": 2.2919310559287647,
+        "Protocol.h": 2.2919310559287647
+    },
+    "subdirscores": {}
+}

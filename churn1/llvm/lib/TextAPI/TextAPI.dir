@@ -1,0 +1,30 @@
+{
+    "directory name": "llvm-project/llvm/lib/TextAPI",
+    "score.sum": 0.0005755309905525291,
+    "sha.latest": "50ae8a2a38b618d76193bed04b1d7df6890d5c8a",
+    "time.latest": 1717874323.361585,
+    "formatted_time": "2024-06-08 14:18:43.361588",
+    "filescores": {
+        "Architecture.cpp": 1.5258251686552622,
+        "ArchitectureSet.cpp": 0.0,
+        "CMakeLists.txt": 15.557204393296175,
+        "InterfaceFile.cpp": 9.503061231101592,
+        "PackedVersion.cpp": 3.8858980368256413,
+        "Platform.cpp": 7.045330182176746,
+        "RecordVisitor.cpp": 2.210942818522629,
+        "RecordsSlice.cpp": 4.79369815987278,
+        "Symbol.cpp": 5.69949809169997,
+        "SymbolSet.cpp": 2.199023917350105,
+        "Target.cpp": 4.552141745115876,
+        "TextAPIContext.h": 1.059821654954736,
+        "TextAPIError.cpp": 2.0648653993451718,
+        "TextStub.cpp": 14.852812114160512,
+        "TextStubCommon.cpp": 6.16060096482582,
+        "TextStubCommon.h": 9.13464092267781,
+        "TextStubV5.cpp": 6.643310363034698,
+        "Utils.cpp": 1.059821654954736
+    },
+    "subdirscores": {
+        "BinaryReader": 2.0515031814297453
+    }
+}

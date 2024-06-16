@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/functionalities/breakpoint/breakpoint_conditions",
+    "score.sum": 2.457711428377318e-05,
+    "sha.latest": "9c2468821ec51defd09c246fea4a47886fff8c01",
+    "time.latest": 1717902228.130189,
+    "formatted_time": "2024-06-09 08:33:48.130191",
+    "filescores": {
+        "main.c": 24.81821908961219,
+        "Makefile": 0.0,
+        "TestBreakpointConditions.py": 75.1817809103878
+    },
+    "subdirscores": {}
+}

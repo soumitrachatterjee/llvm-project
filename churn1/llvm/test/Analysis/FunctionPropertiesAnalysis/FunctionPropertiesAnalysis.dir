@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/llvm/test/Analysis/FunctionPropertiesAnalysis",
+    "score.sum": 2.196863952291882e-05,
+    "sha.latest": "1aee1e1f4c4b504becc06521546de992a662694b",
+    "time.latest": 1717887574.8299608,
+    "formatted_time": "2024-06-08 17:59:34.829964",
+    "filescores": {
+        "matmul.ll": 100.0
+    },
+    "subdirscores": {}
+}

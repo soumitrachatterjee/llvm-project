@@ -1,0 +1,24 @@
+{
+    "directory name": "llvm-project/bolt/test/Inputs",
+    "score.sum": 5.8012741518323245e-05,
+    "sha.latest": "c5a306f07edd0da42a7ad9afbbfb9f55b40de07f",
+    "time.latest": 1717790543.3932672,
+    "formatted_time": "2024-06-08 01:32:23.393272",
+    "filescores": {
+        "asm_foo.s": 0.0,
+        "asm_main.c": 10.51424550747123,
+        "bolt_icf.cpp": 0.0,
+        "hello.c": 0.0,
+        "icf-jump-tables.c": 31.496427725193882,
+        "icf_baz.c": 0.0,
+        "icf_main.c": 0.0,
+        "jump_table_icp.cpp": 10.51424550747123,
+        "lsda.ldscript": 0.0,
+        "plt.c": 0.0,
+        "reorder-data-writable-ptload.fdata": 0.0,
+        "stub.c": 18.648129444109994,
+        "stub.h": 18.31270630828244,
+        "vararg.s": 10.51424550747123
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/llvm/utils/gn/secondary/clang-tools-extra/pp-trace",
+    "score.sum": 6.099602068851199e-06,
+    "sha.latest": "6f4c45e9fc70473e2e176608657c02beb122973b",
+    "time.latest": 1718082716.2580295,
+    "formatted_time": "2024-06-11 00:11:56.258033",
+    "filescores": {
+        "BUILD.gn": 100.0
+    },
+    "subdirscores": {}
+}

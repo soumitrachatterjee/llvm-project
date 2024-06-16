@@ -1,0 +1,25 @@
+{
+    "directory name": "llvm-project/llvm/test/CodeGen/M68k/Arith",
+    "score.sum": 0.00012197297697940547,
+    "sha.latest": "cd0d11be7a6de335dcfcf2788a97d915f017e25e",
+    "time.latest": 1718071119.73975,
+    "formatted_time": "2024-06-10 20:58:39.739754",
+    "filescores": {
+        "add-with-overflow.ll": 5.000781500873826,
+        "add.ll": 5.715241946174578,
+        "bitwise.ll": 6.219875042657239,
+        "divide-by-constant.ll": 18.570000923084358,
+        "imul-neg.ll": 5.000781500873826,
+        "imul.ll": 5.000781500873826,
+        "lshr.ll": 0.0,
+        "mul64.ll": 5.000781500873826,
+        "mul_div_32.ll": 0.0,
+        "sdiv-exact.ll": 5.000781500873826,
+        "sext-i1.ll": 0.0,
+        "smul-with-overflow.ll": 20.128754734739363,
+        "sub-with-overflow.ll": 5.715241946174578,
+        "sub.ll": 0.0,
+        "umul-with-overflow.ll": 18.646977902800757
+    },
+    "subdirscores": {}
+}

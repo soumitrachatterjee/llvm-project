@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/diagnostics/syserr/syserr.errcode",
+    "score.sum": 0.00013226258213764092,
+    "sha.latest": "e8cfbfd05a951b85f80156dffc8eeecb34c7271c",
+    "time.latest": 1717898417.008725,
+    "formatted_time": "2024-06-09 07:30:17.008728",
+    "filescores": {},
+    "subdirscores": {
+        "syserr.errcode.constructors": 20.387245799589458,
+        "syserr.errcode.modifiers": 20.387245799589458,
+        "syserr.errcode.nonmembers": 16.093952384677486,
+        "syserr.errcode.observers": 27.643934341452024,
+        "syserr.errcode.overview": 15.487621674691573
+    }
+}

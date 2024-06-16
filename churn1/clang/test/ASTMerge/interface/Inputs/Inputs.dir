@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/clang/test/ASTMerge/interface/Inputs",
+    "score.sum": 2.616626515921935e-05,
+    "sha.latest": "0333dd95636da52229ca14b4e5525c1cd8ba62d2",
+    "time.latest": 1717865893.2144341,
+    "formatted_time": "2024-06-08 22:28:13.214436",
+    "filescores": {
+        "interface1.m": 55.37031885975181,
+        "interface2.m": 44.629681140248195
+    },
+    "subdirscores": {}
+}

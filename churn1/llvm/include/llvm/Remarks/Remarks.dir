@@ -1,0 +1,22 @@
+{
+    "directory name": "llvm-project/llvm/include/llvm/Remarks",
+    "score.sum": 0.00024069592045049428,
+    "sha.latest": "31c2cf1136179da2bd179d28ea632bd73f5c0ea9",
+    "time.latest": 1717820644.7430675,
+    "formatted_time": "2024-06-07 23:24:04.743071",
+    "filescores": {
+        "BitstreamRemarkContainer.h": 2.738298250554283,
+        "BitstreamRemarkParser.h": 4.346232756849491,
+        "BitstreamRemarkSerializer.h": 10.734244162192418,
+        "HotnessThresholdParser.h": 7.595157778608804,
+        "Remark.h": 11.647402998409191,
+        "RemarkFormat.h": 3.4962640576053596,
+        "RemarkLinker.h": 9.749505971990928,
+        "RemarkParser.h": 12.985839961754673,
+        "RemarkSerializer.h": 16.913629112659503,
+        "RemarkStreamer.h": 6.833469184595901,
+        "RemarkStringTable.h": 6.508202927355798,
+        "YAMLRemarkSerializer.h": 6.4517528374236495
+    },
+    "subdirscores": {}
+}

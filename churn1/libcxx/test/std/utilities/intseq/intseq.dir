@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/utilities/intseq",
+    "score.sum": 0.00012326833546250182,
+    "sha.latest": "21c7bc51e9ed2402a3a2f7a88d63cc8f5c2e303c",
+    "time.latest": 1717997619.2950268,
+    "formatted_time": "2024-06-10 11:03:39.295029",
+    "filescores": {},
+    "subdirscores": {
+        "intseq.general": 18.35572194546681,
+        "intseq.intseq": 29.808277617548296,
+        "intseq.make": 51.83600043698489
+    }
+}

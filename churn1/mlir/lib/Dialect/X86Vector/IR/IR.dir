@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/mlir/lib/Dialect/X86Vector/IR",
+    "score.sum": 2.0629686664554097e-05,
+    "sha.latest": "8df54a6a03a6d07e3053eff9806b450ec9193772",
+    "time.latest": 1717810446.8663368,
+    "formatted_time": "2024-06-07 20:34:06.866340",
+    "filescores": {
+        "CMakeLists.txt": 29.56710961263182,
+        "X86VectorDialect.cpp": 70.43289038736819
+    },
+    "subdirscores": {}
+}

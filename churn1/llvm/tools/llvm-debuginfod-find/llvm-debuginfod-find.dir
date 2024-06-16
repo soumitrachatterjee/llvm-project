@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/llvm/tools/llvm-debuginfod-find",
+    "score.sum": 2.944208189668863e-05,
+    "sha.latest": "9827467d849541e2abd9010308113225baf85e96",
+    "time.latest": 1718079122.9142869,
+    "formatted_time": "2024-06-10 23:12:02.914290",
+    "filescores": {
+        "CMakeLists.txt": 36.601103497853146,
+        "llvm-debuginfod-find.cpp": 63.398896502146854
+    },
+    "subdirscores": {}
+}

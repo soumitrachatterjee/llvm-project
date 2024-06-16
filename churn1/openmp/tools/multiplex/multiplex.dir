@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/openmp/tools/multiplex",
+    "score.sum": 7.295168227424924e-05,
+    "sha.latest": "e66876f2e05faa82ffee8e3c28cbfe0637193b99",
+    "time.latest": 1717806698.0498867,
+    "formatted_time": "2024-06-08 06:01:38.049889",
+    "filescores": {
+        "CMakeLists.txt": 38.08769431263253,
+        "ompt-multiplex.h": 29.940204274652586,
+        "README.md": 8.361153408252877
+    },
+    "subdirscores": {
+        "tests": 23.610948004462006
+    }
+}

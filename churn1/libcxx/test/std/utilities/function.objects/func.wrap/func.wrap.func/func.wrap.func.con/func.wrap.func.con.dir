@@ -1,0 +1,33 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/utilities/function.objects/func.wrap/func.wrap.func/func.wrap.func.con",
+    "score.sum": 0.0007401324773402824,
+    "sha.latest": "ca06c330fd07f05e65a638892c32ca1474d47b5e",
+    "time.latest": 1717996663.3644018,
+    "formatted_time": "2024-06-10 10:47:43.364405",
+    "filescores": {
+        "alloc.pass.cpp": 4.519367163015066,
+        "alloc.verify.cpp": 0.8241230125139952,
+        "alloc_F.pass.cpp": 7.379781812966124,
+        "alloc_F.verify.cpp": 2.7872118648829294,
+        "alloc_function.pass.cpp": 6.824976889379476,
+        "alloc_function.verify.cpp": 2.7872118648829294,
+        "alloc_nullptr.pass.cpp": 4.519367163015066,
+        "alloc_nullptr.verify.cpp": 0.8241230125139952,
+        "alloc_rfunction.pass.cpp": 5.755672374604657,
+        "alloc_rfunction.verify.cpp": 1.4911670257618506,
+        "copy_assign.pass.cpp": 7.182368230845597,
+        "copy_move.pass.cpp": 12.31678525891916,
+        "ctad.static.compile.pass.cpp": 2.810978685171392,
+        "deduct_F.pass.cpp": 1.6140681642296535,
+        "deduct_F.verify.cpp": 1.0425868481208507,
+        "deduct_ptr.pass.cpp": 1.6140681642296535,
+        "default.pass.cpp": 3.9467101019368047,
+        "F.pass.cpp": 6.040906068447735,
+        "F_assign.pass.cpp": 7.108681925801331,
+        "F_incomplete.pass.cpp": 4.36845453264751,
+        "F_nullptr.pass.cpp": 4.4987429518888025,
+        "nullptr_t.pass.cpp": 3.507619184696565,
+        "nullptr_t_assign.pass.cpp": 6.235027699528853
+    },
+    "subdirscores": {}
+}

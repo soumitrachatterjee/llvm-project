@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/input.output/input.output.general",
+    "score.sum": 2.1978318021974632e-05,
+    "sha.latest": "7bfaa0f09d0564f315ea778023b34b8a113ec740",
+    "time.latest": 1717904855.8500211,
+    "formatted_time": "2024-06-09 09:17:35.850023",
+    "filescores": {
+        "lit.local.cfg": 44.79621430252427,
+        "nothing_to_do.pass.cpp": 55.20378569747574
+    },
+    "subdirscores": {}
+}

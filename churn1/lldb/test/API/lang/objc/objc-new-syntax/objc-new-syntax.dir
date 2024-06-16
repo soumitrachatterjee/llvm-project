@@ -1,0 +1,16 @@
+{
+    "directory name": "llvm-project/lldb/test/API/lang/objc/objc-new-syntax",
+    "score.sum": 4.746784491142394e-05,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717959002.8834743,
+    "formatted_time": "2024-06-10 00:20:02.883480",
+    "filescores": {
+        "main.m": 0.0,
+        "Makefile": 0.0,
+        "ObjCNewSyntaxTest.py": 42.78917279031712,
+        "TestObjCNewSyntaxArray.py": 15.772449982004316,
+        "TestObjCNewSyntaxDictionary.py": 15.772449982004316,
+        "TestObjCNewSyntaxLiteral.py": 25.665927245674247
+    },
+    "subdirscores": {}
+}

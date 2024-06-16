@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/libcxx/include/__expected",
+    "score.sum": 9.40893418518891e-05,
+    "sha.latest": "4f4690530e8b40cdf3a17c76a352b26c2fb0446c",
+    "time.latest": 1717832780.1609554,
+    "formatted_time": "2024-06-08 13:16:20.160960",
+    "filescores": {
+        "bad_expected_access.h": 13.396781101391916,
+        "expected.h": 65.17311194846243,
+        "unexpect.h": 6.482776846768573,
+        "unexpected.h": 14.947330103377066
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/input.output/filesystems/class.file_status",
+    "score.sum": 3.9088016357768624e-05,
+    "sha.latest": "ac8c9f1e39e1a773fd81ce23dbf1c80ea186f226",
+    "time.latest": 1717902813.7227895,
+    "formatted_time": "2024-06-09 08:43:33.722791",
+    "filescores": {
+        "file_status.cons.pass.cpp": 33.33333333333333,
+        "file_status.mods.pass.cpp": 33.33333333333333,
+        "file_status.obs.pass.cpp": 33.33333333333333,
+        "file_status.status.eq.ops.pass.cpp": 0.0
+    },
+    "subdirscores": {}
+}

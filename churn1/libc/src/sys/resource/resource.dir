@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/libc/src/sys/resource",
+    "score.sum": 3.8575287251133486e-05,
+    "sha.latest": "b6bc9d72f65a5086f310f321e969d96e9a559e75",
+    "time.latest": 1717841655.0621994,
+    "formatted_time": "2024-06-08 05:14:15.062202",
+    "filescores": {
+        "CMakeLists.txt": 0.0,
+        "getrlimit.h": 31.41291830748002,
+        "setrlimit.h": 31.41291830748002
+    },
+    "subdirscores": {
+        "linux": 37.174163385039954
+    }
+}

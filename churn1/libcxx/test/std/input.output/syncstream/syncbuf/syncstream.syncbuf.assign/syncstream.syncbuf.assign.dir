@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/input.output/syncstream/syncbuf/syncstream.syncbuf.assign",
+    "score.sum": 1.2199204137702398e-05,
+    "sha.latest": "b2cc4b994e5fb85053b1acedec5ea0d1d42e5ec4",
+    "time.latest": 1717910937.792831,
+    "formatted_time": "2024-06-09 10:58:57.792832",
+    "filescores": {
+        "assign.pass.cpp": 50.0,
+        "swap.pass.cpp": 50.0
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/commands/target/create-no-such-arch",
+    "score.sum": 1.0459834404963863e-05,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717898206.4062886,
+    "formatted_time": "2024-06-09 07:26:46.406291",
+    "filescores": {
+        "main.cpp": 0.0,
+        "Makefile": 0.0,
+        "TestNoSuchArch.py": 100.0
+    },
+    "subdirscores": {}
+}

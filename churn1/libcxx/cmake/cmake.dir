@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/libcxx/cmake",
+    "score.sum": 0.001316364322121486,
+    "sha.latest": "d1a461dbb2293d9258d400b5426f610bb5191228",
+    "time.latest": 1717823899.7454972,
+    "formatted_time": "2024-06-08 10:48:19.745500",
+    "filescores": {
+        "config-ix.cmake": 17.67082971855998
+    },
+    "subdirscores": {
+        "caches": 34.7365143565527,
+        "Modules": 47.592655924887325
+    }
+}

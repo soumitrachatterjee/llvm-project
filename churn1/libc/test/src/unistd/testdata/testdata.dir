@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/libc/test/src/unistd/testdata",
+    "score.sum": 7.372386249372008e-06,
+    "sha.latest": "055322891ce9df72116da23529f999658b258450",
+    "time.latest": 1717851607.9983733,
+    "formatted_time": "2024-06-08 08:00:07.998377",
+    "filescores": {
+        "CMakeLists.txt": 100.0
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/time/time.clock/time.clock.steady",
+    "score.sum": 1.2199204137702398e-05,
+    "sha.latest": "a7f9895cc18995549c7facb96e72718da282a864",
+    "time.latest": 1717983600.984704,
+    "formatted_time": "2024-06-10 07:10:00.984707",
+    "filescores": {
+        "consistency.pass.cpp": 50.0,
+        "now.pass.cpp": 50.0
+    },
+    "subdirscores": {}
+}

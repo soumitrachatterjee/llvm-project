@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/macosx/debugserver-exit-code",
+    "score.sum": 9.942361284907534e-06,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717962175.4671972,
+    "formatted_time": "2024-06-10 01:12:55.467202",
+    "filescores": {
+        "main.c": 0.0,
+        "Makefile": 0.0,
+        "TestDebugServerExitCode.py": 100.0
+    },
+    "subdirscores": {}
+}

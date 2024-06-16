@@ -1,0 +1,29 @@
+{
+    "directory name": "llvm-project/clang-tools-extra/docs/clang-tidy/checks/abseil",
+    "score.sum": 1.8074761389649167e-05,
+    "sha.latest": "bc8cff1d7fb2069aa3f7333e25642f2571049af1",
+    "time.latest": 1717807074.5704598,
+    "formatted_time": "2024-06-08 06:07:54.570463",
+    "filescores": {
+        "cleanup-ctad.rst": 0.0,
+        "duration-addition.rst": 0.0,
+        "duration-comparison.rst": 0.0,
+        "duration-conversion-cast.rst": 0.0,
+        "duration-division.rst": 0.0,
+        "duration-factory-float.rst": 0.0,
+        "duration-factory-scale.rst": 0.0,
+        "duration-subtraction.rst": 0.0,
+        "duration-unnecessary-conversion.rst": 0.0,
+        "faster-strsplit-delimiter.rst": 0.0,
+        "no-internal-dependencies.rst": 33.746515029206655,
+        "no-namespace.rst": 0.0,
+        "redundant-strcat-calls.rst": 0.0,
+        "str-cat-append.rst": 0.0,
+        "string-find-startswith.rst": 66.25348497079332,
+        "string-find-str-contains.rst": 0.0,
+        "time-comparison.rst": 0.0,
+        "time-subtraction.rst": 0.0,
+        "upgrade-duration-conversions.rst": 0.0
+    },
+    "subdirscores": {}
+}

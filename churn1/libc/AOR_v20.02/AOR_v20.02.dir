@@ -1,0 +1,18 @@
+{
+    "directory name": "llvm-project/libc/AOR_v20.02",
+    "score.sum": 1.336104530536301e-05,
+    "sha.latest": "69c0b2febe01108f50db6e8ed21cd8b2e6088caf",
+    "time.latest": 1717823974.376965,
+    "formatted_time": "2024-06-08 00:19:34.376966",
+    "filescores": {
+        "Makefile": 0.0,
+        "README.md": 0.0,
+        "config.mk": 0.0,
+        "config.mk.dist": 0.0
+    },
+    "subdirscores": {
+        "math": 53.69756724612695,
+        "networking": 0.0,
+        "string": 46.30243275387304
+    }
+}

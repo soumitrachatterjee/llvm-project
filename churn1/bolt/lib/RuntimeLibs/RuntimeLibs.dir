@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/bolt/lib/RuntimeLibs",
+    "score.sum": 7.997465575078209e-05,
+    "sha.latest": "03cba44029cc78b9ef86c4e2aac0453ebab473ae",
+    "time.latest": 1717789169.460841,
+    "formatted_time": "2024-06-08 01:09:29.460846",
+    "filescores": {
+        "CMakeLists.txt": 14.657368673154881,
+        "HugifyRuntimeLibrary.cpp": 29.31182651840995,
+        "InstrumentationRuntimeLibrary.cpp": 36.59421073329413,
+        "RuntimeLibrary.cpp": 19.43659407514102
+    },
+    "subdirscores": {}
+}

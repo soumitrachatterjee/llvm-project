@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/clang/lib/IndexSerialization",
+    "score.sum": 1.8264108149454625e-05,
+    "sha.latest": "f3dcc2351cff7b26c9870d737e5d431551542d9e",
+    "time.latest": 1717816600.6309958,
+    "formatted_time": "2024-06-08 08:46:40.630999",
+    "filescores": {
+        "CMakeLists.txt": 33.39665982558987,
+        "SerializablePathCollection.cpp": 66.60334017441014
+    },
+    "subdirscores": {}
+}

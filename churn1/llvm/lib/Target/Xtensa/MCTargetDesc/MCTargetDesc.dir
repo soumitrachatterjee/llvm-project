@@ -1,0 +1,23 @@
+{
+    "directory name": "llvm-project/llvm/lib/Target/Xtensa/MCTargetDesc",
+    "score.sum": 3.6597612413107194e-05,
+    "sha.latest": "4a0ccfa865437fe29ef2ecb18152df7694dddb7f",
+    "time.latest": 1717873558.520626,
+    "formatted_time": "2024-06-08 14:05:58.520631",
+    "filescores": {
+        "CMakeLists.txt": 0.0,
+        "XtensaAsmBackend.cpp": 16.666666666666664,
+        "XtensaELFObjectWriter.cpp": 16.666666666666664,
+        "XtensaFixupKinds.h": 0.0,
+        "XtensaInstPrinter.cpp": 16.666666666666664,
+        "XtensaInstPrinter.h": 16.666666666666664,
+        "XtensaMCAsmInfo.cpp": 16.666666666666664,
+        "XtensaMCAsmInfo.h": 0.0,
+        "XtensaMCCodeEmitter.cpp": 16.666666666666664,
+        "XtensaMCExpr.cpp": 0.0,
+        "XtensaMCExpr.h": 0.0,
+        "XtensaMCTargetDesc.cpp": 0.0,
+        "XtensaMCTargetDesc.h": 0.0
+    },
+    "subdirscores": {}
+}

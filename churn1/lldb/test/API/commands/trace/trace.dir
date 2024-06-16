@@ -1,0 +1,27 @@
+{
+    "directory name": "llvm-project/lldb/test/API/commands/trace",
+    "score.sum": 0.0004317067660976622,
+    "sha.latest": "1eeeab82c6eb185f5139e633a59c2dbcb15616e4",
+    "time.latest": 1717900196.2514114,
+    "formatted_time": "2024-06-09 07:59:56.251414",
+    "filescores": {
+        "TestTraceDumpFunctionCalls.py": 1.5139454286441727,
+        "TestTraceDumpInfo.py": 10.22577400474818,
+        "TestTraceDumpInstructions.py": 9.033664512071175,
+        "TestTraceEvents.py": 3.487113834118115,
+        "TestTraceExport.py": 4.4932211928431975,
+        "TestTraceLoad.py": 24.735280109477735,
+        "TestTraceSave.py": 6.5286661301908895,
+        "TestTraceSchema.py": 4.852348906231078,
+        "TestTraceStartStop.py": 10.915977326180307,
+        "TestTraceTSC.py": 2.58654928779077
+    },
+    "subdirscores": {
+        "inline-function": 0.0,
+        "intelpt-kernel-trace": 0.0,
+        "intelpt-multi-core-trace": 2.8282418978914583,
+        "intelpt-trace": 6.8900206631077054,
+        "intelpt-trace-multi-file": 3.1719860292670834,
+        "multiple-threads": 8.737210677438133
+    }
+}

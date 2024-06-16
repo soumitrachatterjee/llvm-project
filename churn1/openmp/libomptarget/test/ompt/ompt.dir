@@ -1,0 +1,28 @@
+{
+    "directory name": "llvm-project/openmp/libomptarget/test/ompt",
+    "score.sum": 0.0002359532840851922,
+    "sha.latest": "70677c81debbeacfc2a2fe968e632522ea1b53e1",
+    "time.latest": 1717799027.6623354,
+    "formatted_time": "2024-06-08 03:53:47.662338",
+    "filescores": {
+        "callbacks.h": 5.032971315794339,
+        "register_both.h": 0.0,
+        "register_emi.h": 0.0,
+        "register_emi_map.h": 0.0,
+        "register_non_emi.h": 0.0,
+        "register_non_emi_map.h": 0.0,
+        "register_no_device_init.h": 0.0,
+        "register_wrong_return.h": 0.0,
+        "target_memcpy.c": 6.875091144949706,
+        "target_memcpy_emi.c": 5.161098423000941,
+        "veccopy.c": 10.792560715507072,
+        "veccopy_data.c": 4.114980890057449,
+        "veccopy_disallow_both.c": 12.063422303944634,
+        "veccopy_emi.c": 11.992138984661576,
+        "veccopy_emi_map.c": 12.063422303944634,
+        "veccopy_map.c": 10.525105928423582,
+        "veccopy_no_device_init.c": 10.689603994858036,
+        "veccopy_wrong_return.c": 10.689603994858036
+    },
+    "subdirscores": {}
+}

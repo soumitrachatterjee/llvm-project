@@ -1,0 +1,23 @@
+{
+    "directory name": "llvm-project/compiler-rt/lib/gwp_asan/platform_specific",
+    "score.sum": 8.506638737508013e-05,
+    "sha.latest": "296f7fbbb5c48a961aa31b2ffa1d048e6bfbd7a1",
+    "time.latest": 1717799414.4600327,
+    "formatted_time": "2024-06-08 04:00:14.460036",
+    "filescores": {
+        "common_fuchsia.cpp": 0.0,
+        "common_posix.cpp": 13.806228025151428,
+        "guarded_pool_allocator_fuchsia.cpp": 7.1704021495075905,
+        "guarded_pool_allocator_fuchsia.h": 0.0,
+        "guarded_pool_allocator_posix.cpp": 29.38899051781077,
+        "guarded_pool_allocator_posix.h": 0.0,
+        "guarded_pool_allocator_tls.h": 7.1704021495075905,
+        "mutex_fuchsia.cpp": 0.0,
+        "mutex_fuchsia.h": 0.0,
+        "mutex_posix.cpp": 7.1704021495075905,
+        "mutex_posix.h": 0.0,
+        "utilities_fuchsia.cpp": 0.0,
+        "utilities_posix.cpp": 35.29357500851503
+    },
+    "subdirscores": {}
+}

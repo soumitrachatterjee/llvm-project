@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/iterators/predef.iterators/reverse.iterators/reverse.iter.elem",
+    "score.sum": 1.4308887510284285e-05,
+    "sha.latest": "70248920fcd804a5825ecf69f24b96a7e340afe6",
+    "time.latest": 1717919667.9820669,
+    "formatted_time": "2024-06-09 13:24:27.982068",
+    "filescores": {
+        "arrow.pass.cpp": 57.37193360093713,
+        "arrow.sfinae.compile.pass.cpp": 0.0,
+        "bracket.pass.cpp": 0.0,
+        "dereference.pass.cpp": 42.62806639906287
+    },
+    "subdirscores": {}
+}

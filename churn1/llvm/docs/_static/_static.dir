@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/llvm/docs/_static",
+    "score.sum": 6.099602068851199e-06,
+    "sha.latest": "c7bd9dcb064cc258c97a46f5b473b390360b548e",
+    "time.latest": 1717802609.5003943,
+    "formatted_time": "2024-06-07 18:23:29.500398",
+    "filescores": {
+        "LoopOptWG_invite.ics": 0.0,
+        "lines.gif": 0.0,
+        "llvm.css": 100.0
+    },
+    "subdirscores": {}
+}

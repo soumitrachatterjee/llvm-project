@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/functionalities/ptr_refs",
+    "score.sum": 1.9184568318724524e-05,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717919364.4590092,
+    "formatted_time": "2024-06-09 13:19:24.459011",
+    "filescores": {
+        "main.c": 31.794314928097002,
+        "Makefile": 0.0,
+        "TestPtrRefs.py": 68.20568507190299
+    },
+    "subdirscores": {}
+}

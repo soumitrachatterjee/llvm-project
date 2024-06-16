@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/lldb/tools/lldb-fuzzer/lldb-target-fuzzer",
+    "score.sum": 1.9122302606363437e-05,
+    "sha.latest": "40aace59cc58ca438060cf4dfd97ba01ff4f0ebc",
+    "time.latest": 1717991394.330966,
+    "formatted_time": "2024-06-10 09:19:54.330969",
+    "filescores": {
+        "CMakeLists.txt": 100.0,
+        "lldb-target-fuzzer.cpp": 0.0
+    },
+    "subdirscores": {}
+}

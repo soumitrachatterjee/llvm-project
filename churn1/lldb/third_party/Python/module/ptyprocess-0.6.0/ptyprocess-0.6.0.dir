@@ -1,0 +1,17 @@
+{
+    "directory name": "llvm-project/lldb/third_party/Python/module/ptyprocess-0.6.0",
+    "score.sum": 6.099602068851199e-06,
+    "sha.latest": "52a3ed5b93ca9aba042d87e2bb697bf0dda2e43c",
+    "time.latest": 1717985209.877992,
+    "formatted_time": "2024-06-10 07:36:49.877995",
+    "filescores": {
+        ".travis.yml": 0.0,
+        "LICENSE": 0.0,
+        "pyproject.toml": 0.0,
+        "README.rst": 0.0,
+        "readthedocs.yml": 0.0
+    },
+    "subdirscores": {
+        "ptyprocess": 100.0
+    }
+}

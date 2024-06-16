@@ -1,0 +1,21 @@
+{
+    "directory name": "llvm-project/mlir/test/lib/Dialect/Affine",
+    "score.sum": 0.00035038041082605716,
+    "sha.latest": "2679d3793b264b2884cf5c9492e3311f08f41de3",
+    "time.latest": 1717830967.9350655,
+    "formatted_time": "2024-06-08 02:16:07.935069",
+    "filescores": {
+        "CMakeLists.txt": 9.883062356953475,
+        "TestAccessAnalysis.cpp": 0.0,
+        "TestAffineDataCopy.cpp": 21.96724649240771,
+        "TestAffineLoopParametricTiling.cpp": 8.273135237572587,
+        "TestAffineLoopUnswitching.cpp": 9.625005132571566,
+        "TestDecomposeAffineOps.cpp": 1.9281673246662963,
+        "TestLoopFusion.cpp": 2.807264827324822,
+        "TestLoopMapping.cpp": 3.653482296602042,
+        "TestLoopPermutation.cpp": 11.861993753648719,
+        "TestReifyValueBounds.cpp": 5.870943445608084,
+        "TestVectorizationUtils.cpp": 24.129699132644696
+    },
+    "subdirscores": {}
+}

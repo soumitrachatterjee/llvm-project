@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/clang/lib/Testing",
+    "score.sum": 5.6146681398657036e-05,
+    "sha.latest": "7457e2c1535acd548d2619dfb34eb93d27d15908",
+    "time.latest": 1717822670.2905848,
+    "formatted_time": "2024-06-08 10:27:50.290589",
+    "filescores": {
+        "CMakeLists.txt": 47.64575328969659,
+        "CommandLineArgs.cpp": 35.42561410072819,
+        "TestAST.cpp": 16.92863260957523
+    },
+    "subdirscores": {}
+}

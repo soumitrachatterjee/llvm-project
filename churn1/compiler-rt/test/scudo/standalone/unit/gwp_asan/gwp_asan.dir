@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/compiler-rt/test/scudo/standalone/unit/gwp_asan",
+    "score.sum": 6.182014967259489e-06,
+    "sha.latest": "e78b64df98878d1da56275e0c272ed58364da3ad",
+    "time.latest": 1717844495.4978533,
+    "formatted_time": "2024-06-08 16:31:35.497857",
+    "filescores": {
+        "lit.site.cfg.py.in": 100.0
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/time/time.cal/time.cal.weekday",
+    "score.sum": 3.7015779698175345e-05,
+    "sha.latest": "efac016e32f3b7ded78650b0e40a9880a298bdbe",
+    "time.latest": 1717981947.4957263,
+    "formatted_time": "2024-06-10 06:42:27.495729",
+    "filescores": {
+        "types.pass.cpp": 0.0
+    },
+    "subdirscores": {
+        "time.cal.weekday.members": 20.16896689372568,
+        "time.cal.weekday.nonmembers": 79.83103310627432
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/mlir/python/mlir/dialects/linalg/opdsl",
+    "score.sum": 0.0002767343777479021,
+    "sha.latest": "5f4c89edd0ade97ab3e2d6df5375974f4b975d58",
+    "time.latest": 1717814032.8515418,
+    "formatted_time": "2024-06-07 21:33:52.851542",
+    "filescores": {
+        "__init__.py": 0.0,
+        "dump_oplib.py": 3.5740482709584507
+    },
+    "subdirscores": {
+        "lang": 31.185910827980507,
+        "ops": 65.24004090106104
+    }
+}

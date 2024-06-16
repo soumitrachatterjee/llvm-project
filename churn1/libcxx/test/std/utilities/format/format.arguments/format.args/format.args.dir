@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/utilities/format/format.arguments/format.args",
+    "score.sum": 7.215973829907824e-05,
+    "sha.latest": "27e67cdb31bed4c346af925686c031d57aef9846",
+    "time.latest": 1717994073.6486373,
+    "formatted_time": "2024-06-10 10:04:33.648639",
+    "filescores": {
+        "ctad.compile.pass.cpp": 11.201223498826511,
+        "ctor.pass.cpp": 21.176047639942063,
+        "get.pass.cpp": 47.26979661754551,
+        "types.compile.pass.cpp": 20.352932243685913
+    },
+    "subdirscores": {}
+}

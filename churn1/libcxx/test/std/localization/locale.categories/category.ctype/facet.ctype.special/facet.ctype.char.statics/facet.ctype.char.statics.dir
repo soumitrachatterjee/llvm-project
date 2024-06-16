@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/localization/locale.categories/category.ctype/facet.ctype.special/facet.ctype.char.statics",
+    "score.sum": 4.448062090653595e-05,
+    "sha.latest": "be811d1617654e46f4f4daa82259ae4fad4c8e6a",
+    "time.latest": 1717925632.0813317,
+    "formatted_time": "2024-06-09 15:03:52.081333",
+    "filescores": {
+        "classic_table.pass.cpp": 68.95761211598723,
+        "table_size.pass.cpp": 31.042387884012772
+    },
+    "subdirscores": {}
+}

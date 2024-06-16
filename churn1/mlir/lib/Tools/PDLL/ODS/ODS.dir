@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/mlir/lib/Tools/PDLL/ODS",
+    "score.sum": 4.6739294899946396e-05,
+    "sha.latest": "a1fe1f5f77d48b03b76884a9b9b91a6795193ac1",
+    "time.latest": 1717812567.7216542,
+    "formatted_time": "2024-06-07 21:09:27.721658",
+    "filescores": {
+        "CMakeLists.txt": 13.050265481985681,
+        "Constraint.cpp": 0.0,
+        "Context.cpp": 22.546308207568323,
+        "Dialect.cpp": 26.100529247845266,
+        "Operation.cpp": 38.30289706260073
+    },
+    "subdirscores": {}
+}

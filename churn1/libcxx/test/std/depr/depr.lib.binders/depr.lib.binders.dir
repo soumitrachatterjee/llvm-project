@@ -1,0 +1,16 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/depr/depr.lib.binders",
+    "score.sum": 0.0002448339097538482,
+    "sha.latest": "72f0edf3f4291d2614719a8c8af21a7a62ed5d74",
+    "time.latest": 1717896242.8929138,
+    "formatted_time": "2024-06-09 06:54:02.892916",
+    "filescores": {
+        "test_func.h": 4.097272140249876
+    },
+    "subdirscores": {
+        "depr.lib.bind.1st": 23.975681964937532,
+        "depr.lib.bind.2nd": 23.975681964937532,
+        "depr.lib.binder.1st": 23.975681964937532,
+        "depr.lib.binder.2nd": 23.975681964937532
+    }
+}

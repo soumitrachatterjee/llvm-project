@@ -1,0 +1,22 @@
+{
+    "directory name": "llvm-project/compiler-rt/cmake/Modules",
+    "score.sum": 0.0016244458599999735,
+    "sha.latest": "80a9574d36834f7e0814e603894347e997435d54",
+    "time.latest": 1717788161.8853805,
+    "formatted_time": "2024-06-08 00:52:41.885386",
+    "filescores": {
+        "AddCompilerRT.cmake": 40.46152218943304,
+        "AllSupportedArchDefs.cmake": 8.08978071491425,
+        "BuiltinTests.cmake": 1.2018751154485263,
+        "CheckSectionExists.cmake": 0.3892233614875501,
+        "CompilerRTAIXUtils.cmake": 1.882588583550943,
+        "CompilerRTCompile.cmake": 4.415783991039339,
+        "CompilerRTDarwinUtils.cmake": 12.150908101184003,
+        "CompilerRTLink.cmake": 0.712828334102628,
+        "CompilerRTMockLLVMCMakeConfig.cmake": 1.03046822062304,
+        "CompilerRTUtils.cmake": 25.578966625568516,
+        "SanitizerUtils.cmake": 3.710566590401454,
+        "UseLibtool.cmake": 0.37548817224670683
+    },
+    "subdirscores": {}
+}

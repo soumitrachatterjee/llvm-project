@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/clang/test/ASTMerge/codegen-body/Inputs",
+    "score.sum": 2.3310073309034975e-05,
+    "sha.latest": "25098736c1b6a716711a64fa45f7f34ccdbef6d1",
+    "time.latest": 1717864958.810772,
+    "formatted_time": "2024-06-08 22:12:38.810774",
+    "filescores": {
+        "body1.c": 50.0,
+        "body2.c": 50.0
+    },
+    "subdirscores": {}
+}

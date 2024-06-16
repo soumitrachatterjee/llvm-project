@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/clang-tools-extra/test/clang-apply-replacements/Inputs/crlf",
+    "score.sum": 3.703418259321331e-05,
+    "sha.latest": "4aba5fa774821279c2e2e26dd6ed6e1c6a151044",
+    "time.latest": 1717816128.0086918,
+    "formatted_time": "2024-06-08 08:38:48.008695",
+    "filescores": {
+        "crlf.cpp": 32.93749669283025,
+        "crlf.cpp.expected": 32.93749669283025,
+        "file1.yaml": 34.12500661433951
+    },
+    "subdirscores": {}
+}

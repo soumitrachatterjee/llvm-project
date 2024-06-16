@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/mlir/lib/CAPI/Target",
+    "score.sum": 4.274109200057143e-05,
+    "sha.latest": "7fb89bfb0f93d5cfe3cf661253bbb2e2ef19359a",
+    "time.latest": 1717802318.0748947,
+    "formatted_time": "2024-06-07 18:18:38.074898",
+    "filescores": {
+        "CMakeLists.txt": 50.0,
+        "LLVMIR.cpp": 50.0
+    },
+    "subdirscores": {}
+}

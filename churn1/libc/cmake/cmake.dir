@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/libc/cmake",
+    "score.sum": 0.0012962032172909538,
+    "sha.latest": "6bec4fc76de50a090d1d0b36498da66c4a324851",
+    "time.latest": 1717824883.1351228,
+    "formatted_time": "2024-06-08 00:34:43.135123",
+    "filescores": {},
+    "subdirscores": {
+        "modules": 100.0
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/openmp/runtime/test/ompt/teams",
+    "score.sum": 3.3641198910445114e-05,
+    "sha.latest": "39a959eac793ee43008d6755206b6684fc11872d",
+    "time.latest": 1717803290.1966033,
+    "formatted_time": "2024-06-08 05:04:50.196606",
+    "filescores": {
+        "distribute_dispatch.c": 18.131345690409862,
+        "parallel_team.c": 22.74017481084733,
+        "serialized.c": 18.194152343947742,
+        "serial_teams.c": 22.74017481084733,
+        "team.c": 18.194152343947742
+    },
+    "subdirscores": {}
+}

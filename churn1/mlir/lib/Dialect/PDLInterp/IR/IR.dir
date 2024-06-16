@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/mlir/lib/Dialect/PDLInterp/IR",
+    "score.sum": 9.312767363277278e-05,
+    "sha.latest": "34a35a8b244243f5a4ad5d531007bccfeaa0b02e",
+    "time.latest": 1717808066.1928508,
+    "formatted_time": "2024-06-07 19:54:26.192854",
+    "filescores": {
+        "CMakeLists.txt": 10.456868372399251,
+        "PDLInterp.cpp": 89.54313162760074
+    },
+    "subdirscores": {}
+}

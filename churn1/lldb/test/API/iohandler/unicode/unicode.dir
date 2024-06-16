@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/lldb/test/API/iohandler/unicode",
+    "score.sum": 2.1647821419093102e-05,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717924709.8721762,
+    "formatted_time": "2024-06-09 14:48:29.872180",
+    "filescores": {
+        "TestUnicode.py": 100.0
+    },
+    "subdirscores": {}
+}

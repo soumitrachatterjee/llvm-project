@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/llvm/utils/Target/ARM",
+    "score.sum": 1.0041647302762317e-05,
+    "sha.latest": "b71edfaa4ec3c998aadb35255ce2f60bba2940b0",
+    "time.latest": 1718078991.0111084,
+    "formatted_time": "2024-06-10 23:09:51.011112",
+    "filescores": {
+        "analyze-match-table.py": 100.0
+    },
+    "subdirscores": {}
+}

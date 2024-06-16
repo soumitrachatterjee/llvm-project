@@ -1,0 +1,25 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/utilities/optional/optional.object/optional.object.observe",
+    "score.sum": 0.0003531478753661287,
+    "sha.latest": "ec350ad418a24f70c88758259c774a1e11c06d74",
+    "time.latest": 1718003736.7720413,
+    "formatted_time": "2024-06-10 12:45:36.772044",
+    "filescores": {
+        "bool.pass.cpp": 3.901716794031731,
+        "dereference.pass.cpp": 6.205404421837219,
+        "dereference_const.pass.cpp": 6.205404421837219,
+        "dereference_const_rvalue.pass.cpp": 6.205404421837219,
+        "dereference_rvalue.pass.cpp": 6.205404421837219,
+        "has_value.pass.cpp": 3.901716794031731,
+        "op_arrow.pass.cpp": 5.274049210533072,
+        "op_arrow_const.pass.cpp": 5.274049210533072,
+        "value.pass.cpp": 11.434865987942423,
+        "value_const.compile.fail.cpp": 1.7272090515983964,
+        "value_const.pass.cpp": 11.434865987942423,
+        "value_const_rvalue.pass.cpp": 11.434865987942423,
+        "value_or.pass.cpp": 4.210082645432369,
+        "value_or_const.pass.cpp": 5.150094654721065,
+        "value_rvalue.pass.cpp": 11.434865987942423
+    },
+    "subdirscores": {}
+}

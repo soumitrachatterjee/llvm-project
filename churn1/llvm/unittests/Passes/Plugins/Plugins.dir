@@ -1,0 +1,16 @@
+{
+    "directory name": "llvm-project/llvm/unittests/Passes/Plugins",
+    "score.sum": 1.8298806206553597e-05,
+    "sha.latest": "a6ea0185d698dfce0811c37e910d5c08b6a20ed0",
+    "time.latest": 1718082516.6999714,
+    "formatted_time": "2024-06-11 00:08:36.699972",
+    "filescores": {
+        "CMakeLists.txt": 33.33333333333333,
+        "PluginsTest.cpp": 0.0,
+        "TestPlugin.h": 0.0
+    },
+    "subdirscores": {
+        "DoublerPlugin": 33.33333333333333,
+        "TestPlugin": 33.33333333333333
+    }
+}

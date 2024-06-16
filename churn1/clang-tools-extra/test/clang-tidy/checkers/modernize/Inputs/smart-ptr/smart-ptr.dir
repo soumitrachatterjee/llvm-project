@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/clang-tools-extra/test/clang-tidy/checkers/modernize/Inputs/smart-ptr",
+    "score.sum": 6.099602068851199e-06,
+    "sha.latest": "51018d1a90542a407c78868e6be29a2492c18f5a",
+    "time.latest": 1717826734.263313,
+    "formatted_time": "2024-06-08 11:35:34.263317",
+    "filescores": {
+        "initializer_list.h": 0.0,
+        "shared_ptr.h": 100.0,
+        "unique_ptr.h": 0.0
+    },
+    "subdirscores": {}
+}

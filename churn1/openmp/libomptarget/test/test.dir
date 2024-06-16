@@ -1,0 +1,23 @@
+{
+    "directory name": "llvm-project/openmp/libomptarget/test",
+    "score.sum": 0.002291101151809785,
+    "sha.latest": "c03fd37d9b61bc6063e4d6e983846f877e83ac67",
+    "time.latest": 1717799115.0679064,
+    "formatted_time": "2024-06-08 03:55:15.067909",
+    "filescores": {
+        "CMakeLists.txt": 1.988695293036747,
+        "lit.cfg": 14.528232653859149,
+        "lit.site.cfg.in": 3.7862319893559744
+    },
+    "subdirscores": {
+        "api": 7.108278758853724,
+        "env": 1.3467696844348687,
+        "Inputs": 0.7957090881933948,
+        "jit": 0.910631010777684,
+        "libc": 1.206684026913769,
+        "mapping": 19.275823836738017,
+        "offloading": 42.72102885343412,
+        "ompt": 2.0486322799390577,
+        "unified_shared_memory": 4.283282524463488
+    }
+}

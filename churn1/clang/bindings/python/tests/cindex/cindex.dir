@@ -1,0 +1,32 @@
+{
+    "directory name": "llvm-project/clang/bindings/python/tests/cindex",
+    "score.sum": 0.0005177166397053394,
+    "sha.latest": "ee08b992514bd1556c38f42409d92728af3451f7",
+    "time.latest": 1717788754.5793278,
+    "formatted_time": "2024-06-08 01:02:34.579334",
+    "filescores": {
+        "test_access_specifiers.py": 2.218030068123816,
+        "test_cdb.py": 6.501501662202045,
+        "test_code_completion.py": 5.065538041318773,
+        "test_comment.py": 2.2927326703305635,
+        "test_cursor.py": 21.408526902913604,
+        "test_cursor_kind.py": 5.296428146729488,
+        "test_diagnostics.py": 10.702282292882204,
+        "test_exception_specification_kind.py": 1.4412575389819806,
+        "test_file.py": 2.5008672842812385,
+        "test_index.py": 3.3222903520740643,
+        "test_linkage.py": 1.4531142218918105,
+        "test_location.py": 5.127387276074547,
+        "test_rewrite.py": 0.0,
+        "test_tls_kind.py": 1.466579795812827,
+        "test_tokens.py": 2.911092119228476,
+        "test_token_kind.py": 2.4343445573485987,
+        "test_translation_unit.py": 9.13173624643199,
+        "test_type.py": 13.24400523810095,
+        "util.py": 2.2754213867720643,
+        "__init__.py": 0.0
+    },
+    "subdirscores": {
+        "INPUTS": 1.2068641985009594
+    }
+}

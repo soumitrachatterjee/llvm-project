@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/libcxx/test/libcxx/utilities/function.objects/func.bind.partial",
+    "score.sum": 6.099602068851199e-06,
+    "sha.latest": "c2df70766647b39d302ab5ab952980e0b3b4d725",
+    "time.latest": 1717866650.9848964,
+    "formatted_time": "2024-06-08 22:40:50.984899",
+    "filescores": {
+        "bind_back.pass.cpp": 100.0,
+        "compose.pass.cpp": 0.0
+    },
+    "subdirscores": {}
+}

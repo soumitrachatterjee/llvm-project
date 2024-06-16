@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/mlir/examples/toy/Ch1/include",
+    "score.sum": 6.191041796647039e-05,
+    "sha.latest": "2140260d9154ea3b7dd905b72805004dd182b1a3",
+    "time.latest": 1717789291.1681392,
+    "formatted_time": "2024-06-07 14:41:31.168140",
+    "filescores": {},
+    "subdirscores": {
+        "toy": 100.0
+    }
+}

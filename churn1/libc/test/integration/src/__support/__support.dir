@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/libc/test/integration/src/__support",
+    "score.sum": 1.926875377923391e-05,
+    "sha.latest": "b6bc9d72f65a5086f310f321e969d96e9a559e75",
+    "time.latest": 1717844260.4960315,
+    "formatted_time": "2024-06-08 05:57:40.496032",
+    "filescores": {
+        "CMakeLists.txt": 0.0
+    },
+    "subdirscores": {
+        "threads": 100.0
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "directory name": "llvm-project/flang/unittests/Optimizer",
+    "score.sum": 0.00034402334338062157,
+    "sha.latest": "7ff488708c0caa1b31af7ad677b9b321209f6738",
+    "time.latest": 1717813110.6433537,
+    "formatted_time": "2024-06-07 21:18:30.643357",
+    "filescores": {
+        "CMakeLists.txt": 32.88785755334771,
+        "FIRContextTest.cpp": 5.221592125835636,
+        "FIRTypesTest.cpp": 12.935045772589756,
+        "FortranVariableTest.cpp": 3.9226064148740893,
+        "InternalNamesTest.cpp": 9.996212240000643,
+        "KindMappingTest.cpp": 1.7922510529600266,
+        "RTBuilder.cpp": 1.7768438476487463
+    },
+    "subdirscores": {
+        "Builder": 31.467590992743393
+    }
+}

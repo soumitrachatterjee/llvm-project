@@ -1,0 +1,16 @@
+{
+    "directory name": "llvm-project/mlir/lib/Dialect/SPIRV",
+    "score.sum": 0.0013241437924795098,
+    "sha.latest": "fab2bb8bfda865bd438dee981d7be7df8017b76d",
+    "time.latest": 1717808764.3328867,
+    "formatted_time": "2024-06-07 20:06:04.332888",
+    "filescores": {
+        "CMakeLists.txt": 9.636838182570418
+    },
+    "subdirscores": {
+        "IR": 50.95941459951165,
+        "Linking": 2.4219674303565903,
+        "Transforms": 35.820357413843205,
+        "Utils": 1.1614223737181475
+    }
+}

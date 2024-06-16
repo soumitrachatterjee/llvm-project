@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/utilities/tuple/tuple.tuple/tuple.creation",
+    "score.sum": 0.00010838529850158108,
+    "sha.latest": "06e2b737aa0347b42e8bf37cb00a053eab0a9393",
+    "time.latest": 1718007146.3473837,
+    "formatted_time": "2024-06-10 13:42:26.347386",
+    "filescores": {
+        "forward_as_tuple.pass.cpp": 19.161473764483812,
+        "make_tuple.pass.cpp": 21.048715601581417,
+        "tie.pass.cpp": 25.42901779975847,
+        "tuple_cat.pass.cpp": 34.360792834176294
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/source/Plugins/InstrumentationRuntime/ASan",
+    "score.sum": 6.036715210259639e-05,
+    "sha.latest": "77edd9b77317d008b86a2543fbafdc0c3e8a3759",
+    "time.latest": 1717869787.917307,
+    "formatted_time": "2024-06-08 23:33:07.917309",
+    "filescores": {
+        "CMakeLists.txt": 14.209738488650132,
+        "InstrumentationRuntimeASan.cpp": 61.63175552904955,
+        "InstrumentationRuntimeASan.h": 24.15850598230032
+    },
+    "subdirscores": {}
+}

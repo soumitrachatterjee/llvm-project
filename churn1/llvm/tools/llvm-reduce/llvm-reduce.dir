@@ -1,0 +1,20 @@
+{
+    "directory name": "llvm-project/llvm/tools/llvm-reduce",
+    "score.sum": 0.0017202851647239402,
+    "sha.latest": "716042a63f26cd020eb72960f72fa97b9a197382",
+    "time.latest": 1718083837.0091515,
+    "formatted_time": "2024-06-11 00:30:37.009155",
+    "filescores": {
+        "CMakeLists.txt": 8.697894609582123,
+        "DeltaManager.cpp": 7.4552161059002895,
+        "DeltaManager.h": 2.132307843006456,
+        "ReducerWorkItem.cpp": 8.104780810127584,
+        "ReducerWorkItem.h": 2.8552971975393016,
+        "TestRunner.cpp": 8.280367607221912,
+        "TestRunner.h": 3.9087408605839786,
+        "llvm-reduce.cpp": 8.685193078584762
+    },
+    "subdirscores": {
+        "deltas": 49.880201887453595
+    }
+}

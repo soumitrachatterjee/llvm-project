@@ -1,0 +1,23 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/input.output/iostreams.base/ios/basic.ios.members",
+    "score.sum": 0.0002363487980615836,
+    "sha.latest": "a7f9895cc18995549c7facb96e72718da282a864",
+    "time.latest": 1717907458.801697,
+    "formatted_time": "2024-06-09 10:00:58.801699",
+    "filescores": {
+        "copyfmt.pass.cpp": 8.142141757714032,
+        "fill.pass.cpp": 7.347731736597717,
+        "fill_char_type.pass.cpp": 7.116173054315427,
+        "imbue.pass.cpp": 7.979656624233895,
+        "move.pass.cpp": 8.136029892949336,
+        "narrow.pass.cpp": 9.52268811503114,
+        "rdbuf.pass.cpp": 7.347731736597717,
+        "rdbuf_streambuf.pass.cpp": 7.347731736597717,
+        "set_rdbuf.pass.cpp": 6.880890243220532,
+        "swap.pass.cpp": 8.136029892949336,
+        "tie.pass.cpp": 7.347731736597717,
+        "tie_ostream.pass.cpp": 7.347731736597717,
+        "widen.pass.cpp": 7.347731736597717
+    },
+    "subdirscores": {}
+}

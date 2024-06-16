@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/functionalities/thread/exit_during_expression",
+    "score.sum": 3.754406698650684e-05,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717922257.1500835,
+    "formatted_time": "2024-06-09 14:07:37.150085",
+    "filescores": {
+        "main.c": 16.2560692620655,
+        "Makefile": 16.24651391934541,
+        "TestExitDuringExpression.py": 67.4974168185891
+    },
+    "subdirscores": {}
+}

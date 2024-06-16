@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/iterators/iterator.requirements/iterator.concepts/iterator.concept.writable",
+    "score.sum": 1.000550445906271e-05,
+    "sha.latest": "d2baefae6846765eef6a6dd69d4fdf1082ce29ad",
+    "time.latest": 1717914909.1385512,
+    "formatted_time": "2024-06-09 12:05:09.138552",
+    "filescores": {
+        "indirectly_writable.compile.pass.cpp": 100.0
+    },
+    "subdirscores": {}
+}

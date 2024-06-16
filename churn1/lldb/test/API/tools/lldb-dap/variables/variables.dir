@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/tools/lldb-dap/variables",
+    "score.sum": 3.3234324013452395e-05,
+    "sha.latest": "9c2468821ec51defd09c246fea4a47886fff8c01",
+    "time.latest": 1717969734.5587175,
+    "formatted_time": "2024-06-10 03:18:54.558719",
+    "filescores": {
+        "main.cpp": 18.353320700557166,
+        "Makefile": 0.0,
+        "TestDAP_variables.py": 81.64667929944282
+    },
+    "subdirscores": {}
+}

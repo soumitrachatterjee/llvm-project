@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/depr/depr.str.strstreams/depr.istrstream",
+    "score.sum": 4.6712748974067705e-05,
+    "sha.latest": "66c7388c83bb0320f2223da3e3f31363f44bb3aa",
+    "time.latest": 1717896392.0323384,
+    "formatted_time": "2024-06-09 06:56:32.032340",
+    "filescores": {
+        "depr.verify.cpp": 0.0,
+        "types.pass.cpp": 32.63328737744845
+    },
+    "subdirscores": {
+        "depr.istrstream.cons": 34.7334252451031,
+        "depr.istrstream.members": 32.63328737744845
+    }
+}

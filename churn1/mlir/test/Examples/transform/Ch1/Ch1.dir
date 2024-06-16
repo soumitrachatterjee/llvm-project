@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/mlir/test/Examples/transform/Ch1",
+    "score.sum": 4.28986850992503e-05,
+    "sha.latest": "b33b91a21788d439f49d6db4e7224c20f740f1a7",
+    "time.latest": 1717824537.514953,
+    "formatted_time": "2024-06-08 00:28:57.514956",
+    "filescores": {
+        "invalidation-1.mlir": 45.684713022043084,
+        "invalidation-2.mlir": 33.481607015054216,
+        "sequence.mlir": 20.83367996290269
+    },
+    "subdirscores": {}
+}

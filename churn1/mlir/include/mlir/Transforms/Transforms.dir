@@ -1,0 +1,33 @@
+{
+    "directory name": "llvm-project/mlir/include/mlir/Transforms",
+    "score.sum": 0.001236862310984747,
+    "sha.latest": "60a20bd6973c8fc7aa9a19465ed042604e07fb17",
+    "time.latest": 1717801097.1242669,
+    "formatted_time": "2024-06-07 17:58:17.124270",
+    "filescores": {
+        "CFGToSCF.h": 0.49315125981928465,
+        "CMakeLists.txt": 1.539505323937014,
+        "CSE.h": 0.5226836123935463,
+        "CommutativityUtils.h": 0.0,
+        "ControlFlowSinkUtils.h": 1.860809110556804,
+        "DialectConversion.h": 34.11879383893352,
+        "DialectConversion.pdll": 0.0,
+        "EndomorphismSimplification.h": 0.0,
+        "FoldUtils.h": 7.260179206669681,
+        "GreedyPatternRewriteDriver.h": 6.357969387462605,
+        "HomomorphismSimplification.h": 0.0,
+        "Inliner.h": 0.0,
+        "InliningUtils.h": 4.717414291964266,
+        "LocationSnapshot.h": 1.8591631976198353,
+        "LoopInvariantCodeMotionUtils.h": 1.4357940537304958,
+        "Mem2Reg.h": 1.7912905592919786,
+        "OneToNTypeConversion.h": 1.3211602667843132,
+        "Passes.h": 14.77026557666489,
+        "Passes.td": 15.674525598575965,
+        "RegionUtils.h": 2.0995778610303613,
+        "SROA.h": 0.49315125981928465,
+        "TopologicalSortUtils.h": 0.7937076219878295,
+        "ViewOpGraph.h": 2.890857972758343
+    },
+    "subdirscores": {}
+}

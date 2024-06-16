@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/functionalities/plugins/command_plugin",
+    "score.sum": 2.8860986511059177e-05,
+    "sha.latest": "bf93f4b85fd4efbd7a3083935a2ddbbb00f1a35f",
+    "time.latest": 1717914193.3020203,
+    "formatted_time": "2024-06-09 11:53:13.302022",
+    "filescores": {
+        "Makefile": 0.0,
+        "plugin.cpp.template": 21.134419873395203,
+        "TestPluginCommands.py": 78.8655801266048
+    },
+    "subdirscores": {}
+}

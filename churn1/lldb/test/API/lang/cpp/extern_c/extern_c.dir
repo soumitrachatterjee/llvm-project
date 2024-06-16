@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/lldb/test/API/lang/cpp/extern_c",
+    "score.sum": 1.2199204137702398e-05,
+    "sha.latest": "5fff4b75ca0d72759f7ded4c96fc5493d917a3a9",
+    "time.latest": 1717931164.689468,
+    "formatted_time": "2024-06-09 16:36:04.689470",
+    "filescores": {
+        "main.cpp": 50.0,
+        "TestExternCSymbols.py": 50.0
+    },
+    "subdirscores": {}
+}

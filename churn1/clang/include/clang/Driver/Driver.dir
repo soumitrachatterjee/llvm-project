@@ -1,0 +1,33 @@
+{
+    "directory name": "llvm-project/clang/include/clang/Driver",
+    "score.sum": 0.012227539444643653,
+    "sha.latest": "124d0b787b5d1ff4aa06bbd61a98d3fc344d0cc6",
+    "time.latest": 1717799227.5967224,
+    "formatted_time": "2024-06-08 03:57:07.596725",
+    "filescores": {
+        "Action.h": 1.7277851350520264,
+        "ClangOptionDocs.td": 0.1412630158963292,
+        "CMakeLists.txt": 0.22853017732982114,
+        "Compilation.h": 1.0843067872892338,
+        "Distro.h": 0.6470081600270241,
+        "Driver.h": 4.851099559471002,
+        "DriverDiagnostic.h": 0.21616487419131902,
+        "InputInfo.h": 0.0,
+        "Job.h": 1.7600333065931544,
+        "Multilib.h": 0.5906531567960615,
+        "MultilibBuilder.h": 0.1626199926978119,
+        "OffloadBundler.h": 0.2239910647733502,
+        "Options.h": 0.9563927177669999,
+        "Options.td": 74.40373679376009,
+        "OptionUtils.h": 0.0,
+        "Phases.h": 0.41044374548284923,
+        "SanitizerArgs.h": 2.1487683080708595,
+        "Tool.h": 0.5071261176878495,
+        "ToolChain.h": 7.017969545111569,
+        "Types.def": 1.4349740480856616,
+        "Types.h": 0.9573197797833227,
+        "Util.h": 0.21934470060395658,
+        "XRayArgs.h": 0.3104690135297196
+    },
+    "subdirscores": {}
+}

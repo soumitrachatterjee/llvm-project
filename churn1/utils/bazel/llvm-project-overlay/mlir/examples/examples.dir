@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/utils/bazel/llvm-project-overlay/mlir/examples",
+    "score.sum": 2.853357173313712e-05,
+    "sha.latest": "43b291cbecca155a905f52f37b2b1bea7e9aba76",
+    "time.latest": 1717790281.4111576,
+    "formatted_time": "2024-06-08 01:28:01.411162",
+    "filescores": {},
+    "subdirscores": {
+        "toy": 100.0
+    }
+}

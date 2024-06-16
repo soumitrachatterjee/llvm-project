@@ -1,0 +1,16 @@
+{
+    "directory name": "llvm-project/clang/test/CodeCompletion/Inputs",
+    "score.sum": 1.2199204137702398e-05,
+    "sha.latest": "9d540f1539f65b18ef4b9295da65c51aba8466e0",
+    "time.latest": 1717870956.4680803,
+    "formatted_time": "2024-06-08 23:52:36.468083",
+    "filescores": {
+        "comments.h": 0.0,
+        "import_moduleA.h": 0.0,
+        "macros.h": 50.0,
+        "reserved.h": 50.0
+    },
+    "subdirscores": {
+        "ModuleA": 0.0
+    }
+}

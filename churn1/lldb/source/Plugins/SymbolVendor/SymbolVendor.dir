@@ -1,0 +1,16 @@
+{
+    "directory name": "llvm-project/lldb/source/Plugins/SymbolVendor",
+    "score.sum": 0.0005272455362034874,
+    "sha.latest": "50ffc53e4708f3484939ef82e7b0309600a8e19f",
+    "time.latest": 1717881908.3793356,
+    "formatted_time": "2024-06-09 02:55:08.379337",
+    "filescores": {
+        "CMakeLists.txt": 3.217835863485732
+    },
+    "subdirscores": {
+        "ELF": 29.941884440766852,
+        "MacOSX": 56.61349874642874,
+        "PECOFF": 2.4419633822898925,
+        "wasm": 7.784817567028769
+    }
+}

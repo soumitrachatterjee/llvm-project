@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/functionalities/fork/concurrent_vfork",
+    "score.sum": 8.20030755000429e-06,
+    "sha.latest": "36f866c6ec3f6671fd4178ed4e49fd632a335cc2",
+    "time.latest": 1717909677.492194,
+    "formatted_time": "2024-06-09 10:37:57.492196",
+    "filescores": {
+        "main.cpp": 100.0,
+        "Makefile": 0.0,
+        "TestConcurrentVFork.py": 0.0
+    },
+    "subdirscores": {}
+}

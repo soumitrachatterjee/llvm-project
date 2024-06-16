@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/re/re.submatch",
+    "score.sum": 5.3629095838282756e-05,
+    "sha.latest": "a79a6ea4a831facc564a36911d79d4472ad93cec",
+    "time.latest": 1717967836.5067334,
+    "formatted_time": "2024-06-10 02:47:16.506735",
+    "filescores": {
+        "types.pass.cpp": 27.338391862760563
+    },
+    "subdirscores": {
+        "re.submatch.members": 36.92505810020798,
+        "re.submatch.op": 35.736550037031456
+    }
+}

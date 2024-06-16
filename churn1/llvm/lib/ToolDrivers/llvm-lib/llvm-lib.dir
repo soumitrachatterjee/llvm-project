@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/llvm/lib/ToolDrivers/llvm-lib",
+    "score.sum": 0.0002509478611366394,
+    "sha.latest": "46122082a61ef5bb2871d2d9158739133ad0e113",
+    "time.latest": 1717874429.6128275,
+    "formatted_time": "2024-06-08 14:20:29.612833",
+    "filescores": {
+        "CMakeLists.txt": 7.644376817243059,
+        "LibDriver.cpp": 75.82948619937522,
+        "Options.td": 16.526136983381708
+    },
+    "subdirscores": {}
+}

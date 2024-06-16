@@ -1,0 +1,16 @@
+{
+    "directory name": "llvm-project/lldb/tools/lldb-fuzzer",
+    "score.sum": 5.691811542864837e-05,
+    "sha.latest": "4fdda4f82d787c988d5bbdf365df95fd0c8ca14b",
+    "time.latest": 1717991529.1465554,
+    "formatted_time": "2024-06-10 09:22:09.146559",
+    "filescores": {
+        "CMakeLists.txt": 42.385683358512075
+    },
+    "subdirscores": {
+        "lldb-commandinterpreter-fuzzer": 10.71645120875016,
+        "lldb-expression-fuzzer": 13.30170283607757,
+        "lldb-target-fuzzer": 33.59616259666019,
+        "utils": 0.0
+    }
+}

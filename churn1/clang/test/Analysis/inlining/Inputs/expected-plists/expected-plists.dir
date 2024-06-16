@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/clang/test/Analysis/inlining/Inputs/expected-plists",
+    "score.sum": 8.061181109095592e-05,
+    "sha.latest": "0f1c1be1968076d6f96f8a7bcc4a15cf195ecd97",
+    "time.latest": 1717833131.1146305,
+    "formatted_time": "2024-06-08 13:22:11.114635",
+    "filescores": {
+        "eager-reclamation-path-notes.c.plist": 10.645117025055718,
+        "eager-reclamation-path-notes.cpp.plist": 10.645117025055718,
+        "path-notes.c.plist": 10.645117025055718,
+        "path-notes.cpp.plist": 41.27376615798697,
+        "path-notes.m.plist": 26.790882766845886
+    },
+    "subdirscores": {}
+}

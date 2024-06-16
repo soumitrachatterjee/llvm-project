@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/mlir/test/Dialect/Quant/Bytecode",
+    "score.sum": 7.393227270217972e-06,
+    "sha.latest": "bb0bbed610d86ba155f9c066c23038f7f34e2dbb",
+    "time.latest": 1717821232.6468904,
+    "formatted_time": "2024-06-07 23:33:52.646894",
+    "filescores": {
+        "types.mlir": 100.0
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,28 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/re/re.syn",
+    "score.sum": 0.00030296779004532995,
+    "sha.latest": "a7f9895cc18995549c7facb96e72718da282a864",
+    "time.latest": 1717968204.4484367,
+    "formatted_time": "2024-06-10 02:53:24.448440",
+    "filescores": {
+        "cmatch.pass.cpp": 4.663774074649943,
+        "cregex_iterator.pass.cpp": 4.663774074649943,
+        "cregex_token_iterator.pass.cpp": 4.663774074649943,
+        "csub_match.pass.cpp": 4.663774074649943,
+        "regex.pass.cpp": 4.663774074649943,
+        "smatch.pass.cpp": 4.663774074649943,
+        "sregex_iterator.pass.cpp": 4.663774074649943,
+        "sregex_token_iterator.pass.cpp": 4.663774074649943,
+        "ssub_match.pass.cpp": 4.663774074649943,
+        "wcmatch.pass.cpp": 6.447337036461163,
+        "wcregex_iterator.pass.cpp": 6.447337036461163,
+        "wcregex_token_iterator.pass.cpp": 6.447337036461163,
+        "wcsub_match.pass.cpp": 6.447337036461163,
+        "wregex.pass.cpp": 6.447337036461163,
+        "wsmatch.pass.cpp": 6.447337036461163,
+        "wsregex_iterator.pass.cpp": 6.447337036461163,
+        "wsregex_token_iterator.pass.cpp": 6.447337036461163,
+        "wssub_match.pass.cpp": 6.447337036461163
+    },
+    "subdirscores": {}
+}

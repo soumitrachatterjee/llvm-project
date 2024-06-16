@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/lldb/test/API/commands/register/register/register_command",
+    "score.sum": 0.00011790110836683177,
+    "sha.latest": "772f296214e10323ca16921c02b1852307b7d51b",
+    "time.latest": 1717897418.7904925,
+    "formatted_time": "2024-06-09 07:13:38.790495",
+    "filescores": {
+        "a.cpp": 5.1734900149311525,
+        "main.cpp": 5.1734900149311525,
+        "Makefile": 0.0,
+        "TestRegisters.py": 89.65301997013769
+    },
+    "subdirscores": {}
+}

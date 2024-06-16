@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/macosx/ignore_exceptions",
+    "score.sum": 2.1817241063091355e-05,
+    "sha.latest": "620dc1224ff9e4cb86e6e4d8e7c3941fc921887d",
+    "time.latest": 1717962906.7713578,
+    "formatted_time": "2024-06-10 01:25:06.771363",
+    "filescores": {
+        "main.c": 28.890081001882017,
+        "Makefile": 0.0,
+        "TestIgnoredExceptions.py": 71.10991899811798
+    },
+    "subdirscores": {}
+}

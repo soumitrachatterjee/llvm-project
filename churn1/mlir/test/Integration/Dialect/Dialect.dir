@@ -1,0 +1,24 @@
+{
+    "directory name": "llvm-project/mlir/test/Integration/Dialect",
+    "score.sum": 0.0029846274259154267,
+    "sha.latest": "4cb5a96af646e18f9fc8c1b337299d5465f0a4d6",
+    "time.latest": 1717827928.2729537,
+    "formatted_time": "2024-06-08 01:25:28.272955",
+    "filescores": {},
+    "subdirscores": {
+        "Arith": 1.3384995444543168,
+        "Async": 2.4463123596332745,
+        "Complex": 1.5022998718149239,
+        "ControlFlow": 0.0,
+        "LLVMIR": 3.0457620726151027,
+        "Linalg": 11.5598577026239,
+        "Math": 0.0,
+        "Memref": 1.297520840333402,
+        "PDL": 0.395175793395276,
+        "SparseTensor": 54.96763718842167,
+        "Standard": 2.7095246009110303,
+        "Tosa": 0.0,
+        "Transform": 0.425045212363904,
+        "Vector": 20.312364813433216
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/utilities/optional/optional.specalg",
+    "score.sum": 0.00010668257289302712,
+    "sha.latest": "ec350ad418a24f70c88758259c774a1e11c06d74",
+    "time.latest": 1718003912.7824497,
+    "formatted_time": "2024-06-10 12:48:32.782451",
+    "filescores": {
+        "make_optional.pass.cpp": 42.59335491489552,
+        "make_optional_explicit.pass.cpp": 20.534156790947986,
+        "make_optional_explicit_initializer_list.pass.cpp": 14.673651720996968,
+        "swap.pass.cpp": 22.19883657315952
+    },
+    "subdirscores": {}
+}

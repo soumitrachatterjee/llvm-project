@@ -1,0 +1,18 @@
+{
+    "directory name": "llvm-project/clang-tools-extra/docs/clang-tidy/checks/fuchsia",
+    "score.sum": 5.427893738843971e-05,
+    "sha.latest": "93f9f63b2d3e04ec4abd79fb8119a685d9f750c6",
+    "time.latest": 1717810061.6452289,
+    "formatted_time": "2024-06-08 06:57:41.645232",
+    "filescores": {
+        "default-arguments-calls.rst": 11.237511938010577,
+        "default-arguments-declarations.rst": 11.237511938010577,
+        "header-anon-namespaces.rst": 11.237511938010577,
+        "multiple-inheritance.rst": 11.237511938010577,
+        "overloaded-operator.rst": 11.237511938010577,
+        "statically-constructed-objects.rst": 21.337416433925963,
+        "trailing-return.rst": 11.237511938010577,
+        "virtual-inheritance.rst": 11.237511938010577
+    },
+    "subdirscores": {}
+}

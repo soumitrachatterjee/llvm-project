@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/llvm/unittests/Target/ARM",
+    "score.sum": 0.00011839163367900633,
+    "sha.latest": "0a1aa6cda2758b0926a95f87d39ffefb1cb90200",
+    "time.latest": 1718084175.4969456,
+    "formatted_time": "2024-06-11 00:36:15.496949",
+    "filescores": {
+        "CMakeLists.txt": 40.71837582116532,
+        "InstSizes.cpp": 11.28217456255892,
+        "MachineInstrTest.cpp": 47.99944961627577
+    },
+    "subdirscores": {}
+}

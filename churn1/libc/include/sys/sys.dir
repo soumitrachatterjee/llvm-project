@@ -1,0 +1,27 @@
+{
+    "directory name": "llvm-project/libc/include/sys",
+    "score.sum": 4.2413220069148657e-05,
+    "sha.latest": "330793c91d08e6ac60334e4813746db898b9407e",
+    "time.latest": 1717827481.9621336,
+    "formatted_time": "2024-06-08 01:18:01.962137",
+    "filescores": {
+        "auxv.h.def": 0.0,
+        "epoll.h.def": 14.386951903253637,
+        "ioctl.h.def": 0.0,
+        "mman.h.def": 25.883239833270512,
+        "prctl.h.def": 14.381369909916472,
+        "queue.h": 14.381369909916472,
+        "random.h.def": 0.0,
+        "resource.h.def": 0.0,
+        "select.h.def": 0.0,
+        "sendfile.h.def": 0.0,
+        "socket.h.def": 0.0,
+        "stat.h.def": 14.381369909916472,
+        "syscall.h.def": 16.585698533726433,
+        "time.h.def": 0.0,
+        "types.h.def": 0.0,
+        "utsname.h.def": 0.0,
+        "wait.h.def": 0.0
+    },
+    "subdirscores": {}
+}

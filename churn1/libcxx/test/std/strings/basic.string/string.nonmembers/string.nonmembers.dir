@@ -1,0 +1,20 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/strings/basic.string/string.nonmembers",
+    "score.sum": 0.0004346757815197615,
+    "sha.latest": "9ed20568e7de53dce85f1631d7d8c1415e7930ae",
+    "time.latest": 1717970511.8236394,
+    "formatted_time": "2024-06-10 03:31:51.823641",
+    "filescores": {},
+    "subdirscores": {
+        "string.cmp": 1.4032532586759483,
+        "string.io": 16.5074949296446,
+        "string.special": 14.465946603697915,
+        "string_op!=": 8.726661544221715,
+        "string_op+": 14.437254256371753,
+        "string_operator==": 9.138880386600135,
+        "string_opgt": 8.830127255196988,
+        "string_opgt=": 8.830127255196988,
+        "string_oplt": 8.830127255196988,
+        "string_oplt=": 8.830127255196988
+    }
+}

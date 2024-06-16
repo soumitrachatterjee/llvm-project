@@ -1,0 +1,16 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/depr/depr.str.strstreams/depr.strstream",
+    "score.sum": 6.491319364603224e-05,
+    "sha.latest": "66c7388c83bb0320f2223da3e3f31363f44bb3aa",
+    "time.latest": 1717896661.823024,
+    "formatted_time": "2024-06-09 07:01:01.823027",
+    "filescores": {
+        "depr.verify.cpp": 0.0,
+        "types.pass.cpp": 23.483524316701658
+    },
+    "subdirscores": {
+        "depr.strstream.cons": 29.549427049895026,
+        "depr.strstream.dest": 23.483524316701658,
+        "depr.strstream.oper": 23.483524316701658
+    }
+}

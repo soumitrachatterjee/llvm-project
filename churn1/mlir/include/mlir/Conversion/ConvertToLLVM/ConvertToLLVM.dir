@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/mlir/include/mlir/Conversion/ConvertToLLVM",
+    "score.sum": 1.2374208474870116e-05,
+    "sha.latest": "9e7b6f46ba13ef0bac72e18b425aed37f576fb1e",
+    "time.latest": 1717791527.9704907,
+    "formatted_time": "2024-06-07 15:18:47.970494",
+    "filescores": {
+        "ToLLVMInterface.h": 49.29286653961293,
+        "ToLLVMPass.h": 50.707133460387055
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/mlir/lib/Dialect/SPIRV/Linking/ModuleCombiner",
+    "score.sum": 3.420014814302655e-05,
+    "sha.latest": "4f4cd963a6e820b50514706a1a3faed3a05779a2",
+    "time.latest": 1717808674.957075,
+    "formatted_time": "2024-06-07 20:04:34.957079",
+    "filescores": {
+        "CMakeLists.txt": 17.861578854320733,
+        "ModuleCombiner.cpp": 82.13842114567927
+    },
+    "subdirscores": {}
+}

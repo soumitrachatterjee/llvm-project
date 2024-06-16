@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/clang/include/clang/Tooling/Inclusions",
+    "score.sum": 0.00016639254172823783,
+    "sha.latest": "9d9cc3706f59499f443ce4ebaeb24f7c8417e797",
+    "time.latest": 1717802726.9390266,
+    "formatted_time": "2024-06-08 04:55:26.939030",
+    "filescores": {
+        "HeaderAnalysis.h": 6.696949702454481,
+        "HeaderIncludes.h": 34.88522410897437,
+        "IncludeStyle.h": 25.05099794738576,
+        "StandardLibrary.h": 33.36682824118539
+    },
+    "subdirscores": {}
+}

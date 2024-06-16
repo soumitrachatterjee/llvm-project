@@ -1,0 +1,32 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/utilities/charconv/charconv.msvc",
+    "score.sum": 0.0001942620347195255,
+    "sha.latest": "f0fc8c4878ed3ed60bd7536f97ef2673eb691ae7",
+    "time.latest": 1717990101.5786934,
+    "formatted_time": "2024-06-10 08:58:21.578695",
+    "filescores": {
+        "double_fixed_precision_to_chars_test_cases_1.hpp": 3.942393558585491,
+        "double_fixed_precision_to_chars_test_cases_2.hpp": 3.942393558585491,
+        "double_fixed_precision_to_chars_test_cases_3.hpp": 3.942393558585491,
+        "double_fixed_precision_to_chars_test_cases_4.hpp": 3.942393558585491,
+        "double_from_chars_test_cases.hpp": 3.942393558585491,
+        "double_general_precision_to_chars_test_cases.hpp": 3.942393558585491,
+        "double_hex_precision_to_chars_test_cases.hpp": 3.942393558585491,
+        "double_scientific_precision_to_chars_test_cases_1.hpp": 3.942393558585491,
+        "double_scientific_precision_to_chars_test_cases_2.hpp": 3.942393558585491,
+        "double_scientific_precision_to_chars_test_cases_3.hpp": 3.942393558585491,
+        "double_scientific_precision_to_chars_test_cases_4.hpp": 3.942393558585491,
+        "double_to_chars_test_cases.hpp": 3.942393558585491,
+        "floating_point_test_cases.hpp": 6.299639951663186,
+        "float_fixed_precision_to_chars_test_cases.hpp": 3.942393558585491,
+        "float_from_chars_test_cases.hpp": 3.942393558585491,
+        "float_general_precision_to_chars_test_cases.hpp": 3.942393558585491,
+        "float_hex_precision_to_chars_test_cases.hpp": 3.942393558585491,
+        "float_scientific_precision_to_chars_test_cases.hpp": 3.942393558585491,
+        "float_to_chars_test_cases.hpp": 3.942393558585491,
+        "test.cpp": 13.502824910479186,
+        "test.hpp": 3.199553307920464,
+        "test.pass.cpp": 6.034897775398325
+    },
+    "subdirscores": {}
+}

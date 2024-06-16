@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/lldb/test/API/commands/expression/import-std-module/empty-module",
+    "score.sum": 2.317850506592344e-05,
+    "sha.latest": "a902015f543097720fed4d2c04e34daa0fdfbda7",
+    "time.latest": 1717890797.5781431,
+    "formatted_time": "2024-06-09 05:23:17.578146",
+    "filescores": {
+        "main.cpp": 0.0,
+        "Makefile": 0.0,
+        "TestEmptyStdModule.py": 73.68423005925992
+    },
+    "subdirscores": {
+        "root": 26.315769940740086
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "directory name": "llvm-project/polly/test/ScheduleOptimizer/ManualOptimization",
+    "score.sum": 8.988335355155043e-05,
+    "sha.latest": "b332499a94df11870dfc7598645c59656deb933d",
+    "time.latest": 1717814409.143083,
+    "formatted_time": "2024-06-07 21:40:09.143086",
+    "filescores": {
+        "disable_nonforced.ll": 13.92949052922606,
+        "distribute_heuristic.ll": 9.250027931720751,
+        "distribute_illegal_looploc.ll": 6.815678041093587,
+        "distribute_illegal_pragmaloc.ll": 6.842347201743067,
+        "unroll_disable.ll": 10.262315394423831,
+        "unroll_double.ll": 10.465762703666643,
+        "unroll_full.ll": 10.857336428524226,
+        "unroll_heuristic.ll": 10.262315394423831,
+        "unroll_partial.ll": 10.857336428524226,
+        "unroll_partial_followup.ll": 10.457389946653798
+    },
+    "subdirscores": {}
+}

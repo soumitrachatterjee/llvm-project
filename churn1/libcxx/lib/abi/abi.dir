@@ -1,0 +1,22 @@
+{
+    "directory name": "llvm-project/libcxx/lib/abi",
+    "score.sum": 0.0005583772875022619,
+    "sha.latest": "6a884a9aef397f76178b141d789efadf280f2c3f",
+    "time.latest": 1717839836.5542755,
+    "formatted_time": "2024-06-08 15:13:56.554278",
+    "filescores": {
+        "arm64-apple-darwin.libcxxabi.v1.stable.exceptions.nonew.abilist": 6.905757238298461,
+        "CHANGELOG.TXT": 36.58734788095159,
+        "CMakeLists.txt": 17.00218352298175,
+        "i686-linux-android21.libcxxabi.v1.stable.exceptions.nonew.abilist": 1.4625445371744905,
+        "powerpc-ibm-aix.libcxxabi.v1.stable.exceptions.nonew.abilist": 5.977927999710783,
+        "powerpc64-ibm-aix.libcxxabi.v1.stable.exceptions.nonew.abilist": 5.977927999710783,
+        "README.TXT": 1.0923800457815882,
+        "x86_64-apple-darwin.libcxxabi.v1.stable.exceptions.nonew.abilist": 6.905757238298461,
+        "x86_64-linux-android21.libcxxabi.v1.stable.exceptions.nonew.abilist": 1.4625445371744905,
+        "x86_64-unknown-freebsd.libcxxabi.v1.stable.exceptions.nonew.abilist": 4.669773000496045,
+        "x86_64-unknown-linux-gnu.libcxxabi.v1.stable.exceptions.nonew.abilist": 5.977927999710783,
+        "x86_64-unknown-linux-gnu.libcxxabi.v1.stable.noexceptions.nonew.abilist": 5.977927999710783
+    },
+    "subdirscores": {}
+}

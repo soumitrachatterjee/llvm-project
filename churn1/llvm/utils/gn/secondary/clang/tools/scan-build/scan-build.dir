@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/llvm/utils/gn/secondary/clang/tools/scan-build",
+    "score.sum": 6.099602068851199e-06,
+    "sha.latest": "aa545dcec1a18883d66eddbb44202686194a0e70",
+    "time.latest": 1718085062.4764273,
+    "formatted_time": "2024-06-11 00:51:02.476431",
+    "filescores": {
+        "BUILD.gn": 100.0
+    },
+    "subdirscores": {}
+}

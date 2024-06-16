@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/compiler-rt/lib/builtins/cpu_model/aarch64",
+    "score.sum": 3.958596439918885e-05,
+    "sha.latest": "659419ac2f05035cd8ff19806a9e48ccc725d3ba",
+    "time.latest": 1717794011.179383,
+    "formatted_time": "2024-06-08 02:30:11.179386",
+    "filescores": {
+        "hwcap.inc": 15.408496828174242
+    },
+    "subdirscores": {
+        "fmv": 61.96007210246087,
+        "lse_atomics": 22.631431069364897
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/functionalities/thread/state",
+    "score.sum": 5.44006984322611e-05,
+    "sha.latest": "285bff39fd283b3a9a27c06525111d8d4f474e6e",
+    "time.latest": 1717922842.4252489,
+    "formatted_time": "2024-06-09 14:17:22.425250",
+    "filescores": {
+        "main.cpp": 11.212359849472021,
+        "Makefile": 0.0,
+        "TestThreadStates.py": 88.78764015052798
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/clang/test/CXX/dcl.dcl/dcl.attr/dcl.attr.deprecated",
+    "score.sum": 2.013038056589713e-05,
+    "sha.latest": "60809cd29308e78d662375e6957a2b1b85415def",
+    "time.latest": 1718085391.3596592,
+    "formatted_time": "2024-06-11 11:26:31.359662",
+    "filescores": {
+        "p1.cpp": 100.0
+    },
+    "subdirscores": {}
+}

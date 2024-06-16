@@ -1,0 +1,29 @@
+{
+    "directory name": "llvm-project/lldb/test/Shell/Register/Core/Inputs",
+    "score.sum": 6.099602068851199e-06,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717977406.16067,
+    "formatted_time": "2024-06-10 05:26:46.160673",
+    "filescores": {
+        "aarch64-freebsd-multithread.core": 0.0,
+        "multithread.cpp": 0.0,
+        "strip-coredump.py": 100.0,
+        "x86-32-freebsd-multithread.core": 0.0,
+        "x86-32-freebsd.core": 0.0,
+        "x86-32-gp.check": 0.0,
+        "x86-32-linux-multithread.core": 0.0,
+        "x86-32-linux.core": 0.0,
+        "x86-32-netbsd-multithread.core": 0.0,
+        "x86-32-netbsd.core": 0.0,
+        "x86-64-freebsd-multithread.core": 0.0,
+        "x86-64-freebsd.core": 0.0,
+        "x86-64-gp-hixmm.check": 0.0,
+        "x86-64-linux-multithread.core": 0.0,
+        "x86-64-linux.core": 0.0,
+        "x86-64-netbsd-multithread.core": 0.0,
+        "x86-64-netbsd.core": 0.0,
+        "x86-core-dump.cpp": 0.0,
+        "x86-fp.check": 0.0
+    },
+    "subdirscores": {}
+}

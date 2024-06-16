@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/re/re.results/re.results.size",
+    "score.sum": 3.775314958267001e-05,
+    "sha.latest": "72f0edf3f4291d2614719a8c8af21a7a62ed5d74",
+    "time.latest": 1717967613.5947034,
+    "formatted_time": "2024-06-10 02:43:33.594705",
+    "filescores": {
+        "empty.pass.cpp": 37.42663434141665,
+        "empty.verify.cpp": 25.146731317166697,
+        "max_size.pass.cpp": 37.42663434141665
+    },
+    "subdirscores": {}
+}

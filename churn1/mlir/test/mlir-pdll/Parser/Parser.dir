@@ -1,0 +1,27 @@
+{
+    "directory name": "llvm-project/mlir/test/mlir-pdll/Parser",
+    "score.sum": 0.00015575082765861104,
+    "sha.latest": "780a20984b6af067eed5870eb7c00ea076b6072a",
+    "time.latest": 1717833323.4504497,
+    "formatted_time": "2024-06-08 02:55:23.450453",
+    "filescores": {
+        "constraint-failure.pdll": 11.815619872646261,
+        "constraint.pdll": 11.73254297394771,
+        "dependency-file.pdll": 0.0,
+        "directive-failure.pdll": 3.9162566007166695,
+        "expr-failure.pdll": 10.387415087986765,
+        "expr.pdll": 10.326281245401628,
+        "include.pdll": 0.0,
+        "include_td.pdll": 6.037496884500179,
+        "pattern-failure.pdll": 7.832512403117316,
+        "pattern.pdll": 3.9162566007166695,
+        "rewrite-failure.pdll": 3.9162566007166695,
+        "rewrite.pdll": 0.0,
+        "stmt-failure.pdll": 9.718501568896142,
+        "stmt.pdll": 7.832513201433339,
+        "string-eof.pdll": 0.0
+    },
+    "subdirscores": {
+        "include": 12.568346959920634
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/re/re.const/re.matchflag",
+    "score.sum": 9.030911901408313e-05,
+    "sha.latest": "d83a3ea529575f17ea6ea608a43bca0b3065dcfe",
+    "time.latest": 1717966092.9735372,
+    "formatted_time": "2024-06-10 02:18:12.973540",
+    "filescores": {
+        "match_flag_type.pass.cpp": 19.108632116357985,
+        "match_multiline.pass.cpp": 8.545265426368099,
+        "match_not_bol.pass.cpp": 17.117573903219807,
+        "match_not_eol.pass.cpp": 32.87512547248658,
+        "match_not_null.pass.cpp": 13.375784528429804,
+        "match_prev_avail.pass.cpp": 8.977618553137711
+    },
+    "subdirscores": {}
+}

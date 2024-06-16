@@ -1,0 +1,22 @@
+{
+    "directory name": "llvm-project/compiler-rt/test/ubsan/TestCases/TypeCheck",
+    "score.sum": 0.00033184901807941194,
+    "sha.latest": "8a220b229e86f42088a25424030b7b0b2bfb90c7",
+    "time.latest": 1717865079.6020646,
+    "formatted_time": "2024-06-08 22:14:39.602068",
+    "filescores": {
+        "misaligned.cpp": 10.363175747609178,
+        "null.cpp": 5.362618305111357,
+        "PR33221.cpp": 2.3891636156459324,
+        "vptr-corrupted-vtable-itanium.cpp": 5.074008324368543,
+        "vptr-non-unique-typeinfo.cpp": 7.995710074119289,
+        "vptr-ptrauth-unauthenticated.cpp": 3.676125198202697,
+        "vptr-virtual-base-construction.cpp": 4.619897582405972,
+        "vptr-virtual-base.cpp": 8.6011016452475,
+        "vptr.cpp": 19.85271064295011
+    },
+    "subdirscores": {
+        "Function": 29.425600603132736,
+        "Linux": 2.639888261206686
+    }
+}

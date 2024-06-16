@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/utilities/utility/mem.res/mem.res/mem.res.public",
+    "score.sum": 4.486819892066457e-05,
+    "sha.latest": "2da049a1418f7a2f96e7cac4368cac3ce8667d2e",
+    "time.latest": 1718008250.4532123,
+    "formatted_time": "2024-06-10 14:00:50.453215",
+    "filescores": {
+        "allocate.pass.cpp": 27.543482816559962,
+        "deallocate.pass.cpp": 24.887565897486297,
+        "dtor.pass.cpp": 23.784475642976865,
+        "is_equal.pass.cpp": 23.784475642976865
+    },
+    "subdirscores": {}
+}

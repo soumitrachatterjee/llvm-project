@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/mlir/lib/Target/LLVMIR/Dialect/ROCDL",
+    "score.sum": 6.05673782082804e-05,
+    "sha.latest": "563f414e049dc06dcb955f565fcff3c663982ee4",
+    "time.latest": 1717812105.6058164,
+    "formatted_time": "2024-06-07 21:01:45.605820",
+    "filescores": {
+        "CMakeLists.txt": 10.420419201970162,
+        "ROCDLToLLVMIRTranslation.cpp": 89.57958079802985
+    },
+    "subdirscores": {}
+}

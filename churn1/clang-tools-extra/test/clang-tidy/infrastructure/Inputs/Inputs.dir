@@ -1,0 +1,26 @@
+{
+    "directory name": "llvm-project/clang-tools-extra/test/clang-tidy/infrastructure/Inputs",
+    "score.sum": 6.35016013374756e-05,
+    "sha.latest": "07157db81d4421ced9fcf9a2002255c2a3a80d49",
+    "time.latest": 1717834033.585467,
+    "formatted_time": "2024-06-08 13:37:13.585470",
+    "filescores": {},
+    "subdirscores": {
+        "compilation-database": 9.605430320465803,
+        "config-file": 11.130855036252825,
+        "config-files": 31.136427075281404,
+        "empty-database": 0.0,
+        "expand-modular-headers-ppcallbacks": 0.0,
+        "explain-config": 0.0,
+        "file-filter": 9.605430320465803,
+        "Headers": 9.605430320465803,
+        "line-filter": 0.0,
+        "mock-libcxx": 0.0,
+        "nolint": 0.0,
+        "nolintbeginend": 28.916426927068372,
+        "overlapping": 0.0,
+        "remarks": 0.0,
+        "system-headers": 0.0,
+        "vfsoverlay": 0.0
+    }
+}

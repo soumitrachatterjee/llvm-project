@@ -1,0 +1,23 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/ranges/range.adaptors/range.take",
+    "score.sum": 0.00013879940480375798,
+    "sha.latest": "ba2236d3000645d3127f972aa7ac1844c47e299c",
+    "time.latest": 1717963129.376588,
+    "formatted_time": "2024-06-10 01:28:49.376589",
+    "filescores": {
+        "adaptor.pass.cpp": 12.769363817617224,
+        "base.pass.cpp": 7.955919971736737,
+        "begin.pass.cpp": 11.954361314959385,
+        "borrowing.compile.pass.cpp": 9.24151963541824,
+        "ctad.compile.pass.cpp": 11.585126066888007,
+        "ctor.default.pass.cpp": 8.733573521230253,
+        "ctor.view_count.pass.cpp": 8.907040593583467,
+        "end.pass.cpp": 7.955919971736737,
+        "range_concept_conformance.compile.pass.cpp": 7.158432048871691,
+        "size.pass.cpp": 7.158432048871691,
+        "types.h": 6.580311009086574
+    },
+    "subdirscores": {
+        "range.take.sentinel": 0.0
+    }
+}

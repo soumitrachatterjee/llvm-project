@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/libc/test/src/sys/mman",
+    "score.sum": 0.00012971679994797956,
+    "sha.latest": "fe1645e25c5ab5e3ba8aa16d4f637633ded328ab",
+    "time.latest": 1717850861.9484327,
+    "formatted_time": "2024-06-08 07:47:41.948434",
+    "filescores": {
+        "CMakeLists.txt": 8.002217503476139
+    },
+    "subdirscores": {
+        "linux": 91.99778249652385
+    }
+}

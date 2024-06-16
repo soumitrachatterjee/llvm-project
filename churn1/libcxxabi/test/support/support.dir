@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/libcxxabi/test/support",
+    "score.sum": 9.3946538968208e-06,
+    "sha.latest": "df3de7647e034797ae3c965d6737bc0a4bc7a779",
+    "time.latest": 1717824009.7017355,
+    "formatted_time": "2024-06-08 10:50:09.701738",
+    "filescores": {
+        "timer.h": 100.0
+    },
+    "subdirscores": {}
+}

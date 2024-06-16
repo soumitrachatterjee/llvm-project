@@ -1,0 +1,27 @@
+{
+    "directory name": "llvm-project/clang/test/CXX/class",
+    "score.sum": 0.0005366741079601615,
+    "sha.latest": "99500e8c08a4d941acb8a7eb00523296fb2acf7a",
+    "time.latest": 1718083299.4260383,
+    "formatted_time": "2024-06-11 10:51:39.426040",
+    "filescores": {
+        "p1-0x.cpp": 1.7195418717628526,
+        "p2-0x.cpp": 1.6309327947260315,
+        "p6-0x.cpp": 2.536371762282978
+    },
+    "subdirscores": {
+        "class.base": 0.0,
+        "class.bit": 2.754223550205636,
+        "class.compare": 18.045795628880462,
+        "class.dtor": 0.0,
+        "class.friend": 10.327172532118444,
+        "class.init": 9.728262479099724,
+        "class.local": 16.505223794731677,
+        "class.mem": 11.696939743286046,
+        "class.mfct": 5.802345572712145,
+        "class.nest": 3.6333974805193616,
+        "class.nested.type": 1.2872909785967244,
+        "class.static": 5.381879128058128,
+        "class.union": 8.950622683019798
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "directory name": "llvm-project/mlir/test/Interfaces/TilingInterface",
+    "score.sum": 0.00013602366268473834,
+    "sha.latest": "47bc565ca7990a2de20af4030baf08ac62739aca",
+    "time.latest": 1717828634.454175,
+    "formatted_time": "2024-06-08 01:37:14.454178",
+    "filescores": {
+        "lower-to-loops-using-interface.mlir": 23.243826832627757,
+        "tile-and-fuse-using-interface.mlir": 22.099194538840543,
+        "tile-and-fuse-using-scfforall.mlir": 0.0,
+        "tile-fuse-and-yield-using-interface.mlir": 11.831679279974946,
+        "tile-fuse-and-yield-using-scfforall.mlir": 0.0,
+        "tile-pad-using-interface.mlir": 12.279831866575508,
+        "tile-using-interface.mlir": 22.217730991424244,
+        "tile-using-scfforall.mlir": 8.327736490557003
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,17 @@
+{
+    "directory name": "llvm-project/mlir/include/mlir/Dialect/Tensor/Transforms",
+    "score.sum": 0.0001706360662900377,
+    "sha.latest": "76cb0bb7a4540ca7f09b779cc9c3f8694a1ebbd4",
+    "time.latest": 1717797489.4308026,
+    "formatted_time": "2024-06-07 16:58:09.430806",
+    "filescores": {
+        "BufferizableOpInterfaceImpl.h": 0.0,
+        "CMakeLists.txt": 3.5759191872161504,
+        "Passes.h": 22.390177214065066,
+        "Passes.td": 20.140767716557004,
+        "SubsetInsertionOpInterfaceImpl.h": 3.574626514469359,
+        "TransformUtils.h": 5.205673285304167,
+        "Transforms.h": 45.11283608238824
+    },
+    "subdirscores": {}
+}

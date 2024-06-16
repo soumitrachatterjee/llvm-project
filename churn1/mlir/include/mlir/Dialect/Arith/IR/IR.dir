@@ -1,0 +1,16 @@
+{
+    "directory name": "llvm-project/mlir/include/mlir/Dialect/Arith/IR",
+    "score.sum": 0.00021813941665461395,
+    "sha.latest": "1a8c6130f60fe517fb722ab4309997ce7b638234",
+    "time.latest": 1717793045.37918,
+    "formatted_time": "2024-06-07 15:44:05.379183",
+    "filescores": {
+        "Arith.h": 15.807573672326914,
+        "ArithBase.td": 23.854373406836327,
+        "ArithOps.td": 43.51690979857019,
+        "ArithOpsInterfaces.td": 13.83395447820443,
+        "CMakeLists.txt": 2.9871886440621482,
+        "ValueBoundsOpInterfaceImpl.h": 0.0
+    },
+    "subdirscores": {}
+}

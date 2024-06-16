@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/mlir/utils/vscode/src/PDLL",
+    "score.sum": 1.2199204137702398e-05,
+    "sha.latest": "f7b8a70e7a1738e0fc6574e3cf8faa4fa1f34eba",
+    "time.latest": 1717837612.7612958,
+    "formatted_time": "2024-06-08 04:06:52.761300",
+    "filescores": {
+        "pdll.ts": 50.0
+    },
+    "subdirscores": {
+        "commands": 50.0
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/lldb/unittests/ScriptInterpreter/Python",
+    "score.sum": 0.00036851918633107843,
+    "sha.latest": "675791335285fa86434dc46e5c92f543e0e79d19",
+    "time.latest": 1717997636.8980825,
+    "formatted_time": "2024-06-10 11:03:56.898085",
+    "filescores": {
+        "CMakeLists.txt": 8.03187677726245,
+        "PythonDataObjectsTests.cpp": 30.759200270506643,
+        "PythonTestSuite.cpp": 59.12860186442012,
+        "PythonTestSuite.h": 2.0803210878108156
+    },
+    "subdirscores": {}
+}

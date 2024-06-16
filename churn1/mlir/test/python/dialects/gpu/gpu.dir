@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/mlir/test/python/dialects/gpu",
+    "score.sum": 1.8298806206553597e-05,
+    "sha.latest": "bfcd3fa825dde06e49235620fd157540c6c1b7d7",
+    "time.latest": 1717834137.8734534,
+    "formatted_time": "2024-06-08 03:08:57.873456",
+    "filescores": {
+        "dialect.py": 33.33333333333333,
+        "module-to-binary-nvvm.py": 33.33333333333333,
+        "module-to-binary-rocdl.py": 33.33333333333333
+    },
+    "subdirscores": {}
+}

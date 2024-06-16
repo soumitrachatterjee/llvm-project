@@ -1,0 +1,20 @@
+{
+    "directory name": "llvm-project/mlir/include/mlir/Dialect/Bufferization/Transforms",
+    "score.sum": 0.00045843962867152206,
+    "sha.latest": "afac64cef40c77320cc49808be30f3e5ef7f7357",
+    "time.latest": 1717793772.974844,
+    "formatted_time": "2024-06-07 15:56:12.974851",
+    "filescores": {
+        "BufferUtils.h": 11.00896967204327,
+        "BufferViewFlowAnalysis.h": 1.9759700280386043,
+        "Bufferize.h": 7.84978430876936,
+        "CMakeLists.txt": 0.0,
+        "FuncBufferizableOpInterfaceImpl.h": 2.3374117087937294,
+        "OneShotAnalysis.h": 16.272382253980393,
+        "OneShotModuleBufferize.h": 5.957087236420282,
+        "Passes.h": 20.19002491289679,
+        "Passes.td": 30.36228443146535,
+        "Transforms.h": 4.046085447592214
+    },
+    "subdirscores": {}
+}

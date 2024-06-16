@@ -1,0 +1,17 @@
+{
+    "directory name": "llvm-project/llvm/lib/Target/DirectX/DXILWriter",
+    "score.sum": 0.00012170650148428885,
+    "sha.latest": "af8d0502860d9ec2ac9682f35a19c83300f8b25a",
+    "time.latest": 1717855026.1722035,
+    "formatted_time": "2024-06-08 08:57:06.172207",
+    "filescores": {
+        "CMakeLists.txt": 12.28028356725669,
+        "DXILBitcodeWriter.cpp": 39.5523975640701,
+        "DXILBitcodeWriter.h": 8.195872156404373,
+        "DXILValueEnumerator.cpp": 19.41559517021819,
+        "DXILValueEnumerator.h": 5.991111156413879,
+        "DXILWriterPass.cpp": 9.553009710231082,
+        "DXILWriterPass.h": 5.011730675405701
+    },
+    "subdirscores": {}
+}

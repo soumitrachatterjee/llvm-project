@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/llvm/tools/llvm-link",
+    "score.sum": 0.0006562599643361195,
+    "sha.latest": "a64ff9630ccd305a63fca3ea9cc4bc4b49098495",
+    "time.latest": 1718080797.7577128,
+    "formatted_time": "2024-06-10 23:39:57.757716",
+    "filescores": {
+        "CMakeLists.txt": 6.44410832802137,
+        "llvm-link.cpp": 93.55589167197863
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/mlir/lib/Conversion/TosaToLinalg",
+    "score.sum": 0.0007273575683343191,
+    "sha.latest": "c1e9883a813db76c1b108ad715895928bb93f4c2",
+    "time.latest": 1717804047.370859,
+    "formatted_time": "2024-06-07 18:47:27.370863",
+    "filescores": {
+        "CMakeLists.txt": 3.9639579441592474,
+        "TosaToLinalg.cpp": 59.542100798850974,
+        "TosaToLinalgNamed.cpp": 16.822855284520134,
+        "TosaToLinalgNamedPass.cpp": 3.6754711559244493,
+        "TosaToLinalgPass.cpp": 15.995614816545187
+    },
+    "subdirscores": {}
+}

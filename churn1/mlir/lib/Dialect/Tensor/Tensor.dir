@@ -1,0 +1,16 @@
+{
+    "directory name": "llvm-project/mlir/lib/Dialect/Tensor",
+    "score.sum": 0.001547408696640432,
+    "sha.latest": "fab2bb8bfda865bd438dee981d7be7df8017b76d",
+    "time.latest": 1717809548.0434146,
+    "formatted_time": "2024-06-07 20:19:08.043415",
+    "filescores": {
+        "CMakeLists.txt": 0.5852449980819986
+    },
+    "subdirscores": {
+        "IR": 51.396492881798096,
+        "TransformOps": 1.8563997542040844,
+        "Transforms": 41.50800893331752,
+        "Utils": 4.6538534325982965
+    }
+}

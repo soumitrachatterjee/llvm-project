@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/numerics/numarray/valarray.nonmembers",
+    "score.sum": 8.400384957417791e-05,
+    "sha.latest": "469d18c06446259aaaa8ec57f1548b1a42691512",
+    "time.latest": 1717951606.037081,
+    "formatted_time": "2024-06-09 22:16:46.037084",
+    "filescores": {},
+    "subdirscores": {
+        "valarray.binary": 23.825222666546697,
+        "valarray.comparison": 23.65576110125333,
+        "valarray.special": 27.111712858825083,
+        "valarray.transcend": 25.407303373374884
+    }
+}

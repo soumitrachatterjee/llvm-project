@@ -1,0 +1,33 @@
+{
+    "directory name": "llvm-project/clang/lib/ARCMigrate",
+    "score.sum": 0.0015571892127093031,
+    "sha.latest": "a87dc23a6271cadd6d3f93561f2d8b1661399e6d",
+    "time.latest": 1717804895.4058113,
+    "formatted_time": "2024-06-08 05:31:35.405813",
+    "filescores": {
+        "ARCMT.cpp": 12.840484347116421,
+        "ARCMTActions.cpp": 0.9870923214477628,
+        "CMakeLists.txt": 3.128135964861621,
+        "FileRemapper.cpp": 5.836657836539652,
+        "Internals.h": 3.286886923375063,
+        "ObjCMT.cpp": 27.119569439623653,
+        "PlistReporter.cpp": 3.574488525818705,
+        "TransAPIUses.cpp": 1.3056093002500555,
+        "TransARCAssign.cpp": 0.9087658381168422,
+        "TransAutoreleasePool.cpp": 2.433225083570229,
+        "TransBlockObjCVariable.cpp": 1.3815501913362602,
+        "TransEmptyStatementsAndDealloc.cpp": 2.5363634442743783,
+        "TransformActions.cpp": 3.367315570290983,
+        "Transforms.cpp": 6.0976941333183845,
+        "Transforms.h": 2.4245595191545566,
+        "TransGCAttrs.cpp": 5.3595718432031285,
+        "TransGCCalls.cpp": 1.1548314479236257,
+        "TransProperties.cpp": 4.110928476181806,
+        "TransProtectedScope.cpp": 1.7311405421839927,
+        "TransRetainReleaseDealloc.cpp": 3.785924168559554,
+        "TransUnbridgedCasts.cpp": 3.369435712233608,
+        "TransUnusedInitDelegate.cpp": 0.9601067268388709,
+        "TransZeroOutPropsInDealloc.cpp": 2.299662643780862
+    },
+    "subdirscores": {}
+}

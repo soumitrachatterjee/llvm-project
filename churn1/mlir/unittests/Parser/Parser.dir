@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/mlir/unittests/Parser",
+    "score.sum": 1.8482768038368544e-05,
+    "sha.latest": "55cf53fd0f5594eb701b5760729fdc2bd4a70584",
+    "time.latest": 1717836471.914739,
+    "formatted_time": "2024-06-08 03:47:51.914743",
+    "filescores": {
+        "CMakeLists.txt": 33.00156154202109,
+        "ParserTest.cpp": 66.99843845797892,
+        "ResourceTest.cpp": 0.0
+    },
+    "subdirscores": {}
+}

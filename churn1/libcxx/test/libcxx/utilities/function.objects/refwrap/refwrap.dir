@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/libcxx/test/libcxx/utilities/function.objects/refwrap",
+    "score.sum": 3.504195206060128e-05,
+    "sha.latest": "681cde7dd8b5613dbafc9ca54e0288477f946be3",
+    "time.latest": 1717866851.4256747,
+    "formatted_time": "2024-06-08 22:44:11.425677",
+    "filescores": {
+        "binary.pass.cpp": 50.0,
+        "layout.binary.compile.pass.cpp": 0.0,
+        "layout.unary.compile.pass.cpp": 0.0,
+        "unary.pass.cpp": 50.0
+    },
+    "subdirscores": {}
+}

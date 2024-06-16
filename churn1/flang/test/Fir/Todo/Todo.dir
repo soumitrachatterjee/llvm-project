@@ -1,0 +1,20 @@
+{
+    "directory name": "llvm-project/flang/test/Fir/Todo",
+    "score.sum": 9.047846390068231e-05,
+    "sha.latest": "16bd0fe56c386de0bed33e3a29d6a4c5c6dc009e",
+    "time.latest": 1717795852.1650681,
+    "formatted_time": "2024-06-07 16:30:52.165071",
+    "filescores": {
+        "allocmem.fir": 11.934091131492517,
+        "boxproc_host.fir": 11.35026082720098,
+        "coordinate_of_2.fir": 6.741496048768796,
+        "coordinate_of_3.fir": 6.741496048768796,
+        "coordinate_of_4.fir": 6.741496048768796,
+        "end.fir": 12.029863621459066,
+        "global_len.fir": 6.786383580786024,
+        "len_param_index.fir": 12.029863621459066,
+        "select_case_with_character.fir": 14.294788244094992,
+        "unboxproc.fir": 11.35026082720098
+    },
+    "subdirscores": {}
+}

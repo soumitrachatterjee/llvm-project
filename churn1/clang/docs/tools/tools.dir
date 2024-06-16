@@ -1,0 +1,16 @@
+{
+    "directory name": "llvm-project/clang/docs/tools",
+    "score.sum": 0.000436693315699531,
+    "sha.latest": "3b5965e633bf6f945436dc8ac33bbb37ace4acf1",
+    "time.latest": 1717792574.871591,
+    "formatted_time": "2024-06-08 02:06:14.871596",
+    "filescores": {
+        "clang-formatted-files.txt": 38.063535785065405,
+        "dump_ast_matchers.py": 24.552155963948255,
+        "dump_format_help.py": 2.557762490456471,
+        "dump_format_style.py": 32.121913917191456,
+        "generate_formatted_state.py": 2.704631843338411,
+        "plurals.txt": 0.0
+    },
+    "subdirscores": {}
+}

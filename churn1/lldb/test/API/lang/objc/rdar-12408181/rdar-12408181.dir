@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/lang/objc/rdar-12408181",
+    "score.sum": 1.5756404470692327e-05,
+    "sha.latest": "9c2468821ec51defd09c246fea4a47886fff8c01",
+    "time.latest": 1717959806.3499506,
+    "formatted_time": "2024-06-10 00:33:26.349956",
+    "filescores": {
+        "main.m": 0.0,
+        "Makefile": 0.0,
+        "TestRdar12408181.py": 100.0
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/clang/include",
+    "score.sum": 0.10038651777814302,
+    "sha.latest": "3f6bc1adf805681293c2ef0b93b708ff52244c00",
+    "time.latest": 1717803596.7070482,
+    "formatted_time": "2024-06-08 05:09:56.707050",
+    "filescores": {
+        "CMakeLists.txt": 0.006485041995955677,
+        "module.modulemap": 0.036278427026418286
+    },
+    "subdirscores": {
+        "clang": 98.5519819366903,
+        "clang-c": 1.4052545942873327
+    }
+}

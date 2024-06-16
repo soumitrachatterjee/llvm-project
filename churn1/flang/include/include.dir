@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/flang/include",
+    "score.sum": 0.007549971736002738,
+    "sha.latest": "860a40057da2fbb626fdf17feec18070d95b687b",
+    "time.latest": 1717790450.438789,
+    "formatted_time": "2024-06-07 15:00:50.438789",
+    "filescores": {
+        "CMakeLists.txt": 0.08134453341321286
+    },
+    "subdirscores": {
+        "flang": 99.91865546658678
+    }
+}

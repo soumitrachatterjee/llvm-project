@@ -1,0 +1,18 @@
+{
+    "directory name": "llvm-project/libclc/cmake",
+    "score.sum": 3.0498010344255995e-05,
+    "sha.latest": "24fad7278a391c6f8af664f4ac691c1719008a09",
+    "time.latest": 1717824211.1716716,
+    "formatted_time": "2024-06-08 00:23:31.171675",
+    "filescores": {
+        "CMakeCLCCompiler.cmake.in": 0.0,
+        "CMakeCLCInformation.cmake": 20.0,
+        "CMakeDetermineCLCCompiler.cmake": 0.0,
+        "CMakeDetermineLLAsmCompiler.cmake": 0.0,
+        "CMakeLLAsmCompiler.cmake.in": 0.0,
+        "CMakeLLAsmInformation.cmake": 40.0,
+        "CMakeTestCLCCompiler.cmake": 20.0,
+        "CMakeTestLLAsmCompiler.cmake": 20.0
+    },
+    "subdirscores": {}
+}

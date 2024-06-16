@@ -1,0 +1,35 @@
+{
+    "directory name": "llvm-project/pstl/include/pstl/internal",
+    "score.sum": 0.00047251349414218836,
+    "sha.latest": "9c4717af22307ea64e3514c3c384dda0bdfdf12d",
+    "time.latest": 1717791243.142661,
+    "formatted_time": "2024-06-07 15:14:03.142664",
+    "filescores": {
+        "algorithm_fwd.h": 3.5283405864294486,
+        "algorithm_impl.h": 9.119136903059248,
+        "execution_defs.h": 3.5523748051020716,
+        "execution_impl.h": 4.990801294711031,
+        "glue_algorithm_defs.h": 5.487273724750521,
+        "glue_algorithm_impl.h": 3.345434796995799,
+        "glue_execution_defs.h": 2.547982244482981,
+        "glue_memory_defs.h": 4.762797094997735,
+        "glue_memory_impl.h": 3.1555382808103625,
+        "glue_numeric_defs.h": 4.092945568925466,
+        "glue_numeric_impl.h": 3.294292556091822,
+        "memory_impl.h": 3.5700745829206593,
+        "numeric_fwd.h": 2.6151876384289294,
+        "numeric_impl.h": 5.859529365847175,
+        "parallel_backend.h": 2.495210610790703,
+        "parallel_backend_omp.h": 0.0,
+        "parallel_backend_serial.h": 1.7927751679270025,
+        "parallel_backend_tbb.h": 6.477949432906259,
+        "parallel_backend_utils.h": 5.517265662476131,
+        "parallel_impl.h": 2.2842724133856187,
+        "pstl_config.h": 11.766497973374372,
+        "unseq_backend_simd.h": 3.085478109875222,
+        "utils.h": 5.07112015424385
+    },
+    "subdirscores": {
+        "omp": 1.5877210314675916
+    }
+}

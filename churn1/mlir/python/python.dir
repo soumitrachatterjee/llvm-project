@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/mlir/python",
+    "score.sum": 0.0012702410346449515,
+    "sha.latest": "5d59fa90ce225814739d9b51ba37e1cca9204cad",
+    "time.latest": 1717814421.843183,
+    "formatted_time": "2024-06-07 21:40:21.843186",
+    "filescores": {
+        "CMakeLists.txt": 16.94016289063939,
+        "requirements.txt": 1.911489399597068
+    },
+    "subdirscores": {
+        "mlir": 81.14834770976354
+    }
+}

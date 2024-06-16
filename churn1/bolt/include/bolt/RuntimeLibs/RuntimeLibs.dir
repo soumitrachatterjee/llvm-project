@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/bolt/include/bolt/RuntimeLibs",
+    "score.sum": 2.735195497936355e-05,
+    "sha.latest": "05634f7346a59f6dab89cde53f39b40d9a70b9c9",
+    "time.latest": 1717788512.389834,
+    "formatted_time": "2024-06-08 00:58:32.389839",
+    "filescores": {
+        "HugifyRuntimeLibrary.h": 40.68842600847677,
+        "InstrumentationRuntimeLibrary.h": 30.396446791996567,
+        "RuntimeLibrary.h": 28.915127199526662,
+        "RuntimeLibraryVariables.inc.in": 0.0
+    },
+    "subdirscores": {}
+}

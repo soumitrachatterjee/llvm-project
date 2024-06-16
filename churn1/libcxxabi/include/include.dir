@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/libcxxabi/include",
+    "score.sum": 0.00015676869998565603,
+    "sha.latest": "51e91b64d0deb6a743861c2a0fba84865250036e",
+    "time.latest": 1717822383.6715136,
+    "formatted_time": "2024-06-08 10:23:03.671517",
+    "filescores": {
+        "CMakeLists.txt": 3.8908290171502977,
+        "cxxabi.h": 55.607722360477965,
+        "__cxxabi_config.h": 40.50144862237175
+    },
+    "subdirscores": {}
+}

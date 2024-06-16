@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/lldb/test/API/functionalities/dyld-multiple-rdebug",
+    "score.sum": 6.099602068851199e-06,
+    "sha.latest": "6bf923d5c3daf5d66e0acf53d037a12ceff4a275",
+    "time.latest": 1717909316.5966165,
+    "formatted_time": "2024-06-09 10:31:56.596618",
+    "filescores": {
+        "library_file.cpp": 0.0,
+        "library_file.h": 0.0,
+        "main.cpp": 0.0,
+        "Makefile": 0.0,
+        "TestDyldWithMultupleRDebug.py": 100.0
+    },
+    "subdirscores": {}
+}

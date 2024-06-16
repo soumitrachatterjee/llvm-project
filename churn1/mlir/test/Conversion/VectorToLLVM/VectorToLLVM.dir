@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/mlir/test/Conversion/VectorToLLVM",
+    "score.sum": 0.0004684745918627888,
+    "sha.latest": "a1a68603145a39e6abdd35bf7a01535eb53826b1",
+    "time.latest": 1717817085.4096706,
+    "formatted_time": "2024-06-07 22:24:45.409674",
+    "filescores": {
+        "vector-mask-to-llvm.mlir": 7.568430809875343,
+        "vector-reduction-to-llvm.mlir": 10.075676707273509,
+        "vector-scalable-memcpy.mlir": 1.3020134228832856,
+        "vector-to-llvm.mlir": 81.05387905996787
+    },
+    "subdirscores": {}
+}

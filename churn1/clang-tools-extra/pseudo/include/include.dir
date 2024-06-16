@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/clang-tools-extra/pseudo/include",
+    "score.sum": 9.867942682816509e-05,
+    "sha.latest": "c60ac509399da5cba533b9b6cc5b983c59f7d7b3",
+    "time.latest": 1717814606.1336498,
+    "formatted_time": "2024-06-08 08:13:26.133653",
+    "filescores": {
+        "CMakeLists.txt": 9.392753627820023
+    },
+    "subdirscores": {
+        "clang-pseudo": 90.60724637217999
+    }
+}

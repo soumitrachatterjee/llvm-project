@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/libcxx/test/libcxx/selftest/verify.cpp",
+    "score.sum": 1.2816226603409538e-05,
+    "sha.latest": "72f0edf3f4291d2614719a8c8af21a7a62ed5d74",
+    "time.latest": 1717864411.2762039,
+    "formatted_time": "2024-06-08 22:03:31.276206",
+    "filescores": {
+        "no-diagnostics-unmarked.verify.cpp": 47.59280759930153,
+        "no-diagnostics.verify.cpp": 0.0,
+        "no-werror.verify.cpp": 52.40719240069846,
+        "right-diagnostic.verify.cpp": 0.0,
+        "wrong-diagnostic.verify.cpp": 0.0
+    },
+    "subdirscores": {}
+}

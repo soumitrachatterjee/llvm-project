@@ -1,0 +1,18 @@
+{
+    "directory name": "llvm-project/lldb/source/Plugins/Platform/Android",
+    "score.sum": 0.0005948844942630238,
+    "sha.latest": "14d95b26aee0ac0ac8a70252e8a3c7a986e0e812",
+    "time.latest": 1717872894.8673933,
+    "formatted_time": "2024-06-09 00:24:54.867396",
+    "filescores": {
+        "AdbClient.cpp": 19.8285844375725,
+        "AdbClient.h": 4.265983495247437,
+        "CMakeLists.txt": 1.3483536094766326,
+        "PlatformAndroid.cpp": 31.60856426422577,
+        "PlatformAndroid.h": 11.968833749248601,
+        "PlatformAndroidProperties.td": 0.0,
+        "PlatformAndroidRemoteGDBServer.cpp": 21.06255304688247,
+        "PlatformAndroidRemoteGDBServer.h": 9.917127397346604
+    },
+    "subdirscores": {}
+}

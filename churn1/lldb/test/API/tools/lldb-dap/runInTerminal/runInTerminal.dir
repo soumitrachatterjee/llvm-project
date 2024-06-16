@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/tools/lldb-dap/runInTerminal",
+    "score.sum": 6.099602068851199e-06,
+    "sha.latest": "9c2468821ec51defd09c246fea4a47886fff8c01",
+    "time.latest": 1717969379.528541,
+    "formatted_time": "2024-06-10 03:12:59.528545",
+    "filescores": {
+        "main.c": 0.0,
+        "Makefile": 0.0,
+        "TestDAP_runInTerminal.py": 100.0
+    },
+    "subdirscores": {}
+}

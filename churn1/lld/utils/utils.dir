@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/lld/utils",
+    "score.sum": 8.88474659118063e-06,
+    "sha.latest": "f98ee40f4b5d7474fc67e82824bf6abbaedb7b1c",
+    "time.latest": 1717904889.3925889,
+    "formatted_time": "2024-06-09 09:18:09.392592",
+    "filescores": {
+        "benchmark.py": 100.0,
+        "link.yaml": 0.0
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,37 @@
+{
+    "directory name": "llvm-project/polly/lib/External/isl/imath",
+    "score.sum": 0.00014493863413590796,
+    "sha.latest": "f98ee40f4b5d7474fc67e82824bf6abbaedb7b1c",
+    "time.latest": 1717795059.9803715,
+    "formatted_time": "2024-06-07 16:17:39.980372",
+    "filescores": {
+        ".dockerignore": 0.0,
+        ".travis.yml": 0.0,
+        "ChangeLog": 4.6450487299033005,
+        "LICENSE": 4.448674804369787,
+        "Makefile": 0.0,
+        "README.md": 4.448674804369787,
+        "doc.md": 0.0,
+        "doc.md.in": 0.0,
+        "gmp_compat.c": 8.408756469730532,
+        "gmp_compat.h": 0.0,
+        "imath.c": 7.579847196034092,
+        "imath.h": 4.2084031667717,
+        "imdrover.c": 4.6450487299033005,
+        "imdrover.h": 4.448674804369787,
+        "imrat.c": 4.426362586688301,
+        "imrat.h": 4.2084031667717,
+        "imtest.c": 4.6450487299033005,
+        "imtimer.c": 4.6450487299033005,
+        "iprime.c": 4.6450487299033005,
+        "iprime.h": 4.448674804369787,
+        "rsamath.c": 4.6450487299033005,
+        "rsamath.h": 4.448674804369787
+    },
+    "subdirscores": {
+        "contrib": 4.448674804369787,
+        "examples": 4.6450487299033005,
+        "tests": 7.752434311690133,
+        "tools": 4.2084031667717
+    }
+}

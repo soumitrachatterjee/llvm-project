@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/time/time.clock",
+    "score.sum": 9.662117623484223e-05,
+    "sha.latest": "d1a461dbb2293d9258d400b5426f610bb5191228",
+    "time.latest": 1717983730.727,
+    "formatted_time": "2024-06-10 07:12:10.727002",
+    "filescores": {},
+    "subdirscores": {
+        "time.clock.file": 39.83142454927316,
+        "time.clock.hires": 11.784221213789817,
+        "time.clock.local": 8.363662664718403,
+        "time.clock.steady": 6.312903968407333,
+        "time.clock.system": 33.70778760381128
+    }
+}

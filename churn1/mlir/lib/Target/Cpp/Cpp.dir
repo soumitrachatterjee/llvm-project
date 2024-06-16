@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/mlir/lib/Target/Cpp",
+    "score.sum": 0.00020199278141167678,
+    "sha.latest": "0ddb1221471ae481cc0c7dfd57b71d98e7e60a27",
+    "time.latest": 1717811656.0478556,
+    "formatted_time": "2024-06-07 20:54:16.047859",
+    "filescores": {
+        "CMakeLists.txt": 7.112601048610793,
+        "TranslateRegistration.cpp": 9.78963922953057,
+        "TranslateToCpp.cpp": 83.09775972185864
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/lldb/test/API/commands/apropos/basic",
+    "score.sum": 1.0459834404963863e-05,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717888031.274672,
+    "formatted_time": "2024-06-09 04:37:11.274674",
+    "filescores": {
+        "TestApropos.py": 100.0
+    },
+    "subdirscores": {}
+}

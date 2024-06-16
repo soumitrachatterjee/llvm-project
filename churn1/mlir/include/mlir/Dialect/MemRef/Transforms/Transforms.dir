@@ -1,0 +1,17 @@
+{
+    "directory name": "llvm-project/mlir/include/mlir/Dialect/MemRef/Transforms",
+    "score.sum": 0.00015321613875150046,
+    "sha.latest": "506c47df00bbd9e527ecc5ac6e192b5fe5daa2c5",
+    "time.latest": 1717795628.8590913,
+    "formatted_time": "2024-06-07 16:27:08.859095",
+    "filescores": {
+        "AllocationOpInterfaceImpl.h": 0.0,
+        "CMakeLists.txt": 3.981044110988905,
+        "ComposeSubView.h": 0.0,
+        "Passes.h": 45.737804159050405,
+        "Passes.td": 37.32364363527981,
+        "RuntimeOpVerification.h": 0.0,
+        "Transforms.h": 12.957508094680872
+    },
+    "subdirscores": {}
+}

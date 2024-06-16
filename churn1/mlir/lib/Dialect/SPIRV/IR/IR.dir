@@ -1,0 +1,33 @@
+{
+    "directory name": "llvm-project/mlir/lib/Dialect/SPIRV/IR",
+    "score.sum": 0.0010734306682750755,
+    "sha.latest": "1d5e3b2d6559a853c544099e4cf1d46f44f83368",
+    "time.latest": 1717808631.8112202,
+    "formatted_time": "2024-06-07 20:03:51.811223",
+    "filescores": {
+        "AtomicOps.cpp": 1.007894797382388,
+        "CMakeLists.txt": 3.7076832801226733,
+        "CastOps.cpp": 0.5682343768557324,
+        "ControlFlowOps.cpp": 1.4639521966619635,
+        "CooperativeMatrixOps.cpp": 1.6028734079065934,
+        "GroupOps.cpp": 0.9022364633374887,
+        "IntegerDotProductOps.cpp": 0.9026572117944254,
+        "JointMatrixOps.cpp": 0.0,
+        "MemoryOps.cpp": 0.7522648581554431,
+        "SPIRVAttributes.cpp": 4.313418407562021,
+        "SPIRVCanonicalization.cpp": 13.155683039717223,
+        "SPIRVCanonicalization.td": 3.940029599867365,
+        "SPIRVDialect.cpp": 10.996506428475449,
+        "SPIRVEnums.cpp": 4.429626595918612,
+        "SPIRVGLCanonicalization.cpp": 1.7028890768679834,
+        "SPIRVOpAvailability.cpp": 0.0,
+        "SPIRVOpDefinition.cpp": 0.0,
+        "SPIRVOpUtils.h": 0.9981605128592782,
+        "SPIRVOps.cpp": 34.26782651188848,
+        "SPIRVParsingUtils.cpp": 0.5708442374484075,
+        "SPIRVParsingUtils.h": 0.5708442374484075,
+        "SPIRVTypes.cpp": 7.929884265377623,
+        "TargetAndABI.cpp": 6.21649049435245
+    },
+    "subdirscores": {}
+}

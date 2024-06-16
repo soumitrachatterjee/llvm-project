@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/lldb/test/API/python_api/sbvalue_synthetic",
+    "score.sum": 1.2199204137702398e-05,
+    "sha.latest": "3068d277fd5ad0590a11dcb23af170ab31d7bda0",
+    "time.latest": 1717966729.374049,
+    "formatted_time": "2024-06-10 02:28:49.374051",
+    "filescores": {
+        "formatter.py": 0.0,
+        "main.cpp": 50.0,
+        "Makefile": 0.0,
+        "TestSBValueSynthetic.py": 50.0
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,19 @@
+{
+    "directory name": "llvm-project/llvm/include/llvm/Demangle",
+    "score.sum": 0.0008246476929576903,
+    "sha.latest": "8eea478f57e79b6fad065d023355907bc2098206",
+    "time.latest": 1717814679.4266136,
+    "formatted_time": "2024-06-07 21:44:39.426617",
+    "filescores": {
+        "Demangle.h": 16.850694290714934,
+        "DemangleConfig.h": 1.30060277512546,
+        "ItaniumDemangle.h": 45.9248829766606,
+        "ItaniumNodes.def": 3.3451428624458988,
+        "MicrosoftDemangle.h": 4.514038930385317,
+        "MicrosoftDemangleNodes.h": 6.926297737225075,
+        "README.txt": 1.2336937898856672,
+        "StringViewExtras.h": 0.7396615695333241,
+        "Utility.h": 19.16498506802373
+    },
+    "subdirscores": {}
+}

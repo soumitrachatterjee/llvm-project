@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/lldb/unittests/tools/lldb-server/inferior",
+    "score.sum": 2.3649217147541163e-05,
+    "sha.latest": "808142876c10b52e7ee57cdc6dcf0acc5c97c1b7",
+    "time.latest": 1717998789.4358988,
+    "formatted_time": "2024-06-10 11:23:09.435901",
+    "filescores": {
+        "environment_check.cpp": 39.13880224758873,
+        "thread_inferior.cpp": 60.86119775241128
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,20 @@
+{
+    "directory name": "llvm-project/clang/test/CXX/dcl.dcl/dcl.spec/dcl.constexpr",
+    "score.sum": 0.00036947842344090047,
+    "sha.latest": "99500e8c08a4d941acb8a7eb00523296fb2acf7a",
+    "time.latest": 1718085717.6173725,
+    "formatted_time": "2024-06-11 11:31:57.617376",
+    "filescores": {
+        "dtor.cpp": 9.127664674311209,
+        "p1.cpp": 12.63600580729897,
+        "p2.cpp": 3.494736112604975,
+        "p3-2b.cpp": 2.6103093460404736,
+        "p3.cpp": 21.375510262704548,
+        "p4.cpp": 14.419222021372175,
+        "p5.cpp": 4.937579125979757,
+        "p6.cpp": 11.737068556862623,
+        "p8.cpp": 5.484376762117938,
+        "p9.cpp": 14.17752733070734
+    },
+    "subdirscores": {}
+}

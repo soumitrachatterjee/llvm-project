@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/source/Plugins/ObjectContainer/Universal-Mach-O",
+    "score.sum": 0.00020909851560128,
+    "sha.latest": "fda53ad9374b60fc83f1a6065ae3e7985182a5d2",
+    "time.latest": 1717871801.8692336,
+    "formatted_time": "2024-06-09 00:06:41.869238",
+    "filescores": {
+        "CMakeLists.txt": 5.224464193775335,
+        "ObjectContainerUniversalMachO.cpp": 62.95310472288097,
+        "ObjectContainerUniversalMachO.h": 31.822431083343695
+    },
+    "subdirscores": {}
+}

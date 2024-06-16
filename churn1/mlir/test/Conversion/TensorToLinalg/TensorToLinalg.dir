@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/mlir/test/Conversion/TensorToLinalg",
+    "score.sum": 8.127395968189078e-06,
+    "sha.latest": "dd115e5a9bc778b5a8c4e445b7cdafa27db54ddd",
+    "time.latest": 1717816825.4942749,
+    "formatted_time": "2024-06-07 22:20:25.494278",
+    "filescores": {
+        "tensor-ops-to-linalg.mlir": 100.0
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/clang/include/clang/Interpreter",
+    "score.sum": 0.00013534164654090648,
+    "sha.latest": "2a4a852a67eab2f8d0533c23719b1bd08d6edea9",
+    "time.latest": 1717800154.624855,
+    "formatted_time": "2024-06-08 04:12:34.624858",
+    "filescores": {
+        "CodeCompletion.h": 11.733193355521477,
+        "Interpreter.h": 72.66056959888233,
+        "PartialTranslationUnit.h": 5.172027962392471,
+        "Value.h": 10.434209083203731
+    },
+    "subdirscores": {}
+}

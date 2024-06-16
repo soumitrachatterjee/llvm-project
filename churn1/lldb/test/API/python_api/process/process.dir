@@ -1,0 +1,18 @@
+{
+    "directory name": "llvm-project/lldb/test/API/python_api/process",
+    "score.sum": 0.00014747674778158365,
+    "sha.latest": "04bbbba271ebe4c2421f34a4fbf34c328df9f111",
+    "time.latest": 1717966301.5558758,
+    "formatted_time": "2024-06-10 02:21:41.555882",
+    "filescores": {
+        "main.cpp": 5.951971839705625,
+        "Makefile": 0.0,
+        "TestProcessAPI.py": 45.551811338633726
+    },
+    "subdirscores": {
+        "address-masks": 8.259747562479884,
+        "cancel_attach": 4.135975440606302,
+        "io": 19.378078099245396,
+        "read-mem-cstring": 16.72241571932906
+    }
+}

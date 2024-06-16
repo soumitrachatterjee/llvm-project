@@ -1,0 +1,31 @@
+{
+    "directory name": "llvm-project/compiler-rt/test/gwp_asan",
+    "score.sum": 0.00011624840314568475,
+    "sha.latest": "f98ee40f4b5d7474fc67e82824bf6abbaedb7b1c",
+    "time.latest": 1717828630.6139116,
+    "formatted_time": "2024-06-08 12:07:10.613915",
+    "filescores": {
+        "backtrace.c": 9.659017624432584,
+        "CMakeLists.txt": 9.175492860790106,
+        "double_delete.cpp": 5.582905095073641,
+        "double_deletea.cpp": 5.582905095073641,
+        "double_free.cpp": 5.582905095073641,
+        "free_then_overflow.cpp": 0.0,
+        "free_then_underflow.cpp": 0.0,
+        "heap_buffer_overflow.cpp": 6.24639504556262,
+        "heap_buffer_underflow.cpp": 6.24639504556262,
+        "invalid_free_left.cpp": 5.582905095073641,
+        "invalid_free_right.cpp": 5.582905095073641,
+        "lit.cfg.py": 7.932470374077311,
+        "lit.site.cfg.py.in": 0.0,
+        "page_size.h": 0.0,
+        "realloc.cpp": 5.582905095073641,
+        "repeated_alloc.cpp": 5.247041596956011,
+        "use_after_delete.cpp": 5.582905095073641,
+        "use_after_deletea.cpp": 5.582905095073641,
+        "use_after_free.cpp": 5.582905095073641
+    },
+    "subdirscores": {
+        "unit": 5.247041596956011
+    }
+}

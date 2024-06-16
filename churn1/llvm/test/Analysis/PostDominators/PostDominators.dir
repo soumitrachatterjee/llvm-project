@@ -1,0 +1,19 @@
+{
+    "directory name": "llvm-project/llvm/test/Analysis/PostDominators",
+    "score.sum": 0.00017316884433336827,
+    "sha.latest": "7cf5581712b24d4aea5dffa2e23f0ed42af1954d",
+    "time.latest": 1717890046.4387095,
+    "formatted_time": "2024-06-08 18:40:46.438713",
+    "filescores": {
+        "infinite-loop.ll": 8.265598982494032,
+        "infinite-loop2.ll": 8.265598982494032,
+        "infinite-loop3.ll": 8.265598982494032,
+        "pr1098.ll": 15.095340615951839,
+        "pr24415.ll": 6.654801176665644,
+        "pr6047_a.ll": 13.363265314975106,
+        "pr6047_b.ll": 13.363265314975106,
+        "pr6047_c.ll": 13.363265314975106,
+        "pr6047_d.ll": 13.363265314975106
+    },
+    "subdirscores": {}
+}

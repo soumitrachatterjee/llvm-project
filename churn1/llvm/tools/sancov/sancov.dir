@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/llvm/tools/sancov",
+    "score.sum": 0.00017243619848571488,
+    "sha.latest": "3c6f47d6b879ddd2842925d2e5da54657d9e5631",
+    "time.latest": 1718085179.2430234,
+    "formatted_time": "2024-06-11 00:52:59.243027",
+    "filescores": {
+        "CMakeLists.txt": 20.22608133235847,
+        "Opts.td": 0.0,
+        "coverage-report-server.py": 15.3383060910367,
+        "sancov.cpp": 64.43561257660483
+    },
+    "subdirscores": {}
+}

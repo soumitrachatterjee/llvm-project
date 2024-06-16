@@ -1,0 +1,18 @@
+{
+    "directory name": "llvm-project/lldb/test/API/commands/target/basic",
+    "score.sum": 6.662306317506292e-05,
+    "sha.latest": "5f64b940761002efcff04c40d6e882167d05197c",
+    "time.latest": 1717898056.9966981,
+    "formatted_time": "2024-06-09 07:24:16.996702",
+    "filescores": {
+        "a.c": 10.010816520395043,
+        "b.c": 9.155391208632217,
+        "bogus.yaml": 0.0,
+        "c.c": 9.155391208632217,
+        "globals.c": 9.155391208632217,
+        "invalid_core_file": 0.0,
+        "Makefile": 0.0,
+        "TestTargetCommand.py": 62.52300985370831
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/mlir/include/mlir/Dialect/SPIRV/Utils",
+    "score.sum": 6.099602068851199e-06,
+    "sha.latest": "31c35285d27ed507ae758aefdca0d9cd05c7f21d",
+    "time.latest": 1717796964.8026254,
+    "formatted_time": "2024-06-07 16:49:24.802629",
+    "filescores": {
+        "LayoutUtils.h": 100.0
+    },
+    "subdirscores": {}
+}

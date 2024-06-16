@@ -1,0 +1,41 @@
+{
+    "directory name": "llvm-project/lldb/source/Plugins",
+    "score.sum": 0.03762484652019883,
+    "sha.latest": "624ea68cbc3ce422b3ee110c0c0af839eec2e278",
+    "time.latest": 1717882847.2222512,
+    "formatted_time": "2024-06-09 03:10:47.222253",
+    "filescores": {
+        "CMakeLists.txt": 0.20066758006340282,
+        "Plugins.def.in": 0.04168278052966864
+    },
+    "subdirscores": {
+        "ABI": 2.624387387072184,
+        "Architecture": 0.25554357435009895,
+        "Disassembler": 1.490916362881463,
+        "DynamicLoader": 4.432772855195549,
+        "ExpressionParser": 5.513547661134094,
+        "Instruction": 2.536957996706242,
+        "InstrumentationRuntime": 0.7500560600633883,
+        "JITLoader": 0.49337227969624836,
+        "Language": 4.0029214862971925,
+        "LanguageRuntime": 6.139232777101371,
+        "MemoryHistory": 0.29943554158075547,
+        "ObjectContainer": 0.8901281207389131,
+        "ObjectFile": 7.720384656211985,
+        "OperatingSystem": 0.7511610368155556,
+        "Platform": 7.314439650188776,
+        "Process": 27.358543778105805,
+        "RegisterTypeBuilder": 0.021324257053101984,
+        "REPL": 0.03806958083363665,
+        "ScriptInterpreter": 3.381116354526168,
+        "StructuredData": 0.565459871461486,
+        "SymbolFile": 17.36823410867679,
+        "SymbolLocator": 0.052397887420394355,
+        "SymbolVendor": 1.0949365727759603,
+        "SystemRuntime": 0.7884519936908637,
+        "Trace": 0.8122393408358521,
+        "TraceExporter": 0.20241469757956865,
+        "TypeSystem": 1.6446031236126635,
+        "UnwindAssembly": 1.2146006268008125
+    }
+}

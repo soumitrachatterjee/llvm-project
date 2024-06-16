@@ -1,0 +1,23 @@
+{
+    "directory name": "llvm-project/lld/test/MachO/Inputs",
+    "score.sum": 0.0001536374572284393,
+    "sha.latest": "e60b30d5e3878e7d91f8872ec4c4dca00d4a2dfc",
+    "time.latest": 1717898122.4414282,
+    "formatted_time": "2024-06-09 07:25:22.441432",
+    "filescores": {
+        "code-signature-check.py": 3.970126933161793,
+        "DependencyDump.py": 4.002887914003119,
+        "double-unwind-info.yaml": 0.0,
+        "eh-frame-arm64-r.o": 4.3026575708325145,
+        "eh-frame-x86_64-r.o": 11.537071325346952,
+        "libgoodbye.s": 4.636582539703891,
+        "libhello.s": 5.311020544787117,
+        "libStubLink.tbd": 11.907510414423198,
+        "lto-obj-weak-def.yaml": 0.0
+    },
+    "subdirscores": {
+        "iPhoneSimulator.sdk": 19.512537145576538,
+        "MacOSX.sdk": 30.26860071822879,
+        "WatchOS.sdk": 4.551004893936074
+    }
+}

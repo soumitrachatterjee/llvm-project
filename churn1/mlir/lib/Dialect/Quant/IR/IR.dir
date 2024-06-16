@@ -1,0 +1,17 @@
+{
+    "directory name": "llvm-project/mlir/lib/Dialect/Quant/IR",
+    "score.sum": 0.00012744991234428673,
+    "sha.latest": "f007bcbc3c8f3bcecdf0b4c0106b384aa09f794b",
+    "time.latest": 1717808147.6864312,
+    "formatted_time": "2024-06-07 19:55:47.686435",
+    "filescores": {
+        "CMakeLists.txt": 9.396758770203194,
+        "QuantDialectBytecode.cpp": 6.041672919896154,
+        "QuantDialectBytecode.h": 0.0,
+        "QuantOps.cpp": 26.17528153745152,
+        "QuantTypes.cpp": 14.90140697298195,
+        "TypeDetail.h": 9.28176823952778,
+        "TypeParser.cpp": 34.203111559939394
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,22 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/utilities/variant",
+    "score.sum": 0.0005559742550858938,
+    "sha.latest": "3412bc765887d2b2244e4338adc2f49420cce9c8",
+    "time.latest": 1718009669.9518986,
+    "formatted_time": "2024-06-10 14:24:29.951900",
+    "filescores": {},
+    "subdirscores": {
+        "variant.bad_variant_access": 7.949787397085578,
+        "variant.general": 2.081374518236901,
+        "variant.get": 11.067325465359817,
+        "variant.hash": 5.748961290977165,
+        "variant.helpers": 5.384835416753252,
+        "variant.monostate": 3.4473205310042965,
+        "variant.monostate.relops": 3.5439131252179394,
+        "variant.relops": 11.541055190693735,
+        "variant.synopsis": 3.4473205310042965,
+        "variant.variant": 31.697691430835135,
+        "variant.visit": 14.090415102831894,
+        "variant.visit.member": 0.0
+    }
+}

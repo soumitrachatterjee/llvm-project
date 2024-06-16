@@ -1,0 +1,40 @@
+{
+    "directory name": "llvm-project/llvm/unittests/CodeGen",
+    "score.sum": 0.0019667634662405304,
+    "sha.latest": "96049fcf4e5f2eb0271bdfa89e113eef9c5fa9f6",
+    "time.latest": 1718079674.8230476,
+    "formatted_time": "2024-06-10 23:21:14.823051",
+    "filescores": {
+        "AArch64SelectionDAGTest.cpp": 4.421736622666633,
+        "AMDGPUMetadataTest.cpp": 0.487167965531789,
+        "AllocationOrderTest.cpp": 0.31013399290513527,
+        "AsmPrinterDwarfTest.cpp": 1.0084312266426556,
+        "CCStateTest.cpp": 0.0,
+        "CMakeLists.txt": 8.885803394193454,
+        "DIEHashTest.cpp": 2.7301091163563713,
+        "DIETest.cpp": 0.6237157628446958,
+        "DwarfStringPoolEntryRefTest.cpp": 1.6193626414705948,
+        "InstrRefLDVTest.cpp": 3.1151548930813195,
+        "LexicalScopesTest.cpp": 1.2175540783278154,
+        "LowLevelTypeTest.cpp": 5.495085041929375,
+        "MFCommon.inc": 1.3601049569198886,
+        "MLRegAllocDevelopmentFeatures.cpp": 0.0,
+        "MachineBasicBlockTest.cpp": 0.31013399290513527,
+        "MachineInstrBundleIteratorTest.cpp": 1.1289837520619461,
+        "MachineInstrTest.cpp": 6.6667660743728065,
+        "MachineOperandTest.cpp": 2.479501358492249,
+        "PassManagerTest.cpp": 1.9131615172189393,
+        "RegAllocScoreTest.cpp": 1.1690537359573643,
+        "ScalableVectorMVTsTest.cpp": 3.686127215484008,
+        "SchedBoundary.cpp": 0.31026918716688834,
+        "SelectionDAGAddressAnalysisTest.cpp": 1.7654312136510593,
+        "SelectionDAGPatternMatchTest.cpp": 0.0,
+        "TargetOptionsTest.cpp": 0.9474514456429596,
+        "TestAsmPrinter.cpp": 1.208074226443195,
+        "TestAsmPrinter.h": 1.614484525696435,
+        "TypeTraitsTest.cpp": 1.392481932538619
+    },
+    "subdirscores": {
+        "GlobalISel": 44.13372012949865
+    }
+}

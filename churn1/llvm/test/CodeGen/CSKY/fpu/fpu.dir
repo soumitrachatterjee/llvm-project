@@ -1,0 +1,24 @@
+{
+    "directory name": "llvm-project/llvm/test/CodeGen/CSKY/fpu",
+    "score.sum": 6.570419456142792e-05,
+    "sha.latest": "423ac3d9ee82ff48da91b35ec80497089bc55b9e",
+    "time.latest": 1718045250.6188734,
+    "formatted_time": "2024-06-10 13:47:30.618876",
+    "filescores": {
+        "base-d.ll": 9.283428721051564,
+        "base-f.ll": 9.283428721051564,
+        "br-d.ll": 17.76378787929336,
+        "br-f.ll": 17.76378787929336,
+        "cmp-d.ll": 0.0,
+        "cmp-f.ll": 0.0,
+        "cvt-d.ll": 0.0,
+        "cvt-f.ll": 0.0,
+        "float-abi.ll": 0.0,
+        "fp16-promote.ll": 0.0,
+        "ldst-d.ll": 9.283428721051564,
+        "ldst-f.ll": 9.283428721051564,
+        "lit.local.cfg": 9.283428721051564,
+        "select.ll": 18.055280636155466
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/clang/include/clang/InstallAPI",
+    "score.sum": 4.720267224571782e-05,
+    "sha.latest": "50ae8a2a38b618d76193bed04b1d7df6890d5c8a",
+    "time.latest": 1717800095.5495076,
+    "formatted_time": "2024-06-08 04:11:35.549510",
+    "filescores": {
+        "Context.h": 35.98359359262955,
+        "FileList.h": 0.0,
+        "Frontend.h": 24.565614055654432,
+        "HeaderFile.h": 14.88517829606158,
+        "Visitor.h": 24.565614055654432
+    },
+    "subdirscores": {}
+}

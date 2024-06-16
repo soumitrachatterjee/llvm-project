@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/lang/cpp/union-static-data-members",
+    "score.sum": 9.234794770990345e-06,
+    "sha.latest": "096c530ab3ea5c96526451181117f30db17b4b1d",
+    "time.latest": 1717954964.2404182,
+    "formatted_time": "2024-06-09 23:12:44.240423",
+    "filescores": {
+        "main.cpp": 0.0,
+        "Makefile": 0.0,
+        "TestCppUnionStaticMembers.py": 100.0
+    },
+    "subdirscores": {}
+}

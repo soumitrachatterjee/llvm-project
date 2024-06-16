@@ -1,0 +1,27 @@
+{
+    "directory name": "llvm-project/lld/ELF/Arch",
+    "score.sum": 0.0020587047168471742,
+    "sha.latest": "f6455606bbbb02bbc155a713ae07eab1c7419041",
+    "time.latest": 1717839816.0853043,
+    "formatted_time": "2024-06-08 15:13:36.085307",
+    "filescores": {
+        "AArch64.cpp": 10.843703884987193,
+        "AMDGPU.cpp": 3.8829304648054097,
+        "ARM.cpp": 10.587306139506596,
+        "AVR.cpp": 3.9419019644851137,
+        "Hexagon.cpp": 4.386655816554509,
+        "LoongArch.cpp": 2.428644064678205,
+        "Mips.cpp": 5.324748063452503,
+        "MipsArchTree.cpp": 2.7058958107483497,
+        "MSP430.cpp": 0.6818468001211888,
+        "PPC.cpp": 6.445296428137256,
+        "PPC64.cpp": 17.09381250943498,
+        "PPCInsns.def": 0.0,
+        "RISCV.cpp": 11.647700398925245,
+        "SPARCV9.cpp": 2.86212514079925,
+        "SystemZ.cpp": 0.0,
+        "X86.cpp": 7.005987799987193,
+        "X86_64.cpp": 10.161444713377016
+    },
+    "subdirscores": {}
+}

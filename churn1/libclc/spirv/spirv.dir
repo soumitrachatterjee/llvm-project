@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/libclc/spirv",
+    "score.sum": 1.5999828717767228e-05,
+    "sha.latest": "291bfff5dbb70360730e91b4019f8080e4e3d7f5",
+    "time.latest": 1717831881.6029568,
+    "formatted_time": "2024-06-08 02:31:21.602957",
+    "filescores": {},
+    "subdirscores": {
+        "lib": 100.0
+    }
+}

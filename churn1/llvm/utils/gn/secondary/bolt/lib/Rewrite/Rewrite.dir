@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/llvm/utils/gn/secondary/bolt/lib/Rewrite",
+    "score.sum": 2.634194906548378e-05,
+    "sha.latest": "7f9e3bf062a4aa36ed5350282cc1c307641145f0",
+    "time.latest": 1718080744.1164148,
+    "formatted_time": "2024-06-10 23:39:04.116419",
+    "filescores": {
+        "BUILD.gn": 100.0
+    },
+    "subdirscores": {}
+}

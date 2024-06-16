@@ -1,0 +1,30 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/ranges/range.adaptors",
+    "score.sum": 0.0005000916743455441,
+    "sha.latest": "ba2236d3000645d3127f972aa7ac1844c47e299c",
+    "time.latest": 1717963969.7779493,
+    "formatted_time": "2024-06-10 01:42:49.777952",
+    "filescores": {
+        "robust_against_nonbool.compile.pass.cpp": 0.0
+    },
+    "subdirscores": {
+        "range.all": 5.601278933641759,
+        "range.as.rvalue": 3.2460856387335113,
+        "range.chunk.by": 2.7818840479388713,
+        "range.common.view": 3.5256131930436507,
+        "range.counted": 3.3543169547486276,
+        "range.drop": 11.523948761822197,
+        "range.drop.while": 1.5950084265181605,
+        "range.elements": 4.618542620572401,
+        "range.empty": 3.841785150888273,
+        "range.filter": 9.616574685758062,
+        "range.join": 2.0277485790571834,
+        "range.lazy.split": 9.789161534930313,
+        "range.reverse": 5.1511106544357235,
+        "range.split": 3.3830685564933933,
+        "range.take": 11.438814310093674,
+        "range.take.while": 3.0804000725965683,
+        "range.transform": 9.765867290226637,
+        "range.zip": 5.658790588500998
+    }
+}

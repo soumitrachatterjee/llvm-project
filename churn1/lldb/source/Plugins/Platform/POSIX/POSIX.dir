@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/source/Plugins/Platform/POSIX",
+    "score.sum": 0.0005270480162196231,
+    "sha.latest": "3125bd4bc7367a05ddf5477793a1ee51cecc3046",
+    "time.latest": 1717873747.8193426,
+    "formatted_time": "2024-06-09 00:39:07.819346",
+    "filescores": {
+        "CMakeLists.txt": 9.39513873221786,
+        "PlatformPOSIX.cpp": 70.97659542933138,
+        "PlatformPOSIX.h": 19.628265838450762
+    },
+    "subdirscores": {}
+}

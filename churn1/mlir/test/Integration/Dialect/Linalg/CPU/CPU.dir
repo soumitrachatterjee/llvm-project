@@ -1,0 +1,32 @@
+{
+    "directory name": "llvm-project/mlir/test/Integration/Dialect/Linalg/CPU",
+    "score.sum": 0.0014199429736161699,
+    "sha.latest": "afa6b5e5763059c65f21ca2e612df3d02e71ad00",
+    "time.latest": 1717825846.639858,
+    "formatted_time": "2024-06-08 00:50:46.639862",
+    "filescores": {
+        "matmul-vs-matvec.mlir": 4.107214941722941,
+        "mmt4d.mlir": 0.0,
+        "rank-reducing-subview.mlir": 3.8620484380110858,
+        "test-collapse-tensor.mlir": 5.958729847970826,
+        "test-conv-1d-call.mlir": 5.6955237883266125,
+        "test-conv-1d-nwc-wcf-call.mlir": 4.702417161074108,
+        "test-conv-2d-call.mlir": 5.6955237883266125,
+        "test-conv-2d-nhwc-hwcf-call.mlir": 4.702417161074108,
+        "test-conv-3d-call.mlir": 5.6955237883266125,
+        "test-conv-3d-ndhwc-dhwcf-call.mlir": 4.702417161074108,
+        "test-elementwise.mlir": 5.376443532593911,
+        "test-expand-tensor.mlir": 5.958729847970826,
+        "test-matmul-masked-vec.mlir": 0.6856029719618772,
+        "test-one-shot-bufferize.mlir": 3.5879220392436175,
+        "test-padtensor.mlir": 6.084972926644385,
+        "test-subtensor-insert-multiple-uses.mlir": 6.153619250174504,
+        "test-subtensor-insert.mlir": 5.996181536976443,
+        "test-tensor-e2e.mlir": 6.1789826670690875,
+        "test-tensor-matmul.mlir": 8.073112676511796
+    },
+    "subdirscores": {
+        "ArmSME": 4.515177713370118,
+        "ArmSVE": 2.267438761576415
+    }
+}

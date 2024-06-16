@@ -1,0 +1,24 @@
+{
+    "directory name": "llvm-project/libc/src/termios",
+    "score.sum": 0.00013154289142153783,
+    "sha.latest": "b6bc9d72f65a5086f310f321e969d96e9a559e75",
+    "time.latest": 1717842319.977309,
+    "formatted_time": "2024-06-08 05:25:19.977313",
+    "filescores": {
+        "CMakeLists.txt": 0.0,
+        "cfgetispeed.h": 9.20596592792591,
+        "cfgetospeed.h": 9.20596592792591,
+        "cfsetispeed.h": 9.20596592792591,
+        "cfsetospeed.h": 9.20596592792591,
+        "tcdrain.h": 9.20596592792591,
+        "tcflow.h": 9.20596592792591,
+        "tcflush.h": 9.20596592792591,
+        "tcgetattr.h": 4.6369682184532675,
+        "tcgetsid.h": 4.6369682184532675,
+        "tcsendbreak.h": 9.20596592792591,
+        "tcsetattr.h": 4.6369682184532675
+    },
+    "subdirscores": {
+        "linux": 12.441367921232919
+    }
+}

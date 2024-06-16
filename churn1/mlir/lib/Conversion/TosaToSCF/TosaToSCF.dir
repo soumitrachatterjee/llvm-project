@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/mlir/lib/Conversion/TosaToSCF",
+    "score.sum": 6.614180264970828e-05,
+    "sha.latest": "6b4b63a832f105039442fc983d0b309abe5261d5",
+    "time.latest": 1717804111.8263881,
+    "formatted_time": "2024-06-07 18:48:31.826392",
+    "filescores": {
+        "CMakeLists.txt": 23.639496094467162,
+        "TosaToSCF.cpp": 38.041983975241685,
+        "TosaToSCFPass.cpp": 38.31851993029115
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/commands/dwim-print",
+    "score.sum": 5.0918394910167856e-05,
+    "sha.latest": "ab855530f797bbc113f75f833a4ca5711749d7c8",
+    "time.latest": 1717889033.5401475,
+    "formatted_time": "2024-06-09 04:53:53.540150",
+    "filescores": {
+        "main.c": 11.97917192718338,
+        "Makefile": 0.0,
+        "TestDWIMPrint.py": 88.02082807281661
+    },
+    "subdirscores": {}
+}

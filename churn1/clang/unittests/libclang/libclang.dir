@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/clang/unittests/libclang",
+    "score.sum": 0.00022647253869417086,
+    "sha.latest": "f3dcc2351cff7b26c9870d737e5d431551542d9e",
+    "time.latest": 1718082589.811727,
+    "formatted_time": "2024-06-11 10:39:49.811730",
+    "filescores": {
+        "CMakeLists.txt": 4.539428611004865,
+        "LibclangTest.cpp": 67.7019831154315,
+        "TestUtils.h": 9.966675865030352
+    },
+    "subdirscores": {
+        "CrashTests": 17.791912408533285
+    }
+}

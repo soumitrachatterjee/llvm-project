@@ -1,0 +1,29 @@
+{
+    "directory name": "llvm-project/lldb/include/lldb/Expression",
+    "score.sum": 0.0010963623816174944,
+    "sha.latest": "901bc5129d1a1e8ad47801343d48dcd9e01ad386",
+    "time.latest": 1717846952.2925794,
+    "formatted_time": "2024-06-08 17:12:32.292584",
+    "filescores": {
+        "DiagnosticManager.h": 3.2276175897342503,
+        "DWARFExpression.h": 17.474233197180787,
+        "DWARFExpressionList.h": 0.7435278320549549,
+        "DynamicCheckerFunctions.h": 0.6476205463534016,
+        "Expression.h": 4.4960558656073815,
+        "ExpressionParser.h": 4.299689015825589,
+        "ExpressionSourceCode.h": 5.20703894049535,
+        "ExpressionTypeSystemHelper.h": 2.3099782104525883,
+        "ExpressionVariable.h": 8.864160470809402,
+        "FunctionCaller.h": 4.35424025902534,
+        "IRExecutionUnit.h": 9.416649361834459,
+        "IRInterpreter.h": 4.630182116702271,
+        "IRMemoryMap.h": 6.322621218769646,
+        "LLVMUserExpression.h": 4.192064918118263,
+        "Materializer.h": 5.279277304701687,
+        "ObjectFileJIT.h": 0.0,
+        "REPL.h": 5.804471075370387,
+        "UserExpression.h": 7.68565078306717,
+        "UtilityFunction.h": 5.044921293897072
+    },
+    "subdirscores": {}
+}

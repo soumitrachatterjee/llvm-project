@@ -1,0 +1,19 @@
+{
+    "directory name": "llvm-project/cross-project-tests/debuginfo-tests/dexter/feature_tests/commands/perfect/limit_steps",
+    "score.sum": 0.000355640734970981,
+    "sha.latest": "e6cc7b723f244f52663b6d67a5d94597109da1ef",
+    "time.latest": 1717791694.5864468,
+    "formatted_time": "2024-06-08 01:51:34.586454",
+    "filescores": {
+        "hit_count.cpp": 12.285612225025737,
+        "limit_steps_check_json_step_count.cpp": 12.285612225025737,
+        "limit_steps_expect_loop.cpp": 12.285612225025737,
+        "limit_steps_expect_value.cpp": 12.285612225025737,
+        "limit_steps_line_mismatch.cpp": 12.285612225025737,
+        "limit_steps_overlapping_ranges.cpp": 12.285612225025737,
+        "limit_steps_same_line_conditional.cpp": 12.285612225025737,
+        "lit.local.cfg": 1.7151021997940996,
+        "unconditional.cpp": 12.285612225025737
+    },
+    "subdirscores": {}
+}

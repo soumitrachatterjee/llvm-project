@@ -1,0 +1,23 @@
+{
+    "directory name": "llvm-project/mlir/utils/tree-sitter-mlir/dialect",
+    "score.sum": 6.099602068851199e-06,
+    "sha.latest": "8a6e54c9b3080f1b8e1a925bf1a39730223b99f9",
+    "time.latest": 1717837215.7597702,
+    "formatted_time": "2024-06-08 04:00:15.759773",
+    "filescores": {
+        "affine.js": 0.0,
+        "arith.js": 100.0,
+        "bufferization.js": 0.0,
+        "builtin.js": 0.0,
+        "cf.js": 0.0,
+        "func.js": 0.0,
+        "linalg.js": 0.0,
+        "llvm.js": 0.0,
+        "math.js": 0.0,
+        "memref.js": 0.0,
+        "scf.js": 0.0,
+        "tensor.js": 0.0,
+        "vector.js": 0.0
+    },
+    "subdirscores": {}
+}

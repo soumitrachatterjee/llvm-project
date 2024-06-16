@@ -1,0 +1,17 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/input.output/filesystems/class.directory_entry/directory_entry.cons",
+    "score.sum": 0.00014037225768992267,
+    "sha.latest": "ac8c9f1e39e1a773fd81ce23dbf1c80ea186f226",
+    "time.latest": 1717902373.2961938,
+    "formatted_time": "2024-06-09 08:36:13.296195",
+    "filescores": {
+        "copy.pass.cpp": 11.87910518935446,
+        "copy_assign.pass.cpp": 11.87910518935446,
+        "default.pass.cpp": 9.281989903378358,
+        "default_const.pass.cpp": 10.671339920594653,
+        "move.pass.cpp": 11.87910518935446,
+        "move_assign.pass.cpp": 11.87910518935446,
+        "path.pass.cpp": 32.530249418609145
+    },
+    "subdirscores": {}
+}

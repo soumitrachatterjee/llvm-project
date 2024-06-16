@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/lang/objc/objc-property",
+    "score.sum": 3.4368223370689424e-05,
+    "sha.latest": "80fcecb13c388ff087a27a4b0e7ca3dd8c98eaa4",
+    "time.latest": 1717959144.9567175,
+    "formatted_time": "2024-06-10 00:22:24.956720",
+    "filescores": {
+        "main.m": 17.74779569796785,
+        "Makefile": 0.0,
+        "TestObjCProperty.py": 82.25220430203215
+    },
+    "subdirscores": {}
+}

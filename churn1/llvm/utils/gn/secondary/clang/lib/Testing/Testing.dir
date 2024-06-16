@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/llvm/utils/gn/secondary/clang/lib/Testing",
+    "score.sum": 1.148552981522648e-05,
+    "sha.latest": "ce2474ff60c9ca0a9a5747e6e401abb284d8378f",
+    "time.latest": 1718084210.9009328,
+    "formatted_time": "2024-06-11 00:36:50.900936",
+    "filescores": {
+        "BUILD.gn": 100.0
+    },
+    "subdirscores": {}
+}

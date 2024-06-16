@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/llvm/utils/gn/secondary/bolt/tools",
+    "score.sum": 6.099602068851199e-06,
+    "sha.latest": "9ddbcb0182c0b84c24c8086ca3bd72abd19c9d94",
+    "time.latest": 1718080961.2132587,
+    "formatted_time": "2024-06-10 23:42:41.213260",
+    "filescores": {},
+    "subdirscores": {
+        "bat-dump": 0.0,
+        "driver": 0.0,
+        "heatmap": 0.0,
+        "merge-fdata": 100.0
+    }
+}

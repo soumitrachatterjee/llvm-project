@@ -1,0 +1,19 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/re/re.regex",
+    "score.sum": 0.000209845932171586,
+    "sha.latest": "b82dcb624e6bfa58ed566511cb564f8f201fa62e",
+    "time.latest": 1717967245.0789623,
+    "formatted_time": "2024-06-10 02:37:25.078966",
+    "filescores": {
+        "types.pass.cpp": 7.87431208956078
+    },
+    "subdirscores": {
+        "re.regex.assign": 14.037728145908906,
+        "re.regex.const": 8.595253516997921,
+        "re.regex.construct": 41.31517524924579,
+        "re.regex.locale": 7.499838059019784,
+        "re.regex.nonmemb": 8.162512608794525,
+        "re.regex.operations": 5.78179593724019,
+        "re.regex.swap": 6.7333843932320905
+    }
+}

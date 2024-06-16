@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/compiler-rt/lib/cfi",
+    "score.sum": 5.964532023606568e-05,
+    "sha.latest": "adb555ea369a3a989a9db619c784aa76cccdb823",
+    "time.latest": 1717797938.7960408,
+    "formatted_time": "2024-06-08 03:35:38.796045",
+    "filescores": {
+        "cfi.cpp": 43.450020947965065,
+        "cfi_ignorelist.txt": 0.0,
+        "CMakeLists.txt": 56.54997905203495
+    },
+    "subdirscores": {}
+}

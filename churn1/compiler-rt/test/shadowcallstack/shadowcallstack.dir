@@ -1,0 +1,17 @@
+{
+    "directory name": "llvm-project/compiler-rt/test/shadowcallstack",
+    "score.sum": 4.329804627893508e-05,
+    "sha.latest": "f98ee40f4b5d7474fc67e82824bf6abbaedb7b1c",
+    "time.latest": 1717844758.8849695,
+    "formatted_time": "2024-06-08 16:35:58.884974",
+    "filescores": {
+        "CMakeLists.txt": 14.247458368013838,
+        "init.c": 14.924025901455785,
+        "libc_support.h": 14.087476440752742,
+        "lit.cfg.py": 28.139719473552375,
+        "lit.site.cfg.py.in": 0.0,
+        "minimal_runtime.h": 14.300659908112637,
+        "overflow.c": 14.300659908112637
+    },
+    "subdirscores": {}
+}

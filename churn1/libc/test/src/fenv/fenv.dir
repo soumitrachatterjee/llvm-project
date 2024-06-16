@@ -1,0 +1,20 @@
+{
+    "directory name": "llvm-project/libc/test/src/fenv",
+    "score.sum": 0.00031554229036571377,
+    "sha.latest": "69c0b2febe01108f50db6e8ed21cd8b2e6088caf",
+    "time.latest": 1717845617.5629263,
+    "formatted_time": "2024-06-08 06:20:17.562930",
+    "filescores": {
+        "CMakeLists.txt": 13.693931017119118,
+        "enabled_exceptions_test.cpp": 21.08758714108936,
+        "exception_flags_test.cpp": 5.954793163172698,
+        "exception_status_test.cpp": 6.904552860559096,
+        "feclearexcept_test.cpp": 5.005452816748572,
+        "feenableexcept_test.cpp": 12.412540853619165,
+        "feholdexcept_test.cpp": 18.216170852050286,
+        "feupdateenv_test.cpp": 5.417728737221862,
+        "getenv_and_setenv_test.cpp": 6.679807323345069,
+        "rounding_mode_test.cpp": 4.627435235074769
+    },
+    "subdirscores": {}
+}

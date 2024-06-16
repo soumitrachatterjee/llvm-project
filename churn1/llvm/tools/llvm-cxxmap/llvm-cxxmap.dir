@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/llvm/tools/llvm-cxxmap",
+    "score.sum": 2.5027967801796476e-05,
+    "sha.latest": "6c8fe96582362ebff9f466dcf8a8d76b06641de2",
+    "time.latest": 1718079029.9217002,
+    "formatted_time": "2024-06-10 23:10:29.921703",
+    "filescores": {
+        "CMakeLists.txt": 24.37114398242664,
+        "llvm-cxxmap.cpp": 75.62885601757337
+    },
+    "subdirscores": {}
+}

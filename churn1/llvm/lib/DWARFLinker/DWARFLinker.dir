@@ -1,0 +1,16 @@
+{
+    "directory name": "llvm-project/llvm/lib/DWARFLinker",
+    "score.sum": 8.237929020582116e-05,
+    "sha.latest": "716042a63f26cd020eb72960f72fa97b9a197382",
+    "time.latest": 1717833175.8890445,
+    "formatted_time": "2024-06-08 02:52:55.889049",
+    "filescores": {
+        "CMakeLists.txt": 44.01299425880614,
+        "DWARFLinkerBase.cpp": 0.0,
+        "Utils.cpp": 7.404290633740109
+    },
+    "subdirscores": {
+        "Classic": 22.229289899523536,
+        "Parallel": 26.35342520793022
+    }
+}

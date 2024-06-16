@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/libc/test/integration/scudo",
+    "score.sum": 1.6079893679284983e-05,
+    "sha.latest": "69c0b2febe01108f50db6e8ed21cd8b2e6088caf",
+    "time.latest": 1717844197.8972914,
+    "formatted_time": "2024-06-08 05:56:37.897296",
+    "filescores": {
+        "CMakeLists.txt": 100.0,
+        "gwp_asan_should_crash.cpp": 0.0,
+        "integration_test.cpp": 0.0
+    },
+    "subdirscores": {}
+}

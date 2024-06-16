@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/algorithms/alg.nonmodifying/alg.adjacent.find",
+    "score.sum": 4.36705615308374e-05,
+    "sha.latest": "02540b2f6dc6c2d42a3365bef78833d7fab98491",
+    "time.latest": 1717869380.3563647,
+    "formatted_time": "2024-06-08 23:26:20.356367",
+    "filescores": {
+        "adjacent_find.pass.cpp": 38.18316374201912,
+        "adjacent_find_pred.pass.cpp": 38.18316374201912,
+        "ranges.adjacent_find.pass.cpp": 23.633672515961752
+    },
+    "subdirscores": {}
+}

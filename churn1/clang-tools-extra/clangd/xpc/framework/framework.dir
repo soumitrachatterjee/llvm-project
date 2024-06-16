@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/clang-tools-extra/clangd/xpc/framework",
+    "score.sum": 1.8185102711392725e-05,
+    "sha.latest": "fee435702d9ad636d5acb0738ee68baa68a9e0e0",
+    "time.latest": 1717806701.8912554,
+    "formatted_time": "2024-06-08 06:01:41.891259",
+    "filescores": {
+        "ClangdXPC.cpp": 66.45824790953819,
+        "CMakeLists.txt": 33.54175209046183
+    },
+    "subdirscores": {}
+}

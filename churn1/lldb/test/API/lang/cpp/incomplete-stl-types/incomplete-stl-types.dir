@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/lldb/test/API/lang/cpp/incomplete-stl-types",
+    "score.sum": 6.099602068851199e-06,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717932487.475487,
+    "formatted_time": "2024-06-09 16:58:07.475490",
+    "filescores": {
+        "f.cpp": 0.0,
+        "main.cpp": 0.0,
+        "Makefile": 0.0,
+        "TestStlIncompleteTypes.py": 100.0
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,18 @@
+{
+    "directory name": "llvm-project/clang-tools-extra/clang-query",
+    "score.sum": 0.0005144806298865762,
+    "sha.latest": "12bba0d4f8c2df655958decb8eb788327543b3fe",
+    "time.latest": 1717789968.7496035,
+    "formatted_time": "2024-06-08 01:22:48.749609",
+    "filescores": {
+        "CMakeLists.txt": 5.182079610172882,
+        "Query.cpp": 22.609792600092497,
+        "Query.h": 12.938017843711572,
+        "QueryParser.cpp": 20.6977774061196,
+        "QueryParser.h": 7.843196640057329,
+        "QuerySession.h": 8.079397965460421
+    },
+    "subdirscores": {
+        "tool": 22.649737934385712
+    }
+}

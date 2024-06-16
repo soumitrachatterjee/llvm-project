@@ -1,0 +1,16 @@
+{
+    "directory name": "llvm-project/lldb/test/Shell/Watchpoint",
+    "score.sum": 8.279240849689567e-05,
+    "sha.latest": "46643e07d4c1caae3b8fa77be3a4073300785d91",
+    "time.latest": 1717984502.0642717,
+    "formatted_time": "2024-06-10 07:25:02.064275",
+    "filescores": {
+        "ExpressionLanguage.test": 7.367344638947067,
+        "LocalVariableWatchpointDisabler.test": 22.43223218908607,
+        "netbsd-nouserdbregs.test": 0.0,
+        "SetErrorCases.test": 22.181121146840642
+    },
+    "subdirscores": {
+        "Inputs": 48.019302025126215
+    }
+}

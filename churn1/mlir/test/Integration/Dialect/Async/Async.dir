@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/mlir/test/Integration/Dialect/Async",
+    "score.sum": 7.301330960917355e-05,
+    "sha.latest": "f9008e6366c2496b1ca1785b891d5578174ad63e",
+    "time.latest": 1717825445.9108472,
+    "formatted_time": "2024-06-08 00:44:05.910848",
+    "filescores": {},
+    "subdirscores": {
+        "CPU": 100.0
+    }
+}

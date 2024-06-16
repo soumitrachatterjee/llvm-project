@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/llvm/utils/gn/secondary/clang/unittests/Basic",
+    "score.sum": 6.013636053644737e-05,
+    "sha.latest": "ce2474ff60c9ca0a9a5747e6e401abb284d8378f",
+    "time.latest": 1718085224.259614,
+    "formatted_time": "2024-06-11 00:53:44.259618",
+    "filescores": {
+        "BUILD.gn": 100.0
+    },
+    "subdirscores": {}
+}

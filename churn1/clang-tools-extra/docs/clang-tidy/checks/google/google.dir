@@ -1,0 +1,29 @@
+{
+    "directory name": "llvm-project/clang-tools-extra/docs/clang-tidy/checks/google",
+    "score.sum": 5.349419914190558e-05,
+    "sha.latest": "cc38cd856d9a9df77d5d727377e38a891807774b",
+    "time.latest": 1717810271.4139671,
+    "formatted_time": "2024-06-08 07:01:11.413970",
+    "filescores": {
+        "build-explicit-make-pair.rst": 0.0,
+        "build-namespaces.rst": 24.621565028270933,
+        "build-using-namespace.rst": 0.0,
+        "default-arguments.rst": 0.0,
+        "explicit-constructor.rst": 0.0,
+        "global-names-in-headers.rst": 24.621565028270933,
+        "objc-avoid-nsobject-new.rst": 0.0,
+        "objc-avoid-throwing-exception.rst": 0.0,
+        "objc-function-naming.rst": 0.0,
+        "objc-global-variable-declaration.rst": 0.0,
+        "readability-avoid-underscore-in-googletest-name.rst": 16.54978487613741,
+        "readability-braces-around-statements.rst": 11.40236168910691,
+        "readability-casting.rst": 0.0,
+        "readability-function-size.rst": 11.40236168910691,
+        "readability-namespace-comments.rst": 11.40236168910691,
+        "readability-todo.rst": 0.0,
+        "runtime-int.rst": 0.0,
+        "runtime-operator.rst": 0.0,
+        "upgrade-googletest-case.rst": 0.0
+    },
+    "subdirscores": {}
+}

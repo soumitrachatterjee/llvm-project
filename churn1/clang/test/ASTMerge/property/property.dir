@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/clang/test/ASTMerge/property",
+    "score.sum": 2.9455340590934533e-05,
+    "sha.latest": "2423b7dfd3d2b10cffd4b93e904963763bc0a1f4",
+    "time.latest": 1717866152.78737,
+    "formatted_time": "2024-06-08 22:32:32.787372",
+    "filescores": {
+        "test.m": 60.353808604523266
+    },
+    "subdirscores": {
+        "Inputs": 39.646191395476734
+    }
+}

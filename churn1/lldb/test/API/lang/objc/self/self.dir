@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/lang/objc/self",
+    "score.sum": 1.7946676501153586e-05,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717959993.5290217,
+    "formatted_time": "2024-06-10 00:36:33.529028",
+    "filescores": {
+        "main.m": 33.98736288838285,
+        "Makefile": 0.0,
+        "TestObjCSelf.py": 66.01263711161715
+    },
+    "subdirscores": {}
+}

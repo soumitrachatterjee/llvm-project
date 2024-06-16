@@ -1,0 +1,22 @@
+{
+    "directory name": "llvm-project/bolt/test/runtime/X86/Inputs",
+    "score.sum": 1.685305144740779e-05,
+    "sha.latest": "777e268b8168b326db54ecacb62733ee926bb781",
+    "time.latest": 1717791902.1693418,
+    "formatted_time": "2024-06-08 01:55:02.169348",
+    "filescores": {
+        "basic-instrumentation.s": 0.0,
+        "exception3.cpp": 36.192864466626865,
+        "exception4.cpp": 63.80713553337313,
+        "fdata-escape-chars-syms.txt": 0.0,
+        "fdata-escape-chars.txt": 0.0,
+        "indirect_goto.c": 0.0,
+        "internalcall-main.c": 0.0,
+        "internalcall.S": 0.0,
+        "pie-exceptions-failed-split.s": 0.0,
+        "retpoline_synthetic.cpp": 0.0,
+        "unclaimed-jt-entries.c": 0.0,
+        "user_func_order.txt": 0.0
+    },
+    "subdirscores": {}
+}

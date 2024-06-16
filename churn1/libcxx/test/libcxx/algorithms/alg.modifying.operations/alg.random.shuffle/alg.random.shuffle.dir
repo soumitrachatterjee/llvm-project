@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/libcxx/test/libcxx/algorithms/alg.modifying.operations/alg.random.shuffle",
+    "score.sum": 4.534857403040501e-05,
+    "sha.latest": "72f0edf3f4291d2614719a8c8af21a7a62ed5d74",
+    "time.latest": 1717844242.7551272,
+    "formatted_time": "2024-06-08 16:27:22.755131",
+    "filescores": {
+        "random_shuffle.cxx1z.pass.cpp": 79.59428222704328,
+        "random_shuffle.depr_in_cxx14.verify.cpp": 20.405717772956724
+    },
+    "subdirscores": {}
+}

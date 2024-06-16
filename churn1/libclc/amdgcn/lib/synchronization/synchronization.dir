@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/libclc/amdgcn/lib/synchronization",
+    "score.sum": 6.099602068851199e-06,
+    "sha.latest": "3d21fa56f5f5afbbf16b35b199480af71e1189a3",
+    "time.latest": 1717823537.0898173,
+    "formatted_time": "2024-06-08 00:12:17.089821",
+    "filescores": {
+        "barrier.cl": 100.0
+    },
+    "subdirscores": {}
+}

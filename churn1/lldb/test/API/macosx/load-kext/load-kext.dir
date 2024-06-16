@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/lldb/test/API/macosx/load-kext",
+    "score.sum": 1.0574533826768291e-05,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717963313.5327106,
+    "formatted_time": "2024-06-10 01:31:53.532714",
+    "filescores": {
+        "mykext.yaml": 0.0,
+        "TestLoadKext.py": 100.0
+    },
+    "subdirscores": {}
+}

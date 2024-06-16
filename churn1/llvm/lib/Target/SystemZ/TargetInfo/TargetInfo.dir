@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/llvm/lib/Target/SystemZ/TargetInfo",
+    "score.sum": 6.906492334266128e-05,
+    "sha.latest": "9104e82475655b093f2701123e093786350af78a",
+    "time.latest": 1717868230.2326605,
+    "formatted_time": "2024-06-08 12:37:10.232663",
+    "filescores": {
+        "CMakeLists.txt": 38.14284488875021,
+        "SystemZTargetInfo.cpp": 61.85715511124978,
+        "SystemZTargetInfo.h": 0.0
+    },
+    "subdirscores": {}
+}

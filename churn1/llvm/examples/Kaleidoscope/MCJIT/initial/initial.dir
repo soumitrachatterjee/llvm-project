@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/llvm/examples/Kaleidoscope/MCJIT/initial",
+    "score.sum": 2.2264212712418296e-05,
+    "sha.latest": "cb5ebfa2824b58ea28f431d529a8c0f0eb1cfb5e",
+    "time.latest": 1717804311.2852867,
+    "formatted_time": "2024-06-07 18:51:51.285290",
+    "filescores": {
+        "README.txt": 27.396441758971463,
+        "toy.cpp": 72.60355824102854
+    },
+    "subdirscores": {}
+}

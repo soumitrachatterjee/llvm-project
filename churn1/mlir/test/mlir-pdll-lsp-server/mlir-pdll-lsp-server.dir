@@ -1,0 +1,30 @@
+{
+    "directory name": "llvm-project/mlir/test/mlir-pdll-lsp-server",
+    "score.sum": 6.703068524058144e-05,
+    "sha.latest": "f9008e6366c2496b1ca1785b891d5578174ad63e",
+    "time.latest": 1717833027.2428002,
+    "formatted_time": "2024-06-08 02:50:27.242804",
+    "filescores": {
+        "compilation_database.test": 9.099716118012177,
+        "completion.test": 18.188299626714205,
+        "definition-split-file.test": 9.099716118012177,
+        "definition.test": 0.0,
+        "document-links.test": 0.0,
+        "document-symbols.test": 0.0,
+        "exit-eof.test": 0.0,
+        "exit-with-shutdown.test": 0.0,
+        "exit-without-shutdown.test": 0.0,
+        "hover.test": 13.728097690505955,
+        "initialize-params-invalid.test": 0.0,
+        "initialize-params.test": 22.585022092718958,
+        "inlay-hints.test": 0.0,
+        "lit.local.cfg": 9.099716118012177,
+        "references.test": 0.0,
+        "signature-help.test": 9.099716118012177,
+        "textdocument-didchange.test": 0.0,
+        "view-output.test": 0.0
+    },
+    "subdirscores": {
+        "include": 9.099716118012177
+    }
+}

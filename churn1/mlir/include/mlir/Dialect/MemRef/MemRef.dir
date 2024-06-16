@@ -1,0 +1,16 @@
+{
+    "directory name": "llvm-project/mlir/include/mlir/Dialect/MemRef",
+    "score.sum": 0.0007013688853772564,
+    "sha.latest": "42b160356fe5d3b41bf07c428d0142d3721b1d44",
+    "time.latest": 1717795646.1931872,
+    "formatted_time": "2024-06-07 16:27:26.193188",
+    "filescores": {
+        "CMakeLists.txt": 0.9858342083903255
+    },
+    "subdirscores": {
+        "IR": 61.395705943646604,
+        "TransformOps": 8.949928103682552,
+        "Transforms": 21.37310502374829,
+        "Utils": 7.295426720532237
+    }
+}

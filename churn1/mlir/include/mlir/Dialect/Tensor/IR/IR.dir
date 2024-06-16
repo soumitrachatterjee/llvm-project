@@ -1,0 +1,17 @@
+{
+    "directory name": "llvm-project/mlir/include/mlir/Dialect/Tensor/IR",
+    "score.sum": 0.0005279451661523455,
+    "sha.latest": "9466c4e629ecff3060b7fef3cb189179e25c4f5f",
+    "time.latest": 1717797391.9512405,
+    "formatted_time": "2024-06-07 16:56:31.951243",
+    "filescores": {
+        "CMakeLists.txt": 3.3014221791307836,
+        "Tensor.h": 15.176015441531368,
+        "TensorBase.td": 13.726828754704512,
+        "TensorInferTypeOpInterfaceImpl.h": 0.0,
+        "TensorOps.td": 64.9491568059564,
+        "TensorTilingInterfaceImpl.h": 2.846576818676919,
+        "ValueBoundsOpInterfaceImpl.h": 0.0
+    },
+    "subdirscores": {}
+}

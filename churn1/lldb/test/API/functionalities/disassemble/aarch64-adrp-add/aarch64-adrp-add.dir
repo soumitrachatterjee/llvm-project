@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/lldb/test/API/functionalities/disassemble/aarch64-adrp-add",
+    "score.sum": 9.03805252515862e-06,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717909052.7648184,
+    "formatted_time": "2024-06-09 10:27:32.764820",
+    "filescores": {
+        "a.out-arm64.yaml": 0.0,
+        "a.out-arm64_32.yaml": 0.0,
+        "main.c": 0.0,
+        "TestAArch64AdrpAdd.py": 100.0
+    },
+    "subdirscores": {}
+}

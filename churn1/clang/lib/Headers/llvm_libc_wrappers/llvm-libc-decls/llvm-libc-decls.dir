@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/clang/lib/Headers/llvm_libc_wrappers/llvm-libc-decls",
+    "score.sum": 6.173382577714108e-06,
+    "sha.latest": "2a65d0388ca0f1c756f4c1a859cbb9e24b364942",
+    "time.latest": 1717814335.0824528,
+    "formatted_time": "2024-06-08 08:08:55.082456",
+    "filescores": {
+        "README.txt": 100.0
+    },
+    "subdirscores": {}
+}

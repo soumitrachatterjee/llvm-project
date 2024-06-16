@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/third-party/benchmark/include/benchmark",
+    "score.sum": 2.34114744237869e-05,
+    "sha.latest": "a5b797172cc902db166e9a695716fb81405f86e4",
+    "time.latest": 1717788692.169358,
+    "formatted_time": "2024-06-07 14:31:32.169362",
+    "filescores": {
+        "benchmark.h": 100.0,
+        "export.h": 0.0
+    },
+    "subdirscores": {}
+}

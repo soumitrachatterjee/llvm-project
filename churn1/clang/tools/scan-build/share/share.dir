@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/clang/tools/scan-build/share",
+    "score.sum": 6.099602068851199e-06,
+    "sha.latest": "dcbb574cfc3445251ff1c751f27b52ed6503bead",
+    "time.latest": 1718082701.7847548,
+    "formatted_time": "2024-06-11 10:41:41.784756",
+    "filescores": {},
+    "subdirscores": {
+        "scan-build": 100.0
+    }
+}

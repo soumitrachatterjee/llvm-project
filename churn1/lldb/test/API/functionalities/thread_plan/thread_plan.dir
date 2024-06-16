@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/lldb/test/API/functionalities/thread_plan",
+    "score.sum": 2.0944761825703197e-05,
+    "sha.latest": "9c2468821ec51defd09c246fea4a47886fff8c01",
+    "time.latest": 1717923252.5231338,
+    "formatted_time": "2024-06-09 14:24:12.523136",
+    "filescores": {
+        "main.c": 0.0,
+        "Makefile": 0.0,
+        "TestThreadPlanCommands.py": 69.62054951359373,
+        "wrap_step_over.py": 30.379450486406267
+    },
+    "subdirscores": {}
+}

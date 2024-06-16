@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/compiler-rt/lib/stats",
+    "score.sum": 3.236853929806003e-05,
+    "sha.latest": "919ca9fc045f84b507bf80332c398a6fc3be1681",
+    "time.latest": 1717806814.5738785,
+    "formatted_time": "2024-06-08 06:03:34.573880",
+    "filescores": {
+        "CMakeLists.txt": 81.1557697655613,
+        "stats.cpp": 0.0,
+        "stats.h": 18.844230234438694,
+        "stats_client.cpp": 0.0
+    },
+    "subdirscores": {}
+}

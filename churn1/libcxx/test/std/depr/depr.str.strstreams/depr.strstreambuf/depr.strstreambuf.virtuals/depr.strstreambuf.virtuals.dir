@@ -1,0 +1,16 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/depr/depr.str.strstreams/depr.strstreambuf/depr.strstreambuf.virtuals",
+    "score.sum": 9.146343368768169e-05,
+    "sha.latest": "66c7388c83bb0320f2223da3e3f31363f44bb3aa",
+    "time.latest": 1717896923.5253046,
+    "formatted_time": "2024-06-09 07:05:23.525307",
+    "filescores": {
+        "overflow.pass.cpp": 16.666666666666668,
+        "pbackfail.pass.cpp": 16.666666666666668,
+        "seekoff.pass.cpp": 16.666666666666668,
+        "seekpos.pass.cpp": 16.666666666666668,
+        "setbuf.pass.cpp": 16.666666666666668,
+        "underflow.pass.cpp": 16.666666666666668
+    },
+    "subdirscores": {}
+}

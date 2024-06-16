@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/functionalities/longjmp",
+    "score.sum": 1.79224681965893e-05,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717911806.9130657,
+    "formatted_time": "2024-06-09 11:13:26.913067",
+    "filescores": {
+        "main.c": 34.033270428745816,
+        "Makefile": 0.0,
+        "TestLongjmp.py": 65.96672957125419
+    },
+    "subdirscores": {}
+}

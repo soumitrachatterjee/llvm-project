@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/llvm/utils/gn/secondary/clang/tools/clang-linker-wrapper",
+    "score.sum": 9.204379044649892e-06,
+    "sha.latest": "27acfdd2ded8c3b246dc2580ba43c285741b1dfd",
+    "time.latest": 1718084820.695594,
+    "formatted_time": "2024-06-11 00:47:00.695597",
+    "filescores": {
+        "BUILD.gn": 100.0
+    },
+    "subdirscores": {}
+}

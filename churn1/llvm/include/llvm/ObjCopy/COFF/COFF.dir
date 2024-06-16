@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/llvm/include/llvm/ObjCopy/COFF",
+    "score.sum": 1.2199204137702398e-05,
+    "sha.latest": "bd273fe95e3178cb3bc3e62e41a2360046c0b1be",
+    "time.latest": 1717819283.859405,
+    "formatted_time": "2024-06-07 23:01:23.859408",
+    "filescores": {
+        "COFFConfig.h": 50.0,
+        "COFFObjcopy.h": 50.0
+    },
+    "subdirscores": {}
+}

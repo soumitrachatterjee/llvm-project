@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/libcxx/src/pstl",
+    "score.sum": 1.3485382541873894e-05,
+    "sha.latest": "68b1035965f08d7cdfdcb6a5c17d53e45896f3f0",
+    "time.latest": 1717843110.5279596,
+    "formatted_time": "2024-06-08 16:08:30.527963",
+    "filescores": {
+        "libdispatch.cpp": 100.0
+    },
+    "subdirscores": {}
+}

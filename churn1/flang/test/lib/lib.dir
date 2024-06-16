@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/flang/test/lib",
+    "score.sum": 1.811351109098662e-05,
+    "sha.latest": "4ad7279392653c0bcf564799ffb3f7e20ed4ef00",
+    "time.latest": 1717812569.6859057,
+    "formatted_time": "2024-06-07 21:09:29.685909",
+    "filescores": {
+        "CMakeLists.txt": 0.0,
+        "lit.local.cfg": 66.32567789749834
+    },
+    "subdirscores": {
+        "Analysis": 33.67432210250167
+    }
+}

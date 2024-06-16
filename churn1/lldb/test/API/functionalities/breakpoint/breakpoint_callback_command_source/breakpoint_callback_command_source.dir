@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/lldb/test/API/functionalities/breakpoint/breakpoint_callback_command_source",
+    "score.sum": 1.6083366468743008e-05,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717902021.6203876,
+    "formatted_time": "2024-06-09 08:30:21.620390",
+    "filescores": {
+        "main.c": 0.0,
+        "Makefile": 0.0,
+        "source.lldb": 0.0,
+        "TestBreakpointCallbackCommandSource.py": 100.0
+    },
+    "subdirscores": {}
+}

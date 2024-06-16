@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/llvm/test/Analysis/StackSafetyAnalysis/Inputs",
+    "score.sum": 2.8081849732754654e-05,
+    "sha.latest": "7cf5581712b24d4aea5dffa2e23f0ed42af1954d",
+    "time.latest": 1717893031.8332648,
+    "formatted_time": "2024-06-08 19:30:31.833269",
+    "filescores": {
+        "ipa-alias.ll": 39.15395307852643,
+        "ipa.ll": 60.84604692147357
+    },
+    "subdirscores": {}
+}

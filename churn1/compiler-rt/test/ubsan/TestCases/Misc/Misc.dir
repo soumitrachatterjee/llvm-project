@@ -1,0 +1,32 @@
+{
+    "directory name": "llvm-project/compiler-rt/test/ubsan/TestCases/Misc",
+    "score.sum": 0.0003429452902891036,
+    "sha.latest": "acdb4cdc04ed4d9a130f0fa706ed1b0f42cc1aa0",
+    "time.latest": 1717864682.317026,
+    "formatted_time": "2024-06-08 22:08:02.317029",
+    "filescores": {
+        "abs.cpp": 0.0,
+        "bool.cpp": 4.362209814740146,
+        "bool.m": 0.0,
+        "bounds.cpp": 3.1406644878749037,
+        "builtins.cpp": 1.778593332980086,
+        "coverage-levels.cpp": 3.725472517930513,
+        "deduplication.cpp": 2.0450142635780626,
+        "enum.cpp": 4.786711114774557,
+        "log-path_test.cpp": 4.822159355947198,
+        "missing_return.cpp": 8.565142530649592,
+        "monitor.cpp": 7.525541841862212,
+        "no-interception.cpp": 0.0,
+        "nonnull-arg.cpp": 4.146411733181798,
+        "nonnull.cpp": 2.6526110011442237,
+        "nullability.c": 9.699617538392102,
+        "objc-cast.m": 1.778593332980086,
+        "print_summary.c": 1.778593332980086,
+        "unreachable.cpp": 2.0822269870263606,
+        "vla.c": 1.8999479489550442
+    },
+    "subdirscores": {
+        "Inputs": 1.778593332980086,
+        "Linux": 33.43189553202295
+    }
+}

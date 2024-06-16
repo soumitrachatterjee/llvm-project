@@ -1,0 +1,15 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/numerics/numbers",
+    "score.sum": 6.329133571236473e-05,
+    "sha.latest": "9bb9ec380ace81d040d3a0a0a2ae9a75733ab330",
+    "time.latest": 1717951717.9440107,
+    "formatted_time": "2024-06-09 22:18:37.944015",
+    "filescores": {
+        "defined.pass.cpp": 13.818214115252218,
+        "illformed.verify.cpp": 48.45446634122358,
+        "specialize.pass.cpp": 13.818214115252218,
+        "user_type.pass.cpp": 11.954552714135994,
+        "value.pass.cpp": 11.954552714135994
+    },
+    "subdirscores": {}
+}

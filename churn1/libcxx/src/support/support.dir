@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/libcxx/src/support",
+    "score.sum": 0.0002672267826094632,
+    "sha.latest": "7162fd750ee5f786f3b9b7a7b26b72ee36ce772e",
+    "time.latest": 1717843674.9784832,
+    "formatted_time": "2024-06-08 16:17:54.978486",
+    "filescores": {},
+    "subdirscores": {
+        "ibm": 12.083629277284725,
+        "runtime": 25.828222659571715,
+        "win32": 62.08814806314358
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/utilities/memory/default.allocator/allocator.globals",
+    "score.sum": 1.9504297136070758e-05,
+    "sha.latest": "0724f8bf47f8cb073d41e2750d45d5b05e66bf0b",
+    "time.latest": 1717998157.3859196,
+    "formatted_time": "2024-06-10 11:12:37.385921",
+    "filescores": {
+        "eq.pass.cpp": 100.0
+    },
+    "subdirscores": {}
+}

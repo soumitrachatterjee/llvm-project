@@ -1,0 +1,35 @@
+{
+    "directory name": "llvm-project/mlir/test/mlir-cpu-runner",
+    "score.sum": 0.0010578092943133966,
+    "sha.latest": "3be05d898ffd1e687bd67dcd5fe0c8c16ff2d4d7",
+    "time.latest": 1717832648.530047,
+    "formatted_time": "2024-06-08 02:44:08.530050",
+    "filescores": {
+        "async-error.mlir": 4.256633475365719,
+        "async-func.mlir": 1.4311071095666634,
+        "async-group.mlir": 5.986734096810391,
+        "async-value.mlir": 6.1789936940865635,
+        "async.mlir": 7.7114892268294755,
+        "bare-ptr-call-conv.mlir": 6.259306077139694,
+        "copy.mlir": 6.005870229205404,
+        "expand-arith-ops.mlir": 1.1511923890334195,
+        "global-constructors.mlir": 0.6579724432358864,
+        "global-memref.mlir": 3.845041109387384,
+        "invalid.mlir": 0.5766258721341952,
+        "lit.local.cfg": 5.079864981250792,
+        "math-polynomial-approx.mlir": 9.775100876989052,
+        "memref-reinterpret-cast.mlir": 4.284671780998823,
+        "memref-reshape.mlir": 4.001631558573222,
+        "sgemm-naive-codegen.mlir": 5.302750261534976,
+        "simple.mlir": 3.989371793972411,
+        "test-expand-math-approx.mlir": 3.8521721266336586,
+        "unranked-memref.mlir": 3.548290635008125,
+        "utils.mlir": 9.748670030681442,
+        "verify-entry-point-result.mlir": 0.0,
+        "verify-flags.mlir": 0.5766258721341952,
+        "x86-varargs.mlir": 2.199065354559841
+    },
+    "subdirscores": {
+        "X86Vector": 3.5808190048686477
+    }
+}

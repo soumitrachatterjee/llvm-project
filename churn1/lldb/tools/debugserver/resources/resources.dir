@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/lldb/tools/debugserver/resources",
+    "score.sum": 1.9379075859658255e-05,
+    "sha.latest": "3858e9d6c5136e5a491795c1dcb720361c525526",
+    "time.latest": 1717985647.4990244,
+    "formatted_time": "2024-06-10 07:44:07.499027",
+    "filescores": {
+        "debugserver-entitlements.plist": 31.475195788612613,
+        "debugserver-macosx-entitlements.plist": 0.0,
+        "debugserver-macosx-private-entitlements.plist": 31.475195788612613,
+        "lldb-debugserver-Info.plist": 37.04960842277477
+    },
+    "subdirscores": {}
+}

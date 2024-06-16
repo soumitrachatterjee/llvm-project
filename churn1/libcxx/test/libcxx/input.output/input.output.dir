@@ -1,0 +1,17 @@
+{
+    "directory name": "llvm-project/libcxx/test/libcxx/input.output",
+    "score.sum": 0.000597706463300693,
+    "sha.latest": "1197fcabc4b5f39dbe8a94b1ab6e92354f3f0dd2",
+    "time.latest": 1717851567.0451837,
+    "formatted_time": "2024-06-08 18:29:27.045188",
+    "filescores": {},
+    "subdirscores": {
+        "file.streams": 20.068882530127926,
+        "filesystems": 30.477700397576385,
+        "iostream.format": 21.2328681919806,
+        "iostream.objects": 4.51342293018802,
+        "iostreams.base": 5.465684260418084,
+        "stream.buffers": 4.51342293018802,
+        "string.streams": 13.728018759520962
+    }
+}

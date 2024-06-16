@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/clang/bindings/python/examples/cindex",
+    "score.sum": 2.8406295973343147e-05,
+    "sha.latest": "dd3c26a045c081620375a878159f536758baba6e",
+    "time.latest": 1717788007.9061525,
+    "formatted_time": "2024-06-08 00:50:07.906157",
+    "filescores": {
+        "cindex-dump.py": 64.07658380502201,
+        "cindex-includes.py": 35.92341619497799
+    },
+    "subdirscores": {}
+}

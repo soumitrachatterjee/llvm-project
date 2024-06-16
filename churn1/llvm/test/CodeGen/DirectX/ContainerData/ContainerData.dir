@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/llvm/test/CodeGen/DirectX/ContainerData",
+    "score.sum": 1.380265869709709e-05,
+    "sha.latest": "72017fcf00b33b99aac604355d260910b1d57dfc",
+    "time.latest": 1718045485.560071,
+    "formatted_time": "2024-06-10 13:51:25.560074",
+    "filescores": {
+        "DebugShaderHash.ll": 50.0,
+        "ShaderHash.ll": 50.0
+    },
+    "subdirscores": {}
+}

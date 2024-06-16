@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/examples/darwin/heap_find",
+    "score.sum": 0.0001266949863606097,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717841234.8889596,
+    "formatted_time": "2024-06-08 15:37:14.888963",
+    "filescores": {
+        "heap.py": 75.37221440504555
+    },
+    "subdirscores": {
+        "heap": 24.62778559495444
+    }
+}

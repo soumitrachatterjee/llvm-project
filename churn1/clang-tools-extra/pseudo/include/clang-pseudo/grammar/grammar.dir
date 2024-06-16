@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/clang-tools-extra/pseudo/include/clang-pseudo/grammar",
+    "score.sum": 7.135288871761835e-05,
+    "sha.latest": "caa99a01f5dd2f865df318a2f93abc811273a25d",
+    "time.latest": 1717814567.3256936,
+    "formatted_time": "2024-06-08 08:12:47.325697",
+    "filescores": {
+        "Grammar.h": 19.20558119268845,
+        "LRGraph.h": 29.049508776669423,
+        "LRTable.h": 51.744910030642124
+    },
+    "subdirscores": {}
+}

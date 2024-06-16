@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/libc/src/__support/OSUtil/baremetal",
+    "score.sum": 1.2199204137702398e-05,
+    "sha.latest": "214b434dc8e7b414f280e583943d267c857ce19a",
+    "time.latest": 1717828986.5495234,
+    "formatted_time": "2024-06-08 01:43:06.549527",
+    "filescores": {
+        "CMakeLists.txt": 0.0,
+        "io.h": 50.0,
+        "quick_exit.h": 50.0
+    },
+    "subdirscores": {}
+}

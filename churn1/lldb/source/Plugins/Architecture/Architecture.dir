@@ -1,0 +1,16 @@
+{
+    "directory name": "llvm-project/lldb/source/Plugins/Architecture",
+    "score.sum": 0.0001568139836659027,
+    "sha.latest": "89c9fee420e1ed099aaa4aab48f3b58e233a3ea9",
+    "time.latest": 1717868144.6755257,
+    "formatted_time": "2024-06-08 23:05:44.675528",
+    "filescores": {
+        "CMakeLists.txt": 6.055316011700488
+    },
+    "subdirscores": {
+        "AArch64": 20.175115308762035,
+        "Arm": 22.705352911441448,
+        "Mips": 25.570264238672436,
+        "PPC64": 25.493951529423597
+    }
+}

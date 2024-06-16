@@ -1,0 +1,17 @@
+{
+    "directory name": "llvm-project/mlir/include/mlir/Dialect/Linalg/Transforms",
+    "score.sum": 0.0008828904530295541,
+    "sha.latest": "fb582b6ace781ff6991775d6dcd4df98aa16698f",
+    "time.latest": 1717795157.6777177,
+    "formatted_time": "2024-06-07 16:19:17.677721",
+    "filescores": {
+        "AllInterfaces.h": 0.0,
+        "BufferizableOpInterfaceImpl.h": 1.4232328318147351,
+        "Hoisting.h": 4.615659621950781,
+        "MeshShardingInterfaceImpl.h": 0.0,
+        "SubsetInsertionOpInterfaceImpl.h": 0.6908673718150421,
+        "TilingInterfaceImpl.h": 0.0,
+        "Transforms.h": 93.27024017441944
+    },
+    "subdirscores": {}
+}

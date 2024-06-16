@@ -1,0 +1,17 @@
+{
+    "directory name": "llvm-project/libcxx/test/libcxx/language.support",
+    "score.sum": 0.00031893552599487446,
+    "sha.latest": "1197fcabc4b5f39dbe8a94b1ab6e92354f3f0dd2",
+    "time.latest": 1717860310.7458768,
+    "formatted_time": "2024-06-08 20:55:10.745880",
+    "filescores": {
+        "cxa_deleted_virtual.pass.cpp": 7.724039066447295,
+        "timespec_get.xopen.compile.pass.cpp": 3.454069395290947
+    },
+    "subdirscores": {
+        "support.c.headers": 1.912487500357431,
+        "support.dynamic": 64.75812685106747,
+        "support.rtti": 16.421719701513144,
+        "support.types": 5.7295574853236975
+    }
+}

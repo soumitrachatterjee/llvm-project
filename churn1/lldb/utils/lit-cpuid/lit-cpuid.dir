@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/lldb/utils/lit-cpuid",
+    "score.sum": 2.074314289363877e-05,
+    "sha.latest": "d768bf994f508d7eaf9541a568be3d71096febf5",
+    "time.latest": 1717999724.9049375,
+    "formatted_time": "2024-06-10 11:38:44.904940",
+    "filescores": {
+        "CMakeLists.txt": 66.79060984945696,
+        "lit-cpuid.cpp": 33.20939015054305
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,20 @@
+{
+    "directory name": "llvm-project/openmp/libomptarget/include/Shared",
+    "score.sum": 0.00011228511597422415,
+    "sha.latest": "aa6ebf9be124664945f32f2be1167e6453788f40",
+    "time.latest": 1717795381.8683712,
+    "formatted_time": "2024-06-08 02:53:01.868375",
+    "filescores": {
+        "APITypes.h": 10.279796970045284,
+        "Debug.h": 5.432244528519173,
+        "Environment.h": 0.0,
+        "EnvironmentVar.h": 0.0,
+        "PluginAPI.h": 22.139189397617447,
+        "PluginAPI.inc": 22.842296234381372,
+        "Profile.h": 10.203726879273066,
+        "Requirements.h": 13.391541297792465,
+        "SourceInfo.h": 10.278960163852032,
+        "Utils.h": 5.432244528519173
+    },
+    "subdirscores": {}
+}

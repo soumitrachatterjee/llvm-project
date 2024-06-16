@@ -1,0 +1,17 @@
+{
+    "directory name": "llvm-project/mlir/include/mlir/Dialect/PDL/IR",
+    "score.sum": 0.00022377503639975038,
+    "sha.latest": "8ec28af8eaff5acd0df3e53340159c034f08533d",
+    "time.latest": 1717796253.415066,
+    "formatted_time": "2024-06-07 16:37:33.415069",
+    "filescores": {
+        "CMakeLists.txt": 3.1584760133168603,
+        "PDL.h": 3.2250844123768703,
+        "PDLDialect.td": 22.234190322137326,
+        "PDLOps.h": 8.171148333033091,
+        "PDLOps.td": 53.17668755677437,
+        "PDLTypes.h": 3.862939223202412,
+        "PDLTypes.td": 6.171474139159068
+    },
+    "subdirscores": {}
+}

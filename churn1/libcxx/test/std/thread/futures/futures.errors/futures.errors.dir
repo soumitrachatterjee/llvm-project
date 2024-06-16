@@ -1,0 +1,16 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/thread/futures/futures.errors",
+    "score.sum": 0.00010695931390048375,
+    "sha.latest": "fbdf684fae5243e7a9ff50dd4abdc5b55e6aa895",
+    "time.latest": 1717974654.5955756,
+    "formatted_time": "2024-06-10 04:40:54.595579",
+    "filescores": {
+        "default_error_condition.pass.cpp": 19.502844093027345,
+        "equivalent_error_code_int.pass.cpp": 15.410225918821343,
+        "equivalent_int_error_condition.pass.cpp": 15.410225918821343,
+        "future_category.pass.cpp": 18.85625223168727,
+        "make_error_code.pass.cpp": 15.410225918821343,
+        "make_error_condition.pass.cpp": 15.410225918821343
+    },
+    "subdirscores": {}
+}

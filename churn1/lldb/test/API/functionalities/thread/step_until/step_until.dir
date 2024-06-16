@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/lldb/test/API/functionalities/thread/step_until",
+    "score.sum": 2.9843471948010056e-05,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717923082.3886385,
+    "formatted_time": "2024-06-09 14:21:22.388641",
+    "filescores": {
+        "categories": 0.0,
+        "main.c": 20.438647619409835,
+        "Makefile": 0.0,
+        "TestStepUntil.py": 79.56135238059017
+    },
+    "subdirscores": {}
+}

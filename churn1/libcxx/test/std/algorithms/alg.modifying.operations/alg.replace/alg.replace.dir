@@ -1,0 +1,23 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/algorithms/alg.modifying.operations/alg.replace",
+    "score.sum": 0.00017213003958012552,
+    "sha.latest": "8dfc67d6724eb0af5d278f4d1d5511ca9f9e039f",
+    "time.latest": 1717868950.2330585,
+    "formatted_time": "2024-06-08 23:19:10.233061",
+    "filescores": {
+        "pstl.exception_handling.pass.cpp": 3.5436011539472574,
+        "pstl.replace.pass.cpp": 5.922892588491772,
+        "pstl.replace_copy.pass.cpp": 5.922892588491772,
+        "pstl.replace_copy_if.pass.cpp": 5.922892588491772,
+        "pstl.replace_if.pass.cpp": 5.922892588491772,
+        "ranges.replace.pass.cpp": 7.291302557696168,
+        "ranges.replace_if.pass.cpp": 4.0216533226734565,
+        "ranges_replace_copy.pass.cpp": 5.607537356979087,
+        "ranges_replace_copy_if.pass.cpp": 5.607537356979087,
+        "replace.pass.cpp": 9.696600815651701,
+        "replace_copy.pass.cpp": 13.891559457947977,
+        "replace_copy_if.pass.cpp": 15.014043954814623,
+        "replace_if.pass.cpp": 11.634593669343557
+    },
+    "subdirscores": {}
+}

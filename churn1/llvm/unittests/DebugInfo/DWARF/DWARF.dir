@@ -1,0 +1,29 @@
+{
+    "directory name": "llvm-project/llvm/unittests/DebugInfo/DWARF",
+    "score.sum": 0.0012213090770991106,
+    "sha.latest": "a23d4ceb8866df91334750627827a1724363e755",
+    "time.latest": 1718080029.1438491,
+    "formatted_time": "2024-06-10 23:27:09.143853",
+    "filescores": {
+        "CMakeLists.txt": 8.626754071318695,
+        "DWARFAcceleratorTableTest.cpp": 0.5516751811000707,
+        "DWARFDataExtractorTest.cpp": 1.043244097466285,
+        "DWARFDebugAbbrevTest.cpp": 0.7477487062335043,
+        "DWARFDebugArangeSetTest.cpp": 1.612463546693987,
+        "DWARFDebugFrameTest.cpp": 7.797851036338393,
+        "DWARFDebugInfoTest.cpp": 23.27831220262485,
+        "DWARFDebugLineTest.cpp": 11.874609695555677,
+        "DWARFDieManualExtractTest.cpp": 1.7351171320782888,
+        "DWARFDieTest.cpp": 2.734861927567147,
+        "DWARFExpressionCompactPrinterTest.cpp": 4.758214502171279,
+        "DWARFExpressionCopyBytesTest.cpp": 3.3958771570202786,
+        "DWARFFormValueTest.cpp": 9.538942328577651,
+        "DWARFListTableTest.cpp": 0.6386168867722406,
+        "DWARFLocationExpressionTest.cpp": 0.8911987322193851,
+        "DwarfGenerator.cpp": 13.565928831237287,
+        "DwarfGenerator.h": 3.751843759526989,
+        "DwarfUtils.cpp": 2.2810770872906736,
+        "DwarfUtils.h": 1.17566311820734
+    },
+    "subdirscores": {}
+}

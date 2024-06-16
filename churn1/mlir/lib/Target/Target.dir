@@ -1,0 +1,16 @@
+{
+    "directory name": "llvm-project/mlir/lib/Target",
+    "score.sum": 0.0032616484555545223,
+    "sha.latest": "0ddb1221471ae481cc0c7dfd57b71d98e7e60a27",
+    "time.latest": 1717812380.2262585,
+    "formatted_time": "2024-06-07 21:06:20.226259",
+    "filescores": {
+        "CMakeLists.txt": 2.2591097439565253
+    },
+    "subdirscores": {
+        "Cpp": 5.440001651660664,
+        "LLVM": 1.7959266010884816,
+        "LLVMIR": 83.4343344094822,
+        "SPIRV": 7.0706275938121275
+    }
+}

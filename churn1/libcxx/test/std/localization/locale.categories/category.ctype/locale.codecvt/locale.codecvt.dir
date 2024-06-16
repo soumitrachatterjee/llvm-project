@@ -1,0 +1,28 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/localization/locale.categories/category.ctype/locale.codecvt",
+    "score.sum": 0.00035768428322418313,
+    "sha.latest": "1197fcabc4b5f39dbe8a94b1ab6e92354f3f0dd2",
+    "time.latest": 1717927016.3725197,
+    "formatted_time": "2024-06-09 15:26:56.372522",
+    "filescores": {
+        "codecvt_base.pass.cpp": 4.855196735986774,
+        "codecvt_char16_t_char.depr_in_cxx20.verify.cpp": 2.0736102639229084,
+        "codecvt_char32_t_char.depr_in_cxx20.verify.cpp": 2.0736102639229084,
+        "ctor_char.pass.cpp": 4.855196735986774,
+        "ctor_char16_t.pass.cpp": 6.159643340179524,
+        "ctor_char16_t_char8_t.pass.cpp": 4.48574998533715,
+        "ctor_char32_t.pass.cpp": 6.159643340179524,
+        "ctor_char32_t_char8_t.pass.cpp": 4.48574998533715,
+        "ctor_wchar_t.pass.cpp": 6.170682060538061,
+        "types_char.pass.cpp": 5.585820135631181,
+        "types_char16_t.pass.cpp": 5.9074868036390376,
+        "types_char16_t_char8_t.pass.cpp": 4.48574998533715,
+        "types_char32_t.pass.cpp": 5.9074868036390376,
+        "types_char32_t_char8_t.pass.cpp": 4.48574998533715,
+        "types_wchar_t.pass.cpp": 6.607512267768076
+    },
+    "subdirscores": {
+        "locale.codecvt.members": 22.309051843141834,
+        "locale.codecvt.virtuals": 3.3920594641157717
+    }
+}

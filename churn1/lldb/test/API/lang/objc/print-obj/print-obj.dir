@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/lang/objc/print-obj",
+    "score.sum": 2.6537844774841134e-05,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717959618.9014363,
+    "formatted_time": "2024-06-10 00:30:18.901442",
+    "filescores": {
+        "blocked.m": 22.984541964891772,
+        "Makefile": 0.0,
+        "TestPrintObj.py": 77.01545803510822
+    },
+    "subdirscores": {}
+}

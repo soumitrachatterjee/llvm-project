@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/llvm/utils/gn/secondary/clang/lib/Analysis",
+    "score.sum": 0.00012591457531405814,
+    "sha.latest": "7c636728c0fc18fc79831bfc3cdf41841b9b517c",
+    "time.latest": 1718083652.1485534,
+    "formatted_time": "2024-06-11 00:27:32.148554",
+    "filescores": {
+        "BUILD.gn": 50.74634990477848
+    },
+    "subdirscores": {
+        "FlowSensitive": 49.25365009522152
+    }
+}

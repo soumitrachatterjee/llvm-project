@@ -1,0 +1,25 @@
+{
+    "directory name": "llvm-project/mlir/test/tblgen-lsp-server",
+    "score.sum": 3.6512701448614165e-05,
+    "sha.latest": "f9008e6366c2496b1ca1785b891d5578174ad63e",
+    "time.latest": 1717834997.1645367,
+    "formatted_time": "2024-06-08 03:23:17.164540",
+    "filescores": {
+        "compilation_database.test": 0.0,
+        "definition.test": 16.705425309150083,
+        "diagnostics.test": 0.0,
+        "document-links.test": 0.0,
+        "exit-eof.test": 0.0,
+        "exit-with-shutdown.test": 0.0,
+        "exit-without-shutdown.test": 0.0,
+        "hover.test": 16.705425309150083,
+        "initialize-params-invalid.test": 0.0,
+        "initialize-params.test": 33.17829876339967,
+        "lit.local.cfg": 16.705425309150083,
+        "references.test": 0.0,
+        "textdocument-didchange.test": 0.0
+    },
+    "subdirscores": {
+        "include": 16.705425309150083
+    }
+}

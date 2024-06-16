@@ -1,0 +1,16 @@
+{
+    "directory name": "llvm-project/lldb/test/API/lang/cpp/namespace_definitions",
+    "score.sum": 4.6910556165823976e-05,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717933819.9724324,
+    "formatted_time": "2024-06-09 17:20:19.972435",
+    "filescores": {
+        "a.cpp": 13.002621515058859,
+        "b.cpp": 13.002621515058859,
+        "foo.h": 13.002621515058859,
+        "main.cpp": 13.002621515058859,
+        "Makefile": 0.0,
+        "TestNamespaceDefinitions.py": 47.98951393976456
+    },
+    "subdirscores": {}
+}

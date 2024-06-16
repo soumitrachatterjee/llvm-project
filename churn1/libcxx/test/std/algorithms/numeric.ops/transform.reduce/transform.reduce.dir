@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/algorithms/numeric.ops/transform.reduce",
+    "score.sum": 1.8298806206553597e-05,
+    "sha.latest": "8dfc67d6724eb0af5d278f4d1d5511ca9f9e039f",
+    "time.latest": 1717872802.4231858,
+    "formatted_time": "2024-06-09 00:23:22.423188",
+    "filescores": {
+        "pstl.exception_handling.pass.cpp": 33.33333333333333,
+        "pstl.transform_reduce.binary.pass.cpp": 33.33333333333333,
+        "pstl.transform_reduce.unary.pass.cpp": 33.33333333333333
+    },
+    "subdirscores": {}
+}

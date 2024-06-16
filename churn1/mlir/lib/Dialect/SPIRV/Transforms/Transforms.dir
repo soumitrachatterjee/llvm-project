@@ -1,0 +1,19 @@
+{
+    "directory name": "llvm-project/mlir/lib/Dialect/SPIRV/Transforms",
+    "score.sum": 0.0005733717417130384,
+    "sha.latest": "fab2bb8bfda865bd438dee981d7be7df8017b76d",
+    "time.latest": 1717808740.7654698,
+    "formatted_time": "2024-06-07 20:05:40.765473",
+    "filescores": {
+        "CMakeLists.txt": 7.611243155196906,
+        "CanonicalizeGLPass.cpp": 1.8123113085099312,
+        "DecorateCompositeTypeLayoutPass.cpp": 8.042236289043542,
+        "LowerABIAttributesPass.cpp": 22.810544954506828,
+        "RewriteInsertsPass.cpp": 6.420191355138331,
+        "SPIRVConversion.cpp": 31.282560301708905,
+        "SPIRVWebGPUTransforms.cpp": 1.9576888089021995,
+        "UnifyAliasedResourcePass.cpp": 9.009587884366693,
+        "UpdateVCEPass.cpp": 11.053635942626668
+    },
+    "subdirscores": {}
+}

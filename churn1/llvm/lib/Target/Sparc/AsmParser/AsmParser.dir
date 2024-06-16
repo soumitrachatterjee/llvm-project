@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/llvm/lib/Target/Sparc/AsmParser",
+    "score.sum": 0.00026234787711297916,
+    "sha.latest": "057e7252608e680348484c7942ac0d78bd174ec1",
+    "time.latest": 1717866472.7980087,
+    "formatted_time": "2024-06-08 12:07:52.798012",
+    "filescores": {
+        "CMakeLists.txt": 5.630782307949267,
+        "SparcAsmParser.cpp": 94.36921769205074
+    },
+    "subdirscores": {}
+}

@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/flang/cmake/modules",
+    "score.sum": 0.0002052363455680964,
+    "sha.latest": "cbfa4aa75ffd31f0068b0603e83cd8a7c3ee4260",
+    "time.latest": 1717787690.8591876,
+    "formatted_time": "2024-06-07 14:14:50.859193",
+    "filescores": {
+        "AddFlang.cmake": 38.62616208827859,
+        "CMakeLists.txt": 41.58554992261871,
+        "FlangConfig.cmake.in": 14.116162830729234,
+        "FlangConfigVersion.cmake.in": 5.672125158373467
+    },
+    "subdirscores": {}
+}

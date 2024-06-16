@@ -1,0 +1,14 @@
+{
+    "directory name": "llvm-project/libcxx/test/libcxx/numerics/rand/rand.dis/rand.dist.bern",
+    "score.sum": 4.252459002712438e-05,
+    "sha.latest": "9bb9ec380ace81d040d3a0a0a2ae9a75733ab330",
+    "time.latest": 1717861733.1855588,
+    "formatted_time": "2024-06-08 21:18:53.185562",
+    "filescores": {},
+    "subdirscores": {
+        "rand.dist.bern.bernoulli": 24.989162555886278,
+        "rand.dist.bern.bin": 24.989162555886278,
+        "rand.dist.bern.geo": 25.01083744411372,
+        "rand.dist.bern.negbin": 25.01083744411372
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "directory name": "llvm-project/cross-project-tests/debuginfo-tests/dexter/feature_tests/commands/perfect",
+    "score.sum": 0.0004932261884949737,
+    "sha.latest": "e6cc7b723f244f52663b6d67a5d94597109da1ef",
+    "time.latest": 1717791747.6862843,
+    "formatted_time": "2024-06-08 01:52:27.686290",
+    "filescores": {
+        "command_line.c": 8.527160095192567,
+        "expect_program_state.cpp": 6.13096077951889,
+        "expect_step_order.cpp": 7.012227576733257,
+        "expect_watch_type.cpp": 6.13096077951889,
+        "expect_watch_value.cpp": 6.13096077951889,
+        "unreachable.cpp": 6.13096077951889,
+        "unreachable_not_cmd_lineno.cpp": 6.113929302377255,
+        "unreachable_on_line.cpp": 6.113929302377255
+    },
+    "subdirscores": {
+        "dex_declare_address": 8.610818786958534,
+        "dex_declare_file": 7.721589573880518,
+        "dex_finish_test": 9.230928815167179,
+        "expect_step_kind": 6.13096077951889,
+        "float_range_watch": 6.091224067441712,
+        "limit_steps": 9.92338858227729
+    }
+}

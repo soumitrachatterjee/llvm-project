@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/libcxx/test/libcxx/containers/sequences/array",
+    "score.sum": 6.179244486306152e-05,
+    "sha.latest": "58780b811c23df3d928d8452ee21c862dde754a2",
+    "time.latest": 1717846082.1886163,
+    "formatted_time": "2024-06-08 16:58:02.188620",
+    "filescores": {
+        "triviality.pass.cpp": 0.0
+    },
+    "subdirscores": {
+        "array.zero": 100.0
+    }
+}

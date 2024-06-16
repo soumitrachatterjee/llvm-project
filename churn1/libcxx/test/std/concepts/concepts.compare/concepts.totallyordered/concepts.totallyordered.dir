@@ -1,0 +1,12 @@
+{
+    "directory name": "llvm-project/libcxx/test/std/concepts/concepts.compare/concepts.totallyordered",
+    "score.sum": 1.8471380982804732e-05,
+    "sha.latest": "d2baefae6846765eef6a6dd69d4fdf1082ce29ad",
+    "time.latest": 1717874985.691946,
+    "formatted_time": "2024-06-09 00:59:45.691949",
+    "filescores": {
+        "totally_ordered.pass.cpp": 64.9923443391841,
+        "totally_ordered_with.pass.cpp": 35.0076556608159
+    },
+    "subdirscores": {}
+}

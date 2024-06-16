@@ -1,0 +1,25 @@
+{
+    "directory name": "llvm-project/clang/test/CodeGenHIP",
+    "score.sum": 9.240197516028462e-05,
+    "sha.latest": "4490003a22658dcd12527029b2c8682b63d8a9d6",
+    "time.latest": 1718010350.2268448,
+    "formatted_time": "2024-06-10 14:35:50.226846",
+    "filescores": {
+        "ballot.cpp": 6.60115983264487,
+        "default-attributes.hip": 22.801524546518763,
+        "dpp-const-fold.hip": 7.363730231951898,
+        "half.hip": 0.0,
+        "hip-cumode.hip": 0.0,
+        "hipspv-addr-spaces.cpp": 10.75559459278625,
+        "hipspv-kernel.cpp": 8.746848858310106,
+        "lit.local.cfg": 6.60115983264487,
+        "maybe_undef-attr-verify.hip": 12.27570324004367,
+        "printf-aggregate.cpp": 6.60115983264487,
+        "printf-builtin.hip": 0.0,
+        "printf-kind-module-flag.hip": 0.0,
+        "printf.cpp": 11.651959199809829,
+        "printf_nonhostcall.cpp": 0.0,
+        "sanitize-undefined-null.hip": 6.60115983264487
+    },
+    "subdirscores": {}
+}

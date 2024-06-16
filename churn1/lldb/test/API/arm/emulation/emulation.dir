@@ -1,0 +1,13 @@
+{
+    "directory name": "llvm-project/lldb/test/API/arm/emulation",
+    "score.sum": 3.630087426723462e-05,
+    "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
+    "time.latest": 1717887611.305093,
+    "formatted_time": "2024-06-09 04:30:11.305095",
+    "filescores": {
+        "TestEmulations.py": 66.69012183336405
+    },
+    "subdirscores": {
+        "new-test-files": 33.309878166635954
+    }
+}
