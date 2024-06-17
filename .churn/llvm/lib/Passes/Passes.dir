@@ -1,19 +1,19 @@
 {
     "directory name": "llvm-project/llvm/lib/Passes",
-    "score.sum": 0.004084523639208782,
+    "score.sum": 0.005496898228822333,
     "sha.latest": "a6a6fca7911feab8325129ea57247303b3c8d558",
     "time.latest": 1717842156.6373432,
     "formatted_time": "2024-06-08 05:22:36.637347",
     "filescores": {
-        "CMakeLists.txt": 0.00010752412694002121,
-        "CodeGenPassBuilder.cpp": 6.650514158776772e-06,
-        "OptimizationLevel.cpp": 0,
-        "PassBuilder.cpp": 0.0024726506298544215,
-        "PassBuilderBindings.cpp": 3.214029136566657e-05,
-        "PassBuilderPipelines.cpp": 0.0005458301935152422,
-        "PassPlugin.cpp": 7.720720880814954e-06,
-        "PassRegistry.def": 0.0018699512553563985,
-        "StandardInstrumentations.cpp": 0.00045443049675099106
+        "CMakeLists.txt": 1.956087278025837,
+        "CodeGenPassBuilder.cpp": 0.12098667069922436,
+        "OptimizationLevel.cpp": 0.0,
+        "PassBuilder.cpp": 44.98265252373369,
+        "PassBuilderBindings.cpp": 0.5846986796506941,
+        "PassBuilderPipelines.cpp": 9.929785322443237,
+        "PassPlugin.cpp": 0.14045595460240234,
+        "PassRegistry.def": 34.018298638885675,
+        "StandardInstrumentations.cpp": 8.267034931959241
     },
     "subdirscores": {}
 }

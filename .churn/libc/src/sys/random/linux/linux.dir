@@ -5,8 +5,8 @@
     "time.latest": 1717841592.2453995,
     "formatted_time": "2024-06-08 05:13:12.245403",
     "filescores": {
-        "CMakeLists.txt": 0,
-        "getrandom.cpp": 1.7030338050970722e-05
+        "CMakeLists.txt": 0.0,
+        "getrandom.cpp": 100.0
     },
     "subdirscores": {}
 }

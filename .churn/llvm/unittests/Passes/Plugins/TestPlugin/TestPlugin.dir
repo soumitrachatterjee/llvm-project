@@ -5,8 +5,8 @@
     "time.latest": 1718082516.698955,
     "formatted_time": "2024-06-11 00:08:36.698958",
     "filescores": {
-        "CMakeLists.txt": 6.099602068851199e-06,
-        "TestPlugin.cpp": 0
+        "CMakeLists.txt": 100.0,
+        "TestPlugin.cpp": 0.0
     },
     "subdirscores": {}
 }

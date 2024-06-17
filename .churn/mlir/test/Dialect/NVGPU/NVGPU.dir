@@ -1,20 +1,20 @@
 {
     "directory name": "llvm-project/mlir/test/Dialect/NVGPU",
-    "score.sum": 0.00013704141570360545,
+    "score.sum": 0.0001341057784347329,
     "sha.latest": "0a600c34c8c1fe87c9661b6020e5044b24da3dc7",
     "time.latest": 1717821063.468486,
     "formatted_time": "2024-06-07 23:31:03.468490",
     "filescores": {
-        "canonicalization.mlir": 0,
-        "invalid.mlir": 4.954499243859867e-05,
-        "mma-sync-f32-to-tf32.mlir": 6.8030531380659205e-06,
-        "mma-sync-f32-to-tf32x3.mlir": 6.099602068851199e-06,
-        "optimize-shared-memory.mlir": 1.0783867724000778e-05,
-        "roundtrip.mlir": 7.074252301336962e-06,
-        "tmaload-transform.mlir": 1.5888800349517662e-05,
-        "transform-create-async-groups.mlir": 1.1066839787335018e-05,
-        "transform-matmul-to-nvvm.mlir": 1.0981106610325769e-05,
-        "transform-pipeline-shared.mlir": 1.5863264016700928e-05
+        "canonicalization.mlir": 0.0,
+        "invalid.mlir": 36.944711120491654,
+        "mma-sync-f32-to-tf32.mlir": 5.072900823119158,
+        "mma-sync-f32-to-tf32x3.mlir": 4.54835141337312,
+        "optimize-shared-memory.mlir": 8.041314736671925,
+        "roundtrip.mlir": 5.275128621530567,
+        "tmaload-transform.mlir": 11.847961016273793,
+        "transform-create-async-groups.mlir": 8.252321351477832,
+        "transform-matmul-to-nvvm.mlir": 8.18839183404024,
+        "transform-pipeline-shared.mlir": 11.828919083021706
     },
     "subdirscores": {}
 }

@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/libcxx/test/libcxx/numerics/numeric.ops",
-    "score.sum": 6.53638004275528e-05,
+    "score.sum": 4.159747890952175e-05,
     "sha.latest": "c37734d40904ebe9c7cc345aab6be3649b0a903c",
     "time.latest": 1717861516.593163,
     "formatted_time": "2024-06-08 21:15:16.593167",
     "filescores": {
-        "midpoint.integer.pass.cpp": 4.159747890952175e-05
+        "midpoint.integer.pass.cpp": 100.0
     },
     "subdirscores": {}
 }

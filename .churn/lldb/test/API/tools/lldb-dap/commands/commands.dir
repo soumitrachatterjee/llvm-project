@@ -5,9 +5,9 @@
     "time.latest": 1717968769.257115,
     "formatted_time": "2024-06-10 03:02:49.257116",
     "filescores": {
-        "main.cpp": 0,
-        "Makefile": 0,
-        "TestDAP_commands.py": 1.1226410908851718e-05
+        "main.cpp": 0.0,
+        "Makefile": 0.0,
+        "TestDAP_commands.py": 100.0
     },
     "subdirscores": {}
 }

@@ -1,16 +1,16 @@
 {
     "directory name": "llvm-project/mlir/lib/Dialect/Func/Transforms",
-    "score.sum": 4.7052023347904274e-05,
+    "score.sum": 8.458149624723847e-05,
     "sha.latest": "5fcf907b34355980f77d7665a175b05fea7a6b7b",
     "time.latest": 1717806163.516612,
     "formatted_time": "2024-06-07 19:22:43.516616",
     "filescores": {
-        "CMakeLists.txt": 2.8554941594359945e-05,
-        "DecomposeCallGraphTypes.cpp": 6.660336001930928e-06,
-        "DuplicateFunctionElimination.cpp": 6.099602068851199e-06,
-        "FuncBufferize.cpp": 2.102580949763428e-05,
-        "FuncConversions.cpp": 1.6051005351240368e-05,
-        "OneToNFuncConversions.cpp": 6.189801733221754e-06
+        "CMakeLists.txt": 33.76027010788692,
+        "DecomposeCallGraphTypes.cpp": 7.874459896597517,
+        "DuplicateFunctionElimination.cpp": 7.211508828150278,
+        "FuncBufferize.cpp": 24.85863980955617,
+        "FuncConversions.cpp": 18.976970216182977,
+        "OneToNFuncConversions.cpp": 7.31815114162614
     },
     "subdirscores": {}
 }

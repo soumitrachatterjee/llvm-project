@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/libcxx/test/std/strings/basic.string/string.starts_with",
-    "score.sum": 2.6162024682537628e-05,
+    "score.sum": 7.847346752491421e-05,
     "sha.latest": "6e1dcc9335116f650d68cdbed12bbb34a99b2d9b",
     "time.latest": 1717971132.6001155,
     "formatted_time": "2024-06-10 03:42:12.600117",
     "filescores": {
-        "starts_with.char.pass.cpp": 2.6155721421188294e-05,
-        "starts_with.ptr.pass.cpp": 2.6155721421188294e-05,
-        "starts_with.string_view.pass.cpp": 2.6162024682537628e-05
+        "starts_with.char.pass.cpp": 33.33065588427607,
+        "starts_with.ptr.pass.cpp": 33.33065588427607,
+        "starts_with.string_view.pass.cpp": 33.338688231447854
     },
     "subdirscores": {}
 }

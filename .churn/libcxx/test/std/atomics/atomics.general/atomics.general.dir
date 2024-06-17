@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/libcxx/test/std/atomics/atomics.general",
-    "score.sum": 3.1695744607143e-05,
+    "score.sum": 2.7296425339892404e-05,
     "sha.latest": "92832e4889ae6038cc8b3e6e449af2a9b9374ab4",
     "time.latest": 1717873279.3038368,
     "formatted_time": "2024-06-09 00:31:19.303840",
     "filescores": {
-        "replace_failure_order.pass.cpp": 2.1196823271041205e-05,
-        "replace_failure_order_codegen.sh.cpp": 6.099602068851199e-06
+        "replace_failure_order.pass.cpp": 77.65420932265103,
+        "replace_failure_order_codegen.sh.cpp": 22.34579067734897
     },
     "subdirscores": {}
 }

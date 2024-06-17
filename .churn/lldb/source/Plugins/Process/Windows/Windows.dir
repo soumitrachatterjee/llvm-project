@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/lldb/source/Plugins/Process/Windows",
-    "score.sum": 0.0006663651028433459,
+    "score.sum": 0.0005608078337776899,
     "sha.latest": "935c652d07145960124ab1264ed1accc26759401",
     "time.latest": 1717879691.7106514,
     "formatted_time": "2024-06-09 02:18:11.710653",
     "filescores": {},
     "subdirscores": {
-        "Common": 0.0005608078337776899
+        "Common": 100.0
     }
 }

@@ -5,11 +5,11 @@
     "time.latest": 1717891488.9279926,
     "formatted_time": "2024-06-09 05:34:48.927994",
     "filescores": {
-        "main.cpp": 0,
-        "Makefile": 0,
-        "TestStdModuleBuildErrors.py": 8.712156225698628e-06
+        "main.cpp": 0.0,
+        "Makefile": 0.0,
+        "TestStdModuleBuildErrors.py": 100.0
     },
     "subdirscores": {
-        "root": 0
+        "root": 0.0
     }
 }

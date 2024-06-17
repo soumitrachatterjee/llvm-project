@@ -6,6 +6,6 @@
     "formatted_time": "2024-06-11 10:45:52.843192",
     "filescores": {},
     "subdirscores": {
-        "class.copy.elision": 5.220906587973154e-05
+        "class.copy.elision": 100.0
     }
 }

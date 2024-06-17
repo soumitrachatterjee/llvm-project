@@ -5,10 +5,10 @@
     "time.latest": 1717910617.002383,
     "formatted_time": "2024-06-09 10:53:37.002385",
     "filescores": {
-        "inline.ll": 0,
-        "main.c": 0,
-        "Makefile": 0,
-        "TestInlineSourceFiles.py": 6.697790356052905e-06
+        "inline.ll": 0.0,
+        "main.c": 0.0,
+        "Makefile": 0.0,
+        "TestInlineSourceFiles.py": 100.0
     },
     "subdirscores": {}
 }

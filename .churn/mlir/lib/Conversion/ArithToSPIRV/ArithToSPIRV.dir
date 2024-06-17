@@ -5,8 +5,8 @@
     "time.latest": 1717802540.4218147,
     "formatted_time": "2024-06-07 18:22:20.421818",
     "filescores": {
-        "ArithToSPIRV.cpp": 6.605427443567784e-05,
-        "CMakeLists.txt": 0
+        "ArithToSPIRV.cpp": 100.0,
+        "CMakeLists.txt": 0.0
     },
     "subdirscores": {}
 }

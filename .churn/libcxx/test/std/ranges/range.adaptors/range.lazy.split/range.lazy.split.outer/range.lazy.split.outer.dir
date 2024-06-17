@@ -1,18 +1,18 @@
 {
     "directory name": "llvm-project/libcxx/test/std/ranges/range.adaptors/range.lazy.split/range.lazy.split.outer",
-    "score.sum": 8.946175212195381e-06,
+    "score.sum": 5.4489962837497956e-05,
     "sha.latest": "b8cb1dc9ea87faa8e8e9ab7a31710a8c0bb8b084",
     "time.latest": 1717962374.3961153,
     "formatted_time": "2024-06-10 01:16:14.396117",
     "filescores": {
-        "ctor.copy.pass.cpp": 6.099602068851199e-06,
-        "ctor.default.pass.cpp": 6.099602068851199e-06,
-        "ctor.parent.pass.cpp": 6.099602068851199e-06,
-        "ctor.parent_base.pass.cpp": 6.099602068851199e-06,
-        "deref.pass.cpp": 8.946175212195381e-06,
-        "equal.pass.cpp": 6.099602068851199e-06,
-        "increment.pass.cpp": 8.946175212195381e-06,
-        "types.compile.pass.cpp": 6.099602068851199e-06
+        "ctor.copy.pass.cpp": 11.193991978011923,
+        "ctor.default.pass.cpp": 11.193991978011923,
+        "ctor.parent.pass.cpp": 11.193991978011923,
+        "ctor.parent_base.pass.cpp": 11.193991978011923,
+        "deref.pass.cpp": 16.418024065964232,
+        "equal.pass.cpp": 11.193991978011923,
+        "increment.pass.cpp": 16.418024065964232,
+        "types.compile.pass.cpp": 11.193991978011923
     },
     "subdirscores": {}
 }

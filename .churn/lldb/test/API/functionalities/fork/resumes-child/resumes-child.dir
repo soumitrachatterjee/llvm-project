@@ -5,9 +5,9 @@
     "time.latest": 1717909718.620721,
     "formatted_time": "2024-06-09 10:38:38.620723",
     "filescores": {
-        "main.cpp": 0,
-        "Makefile": 0,
-        "TestForkResumesChild.py": 6.099602068851199e-06
+        "main.cpp": 0.0,
+        "Makefile": 0.0,
+        "TestForkResumesChild.py": 100.0
     },
     "subdirscores": {}
 }

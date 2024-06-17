@@ -1,22 +1,22 @@
 {
     "directory name": "llvm-project/cmake/Modules",
-    "score.sum": 0.00012539680073269803,
+    "score.sum": 0.0001278328611072005,
     "sha.latest": "c6bd873403a8ac6538a3fe3b3c2fe39c16b146a6",
     "time.latest": 1717787913.6204052,
     "formatted_time": "2024-06-08 00:48:33.622384",
     "filescores": {
-        "CMakePolicy.cmake": 2.0401339919116258e-05,
-        "EnableLanguageNolink.cmake": 0,
-        "ExtendPath.cmake": 6.099602068851199e-06,
-        "FindGRPC.cmake": 1.2073986818045005e-05,
-        "FindPrefixFromConfig.cmake": 1.2185776708311152e-05,
-        "GetClangResourceDir.cmake": 6.099602068851199e-06,
-        "GNUInstallPackageDir.cmake": 1.212354377794893e-05,
-        "HandleCompilerRT.cmake": 2.371481047949105e-05,
-        "HandleOutOfTreeLLVM.cmake": 0,
-        "LLVMCheckCompilerLinkerFlag.cmake": 3.5134199266585714e-05,
-        "SetPlatformToolchainTools.cmake": 0,
-        "SortSubset.cmake": 0
+        "CMakePolicy.cmake": 15.959386140945181,
+        "EnableLanguageNolink.cmake": 0.0,
+        "ExtendPath.cmake": 4.771544668577886,
+        "FindGRPC.cmake": 9.445135400607025,
+        "FindPrefixFromConfig.cmake": 9.532585442245693,
+        "GetClangResourceDir.cmake": 4.771544668577886,
+        "GNUInstallPackageDir.cmake": 9.483902396412875,
+        "HandleCompilerRT.cmake": 18.55141962253652,
+        "HandleOutOfTreeLLVM.cmake": 0.0,
+        "LLVMCheckCompilerLinkerFlag.cmake": 27.48448166009694,
+        "SetPlatformToolchainTools.cmake": 0.0,
+        "SortSubset.cmake": 0.0
     },
     "subdirscores": {}
 }

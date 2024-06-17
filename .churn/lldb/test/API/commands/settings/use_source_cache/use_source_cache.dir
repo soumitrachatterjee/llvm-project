@@ -5,9 +5,9 @@
     "time.latest": 1717897692.8728266,
     "formatted_time": "2024-06-09 07:18:12.872829",
     "filescores": {
-        "main.cpp": 0,
-        "Makefile": 0,
-        "TestUseSourceCache.py": 1.485424893273744e-05
+        "main.cpp": 0.0,
+        "Makefile": 0.0,
+        "TestUseSourceCache.py": 100.0
     },
     "subdirscores": {}
 }

@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/libcxx/test/std/utilities/utility/as_const",
-    "score.sum": 2.425350560924222e-05,
+    "score.sum": 2.6561939063117105e-05,
     "sha.latest": "947dfc95ca914385c181f24bbc1a16143c17b5f0",
     "time.latest": 1718007631.2179446,
     "formatted_time": "2024-06-10 13:50:31.217949",
     "filescores": {
-        "as_const.compile.fail.cpp": 6.099602068851199e-06,
-        "as_const.pass.cpp": 2.0462336994265906e-05
+        "as_const.compile.fail.cpp": 22.963692727240964,
+        "as_const.pass.cpp": 77.03630727275905
     },
     "subdirscores": {}
 }

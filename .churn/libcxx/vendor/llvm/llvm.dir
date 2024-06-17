@@ -5,7 +5,7 @@
     "time.latest": 1718011376.2338831,
     "formatted_time": "2024-06-10 14:52:56.233885",
     "filescores": {
-        "default_assertion_handler.in": 6.099602068851199e-06
+        "default_assertion_handler.in": 100.0
     },
     "subdirscores": {}
 }

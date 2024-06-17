@@ -5,8 +5,8 @@
     "time.latest": 1718081726.3544934,
     "formatted_time": "2024-06-10 23:55:26.354497",
     "filescores": {
-        "CMakeLists.txt": 0,
-        "ELFYAMLTest.cpp": 4.183455877229264e-05
+        "CMakeLists.txt": 0.0,
+        "ELFYAMLTest.cpp": 100.0
     },
     "subdirscores": {}
 }

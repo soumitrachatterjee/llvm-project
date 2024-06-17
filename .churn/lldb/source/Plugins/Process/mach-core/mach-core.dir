@@ -1,15 +1,15 @@
 {
     "directory name": "llvm-project/lldb/source/Plugins/Process/mach-core",
-    "score.sum": 0.00046426072589995015,
+    "score.sum": 0.0006570492019735495,
     "sha.latest": "0123cefc00177e4fc7daa0dadf98ca8336760785",
     "time.latest": 1717875928.893383,
     "formatted_time": "2024-06-09 01:15:28.893387",
     "filescores": {
-        "CMakeLists.txt": 1.3802397408955207e-05,
-        "ProcessMachCore.cpp": 0.00040361670738262647,
-        "ProcessMachCore.h": 0.00014318057939289965,
-        "ThreadMachCore.cpp": 6.729462244968348e-05,
-        "ThreadMachCore.h": 2.9154895339384693e-05
+        "CMakeLists.txt": 2.1006642071092334,
+        "ProcessMachCore.cpp": 61.4286884711679,
+        "ProcessMachCore.h": 21.791454728631358,
+        "ThreadMachCore.cpp": 10.241945694105345,
+        "ThreadMachCore.h": 4.437246898986169
     },
     "subdirscores": {}
 }

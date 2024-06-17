@@ -5,7 +5,7 @@
     "time.latest": 1717845358.431449,
     "formatted_time": "2024-06-08 16:45:58.431453",
     "filescores": {
-        "lockfree.pass.cpp": 9.149276837041909e-06
+        "lockfree.pass.cpp": 100.0
     },
     "subdirscores": {}
 }

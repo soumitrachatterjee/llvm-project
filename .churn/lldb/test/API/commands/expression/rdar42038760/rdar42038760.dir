@@ -5,8 +5,8 @@
     "time.latest": 1717893742.7307365,
     "formatted_time": "2024-06-09 06:12:22.730738",
     "filescores": {
-        "main.c": 3.562632506167434e-05,
-        "TestScalarURem.py": 0
+        "main.c": 100.0,
+        "TestScalarURem.py": 0.0
     },
     "subdirscores": {}
 }

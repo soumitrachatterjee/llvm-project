@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/lldb/test/API/lang/c/anonymous",
-    "score.sum": 1.5178594597774064e-05,
+    "score.sum": 2.123852978889355e-05,
     "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
     "time.latest": 1717924772.7933133,
     "formatted_time": "2024-06-09 14:49:32.793315",
     "filescores": {
-        "main.c": 6.099602068851199e-06,
-        "Makefile": 0,
-        "TestAnonymous.py": 1.513892772004235e-05
+        "main.c": 28.719511799921843,
+        "Makefile": 0.0,
+        "TestAnonymous.py": 71.28048820007815
     },
     "subdirscores": {}
 }

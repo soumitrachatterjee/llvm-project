@@ -5,8 +5,8 @@
     "time.latest": 1717831945.4956028,
     "formatted_time": "2024-06-08 02:32:25.495607",
     "filescores": {
-        "fma.cl": 6.099602068851199e-06,
-        "fma.inc": 0
+        "fma.cl": 100.0,
+        "fma.inc": 0.0
     },
     "subdirscores": {}
 }

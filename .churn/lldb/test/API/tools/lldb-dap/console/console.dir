@@ -5,10 +5,10 @@
     "time.latest": 1717968863.496129,
     "formatted_time": "2024-06-10 03:04:23.496132",
     "filescores": {
-        "main.cpp": 0,
-        "Makefile": 0,
-        "TestDAP_console.py": 6.099602068851199e-06,
-        "TestDAP_redirection_to_console.py": 0
+        "main.cpp": 0.0,
+        "Makefile": 0.0,
+        "TestDAP_console.py": 100.0,
+        "TestDAP_redirection_to_console.py": 0.0
     },
     "subdirscores": {}
 }

@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/lldb/source/Plugins/ObjectContainer/BSD-Archive",
-    "score.sum": 0.0002504769248948976,
+    "score.sum": 0.00033428279405801106,
     "sha.latest": "d4a141ef932a596df61581090b70d0b546de68b2",
     "time.latest": 1717871638.3324564,
     "formatted_time": "2024-06-09 00:03:58.332460",
     "filescores": {
-        "CMakeLists.txt": 1.0924277077304606e-05,
-        "ObjectContainerBSDArchive.cpp": 0.00021956848931493057,
-        "ObjectContainerBSDArchive.h": 0.00010379002766577586
+        "CMakeLists.txt": 3.2679746823609532,
+        "ObjectContainerBSDArchive.cpp": 65.68345521152575,
+        "ObjectContainerBSDArchive.h": 31.04857010611329
     },
     "subdirscores": {}
 }

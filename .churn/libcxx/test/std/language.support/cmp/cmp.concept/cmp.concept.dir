@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/libcxx/test/std/language.support/cmp/cmp.concept",
-    "score.sum": 2.311575760350035e-05,
+    "score.sum": 2.9215359672351548e-05,
     "sha.latest": "ee78181f34ca6abe9b88dd1ccf97816e434e675d",
     "time.latest": 1717920630.3690329,
     "formatted_time": "2024-06-09 13:40:30.369034",
     "filescores": {
-        "three_way_comparable.compile.pass.cpp": 2.311575760350035e-05,
-        "three_way_comparable_with.compile.pass.cpp": 6.099602068851199e-06
+        "three_way_comparable.compile.pass.cpp": 79.12193401944094,
+        "three_way_comparable_with.compile.pass.cpp": 20.87806598055906
     },
     "subdirscores": {}
 }

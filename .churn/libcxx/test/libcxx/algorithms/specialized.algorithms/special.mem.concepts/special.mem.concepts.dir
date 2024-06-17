@@ -1,15 +1,15 @@
 {
     "directory name": "llvm-project/libcxx/test/libcxx/algorithms/specialized.algorithms/special.mem.concepts",
-    "score.sum": 1.7239978915986658e-05,
+    "score.sum": 6.151501129384467e-05,
     "sha.latest": "c90801457f7cbbaee97821a06a893f4146ab1b2e",
     "time.latest": 1717844888.679541,
     "formatted_time": "2024-06-08 16:38:08.679545",
     "filescores": {
-        "nothrow_forward_iterator.compile.pass.cpp": 1.2650396861494953e-05,
-        "nothrow_forward_range.compile.pass.cpp": 1.2398902418054547e-05,
-        "nothrow_input_iterator.compile.pass.cpp": 1.171825172820795e-05,
-        "nothrow_input_range.compile.pass.cpp": 9.827335897237895e-06,
-        "nothrow_sentinel_for.compile.pass.cpp": 1.4920124388849326e-05
+        "nothrow_forward_iterator.compile.pass.cpp": 20.56473142964501,
+        "nothrow_forward_range.compile.pass.cpp": 20.155897166022648,
+        "nothrow_input_iterator.compile.pass.cpp": 19.04941815296473,
+        "nothrow_input_range.compile.pass.cpp": 15.975508563746684,
+        "nothrow_sentinel_for.compile.pass.cpp": 24.254444687620936
     },
     "subdirscores": {}
 }

@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/clang/test/ASTMerge/enum/Inputs",
-    "score.sum": 1.1677920706871453e-05,
+    "score.sum": 2.3355841413742906e-05,
     "sha.latest": "0333dd95636da52229ca14b4e5525c1cd8ba62d2",
     "time.latest": 1717865187.0254827,
     "formatted_time": "2024-06-08 22:16:27.025486",
     "filescores": {
-        "enum1.c": 1.1677920706871453e-05,
-        "enum2.c": 1.1677920706871453e-05
+        "enum1.c": 50.0,
+        "enum2.c": 50.0
     },
     "subdirscores": {}
 }

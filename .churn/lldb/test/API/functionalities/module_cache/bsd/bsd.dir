@@ -5,12 +5,12 @@
     "time.latest": 1717912558.1865125,
     "formatted_time": "2024-06-09 11:25:58.186514",
     "filescores": {
-        "a.c": 0,
-        "b.c": 0,
-        "c.c": 0,
-        "main.c": 0,
-        "Makefile": 0,
-        "TestModuleCacheBSD.py": 1.2654943906544846e-05
+        "a.c": 0.0,
+        "b.c": 0.0,
+        "c.c": 0.0,
+        "main.c": 0.0,
+        "Makefile": 0.0,
+        "TestModuleCacheBSD.py": 100.0
     },
     "subdirscores": {}
 }

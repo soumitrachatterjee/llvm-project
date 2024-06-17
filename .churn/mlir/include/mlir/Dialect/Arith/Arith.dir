@@ -1,15 +1,15 @@
 {
     "directory name": "llvm-project/mlir/include/mlir/Dialect/Arith",
-    "score.sum": 0.00023707983761314482,
+    "score.sum": 0.00025784556503439447,
     "sha.latest": "1a8c6130f60fe517fb722ab4309997ce7b638234",
     "time.latest": 1717793132.932647,
     "formatted_time": "2024-06-07 15:45:32.932648",
     "filescores": {
-        "CMakeLists.txt": 0
+        "CMakeLists.txt": 0.0
     },
     "subdirscores": {
-        "IR": 0.00016016888021927196,
-        "Transforms": 7.561513110496642e-05,
-        "Utils": 2.2061553710156086e-05
+        "IR": 62.11814432329164,
+        "Transforms": 29.32574430546439,
+        "Utils": 8.556111371243968
     }
 }

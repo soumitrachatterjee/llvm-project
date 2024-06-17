@@ -1,17 +1,17 @@
 {
     "directory name": "llvm-project/libcxx/test/std/numerics/bit",
-    "score.sum": 0.00014754438143086348,
+    "score.sum": 0.00026407909618433753,
     "sha.latest": "1ee41b415398cde51c055a7b1a4d419350e7038f",
     "time.latest": 1717933279.9071004,
     "formatted_time": "2024-06-09 17:11:19.907103",
     "filescores": {
-        "byteswap.pass.cpp": 1.3651080056049197e-05
+        "byteswap.pass.cpp": 5.169314895912931
     },
     "subdirscores": {
-        "bit.cast": 1.0195284351382059e-05,
-        "bit.endian": 1.939924713264407e-05,
-        "bit.pow.two": 9.924779783000751e-05,
-        "bitops.count": 5.544065998696697e-05,
-        "bitops.rot": 6.614502682728772e-05
+        "bit.cast": 3.8606934432498026,
+        "bit.endian": 7.345998760576883,
+        "bit.pow.two": 37.582602812578806,
+        "bitops.count": 20.993960062733336,
+        "bitops.rot": 25.047430024948248
     }
 }

@@ -5,8 +5,8 @@
     "time.latest": 1718079316.1380394,
     "formatted_time": "2024-06-10 23:15:16.138042",
     "filescores": {
-        "CMakeLists.txt": 0,
-        "llvm-dis-fuzzer.cpp": 6.099602068851199e-06
+        "CMakeLists.txt": 0.0,
+        "llvm-dis-fuzzer.cpp": 100.0
     },
     "subdirscores": {}
 }

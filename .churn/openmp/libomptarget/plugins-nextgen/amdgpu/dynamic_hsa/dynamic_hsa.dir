@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/openmp/libomptarget/plugins-nextgen/amdgpu/dynamic_hsa",
-    "score.sum": 2.370076730095587e-05,
+    "score.sum": 2.8886616320710153e-05,
     "sha.latest": "ae99966a279601022d2b4d61dfbec349f7d65c12",
     "time.latest": 1717795527.526628,
     "formatted_time": "2024-06-08 02:55:27.526632",
     "filescores": {
-        "hsa.cpp": 1.2167676026536658e-05,
-        "hsa.h": 6.099602068851199e-06,
-        "hsa_ext_amd.h": 1.0619338225322296e-05
+        "hsa.cpp": 42.12219213024645,
+        "hsa.h": 21.11566824279835,
+        "hsa_ext_amd.h": 36.762139626955204
     },
     "subdirscores": {}
 }

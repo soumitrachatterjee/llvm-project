@@ -1,19 +1,19 @@
 {
     "directory name": "llvm-project/libc/config",
-    "score.sum": 0.0019226713199772805,
+    "score.sum": 0.002171954927928412,
     "sha.latest": "fe1645e25c5ab5e3ba8aa16d4f637633ded328ab",
     "time.latest": 1717825247.3707008,
     "formatted_time": "2024-06-08 00:40:47.370701",
     "filescores": {
-        "CMakeLists.txt": 6.099602068851199e-06,
-        "config.json": 1.3923321973477973e-05,
-        "public_api.td": 1.2153896611881324e-05
+        "CMakeLists.txt": 0.28083465224892745,
+        "config.json": 0.6410502259712126,
+        "public_api.td": 0.5595832793580843
     },
     "subdirscores": {
-        "baremetal": 9.835267017660148e-05,
-        "darwin": 0.000127040633765989,
-        "gpu": 0.00016779538815751927,
-        "linux": 0.001590696847580678,
-        "windows": 0.00015589256759341346
+        "baremetal": 4.528301619518837,
+        "darwin": 5.849137665446817,
+        "gpu": 7.725546511112953,
+        "linux": 73.2380229039959,
+        "windows": 7.177523142347257
     }
 }

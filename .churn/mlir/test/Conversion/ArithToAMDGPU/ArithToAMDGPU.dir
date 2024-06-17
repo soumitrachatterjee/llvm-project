@@ -5,8 +5,8 @@
     "time.latest": 1717815278.7514114,
     "formatted_time": "2024-06-07 21:54:38.751414",
     "filescores": {
-        "8-bit-float-saturation.mlir": 0,
-        "8-bit-floats.mlir": 6.099602068851199e-06
+        "8-bit-float-saturation.mlir": 0.0,
+        "8-bit-floats.mlir": 100.0
     },
     "subdirscores": {}
 }

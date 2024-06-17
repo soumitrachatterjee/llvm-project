@@ -5,8 +5,8 @@
     "time.latest": 1717889869.049717,
     "formatted_time": "2024-06-09 05:07:49.049719",
     "filescores": {
-        "main.cpp": 0,
-        "TestDeletingImplicitCopyConstructor.py": 2.0681554877411028e-05
+        "main.cpp": 0.0,
+        "TestDeletingImplicitCopyConstructor.py": 100.0
     },
     "subdirscores": {}
 }

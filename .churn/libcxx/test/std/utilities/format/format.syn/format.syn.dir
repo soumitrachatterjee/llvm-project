@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/libcxx/test/std/utilities/format/format.syn",
-    "score.sum": 1.4612684494646573e-05,
+    "score.sum": 1.1684168547936352e-05,
     "sha.latest": "92d9f232dd627eea8bd2c825c539b28374bbfa69",
     "time.latest": 1717995239.7079957,
     "formatted_time": "2024-06-10 10:23:59.707997",
     "filescores": {
-        "format_to_n_result.pass.cpp": 1.1684168547936352e-05,
-        "runtime_format_string.pass.cpp": 0
+        "format_to_n_result.pass.cpp": 100.0,
+        "runtime_format_string.pass.cpp": 0.0
     },
     "subdirscores": {}
 }

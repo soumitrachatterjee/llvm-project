@@ -1,15 +1,15 @@
 {
     "directory name": "llvm-project/clang/tools/clang-refactor",
-    "score.sum": 0.00010627538510881831,
+    "score.sum": 0.00016860324451572857,
     "sha.latest": "f3dcc2351cff7b26c9870d737e5d431551542d9e",
     "time.latest": 1718082177.2567227,
     "formatted_time": "2024-06-11 10:32:57.256725",
     "filescores": {
-        "ClangRefactor.cpp": 7.117815953323878e-05,
-        "CMakeLists.txt": 1.8273230228087506e-05,
-        "TestSupport.cpp": 4.49559902848225e-05,
-        "TestSupport.h": 2.809626240072859e-05,
-        "ToolRefactoringResultConsumer.h": 6.099602068851199e-06
+        "ClangRefactor.cpp": 42.21636406682479,
+        "CMakeLists.txt": 10.83800627951904,
+        "TestSupport.cpp": 26.663775311054984,
+        "TestSupport.h": 16.66412914023583,
+        "ToolRefactoringResultConsumer.h": 3.6177252023653574
     },
     "subdirscores": {}
 }

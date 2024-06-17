@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/lld/test/MachO/Inputs/MacOSX.sdk/System/Library/Frameworks",
-    "score.sum": 1.1402106683992771e-05,
+    "score.sum": 1.0083498065674537e-05,
     "sha.latest": "3254f46884d3ec2d6112ab49ba3c470906699cda",
     "time.latest": 1717897942.094316,
     "formatted_time": "2024-06-09 07:22:22.094319",
     "filescores": {},
     "subdirscores": {
-        "CoreFoundation.framework": 1.0083498065674537e-05,
-        "MacOnly-Indirect.framework": 0,
-        "MacOnly.framework": 0
+        "CoreFoundation.framework": 100.0,
+        "MacOnly-Indirect.framework": 0.0,
+        "MacOnly.framework": 0.0
     }
 }

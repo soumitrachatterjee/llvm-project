@@ -5,7 +5,7 @@
     "time.latest": 1717907095.4092462,
     "formatted_time": "2024-06-09 09:54:55.409248",
     "filescores": {
-        "riscv32-zihintntl.c": 1.0413533175165078e-05
+        "riscv32-zihintntl.c": 100.0
     },
     "subdirscores": {}
 }

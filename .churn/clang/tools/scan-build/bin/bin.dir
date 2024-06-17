@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/clang/tools/scan-build/bin",
-    "score.sum": 7.61203440773201e-05,
+    "score.sum": 8.177712886358696e-05,
     "sha.latest": "dcbb574cfc3445251ff1c751f27b52ed6503bead",
     "time.latest": 1718082644.0364795,
     "formatted_time": "2024-06-11 10:40:44.036482",
     "filescores": {
-        "scan-build": 6.605214679707243e-05,
-        "scan-build.bat": 0,
-        "set-xcode-analyzer": 1.5724982066514526e-05
+        "scan-build": 80.77092912769598,
+        "scan-build.bat": 0.0,
+        "set-xcode-analyzer": 19.229070872304025
     },
     "subdirscores": {}
 }

@@ -1,15 +1,15 @@
 {
     "directory name": "llvm-project/lldb/test/API/commands/target/stop-hooks",
-    "score.sum": 3.614319165225998e-05,
+    "score.sum": 7.416769239737591e-05,
     "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
     "time.latest": 1717898978.9370086,
     "formatted_time": "2024-06-09 07:39:38.937012",
     "filescores": {
-        "main.c": 1.4061862954475244e-05,
-        "Makefile": 0,
-        "stop_hook.py": 1.2222459543443039e-05,
-        "TestStopHooks.py": 2.6483417597394785e-05,
-        "TestStopHookScripted.py": 2.1399952302062836e-05
+        "main.c": 18.95955300743961,
+        "Makefile": 0.0,
+        "stop_hook.py": 16.47949282007792,
+        "TestStopHooks.py": 35.70748494573869,
+        "TestStopHookScripted.py": 28.853469226743766
     },
     "subdirscores": {}
 }

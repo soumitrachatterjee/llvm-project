@@ -5,9 +5,9 @@
     "time.latest": 1717922009.965978,
     "formatted_time": "2024-06-09 14:03:29.965979",
     "filescores": {
-        "main.cpp": 0,
-        "Makefile": 0,
-        "TestCreateAfterAttach.py": 2.2193730014826518e-05
+        "main.cpp": 0.0,
+        "Makefile": 0.0,
+        "TestCreateAfterAttach.py": 100.0
     },
     "subdirscores": {}
 }

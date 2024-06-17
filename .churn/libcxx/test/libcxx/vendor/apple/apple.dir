@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/libcxx/test/libcxx/vendor/apple",
-    "score.sum": 2.140629208197106e-05,
+    "score.sum": 1.5788301711427037e-05,
     "sha.latest": "292a28df6c55679fad0589dea35278a8c66b2ae1",
     "time.latest": 1717867945.0190454,
     "formatted_time": "2024-06-08 23:02:25.019048",
     "filescores": {
-        "availability-with-pedantic-errors.compile.pass.cpp": 0,
-        "system-install-properties.sh.cpp": 1.5788301711427037e-05
+        "availability-with-pedantic-errors.compile.pass.cpp": 0.0,
+        "system-install-properties.sh.cpp": 100.0
     },
     "subdirscores": {}
 }

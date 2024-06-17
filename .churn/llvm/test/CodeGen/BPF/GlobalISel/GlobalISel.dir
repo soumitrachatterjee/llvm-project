@@ -5,7 +5,7 @@
     "time.latest": 1718042018.0604308,
     "formatted_time": "2024-06-10 12:53:38.060434",
     "filescores": {
-        "ir-translator-ret.ll": 6.099602068851199e-06
+        "ir-translator-ret.ll": 100.0
     },
     "subdirscores": {}
 }

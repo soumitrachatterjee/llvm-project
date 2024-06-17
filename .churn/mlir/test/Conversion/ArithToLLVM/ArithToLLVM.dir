@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/mlir/test/Conversion/ArithToLLVM",
-    "score.sum": 7.146269861975477e-05,
+    "score.sum": 7.756230068860597e-05,
     "sha.latest": "f7ef73ea889a43b893f6277a2ecc227fd2bf803a",
     "time.latest": 1717815333.8516037,
     "formatted_time": "2024-06-07 21:55:33.851607",
     "filescores": {
-        "arith-to-llvm.mlir": 7.146269861975477e-05,
-        "convert-nd-vector-to-llvmir.mlir": 6.099602068851199e-06
+        "arith-to-llvm.mlir": 92.13586753526091,
+        "convert-nd-vector-to-llvmir.mlir": 7.864132464739073
     },
     "subdirscores": {}
 }

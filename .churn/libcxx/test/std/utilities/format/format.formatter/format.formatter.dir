@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/libcxx/test/std/utilities/format/format.formatter",
-    "score.sum": 0.00023370620389817314,
+    "score.sum": 0.0002441837588111045,
     "sha.latest": "74fb205876be681d2ca9d8bdd23e171e671df5e1",
     "time.latest": 1717994530.6283133,
     "formatted_time": "2024-06-10 10:12:10.628315",
     "filescores": {},
     "subdirscores": {
-        "format.context": 6.833369974164249e-05,
-        "format.formatter.spec": 9.295252477781678e-05,
-        "format.parse.ctx": 8.289753429164519e-05
+        "format.context": 27.98453921519982,
+        "format.formatter.spec": 38.066628685867244,
+        "format.parse.ctx": 33.948832098932925
     }
 }

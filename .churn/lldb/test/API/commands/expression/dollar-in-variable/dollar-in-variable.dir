@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/lldb/test/API/commands/expression/dollar-in-variable",
-    "score.sum": 1.846809197996987e-05,
+    "score.sum": 3.3583473264601425e-05,
     "sha.latest": "cf2f4334582b55d42a74ca61c8feafa6a85e80f4",
     "time.latest": 1717889960.540644,
     "formatted_time": "2024-06-09 05:09:20.540646",
     "filescores": {
-        "main.c": 1.620474587881334e-05,
-        "Makefile": 0,
-        "TestDollarInVariable.py": 1.737872738578809e-05
+        "main.c": 48.25214399695195,
+        "Makefile": 0.0,
+        "TestDollarInVariable.py": 51.747856003048064
     },
     "subdirscores": {}
 }

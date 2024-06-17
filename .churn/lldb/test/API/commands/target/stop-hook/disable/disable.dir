@@ -5,7 +5,7 @@
     "time.latest": 1717898846.8548455,
     "formatted_time": "2024-06-09 07:37:26.854848",
     "filescores": {
-        "TestTargetStopHookDisable.py": 1.0228257440187292e-05
+        "TestTargetStopHookDisable.py": 100.0
     },
     "subdirscores": {}
 }

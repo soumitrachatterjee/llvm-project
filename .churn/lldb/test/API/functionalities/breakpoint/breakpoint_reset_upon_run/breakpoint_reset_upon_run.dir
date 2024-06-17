@@ -5,9 +5,9 @@
     "time.latest": 1717902820.809697,
     "formatted_time": "2024-06-09 08:43:40.809699",
     "filescores": {
-        "main.cpp": 0,
-        "Makefile": 0,
-        "TestBreakpointResetUponRun.py": 6.099602068851199e-06
+        "main.cpp": 0.0,
+        "Makefile": 0.0,
+        "TestBreakpointResetUponRun.py": 100.0
     },
     "subdirscores": {}
 }

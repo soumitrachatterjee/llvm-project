@@ -1,16 +1,16 @@
 {
     "directory name": "llvm-project/llvm/include/llvm/DebugInfo/Symbolize",
-    "score.sum": 0.0003462331546036156,
+    "score.sum": 0.00040044497613341164,
     "sha.latest": "cb1a7d28e608a107d001e11e0e0baa8b4fea97b5",
     "time.latest": 1717814532.681796,
     "formatted_time": "2024-06-07 21:42:12.681800",
     "filescores": {
-        "DIPrinter.h": 0.000139340618389943,
-        "Markup.h": 1.7637177713827182e-05,
-        "MarkupFilter.h": 1.9332495707437026e-05,
-        "SymbolizableModule.h": 4.313925470738709e-05,
-        "SymbolizableObjectFile.h": 2.2702673634158936e-05,
-        "Symbolize.h": 0.0001582927559806584
+        "DIPrinter.h": 34.79644562790581,
+        "Markup.h": 4.4043948020342265,
+        "MarkupFilter.h": 4.827753339324262,
+        "SymbolizableModule.h": 10.77282954675273,
+        "SymbolizableObjectFile.h": 5.669361582050501,
+        "Symbolize.h": 39.529215101932465
     },
     "subdirscores": {}
 }

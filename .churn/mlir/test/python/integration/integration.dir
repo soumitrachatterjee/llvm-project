@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/mlir/test/python/integration",
-    "score.sum": 5.1862928229568464e-05,
+    "score.sum": 5.727269790455968e-05,
     "sha.latest": "537b2aa264c5a9879a80289c8d123b39e520eb15",
     "time.latest": 1717834590.174088,
     "formatted_time": "2024-06-08 03:16:30.174092",
     "filescores": {
-        "lit.local.cfg": 6.099602068851199e-06
+        "lit.local.cfg": 10.650104311509285
     },
     "subdirscores": {
-        "dialects": 5.117309583570848e-05
+        "dialects": 89.3498956884907
     }
 }

@@ -1,16 +1,16 @@
 {
     "directory name": "llvm-project/mlir/include/mlir/Analysis/DataFlow",
-    "score.sum": 8.86010110074601e-05,
+    "score.sum": 0.00014118604024290643,
     "sha.latest": "32a4e3fccaf304c8d541bdefdb1a7ef829f84c1c",
     "time.latest": 1717790702.8726861,
     "formatted_time": "2024-06-07 15:05:02.872690",
     "filescores": {
-        "ConstantPropagationAnalysis.h": 1.4485222710650077e-05,
-        "DeadCodeAnalysis.h": 2.2219555087129594e-05,
-        "DenseAnalysis.h": 3.676762969847277e-05,
-        "IntegerRangeAnalysis.h": 1.6100829018867563e-05,
-        "LivenessAnalysis.h": 6.099602068851199e-06,
-        "SparseAnalysis.h": 4.551320165893521e-05
+        "ConstantPropagationAnalysis.h": 10.259670634383312,
+        "DeadCodeAnalysis.h": 15.73778473346338,
+        "DenseAnalysis.h": 26.041972446578388,
+        "IntegerRangeAnalysis.h": 11.403980868906416,
+        "LivenessAnalysis.h": 4.320258616472997,
+        "SparseAnalysis.h": 32.23633270019549
     },
     "subdirscores": {}
 }

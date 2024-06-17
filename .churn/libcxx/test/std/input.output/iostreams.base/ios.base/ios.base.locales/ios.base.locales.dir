@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/libcxx/test/std/input.output/iostreams.base/ios.base/ios.base.locales",
-    "score.sum": 1.885982252081835e-05,
+    "score.sum": 3.622609816505658e-05,
     "sha.latest": "7fc6a55688c816f5fc1a5481ae7af25be7500356",
     "time.latest": 1717907854.5929463,
     "formatted_time": "2024-06-09 10:07:34.592948",
     "filescores": {
-        "getloc.pass.cpp": 1.7366275644238228e-05,
-        "imbue.pass.cpp": 1.885982252081835e-05
+        "getloc.pass.cpp": 47.93857612021161,
+        "imbue.pass.cpp": 52.06142387978839
     },
     "subdirscores": {}
 }

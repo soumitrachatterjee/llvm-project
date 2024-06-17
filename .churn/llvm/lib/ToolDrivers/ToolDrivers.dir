@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/llvm/lib/ToolDrivers",
-    "score.sum": 0.0003100908486019045,
+    "score.sum": 0.0004262505279412313,
     "sha.latest": "4bf50e02554460df86903791380fb5ca17a28bdc",
     "time.latest": 1717874429.6143441,
     "formatted_time": "2024-06-08 14:20:29.614345",
     "filescores": {
-        "CMakeLists.txt": 1.8282955204130903e-05
+        "CMakeLists.txt": 4.289251040329888
     },
     "subdirscores": {
-        "llvm-dlltool": 0.00018664085102796578,
-        "llvm-lib": 0.0002213267217091346
+        "llvm-dlltool": 43.78665568566724,
+        "llvm-lib": 51.92409327400287
     }
 }

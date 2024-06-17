@@ -1,21 +1,21 @@
 {
     "directory name": "llvm-project/polly/test/JSONExporter/ImportArrays",
-    "score.sum": 2.4554607752810347e-05,
+    "score.sum": 0.00010595113044877116,
     "sha.latest": "17168f7f786b051dd4737a576ba371742a29894d",
     "time.latest": 1717813917.8893406,
     "formatted_time": "2024-06-07 21:31:57.889344",
     "filescores": {
-        "ImportArrays-Mispelled-type.ll": 2.048203553638002e-05,
-        "ImportArrays-Negative-size.ll": 2.4022988303251087e-05,
-        "ImportArrays-No-name.ll": 2.048203553638002e-05,
-        "ImportArrays-No-sizes-key.ll": 2.048203553638002e-05,
-        "ImportArrays-No-type-key.ll": 2.048203553638002e-05,
-        "ImportArrays_Negative_Size___%for.cond1.preheader---%for.end18.jscop": 0,
-        "ImportArrays_Negative_Size___%for.cond1.preheader---%for.end18.jscop.transformed": 0,
-        "ia2___%bb9---%bb26.jscop.transformed": 0,
-        "ia3___%bb9---%bb26.jscop.transformed": 0,
-        "ia4___%bb9---%bb26.jscop.transformed": 0,
-        "ia___%bb9---%bb26.jscop.transformed": 0
+        "ImportArrays-Mispelled-type.ll": 19.331587543828395,
+        "ImportArrays-Negative-size.ll": 22.673649824686425,
+        "ImportArrays-No-name.ll": 19.331587543828395,
+        "ImportArrays-No-sizes-key.ll": 19.331587543828395,
+        "ImportArrays-No-type-key.ll": 19.331587543828395,
+        "ImportArrays_Negative_Size___%for.cond1.preheader---%for.end18.jscop": 0.0,
+        "ImportArrays_Negative_Size___%for.cond1.preheader---%for.end18.jscop.transformed": 0.0,
+        "ia2___%bb9---%bb26.jscop.transformed": 0.0,
+        "ia3___%bb9---%bb26.jscop.transformed": 0.0,
+        "ia4___%bb9---%bb26.jscop.transformed": 0.0,
+        "ia___%bb9---%bb26.jscop.transformed": 0.0
     },
     "subdirscores": {}
 }

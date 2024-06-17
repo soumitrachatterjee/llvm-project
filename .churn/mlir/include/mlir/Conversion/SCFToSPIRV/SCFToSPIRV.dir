@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/mlir/include/mlir/Conversion/SCFToSPIRV",
-    "score.sum": 4.244027284385381e-05,
+    "score.sum": 4.519726054616945e-05,
     "sha.latest": "67d0d7ac0acb0665d6a09f61278fbcf51f0114c2",
     "time.latest": 1717792159.7209702,
     "formatted_time": "2024-06-07 15:29:19.720974",
     "filescores": {
-        "SCFToSPIRV.h": 1.6354293974898193e-05,
-        "SCFToSPIRVPass.h": 2.884296657127126e-05
+        "SCFToSPIRV.h": 36.18425934950663,
+        "SCFToSPIRVPass.h": 63.81574065049337
     },
     "subdirscores": {}
 }

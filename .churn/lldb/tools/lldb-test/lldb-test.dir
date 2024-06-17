@@ -1,16 +1,16 @@
 {
     "directory name": "llvm-project/lldb/tools/lldb-test",
-    "score.sum": 0.000307631651722513,
+    "score.sum": 0.00048667625646282907,
     "sha.latest": "fa9284589f111cfd3614a75bfbe0709db39a8f15",
     "time.latest": 1717992219.1681104,
     "formatted_time": "2024-06-10 09:33:39.168113",
     "filescores": {
-        "CMakeLists.txt": 5.287058145120373e-05,
-        "FormatUtil.cpp": 1.1687001978220317e-05,
-        "FormatUtil.h": 1.2083172191283909e-05,
-        "lldb-test.cpp": 0.00019220909667069512,
-        "SystemInitializerTest.cpp": 0.00019871945489864632,
-        "SystemInitializerTest.h": 1.9106949272779723e-05
+        "CMakeLists.txt": 10.86360403843573,
+        "FormatUtil.cpp": 2.4013914430840817,
+        "FormatUtil.h": 2.482794677329155,
+        "lldb-test.cpp": 39.49424162741654,
+        "SystemInitializerTest.cpp": 40.83196010895262,
+        "SystemInitializerTest.h": 3.9260081047818813
     },
     "subdirscores": {}
 }

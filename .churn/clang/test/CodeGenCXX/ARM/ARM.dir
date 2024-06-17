@@ -5,7 +5,7 @@
     "time.latest": 1717995681.8759663,
     "formatted_time": "2024-06-10 10:31:21.875969",
     "filescores": {
-        "exception-alignment.cpp": 1.1237923876655815e-05
+        "exception-alignment.cpp": 100.0
     },
     "subdirscores": {}
 }

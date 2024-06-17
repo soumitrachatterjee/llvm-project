@@ -5,9 +5,9 @@
     "time.latest": 1717959288.142942,
     "formatted_time": "2024-06-10 00:24:48.142945",
     "filescores": {
-        "Makefile": 0,
-        "static.m": 0,
-        "TestObjCStaticMethodStripped.py": 1.7285231527141055e-05
+        "Makefile": 0.0,
+        "static.m": 0.0,
+        "TestObjCStaticMethodStripped.py": 100.0
     },
     "subdirscores": {}
 }

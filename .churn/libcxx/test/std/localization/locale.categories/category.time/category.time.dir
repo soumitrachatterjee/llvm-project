@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/libcxx/test/std/localization/locale.categories/category.time",
-    "score.sum": 0.0001666131587029375,
+    "score.sum": 0.00027838690564326306,
     "sha.latest": "7ec6c629052c30c0772e8fcae346a405af43444e",
     "time.latest": 1717930960.0325704,
     "formatted_time": "2024-06-09 16:32:40.032573",
     "filescores": {},
     "subdirscores": {
-        "locale.time.get": 3.8852984227001515e-05,
-        "locale.time.get.byname": 0.00011214352610105915,
-        "locale.time.put": 4.445898737520023e-05,
-        "locale.time.put.byname": 8.293140794000217e-05
+        "locale.time.get": 13.956469733094917,
+        "locale.time.get.byname": 40.28333367258469,
+        "locale.time.put": 15.970215004355085,
+        "locale.time.put.byname": 29.789981589965308
     }
 }

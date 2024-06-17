@@ -1,22 +1,22 @@
 {
     "directory name": "llvm-project/libcxx/test/std/ranges/range.factories/range.single.view",
-    "score.sum": 2.566714881057941e-05,
+    "score.sum": 0.00013212761230013464,
     "sha.latest": "9f6439f1c5a3e98d03b7416449a256062e420003",
     "time.latest": 1717964843.6314826,
     "formatted_time": "2024-06-10 01:57:23.631486",
     "filescores": {
-        "assign.pass.cpp": 1.8531559388602614e-05,
-        "begin.pass.cpp": 9.89354364693628e-06,
-        "borrowing.compile.pass.cpp": 7.447736073351844e-06,
-        "cpo.pass.cpp": 7.631157818093343e-06,
-        "ctad.compile.pass.cpp": 9.89354364693628e-06,
-        "ctor.default.pass.cpp": 9.89354364693628e-06,
-        "ctor.in_place.pass.cpp": 1.3355594022174238e-05,
-        "ctor.value.pass.cpp": 1.3355594022174238e-05,
-        "data.pass.cpp": 9.89354364693628e-06,
-        "end.pass.cpp": 9.89354364693628e-06,
-        "range_concept_conformance.compile.pass.cpp": 9.89354364693628e-06,
-        "size.pass.cpp": 1.2444709094120713e-05
+        "assign.pass.cpp": 14.025500851788063,
+        "begin.pass.cpp": 7.487869851505821,
+        "borrowing.compile.pass.cpp": 5.636774890349134,
+        "cpo.pass.cpp": 5.775596550370392,
+        "ctad.compile.pass.cpp": 7.487869851505821,
+        "ctor.default.pass.cpp": 7.487869851505821,
+        "ctor.in_place.pass.cpp": 10.10810215190775,
+        "ctor.value.pass.cpp": 10.10810215190775,
+        "data.pass.cpp": 7.487869851505821,
+        "end.pass.cpp": 7.487869851505821,
+        "range_concept_conformance.compile.pass.cpp": 7.487869851505821,
+        "size.pass.cpp": 9.418704294642
     },
     "subdirscores": {}
 }

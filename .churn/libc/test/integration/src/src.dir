@@ -1,19 +1,19 @@
 {
     "directory name": "llvm-project/libc/test/integration/src",
-    "score.sum": 0.0001024005672262211,
+    "score.sum": 0.00019908864384958068,
     "sha.latest": "330793c91d08e6ac60334e4813746db898b9407e",
     "time.latest": 1717844585.1557415,
     "formatted_time": "2024-06-08 06:03:05.155742",
     "filescores": {
-        "CMakeLists.txt": 2.495135652131045e-05
+        "CMakeLists.txt": 12.532787425164333
     },
     "subdirscores": {
-        "__support": 1.926875377923391e-05,
-        "pthread": 5.161818988947364e-05,
-        "spawn": 1.4364295828780045e-05,
-        "stdio": 1.3843390332785582e-05,
-        "stdlib": 1.9916150454874e-05,
-        "threads": 2.1154563283956782e-05,
-        "unistd": 3.397194375916626e-05
+        "__support": 9.678479599163985,
+        "pthread": 25.92723969151812,
+        "spawn": 7.215025202358019,
+        "stdio": 6.953380195429333,
+        "stdlib": 10.003659711460708,
+        "threads": 10.625700630087112,
+        "unistd": 17.063727544818377
     }
 }

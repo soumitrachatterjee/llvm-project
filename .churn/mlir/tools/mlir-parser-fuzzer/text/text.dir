@@ -5,9 +5,9 @@
     "time.latest": 1717835186.4175992,
     "formatted_time": "2024-06-08 03:26:26.417603",
     "filescores": {
-        "CMakeLists.txt": 0,
-        "DummyParserFuzzer.cpp": 0,
-        "mlir-text-parser-fuzzer.cpp": 6.099602068851199e-06
+        "CMakeLists.txt": 0.0,
+        "DummyParserFuzzer.cpp": 0.0,
+        "mlir-text-parser-fuzzer.cpp": 100.0
     },
     "subdirscores": {}
 }

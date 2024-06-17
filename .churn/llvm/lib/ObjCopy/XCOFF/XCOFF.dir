@@ -5,12 +5,12 @@
     "time.latest": 1717841183.8867023,
     "formatted_time": "2024-06-08 05:06:23.886707",
     "filescores": {
-        "XCOFFObjcopy.cpp": 0,
-        "XCOFFObject.h": 0,
-        "XCOFFReader.cpp": 0,
-        "XCOFFReader.h": 0,
-        "XCOFFWriter.cpp": 0,
-        "XCOFFWriter.h": 6.099602068851199e-06
+        "XCOFFObjcopy.cpp": 0.0,
+        "XCOFFObject.h": 0.0,
+        "XCOFFReader.cpp": 0.0,
+        "XCOFFReader.h": 0.0,
+        "XCOFFWriter.cpp": 0.0,
+        "XCOFFWriter.h": 100.0
     },
     "subdirscores": {}
 }

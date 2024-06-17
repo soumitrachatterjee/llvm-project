@@ -5,8 +5,8 @@
     "time.latest": 1717816454.483803,
     "formatted_time": "2024-06-08 08:44:14.483806",
     "filescores": {
-        "file1.yaml": 0,
-        "ignore-conflict.cpp": 6.099602068851199e-06
+        "file1.yaml": 0.0,
+        "ignore-conflict.cpp": 100.0
     },
     "subdirscores": {}
 }

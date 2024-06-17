@@ -5,7 +5,7 @@
     "time.latest": 1717815601.3867385,
     "formatted_time": "2024-06-07 22:00:01.386742",
     "filescores": {
-        "cf-ops-to-spirv.mlir": 1.650322524148538e-05
+        "cf-ops-to-spirv.mlir": 100.0
     },
     "subdirscores": {}
 }

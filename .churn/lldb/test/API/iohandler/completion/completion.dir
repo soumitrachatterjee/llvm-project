@@ -5,9 +5,9 @@
     "time.latest": 1717924558.5647078,
     "formatted_time": "2024-06-09 14:45:58.564709",
     "filescores": {
-        "main.c": 0,
-        "Makefile": 0,
-        "TestIOHandlerCompletion.py": 2.331198197825578e-05
+        "main.c": 0.0,
+        "Makefile": 0.0,
+        "TestIOHandlerCompletion.py": 100.0
     },
     "subdirscores": {}
 }

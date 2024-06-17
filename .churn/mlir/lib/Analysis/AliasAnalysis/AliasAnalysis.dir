@@ -5,7 +5,7 @@
     "time.latest": 1717801131.7720606,
     "formatted_time": "2024-06-07 17:58:51.772064",
     "filescores": {
-        "LocalAliasAnalysis.cpp": 7.984052779002166e-05
+        "LocalAliasAnalysis.cpp": 100.0
     },
     "subdirscores": {}
 }

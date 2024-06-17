@@ -5,7 +5,7 @@
     "time.latest": 1718070947.1861587,
     "formatted_time": "2024-06-10 20:55:47.186162",
     "filescores": {
-        "dyn_alloca_aligned.ll": 1.3336023733735686e-05
+        "dyn_alloca_aligned.ll": 100.0
     },
     "subdirscores": {}
 }

@@ -1,17 +1,17 @@
 {
     "directory name": "llvm-project/lldb/source/Plugins/ABI/PowerPC",
-    "score.sum": 8.5070045659221e-05,
+    "score.sum": 0.00020019105693196498,
     "sha.latest": "624ea68cbc3ce422b3ee110c0c0af839eec2e278",
     "time.latest": 1717867681.8652117,
     "formatted_time": "2024-06-08 22:58:01.865213",
     "filescores": {
-        "ABIPowerPC.cpp": 6.099602068851199e-06,
-        "ABIPowerPC.h": 6.099602068851199e-06,
-        "ABISysV_ppc.cpp": 8.527764771691801e-05,
-        "ABISysV_ppc.h": 1.9342875464667146e-05,
-        "ABISysV_ppc64.cpp": 5.789098234307504e-05,
-        "ABISysV_ppc64.h": 1.9342875464667146e-05,
-        "CMakeLists.txt": 6.137471804935256e-06
+        "ABIPowerPC.cpp": 3.0468903867789416,
+        "ABIPowerPC.h": 3.0468903867789416,
+        "ABISysV_ppc.cpp": 42.598130517838094,
+        "ABISysV_ppc.h": 9.662207573658414,
+        "ABISysV_ppc64.cpp": 28.917866377392333,
+        "ABISysV_ppc64.h": 9.662207573658414,
+        "CMakeLists.txt": 3.0658071838948726
     },
     "subdirscores": {}
 }

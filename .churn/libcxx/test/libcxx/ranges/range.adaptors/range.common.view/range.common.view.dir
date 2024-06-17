@@ -5,7 +5,7 @@
     "time.latest": 1717862575.9980674,
     "formatted_time": "2024-06-08 21:32:55.998070",
     "filescores": {
-        "adaptor.nodiscard.verify.cpp": 1.0512956826320703e-05
+        "adaptor.nodiscard.verify.cpp": 100.0
     },
     "subdirscores": {}
 }

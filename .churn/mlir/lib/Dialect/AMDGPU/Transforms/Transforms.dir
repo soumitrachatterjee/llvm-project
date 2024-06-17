@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/mlir/lib/Dialect/AMDGPU/Transforms",
-    "score.sum": 4.215953293666555e-05,
+    "score.sum": 5.817965209843052e-05,
     "sha.latest": "87c0260f45e5a02cb07722d089dae3f0f84c7b3d",
     "time.latest": 1717804522.6750305,
     "formatted_time": "2024-06-07 18:55:22.675034",
     "filescores": {
-        "CMakeLists.txt": 1.8040576146427242e-05,
-        "EmulateAtomics.cpp": 1.8936178923392137e-05,
-        "OptimizeSharedMemory.cpp": 1.5060712361983525e-05,
-        "Utils.cpp": 6.1421846666276145e-06
+        "CMakeLists.txt": 31.008394680507056,
+        "EmulateAtomics.cpp": 32.54776926365114,
+        "OptimizeSharedMemory.cpp": 25.886563117468025,
+        "Utils.cpp": 10.557272938373774
     },
     "subdirscores": {}
 }

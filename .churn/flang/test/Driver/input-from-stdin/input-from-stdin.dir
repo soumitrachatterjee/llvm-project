@@ -5,9 +5,9 @@
     "time.latest": 1717794416.50807,
     "formatted_time": "2024-06-07 16:06:56.508073",
     "filescores": {
-        "input-from-stdin-llvm.ll": 0,
-        "input-from-stdin.f90": 6.099602068851199e-06,
-        "lit.local.cfg": 0
+        "input-from-stdin-llvm.ll": 0.0,
+        "input-from-stdin.f90": 100.0,
+        "lit.local.cfg": 0.0
     },
     "subdirscores": {}
 }

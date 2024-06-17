@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/llvm/test/CodeGen/MIR/Hexagon",
-    "score.sum": 5.311297374061882e-05,
+    "score.sum": 4.3898032995293854e-05,
     "sha.latest": "f84bac329ba6c9f0c022bcf77237e912362e247a",
     "time.latest": 1718079584.2774038,
     "formatted_time": "2024-06-10 23:19:44.277408",
     "filescores": {
-        "bundled-call-site-info.mir": 2.3251816910146538e-05,
-        "lit.local.cfg": 6.099602068851199e-06,
-        "parse-lane-masks.mir": 8.447011947444918e-06,
-        "target-flags.mir": 6.099602068851199e-06
+        "bundled-call-site-info.mir": 52.967787674311694,
+        "lit.local.cfg": 13.89493253491589,
+        "parse-lane-masks.mir": 19.242347255856522,
+        "target-flags.mir": 13.89493253491589
     },
     "subdirscores": {}
 }

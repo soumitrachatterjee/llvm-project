@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/lldb/test/API/functionalities/module_cache",
-    "score.sum": 1.4660683924948132e-05,
+    "score.sum": 4.600090691535286e-05,
     "sha.latest": "1eeeab82c6eb185f5139e633a59c2dbcb15616e4",
     "time.latest": 1717912852.7228603,
     "formatted_time": "2024-06-09 11:30:52.722862",
     "filescores": {},
     "subdirscores": {
-        "bsd": 1.2654943906544846e-05,
-        "debug_index": 8.133929388460305e-06,
-        "simple_exe": 1.378101893442591e-05,
-        "universal": 1.1431014685921802e-05
+        "bsd": 27.510205244064966,
+        "debug_index": 17.682106579828314,
+        "simple_exe": 29.95814617260617,
+        "universal": 24.84954200350056
     }
 }

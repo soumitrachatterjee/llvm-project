@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/compiler-rt/lib/builtins/cpu_model/aarch64/lse_atomics",
-    "score.sum": 8.958870246145753e-06,
+    "score.sum": 4.1080734718548486e-05,
     "sha.latest": "394e481a38c774f12c765fde7e9302d039a7cd94",
     "time.latest": 1717794011.1582127,
     "formatted_time": "2024-06-08 02:30:11.158219",
     "filescores": {
-        "android.inc": 8.958870246145753e-06,
-        "freebsd.inc": 1.070728815746758e-05,
-        "fuchsia.inc": 1.070728815746758e-05,
-        "sysauxv.inc": 1.070728815746758e-05
+        "android.inc": 21.807960124191027,
+        "freebsd.inc": 26.064013291936327,
+        "fuchsia.inc": 26.064013291936327,
+        "sysauxv.inc": 26.064013291936327
     },
     "subdirscores": {}
 }

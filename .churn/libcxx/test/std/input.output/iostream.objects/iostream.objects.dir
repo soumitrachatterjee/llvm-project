@@ -1,15 +1,15 @@
 {
     "directory name": "llvm-project/libcxx/test/std/input.output/iostream.objects",
-    "score.sum": 0.00014173985559091473,
+    "score.sum": 0.00022580146819290174,
     "sha.latest": "98418c27bc17946990e5980d56ef98ae82da8770",
     "time.latest": 1717907088.149657,
     "formatted_time": "2024-06-09 09:54:48.149659",
     "filescores": {
-        "init.pass.cpp": 1.1783667077940826e-05,
-        "lit.local.cfg": 9.845454441214068e-06
+        "init.pass.cpp": 5.218596305970014,
+        "lit.local.cfg": 4.360226051676119
     },
     "subdirscores": {
-        "narrow.stream.objects": 9.833409137431209e-05,
-        "wide.stream.objects": 0.00010583825529943475
+        "narrow.stream.objects": 43.54891585129352,
+        "wide.stream.objects": 46.87226179106034
     }
 }

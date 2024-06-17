@@ -5,8 +5,8 @@
     "time.latest": 1718082581.898148,
     "formatted_time": "2024-06-11 10:39:41.898151",
     "filescores": {
-        "CMakeLists.txt": 0,
-        "LibclangCrashTest.cpp": 4.0293795713848526e-05
+        "CMakeLists.txt": 0.0,
+        "LibclangCrashTest.cpp": 100.0
     },
     "subdirscores": {}
 }

@@ -1,17 +1,17 @@
 {
     "directory name": "llvm-project/clang/lib/APINotes",
-    "score.sum": 0.00010944249326147997,
+    "score.sum": 0.00014157943699299409,
     "sha.latest": "864593b91d289c57c64a0f12658b9ff415da1ad8",
     "time.latest": 1717804594.9942987,
     "formatted_time": "2024-06-08 05:26:34.994301",
     "filescores": {
-        "APINotesFormat.h": 3.422684401842121e-05,
-        "APINotesManager.cpp": 1.0607773462658979e-05,
-        "APINotesReader.cpp": 1.2703130260228587e-05,
-        "APINotesTypes.cpp": 7.147387029163693e-06,
-        "APINotesWriter.cpp": 1.225871984153015e-05,
-        "APINotesYAMLCompiler.cpp": 4.6842414587563e-05,
-        "CMakeLists.txt": 1.779316779342847e-05
+        "APINotesFormat.h": 24.175010683306283,
+        "APINotesManager.cpp": 7.492453486154132,
+        "APINotesReader.cpp": 8.972440157999207,
+        "APINotesTypes.cpp": 5.048322822132267,
+        "APINotesWriter.cpp": 8.65854540877766,
+        "APINotesYAMLCompiler.cpp": 33.08560592021633,
+        "CMakeLists.txt": 12.567621521414122
     },
     "subdirscores": {}
 }

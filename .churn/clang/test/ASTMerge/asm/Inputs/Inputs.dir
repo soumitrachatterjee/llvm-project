@@ -5,7 +5,7 @@
     "time.latest": 1717864346.4161832,
     "formatted_time": "2024-06-08 22:02:26.416186",
     "filescores": {
-        "asm-function.cpp": 1.2462214301284185e-05
+        "asm-function.cpp": 100.0
     },
     "subdirscores": {}
 }

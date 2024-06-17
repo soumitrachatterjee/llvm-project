@@ -5,7 +5,7 @@
     "time.latest": 1717985318.1957068,
     "formatted_time": "2024-06-10 07:38:38.195710",
     "filescores": {
-        "compact-unwind-dumper.c": 1.7163498943715247e-05
+        "compact-unwind-dumper.c": 100.0
     },
     "subdirscores": {}
 }

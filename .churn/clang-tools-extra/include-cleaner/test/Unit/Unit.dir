@@ -5,8 +5,8 @@
     "time.latest": 1717813771.9881177,
     "formatted_time": "2024-06-08 07:59:31.988121",
     "filescores": {
-        "lit.cfg.py": 8.583691538536102e-06,
-        "lit.site.cfg.py.in": 0
+        "lit.cfg.py": 100.0,
+        "lit.site.cfg.py.in": 0.0
     },
     "subdirscores": {}
 }

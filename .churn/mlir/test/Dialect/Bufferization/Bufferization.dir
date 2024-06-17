@@ -1,17 +1,17 @@
 {
     "directory name": "llvm-project/mlir/test/Dialect/Bufferization",
-    "score.sum": 0.0005927999748377337,
+    "score.sum": 0.000707533790675293,
     "sha.latest": "0940be158104e055ab255ccb5c1af9c7ccc7358f",
     "time.latest": 1717818564.3842225,
     "formatted_time": "2024-06-07 22:49:24.384226",
     "filescores": {
-        "canonicalize.mlir": 6.829097675707359e-05,
-        "inlining.mlir": 7.518542460836465e-06,
-        "invalid.mlir": 7.72090307557081e-05,
-        "ops.mlir": 5.4410077734807926e-05,
-        "side-effects.mlir": 0
+        "canonicalize.mlir": 9.651973892567659,
+        "inlining.mlir": 1.0626407614625057,
+        "invalid.mlir": 10.912416024967134,
+        "ops.mlir": 7.690103066720982,
+        "side-effects.mlir": 0.0
     },
     "subdirscores": {
-        "Transforms": 0.0005001051629668669
+        "Transforms": 70.68286625428172
     }
 }

@@ -5,9 +5,9 @@
     "time.latest": 1717855113.1854525,
     "formatted_time": "2024-06-08 08:58:33.185456",
     "filescores": {
-        "CMakeLists.txt": 0,
-        "PointerTypeAnalysis.cpp": 6.099602068851199e-06,
-        "PointerTypeAnalysis.h": 0
+        "CMakeLists.txt": 0.0,
+        "PointerTypeAnalysis.cpp": 100.0,
+        "PointerTypeAnalysis.h": 0.0
     },
     "subdirscores": {}
 }

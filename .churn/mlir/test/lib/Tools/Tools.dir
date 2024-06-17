@@ -5,9 +5,9 @@
     "time.latest": 1717832360.4754155,
     "formatted_time": "2024-06-08 02:39:20.475416",
     "filescores": {
-        "CMakeLists.txt": 0
+        "CMakeLists.txt": 0.0
     },
     "subdirscores": {
-        "PDLL": 1.8567636658611512e-05
+        "PDLL": 100.0
     }
 }

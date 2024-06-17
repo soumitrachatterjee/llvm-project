@@ -6,7 +6,7 @@
     "formatted_time": "2024-06-08 04:02:52.907096",
     "filescores": {},
     "subdirscores": {
-        "corpus": 6.099602068851199e-06,
-        "highlight": 0
+        "corpus": 100.0,
+        "highlight": 0.0
     }
 }

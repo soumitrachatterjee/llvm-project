@@ -5,7 +5,7 @@
     "time.latest": 1717836322.280226,
     "formatted_time": "2024-06-08 14:15:22.280229",
     "filescores": {
-        "standalone-dylib.c": 6.099602068851199e-06
+        "standalone-dylib.c": 100.0
     },
     "subdirscores": {}
 }

@@ -1,17 +1,17 @@
 {
     "directory name": "llvm-project/mlir/test/Integration/Dialect/Linalg/CPU/ArmSME",
-    "score.sum": 6.411294868728224e-05,
+    "score.sum": 7.447874634859198e-05,
     "sha.latest": "c1b8c6cf41df4a148e7a89c3a3c7e8049b0a47af",
     "time.latest": 1717825655.4352496,
     "formatted_time": "2024-06-08 00:47:35.435253",
     "filescores": {
-        "fill-2d.mlir": 3.439774262373411e-05,
-        "lit.local.cfg": 0,
-        "matmul-transpose-a.mlir": 1.0143246375371035e-05,
-        "matmul.mlir": 7.897535682271948e-06,
-        "multi-tile-matmul-mixed-types.mlir": 0,
-        "multi-tile-matmul.mlir": 9.270004863659676e-06,
-        "use-too-many-tiles.mlir": 1.2770216803555218e-05
+        "fill-2d.mlir": 46.184642344459114,
+        "lit.local.cfg": 0.0,
+        "matmul-transpose-a.mlir": 13.61898108206113,
+        "matmul.mlir": 10.603744114204268,
+        "multi-tile-matmul-mixed-types.mlir": 0.0,
+        "multi-tile-matmul.mlir": 12.446510337690352,
+        "use-too-many-tiles.mlir": 17.146122121585144
     },
     "subdirscores": {}
 }

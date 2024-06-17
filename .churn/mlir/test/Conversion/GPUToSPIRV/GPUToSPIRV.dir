@@ -1,19 +1,19 @@
 {
     "directory name": "llvm-project/mlir/test/Conversion/GPUToSPIRV",
-    "score.sum": 0.0002524734596909936,
+    "score.sum": 0.00017296148777643885,
     "sha.latest": "6e90f13cc9bc9dbc5c2c248d95c6e18a5fb021b4",
     "time.latest": 1717816004.5599651,
     "formatted_time": "2024-06-07 22:06:44.559969",
     "filescores": {
-        "builtins-opencl.mlir": 0,
-        "builtins-vulkan.mlir": 0,
-        "entry-point.mlir": 1.6237728928471447e-05,
-        "gpu-to-spirv.mlir": 8.683526735673163e-06,
-        "load-store.mlir": 7.945567257204271e-05,
-        "module-opencl.mlir": 1.3099506254558075e-05,
-        "reductions.mlir": 3.543727274577941e-05,
-        "shuffle.mlir": 1.3705128112320208e-05,
-        "wmma-ops-to-spirv-khr-coop-matrix.mlir": 6.342652427593842e-06
+        "builtins-opencl.mlir": 0.0,
+        "builtins-vulkan.mlir": 0.0,
+        "entry-point.mlir": 9.388060392646196,
+        "gpu-to-spirv.mlir": 5.020497249015945,
+        "load-store.mlir": 45.93836095740749,
+        "module-opencl.mlir": 7.573654934958599,
+        "reductions.mlir": 20.488533720052068,
+        "shuffle.mlir": 7.923803320907341,
+        "wmma-ops-to-spirv-khr-coop-matrix.mlir": 3.667089425012364
     },
     "subdirscores": {}
 }

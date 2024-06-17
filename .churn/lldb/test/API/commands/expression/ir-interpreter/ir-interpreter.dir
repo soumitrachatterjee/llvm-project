@@ -5,9 +5,9 @@
     "time.latest": 1717892577.9567213,
     "formatted_time": "2024-06-09 05:52:57.956723",
     "filescores": {
-        "main.c": 0,
-        "Makefile": 0,
-        "TestIRInterpreter.py": 4.076230126595221e-05
+        "main.c": 0.0,
+        "Makefile": 0.0,
+        "TestIRInterpreter.py": 100.0
     },
     "subdirscores": {}
 }

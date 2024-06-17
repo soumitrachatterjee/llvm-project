@@ -1,25 +1,25 @@
 {
     "directory name": "llvm-project/cross-project-tests/debuginfo-tests/dexter/feature_tests/commands/perfect",
-    "score.sum": 7.029375851599172e-05,
+    "score.sum": 0.0004932261884949737,
     "sha.latest": "e6cc7b723f244f52663b6d67a5d94597109da1ef",
     "time.latest": 1717791747.6862843,
     "formatted_time": "2024-06-08 01:52:27.686290",
     "filescores": {
-        "command_line.c": 4.205818672438266e-05,
-        "expect_program_state.cpp": 3.023950417094275e-05,
-        "expect_step_order.cpp": 3.45861428053149e-05,
-        "expect_watch_type.cpp": 3.023950417094275e-05,
-        "expect_watch_value.cpp": 3.023950417094275e-05,
-        "unreachable.cpp": 3.023950417094275e-05,
-        "unreachable_not_cmd_lineno.cpp": 3.0155500465392674e-05,
-        "unreachable_on_line.cpp": 3.0155500465392674e-05
+        "command_line.c": 8.527160095192567,
+        "expect_program_state.cpp": 6.13096077951889,
+        "expect_step_order.cpp": 7.012227576733257,
+        "expect_watch_type.cpp": 6.13096077951889,
+        "expect_watch_value.cpp": 6.13096077951889,
+        "unreachable.cpp": 6.13096077951889,
+        "unreachable_not_cmd_lineno.cpp": 6.113929302377255,
+        "unreachable_on_line.cpp": 6.113929302377255
     },
     "subdirscores": {
-        "dex_declare_address": 4.24708133011247e-05,
-        "dex_declare_file": 3.8084901946476155e-05,
-        "dex_finish_test": 4.552935835773331e-05,
-        "expect_step_kind": 3.023950417094275e-05,
-        "float_range_watch": 3.004351230053126e-05,
-        "limit_steps": 4.894475127391169e-05
+        "dex_declare_address": 8.610818786958534,
+        "dex_declare_file": 7.721589573880518,
+        "dex_finish_test": 9.230928815167179,
+        "expect_step_kind": 6.13096077951889,
+        "float_range_watch": 6.091224067441712,
+        "limit_steps": 9.92338858227729
     }
 }

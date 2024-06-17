@@ -5,7 +5,7 @@
     "time.latest": 1717807970.9471176,
     "formatted_time": "2024-06-07 19:52:50.947121",
     "filescores": {
-        "OpenMPDialect.cpp": 0.0004959165076852261
+        "OpenMPDialect.cpp": 100.0
     },
     "subdirscores": {}
 }

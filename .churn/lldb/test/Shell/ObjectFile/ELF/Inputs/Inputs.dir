@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/lldb/test/Shell/ObjectFile/ELF/Inputs",
-    "score.sum": 8.22683439832498e-06,
+    "score.sum": 2.468050319497494e-05,
     "sha.latest": "87aa9c9e4d41ed881453e2fab85b3d25f648bb55",
     "time.latest": 1717974858.5538135,
     "formatted_time": "2024-06-10 04:44:18.553815",
     "filescores": {
-        "minidebuginfo-main.c": 8.22683439832498e-06,
-        "netbsd-amd64.core": 8.22683439832498e-06,
-        "PT_LOAD-overlap-section.elf": 8.22683439832498e-06
+        "minidebuginfo-main.c": 33.333333333333336,
+        "netbsd-amd64.core": 33.333333333333336,
+        "PT_LOAD-overlap-section.elf": 33.333333333333336
     },
     "subdirscores": {}
 }

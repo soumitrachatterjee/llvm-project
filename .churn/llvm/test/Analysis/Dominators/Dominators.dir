@@ -1,17 +1,17 @@
 {
     "directory name": "llvm-project/llvm/test/Analysis/Dominators",
-    "score.sum": 8.749272118672862e-05,
+    "score.sum": 0.00012556582258507943,
     "sha.latest": "1aee1e1f4c4b504becc06521546de992a662694b",
     "time.latest": 1717887503.503018,
     "formatted_time": "2024-06-08 17:58:23.503022",
     "filescores": {
-        "2006-10-02-BreakCritEdges.ll": 2.530508355323703e-05,
-        "2007-01-14-BreakCritEdges.ll": 2.0835431137103753e-05,
-        "2007-07-11-SplitBlock.ll": 1.821095217295914e-05,
-        "2007-07-12-SplitBlock.ll": 2.3032096451608035e-05,
-        "basic.ll": 1.1314060471330031e-05,
-        "invoke.ll": 2.0768596729990255e-05,
-        "print-dot-dom.ll": 6.099602068851199e-06
+        "2006-10-02-BreakCritEdges.ll": 20.152843371126014,
+        "2007-01-14-BreakCritEdges.ll": 16.59323429588997,
+        "2007-07-11-SplitBlock.ll": 14.503112230734583,
+        "2007-07-12-SplitBlock.ll": 18.342647686636397,
+        "basic.ll": 9.01046179478017,
+        "invoke.ll": 16.540007704658734,
+        "print-dot-dom.ll": 4.857692916174146
     },
     "subdirscores": {}
 }

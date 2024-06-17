@@ -1,25 +1,25 @@
 {
     "directory name": "llvm-project/libcxx/test/std/atomics/atomics.types.generic",
-    "score.sum": 0.00019133671048862904,
+    "score.sum": 0.00028210885649409634,
     "sha.latest": "64a317ad0765a2b3748d2b74b9a0d4738250787a",
     "time.latest": 1717873920.3276398,
     "formatted_time": "2024-06-09 00:42:00.327643",
     "filescores": {
-        "address.pass.cpp": 2.474156203985094e-05,
-        "bool.pass.cpp": 2.369232848796638e-05,
-        "constexpr_noexcept.compile.pass.cpp": 7.696270300196992e-06,
-        "copy_semantics_traits.pass.cpp": 6.099602068851199e-06,
-        "cstdint_typedefs.pass.cpp": 1.854642589060461e-05,
-        "general.compile.pass.cpp": 6.686727457791832e-06,
-        "integral.pass.cpp": 6.679477009435864e-05,
-        "integral_typedefs.pass.cpp": 5.155408883211771e-05,
-        "pointer.compile.pass.cpp": 6.686727457791832e-06,
-        "standard_layout.compile.pass.cpp": 7.4547231436396926e-06,
-        "throw.pass.cpp": 6.099602068851199e-06,
-        "trivially_copyable.pass.cpp": 3.445559843046305e-05,
-        "trivially_copyable.verify.cpp": 6.10489566166996e-06
+        "address.pass.cpp": 8.770218116271264,
+        "bool.pass.cpp": 8.398293049854033,
+        "constexpr_noexcept.compile.pass.cpp": 2.7281207672252044,
+        "copy_semantics_traits.pass.cpp": 2.1621448346762007,
+        "cstdint_typedefs.pass.cpp": 6.574209020266164,
+        "general.compile.pass.cpp": 2.3702649895118637,
+        "integral.pass.cpp": 23.67694900629837,
+        "integral_typedefs.pass.cpp": 18.274537521723136,
+        "pointer.compile.pass.cpp": 2.3702649895118637,
+        "standard_layout.compile.pass.cpp": 2.642498798613824,
+        "throw.pass.cpp": 2.1621448346762007,
+        "trivially_copyable.pass.cpp": 12.213582678211345,
+        "trivially_copyable.verify.cpp": 2.1640212709159368
     },
     "subdirscores": {
-        "atomics.types.float": 1.549553455994234e-05
+        "atomics.types.float": 5.4927501222446065
     }
 }

@@ -1,15 +1,15 @@
 {
     "directory name": "llvm-project/libclc/clspv/lib",
-    "score.sum": 1.700702729240571e-05,
+    "score.sum": 2.310662936125691e-05,
     "sha.latest": "21508fa76914a5e4281dc5bc77cac7f2e8bc3aef",
     "time.latest": 1717824019.0643363,
     "formatted_time": "2024-06-08 00:20:19.064339",
     "filescores": {
-        "SOURCES": 1.700702729240571e-05,
-        "subnormal_config.cl": 0
+        "SOURCES": 73.60237197088357,
+        "subnormal_config.cl": 0.0
     },
     "subdirscores": {
-        "math": 6.099602068851199e-06,
-        "shared": 0
+        "math": 26.397628029116422,
+        "shared": 0.0
     }
 }

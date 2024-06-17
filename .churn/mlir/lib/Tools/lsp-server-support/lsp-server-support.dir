@@ -1,16 +1,16 @@
 {
     "directory name": "llvm-project/mlir/lib/Tools/lsp-server-support",
-    "score.sum": 6.855182554119853e-05,
+    "score.sum": 0.00011140021549643901,
     "sha.latest": "abaa79b25dde740d5b54adab463432bee2840c85",
     "time.latest": 1717812703.6029077,
     "formatted_time": "2024-06-07 21:11:43.602911",
     "filescores": {
-        "CMakeLists.txt": 8.63749661851205e-06,
-        "CompilationDatabase.cpp": 6.189534038937603e-06,
-        "Logging.cpp": 6.099602068851199e-06,
-        "Protocol.cpp": 3.077975716307144e-05,
-        "SourceMgrUtils.cpp": 3.394652754893935e-05,
-        "Transport.cpp": 2.574729805812737e-05
+        "CMakeLists.txt": 7.753572630017177,
+        "CompilationDatabase.cpp": 5.556123936883637,
+        "Logging.cpp": 5.475395215053401,
+        "Protocol.cpp": 27.62989014510061,
+        "SourceMgrUtils.cpp": 30.47258696732456,
+        "Transport.cpp": 23.11243110562062
     },
     "subdirscores": {}
 }

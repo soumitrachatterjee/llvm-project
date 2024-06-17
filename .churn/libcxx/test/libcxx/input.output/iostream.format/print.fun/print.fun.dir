@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/libcxx/test/libcxx/input.output/iostream.format/print.fun",
-    "score.sum": 1.3280670888902995e-05,
+    "score.sum": 2.033781533592835e-05,
     "sha.latest": "a35629cd8de18387c6f9d1be9111d517df88554a",
     "time.latest": 1717851351.970268,
     "formatted_time": "2024-06-08 18:25:51.970271",
     "filescores": {
-        "transcoding.pass.cpp": 7.019220042044247e-06,
-        "vprint_unicode_posix.pass.cpp": 7.218993225032902e-06,
-        "vprint_unicode_windows.pass.cpp": 6.099602068851199e-06
+        "transcoding.pass.cpp": 34.51314669793585,
+        "vprint_unicode_posix.pass.cpp": 35.4954212426149,
+        "vprint_unicode_windows.pass.cpp": 29.99143205944924
     },
     "subdirscores": {}
 }

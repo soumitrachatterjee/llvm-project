@@ -1,16 +1,16 @@
 {
     "directory name": "llvm-project/libcxx/test/libcxx/ranges",
-    "score.sum": 0.0001888139689675472,
+    "score.sum": 0.00022018732368588308,
     "sha.latest": "58780b811c23df3d928d8452ee21c862dde754a2",
     "time.latest": 1717863355.2249506,
     "formatted_time": "2024-06-08 21:45:55.224953",
     "filescores": {},
     "subdirscores": {
-        "range.access": 2.868814612633516e-05,
-        "range.adaptors": 0.00011200984572735027,
-        "range.factories": 3.274501980548398e-05,
-        "range.nonprop.cache": 1.0546179734539203e-05,
-        "range.utility": 6.099602068851199e-06,
-        "range.utility.helpers": 3.009853022332326e-05
+        "range.access": 13.028972624809851,
+        "range.adaptors": 50.87025168040207,
+        "range.factories": 14.871437309532714,
+        "range.nonprop.cache": 4.789639820312395,
+        "range.utility": 2.7701876596460324,
+        "range.utility.helpers": 13.669510905296942
     }
 }

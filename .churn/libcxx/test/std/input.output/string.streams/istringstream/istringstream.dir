@@ -1,15 +1,15 @@
 {
     "directory name": "llvm-project/libcxx/test/std/input.output/string.streams/istringstream",
-    "score.sum": 6.609273593036057e-05,
+    "score.sum": 0.00011494308895803832,
     "sha.latest": "80f9458cf30d13eef21b09042ea590945c5e64db",
     "time.latest": 1717909732.4519784,
     "formatted_time": "2024-06-09 10:38:52.451980",
     "filescores": {
-        "types.compile.pass.cpp": 0
+        "types.compile.pass.cpp": 0.0
     },
     "subdirscores": {
-        "istringstream.assign": 3.0241889740414077e-05,
-        "istringstream.cons": 4.2909469883355334e-05,
-        "istringstream.members": 4.1791729334268916e-05
+        "istringstream.assign": 26.310315839392768,
+        "istringstream.cons": 37.331056849377056,
+        "istringstream.members": 36.35862731123017
     }
 }

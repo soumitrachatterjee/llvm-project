@@ -5,11 +5,11 @@
     "time.latest": 1717919083.867982,
     "formatted_time": "2024-06-09 13:14:43.867984",
     "filescores": {
-        "main.m": 0,
-        "Makefile": 0,
-        "module.modulemap": 0,
-        "MyModule.h": 0,
-        "TestClangModuleBuildProgress.py": 6.099602068851199e-06
+        "main.m": 0.0,
+        "Makefile": 0.0,
+        "module.modulemap": 0.0,
+        "MyModule.h": 0.0,
+        "TestClangModuleBuildProgress.py": 100.0
     },
     "subdirscores": {}
 }

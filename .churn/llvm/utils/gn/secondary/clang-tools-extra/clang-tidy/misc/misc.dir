@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/llvm/utils/gn/secondary/clang-tools-extra/clang-tidy/misc",
-    "score.sum": 7.479715428694644e-05,
+    "score.sum": 8.064234102840791e-05,
     "sha.latest": "c0f3478934bec4a585cd1ed973a0ee39e0ceb7be",
     "time.latest": 1718081955.008803,
     "formatted_time": "2024-06-10 23:59:15.008804",
     "filescores": {
-        "BUILD.gn": 7.028518159345452e-05
+        "BUILD.gn": 87.15667315349282
     },
     "subdirscores": {
-        "ConfusableTable": 1.03571594349534e-05
+        "ConfusableTable": 12.843326846507194
     }
 }

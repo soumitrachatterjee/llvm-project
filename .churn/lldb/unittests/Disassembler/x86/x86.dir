@@ -5,8 +5,8 @@
     "time.latest": 1717996052.8113348,
     "formatted_time": "2024-06-10 10:37:32.811337",
     "filescores": {
-        "CMakeLists.txt": 0,
-        "TestGetControlFlowKindx86.cpp": 1.5012672635242692e-05
+        "CMakeLists.txt": 0.0,
+        "TestGetControlFlowKindx86.cpp": 100.0
     },
     "subdirscores": {}
 }

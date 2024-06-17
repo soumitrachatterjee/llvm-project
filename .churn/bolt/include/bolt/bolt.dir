@@ -1,16 +1,16 @@
 {
     "directory name": "llvm-project/bolt/include/bolt",
-    "score.sum": 0.0010616794624787578,
+    "score.sum": 0.001349787499539203,
     "sha.latest": "4a4fb930a539c91eb4e9d8b1ea427a7cef72d054",
     "time.latest": 1717788533.1742394,
     "formatted_time": "2024-06-08 00:58:53.174243",
     "filescores": {},
     "subdirscores": {
-        "Core": 0.0007732377883002957,
-        "Passes": 0.00018080784892209224,
-        "Profile": 0.00012252297145208408,
-        "Rewrite": 0.00022773047967450407,
-        "RuntimeLibs": 1.6731493655849247e-05,
-        "Utils": 2.875691753437779e-05
+        "Core": 57.28589045047959,
+        "Passes": 13.395282515493534,
+        "Profile": 9.07720448544023,
+        "Rewrite": 16.871580137780782,
+        "RuntimeLibs": 1.2395650175721087,
+        "Utils": 2.1304773932337473
     }
 }

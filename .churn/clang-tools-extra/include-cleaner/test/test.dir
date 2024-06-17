@@ -1,22 +1,22 @@
 {
     "directory name": "llvm-project/clang-tools-extra/include-cleaner/test",
-    "score.sum": 4.404622569206976e-05,
+    "score.sum": 4.9801158874068564e-05,
     "sha.latest": "7e3fb372b0e8899958ec7e9241797e7e136a7a23",
     "time.latest": 1717813772.0058463,
     "formatted_time": "2024-06-08 07:59:32.005849",
     "filescores": {
-        ".clang-format": 0,
-        "CMakeLists.txt": 6.099602068851199e-06,
-        "html.cpp": 0,
-        "lit.cfg.py": 8.583691538536102e-06,
-        "lit.site.cfg.py.in": 0,
-        "module.cpp": 0,
-        "multiple-providers.cpp": 0,
-        "nocrash.cpp": 0,
-        "tool.cpp": 1.53272299710678e-05
+        ".clang-format": 0.0,
+        "CMakeLists.txt": 12.24791190959064,
+        "html.cpp": 0.0,
+        "lit.cfg.py": 17.235927300891838,
+        "lit.site.cfg.py.in": 0.0,
+        "module.cpp": 0.0,
+        "multiple-providers.cpp": 0.0,
+        "nocrash.cpp": 0.0,
+        "tool.cpp": 30.776854028287847
     },
     "subdirscores": {
-        "Inputs": 1.1206943757077368e-05,
-        "Unit": 8.583691538536102e-06
+        "Inputs": 22.503379460337854,
+        "Unit": 17.235927300891838
     }
 }

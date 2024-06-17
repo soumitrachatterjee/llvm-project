@@ -5,12 +5,12 @@
     "time.latest": 1717932281.979736,
     "formatted_time": "2024-06-09 16:54:41.979741",
     "filescores": {
-        "a.h": 0,
-        "b.h": 0,
-        "main.cpp": 0,
-        "memory.h": 0,
-        "module.modulemap": 0,
-        "TestGModules.py": 6.389004403487171e-06
+        "a.h": 0.0,
+        "b.h": 0.0,
+        "main.cpp": 0.0,
+        "memory.h": 0.0,
+        "module.modulemap": 0.0,
+        "TestGModules.py": 100.0
     },
     "subdirscores": {}
 }

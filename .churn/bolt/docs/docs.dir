@@ -1,23 +1,23 @@
 {
     "directory name": "llvm-project/bolt/docs",
-    "score.sum": 8.375290544863104e-05,
+    "score.sum": 7.212248514048482e-05,
     "sha.latest": "df7d2b2f9085b4ae749ce5a221417b53185aa253",
     "time.latest": 1717784559.471502,
     "formatted_time": "2024-06-07 23:52:39.471507",
     "filescores": {
-        "BAT.md": 9.675933597219118e-06,
-        "CMakeLists.txt": 6.099602068851199e-06,
-        "conf.py": 6.099602068851199e-06,
-        "doxygen-mainpage.dox": 6.099602068851199e-06,
-        "doxygen.cfg.in": 1.2001651483195178e-05,
-        "Heatmap.png": 0,
-        "Heatmaps.md": 1.1422727391946645e-05,
-        "index.rst": 0,
-        "OptimizingClang.md": 2.0723366461570275e-05,
-        "README.txt": 0,
-        "RuntimeLibrary.md": 0
+        "BAT.md": 13.415973643131837,
+        "CMakeLists.txt": 8.457282159606677,
+        "conf.py": 8.457282159606677,
+        "doxygen-mainpage.dox": 8.457282159606677,
+        "doxygen.cfg.in": 16.640651607910613,
+        "Heatmap.png": 0.0,
+        "Heatmaps.md": 15.837955901958622,
+        "index.rst": 0.0,
+        "OptimizingClang.md": 28.733572368178894,
+        "README.txt": 0.0,
+        "RuntimeLibrary.md": 0.0
     },
     "subdirscores": {
-        "_static": 0
+        "_static": 0.0
     }
 }

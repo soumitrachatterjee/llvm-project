@@ -6,6 +6,6 @@
     "formatted_time": "2024-06-10 01:03:24.834825",
     "filescores": {},
     "subdirscores": {
-        "failed-to-hit-breakpoint": 6.099602068851199e-06
+        "failed-to-hit-breakpoint": 100.0
     }
 }

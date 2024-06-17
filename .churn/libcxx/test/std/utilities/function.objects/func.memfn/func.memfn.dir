@@ -1,17 +1,17 @@
 {
     "directory name": "llvm-project/libcxx/test/std/utilities/function.objects/func.memfn",
-    "score.sum": 4.6153747113994724e-05,
+    "score.sum": 0.00010153236757760978,
     "sha.latest": "6900df37d26764b828dbc5c2f98a57abbce1583e",
     "time.latest": 1717996067.8547294,
     "formatted_time": "2024-06-10 10:37:47.854732",
     "filescores": {
-        "member_data.compile.fail.cpp": 6.099602068851199e-06,
-        "member_data.pass.cpp": 2.5012096508577473e-05,
-        "member_function.pass.cpp": 1.67754349827913e-05,
-        "member_function_const.pass.cpp": 1.8912682728913352e-05,
-        "member_function_const_volatile.pass.cpp": 1.7366275644238228e-05,
-        "member_function_volatile.pass.cpp": 1.7366275644238228e-05,
-        "robust_against_adl.pass.cpp": 0
+        "member_data.compile.fail.cpp": 6.007544406160683,
+        "member_data.pass.cpp": 24.634603826665042,
+        "member_function.pass.cpp": 16.52225332967678,
+        "member_function_const.pass.cpp": 18.627244867954833,
+        "member_function_const_volatile.pass.cpp": 17.104176784771333,
+        "member_function_volatile.pass.cpp": 17.104176784771333,
+        "robust_against_adl.pass.cpp": 0.0
     },
     "subdirscores": {}
 }

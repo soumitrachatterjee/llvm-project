@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/llvm/include/llvm/Transforms/InstCombine",
-    "score.sum": 0.0003191083399125315,
+    "score.sum": 0.00023476570364860662,
     "sha.latest": "dc866ae49e9d461c836a113472ea3ff314bb4a80",
     "time.latest": 1717824336.3798223,
     "formatted_time": "2024-06-08 00:25:36.379826",
     "filescores": {
-        "InstCombine.h": 7.357914708555257e-05,
-        "InstCombiner.h": 0.00016118655656305404
+        "InstCombine.h": 31.34152303425231,
+        "InstCombiner.h": 68.65847696574768
     },
     "subdirscores": {}
 }

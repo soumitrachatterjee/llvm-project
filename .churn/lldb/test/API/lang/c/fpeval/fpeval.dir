@@ -5,9 +5,9 @@
     "time.latest": 1717925644.745402,
     "formatted_time": "2024-06-09 15:04:04.745404",
     "filescores": {
-        "main.c": 0,
-        "Makefile": 0,
-        "TestFPEval.py": 9.87189408486332e-06
+        "main.c": 0.0,
+        "Makefile": 0.0,
+        "TestFPEval.py": 100.0
     },
     "subdirscores": {}
 }

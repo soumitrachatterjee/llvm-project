@@ -1,22 +1,22 @@
 {
     "directory name": "llvm-project/libcxx/test/std/thread/thread.condition/thread.condition.condvar",
-    "score.sum": 8.722103482752217e-05,
+    "score.sum": 0.00034908351913743625,
     "sha.latest": "bce3b505931cee9dc79d1c56c021983b4a8fb819",
     "time.latest": 1717976941.2822082,
     "formatted_time": "2024-06-10 05:19:01.282210",
     "filescores": {
-        "assign.compile.fail.cpp": 0,
-        "copy.compile.fail.cpp": 0,
-        "default.pass.cpp": 2.1569240856111426e-05,
-        "destructor.pass.cpp": 2.135571300540977e-05,
-        "notify_all.pass.cpp": 3.268342781865702e-05,
-        "notify_one.pass.cpp": 3.252087162815502e-05,
-        "wait.pass.cpp": 2.135571300540977e-05,
-        "wait_for.pass.cpp": 5.905127997470782e-05,
-        "wait_for_pred.pass.cpp": 3.930306297429726e-05,
-        "wait_pred.pass.cpp": 2.641287516541262e-05,
-        "wait_until.pass.cpp": 4.941357420923388e-05,
-        "wait_until_pred.pass.cpp": 4.541776050004171e-05
+        "assign.compile.fail.cpp": 0.0,
+        "copy.compile.fail.cpp": 0.0,
+        "default.pass.cpp": 6.178819587188671,
+        "destructor.pass.cpp": 6.11765146007993,
+        "notify_all.pass.cpp": 9.362638459534194,
+        "notify_one.pass.cpp": 9.31607189835604,
+        "wait.pass.cpp": 6.11765146007993,
+        "wait_for.pass.cpp": 16.916089341776967,
+        "wait_for_pred.pass.cpp": 11.258928256313187,
+        "wait_pred.pass.cpp": 7.566348371494936,
+        "wait_until.pass.cpp": 14.155229766026126,
+        "wait_until_pred.pass.cpp": 13.010571399150031
     },
     "subdirscores": {}
 }

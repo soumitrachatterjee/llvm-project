@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/libcxx/test/libcxx/thread/thread.threads",
-    "score.sum": 7.644009357264649e-05,
+    "score.sum": 8.054864121548067e-05,
     "sha.latest": "1197fcabc4b5f39dbe8a94b1ab6e92354f3f0dd2",
     "time.latest": 1717865621.9260368,
     "formatted_time": "2024-06-08 22:23:41.926039",
     "filescores": {
-        "create_late.pass.cpp": 6.099602068851199e-06
+        "create_late.pass.cpp": 7.572569787408051
     },
     "subdirscores": {
-        "thread.thread.class": 1.5952261551145358e-05,
-        "thread.thread.this": 5.849677759548412e-05
+        "thread.thread.class": 19.80450732678466,
+        "thread.thread.this": 72.6229228858073
     }
 }

@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/libcxx/test/std/input.output/iostream.format/input.streams/istream/istream.assign",
-    "score.sum": 3.0241889740414077e-05,
+    "score.sum": 4.7673369362402415e-05,
     "sha.latest": "f4c1258d5633fcf06385ff3fd1f4bf57ab971964",
     "time.latest": 1717905130.5041394,
     "formatted_time": "2024-06-09 09:22:10.504142",
     "filescores": {
-        "member_swap.pass.cpp": 1.7431479621988335e-05,
-        "move_assign.pass.cpp": 3.0241889740414077e-05
+        "member_swap.pass.cpp": 36.56439612958354,
+        "move_assign.pass.cpp": 63.43560387041644
     },
     "subdirscores": {}
 }

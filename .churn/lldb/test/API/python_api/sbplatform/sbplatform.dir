@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/lldb/test/API/python_api/sbplatform",
-    "score.sum": 4.216822400332564e-05,
+    "score.sum": 3.7380176685661833e-05,
     "sha.latest": "43b9d62018fe53278dfcd2c46f4937a1664745bd",
     "time.latest": 1717966542.9660015,
     "formatted_time": "2024-06-10 02:25:42.966003",
     "filescores": {
-        "main.cpp": 0,
-        "Makefile": 0,
-        "TestLocateModuleCallback.py": 6.099602068851199e-06,
-        "TestSBPlatform.py": 3.1280574616810634e-05
+        "main.cpp": 0.0,
+        "Makefile": 0.0,
+        "TestLocateModuleCallback.py": 16.317745419300987,
+        "TestSBPlatform.py": 83.68225458069901
     },
     "subdirscores": {}
 }

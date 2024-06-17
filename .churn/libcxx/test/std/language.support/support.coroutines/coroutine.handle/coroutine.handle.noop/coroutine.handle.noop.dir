@@ -5,7 +5,7 @@
     "time.latest": 1717920941.6749413,
     "formatted_time": "2024-06-09 13:45:41.674943",
     "filescores": {
-        "noop_coroutine.pass.cpp": 7.939429485940745e-06
+        "noop_coroutine.pass.cpp": 100.0
     },
     "subdirscores": {}
 }

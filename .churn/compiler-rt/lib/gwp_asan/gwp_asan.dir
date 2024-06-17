@@ -1,29 +1,29 @@
 {
     "directory name": "llvm-project/compiler-rt/lib/gwp_asan",
-    "score.sum": 0.0002839730231413611,
+    "score.sum": 0.0007150803927804498,
     "sha.latest": "4f1f171f330545c7fad254a672c61eaffcd9344c",
     "time.latest": 1717799716.9558065,
     "formatted_time": "2024-06-08 04:05:16.955810",
     "filescores": {
-        "CMakeLists.txt": 8.088048444170246e-05,
-        "common.cpp": 2.5689929265741092e-05,
-        "common.h": 3.350139881509122e-05,
-        "crash_handler.cpp": 3.4684808515696954e-05,
-        "crash_handler.h": 1.9695130552941037e-05,
-        "definitions.h": 1.4166670066849401e-05,
-        "guarded_pool_allocator.cpp": 6.565911700731005e-05,
-        "guarded_pool_allocator.h": 5.3806419888990113e-05,
-        "mutex.h": 1.1742743222396355e-05,
-        "options.h": 1.0493765078448678e-05,
-        "options.inc": 4.262843782351497e-05,
-        "stack_trace_compressor.cpp": 0,
-        "stack_trace_compressor.h": 0,
-        "utilities.h": 2.6738402782806037e-05
+        "CMakeLists.txt": 11.310684121433475,
+        "common.cpp": 3.5925931580714785,
+        "common.h": 4.684983556160392,
+        "crash_handler.cpp": 4.85047679476036,
+        "crash_handler.h": 2.754254032383742,
+        "definitions.h": 1.9811297037197573,
+        "guarded_pool_allocator.cpp": 9.182060880177048,
+        "guarded_pool_allocator.h": 7.524527372338431,
+        "mutex.h": 1.6421570694641765,
+        "options.h": 1.4674944501898217,
+        "options.inc": 5.961348997105438,
+        "stack_trace_compressor.cpp": 0.0,
+        "stack_trace_compressor.h": 0.0,
+        "utilities.h": 3.7392163248720895
     },
     "subdirscores": {
-        "optional": 5.87378378288289e-05,
-        "platform_specific": 4.807152509006266e-05,
-        "scripts": 1.1522627015602255e-05,
-        "tests": 0.00017706109538446766
+        "optional": 8.214158634728935,
+        "platform_specific": 6.722534357730879,
+        "scripts": 1.6113750470487354,
+        "tests": 24.76100549981525
     }
 }

@@ -5,9 +5,9 @@
     "time.latest": 1717788968.267254,
     "formatted_time": "2024-06-07 14:36:08.267257",
     "filescores": {
-        ".clang-format": 0,
-        ".clang-tidy": 0,
-        "Utils.h": 1.5064676060001897e-05
+        ".clang-format": 0.0,
+        ".clang-tidy": 0.0,
+        "Utils.h": 100.0
     },
     "subdirscores": {}
 }

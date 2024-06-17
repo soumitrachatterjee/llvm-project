@@ -5,9 +5,9 @@
     "time.latest": 1717834836.808198,
     "formatted_time": "2024-06-08 13:50:36.808201",
     "filescores": {
-        "locale_base_api.h": 0
+        "locale_base_api.h": 0.0
     },
     "subdirscores": {
-        "locale_base_api": 2.8967320589148164e-05
+        "locale_base_api": 100.0
     }
 }

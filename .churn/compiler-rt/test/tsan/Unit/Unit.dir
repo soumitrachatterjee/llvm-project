@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/compiler-rt/test/tsan/Unit",
-    "score.sum": 2.5297179294691444e-05,
+    "score.sum": 8.198959672733274e-06,
     "sha.latest": "a5228bcaad9c57e7ede95d900a730c59f5243d35",
     "time.latest": 1717863649.938011,
     "formatted_time": "2024-06-08 21:50:49.938526",
     "filescores": {
-        "lit.site.cfg.py.in": 8.198959672733274e-06
+        "lit.site.cfg.py.in": 100.0
     },
     "subdirscores": {}
 }

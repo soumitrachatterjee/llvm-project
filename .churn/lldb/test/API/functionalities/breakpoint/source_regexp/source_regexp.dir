@@ -5,11 +5,11 @@
     "time.latest": 1717903909.812629,
     "formatted_time": "2024-06-09 09:01:49.812631",
     "filescores": {
-        "a.c": 0,
-        "a.h": 0,
-        "main.c": 0,
-        "Makefile": 0,
-        "TestSourceRegexBreakpoints.py": 1.6150926542448413e-05
+        "a.c": 0.0,
+        "a.h": 0.0,
+        "main.c": 0.0,
+        "Makefile": 0.0,
+        "TestSourceRegexBreakpoints.py": 100.0
     },
     "subdirscores": {}
 }

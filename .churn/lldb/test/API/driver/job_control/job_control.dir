@@ -5,8 +5,8 @@
     "time.latest": 1717901289.0805123,
     "formatted_time": "2024-06-09 08:18:09.080514",
     "filescores": {
-        "shell.py": 0,
-        "TestJobControl.py": 1.1155638386439644e-05
+        "shell.py": 0.0,
+        "TestJobControl.py": 100.0
     },
     "subdirscores": {}
 }

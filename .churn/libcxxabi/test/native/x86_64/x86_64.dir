@@ -5,7 +5,7 @@
     "time.latest": 1717823925.2162764,
     "formatted_time": "2024-06-08 10:48:45.216280",
     "filescores": {
-        "lpstart-zero.pass.sh.s": 6.099602068851199e-06
+        "lpstart-zero.pass.sh.s": 100.0
     },
     "subdirscores": {}
 }

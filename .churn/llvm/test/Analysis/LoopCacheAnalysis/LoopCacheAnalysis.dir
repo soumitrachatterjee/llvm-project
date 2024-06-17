@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/llvm/test/Analysis/LoopCacheAnalysis",
-    "score.sum": 5.6333788642147935e-05,
+    "score.sum": 6.289061333176652e-05,
     "sha.latest": "1aee1e1f4c4b504becc06521546de992a662694b",
     "time.latest": 1717888830.0215828,
     "formatted_time": "2024-06-08 18:20:30.021586",
     "filescores": {
-        "compute-cost.ll": 1.0431156416746604e-05
+        "compute-cost.ll": 16.586189677812776
     },
     "subdirscores": {
-        "PowerPC": 5.245945691501992e-05
+        "PowerPC": 83.41381032218723
     }
 }

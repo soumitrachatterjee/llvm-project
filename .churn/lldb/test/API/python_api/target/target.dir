@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/lldb/test/API/python_api/target",
-    "score.sum": 9.917106432714276e-05,
+    "score.sum": 0.00010720793175838595,
     "sha.latest": "9c2468821ec51defd09c246fea4a47886fff8c01",
     "time.latest": 1717967020.4053857,
     "formatted_time": "2024-06-10 02:33:40.405389",
     "filescores": {
-        "main.c": 8.300082339749384e-06,
-        "Makefile": 0,
-        "TestTargetAPI.py": 9.890784941863656e-05
+        "main.c": 7.742041287071225,
+        "Makefile": 0.0,
+        "TestTargetAPI.py": 92.25795871292878
     },
     "subdirscores": {}
 }

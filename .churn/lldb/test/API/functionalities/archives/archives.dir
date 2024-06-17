@@ -1,17 +1,17 @@
 {
     "directory name": "llvm-project/lldb/test/API/functionalities/archives",
-    "score.sum": 7.994326342249457e-05,
+    "score.sum": 0.00013458062036976622,
     "sha.latest": "9c2468821ec51defd09c246fea4a47886fff8c01",
     "time.latest": 1717901568.3381479,
     "formatted_time": "2024-06-09 08:22:48.338150",
     "filescores": {
-        "a.c": 6.099602068851199e-06,
-        "b.c": 6.139702056354105e-06,
-        "c.c": 6.099602068851199e-06,
-        "main.c": 6.099602068851199e-06,
-        "Makefile": 3.1661472191630225e-05,
-        "README": 0,
-        "TestBSDArchives.py": 7.848063991522828e-05
+        "a.c": 4.532303426817525,
+        "b.c": 4.562099683806629,
+        "c.c": 4.532303426817525,
+        "main.c": 4.532303426817525,
+        "Makefile": 23.52602633621314,
+        "README": 0.0,
+        "TestBSDArchives.py": 58.314963699527645
     },
     "subdirscores": {}
 }

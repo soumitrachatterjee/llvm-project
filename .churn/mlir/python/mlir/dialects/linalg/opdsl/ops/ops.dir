@@ -5,8 +5,8 @@
     "time.latest": 1717814032.8506064,
     "formatted_time": "2024-06-07 21:33:52.850609",
     "filescores": {
-        "__init__.py": 0,
-        "core_named_ops.py": 0.00018054162123002808
+        "__init__.py": 0.0,
+        "core_named_ops.py": 100.0
     },
     "subdirscores": {}
 }

@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/mlir/test/Conversion/ComplexToLLVM",
-    "score.sum": 5.096641866968529e-05,
+    "score.sum": 6.305296925198396e-05,
     "sha.latest": "14de5a2a4f27ed719b1f59f99d2730624a26f706",
     "time.latest": 1717815487.3786423,
     "formatted_time": "2024-06-07 21:58:07.378646",
     "filescores": {
-        "convert-to-llvm.mlir": 4.676268950001522e-05,
-        "full-conversion.mlir": 1.6290279751968744e-05
+        "convert-to-llvm.mlir": 74.16413541626167,
+        "full-conversion.mlir": 25.835864583738328
     },
     "subdirscores": {}
 }

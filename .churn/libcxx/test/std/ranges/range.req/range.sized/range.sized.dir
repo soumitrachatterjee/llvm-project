@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/libcxx/test/std/ranges/range.req/range.sized",
-    "score.sum": 1.3560950811112246e-05,
+    "score.sum": 2.5705056346742998e-05,
     "sha.latest": "b8cb1dc9ea87faa8e8e9ab7a31710a8c0bb8b084",
     "time.latest": 1717965100.6663775,
     "formatted_time": "2024-06-10 02:01:40.666381",
     "filescores": {
-        "sized_range.compile.pass.cpp": 1.3560950811112246e-05,
-        "subsumption.compile.pass.cpp": 1.214410553563075e-05
+        "sized_range.compile.pass.cpp": 52.75596609548187,
+        "subsumption.compile.pass.cpp": 47.244033904518126
     },
     "subdirscores": {}
 }

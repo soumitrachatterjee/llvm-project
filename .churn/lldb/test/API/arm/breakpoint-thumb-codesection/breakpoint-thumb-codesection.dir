@@ -5,9 +5,9 @@
     "time.latest": 1717885523.3364043,
     "formatted_time": "2024-06-09 03:55:23.336406",
     "filescores": {
-        "main.c": 0,
-        "Makefile": 0,
-        "TestBreakpointThumbCodesection.py": 1.5569495671696934e-05
+        "main.c": 0.0,
+        "Makefile": 0.0,
+        "TestBreakpointThumbCodesection.py": 100.0
     },
     "subdirscores": {}
 }

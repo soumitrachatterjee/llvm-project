@@ -5,9 +5,9 @@
     "time.latest": 1717863800.7719586,
     "formatted_time": "2024-06-08 21:53:20.771961",
     "filescores": {
-        "empty.gen.cpp": 6.099602068851199e-06,
-        "one.gen.cpp": 0,
-        "two.gen.cpp": 0
+        "empty.gen.cpp": 100.0,
+        "one.gen.cpp": 0.0,
+        "two.gen.cpp": 0.0
     },
     "subdirscores": {}
 }

@@ -5,10 +5,10 @@
     "time.latest": 1717904760.7515798,
     "formatted_time": "2024-06-09 09:16:00.751581",
     "filescores": {
-        "a.c": 0,
-        "b.c": 0,
-        "Makefile": 0,
-        "TestDataFormatterCaching.py": 1.0459834404963863e-05
+        "a.c": 0.0,
+        "b.c": 0.0,
+        "Makefile": 0.0,
+        "TestDataFormatterCaching.py": 100.0
     },
     "subdirscores": {}
 }

@@ -1,20 +1,20 @@
 {
     "directory name": "llvm-project/libcxx/test/std/depr/depr.auto.ptr/auto.ptr/auto.ptr.cons",
-    "score.sum": 3.3163985647300554e-05,
+    "score.sum": 0.00016158685891234632,
     "sha.latest": "61f2b3ed2183d24252561f9b48007e6cde937ce4",
     "time.latest": 1717895069.6334467,
     "formatted_time": "2024-06-09 06:34:29.633448",
     "filescores": {
-        "assignment.compile.fail.cpp": 0,
-        "assignment.pass.cpp": 2.8657610541158544e-05,
-        "convert.compile.fail.cpp": 0,
-        "convert.pass.cpp": 2.8657610541158544e-05,
-        "convert_assignment.compile.fail.cpp": 6.099602068851199e-06,
-        "convert_assignment.pass.cpp": 2.8657610541158544e-05,
-        "copy.compile.fail.cpp": 6.099602068851199e-06,
-        "copy.pass.cpp": 2.8657610541158544e-05,
-        "explicit.compile.fail.cpp": 6.099602068851199e-06,
-        "pointer.pass.cpp": 2.8657610541158544e-05
+        "assignment.compile.fail.cpp": 0.0,
+        "assignment.pass.cpp": 17.735112084024124,
+        "convert.compile.fail.cpp": 0.0,
+        "convert.pass.cpp": 17.735112084024124,
+        "convert_assignment.compile.fail.cpp": 3.7748131932931264,
+        "convert_assignment.pass.cpp": 17.735112084024124,
+        "copy.compile.fail.cpp": 3.7748131932931264,
+        "copy.pass.cpp": 17.735112084024124,
+        "explicit.compile.fail.cpp": 3.7748131932931264,
+        "pointer.pass.cpp": 17.735112084024124
     },
     "subdirscores": {}
 }

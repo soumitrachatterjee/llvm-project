@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/lldb/unittests/Symbol/Inputs",
-    "score.sum": 4.024819378772886e-05,
+    "score.sum": 2.776819433852444e-05,
     "sha.latest": "2d35092cd2589dffbca1e34a3dc68f6df75818a9",
     "time.latest": 1717997716.9427526,
     "formatted_time": "2024-06-10 11:05:16.942755",
     "filescores": {
-        "inlined-functions.yaml": 2.776819433852444e-05
+        "inlined-functions.yaml": 100.0
     },
     "subdirscores": {}
 }

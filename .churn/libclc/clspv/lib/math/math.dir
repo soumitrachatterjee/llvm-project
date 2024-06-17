@@ -5,9 +5,9 @@
     "time.latest": 1717823988.0007222,
     "formatted_time": "2024-06-08 00:19:48.000725",
     "filescores": {
-        "fma.cl": 6.099602068851199e-06,
-        "nextafter.cl": 0,
-        "nextafter.inc": 0
+        "fma.cl": 100.0,
+        "nextafter.cl": 0.0,
+        "nextafter.inc": 0.0
     },
     "subdirscores": {}
 }

@@ -1,15 +1,15 @@
 {
     "directory name": "llvm-project/llvm/test/CodeGen/MLRegAlloc/Inputs",
-    "score.sum": 2.9971560221440823e-05,
+    "score.sum": 5.110379337483813e-05,
     "sha.latest": "840bf2a0bb94d351fc9ecc21f827dca54a977509",
     "time.latest": 1718081974.7715673,
     "formatted_time": "2024-06-10 23:59:34.771571",
     "filescores": {
-        "input.ll": 0,
-        "interactive_main.py": 0,
-        "reference-log-noml.txt": 2.9971560221440823e-05,
-        "reference-prio-log-noml.txt": 2.113223315339731e-05,
-        "two-large-fcts.ll": 0
+        "input.ll": 0.0,
+        "interactive_main.py": 0.0,
+        "reference-log-noml.txt": 58.648406003061716,
+        "reference-prio-log-noml.txt": 41.351593996938284,
+        "two-large-fcts.ll": 0.0
     },
     "subdirscores": {}
 }

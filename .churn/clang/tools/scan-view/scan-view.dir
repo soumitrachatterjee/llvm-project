@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/clang/tools/scan-view",
-    "score.sum": 0.0001708740733539672,
+    "score.sum": 0.00011244620768140923,
     "sha.latest": "1be4db73642fa0658d3b1e1dad7ec95259d1d261",
     "time.latest": 1718083062.646461,
     "formatted_time": "2024-06-11 10:47:42.646463",
     "filescores": {
-        "CMakeLists.txt": 4.453311805567058e-05
+        "CMakeLists.txt": 39.60393060283994
     },
     "subdirscores": {
-        "bin": 1.599926827026861e-05,
-        "share": 5.191382135547004e-05
+        "bin": 14.228375149474937,
+        "share": 46.16769424768513
     }
 }

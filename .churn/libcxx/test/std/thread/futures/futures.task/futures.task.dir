@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/libcxx/test/std/thread/futures/futures.task",
-    "score.sum": 7.35452425248768e-05,
+    "score.sum": 0.00010378961387583167,
     "sha.latest": "580d26ae462e80d63d1d3c7f9c0c885613a529d8",
     "time.latest": 1717976140.1221333,
     "formatted_time": "2024-06-10 05:05:40.122135",
     "filescores": {},
     "subdirscores": {
-        "futures.task.members": 7.35452425248768e-05,
-        "futures.task.nonmembers": 3.0244371350954873e-05
+        "futures.task.members": 70.85992497559764,
+        "futures.task.nonmembers": 29.14007502440236
     }
 }

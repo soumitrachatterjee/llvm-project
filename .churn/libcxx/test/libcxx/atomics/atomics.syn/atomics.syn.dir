@@ -5,7 +5,7 @@
     "time.latest": 1717845309.5321274,
     "formatted_time": "2024-06-08 16:45:09.532130",
     "filescores": {
-        "incompatible_with_stdatomic.verify.cpp": 9.039916876022753e-06
+        "incompatible_with_stdatomic.verify.cpp": 100.0
     },
     "subdirscores": {}
 }

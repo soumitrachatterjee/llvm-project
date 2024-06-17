@@ -5,7 +5,7 @@
     "time.latest": 1717788389.8122633,
     "formatted_time": "2024-06-08 00:56:29.812268",
     "filescores": {
-        "FuzzedDataProvider.h": 2.474294934469659e-05
+        "FuzzedDataProvider.h": 100.0
     },
     "subdirscores": {}
 }

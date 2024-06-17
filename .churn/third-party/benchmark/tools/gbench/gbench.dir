@@ -1,15 +1,15 @@
 {
     "directory name": "llvm-project/third-party/benchmark/tools/gbench",
-    "score.sum": 2.268608041808747e-05,
+    "score.sum": 8.631556013658198e-05,
     "sha.latest": "a5b797172cc902db166e9a695716fb81405f86e4",
     "time.latest": 1717789653.5268557,
     "formatted_time": "2024-06-07 14:47:33.526859",
     "filescores": {
-        "__init__.py": 2.248744635878394e-05,
-        "report.py": 2.268608041808747e-05,
-        "util.py": 2.248744635878394e-05
+        "__init__.py": 26.05259853866532,
+        "report.py": 26.28272397490094,
+        "util.py": 26.05259853866532
     },
     "subdirscores": {
-        "Inputs": 1.8654587000926627e-05
+        "Inputs": 21.612078947768424
     }
 }

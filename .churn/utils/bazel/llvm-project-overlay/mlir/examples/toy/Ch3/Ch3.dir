@@ -5,7 +5,7 @@
     "time.latest": 1717790135.0218117,
     "formatted_time": "2024-06-08 01:25:35.021816",
     "filescores": {
-        "BUILD.bazel": 1.3365879083915133e-05
+        "BUILD.bazel": 100.0
     },
     "subdirscores": {}
 }

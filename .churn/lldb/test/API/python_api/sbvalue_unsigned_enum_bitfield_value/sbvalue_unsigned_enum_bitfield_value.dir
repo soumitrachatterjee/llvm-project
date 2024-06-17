@@ -5,8 +5,8 @@
     "time.latest": 1717966759.4947286,
     "formatted_time": "2024-06-10 02:29:19.494730",
     "filescores": {
-        "main.cpp": 0,
-        "TestSBValueUnsignedEnumBitField.py": 6.2022433790694715e-06
+        "main.cpp": 0.0,
+        "TestSBValueUnsignedEnumBitField.py": 100.0
     },
     "subdirscores": {}
 }

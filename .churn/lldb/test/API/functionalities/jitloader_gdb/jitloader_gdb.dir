@@ -5,10 +5,10 @@
     "time.latest": 1717910770.782302,
     "formatted_time": "2024-06-09 10:56:10.782304",
     "filescores": {
-        "main.c": 0,
-        "Makefile": 0,
-        "simple.c": 0,
-        "TestJITLoaderGDB.py": 3.167662544973819e-05
+        "main.c": 0.0,
+        "Makefile": 0.0,
+        "simple.c": 0.0,
+        "TestJITLoaderGDB.py": 100.0
     },
     "subdirscores": {}
 }

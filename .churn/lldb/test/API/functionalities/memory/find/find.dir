@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/lldb/test/API/functionalities/memory/find",
-    "score.sum": 1.7839951880291904e-05,
+    "score.sum": 2.3896003823194483e-05,
     "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
     "time.latest": 1717912075.382136,
     "formatted_time": "2024-06-09 11:17:55.382138",
     "filescores": {
-        "main.cpp": 6.099602068851199e-06,
-        "Makefile": 0,
-        "TestMemoryFind.py": 1.7796401754343284e-05
+        "main.cpp": 25.525615554725782,
+        "Makefile": 0.0,
+        "TestMemoryFind.py": 74.47438444527421
     },
     "subdirscores": {}
 }

@@ -5,9 +5,9 @@
     "time.latest": 1717903493.9966056,
     "formatted_time": "2024-06-09 08:54:53.996608",
     "filescores": {
-        "main.cpp": 0,
-        "Makefile": 0,
-        "TestWriteMemoryWithHWBreakpoint.py": 1.0174431809281499e-05
+        "main.cpp": 0.0,
+        "Makefile": 0.0,
+        "TestWriteMemoryWithHWBreakpoint.py": 100.0
     },
     "subdirscores": {}
 }

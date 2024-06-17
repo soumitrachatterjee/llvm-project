@@ -1,17 +1,17 @@
 {
     "directory name": "llvm-project/libclc/amdgpu/lib",
-    "score.sum": 9.601294917985975e-05,
+    "score.sum": 0.00018807711407550122,
     "sha.latest": "0ba9339cdeb0d5d3af3185a6c3814679c8777a6d",
     "time.latest": 1717823924.0833344,
     "formatted_time": "2024-06-08 00:18:44.083335",
     "filescores": {
-        "SOURCES": 9.275349001100138e-05,
-        "SOURCES_3.9": 0,
-        "SOURCES_4.0": 6.099602068851199e-06,
-        "SOURCES_5.0": 6.099602068851199e-06
+        "SOURCES": 49.31673397209117,
+        "SOURCES_3.9": 0.0,
+        "SOURCES_4.0": 3.243138910778155,
+        "SOURCES_5.0": 3.243138910778155
     },
     "subdirscores": {
-        "math": 7.702481785794623e-05,
-        "shared": 6.099602068851199e-06
+        "math": 40.95384929557435,
+        "shared": 3.243138910778155
     }
 }

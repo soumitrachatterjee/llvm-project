@@ -5,10 +5,10 @@
     "time.latest": 1717896323.096995,
     "formatted_time": "2024-06-09 06:55:23.097026",
     "filescores": {
-        "entitlements.plist": 0,
-        "main.cpp": 0,
-        "Makefile": 0,
-        "TestAttachDenied.py": 1.4755240764683633e-05
+        "entitlements.plist": 0.0,
+        "main.cpp": 0.0,
+        "Makefile": 0.0,
+        "TestAttachDenied.py": 100.0
     },
     "subdirscores": {}
 }

@@ -5,7 +5,7 @@
     "time.latest": 1717907289.2544327,
     "formatted_time": "2024-06-09 09:58:09.254435",
     "filescores": {
-        "ctor_streambuf.pass.cpp": 1.7366275644238228e-05
+        "ctor_streambuf.pass.cpp": 100.0
     },
     "subdirscores": {}
 }

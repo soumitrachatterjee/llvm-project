@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/libcxx/test/std/time/time.zone/time.zone.db/time.zone.db.remote",
-    "score.sum": 6.136410310392832e-06,
+    "score.sum": 1.2272820620785663e-05,
     "sha.latest": "d332d88b919faa15564ab70b0633d94f21bc3e3c",
     "time.latest": 1717986374.683032,
     "formatted_time": "2024-06-10 07:56:14.683046",
     "filescores": {
-        "reload_tzdb.pass.cpp": 6.136410310392832e-06,
-        "remote_version.pass.cpp": 6.136410310392832e-06
+        "reload_tzdb.pass.cpp": 50.0,
+        "remote_version.pass.cpp": 50.0
     },
     "subdirscores": {}
 }

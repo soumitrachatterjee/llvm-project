@@ -6,6 +6,6 @@
     "formatted_time": "2024-06-08 20:50:39.849792",
     "filescores": {},
     "subdirscores": {
-        "ostreambuf.iterator": 6.099602068851199e-06
+        "ostreambuf.iterator": 100.0
     }
 }

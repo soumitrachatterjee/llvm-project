@@ -5,10 +5,10 @@
     "time.latest": 1717962026.1859045,
     "formatted_time": "2024-06-10 01:10:26.185906",
     "filescores": {
-        "ctor.default.pass.cpp": 0,
-        "ctor.other.pass.cpp": 1.1988170485796409e-05,
-        "ctor.parent.pass.cpp": 0,
-        "eq.pass.cpp": 0
+        "ctor.default.pass.cpp": 0.0,
+        "ctor.other.pass.cpp": 100.0,
+        "ctor.parent.pass.cpp": 0.0,
+        "eq.pass.cpp": 0.0
     },
     "subdirscores": {}
 }

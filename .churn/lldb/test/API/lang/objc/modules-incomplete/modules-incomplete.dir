@@ -1,17 +1,17 @@
 {
     "directory name": "llvm-project/lldb/test/API/lang/objc/modules-incomplete",
-    "score.sum": 3.0491144243767677e-05,
+    "score.sum": 2.4640567212656467e-05,
     "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
     "time.latest": 1717957881.8543,
     "formatted_time": "2024-06-10 00:01:21.854305",
     "filescores": {
-        "main.m": 0,
-        "Makefile": 0,
-        "minmax.h": 0,
-        "module.modulemap": 0,
-        "myModule.h": 0,
-        "myModule.m": 0,
-        "TestIncompleteModules.py": 2.4640567212656467e-05
+        "main.m": 0.0,
+        "Makefile": 0.0,
+        "minmax.h": 0.0,
+        "module.modulemap": 0.0,
+        "myModule.h": 0.0,
+        "myModule.m": 0.0,
+        "TestIncompleteModules.py": 100.0
     },
     "subdirscores": {}
 }

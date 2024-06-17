@@ -1,16 +1,16 @@
 {
     "directory name": "llvm-project/libcxx/test/std/ranges/range.adaptors/range.elements/sentinel",
-    "score.sum": 7.597425718181066e-06,
+    "score.sum": 1.2199204137702398e-05,
     "sha.latest": "d59a43fe2ad81f5c3918c9ef79a986955256f7ea",
     "time.latest": 1717961359.045177,
     "formatted_time": "2024-06-10 00:59:19.045181",
     "filescores": {
-        "base.pass.cpp": 0,
-        "ctor.base.pass.cpp": 0,
-        "ctor.convert.pass.cpp": 0,
-        "ctor.default.pass.cpp": 0,
-        "equality.pass.cpp": 6.099602068851199e-06,
-        "minus.pass.cpp": 6.099602068851199e-06
+        "base.pass.cpp": 0.0,
+        "ctor.base.pass.cpp": 0.0,
+        "ctor.convert.pass.cpp": 0.0,
+        "ctor.default.pass.cpp": 0.0,
+        "equality.pass.cpp": 50.0,
+        "minus.pass.cpp": 50.0
     },
     "subdirscores": {}
 }

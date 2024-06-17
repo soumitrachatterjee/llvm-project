@@ -1,15 +1,15 @@
 {
     "directory name": "llvm-project/flang/test/Integration",
-    "score.sum": 3.209988917557745e-05,
+    "score.sum": 2.148268830205362e-05,
     "sha.latest": "28162b7832b87c85faedfca661e47d60e74337e9",
     "time.latest": 1717797738.5645475,
     "formatted_time": "2024-06-07 17:02:18.564551",
     "filescores": {
-        "README.md": 0,
-        "aarch64-outline-atomics.f90": 0,
-        "iso-fortran-binding.cpp": 0
+        "README.md": 0.0,
+        "aarch64-outline-atomics.f90": 0.0,
+        "iso-fortran-binding.cpp": 0.0
     },
     "subdirscores": {
-        "OpenMP": 2.148268830205362e-05
+        "OpenMP": 100.0
     }
 }

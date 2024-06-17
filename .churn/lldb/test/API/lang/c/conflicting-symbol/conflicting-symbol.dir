@@ -1,18 +1,18 @@
 {
     "directory name": "llvm-project/lldb/test/API/lang/c/conflicting-symbol",
-    "score.sum": 2.0168970152049052e-05,
+    "score.sum": 3.8428109480870935e-05,
     "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
     "time.latest": 1717925299.8192737,
     "formatted_time": "2024-06-09 14:58:19.819277",
     "filescores": {
-        "main.c": 6.099602068851199e-06,
-        "Makefile": 0,
-        "One.mk": 0,
-        "TestConflictingSymbol.py": 2.0129303274317338e-05,
-        "Two.mk": 0
+        "main.c": 15.872761244961866,
+        "Makefile": 0.0,
+        "One.mk": 0.0,
+        "TestConflictingSymbol.py": 52.3817162651144,
+        "Two.mk": 0.0
     },
     "subdirscores": {
-        "One": 6.099602068851199e-06,
-        "Two": 6.099602068851199e-06
+        "One": 15.872761244961866,
+        "Two": 15.872761244961866
     }
 }

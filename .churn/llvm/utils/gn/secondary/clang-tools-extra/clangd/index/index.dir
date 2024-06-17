@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/llvm/utils/gn/secondary/clang-tools-extra/clangd/index",
-    "score.sum": 2.9620749062420365e-05,
+    "score.sum": 2.850179161297578e-05,
     "sha.latest": "191117cec5cdffb46fc3b889bd0627b77b798864",
     "time.latest": 1718082348.9810367,
     "formatted_time": "2024-06-11 00:05:48.981037",
     "filescores": {},
     "subdirscores": {
-        "dex": 1.983880423580575e-05,
-        "remote": 8.662987377170028e-06
+        "dex": 69.60546377292964,
+        "remote": 30.394536227070372
     }
 }

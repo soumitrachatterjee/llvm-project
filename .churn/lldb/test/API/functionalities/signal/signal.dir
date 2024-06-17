@@ -1,17 +1,17 @@
 {
     "directory name": "llvm-project/lldb/test/API/functionalities/signal",
-    "score.sum": 5.600430351696887e-05,
+    "score.sum": 0.00011524335604915746,
     "sha.latest": "9c2468821ec51defd09c246fea4a47886fff8c01",
     "time.latest": 1717919941.1196089,
     "formatted_time": "2024-06-09 13:29:01.119611",
     "filescores": {
-        "main.c": 0,
-        "Makefile": 0,
-        "TestSendSignal.py": 3.790184071999715e-05
+        "main.c": 0.0,
+        "Makefile": 0.0,
+        "TestSendSignal.py": 32.8885256550755
     },
     "subdirscores": {
-        "handle-abrt": 2.7014389982644714e-05,
-        "handle-segv": 2.17511903827744e-05,
-        "raise": 2.857593496374121e-05
+        "handle-abrt": 23.44116911270931,
+        "handle-segv": 18.874138283074952,
+        "raise": 24.796166949140254
     }
 }

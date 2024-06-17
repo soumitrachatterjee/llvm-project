@@ -5,8 +5,8 @@
     "time.latest": 1717832958.054092,
     "formatted_time": "2024-06-08 02:49:18.054095",
     "filescores": {
-        "included.pdll": 0,
-        "included.td": 6.099602068851199e-06
+        "included.pdll": 0.0,
+        "included.td": 100.0
     },
     "subdirscores": {}
 }

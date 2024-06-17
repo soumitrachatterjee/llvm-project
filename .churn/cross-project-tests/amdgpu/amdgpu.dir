@@ -1,17 +1,17 @@
 {
     "directory name": "llvm-project/cross-project-tests/amdgpu",
-    "score.sum": 7.834452159093279e-06,
+    "score.sum": 6.099602068851199e-06,
     "sha.latest": "7fdf608cefa0d9051eb3146ee19c3750e237c799",
     "time.latest": 1717784553.9478362,
     "formatted_time": "2024-06-07 23:52:33.949890",
     "filescores": {
-        "builtins-amdgcn-gfx12-wmma-w32.cl": 0,
-        "builtins-amdgcn-gfx12-wmma-w64.cl": 0,
-        "builtins-amdgcn-swmmac-w32.cl": 0,
-        "builtins-amdgcn-swmmac-w64.cl": 0,
-        "builtins-amdgcn-wmma-w32.cl": 0,
-        "builtins-amdgcn-wmma-w64.cl": 0,
-        "lit.local.cfg": 6.099602068851199e-06
+        "builtins-amdgcn-gfx12-wmma-w32.cl": 0.0,
+        "builtins-amdgcn-gfx12-wmma-w64.cl": 0.0,
+        "builtins-amdgcn-swmmac-w32.cl": 0.0,
+        "builtins-amdgcn-swmmac-w64.cl": 0.0,
+        "builtins-amdgcn-wmma-w32.cl": 0.0,
+        "builtins-amdgcn-wmma-w64.cl": 0.0,
+        "lit.local.cfg": 100.0
     },
     "subdirscores": {}
 }

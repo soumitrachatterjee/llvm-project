@@ -5,9 +5,9 @@
     "time.latest": 1717836062.5901709,
     "formatted_time": "2024-06-08 03:41:02.590174",
     "filescores": {
-        "CMakeLists.txt": 0,
-        "LLVMTestBase.h": 0,
-        "LLVMTypeTest.cpp": 1.9649372639778316e-05
+        "CMakeLists.txt": 0.0,
+        "LLVMTestBase.h": 0.0,
+        "LLVMTypeTest.cpp": 100.0
     },
     "subdirscores": {}
 }

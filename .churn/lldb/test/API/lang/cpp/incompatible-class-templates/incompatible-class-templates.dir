@@ -5,10 +5,10 @@
     "time.latest": 1717932393.482841,
     "formatted_time": "2024-06-09 16:56:33.482844",
     "filescores": {
-        "main.cpp": 0,
-        "Makefile": 0,
-        "other.cpp": 0,
-        "TestCppIncompatibleClassTemplates.py": 9.257972690111076e-06
+        "main.cpp": 0.0,
+        "Makefile": 0.0,
+        "other.cpp": 0.0,
+        "TestCppIncompatibleClassTemplates.py": 100.0
     },
     "subdirscores": {}
 }

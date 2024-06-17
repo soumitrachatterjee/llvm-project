@@ -5,8 +5,8 @@
     "time.latest": 1717827214.45759,
     "formatted_time": "2024-06-08 01:13:34.457594",
     "filescores": {
-        "lit.local.cfg": 0,
-        "test-setArmSVLBits.mlir": 6.099602068851199e-06
+        "lit.local.cfg": 0.0,
+        "test-setArmSVLBits.mlir": 100.0
     },
     "subdirscores": {}
 }

@@ -5,7 +5,7 @@
     "time.latest": 1717802180.62966,
     "formatted_time": "2024-06-08 04:46:20.629662",
     "filescores": {
-        "tool_available.c": 1.9321293694796927e-05
+        "tool_available.c": 100.0
     },
     "subdirscores": {}
 }

@@ -1,22 +1,22 @@
 {
     "directory name": "llvm-project/lldb/examples/test",
-    "score.sum": 9.485399435412063e-06,
+    "score.sum": 2.4398680802712598e-05,
     "sha.latest": "e97b991eef63663d1f635813fe375354edb7b51a",
     "time.latest": 1717843334.2166724,
     "formatted_time": "2024-06-08 16:12:14.216678",
     "filescores": {
-        ".lldb-loggings": 6.099738332505099e-06,
-        ".lldb-pre-post-flight": 0,
-        ".lldb-pre-post-flight.bad": 0,
-        ".lldbtest-config": 6.099602068851199e-06,
-        ".lldbtest-config2": 6.099602068851199e-06,
-        "lldbtest-stderr": 0,
-        "lldbtest-stdout": 0,
-        "usage-config": 0,
-        "usage-lldb-loggings": 6.099738332505099e-06,
-        "usage-pre-post-flight": 0
+        ".lldb-loggings": 25.000279243896422,
+        ".lldb-pre-post-flight": 0.0,
+        ".lldb-pre-post-flight.bad": 0.0,
+        ".lldbtest-config": 24.99972075610357,
+        ".lldbtest-config2": 24.99972075610357,
+        "lldbtest-stderr": 0.0,
+        "lldbtest-stdout": 0.0,
+        "usage-config": 0.0,
+        "usage-lldb-loggings": 25.000279243896422,
+        "usage-pre-post-flight": 0.0
     },
     "subdirscores": {
-        "tmp": 0
+        "tmp": 0.0
     }
 }

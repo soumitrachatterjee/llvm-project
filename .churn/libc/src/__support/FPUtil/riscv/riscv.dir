@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/libc/src/__support/FPUtil/riscv",
-    "score.sum": 6.099602068851199e-06,
+    "score.sum": 1.2199204137702398e-05,
     "sha.latest": "f10ec8c77403fd722b3f50710cb73757da4383e4",
     "time.latest": 1717828572.870572,
     "formatted_time": "2024-06-08 01:36:12.870575",
     "filescores": {
-        "FEnvImpl.h": 0,
-        "FMA.h": 6.099602068851199e-06,
-        "sqrt.h": 6.099602068851199e-06
+        "FEnvImpl.h": 0.0,
+        "FMA.h": 50.0,
+        "sqrt.h": 50.0
     },
     "subdirscores": {}
 }

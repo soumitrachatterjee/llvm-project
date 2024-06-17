@@ -5,8 +5,8 @@
     "time.latest": 1717937564.3387415,
     "formatted_time": "2024-06-09 07:52:44.338745",
     "filescores": {
-        "Testsuite.ml": 0,
-        "lit.local.cfg": 6.099602068851199e-06
+        "Testsuite.ml": 0.0,
+        "lit.local.cfg": 100.0
     },
     "subdirscores": {}
 }

@@ -5,9 +5,9 @@
     "time.latest": 1717913201.5200162,
     "formatted_time": "2024-06-09 11:36:41.520018",
     "filescores": {
-        "main.c": 0,
-        "Makefile": 0,
-        "TestMultipleSlides.py": 1.399791809154904e-05
+        "main.c": 0.0,
+        "Makefile": 0.0,
+        "TestMultipleSlides.py": 100.0
     },
     "subdirscores": {}
 }

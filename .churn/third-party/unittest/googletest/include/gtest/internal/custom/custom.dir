@@ -1,15 +1,15 @@
 {
     "directory name": "llvm-project/third-party/unittest/googletest/include/gtest/internal/custom",
-    "score.sum": 2.4133505139056554e-05,
+    "score.sum": 7.18193321099194e-05,
     "sha.latest": "a866ce789eb99da4d7a486eeb60a53be6c75f4fd",
     "time.latest": 1717790177.5196486,
     "formatted_time": "2024-06-07 14:56:17.519652",
     "filescores": {
-        "README.md": 6.362580167617361e-06,
-        "gtest-port.h": 1.8257891228743476e-05,
-        "gtest-printers.h": 2.282330147319886e-05,
-        "gtest.h": 1.8257891228743476e-05,
-        "raw-ostream.h": 6.117668011616217e-06
+        "README.md": 8.859146946506604,
+        "gtest-port.h": 25.42197301528758,
+        "gtest-printers.h": 31.778771540603895,
+        "gtest.h": 25.42197301528758,
+        "raw-ostream.h": 8.518135482314335
     },
     "subdirscores": {}
 }

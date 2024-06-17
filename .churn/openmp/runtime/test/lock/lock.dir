@@ -1,15 +1,15 @@
 {
     "directory name": "llvm-project/openmp/runtime/test/lock",
-    "score.sum": 1.9343272492148282e-05,
+    "score.sum": 5.1628487936036886e-05,
     "sha.latest": "42016791101782a0f5e64e1ea9ea282e27a8132a",
     "time.latest": 1717801915.965487,
     "formatted_time": "2024-06-08 04:41:55.965491",
     "filescores": {
-        "omp_init_lock.c": 6.126080813694295e-06,
-        "omp_lock.c": 2.2014448624171323e-05,
-        "omp_nest_lock.c": 6.099602068851199e-06,
-        "omp_test_lock.c": 1.1288754360468872e-05,
-        "omp_test_nest_lock.c": 6.099602068851199e-06
+        "omp_init_lock.c": 11.865698684191498,
+        "omp_lock.c": 42.64011886508331,
+        "omp_nest_lock.c": 11.814411602385228,
+        "omp_test_lock.c": 21.865359245954746,
+        "omp_test_nest_lock.c": 11.814411602385228
     },
     "subdirscores": {}
 }

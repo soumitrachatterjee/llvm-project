@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/llvm/utils/docker/scripts/llvm_checksum",
-    "score.sum": 1.7550946094761144e-05,
+    "score.sum": 2.3650548163612343e-05,
     "sha.latest": "b71edfaa4ec3c998aadb35255ce2f60bba2940b0",
     "time.latest": 1718079588.1411958,
     "formatted_time": "2024-06-10 23:19:48.141199",
     "filescores": {
-        "llvm_checksum.py": 1.0550346673999841e-05,
-        "project_tree.py": 1.3100201489612502e-05
+        "llvm_checksum.py": 44.609311382609405,
+        "project_tree.py": 55.390688617390595
     },
     "subdirscores": {}
 }

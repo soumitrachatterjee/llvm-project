@@ -5,9 +5,9 @@
     "time.latest": 1717898344.840873,
     "formatted_time": "2024-06-09 07:29:04.840876",
     "filescores": {
-        "main.cpp": 0,
-        "Makefile": 0,
-        "TestTargetDumpTypeSystem.py": 1.1253816631382188e-05
+        "main.cpp": 0.0,
+        "Makefile": 0.0,
+        "TestTargetDumpTypeSystem.py": 100.0
     },
     "subdirscores": {}
 }

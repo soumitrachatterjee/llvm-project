@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/llvm/unittests/Target/RISCV",
-    "score.sum": 6.631581914927234e-05,
+    "score.sum": 4.344961785220245e-05,
     "sha.latest": "954f891af20d193f6a5f41d7ede6a9313a49cfc3",
     "time.latest": 1718084334.046871,
     "formatted_time": "2024-06-11 00:38:54.046875",
     "filescores": {
-        "CMakeLists.txt": 1.920044173268794e-05,
-        "MCInstrAnalysisTest.cpp": 0,
-        "RISCVInstrInfoTest.cpp": 2.424917611951451e-05
+        "CMakeLists.txt": 44.19012797304654,
+        "MCInstrAnalysisTest.cpp": 0.0,
+        "RISCVInstrInfoTest.cpp": 55.809872026953464
     },
     "subdirscores": {}
 }

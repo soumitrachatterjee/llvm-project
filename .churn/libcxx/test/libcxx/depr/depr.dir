@@ -1,20 +1,20 @@
 {
     "directory name": "llvm-project/libcxx/test/libcxx/depr",
-    "score.sum": 0.00021238725525024417,
+    "score.sum": 0.00023637560230960035,
     "sha.latest": "e0443624b9b418cd2a1b26cac662885aedfb4977",
     "time.latest": 1717849609.379355,
     "formatted_time": "2024-06-08 17:56:49.379363",
     "filescores": {
-        "enable_removed_cpp17_features.compile.pass.cpp": 1.1033053581270952e-05,
-        "enable_removed_cpp17_features.deprecated.verify.cpp": 0,
-        "enable_removed_cpp20_features.deprecated.verify.cpp": 0
+        "enable_removed_cpp17_features.compile.pass.cpp": 4.667594063629318,
+        "enable_removed_cpp17_features.deprecated.verify.cpp": 0.0,
+        "enable_removed_cpp20_features.deprecated.verify.cpp": 0.0
     },
     "subdirscores": {
-        "depr.auto.ptr": 4.6861022501413904e-05,
-        "depr.c.headers": 8.126926845173917e-05,
-        "depr.default.allocator": 3.442128338019931e-05,
-        "depr.func.adaptor.typedefs": 0,
-        "depr.function.objects": 4.4634045184267135e-05,
-        "exception.unexpected": 1.8156929210709852e-05
+        "depr.auto.ptr": 19.824813577856574,
+        "depr.c.headers": 34.381411472954895,
+        "depr.default.allocator": 14.562113451588358,
+        "depr.func.adaptor.typedefs": 0.0,
+        "depr.function.objects": 18.882678562488145,
+        "exception.unexpected": 7.681388871482703
     }
 }

@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/libcxx/test/libcxx/depr/depr.c.headers",
-    "score.sum": 8.126926845173917e-05,
+    "score.sum": 4.873143836864083e-05,
     "sha.latest": "e734bc53de8173a1b54493f3e0c8f70575341a9e",
     "time.latest": 1717849180.5259426,
     "formatted_time": "2024-06-08 17:49:40.525947",
     "filescores": {
-        "extern_c.pass.cpp": 2.4523233593616386e-05,
-        "math_h.compile.pass.cpp": 6.099602068851199e-06,
-        "stdint_h.std_types_t.compile.pass.cpp": 6.099602068851199e-06,
-        "stdint_h.xopen_source.compile.pass.cpp": 1.2009000637322045e-05
+        "extern_c.pass.cpp": 50.32322955071511,
+        "math_h.compile.pass.cpp": 12.516770021662966,
+        "stdint_h.std_types_t.compile.pass.cpp": 12.516770021662966,
+        "stdint_h.xopen_source.compile.pass.cpp": 24.643230405958953
     },
     "subdirscores": {}
 }

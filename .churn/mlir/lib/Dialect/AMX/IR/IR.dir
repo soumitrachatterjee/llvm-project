@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/mlir/lib/Dialect/AMX/IR",
-    "score.sum": 1.788034570598815e-05,
+    "score.sum": 1.7951334458687503e-05,
     "sha.latest": "8df54a6a03a6d07e3053eff9806b450ec9193772",
     "time.latest": 1717804592.2170653,
     "formatted_time": "2024-06-07 18:56:32.217069",
     "filescores": {
-        "AMXDialect.cpp": 1.1851732389836304e-05,
-        "CMakeLists.txt": 6.099602068851199e-06
+        "AMXDialect.cpp": 66.02145604891612,
+        "CMakeLists.txt": 33.978543951083886
     },
     "subdirscores": {}
 }

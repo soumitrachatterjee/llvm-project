@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/libcxx/test/std/thread/thread.mutex/thread.once/thread.once.callonce",
-    "score.sum": 3.9439728755476374e-05,
+    "score.sum": 5.848177501593292e-05,
     "sha.latest": "a7f9895cc18995549c7facb96e72718da282a864",
     "time.latest": 1717979108.1015327,
     "formatted_time": "2024-06-10 05:55:08.101535",
     "filescores": {
-        "call_once.pass.cpp": 3.436770156348621e-05,
-        "race.pass.cpp": 2.4114073452446707e-05
+        "call_once.pass.cpp": 58.76651581475253,
+        "race.pass.cpp": 41.23348418524747
     },
     "subdirscores": {}
 }

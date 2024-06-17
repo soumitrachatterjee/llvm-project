@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/clang-tools-extra/unittests/include/common",
-    "score.sum": 1.6933220363336426e-05,
+    "score.sum": 1.3920433455359991e-05,
     "sha.latest": "282dc72c8b84759dda4fe12420228158962351e8",
     "time.latest": 1717837222.8479145,
     "formatted_time": "2024-06-08 14:30:22.847918",
     "filescores": {
-        "VirtualFileHelper.h": 1.3920433455359991e-05
+        "VirtualFileHelper.h": 100.0
     },
     "subdirscores": {}
 }

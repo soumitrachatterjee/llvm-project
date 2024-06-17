@@ -5,9 +5,9 @@
     "time.latest": 1717896523.239608,
     "formatted_time": "2024-06-09 06:58:43.239611",
     "filescores": {
-        "main.cpp": 0,
-        "Makefile": 0,
-        "TestProcessHandle.py": 7.03960387698275e-06
+        "main.cpp": 0.0,
+        "Makefile": 0.0,
+        "TestProcessHandle.py": 100.0
     },
     "subdirscores": {}
 }

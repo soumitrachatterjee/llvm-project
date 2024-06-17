@@ -5,8 +5,8 @@
     "time.latest": 1717837262.2376606,
     "formatted_time": "2024-06-08 04:01:02.237664",
     "filescores": {
-        "highlights.scm": 6.099602068851199e-06,
-        "locals.scm": 0
+        "highlights.scm": 100.0,
+        "locals.scm": 0.0
     },
     "subdirscores": {}
 }

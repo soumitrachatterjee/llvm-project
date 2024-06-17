@@ -5,12 +5,12 @@
     "time.latest": 1717916770.2260654,
     "formatted_time": "2024-06-09 12:36:10.226067",
     "filescores": {
-        "fizzbuzz.cpp": 0,
-        "fizzbuzz.syms": 0,
-        "fizzbuzz_no_heap.dmp": 0,
-        "main.cpp": 0,
-        "Makefile": 0,
-        "TestMiniDump.py": 5.008804880624916e-05
+        "fizzbuzz.cpp": 0.0,
+        "fizzbuzz.syms": 0.0,
+        "fizzbuzz_no_heap.dmp": 0.0,
+        "main.cpp": 0.0,
+        "Makefile": 0.0,
+        "TestMiniDump.py": 100.0
     },
     "subdirscores": {}
 }

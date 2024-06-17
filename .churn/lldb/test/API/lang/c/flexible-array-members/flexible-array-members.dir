@@ -5,9 +5,9 @@
     "time.latest": 1717925525.208891,
     "formatted_time": "2024-06-09 15:02:05.208893",
     "filescores": {
-        "main.c": 0,
-        "Makefile": 0,
-        "TestCFlexibleArrayMembers.py": 8.401229972621832e-06
+        "main.c": 0.0,
+        "Makefile": 0.0,
+        "TestCFlexibleArrayMembers.py": 100.0
     },
     "subdirscores": {}
 }

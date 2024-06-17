@@ -1,21 +1,21 @@
 {
     "directory name": "llvm-project/libcxx/test/std/utilities/memory/allocator.traits/allocator.traits.types",
-    "score.sum": 2.6177303685592763e-05,
+    "score.sum": 0.00016384998805511668,
     "sha.latest": "7fc6a55688c816f5fc1a5481ae7af25be7500356",
     "time.latest": 1717997945.750374,
     "formatted_time": "2024-06-10 11:09:05.750376",
     "filescores": {
-        "const_pointer.pass.cpp": 1.4095028032250472e-05,
-        "const_void_pointer.pass.cpp": 1.4095028032250472e-05,
-        "difference_type.pass.cpp": 1.632014502710902e-05,
-        "is_always_equal.pass.cpp": 2.0674590737753388e-05,
-        "pointer.pass.cpp": 1.4095028032250472e-05,
-        "propagate_on_container_copy_assignment.pass.cpp": 1.4095028032250472e-05,
-        "propagate_on_container_move_assignment.pass.cpp": 1.4095028032250472e-05,
-        "propagate_on_container_swap.pass.cpp": 1.4095028032250472e-05,
-        "rebind_alloc.pass.cpp": 1.4095028032250472e-05,
-        "size_type.pass.cpp": 1.4095028032250472e-05,
-        "void_pointer.pass.cpp": 1.4095028032250472e-05
+        "const_pointer.pass.cpp": 8.602397961426227,
+        "const_void_pointer.pass.cpp": 8.602397961426227,
+        "difference_type.pass.cpp": 9.960418807976458,
+        "is_always_equal.pass.cpp": 12.617999539187494,
+        "pointer.pass.cpp": 8.602397961426227,
+        "propagate_on_container_copy_assignment.pass.cpp": 8.602397961426227,
+        "propagate_on_container_move_assignment.pass.cpp": 8.602397961426227,
+        "propagate_on_container_swap.pass.cpp": 8.602397961426227,
+        "rebind_alloc.pass.cpp": 8.602397961426227,
+        "size_type.pass.cpp": 8.602397961426227,
+        "void_pointer.pass.cpp": 8.602397961426227
     },
     "subdirscores": {}
 }

@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/mlir/test/Integration/GPU/CUDA/TensorCore/sm80",
-    "score.sum": 2.723957538157552e-05,
+    "score.sum": 5.447915076315104e-05,
     "sha.latest": "ace69e6b942b8fa7e610d70be2a92e801ceea481",
     "time.latest": 1717827991.246081,
     "formatted_time": "2024-06-08 01:26:31.246085",
     "filescores": {
-        "lit.local.cfg": 0,
-        "transform-mma-sync-matmul-f16-f16-accum.mlir": 2.723957538157552e-05,
-        "transform-mma-sync-matmul-f32.mlir": 2.723957538157552e-05
+        "lit.local.cfg": 0.0,
+        "transform-mma-sync-matmul-f16-f16-accum.mlir": 50.0,
+        "transform-mma-sync-matmul-f32.mlir": 50.0
     },
     "subdirscores": {}
 }

@@ -1,27 +1,27 @@
 {
     "directory name": "llvm-project/mlir/test/Integration/GPU/CUDA",
-    "score.sum": 0.0002766188115897072,
+    "score.sum": 0.00106911182640581,
     "sha.latest": "d95e6d027486876559f1a2a96c33b8ad93cc0ae4",
     "time.latest": 1717828271.3609748,
     "formatted_time": "2024-06-08 01:31:11.360978",
     "filescores": {
-        "all-reduce-and.mlir": 8.460924983102034e-05,
-        "all-reduce-maxsi.mlir": 9.49938832459905e-06,
-        "all-reduce-minsi.mlir": 9.49938832459905e-06,
-        "all-reduce-op.mlir": 7.968944813928111e-05,
-        "all-reduce-or.mlir": 7.968944813928111e-05,
-        "all-reduce-region.mlir": 7.968944813928111e-05,
-        "all-reduce-xor.mlir": 7.968944813928111e-05,
-        "async.mlir": 7.211161973099092e-05,
-        "gpu-to-cubin.mlir": 0.00011075463287543289,
-        "lit.local.cfg": 1.1567322870906329e-05,
-        "multiple-all-reduce.mlir": 7.968944813928111e-05,
-        "printf.mlir": 3.880600080438191e-05,
-        "shuffle.mlir": 7.791053294591013e-05,
-        "two-modules.mlir": 7.397618798034308e-05
+        "all-reduce-and.mlir": 7.91397567039022,
+        "all-reduce-maxsi.mlir": 0.888530843076962,
+        "all-reduce-minsi.mlir": 0.888530843076962,
+        "all-reduce-op.mlir": 7.453799141590717,
+        "all-reduce-or.mlir": 7.453799141590717,
+        "all-reduce-region.mlir": 7.453799141590717,
+        "all-reduce-xor.mlir": 7.453799141590717,
+        "async.mlir": 6.745002529194642,
+        "gpu-to-cubin.mlir": 10.359499365727997,
+        "lit.local.cfg": 1.0819563103883991,
+        "multiple-all-reduce.mlir": 7.453799141590717,
+        "printf.mlir": 3.6297419826363466,
+        "shuffle.mlir": 7.287407268501873,
+        "two-modules.mlir": 6.919406010972648
     },
     "subdirscores": {
-        "TensorCore": 0.00012387696138177012,
-        "sm90": 5.80533006394509e-05
+        "TensorCore": 11.586904037739949,
+        "sm90": 5.430049430340434
     }
 }

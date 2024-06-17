@@ -5,8 +5,8 @@
     "time.latest": 1717825713.4040532,
     "formatted_time": "2024-06-08 00:48:33.404057",
     "filescores": {
-        "CMakeLists.txt": 5.34471673375407e-05,
-        "hello_world.c": 0
+        "CMakeLists.txt": 100.0,
+        "hello_world.c": 0.0
     },
     "subdirscores": {}
 }

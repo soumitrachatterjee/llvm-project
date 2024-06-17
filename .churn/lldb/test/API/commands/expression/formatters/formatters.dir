@@ -1,15 +1,15 @@
 {
     "directory name": "llvm-project/lldb/test/API/commands/expression/formatters",
-    "score.sum": 1.899489446379999e-05,
+    "score.sum": 3.729370067035359e-05,
     "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
     "time.latest": 1717890298.7138777,
     "formatted_time": "2024-06-09 05:14:58.713880",
     "filescores": {
-        "foosynth.py": 6.099602068851199e-06,
-        "formatters.py": 6.099602068851199e-06,
-        "main.cpp": 6.099602068851199e-06,
-        "Makefile": 0,
-        "TestFormatters.py": 1.899489446379999e-05
+        "foosynth.py": 16.355582737060047,
+        "formatters.py": 16.355582737060047,
+        "main.cpp": 16.355582737060047,
+        "Makefile": 0.0,
+        "TestFormatters.py": 50.933251788819845
     },
     "subdirscores": {}
 }

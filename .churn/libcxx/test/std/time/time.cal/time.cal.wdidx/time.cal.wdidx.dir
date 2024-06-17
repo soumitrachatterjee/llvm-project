@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/libcxx/test/std/time/time.cal/time.cal.wdidx",
-    "score.sum": 2.967214091482851e-05,
+    "score.sum": 3.287026555110703e-05,
     "sha.latest": "520c7fbbd0356f135a19cc764ff70e7f52ba11a0",
     "time.latest": 1717981520.557878,
     "formatted_time": "2024-06-10 06:35:20.557880",
     "filescores": {
-        "types.pass.cpp": 0
+        "types.pass.cpp": 0.0
     },
     "subdirscores": {
-        "time.cal.wdidx.members": 6.099602068851199e-06,
-        "time.cal.wdidx.nonmembers": 2.6770663482255833e-05
+        "time.cal.wdidx.members": 18.55659504596175,
+        "time.cal.wdidx.nonmembers": 81.44340495403824
     }
 }

@@ -1,17 +1,17 @@
 {
     "directory name": "llvm-project/utils/bazel/llvm-project-overlay/libc",
-    "score.sum": 0.0013427571514512376,
+    "score.sum": 0.001599709251614132,
     "sha.latest": "23c397c7c9407deea3398e787f2901f86207dc11",
     "time.latest": 1717789479.922305,
     "formatted_time": "2024-06-08 01:14:39.922310",
     "filescores": {
-        "BUILD.bazel": 0.0011095738900608627,
-        "libc_build_rules.bzl": 9.467078217487972e-05,
-        "libc_namespace.bzl": 6.099602068851199e-06,
-        "platforms.bzl": 0
+        "BUILD.bazel": 69.36097224800601,
+        "libc_build_rules.bzl": 5.917999291393445,
+        "libc_namespace.bzl": 0.3812944172634248,
+        "platforms.bzl": 0.0
     },
     "subdirscores": {
-        "test": 0.00034057933220195424,
-        "utils": 4.8785645107584046e-05
+        "test": 21.290077047332463,
+        "utils": 3.0496569960046522
     }
 }

@@ -5,7 +5,7 @@
     "time.latest": 1717996350.7255557,
     "formatted_time": "2024-06-10 10:42:30.725557",
     "filescores": {
-        "bad_function_call_ctor.pass.cpp": 1.59578681326931e-05
+        "bad_function_call_ctor.pass.cpp": 100.0
     },
     "subdirscores": {}
 }

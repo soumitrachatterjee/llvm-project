@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/flang/test/Integration/OpenMP",
-    "score.sum": 2.148268830205362e-05,
+    "score.sum": 1.829380471992297e-05,
     "sha.latest": "28162b7832b87c85faedfca661e47d60e74337e9",
     "time.latest": 1717797716.017753,
     "formatted_time": "2024-06-07 17:01:56.017756",
     "filescores": {
-        "copyprivate.f90": 6.099602068851199e-06,
-        "host-ir-flag.f90": 0,
-        "map-types-and-sizes.f90": 1.2194202651071771e-05,
-        "target-filtering.f90": 0
+        "copyprivate.f90": 33.342446594547894,
+        "host-ir-flag.f90": 0.0,
+        "map-types-and-sizes.f90": 66.65755340545209,
+        "target-filtering.f90": 0.0
     },
     "subdirscores": {}
 }

@@ -6,7 +6,7 @@
     "formatted_time": "2024-06-08 03:04:16.623280",
     "filescores": {},
     "subdirscores": {
-        "dynamic_ffi": 0,
-        "src": 0.00010277683434656878
+        "dynamic_ffi": 0.0,
+        "src": 100.0
     }
 }

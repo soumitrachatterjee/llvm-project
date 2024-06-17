@@ -1,19 +1,19 @@
 {
     "directory name": "llvm-project/clang-tools-extra/clangd/xpc",
-    "score.sum": 4.4601781458461826e-05,
+    "score.sum": 8.76909646345926e-05,
     "sha.latest": "b801b607e38ca9113394a918f475e5a521b7ec13",
     "time.latest": 1717806759.531847,
     "formatted_time": "2024-06-08 06:02:39.531848",
     "filescores": {
-        "CMakeLists.txt": 1.457238573444611e-05,
-        "Conversion.cpp": 6.143141434194105e-06,
-        "Conversion.h": 6.099602068851199e-06,
-        "README.txt": 0,
-        "XPCTransport.cpp": 2.8846704005871894e-05
+        "CMakeLists.txt": 16.61788736749459,
+        "Conversion.cpp": 7.005444015575055,
+        "Conversion.h": 6.955793101681778,
+        "README.txt": 0.0,
+        "XPCTransport.cpp": 32.895868036206274
     },
     "subdirscores": {
-        "cmake": 7.439270712561305e-06,
-        "framework": 1.3022058818526979e-05,
-        "test-client": 1.156780186014101e-05
+        "cmake": 8.483508812522103,
+        "framework": 14.849943631923507,
+        "test-client": 13.191555034596696
     }
 }

@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/libcxx/test/std/containers/container.adaptors/queue/queue.ops",
-    "score.sum": 2.1287392699167148e-05,
+    "score.sum": 4.0832153357327655e-05,
     "sha.latest": "520c7fbbd0356f135a19cc764ff70e7f52ba11a0",
     "time.latest": 1717882016.1855004,
     "formatted_time": "2024-06-09 02:56:56.185502",
     "filescores": {
-        "compare.three_way.pass.cpp": 6.099602068851199e-06,
-        "eq.pass.cpp": 1.7366275644238228e-05,
-        "lt.pass.cpp": 1.7366275644238228e-05
+        "compare.three_way.pass.cpp": 14.93823266060147,
+        "eq.pass.cpp": 42.530883669699264,
+        "lt.pass.cpp": 42.530883669699264
     },
     "subdirscores": {}
 }

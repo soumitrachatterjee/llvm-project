@@ -1,15 +1,15 @@
 {
     "directory name": "llvm-project/libcxx/test/std/strings/string.view/string.view.access",
-    "score.sum": 4.45948294233301e-05,
+    "score.sum": 0.00016384685817392387,
     "sha.latest": "a40bada91aeda276a772acfbcae6e8de26755a11",
     "time.latest": 1717972466.4403725,
     "formatted_time": "2024-06-10 04:04:26.440374",
     "filescores": {
-        "at.pass.cpp": 2.631829880499414e-05,
-        "back.pass.cpp": 3.323735663770374e-05,
-        "data.pass.cpp": 3.7566210185285015e-05,
-        "front.pass.cpp": 3.323735663770374e-05,
-        "index.pass.cpp": 3.348763590823725e-05
+        "at.pass.cpp": 16.06274242808928,
+        "back.pass.cpp": 20.285623421855423,
+        "data.pass.cpp": 22.92763535655251,
+        "front.pass.cpp": 20.285623421855423,
+        "index.pass.cpp": 20.438375371647368
     },
     "subdirscores": {}
 }

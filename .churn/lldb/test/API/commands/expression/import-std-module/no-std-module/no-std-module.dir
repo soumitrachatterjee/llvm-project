@@ -5,9 +5,9 @@
     "time.latest": 1717891533.7151043,
     "formatted_time": "2024-06-09 05:35:33.715107",
     "filescores": {
-        "main.cpp": 0,
-        "Makefile": 0,
-        "TestMissingStdModule.py": 1.162782275014115e-05
+        "main.cpp": 0.0,
+        "Makefile": 0.0,
+        "TestMissingStdModule.py": 100.0
     },
     "subdirscores": {}
 }

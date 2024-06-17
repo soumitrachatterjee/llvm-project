@@ -1,16 +1,16 @@
 {
     "directory name": "llvm-project/libcxx/test/std/containers/sequences/deque/deque.special",
-    "score.sum": 6.818909171385384e-05,
+    "score.sum": 0.0002365941978467054,
     "sha.latest": "10ec9276d40024c23a481e6671dad1521151dd85",
     "time.latest": 1717884442.0450842,
     "formatted_time": "2024-06-09 03:37:22.045086",
     "filescores": {
-        "copy.pass.cpp": 4.4965891845629595e-05,
-        "copy_backward.pass.cpp": 4.040728793221524e-05,
-        "move.pass.cpp": 4.040728793221524e-05,
-        "move_backward.pass.cpp": 4.040728793221524e-05,
-        "swap.pass.cpp": 4.1822985154260185e-05,
-        "swap_noexcept.pass.cpp": 2.8583457050169908e-05
+        "copy.pass.cpp": 19.005492211928203,
+        "copy_backward.pass.cpp": 17.078731558073127,
+        "move.pass.cpp": 17.078731558073127,
+        "move_backward.pass.cpp": 17.078731558073127,
+        "swap.pass.cpp": 17.677096706047806,
+        "swap_noexcept.pass.cpp": 12.081216407804625
     },
     "subdirscores": {}
 }

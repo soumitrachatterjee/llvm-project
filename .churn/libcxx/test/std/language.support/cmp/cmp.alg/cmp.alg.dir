@@ -1,17 +1,17 @@
 {
     "directory name": "llvm-project/libcxx/test/std/language.support/cmp/cmp.alg",
-    "score.sum": 1.9083845067659872e-05,
+    "score.sum": 5.856869020953595e-05,
     "sha.latest": "1197fcabc4b5f39dbe8a94b1ab6e92354f3f0dd2",
     "time.latest": 1717920562.132542,
     "formatted_time": "2024-06-09 13:39:22.132543",
     "filescores": {
-        "compare_partial_order_fallback.pass.cpp": 6.099602068851199e-06,
-        "compare_strong_order_fallback.pass.cpp": 6.885994377370916e-06,
-        "compare_weak_order_fallback.pass.cpp": 6.885994377370916e-06,
-        "partial_order.pass.cpp": 6.099602068851199e-06,
-        "strong_order.pass.cpp": 8.709696095441494e-06,
-        "strong_order_long_double.verify.cpp": 1.5178105126208726e-05,
-        "weak_order.pass.cpp": 8.709696095441494e-06
+        "compare_partial_order_fallback.pass.cpp": 10.414441653090073,
+        "compare_strong_order_fallback.pass.cpp": 11.75712544148676,
+        "compare_weak_order_fallback.pass.cpp": 11.75712544148676,
+        "partial_order.pass.cpp": 10.414441653090073,
+        "strong_order.pass.cpp": 14.87090809830576,
+        "strong_order_long_double.verify.cpp": 25.91504961423481,
+        "weak_order.pass.cpp": 14.87090809830576
     },
     "subdirscores": {}
 }

@@ -1,25 +1,25 @@
 {
     "directory name": "llvm-project/llvm/lib/TargetParser",
-    "score.sum": 0.0005599800917314217,
+    "score.sum": 0.0006888094780165874,
     "sha.latest": "70da9155efb3aeb2c6b37678168cf29f91e80734",
     "time.latest": 1717874002.4444695,
     "formatted_time": "2024-06-08 14:13:22.444472",
     "filescores": {
-        "AArch64TargetParser.cpp": 4.993342274218649e-05,
-        "ARMTargetParser.cpp": 5.79214315532366e-05,
-        "ARMTargetParserCommon.cpp": 4.035029845442407e-05,
-        "CMakeLists.txt": 1.398793927057824e-05,
-        "CSKYTargetParser.cpp": 6.099602068851199e-06,
-        "Host.cpp": 0.00011799963865329482,
-        "LoongArchTargetParser.cpp": 4.5755840413430516e-05,
-        "RISCVTargetParser.cpp": 2.8079509106878847e-05,
-        "SubtargetFeature.cpp": 6.099602068851199e-06,
-        "TargetParser.cpp": 8.235044309189935e-05,
-        "Triple.cpp": 0.00012912566967848441,
-        "X86TargetParser.cpp": 0.00011110608091447174
+        "AArch64TargetParser.cpp": 7.2492357227674535,
+        "ARMTargetParser.cpp": 8.408919070048245,
+        "ARMTargetParserCommon.cpp": 5.857976660050021,
+        "CMakeLists.txt": 2.0307414048448087,
+        "CSKYTargetParser.cpp": 0.8855281850091372,
+        "Host.cpp": 17.130954555543042,
+        "LoongArchTargetParser.cpp": 6.642742568697443,
+        "RISCVTargetParser.cpp": 4.076527690608033,
+        "SubtargetFeature.cpp": 0.8855281850091372,
+        "TargetParser.cpp": 11.955474731420034,
+        "Triple.cpp": 18.746209772011134,
+        "X86TargetParser.cpp": 16.130161453991516
     },
     "subdirscores": {
-        "Unix": 0,
-        "Windows": 0
+        "Unix": 0.0,
+        "Windows": 0.0
     }
 }

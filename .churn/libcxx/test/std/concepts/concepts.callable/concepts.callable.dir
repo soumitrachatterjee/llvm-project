@@ -1,16 +1,16 @@
 {
     "directory name": "llvm-project/libcxx/test/std/concepts/concepts.callable",
-    "score.sum": 2.6182277996246392e-05,
+    "score.sum": 8.809118761504768e-05,
     "sha.latest": "34f73804ed60e90276e2303398162c2fc05f47ec",
     "time.latest": 1717874880.018218,
     "formatted_time": "2024-06-09 00:58:00.018223",
     "filescores": {},
     "subdirscores": {
-        "concept.equiv": 1.2596771818880935e-05,
-        "concept.invocable": 1.7927937837570796e-05,
-        "concept.predicate": 1.4444996483263261e-05,
-        "concept.regularinvocable": 1.7927937837570796e-05,
-        "concept.relation": 1.2596771818880935e-05,
-        "concept.strictweakorder": 1.2596771818880935e-05
+        "concept.equiv": 14.29969575836342,
+        "concept.invocable": 20.351567872957542,
+        "concept.predicate": 16.397776978994635,
+        "concept.regularinvocable": 20.351567872957542,
+        "concept.relation": 14.29969575836342,
+        "concept.strictweakorder": 14.29969575836342
     }
 }

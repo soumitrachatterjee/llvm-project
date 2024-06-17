@@ -1,20 +1,20 @@
 {
     "directory name": "llvm-project/libc/test/src/signal",
-    "score.sum": 7.294383172766741e-05,
+    "score.sum": 0.0002802590604255782,
     "sha.latest": "3eb1e6d8e930f5aff17b8d6bcc160f5bbf8cabc7",
     "time.latest": 1717848894.4623199,
     "formatted_time": "2024-06-08 07:14:54.462323",
     "filescores": {
-        "CMakeLists.txt": 3.026340482290069e-05,
-        "kill_test.cpp": 2.474783327178216e-05,
-        "raise_test.cpp": 2.0314351710045178e-05,
-        "sigaction_test.cpp": 2.4723372307783558e-05,
-        "sigaddset_test.cpp": 3.0150083142034826e-05,
-        "sigaltstack_test.cpp": 1.650314306370386e-05,
-        "sigdelset_test.cpp": 3.090978452798951e-05,
-        "sigfillset_test.cpp": 2.944309240901649e-05,
-        "signal_test.cpp": 3.291383868740045e-05,
-        "sigprocmask_test.cpp": 4.029015648292147e-05
+        "CMakeLists.txt": 10.798368044531795,
+        "kill_test.cpp": 8.830341910874226,
+        "raise_test.cpp": 7.248419258666422,
+        "sigaction_test.cpp": 8.821613927571402,
+        "sigaddset_test.cpp": 10.757933426398921,
+        "sigaltstack_test.cpp": 5.888531503189782,
+        "sigdelset_test.cpp": 11.02900455066554,
+        "sigfillset_test.cpp": 10.50567013402052,
+        "signal_test.cpp": 11.744076583080032,
+        "sigprocmask_test.cpp": 14.376040661001351
     },
     "subdirscores": {}
 }

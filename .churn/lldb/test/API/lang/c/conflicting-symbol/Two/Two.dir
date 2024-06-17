@@ -5,9 +5,9 @@
     "time.latest": 1717925287.435569,
     "formatted_time": "2024-06-09 14:58:07.435572",
     "filescores": {
-        "Two.c": 6.099602068851199e-06,
-        "Two.h": 0,
-        "TwoConstant.c": 0
+        "Two.c": 100.0,
+        "Two.h": 0.0,
+        "TwoConstant.c": 0.0
     },
     "subdirscores": {}
 }

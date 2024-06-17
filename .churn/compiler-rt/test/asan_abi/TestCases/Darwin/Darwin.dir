@@ -5,7 +5,7 @@
     "time.latest": 1717817086.167201,
     "formatted_time": "2024-06-08 08:54:46.167204",
     "filescores": {
-        "llvm_interface_symbols.cpp": 1.0722718731317866e-05
+        "llvm_interface_symbols.cpp": 100.0
     },
     "subdirscores": {}
 }

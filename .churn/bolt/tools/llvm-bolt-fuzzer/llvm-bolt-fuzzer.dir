@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/bolt/tools/llvm-bolt-fuzzer",
-    "score.sum": 2.244412035474497e-05,
+    "score.sum": 3.252879151897605e-05,
     "sha.latest": "16492a6143aba599beaac71752f612751ab3af09",
     "time.latest": 1717796955.2362087,
     "formatted_time": "2024-06-08 03:19:15.236211",
     "filescores": {
-        "CMakeLists.txt": 2.6374001051464358e-05,
-        "llvm-bolt-fuzzer.cpp": 6.154790467511694e-06
+        "CMakeLists.txt": 81.07894520483116,
+        "llvm-bolt-fuzzer.cpp": 18.921054795168843
     },
     "subdirscores": {}
 }

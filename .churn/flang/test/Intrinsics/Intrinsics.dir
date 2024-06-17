@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/flang/test/Intrinsics",
-    "score.sum": 9.854257535346473e-06,
+    "score.sum": 8.39203272105114e-06,
     "sha.latest": "5f476b80e3d472f672f5f6a719eebe2c0aadf52c",
     "time.latest": 1717797754.7793252,
     "formatted_time": "2024-06-07 17:02:34.779329",
     "filescores": {
-        "math-codegen.fir": 8.39203272105114e-06
+        "math-codegen.fir": 100.0
     },
     "subdirscores": {}
 }

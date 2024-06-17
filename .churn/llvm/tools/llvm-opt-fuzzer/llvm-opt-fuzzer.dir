@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/llvm/tools/llvm-opt-fuzzer",
-    "score.sum": 0.00012876569137160236,
+    "score.sum": 0.00013771880059580615,
     "sha.latest": "a8f8613dec435cfb78bf202c392f2acf150a5937",
     "time.latest": 1718081882.2755826,
     "formatted_time": "2024-06-10 23:58:02.275586",
     "filescores": {
-        "CMakeLists.txt": 3.590535823685411e-05,
-        "DummyOptFuzzer.cpp": 6.099602068851199e-06,
-        "llvm-opt-fuzzer.cpp": 9.571384029010084e-05
+        "CMakeLists.txt": 26.071500827424078,
+        "DummyOptFuzzer.cpp": 4.429026423743735,
+        "llvm-opt-fuzzer.cpp": 69.49947274883219
     },
     "subdirscores": {}
 }

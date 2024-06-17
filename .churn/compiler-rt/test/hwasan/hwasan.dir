@@ -1,15 +1,15 @@
 {
     "directory name": "llvm-project/compiler-rt/test/hwasan",
-    "score.sum": 0.0009887573517304519,
+    "score.sum": 0.0010107785660534048,
     "sha.latest": "b9b8333ed51b67ab73f8bc4cf25ce400d91e7008",
     "time.latest": 1717830402.951384,
     "formatted_time": "2024-06-08 12:36:42.951387",
     "filescores": {
-        "CMakeLists.txt": 2.009547008114549e-05,
-        "lit.cfg.py": 3.130569434309236e-05,
-        "lit.site.cfg.py.in": 6.099602068851199e-06
+        "CMakeLists.txt": 1.988117947495509,
+        "lit.cfg.py": 3.0971862081846235,
+        "lit.site.cfg.py.in": 0.6034558184852651
     },
     "subdirscores": {
-        "TestCases": 0.0009532777995603158
+        "TestCases": 94.3112400258346
     }
 }

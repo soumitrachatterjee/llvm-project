@@ -1,16 +1,16 @@
 {
     "directory name": "llvm-project/libcxx/test/std/utilities/ratio",
-    "score.sum": 1.993943397420758e-05,
+    "score.sum": 8.077283127462514e-05,
     "sha.latest": "fe0d277f31d3369de1fd92ad8dd8044f5b1d4ed7",
     "time.latest": 1718004319.7117054,
     "formatted_time": "2024-06-10 12:55:19.711706",
     "filescores": {
-        "typedefs.pass.cpp": 1.7366275644238228e-05
+        "typedefs.pass.cpp": 21.50014475188251
     },
     "subdirscores": {
-        "ratio.arithmetic": 1.808971834475731e-05,
-        "ratio.comparison": 1.220622673419603e-05,
-        "ratio.ratio": 2.0977746970672988e-05,
-        "ratio.si": 1.2132863580760565e-05
+        "ratio.arithmetic": 22.39579578837942,
+        "ratio.comparison": 15.111797545755499,
+        "ratio.ratio": 25.971290890310993,
+        "ratio.si": 15.020971023671564
     }
 }

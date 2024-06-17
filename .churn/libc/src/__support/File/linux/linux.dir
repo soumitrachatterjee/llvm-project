@@ -1,18 +1,18 @@
 {
     "directory name": "llvm-project/libc/src/__support/File/linux",
-    "score.sum": 2.477454749964202e-05,
+    "score.sum": 7.206167966984525e-05,
     "sha.latest": "eaa11526c873b65a9dc0aaf0ebaf66de3db8ed21",
     "time.latest": 1717828767.3249385,
     "formatted_time": "2024-06-08 01:39:27.324941",
     "filescores": {
-        "CMakeLists.txt": 6.099602068851199e-06,
-        "dir.cpp": 9.660772576390212e-06,
-        "file.cpp": 2.1251756980834817e-05,
-        "file.h": 6.099602068851199e-06,
-        "lseekImpl.h": 1.065113976836424e-05,
-        "stderr.cpp": 6.099602068851199e-06,
-        "stdin.cpp": 6.099602068851199e-06,
-        "stdout.cpp": 6.099602068851199e-06
+        "CMakeLists.txt": 8.464418393793869,
+        "dir.cpp": 13.406255059071063,
+        "file.cpp": 29.491065262704076,
+        "file.h": 8.464418393793869,
+        "lseekImpl.h": 14.78058770925553,
+        "stderr.cpp": 8.464418393793869,
+        "stdin.cpp": 8.464418393793869,
+        "stdout.cpp": 8.464418393793869
     },
     "subdirscores": {}
 }

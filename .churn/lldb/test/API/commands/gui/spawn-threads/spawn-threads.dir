@@ -5,9 +5,9 @@
     "time.latest": 1717895633.0001473,
     "formatted_time": "2024-06-09 06:43:53.000149",
     "filescores": {
-        "main.cpp": 0,
-        "Makefile": 0,
-        "TestGuiSpawnThreads.py": 6.099602068851199e-06
+        "main.cpp": 0.0,
+        "Makefile": 0.0,
+        "TestGuiSpawnThreads.py": 100.0
     },
     "subdirscores": {}
 }

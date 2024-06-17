@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/llvm/test/Analysis/IRSimilarityIdentifier",
-    "score.sum": 3.0855020860555344e-05,
+    "score.sum": 9.154240612323292e-05,
     "sha.latest": "e240e6b8b7cc68a29bc8a5d6a7d0e3b7eaa61dc0",
     "time.latest": 1717887909.0678108,
     "formatted_time": "2024-06-08 18:05:09.067815",
     "filescores": {
-        "basic.ll": 2.7012983055351588e-05,
-        "debug-inst-starts-block.ll": 1.8293180288469235e-05,
-        "different.ll": 2.7012983055351588e-05,
-        "nothing.ll": 1.9223259724060495e-05
+        "basic.ll": 29.508709896686725,
+        "debug-inst-starts-block.ll": 19.983285411837713,
+        "different.ll": 29.508709896686725,
+        "nothing.ll": 20.999294794788824
     },
     "subdirscores": {}
 }

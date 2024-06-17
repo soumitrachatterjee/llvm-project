@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/libcxx/test/libcxx/containers/sequences/list/list.cons",
-    "score.sum": 5.178185115020915e-05,
+    "score.sum": 7.835051904988583e-06,
     "sha.latest": "e61764c32ff77ae85509e56234a13a47b2d36cec",
     "time.latest": 1717846308.5899453,
     "formatted_time": "2024-06-08 17:01:48.589948",
     "filescores": {
-        "debug.copy.pass.cpp": 7.835051904988583e-06
+        "debug.copy.pass.cpp": 100.0
     },
     "subdirscores": {}
 }

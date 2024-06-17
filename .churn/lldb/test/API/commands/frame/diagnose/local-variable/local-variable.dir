@@ -5,9 +5,9 @@
     "time.latest": 1717894897.5844226,
     "formatted_time": "2024-06-09 06:31:37.584425",
     "filescores": {
-        "main.c": 0,
-        "Makefile": 0,
-        "TestLocalVariable.py": 1.2557410235174005e-05
+        "main.c": 0.0,
+        "Makefile": 0.0,
+        "TestLocalVariable.py": 100.0
     },
     "subdirscores": {}
 }

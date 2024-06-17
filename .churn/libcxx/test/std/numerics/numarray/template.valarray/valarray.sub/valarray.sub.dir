@@ -1,18 +1,18 @@
 {
     "directory name": "llvm-project/libcxx/test/std/numerics/numarray/template.valarray/valarray.sub",
-    "score.sum": 2.324259481786913e-05,
+    "score.sum": 0.000185940758542953,
     "sha.latest": "7fc6a55688c816f5fc1a5481ae7af25be7500356",
     "time.latest": 1717950607.5380177,
     "formatted_time": "2024-06-09 22:00:07.538022",
     "filescores": {
-        "gslice_const.pass.cpp": 2.324259481786913e-05,
-        "gslice_non_const.pass.cpp": 2.324259481786913e-05,
-        "indirect_array_const.pass.cpp": 2.324259481786913e-05,
-        "indirect_array_non_const.pass.cpp": 2.324259481786913e-05,
-        "slice_const.pass.cpp": 2.324259481786913e-05,
-        "slice_non_const.pass.cpp": 2.324259481786913e-05,
-        "valarray_bool_const.pass.cpp": 2.324259481786913e-05,
-        "valarray_bool_non_const.pass.cpp": 2.324259481786913e-05
+        "gslice_const.pass.cpp": 12.500000000000004,
+        "gslice_non_const.pass.cpp": 12.500000000000004,
+        "indirect_array_const.pass.cpp": 12.500000000000004,
+        "indirect_array_non_const.pass.cpp": 12.500000000000004,
+        "slice_const.pass.cpp": 12.500000000000004,
+        "slice_non_const.pass.cpp": 12.500000000000004,
+        "valarray_bool_const.pass.cpp": 12.500000000000004,
+        "valarray_bool_non_const.pass.cpp": 12.500000000000004
     },
     "subdirscores": {}
 }

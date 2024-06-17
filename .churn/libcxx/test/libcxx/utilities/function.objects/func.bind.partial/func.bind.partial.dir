@@ -5,8 +5,8 @@
     "time.latest": 1717866650.9848964,
     "formatted_time": "2024-06-08 22:40:50.984899",
     "filescores": {
-        "bind_back.pass.cpp": 6.099602068851199e-06,
-        "compose.pass.cpp": 0
+        "bind_back.pass.cpp": 100.0,
+        "compose.pass.cpp": 0.0
     },
     "subdirscores": {}
 }

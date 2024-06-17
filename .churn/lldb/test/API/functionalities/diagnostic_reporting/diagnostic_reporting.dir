@@ -5,8 +5,8 @@
     "time.latest": 1717908989.6759412,
     "formatted_time": "2024-06-09 10:26:29.675943",
     "filescores": {
-        "minidump.yaml": 0,
-        "TestDiagnosticReporting.py": 1.080046917794664e-05
+        "minidump.yaml": 0.0,
+        "TestDiagnosticReporting.py": 100.0
     },
     "subdirscores": {}
 }

@@ -1,15 +1,15 @@
 {
     "directory name": "llvm-project/llvm/lib/DebugInfo/MSF",
-    "score.sum": 0.00011454226799205589,
+    "score.sum": 0.00015941691477123677,
     "sha.latest": "1f12223cf411b79cfc9f552ff8711958a7856002",
     "time.latest": 1717834506.661587,
     "formatted_time": "2024-06-08 03:15:06.661590",
     "filescores": {
-        "CMakeLists.txt": 1.3299703678920127e-05,
-        "MSFBuilder.cpp": 5.718613986314896e-05,
-        "MSFCommon.cpp": 1.7800709796414433e-05,
-        "MSFError.cpp": 4.3482774847498875e-05,
-        "MappedBlockStream.cpp": 2.764758658525438e-05
+        "CMakeLists.txt": 8.342718022115282,
+        "MSFBuilder.cpp": 35.87206536095059,
+        "MSFCommon.cpp": 11.1661361794377,
+        "MSFError.cpp": 27.276136230522745,
+        "MappedBlockStream.cpp": 17.34294420697368
     },
     "subdirscores": {}
 }

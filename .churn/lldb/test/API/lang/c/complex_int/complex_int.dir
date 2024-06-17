@@ -5,9 +5,9 @@
     "time.latest": 1717925128.7906098,
     "formatted_time": "2024-06-09 14:55:28.790612",
     "filescores": {
-        "main.c": 0,
-        "Makefile": 0,
-        "TestComplexInt.py": 1.0251312049592767e-05
+        "main.c": 0.0,
+        "Makefile": 0.0,
+        "TestComplexInt.py": 100.0
     },
     "subdirscores": {}
 }

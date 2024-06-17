@@ -5,12 +5,12 @@
     "time.latest": 1717837326.2019632,
     "formatted_time": "2024-06-08 04:02:06.201967",
     "filescores": {
-        "affine.txt": 0,
-        "attribute.txt": 0,
-        "controlflow.txt": 0,
-        "func.txt": 0,
-        "op.txt": 0,
-        "type.txt": 6.099602068851199e-06
+        "affine.txt": 0.0,
+        "attribute.txt": 0.0,
+        "controlflow.txt": 0.0,
+        "func.txt": 0.0,
+        "op.txt": 0.0,
+        "type.txt": 100.0
     },
     "subdirscores": {}
 }

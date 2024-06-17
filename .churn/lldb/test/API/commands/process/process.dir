@@ -1,17 +1,17 @@
 {
     "directory name": "llvm-project/lldb/test/API/commands/process",
-    "score.sum": 0.00011364112843172191,
+    "score.sum": 0.00016997211005043004,
     "sha.latest": "096c530ab3ea5c96526451181117f30db17b4b1d",
     "time.latest": 1717896821.2124312,
     "formatted_time": "2024-06-09 07:03:41.212433",
     "filescores": {},
     "subdirscores": {
-        "attach": 7.41187776972859e-05,
-        "attach-resume": 1.6701500207786102e-05,
-        "continue_to_bkpt": 7.193343404044388e-06,
-        "handle": 7.03960387698275e-06,
-        "launch": 3.278085201630996e-05,
-        "launch-with-shellexpand": 2.190977540783363e-05,
-        "signal": 1.0228257440187292e-05
+        "attach": 43.60643500589311,
+        "attach-resume": 9.826023929944057,
+        "continue_to_bkpt": 4.232072780593329,
+        "handle": 4.141622925604752,
+        "launch": 19.28601816297039,
+        "launch-with-shellexpand": 12.890217931243598,
+        "signal": 6.017609263750747
     }
 }

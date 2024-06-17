@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/llvm/include/llvm/Bitstream",
-    "score.sum": 0.00013643794008890334,
+    "score.sum": 0.00016294475162999928,
     "sha.latest": "3fbef5b8e98f7365e9424339f53950eb6c1b3c3c",
     "time.latest": 1717808700.3999739,
     "formatted_time": "2024-06-07 20:05:00.399979",
     "filescores": {
-        "BitCodeEnums.h": 0,
-        "BitCodes.h": 1.570814640909117e-05,
-        "BitstreamReader.h": 6.180621422435344e-05,
-        "BitstreamWriter.h": 8.543039099655467e-05
+        "BitCodeEnums.h": 0.0,
+        "BitCodes.h": 9.640167143744439,
+        "BitstreamReader.h": 37.9307793629939,
+        "BitstreamWriter.h": 52.429053493261655
     },
     "subdirscores": {}
 }

@@ -5,7 +5,7 @@
     "time.latest": 1717814199.114689,
     "formatted_time": "2024-06-07 21:36:39.114693",
     "filescores": {
-        "prune_only_scalardeps.ll": 1.6328482952506065e-05
+        "prune_only_scalardeps.ll": 100.0
     },
     "subdirscores": {}
 }

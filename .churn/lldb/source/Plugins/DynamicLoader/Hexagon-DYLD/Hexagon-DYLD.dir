@@ -1,15 +1,15 @@
 {
     "directory name": "llvm-project/lldb/source/Plugins/DynamicLoader/Hexagon-DYLD",
-    "score.sum": 0.0001960772012646694,
+    "score.sum": 0.0002925379711800051,
     "sha.latest": "e9eaf7b430ee69e8ef145884cbc8fa3ef8bd3237",
     "time.latest": 1717868415.478305,
     "formatted_time": "2024-06-08 23:10:15.478308",
     "filescores": {
-        "CMakeLists.txt": 8.793658368161863e-06,
-        "DynamicLoaderHexagonDYLD.cpp": 0.00013291975571089345,
-        "DynamicLoaderHexagonDYLD.h": 6.23051400034259e-05,
-        "HexagonDYLDRendezvous.cpp": 4.732801343526575e-05,
-        "HexagonDYLDRendezvous.h": 4.119140366225818e-05
+        "CMakeLists.txt": 3.0059887038564748,
+        "DynamicLoaderHexagonDYLD.cpp": 45.43675310754957,
+        "DynamicLoaderHexagonDYLD.h": 21.298137726226372,
+        "HexagonDYLDRendezvous.cpp": 16.178417196359025,
+        "HexagonDYLDRendezvous.h": 14.080703266008568
     },
     "subdirscores": {}
 }

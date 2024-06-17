@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/libcxx/test/std/strings/string.view/string_view.literals",
-    "score.sum": 5.102559196527813e-05,
+    "score.sum": 5.256029063448211e-05,
     "sha.latest": "a40bada91aeda276a772acfbcae6e8de26755a11",
     "time.latest": 1717974158.3248796,
     "formatted_time": "2024-06-10 04:32:38.324881",
     "filescores": {
-        "literal.pass.cpp": 4.5836395045496884e-05,
-        "literal.verify.cpp": 6.723895588985229e-06
+        "literal.pass.cpp": 87.20727091152341,
+        "literal.verify.cpp": 12.792729088476587
     },
     "subdirscores": {}
 }

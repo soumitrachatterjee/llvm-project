@@ -1,16 +1,16 @@
 {
     "directory name": "llvm-project/libcxx/test/std/input.output/iostreams.base/ios.base/ios.types",
-    "score.sum": 5.1332390086291125e-05,
+    "score.sum": 0.00012399635156105977,
     "sha.latest": "60a6a0d17ad5afcac5c71dcf9a05f8c814951804",
     "time.latest": 1717908117.0309987,
     "formatted_time": "2024-06-09 10:11:57.031000",
     "filescores": {},
     "subdirscores": {
-        "ios_failure": 1.81415498534798e-05,
-        "ios_fmtflags": 1.7366275644238228e-05,
-        "ios_Init": 3.638969913062707e-05,
-        "ios_iostate": 1.7366275644238228e-05,
-        "ios_openmode": 1.7366275644238228e-05,
-        "ios_seekdir": 1.7366275644238228e-05
+        "ios_failure": 14.6307126178195,
+        "ios_fmtflags": 14.005473084977439,
+        "ios_Init": 29.34739504227075,
+        "ios_iostate": 14.005473084977439,
+        "ios_openmode": 14.005473084977439,
+        "ios_seekdir": 14.005473084977439
     }
 }

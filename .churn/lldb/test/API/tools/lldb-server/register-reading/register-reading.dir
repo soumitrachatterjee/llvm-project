@@ -5,9 +5,9 @@
     "time.latest": 1717970159.7911015,
     "formatted_time": "2024-06-10 03:25:59.791103",
     "filescores": {
-        "main.cpp": 0,
-        "Makefile": 0,
-        "TestGdbRemoteGPacket.py": 2.1298858790048293e-05
+        "main.cpp": 0.0,
+        "Makefile": 0.0,
+        "TestGdbRemoteGPacket.py": 100.0
     },
     "subdirscores": {}
 }

@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/clang/test/CXX/class/class.mfct",
-    "score.sum": 3.113968634311883e-05,
+    "score.sum": 2.102784668773819e-05,
     "sha.latest": "5523fefb01c282c4cbcaf6314a9aaf658c6c145f",
     "time.latest": 1718083054.5850394,
     "formatted_time": "2024-06-11 10:47:34.585041",
     "filescores": {
-        "p1-cxx20.cpp": 6.29933143427907e-06
+        "p1-cxx20.cpp": 29.957092268284185
     },
     "subdirscores": {
-        "class.mfct.non-static": 1.4728515253459123e-05
+        "class.mfct.non-static": 70.04290773171581
     }
 }

@@ -5,9 +5,9 @@
     "time.latest": 1717868344.7618303,
     "formatted_time": "2024-06-08 23:09:04.761833",
     "filescores": {
-        "CMakeLists.txt": 0,
-        "DynamicLoaderFreeBSDKernel.cpp": 9.607343422723644e-06,
-        "DynamicLoaderFreeBSDKernel.h": 0
+        "CMakeLists.txt": 0.0,
+        "DynamicLoaderFreeBSDKernel.cpp": 100.0,
+        "DynamicLoaderFreeBSDKernel.h": 0.0
     },
     "subdirscores": {}
 }

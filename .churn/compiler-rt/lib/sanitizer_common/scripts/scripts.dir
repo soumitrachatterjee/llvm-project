@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/compiler-rt/lib/sanitizer_common/scripts",
-    "score.sum": 0.000268153949198547,
+    "score.sum": 8.370899932793006e-05,
     "sha.latest": "37445e96d867f4266993085e821fbd4c4d8fa401",
     "time.latest": 1717804845.2811675,
     "formatted_time": "2024-06-08 05:30:45.281170",
     "filescores": {
-        "gen_dynamic_list.py": 5.032729590550157e-05,
-        "sancov.py": 3.338170342242849e-05
+        "gen_dynamic_list.py": 60.121726826938115,
+        "sancov.py": 39.87827317306189
     },
     "subdirscores": {}
 }

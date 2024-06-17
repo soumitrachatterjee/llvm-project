@@ -1,16 +1,16 @@
 {
     "directory name": "llvm-project/llvm/test/Analysis/DemandedBits",
-    "score.sum": 5.45775653063925e-05,
+    "score.sum": 6.454206826467486e-05,
     "sha.latest": "d6254396197267f3fe939f1613d22479f4de5440",
     "time.latest": 1717887058.244394,
     "formatted_time": "2024-06-08 17:50:58.244398",
     "filescores": {
-        "add.ll": 8.537629654986048e-06,
-        "basic.ll": 2.1752683985949216e-05,
-        "intrinsics.ll": 1.6034229109809547e-05,
-        "shl.ll": 0,
-        "vectors-inseltpoison.ll": 6.099602068851199e-06,
-        "vectors.ll": 1.2117923445078848e-05
+        "add.ll": 13.228007537618469,
+        "basic.ll": 33.70310956994058,
+        "intrinsics.ll": 24.8430667639224,
+        "shl.ll": 0.0,
+        "vectors-inseltpoison.ll": 9.450583523040942,
+        "vectors.ll": 18.77523260547761
     },
     "subdirscores": {}
 }

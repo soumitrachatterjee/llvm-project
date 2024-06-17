@@ -1,16 +1,16 @@
 {
     "directory name": "llvm-project/clang/tools/clang-format-vs",
-    "score.sum": 0.00011447285792293483,
+    "score.sum": 0.0001488626643619889,
     "sha.latest": "e20a1e486e144c88188bc7b420885d5326b39088",
     "time.latest": 1718081750.0427928,
     "formatted_time": "2024-06-11 10:25:50.042795",
     "filescores": {
-        "ClangFormat.sln": 1.2504302913020678e-05,
-        "CMakeLists.txt": 2.199515659101694e-05,
-        "README.txt": 1.5128921781093098e-05,
-        "source.extension.vsixmanifest.in": 2.2739622553606608e-05
+        "ClangFormat.sln": 8.39989191824083,
+        "CMakeLists.txt": 14.775468842564432,
+        "README.txt": 10.163006181525908,
+        "source.extension.vsixmanifest.in": 15.275571380551629
     },
     "subdirscores": {
-        "ClangFormat": 7.649466052325159e-05
+        "ClangFormat": 51.3860616771172
     }
 }

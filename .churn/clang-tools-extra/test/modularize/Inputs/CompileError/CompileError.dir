@@ -5,9 +5,9 @@
     "time.latest": 1717834758.3053198,
     "formatted_time": "2024-06-08 13:49:18.305322",
     "filescores": {
-        "HasError.h": 0,
-        "Level1A.h": 0,
-        "module.modulemap": 6.099602068851199e-06
+        "HasError.h": 0.0,
+        "Level1A.h": 0.0,
+        "module.modulemap": 100.0
     },
     "subdirscores": {}
 }

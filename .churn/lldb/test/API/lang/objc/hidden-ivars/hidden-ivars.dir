@@ -1,15 +1,15 @@
 {
     "directory name": "llvm-project/lldb/test/API/lang/objc/hidden-ivars",
-    "score.sum": 3.368915895253252e-05,
+    "score.sum": 4.414426562975068e-05,
     "sha.latest": "5b386158aacac4b41126983a5379d36ed413d0ea",
     "time.latest": 1717956984.7652879,
     "formatted_time": "2024-06-09 23:46:24.765295",
     "filescores": {
-        "InternalDefiner.h": 6.099602068851199e-06,
-        "InternalDefiner.m": 0,
-        "main.m": 0,
-        "Makefile": 6.099602068851199e-06,
-        "TestHiddenIvars.py": 3.194506149204828e-05
+        "InternalDefiner.h": 13.817427885220997,
+        "InternalDefiner.m": 0.0,
+        "main.m": 0.0,
+        "Makefile": 13.817427885220997,
+        "TestHiddenIvars.py": 72.36514422955801
     },
     "subdirscores": {}
 }

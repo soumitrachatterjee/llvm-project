@@ -5,7 +5,7 @@
     "time.latest": 1717809473.4851363,
     "formatted_time": "2024-06-08 06:47:53.485140",
     "filescores": {
-        "DirectoryWatcher-linux.cpp": 2.775168300892741e-05
+        "DirectoryWatcher-linux.cpp": 100.0
     },
     "subdirscores": {}
 }

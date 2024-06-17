@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/libcxx/test/std/library/description/conventions",
-    "score.sum": 0.00014876590257390678,
+    "score.sum": 0.00012783312297820034,
     "sha.latest": "a6b846ae1e58e11160185e427e20a995f6656859",
     "time.latest": 1717925131.509044,
     "formatted_time": "2024-06-09 14:55:31.509047",
     "filescores": {},
     "subdirscores": {
-        "customization.point.object": 0.00011601223317049215,
-        "expos.only.func": 1.1820889807708196e-05
+        "customization.point.object": 90.75287411250679,
+        "expos.only.func": 9.247125887493212
     }
 }

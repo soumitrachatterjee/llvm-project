@@ -5,8 +5,8 @@
     "time.latest": 1717992315.6752503,
     "formatted_time": "2024-06-10 09:35:15.675253",
     "filescores": {
-        "swap.free.pass.cpp": 6.099602068851199e-06,
-        "swap.member.pass.cpp": 0
+        "swap.free.pass.cpp": 100.0,
+        "swap.member.pass.cpp": 0.0
     },
     "subdirscores": {}
 }

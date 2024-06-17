@@ -1,15 +1,15 @@
 {
     "directory name": "llvm-project/clang-tools-extra/clangd/test/Inputs/background-index",
-    "score.sum": 1.3044479690528595e-05,
+    "score.sum": 3.0128662854884768e-05,
     "sha.latest": "98b56c09be002855df18dada7debdb1322aad7d9",
     "time.latest": 1717804314.376027,
     "formatted_time": "2024-06-08 05:21:54.376029",
     "filescores": {
-        "compile_commands.json.tmpl": 0,
-        "definition.jsonrpc.tmpl": 0,
-        "foo.cpp": 1.82428706910267e-05
+        "compile_commands.json.tmpl": 0.0,
+        "definition.jsonrpc.tmpl": 0.0,
+        "foo.cpp": 60.54988493480048
     },
     "subdirscores": {
-        "sub_dir": 1.1885792163858068e-05
+        "sub_dir": 39.45011506519952
     }
 }

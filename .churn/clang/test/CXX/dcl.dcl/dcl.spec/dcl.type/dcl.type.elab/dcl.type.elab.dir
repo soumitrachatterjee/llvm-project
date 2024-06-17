@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/clang/test/CXX/dcl.dcl/dcl.spec/dcl.type/dcl.type.elab",
-    "score.sum": 2.669060324563057e-05,
+    "score.sum": 2.5319803793791813e-05,
     "sha.latest": "3a48630a4b25d50abefd945742c247f17bd61156",
     "time.latest": 1718086955.9552507,
     "formatted_time": "2024-06-11 11:52:35.955254",
     "filescores": {
-        "p1.cpp": 6.099602068851199e-06,
-        "p2-0x.cpp": 6.605894144839318e-06,
-        "p3.cpp": 1.2614307580101295e-05,
-        "p4.cpp": 0
+        "p1.cpp": 24.09024224092434,
+        "p2-0x.cpp": 26.089831495688852,
+        "p3.cpp": 49.8199262633868,
+        "p4.cpp": 0.0
     },
     "subdirscores": {}
 }

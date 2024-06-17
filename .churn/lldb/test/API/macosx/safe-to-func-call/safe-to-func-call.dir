@@ -5,9 +5,9 @@
     "time.latest": 1717963963.703173,
     "formatted_time": "2024-06-10 01:42:43.703176",
     "filescores": {
-        "main.c": 0,
-        "Makefile": 0,
-        "TestSafeFuncCalls.py": 1.621032154510571e-05
+        "main.c": 0.0,
+        "Makefile": 0.0,
+        "TestSafeFuncCalls.py": 100.0
     },
     "subdirscores": {}
 }

@@ -1,19 +1,19 @@
 {
     "directory name": "llvm-project/utils/bazel/llvm-project-overlay/libc/test/src",
-    "score.sum": 0.00027800461824341414,
+    "score.sum": 0.0002872660277559042,
     "sha.latest": "23c397c7c9407deea3398e787f2901f86207dc11",
     "time.latest": 1717789365.7596695,
     "formatted_time": "2024-06-08 01:12:45.759675",
     "filescores": {},
     "subdirscores": {
-        "fenv": 1.2136503493226087e-05,
-        "inttypes": 0,
-        "math": 7.82460164722011e-05,
-        "stdio": 1.8620384043749775e-05,
-        "stdlib": 3.477078413291418e-05,
-        "string": 2.5645120275504653e-05,
-        "sys": 1.0239714661572554e-05,
-        "unistd": 0,
-        "__support": 0.00010760750467673583
+        "fenv": 4.224830756367308,
+        "inttypes": 0.0,
+        "math": 27.238172603788826,
+        "stdio": 6.481930421501807,
+        "stdlib": 12.104036249792692,
+        "string": 8.927307024726167,
+        "sys": 3.5645407643793674,
+        "unistd": 0.0,
+        "__support": 37.45918217944383
     }
 }

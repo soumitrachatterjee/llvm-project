@@ -5,8 +5,8 @@
     "time.latest": 1717912852.7051024,
     "formatted_time": "2024-06-09 11:30:52.705105",
     "filescores": {
-        "TestModuleCacheUniversal.py": 1.1431014685921802e-05,
-        "universal.yaml": 0
+        "TestModuleCacheUniversal.py": 100.0,
+        "universal.yaml": 0.0
     },
     "subdirscores": {}
 }

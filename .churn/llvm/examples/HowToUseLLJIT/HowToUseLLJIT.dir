@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/llvm/examples/HowToUseLLJIT",
-    "score.sum": 1.589215561269715e-05,
+    "score.sum": 1.8840867538730838e-05,
     "sha.latest": "2ad8e6e082e254e5560c1c04b20a9904429d8bf0",
     "time.latest": 1717803678.1950352,
     "formatted_time": "2024-06-07 18:41:18.195039",
     "filescores": {
-        "CMakeLists.txt": 6.099602068851199e-06,
-        "HowToUseLLJIT.cpp": 1.2741265469879639e-05
+        "CMakeLists.txt": 32.37431639659031,
+        "HowToUseLLJIT.cpp": 67.6256836034097
     },
     "subdirscores": {}
 }

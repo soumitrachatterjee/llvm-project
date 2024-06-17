@@ -5,7 +5,7 @@
     "time.latest": 1717874710.572326,
     "formatted_time": "2024-06-09 00:55:10.572328",
     "filescores": {
-        "invocable.compile.pass.cpp": 1.7927937837570796e-05
+        "invocable.compile.pass.cpp": 100.0
     },
     "subdirscores": {}
 }

@@ -5,8 +5,8 @@
     "time.latest": 1717789392.6199849,
     "formatted_time": "2024-06-08 01:13:12.619990",
     "filescores": {
-        "Tool.py": 6.099602068851199e-06,
-        "__init__.py": 0
+        "Tool.py": 100.0,
+        "__init__.py": 0.0
     },
     "subdirscores": {}
 }

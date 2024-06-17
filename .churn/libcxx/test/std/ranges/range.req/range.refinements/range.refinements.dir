@@ -1,19 +1,19 @@
 {
     "directory name": "llvm-project/libcxx/test/std/ranges/range.req/range.refinements",
-    "score.sum": 3.8946853481533815e-05,
+    "score.sum": 0.00016018432850781796,
     "sha.latest": "b8cb1dc9ea87faa8e8e9ab7a31710a8c0bb8b084",
     "time.latest": 1717965065.991358,
     "formatted_time": "2024-06-10 02:01:05.991361",
     "filescores": {
-        "bidirectional_range.compile.pass.cpp": 1.771806820991485e-05,
-        "common_range.compile.pass.cpp": 2.2858348175821775e-05,
-        "contiguous_range.compile.pass.cpp": 1.7499429172545382e-05,
-        "forward_range.compile.pass.cpp": 1.771806820991485e-05,
-        "input_range.compile.pass.cpp": 2.0794573368915204e-05,
-        "output_range.compile.pass.cpp": 1.599206470525496e-05,
-        "random_access_range.compile.pass.cpp": 1.630122293443336e-05,
-        "subsumption.compile.pass.cpp": 1.5056857849402043e-05,
-        "viewable_range.compile.pass.cpp": 1.624569588161552e-05
+        "bidirectional_range.compile.pass.cpp": 11.061049713767787,
+        "common_range.compile.pass.cpp": 14.270027779094601,
+        "contiguous_range.compile.pass.cpp": 10.924557561628948,
+        "forward_range.compile.pass.cpp": 11.061049713767787,
+        "input_range.compile.pass.cpp": 12.981652801260331,
+        "output_range.compile.pass.cpp": 9.983538873139173,
+        "random_access_range.compile.pass.cpp": 10.176540418332971,
+        "subsumption.compile.pass.cpp": 9.399707193370778,
+        "viewable_range.compile.pass.cpp": 10.14187594563761
     },
     "subdirscores": {}
 }

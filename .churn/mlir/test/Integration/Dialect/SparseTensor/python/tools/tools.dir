@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/mlir/test/Integration/Dialect/SparseTensor/python/tools",
-    "score.sum": 4.563709325143475e-05,
+    "score.sum": 6.099602068851199e-06,
     "sha.latest": "5535e48be25f9eeece0a9b89f6e0fc80bb62843c",
     "time.latest": 1717826998.6249344,
     "formatted_time": "2024-06-08 01:09:58.624938",
     "filescores": {
-        "lit.local.cfg": 0,
-        "sparsifier.py": 6.099602068851199e-06
+        "lit.local.cfg": 0.0,
+        "sparsifier.py": 100.0
     },
     "subdirscores": {}
 }

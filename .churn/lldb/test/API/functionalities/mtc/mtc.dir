@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/lldb/test/API/functionalities/mtc",
-    "score.sum": 2.0988397345978714e-05,
+    "score.sum": 1.8358894285704225e-05,
     "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
     "time.latest": 1717913025.9494803,
     "formatted_time": "2024-06-09 11:33:45.949483",
     "filescores": {
-        "categories": 0
+        "categories": 0.0
     },
     "subdirscores": {
-        "simple": 1.8358894285704225e-05
+        "simple": 100.0
     }
 }

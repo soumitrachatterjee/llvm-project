@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/lldb/test/API/commands/target/stop-hook",
-    "score.sum": 1.0228257440187292e-05,
+    "score.sum": 3.068477232056188e-05,
     "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
     "time.latest": 1717898875.8305979,
     "formatted_time": "2024-06-09 07:37:55.830601",
     "filescores": {},
     "subdirscores": {
-        "delete": 1.0228257440187292e-05,
-        "disable": 1.0228257440187292e-05,
-        "enable": 1.0228257440187292e-05
+        "delete": 33.33333333333333,
+        "disable": 33.33333333333333,
+        "enable": 33.33333333333333
     }
 }

@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/llvm/lib/Transforms/Hello",
-    "score.sum": 0.00012978224260271998,
+    "score.sum": 0.0001190526692754853,
     "sha.latest": "50ed0ba285bf07632ddee0dec743c26b0442c4cc",
     "time.latest": 1717874716.1341693,
     "formatted_time": "2024-06-08 14:25:16.134172",
     "filescores": {
-        "CMakeLists.txt": 2.5018968147078504e-05,
-        "Hello.cpp": 9.40337011284068e-05,
-        "Hello.exports": 0
+        "CMakeLists.txt": 21.015041745250713,
+        "Hello.cpp": 78.98495825474929,
+        "Hello.exports": 0.0
     },
     "subdirscores": {}
 }

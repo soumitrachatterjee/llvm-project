@@ -5,9 +5,9 @@
     "time.latest": 1717912760.0564,
     "formatted_time": "2024-06-09 11:29:20.056402",
     "filescores": {
-        "main.c": 0,
-        "Makefile": 0,
-        "TestModuleCacheSimple.py": 1.378101893442591e-05
+        "main.c": 0.0,
+        "Makefile": 0.0,
+        "TestModuleCacheSimple.py": 100.0
     },
     "subdirscores": {}
 }

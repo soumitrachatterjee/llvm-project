@@ -5,9 +5,9 @@
     "time.latest": 1717930670.2552536,
     "formatted_time": "2024-06-09 16:27:50.255256",
     "filescores": {
-        "main.cpp": 0,
-        "Makefile": 0,
-        "TestCppCRTP.py": 8.65938856194375e-06
+        "main.cpp": 0.0,
+        "Makefile": 0.0,
+        "TestCppCRTP.py": 100.0
     },
     "subdirscores": {}
 }

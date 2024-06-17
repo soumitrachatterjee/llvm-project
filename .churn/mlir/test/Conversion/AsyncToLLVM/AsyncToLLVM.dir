@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/mlir/test/Conversion/AsyncToLLVM",
-    "score.sum": 8.086827947474424e-05,
+    "score.sum": 0.00012651319630334944,
     "sha.latest": "749f37083a2779628b49bdcad5e0109cac331803",
     "time.latest": 1717815445.162488,
     "formatted_time": "2024-06-07 21:57:25.162491",
     "filescores": {
-        "convert-coro-to-llvm.mlir": 4.218164780171442e-05,
-        "convert-runtime-to-llvm.mlir": 2.9415346563338305e-05,
-        "convert-to-llvm.mlir": 5.491620193829672e-05
+        "convert-coro-to-llvm.mlir": 33.34169796846533,
+        "convert-runtime-to-llvm.mlir": 23.250812897657802,
+        "convert-to-llvm.mlir": 43.407489133876865
     },
     "subdirscores": {}
 }

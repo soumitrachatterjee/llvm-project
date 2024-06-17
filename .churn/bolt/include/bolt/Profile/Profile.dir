@@ -1,18 +1,18 @@
 {
     "directory name": "llvm-project/bolt/include/bolt/Profile",
-    "score.sum": 0.00012252297145208408,
+    "score.sum": 0.00018428498534244116,
     "sha.latest": "340b1ab9dc6322439353d3275fa16d1cf0b4da60",
     "time.latest": 1717788391.3958976,
     "formatted_time": "2024-06-08 00:56:31.395902",
     "filescores": {
-        "BoltAddressTranslation.h": 5.1297642168995145e-05,
-        "DataAggregator.h": 3.50442973295166e-05,
-        "DataReader.h": 1.934403947895956e-05,
-        "Heatmap.h": 1.142019290304054e-05,
-        "ProfileReaderBase.h": 1.4049702504165448e-05,
-        "ProfileYAMLMapping.h": 1.6913566924684954e-05,
-        "YAMLProfileReader.h": 2.1185344863791405e-05,
-        "YAMLProfileWriter.h": 1.5030199169287538e-05
+        "BoltAddressTranslation.h": 27.83603996477146,
+        "DataAggregator.h": 19.01636059193686,
+        "DataReader.h": 10.496807128922724,
+        "Heatmap.h": 6.197028413258608,
+        "ProfileReaderBase.h": 7.6238997322858815,
+        "ProfileYAMLMapping.h": 9.177940836176049,
+        "YAMLProfileReader.h": 11.495969041875265,
+        "YAMLProfileWriter.h": 8.15595429077317
     },
     "subdirscores": {}
 }

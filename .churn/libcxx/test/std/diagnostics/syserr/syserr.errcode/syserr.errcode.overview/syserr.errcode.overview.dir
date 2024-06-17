@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/libcxx/test/std/diagnostics/syserr/syserr.errcode/syserr.errcode.overview",
-    "score.sum": 2.048432833865602e-05,
+    "score.sum": 1.2853468217927668e-05,
     "sha.latest": "2df59c50688c122bbcae7467d3eaf862c3ea3088",
     "time.latest": 1717898416.9899685,
     "formatted_time": "2024-06-09 07:30:16.989971",
     "filescores": {
-        "types.pass.cpp": 1.2853468217927668e-05
+        "types.pass.cpp": 100.0
     },
     "subdirscores": {}
 }

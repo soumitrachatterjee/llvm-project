@@ -6,6 +6,6 @@
     "formatted_time": "2024-06-08 22:18:51.149272",
     "filescores": {},
     "subdirscores": {
-        "thread.mutex.requirements.mutex": 1.5285836437724337e-05
+        "thread.mutex.requirements.mutex": 100.0
     }
 }

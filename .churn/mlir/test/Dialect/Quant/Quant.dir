@@ -1,19 +1,19 @@
 {
     "directory name": "llvm-project/mlir/test/Dialect/Quant",
-    "score.sum": 7.099435854300937e-05,
+    "score.sum": 0.00011332627264803095,
     "sha.latest": "bb0bbed610d86ba155f9c066c23038f7f34e2dbb",
     "time.latest": 1717821292.3699322,
     "formatted_time": "2024-06-07 23:34:52.369936",
     "filescores": {
-        "canonicalize.mlir": 2.764792284222731e-05,
-        "parse-any-invalid.mlir": 1.3798051984360974e-05,
-        "parse-any.mlir": 1.21006691299767e-05,
-        "parse-calibrated-invalid.mlir": 1.168534129678085e-05,
-        "parse-calibrated.mlir": 1.1984415188830145e-05,
-        "parse-uniform-invalid.mlir": 1.3798051984360974e-05,
-        "parse-uniform.mlir": 1.4918592951276014e-05
+        "canonicalize.mlir": 24.396745958544233,
+        "parse-any-invalid.mlir": 12.175510287199689,
+        "parse-any.mlir": 10.677726221137611,
+        "parse-calibrated-invalid.mlir": 10.311237653666785,
+        "parse-calibrated.mlir": 10.575142823281036,
+        "parse-uniform-invalid.mlir": 12.175510287199689,
+        "parse-uniform.mlir": 13.164284505862309
     },
     "subdirscores": {
-        "Bytecode": 7.393227270217972e-06
+        "Bytecode": 6.523842263108643
     }
 }

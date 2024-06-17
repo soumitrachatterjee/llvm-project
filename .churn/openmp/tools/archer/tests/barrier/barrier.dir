@@ -5,7 +5,7 @@
     "time.latest": 1717805902.9022603,
     "formatted_time": "2024-06-08 05:48:22.902262",
     "filescores": {
-        "barrier.c": 6.099602068851199e-06
+        "barrier.c": 100.0
     },
     "subdirscores": {}
 }

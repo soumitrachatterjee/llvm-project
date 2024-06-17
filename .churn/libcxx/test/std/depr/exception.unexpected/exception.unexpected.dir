@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/libcxx/test/std/depr/exception.unexpected",
-    "score.sum": 3.085111021522714e-05,
+    "score.sum": 7.027806912595438e-05,
     "sha.latest": "31cbe0f240f660f15602c96b787c58a26f17e179",
     "time.latest": 1717897137.0404904,
     "formatted_time": "2024-06-09 07:08:57.040493",
     "filescores": {},
     "subdirscores": {
-        "set.unexpected": 2.4292139142303823e-05,
-        "unexpected": 2.2670178348889956e-05,
-        "unexpected.handler": 2.331575163476061e-05
+        "set.unexpected": 34.565746390622586,
+        "unexpected": 32.25782755678704,
+        "unexpected.handler": 33.17642605259039
     }
 }

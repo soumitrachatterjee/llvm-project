@@ -5,8 +5,8 @@
     "time.latest": 1718079754.2351952,
     "formatted_time": "2024-06-10 23:22:34.235199",
     "filescores": {
-        "BTFParserTest.cpp": 6.183552420676637e-06,
-        "CMakeLists.txt": 0
+        "BTFParserTest.cpp": 100.0,
+        "CMakeLists.txt": 0.0
     },
     "subdirscores": {}
 }

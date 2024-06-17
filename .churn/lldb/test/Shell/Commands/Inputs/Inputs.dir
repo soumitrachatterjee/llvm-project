@@ -1,17 +1,17 @@
 {
     "directory name": "llvm-project/lldb/test/Shell/Commands/Inputs",
-    "score.sum": 3.7451350579909115e-05,
+    "score.sum": 4.474511097871635e-05,
     "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
     "time.latest": 1717971988.2732425,
     "formatted_time": "2024-06-10 03:56:28.273244",
     "filescores": {
-        "command-disassemble-process.lldbinit": 6.1068208039746095e-06,
-        "command-disassemble.lldbinit": 1.817033467310057e-05,
-        "frame.py": 6.100306422822876e-06,
-        "main.c": 8.22683439832498e-06,
-        "sigchld.c": 0,
-        "stop_hook.py": 6.1408146804933124e-06,
-        "symbols.yaml": 0
+        "command-disassemble-process.lldbinit": 13.648018007776102,
+        "command-disassemble.lldbinit": 40.608536386787705,
+        "frame.py": 13.633459140875914,
+        "main.c": 18.385996186797236,
+        "sigchld.c": 0.0,
+        "stop_hook.py": 13.723990277763034,
+        "symbols.yaml": 0.0
     },
     "subdirscores": {}
 }

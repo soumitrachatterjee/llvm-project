@@ -5,7 +5,7 @@
     "time.latest": 1717820613.7657907,
     "formatted_time": "2024-06-07 23:23:33.765795",
     "filescores": {
-        "ops.mlir": 6.591397332783017e-06
+        "ops.mlir": 100.0
     },
     "subdirscores": {}
 }

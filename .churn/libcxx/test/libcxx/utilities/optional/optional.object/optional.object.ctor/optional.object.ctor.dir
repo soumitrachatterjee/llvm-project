@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/libcxx/test/libcxx/utilities/optional/optional.object/optional.object.ctor",
-    "score.sum": 1.8188354523397146e-05,
+    "score.sum": 3.637670904679429e-05,
     "sha.latest": "31cbe0f240f660f15602c96b787c58a26f17e179",
     "time.latest": 1717867306.0356712,
     "formatted_time": "2024-06-08 22:51:46.035674",
     "filescores": {
-        "copy.pass.cpp": 1.8188354523397146e-05,
-        "move.pass.cpp": 1.8188354523397146e-05
+        "copy.pass.cpp": 50.0,
+        "move.pass.cpp": 50.0
     },
     "subdirscores": {}
 }

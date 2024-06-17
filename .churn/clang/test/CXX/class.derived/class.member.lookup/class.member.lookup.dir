@@ -1,17 +1,17 @@
 {
     "directory name": "llvm-project/clang/test/CXX/class.derived/class.member.lookup",
-    "score.sum": 3.508418261245945e-05,
+    "score.sum": 3.805062833685073e-05,
     "sha.latest": "a7bc9cb6ffa91ff0ebabc45c0c7263c7c2c3a4de",
     "time.latest": 1718083969.435982,
     "formatted_time": "2024-06-11 11:02:49.435984",
     "filescores": {
-        "gh22413.cpp": 0,
-        "p10.cpp": 0,
-        "p11.cpp": 6.099602068851199e-06,
-        "p6.cpp": 7.668661442882569e-06,
-        "p7.cpp": 6.099602068851199e-06,
-        "p8.cpp": 1.8182762756265758e-05,
-        "p9.cpp": 0
+        "gh22413.cpp": 0.0,
+        "p10.cpp": 0.0,
+        "p11.cpp": 16.0302269251726,
+        "p6.cpp": 20.153836554272438,
+        "p7.cpp": 16.0302269251726,
+        "p8.cpp": 47.785709595382365,
+        "p9.cpp": 0.0
     },
     "subdirscores": {}
 }

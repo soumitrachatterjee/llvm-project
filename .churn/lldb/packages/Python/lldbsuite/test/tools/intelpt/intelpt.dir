@@ -5,7 +5,7 @@
     "time.latest": 1717861447.9258893,
     "formatted_time": "2024-06-08 21:14:07.925894",
     "filescores": {
-        "intelpt_testcase.py": 2.5319003906788995e-05
+        "intelpt_testcase.py": 100.0
     },
     "subdirscores": {}
 }

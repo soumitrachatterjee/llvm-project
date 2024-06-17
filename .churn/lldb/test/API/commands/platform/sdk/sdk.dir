@@ -5,9 +5,9 @@
     "time.latest": 1717896242.8585877,
     "formatted_time": "2024-06-09 06:54:02.858589",
     "filescores": {
-        "main.c": 0,
-        "Makefile": 0,
-        "TestPlatformSDK.py": 2.3103173378867905e-05
+        "main.c": 0.0,
+        "Makefile": 0.0,
+        "TestPlatformSDK.py": 100.0
     },
     "subdirscores": {}
 }

@@ -5,8 +5,8 @@
     "time.latest": 1717799171.2963789,
     "formatted_time": "2024-06-08 03:56:11.296382",
     "filescores": {
-        "CMakeLists.txt": 2.6200408653356803e-05,
-        "llvm-omp-device-info.cpp": 0
+        "CMakeLists.txt": 100.0,
+        "llvm-omp-device-info.cpp": 0.0
     },
     "subdirscores": {}
 }

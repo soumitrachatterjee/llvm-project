@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/libcxx/test/libcxx/depr/depr.default.allocator",
-    "score.sum": 3.442128338019931e-05,
+    "score.sum": 4.046909735689216e-05,
     "sha.latest": "8751bbe7d3642e2641dad02da7ad9b95a3f77d4f",
     "time.latest": 1717849373.8391035,
     "formatted_time": "2024-06-08 17:52:53.839107",
     "filescores": {
-        "allocator_types.cxx2a.pass.cpp": 8.845273818047332e-06,
-        "enable_removed_allocator_members.deprecated.verify.cpp": 0
+        "allocator_types.cxx2a.pass.cpp": 21.856859667617275,
+        "enable_removed_allocator_members.deprecated.verify.cpp": 0.0
     },
     "subdirscores": {
-        "allocator.members": 3.162382353884483e-05
+        "allocator.members": 78.14314033238273
     }
 }

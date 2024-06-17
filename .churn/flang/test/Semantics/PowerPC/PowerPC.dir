@@ -1,15 +1,15 @@
 {
     "directory name": "llvm-project/flang/test/Semantics/PowerPC",
-    "score.sum": 1.830904278596618e-05,
+    "score.sum": 1.2792408614959047e-05,
     "sha.latest": "f50eaea8ce1342732fdc02d494e077aaafc3b3e4",
     "time.latest": 1717808029.0737317,
     "formatted_time": "2024-06-07 19:53:49.073735",
     "filescores": {
-        "ppc-vector-intrinsics.f90": 1.2792408614959047e-05,
-        "ppc-vector-types01.f90": 0,
-        "ppc-vector-types02.f90": 0,
-        "ppc-vector-types03.f90": 0,
-        "ppc-vector-types04.f90": 0
+        "ppc-vector-intrinsics.f90": 100.0,
+        "ppc-vector-types01.f90": 0.0,
+        "ppc-vector-types02.f90": 0.0,
+        "ppc-vector-types03.f90": 0.0,
+        "ppc-vector-types04.f90": 0.0
     },
     "subdirscores": {}
 }

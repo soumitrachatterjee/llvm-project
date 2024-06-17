@@ -5,11 +5,11 @@
     "time.latest": 1717894182.1372352,
     "formatted_time": "2024-06-09 06:19:42.137237",
     "filescores": {
-        "dummy.cpp": 0,
-        "main.cpp": 0,
-        "Makefile": 0,
-        "test.cpp": 0,
-        "TestTopLevelExprs.py": 1.9669006300971854e-05
+        "dummy.cpp": 0.0,
+        "main.cpp": 0.0,
+        "Makefile": 0.0,
+        "test.cpp": 0.0,
+        "TestTopLevelExprs.py": 100.0
     },
     "subdirscores": {}
 }

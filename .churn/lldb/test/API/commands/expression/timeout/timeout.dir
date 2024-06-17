@@ -5,9 +5,9 @@
     "time.latest": 1717894108.7582018,
     "formatted_time": "2024-06-09 06:18:28.758204",
     "filescores": {
-        "Makefile": 0,
-        "TestCallWithTimeout.py": 1.8165686653700746e-05,
-        "wait-a-while.cpp": 0
+        "Makefile": 0.0,
+        "TestCallWithTimeout.py": 100.0,
+        "wait-a-while.cpp": 0.0
     },
     "subdirscores": {}
 }

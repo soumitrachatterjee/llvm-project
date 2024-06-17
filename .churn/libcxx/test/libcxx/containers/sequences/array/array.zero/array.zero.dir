@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/libcxx/test/libcxx/containers/sequences/array/array.zero",
-    "score.sum": 6.179244486306152e-05,
+    "score.sum": 7.401936409110102e-05,
     "sha.latest": "58780b811c23df3d928d8452ee21c862dde754a2",
     "time.latest": 1717846062.2798512,
     "formatted_time": "2024-06-08 16:57:42.279854",
     "filescores": {
-        "assert.back.pass.cpp": 2.467312136370034e-05,
-        "assert.front.pass.cpp": 2.467312136370034e-05,
-        "assert.subscript.pass.cpp": 2.467312136370034e-05
+        "assert.back.pass.cpp": 33.33333333333333,
+        "assert.front.pass.cpp": 33.33333333333333,
+        "assert.subscript.pass.cpp": 33.33333333333333
     },
     "subdirscores": {}
 }

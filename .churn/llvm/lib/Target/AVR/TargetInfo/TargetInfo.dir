@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/llvm/lib/Target/AVR/TargetInfo",
-    "score.sum": 5.480676597580246e-05,
+    "score.sum": 5.0611032551038464e-05,
     "sha.latest": "b3a6d096d7c369f5290172c126bd699716bb383c",
     "time.latest": 1717853125.5179124,
     "formatted_time": "2024-06-08 08:25:25.517916",
     "filescores": {
-        "AVRTargetInfo.cpp": 3.46547909249643e-05,
-        "AVRTargetInfo.h": 0,
-        "CMakeLists.txt": 1.5956241626074164e-05
+        "AVRTargetInfo.cpp": 68.4727996608582,
+        "AVRTargetInfo.h": 0.0,
+        "CMakeLists.txt": 31.527200339141796
     },
     "subdirscores": {}
 }

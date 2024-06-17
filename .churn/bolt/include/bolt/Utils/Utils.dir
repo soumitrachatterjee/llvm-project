@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/bolt/include/bolt/Utils",
-    "score.sum": 2.875691753437779e-05,
+    "score.sum": 5.614656901522154e-05,
     "sha.latest": "2abcbbd96ad731b05fae970a0abb23cda784dddd",
     "time.latest": 1717788533.149221,
     "formatted_time": "2024-06-08 00:58:53.149226",
     "filescores": {
-        "CommandLineOpts.h": 1.7560981416894138e-05,
-        "NameResolver.h": 9.485328371519729e-06,
-        "NameShortener.h": 9.485328371519729e-06,
-        "Utils.h": 1.961493085528794e-05
+        "CommandLineOpts.h": 31.277033886315103,
+        "NameResolver.h": 16.893869986869937,
+        "NameShortener.h": 16.893869986869937,
+        "Utils.h": 34.93522613994501
     },
     "subdirscores": {}
 }

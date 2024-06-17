@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/libcxx/test/std/re/re.iter/re.regiter/re.regiter.comp",
-    "score.sum": 1.8074379797628748e-05,
+    "score.sum": 1.1994050593164548e-05,
     "sha.latest": "5f8e4315979c266f3610f89d11a48bd43809533d",
     "time.latest": 1717966455.0180519,
     "formatted_time": "2024-06-10 02:24:15.018055",
     "filescores": {
-        "equal.pass.cpp": 0,
-        "tested_elsewhere.pass.cpp": 1.1994050593164548e-05
+        "equal.pass.cpp": 0.0,
+        "tested_elsewhere.pass.cpp": 100.0
     },
     "subdirscores": {}
 }

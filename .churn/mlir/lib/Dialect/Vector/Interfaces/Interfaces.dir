@@ -5,9 +5,9 @@
     "time.latest": 1717810150.7951598,
     "formatted_time": "2024-06-07 20:29:10.795163",
     "filescores": {
-        "CMakeLists.txt": 6.099602068851199e-06,
-        "MaskableOpInterface.cpp": 0,
-        "MaskingOpInterface.cpp": 0
+        "CMakeLists.txt": 100.0,
+        "MaskableOpInterface.cpp": 0.0,
+        "MaskingOpInterface.cpp": 0.0
     },
     "subdirscores": {}
 }

@@ -1,22 +1,22 @@
 {
     "directory name": "llvm-project/clang-tools-extra/test/clang-tidy/checkers/objc",
-    "score.sum": 6.709689162172956e-06,
+    "score.sum": 6.099602068851199e-06,
     "sha.latest": "e8a3ddafe063c970df9c23e803812369abde4c82",
     "time.latest": 1717828865.208497,
     "formatted_time": "2024-06-08 12:11:05.208501",
     "filescores": {
-        "assert-equals.m": 0,
-        "avoid-nserror-init.m": 0,
-        "dealloc-in-category.m": 0,
-        "forbidden-subclassing-custom.m": 6.099602068851199e-06,
-        "forbidden-subclassing.m": 0,
-        "missing-hash.m": 0,
-        "nsdate-formatter.m": 0,
-        "nsinvocation-argument-lifetime.m": 0,
-        "property-declaration.m": 0,
-        "super-self.m": 0
+        "assert-equals.m": 0.0,
+        "avoid-nserror-init.m": 0.0,
+        "dealloc-in-category.m": 0.0,
+        "forbidden-subclassing-custom.m": 100.0,
+        "forbidden-subclassing.m": 0.0,
+        "missing-hash.m": 0.0,
+        "nsdate-formatter.m": 0.0,
+        "nsinvocation-argument-lifetime.m": 0.0,
+        "property-declaration.m": 0.0,
+        "super-self.m": 0.0
     },
     "subdirscores": {
-        "Inputs": 0
+        "Inputs": 0.0
     }
 }

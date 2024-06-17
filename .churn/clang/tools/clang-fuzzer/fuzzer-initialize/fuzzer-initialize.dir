@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/clang/tools/clang-fuzzer/fuzzer-initialize",
-    "score.sum": 1.3238734297948241e-05,
+    "score.sum": 1.933833636679944e-05,
     "sha.latest": "70dc3b811e4926fa2c88bd3b53b29c46fcba1a90",
     "time.latest": 1718081920.6332312,
     "formatted_time": "2024-06-11 10:28:40.633234",
     "filescores": {
-        "CMakeLists.txt": 0,
-        "fuzzer_initialize.cpp": 1.3238734297948241e-05,
-        "fuzzer_initialize.h": 6.099602068851199e-06
+        "CMakeLists.txt": 0.0,
+        "fuzzer_initialize.cpp": 68.45849636102537,
+        "fuzzer_initialize.h": 31.54150363897462
     },
     "subdirscores": {}
 }

@@ -5,11 +5,11 @@
     "time.latest": 1717966001.0080793,
     "formatted_time": "2024-06-10 02:16:41.008082",
     "filescores": {
-        "b.cpp": 0,
-        "c.cpp": 0,
-        "main.cpp": 0,
-        "Makefile": 0,
-        "TestModuleAndSection.py": 2.9357197566067832e-05
+        "b.cpp": 0.0,
+        "c.cpp": 0.0,
+        "main.cpp": 0.0,
+        "Makefile": 0.0,
+        "TestModuleAndSection.py": 100.0
     },
     "subdirscores": {}
 }

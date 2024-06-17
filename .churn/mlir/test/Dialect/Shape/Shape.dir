@@ -1,18 +1,18 @@
 {
     "directory name": "llvm-project/mlir/test/Dialect/Shape",
-    "score.sum": 0.00021584391095375794,
+    "score.sum": 0.0002939194762768208,
     "sha.latest": "dbb782dffdbd37e4aafa745eba9ba0f2831e21e8",
     "time.latest": 1717822014.7863607,
     "formatted_time": "2024-06-07 23:46:54.786364",
     "filescores": {
-        "arg_with_shape.mlir": 0,
-        "bufferize.mlir": 1.232938068633241e-05,
-        "canonicalize.mlir": 0.00011506095984047918,
-        "invalid.mlir": 5.1942997341714964e-05,
-        "ops.mlir": 8.710062317150178e-05,
-        "outline-shape-computation.mlir": 6.122976691878914e-06,
-        "remove-shape-constraints.mlir": 8.735516999202528e-06,
-        "shape-to-shape.mlir": 1.2627021545711044e-05
+        "arg_with_shape.mlir": 0.0,
+        "bufferize.mlir": 4.194815819119209,
+        "canonicalize.mlir": 39.147102906549776,
+        "invalid.mlir": 17.672526502732925,
+        "ops.mlir": 29.63417881483574,
+        "outline-shape-computation.mlir": 2.0832157056894522,
+        "remove-shape-constraints.mlir": 2.9720783086096674,
+        "shape-to-shape.mlir": 4.296081942463246
     },
     "subdirscores": {}
 }

@@ -1,22 +1,22 @@
 {
     "directory name": "llvm-project/libcxx/utils/ci",
-    "score.sum": 0.0017556246392493701,
+    "score.sum": 0.0015503374760698332,
     "sha.latest": "a8dd99eb36bbf000bb1b42e27df8644eb0762fb8",
     "time.latest": 1718010910.9075835,
     "formatted_time": "2024-06-10 14:45:10.907584",
     "filescores": {
-        "apple-install-libcxx.sh": 4.895911716573557e-05,
-        "BOT_OWNERS.txt": 1.1564045034568575e-05,
-        "build-picolibc.sh": 6.099602068851199e-06,
-        "buildkite-pipeline.yml": 0.0006165250066585437,
-        "docker-compose.yml": 7.530008608323527e-06,
-        "Dockerfile": 0.00019583963372659508,
-        "macos-ci-setup": 3.944242860529685e-05,
-        "oss-fuzz.sh": 2.1412234113278173e-05,
-        "run-buildbot": 0.0005816200937088565,
-        "run-buildbot-container": 1.0497398645854848e-05
+        "apple-install-libcxx.sh": 3.157965147681837,
+        "BOT_OWNERS.txt": 0.7459050182985891,
+        "build-picolibc.sh": 0.3934370524483438,
+        "buildkite-pipeline.yml": 39.76714851926684,
+        "docker-compose.yml": 0.48570125695551125,
+        "Dockerfile": 12.632064743932805,
+        "macos-ci-setup": 2.544118891151684,
+        "oss-fuzz.sh": 1.381133749508464,
+        "run-buildbot": 37.51570884961682,
+        "run-buildbot-container": 0.6771041020350078
     },
     "subdirscores": {
-        "vendor": 1.0847907733929176e-05
+        "vendor": 0.6997126691040876
     }
 }

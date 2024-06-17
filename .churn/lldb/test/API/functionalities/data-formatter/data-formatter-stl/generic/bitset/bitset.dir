@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/lldb/test/API/functionalities/data-formatter/data-formatter-stl/generic/bitset",
-    "score.sum": 9.171024135424776e-06,
+    "score.sum": 1.5270626204275975e-05,
     "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
     "time.latest": 1717905768.931973,
     "formatted_time": "2024-06-09 09:32:48.931975",
     "filescores": {
-        "main.cpp": 6.099602068851199e-06,
-        "Makefile": 0,
-        "TestDataFormatterGenericBitset.py": 9.171024135424776e-06
+        "main.cpp": 39.943365696052666,
+        "Makefile": 0.0,
+        "TestDataFormatterGenericBitset.py": 60.056634303947334
     },
     "subdirscores": {}
 }

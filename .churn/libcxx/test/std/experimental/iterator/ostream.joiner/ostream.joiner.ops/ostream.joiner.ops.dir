@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/libcxx/test/std/experimental/iterator/ostream.joiner/ostream.joiner.ops",
-    "score.sum": 4.5460488628891704e-05,
+    "score.sum": 0.0001404612266040509,
     "sha.latest": "a7f9895cc18995549c7facb96e72718da282a864",
     "time.latest": 1717899292.4552758,
     "formatted_time": "2024-06-09 07:44:52.455280",
     "filescores": {
-        "ostream_joiner.op.assign.pass.cpp": 4.185981406276167e-05,
-        "ostream_joiner.op.postincrement.pass.cpp": 3.286713751376308e-05,
-        "ostream_joiner.op.pretincrement.pass.cpp": 3.286713751376308e-05,
-        "ostream_joiner.op.star.pass.cpp": 3.286713751376308e-05
+        "ostream_joiner.op.assign.pass.cpp": 29.801686255212033,
+        "ostream_joiner.op.postincrement.pass.cpp": 23.399437914929322,
+        "ostream_joiner.op.pretincrement.pass.cpp": 23.399437914929322,
+        "ostream_joiner.op.star.pass.cpp": 23.399437914929322
     },
     "subdirscores": {}
 }

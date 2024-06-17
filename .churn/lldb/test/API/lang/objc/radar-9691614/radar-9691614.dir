@@ -5,9 +5,9 @@
     "time.latest": 1717959712.5670793,
     "formatted_time": "2024-06-10 00:31:52.567084",
     "filescores": {
-        "main.m": 0,
-        "Makefile": 0,
-        "TestObjCMethodReturningBOOL.py": 1.733606927856171e-05
+        "main.m": 0.0,
+        "Makefile": 0.0,
+        "TestObjCMethodReturningBOOL.py": 100.0
     },
     "subdirscores": {}
 }

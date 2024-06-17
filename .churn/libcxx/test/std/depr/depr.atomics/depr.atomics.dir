@@ -6,6 +6,6 @@
     "formatted_time": "2024-06-09 06:31:40.994881",
     "filescores": {},
     "subdirscores": {
-        "depr.atomics.nonmembers": 6.099602068851199e-06
+        "depr.atomics.nonmembers": 100.0
     }
 }

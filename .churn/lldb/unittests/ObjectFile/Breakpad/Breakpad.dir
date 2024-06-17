@@ -5,8 +5,8 @@
     "time.latest": 1717996805.097153,
     "formatted_time": "2024-06-10 10:50:05.097155",
     "filescores": {
-        "BreakpadRecordsTest.cpp": 1.9876725587812362e-05,
-        "CMakeLists.txt": 0
+        "BreakpadRecordsTest.cpp": 100.0,
+        "CMakeLists.txt": 0.0
     },
     "subdirscores": {}
 }

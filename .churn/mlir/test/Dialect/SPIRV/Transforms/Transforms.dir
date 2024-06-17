@@ -1,21 +1,21 @@
 {
     "directory name": "llvm-project/mlir/test/Dialect/SPIRV/Transforms",
-    "score.sum": 0.00027544768739745954,
+    "score.sum": 0.0003554395459439689,
     "sha.latest": "9a5fb74fd162da70609fe5f81864d01cdc776df1",
     "time.latest": 1717821939.7645533,
     "formatted_time": "2024-06-07 23:45:39.764557",
     "filescores": {
-        "abi-interface-opencl.mlir": 1.72508066645022e-05,
-        "abi-interface.mlir": 4.1247449914747236e-05,
-        "abi-load-store.mlir": 4.551731641028174e-05,
-        "canonicalize.mlir": 8.585586729004676e-05,
-        "gl-canonicalize.mlir": 6.099602068851199e-06,
-        "inlining.mlir": 3.7476044380106705e-05,
-        "layout-decoration.mlir": 2.409438777041236e-05,
-        "rewrite-inserts.mlir": 1.4430025221832283e-05,
-        "unify-aliased-resource.mlir": 2.9051304773135186e-05,
-        "vce-deduction.mlir": 4.8263756686025004e-05,
-        "webgpu-prepare.mlir": 6.152984764028175e-06
+        "abi-interface-opencl.mlir": 4.853372918505134,
+        "abi-interface.mlir": 11.604631613289715,
+        "abi-load-store.mlir": 12.8059235191171,
+        "canonicalize.mlir": 24.15484384609837,
+        "gl-canonicalize.mlir": 1.716072997069587,
+        "inlining.mlir": 10.54357760912017,
+        "layout-decoration.mlir": 6.778758313575659,
+        "rewrite-inserts.mlir": 4.059769203088904,
+        "unify-aliased-resource.mlir": 8.173346242602618,
+        "vce-deduction.mlir": 13.578611957160572,
+        "webgpu-prepare.mlir": 1.7310917803721608
     },
     "subdirscores": {}
 }

@@ -5,9 +5,9 @@
     "time.latest": 1717936059.8026323,
     "formatted_time": "2024-06-09 17:57:39.802636",
     "filescores": {
-        "main.cpp": 0,
-        "Makefile": 0,
-        "TestStructuredBinding.py": 7.687056741183244e-06
+        "main.cpp": 0.0,
+        "Makefile": 0.0,
+        "TestStructuredBinding.py": 100.0
     },
     "subdirscores": {}
 }

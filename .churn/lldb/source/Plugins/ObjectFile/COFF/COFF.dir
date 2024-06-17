@@ -5,9 +5,9 @@
     "time.latest": 1717871993.836853,
     "formatted_time": "2024-06-09 00:09:53.836857",
     "filescores": {
-        "CMakeLists.txt": 0,
-        "ObjectFileCOFF.cpp": 6.099602068851199e-06,
-        "ObjectFileCOFF.h": 0
+        "CMakeLists.txt": 0.0,
+        "ObjectFileCOFF.cpp": 100.0,
+        "ObjectFileCOFF.h": 0.0
     },
     "subdirscores": {}
 }

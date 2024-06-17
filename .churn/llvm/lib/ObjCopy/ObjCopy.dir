@@ -1,22 +1,22 @@
 {
     "directory name": "llvm-project/llvm/lib/ObjCopy",
-    "score.sum": 0.0002503006399895271,
+    "score.sum": 0.0003348846573120987,
     "sha.latest": "fab2bb8bfda865bd438dee981d7be7df8017b76d",
     "time.latest": 1717841272.961423,
     "formatted_time": "2024-06-08 05:07:52.961424",
     "filescores": {
-        "Archive.cpp": 7.110282715365181e-06,
-        "Archive.h": 0,
-        "CMakeLists.txt": 1.2855907436668399e-05,
-        "CommonConfig.cpp": 1.1811988653437528e-05,
-        "ConfigManager.cpp": 2.2190737909894e-05,
-        "ObjCopy.cpp": 6.099602068851199e-06
+        "Archive.cpp": 2.123203485174506,
+        "Archive.h": 0.0,
+        "CMakeLists.txt": 3.8389060698851973,
+        "CommonConfig.cpp": 3.527181193741355,
+        "ConfigManager.cpp": 6.626382375354134,
+        "ObjCopy.cpp": 1.8214038582145677
     },
     "subdirscores": {
-        "COFF": 2.8993388311721992e-05,
-        "ELF": 0.00014877992197441286,
-        "MachO": 6.685490398936833e-05,
-        "XCOFF": 6.099602068851199e-06,
-        "wasm": 2.4088322183528036e-05
+        "COFF": 8.657723690429133,
+        "ELF": 44.42721358708175,
+        "MachO": 19.963561342573634,
+        "XCOFF": 1.8214038582145677,
+        "wasm": 7.193020539331162
     }
 }

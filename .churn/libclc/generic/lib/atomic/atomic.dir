@@ -1,21 +1,21 @@
 {
     "directory name": "llvm-project/libclc/generic/lib/atomic",
-    "score.sum": 2.0444984137365984e-05,
+    "score.sum": 6.099602068851199e-06,
     "sha.latest": "f965b46c8edfff3534958624b88f1dc9456b93b5",
     "time.latest": 1717828075.010895,
     "formatted_time": "2024-06-08 01:27:55.010899",
     "filescores": {
-        "atomic_add.cl": 0,
-        "atomic_and.cl": 0,
-        "atomic_cmpxchg.cl": 0,
-        "atomic_dec.cl": 0,
-        "atomic_inc.cl": 0,
-        "atomic_max.cl": 0,
-        "atomic_min.cl": 0,
-        "atomic_or.cl": 0,
-        "atomic_sub.cl": 0,
-        "atomic_xchg.cl": 6.099602068851199e-06,
-        "atomic_xor.cl": 0
+        "atomic_add.cl": 0.0,
+        "atomic_and.cl": 0.0,
+        "atomic_cmpxchg.cl": 0.0,
+        "atomic_dec.cl": 0.0,
+        "atomic_inc.cl": 0.0,
+        "atomic_max.cl": 0.0,
+        "atomic_min.cl": 0.0,
+        "atomic_or.cl": 0.0,
+        "atomic_sub.cl": 0.0,
+        "atomic_xchg.cl": 100.0,
+        "atomic_xor.cl": 0.0
     },
     "subdirscores": {}
 }

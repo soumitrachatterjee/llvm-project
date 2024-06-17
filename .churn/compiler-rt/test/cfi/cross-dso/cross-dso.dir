@@ -1,19 +1,19 @@
 {
     "directory name": "llvm-project/compiler-rt/test/cfi/cross-dso",
-    "score.sum": 3.721796985616271e-05,
+    "score.sum": 6.868964181967933e-05,
     "sha.latest": "adb555ea369a3a989a9db619c784aa76cccdb823",
     "time.latest": 1717822654.96269,
     "formatted_time": "2024-06-08 10:27:34.962692",
     "filescores": {
-        "lit.local.cfg.py": 6.099602068851199e-06,
-        "shadow_is_read_only.cpp": 6.099691538748723e-06,
-        "simple-fail.cpp": 6.537588264703118e-06,
-        "simple-pass.cpp": 6.099602068851199e-06,
-        "stats.cpp": 1.4150980377756705e-05,
-        "target_out_of_bounds.cpp": 6.129963203270963e-06
+        "lit.local.cfg.py": 8.879944497110023,
+        "shadow_is_read_only.cpp": 8.880074749496195,
+        "simple-fail.cpp": 9.517575127069774,
+        "simple-pass.cpp": 8.879944497110023,
+        "stats.cpp": 20.601330859906305,
+        "target_out_of_bounds.cpp": 8.924144952397684
     },
     "subdirscores": {
-        "icall": 2.3572214297497425e-05,
-        "util": 0
+        "icall": 34.31698531691,
+        "util": 0.0
     }
 }

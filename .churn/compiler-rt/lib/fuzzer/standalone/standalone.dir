@@ -5,7 +5,7 @@
     "time.latest": 1717798943.2413042,
     "formatted_time": "2024-06-08 03:52:23.241307",
     "filescores": {
-        "StandaloneFuzzTargetMain.c": 1.1775787117580978e-05
+        "StandaloneFuzzTargetMain.c": 100.0
     },
     "subdirscores": {}
 }

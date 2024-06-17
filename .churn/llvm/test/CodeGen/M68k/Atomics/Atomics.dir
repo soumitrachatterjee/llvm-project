@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/llvm/test/CodeGen/M68k/Atomics",
-    "score.sum": 1.3333904961441449e-05,
+    "score.sum": 1.5482050494995987e-05,
     "sha.latest": "cd0d11be7a6de335dcfcf2788a97d915f017e25e",
     "time.latest": 1718071170.195134,
     "formatted_time": "2024-06-10 20:59:30.195137",
     "filescores": {
-        "cmpxchg.ll": 0,
-        "fence.ll": 0,
-        "load-store.ll": 6.099602068851199e-06,
-        "rmw.ll": 9.38244842614479e-06
+        "cmpxchg.ll": 0.0,
+        "fence.ll": 0.0,
+        "load-store.ll": 39.39789545850322,
+        "rmw.ll": 60.60210454149679
     },
     "subdirscores": {}
 }

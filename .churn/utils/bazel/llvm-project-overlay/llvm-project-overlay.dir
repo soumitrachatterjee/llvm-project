@@ -1,23 +1,23 @@
 {
     "directory name": "llvm-project/utils/bazel/llvm-project-overlay",
-    "score.sum": 0.006342028736305156,
+    "score.sum": 0.006433199626177903,
     "sha.latest": "a116f0ebaf0304e73b26098a7141c4ab836b7dc9",
     "time.latest": 1717791054.3575888,
     "formatted_time": "2024-06-08 01:40:54.357595",
     "filescores": {
-        ".bazelignore": 9.891443629034564e-06,
-        "workspace_root.bzl": 0
+        ".bazelignore": 0.15375620536916676,
+        "workspace_root.bzl": 0.0
     },
     "subdirscores": {
-        "bolt": 2.542181954683156e-05,
-        "clang": 0.0005242715922316151,
-        "clang-tools-extra": 1.575658077899868e-05,
-        "compiler-rt": 1.0892769715793258e-05,
-        "libc": 0.0013427571514512376,
-        "libunwind": 6.099602068851199e-06,
-        "lld": 5.6079204230777265e-05,
-        "llvm": 0.0009768883226757901,
-        "mlir": 0.0034491445645990918,
-        "third-party": 1.599657524988166e-05
+        "bolt": 0.39516602972159265,
+        "clang": 8.149468735561308,
+        "clang-tools-extra": 0.2449260351704645,
+        "compiler-rt": 0.1693211830621348,
+        "libc": 20.872306619979668,
+        "libunwind": 0.09481443796692968,
+        "lld": 0.8717155923870356,
+        "llvm": 15.185108180082697,
+        "mlir": 53.61476038399107,
+        "third-party": 0.24865659670793636
     }
 }

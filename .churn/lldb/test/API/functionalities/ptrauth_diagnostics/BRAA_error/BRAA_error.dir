@@ -5,9 +5,9 @@
     "time.latest": 1717919207.7304912,
     "formatted_time": "2024-06-09 13:16:47.730493",
     "filescores": {
-        "braa.c": 0,
-        "Makefile": 0,
-        "TestPtrauthBRAADiagnostic.py": 6.099602068851199e-06
+        "braa.c": 0.0,
+        "Makefile": 0.0,
+        "TestPtrauthBRAADiagnostic.py": 100.0
     },
     "subdirscores": {}
 }

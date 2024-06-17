@@ -1,19 +1,19 @@
 {
     "directory name": "llvm-project/libc/AOR_v20.02/math/test",
-    "score.sum": 1.5930108898579033e-05,
+    "score.sum": 1.8298806206553597e-05,
     "sha.latest": "a127d618357a9b09d755c0af3d141e49d8902c40",
     "time.latest": 1717822833.2261524,
     "formatted_time": "2024-06-08 00:00:33.226155",
     "filescores": {
-        "mathbench.c": 6.099602068851199e-06,
-        "mathtest.c": 0,
-        "runulp.sh": 6.099602068851199e-06,
-        "ulp.c": 0,
-        "ulp.h": 0
+        "mathbench.c": 33.33333333333333,
+        "mathtest.c": 0.0,
+        "runulp.sh": 33.33333333333333,
+        "ulp.c": 0.0,
+        "ulp.h": 0.0
     },
     "subdirscores": {
-        "rtest": 0,
-        "testcases": 6.099602068851199e-06,
-        "traces": 0
+        "rtest": 0.0,
+        "testcases": 33.33333333333333,
+        "traces": 0.0
     }
 }

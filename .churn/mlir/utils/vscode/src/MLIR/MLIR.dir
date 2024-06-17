@@ -5,8 +5,8 @@
     "time.latest": 1717837578.0729334,
     "formatted_time": "2024-06-08 04:06:18.072937",
     "filescores": {
-        "bytecodeProvider.ts": 6.099602068851199e-06,
-        "mlir.ts": 0
+        "bytecodeProvider.ts": 100.0,
+        "mlir.ts": 0.0
     },
     "subdirscores": {}
 }

@@ -5,9 +5,9 @@
     "time.latest": 1717913752.2228482,
     "formatted_time": "2024-06-09 11:45:52.222850",
     "filescores": {
-        "TestImageListMultiArchitecture.py": 1.0459834404963863e-05
+        "TestImageListMultiArchitecture.py": 100.0
     },
     "subdirscores": {
-        "bin": 0
+        "bin": 0.0
     }
 }

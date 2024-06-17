@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/lldb/source/Host/openbsd",
-    "score.sum": 6.011447741547023e-05,
+    "score.sum": 7.207071047034519e-05,
     "sha.latest": "5c70c181a359e651bc58f98a4654e32087abe417",
     "time.latest": 1717866326.593058,
     "formatted_time": "2024-06-08 22:35:26.593060",
     "filescores": {
-        "Host.cpp": 3.220201085535794e-05,
-        "HostInfoOpenBSD.cpp": 3.986869961498724e-05
+        "Host.cpp": 44.68113418780303,
+        "HostInfoOpenBSD.cpp": 55.31886581219696
     },
     "subdirscores": {}
 }

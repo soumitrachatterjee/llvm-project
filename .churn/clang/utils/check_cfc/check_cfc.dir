@@ -1,15 +1,15 @@
 {
     "directory name": "llvm-project/clang/utils/check_cfc",
-    "score.sum": 2.7537344956787697e-05,
+    "score.sum": 6.006835427481816e-05,
     "sha.latest": "dd3c26a045c081620375a878159f536758baba6e",
     "time.latest": 1718082152.921913,
     "formatted_time": "2024-06-11 10:32:32.921915",
     "filescores": {
-        "check_cfc.cfg": 0,
-        "check_cfc.py": 2.475550259932622e-05,
-        "obj_diff.py": 1.4606918720584372e-05,
-        "setup.py": 1.1663929525922904e-05,
-        "test_check_cfc.py": 9.042003428984658e-06
+        "check_cfc.cfg": 0.0,
+        "check_cfc.py": 41.21222047480701,
+        "obj_diff.py": 24.31716150197223,
+        "setup.py": 19.41776109356912,
+        "test_check_cfc.py": 15.05285692965163
     },
     "subdirscores": {}
 }

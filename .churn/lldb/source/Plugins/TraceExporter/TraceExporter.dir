@@ -1,15 +1,15 @@
 {
     "directory name": "llvm-project/lldb/source/Plugins/TraceExporter",
-    "score.sum": 7.615821929863733e-05,
+    "score.sum": 0.00012181424130322089,
     "sha.latest": "92d8a28cc665d73d9d679b8c014dd04f95d1df18",
     "time.latest": 1717882632.391754,
     "formatted_time": "2024-06-09 03:07:12.391756",
     "filescores": {
-        "CMakeLists.txt": 1.7847668302185483e-05
+        "CMakeLists.txt": 14.651544935340475
     },
     "subdirscores": {
-        "common": 6.242216548793036e-05,
-        "ctf": 3.465956323776717e-05,
-        "docs": 6.884844275337879e-06
+        "common": 51.2437337540433,
+        "ctf": 28.45280064708718,
+        "docs": 5.651920663529049
     }
 }

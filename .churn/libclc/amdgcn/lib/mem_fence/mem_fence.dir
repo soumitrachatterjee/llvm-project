@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/libclc/amdgcn/lib/mem_fence",
-    "score.sum": 8.67507420489078e-06,
+    "score.sum": 8.569741058351606e-06,
     "sha.latest": "3d21fa56f5f5afbbf16b35b199480af71e1189a3",
     "time.latest": 1717823515.8356512,
     "formatted_time": "2024-06-08 00:11:55.835654",
     "filescores": {
-        "fence.cl": 8.569741058351606e-06
+        "fence.cl": 100.0
     },
     "subdirscores": {}
 }

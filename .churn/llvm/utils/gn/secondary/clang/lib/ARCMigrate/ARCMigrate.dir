@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/llvm/utils/gn/secondary/clang/lib/ARCMigrate",
-    "score.sum": 6.569494079377037e-06,
+    "score.sum": 1.4748477629834279e-05,
     "sha.latest": "2aa998d22fe09191cd6c1b697e373266c1131502",
     "time.latest": 1718083513.7508209,
     "formatted_time": "2024-06-11 00:25:13.750824",
     "filescores": {
-        "BUILD.gn": 6.531954842970016e-06,
-        "enable.gni": 8.216522786864262e-06
+        "BUILD.gn": 44.28901075021268,
+        "enable.gni": 55.71098924978731
     },
     "subdirscores": {}
 }

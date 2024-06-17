@@ -5,9 +5,9 @@
     "time.latest": 1717958499.667282,
     "formatted_time": "2024-06-10 00:11:39.667286",
     "filescores": {
-        "main.m": 0,
-        "Makefile": 0,
-        "TestObjCBaseClassSBType.py": 2.0813323370549883e-05
+        "main.m": 0.0,
+        "Makefile": 0.0,
+        "TestObjCBaseClassSBType.py": 100.0
     },
     "subdirscores": {}
 }

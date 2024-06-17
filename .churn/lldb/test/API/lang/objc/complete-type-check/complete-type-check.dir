@@ -5,9 +5,9 @@
     "time.latest": 1717955876.1649566,
     "formatted_time": "2024-06-09 23:27:56.164962",
     "filescores": {
-        "main.m": 0,
-        "Makefile": 0,
-        "TestObjCIsTypeComplete.py": 8.555221962011198e-06
+        "main.m": 0.0,
+        "Makefile": 0.0,
+        "TestObjCIsTypeComplete.py": 100.0
     },
     "subdirscores": {}
 }

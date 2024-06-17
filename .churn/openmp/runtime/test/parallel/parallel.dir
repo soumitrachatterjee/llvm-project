@@ -1,22 +1,22 @@
 {
     "directory name": "llvm-project/openmp/runtime/test/parallel",
-    "score.sum": 5.4253399188669855e-05,
+    "score.sum": 7.72003879414572e-05,
     "sha.latest": "375862b481d952add7510270dc0adaed04049b1b",
     "time.latest": 1717803847.868467,
     "formatted_time": "2024-06-08 05:14:07.868470",
     "filescores": {
-        "bug54082.c": 6.204823066122831e-06,
-        "bug63197.c": 7.020655566107571e-06,
-        "omp_nested.c": 1.5016346228914184e-05,
-        "omp_parallel_copyin.c": 6.099602068851199e-06,
-        "omp_parallel_copyin_combined.c": 0,
-        "omp_parallel_default.c": 6.099602068851199e-06,
-        "omp_parallel_firstprivate.c": 6.099602068851199e-06,
-        "omp_parallel_if.c": 1.2360950667205409e-05,
-        "omp_parallel_num_threads.c": 0,
-        "omp_parallel_private.c": 6.099602068851199e-06,
-        "omp_parallel_reduction.c": 6.099602068851199e-06,
-        "omp_parallel_shared.c": 6.099602068851199e-06
+        "bug54082.c": 8.037295189278177,
+        "bug63197.c": 9.0940677285605,
+        "omp_nested.c": 19.45112794031737,
+        "omp_parallel_copyin.c": 7.900999245595326,
+        "omp_parallel_copyin_combined.c": 0.0,
+        "omp_parallel_default.c": 7.900999245595326,
+        "omp_parallel_firstprivate.c": 7.900999245595326,
+        "omp_parallel_if.c": 16.011513668271974,
+        "omp_parallel_num_threads.c": 0.0,
+        "omp_parallel_private.c": 7.900999245595326,
+        "omp_parallel_reduction.c": 7.900999245595326,
+        "omp_parallel_shared.c": 7.900999245595326
     },
     "subdirscores": {}
 }

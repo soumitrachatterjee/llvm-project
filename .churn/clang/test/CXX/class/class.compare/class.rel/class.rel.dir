@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/clang/test/CXX/class/class.compare/class.rel",
-    "score.sum": 6.8994067292980545e-06,
+    "score.sum": 1.2237039476734525e-05,
     "sha.latest": "1376c73927dcb899db5d46f7b970692e2e95f9ac",
     "time.latest": 1718082869.035712,
     "formatted_time": "2024-06-11 10:44:29.035714",
     "filescores": {
-        "p1.cpp": 6.099602068851199e-06,
-        "p2.cpp": 6.1374374078833255e-06
+        "p1.cpp": 49.845406484533854,
+        "p2.cpp": 50.15459351546614
     },
     "subdirscores": {}
 }

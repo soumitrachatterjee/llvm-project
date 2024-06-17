@@ -1,15 +1,15 @@
 {
     "directory name": "llvm-project/clang/test/CXX/class/class.compare/class.compare.default",
-    "score.sum": 8.113112856177237e-05,
+    "score.sum": 0.00013595768245214918,
     "sha.latest": "99500e8c08a4d941acb8a7eb00523296fb2acf7a",
     "time.latest": 1718082828.3952968,
     "formatted_time": "2024-06-11 10:43:48.395299",
     "filescores": {
-        "p1.cpp": 6.894694119587734e-05,
-        "p2.cpp": 1.720382733542203e-05,
-        "p3.cpp": 2.0604921744298233e-05,
-        "p4.cpp": 2.3102390107700368e-05,
-        "p5.cpp": 6.099602068851199e-06
+        "p1.cpp": 50.71205977649955,
+        "p2.cpp": 12.653810380650595,
+        "p3.cpp": 15.15539348175504,
+        "p4.cpp": 16.992338859432486,
+        "p5.cpp": 4.486397501662311
     },
     "subdirscores": {}
 }

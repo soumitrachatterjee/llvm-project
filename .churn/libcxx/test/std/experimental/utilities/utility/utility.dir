@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/libcxx/test/std/experimental/utilities/utility",
-    "score.sum": 2.2281888796119028e-05,
+    "score.sum": 3.7581965980397713e-05,
     "sha.latest": "7fc6a55688c816f5fc1a5481ae7af25be7500356",
     "time.latest": 1717901034.5098445,
     "formatted_time": "2024-06-09 08:13:54.509846",
     "filescores": {},
     "subdirscores": {
-        "utility.erased.type": 2.021569033615949e-05,
-        "utility.synop": 1.7366275644238228e-05
+        "utility.erased.type": 53.79093352035852,
+        "utility.synop": 46.20906647964149
     }
 }

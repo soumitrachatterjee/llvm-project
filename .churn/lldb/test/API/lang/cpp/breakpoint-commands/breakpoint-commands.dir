@@ -5,9 +5,9 @@
     "time.latest": 1717928907.5739205,
     "formatted_time": "2024-06-09 15:58:27.573922",
     "filescores": {
-        "Makefile": 0,
-        "nested.cpp": 0,
-        "TestCPPBreakpointCommands.py": 1.2283321655080921e-05
+        "Makefile": 0.0,
+        "nested.cpp": 0.0,
+        "TestCPPBreakpointCommands.py": 100.0
     },
     "subdirscores": {}
 }

@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/libclc/r600/lib/synchronization",
-    "score.sum": 3.1044247394462503e-05,
+    "score.sum": 1.3165414526955945e-05,
     "sha.latest": "3d21fa56f5f5afbbf16b35b199480af71e1189a3",
     "time.latest": 1717831728.79506,
     "formatted_time": "2024-06-08 02:28:48.795064",
     "filescores": {
-        "barrier.cl": 1.3165414526955945e-05
+        "barrier.cl": 100.0
     },
     "subdirscores": {}
 }

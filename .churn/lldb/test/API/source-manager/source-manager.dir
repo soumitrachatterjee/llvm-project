@@ -5,12 +5,12 @@
     "time.latest": 1717968172.81186,
     "formatted_time": "2024-06-10 02:52:52.811863",
     "filescores": {
-        "artificial_location.c": 0,
-        "main.c": 0,
-        "Makefile": 0,
-        "TestSourceManager.py": 4.996047801616372e-05
+        "artificial_location.c": 0.0,
+        "main.c": 0.0,
+        "Makefile": 0.0,
+        "TestSourceManager.py": 100.0
     },
     "subdirscores": {
-        "hidden": 0
+        "hidden": 0.0
     }
 }

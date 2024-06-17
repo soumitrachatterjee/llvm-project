@@ -1,18 +1,18 @@
 {
     "directory name": "llvm-project/llvm/test/CodeGen/AVR/calling-conv/c",
-    "score.sum": 2.8507417947250925e-05,
+    "score.sum": 4.159079265867757e-05,
     "sha.latest": "7bdc80f35c325d148b1ddbdfce7dea8c6ba7af84",
     "time.latest": 1718038249.4732814,
     "formatted_time": "2024-06-10 11:50:49.473285",
     "filescores": {
-        "basic.ll": 1.2521340894811427e-05,
-        "basic_aggr.ll": 9.041513356360603e-06,
-        "call.ll": 0,
-        "call_aggr.ll": 0,
-        "return.ll": 0,
-        "return_aggr.ll": 0,
-        "stack.ll": 1.3928336338654342e-05,
-        "tiny.ll": 6.099602068851199e-06
+        "basic.ll": 30.10604053058112,
+        "basic_aggr.ll": 21.739218654862945,
+        "call.ll": 0.0,
+        "call_aggr.ll": 0.0,
+        "return.ll": 0.0,
+        "return_aggr.ll": 0.0,
+        "stack.ll": 33.48898986600177,
+        "tiny.ll": 14.665750948554157
     },
     "subdirscores": {}
 }

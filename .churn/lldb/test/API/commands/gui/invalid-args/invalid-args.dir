@@ -5,7 +5,7 @@
     "time.latest": 1717895588.745095,
     "formatted_time": "2024-06-09 06:43:08.745097",
     "filescores": {
-        "TestInvalidArgsGui.py": 1.4871076735453724e-05
+        "TestInvalidArgsGui.py": 100.0
     },
     "subdirscores": {}
 }

@@ -1,15 +1,15 @@
 {
     "directory name": "llvm-project/mlir/lib/Target/SPIRV/Deserialization",
-    "score.sum": 0.0001550498801249286,
+    "score.sum": 0.0002614780327652907,
     "sha.latest": "e5332482c6009699d7b66393617a389d8ae62710",
     "time.latest": 1717812306.4609976,
     "formatted_time": "2024-06-07 21:05:06.461001",
     "filescores": {
-        "CMakeLists.txt": 1.1039404653867552e-05,
-        "Deserialization.cpp": 6.099602068851199e-06,
-        "DeserializeOps.cpp": 6.031214069402691e-05,
-        "Deserializer.cpp": 0.00012855318808003156,
-        "Deserializer.h": 5.5473697268513465e-05
+        "CMakeLists.txt": 4.221924318887928,
+        "Deserialization.cpp": 2.332739773335512,
+        "DeserializeOps.cpp": 23.065853776009025,
+        "Deserializer.cpp": 49.164048972107786,
+        "Deserializer.h": 21.21543315965975
     },
     "subdirscores": {}
 }

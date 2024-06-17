@@ -5,7 +5,7 @@
     "time.latest": 1717925131.4830966,
     "formatted_time": "2024-06-09 14:55:31.483100",
     "filescores": {
-        "synth_three_way.pass.cpp": 1.1820889807708196e-05
+        "synth_three_way.pass.cpp": 100.0
     },
     "subdirscores": {}
 }

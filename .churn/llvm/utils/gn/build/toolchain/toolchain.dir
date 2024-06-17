@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/llvm/utils/gn/build/toolchain",
-    "score.sum": 0.00015099480289807268,
+    "score.sum": 0.0001962119717084218,
     "sha.latest": "e02b85bef72e23170fa8b5c9d3263da84be8d59b",
     "time.latest": 1718080475.0407774,
     "formatted_time": "2024-06-10 23:34:35.040781",
     "filescores": {
-        "BUILD.gn": 0.000120967857680888,
-        "compiler.gni": 2.7144958427531556e-05,
-        "target_flags.gni": 4.809915560000224e-05
+        "BUILD.gn": 61.65161922976377,
+        "compiler.gni": 13.834506728197994,
+        "target_flags.gni": 24.513874042038246
     },
     "subdirscores": {}
 }

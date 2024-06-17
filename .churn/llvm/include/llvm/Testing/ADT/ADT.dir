@@ -5,8 +5,8 @@
     "time.latest": 1717823384.938377,
     "formatted_time": "2024-06-08 00:09:44.938381",
     "filescores": {
-        "StringMap.h": 0,
-        "StringMapEntry.h": 6.099602068851199e-06
+        "StringMap.h": 0.0,
+        "StringMapEntry.h": 100.0
     },
     "subdirscores": {}
 }

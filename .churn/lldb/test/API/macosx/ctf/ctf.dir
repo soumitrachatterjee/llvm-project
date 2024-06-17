@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/lldb/test/API/macosx/ctf",
-    "score.sum": 2.3483522866522647e-05,
+    "score.sum": 4.179414633728966e-05,
     "sha.latest": "12f3d97fc68b304e0efbe183665c0183d9a372b3",
     "time.latest": 1717962051.2135875,
     "formatted_time": "2024-06-10 01:10:51.213591",
     "filescores": {
-        "Makefile": 6.156524301910543e-06,
-        "test.c": 1.783118314422399e-05,
-        "TestCTF.py": 1.7806438891155127e-05
+        "Makefile": 14.730589906600287,
+        "test.c": 42.664307581070545,
+        "TestCTF.py": 42.605102512329175
     },
     "subdirscores": {}
 }

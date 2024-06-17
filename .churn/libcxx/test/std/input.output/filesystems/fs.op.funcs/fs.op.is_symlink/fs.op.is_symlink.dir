@@ -5,7 +5,7 @@
     "time.latest": 1717904430.1612074,
     "formatted_time": "2024-06-09 09:10:30.161209",
     "filescores": {
-        "is_symlink.pass.cpp": 4.829224427088022e-05
+        "is_symlink.pass.cpp": 100.0
     },
     "subdirscores": {}
 }

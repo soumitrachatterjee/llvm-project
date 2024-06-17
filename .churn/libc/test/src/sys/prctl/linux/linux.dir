@@ -5,8 +5,8 @@
     "time.latest": 1717850899.4566088,
     "formatted_time": "2024-06-08 07:48:19.456613",
     "filescores": {
-        "CMakeLists.txt": 0,
-        "prctl_test.cpp": 1.1145567397975098e-05
+        "CMakeLists.txt": 0.0,
+        "prctl_test.cpp": 100.0
     },
     "subdirscores": {}
 }

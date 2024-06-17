@@ -5,7 +5,7 @@
     "time.latest": 1717815616.9832835,
     "formatted_time": "2024-06-07 22:00:16.983287",
     "filescores": {
-        "func-to-emitc.mlir": 6.099602068851199e-06
+        "func-to-emitc.mlir": 100.0
     },
     "subdirscores": {}
 }

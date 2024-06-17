@@ -1,18 +1,18 @@
 {
     "directory name": "llvm-project/clang/test/CodeGenCUDA/Inputs",
-    "score.sum": 6.695497634578692e-05,
+    "score.sum": 4.297343342906058e-05,
     "sha.latest": "f0a955d3fa54d2b8600e646bbfb6bf3217a18d0c",
     "time.latest": 1717992404.4700203,
     "formatted_time": "2024-06-10 09:36:44.470023",
     "filescores": {
-        "amdgpu-asanrtl.ll": 0,
-        "cuda-initializers.h": 0,
-        "cuda.h": 3.6873831360209384e-05,
-        "device-code-2.ll": 0,
-        "device-code.ll": 6.099602068851199e-06,
-        "device-lib-code.ll": 0,
-        "ocml-sample-target-attrs.cl": 0,
-        "ocml-sample.cl": 0
+        "amdgpu-asanrtl.ll": 0.0,
+        "cuda-initializers.h": 0.0,
+        "cuda.h": 85.80610953760475,
+        "device-code-2.ll": 0.0,
+        "device-code.ll": 14.193890462395242,
+        "device-lib-code.ll": 0.0,
+        "ocml-sample-target-attrs.cl": 0.0,
+        "ocml-sample.cl": 0.0
     },
     "subdirscores": {}
 }

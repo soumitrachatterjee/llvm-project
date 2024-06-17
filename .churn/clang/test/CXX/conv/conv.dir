@@ -1,15 +1,15 @@
 {
     "directory name": "llvm-project/clang/test/CXX/conv",
-    "score.sum": 7.423643009272286e-05,
+    "score.sum": 9.885908799143033e-05,
     "sha.latest": "15f3cd6bfc670ba6106184a903eb04be059e5977",
     "time.latest": 1718084431.8670077,
     "formatted_time": "2024-06-11 11:10:31.867009",
     "filescores": {},
     "subdirscores": {
-        "conv.fctptr": 3.404546796593642e-05,
-        "conv.mem": 3.296797343779564e-05,
-        "conv.prom": 1.9646442449995876e-05,
-        "conv.ptr": 6.099602068851199e-06,
-        "conv.qual": 6.099602068851199e-06
+        "conv.fctptr": 34.4383795740536,
+        "conv.mem": 33.34844990746171,
+        "conv.prom": 19.873177923408463,
+        "conv.ptr": 6.169996297538115,
+        "conv.qual": 6.169996297538115
     }
 }

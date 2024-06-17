@@ -5,8 +5,8 @@
     "time.latest": 1717850720.3236678,
     "formatted_time": "2024-06-08 18:15:20.323671",
     "filescores": {
-        "test.dat": 0,
-        "wchar_pointer.pass.cpp": 1.3279312003001613e-05
+        "test.dat": 0.0,
+        "wchar_pointer.pass.cpp": 100.0
     },
     "subdirscores": {}
 }

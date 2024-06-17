@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/libcxx/test/std/atomics/atomics.order",
-    "score.sum": 3.3215310677589394e-05,
+    "score.sum": 5.512123412500506e-05,
     "sha.latest": "92832e4889ae6038cc8b3e6e449af2a9b9374ab4",
     "time.latest": 1717873387.8138618,
     "formatted_time": "2024-06-09 00:33:07.813864",
     "filescores": {
-        "kill_dependency.pass.cpp": 1.7266573678286238e-05,
-        "memory_order.pass.cpp": 2.8402254015689586e-05,
-        "memory_order_new.pass.cpp": 9.452406431029228e-06
+        "kill_dependency.pass.cpp": 31.324722590805482,
+        "memory_order.pass.cpp": 51.52688336273164,
+        "memory_order_new.pass.cpp": 17.148394046462872
     },
     "subdirscores": {}
 }

@@ -1,15 +1,15 @@
 {
     "directory name": "llvm-project/libcxx/test/std/utilities/template.bitset/bitset.operators",
-    "score.sum": 4.9975166675116304e-05,
+    "score.sum": 0.00012943273569520166,
     "sha.latest": "f02120fba28f2352fd9396683892fc6671caa137",
     "time.latest": 1718005898.5736225,
     "formatted_time": "2024-06-10 13:21:38.573624",
     "filescores": {
-        "op_and.pass.cpp": 2.1859248635190804e-05,
-        "op_not.pass.cpp": 2.1859248635190804e-05,
-        "op_or.pass.cpp": 2.1859248635190804e-05,
-        "stream_in.pass.cpp": 3.201844743173769e-05,
-        "stream_out.pass.cpp": 3.1836542357891546e-05
+        "op_and.pass.cpp": 16.888500824603348,
+        "op_not.pass.cpp": 16.888500824603348,
+        "op_or.pass.cpp": 16.888500824603348,
+        "stream_in.pass.cpp": 24.73751888172806,
+        "stream_out.pass.cpp": 24.596978644461885
     },
     "subdirscores": {}
 }

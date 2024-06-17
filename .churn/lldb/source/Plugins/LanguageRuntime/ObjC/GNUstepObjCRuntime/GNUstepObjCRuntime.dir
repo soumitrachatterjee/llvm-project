@@ -5,9 +5,9 @@
     "time.latest": 1717871390.4938269,
     "formatted_time": "2024-06-08 23:59:50.493832",
     "filescores": {
-        "CMakeLists.txt": 0,
-        "GNUstepObjCRuntime.cpp": 6.099602068851199e-06,
-        "GNUstepObjCRuntime.h": 0
+        "CMakeLists.txt": 0.0,
+        "GNUstepObjCRuntime.cpp": 100.0,
+        "GNUstepObjCRuntime.h": 0.0
     },
     "subdirscores": {}
 }

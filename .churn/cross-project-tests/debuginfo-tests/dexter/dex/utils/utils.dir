@@ -1,26 +1,26 @@
 {
     "directory name": "llvm-project/cross-project-tests/debuginfo-tests/dexter/dex/utils",
-    "score.sum": 4.779996788890095e-05,
+    "score.sum": 0.00012948896482802648,
     "sha.latest": "45a40c163932d12b72b33bd1d8a84519392b5d39",
     "time.latest": 1717790120.1696174,
     "formatted_time": "2024-06-08 01:25:20.169624",
     "filescores": {
-        "Environment.py": 6.099602068851199e-06,
-        "Exceptions.py": 9.16833243495082e-06,
-        "ExtArgParse.py": 6.099602068851199e-06,
-        "Logging.py": 6.099602068851199e-06,
-        "PrettyOutputBase.py": 6.099602068851199e-06,
-        "ReturnCode.py": 6.099602068851199e-06,
-        "RootDirectory.py": 6.099602068851199e-06,
-        "Timeout.py": 6.099602068851199e-06,
-        "Timer.py": 6.099602068851199e-06,
-        "UnitTests.py": 6.099602068851199e-06,
-        "Version.py": 6.099602068851199e-06,
-        "WorkingDirectory.py": 1.1580632099562936e-05,
-        "__init__.py": 6.099602068851199e-06
+        "Environment.py": 4.710518828343438,
+        "Exceptions.py": 7.080396732746476,
+        "ExtArgParse.py": 4.710518828343438,
+        "Logging.py": 4.710518828343438,
+        "PrettyOutputBase.py": 4.710518828343438,
+        "ReturnCode.py": 4.710518828343438,
+        "RootDirectory.py": 4.710518828343438,
+        "Timeout.py": 4.710518828343438,
+        "Timer.py": 4.710518828343438,
+        "UnitTests.py": 4.710518828343438,
+        "Version.py": 4.710518828343438,
+        "WorkingDirectory.py": 8.943335144383232,
+        "__init__.py": 4.710518828343438
     },
     "subdirscores": {
-        "posix": 6.099602068851199e-06,
-        "windows": 3.554477546729832e-05
+        "posix": 4.710518828343438,
+        "windows": 27.45004218274903
     }
 }

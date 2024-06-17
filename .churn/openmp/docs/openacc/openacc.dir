@@ -5,8 +5,8 @@
     "time.latest": 1717791907.3347142,
     "formatted_time": "2024-06-08 01:55:07.334718",
     "filescores": {
-        "OpenMPExtensions.rst": 6.099602068851199e-06,
-        "Overview.rst": 0
+        "OpenMPExtensions.rst": 100.0,
+        "Overview.rst": 0.0
     },
     "subdirscores": {}
 }

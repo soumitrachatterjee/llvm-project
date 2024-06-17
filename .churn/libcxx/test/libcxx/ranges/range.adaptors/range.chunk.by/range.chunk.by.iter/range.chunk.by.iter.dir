@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/libcxx/test/libcxx/ranges/range.adaptors/range.chunk.by/range.chunk.by.iter",
-    "score.sum": 6.099602068851199e-06,
+    "score.sum": 1.2199204137702398e-05,
     "sha.latest": "58780b811c23df3d928d8452ee21c862dde754a2",
     "time.latest": 1717862537.560398,
     "formatted_time": "2024-06-08 21:32:17.560401",
     "filescores": {
-        "assert.deref.pass.cpp": 6.099602068851199e-06,
-        "assert.increment.pass.cpp": 6.099602068851199e-06
+        "assert.deref.pass.cpp": 50.0,
+        "assert.increment.pass.cpp": 50.0
     },
     "subdirscores": {}
 }

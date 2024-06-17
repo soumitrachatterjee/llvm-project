@@ -5,7 +5,7 @@
     "time.latest": 1717792132.1312191,
     "formatted_time": "2024-06-07 15:28:52.131222",
     "filescores": {
-        "SCFToOpenMP.h": 2.2813566178568438e-05
+        "SCFToOpenMP.h": 100.0
     },
     "subdirscores": {}
 }

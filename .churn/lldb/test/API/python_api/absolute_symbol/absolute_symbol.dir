@@ -5,8 +5,8 @@
     "time.latest": 1717964507.1796825,
     "formatted_time": "2024-06-10 01:51:47.179687",
     "filescores": {
-        "absolute.yaml": 0,
-        "TestAbsoluteSymbol.py": 7.893226488738123e-06
+        "absolute.yaml": 0.0,
+        "TestAbsoluteSymbol.py": 100.0
     },
     "subdirscores": {}
 }

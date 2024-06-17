@@ -5,8 +5,8 @@
     "time.latest": 1717788807.9972856,
     "formatted_time": "2024-06-08 01:03:27.997292",
     "filescores": {
-        "LLDB.py": 3.074876819125743e-05,
-        "__init__.py": 0
+        "LLDB.py": 100.0,
+        "__init__.py": 0.0
     },
     "subdirscores": {}
 }

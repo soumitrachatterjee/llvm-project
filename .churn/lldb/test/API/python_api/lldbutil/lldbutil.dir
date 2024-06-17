@@ -1,15 +1,15 @@
 {
     "directory name": "llvm-project/lldb/test/API/python_api/lldbutil",
-    "score.sum": 3.590563717997535e-05,
+    "score.sum": 7.871843699284011e-05,
     "sha.latest": "e0053bc04e6b80ece8b334b268c2942e012009b9",
     "time.latest": 1717965932.5548773,
     "formatted_time": "2024-06-10 02:15:32.554879",
     "filescores": {
-        "TestSwigVersion.py": 1.5974170138298086e-05
+        "TestSwigVersion.py": 20.292793846695698
     },
     "subdirscores": {
-        "frame": 2.3142840071623145e-05,
-        "iter": 2.7252738960978833e-05,
-        "process": 1.2348687821940039e-05
+        "frame": 29.399516753271055,
+        "iter": 34.620528559856474,
+        "process": 15.687160840176773
     }
 }

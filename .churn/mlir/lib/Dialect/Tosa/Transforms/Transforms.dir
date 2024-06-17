@@ -1,20 +1,20 @@
 {
     "directory name": "llvm-project/mlir/lib/Dialect/Tosa/Transforms",
-    "score.sum": 0.00031511436758129886,
+    "score.sum": 0.00043481692896258056,
     "sha.latest": "d89a0a65947eb0c7bce733ee76991f900209d139",
     "time.latest": 1717809683.6785858,
     "formatted_time": "2024-06-07 20:21:23.678589",
     "filescores": {
-        "CMakeLists.txt": 3.587211297586164e-05,
-        "TosaDecomposeConv2D.cpp": 4.638131950250768e-05,
-        "TosaDecomposeDepthwise.cpp": 3.3783137851967713e-05,
-        "TosaDecomposeTransposeConv.cpp": 7.34700749793804e-05,
-        "TosaFolders.cpp": 1.1614618400492134e-05,
-        "TosaInferShapes.cpp": 7.052996212610931e-05,
-        "TosaLayerwiseConstantFoldPass.cpp": 2.1310441558222523e-05,
-        "TosaMakeBroadcastable.cpp": 6.756380525346226e-05,
-        "TosaOptionalDecompositions.cpp": 2.2310838118219884e-05,
-        "TosaValidation.cpp": 5.198061819635705e-05
+        "CMakeLists.txt": 8.249934762532837,
+        "TosaDecomposeConv2D.cpp": 10.666861479650246,
+        "TosaDecomposeDepthwise.cpp": 7.769508407266963,
+        "TosaDecomposeTransposeConv.cpp": 16.89678347038394,
+        "TosaFolders.cpp": 2.6711513804679083,
+        "TosaInferShapes.cpp": 16.22061088890561,
+        "TosaLayerwiseConstantFoldPass.cpp": 4.901014688886792,
+        "TosaMakeBroadcastable.cpp": 15.538448655773626,
+        "TosaOptionalDecompositions.cpp": 5.131087736498849,
+        "TosaValidation.cpp": 11.954598529633236
     },
     "subdirscores": {}
 }

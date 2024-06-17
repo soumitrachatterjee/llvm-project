@@ -5,8 +5,8 @@
     "time.latest": 1717802817.725561,
     "formatted_time": "2024-06-07 18:26:57.725564",
     "filescores": {
-        "CMakeLists.txt": 0,
-        "ControlFlowToSCF.cpp": 6.73417423017485e-06
+        "CMakeLists.txt": 0.0,
+        "ControlFlowToSCF.cpp": 100.0
     },
     "subdirscores": {}
 }

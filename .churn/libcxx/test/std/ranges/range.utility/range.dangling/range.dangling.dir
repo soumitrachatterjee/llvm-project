@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/libcxx/test/std/ranges/range.utility/range.dangling",
-    "score.sum": 1.017528027210954e-05,
+    "score.sum": 3.052584081632862e-05,
     "sha.latest": "b8cb1dc9ea87faa8e8e9ab7a31710a8c0bb8b084",
     "time.latest": 1717965205.8440735,
     "formatted_time": "2024-06-10 02:03:25.844075",
     "filescores": {
-        "borrowed_iterator.compile.pass.cpp": 1.017528027210954e-05,
-        "borrowed_subrange.compile.pass.cpp": 1.017528027210954e-05,
-        "dangling.pass.cpp": 1.017528027210954e-05
+        "borrowed_iterator.compile.pass.cpp": 33.33333333333333,
+        "borrowed_subrange.compile.pass.cpp": 33.33333333333333,
+        "dangling.pass.cpp": 33.33333333333333
     },
     "subdirscores": {}
 }

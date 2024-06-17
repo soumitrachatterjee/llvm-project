@@ -1,23 +1,23 @@
 {
     "directory name": "llvm-project/libcxx/test/std/input.output/iostream.format/input.streams/istream.formatted/istream.formatted.arithmetic",
-    "score.sum": 4.403327900024777e-05,
+    "score.sum": 0.0005190353311225644,
     "sha.latest": "ed61d6a46611cfb144b260e0dd0fb1b5783562d9",
     "time.latest": 1717905372.6173606,
     "formatted_time": "2024-06-09 09:26:12.617362",
     "filescores": {
-        "bool.pass.cpp": 3.9337980404953205e-05,
-        "double.pass.cpp": 3.9337980404953205e-05,
-        "float.pass.cpp": 3.9337980404953205e-05,
-        "int.pass.cpp": 4.22842676678314e-05,
-        "long.pass.cpp": 3.9337980404953205e-05,
-        "long_double.pass.cpp": 3.9337980404953205e-05,
-        "long_long.pass.cpp": 3.9337980404953205e-05,
-        "pointer.pass.cpp": 4.1086991737369574e-05,
-        "short.pass.cpp": 4.22842676678314e-05,
-        "unsigned_int.pass.cpp": 3.9337980404953205e-05,
-        "unsigned_long.pass.cpp": 3.9337980404953205e-05,
-        "unsigned_long_long.pass.cpp": 3.9337980404953205e-05,
-        "unsigned_short.pass.cpp": 3.9337980404953205e-05
+        "bool.pass.cpp": 7.579056385212432,
+        "double.pass.cpp": 7.579056385212432,
+        "float.pass.cpp": 7.579056385212432,
+        "int.pass.cpp": 8.146703149548491,
+        "long.pass.cpp": 7.579056385212432,
+        "long_double.pass.cpp": 7.579056385212432,
+        "long_long.pass.cpp": 7.579056385212432,
+        "pointer.pass.cpp": 7.916029848778702,
+        "short.pass.cpp": 8.146703149548491,
+        "unsigned_int.pass.cpp": 7.579056385212432,
+        "unsigned_long.pass.cpp": 7.579056385212432,
+        "unsigned_long_long.pass.cpp": 7.579056385212432,
+        "unsigned_short.pass.cpp": 7.579056385212432
     },
     "subdirscores": {}
 }

@@ -5,9 +5,9 @@
     "time.latest": 1717934789.4044173,
     "formatted_time": "2024-06-09 17:36:29.404422",
     "filescores": {
-        "main.cpp": 0,
-        "Makefile": 0,
-        "TestCppReferenceToOuterClass.py": 1.9629925974192544e-05
+        "main.cpp": 0.0,
+        "Makefile": 0.0,
+        "TestCppReferenceToOuterClass.py": 100.0
     },
     "subdirscores": {}
 }

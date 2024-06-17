@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/lldb/cmake/caches",
-    "score.sum": 1.3444487662757829e-05,
+    "score.sum": 3.6278897884883944e-05,
     "sha.latest": "f179f403c8579c939e09d27c383b6263cf2523aa",
     "time.latest": 1717840071.8078983,
     "formatted_time": "2024-06-08 15:17:51.807901",
     "filescores": {
-        "Apple-lldb-base.cmake": 7.045263006604918e-06,
-        "Apple-lldb-Linux.cmake": 0,
-        "Apple-lldb-macOS.cmake": 8.189923655981936e-06,
-        "Apple-lldb-Xcode.cmake": 2.104371122229709e-05
+        "Apple-lldb-base.cmake": 19.41972721707297,
+        "Apple-lldb-Linux.cmake": 0.0,
+        "Apple-lldb-macOS.cmake": 22.574896519649705,
+        "Apple-lldb-Xcode.cmake": 58.00537626327732
     },
     "subdirscores": {}
 }

@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/llvm/utils/count",
-    "score.sum": 2.1783318419104727e-05,
+    "score.sum": 2.3345004064359178e-05,
     "sha.latest": "ab380c287a42c0701cd86ae2932c0cb125b9a294",
     "time.latest": 1718079287.2544584,
     "formatted_time": "2024-06-10 23:14:47.254462",
     "filescores": {
-        "CMakeLists.txt": 6.704074656831396e-06,
-        "count.c": 1.6640929407527783e-05
+        "CMakeLists.txt": 28.717384834670078,
+        "count.c": 71.28261516532991
     },
     "subdirscores": {}
 }

@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/libcxx/test/std/re/re.alg",
-    "score.sum": 0.00014385791076060932,
+    "score.sum": 0.000254866791697237,
     "sha.latest": "c24a422aa3155c28502ed27e4b8c50451fe627e0",
     "time.latest": 1717965963.1484492,
     "formatted_time": "2024-06-10 02:16:03.148450",
     "filescores": {},
     "subdirscores": {
-        "re.alg.match": 0.00011987159529288403,
-        "re.alg.replace": 2.8242055195953455e-05,
-        "re.alg.search": 9.462027762763895e-05,
-        "re.except": 1.2132863580760565e-05
+        "re.alg.match": 47.03303811949054,
+        "re.alg.replace": 11.081104371378025,
+        "re.alg.search": 37.12538498936373,
+        "re.except": 4.7604725197677045
     }
 }

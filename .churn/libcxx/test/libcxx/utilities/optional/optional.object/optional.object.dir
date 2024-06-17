@@ -1,16 +1,16 @@
 {
     "directory name": "llvm-project/libcxx/test/libcxx/utilities/optional/optional.object",
-    "score.sum": 8.934992825953661e-05,
+    "score.sum": 9.194687160486977e-05,
     "sha.latest": "58780b811c23df3d928d8452ee21c862dde754a2",
     "time.latest": 1717867357.2787905,
     "formatted_time": "2024-06-08 22:52:37.278793",
     "filescores": {
-        "optional_size.pass.cpp": 0,
-        "triviality.abi.pass.cpp": 1.0354065242245125e-05
+        "optional_size.pass.cpp": 0.0,
+        "triviality.abi.pass.cpp": 11.260921727430196
     },
     "subdirscores": {
-        "optional.object.assign": 2.4522138178734778e-05,
-        "optional.object.ctor": 1.8188354523397146e-05,
-        "optional.object.observe": 3.888231366049273e-05
+        "optional.object.assign": 26.66989942204408,
+        "optional.object.ctor": 19.78137396730509,
+        "optional.object.observe": 42.287804883220645
     }
 }

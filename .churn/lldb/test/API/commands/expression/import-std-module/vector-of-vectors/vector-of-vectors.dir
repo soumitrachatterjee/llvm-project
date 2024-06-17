@@ -5,9 +5,9 @@
     "time.latest": 1717892290.3281674,
     "formatted_time": "2024-06-09 05:48:10.328169",
     "filescores": {
-        "main.cpp": 0,
-        "Makefile": 0,
-        "TestVectorOfVectorsFromStdModule.py": 3.5268777896729245e-05
+        "main.cpp": 0.0,
+        "Makefile": 0.0,
+        "TestVectorOfVectorsFromStdModule.py": 100.0
     },
     "subdirscores": {}
 }

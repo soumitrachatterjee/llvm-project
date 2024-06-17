@@ -5,7 +5,7 @@
     "time.latest": 1718081746.3772075,
     "formatted_time": "2024-06-10 23:55:46.377211",
     "filescores": {
-        "BUILD.gn": 6.748572826731738e-06
+        "BUILD.gn": 100.0
     },
     "subdirscores": {}
 }

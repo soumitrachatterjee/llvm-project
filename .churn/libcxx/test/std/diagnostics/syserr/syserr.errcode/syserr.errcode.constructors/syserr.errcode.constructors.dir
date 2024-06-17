@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/libcxx/test/std/diagnostics/syserr/syserr.errcode/syserr.errcode.constructors",
-    "score.sum": 2.6964697721284758e-05,
+    "score.sum": 5.62299667384998e-05,
     "sha.latest": "e8cfbfd05a951b85f80156dffc8eeecb34c7271c",
     "time.latest": 1717898116.079675,
     "formatted_time": "2024-06-09 07:25:16.079677",
     "filescores": {
-        "default.pass.cpp": 1.7366275644238228e-05,
-        "ErrorCodeEnum.pass.cpp": 1.5397813381172147e-05,
-        "int_error_category.pass.cpp": 1.7366275644238228e-05,
-        "lwg3629.pass.cpp": 6.099602068851199e-06
+        "default.pass.cpp": 30.88437829778726,
+        "ErrorCodeEnum.pass.cpp": 27.383643054210626,
+        "int_error_category.pass.cpp": 30.88437829778726,
+        "lwg3629.pass.cpp": 10.847600350214853
     },
     "subdirscores": {}
 }

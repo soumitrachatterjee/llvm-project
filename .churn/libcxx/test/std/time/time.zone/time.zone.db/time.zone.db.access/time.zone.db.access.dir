@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/libcxx/test/std/time/time.zone/time.zone.db/time.zone.db.access",
-    "score.sum": 6.136410310392832e-06,
+    "score.sum": 1.2272820620785663e-05,
     "sha.latest": "d332d88b919faa15564ab70b0633d94f21bc3e3c",
     "time.latest": 1717986084.164069,
     "formatted_time": "2024-06-10 07:51:24.164072",
     "filescores": {
-        "get_tzdb.pass.cpp": 6.136410310392832e-06,
-        "get_tzdb_list.pass.cpp": 6.136410310392832e-06
+        "get_tzdb.pass.cpp": 50.0,
+        "get_tzdb_list.pass.cpp": 50.0
     },
     "subdirscores": {}
 }

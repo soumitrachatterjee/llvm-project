@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/pstl/test/std/algorithms/alg.modifying.operations/alg.partitions",
-    "score.sum": 1.3950538406401636e-05,
+    "score.sum": 3.8569387339752194e-05,
     "sha.latest": "3b9a1bb1af90db9472340ef2122d3855eb9ba3fc",
     "time.latest": 1717791459.3144853,
     "formatted_time": "2024-06-07 15:17:39.314489",
     "filescores": {
-        "is_partitioned.pass.cpp": 1.2309424466675277e-05,
-        "partition.pass.cpp": 1.3180537629176497e-05,
-        "partition_copy.pass.cpp": 1.3079425243900419e-05
+        "is_partitioned.pass.cpp": 31.915011660007263,
+        "partition.pass.cpp": 34.1735727173238,
+        "partition_copy.pass.cpp": 33.91141562266893
     },
     "subdirscores": {}
 }

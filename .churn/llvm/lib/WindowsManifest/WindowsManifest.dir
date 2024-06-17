@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/llvm/lib/WindowsManifest",
-    "score.sum": 6.901949633670918e-05,
+    "score.sum": 7.248662130513467e-05,
     "sha.latest": "a9127eb538947307bcba6be93f26fb97e1d2f117",
     "time.latest": 1717878003.440245,
     "formatted_time": "2024-06-08 15:20:03.440249",
     "filescores": {
-        "CMakeLists.txt": 3.65842836112623e-05,
-        "WindowsManifestMerger.cpp": 3.590233769387237e-05
+        "CMakeLists.txt": 50.47039433285161,
+        "WindowsManifestMerger.cpp": 49.52960566714839
     },
     "subdirscores": {}
 }

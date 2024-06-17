@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/lldb/source/Plugins/InstrumentationRuntime/MainThreadChecker",
-    "score.sum": 7.102324655505811e-05,
+    "score.sum": 5.216705588317006e-05,
     "sha.latest": "1370a1cb5b97ecfc4fd2cb550159db9c9ebd3a68",
     "time.latest": 1717869887.5733843,
     "formatted_time": "2024-06-08 23:34:47.573386",
     "filescores": {
-        "CMakeLists.txt": 6.0996883548389075e-06,
-        "InstrumentationRuntimeMainThreadChecker.cpp": 2.8049795159546265e-05,
-        "InstrumentationRuntimeMainThreadChecker.h": 1.8017572368784883e-05
+        "CMakeLists.txt": 11.692606093200606,
+        "InstrumentationRuntimeMainThreadChecker.cpp": 53.76917421286868,
+        "InstrumentationRuntimeMainThreadChecker.h": 34.538219693930714
     },
     "subdirscores": {}
 }

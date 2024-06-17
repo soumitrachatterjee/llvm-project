@@ -1,20 +1,20 @@
 {
     "directory name": "llvm-project/libcxx/test/std/numerics/rand/rand.predef",
-    "score.sum": 1.9556047457109864e-05,
+    "score.sum": 0.00017078746743100107,
     "sha.latest": "7fc6a55688c816f5fc1a5481ae7af25be7500356",
     "time.latest": 1717959629.8877163,
     "formatted_time": "2024-06-10 00:30:29.887721",
     "filescores": {
-        "default_random_engine.pass.cpp": 1.4490986632857035e-05,
-        "knuth_b.pass.cpp": 1.7366275644238228e-05,
-        "minstd_rand.pass.cpp": 1.7366275644238228e-05,
-        "minstd_rand0.pass.cpp": 1.7366275644238228e-05,
-        "mt19937.pass.cpp": 1.7366275644238228e-05,
-        "mt19937_64.pass.cpp": 1.7366275644238228e-05,
-        "ranlux24.pass.cpp": 1.7366275644238228e-05,
-        "ranlux24_base.pass.cpp": 1.7366275644238228e-05,
-        "ranlux48.pass.cpp": 1.7366275644238228e-05,
-        "ranlux48_base.pass.cpp": 1.7366275644238228e-05
+        "default_random_engine.pass.cpp": 8.484806789884312,
+        "knuth_b.pass.cpp": 10.168354801123968,
+        "minstd_rand.pass.cpp": 10.168354801123968,
+        "minstd_rand0.pass.cpp": 10.168354801123968,
+        "mt19937.pass.cpp": 10.168354801123968,
+        "mt19937_64.pass.cpp": 10.168354801123968,
+        "ranlux24.pass.cpp": 10.168354801123968,
+        "ranlux24_base.pass.cpp": 10.168354801123968,
+        "ranlux48.pass.cpp": 10.168354801123968,
+        "ranlux48_base.pass.cpp": 10.168354801123968
     },
     "subdirscores": {}
 }

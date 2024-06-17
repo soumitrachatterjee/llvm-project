@@ -5,9 +5,9 @@
     "time.latest": 1717865752.212982,
     "formatted_time": "2024-06-08 22:25:52.212985",
     "filescores": {
-        "CMakeLists.txt": 0
+        "CMakeLists.txt": 0.0
     },
     "subdirscores": {
-        "gwp_asan": 6.099602068851199e-06
+        "gwp_asan": 100.0
     }
 }

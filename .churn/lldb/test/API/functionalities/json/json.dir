@@ -6,7 +6,7 @@
     "formatted_time": "2024-06-09 10:57:43.357634",
     "filescores": {},
     "subdirscores": {
-        "object-file": 0,
-        "symbol-file": 6.099602068851199e-06
+        "object-file": 0.0,
+        "symbol-file": 100.0
     }
 }

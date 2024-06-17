@@ -1,20 +1,20 @@
 {
     "directory name": "llvm-project/mlir/include/mlir/Dialect/Vector/Transforms",
-    "score.sum": 0.000193600332460363,
+    "score.sum": 0.00021809438819317506,
     "sha.latest": "6f5c4f2eacf24cecfc0faf0a204137ce65eecc2d",
     "time.latest": 1717798355.9975374,
     "formatted_time": "2024-06-07 17:12:35.997541",
     "filescores": {
-        "BufferizableOpInterfaceImpl.h": 0,
-        "CMakeLists.txt": 6.361786441156814e-06,
-        "LoweringPatterns.h": 1.216100172492981e-05,
-        "Passes.h": 2.6922301491794255e-05,
-        "Passes.td": 1.7005373246030495e-05,
-        "SubsetOpInterfaceImpl.h": 0,
-        "VectorDistribution.h": 2.064485191314862e-05,
-        "VectorRewritePatterns.h": 0.00010912265413673328,
-        "VectorTransforms.h": 1.9776817170530568e-05,
-        "VectorTransformsBase.td": 6.099602068851199e-06
+        "BufferizableOpInterfaceImpl.h": 0.0,
+        "CMakeLists.txt": 2.916987683113571,
+        "LoweringPatterns.h": 5.576026887110142,
+        "Passes.h": 12.344334815230587,
+        "Passes.td": 7.797253926115763,
+        "SubsetOpInterfaceImpl.h": 0.0,
+        "VectorDistribution.h": 9.466017023263634,
+        "VectorRewritePatterns.h": 50.03459971655892,
+        "VectorTransforms.h": 9.068008275854138,
+        "VectorTransformsBase.td": 2.7967716727532363
     },
     "subdirscores": {}
 }

@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/clang/examples/AnnotateFunctions",
-    "score.sum": 3.902264042664941e-05,
+    "score.sum": 4.422324776392849e-05,
     "sha.latest": "9d59cfc67eadbe4b4088d70f8bbc61c96568d2f1",
     "time.latest": 1717792671.0475287,
     "formatted_time": "2024-06-08 02:07:51.047533",
     "filescores": {
-        "AnnotateFunctions.cpp": 2.3578598215246565e-05,
-        "CMakeLists.txt": 2.0644649548681922e-05
+        "AnnotateFunctions.cpp": 53.31720171506464,
+        "CMakeLists.txt": 46.68279828493536
     },
     "subdirscores": {}
 }

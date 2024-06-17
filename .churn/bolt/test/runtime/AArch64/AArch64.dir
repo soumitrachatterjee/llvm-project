@@ -1,20 +1,20 @@
 {
     "directory name": "llvm-project/bolt/test/runtime/AArch64",
-    "score.sum": 5.2242014637890786e-05,
+    "score.sum": 6.073994444335015e-05,
     "sha.latest": "b304873134e82054b18eb64d5c292d2ff06835b8",
     "time.latest": 1717791528.2763748,
     "formatted_time": "2024-06-08 01:48:48.276379",
     "filescores": {
-        "adrrelaxationpass.s": 2.0926965089890625e-05,
-        "basic-instrumentation.test": 0,
-        "constant-island-relocations.s": 6.099602068851199e-06,
-        "controlflow.s": 8.089688745735518e-06,
-        "hook-fini.test": 0,
-        "instrumentation-ind-call.c": 6.099602068851199e-06,
-        "issue177.s": 6.5274532946105455e-06,
-        "lit.local.cfg": 6.282818328219181e-06
+        "adrrelaxationpass.s": 34.45338200697305,
+        "basic-instrumentation.test": 0.0,
+        "constant-island-relocations.s": 10.04215944672137,
+        "controlflow.s": 13.318564611596685,
+        "hook-fini.test": 0.0,
+        "instrumentation-ind-call.c": 10.04215944672137,
+        "issue177.s": 10.746557894366294,
+        "lit.local.cfg": 10.34379992572915
     },
     "subdirscores": {
-        "Inputs": 6.7138148471918785e-06
+        "Inputs": 11.053376667892083
     }
 }

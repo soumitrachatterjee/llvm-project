@@ -1,16 +1,16 @@
 {
     "directory name": "llvm-project/pstl/test/std/numerics/numeric.ops",
-    "score.sum": 2.6140969232661835e-05,
+    "score.sum": 7.583075432094807e-05,
     "sha.latest": "843c12d6a0cdfd64c5a92e24eb58ba9ee17ca1ee",
     "time.latest": 1717791997.2844808,
     "formatted_time": "2024-06-07 15:26:37.284484",
     "filescores": {
-        "adjacent_difference.pass.cpp": 1.3180537629176497e-05,
-        "reduce.pass.cpp": 1.1661997467057341e-05,
-        "scan.fail.cpp": 7.298689298214795e-06,
-        "scan.pass.cpp": 1.3180537629176497e-05,
-        "transform_reduce.pass.cpp": 1.668896344581058e-05,
-        "transform_scan.pass.cpp": 1.3820028851512367e-05
+        "adjacent_difference.pass.cpp": 17.381519869090113,
+        "reduce.pass.cpp": 15.378981221390465,
+        "scan.fail.cpp": 9.624972563669393,
+        "scan.pass.cpp": 17.381519869090113,
+        "transform_reduce.pass.cpp": 22.008172799093852,
+        "transform_scan.pass.cpp": 18.224833677666076
     },
     "subdirscores": {}
 }

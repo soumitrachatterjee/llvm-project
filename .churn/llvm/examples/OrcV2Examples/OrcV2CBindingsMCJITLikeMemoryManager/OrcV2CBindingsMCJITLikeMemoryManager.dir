@@ -5,8 +5,8 @@
     "time.latest": 1717804980.7628977,
     "formatted_time": "2024-06-07 19:03:00.762901",
     "filescores": {
-        "CMakeLists.txt": 0,
-        "OrcV2CBindingsMCJITLikeMemoryManager.c": 8.27742742322019e-06
+        "CMakeLists.txt": 0.0,
+        "OrcV2CBindingsMCJITLikeMemoryManager.c": 100.0
     },
     "subdirscores": {}
 }

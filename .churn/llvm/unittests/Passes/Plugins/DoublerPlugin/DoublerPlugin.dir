@@ -5,8 +5,8 @@
     "time.latest": 1718082468.4887798,
     "formatted_time": "2024-06-11 00:07:48.488783",
     "filescores": {
-        "CMakeLists.txt": 6.099602068851199e-06,
-        "DoublerPlugin.cpp": 0
+        "CMakeLists.txt": 100.0,
+        "DoublerPlugin.cpp": 0.0
     },
     "subdirscores": {}
 }

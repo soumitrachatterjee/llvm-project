@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/libc/test/integration/src/__support/threads",
-    "score.sum": 1.926875377923391e-05,
+    "score.sum": 3.28877852666391e-05,
     "sha.latest": "b6bc9d72f65a5086f310f321e969d96e9a559e75",
     "time.latest": 1717844260.495061,
     "formatted_time": "2024-06-08 05:57:40.495064",
     "filescores": {
-        "CMakeLists.txt": 1.0030799432132174e-05,
-        "thread_detach_test.cpp": 1.3631932638737535e-05,
-        "thread_tls_test.cpp": 9.225053195769393e-06
+        "CMakeLists.txt": 30.500075790470678,
+        "thread_detach_test.cpp": 41.449834728048934,
+        "thread_tls_test.cpp": 28.050089481480395
     },
     "subdirscores": {}
 }

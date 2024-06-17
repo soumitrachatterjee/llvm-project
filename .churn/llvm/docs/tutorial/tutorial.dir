@@ -1,27 +1,27 @@
 {
     "directory name": "llvm-project/llvm/docs/tutorial",
-    "score.sum": 0.0006845922730526089,
+    "score.sum": 0.0004627260744405218,
     "sha.latest": "33aaad94279e5e2b7ab413786abdde48e3486ad9",
     "time.latest": 1717803439.8234215,
     "formatted_time": "2024-06-07 18:37:19.823425",
     "filescores": {
-        "BuildingAJIT1.rst": 3.958239481503799e-05,
-        "BuildingAJIT2.rst": 4.363729438994531e-05,
-        "BuildingAJIT3.rst": 9.508465436031124e-06,
-        "BuildingAJIT4.rst": 7.912413361637384e-06,
-        "LangImpl01.rst": 1.4229437720679214e-05,
-        "LangImpl02.rst": 2.868093649139335e-05,
-        "LangImpl03.rst": 2.2241096327525616e-05,
-        "LangImpl04.rst": 2.758573086776411e-05,
-        "LangImpl05.rst": 1.873372468602998e-05,
-        "LangImpl06.rst": 1.8942704057513393e-05,
-        "LangImpl07.rst": 1.5049293610396596e-05,
-        "LangImpl08.rst": 2.004144091024148e-05,
-        "LangImpl09.rst": 1.7009875374496603e-05,
-        "LangImpl10.rst": 1.7918848418959494e-05,
-        "index.rst": 4.434767528682823e-05
+        "BuildingAJIT1.rst": 8.554174273169442,
+        "BuildingAJIT2.rst": 9.43048096926606,
+        "BuildingAJIT3.rst": 2.0548799735410914,
+        "BuildingAJIT4.rst": 1.7099562351666084,
+        "LangImpl01.rst": 3.0751320287891506,
+        "LangImpl02.rst": 6.1982537997391285,
+        "LangImpl03.rst": 4.806536211389673,
+        "LangImpl04.rst": 5.96156827797478,
+        "LangImpl05.rst": 4.048556094160194,
+        "LangImpl06.rst": 4.093718747191167,
+        "LangImpl07.rst": 3.2523115600504187,
+        "LangImpl08.rst": 4.331167404921674,
+        "LangImpl09.rst": 3.6760140208357828,
+        "LangImpl10.rst": 3.872452712033793,
+        "index.rst": 9.584001796408089
     },
     "subdirscores": {
-        "MyFirstLanguageFrontend": 0.00011730474268604193
+        "MyFirstLanguageFrontend": 25.350795895362953
     }
 }

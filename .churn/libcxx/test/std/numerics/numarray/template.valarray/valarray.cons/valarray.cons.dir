@@ -1,22 +1,22 @@
 {
     "directory name": "llvm-project/libcxx/test/std/numerics/numarray/template.valarray/valarray.cons",
-    "score.sum": 3.3117100325157695e-05,
+    "score.sum": 0.00022998330810507377,
     "sha.latest": "fb855eb941b6d740cc6560297d0b4d3201dcaf9f",
     "time.latest": 1717950355.5684016,
     "formatted_time": "2024-06-09 21:55:55.568404",
     "filescores": {
-        "copy.pass.cpp": 2.2726967992513527e-05,
-        "deduct.pass.cpp": 6.099602068851199e-06,
-        "default.pass.cpp": 2.167288198598348e-05,
-        "gslice_array.pass.cpp": 1.7366275644238228e-05,
-        "indirect_array.pass.cpp": 1.7366275644238228e-05,
-        "initializer_list.pass.cpp": 2.5067268859766338e-05,
-        "mask_array.pass.cpp": 1.7366275644238228e-05,
-        "move.pass.cpp": 2.7081553001058066e-05,
-        "pointer_size.pass.cpp": 2.2726967992513527e-05,
-        "size.pass.cpp": 1.777668798319651e-05,
-        "slice_array.pass.cpp": 1.7366275644238228e-05,
-        "value_size.pass.cpp": 1.7366275644238228e-05
+        "copy.pass.cpp": 9.882007602973571,
+        "deduct.pass.cpp": 2.6521933783405007,
+        "default.pass.cpp": 9.423676076561899,
+        "gslice_array.pass.cpp": 7.551102637546199,
+        "indirect_array.pass.cpp": 7.551102637546199,
+        "initializer_list.pass.cpp": 10.899603569626763,
+        "mask_array.pass.cpp": 7.551102637546199,
+        "move.pass.cpp": 11.77544284591522,
+        "pointer_size.pass.cpp": 9.882007602973571,
+        "size.pass.cpp": 7.72955573587748,
+        "slice_array.pass.cpp": 7.551102637546199,
+        "value_size.pass.cpp": 7.551102637546199
     },
     "subdirscores": {}
 }

@@ -5,7 +5,7 @@
     "time.latest": 1717965319.4085062,
     "formatted_time": "2024-06-10 02:05:19.408508",
     "filescores": {
-        "TestFormat.py": 6.099602068851199e-06
+        "TestFormat.py": 100.0
     },
     "subdirscores": {}
 }

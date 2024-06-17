@@ -5,8 +5,8 @@
     "time.latest": 1717791605.4584792,
     "formatted_time": "2024-06-07 15:20:05.458483",
     "filescores": {
-        "FuncToSPIRV.h": 0,
-        "FuncToSPIRVPass.h": 2.4885810687673055e-05
+        "FuncToSPIRV.h": 0.0,
+        "FuncToSPIRVPass.h": 100.0
     },
     "subdirscores": {}
 }

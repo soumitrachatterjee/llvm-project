@@ -5,8 +5,8 @@
     "time.latest": 1717791567.554983,
     "formatted_time": "2024-06-08 01:49:27.554988",
     "filescores": {
-        "exceptions_split.cpp": 6.779725771117928e-06,
-        "fptr.c": 0
+        "exceptions_split.cpp": 100.0,
+        "fptr.c": 0.0
     },
     "subdirscores": {}
 }

@@ -1,21 +1,21 @@
 {
     "directory name": "llvm-project/libcxx/test/std/thread/futures/futures.shared_future",
-    "score.sum": 8.265957399583655e-05,
+    "score.sum": 0.00034167107273556295,
     "sha.latest": "e655d8a54880cf550567dda0e9a1a33f6ee98df5",
     "time.latest": 1717975609.0710826,
     "formatted_time": "2024-06-10 04:56:49.071086",
     "filescores": {
-        "copy_assign.pass.cpp": 1.9437755781498234e-05,
-        "copy_ctor.pass.cpp": 1.9437755781498234e-05,
-        "ctor_future.pass.cpp": 2.1521932548475056e-05,
-        "default.pass.cpp": 1.6482671913285826e-05,
-        "dtor.pass.cpp": 3.3971008606716445e-05,
-        "get.pass.cpp": 2.495328137920993e-05,
-        "move_assign.pass.cpp": 2.1521932548475056e-05,
-        "move_ctor.pass.cpp": 2.1521932548475056e-05,
-        "wait.pass.cpp": 4.53877549197068e-05,
-        "wait_for.pass.cpp": 5.663080892367626e-05,
-        "wait_until.pass.cpp": 6.080423778454606e-05
+        "copy_assign.pass.cpp": 5.689025888516505,
+        "copy_ctor.pass.cpp": 5.689025888516505,
+        "ctor_future.pass.cpp": 6.299020978323208,
+        "default.pass.cpp": 4.824134446419063,
+        "dtor.pass.cpp": 9.942606008384086,
+        "get.pass.cpp": 7.303305246014366,
+        "move_assign.pass.cpp": 6.299020978323208,
+        "move_ctor.pass.cpp": 6.299020978323208,
+        "wait.pass.cpp": 13.284049643510427,
+        "wait_for.pass.cpp": 16.574657160837784,
+        "wait_until.pass.cpp": 17.79613278283164
     },
     "subdirscores": {}
 }

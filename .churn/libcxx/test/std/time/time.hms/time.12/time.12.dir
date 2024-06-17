@@ -5,10 +5,10 @@
     "time.latest": 1717984842.2084532,
     "formatted_time": "2024-06-10 07:30:42.208455",
     "filescores": {
-        "is_am.pass.cpp": 6.099602068851199e-06,
-        "is_pm.pass.cpp": 0,
-        "make12.pass.cpp": 0,
-        "make24.pass.cpp": 0
+        "is_am.pass.cpp": 100.0,
+        "is_pm.pass.cpp": 0.0,
+        "make12.pass.cpp": 0.0,
+        "make24.pass.cpp": 0.0
     },
     "subdirscores": {}
 }

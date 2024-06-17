@@ -1,15 +1,15 @@
 {
     "directory name": "llvm-project/libclc/ptx-nvidiacl/lib/workitem",
-    "score.sum": 1.2115096510560003e-05,
+    "score.sum": 4.2528582661379116e-05,
     "sha.latest": "3d21fa56f5f5afbbf16b35b199480af71e1189a3",
     "time.latest": 1717831286.4193447,
     "formatted_time": "2024-06-08 02:21:26.419348",
     "filescores": {
-        "get_global_id.cl": 6.099602068851199e-06,
-        "get_group_id.cl": 9.10724514813198e-06,
-        "get_local_id.cl": 9.10724514813198e-06,
-        "get_local_size.cl": 9.10724514813198e-06,
-        "get_num_groups.cl": 9.10724514813198e-06
+        "get_global_id.cl": 14.342359155059134,
+        "get_group_id.cl": 21.414410211235214,
+        "get_local_id.cl": 21.414410211235214,
+        "get_local_size.cl": 21.414410211235214,
+        "get_num_groups.cl": 21.414410211235214
     },
     "subdirscores": {}
 }

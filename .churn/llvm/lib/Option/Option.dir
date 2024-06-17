@@ -1,15 +1,15 @@
 {
     "directory name": "llvm-project/llvm/lib/Option",
-    "score.sum": 0.0005503717115319098,
+    "score.sum": 0.0006827192675005044,
     "sha.latest": "8d5bb54f774d9ddccdb9097fdc395ef46e372c70",
     "time.latest": 1717842051.9060516,
     "formatted_time": "2024-06-08 05:20:51.906055",
     "filescores": {
-        "Arg.cpp": 4.9205328916266125e-05,
-        "ArgList.cpp": 0.00011163669189365763,
-        "CMakeLists.txt": 1.3639226358927299e-05,
-        "OptTable.cpp": 0.0004018801487838796,
-        "Option.cpp": 0.00010635787154777371
+        "Arg.cpp": 7.207256519419934,
+        "ArgList.cpp": 16.351771102399002,
+        "CMakeLists.txt": 1.99777961575066,
+        "OptTable.cpp": 58.86462678213233,
+        "Option.cpp": 15.578565980298064
     },
     "subdirscores": {}
 }

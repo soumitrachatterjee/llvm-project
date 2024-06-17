@@ -5,9 +5,9 @@
     "time.latest": 1717960040.8055358,
     "formatted_time": "2024-06-10 00:37:20.805541",
     "filescores": {
-        "main.m": 0,
-        "Makefile": 0,
-        "TestObjCSingleEntryDictionary.py": 2.9865606097813092e-05
+        "main.m": 0.0,
+        "Makefile": 0.0,
+        "TestObjCSingleEntryDictionary.py": 100.0
     },
     "subdirscores": {}
 }

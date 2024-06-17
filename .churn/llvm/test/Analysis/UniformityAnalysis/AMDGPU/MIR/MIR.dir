@@ -1,24 +1,24 @@
 {
     "directory name": "llvm-project/llvm/test/Analysis/UniformityAnalysis/AMDGPU/MIR",
-    "score.sum": 1.534161000202095e-05,
+    "score.sum": 6.924062098609529e-05,
     "sha.latest": "1aee1e1f4c4b504becc06521546de992a662694b",
     "time.latest": 1717893501.0889108,
     "formatted_time": "2024-06-08 19:38:21.088915",
     "filescores": {
-        "always-uniform-gmir.mir": 9.493326581767006e-06,
-        "always-uniform.mir": 0,
-        "atomics-gmir.mir": 9.350497757157112e-06,
-        "atomics.mir": 6.099602068851199e-06,
-        "control-flow-intrinsics.mir": 0,
-        "hidden-diverge-gmir.mir": 8.276553956809384e-06,
-        "hidden-loop-diverge.mir": 0,
-        "join-loopexit-gmir.mir": 0,
-        "loads-gmir.mir": 0,
-        "never-uniform.mir": 1.7721834414956985e-05,
-        "temporal-divergence.mir": 6.099602068851199e-06,
-        "uses-value-from-cycle.mir": 6.099602068851199e-06
+        "always-uniform-gmir.mir": 13.710631774480229,
+        "always-uniform.mir": 0.0,
+        "atomics-gmir.mir": 13.504352826406413,
+        "atomics.mir": 8.809282733146059,
+        "control-flow-intrinsics.mir": 0.0,
+        "hidden-diverge-gmir.mir": 11.953321386981,
+        "hidden-loop-diverge.mir": 0.0,
+        "join-loopexit-gmir.mir": 0.0,
+        "loads-gmir.mir": 0.0,
+        "never-uniform.mir": 25.59456307954811,
+        "temporal-divergence.mir": 8.809282733146059,
+        "uses-value-from-cycle.mir": 8.809282733146059
     },
     "subdirscores": {
-        "irreducible": 6.099602068851199e-06
+        "irreducible": 8.809282733146059
     }
 }

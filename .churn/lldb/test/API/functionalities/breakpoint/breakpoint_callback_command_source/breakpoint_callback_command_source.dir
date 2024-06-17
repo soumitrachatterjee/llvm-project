@@ -5,10 +5,10 @@
     "time.latest": 1717902021.6203876,
     "formatted_time": "2024-06-09 08:30:21.620390",
     "filescores": {
-        "main.c": 0,
-        "Makefile": 0,
-        "source.lldb": 0,
-        "TestBreakpointCallbackCommandSource.py": 1.6083366468743008e-05
+        "main.c": 0.0,
+        "Makefile": 0.0,
+        "source.lldb": 0.0,
+        "TestBreakpointCallbackCommandSource.py": 100.0
     },
     "subdirscores": {}
 }

@@ -5,8 +5,8 @@
     "time.latest": 1717983561.0056765,
     "formatted_time": "2024-06-10 07:09:21.005679",
     "filescores": {
-        "ostream.pass.cpp": 8.081069242965268e-06,
-        "ostream.verify.cpp": 0
+        "ostream.pass.cpp": 100.0,
+        "ostream.verify.cpp": 0.0
     },
     "subdirscores": {}
 }

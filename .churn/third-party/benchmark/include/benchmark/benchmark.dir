@@ -5,8 +5,8 @@
     "time.latest": 1717788692.169358,
     "formatted_time": "2024-06-07 14:31:32.169362",
     "filescores": {
-        "benchmark.h": 2.34114744237869e-05,
-        "export.h": 0
+        "benchmark.h": 100.0,
+        "export.h": 0.0
     },
     "subdirscores": {}
 }

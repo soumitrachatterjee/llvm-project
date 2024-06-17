@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/clang/tools/c-index-test",
-    "score.sum": 0.0009594401339413404,
+    "score.sum": 0.0008660964403500892,
     "sha.latest": "2e5af56b05c2d39ab2c829bf4c13190523b67ddd",
     "time.latest": 1718081377.224895,
     "formatted_time": "2024-06-11 10:19:37.224906",
     "filescores": {
-        "c-index-test.c": 0.0006693795537263186,
-        "CMakeLists.txt": 0.00011367536898539657,
-        "core_main.cpp": 8.304151763837404e-05
+        "c-index-test.c": 77.28695357017578,
+        "CMakeLists.txt": 13.125024384056733,
+        "core_main.cpp": 9.588022045767492
     },
     "subdirscores": {}
 }

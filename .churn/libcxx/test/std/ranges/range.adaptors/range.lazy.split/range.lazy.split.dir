@@ -1,27 +1,27 @@
 {
     "directory name": "llvm-project/libcxx/test/std/ranges/range.adaptors/range.lazy.split",
-    "score.sum": 4.8954781824422964e-05,
+    "score.sum": 0.0001603763128243097,
     "sha.latest": "ba2236d3000645d3127f972aa7ac1844c47e299c",
     "time.latest": 1717962460.364132,
     "formatted_time": "2024-06-10 01:17:40.364134",
     "filescores": {
-        "adaptor.pass.cpp": 1.2563123382062001e-05,
-        "base.pass.cpp": 9.0095622288513e-06,
-        "begin.pass.cpp": 7.322473381443081e-06,
-        "constraints.compile.pass.cpp": 1.4301563635799235e-05,
-        "ctad.compile.pass.cpp": 6.099602068851199e-06,
-        "ctor.copy_move.pass.cpp": 8.946175212195381e-06,
-        "ctor.default.pass.cpp": 6.099602068851199e-06,
-        "ctor.range.pass.cpp": 1.4333018156347636e-05,
-        "ctor.view.pass.cpp": 8.35966518226695e-06,
-        "end.pass.cpp": 1.0136601349174369e-05,
-        "general.pass.cpp": 1.3430646584909156e-05,
-        "types.h": 1.3436344115451044e-05,
-        "view_interface.pass.cpp": 6.099602068851199e-06
+        "adaptor.pass.cpp": 7.833528007234304,
+        "base.pass.cpp": 5.617763664838189,
+        "begin.pass.cpp": 4.565807289424818,
+        "constraints.compile.pass.cpp": 8.917503703596443,
+        "ctad.compile.pass.cpp": 3.803306087684681,
+        "ctor.copy_move.pass.cpp": 5.578239737931753,
+        "ctor.default.pass.cpp": 3.803306087684681,
+        "ctor.range.pass.cpp": 8.93711665016846,
+        "ctor.view.pass.cpp": 5.21253109954265,
+        "end.pass.cpp": 6.3205102865027785,
+        "general.pass.cpp": 8.374457766479685,
+        "types.h": 8.378010367510068,
+        "view_interface.pass.cpp": 3.803306087684681
     },
     "subdirscores": {
-        "range.lazy.split.inner": 1.5192556108209352e-05,
-        "range.lazy.split.outer": 8.946175212195381e-06,
-        "range.lazy.split.outer.value": 6.099602068851199e-06
+        "range.lazy.split.inner": 9.473067338100368,
+        "range.lazy.split.outer": 5.578239737931753,
+        "range.lazy.split.outer.value": 3.803306087684681
     }
 }

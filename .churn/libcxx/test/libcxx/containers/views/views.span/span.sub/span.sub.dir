@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/libcxx/test/libcxx/containers/views/views.span/span.sub",
-    "score.sum": 2.891229680081195e-05,
+    "score.sum": 7.436892061867091e-05,
     "sha.latest": "58780b811c23df3d928d8452ee21c862dde754a2",
     "time.latest": 1717848909.917262,
     "formatted_time": "2024-06-08 17:45:09.917266",
     "filescores": {
-        "assert.first.pass.cpp": 2.2728311908929484e-05,
-        "assert.last.pass.cpp": 2.2728311908929484e-05,
-        "assert.subspan.pass.cpp": 2.891229680081195e-05
+        "assert.first.pass.cpp": 30.561572925697888,
+        "assert.last.pass.cpp": 30.561572925697888,
+        "assert.subspan.pass.cpp": 38.87685414860423
     },
     "subdirscores": {}
 }

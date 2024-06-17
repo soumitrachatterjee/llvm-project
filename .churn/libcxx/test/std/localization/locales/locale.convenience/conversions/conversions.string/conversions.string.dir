@@ -1,20 +1,20 @@
 {
     "directory name": "llvm-project/libcxx/test/std/localization/locales/locale.convenience/conversions/conversions.string",
-    "score.sum": 7.731529225375397e-05,
+    "score.sum": 0.0003329785793879364,
     "sha.latest": "233e7c5de2d2abda024577e79dcd195562de68c8",
     "time.latest": 1717932743.6105154,
     "formatted_time": "2024-06-09 17:02:23.610519",
     "filescores": {
-        "converted.pass.cpp": 4.148784755646893e-05,
-        "ctor_codecvt.pass.cpp": 3.202093187976639e-05,
-        "ctor_codecvt_state.pass.cpp": 2.961911701580673e-05,
-        "ctor_copy.pass.cpp": 3.595258510804839e-05,
-        "ctor_err_string.pass.cpp": 4.0158101201981105e-05,
-        "depr.verify.cpp": 1.0151692662239094e-05,
-        "from_bytes.pass.cpp": 4.148784755646893e-05,
-        "state.pass.cpp": 3.0993491834881144e-05,
-        "to_bytes.pass.cpp": 4.148784755646893e-05,
-        "types.pass.cpp": 2.961911701580673e-05
+        "converted.pass.cpp": 12.459614559209694,
+        "ctor_codecvt.pass.cpp": 9.61651405283354,
+        "ctor_codecvt_state.pass.cpp": 8.895201928679924,
+        "ctor_copy.pass.cpp": 10.797266651246614,
+        "ctor_err_string.pass.cpp": 12.060265641050426,
+        "depr.verify.cpp": 3.0487524695730874,
+        "from_bytes.pass.cpp": 12.459614559209694,
+        "state.pass.cpp": 9.307953650307399,
+        "to_bytes.pass.cpp": 12.459614559209694,
+        "types.pass.cpp": 8.895201928679924
     },
     "subdirscores": {}
 }

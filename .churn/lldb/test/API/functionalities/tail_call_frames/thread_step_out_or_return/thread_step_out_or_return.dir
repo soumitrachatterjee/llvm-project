@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/lldb/test/API/functionalities/tail_call_frames/thread_step_out_or_return",
-    "score.sum": 1.6253060871465856e-05,
+    "score.sum": 2.7840485264163865e-05,
     "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
     "time.latest": 1717920778.323051,
     "formatted_time": "2024-06-09 13:42:58.323053",
     "filescores": {
-        "main.cpp": 6.099602068851199e-06,
-        "Makefile": 6.099602068851199e-06,
-        "TestSteppingOutWithArtificialFrames.py": 1.5641281126461467e-05
+        "main.cpp": 21.909108303879233,
+        "Makefile": 21.909108303879233,
+        "TestSteppingOutWithArtificialFrames.py": 56.181783392241535
     },
     "subdirscores": {}
 }

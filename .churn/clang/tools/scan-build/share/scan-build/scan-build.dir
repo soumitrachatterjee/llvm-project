@@ -5,8 +5,8 @@
     "time.latest": 1718082701.7764432,
     "formatted_time": "2024-06-11 10:41:41.776445",
     "filescores": {
-        "scanview.css": 0,
-        "sorttable.js": 6.099602068851199e-06
+        "scanview.css": 0.0,
+        "sorttable.js": 100.0
     },
     "subdirscores": {}
 }

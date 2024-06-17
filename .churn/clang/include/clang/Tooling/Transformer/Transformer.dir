@@ -1,18 +1,18 @@
 {
     "directory name": "llvm-project/clang/include/clang/Tooling/Transformer",
-    "score.sum": 0.00012678823547651567,
+    "score.sum": 0.0002144266034878851,
     "sha.latest": "75b76c4b477e98b5e74f986f180000acc04b4ada",
     "time.latest": 1717803392.099646,
     "formatted_time": "2024-06-08 05:06:32.099650",
     "filescores": {
-        "MatchConsumer.h": 8.558270466637104e-06,
-        "Parsing.h": 9.51538578265106e-06,
-        "RangeSelector.h": 2.7849458211787358e-05,
-        "RewriteRule.h": 6.307520057728699e-05,
-        "SourceCode.h": 3.588168373403119e-05,
-        "SourceCodeBuilders.h": 1.4766749698997818e-05,
-        "Stencil.h": 1.6917717935056684e-05,
-        "Transformer.h": 3.7862137081436904e-05
+        "MatchConsumer.h": 3.9912353819103594,
+        "Parsing.h": 4.437595721740129,
+        "RangeSelector.h": 12.987874526194613,
+        "RewriteRule.h": 29.41575324670508,
+        "SourceCode.h": 16.733783565274106,
+        "SourceCodeBuilders.h": 6.886622023014101,
+        "Stencil.h": 7.889747661843891,
+        "Transformer.h": 17.657387873317724
     },
     "subdirscores": {}
 }

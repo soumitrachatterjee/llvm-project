@@ -5,9 +5,9 @@
     "time.latest": 1717895525.01008,
     "formatted_time": "2024-06-09 06:42:05.010082",
     "filescores": {
-        "main.c": 0,
-        "Makefile": 0,
-        "TestGuiBreakpoints.py": 1.5958438556347273e-05
+        "main.c": 0.0,
+        "Makefile": 0.0,
+        "TestGuiBreakpoints.py": 100.0
     },
     "subdirscores": {}
 }

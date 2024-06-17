@@ -5,7 +5,7 @@
     "time.latest": 1717825920.554839,
     "formatted_time": "2024-06-08 11:22:00.554842",
     "filescores": {
-        "modernize-concat-nested-namespaces.h": 6.099602068851199e-06
+        "modernize-concat-nested-namespaces.h": 100.0
     },
     "subdirscores": {}
 }

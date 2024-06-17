@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/llvm/lib/IRPrinter",
-    "score.sum": 3.8909620587619186e-05,
+    "score.sum": 5.342376950121034e-05,
     "sha.latest": "2e39b57837aa1790b3ee078fa532bb1748a609c7",
     "time.latest": 1717839173.199247,
     "formatted_time": "2024-06-08 04:32:53.199251",
     "filescores": {
-        "CMakeLists.txt": 1.4514148913591151e-05,
-        "IRPrintingPasses.cpp": 3.8909620587619186e-05
+        "CMakeLists.txt": 27.167961095037157,
+        "IRPrintingPasses.cpp": 72.83203890496284
     },
     "subdirscores": {}
 }

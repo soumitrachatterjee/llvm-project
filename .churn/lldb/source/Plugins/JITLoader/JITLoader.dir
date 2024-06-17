@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/lldb/source/Plugins/JITLoader",
-    "score.sum": 0.00018563056300891957,
+    "score.sum": 0.0001909368357296276,
     "sha.latest": "9f9dd6be0d21a156dcfee01ebbd571eca79b08bd",
     "time.latest": 1717870109.5308282,
     "formatted_time": "2024-06-08 23:38:29.530830",
     "filescores": {
-        "CMakeLists.txt": 6.274178253808443e-06
+        "CMakeLists.txt": 3.2859967694724297
     },
     "subdirscores": {
-        "GDB": 0.00018466265747581916
+        "GDB": 96.71400323052758
     }
 }

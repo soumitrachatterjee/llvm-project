@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/libcxx/test/std/utilities/utility/mem.res/mem.res.monotonic.buffer/mem.res.monotonic.buffer.ctor",
-    "score.sum": 1.0144352726900491e-05,
+    "score.sum": 2.6388307522652185e-05,
     "sha.latest": "2da049a1418f7a2f96e7cac4368cac3ce8667d2e",
     "time.latest": 1718008576.665916,
     "formatted_time": "2024-06-10 14:06:16.665917",
     "filescores": {
-        "copy_move.pass.cpp": 6.099602068851199e-06,
-        "without_buffer.pass.cpp": 1.0144352726900491e-05,
-        "with_default_resource.pass.cpp": 1.0144352726900491e-05
+        "copy_move.pass.cpp": 23.11479075956347,
+        "without_buffer.pass.cpp": 38.442604620218255,
+        "with_default_resource.pass.cpp": 38.442604620218255
     },
     "subdirscores": {}
 }

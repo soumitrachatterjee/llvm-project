@@ -5,10 +5,10 @@
     "time.latest": 1717981119.5821939,
     "formatted_time": "2024-06-10 06:28:39.582197",
     "filescores": {
-        "types.pass.cpp": 0
+        "types.pass.cpp": 0.0
     },
     "subdirscores": {
-        "time.cal.mwd.members": 0,
-        "time.cal.mwd.nonmembers": 3.822949883498986e-05
+        "time.cal.mwd.members": 0.0,
+        "time.cal.mwd.nonmembers": 100.0
     }
 }

@@ -6,6 +6,6 @@
     "formatted_time": "2024-06-10 01:01:55.591303",
     "filescores": {},
     "subdirscores": {
-        "create_during_instruction_step": 2.072608427040947e-05
+        "create_during_instruction_step": 100.0
     }
 }

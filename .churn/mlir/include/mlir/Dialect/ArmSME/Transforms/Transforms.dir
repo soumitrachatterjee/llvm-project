@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/mlir/include/mlir/Dialect/ArmSME/Transforms",
-    "score.sum": 7.13250805494454e-05,
+    "score.sum": 0.00010468431060986922,
     "sha.latest": "d313614b60ff1194f48e5f0b1bb8d63d2b7eb52d",
     "time.latest": 1717793286.4623337,
     "formatted_time": "2024-06-07 15:48:06.462337",
     "filescores": {
-        "CMakeLists.txt": 1.1326707013772812e-05,
-        "Passes.h": 3.346440902154327e-05,
-        "Passes.td": 4.414589111299889e-05,
-        "Transforms.h": 1.5747303461554263e-05
+        "CMakeLists.txt": 10.819870664272182,
+        "Passes.h": 31.96697654747547,
+        "Passes.td": 42.17049417989575,
+        "Transforms.h": 15.042658608356607
     },
     "subdirscores": {}
 }

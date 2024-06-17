@@ -5,7 +5,7 @@
     "time.latest": 1717867657.3494186,
     "formatted_time": "2024-06-08 22:57:37.349421",
     "filescores": {
-        "unsynchronized_buffer.pass.cpp": 1.0144352726900491e-05
+        "unsynchronized_buffer.pass.cpp": 100.0
     },
     "subdirscores": {}
 }

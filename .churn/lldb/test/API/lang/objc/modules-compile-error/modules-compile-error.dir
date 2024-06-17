@@ -5,11 +5,11 @@
     "time.latest": 1717957634.1364772,
     "formatted_time": "2024-06-09 23:57:14.136485",
     "filescores": {
-        "main.m": 0,
-        "Makefile": 0,
-        "module.h": 0,
-        "module.modulemap": 0,
-        "TestModulesCompileError.py": 2.639214396228417e-05
+        "main.m": 0.0,
+        "Makefile": 0.0,
+        "module.h": 0.0,
+        "module.modulemap": 0.0,
+        "TestModulesCompileError.py": 100.0
     },
     "subdirscores": {}
 }

@@ -5,7 +5,7 @@
     "time.latest": 1717866871.7414694,
     "formatted_time": "2024-06-08 22:44:31.741472",
     "filescores": {
-        "murmur2_or_cityhash_ubsan_unsigned_overflow_ignored.pass.cpp": 3.099577775398568e-05
+        "murmur2_or_cityhash_ubsan_unsigned_overflow_ignored.pass.cpp": 100.0
     },
     "subdirscores": {}
 }

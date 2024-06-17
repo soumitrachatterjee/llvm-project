@@ -5,7 +5,7 @@
     "time.latest": 1717904525.0629797,
     "formatted_time": "2024-06-09 09:12:05.062981",
     "filescores": {
-        "read_symlink.pass.cpp": 3.519762153177962e-05
+        "read_symlink.pass.cpp": 100.0
     },
     "subdirscores": {}
 }

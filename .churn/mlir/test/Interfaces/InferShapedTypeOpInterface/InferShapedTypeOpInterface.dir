@@ -5,7 +5,7 @@
     "time.latest": 1717828548.5276408,
     "formatted_time": "2024-06-08 01:35:48.527644",
     "filescores": {
-        "resolve-shaped-type-result-dims.mlir": 1.5443476573636024e-05
+        "resolve-shaped-type-result-dims.mlir": 100.0
     },
     "subdirscores": {}
 }

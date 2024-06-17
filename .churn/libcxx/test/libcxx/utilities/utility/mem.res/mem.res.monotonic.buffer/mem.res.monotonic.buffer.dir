@@ -6,6 +6,6 @@
     "formatted_time": "2024-06-08 22:57:17.788697",
     "filescores": {},
     "subdirscores": {
-        "mem.res.monotonic.buffer.mem": 1.3591173994072604e-05
+        "mem.res.monotonic.buffer.mem": 100.0
     }
 }

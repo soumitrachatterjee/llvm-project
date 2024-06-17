@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/libcxx/test/libcxx/numerics/complex.number",
-    "score.sum": 2.1981723520869727e-05,
+    "score.sum": 1.5050389023956517e-05,
     "sha.latest": "a84914c67578bb2fb100e3779679867a0d299ccd",
     "time.latest": 1717861274.4992027,
     "formatted_time": "2024-06-08 21:11:14.499207",
     "filescores": {
-        "__sqr.pass.cpp": 1.5050389023956517e-05
+        "__sqr.pass.cpp": 100.0
     },
     "subdirscores": {}
 }

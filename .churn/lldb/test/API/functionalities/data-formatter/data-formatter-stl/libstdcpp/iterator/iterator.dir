@@ -5,9 +5,9 @@
     "time.latest": 1717907159.628858,
     "formatted_time": "2024-06-09 09:55:59.628860",
     "filescores": {
-        "main.cpp": 0,
-        "Makefile": 0,
-        "TestDataFormatterStdIterator.py": 1.3001533641017261e-05
+        "main.cpp": 0.0,
+        "Makefile": 0.0,
+        "TestDataFormatterStdIterator.py": 100.0
     },
     "subdirscores": {}
 }

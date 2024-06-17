@@ -1,15 +1,15 @@
 {
     "directory name": "llvm-project/libcxx/test/std/iterators/predef.iterators/move.iterators/move.iter.ops/move.iter.nonmember",
-    "score.sum": 3.2155445665558995e-05,
+    "score.sum": 6.866059887235571e-05,
     "sha.latest": "d868135691bb0d5c924b8fd2ae26171fbf5d1387",
     "time.latest": 1717918727.8466122,
     "formatted_time": "2024-06-09 13:08:47.846614",
     "filescores": {
-        "iter_move.pass.cpp": 6.099602068851199e-06,
-        "iter_swap.pass.cpp": 6.099602068851199e-06,
-        "make_move_iterator.pass.cpp": 2.666497970008456e-05,
-        "minus.pass.cpp": 1.4898207517284381e-05,
-        "plus.pass.cpp": 1.4898207517284381e-05
+        "iter_move.pass.cpp": 8.883700650777508,
+        "iter_swap.pass.cpp": 8.883700650777508,
+        "make_move_iterator.pass.cpp": 38.835926481877046,
+        "minus.pass.cpp": 21.69833610828398,
+        "plus.pass.cpp": 21.69833610828398
     },
     "subdirscores": {}
 }

@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/mlir/test/Conversion/PDLToPDLInterp",
-    "score.sum": 6.264415698437842e-05,
+    "score.sum": 8.729403753898079e-05,
     "sha.latest": "8ec28af8eaff5acd0df3e53340159c034f08533d",
     "time.latest": 1717816447.4947822,
     "formatted_time": "2024-06-07 22:14:07.494785",
     "filescores": {
-        "pdl-to-pdl-interp-matcher.mlir": 4.117787958040203e-05,
-        "pdl-to-pdl-interp-rewriter.mlir": 3.997670931123075e-05,
-        "use-constraint-result.mlir": 6.139448647348006e-06
+        "pdl-to-pdl-interp-matcher.mlir": 47.1714686836592,
+        "pdl-to-pdl-interp-rewriter.mlir": 45.79546374330471,
+        "use-constraint-result.mlir": 7.033067573036086
     },
     "subdirscores": {}
 }

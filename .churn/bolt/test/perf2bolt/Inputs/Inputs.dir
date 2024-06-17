@@ -5,8 +5,8 @@
     "time.latest": 1717790715.7634854,
     "formatted_time": "2024-06-08 01:35:15.763490",
     "filescores": {
-        "perf_test.c": 6.099602068851199e-06,
-        "perf_test.lds": 0
+        "perf_test.c": 100.0,
+        "perf_test.lds": 0.0
     },
     "subdirscores": {}
 }

@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/libcxx/test/libcxx/time",
-    "score.sum": 2.091926400024406e-05,
+    "score.sum": 1.2199204137702398e-05,
     "sha.latest": "d332d88b919faa15564ab70b0633d94f21bc3e3c",
     "time.latest": 1717865758.9768662,
     "formatted_time": "2024-06-08 22:25:58.976869",
     "filescores": {
-        "convert_to_tm.pass.cpp": 6.099602068851199e-06
+        "convert_to_tm.pass.cpp": 50.0
     },
     "subdirscores": {
-        "time.zone": 6.099602068851199e-06
+        "time.zone": 50.0
     }
 }

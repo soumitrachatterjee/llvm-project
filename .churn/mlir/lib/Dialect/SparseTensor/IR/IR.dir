@@ -1,15 +1,15 @@
 {
     "directory name": "llvm-project/mlir/lib/Dialect/SparseTensor/IR",
-    "score.sum": 0.0008901428299025114,
+    "score.sum": 0.000906350447345619,
     "sha.latest": "ced1fac8a32e35b63733bda27c7f5b9a2b635403",
     "time.latest": 1717808998.6506321,
     "formatted_time": "2024-06-07 20:09:58.650636",
     "filescores": {
-        "CMakeLists.txt": 6.790080868206466e-05,
-        "SparseTensorDialect.cpp": 0.0007365495970445776,
-        "SparseTensorInterfaces.cpp": 1.2736008814973199e-05
+        "CMakeLists.txt": 7.491672661598193,
+        "SparseTensorDialect.cpp": 81.26543096014039,
+        "SparseTensorInterfaces.cpp": 1.4051969469726064
     },
     "subdirscores": {
-        "Detail": 8.916403280400355e-05
+        "Detail": 9.83769943128881
     }
 }

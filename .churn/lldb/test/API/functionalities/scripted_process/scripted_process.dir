@@ -1,20 +1,20 @@
 {
     "directory name": "llvm-project/lldb/test/API/functionalities/scripted_process",
-    "score.sum": 0.00017068805061732275,
+    "score.sum": 0.0002957196848109662,
     "sha.latest": "9c2468821ec51defd09c246fea4a47886fff8c01",
     "time.latest": 1717919706.207845,
     "formatted_time": "2024-06-09 13:25:06.207847",
     "filescores": {
-        "baz.cpp": 0,
-        "baz.h": 6.099602068851199e-06,
-        "dummy_scripted_process.py": 4.433079238479872e-05,
-        "invalid_scripted_process.py": 2.1911488136423976e-05,
-        "main.cpp": 6.774420181153225e-06,
-        "Makefile": 1.480860542115201e-05,
-        "missing_methods_scripted_process.py": 6.681941758867695e-06,
-        "stack_core_scripted_process.py": 2.5303805360563447e-05,
-        "TestScriptedProcess.py": 0.00011370925093927516,
-        "TestStackCoreScriptedProcess.py": 5.60997785598808e-05
+        "baz.cpp": 0.0,
+        "baz.h": 2.0626297071668622,
+        "dummy_scripted_process.py": 14.990815512716521,
+        "invalid_scripted_process.py": 7.409546696369071,
+        "main.cpp": 2.2908249024692617,
+        "Makefile": 5.007649534936492,
+        "missing_methods_scripted_process.py": 2.259552577008532,
+        "stack_core_scripted_process.py": 8.55668616606922,
+        "TestScriptedProcess.py": 38.45170165522186,
+        "TestStackCoreScriptedProcess.py": 18.97059324804219
     },
     "subdirscores": {}
 }

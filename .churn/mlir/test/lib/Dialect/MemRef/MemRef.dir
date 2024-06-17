@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/mlir/test/lib/Dialect/MemRef",
-    "score.sum": 2.9669762844461804e-05,
+    "score.sum": 3.6107448822291254e-05,
     "sha.latest": "0f8bab8d590ed0cb5402f72009b32cbad115f013",
     "time.latest": 1717831374.4594846,
     "formatted_time": "2024-06-08 02:22:54.459488",
     "filescores": {
-        "CMakeLists.txt": 8.06133619728282e-06,
-        "TestComposeSubView.cpp": 7.572370880650405e-06,
-        "TestEmulateNarrowType.cpp": 7.85701192372213e-06,
-        "TestMultiBuffer.cpp": 1.2616729820635899e-05
+        "CMakeLists.txt": 22.325964476078084,
+        "TestComposeSubView.cpp": 20.971769337454642,
+        "TestEmulateNarrowType.cpp": 21.760086021008316,
+        "TestMultiBuffer.cpp": 34.94218016545896
     },
     "subdirscores": {}
 }

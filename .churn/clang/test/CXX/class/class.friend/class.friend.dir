@@ -1,16 +1,16 @@
 {
     "directory name": "llvm-project/clang/test/CXX/class/class.friend",
-    "score.sum": 5.542326106425349e-05,
+    "score.sum": 8.718959382262521e-05,
     "sha.latest": "5523fefb01c282c4cbcaf6314a9aaf658c6c145f",
     "time.latest": 1718082935.2153833,
     "formatted_time": "2024-06-11 10:45:35.215385",
     "filescores": {
-        "p1-ambiguous.cpp": 6.66394708988581e-06,
-        "p1-cxx11.cpp": 6.099602068851199e-06,
-        "p1.cpp": 2.2776043028412176e-05,
-        "p2.cpp": 1.0762112710796701e-05,
-        "p6.cpp": 2.8804256686466344e-05,
-        "p7-cxx20.cpp": 1.2083632238212981e-05
+        "p1-ambiguous.cpp": 7.643053256381329,
+        "p1-cxx11.cpp": 6.995791357005252,
+        "p1.cpp": 26.122432769611,
+        "p2.cpp": 12.343345391298282,
+        "p6.cpp": 33.036346912069,
+        "p7-cxx20.cpp": 13.859030313635143
     },
     "subdirscores": {}
 }

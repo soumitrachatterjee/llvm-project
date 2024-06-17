@@ -1,23 +1,23 @@
 {
     "directory name": "llvm-project/clang/tools/clang-format",
-    "score.sum": 0.0007784135568888158,
+    "score.sum": 0.0009181597244594176,
     "sha.latest": "8f6e13e6da84510c8321717860fd506e12118514",
     "time.latest": 1718081537.0343454,
     "formatted_time": "2024-06-11 10:22:17.034350",
     "filescores": {
-        ".clang-format": 1.4082998548180962e-05,
-        "clang-format-bbedit.applescript": 0,
-        "clang-format-diff.py": 0.00013394040198068562,
-        "clang-format-sublime.py": 1.7009047754850458e-05,
-        "clang-format-test.el": 1.5497771039831887e-05,
-        "clang-format.el": 5.2506970033566705e-05,
-        "clang-format.py": 7.735308464833393e-05,
-        "ClangFormat.cpp": 0.00029982038358668543,
-        "CMakeLists.txt": 9.247524749731947e-05,
-        "git-clang-format": 0.00018046980606072264,
-        "git-clang-format.bat": 6.099602068851199e-06
+        ".clang-format": 1.5338288287991035,
+        "clang-format-bbedit.applescript": 0.0,
+        "clang-format-diff.py": 14.58791955392569,
+        "clang-format-sublime.py": 1.8525151236474493,
+        "clang-format-test.el": 1.6879166692871947,
+        "clang-format.el": 5.7187185012369275,
+        "clang-format.py": 8.424796098944212,
+        "ClangFormat.cpp": 32.65449089080986,
+        "CMakeLists.txt": 10.07180396109902,
+        "git-clang-format": 19.65560035504469,
+        "git-clang-format.bat": 0.6643290820061232
     },
     "subdirscores": {
-        "fuzzer": 2.89044112403892e-05
+        "fuzzer": 3.148080935199719
     }
 }

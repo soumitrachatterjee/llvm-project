@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/lldb/test/API/functionalities/dead-strip",
-    "score.sum": 1.3782444695380035e-05,
+    "score.sum": 1.983849663828261e-05,
     "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
     "time.latest": 1717908914.1625867,
     "formatted_time": "2024-06-09 10:25:14.162588",
     "filescores": {
-        "cmds.txt": 0,
-        "main.c": 6.099602068851199e-06,
-        "Makefile": 0,
-        "TestDeadStrip.py": 1.3738894569431414e-05
+        "cmds.txt": 0.0,
+        "main.c": 30.746291818709263,
+        "Makefile": 0.0,
+        "TestDeadStrip.py": 69.25370818129075
     },
     "subdirscores": {}
 }

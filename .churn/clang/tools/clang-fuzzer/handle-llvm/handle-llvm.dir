@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/clang/tools/clang-fuzzer/handle-llvm",
-    "score.sum": 8.000798670336639e-05,
+    "score.sum": 0.0001021880337992695,
     "sha.latest": "37da4e3d80d7136121e74e2b8d23afb14ae7ab69",
     "time.latest": 1718081972.925379,
     "formatted_time": "2024-06-11 10:29:32.925381",
     "filescores": {
-        "CMakeLists.txt": 2.1175464876205564e-05,
-        "handle_llvm.cpp": 6.758828712297999e-05,
-        "handle_llvm.h": 7.324679731232755e-06,
-        "input_arrays.h": 6.099602068851199e-06
+        "CMakeLists.txt": 20.722059216640822,
+        "handle_llvm.cpp": 66.14109755330585,
+        "handle_llvm.h": 7.167844862952159,
+        "input_arrays.h": 5.968998367101181
     },
     "subdirscores": {}
 }

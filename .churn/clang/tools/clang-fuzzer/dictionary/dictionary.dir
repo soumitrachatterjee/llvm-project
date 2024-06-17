@@ -5,8 +5,8 @@
     "time.latest": 1718081860.003615,
     "formatted_time": "2024-06-11 10:27:40.003618",
     "filescores": {
-        "CMakeLists.txt": 6.099602068851199e-06,
-        "dictionary.c": 0
+        "CMakeLists.txt": 100.0,
+        "dictionary.c": 0.0
     },
     "subdirscores": {}
 }

@@ -1,20 +1,20 @@
 {
     "directory name": "llvm-project/libc/test/src/sys/stat",
-    "score.sum": 4.964566535959206e-05,
+    "score.sum": 0.00021569749576921118,
     "sha.latest": "3eb1e6d8e930f5aff17b8d6bcc160f5bbf8cabc7",
     "time.latest": 1717851190.1578043,
     "formatted_time": "2024-06-08 07:53:10.157805",
     "filescores": {
-        "CMakeLists.txt": 2.03551481173945e-05,
-        "chmod_test.cpp": 2.6778476551759287e-05,
-        "fchmod_test.cpp": 2.6778476551759287e-05,
-        "fchmodat_test.cpp": 2.6746608086611712e-05,
-        "fstat_test.cpp": 2.5858292738458906e-05,
-        "lstat_test.cpp": 2.5860466027899854e-05,
-        "mkdirat_test.cpp": 2.5294205394340145e-05,
-        "stat_test.cpp": 2.5858292738458906e-05
+        "CMakeLists.txt": 9.436895892001361,
+        "chmod_test.cpp": 12.414829600252443,
+        "fchmod_test.cpp": 12.414829600252443,
+        "fchmodat_test.cpp": 12.400054989618264,
+        "fstat_test.cpp": 11.988221117841062,
+        "lstat_test.cpp": 11.98922868143525,
+        "mkdirat_test.cpp": 11.726703318523485,
+        "stat_test.cpp": 11.988221117841062
     },
     "subdirscores": {
-        "testdata": 1.21675295625286e-05
+        "testdata": 5.641015682234639
     }
 }

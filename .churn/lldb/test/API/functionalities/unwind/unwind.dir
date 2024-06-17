@@ -1,15 +1,15 @@
 {
     "directory name": "llvm-project/lldb/test/API/functionalities/unwind",
-    "score.sum": 4.6277572662464484e-05,
+    "score.sum": 8.527176298847942e-05,
     "sha.latest": "9c2468821ec51defd09c246fea4a47886fff8c01",
     "time.latest": 1717924137.4462848,
     "formatted_time": "2024-06-09 14:38:57.446288",
     "filescores": {},
     "subdirscores": {
-        "aarch64_unwind_pac": 2.2351741633085676e-05,
-        "ehframe": 1.0459834404963863e-05,
-        "noreturn": 2.1629596522658322e-05,
-        "sigtramp": 1.5805368028325034e-05,
-        "zeroth_frame": 1.5025222399446526e-05
+        "aarch64_unwind_pac": 26.212360164413973,
+        "ehframe": 12.266469037795115,
+        "noreturn": 25.36548531966036,
+        "sigtramp": 18.53528937880692,
+        "zeroth_frame": 17.62039609932364
     }
 }

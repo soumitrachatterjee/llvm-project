@@ -5,9 +5,9 @@
     "time.latest": 1717965714.1546335,
     "formatted_time": "2024-06-10 02:11:54.154636",
     "filescores": {
-        "main.c": 0,
-        "Makefile": 0,
-        "TestHelloWorld.py": 1.9657097264897347e-05
+        "main.c": 0.0,
+        "Makefile": 0.0,
+        "TestHelloWorld.py": 100.0
     },
     "subdirscores": {}
 }

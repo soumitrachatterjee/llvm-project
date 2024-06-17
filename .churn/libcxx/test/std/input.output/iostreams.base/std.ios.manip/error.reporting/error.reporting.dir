@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/libcxx/test/std/input.output/iostreams.base/std.ios.manip/error.reporting",
-    "score.sum": 1.4962154066863378e-05,
+    "score.sum": 4.969470535533984e-05,
     "sha.latest": "fbdf684fae5243e7a9ff50dd4abdc5b55e6aa895",
     "time.latest": 1717908302.7107534,
     "formatted_time": "2024-06-09 10:15:02.710755",
     "filescores": {
-        "iostream_category.pass.cpp": 1.4962154066863378e-05,
-        "make_error_code.pass.cpp": 1.7366275644238228e-05,
-        "make_error_condition.pass.cpp": 1.7366275644238228e-05
+        "iostream_category.pass.cpp": 30.108145243798397,
+        "make_error_code.pass.cpp": 34.9459273781008,
+        "make_error_condition.pass.cpp": 34.9459273781008
     },
     "subdirscores": {}
 }

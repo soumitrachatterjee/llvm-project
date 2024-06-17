@@ -5,9 +5,9 @@
     "time.latest": 1717960460.8150327,
     "formatted_time": "2024-06-10 00:44:20.815038",
     "filescores": {
-        "main.mm": 0,
-        "Makefile": 0,
-        "TestObjCXXHideRuntimeValues.py": 1.7861610839113693e-05
+        "main.mm": 0.0,
+        "Makefile": 0.0,
+        "TestObjCXXHideRuntimeValues.py": 100.0
     },
     "subdirscores": {}
 }

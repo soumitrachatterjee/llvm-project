@@ -6,8 +6,8 @@
     "formatted_time": "2024-06-10 08:04:58.219472",
     "filescores": {},
     "subdirscores": {
-        "time.zone.db": 9.16302057067432e-06,
-        "time.zone.link": 0,
-        "time.zone.timezone": 0
+        "time.zone.db": 100.0,
+        "time.zone.link": 0.0,
+        "time.zone.timezone": 0.0
     }
 }

@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/mlir/docs/Tools",
-    "score.sum": 5.8954102084411066e-05,
+    "score.sum": 5.59023594216151e-05,
     "sha.latest": "1716c5b614c004cf4a890eeaa113d18c8f7cb1f7",
     "time.latest": 1717788370.2589374,
     "formatted_time": "2024-06-07 14:26:10.258941",
     "filescores": {
-        "MLIRLSP.md": 4.932378065303004e-05,
-        "mlir-reduce.md": 6.578578768585055e-06
+        "MLIRLSP.md": 88.23201947708597,
+        "mlir-reduce.md": 11.76798052291402
     },
     "subdirscores": {}
 }

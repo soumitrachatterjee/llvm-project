@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/clang/test/CXX/class/class.init/class.copy.elision",
-    "score.sum": 5.220906587973154e-05,
+    "score.sum": 4.689526095631004e-05,
     "sha.latest": "ba15d186e5cef2620d562c6c9d9a6d570382cd0a",
     "time.latest": 1718082952.832171,
     "formatted_time": "2024-06-11 10:45:52.832173",
     "filescores": {
-        "p1.cpp": 0,
-        "p3.cpp": 4.689526095631004e-05
+        "p1.cpp": 0.0,
+        "p3.cpp": 100.0
     },
     "subdirscores": {}
 }

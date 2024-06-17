@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/llvm/lib/Target/Hexagon/TargetInfo",
-    "score.sum": 6.36492890148508e-05,
+    "score.sum": 5.9849712691544095e-05,
     "sha.latest": "b3a6d096d7c369f5290172c126bd699716bb383c",
     "time.latest": 1717857195.6635647,
     "formatted_time": "2024-06-08 09:33:15.663568",
     "filescores": {
-        "CMakeLists.txt": 1.9007777415806307e-05,
-        "HexagonTargetInfo.cpp": 4.084193527573779e-05,
-        "HexagonTargetInfo.h": 0
+        "CMakeLists.txt": 31.75917905198538,
+        "HexagonTargetInfo.cpp": 68.24082094801463,
+        "HexagonTargetInfo.h": 0.0
     },
     "subdirscores": {}
 }

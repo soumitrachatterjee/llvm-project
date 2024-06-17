@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/clang/test/CodeGenHLSL/semantics",
-    "score.sum": 1.2724426618371806e-05,
+    "score.sum": 1.2199204137702398e-05,
     "sha.latest": "6325dd57318bc4640dded8f59cadd315aa8185ae",
     "time.latest": 1718011132.5510178,
     "formatted_time": "2024-06-10 14:48:52.551020",
     "filescores": {
-        "DispatchThreadID.hlsl": 6.099602068851199e-06,
-        "GroupIndex-codegen.hlsl": 6.099602068851199e-06
+        "DispatchThreadID.hlsl": 50.0,
+        "GroupIndex-codegen.hlsl": 50.0
     },
     "subdirscores": {}
 }

@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/clang-tools-extra/test/clang-tidy/infrastructure/Inputs/config-files/4",
-    "score.sum": 1.2068699055704679e-05,
+    "score.sum": 1.607462460506334e-05,
     "sha.latest": "1af159e98c23a293c103e1f548866488126ed6f6",
     "time.latest": 1717833246.547963,
     "formatted_time": "2024-06-08 13:24:06.547967",
     "filescores": {
-        ".clang-tidy": 8.03731230253167e-06
+        ".clang-tidy": 50.0
     },
     "subdirscores": {
-        "44": 8.03731230253167e-06,
-        "key-dict": 0
+        "44": 50.0,
+        "key-dict": 0.0
     }
 }

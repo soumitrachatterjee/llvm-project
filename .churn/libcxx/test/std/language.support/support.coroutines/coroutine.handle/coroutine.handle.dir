@@ -1,21 +1,21 @@
 {
     "directory name": "llvm-project/libcxx/test/std/language.support/support.coroutines/coroutine.handle",
-    "score.sum": 1.2684065213494877e-05,
+    "score.sum": 6.871830212489097e-05,
     "sha.latest": "e5ec498fc54ba9fa0b7b1760ab8783ae47b61249",
     "time.latest": 1717921000.7327316,
     "formatted_time": "2024-06-09 13:46:40.732733",
     "filescores": {
-        "void_handle.pass.cpp": 6.099602068851199e-06
+        "void_handle.pass.cpp": 8.876240943447025
     },
     "subdirscores": {
-        "coroutine.handle.capacity": 6.099602068851199e-06,
-        "coroutine.handle.compare": 6.099602068851199e-06,
-        "coroutine.handle.completion": 6.099602068851199e-06,
-        "coroutine.handle.con": 6.099602068851199e-06,
-        "coroutine.handle.export": 6.6685112147188404e-06,
-        "coroutine.handle.hash": 1.1413146942272973e-05,
-        "coroutine.handle.noop": 7.939429485940745e-06,
-        "coroutine.handle.prom": 6.099602068851199e-06,
-        "coroutine.handle.resumption": 6.099602068851199e-06
+        "coroutine.handle.capacity": 8.876240943447025,
+        "coroutine.handle.compare": 8.876240943447025,
+        "coroutine.handle.completion": 8.876240943447025,
+        "coroutine.handle.con": 8.876240943447025,
+        "coroutine.handle.export": 9.70412686070046,
+        "coroutine.handle.hash": 16.608598567424345,
+        "coroutine.handle.noop": 11.553587967745997,
+        "coroutine.handle.prom": 8.876240943447025,
+        "coroutine.handle.resumption": 8.876240943447025
     }
 }

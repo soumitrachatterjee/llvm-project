@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/libcxx/test/libcxx/atomics/atomics.types.operations/atomics.types.operations.req",
-    "score.sum": 2.0200757345264403e-05,
+    "score.sum": 8.080302938105761e-05,
     "sha.latest": "9bb9ec380ace81d040d3a0a0a2ae9a75733ab330",
     "time.latest": 1717845460.4805155,
     "formatted_time": "2024-06-08 16:47:40.480520",
     "filescores": {
-        "atomic_fetch_add.verify.cpp": 2.0200757345264403e-05,
-        "atomic_fetch_add_explicit.verify.cpp": 2.0200757345264403e-05,
-        "atomic_fetch_sub.verify.cpp": 2.0200757345264403e-05,
-        "atomic_fetch_sub_explicit.verify.cpp": 2.0200757345264403e-05
+        "atomic_fetch_add.verify.cpp": 25.0,
+        "atomic_fetch_add_explicit.verify.cpp": 25.0,
+        "atomic_fetch_sub.verify.cpp": 25.0,
+        "atomic_fetch_sub_explicit.verify.cpp": 25.0
     },
     "subdirscores": {}
 }

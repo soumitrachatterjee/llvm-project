@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/cross-project-tests/debuginfo-tests/dexter/feature_tests/commands/perfect/dex_declare_file/precompiled_binary_different_dir/dex_commands",
-    "score.sum": 9.585215386682543e-06,
+    "score.sum": 1.5684817455533742e-05,
     "sha.latest": "de3f81557ae33a01862dd19b9db451d00737b67c",
     "time.latest": 1717790909.7254038,
     "formatted_time": "2024-06-08 01:38:29.725408",
     "filescores": {
-        "commands.dex": 6.099602068851199e-06,
-        "source_root_dir.dex": 9.585215386682543e-06
+        "commands.dex": 38.88857544018917,
+        "source_root_dir.dex": 61.111424559810835
     },
     "subdirscores": {}
 }

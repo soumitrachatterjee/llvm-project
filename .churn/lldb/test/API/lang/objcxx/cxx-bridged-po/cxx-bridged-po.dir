@@ -5,9 +5,9 @@
     "time.latest": 1717960412.635242,
     "formatted_time": "2024-06-10 00:43:32.635247",
     "filescores": {
-        "main.mm": 0,
-        "Makefile": 0,
-        "TestObjCXXBridgedPO.py": 2.535850465819564e-05
+        "main.mm": 0.0,
+        "Makefile": 0.0,
+        "TestObjCXXBridgedPO.py": 100.0
     },
     "subdirscores": {}
 }

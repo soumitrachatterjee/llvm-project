@@ -1,15 +1,15 @@
 {
     "directory name": "llvm-project/openmp/tools/archer",
-    "score.sum": 0.00012078310559087687,
+    "score.sum": 0.00016236436924761425,
     "sha.latest": "20459ddc82514249501c3517583c4ec8dd23cecd",
     "time.latest": 1717806434.2560394,
     "formatted_time": "2024-06-08 05:57:14.256041",
     "filescores": {
-        "CMakeLists.txt": 1.220898162112763e-05,
-        "ompt-tsan.cpp": 6.135498616508856e-05,
-        "README.md": 1.193867782809968e-05
+        "CMakeLists.txt": 7.5194956120626975,
+        "ompt-tsan.cpp": 37.78845472649173,
+        "README.md": 7.353015863900882
     },
     "subdirscores": {
-        "tests": 7.686172363329836e-05
+        "tests": 47.33903379754469
     }
 }

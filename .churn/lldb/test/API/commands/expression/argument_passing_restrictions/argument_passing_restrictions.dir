@@ -5,9 +5,9 @@
     "time.latest": 1717889136.7089663,
     "formatted_time": "2024-06-09 04:55:36.708968",
     "filescores": {
-        "main.cpp": 0,
-        "Makefile": 0,
-        "TestArgumentPassingRestrictions.py": 1.1414730063563673e-05
+        "main.cpp": 0.0,
+        "Makefile": 0.0,
+        "TestArgumentPassingRestrictions.py": 100.0
     },
     "subdirscores": {}
 }

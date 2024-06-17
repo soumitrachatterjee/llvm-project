@@ -5,9 +5,9 @@
     "time.latest": 1717909580.5897365,
     "formatted_time": "2024-06-09 10:36:20.589738",
     "filescores": {
-        "main.c": 0,
-        "Makefile": 0,
-        "TestFindLineEntry.py": 9.372406283275285e-06
+        "main.c": 0.0,
+        "Makefile": 0.0,
+        "TestFindLineEntry.py": 100.0
     },
     "subdirscores": {}
 }

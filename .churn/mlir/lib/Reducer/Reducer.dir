@@ -1,15 +1,15 @@
 {
     "directory name": "llvm-project/mlir/lib/Reducer",
-    "score.sum": 7.937471806294297e-05,
+    "score.sum": 0.0001327640256342768,
     "sha.latest": "fab2bb8bfda865bd438dee981d7be7df8017b76d",
     "time.latest": 1717811374.6656132,
     "formatted_time": "2024-06-07 20:49:34.665616",
     "filescores": {
-        "CMakeLists.txt": 2.956673476453775e-05,
-        "OptReductionPass.cpp": 2.552256723272763e-05,
-        "ReductionNode.cpp": 2.4164947106850894e-05,
-        "ReductionTreePass.cpp": 3.138319640716203e-05,
-        "Tester.cpp": 2.2126580122998496e-05
+        "CMakeLists.txt": 22.270140290853202,
+        "OptReductionPass.cpp": 19.224008243795115,
+        "ReductionNode.cpp": 18.201426923749462,
+        "ReductionTreePass.cpp": 23.638328423102266,
+        "Tester.cpp": 16.666096118499958
     },
     "subdirscores": {}
 }

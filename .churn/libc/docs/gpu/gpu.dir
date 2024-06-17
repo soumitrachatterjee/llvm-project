@@ -1,18 +1,18 @@
 {
     "directory name": "llvm-project/libc/docs/gpu",
-    "score.sum": 8.134609160633568e-05,
+    "score.sum": 0.00015458595715466667,
     "sha.latest": "0cbbcf1ef006ce13a1fa94960067723982ae955a",
     "time.latest": 1717825558.4453447,
     "formatted_time": "2024-06-08 00:45:58.445348",
     "filescores": {
-        "building.rst": 0,
-        "index.rst": 7.090849123668129e-06,
-        "motivation.rst": 6.099602068851199e-06,
-        "rpc-diagram.svg": 0,
-        "rpc.rst": 2.4778030134836896e-05,
-        "support.rst": 8.24959896098379e-05,
-        "testing.rst": 1.611641441163864e-05,
-        "using.rst": 1.800507180583389e-05
+        "building.rst": 0.0,
+        "index.rst": 4.5869943519989835,
+        "motivation.rst": 3.9457672489283175,
+        "rpc-diagram.svg": 0.0,
+        "rpc.rst": 16.0286423106634,
+        "support.rst": 53.365772110398645,
+        "testing.rst": 10.425535869027101,
+        "using.rst": 11.647288108983545
     },
     "subdirscores": {}
 }

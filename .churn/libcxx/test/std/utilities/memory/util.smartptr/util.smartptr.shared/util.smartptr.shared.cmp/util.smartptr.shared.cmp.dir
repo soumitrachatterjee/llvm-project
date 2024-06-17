@@ -5,8 +5,8 @@
     "time.latest": 1717999464.594129,
     "formatted_time": "2024-06-10 11:34:24.594131",
     "filescores": {
-        "cmp.pass.cpp": 0,
-        "cmp_nullptr.pass.cpp": 1.975742768838315e-05
+        "cmp.pass.cpp": 0.0,
+        "cmp_nullptr.pass.cpp": 100.0
     },
     "subdirscores": {}
 }

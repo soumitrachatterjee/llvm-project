@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/llvm/utils/gn/secondary/clang/lib/Tooling/Syntax",
-    "score.sum": 5.104082620650792e-05,
+    "score.sum": 1.895597043923667e-05,
     "sha.latest": "aff6a022a8fe13707540614fa345f8c681c93569",
     "time.latest": 1718084426.883019,
     "formatted_time": "2024-06-11 00:40:26.883023",
     "filescores": {
-        "BUILD.gn": 1.895597043923667e-05
+        "BUILD.gn": 100.0
     },
     "subdirscores": {}
 }

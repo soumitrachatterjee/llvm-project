@@ -5,8 +5,8 @@
     "time.latest": 1717789263.2256792,
     "formatted_time": "2024-06-08 01:11:03.225684",
     "filescores": {
-        "Heuristic.py": 1.498264684260552e-05,
-        "__init__.py": 0
+        "Heuristic.py": 100.0,
+        "__init__.py": 0.0
     },
     "subdirscores": {}
 }

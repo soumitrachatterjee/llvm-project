@@ -6,7 +6,7 @@
     "formatted_time": "2024-06-09 11:01:21.670020",
     "filescores": {},
     "subdirscores": {
-        "osyncstream": 0,
-        "syncbuf": 9.574903265779628e-06
+        "osyncstream": 0.0,
+        "syncbuf": 100.0
     }
 }

@@ -5,7 +5,7 @@
     "time.latest": 1717828933.4872577,
     "formatted_time": "2024-06-08 01:42:13.487261",
     "filescores": {
-        "bitmask_impl.inc": 7.089774496251755e-06
+        "bitmask_impl.inc": 100.0
     },
     "subdirscores": {}
 }

@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/libcxx/src/support/win32",
-    "score.sum": 0.00016591616045093832,
+    "score.sum": 0.00019649574441077416,
     "sha.latest": "7162fd750ee5f786f3b9b7a7b26b72ee36ce772e",
     "time.latest": 1717843674.9638429,
     "formatted_time": "2024-06-08 16:17:54.963846",
     "filescores": {
-        "locale_win32.cpp": 8.05900228641242e-05,
-        "support.cpp": 5.895272551079131e-05,
-        "thread_win32.cpp": 5.6952996035858656e-05
+        "locale_win32.cpp": 41.01362251166663,
+        "support.cpp": 30.002036780781722,
+        "thread_win32.cpp": 28.98434070755165
     },
     "subdirscores": {}
 }

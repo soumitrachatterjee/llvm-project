@@ -1,20 +1,20 @@
 {
     "directory name": "llvm-project/compiler-rt/lib/gwp_asan/optional",
-    "score.sum": 5.87378378288289e-05,
+    "score.sum": 0.00015034630132045162,
     "sha.latest": "bc949f923ee37e6c71b69d0c0337d0e6b499832d",
     "time.latest": 1717799223.4020212,
     "formatted_time": "2024-06-08 03:57:03.402024",
     "filescores": {
-        "backtrace.h": 9.483447593606351e-06,
-        "backtrace_fuchsia.cpp": 8.610365926254308e-06,
-        "backtrace_linux_libc.cpp": 2.1403629382349506e-05,
-        "backtrace_sanitizer_common.cpp": 1.590764001167284e-05,
-        "options_parser.cpp": 8.929170877991722e-06,
-        "options_parser.h": 6.388101304127998e-06,
-        "printf.h": 0,
-        "segv_handler.h": 2.4451443983886755e-05,
-        "segv_handler_fuchsia.cpp": 1.8769949783605913e-05,
-        "segv_handler_posix.cpp": 3.640255245695624e-05
+        "backtrace.h": 6.3077358806407275,
+        "backtrace_fuchsia.cpp": 5.727022115364163,
+        "backtrace_linux_libc.cpp": 14.236219444287698,
+        "backtrace_sanitizer_common.cpp": 10.580666017028861,
+        "options_parser.cpp": 5.939069201948559,
+        "options_parser.h": 4.2489248142608105,
+        "printf.h": 0.0,
+        "segv_handler.h": 16.26341570702852,
+        "segv_handler_fuchsia.cpp": 12.48447724935993,
+        "segv_handler_posix.cpp": 24.212469570080735
     },
     "subdirscores": {}
 }

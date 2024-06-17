@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/lldb/test/API/functionalities/thread/thread_exit",
-    "score.sum": 1.8423563297761103e-05,
+    "score.sum": 2.447961524066368e-05,
     "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
     "time.latest": 1717923122.4042344,
     "formatted_time": "2024-06-09 14:22:02.404237",
     "filescores": {
-        "main.cpp": 6.099602068851199e-06,
-        "Makefile": 0,
-        "TestThreadExit.py": 1.838001317181248e-05
+        "main.cpp": 24.91706674669871,
+        "Makefile": 0.0,
+        "TestThreadExit.py": 75.08293325330129
     },
     "subdirscores": {}
 }

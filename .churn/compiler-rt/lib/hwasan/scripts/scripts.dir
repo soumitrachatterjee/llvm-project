@@ -5,8 +5,8 @@
     "time.latest": 1717800231.5635686,
     "formatted_time": "2024-06-08 04:13:51.563572",
     "filescores": {
-        "CMakeLists.txt": 0,
-        "hwasan_symbolize": 8.369372250392987e-05
+        "CMakeLists.txt": 0.0,
+        "hwasan_symbolize": 100.0
     },
     "subdirscores": {}
 }

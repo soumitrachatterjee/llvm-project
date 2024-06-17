@@ -1,15 +1,15 @@
 {
     "directory name": "llvm-project/lldb/test/API/test_utils",
-    "score.sum": 2.4360568475981712e-05,
+    "score.sum": 3.749948402673303e-05,
     "sha.latest": "d0d072710468316edbd4130e50f1146c5a6aca89",
     "time.latest": 1717968512.6011205,
     "formatted_time": "2024-06-10 02:58:32.601124",
     "filescores": {
-        "TestDecorators.py": 6.71333393669935e-06,
-        "TestInlineTest.py": 8.567601072904485e-06,
-        "TestPExpectTest.py": 1.0606941742586386e-05
+        "TestDecorators.py": 17.90247015642529,
+        "TestInlineTest.py": 22.84725055629225,
+        "TestPExpectTest.py": 28.285567169470376
     },
     "subdirscores": {
-        "base": 1.1611607274542809e-05
+        "base": 30.96471211781208
     }
 }

@@ -5,8 +5,8 @@
     "time.latest": 1717927547.7330856,
     "formatted_time": "2024-06-09 15:35:47.733087",
     "filescores": {
-        "main.c": 7.751072682485135e-06,
-        "TestStructTypes.py": 0
+        "main.c": 100.0,
+        "TestStructTypes.py": 0.0
     },
     "subdirscores": {}
 }

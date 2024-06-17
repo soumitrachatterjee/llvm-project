@@ -1,23 +1,23 @@
 {
     "directory name": "llvm-project/flang/test/Transforms",
-    "score.sum": 0.00024010342207155032,
+    "score.sum": 0.00019074403684800361,
     "sha.latest": "2a95fe481d18e273b9654322135a08d7c2937536",
     "time.latest": 1717812485.6824524,
     "formatted_time": "2024-06-07 21:08:05.682456",
     "filescores": {
-        "debug-line-table-existing.fir": 8.676425958065039e-06,
-        "debug-line-table-inc-file.fir": 1.4775283817625778e-05,
-        "debug-line-table-inc-same-file.fir": 6.099602068851199e-06,
-        "debug-line-table.fir": 1.8083018280726626e-05,
-        "experimental.fir": 0,
-        "loop-versioning.fir": 3.22226147991177e-05,
-        "omp-descriptor-map-info-gen.fir": 0,
-        "omp-function-filtering.mlir": 7.322578939478926e-06,
-        "simplifyintrinsics.fir": 7.63480687476453e-05,
-        "stack-arrays.f90": 6.099602068851199e-06,
-        "stack-arrays.fir": 1.501724009879064e-05,
-        "tbaa.fir": 0,
-        "tbaa2.fir": 6.099602068851199e-06
+        "debug-line-table-existing.fir": 4.5487272375277135,
+        "debug-line-table-inc-file.fir": 7.746131444937185,
+        "debug-line-table-inc-same-file.fir": 3.197794368644788,
+        "debug-line-table.fir": 9.480253526948404,
+        "experimental.fir": 0.0,
+        "loop-versioning.fir": 16.893117777933277,
+        "omp-descriptor-map-info-gen.fir": 0.0,
+        "omp-function-filtering.mlir": 3.8389556289584035,
+        "simplifyintrinsics.fir": 40.026451158986454,
+        "stack-arrays.f90": 3.197794368644788,
+        "stack-arrays.fir": 7.872980118774191,
+        "tbaa.fir": 0.0,
+        "tbaa2.fir": 3.197794368644788
     },
     "subdirscores": {}
 }

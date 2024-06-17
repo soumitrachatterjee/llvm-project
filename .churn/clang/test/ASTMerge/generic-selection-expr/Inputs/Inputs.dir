@@ -5,8 +5,8 @@
     "time.latest": 1717865568.3621812,
     "formatted_time": "2024-06-08 22:22:48.362184",
     "filescores": {
-        "generic.c": 6.099602068851199e-06,
-        "generic.cpp": 0
+        "generic.c": 100.0,
+        "generic.cpp": 0.0
     },
     "subdirscores": {}
 }

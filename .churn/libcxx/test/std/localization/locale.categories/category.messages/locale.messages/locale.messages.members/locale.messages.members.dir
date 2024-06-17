@@ -5,7 +5,7 @@
     "time.latest": 1717928086.5029092,
     "formatted_time": "2024-06-09 15:44:46.502910",
     "filescores": {
-        "not_testable.pass.cpp": 1.7366275644238228e-05
+        "not_testable.pass.cpp": 100.0
     },
     "subdirscores": {}
 }

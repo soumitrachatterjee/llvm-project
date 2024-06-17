@@ -1,16 +1,16 @@
 {
     "directory name": "llvm-project/libcxx/test/std/algorithms/alg.sorting/alg.heap.operations/is.heap",
-    "score.sum": 3.703735692409615e-05,
+    "score.sum": 0.0001141695109260837,
     "sha.latest": "fb855eb941b6d740cc6560297d0b4d3201dcaf9f",
     "time.latest": 1717870592.050599,
     "formatted_time": "2024-06-08 23:46:32.050602",
     "filescores": {
-        "is_heap.pass.cpp": 2.4863680024477777e-05,
-        "is_heap_comp.pass.cpp": 2.4863680024477777e-05,
-        "is_heap_until.pass.cpp": 2.4863680024477777e-05,
-        "is_heap_until_comp.pass.cpp": 2.4863680024477777e-05,
-        "ranges_is_heap.pass.cpp": 7.357395414086302e-06,
-        "ranges_is_heap_until.pass.cpp": 7.357395414086302e-06
+        "is_heap.pass.cpp": 21.777863304131316,
+        "is_heap_comp.pass.cpp": 21.777863304131316,
+        "is_heap_until.pass.cpp": 21.777863304131316,
+        "is_heap_until_comp.pass.cpp": 21.777863304131316,
+        "ranges_is_heap.pass.cpp": 6.4442733917373705,
+        "ranges_is_heap_until.pass.cpp": 6.4442733917373705
     },
     "subdirscores": {}
 }

@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/compiler-rt/test/lsan/TestCases/Posix",
-    "score.sum": 7.411299518048376e-06,
+    "score.sum": 6.099602068851199e-06,
     "sha.latest": "f98ee40f4b5d7474fc67e82824bf6abbaedb7b1c",
     "time.latest": 1717831264.0796978,
     "formatted_time": "2024-06-08 12:51:04.079702",
     "filescores": {
-        "lit.local.cfg.py": 6.099602068851199e-06
+        "lit.local.cfg.py": 100.0
     },
     "subdirscores": {}
 }

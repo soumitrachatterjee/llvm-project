@@ -5,9 +5,9 @@
     "time.latest": 1717919586.6815486,
     "formatted_time": "2024-06-09 13:23:06.681552",
     "filescores": {
-        "call-func.cpp": 0,
-        "Makefile": 0,
-        "TestReturnValue.py": 5.083969209092377e-05
+        "call-func.cpp": 0.0,
+        "Makefile": 0.0,
+        "TestReturnValue.py": 100.0
     },
     "subdirscores": {}
 }

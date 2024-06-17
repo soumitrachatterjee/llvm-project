@@ -5,8 +5,8 @@
     "time.latest": 1717805887.1347861,
     "formatted_time": "2024-06-08 05:48:07.134788",
     "filescores": {
-        "CMakeLists.txt": 0,
-        "get_error_info_fuzzer.cpp": 4.299420977201928e-05
+        "CMakeLists.txt": 0.0,
+        "get_error_info_fuzzer.cpp": 100.0
     },
     "subdirscores": {}
 }

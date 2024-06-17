@@ -5,7 +5,7 @@
     "time.latest": 1717791991.469285,
     "formatted_time": "2024-06-07 15:26:31.469289",
     "filescores": {
-        "ConvertOpenACCToSCF.h": 1.828261616294499e-05
+        "ConvertOpenACCToSCF.h": 100.0
     },
     "subdirscores": {}
 }

@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/libcxx/test/std/utilities/format/format.string/format.string.std",
-    "score.sum": 1.032213959017171e-05,
+    "score.sum": 1.642174165902291e-05,
     "sha.latest": "520c7fbbd0356f135a19cc764ff70e7f52ba11a0",
     "time.latest": 1717995210.3613024,
     "formatted_time": "2024-06-10 10:23:30.361304",
     "filescores": {
-        "lwg3720_arg_id_width_precision_allowed_types.pass.cpp": 1.032213959017171e-05,
-        "lwg3720_arg_id_width_precision_allowed_types.verify.cpp": 6.099602068851199e-06
+        "lwg3720_arg_id_width_precision_allowed_types.pass.cpp": 62.85654594072986,
+        "lwg3720_arg_id_width_precision_allowed_types.verify.cpp": 37.143454059270134
     },
     "subdirscores": {}
 }

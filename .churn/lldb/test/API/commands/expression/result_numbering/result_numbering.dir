@@ -5,9 +5,9 @@
     "time.latest": 1717893862.9842188,
     "formatted_time": "2024-06-09 06:14:22.984221",
     "filescores": {
-        "main.c": 0,
-        "Makefile": 0,
-        "TestResultNumbering.py": 1.0918077889492283e-05
+        "main.c": 0.0,
+        "Makefile": 0.0,
+        "TestResultNumbering.py": 100.0
     },
     "subdirscores": {}
 }

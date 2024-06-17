@@ -5,9 +5,9 @@
     "time.latest": 1717789976.671096,
     "formatted_time": "2024-06-07 14:52:56.671099",
     "filescores": {
-        "CMakeLists.txt": 6.099602068851199e-06,
-        "MyExtension.h": 0,
-        "MyExtension.td": 0
+        "CMakeLists.txt": 100.0,
+        "MyExtension.h": 0.0,
+        "MyExtension.td": 0.0
     },
     "subdirscores": {}
 }

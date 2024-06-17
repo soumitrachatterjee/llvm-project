@@ -1,15 +1,15 @@
 {
     "directory name": "llvm-project/lldb/test/API/functionalities/fat_archives",
-    "score.sum": 1.622450448994016e-05,
+    "score.sum": 2.166818103585505e-05,
     "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
     "time.latest": 1717909537.3036685,
     "formatted_time": "2024-06-09 10:35:37.303670",
     "filescores": {
-        "a.c": 0,
-        "a.h": 0,
-        "main.c": 0,
-        "Makefile": 6.099602068851199e-06,
-        "TestFatArchives.py": 1.556857896700385e-05
+        "a.c": 0.0,
+        "a.h": 0.0,
+        "main.c": 0.0,
+        "Makefile": 28.15004203056079,
+        "TestFatArchives.py": 71.8499579694392
     },
     "subdirscores": {}
 }

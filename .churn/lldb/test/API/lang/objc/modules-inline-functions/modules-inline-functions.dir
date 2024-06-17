@@ -1,16 +1,16 @@
 {
     "directory name": "llvm-project/lldb/test/API/lang/objc/modules-inline-functions",
-    "score.sum": 2.721208407930013e-05,
+    "score.sum": 2.1361507048188915e-05,
     "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
     "time.latest": 1717958017.7425008,
     "formatted_time": "2024-06-10 00:03:37.742511",
     "filescores": {
-        "main.m": 0,
-        "Makefile": 0,
-        "module.modulemap": 0,
-        "myModule.c": 0,
-        "myModule.h": 0,
-        "TestModulesInlineFunctions.py": 2.1361507048188915e-05
+        "main.m": 0.0,
+        "Makefile": 0.0,
+        "module.modulemap": 0.0,
+        "myModule.c": 0.0,
+        "myModule.h": 0.0,
+        "TestModulesInlineFunctions.py": 100.0
     },
     "subdirscores": {}
 }

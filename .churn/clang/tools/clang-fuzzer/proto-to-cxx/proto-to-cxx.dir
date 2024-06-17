@@ -1,16 +1,16 @@
 {
     "directory name": "llvm-project/clang/tools/clang-fuzzer/proto-to-cxx",
-    "score.sum": 2.754974824591253e-05,
+    "score.sum": 5.96704527601923e-05,
     "sha.latest": "bcf6ffb87ec67ba41daeaab905b2c57a50568aa0",
     "time.latest": 1718082015.2540972,
     "formatted_time": "2024-06-11 10:30:15.254099",
     "filescores": {
-        "CMakeLists.txt": 2.083144427809163e-05,
-        "loop_proto_to_cxx.cpp": 8.48561909476087e-06,
-        "loop_proto_to_cxx_main.cpp": 6.503857716256632e-06,
-        "proto_to_cxx.cpp": 8.153923319255196e-06,
-        "proto_to_cxx.h": 9.596006282976778e-06,
-        "proto_to_cxx_main.cpp": 6.099602068851199e-06
+        "CMakeLists.txt": 34.91081986893993,
+        "loop_proto_to_cxx.cpp": 14.220805611888778,
+        "loop_proto_to_cxx_main.cpp": 10.89962856892469,
+        "proto_to_cxx.cpp": 13.664926177156289,
+        "proto_to_cxx.h": 16.081671646672206,
+        "proto_to_cxx_main.cpp": 10.222148126418107
     },
     "subdirscores": {}
 }

@@ -5,14 +5,14 @@
     "time.latest": 1717893706.2831583,
     "formatted_time": "2024-06-08 19:41:46.283161",
     "filescores": {
-        "branch-outside.ll": 6.099602068851199e-06,
-        "diverged-entry-basic.ll": 0,
-        "diverged-entry-headers-nested.ll": 0,
-        "diverged-entry-headers.ll": 0,
-        "exit-divergence.ll": 0,
-        "irreducible-1.ll": 0,
-        "irreducible-2.ll": 0,
-        "reducible-headers.ll": 0
+        "branch-outside.ll": 100.0,
+        "diverged-entry-basic.ll": 0.0,
+        "diverged-entry-headers-nested.ll": 0.0,
+        "diverged-entry-headers.ll": 0.0,
+        "exit-divergence.ll": 0.0,
+        "irreducible-1.ll": 0.0,
+        "irreducible-2.ll": 0.0,
+        "reducible-headers.ll": 0.0
     },
     "subdirscores": {}
 }

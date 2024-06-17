@@ -1,15 +1,15 @@
 {
     "directory name": "llvm-project/lldb/test/API/functionalities/target_var",
-    "score.sum": 1.750041347005333e-05,
+    "score.sum": 3.252613188561831e-05,
     "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
     "time.latest": 1717920928.0057144,
     "formatted_time": "2024-06-09 13:45:28.005716",
     "filescores": {
-        "main.c": 0,
-        "Makefile": 6.099602068851199e-06,
-        "TestTargetVar.py": 1.6364668343131416e-05
+        "main.c": 0.0,
+        "Makefile": 18.752927923618813,
+        "TestTargetVar.py": 50.31237160532815
     },
     "subdirscores": {
-        "no_vars": 1.0061861473635697e-05
+        "no_vars": 30.934700471053027
     }
 }

@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/libcxx/test/libcxx/input.output/filesystems/class.path",
-    "score.sum": 9.480136359377972e-05,
+    "score.sum": 0.00010636949466319682,
     "sha.latest": "58780b811c23df3d928d8452ee21c862dde754a2",
     "time.latest": 1717851080.8821673,
     "formatted_time": "2024-06-08 18:21:20.882171",
     "filescores": {},
     "subdirscores": {
-        "path.itr": 7.508725942427223e-05,
-        "path.member": 1.3865054544397418e-05,
-        "path.req": 1.741718069452717e-05
+        "path.itr": 70.59097127613971,
+        "path.member": 13.034803435232112,
+        "path.req": 16.374225288628175
     }
 }

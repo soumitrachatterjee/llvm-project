@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/bolt/utils/dot2html",
-    "score.sum": 1.1406691318795628e-05,
+    "score.sum": 6.099602068851199e-06,
     "sha.latest": "b61fac52228c11df01f7fcd60f5e54a38318f21e",
     "time.latest": 1717797135.0722744,
     "formatted_time": "2024-06-08 03:22:15.072278",
     "filescores": {
-        "d3-graphviz-template.html": 0,
-        "dot2html.py": 6.099602068851199e-06,
-        "__main__.py": 0
+        "d3-graphviz-template.html": 0.0,
+        "dot2html.py": 100.0,
+        "__main__.py": 0.0
     },
     "subdirscores": {}
 }

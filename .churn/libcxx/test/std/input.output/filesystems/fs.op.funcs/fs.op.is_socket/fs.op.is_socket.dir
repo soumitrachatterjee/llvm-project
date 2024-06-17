@@ -5,7 +5,7 @@
     "time.latest": 1717904406.6690273,
     "formatted_time": "2024-06-09 09:10:06.669029",
     "filescores": {
-        "is_socket.pass.cpp": 4.230995469737777e-05
+        "is_socket.pass.cpp": 100.0
     },
     "subdirscores": {}
 }

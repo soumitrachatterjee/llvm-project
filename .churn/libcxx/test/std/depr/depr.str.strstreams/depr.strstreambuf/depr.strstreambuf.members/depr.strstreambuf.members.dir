@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/libcxx/test/std/depr/depr.str.strstreams/depr.strstreambuf/depr.strstreambuf.members",
-    "score.sum": 2.8670182774846444e-05,
+    "score.sum": 6.726667105864722e-05,
     "sha.latest": "66c7388c83bb0320f2223da3e3f31363f44bb3aa",
     "time.latest": 1717896838.130272,
     "formatted_time": "2024-06-09 07:03:58.130274",
     "filescores": {
-        "freeze.pass.cpp": 1.5243905614613615e-05,
-        "overflow.pass.cpp": 2.1534954214806377e-05,
-        "pcount.pass.cpp": 1.5243905614613615e-05,
-        "str.pass.cpp": 1.5243905614613615e-05
+        "freeze.pass.cpp": 22.66189983048669,
+        "overflow.pass.cpp": 32.014300508539925,
+        "pcount.pass.cpp": 22.66189983048669,
+        "str.pass.cpp": 22.66189983048669
     },
     "subdirscores": {}
 }

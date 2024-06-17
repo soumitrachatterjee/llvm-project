@@ -5,8 +5,8 @@
     "time.latest": 1717814413.3801093,
     "formatted_time": "2024-06-07 21:40:13.380113",
     "filescores": {
-        "__init__.py": 0,
-        "np_to_memref.py": 2.6272237256031572e-05
+        "__init__.py": 0.0,
+        "np_to_memref.py": 100.0
     },
     "subdirscores": {}
 }

@@ -5,9 +5,9 @@
     "time.latest": 1717909625.5887377,
     "formatted_time": "2024-06-09 10:37:05.588740",
     "filescores": {
-        "main.c": 0,
-        "Makefile": 0,
-        "TestFloatDisplay.py": 6.099602068851199e-06
+        "main.c": 0.0,
+        "Makefile": 0.0,
+        "TestFloatDisplay.py": 100.0
     },
     "subdirscores": {}
 }

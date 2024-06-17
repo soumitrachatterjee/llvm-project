@@ -1,29 +1,29 @@
 {
     "directory name": "llvm-project/libcxx/test/std/time/time.cal",
-    "score.sum": 8.280876612235961e-05,
+    "score.sum": 0.0005736267670763464,
     "sha.latest": "766bf140ffd6ce420426b80aa2cce0cb0d25ab7d",
     "time.latest": 1717983379.8917367,
     "formatted_time": "2024-06-10 07:06:19.891739",
     "filescores": {
-        "euclidian.h": 6.099602068851199e-06
+        "euclidian.h": 1.0633398612027074
     },
     "subdirscores": {
-        "time.cal.day": 3.829193344975257e-05,
-        "time.cal.last": 0,
-        "time.cal.md": 3.39297924740328e-05,
-        "time.cal.mdlast": 3.822949883498986e-05,
-        "time.cal.month": 4.7634560889692234e-05,
-        "time.cal.mwd": 3.822949883498986e-05,
-        "time.cal.mwdlast": 3.822949883498986e-05,
-        "time.cal.operators": 1.0270542211582177e-05,
-        "time.cal.wdidx": 2.967214091482851e-05,
-        "time.cal.wdlast": 2.6770663482255833e-05,
-        "time.cal.weekday": 2.9550079345395925e-05,
-        "time.cal.year": 3.931773231534173e-05,
-        "time.cal.ym": 4.400252367900181e-05,
-        "time.cal.ymd": 3.757371397706761e-05,
-        "time.cal.ymdlast": 4.293933498838179e-05,
-        "time.cal.ymwd": 3.7709832380447915e-05,
-        "time.cal.ymwdlast": 3.517581839474468e-05
+        "time.cal.day": 6.675409107025882,
+        "time.cal.last": 0.0,
+        "time.cal.md": 5.914959765034281,
+        "time.cal.mdlast": 6.664524919197456,
+        "time.cal.month": 8.304103578094074,
+        "time.cal.mwd": 6.664524919197456,
+        "time.cal.mwdlast": 6.664524919197456,
+        "time.cal.operators": 1.7904572800758487,
+        "time.cal.wdidx": 5.172725998485235,
+        "time.cal.wdlast": 4.666913229781834,
+        "time.cal.weekday": 5.151447080478199,
+        "time.cal.year": 6.8542359896724925,
+        "time.cal.ym": 7.670932774506552,
+        "time.cal.ymd": 6.550202349965787,
+        "time.cal.ymdlast": 7.485587746756388,
+        "time.cal.ymwd": 6.57393178715263,
+        "time.cal.ymwdlast": 6.1321786941757175
     }
 }

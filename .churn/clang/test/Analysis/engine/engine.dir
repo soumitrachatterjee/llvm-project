@@ -5,7 +5,7 @@
     "time.latest": 1717830388.169169,
     "formatted_time": "2024-06-08 12:36:28.169174",
     "filescores": {
-        "replay-without-inlining.c": 5.61757478363629e-05
+        "replay-without-inlining.c": 100.0
     },
     "subdirscores": {}
 }

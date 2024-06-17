@@ -1,21 +1,21 @@
 {
     "directory name": "llvm-project/mlir/test/Dialect/Bufferization/Transforms/OwnershipBasedBufferDeallocation",
-    "score.sum": 2.8021070682948926e-05,
+    "score.sum": 8.139834047602191e-05,
     "sha.latest": "0940be158104e055ab255ccb5c1af9c7ccc7358f",
     "time.latest": 1717818310.4632585,
     "formatted_time": "2024-06-07 22:45:10.463262",
     "filescores": {
-        "dealloc-branchop-interface.mlir": 7.460965117860441e-06,
-        "dealloc-callop-interface.mlir": 7.86822363063092e-06,
-        "dealloc-existing-deallocs.mlir": 6.141818915382141e-06,
-        "dealloc-function-boundaries.mlir": 1.2781383202882254e-05,
-        "dealloc-helper-function-invalid.mlir": 0,
-        "dealloc-helper-function.mlir": 0,
-        "dealloc-memoryeffect-interface.mlir": 1.0648500900553164e-05,
-        "dealloc-other.mlir": 1.1415752769360814e-05,
-        "dealloc-region-branchop-interface.mlir": 1.2501217678553494e-05,
-        "dealloc-subviews.mlir": 1.2580478260798692e-05,
-        "invalid-buffer-deallocation.mlir": 0
+        "dealloc-branchop-interface.mlir": 9.165991682666148,
+        "dealloc-callop-interface.mlir": 9.666319466241106,
+        "dealloc-existing-deallocs.mlir": 7.545385912617444,
+        "dealloc-function-boundaries.mlir": 15.702265093042477,
+        "dealloc-helper-function-invalid.mlir": 0.0,
+        "dealloc-helper-function.mlir": 0.0,
+        "dealloc-memoryeffect-interface.mlir": 13.081963143572894,
+        "dealloc-other.mlir": 14.024552223793352,
+        "dealloc-region-branchop-interface.mlir": 15.358074385111165,
+        "dealloc-subviews.mlir": 15.455448092955425,
+        "invalid-buffer-deallocation.mlir": 0.0
     },
     "subdirscores": {}
 }

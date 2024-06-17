@@ -1,18 +1,18 @@
 {
     "directory name": "llvm-project/clang/test/Analysis/copypaste/Inputs",
-    "score.sum": 8.889524464983835e-06,
+    "score.sum": 8.581221626649102e-06,
     "sha.latest": "085dcc82178f94b99783c5730e70a953e4105c00",
     "time.latest": 1717827265.6074176,
     "formatted_time": "2024-06-08 11:44:25.607422",
     "filescores": {
-        "clone-begin-end-different-file-begin-1.inc": 0,
-        "clone-begin-end-different-file-begin-2.inc": 0,
-        "clone-begin-end-different-file-begin-macro-1.inc": 0,
-        "clone-begin-end-different-file-begin-macro-2.inc": 0,
-        "clone-begin-end-different-file-end-macro.inc": 0,
-        "clone-begin-end-different-file-end.inc": 0
+        "clone-begin-end-different-file-begin-1.inc": 0.0,
+        "clone-begin-end-different-file-begin-2.inc": 0.0,
+        "clone-begin-end-different-file-begin-macro-1.inc": 0.0,
+        "clone-begin-end-different-file-begin-macro-2.inc": 0.0,
+        "clone-begin-end-different-file-end-macro.inc": 0.0,
+        "clone-begin-end-different-file-end.inc": 0.0
     },
     "subdirscores": {
-        "expected-plists": 8.581221626649102e-06
+        "expected-plists": 100.0
     }
 }

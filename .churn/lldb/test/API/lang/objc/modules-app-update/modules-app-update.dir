@@ -1,16 +1,16 @@
 {
     "directory name": "llvm-project/lldb/test/API/lang/objc/modules-app-update",
-    "score.sum": 2.3489747562966162e-05,
+    "score.sum": 2.958934963181736e-05,
     "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
     "time.latest": 1717957310.909044,
     "formatted_time": "2024-06-09 23:51:50.909051",
     "filescores": {
-        "foo.m": 6.099602068851199e-06,
-        "main.m": 0,
-        "Makefile": 0,
-        "module.modulemap": 0,
-        "TestClangModulesAppUpdate.py": 2.3489747562966162e-05,
-        "umbrella.h": 0
+        "foo.m": 20.614180929114813,
+        "main.m": 0.0,
+        "Makefile": 0.0,
+        "module.modulemap": 0.0,
+        "TestClangModulesAppUpdate.py": 79.38581907088519,
+        "umbrella.h": 0.0
     },
     "subdirscores": {}
 }

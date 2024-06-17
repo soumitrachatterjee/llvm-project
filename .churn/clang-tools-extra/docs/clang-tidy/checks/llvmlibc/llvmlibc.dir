@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/clang-tools-extra/docs/clang-tidy/checks/llvmlibc",
-    "score.sum": 2.7545032432234776e-05,
+    "score.sum": 2.0909101411671933e-05,
     "sha.latest": "c92cf315c67edaffea1c4f3a914197dce2a194f3",
     "time.latest": 1717810769.9772043,
     "formatted_time": "2024-06-08 07:09:29.977207",
     "filescores": {
-        "callee-namespace.rst": 6.099602068851199e-06,
-        "implementation-in-namespace.rst": 6.099602068851199e-06,
-        "inline-function-decl.rst": 8.709897273969533e-06,
-        "restrict-system-libc-headers.rst": 0
+        "callee-namespace.rst": 29.171995241489736,
+        "implementation-in-namespace.rst": 29.171995241489736,
+        "inline-function-decl.rst": 41.65600951702053,
+        "restrict-system-libc-headers.rst": 0.0
     },
     "subdirscores": {}
 }

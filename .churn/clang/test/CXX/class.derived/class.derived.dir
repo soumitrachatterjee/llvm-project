@@ -1,16 +1,16 @@
 {
     "directory name": "llvm-project/clang/test/CXX/class.derived",
-    "score.sum": 0.00010050802767196046,
+    "score.sum": 0.00012289549144232597,
     "sha.latest": "a7bc9cb6ffa91ff0ebabc45c0c7263c7c2c3a4de",
     "time.latest": 1718084120.9974902,
     "formatted_time": "2024-06-11 11:05:20.997492",
     "filescores": {
-        "p1.cpp": 1.4909988016981062e-05,
-        "p2.cpp": 6.099602068851199e-06
+        "p1.cpp": 12.132249801839329,
+        "p2.cpp": 4.963243156656973
     },
     "subdirscores": {
-        "class.abstract": 3.4458499479696496e-05,
-        "class.member.lookup": 3.508418261245945e-05,
-        "class.virtual": 3.234321926433777e-05
+        "class.abstract": 28.038863814518077,
+        "class.member.lookup": 28.547981867116924,
+        "class.virtual": 26.317661359868705
     }
 }

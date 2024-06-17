@@ -1,17 +1,17 @@
 {
     "directory name": "llvm-project/mlir/examples/toy/Ch6/mlir",
-    "score.sum": 0.00034024089605850036,
+    "score.sum": 0.0005056016155079076,
     "sha.latest": "fab2bb8bfda865bd438dee981d7be7df8017b76d",
     "time.latest": 1717789757.4667652,
     "formatted_time": "2024-06-07 14:49:17.466769",
     "filescores": {
-        "Dialect.cpp": 0.00013710889086699125,
-        "LowerToAffineLoops.cpp": 0.00011001227771921093,
-        "LowerToLLVM.cpp": 0.0001371882788509473,
-        "MLIRGen.cpp": 6.350242373596979e-05,
-        "ShapeInferencePass.cpp": 2.77391241154417e-05,
-        "ToyCombine.cpp": 1.8477571776990256e-05,
-        "ToyCombine.td": 1.157304844235629e-05
+        "Dialect.cpp": 27.117969298665518,
+        "LowerToAffineLoops.cpp": 21.758687936290887,
+        "LowerToLLVM.cpp": 27.133670985828108,
+        "MLIRGen.cpp": 12.559774689837125,
+        "ShapeInferencePass.cpp": 5.486359866072829,
+        "ToyCombine.cpp": 3.654571348319054,
+        "ToyCombine.td": 2.2889658749864665
     },
     "subdirscores": {}
 }

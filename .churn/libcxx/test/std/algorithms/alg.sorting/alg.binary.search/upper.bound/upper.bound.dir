@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/libcxx/test/std/algorithms/alg.sorting/alg.binary.search/upper.bound",
-    "score.sum": 2.8617021274163794e-05,
+    "score.sum": 5.2629903119684126e-05,
     "sha.latest": "33912468a7dbd2cdef3648878ccd6b8f99e0b5bf",
     "time.latest": 1717870444.1148703,
     "formatted_time": "2024-06-08 23:44:04.114873",
     "filescores": {
-        "ranges.upper_bound.pass.cpp": 7.732238448734585e-06,
-        "upper_bound.pass.cpp": 2.244883233547477e-05,
-        "upper_bound_comp.pass.cpp": 2.244883233547477e-05
+        "ranges.upper_bound.pass.cpp": 14.691720847653714,
+        "upper_bound.pass.cpp": 42.65413957617314,
+        "upper_bound_comp.pass.cpp": 42.65413957617314
     },
     "subdirscores": {}
 }

@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/clang/test/ASTMerge/injected-class-name-decl/Inputs",
-    "score.sum": 1.072856966816001e-05,
+    "score.sum": 2.145713933632002e-05,
     "sha.latest": "0333dd95636da52229ca14b4e5525c1cd8ba62d2",
     "time.latest": 1717865807.5387719,
     "formatted_time": "2024-06-08 22:26:47.538774",
     "filescores": {
-        "inject1.cpp": 1.072856966816001e-05,
-        "inject2.cpp": 1.072856966816001e-05
+        "inject1.cpp": 50.0,
+        "inject2.cpp": 50.0
     },
     "subdirscores": {}
 }

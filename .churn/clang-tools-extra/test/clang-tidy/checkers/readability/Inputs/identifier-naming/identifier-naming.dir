@@ -1,19 +1,19 @@
 {
     "directory name": "llvm-project/clang-tools-extra/test/clang-tidy/checkers/readability/Inputs/identifier-naming",
-    "score.sum": 3.0404477012365082e-05,
+    "score.sum": 4.5476828432708646e-05,
     "sha.latest": "9fb552812c65a13cd19eedea1cc2ef739ad652e9",
     "time.latest": 1717831191.3930974,
     "formatted_time": "2024-06-08 12:49:51.393101",
     "filescores": {
-        "user-header.h": 0
+        "user-header.h": 0.0
     },
     "subdirscores": {
-        "global-style1": 6.099602068851199e-06,
-        "global-style2": 6.099602068851199e-06,
-        "hungarian-notation1": 1.1824807360145067e-05,
-        "hungarian-notation2": 2.1452816934861183e-05,
-        "hungarian-notation3": 0,
-        "symlink": 0,
-        "system": 0
+        "global-style1": 13.41254937748503,
+        "global-style2": 13.41254937748503,
+        "hungarian-notation1": 26.00182943197556,
+        "hungarian-notation2": 47.173071813054385,
+        "hungarian-notation3": 0.0,
+        "symlink": 0.0,
+        "system": 0.0
     }
 }

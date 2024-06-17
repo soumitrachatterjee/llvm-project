@@ -5,9 +5,9 @@
     "time.latest": 1717890433.5760632,
     "formatted_time": "2024-06-09 05:17:13.576065",
     "filescores": {
-        "main.cpp": 0,
-        "Makefile": 0,
-        "TestArrayFromStdModule.py": 1.3879497085814177e-05
+        "main.cpp": 0.0,
+        "Makefile": 0.0,
+        "TestArrayFromStdModule.py": 100.0
     },
     "subdirscores": {}
 }

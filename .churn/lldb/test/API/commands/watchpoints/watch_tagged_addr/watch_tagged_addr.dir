@@ -5,9 +5,9 @@
     "time.latest": 1717901178.4387894,
     "formatted_time": "2024-06-09 08:16:18.438791",
     "filescores": {
-        "main.c": 0,
-        "Makefile": 0,
-        "TestWatchTaggedAddress.py": 2.5477137295822132e-05
+        "main.c": 0.0,
+        "Makefile": 0.0,
+        "TestWatchTaggedAddress.py": 100.0
     },
     "subdirscores": {}
 }

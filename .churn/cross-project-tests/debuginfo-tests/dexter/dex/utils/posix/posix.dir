@@ -5,8 +5,8 @@
     "time.latest": 1717789914.1251018,
     "formatted_time": "2024-06-08 01:21:54.125106",
     "filescores": {
-        "PrettyOutput.py": 6.099602068851199e-06,
-        "__init__.py": 0
+        "PrettyOutput.py": 100.0,
+        "__init__.py": 0.0
     },
     "subdirscores": {}
 }

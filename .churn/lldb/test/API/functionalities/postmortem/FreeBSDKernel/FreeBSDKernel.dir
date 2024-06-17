@@ -1,21 +1,21 @@
 {
     "directory name": "llvm-project/lldb/test/API/functionalities/postmortem/FreeBSDKernel",
-    "score.sum": 8.604285574539245e-06,
+    "score.sum": 6.609188712927611e-05,
     "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
     "time.latest": 1717916433.749133,
     "formatted_time": "2024-06-09 12:30:33.749134",
     "filescores": {
-        "kernel-amd64.yaml": 6.146783534436573e-06,
-        "kernel-arm64.yaml": 6.146783534436573e-06,
-        "kernel-i386.yaml": 6.146783534436573e-06,
-        "TestFreeBSDKernelLive.py": 8.182140312126998e-06,
-        "TestFreeBSDKernelVMCore.py": 8.512593388606622e-06,
-        "vmcore-amd64-full.bz2": 6.146783534436573e-06,
-        "vmcore-amd64-minidump.bz2": 6.146783534436573e-06,
-        "vmcore-arm64-minidump.bz2": 6.146783534436573e-06,
-        "vmcore-i386-minidump.bz2": 6.146783534436573e-06
+        "kernel-amd64.yaml": 9.300360152242934,
+        "kernel-arm64.yaml": 9.300360152242934,
+        "kernel-i386.yaml": 9.300360152242934,
+        "TestFreeBSDKernelLive.py": 12.379946567606224,
+        "TestFreeBSDKernelVMCore.py": 12.879936945900697,
+        "vmcore-amd64-full.bz2": 9.300360152242934,
+        "vmcore-amd64-minidump.bz2": 9.300360152242934,
+        "vmcore-arm64-minidump.bz2": 9.300360152242934,
+        "vmcore-i386-minidump.bz2": 9.300360152242934
     },
     "subdirscores": {
-        "tools": 6.369668687486491e-06
+        "tools": 9.637595420792543
     }
 }

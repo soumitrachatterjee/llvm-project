@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/libcxx/test/std/containers/container.adaptors/priority.queue/priqueue.special",
-    "score.sum": 2.3819743171414074e-05,
+    "score.sum": 4.1186018815652305e-05,
     "sha.latest": "31cbe0f240f660f15602c96b787c58a26f17e179",
     "time.latest": 1717881447.3273122,
     "formatted_time": "2024-06-09 02:47:27.327314",
     "filescores": {
-        "swap.pass.cpp": 1.7366275644238228e-05,
-        "swap_noexcept.pass.cpp": 2.3819743171414074e-05
+        "swap.pass.cpp": 42.165463289786004,
+        "swap_noexcept.pass.cpp": 57.83453671021399
     },
     "subdirscores": {}
 }

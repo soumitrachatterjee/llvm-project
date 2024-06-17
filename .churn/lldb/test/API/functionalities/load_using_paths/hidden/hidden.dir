@@ -5,8 +5,8 @@
     "time.latest": 1717911503.3030224,
     "formatted_time": "2024-06-09 11:08:23.303024",
     "filescores": {
-        "d.cpp": 6.099602068851199e-06,
-        "Makefile": 0
+        "d.cpp": 100.0,
+        "Makefile": 0.0
     },
     "subdirscores": {}
 }

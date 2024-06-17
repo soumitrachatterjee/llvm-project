@@ -5,11 +5,11 @@
     "time.latest": 1717963733.1133225,
     "formatted_time": "2024-06-10 01:38:53.113327",
     "filescores": {
-        "arm64.c": 0,
-        "Makefile": 0,
-        "TestLaunchProcessPosixSpawn.py": 2.7413485929423286e-05,
-        "x86_64.c": 0,
-        "x86_64h.c": 0
+        "arm64.c": 0.0,
+        "Makefile": 0.0,
+        "TestLaunchProcessPosixSpawn.py": 100.0,
+        "x86_64.c": 0.0,
+        "x86_64h.c": 0.0
     },
     "subdirscores": {}
 }

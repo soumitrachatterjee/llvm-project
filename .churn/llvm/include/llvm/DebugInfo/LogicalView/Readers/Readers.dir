@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/llvm/include/llvm/DebugInfo/LogicalView/Readers",
-    "score.sum": 3.5330410296402534e-05,
+    "score.sum": 5.1880598388088074e-05,
     "sha.latest": "871dfd80bd1f9166b121253afb4eb41f9cbabb2e",
     "time.latest": 1717812923.7436292,
     "formatted_time": "2024-06-07 21:15:23.743633",
     "filescores": {
-        "LVBinaryReader.h": 1.1656614971914048e-05,
-        "LVCodeViewReader.h": 6.099602068851199e-06,
-        "LVCodeViewVisitor.h": 2.2622786462212396e-05,
-        "LVELFReader.h": 1.1501594885110433e-05
+        "LVBinaryReader.h": 22.46815829824823,
+        "LVCodeViewReader.h": 11.75700022429133,
+        "LVCodeViewVisitor.h": 43.60548483459021,
+        "LVELFReader.h": 22.169356642870238
     },
     "subdirscores": {}
 }

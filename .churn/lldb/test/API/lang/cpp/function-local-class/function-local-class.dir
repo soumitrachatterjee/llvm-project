@@ -5,9 +5,9 @@
     "time.latest": 1717931425.0480156,
     "formatted_time": "2024-06-09 16:40:25.048018",
     "filescores": {
-        "main.cpp": 0,
-        "Makefile": 0,
-        "TestCppFunctionLocalClass.py": 8.853194959831366e-06
+        "main.cpp": 0.0,
+        "Makefile": 0.0,
+        "TestCppFunctionLocalClass.py": 100.0
     },
     "subdirscores": {}
 }

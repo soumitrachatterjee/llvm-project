@@ -1,21 +1,21 @@
 {
     "directory name": "llvm-project/llvm/test/CodeGen/M68k/GlobalISel",
-    "score.sum": 1.9885007591880832e-05,
+    "score.sum": 3.2350517868874716e-05,
     "sha.latest": "cd0d11be7a6de335dcfcf2788a97d915f017e25e",
     "time.latest": 1718071545.1661277,
     "formatted_time": "2024-06-10 21:05:45.166131",
     "filescores": {
-        "arithmetic.ll": 0,
-        "irtranslator-call.ll": 6.099602068851199e-06,
-        "irtranslator-pic.ll": 0,
-        "irtranslator-ret.ll": 7.952109593469922e-06,
-        "legalize-add.mir": 0,
-        "legalize-and.mir": 0,
-        "legalize-load-store.mir": 1.2199204137702398e-05,
-        "legalize-mul.mir": 0,
-        "legalize-sub.mir": 0,
-        "legalize-udiv.mir": 6.099602068851199e-06,
-        "reg_bank_test.ll": 0
+        "arithmetic.ll": 0.0,
+        "irtranslator-call.ll": 18.8547277467845,
+        "irtranslator-pic.ll": 0.0,
+        "irtranslator-ret.ll": 24.581089012862005,
+        "legalize-add.mir": 0.0,
+        "legalize-and.mir": 0.0,
+        "legalize-load-store.mir": 37.709455493569,
+        "legalize-mul.mir": 0.0,
+        "legalize-sub.mir": 0.0,
+        "legalize-udiv.mir": 18.8547277467845,
+        "reg_bank_test.ll": 0.0
     },
     "subdirscores": {}
 }

@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/clang/test/CodeGen/aarch64_neon_sve_bridge_intrinsics",
-    "score.sum": 3.4742688849782405e-05,
+    "score.sum": 8.036062782443301e-05,
     "sha.latest": "946f923d50d67c4dd49af2ce7c9f245e4a08f578",
     "time.latest": 1717886489.4391499,
     "formatted_time": "2024-06-09 04:11:29.439152",
     "filescores": {
-        "acle_neon_sve_bridge_dup_neonq.c": 2.4216810533625687e-05,
-        "acle_neon_sve_bridge_get_neonq.c": 2.807190864540366e-05,
-        "acle_neon_sve_bridge_set_neonq.c": 2.807190864540366e-05,
-        "target.c": 0
+        "acle_neon_sve_bridge_dup_neonq.c": 30.13516841423028,
+        "acle_neon_sve_bridge_get_neonq.c": 34.93241579288486,
+        "acle_neon_sve_bridge_set_neonq.c": 34.93241579288486,
+        "target.c": 0.0
     },
     "subdirscores": {}
 }

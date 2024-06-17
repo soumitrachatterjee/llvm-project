@@ -1,22 +1,22 @@
 {
     "directory name": "llvm-project/compiler-rt/test/asan/TestCases/Windows/msvc",
-    "score.sum": 6.384643283384956e-06,
+    "score.sum": 6.099602068851199e-06,
     "sha.latest": "1822bc15cb378458e942e405ae7da32ee75b8c5b",
     "time.latest": 1717816359.3564312,
     "formatted_time": "2024-06-08 08:42:39.356435",
     "filescores": {
-        "coverage-dll-stdio.cpp": 0,
-        "dll_and_lib.cpp": 0,
-        "dll_cerr.cpp": 0,
-        "dll_control_c.cpp": 0,
-        "dll_large_function.cpp": 0,
-        "dll_seh.cpp": 0,
-        "gz.cpp": 0,
-        "iostream_sbo.cpp": 0,
-        "lit.local.cfg.py": 6.099602068851199e-06,
-        "seh.cpp": 0,
-        "tls_init.cpp": 0,
-        "use_after_return_linkage.cpp": 0
+        "coverage-dll-stdio.cpp": 0.0,
+        "dll_and_lib.cpp": 0.0,
+        "dll_cerr.cpp": 0.0,
+        "dll_control_c.cpp": 0.0,
+        "dll_large_function.cpp": 0.0,
+        "dll_seh.cpp": 0.0,
+        "gz.cpp": 0.0,
+        "iostream_sbo.cpp": 0.0,
+        "lit.local.cfg.py": 100.0,
+        "seh.cpp": 0.0,
+        "tls_init.cpp": 0.0,
+        "use_after_return_linkage.cpp": 0.0
     },
     "subdirscores": {}
 }

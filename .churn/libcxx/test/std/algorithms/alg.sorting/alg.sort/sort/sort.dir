@@ -1,16 +1,16 @@
 {
     "directory name": "llvm-project/libcxx/test/std/algorithms/alg.sorting/alg.sort/sort",
-    "score.sum": 0.0001308772076417693,
+    "score.sum": 0.00010697471526569545,
     "sha.latest": "be811d1617654e46f4f4daa82259ae4fad4c8e6a",
     "time.latest": 1717872336.3898509,
     "formatted_time": "2024-06-09 00:15:36.389854",
     "filescores": {
-        "pstl.sort.pass.cpp": 0,
-        "ranges.sort.pass.cpp": 1.0439792558418798e-05,
-        "sort.pass.cpp": 6.58679619693497e-05,
-        "sort_comp.pass.cpp": 1.842652561334063e-05,
-        "sort_constexpr.pass.cpp": 6.120217562293165e-06,
-        "sort_constexpr_comp.pass.cpp": 6.120217562293165e-06
+        "pstl.sort.pass.cpp": 0.0,
+        "ranges.sort.pass.cpp": 9.759121613447865,
+        "sort.pass.cpp": 61.57339311981528,
+        "sort_comp.pass.cpp": 17.225122373613484,
+        "sort_constexpr.pass.cpp": 5.721181446561691,
+        "sort_constexpr_comp.pass.cpp": 5.721181446561691
     },
     "subdirscores": {}
 }

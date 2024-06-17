@@ -5,9 +5,9 @@
     "time.latest": 1717906454.1314201,
     "formatted_time": "2024-06-09 09:44:14.131421",
     "filescores": {
-        "main.cpp": 0,
-        "Makefile": 0,
-        "TestDataFormatterLibccIterator.py": 2.0073260000074553e-05
+        "main.cpp": 0.0,
+        "Makefile": 0.0,
+        "TestDataFormatterLibccIterator.py": 100.0
     },
     "subdirscores": {}
 }

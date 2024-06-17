@@ -5,7 +5,7 @@
     "time.latest": 1717896038.4932768,
     "formatted_time": "2024-06-09 06:50:38.493278",
     "filescores": {
-        "TestPlatformFileClose.py": 1.0228257440187292e-05
+        "TestPlatformFileClose.py": 100.0
     },
     "subdirscores": {}
 }

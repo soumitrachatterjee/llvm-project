@@ -5,7 +5,7 @@
     "time.latest": 1717924515.1464467,
     "formatted_time": "2024-06-09 14:45:15.146450",
     "filescores": {
-        "TestAutosuggestion.py": 2.520004593568083e-05
+        "TestAutosuggestion.py": 100.0
     },
     "subdirscores": {}
 }

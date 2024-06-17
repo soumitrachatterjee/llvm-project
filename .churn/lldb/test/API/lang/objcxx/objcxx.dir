@@ -1,20 +1,20 @@
 {
     "directory name": "llvm-project/lldb/test/API/lang/objcxx",
-    "score.sum": 4.5713803358674615e-05,
+    "score.sum": 0.00011004701191004244,
     "sha.latest": "9c2468821ec51defd09c246fea4a47886fff8c01",
     "time.latest": 1717960591.8286016,
     "formatted_time": "2024-06-10 00:46:31.828605",
     "filescores": {
-        "categories": 0
+        "categories": 0.0
     },
     "subdirscores": {
-        "class-name-clash": 1.5892002939569662e-05,
-        "conflicting-names-class-update-utility-expr": 9.006739130307968e-06,
-        "cpp_keywords_enabled": 9.93270199642458e-06,
-        "cxx-bridged-po": 2.535850465819564e-05,
-        "hide-runtime-values": 1.7861610839113693e-05,
-        "objc-builtin-types": 1.9856451229437706e-05,
-        "objcxx-ivar-vector": 1.2139001116993191e-05,
-        "sample": 0
+        "class-name-clash": 14.44110354632848,
+        "conflicting-names-class-update-utility-expr": 8.184446786860962,
+        "cpp_keywords_enabled": 9.025871601624253,
+        "cxx-bridged-po": 23.043337768157546,
+        "hide-runtime-values": 16.230891261013618,
+        "objc-builtin-types": 18.043607804334837,
+        "objcxx-ivar-vector": 11.03074123168031,
+        "sample": 0.0
     }
 }

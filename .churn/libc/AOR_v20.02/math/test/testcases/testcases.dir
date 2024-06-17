@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/libc/AOR_v20.02/math/test/testcases",
-    "score.sum": 6.099602068851199e-06,
+    "score.sum": 1.2199204137702398e-05,
     "sha.latest": "5fedf7f42043f6a7d4562df2eab4a22b3346ac1a",
     "time.latest": 1717822783.3563333,
     "formatted_time": "2024-06-07 23:59:43.356334",
     "filescores": {},
     "subdirscores": {
-        "directed": 6.099602068851199e-06,
-        "random": 6.099602068851199e-06
+        "directed": 50.0,
+        "random": 50.0
     }
 }

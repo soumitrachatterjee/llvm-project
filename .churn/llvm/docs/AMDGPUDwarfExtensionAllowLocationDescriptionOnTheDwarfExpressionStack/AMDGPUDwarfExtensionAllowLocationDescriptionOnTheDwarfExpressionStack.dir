@@ -5,9 +5,9 @@
     "time.latest": 1717799305.706964,
     "formatted_time": "2024-06-07 17:28:25.706965",
     "filescores": {
-        "AMDGPUDwarfExtensionAllowLocationDescriptionOnTheDwarfExpressionStack.md": 2.3626475501183625e-05
+        "AMDGPUDwarfExtensionAllowLocationDescriptionOnTheDwarfExpressionStack.md": 100.0
     },
     "subdirscores": {
-        "images": 0
+        "images": 0.0
     }
 }

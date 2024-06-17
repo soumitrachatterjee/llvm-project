@@ -5,8 +5,8 @@
     "time.latest": 1717893133.8264606,
     "formatted_time": "2024-06-08 19:32:13.826465",
     "filescores": {
-        "structural-hash-detailed.ll": 6.099602068851199e-06,
-        "structural-hash-printer.ll": 0
+        "structural-hash-detailed.ll": 100.0,
+        "structural-hash-printer.ll": 0.0
     },
     "subdirscores": {}
 }

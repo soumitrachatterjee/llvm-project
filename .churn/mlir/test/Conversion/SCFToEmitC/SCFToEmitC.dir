@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/mlir/test/Conversion/SCFToEmitC",
-    "score.sum": 9.591972277857179e-06,
+    "score.sum": 6.124286267715422e-06,
     "sha.latest": "c4fd1fd6d4e0d21b2315fadecbcdc0892f3c6925",
     "time.latest": 1717816515.304652,
     "formatted_time": "2024-06-07 22:15:15.304656",
     "filescores": {
-        "for.mlir": 0,
-        "if.mlir": 6.124286267715422e-06
+        "for.mlir": 0.0,
+        "if.mlir": 100.0
     },
     "subdirscores": {}
 }

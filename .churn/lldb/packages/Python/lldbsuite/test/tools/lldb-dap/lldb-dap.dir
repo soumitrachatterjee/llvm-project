@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/lldb/packages/Python/lldbsuite/test/tools/lldb-dap",
-    "score.sum": 4.190014515846322e-05,
+    "score.sum": 4.713503150236197e-05,
     "sha.latest": "82c1bfc44ecee97425582f345d04e787f066b899",
     "time.latest": 1717861497.9815202,
     "formatted_time": "2024-06-08 21:14:57.981525",
     "filescores": {
-        "dap_server.py": 2.185191186201574e-05,
-        "lldbdap_testcase.py": 2.528311964034623e-05
+        "dap_server.py": 46.36023603998382,
+        "lldbdap_testcase.py": 53.639763960016175
     },
     "subdirscores": {}
 }

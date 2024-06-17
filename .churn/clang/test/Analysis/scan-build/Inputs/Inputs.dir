@@ -1,15 +1,15 @@
 {
     "directory name": "llvm-project/clang/test/Analysis/scan-build/Inputs",
-    "score.sum": 9.312232518482317e-06,
+    "score.sum": 1.2297943931481767e-05,
     "sha.latest": "73093599287cc6d546ac46652ee781789d7de61f",
     "time.latest": 1717839341.8434296,
     "formatted_time": "2024-06-08 15:05:41.843432",
     "filescores": {
-        "null_dereference_and_division_by_zero.c": 0,
-        "single_null_dereference.c": 6.148971965740883e-06
+        "null_dereference_and_division_by_zero.c": 0.0,
+        "single_null_dereference.c": 50.0
     },
     "subdirscores": {
-        "deduplication": 0,
-        "multidirectory_project": 6.148971965740883e-06
+        "deduplication": 0.0,
+        "multidirectory_project": 50.0
     }
 }

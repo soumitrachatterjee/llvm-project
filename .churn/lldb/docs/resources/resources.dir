@@ -1,21 +1,21 @@
 {
     "directory name": "llvm-project/lldb/docs/resources",
-    "score.sum": 0.00034905916436586617,
+    "score.sum": 0.0003652973094955103,
     "sha.latest": "235332150d52d11b340a10be1bb88432d2cf4179",
     "time.latest": 1717840638.5955355,
     "formatted_time": "2024-06-08 15:27:18.595540",
     "filescores": {
-        "build.rst": 0.00012997562962997728,
-        "caveats.rst": 2.2308401116125358e-05,
-        "contributing.rst": 3.847294449222803e-05,
-        "dataformatters.rst": 6.099602068851199e-06,
-        "debugging.rst": 1.1571477394160932e-05,
-        "extensions.rst": 6.099602068851199e-06,
-        "fuzzing.rst": 1.0722175097107967e-05,
-        "overview.rst": 1.549397903155655e-05,
-        "projects.rst": 1.571170282052966e-05,
-        "sbapi.rst": 9.236754335026774e-06,
-        "test.rst": 9.960504144109537e-05
+        "build.rst": 35.58077934093701,
+        "caveats.rst": 6.106916349023791,
+        "contributing.rst": 10.53195397068778,
+        "dataformatters.rst": 1.6697637541527433,
+        "debugging.rst": 3.167687550215354,
+        "extensions.rst": 1.6697637541527433,
+        "fuzzing.rst": 2.9351913683447886,
+        "overview.rst": 4.241470886537416,
+        "projects.rst": 4.301072691235565,
+        "sbapi.rst": 2.5285579978081656,
+        "test.rst": 27.266842336904634
     },
     "subdirscores": {}
 }

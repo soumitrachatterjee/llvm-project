@@ -5,9 +5,9 @@
     "time.latest": 1717804115.7915692,
     "formatted_time": "2024-06-08 05:18:35.791571",
     "filescores": {
-        "version-is-correct.test": 0
+        "version-is-correct.test": 0.0
     },
     "subdirscores": {
-        "Inputs": 1.3847638292903441e-05
+        "Inputs": 100.0
     }
 }

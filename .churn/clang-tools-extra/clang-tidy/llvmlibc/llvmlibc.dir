@@ -1,21 +1,21 @@
 {
     "directory name": "llvm-project/clang-tools-extra/clang-tidy/llvmlibc",
-    "score.sum": 0.00011124824116693949,
+    "score.sum": 0.00016155350603404061,
     "sha.latest": "da95d926f6fce4ed9707c77908ad96624268f134",
     "time.latest": 1717796940.8517573,
     "formatted_time": "2024-06-08 03:19:00.851760",
     "filescores": {
-        "CalleeNamespaceCheck.cpp": 2.0414536508193233e-05,
-        "CalleeNamespaceCheck.h": 1.0851206831003538e-05,
-        "CMakeLists.txt": 1.285706808980778e-05,
-        "ImplementationInNamespaceCheck.cpp": 2.60075595826035e-05,
-        "ImplementationInNamespaceCheck.h": 1.0880579700001348e-05,
-        "InlineFunctionDeclCheck.cpp": 1.4648077248841187e-05,
-        "InlineFunctionDeclCheck.h": 8.709897273969533e-06,
-        "LLVMLibcTidyModule.cpp": 1.2443354018455204e-05,
-        "NamespaceConstants.h": 6.099602068851199e-06,
-        "RestrictSystemLibcHeadersCheck.cpp": 2.7682011079460453e-05,
-        "RestrictSystemLibcHeadersCheck.h": 1.0959613632853614e-05
+        "CalleeNamespaceCheck.cpp": 12.636393359294676,
+        "CalleeNamespaceCheck.h": 6.7167882006331086,
+        "CMakeLists.txt": 7.958396202864638,
+        "ImplementationInNamespaceCheck.cpp": 16.09841854940833,
+        "ImplementationInNamespaceCheck.h": 6.734969711959531,
+        "InlineFunctionDeclCheck.cpp": 9.06701291010962,
+        "InlineFunctionDeclCheck.h": 5.391339060220884,
+        "LLVMLibcTidyModule.cpp": 7.702311341874121,
+        "NamespaceConstants.h": 3.775592507144948,
+        "RestrictSystemLibcHeadersCheck.cpp": 17.134887232733675,
+        "RestrictSystemLibcHeadersCheck.h": 6.783890923756452
     },
     "subdirscores": {}
 }

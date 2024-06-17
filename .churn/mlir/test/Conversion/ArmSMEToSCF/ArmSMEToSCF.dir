@@ -5,7 +5,7 @@
     "time.latest": 1717815412.3934402,
     "formatted_time": "2024-06-07 21:56:52.393444",
     "filescores": {
-        "arm-sme-to-scf.mlir": 4.6506513060796516e-05
+        "arm-sme-to-scf.mlir": 100.0
     },
     "subdirscores": {}
 }

@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/llvm/unittests/Analysis/Inputs/ir2native_x86_64_model/variables",
-    "score.sum": 9.041602529800457e-06,
+    "score.sum": 1.8083205059600915e-05,
     "sha.latest": "caf395ee8c28028d5af0f1455cd5ef134432124c",
     "time.latest": 1718078780.5216086,
     "formatted_time": "2024-06-10 23:06:20.521612",
     "filescores": {
-        "variables.data-00000-of-00001": 9.041602529800457e-06,
-        "variables.index": 9.041602529800457e-06
+        "variables.data-00000-of-00001": 50.0,
+        "variables.index": 50.0
     },
     "subdirscores": {}
 }

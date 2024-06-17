@@ -1,16 +1,16 @@
 {
     "directory name": "llvm-project/third-party/benchmark/tools",
-    "score.sum": 2.2889275930324868e-05,
+    "score.sum": 8.611692607727843e-05,
     "sha.latest": "a5b797172cc902db166e9a695716fb81405f86e4",
     "time.latest": 1717789676.827444,
     "formatted_time": "2024-06-07 14:47:56.827447",
     "filescores": {
-        "compare.py": 2.248744635878394e-05,
-        "libpfm.BUILD.bazel": 0,
-        "requirements.txt": 1.8455952941623095e-05,
-        "strip_asm.py": 2.248744635878394e-05
+        "compare.py": 26.112690481548846,
+        "libpfm.BUILD.bazel": 0.0,
+        "requirements.txt": 21.431272320451082,
+        "strip_asm.py": 26.112690481548846
     },
     "subdirscores": {
-        "gbench": 2.268608041808747e-05
+        "gbench": 26.343346716451244
     }
 }

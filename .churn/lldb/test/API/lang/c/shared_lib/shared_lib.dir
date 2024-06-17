@@ -5,11 +5,11 @@
     "time.latest": 1717926830.4950268,
     "formatted_time": "2024-06-09 15:23:50.495028",
     "filescores": {
-        "foo.c": 0,
-        "foo.h": 0,
-        "main.c": 0,
-        "Makefile": 0,
-        "TestSharedLib.py": 2.902888308284319e-05
+        "foo.c": 0.0,
+        "foo.h": 0.0,
+        "main.c": 0.0,
+        "Makefile": 0.0,
+        "TestSharedLib.py": 100.0
     },
     "subdirscores": {}
 }

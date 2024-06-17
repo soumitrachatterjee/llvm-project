@@ -5,9 +5,9 @@
     "time.latest": 1717925214.4709387,
     "formatted_time": "2024-06-09 14:56:54.470941",
     "filescores": {
-        "One.c": 6.099602068851199e-06,
-        "One.h": 0,
-        "OneConstant.c": 0
+        "One.c": 100.0,
+        "One.h": 0.0,
+        "OneConstant.c": 0.0
     },
     "subdirscores": {}
 }

@@ -1,16 +1,16 @@
 {
     "directory name": "llvm-project/mlir/test/Examples",
-    "score.sum": 0.00017383062025546668,
+    "score.sum": 0.00017014096849017268,
     "sha.latest": "619ee20b3911f9a481a75a64704c80aef16af9d0",
     "time.latest": 1717824647.8355725,
     "formatted_time": "2024-06-08 00:30:47.835573",
     "filescores": {
-        "lit.local.cfg": 6.099602068851199e-06
+        "lit.local.cfg": 3.5850284167175825
     },
     "subdirscores": {
-        "Toy": 8.643917623482348e-05,
-        "standalone": 4.684752628018321e-05,
-        "transform-opt": 0,
-        "transform": 3.07546639063148e-05
+        "Toy": 50.80444586737861,
+        "standalone": 27.534536035563427,
+        "transform-opt": 0.0,
+        "transform": 18.075989680340385
     }
 }

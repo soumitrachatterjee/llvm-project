@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/libc/fuzzing/stdio",
-    "score.sum": 3.69658194975953e-05,
+    "score.sum": 4.257619957310681e-05,
     "sha.latest": "73aab2f69773324ef0250f093bd4d782beee921a",
     "time.latest": 1717825831.804482,
     "formatted_time": "2024-06-08 00:50:31.804485",
     "filescores": {
-        "CMakeLists.txt": 1.2529313056090999e-05,
-        "printf_fixed_conv_fuzz.cpp": 6.688388250646968e-06,
-        "printf_float_conv_fuzz.cpp": 1.1283384972552445e-05,
-        "printf_parser_fuzz.cpp": 1.20751132938164e-05
+        "CMakeLists.txt": 29.427974271346468,
+        "printf_fixed_conv_fuzz.cpp": 15.709218572133143,
+        "printf_float_conv_fuzz.cpp": 26.5016255224423,
+        "printf_parser_fuzz.cpp": 28.36118163407808
     },
     "subdirscores": {}
 }

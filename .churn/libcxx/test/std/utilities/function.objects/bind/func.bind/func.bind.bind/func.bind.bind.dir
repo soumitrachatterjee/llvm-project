@@ -1,19 +1,19 @@
 {
     "directory name": "llvm-project/libcxx/test/std/utilities/function.objects/bind/func.bind/func.bind.bind",
-    "score.sum": 6.247414871370258e-05,
+    "score.sum": 0.00020395807713426755,
     "sha.latest": "13f5579caeee2c75baf1249b9f64de54f7c361e2",
     "time.latest": 1717995561.0315418,
     "formatted_time": "2024-06-10 10:29:21.031544",
     "filescores": {
-        "bind_return_type.pass.cpp": 1.5262783561390763e-05,
-        "copy.pass.cpp": 4.672009272783943e-05,
-        "invoke_function_object.pass.cpp": 2.9889272893768212e-05,
-        "invoke_int_0.pass.cpp": 1.9728113763969438e-05,
-        "invoke_lvalue.pass.cpp": 2.0881443173976607e-05,
-        "invoke_rvalue.pass.cpp": 1.9728113763969438e-05,
-        "invoke_void_0.pass.cpp": 2.1528146799907392e-05,
-        "nested.pass.cpp": 3.0220110449446276e-05,
-        "PR23141.pass.cpp": 0
+        "bind_return_type.pass.cpp": 7.483294496517109,
+        "copy.pass.cpp": 22.906713666006542,
+        "invoke_function_object.pass.cpp": 14.654615945458154,
+        "invoke_int_0.pass.cpp": 9.67263176882288,
+        "invoke_lvalue.pass.cpp": 10.238105530005637,
+        "invoke_rvalue.pass.cpp": 9.67263176882288,
+        "invoke_void_0.pass.cpp": 10.555182271960334,
+        "nested.pass.cpp": 14.816824552406468,
+        "PR23141.pass.cpp": 0.0
     },
     "subdirscores": {}
 }

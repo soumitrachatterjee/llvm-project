@@ -5,8 +5,8 @@
     "time.latest": 1717809551.131234,
     "formatted_time": "2024-06-08 06:49:11.131235",
     "filescores": {
-        "mt-unsafe.rst": 0,
-        "thread-canceltype-asynchronous.rst": 6.099602068851199e-06
+        "mt-unsafe.rst": 0.0,
+        "thread-canceltype-asynchronous.rst": 100.0
     },
     "subdirscores": {}
 }

@@ -5,9 +5,9 @@
     "time.latest": 1717890942.163421,
     "formatted_time": "2024-06-09 05:25:42.163422",
     "filescores": {
-        "stdio.h": 0
+        "stdio.h": 0.0
     },
     "subdirscores": {
-        "c++": 9.060086406514315e-06
+        "c++": 100.0
     }
 }

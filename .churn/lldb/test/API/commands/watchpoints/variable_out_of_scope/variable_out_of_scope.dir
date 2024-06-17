@@ -5,9 +5,9 @@
     "time.latest": 1717900646.0448983,
     "formatted_time": "2024-06-09 08:07:26.044900",
     "filescores": {
-        "main.c": 0,
-        "Makefile": 0,
-        "TestWatchedVarHitWhenInScope.py": 1.5100822831745932e-05
+        "main.c": 0.0,
+        "Makefile": 0.0,
+        "TestWatchedVarHitWhenInScope.py": 100.0
     },
     "subdirscores": {}
 }

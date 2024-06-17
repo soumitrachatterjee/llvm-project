@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/libcxx/test/std/algorithms/alg.nonmodifying/alg.none_of",
-    "score.sum": 6.472718483136081e-05,
+    "score.sum": 4.3512565065807316e-05,
     "sha.latest": "8dfc67d6724eb0af5d278f4d1d5511ca9f9e039f",
     "time.latest": 1717870095.0764878,
     "formatted_time": "2024-06-08 23:38:15.076490",
     "filescores": {
-        "none_of.pass.cpp": 1.9857817640276438e-05,
-        "pstl.exception_handling.pass.cpp": 6.099602068851199e-06,
-        "pstl.none_of.pass.cpp": 1.0495045441812533e-05,
-        "ranges.none_of.pass.cpp": 7.060099914867148e-06
+        "none_of.pass.cpp": 45.63697315992282,
+        "pstl.exception_handling.pass.cpp": 14.018024585832423,
+        "pstl.none_of.pass.cpp": 24.119574256171955,
+        "ranges.none_of.pass.cpp": 16.22542799807281
     },
     "subdirscores": {}
 }

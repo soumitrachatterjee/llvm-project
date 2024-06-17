@@ -1,15 +1,15 @@
 {
     "directory name": "llvm-project/mlir/test/Dialect/MLProgram",
-    "score.sum": 1.2328674229157694e-05,
+    "score.sum": 2.8159072413234134e-05,
     "sha.latest": "fa10121415adfea57954eddcec92a13c7ebab0ac",
     "time.latest": 1717820598.1299667,
     "formatted_time": "2024-06-07 23:23:18.129970",
     "filescores": {
-        "attrs.mlir": 0,
-        "invalid.mlir": 1.4079536206617067e-05,
-        "one-shot-bufferize.mlir": 0,
-        "ops.mlir": 1.4079536206617067e-05,
-        "pipeline-globals.mlir": 0
+        "attrs.mlir": 0.0,
+        "invalid.mlir": 50.0,
+        "one-shot-bufferize.mlir": 0.0,
+        "ops.mlir": 50.0,
+        "pipeline-globals.mlir": 0.0
     },
     "subdirscores": {}
 }

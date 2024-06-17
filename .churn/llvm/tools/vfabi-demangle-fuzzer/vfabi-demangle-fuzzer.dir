@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/llvm/tools/vfabi-demangle-fuzzer",
-    "score.sum": 2.143972828537715e-05,
+    "score.sum": 2.753933035422835e-05,
     "sha.latest": "92289db82fb2334593e21995bb140b4bc95926e3",
     "time.latest": 1718085302.5173852,
     "formatted_time": "2024-06-11 00:55:02.517389",
     "filescores": {
-        "CMakeLists.txt": 6.099602068851199e-06,
-        "vfabi-demangler-fuzzer.cpp": 2.143972828537715e-05
+        "CMakeLists.txt": 22.14869421439899,
+        "vfabi-demangler-fuzzer.cpp": 77.85130578560101
     },
     "subdirscores": {}
 }

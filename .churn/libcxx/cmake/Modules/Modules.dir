@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/libcxx/cmake/Modules",
-    "score.sum": 0.0006264927425452542,
+    "score.sum": 0.0002757347422881337,
     "sha.latest": "fa90e2b988dec6bb0f77490669647a1d7bbf4b25",
     "time.latest": 1717823899.737204,
     "formatted_time": "2024-06-08 10:48:19.737206",
     "filescores": {
-        "CodeCoverage.cmake": 6.099602068851199e-06,
-        "HandleLibCXXABI.cmake": 0.00022073497107370036,
-        "HandleLibcxxFlags.cmake": 4.890016914558215e-05,
-        "MacroEnsureOutOfSourceBuild.cmake": 0
+        "CodeCoverage.cmake": 2.2121267774364526,
+        "HandleLibCXXABI.cmake": 80.05337638702039,
+        "HandleLibcxxFlags.cmake": 17.734496835543155,
+        "MacroEnsureOutOfSourceBuild.cmake": 0.0
     },
     "subdirscores": {}
 }

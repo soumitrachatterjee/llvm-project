@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/mlir/test/Dialect/SPIRV",
-    "score.sum": 0.0008226498125274896,
+    "score.sum": 0.0006704051280457262,
     "sha.latest": "e5332482c6009699d7b66393617a389d8ae62710",
     "time.latest": 1717821939.7660418,
     "formatted_time": "2024-06-07 23:45:39.766043",
     "filescores": {},
     "subdirscores": {
-        "IR": 0.00036149648412684744,
-        "Linking": 3.34609565214192e-05,
-        "Transforms": 0.00027544768739745954
+        "IR": 53.922094119511414,
+        "Linking": 4.991154620036997,
+        "Transforms": 41.0867512604516
     }
 }

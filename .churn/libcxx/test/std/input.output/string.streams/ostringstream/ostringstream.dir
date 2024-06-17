@@ -1,15 +1,15 @@
 {
     "directory name": "llvm-project/libcxx/test/std/input.output/string.streams/ostringstream",
-    "score.sum": 6.739721803487902e-05,
+    "score.sum": 0.00011800922841758887,
     "sha.latest": "80f9458cf30d13eef21b09042ea590945c5e64db",
     "time.latest": 1717910017.338804,
     "formatted_time": "2024-06-09 10:43:37.338806",
     "filescores": {
-        "types.compile.pass.cpp": 0
+        "types.compile.pass.cpp": 0.0
     },
     "subdirscores": {
-        "ostringstream.assign": 3.19993995258749e-05,
-        "ostringstream.cons": 4.421395198787378e-05,
-        "ostringstream.members": 4.179587690384019e-05
+        "ostringstream.assign": 27.116014531203813,
+        "ostringstream.cons": 37.46652069566777,
+        "ostringstream.members": 35.41746477312842
     }
 }

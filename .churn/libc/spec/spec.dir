@@ -1,20 +1,20 @@
 {
     "directory name": "llvm-project/libc/spec",
-    "score.sum": 0.0011640072067212672,
+    "score.sum": 0.001427338845553998,
     "sha.latest": "fe1645e25c5ab5e3ba8aa16d4f637633ded328ab",
     "time.latest": 1717827619.4724367,
     "formatted_time": "2024-06-08 01:20:19.472440",
     "filescores": {
-        "bsd_ext.td": 2.771894899055087e-05,
-        "gnu_ext.td": 0.0001265385627619212,
-        "gpu_ext.td": 8.213530873729166e-06,
-        "linux.td": 7.430572411865537e-05,
-        "llvm_libc_ext.td": 5.9501895212635275e-05,
-        "llvm_libc_stdfix_ext.td": 6.099602068851199e-06,
-        "posix.td": 0.0003459432841825345,
-        "spec.td": 0.00017099168380828355,
-        "stdc.td": 0.0005974956266728407,
-        "stdc_ext.td": 1.0529986863996126e-05
+        "bsd_ext.td": 1.9420020044218875,
+        "gnu_ext.td": 8.86534848792736,
+        "gpu_ext.td": 0.575443658617812,
+        "linux.td": 5.2058923744778225,
+        "llvm_libc_ext.td": 4.168729478496089,
+        "llvm_libc_stdfix_ext.td": 0.42734085797852295,
+        "posix.td": 24.236941722710725,
+        "spec.td": 11.979754095595707,
+        "stdc.td": 41.86081171502991,
+        "stdc_ext.td": 0.737735604744162
     },
     "subdirscores": {}
 }

@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/lldb/test/API/functionalities/data-formatter/data-formatter-objc/nsindexpath",
-    "score.sum": 1.0503384530912484e-05,
+    "score.sum": 1.655943647381506e-05,
     "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
     "time.latest": 1717905223.2389832,
     "formatted_time": "2024-06-09 09:23:43.238985",
     "filescores": {
-        "main.m": 6.099602068851199e-06,
-        "Makefile": 0,
-        "TestDataFormatterNSIndexPath.py": 1.0459834404963863e-05
+        "main.m": 36.834599284198575,
+        "Makefile": 0.0,
+        "TestDataFormatterNSIndexPath.py": 63.16540071580145
     },
     "subdirscores": {}
 }

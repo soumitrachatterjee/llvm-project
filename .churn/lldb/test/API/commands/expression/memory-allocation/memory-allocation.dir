@@ -5,9 +5,9 @@
     "time.latest": 1717892792.140003,
     "formatted_time": "2024-06-09 05:56:32.140005",
     "filescores": {
-        "main.cpp": 0,
-        "Makefile": 0,
-        "TestMemoryAllocSettings.py": 6.099602068851199e-06
+        "main.cpp": 0.0,
+        "Makefile": 0.0,
+        "TestMemoryAllocSettings.py": 100.0
     },
     "subdirscores": {}
 }

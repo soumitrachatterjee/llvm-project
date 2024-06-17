@@ -5,9 +5,9 @@
     "time.latest": 1717889478.7219124,
     "formatted_time": "2024-06-09 05:01:18.721914",
     "filescores": {
-        "main.cpp": 0,
-        "Makefile": 0,
-        "TestClassTemplateSpecializationParametersHandling.py": 1.0459834404963863e-05
+        "main.cpp": 0.0,
+        "Makefile": 0.0,
+        "TestClassTemplateSpecializationParametersHandling.py": 100.0
     },
     "subdirscores": {}
 }

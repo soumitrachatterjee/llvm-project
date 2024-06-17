@@ -5,8 +5,8 @@
     "time.latest": 1717888132.148694,
     "formatted_time": "2024-06-09 04:38:52.148696",
     "filescores": {
-        "a.yaml": 0,
-        "TestBreakpointCommandList.py": 1.0459834404963863e-05
+        "a.yaml": 0.0,
+        "TestBreakpointCommandList.py": 100.0
     },
     "subdirscores": {}
 }

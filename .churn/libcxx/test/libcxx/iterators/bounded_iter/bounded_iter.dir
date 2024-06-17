@@ -5,11 +5,11 @@
     "time.latest": 1717851734.6557117,
     "formatted_time": "2024-06-08 18:32:14.655716",
     "filescores": {
-        "arithmetic.pass.cpp": 0,
-        "comparison.pass.cpp": 0,
-        "dereference.pass.cpp": 2.2728311908929484e-05,
-        "pointer_traits.pass.cpp": 0,
-        "types.compile.pass.cpp": 0
+        "arithmetic.pass.cpp": 0.0,
+        "comparison.pass.cpp": 0.0,
+        "dereference.pass.cpp": 100.0,
+        "pointer_traits.pass.cpp": 0.0,
+        "types.compile.pass.cpp": 0.0
     },
     "subdirscores": {}
 }

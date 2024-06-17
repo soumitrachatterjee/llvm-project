@@ -1,15 +1,15 @@
 {
     "directory name": "llvm-project/llvm/lib/DebugInfo/LogicalView",
-    "score.sum": 0.00010226076479708754,
+    "score.sum": 0.0001368354922936275,
     "sha.latest": "c6cfd5350ec72625283eb99d7055391ed7e9fb7e",
     "time.latest": 1717834438.7115633,
     "formatted_time": "2024-06-08 03:13:58.711564",
     "filescores": {
-        "CMakeLists.txt": 1.0736697054291751e-05,
-        "LVReaderHandler.cpp": 1.4420194644074735e-05
+        "CMakeLists.txt": 7.846427030241894,
+        "LVReaderHandler.cpp": 10.538343818818046
     },
     "subdirscores": {
-        "Core": 3.9212034566776955e-05,
-        "Readers": 7.246656602848405e-05
+        "Core": 28.656333170223174,
+        "Readers": 52.95889598071688
     }
 }

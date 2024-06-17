@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/libcxx/test/libcxx/depr/depr.function.objects",
-    "score.sum": 4.4634045184267135e-05,
+    "score.sum": 4.3167576288268396e-05,
     "sha.latest": "72f0edf3f4291d2614719a8c8af21a7a62ed5d74",
     "time.latest": 1717849467.9846616,
     "formatted_time": "2024-06-08 17:54:27.984666",
     "filescores": {
-        "adaptors.depr_in_cxx11.verify.cpp": 9.253702030704793e-06,
-        "depr.adaptors.cxx1z.pass.cpp": 3.3913874257563606e-05
+        "adaptors.depr_in_cxx11.verify.cpp": 21.43669584066887,
+        "depr.adaptors.cxx1z.pass.cpp": 78.56330415933114
     },
     "subdirscores": {}
 }

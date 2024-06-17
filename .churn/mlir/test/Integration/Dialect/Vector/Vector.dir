@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/mlir/test/Integration/Dialect/Vector",
-    "score.sum": 0.0006062484110737227,
+    "score.sum": 0.0006305030588822063,
     "sha.latest": "780d55690ec5d8cd5c0e5fa4af799155d5d00534",
     "time.latest": 1717827928.2716715,
     "formatted_time": "2024-06-08 01:25:28.271673",
     "filescores": {},
     "subdirscores": {
-        "CPU": 0.0005525931792504354,
-        "GPU": 7.790987963177084e-05
+        "CPU": 87.64321940485202,
+        "GPU": 12.356780595147969
     }
 }

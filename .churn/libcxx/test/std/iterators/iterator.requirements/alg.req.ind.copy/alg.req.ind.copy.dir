@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/libcxx/test/std/iterators/iterator.requirements/alg.req.ind.copy",
-    "score.sum": 6.099602068851199e-06,
+    "score.sum": 2.4398408275404796e-05,
     "sha.latest": "d2baefae6846765eef6a6dd69d4fdf1082ce29ad",
     "time.latest": 1717912679.7281046,
     "formatted_time": "2024-06-09 11:27:59.728107",
     "filescores": {
-        "indirectly_copyable.compile.pass.cpp": 6.099602068851199e-06,
-        "indirectly_copyable.subsumption.compile.pass.cpp": 6.099602068851199e-06,
-        "indirectly_copyable_storable.compile.pass.cpp": 6.099602068851199e-06,
-        "indirectly_copyable_storable.subsumption.compile.pass.cpp": 6.099602068851199e-06
+        "indirectly_copyable.compile.pass.cpp": 25.0,
+        "indirectly_copyable.subsumption.compile.pass.cpp": 25.0,
+        "indirectly_copyable_storable.compile.pass.cpp": 25.0,
+        "indirectly_copyable_storable.subsumption.compile.pass.cpp": 25.0
     },
     "subdirscores": {}
 }

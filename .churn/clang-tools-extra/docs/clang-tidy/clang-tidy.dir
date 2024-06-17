@@ -1,15 +1,15 @@
 {
     "directory name": "llvm-project/clang-tools-extra/docs/clang-tidy",
-    "score.sum": 0.0029958683833519674,
+    "score.sum": 0.0030638443865815927,
     "sha.latest": "4fdf10faf2b45f4bbbd2ddfb07272d19a47cc531",
     "time.latest": 1717812796.041368,
     "formatted_time": "2024-06-08 07:43:16.041371",
     "filescores": {
-        "Contributing.rst": 5.431139752705956e-05,
-        "index.rst": 0.00021943998261512198,
-        "Integrations.rst": 1.9423456221341196e-05
+        "Contributing.rst": 1.7726552224689236,
+        "index.rst": 7.162243081802096,
+        "Integrations.rst": 0.6339570086003105
     },
     "subdirscores": {
-        "checks": 0.00277066955021807
+        "checks": 90.43114468712866
     }
 }

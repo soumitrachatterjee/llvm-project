@@ -6,6 +6,6 @@
     "formatted_time": "2024-06-07 23:51:29.351635",
     "filescores": {},
     "subdirscores": {
-        "clang-apply-replacements": 3.992978248874137e-05
+        "clang-apply-replacements": 100.0
     }
 }

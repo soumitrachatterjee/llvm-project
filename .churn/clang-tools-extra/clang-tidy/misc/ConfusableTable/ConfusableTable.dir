@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/clang-tools-extra/clang-tidy/misc/ConfusableTable",
-    "score.sum": 1.307463244089169e-05,
+    "score.sum": 3.287920741932971e-05,
     "sha.latest": "76bbbcb41bcf4a1d7a26bb11b78cf97b60ea7d4b",
     "time.latest": 1717797035.497609,
     "formatted_time": "2024-06-08 03:20:35.497612",
     "filescores": {
-        "BuildConfusableTable.cpp": 1.1319470199032805e-05,
-        "CMakeLists.txt": 1.541783011222848e-05,
-        "confusables.txt": 6.141907108068431e-06
+        "BuildConfusableTable.cpp": 34.427442409630835,
+        "CMakeLists.txt": 46.89234115529295,
+        "confusables.txt": 18.68021643507623
     },
     "subdirscores": {}
 }

@@ -5,9 +5,9 @@
     "time.latest": 1717905854.6456373,
     "formatted_time": "2024-06-09 09:34:14.645639",
     "filescores": {
-        "main.cpp": 0,
-        "Makefile": 0,
-        "TestDataFormatterGenericDeque.py": 8.300270213468236e-06
+        "main.cpp": 0.0,
+        "Makefile": 0.0,
+        "TestDataFormatterGenericDeque.py": 100.0
     },
     "subdirscores": {}
 }

@@ -1,15 +1,15 @@
 {
     "directory name": "llvm-project/lldb/test/API/macosx/lc-note/firmware-corefile",
-    "score.sum": 2.7817496112457676e-05,
+    "score.sum": 5.360762935222022e-05,
     "sha.latest": "1eeeab82c6eb185f5139e633a59c2dbcb15616e4",
     "time.latest": 1717963117.5595238,
     "formatted_time": "2024-06-10 01:28:37.559527",
     "filescores": {
-        "create-empty-corefile.cpp": 9.352733490085946e-06,
-        "main.c": 6.099602068851199e-06,
-        "Makefile": 7.753556816713497e-06,
-        "operating_system.py": 6.099602068851199e-06,
-        "TestFirmwareCorefiles.py": 2.4302134907718377e-05
+        "create-empty-corefile.cpp": 17.4466463134106,
+        "main.c": 11.37823504332705,
+        "Makefile": 14.463532356131648,
+        "operating_system.py": 11.37823504332705,
+        "TestFirmwareCorefiles.py": 45.333351243803655
     },
     "subdirscores": {}
 }

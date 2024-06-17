@@ -5,8 +5,8 @@
     "time.latest": 1717830053.7664511,
     "formatted_time": "2024-06-08 02:00:53.766454",
     "filescores": {
-        "CMakeLists.txt": 0,
-        "__assert_fail.cpp": 6.099602068851199e-06
+        "CMakeLists.txt": 0.0,
+        "__assert_fail.cpp": 100.0
     },
     "subdirscores": {}
 }

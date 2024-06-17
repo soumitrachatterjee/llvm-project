@@ -5,7 +5,7 @@
     "time.latest": 1717980234.3674386,
     "formatted_time": "2024-06-10 06:13:54.367442",
     "filescores": {
-        "hardware_concurrency.pass.cpp": 2.7785504112136447e-05
+        "hardware_concurrency.pass.cpp": 100.0
     },
     "subdirscores": {}
 }

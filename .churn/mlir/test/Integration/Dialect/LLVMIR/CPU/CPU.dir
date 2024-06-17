@@ -1,17 +1,17 @@
 {
     "directory name": "llvm-project/mlir/test/Integration/Dialect/LLVMIR/CPU",
-    "score.sum": 9.090465014740048e-05,
+    "score.sum": 0.00020060674994213266,
     "sha.latest": "f36e909da03767c317eaa5ded9abbf3214299ff5",
     "time.latest": 1717825576.2993965,
     "formatted_time": "2024-06-08 00:46:16.299400",
     "filescores": {
-        "lit.local.cfg": 2.6885304505753167e-05,
-        "test-complex-sparse-constant.mlir": 6.099602068851199e-06,
-        "test-vector-reductions-fp.mlir": 3.768001520506179e-05,
-        "test-vector-reductions-int.mlir": 3.21405487471816e-05,
-        "test-vp-intrinsic.mlir": 3.7747366077030475e-05
+        "lit.local.cfg": 13.401993957585448,
+        "test-complex-sparse-constant.mlir": 3.04057668578485,
+        "test-vector-reductions-fp.mlir": 18.783024607063833,
+        "test-vector-reductions-int.mlir": 16.021668640986864,
+        "test-vp-intrinsic.mlir": 18.816598189203077
     },
     "subdirscores": {
-        "X86": 6.005391333825443e-05
+        "X86": 29.936137919375934
     }
 }

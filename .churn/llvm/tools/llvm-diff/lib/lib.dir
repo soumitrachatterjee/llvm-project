@@ -1,17 +1,17 @@
 {
     "directory name": "llvm-project/llvm/tools/llvm-diff/lib",
-    "score.sum": 1.5097002006621152e-05,
+    "score.sum": 6.734076125776875e-05,
     "sha.latest": "8c3304453c22ad1b5a914e64a7f6435f58f4099c",
     "time.latest": 1718079272.764228,
     "formatted_time": "2024-06-10 23:14:32.764232",
     "filescores": {
-        "CMakeLists.txt": 8.473115807648929e-06,
-        "DiffConsumer.cpp": 1.2271884490694662e-05,
-        "DiffConsumer.h": 6.174729862330187e-06,
-        "DiffLog.cpp": 8.473115807648929e-06,
-        "DiffLog.h": 8.473115807648929e-06,
-        "DifferenceEngine.cpp": 1.500168367414819e-05,
-        "DifferenceEngine.h": 8.473115807648929e-06
+        "CMakeLists.txt": 12.5824473162923,
+        "DiffConsumer.cpp": 18.223560680759185,
+        "DiffConsumer.h": 9.169379358059812,
+        "DiffLog.cpp": 12.5824473162923,
+        "DiffLog.h": 12.5824473162923,
+        "DifferenceEngine.cpp": 22.277270696011808,
+        "DifferenceEngine.h": 12.5824473162923
     },
     "subdirscores": {}
 }

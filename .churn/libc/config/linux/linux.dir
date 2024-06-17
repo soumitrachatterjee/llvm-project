@@ -1,21 +1,21 @@
 {
     "directory name": "llvm-project/libc/config/linux",
-    "score.sum": 0.001590696847580678,
+    "score.sum": 0.0025922401730117907,
     "sha.latest": "fe1645e25c5ab5e3ba8aa16d4f637633ded328ab",
     "time.latest": 1717825217.048728,
     "formatted_time": "2024-06-08 00:40:17.048729",
     "filescores": {
-        "CMakeLists.txt": 2.2867422529256256e-05,
-        "api.td": 0.0003646575053407625,
-        "app.h": 7.037498583929395e-05,
-        "platform_defs.h.inc": 0,
-        "signal.h.in": 9.462005310066709e-06,
-        "syscall_numbers.h.inc": 2.3626700810992595e-05
+        "CMakeLists.txt": 0.8821490681045874,
+        "api.td": 14.067273130679311,
+        "app.h": 2.7148327756038464,
+        "platform_defs.h.inc": 0.0,
+        "signal.h.in": 0.36501267932566955,
+        "syscall_numbers.h.inc": 0.9114394976581952
     },
     "subdirscores": {
-        "aarch64": 0.0006438523784625231,
-        "arm": 0.00013096680674151937,
-        "riscv": 0.0001389231934990846,
-        "x86_64": 0.0011875091744782914
+        "aarch64": 24.837682293707537,
+        "arm": 5.052263602155187,
+        "riscv": 5.359194527784703,
+        "x86_64": 45.81015242498096
     }
 }

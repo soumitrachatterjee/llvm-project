@@ -5,10 +5,10 @@
     "time.latest": 1717960741.6265,
     "formatted_time": "2024-06-10 00:49:01.626502",
     "filescores": {
-        "core.mte": 0,
-        "core.nomte": 0,
-        "main.c": 0,
-        "TestAArch64LinuxMTEMemoryTagCoreFile.py": 2.0196393535626766e-05
+        "core.mte": 0.0,
+        "core.nomte": 0.0,
+        "main.c": 0.0,
+        "TestAArch64LinuxMTEMemoryTagCoreFile.py": 100.0
     },
     "subdirscores": {}
 }

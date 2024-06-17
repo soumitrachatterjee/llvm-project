@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/mlir/examples/standalone/test/CAPI",
-    "score.sum": 8.956383242300635e-06,
+    "score.sum": 1.8298806206553597e-05,
     "sha.latest": "f9008e6366c2496b1ca1785b891d5578174ad63e",
     "time.latest": 1717789141.6454263,
     "formatted_time": "2024-06-07 14:39:01.645429",
     "filescores": {
-        "CMakeLists.txt": 6.099602068851199e-06,
-        "lit.local.cfg": 6.099602068851199e-06,
-        "standalone-capi-test.c": 6.099602068851199e-06
+        "CMakeLists.txt": 33.33333333333333,
+        "lit.local.cfg": 33.33333333333333,
+        "standalone-capi-test.c": 33.33333333333333
     },
     "subdirscores": {}
 }

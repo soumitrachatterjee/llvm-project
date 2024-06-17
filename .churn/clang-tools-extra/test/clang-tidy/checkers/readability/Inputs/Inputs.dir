@@ -6,8 +6,8 @@
     "formatted_time": "2024-06-08 12:50:23.306981",
     "filescores": {},
     "subdirscores": {
-        "duplicate-include": 0,
-        "identifier-naming": 3.0404477012365082e-05,
-        "static-accessed-through-instance": 0
+        "duplicate-include": 0.0,
+        "identifier-naming": 100.0,
+        "static-accessed-through-instance": 0.0
     }
 }

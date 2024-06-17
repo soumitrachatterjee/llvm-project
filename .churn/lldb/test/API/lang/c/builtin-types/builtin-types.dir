@@ -5,7 +5,7 @@
     "time.latest": 1717924933.365304,
     "formatted_time": "2024-06-09 14:52:13.365306",
     "filescores": {
-        "TestCBuiltinTypes.py": 8.624354842263273e-06
+        "TestCBuiltinTypes.py": 100.0
     },
     "subdirscores": {}
 }

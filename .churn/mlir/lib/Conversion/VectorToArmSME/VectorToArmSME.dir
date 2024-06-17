@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/mlir/lib/Conversion/VectorToArmSME",
-    "score.sum": 7.229737229976966e-05,
+    "score.sum": 8.111307179515121e-05,
     "sha.latest": "9f7fff7f1391ea3bec394d8251b81cea92175cca",
     "time.latest": 1717804220.9217546,
     "formatted_time": "2024-06-07 18:50:20.921758",
     "filescores": {
-        "CMakeLists.txt": 6.416394862436182e-06,
-        "VectorToArmSME.cpp": 6.859707486386384e-05,
-        "VectorToArmSMEPass.cpp": 6.099602068851199e-06
+        "CMakeLists.txt": 7.910432585564762,
+        "VectorToArmSME.cpp": 84.56969184585171,
+        "VectorToArmSMEPass.cpp": 7.519875568583537
     },
     "subdirscores": {}
 }

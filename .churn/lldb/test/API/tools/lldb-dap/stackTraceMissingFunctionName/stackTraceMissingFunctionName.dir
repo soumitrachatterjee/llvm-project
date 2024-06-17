@@ -5,9 +5,9 @@
     "time.latest": 1717969462.8774085,
     "formatted_time": "2024-06-10 03:14:22.877411",
     "filescores": {
-        "main.cpp": 0,
-        "Makefile": 0,
-        "TestDAP_stackTraceMissingFunctionName.py": 6.099602068851199e-06
+        "main.cpp": 0.0,
+        "Makefile": 0.0,
+        "TestDAP_stackTraceMissingFunctionName.py": 100.0
     },
     "subdirscores": {}
 }

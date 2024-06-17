@@ -5,8 +5,8 @@
     "time.latest": 1717835495.3613803,
     "formatted_time": "2024-06-08 14:01:35.361382",
     "filescores": {
-        "Level1A.h": 0,
-        "module.modulemap": 6.099602068851199e-06
+        "Level1A.h": 0.0,
+        "module.modulemap": 100.0
     },
     "subdirscores": {}
 }

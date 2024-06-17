@@ -1,15 +1,15 @@
 {
     "directory name": "llvm-project/libcxx/test/std/time/time.cal/time.cal.weekday/time.cal.weekday.nonmembers",
-    "score.sum": 2.9550079345395925e-05,
+    "score.sum": 4.484035082090345e-05,
     "sha.latest": "efac016e32f3b7ded78650b0e40a9880a298bdbe",
     "time.latest": 1717981934.6580217,
     "formatted_time": "2024-06-10 06:42:14.658025",
     "filescores": {
-        "comparisons.pass.cpp": 6.099602068851199e-06,
-        "literals.pass.cpp": 0,
-        "minus.pass.cpp": 7.465700352779418e-06,
-        "ostream.pass.cpp": 2.380934804649342e-05,
-        "plus.pass.cpp": 7.465700352779418e-06
+        "comparisons.pass.cpp": 13.602931192964077,
+        "literals.pass.cpp": 0.0,
+        "minus.pass.cpp": 16.64951369938679,
+        "ostream.pass.cpp": 53.09804140826234,
+        "plus.pass.cpp": 16.64951369938679
     },
     "subdirscores": {}
 }

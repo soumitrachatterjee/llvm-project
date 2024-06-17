@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/libcxx/test/libcxx/input.output/stream.buffers",
-    "score.sum": 2.6977020569829324e-05,
+    "score.sum": 6.100016742778657e-06,
     "sha.latest": "86ab93828a56fb1208b4a63e83f3631f183a30fb",
     "time.latest": 1717851516.1251938,
     "formatted_time": "2024-06-08 18:28:36.125197",
     "filescores": {
-        "lit.local.cfg": 6.100016742778657e-06
+        "lit.local.cfg": 100.0
     },
     "subdirscores": {}
 }

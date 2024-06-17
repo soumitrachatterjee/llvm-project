@@ -1,20 +1,20 @@
 {
     "directory name": "llvm-project/libcxx/test/std/algorithms/alg.nonmodifying/alg.find",
-    "score.sum": 0.00010203239695037878,
+    "score.sum": 0.0001568628840222595,
     "sha.latest": "c9535d7b61a37d6fa58e51222a9ccecc54431193",
     "time.latest": 1717869791.1639485,
     "formatted_time": "2024-06-08 23:33:11.163951",
     "filescores": {
-        "find.pass.cpp": 4.1626918712810936e-05,
-        "find_if.pass.cpp": 2.31963513116913e-05,
-        "find_if_not.pass.cpp": 2.31963513116913e-05,
-        "pstl.exception_handling.pass.cpp": 6.099602068851199e-06,
-        "pstl.find.pass.cpp": 6.261553417059972e-06,
-        "pstl.find_if.pass.cpp": 6.261553417059972e-06,
-        "pstl.find_if_not.pass.cpp": 6.261553417059972e-06,
-        "ranges.find.pass.cpp": 2.8006350118215848e-05,
-        "ranges.find_if.pass.cpp": 7.976325123909518e-06,
-        "ranges.find_if_not.pass.cpp": 7.976325123909518e-06
+        "find.pass.cpp": 26.53713717701627,
+        "find_if.pass.cpp": 14.787660864631075,
+        "find_if_not.pass.cpp": 14.787660864631075,
+        "pstl.exception_handling.pass.cpp": 3.888492875080405,
+        "pstl.find.pass.cpp": 3.99173676812638,
+        "pstl.find_if.pass.cpp": 3.99173676812638,
+        "pstl.find_if_not.pass.cpp": 3.99173676812638,
+        "ranges.find.pass.cpp": 17.85403238808336,
+        "ranges.find_if.pass.cpp": 5.084902763089351,
+        "ranges.find_if_not.pass.cpp": 5.084902763089351
     },
     "subdirscores": {}
 }

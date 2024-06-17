@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/lldb/source/Plugins/Language/ClangCommon",
-    "score.sum": 4.390773366438877e-05,
+    "score.sum": 7.726967545114813e-05,
     "sha.latest": "65a2d6d6904f0b06f0d0cfdfbfa67dbe6599f081",
     "time.latest": 1717870164.182003,
     "formatted_time": "2024-06-08 23:39:24.182005",
     "filescores": {
-        "ClangHighlighter.cpp": 3.12759778859034e-05,
-        "ClangHighlighter.h": 1.5506111190960373e-05,
-        "CMakeLists.txt": 3.048758637428436e-05
+        "ClangHighlighter.cpp": 40.47639349239518,
+        "ClangHighlighter.h": 20.067524679540984,
+        "CMakeLists.txt": 39.45608182806383
     },
     "subdirscores": {}
 }

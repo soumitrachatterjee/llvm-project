@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/llvm/tools/llvm-as-fuzzer",
-    "score.sum": 2.506754404906815e-05,
+    "score.sum": 3.349665088808252e-05,
     "sha.latest": "e463b69736da8b0a950ecd937cf990401bdfcdeb",
     "time.latest": 1718078180.3431687,
     "formatted_time": "2024-06-10 22:56:20.343172",
     "filescores": {
-        "CMakeLists.txt": 1.5103684741755943e-05,
-        "llvm-as-fuzzer.cpp": 1.839296614632658e-05
+        "CMakeLists.txt": 45.09013391284903,
+        "llvm-as-fuzzer.cpp": 54.90986608715098
     },
     "subdirscores": {}
 }

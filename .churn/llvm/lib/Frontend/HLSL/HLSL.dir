@@ -5,8 +5,8 @@
     "time.latest": 1717838067.237755,
     "formatted_time": "2024-06-08 04:14:27.237758",
     "filescores": {
-        "CMakeLists.txt": 0,
-        "HLSLResource.cpp": 1.8175115664962076e-05
+        "CMakeLists.txt": 0.0,
+        "HLSLResource.cpp": 100.0
     },
     "subdirscores": {}
 }

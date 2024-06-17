@@ -5,9 +5,9 @@
     "time.latest": 1717924268.2470438,
     "formatted_time": "2024-06-09 14:41:08.247045",
     "filescores": {
-        "main.cpp": 0,
-        "Makefile": 0,
-        "TestVTableValue.py": 1.31182210008073e-05
+        "main.cpp": 0.0,
+        "Makefile": 0.0,
+        "TestVTableValue.py": 100.0
     },
     "subdirscores": {}
 }

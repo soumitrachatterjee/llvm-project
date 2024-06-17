@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/libcxx/test/std/input.output/iostreams.base/ios.base/ios.types/ios_failure",
-    "score.sum": 1.81415498534798e-05,
+    "score.sum": 4.0098433303469874e-05,
     "sha.latest": "60a6a0d17ad5afcac5c71dcf9a05f8c814951804",
     "time.latest": 1717907972.0006819,
     "formatted_time": "2024-06-09 10:09:32.000683",
     "filescores": {
-        "ctor_char_pointer_error_code.pass.cpp": 2.1956883449990075e-05,
-        "ctor_string_error_code.pass.cpp": 1.81415498534798e-05
+        "ctor_char_pointer_error_code.pass.cpp": 54.757459683817764,
+        "ctor_string_error_code.pass.cpp": 45.24254031618223
     },
     "subdirscores": {}
 }

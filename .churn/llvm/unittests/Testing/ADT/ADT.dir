@@ -5,9 +5,9 @@
     "time.latest": 1718084593.1200464,
     "formatted_time": "2024-06-11 00:43:13.120050",
     "filescores": {
-        "CMakeLists.txt": 6.099602068851199e-06,
-        "StringMapEntryTest.cpp": 0,
-        "StringMapTest.cpp": 0
+        "CMakeLists.txt": 100.0,
+        "StringMapEntryTest.cpp": 0.0,
+        "StringMapTest.cpp": 0.0
     },
     "subdirscores": {}
 }

@@ -5,9 +5,9 @@
     "time.latest": 1717966676.9101598,
     "formatted_time": "2024-06-10 02:27:56.910161",
     "filescores": {
-        "main.cpp": 0,
-        "Makefile": 0,
-        "TestSBValuePersist.py": 1.7659776258454703e-05
+        "main.cpp": 0.0,
+        "Makefile": 0.0,
+        "TestSBValuePersist.py": 100.0
     },
     "subdirscores": {}
 }

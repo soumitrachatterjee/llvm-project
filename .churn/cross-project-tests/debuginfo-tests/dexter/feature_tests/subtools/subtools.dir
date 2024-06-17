@@ -1,15 +1,15 @@
 {
     "directory name": "llvm-project/cross-project-tests/debuginfo-tests/dexter/feature_tests/subtools",
-    "score.sum": 7.34310491640223e-05,
+    "score.sum": 0.0001456512099214171,
     "sha.latest": "9120e854486d00307e14751769200ae4c45909a9",
     "time.latest": 1717792256.191523,
     "formatted_time": "2024-06-08 02:00:56.191528",
     "filescores": {
-        "view.cpp": 4.369264161276622e-05
+        "view.cpp": 29.99813158870402
     },
     "subdirscores": {
-        "help": 3.023950417094275e-05,
-        "list-debuggers": 0,
-        "test": 7.171906413770812e-05
+        "help": 20.761588034358113,
+        "list-debuggers": 0.0,
+        "test": 49.24028037693787
     }
 }

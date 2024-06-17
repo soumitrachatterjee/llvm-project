@@ -1,15 +1,15 @@
 {
     "directory name": "llvm-project/libcxx/test/libcxx/numerics/rand/rand.dis/rand.dist.pois",
-    "score.sum": 1.0635756085459873e-05,
+    "score.sum": 5.314191179786914e-05,
     "sha.latest": "9bb9ec380ace81d040d3a0a0a2ae9a75733ab330",
     "time.latest": 1717862056.1661768,
     "formatted_time": "2024-06-08 21:24:16.166181",
     "filescores": {},
     "subdirscores": {
-        "rand.dist.pois.exp": 1.0626538928102316e-05,
-        "rand.dist.pois.extreme": 1.0626538928102316e-05,
-        "rand.dist.pois.gamma": 1.0626538928102316e-05,
-        "rand.dist.pois.poisson": 1.0635756085459873e-05,
-        "rand.dist.pois.weibull": 1.0626538928102316e-05
+        "rand.dist.pois.exp": 19.996531115631434,
+        "rand.dist.pois.extreme": 19.996531115631434,
+        "rand.dist.pois.gamma": 19.996531115631434,
+        "rand.dist.pois.poisson": 20.01387553747425,
+        "rand.dist.pois.weibull": 19.996531115631434
     }
 }

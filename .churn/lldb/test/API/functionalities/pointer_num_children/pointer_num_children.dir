@@ -5,9 +5,9 @@
     "time.latest": 1717914635.1004171,
     "formatted_time": "2024-06-09 12:00:35.100419",
     "filescores": {
-        "main.cpp": 0,
-        "Makefile": 0,
-        "TestPointerNumChildren.py": 1.0295265556332011e-05
+        "main.cpp": 0.0,
+        "Makefile": 0.0,
+        "TestPointerNumChildren.py": 100.0
     },
     "subdirscores": {}
 }

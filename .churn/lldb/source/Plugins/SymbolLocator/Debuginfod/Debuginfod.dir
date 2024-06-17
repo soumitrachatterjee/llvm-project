@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/lldb/source/Plugins/SymbolLocator/Debuginfod",
-    "score.sum": 6.099602068851199e-06,
+    "score.sum": 1.2199204137702398e-05,
     "sha.latest": "6d5f8d3e6e473a6890f232dba8b14b7b46140558",
     "time.latest": 1717881612.2076046,
     "formatted_time": "2024-06-09 02:50:12.207606",
     "filescores": {
-        "CMakeLists.txt": 0,
-        "SymbolLocatorDebuginfod.cpp": 6.099602068851199e-06,
-        "SymbolLocatorDebuginfod.h": 0,
-        "SymbolLocatorDebuginfodProperties.td": 6.099602068851199e-06
+        "CMakeLists.txt": 0.0,
+        "SymbolLocatorDebuginfod.cpp": 50.0,
+        "SymbolLocatorDebuginfod.h": 0.0,
+        "SymbolLocatorDebuginfodProperties.td": 50.0
     },
     "subdirscores": {}
 }

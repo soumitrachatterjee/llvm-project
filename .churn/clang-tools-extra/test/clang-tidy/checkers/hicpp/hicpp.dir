@@ -1,21 +1,21 @@
 {
     "directory name": "llvm-project/clang-tools-extra/test/clang-tidy/checkers/hicpp",
-    "score.sum": 1.1443920851133197e-05,
+    "score.sum": 1.9129913225263574e-05,
     "sha.latest": "3ed940ac3dac03d044a8d1e51005cec84dd128f9",
     "time.latest": 1717823884.11047,
     "formatted_time": "2024-06-08 10:48:04.110473",
     "filescores": {
-        "exception-baseclass.cpp": 0,
-        "ignored-remove-result.cpp": 0,
-        "multiway-paths-covered-else.cpp": 6.099602068851199e-06,
-        "multiway-paths-covered.cpp": 0,
-        "no-assembler-msvc.cpp": 0,
-        "no-assembler.cpp": 0,
-        "signed-bitwise-bug34747.cpp": 0,
-        "signed-bitwise-integer-literals.cpp": 6.9307090875611754e-06,
-        "signed-bitwise-standard-types.cpp": 0,
-        "signed-bitwise-standard-types.h": 0,
-        "signed-bitwise.cpp": 6.099602068851199e-06
+        "exception-baseclass.cpp": 0.0,
+        "ignored-remove-result.cpp": 0.0,
+        "multiway-paths-covered-else.cpp": 31.885152833813535,
+        "multiway-paths-covered.cpp": 0.0,
+        "no-assembler-msvc.cpp": 0.0,
+        "no-assembler.cpp": 0.0,
+        "signed-bitwise-bug34747.cpp": 0.0,
+        "signed-bitwise-integer-literals.cpp": 36.22969433237292,
+        "signed-bitwise-standard-types.cpp": 0.0,
+        "signed-bitwise-standard-types.h": 0.0,
+        "signed-bitwise.cpp": 31.885152833813535
     },
     "subdirscores": {}
 }

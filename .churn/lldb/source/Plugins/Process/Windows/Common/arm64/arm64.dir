@@ -5,8 +5,8 @@
     "time.latest": 1717879207.3207185,
     "formatted_time": "2024-06-09 02:10:07.320721",
     "filescores": {
-        "RegisterContextWindows_arm64.cpp": 2.6668281564573868e-05,
-        "RegisterContextWindows_arm64.h": 0
+        "RegisterContextWindows_arm64.cpp": 100.0,
+        "RegisterContextWindows_arm64.h": 0.0
     },
     "subdirscores": {}
 }

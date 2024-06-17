@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/lldb/test/API/commands/platform/basic",
-    "score.sum": 2.4314596797268066e-05,
+    "score.sum": 4.4876296251507804e-05,
     "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
     "time.latest": 1717895962.62436,
     "formatted_time": "2024-06-09 06:49:22.624362",
     "filescores": {
-        "Makefile": 0,
-        "myshell.c": 6.099602068851199e-06,
-        "TestPlatformCommand.py": 1.9543051370523445e-05,
-        "TestPlatformPython.py": 1.9233642812133157e-05
+        "Makefile": 0.0,
+        "myshell.c": 13.59203539139275,
+        "TestPlatformCommand.py": 43.5487172582047,
+        "TestPlatformPython.py": 42.85924735040255
     },
     "subdirscores": {}
 }

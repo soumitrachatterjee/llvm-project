@@ -1,15 +1,15 @@
 {
     "directory name": "llvm-project/mlir/lib/Dialect/ArmSME/Transforms",
-    "score.sum": 0.00014484064615710417,
+    "score.sum": 0.00010412979894673529,
     "sha.latest": "d1fc59c3b5c5ce292a6060d7a5545094cdf1b5fc",
     "time.latest": 1717805309.2936928,
     "formatted_time": "2024-06-07 19:08:29.293696",
     "filescores": {
-        "CMakeLists.txt": 3.3753553911625586e-05,
-        "EnableArmStreaming.cpp": 1.6215520102713884e-05,
-        "OuterProductFusion.cpp": 1.0663485522620968e-05,
-        "TileAllocation.cpp": 2.7807000323220566e-05,
-        "VectorLegalization.cpp": 1.569023908655429e-05
+        "CMakeLists.txt": 32.414884358790786,
+        "EnableArmStreaming.cpp": 15.572410843709095,
+        "OuterProductFusion.cpp": 10.240570547990377,
+        "TileAllocation.cpp": 26.704171720762147,
+        "VectorLegalization.cpp": 15.067962528747604
     },
     "subdirscores": {}
 }

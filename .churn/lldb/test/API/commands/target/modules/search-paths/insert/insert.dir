@@ -5,9 +5,9 @@
     "time.latest": 1717898745.6958103,
     "formatted_time": "2024-06-09 07:35:45.695813",
     "filescores": {
-        "main.cpp": 0,
-        "Makefile": 0,
-        "TestTargetModulesSearchpathsInsert.py": 1.0228257440187292e-05
+        "main.cpp": 0.0,
+        "Makefile": 0.0,
+        "TestTargetModulesSearchpathsInsert.py": 100.0
     },
     "subdirscores": {}
 }

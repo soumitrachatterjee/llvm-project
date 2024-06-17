@@ -5,9 +5,9 @@
     "time.latest": 1717961300.0185335,
     "formatted_time": "2024-06-10 00:58:20.018537",
     "filescores": {
-        "main.c": 0,
-        "Makefile": 0,
-        "TestTargetSymbolsAddCommand.py": 1.4783959703798128e-05
+        "main.c": 0.0,
+        "Makefile": 0.0,
+        "TestTargetSymbolsAddCommand.py": 100.0
     },
     "subdirscores": {}
 }

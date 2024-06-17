@@ -5,7 +5,7 @@
     "time.latest": 1717802838.36111,
     "formatted_time": "2024-06-07 18:27:18.361114",
     "filescores": {
-        "riscv-vector-bits-vscale-range.f90": 6.099602068851199e-06
+        "riscv-vector-bits-vscale-range.f90": 100.0
     },
     "subdirscores": {}
 }

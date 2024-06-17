@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/libc/config/darwin/x86_64",
-    "score.sum": 3.373911901557214e-05,
+    "score.sum": 3.419494178732271e-05,
     "sha.latest": "c996023f9a288f12f97de8e1a2b8fbb28d2ed0c3",
     "time.latest": 1717825025.329331,
     "formatted_time": "2024-06-08 00:37:05.329334",
     "filescores": {
-        "entrypoints.txt": 1.7108029435355418e-05,
-        "headers.txt": 1.708691235196729e-05
+        "entrypoints.txt": 50.03087749574113,
+        "headers.txt": 49.96912250425886
     },
     "subdirscores": {}
 }

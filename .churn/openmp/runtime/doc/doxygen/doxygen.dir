@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/openmp/runtime/doc/doxygen",
-    "score.sum": 3.423564316518577e-05,
+    "score.sum": 5.2467074846831665e-05,
     "sha.latest": "eadf6db585e1f018e30d9c8de4b32c5d78468e19",
     "time.latest": 1717799507.371016,
     "formatted_time": "2024-06-08 04:01:47.371019",
     "filescores": {
-        "config": 1.8444478328783935e-05,
-        "header.tex": 9.824126398756023e-06,
-        "libomp_interface.h": 2.419847011929171e-05
+        "config": 35.154386598889545,
+        "header.tex": 18.72436461806918,
+        "libomp_interface.h": 46.12124878304129
     },
     "subdirscores": {}
 }

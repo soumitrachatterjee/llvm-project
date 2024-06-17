@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/libcxx/test/std/algorithms/numeric.ops",
-    "score.sum": 1.1642016667521761e-05,
+    "score.sum": 2.1108607310089955e-05,
     "sha.latest": "8dfc67d6724eb0af5d278f4d1d5511ca9f9e039f",
     "time.latest": 1717872802.4501114,
     "formatted_time": "2024-06-09 00:23:22.450114",
     "filescores": {},
     "subdirscores": {
-        "reduce": 9.466590642568194e-06,
-        "transform.reduce": 1.1642016667521761e-05
+        "reduce": 44.84706406018149,
+        "transform.reduce": 55.15293593981851
     }
 }

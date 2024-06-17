@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/mlir/test/Conversion/NVGPUToNVVM",
-    "score.sum": 0.0001761495332342001,
+    "score.sum": 0.00017214176474904242,
     "sha.latest": "0a600c34c8c1fe87c9661b6020e5044b24da3dc7",
     "time.latest": 1717816337.3936121,
     "formatted_time": "2024-06-07 22:12:17.393615",
     "filescores": {
-        "nvgpu-to-nvvm.mlir": 0.00017214176474904242
+        "nvgpu-to-nvvm.mlir": 100.0
     },
     "subdirscores": {}
 }

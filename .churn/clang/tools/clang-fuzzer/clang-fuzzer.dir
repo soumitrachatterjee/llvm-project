@@ -1,29 +1,29 @@
 {
     "directory name": "llvm-project/clang/tools/clang-fuzzer",
-    "score.sum": 0.0002505158261460068,
+    "score.sum": 0.00034314031512282516,
     "sha.latest": "a87dc23a6271cadd6d3f93561f2d8b1661399e6d",
     "time.latest": 1718082050.2563162,
     "formatted_time": "2024-06-11 10:30:50.256319",
     "filescores": {
-        "ClangFuzzer.cpp": 3.761564767238984e-05,
-        "ClangObjectiveCFuzzer.cpp": 6.099602068851199e-06,
-        "CMakeLists.txt": 6.335689586989657e-05,
-        "cxx_loop_proto.proto": 8.48561909476087e-06,
-        "cxx_proto.proto": 9.252525124243884e-06,
-        "Dockerfile": 1.2917369131301042e-05,
-        "DummyClangFuzzer.cpp": 6.113074529451878e-06,
-        "ExampleClangLLVMProtoFuzzer.cpp": 6.099602068851199e-06,
-        "ExampleClangLoopProtoFuzzer.cpp": 6.4813857501395195e-06,
-        "ExampleClangProtoFuzzer.cpp": 1.4529410426468044e-05,
-        "README.txt": 9.051093011668583e-06
+        "ClangFuzzer.cpp": 10.962176699909344,
+        "ClangObjectiveCFuzzer.cpp": 1.7775824640913676,
+        "CMakeLists.txt": 18.46384498633404,
+        "cxx_loop_proto.proto": 2.472929796000068,
+        "cxx_proto.proto": 2.6964261313719415,
+        "Dockerfile": 3.764456859776835,
+        "DummyClangFuzzer.cpp": 1.781508689022372,
+        "ExampleClangLLVMProtoFuzzer.cpp": 1.7775824640913676,
+        "ExampleClangLoopProtoFuzzer.cpp": 1.8888441446524709,
+        "ExampleClangProtoFuzzer.cpp": 4.234247561749578,
+        "README.txt": 2.6377235820946296
     },
     "subdirscores": {
-        "corpus_examples": 0,
-        "dictionary": 6.099602068851199e-06,
-        "fuzzer-initialize": 1.3238734297948241e-05,
-        "handle-cxx": 2.9093959179067923e-05,
-        "handle-llvm": 8.000798670336639e-05,
-        "proto-to-cxx": 2.754974824591253e-05,
-        "proto-to-llvm": 7.1480598796562795e-06
+        "corpus_examples": 0.0,
+        "dictionary": 1.7775824640913676,
+        "fuzzer-initialize": 3.8581110159584453,
+        "handle-cxx": 8.478735344360192,
+        "handle-llvm": 23.316405323789475,
+        "proto-to-cxx": 8.028712171594075,
+        "proto-to-llvm": 2.0831303011124387
     }
 }

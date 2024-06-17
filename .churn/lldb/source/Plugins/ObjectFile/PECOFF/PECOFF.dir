@@ -1,18 +1,18 @@
 {
     "directory name": "llvm-project/lldb/source/Plugins/ObjectFile/PECOFF",
-    "score.sum": 0.000702762198921418,
+    "score.sum": 0.0009468681794172069,
     "sha.latest": "43db8ac8ae56f24b5c06e9edb194fe1b7e9cbda0",
     "time.latest": 1717872520.787254,
     "formatted_time": "2024-06-09 00:18:40.787257",
     "filescores": {
-        "CMakeLists.txt": 3.223002282611254e-05,
-        "ObjectFilePECOFF.cpp": 0.0006388952780176862,
-        "ObjectFilePECOFF.h": 0.00020823733454214315,
-        "ObjectFilePECOFFProperties.td": 6.099602068851199e-06,
-        "PECallFrameInfo.cpp": 2.0795083719054e-05,
-        "PECallFrameInfo.h": 6.099602068851199e-06,
-        "WindowsMiniDump.cpp": 2.060150511539084e-05,
-        "WindowsMiniDump.h": 1.3909751059117637e-05
+        "CMakeLists.txt": 3.403855312357204,
+        "ObjectFilePECOFF.cpp": 67.4745748041637,
+        "ObjectFilePECOFF.h": 21.99222014941006,
+        "ObjectFilePECOFFProperties.td": 0.644187036954339,
+        "PECallFrameInfo.cpp": 2.1961962785414633,
+        "PECallFrameInfo.h": 0.644187036954339,
+        "WindowsMiniDump.cpp": 2.1757521863361142,
+        "WindowsMiniDump.h": 1.4690271952827718
     },
     "subdirscores": {}
 }

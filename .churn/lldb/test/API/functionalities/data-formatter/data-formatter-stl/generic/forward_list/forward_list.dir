@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/lldb/test/API/functionalities/data-formatter/data-formatter-stl/generic/forward_list",
-    "score.sum": 9.072509206694573e-06,
+    "score.sum": 1.8304691744653142e-05,
     "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
     "time.latest": 1717905896.4353075,
     "formatted_time": "2024-06-09 09:34:56.435309",
     "filescores": {
-        "main.cpp": 9.232182537958569e-06,
-        "Makefile": 0,
-        "TestDataFormatterGenericForwardList.py": 9.072509206694573e-06
+        "main.cpp": 50.43615411144696,
+        "Makefile": 0.0,
+        "TestDataFormatterGenericForwardList.py": 49.56384588855304
     },
     "subdirscores": {}
 }

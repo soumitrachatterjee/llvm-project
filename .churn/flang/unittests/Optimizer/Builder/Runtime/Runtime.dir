@@ -1,22 +1,22 @@
 {
     "directory name": "llvm-project/flang/unittests/Optimizer/Builder/Runtime",
-    "score.sum": 5.4218074351092735e-05,
+    "score.sum": 9.242285147336788e-05,
     "sha.latest": "de58aa83726d465aecca66763892e62d8e8b636e",
     "time.latest": 1717813056.5933993,
     "formatted_time": "2024-06-07 21:17:36.593404",
     "filescores": {
-        "Allocatable.cpp": 0,
-        "AllocatableTest.cpp": 6.099602068851199e-06,
-        "AssignTest.cpp": 0,
-        "CharacterTest.cpp": 8.297455814721537e-06,
-        "CommandTest.cpp": 1.2593296099338402e-05,
-        "DerivedTest.cpp": 0,
-        "NumericTest.cpp": 1.1107376716904655e-05,
-        "RaggedTest.cpp": 0,
-        "ReductionTest.cpp": 1.8533555558600656e-05,
-        "RuntimeCallTestBase.h": 2.969196314610024e-05,
-        "StopTest.cpp": 0,
-        "TransformationalTest.cpp": 6.099602068851199e-06
+        "Allocatable.cpp": 0.0,
+        "AllocatableTest.cpp": 6.599668774133019,
+        "AssignTest.cpp": 0.0,
+        "CharacterTest.cpp": 8.977710255036323,
+        "CommandTest.cpp": 13.625738546886563,
+        "DerivedTest.cpp": 0.0,
+        "NumericTest.cpp": 12.01799829786176,
+        "RaggedTest.cpp": 0.0,
+        "ReductionTest.cpp": 20.053001247144163,
+        "RuntimeCallTestBase.h": 32.126214104805165,
+        "StopTest.cpp": 0.0,
+        "TransformationalTest.cpp": 6.599668774133019
     },
     "subdirscores": {}
 }

@@ -5,8 +5,8 @@
     "time.latest": 1717835020.5916345,
     "formatted_time": "2024-06-08 03:23:40.591638",
     "filescores": {
-        "CMathDialect.td": 7.018145837827999e-06,
-        "TestDialect.td": 0
+        "CMathDialect.td": 100.0,
+        "TestDialect.td": 0.0
     },
     "subdirscores": {}
 }

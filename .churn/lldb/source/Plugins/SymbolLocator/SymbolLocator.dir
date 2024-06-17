@@ -1,15 +1,15 @@
 {
     "directory name": "llvm-project/lldb/source/Plugins/SymbolLocator",
-    "score.sum": 1.9714624721749945e-05,
+    "score.sum": 2.4872475131758734e-05,
     "sha.latest": "80bfac4327b6fb94cb9bf44eeb0d032799b9d418",
     "time.latest": 1717881699.8664358,
     "formatted_time": "2024-06-09 02:51:39.866438",
     "filescores": {
-        "CMakeLists.txt": 6.099602068851199e-06
+        "CMakeLists.txt": 24.523502532576043
     },
     "subdirscores": {
-        "Debuginfod": 6.099602068851199e-06,
-        "DebugSymbols": 6.3250572506819695e-06,
-        "Default": 6.3482137433743674e-06
+        "Debuginfod": 24.523502532576043,
+        "DebugSymbols": 25.42994702849553,
+        "Default": 25.523047906352392
     }
 }

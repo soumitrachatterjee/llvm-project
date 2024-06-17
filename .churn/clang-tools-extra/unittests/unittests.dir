@@ -1,20 +1,20 @@
 {
     "directory name": "llvm-project/clang-tools-extra/unittests",
-    "score.sum": 0.0032520805207144916,
+    "score.sum": 0.001295085952029214,
     "sha.latest": "308a2360725948fd6c77d005110c169ab1a8322c",
     "time.latest": 1717837222.8706908,
     "formatted_time": "2024-06-08 14:30:22.870694",
     "filescores": {
-        "CMakeLists.txt": 0.00010644650806078333
+        "CMakeLists.txt": 8.21926204156542
     },
     "subdirscores": {
-        "clang-apply-replacements": 5.499327436166917e-05,
-        "clang-change-namespace": 3.554844421426381e-05,
-        "clang-doc": 0.0001254792698372382,
-        "clang-include-fixer": 2.7204008187874043e-05,
-        "clang-move": 5.160578587509857e-05,
-        "clang-query": 0.0001575588134500954,
-        "clang-tidy": 0.0007193166276788548,
-        "include": 1.6933220363336426e-05
+        "clang-apply-replacements": 4.246303056218206,
+        "clang-change-namespace": 2.7448714240598853,
+        "clang-doc": 9.688875834119749,
+        "clang-include-fixer": 2.1005561943783935,
+        "clang-move": 3.9847382943378933,
+        "clang-query": 12.165896263736267,
+        "clang-tidy": 55.5419990890789,
+        "include": 1.30749780250527
     }
 }

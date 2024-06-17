@@ -1,21 +1,21 @@
 {
     "directory name": "llvm-project/lldb/include/lldb/Host/windows",
-    "score.sum": 0.0002554139310054706,
+    "score.sum": 0.0003067624241006134,
     "sha.latest": "2fe8327406050d2585d2ced910a678e28caefcf5",
     "time.latest": 1717848665.4748406,
     "formatted_time": "2024-06-08 17:41:05.474845",
     "filescores": {
-        "AutoHandle.h": 1.193113251304048e-05,
-        "ConnectionGenericFileWindows.h": 2.734174112506895e-05,
-        "HostInfoWindows.h": 5.021802498523956e-05,
-        "HostProcessWindows.h": 3.308064329934425e-05,
-        "HostThreadWindows.h": 2.5308644730126233e-05,
-        "LockFileWindows.h": 1.161780865662352e-05,
-        "MainLoopWindows.h": 6.099602068851199e-06,
-        "PipeWindows.h": 4.9976456016278114e-05,
-        "PosixApi.h": 5.235530838557995e-05,
-        "ProcessLauncherWindows.h": 1.4995196171410587e-05,
-        "windows.h": 2.3837866149050583e-05
+        "AutoHandle.h": 3.8893722228271512,
+        "ConnectionGenericFileWindows.h": 8.913002042290968,
+        "HostInfoWindows.h": 16.370331253077076,
+        "HostProcessWindows.h": 10.783799025037794,
+        "HostThreadWindows.h": 8.250242774788278,
+        "LockFileWindows.h": 3.787233293218812,
+        "MainLoopWindows.h": 1.9883797980585205,
+        "PipeWindows.h": 16.29158335242735,
+        "PosixApi.h": 17.067053938916654,
+        "ProcessLauncherWindows.h": 4.8882115257025065,
+        "windows.h": 7.770790773654901
     },
     "subdirscores": {}
 }

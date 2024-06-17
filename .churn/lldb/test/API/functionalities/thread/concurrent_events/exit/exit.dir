@@ -5,9 +5,9 @@
     "time.latest": 1717921140.53588,
     "formatted_time": "2024-06-09 13:49:00.535882",
     "filescores": {
-        "main.cpp": 0,
-        "Makefile": 0,
-        "TestConcurrentThreadExit.py": 6.099602068851199e-06
+        "main.cpp": 0.0,
+        "Makefile": 0.0,
+        "TestConcurrentThreadExit.py": 100.0
     },
     "subdirscores": {}
 }

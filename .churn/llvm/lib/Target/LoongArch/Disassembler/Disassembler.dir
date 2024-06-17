@@ -5,8 +5,8 @@
     "time.latest": 1717857984.8736873,
     "formatted_time": "2024-06-08 09:46:24.873691",
     "filescores": {
-        "CMakeLists.txt": 0,
-        "LoongArchDisassembler.cpp": 2.480215451426797e-05
+        "CMakeLists.txt": 0.0,
+        "LoongArchDisassembler.cpp": 100.0
     },
     "subdirscores": {}
 }

@@ -1,21 +1,21 @@
 {
     "directory name": "llvm-project/compiler-rt/lib/tsan",
-    "score.sum": 0.004803977866842335,
+    "score.sum": 0.00571462884881123,
     "sha.latest": "578e66ac45dfcc5c739f3525bfb82d71282d925c",
     "time.latest": 1717808159.4313323,
     "formatted_time": "2024-06-08 06:25:59.431334",
     "filescores": {
-        ".clang-format": 2.3322092761216942e-05,
-        "analyze_libtsan.sh": 2.0080372126726434e-05,
-        "check_analyze.sh": 0.00014772019591868042,
-        "check_cmake.sh": 9.78236181613115e-06,
-        "CMakeLists.txt": 0.00047645299633267694
+        ".clang-format": 0.4081121167837253,
+        "analyze_libtsan.sh": 0.351385412036052,
+        "check_analyze.sh": 2.584948206206069,
+        "check_cmake.sh": 0.17118105260967384,
+        "CMakeLists.txt": 8.337426785499636
     },
     "subdirscores": {
-        "benchmarks": 1.1794679631003803e-05,
-        "dd": 0.00011016335331779341,
-        "go": 0.0004541768709247059,
-        "rtl": 0.003913065747975732,
-        "tests": 0.0005480701780065633
+        "benchmarks": 0.2063944998537807,
+        "dd": 1.9277429249094602,
+        "go": 7.947617998309458,
+        "rtl": 68.47453879335903,
+        "tests": 9.590652210433124
     }
 }

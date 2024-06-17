@@ -5,9 +5,9 @@
     "time.latest": 1717935060.3118765,
     "formatted_time": "2024-06-09 17:41:00.311880",
     "filescores": {
-        "main.cpp": 0,
-        "Makefile": 0,
-        "TestCppScratchContextMergingStructs.py": 8.647310769484357e-06
+        "main.cpp": 0.0,
+        "Makefile": 0.0,
+        "TestCppScratchContextMergingStructs.py": 100.0
     },
     "subdirscores": {}
 }

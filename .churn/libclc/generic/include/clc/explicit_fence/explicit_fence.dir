@@ -5,7 +5,7 @@
     "time.latest": 1717825162.938452,
     "formatted_time": "2024-06-08 00:39:22.938456",
     "filescores": {
-        "explicit_memory_fence.h": 6.099602068851199e-06
+        "explicit_memory_fence.h": 100.0
     },
     "subdirscores": {}
 }

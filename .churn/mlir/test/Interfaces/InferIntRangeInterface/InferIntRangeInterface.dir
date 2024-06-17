@@ -5,7 +5,7 @@
     "time.latest": 1717828529.7783463,
     "formatted_time": "2024-06-08 01:35:29.778350",
     "filescores": {
-        "infer-int-range-test-ops.mlir": 1.8629472296531597e-05
+        "infer-int-range-test-ops.mlir": 100.0
     },
     "subdirscores": {}
 }

@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/lldb/test/API/functionalities/step-avoids-regexp",
-    "score.sum": 9.114748181334078e-06,
+    "score.sum": 1.5214350250185277e-05,
     "sha.latest": "9c2468821ec51defd09c246fea4a47886fff8c01",
     "time.latest": 1717920141.580125,
     "formatted_time": "2024-06-09 13:32:21.580127",
     "filescores": {
-        "main.cpp": 6.099602068851199e-06,
-        "Makefile": 0,
-        "TestStepAvoidsRegexp.py": 9.114748181334078e-06
+        "main.cpp": 40.09111114539328,
+        "Makefile": 0.0,
+        "TestStepAvoidsRegexp.py": 59.90888885460672
     },
     "subdirscores": {}
 }

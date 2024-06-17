@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/mlir/test/Integration/Dialect/Linalg/CPU/ArmSVE",
-    "score.sum": 3.2196337376053806e-05,
+    "score.sum": 2.9764531740823717e-05,
     "sha.latest": "afa6b5e5763059c65f21ca2e612df3d02e71ad00",
     "time.latest": 1717825688.7322679,
     "formatted_time": "2024-06-08 00:48:08.732271",
     "filescores": {
-        "fill-1d.mlir": 1.489573329513313e-05,
-        "lit.local.cfg": 0,
-        "matmul.mlir": 1.4868798445690587e-05
+        "fill-1d.mlir": 50.04524655330896,
+        "lit.local.cfg": 0.0,
+        "matmul.mlir": 49.95475344669104
     },
     "subdirscores": {}
 }

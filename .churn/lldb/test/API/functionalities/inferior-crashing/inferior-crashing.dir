@@ -1,16 +1,16 @@
 {
     "directory name": "llvm-project/lldb/test/API/functionalities/inferior-crashing",
-    "score.sum": 4.000738512884103e-05,
+    "score.sum": 8.668040103005678e-05,
     "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
     "time.latest": 1717910563.9765763,
     "formatted_time": "2024-06-09 10:52:43.976579",
     "filescores": {
-        "main.c": 6.099602068851199e-06,
-        "Makefile": 0,
-        "TestInferiorCrashing.py": 3.701019228718015e-05,
-        "TestInferiorCrashingStep.py": 2.0989997840543712e-05
+        "main.c": 7.036887227524637,
+        "Makefile": 0.0,
+        "TestInferiorCrashing.py": 42.697301636095006,
+        "TestInferiorCrashingStep.py": 24.215390781666255
     },
     "subdirscores": {
-        "recursive-inferior": 2.2580608833481725e-05
+        "recursive-inferior": 26.050420354714106
     }
 }

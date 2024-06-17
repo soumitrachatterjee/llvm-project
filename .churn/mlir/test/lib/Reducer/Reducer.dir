@@ -5,8 +5,8 @@
     "time.latest": 1717832279.5529108,
     "formatted_time": "2024-06-08 02:37:59.552914",
     "filescores": {
-        "CMakeLists.txt": 0,
-        "MLIRTestReducer.cpp": 1.7585537402805008e-05
+        "CMakeLists.txt": 0.0,
+        "MLIRTestReducer.cpp": 100.0
     },
     "subdirscores": {}
 }

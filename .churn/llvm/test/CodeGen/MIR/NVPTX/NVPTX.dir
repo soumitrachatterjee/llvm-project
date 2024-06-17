@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/llvm/test/CodeGen/MIR/NVPTX",
-    "score.sum": 1.1718747853800175e-05,
+    "score.sum": 4.117089515801562e-05,
     "sha.latest": "f84bac329ba6c9f0c022bcf77237e912362e247a",
     "time.latest": 1718079712.9160821,
     "formatted_time": "2024-06-10 23:21:52.916086",
     "filescores": {
-        "expected-floating-point-literal.mir": 8.58084256268877e-06,
-        "floating-point-immediate-operands.mir": 1.7909607963786876e-05,
-        "floating-point-invalid-type-error.mir": 8.58084256268877e-06,
-        "lit.local.cfg": 6.099602068851199e-06
+        "expected-floating-point-literal.mir": 20.84201115801621,
+        "floating-point-immediate-operands.mir": 43.50065232987782,
+        "floating-point-invalid-type-error.mir": 20.84201115801621,
+        "lit.local.cfg": 14.815325354089753
     },
     "subdirscores": {}
 }

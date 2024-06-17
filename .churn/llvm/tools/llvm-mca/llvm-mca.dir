@@ -1,20 +1,20 @@
 {
     "directory name": "llvm-project/llvm/tools/llvm-mca",
-    "score.sum": 0.0005636635059070016,
+    "score.sum": 0.0008850624809735575,
     "sha.latest": "fab2bb8bfda865bd438dee981d7be7df8017b76d",
     "time.latest": 1718081309.68602,
     "formatted_time": "2024-06-10 23:48:29.686024",
     "filescores": {
-        "CMakeLists.txt": 4.5037427651118615e-05,
-        "CodeRegion.cpp": 4.518413007792289e-05,
-        "CodeRegion.h": 7.020155046719654e-05,
-        "CodeRegionGenerator.cpp": 9.837728910584234e-05,
-        "CodeRegionGenerator.h": 5.465555668873422e-05,
-        "PipelinePrinter.cpp": 5.485287268081434e-05,
-        "PipelinePrinter.h": 5.7041464085386695e-05,
-        "llvm-mca.cpp": 0.0002478254528717856
+        "CMakeLists.txt": 5.0886156197219,
+        "CodeRegion.cpp": 5.105190994902522,
+        "CodeRegion.h": 7.931818597708008,
+        "CodeRegionGenerator.cpp": 11.115293125704365,
+        "CodeRegionGenerator.h": 6.175333139035992,
+        "PipelinePrinter.cpp": 6.1976271574043995,
+        "PipelinePrinter.h": 6.444908163166267,
+        "llvm-mca.cpp": 28.0008991680656
     },
     "subdirscores": {
-        "Views": 0.0002118867373447563
+        "Views": 23.940314034290957
     }
 }

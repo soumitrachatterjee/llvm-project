@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/llvm/unittests/Bitcode",
-    "score.sum": 0.00019211530144014563,
+    "score.sum": 0.0001503510859359354,
     "sha.latest": "32f9983c064557883223b585810eac3c6797d500",
     "time.latest": 1718079187.8286185,
     "formatted_time": "2024-06-10 23:13:07.828621",
     "filescores": {
-        "BitReaderTest.cpp": 8.455733025484966e-05,
-        "BitReaderTestCode.h": 0,
-        "CMakeLists.txt": 2.200573050239116e-05,
-        "DataLayoutUpgradeTest.cpp": 4.3788025178694594e-05
+        "BitReaderTest.cpp": 56.23991987053524,
+        "BitReaderTestCode.h": 0.0,
+        "CMakeLists.txt": 14.636229838584471,
+        "DataLayoutUpgradeTest.cpp": 29.123850290880288
     },
     "subdirscores": {}
 }

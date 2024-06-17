@@ -5,7 +5,7 @@
     "time.latest": 1717864945.6201682,
     "formatted_time": "2024-06-08 22:12:25.620171",
     "filescores": {
-        "debug.iterator-indexing.pass.cpp": 2.008979269677076e-05
+        "debug.iterator-indexing.pass.cpp": 100.0
     },
     "subdirscores": {}
 }

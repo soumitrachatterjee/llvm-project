@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/clang/docs/analyzer/user-docs",
-    "score.sum": 4.51923431632548e-05,
+    "score.sum": 4.044314993895305e-05,
     "sha.latest": "5674a3c88088e668b684326c2194a6282e8270ff",
     "time.latest": 1717790247.1145372,
     "formatted_time": "2024-06-08 01:27:27.114543",
     "filescores": {
-        "CrossTranslationUnit.rst": 4.044314993895305e-05,
-        "TaintAnalysisConfiguration.rst": 0
+        "CrossTranslationUnit.rst": 100.0,
+        "TaintAnalysisConfiguration.rst": 0.0
     },
     "subdirscores": {}
 }

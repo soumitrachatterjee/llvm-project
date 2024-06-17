@@ -5,10 +5,10 @@
     "time.latest": 1717898281.9341145,
     "formatted_time": "2024-06-09 07:28:01.934117",
     "filescores": {
-        "a.out-foo.dwo.yaml": 0,
-        "a.out-main.dwo.yaml": 0,
-        "a.out.yaml": 0,
-        "TestDebugInfoSize.py": 6.099602068851199e-06
+        "a.out-foo.dwo.yaml": 0.0,
+        "a.out-main.dwo.yaml": 0.0,
+        "a.out.yaml": 0.0,
+        "TestDebugInfoSize.py": 100.0
     },
     "subdirscores": {}
 }

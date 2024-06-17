@@ -1,16 +1,16 @@
 {
     "directory name": "llvm-project/libcxx/test/std/localization/locale.categories/category.messages/locale.messages",
-    "score.sum": 1.9720548130990582e-05,
+    "score.sum": 7.925121780470047e-05,
     "sha.latest": "bf1bcb68fc4142c792576b53866df60ead8ac501",
     "time.latest": 1717928169.5123417,
     "formatted_time": "2024-06-09 15:46:09.512344",
     "filescores": {
-        "ctor.pass.cpp": 1.7366275644238228e-05,
-        "messages_base.pass.cpp": 1.4954323313475111e-05,
-        "types.pass.cpp": 1.7431479621988335e-05
+        "ctor.pass.cpp": 21.91294484210212,
+        "messages_base.pass.cpp": 18.869518636706875,
+        "types.pass.cpp": 21.99521989043108
     },
     "subdirscores": {
-        "locale.messages.members": 1.7366275644238228e-05,
-        "locale.messages.virtuals": 1.2132863580760565e-05
+        "locale.messages.members": 21.91294484210212,
+        "locale.messages.virtuals": 15.309371788657804
     }
 }

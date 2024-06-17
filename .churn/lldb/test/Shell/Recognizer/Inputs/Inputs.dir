@@ -5,7 +5,7 @@
     "time.latest": 1717976818.1031818,
     "formatted_time": "2024-06-10 05:16:58.103185",
     "filescores": {
-        "assert.c": 1.711518489296263e-05
+        "assert.c": 100.0
     },
     "subdirscores": {}
 }

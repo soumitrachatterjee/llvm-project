@@ -5,8 +5,8 @@
     "time.latest": 1717829025.0516534,
     "formatted_time": "2024-06-08 01:43:45.051657",
     "filescores": {
-        "CMakeLists.txt": 0,
-        "syscall.h": 1.1951078032790268e-05
+        "CMakeLists.txt": 0.0,
+        "syscall.h": 100.0
     },
     "subdirscores": {}
 }

@@ -5,9 +5,9 @@
     "time.latest": 1717864425.1847792,
     "formatted_time": "2024-06-08 22:03:45.184782",
     "filescores": {
-        "testFormatAttr.cpp": 0
+        "testFormatAttr.cpp": 0.0
     },
     "subdirscores": {
-        "Inputs": 6.224783515789342e-06
+        "Inputs": 100.0
     }
 }

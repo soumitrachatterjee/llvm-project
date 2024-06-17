@@ -1,19 +1,19 @@
 {
     "directory name": "llvm-project/llvm/test/CodeGen/AVR/atomics",
-    "score.sum": 3.288201655298949e-05,
+    "score.sum": 9.177354587541555e-05,
     "sha.latest": "7bdc80f35c325d148b1ddbdfce7dea8c6ba7af84",
     "time.latest": 1718038064.6752324,
     "formatted_time": "2024-06-10 11:47:44.675236",
     "filescores": {
-        "fence.ll": 7.257515937192874e-06,
-        "load-store-16-unexpected-register-bug.ll": 6.099602068851199e-06,
-        "load16.ll": 2.6577516630911367e-05,
-        "load32.ll": 6.099602068851199e-06,
-        "load64.ll": 6.099602068851199e-06,
-        "load8.ll": 1.0503013387552752e-05,
-        "store.ll": 1.1518545822176875e-05,
-        "store16.ll": 1.1518545822176875e-05,
-        "swap.ll": 6.099602068851199e-06
+        "fence.ll": 7.908069659905152,
+        "load-store-16-unexpected-register-bug.ll": 6.646361988814873,
+        "load16.ll": 28.959888579428856,
+        "load32.ll": 6.646361988814873,
+        "load64.ll": 6.646361988814873,
+        "load8.ll": 11.444489027165634,
+        "store.ll": 12.551052389120427,
+        "store16.ll": 12.551052389120427,
+        "swap.ll": 6.646361988814873
     },
     "subdirscores": {}
 }

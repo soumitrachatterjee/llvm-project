@@ -5,11 +5,11 @@
     "time.latest": 1717903639.165102,
     "formatted_time": "2024-06-09 08:57:19.165104",
     "filescores": {
-        "foo.cpp": 0,
-        "foo.h": 0,
-        "main.cpp": 0,
-        "Makefile": 0,
-        "TestMoveNearest.py": 2.4073305697343054e-05
+        "foo.cpp": 0.0,
+        "foo.h": 0.0,
+        "main.cpp": 0.0,
+        "Makefile": 0.0,
+        "TestMoveNearest.py": 100.0
     },
     "subdirscores": {}
 }

@@ -1,15 +1,15 @@
 {
     "directory name": "llvm-project/llvm/tools/llvm-cfi-verify/lib",
-    "score.sum": 0.00011370235283377304,
+    "score.sum": 0.00016554131281367251,
     "sha.latest": "57eb4826e5b4c99751c6eff4e4fc50b55919e5ae",
     "time.latest": 1718078545.8509784,
     "formatted_time": "2024-06-10 23:02:25.850982",
     "filescores": {
-        "CMakeLists.txt": 1.6364689053204426e-05,
-        "FileAnalysis.cpp": 9.134829622832935e-05,
-        "FileAnalysis.h": 1.844342780382435e-05,
-        "GraphBuilder.cpp": 1.9013086984150726e-05,
-        "GraphBuilder.h": 2.0371812744163676e-05
+        "CMakeLists.txt": 9.885561963389735,
+        "FileAnalysis.cpp": 55.18157049482131,
+        "FileAnalysis.h": 11.141284003578988,
+        "GraphBuilder.cpp": 11.485403045915909,
+        "GraphBuilder.h": 12.306180492294073
     },
     "subdirscores": {}
 }

@@ -1,16 +1,16 @@
 {
     "directory name": "llvm-project/mlir/lib/Dialect/Func",
-    "score.sum": 0.00011527975267802495,
+    "score.sum": 0.0001257163467650979,
     "sha.latest": "adbf21f12b3069b2554efb39f2e92c6cf6f24940",
     "time.latest": 1717806163.518016,
     "formatted_time": "2024-06-07 19:22:43.518017",
     "filescores": {
-        "CMakeLists.txt": 1.1483731976913359e-05
+        "CMakeLists.txt": 9.134637039979227
     },
     "subdirscores": {
-        "Extensions": 1.0236684354797898e-05,
-        "IR": 5.084430501663118e-05,
-        "TransformOps": 6.099602068851199e-06,
-        "Transforms": 4.7052023347904274e-05
+        "Extensions": 8.142683603370399,
+        "IR": 40.443670473207604,
+        "TransformOps": 4.851876645961053,
+        "Transforms": 37.42713223748173
     }
 }

@@ -5,15 +5,15 @@
     "time.latest": 1717925041.703822,
     "formatted_time": "2024-06-09 14:54:01.703826",
     "filescores": {
-        "fastcall.c": 0,
-        "Makefile": 0,
-        "ms_abi.c": 0,
-        "pascal.c": 0,
-        "regcall.c": 0,
-        "stdcall.c": 0,
-        "sysv_abi.c": 0,
-        "TestCCallingConventions.py": 1.5830059798828886e-05,
-        "vectorcall.c": 0
+        "fastcall.c": 0.0,
+        "Makefile": 0.0,
+        "ms_abi.c": 0.0,
+        "pascal.c": 0.0,
+        "regcall.c": 0.0,
+        "stdcall.c": 0.0,
+        "sysv_abi.c": 0.0,
+        "TestCCallingConventions.py": 100.0,
+        "vectorcall.c": 0.0
     },
     "subdirscores": {}
 }

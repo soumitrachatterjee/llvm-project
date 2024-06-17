@@ -1,16 +1,16 @@
 {
     "directory name": "llvm-project/llvm/lib/MCA/HardwareUnits",
-    "score.sum": 0.00012897804873171983,
+    "score.sum": 0.00019443110858548116,
     "sha.latest": "85e3875ad7461fa8320db6895e0189cffb91ae7d",
     "time.latest": 1717840634.1560056,
     "formatted_time": "2024-06-08 04:57:14.156009",
     "filescores": {
-        "HardwareUnit.cpp": 6.099602068851199e-06,
-        "LSUnit.cpp": 3.478977147136513e-05,
-        "RegisterFile.cpp": 3.7912814902706945e-05,
-        "ResourceManager.cpp": 5.3807778568455015e-05,
-        "RetireControlUnit.cpp": 2.0076252554691504e-05,
-        "Scheduler.cpp": 4.1744889019411384e-05
+        "HardwareUnit.cpp": 3.137153366674101,
+        "LSUnit.cpp": 17.893109659491497,
+        "RegisterFile.cpp": 19.499356444824603,
+        "ResourceManager.cpp": 27.674469872601975,
+        "RetireControlUnit.cpp": 10.325638063142055,
+        "Scheduler.cpp": 21.470272593265776
     },
     "subdirscores": {}
 }

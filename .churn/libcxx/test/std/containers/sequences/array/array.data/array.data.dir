@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/libcxx/test/std/containers/sequences/array/array.data",
-    "score.sum": 5.976574962334773e-05,
+    "score.sum": 0.00011531127331995442,
     "sha.latest": "3cd4531b9ba421d1d096e746d787fe3039a546bb",
     "time.latest": 1717883100.4467545,
     "formatted_time": "2024-06-09 03:15:00.446756",
     "filescores": {
-        "data.pass.cpp": 5.8097328433883764e-05,
-        "data_const.pass.cpp": 5.7213944886070654e-05
+        "data.pass.cpp": 50.383043011485086,
+        "data_const.pass.cpp": 49.61695698851491
     },
     "subdirscores": {}
 }

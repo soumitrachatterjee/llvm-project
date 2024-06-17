@@ -6,6 +6,6 @@
     "formatted_time": "2024-06-08 22:17:24.074151",
     "filescores": {},
     "subdirscores": {
-        "thread.lock.guard": 3.512956819198582e-05
+        "thread.lock.guard": 100.0
     }
 }

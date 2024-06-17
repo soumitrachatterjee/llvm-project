@@ -5,7 +5,7 @@
     "time.latest": 1717831008.291441,
     "formatted_time": "2024-06-08 12:46:48.291444",
     "filescores": {
-        ".clang-tidy": 1.1824807360145067e-05
+        ".clang-tidy": 100.0
     },
     "subdirscores": {}
 }

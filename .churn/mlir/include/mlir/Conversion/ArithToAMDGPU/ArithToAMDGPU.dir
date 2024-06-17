@@ -5,7 +5,7 @@
     "time.latest": 1717791194.0758145,
     "formatted_time": "2024-06-07 15:13:14.075818",
     "filescores": {
-        "ArithToAMDGPU.h": 6.099602068851199e-06
+        "ArithToAMDGPU.h": 100.0
     },
     "subdirscores": {}
 }

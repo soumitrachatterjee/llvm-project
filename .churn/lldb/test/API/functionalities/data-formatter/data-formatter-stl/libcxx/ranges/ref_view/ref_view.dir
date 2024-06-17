@@ -5,9 +5,9 @@
     "time.latest": 1717906590.0767992,
     "formatted_time": "2024-06-09 09:46:30.076801",
     "filescores": {
-        "main.cpp": 0,
-        "Makefile": 0,
-        "TestDataFormatterLibcxxRangesRefView.py": 9.29328425519157e-06
+        "main.cpp": 0.0,
+        "Makefile": 0.0,
+        "TestDataFormatterLibcxxRangesRefView.py": 100.0
     },
     "subdirscores": {}
 }

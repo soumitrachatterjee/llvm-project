@@ -5,8 +5,8 @@
     "time.latest": 1717958871.9375165,
     "formatted_time": "2024-06-10 00:17:51.937519",
     "filescores": {
-        "main.m": 0,
-        "TestIvarProtocols.py": 1.2139001116993191e-05
+        "main.m": 0.0,
+        "TestIvarProtocols.py": 100.0
     },
     "subdirscores": {}
 }

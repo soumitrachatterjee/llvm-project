@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/libc/utils/gpu",
-    "score.sum": 0.00026305887994112787,
+    "score.sum": 0.00025575970013985206,
     "sha.latest": "8a790033073e005b41140b5c38a4eaada321c2f1",
     "time.latest": 1717852094.9687185,
     "formatted_time": "2024-06-08 08:08:14.968719",
     "filescores": {
-        "CMakeLists.txt": 8.086374413459079e-06
+        "CMakeLists.txt": 3.1617078097281808
     },
     "subdirscores": {
-        "loader": 0.00015624839784350984,
-        "server": 9.14249278828831e-05
+        "loader": 61.09187559966311,
+        "server": 35.74641659060869
     }
 }

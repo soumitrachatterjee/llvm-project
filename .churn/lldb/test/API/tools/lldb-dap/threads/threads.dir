@@ -5,9 +5,9 @@
     "time.latest": 1717969693.0812438,
     "formatted_time": "2024-06-10 03:18:13.081247",
     "filescores": {
-        "main.c": 0,
-        "Makefile": 0,
-        "TestDAP_threads.py": 6.099602068851199e-06
+        "main.c": 0.0,
+        "Makefile": 0.0,
+        "TestDAP_threads.py": 100.0
     },
     "subdirscores": {}
 }

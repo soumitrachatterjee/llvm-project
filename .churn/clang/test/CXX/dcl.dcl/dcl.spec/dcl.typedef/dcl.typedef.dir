@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/clang/test/CXX/dcl.dcl/dcl.spec/dcl.typedef",
-    "score.sum": 5.027190569318612e-05,
+    "score.sum": 7.675034831550404e-05,
     "sha.latest": "84a3aadf0f2483dde0acfc4e79f2a075a5f35bd1",
     "time.latest": 1718087508.6285617,
     "formatted_time": "2024-06-11 12:01:48.628564",
     "filescores": {
-        "p2-0x.cpp": 4.2927966754877884e-05,
-        "p3.cpp": 6.099602068851199e-06,
-        "p4.cpp": 2.7722779491774953e-05
+        "p2-0x.cpp": 55.931950404199235,
+        "p3.cpp": 7.9473281916286,
+        "p4.cpp": 36.12072140417216
     },
     "subdirscores": {}
 }

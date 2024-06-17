@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/mlir/test/Conversion/MathToSPIRV",
-    "score.sum": 8.109720301814591e-05,
+    "score.sum": 6.7191459282463e-05,
     "sha.latest": "266b5bc1f61239955eb6eeceecdb78e7929d1abb",
     "time.latest": 1717816175.5348613,
     "formatted_time": "2024-06-07 22:09:35.534864",
     "filescores": {
-        "math-to-core-spirv.mlir": 2.1045288498325607e-05,
-        "math-to-gl-spirv.mlir": 1.5084076514956965e-05,
-        "math-to-opencl-spirv.mlir": 3.1062094269180436e-05
+        "math-to-core-spirv.mlir": 31.321374357794962,
+        "math-to-gl-spirv.mlir": 22.44939561670439,
+        "math-to-opencl-spirv.mlir": 46.22923002550066
     },
     "subdirscores": {}
 }

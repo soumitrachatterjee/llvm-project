@@ -5,9 +5,9 @@
     "time.latest": 1718010403.0695634,
     "formatted_time": "2024-06-10 14:36:43.069566",
     "filescores": {
-        "unannotated-functions-get-emitted.cpp": 6.099602068851199e-06,
-        "unsupported-ASM.cpp": 0,
-        "unsupported-builtins.cpp": 0
+        "unannotated-functions-get-emitted.cpp": 100.0,
+        "unsupported-ASM.cpp": 0.0,
+        "unsupported-builtins.cpp": 0.0
     },
     "subdirscores": {}
 }

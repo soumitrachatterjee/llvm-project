@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/compiler-rt/include/xray",
-    "score.sum": 5.424190536568772e-05,
+    "score.sum": 7.439914540265394e-05,
     "sha.latest": "3fa3cb408d8d0f1365b322262e501b6945f7ead9",
     "time.latest": 1717788887.0019226,
     "formatted_time": "2024-06-08 01:04:47.001928",
     "filescores": {
-        "xray_interface.h": 1.6894139548907445e-05,
-        "xray_log_interface.h": 2.8051841132498637e-05,
-        "xray_records.h": 2.9453164721247856e-05
+        "xray_interface.h": 22.707437642563033,
+        "xray_log_interface.h": 37.70452063754214,
+        "xray_records.h": 39.58804171989483
     },
     "subdirscores": {}
 }

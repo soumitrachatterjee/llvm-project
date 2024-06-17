@@ -1,31 +1,31 @@
 {
     "directory name": "llvm-project/libcxx/test/std/input.output/file.streams/fstreams",
-    "score.sum": 0.00017365293384135532,
+    "score.sum": 0.0009734299679082853,
     "sha.latest": "92e243173c09fc78c25814a7d7e392971034f5be",
     "time.latest": 1717902249.0900874,
     "formatted_time": "2024-06-09 08:34:09.090089",
     "filescores": {
-        "native_handle_assert_test_helpers.h": 0,
-        "native_handle_test_helpers.h": 7.861837576936922e-06,
-        "types.h": 1.7971060323427658e-05
+        "native_handle_assert_test_helpers.h": 0.0,
+        "native_handle_test_helpers.h": 0.8076428542497521,
+        "types.h": 1.8461585235601516
     },
     "subdirscores": {
-        "filebuf": 2.6821951499701823e-05,
-        "filebuf.assign": 4.022706598226954e-05,
-        "filebuf.cons": 3.0241889740414077e-05,
-        "filebuf.members": 9.231397873321811e-05,
-        "filebuf.virtuals": 4.603678856340983e-05,
-        "fstream": 2.6821951499701823e-05,
-        "fstream.assign": 3.689871281459335e-05,
-        "fstream.cons": 7.204994003286641e-05,
-        "fstream.members": 8.326917736057887e-05,
-        "ifstream": 2.6821951499701823e-05,
-        "ifstream.assign": 3.9342389332817136e-05,
-        "ifstream.cons": 7.570257490806683e-05,
-        "ifstream.members": 0.00010072114397132698,
-        "ofstream": 2.6821951499701823e-05,
-        "ofstream.assign": 3.689871281459335e-05,
-        "ofstream.cons": 7.924843561476805e-05,
-        "ofstream.members": 0.00010735845414019078
+        "filebuf": 2.755406386073881,
+        "filebuf.assign": 4.132507453896228,
+        "filebuf.cons": 3.1067350233112414,
+        "filebuf.members": 9.483371354549849,
+        "filebuf.virtuals": 4.729337505638345,
+        "fstream": 2.755406386073881,
+        "fstream.assign": 3.7905873078760486,
+        "fstream.cons": 7.401656247309495,
+        "fstream.members": 8.554203189317091,
+        "ifstream": 2.755406386073881,
+        "ifstream.assign": 4.041625040305304,
+        "ifstream.cons": 7.776889699701478,
+        "ifstream.members": 10.347035461396104,
+        "ofstream": 2.755406386073881,
+        "ofstream.assign": 3.7905873078760486,
+        "ofstream.cons": 8.141154292286458,
+        "ofstream.members": 11.02888319443088
     }
 }

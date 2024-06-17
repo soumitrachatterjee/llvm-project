@@ -1,19 +1,19 @@
 {
     "directory name": "llvm-project/clang/test/CodeGen/LoongArch/lsx",
-    "score.sum": 2.0805041337561922e-05,
+    "score.sum": 1.8298806206553597e-05,
     "sha.latest": "4c3de45ecf9eea6b4ad850a042706f7865a2aab2",
     "time.latest": 1717900956.165228,
     "formatted_time": "2024-06-09 08:12:36.165231",
     "filescores": {
-        "builtin-alias-error.c": 0,
-        "builtin-alias.c": 6.099602068851199e-06,
-        "builtin-approximate-alias.c": 0,
-        "builtin-approximate.c": 0,
-        "builtin-error.c": 6.099602068851199e-06,
-        "builtin.c": 6.099602068851199e-06,
-        "inline-asm-gcc-regs-error.c": 0,
-        "inline-asm-gcc-regs.c": 0,
-        "inline-asm-operand-modifier.c": 0
+        "builtin-alias-error.c": 0.0,
+        "builtin-alias.c": 33.33333333333333,
+        "builtin-approximate-alias.c": 0.0,
+        "builtin-approximate.c": 0.0,
+        "builtin-error.c": 33.33333333333333,
+        "builtin.c": 33.33333333333333,
+        "inline-asm-gcc-regs-error.c": 0.0,
+        "inline-asm-gcc-regs.c": 0.0,
+        "inline-asm-operand-modifier.c": 0.0
     },
     "subdirscores": {}
 }

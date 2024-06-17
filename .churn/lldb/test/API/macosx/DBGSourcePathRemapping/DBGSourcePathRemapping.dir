@@ -5,10 +5,10 @@
     "time.latest": 1717962129.4961085,
     "formatted_time": "2024-06-10 01:12:09.496114",
     "filescores": {
-        "Makefile": 0,
-        "TestDSYMSourcePathRemapping.py": 1.538246377500573e-05
+        "Makefile": 0.0,
+        "TestDSYMSourcePathRemapping.py": 100.0
     },
     "subdirscores": {
-        "Inputs": 0
+        "Inputs": 0.0
     }
 }

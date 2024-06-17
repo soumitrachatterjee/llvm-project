@@ -5,8 +5,8 @@
     "time.latest": 1717804482.4401271,
     "formatted_time": "2024-06-07 18:54:42.440131",
     "filescores": {
-        "AMDGPUTransformOps.cpp": 6.099602068851199e-06,
-        "CMakeLists.txt": 0
+        "AMDGPUTransformOps.cpp": 100.0,
+        "CMakeLists.txt": 0.0
     },
     "subdirscores": {}
 }

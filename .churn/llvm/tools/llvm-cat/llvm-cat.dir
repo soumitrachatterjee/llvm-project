@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/llvm/tools/llvm-cat",
-    "score.sum": 2.611378725980795e-05,
+    "score.sum": 2.7837171584989636e-05,
     "sha.latest": "d0d1c416cb1eb60c8a9cff8d487c8fea92fe21f2",
     "time.latest": 1718078462.6687343,
     "formatted_time": "2024-06-10 23:01:02.668737",
     "filescores": {
-        "CMakeLists.txt": 6.099602068851199e-06,
-        "llvm-cat.cpp": 2.1737569516138437e-05
+        "CMakeLists.txt": 21.91171631869463,
+        "llvm-cat.cpp": 78.08828368130537
     },
     "subdirscores": {}
 }

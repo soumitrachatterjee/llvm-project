@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/mlir/utils/emacs",
-    "score.sum": 2.3587810213998316e-05,
+    "score.sum": 2.2037926999365455e-05,
     "sha.latest": "5b4abae7630572c96a736faa1f09b1a3c37201a2",
     "time.latest": 1717836785.6712306,
     "formatted_time": "2024-06-08 03:53:05.671233",
     "filescores": {
-        "mlir-lsp-client.el": 6.17760481308459e-06,
-        "mlir-mode.el": 1.5860322186280866e-05
+        "mlir-lsp-client.el": 28.031696507854225,
+        "mlir-mode.el": 71.96830349214578
     },
     "subdirscores": {}
 }

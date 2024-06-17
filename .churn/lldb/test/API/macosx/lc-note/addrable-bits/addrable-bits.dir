@@ -5,9 +5,9 @@
     "time.latest": 1717963050.5176775,
     "formatted_time": "2024-06-10 01:27:30.517680",
     "filescores": {
-        "main.c": 0,
-        "Makefile": 0,
-        "TestAddrableBitsCorefile.py": 1.2575469148276015e-05
+        "main.c": 0.0,
+        "Makefile": 0.0,
+        "TestAddrableBitsCorefile.py": 100.0
     },
     "subdirscores": {}
 }

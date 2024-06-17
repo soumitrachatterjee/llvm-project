@@ -5,7 +5,7 @@
     "time.latest": 1717816940.3499997,
     "formatted_time": "2024-06-07 22:22:20.350003",
     "filescores": {
-        "tosa-to-scf.mlir": 1.8700736932056136e-05
+        "tosa-to-scf.mlir": 100.0
     },
     "subdirscores": {}
 }

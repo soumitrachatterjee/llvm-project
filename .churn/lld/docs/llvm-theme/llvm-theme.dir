@@ -5,10 +5,10 @@
     "time.latest": 1717839234.1662838,
     "formatted_time": "2024-06-08 15:03:54.166287",
     "filescores": {
-        "layout.html": 0,
-        "theme.conf": 0
+        "layout.html": 0.0,
+        "theme.conf": 0.0
     },
     "subdirscores": {
-        "static": 1.642775938817687e-05
+        "static": 100.0
     }
 }

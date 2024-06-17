@@ -5,9 +5,9 @@
     "time.latest": 1717895296.6065938,
     "formatted_time": "2024-06-09 06:38:16.606596",
     "filescores": {
-        "main.mm": 0,
-        "Makefile": 0,
-        "TestFrameVarDirectIvarObjCPlusPlus.py": 6.099602068851199e-06
+        "main.mm": 0.0,
+        "Makefile": 0.0,
+        "TestFrameVarDirectIvarObjCPlusPlus.py": 100.0
     },
     "subdirscores": {}
 }

@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/lldb/test/API/commands/expression/import-std-module/vector",
-    "score.sum": 4.028189767749511e-05,
+    "score.sum": 4.638149974634631e-05,
     "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
     "time.latest": 1717892152.765733,
     "formatted_time": "2024-06-09 05:45:52.765735",
     "filescores": {
-        "main.cpp": 6.099602068851199e-06,
-        "Makefile": 0,
-        "TestVectorFromStdModule.py": 4.028189767749511e-05
+        "main.cpp": 13.150937555294757,
+        "Makefile": 0.0,
+        "TestVectorFromStdModule.py": 86.84906244470524
     },
     "subdirscores": {}
 }

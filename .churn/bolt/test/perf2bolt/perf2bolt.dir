@@ -5,10 +5,10 @@
     "time.latest": 1717790752.2677567,
     "formatted_time": "2024-06-08 01:35:52.267761",
     "filescores": {
-        "lit.local.cfg": 0,
-        "perf_test.test": 0
+        "lit.local.cfg": 0.0,
+        "perf_test.test": 0.0
     },
     "subdirscores": {
-        "Inputs": 6.099602068851199e-06
+        "Inputs": 100.0
     }
 }

@@ -5,8 +5,8 @@
     "time.latest": 1717969919.410742,
     "formatted_time": "2024-06-10 03:21:59.410745",
     "filescores": {
-        "swap.asan.pass.cpp": 0,
-        "swap.pass.cpp": 3.865597770191641e-05
+        "swap.asan.pass.cpp": 0.0,
+        "swap.pass.cpp": 100.0
     },
     "subdirscores": {}
 }

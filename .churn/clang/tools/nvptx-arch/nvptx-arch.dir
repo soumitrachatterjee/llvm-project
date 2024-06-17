@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/clang/tools/nvptx-arch",
-    "score.sum": 2.483324854962059e-05,
+    "score.sum": 3.614193424421581e-05,
     "sha.latest": "66da9ec073ff8dde54b70adcf3b62914769324bf",
     "time.latest": 1718082619.4857643,
     "formatted_time": "2024-06-11 10:40:19.485767",
     "filescores": {
-        "CMakeLists.txt": 1.9514128263693225e-05,
-        "NVPTXArch.cpp": 1.6627805980522586e-05
+        "CMakeLists.txt": 53.99303792606586,
+        "NVPTXArch.cpp": 46.00696207393415
     },
     "subdirscores": {}
 }

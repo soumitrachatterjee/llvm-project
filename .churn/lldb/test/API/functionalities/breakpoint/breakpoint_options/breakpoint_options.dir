@@ -5,10 +5,10 @@
     "time.latest": 1717902773.2342987,
     "formatted_time": "2024-06-09 08:42:53.234301",
     "filescores": {
-        "foo.cpp": 0,
-        "main.cpp": 0,
-        "Makefile": 0,
-        "TestBreakpointOptions.py": 2.0635258264189235e-05
+        "foo.cpp": 0.0,
+        "main.cpp": 0.0,
+        "Makefile": 0.0,
+        "TestBreakpointOptions.py": 100.0
     },
     "subdirscores": {}
 }

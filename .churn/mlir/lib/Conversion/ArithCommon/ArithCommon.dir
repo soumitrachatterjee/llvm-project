@@ -5,8 +5,8 @@
     "time.latest": 1717802413.6534317,
     "formatted_time": "2024-06-07 18:20:13.653436",
     "filescores": {
-        "AttrToLLVMConverter.cpp": 3.017076153345825e-05,
-        "CMakeLists.txt": 0
+        "AttrToLLVMConverter.cpp": 100.0,
+        "CMakeLists.txt": 0.0
     },
     "subdirscores": {}
 }

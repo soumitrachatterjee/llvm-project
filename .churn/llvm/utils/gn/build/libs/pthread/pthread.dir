@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/llvm/utils/gn/build/libs/pthread",
-    "score.sum": 2.4896388764418014e-05,
+    "score.sum": 2.4896163226240213e-05,
     "sha.latest": "e26b25f8b1fdbc088abdfab933d909960989c64b",
     "time.latest": 1718080186.6318743,
     "formatted_time": "2024-06-10 23:29:46.631878",
     "filescores": {
-        "BUILD.gn": 2.4896163226240213e-05,
-        "enable.gni": 0
+        "BUILD.gn": 100.0,
+        "enable.gni": 0.0
     },
     "subdirscores": {}
 }

@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/libcxx/test/std/strings/basic.string/string.modifiers/string_erase",
-    "score.sum": 4.8631589335853626e-05,
+    "score.sum": 0.00016955182889105135,
     "sha.latest": "9ed20568e7de53dce85f1631d7d8c1415e7930ae",
     "time.latest": 1717969504.4105084,
     "formatted_time": "2024-06-10 03:15:04.410512",
     "filescores": {
-        "iter.pass.cpp": 4.0306746518399245e-05,
-        "iter_iter.pass.cpp": 4.0306746518399245e-05,
-        "pop_back.pass.cpp": 4.0306746518399245e-05,
-        "size_size.pass.cpp": 4.8631589335853626e-05
+        "iter.pass.cpp": 23.772522409238704,
+        "iter_iter.pass.cpp": 23.772522409238704,
+        "pop_back.pass.cpp": 23.772522409238704,
+        "size_size.pass.cpp": 28.682432772283896
     },
     "subdirscores": {}
 }

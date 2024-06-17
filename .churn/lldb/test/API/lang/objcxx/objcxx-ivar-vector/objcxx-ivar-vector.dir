@@ -5,8 +5,8 @@
     "time.latest": 1717960549.2147188,
     "formatted_time": "2024-06-10 00:45:49.214722",
     "filescores": {
-        "main.mm": 0,
-        "TestIvarVector.py": 1.2139001116993191e-05
+        "main.mm": 0.0,
+        "TestIvarVector.py": 100.0
     },
     "subdirscores": {}
 }

@@ -1,22 +1,22 @@
 {
     "directory name": "llvm-project/clang/test/ClangScanDeps/Inputs/modules-pch",
-    "score.sum": 6.171043961974389e-06,
+    "score.sum": 1.8298806206553597e-05,
     "sha.latest": "f726da1193baf51e0a66453cc32dcffb8a9121d4",
     "time.latest": 1717868817.025234,
     "formatted_time": "2024-06-08 23:16:57.025237",
     "filescores": {
-        "cdb_pch.json": 6.099602068851199e-06,
-        "cdb_tu.json": 0,
-        "cdb_tu_with_common.json": 0,
-        "module.modulemap": 6.099602068851199e-06,
-        "mod_common_1.h": 0,
-        "mod_common_2.h": 0,
-        "mod_pch.h": 0,
-        "mod_tu.h": 0,
-        "mod_tu_with_common.h": 0,
-        "pch.h": 6.099602068851199e-06,
-        "tu.c": 0,
-        "tu_with_common.c": 0
+        "cdb_pch.json": 33.33333333333333,
+        "cdb_tu.json": 0.0,
+        "cdb_tu_with_common.json": 0.0,
+        "module.modulemap": 33.33333333333333,
+        "mod_common_1.h": 0.0,
+        "mod_common_2.h": 0.0,
+        "mod_pch.h": 0.0,
+        "mod_tu.h": 0.0,
+        "mod_tu_with_common.h": 0.0,
+        "pch.h": 33.33333333333333,
+        "tu.c": 0.0,
+        "tu_with_common.c": 0.0
     },
     "subdirscores": {}
 }

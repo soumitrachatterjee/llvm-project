@@ -5,8 +5,8 @@
     "time.latest": 1718081678.0789473,
     "formatted_time": "2024-06-11 10:24:38.078951",
     "filescores": {
-        "Images_32bit.bmp": 0,
-        "Package.ico": 1.829052524057714e-05
+        "Images_32bit.bmp": 0.0,
+        "Package.ico": 100.0
     },
     "subdirscores": {}
 }

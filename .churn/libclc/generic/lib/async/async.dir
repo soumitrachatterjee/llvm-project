@@ -1,17 +1,17 @@
 {
     "directory name": "llvm-project/libclc/generic/lib/async",
-    "score.sum": 1.0072197731523772e-05,
+    "score.sum": 2.4398408275404796e-05,
     "sha.latest": "3d21fa56f5f5afbbf16b35b199480af71e1189a3",
     "time.latest": 1717827933.833736,
     "formatted_time": "2024-06-08 01:25:33.833740",
     "filescores": {
-        "async_work_group_copy.cl": 6.099602068851199e-06,
-        "async_work_group_copy.inc": 0,
-        "async_work_group_strided_copy.cl": 6.099602068851199e-06,
-        "async_work_group_strided_copy.inc": 0,
-        "prefetch.cl": 6.099602068851199e-06,
-        "prefetch.inc": 0,
-        "wait_group_events.cl": 6.099602068851199e-06
+        "async_work_group_copy.cl": 25.0,
+        "async_work_group_copy.inc": 0.0,
+        "async_work_group_strided_copy.cl": 25.0,
+        "async_work_group_strided_copy.inc": 0.0,
+        "prefetch.cl": 25.0,
+        "prefetch.inc": 0.0,
+        "wait_group_events.cl": 25.0
     },
     "subdirscores": {}
 }

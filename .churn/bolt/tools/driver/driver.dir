@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/bolt/tools/driver",
-    "score.sum": 5.943869383011248e-05,
+    "score.sum": 7.480788070587973e-05,
     "sha.latest": "52cf07116bf0a8cab87b0f55176d198bcaa02575",
     "time.latest": 1717796887.215268,
     "formatted_time": "2024-06-08 03:18:07.215271",
     "filescores": {
-        "CMakeLists.txt": 4.849006463056062e-05,
-        "llvm-bolt.cpp": 2.6317816075319106e-05
+        "CMakeLists.txt": 64.81946042718118,
+        "llvm-bolt.cpp": 35.18053957281881
     },
     "subdirscores": {}
 }

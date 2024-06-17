@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/clang/unittests/Introspection",
-    "score.sum": 4.547253022492534e-05,
+    "score.sum": 5.140546655383885e-05,
     "sha.latest": "7d5d987e93bb4650d1dade41f0d5c5025ccb5b5c",
     "time.latest": 1718082496.4061427,
     "formatted_time": "2024-06-11 10:38:16.406146",
     "filescores": {
-        "CMakeLists.txt": 6.3515258677495174e-06,
-        "IntrospectionTest.cpp": 4.505394068608933e-05
+        "CMakeLists.txt": 12.355740145062839,
+        "IntrospectionTest.cpp": 87.64425985493716
     },
     "subdirscores": {}
 }

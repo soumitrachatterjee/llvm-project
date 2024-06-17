@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/libc/test/src/sys/sendfile",
-    "score.sum": 2.9468269370748925e-05,
+    "score.sum": 3.2785290018510474e-05,
     "sha.latest": "3eb1e6d8e930f5aff17b8d6bcc160f5bbf8cabc7",
     "time.latest": 1717851061.477619,
     "formatted_time": "2024-06-08 07:51:01.477620",
     "filescores": {
-        "CMakeLists.txt": 6.099602068851199e-06,
-        "sendfile_test.cpp": 2.668568794965928e-05
+        "CMakeLists.txt": 18.604691510757974,
+        "sendfile_test.cpp": 81.39530848924204
     },
     "subdirscores": {
-        "testdata": 0
+        "testdata": 0.0
     }
 }

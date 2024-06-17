@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/libcxx/test/std/algorithms/alg.sorting/alg.partitions",
-    "score.sum": 1.753009071481327e-05,
+    "score.sum": 1.3237678116896305e-05,
     "sha.latest": "c000f754bfb9fb3a7a0a1f9b0485f36ae70534b7",
     "time.latest": 1717871482.2557616,
     "formatted_time": "2024-06-09 00:01:22.255765",
     "filescores": {
-        "pstl.is_partitioned.pass.cpp": 0,
-        "ranges.is_partitioned.pass.cpp": 1.3237678116896305e-05
+        "pstl.is_partitioned.pass.cpp": 0.0,
+        "ranges.is_partitioned.pass.cpp": 100.0
     },
     "subdirscores": {}
 }

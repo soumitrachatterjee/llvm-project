@@ -5,8 +5,8 @@
     "time.latest": 1717804166.8552032,
     "formatted_time": "2024-06-07 18:49:26.855206",
     "filescores": {
-        "CMakeLists.txt": 0,
-        "UBToLLVM.cpp": 8.833001433241365e-06
+        "CMakeLists.txt": 0.0,
+        "UBToLLVM.cpp": 100.0
     },
     "subdirscores": {}
 }

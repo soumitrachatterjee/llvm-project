@@ -5,8 +5,8 @@
     "time.latest": 1717829905.7747598,
     "formatted_time": "2024-06-08 01:58:25.774763",
     "filescores": {
-        "CMakeLists.txt": 0,
-        "mutex.h": 1.204093606109984e-05
+        "CMakeLists.txt": 0.0,
+        "mutex.h": 100.0
     },
     "subdirscores": {}
 }

@@ -1,18 +1,18 @@
 {
     "directory name": "llvm-project/mlir/test/Integration/Dialect/Vector/CPU/AMX",
-    "score.sum": 5.870563363898132e-05,
+    "score.sum": 0.00029379889990360206,
     "sha.latest": "f9008e6366c2496b1ca1785b891d5578174ad63e",
     "time.latest": 1717827181.561558,
     "formatted_time": "2024-06-08 01:13:01.561562",
     "filescores": {
-        "lit.local.cfg": 7.700785880487565e-06,
-        "test-mulf-full.mlir": 2.9769128062327584e-05,
-        "test-mulf.mlir": 4.625998560697483e-05,
-        "test-muli-ext.mlir": 4.342100619194971e-05,
-        "test-muli-full.mlir": 2.975917820812271e-05,
-        "test-muli.mlir": 4.629592201301833e-05,
-        "test-tilezero-block.mlir": 4.708803293122273e-05,
-        "test-tilezero.mlir": 4.3504861009498584e-05
+        "lit.local.cfg": 2.6211077995915777,
+        "test-mulf-full.mlir": 10.1324845232896,
+        "test-mulf.mlir": 15.745459095372084,
+        "test-muli-ext.mlir": 14.779158875746818,
+        "test-muli-full.mlir": 10.129097902642574,
+        "test-muli.mlir": 15.757690729341881,
+        "test-tilezero-block.mlir": 16.027300628652018,
+        "test-tilezero.mlir": 14.807700445363444
     },
     "subdirscores": {}
 }

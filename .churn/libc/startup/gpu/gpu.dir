@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/libc/startup/gpu",
-    "score.sum": 8.080492291446681e-05,
+    "score.sum": 0.00013754491191411293,
     "sha.latest": "0352d5eee06c214681696395a0442006e6d16656",
     "time.latest": 1717843691.4798405,
     "formatted_time": "2024-06-08 05:48:11.479842",
     "filescores": {
-        "CMakeLists.txt": 1.2602105725977766e-05
+        "CMakeLists.txt": 9.162175140180315
     },
     "subdirscores": {
-        "amdgpu": 7.00125649093876e-05,
-        "nvptx": 5.493024127874757e-05
+        "amdgpu": 50.90160292741726,
+        "nvptx": 39.936221932402425
     }
 }

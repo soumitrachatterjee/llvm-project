@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/libcxx/test/std/re/re.const",
-    "score.sum": 7.968758455106348e-05,
+    "score.sum": 0.00011333312025223774,
     "sha.latest": "d83a3ea529575f17ea6ea608a43bca0b3065dcfe",
     "time.latest": 1717966113.7234685,
     "formatted_time": "2024-06-10 02:18:33.723471",
     "filescores": {},
     "subdirscores": {
-        "re.err": 1.8609527010276064e-05,
-        "re.matchflag": 6.128154212494406e-05,
-        "re.synopt": 3.344205111701762e-05
+        "re.err": 16.420201763489896,
+        "re.matchflag": 54.07205059611342,
+        "re.synopt": 29.50774764039668
     }
 }

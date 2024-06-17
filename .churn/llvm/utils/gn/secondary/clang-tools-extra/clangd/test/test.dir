@@ -5,8 +5,8 @@
     "time.latest": 1718082484.2221525,
     "formatted_time": "2024-06-11 00:08:04.222156",
     "filescores": {
-        "BUILD.gn": 4.1829100434591906e-05,
-        "clangd_lit_site_cfg_files.gni": 0
+        "BUILD.gn": 100.0,
+        "clangd_lit_site_cfg_files.gni": 0.0
     },
     "subdirscores": {}
 }

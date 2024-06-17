@@ -1,15 +1,15 @@
 {
     "directory name": "llvm-project/lldb/test/API/python_api/debugger",
-    "score.sum": 4.693492178148004e-05,
+    "score.sum": 7.244320780414664e-05,
     "sha.latest": "80fcecb13c388ff087a27a4b0e7ca3dd8c98eaa4",
     "time.latest": 1717964731.1821766,
     "formatted_time": "2024-06-10 01:55:31.182182",
     "filescores": {
-        "elf.yaml": 6.1144697372448945e-06,
-        "macho.yaml": 6.1144697372448945e-06,
-        "main.cpp": 6.639673274088401e-06,
-        "Makefile": 6.639673274088401e-06,
-        "TestDebuggerAPI.py": 4.693492178148004e-05
+        "elf.yaml": 8.440363041039857,
+        "macho.yaml": 8.440363041039857,
+        "main.cpp": 9.16534962399656,
+        "Makefile": 9.16534962399656,
+        "TestDebuggerAPI.py": 64.78857466992716
     },
     "subdirscores": {}
 }

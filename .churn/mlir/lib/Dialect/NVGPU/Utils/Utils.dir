@@ -5,8 +5,8 @@
     "time.latest": 1717807831.9472127,
     "formatted_time": "2024-06-07 19:50:31.947216",
     "filescores": {
-        "CMakeLists.txt": 0,
-        "MMAUtils.cpp": 1.631867647679667e-05
+        "CMakeLists.txt": 0.0,
+        "MMAUtils.cpp": 100.0
     },
     "subdirscores": {}
 }

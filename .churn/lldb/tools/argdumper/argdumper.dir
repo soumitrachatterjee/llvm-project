@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/lldb/tools/argdumper",
-    "score.sum": 5.242126803215092e-05,
+    "score.sum": 6.138219479591519e-05,
     "sha.latest": "11565320fd55117f04b9cc812e28a30962283c3e",
     "time.latest": 1717985272.4208713,
     "formatted_time": "2024-06-10 07:37:52.420874",
     "filescores": {
-        "argdumper.cpp": 1.8279060498924168e-05,
-        "CMakeLists.txt": 4.310313429699102e-05
+        "argdumper.cpp": 29.779092389411577,
+        "CMakeLists.txt": 70.22090761058843
     },
     "subdirscores": {}
 }

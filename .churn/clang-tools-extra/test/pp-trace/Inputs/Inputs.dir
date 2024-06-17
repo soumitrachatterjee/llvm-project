@@ -1,16 +1,16 @@
 {
     "directory name": "llvm-project/clang-tools-extra/test/pp-trace/Inputs",
-    "score.sum": 6.1374348249021934e-06,
+    "score.sum": 1.2199204137702398e-05,
     "sha.latest": "a171d248ca34b8b6f8de11d42a83ad981285963a",
     "time.latest": 1717836235.645566,
     "formatted_time": "2024-06-08 14:13:55.645569",
     "filescores": {
-        "Level1A.h": 0,
-        "Level1B.h": 6.099602068851199e-06,
-        "Level2A.h": 0,
-        "Level2B.h": 0,
-        "ModularizeList.txt": 6.099602068851199e-06,
-        "module.modulemap": 0
+        "Level1A.h": 0.0,
+        "Level1B.h": 50.0,
+        "Level2A.h": 0.0,
+        "Level2B.h": 0.0,
+        "ModularizeList.txt": 50.0,
+        "module.modulemap": 0.0
     },
     "subdirscores": {}
 }

@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/lldb/test/API/lang/c/bitfields",
-    "score.sum": 1.9837559915632197e-05,
+    "score.sum": 2.8505951505318078e-05,
     "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
     "time.latest": 1717924871.0752172,
     "formatted_time": "2024-06-09 14:51:11.075220",
     "filescores": {
-        "main.c": 8.711941715634502e-06,
-        "Makefile": 0,
-        "TestBitfields.py": 1.9794009789683574e-05
+        "main.c": 30.56183447870246,
+        "Makefile": 0.0,
+        "TestBitfields.py": 69.43816552129753
     },
     "subdirscores": {}
 }

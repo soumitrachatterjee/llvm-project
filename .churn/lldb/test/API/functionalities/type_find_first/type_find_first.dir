@@ -5,9 +5,9 @@
     "time.latest": 1717923594.0208135,
     "formatted_time": "2024-06-09 14:29:54.020815",
     "filescores": {
-        "main.cpp": 0,
-        "Makefile": 0,
-        "TestFindFirstType.py": 6.099602068851199e-06
+        "main.cpp": 0.0,
+        "Makefile": 0.0,
+        "TestFindFirstType.py": 100.0
     },
     "subdirscores": {}
 }

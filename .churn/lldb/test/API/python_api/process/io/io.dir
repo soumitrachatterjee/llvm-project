@@ -5,9 +5,9 @@
     "time.latest": 1717966224.9464407,
     "formatted_time": "2024-06-10 02:20:24.946443",
     "filescores": {
-        "main.c": 0,
-        "Makefile": 0,
-        "TestProcessIO.py": 2.857815936334243e-05
+        "main.c": 0.0,
+        "Makefile": 0.0,
+        "TestProcessIO.py": 100.0
     },
     "subdirscores": {}
 }

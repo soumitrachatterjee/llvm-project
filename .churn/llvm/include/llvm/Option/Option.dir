@@ -1,16 +1,16 @@
 {
     "directory name": "llvm-project/llvm/include/llvm/Option",
-    "score.sum": 0.0005799721751937851,
+    "score.sum": 0.0007634155193390509,
     "sha.latest": "57eb4826e5b4c99751c6eff4e4fc50b55919e5ae",
     "time.latest": 1717820139.8834176,
     "formatted_time": "2024-06-07 23:15:39.883421",
     "filescores": {
-        "Arg.h": 3.999204266665895e-05,
-        "ArgList.h": 0.00011596292900938622,
-        "OptParser.td": 0.00022194241863551017,
-        "OptSpecifier.h": 2.1819796216646552e-05,
-        "OptTable.h": 0.000249962579097946,
-        "Option.h": 0.00011373575371290312
+        "Arg.h": 5.238568204807157,
+        "ArgList.h": 15.190014621366945,
+        "OptParser.td": 29.072295887783795,
+        "OptSpecifier.h": 2.8581808548426775,
+        "OptTable.h": 32.742664088668036,
+        "Option.h": 14.89827634253141
     },
     "subdirscores": {}
 }

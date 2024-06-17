@@ -1,15 +1,15 @@
 {
     "directory name": "llvm-project/libcxx/test/std/input.output/iostreams.base/std.ios.manip",
-    "score.sum": 1.8665377791775296e-05,
+    "score.sum": 8.442725664381629e-05,
     "sha.latest": "fbdf684fae5243e7a9ff50dd4abdc5b55e6aa895",
     "time.latest": 1717908557.6680214,
     "formatted_time": "2024-06-09 10:19:17.668023",
     "filescores": {},
     "subdirscores": {
-        "adjustfield.manip": 1.7366275644238228e-05,
-        "basefield.manip": 1.7366275644238228e-05,
-        "error.reporting": 1.4962154066863378e-05,
-        "floatfield.manip": 1.7366275644238228e-05,
-        "fmtflags.manip": 1.7366275644238228e-05
+        "adjustfield.manip": 20.569513134251753,
+        "basefield.manip": 20.569513134251753,
+        "error.reporting": 17.721947462992986,
+        "floatfield.manip": 20.569513134251753,
+        "fmtflags.manip": 20.569513134251753
     }
 }

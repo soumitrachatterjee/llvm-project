@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/libc/src/stdlib/gpu",
-    "score.sum": 1.2827739297966891e-05,
+    "score.sum": 3.453088643890237e-05,
     "sha.latest": "ea697dcc2ad9e6a1cc313d792b485d9218a943a1",
     "time.latest": 1717839815.0285695,
     "formatted_time": "2024-06-08 04:43:35.028572",
     "filescores": {
-        "CMakeLists.txt": 7.993777073097207e-06,
-        "abort.cpp": 8.994699021442779e-06,
-        "free.cpp": 8.771205172181192e-06,
-        "malloc.cpp": 8.771205172181192e-06
+        "CMakeLists.txt": 23.149643398935297,
+        "abort.cpp": 26.048271414513657,
+        "free.cpp": 25.40104259327552,
+        "malloc.cpp": 25.40104259327552
     },
     "subdirscores": {}
 }

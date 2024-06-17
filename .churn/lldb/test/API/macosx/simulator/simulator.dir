@@ -5,9 +5,9 @@
     "time.latest": 1717964060.0188925,
     "formatted_time": "2024-06-10 01:44:20.018895",
     "filescores": {
-        "hello.c": 0,
-        "Makefile": 0,
-        "TestSimulatorPlatform.py": 2.634305695343291e-05
+        "hello.c": 0.0,
+        "Makefile": 0.0,
+        "TestSimulatorPlatform.py": 100.0
     },
     "subdirscores": {}
 }

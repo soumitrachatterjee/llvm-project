@@ -1,28 +1,28 @@
 {
     "directory name": "llvm-project/clang-tools-extra/pseudo/test",
-    "score.sum": 7.175525528452536e-05,
+    "score.sum": 0.00017167197497436806,
     "sha.latest": "dd3c26a045c081620375a878159f536758baba6e",
     "time.latest": 1717815453.927554,
     "formatted_time": "2024-06-08 08:27:33.927556",
     "filescores": {
-        ".clang-format": 0,
-        "check-cxx-bnf.test": 6.103973070492918e-06,
-        "CMakeLists.txt": 9.886500846598083e-06,
-        "fuzzer.cpp": 6.099602068851199e-06,
-        "glr-variant-start.cpp": 0,
-        "glr.cpp": 2.379466326025479e-05,
-        "html-forest.c": 0,
-        "lex.c": 1.1267332435367681e-05,
-        "lit.cfg.py": 8.955315018465542e-06,
-        "lit.local.cfg": 7.573356258477533e-06,
-        "lit.site.cfg.py.in": 6.1465077339424024e-06,
-        "lr-build-basic.test": 1.4028951900901949e-05,
-        "lr-build-conflicts.test": 1.3811787646393344e-05,
-        "strip-directives.c": 0
+        ".clang-format": 0.0,
+        "check-cxx-bnf.test": 3.555602521264341,
+        "CMakeLists.txt": 5.758948627505575,
+        "fuzzer.cpp": 3.553056385447838,
+        "glr-variant-start.cpp": 0.0,
+        "glr.cpp": 13.860540291336147,
+        "html-forest.c": 0.0,
+        "lex.c": 6.563291671252679,
+        "lit.cfg.py": 5.21652705387856,
+        "lit.local.cfg": 4.411527425841226,
+        "lit.site.cfg.py.in": 3.580379228968574,
+        "lr-build-basic.test": 8.171952296230401,
+        "lr-build-conflicts.test": 8.045452758643657,
+        "strip-directives.c": 0.0
     },
     "subdirscores": {
-        "crash": 0,
-        "cxx": 5.5048669716157055e-05,
-        "Unit": 8.955315018465542e-06
+        "crash": 0.0,
+        "cxx": 32.06619468575243,
+        "Unit": 5.21652705387856
     }
 }

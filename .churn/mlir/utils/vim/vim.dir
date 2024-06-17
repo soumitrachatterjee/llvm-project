@@ -1,16 +1,16 @@
 {
     "directory name": "llvm-project/mlir/utils/vim",
-    "score.sum": 5.749782508846797e-05,
+    "score.sum": 5.036606491387901e-05,
     "sha.latest": "6ad6b00f6a47cd23b882f65ba6da45e227ba536a",
     "time.latest": 1717837435.041374,
     "formatted_time": "2024-06-08 04:03:55.041375",
     "filescores": {
-        "README": 6.099602068851199e-06
+        "README": 12.110539267423244
     },
     "subdirscores": {
-        "ftdetect": 0,
-        "ftplugin": 0,
-        "indent": 0,
-        "syntax": 4.4266462845027813e-05
+        "ftdetect": 0.0,
+        "ftplugin": 0.0,
+        "indent": 0.0,
+        "syntax": 87.88946073257675
     }
 }

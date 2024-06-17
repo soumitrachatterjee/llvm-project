@@ -5,8 +5,8 @@
     "time.latest": 1717819459.646192,
     "formatted_time": "2024-06-07 23:04:19.646195",
     "filescores": {
-        "WasmConfig.h": 0,
-        "WasmObjcopy.h": 6.099602068851199e-06
+        "WasmConfig.h": 0.0,
+        "WasmObjcopy.h": 100.0
     },
     "subdirscores": {}
 }

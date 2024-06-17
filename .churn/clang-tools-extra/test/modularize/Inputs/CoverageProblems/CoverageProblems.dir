@@ -1,23 +1,23 @@
 {
     "directory name": "llvm-project/clang-tools-extra/test/modularize/Inputs/CoverageProblems",
-    "score.sum": 6.909286252433368e-06,
+    "score.sum": 6.363302252724044e-06,
     "sha.latest": "a171d248ca34b8b6f8de11d42a83ad981285963a",
     "time.latest": 1717835205.9400525,
     "formatted_time": "2024-06-08 13:56:45.940056",
     "filescores": {
-        "Level1A.h": 0,
-        "Level1B.h": 0,
-        "Level2A.h": 0,
-        "Level2B.h": 0,
-        "Level3A.h": 0,
-        "Level3B": 0,
-        "module.modulemap": 6.363302252724044e-06,
-        "UmbrellaFile.h": 0,
-        "UmbrellaInclude1.h": 0,
-        "UmbrellaInclude2.h": 0
+        "Level1A.h": 0.0,
+        "Level1B.h": 0.0,
+        "Level2A.h": 0.0,
+        "Level2B.h": 0.0,
+        "Level3A.h": 0.0,
+        "Level3B": 0.0,
+        "module.modulemap": 100.0,
+        "UmbrellaFile.h": 0.0,
+        "UmbrellaInclude1.h": 0.0,
+        "UmbrellaInclude2.h": 0.0
     },
     "subdirscores": {
-        "Sub": 0,
-        "UmbrellaSub": 0
+        "Sub": 0.0,
+        "UmbrellaSub": 0.0
     }
 }

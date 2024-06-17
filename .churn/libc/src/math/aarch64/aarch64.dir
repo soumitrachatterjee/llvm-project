@@ -1,19 +1,19 @@
 {
     "directory name": "llvm-project/libc/src/math/aarch64",
-    "score.sum": 1.7853724821194404e-05,
+    "score.sum": 6.714493360602999e-05,
     "sha.latest": "b6bc9d72f65a5086f310f321e969d96e9a559e75",
     "time.latest": 1717831035.5074906,
     "formatted_time": "2024-06-08 02:17:15.507494",
     "filescores": {
-        "CMakeLists.txt": 1.8312795424698967e-05,
-        "ceil.cpp": 6.1172628841119095e-06,
-        "ceilf.cpp": 6.1172628841119095e-06,
-        "floor.cpp": 6.099602068851199e-06,
-        "floorf.cpp": 6.099602068851199e-06,
-        "round.cpp": 6.099602068851199e-06,
-        "roundf.cpp": 6.099602068851199e-06,
-        "trunc.cpp": 6.099602068851199e-06,
-        "truncf.cpp": 6.099602068851199e-06
+        "CMakeLists.txt": 27.27353270188412,
+        "ceil.cpp": 9.110535308597797,
+        "ceilf.cpp": 9.110535308597797,
+        "floor.cpp": 9.08423278015338,
+        "floorf.cpp": 9.08423278015338,
+        "round.cpp": 9.08423278015338,
+        "roundf.cpp": 9.08423278015338,
+        "trunc.cpp": 9.08423278015338,
+        "truncf.cpp": 9.08423278015338
     },
     "subdirscores": {}
 }

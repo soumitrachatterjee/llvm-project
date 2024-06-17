@@ -1,18 +1,18 @@
 {
     "directory name": "llvm-project/mlir/docs/Rationale",
-    "score.sum": 9.115860404747928e-05,
+    "score.sum": 0.00012114878860568302,
     "sha.latest": "777a6e6f10b2b90496d248b7fa904fce834484be",
     "time.latest": 1717788304.15684,
     "formatted_time": "2024-06-07 14:25:04.156843",
     "filescores": {
-        "MLIRForGraphAlgorithms.md": 1.9571731329456662e-05,
-        "Rationale.md": 4.39951233088822e-05,
-        "RationaleGenericDAGRewriter.md": 1.230290435394754e-05,
-        "RationaleLinalgDialect.md": 1.728144718737138e-05,
-        "RationaleSimplifiedPolyhedralForm.md": 0,
-        "SideEffectsAndSpeculation.md": 9.367975495833874e-06,
-        "UsageOfConst.md": 1.8629606930191357e-05,
-        "_index.md": 0
+        "MLIRForGraphAlgorithms.md": 16.155119299755476,
+        "Rationale.md": 36.31495107398739,
+        "RationaleGenericDAGRewriter.md": 10.155202124217046,
+        "RationaleLinalgDialect.md": 14.264647122159271,
+        "RationaleSimplifiedPolyhedralForm.md": 0.0,
+        "SideEffectsAndSpeculation.md": 7.732620031657856,
+        "UsageOfConst.md": 15.377460348222957,
+        "_index.md": 0.0
     },
     "subdirscores": {}
 }

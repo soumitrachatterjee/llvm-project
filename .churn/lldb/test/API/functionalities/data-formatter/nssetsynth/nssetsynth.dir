@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/lldb/test/API/functionalities/data-formatter/nssetsynth",
-    "score.sum": 1.8778380355056508e-05,
+    "score.sum": 2.4834432297959084e-05,
     "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
     "time.latest": 1717908040.196056,
     "formatted_time": "2024-06-09 10:10:40.196057",
     "filescores": {
-        "main.m": 6.099602068851199e-06,
-        "Makefile": 0,
-        "TestNSSetSynthetic.py": 1.8734830229107885e-05
+        "main.m": 24.561069066001842,
+        "Makefile": 0.0,
+        "TestNSSetSynthetic.py": 75.43893093399817
     },
     "subdirscores": {}
 }

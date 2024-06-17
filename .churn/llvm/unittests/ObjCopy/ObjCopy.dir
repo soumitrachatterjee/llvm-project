@@ -5,8 +5,8 @@
     "time.latest": 1718082082.7757478,
     "formatted_time": "2024-06-11 00:01:22.775751",
     "filescores": {
-        "CMakeLists.txt": 0,
-        "ObjCopyTest.cpp": 6.618744247827031e-06
+        "CMakeLists.txt": 0.0,
+        "ObjCopyTest.cpp": 100.0
     },
     "subdirscores": {}
 }

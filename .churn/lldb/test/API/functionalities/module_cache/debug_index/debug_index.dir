@@ -5,8 +5,8 @@
     "time.latest": 1717912646.3307636,
     "formatted_time": "2024-06-09 11:27:26.330766",
     "filescores": {
-        "exe.yaml": 0,
-        "TestDebugIndexCache.py": 8.133929388460305e-06
+        "exe.yaml": 0.0,
+        "TestDebugIndexCache.py": 100.0
     },
     "subdirscores": {}
 }

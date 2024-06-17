@@ -1,15 +1,15 @@
 {
     "directory name": "llvm-project/lldb/test/API/functionalities/data-formatter/data-formatter-stl/generic/list",
-    "score.sum": 1.641722016331716e-05,
+    "score.sum": 3.090942051001738e-05,
     "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
     "time.latest": 1717905980.8866637,
     "formatted_time": "2024-06-09 09:36:20.886666",
     "filescores": {
-        "main.cpp": 6.099602068851199e-06,
-        "Makefile": 0,
-        "TestDataFormatterGenericList.py": 1.3989462981951182e-05
+        "main.cpp": 19.733796260833778,
+        "Makefile": 0.0,
+        "TestDataFormatterGenericList.py": 45.25954466670561
     },
     "subdirscores": {
-        "loop": 1.0820355459215e-05
+        "loop": 35.00665907246061
     }
 }

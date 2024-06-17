@@ -5,8 +5,8 @@
     "time.latest": 1717933672.4608915,
     "formatted_time": "2024-06-09 17:17:52.460894",
     "filescores": {
-        "main.cpp": 6.099602068851199e-06,
-        "TestNamespaceConflicts.py": 0
+        "main.cpp": 100.0,
+        "TestNamespaceConflicts.py": 0.0
     },
     "subdirscores": {}
 }

@@ -1,19 +1,19 @@
 {
     "directory name": "llvm-project/lldb/test/Shell/Quit",
-    "score.sum": 7.547918953401054e-06,
+    "score.sum": 6.131433970889353e-05,
     "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
     "time.latest": 1717976730.1900065,
     "formatted_time": "2024-06-10 05:15:30.190009",
     "filescores": {
-        "expect_exit_code.py": 6.100306422822876e-06,
-        "TestQuitExitCode-30.test": 6.108467811475665e-06,
-        "TestQuitExitCode0.test": 8.22683439832498e-06,
-        "TestQuitExitCode30.test": 6.108467811475665e-06,
-        "TestQuitExitCodeHex0.test": 8.22683439832498e-06,
-        "TestQuitExitCodeHexA.test": 6.108467811475665e-06,
-        "TestQuitExitCodeImplicit0.test": 8.22683439832498e-06,
-        "TestQuitExitCodeNonInt.test": 6.10406332833436e-06,
-        "TestQuitExitCodeTooManyArgs.test": 6.10406332833436e-06
+        "expect_exit_code.py": 9.949232841429486,
+        "TestQuitExitCode-30.test": 9.962543575413637,
+        "TestQuitExitCode0.test": 13.417472058549615,
+        "TestQuitExitCode30.test": 9.962543575413637,
+        "TestQuitExitCodeHex0.test": 13.417472058549615,
+        "TestQuitExitCodeHexA.test": 9.962543575413637,
+        "TestQuitExitCodeImplicit0.test": 13.417472058549615,
+        "TestQuitExitCodeNonInt.test": 9.95536012834038,
+        "TestQuitExitCodeTooManyArgs.test": 9.95536012834038
     },
     "subdirscores": {}
 }

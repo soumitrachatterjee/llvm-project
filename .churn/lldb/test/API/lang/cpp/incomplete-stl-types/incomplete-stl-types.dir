@@ -5,10 +5,10 @@
     "time.latest": 1717932487.475487,
     "formatted_time": "2024-06-09 16:58:07.475490",
     "filescores": {
-        "f.cpp": 0,
-        "main.cpp": 0,
-        "Makefile": 0,
-        "TestStlIncompleteTypes.py": 6.099602068851199e-06
+        "f.cpp": 0.0,
+        "main.cpp": 0.0,
+        "Makefile": 0.0,
+        "TestStlIncompleteTypes.py": 100.0
     },
     "subdirscores": {}
 }

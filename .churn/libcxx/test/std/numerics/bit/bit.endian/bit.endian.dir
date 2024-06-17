@@ -5,7 +5,7 @@
     "time.latest": 1717933022.8625684,
     "formatted_time": "2024-06-09 17:07:02.862571",
     "filescores": {
-        "endian.pass.cpp": 1.939924713264407e-05
+        "endian.pass.cpp": 100.0
     },
     "subdirscores": {}
 }

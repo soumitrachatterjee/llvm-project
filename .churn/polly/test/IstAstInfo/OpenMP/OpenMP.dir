@@ -1,18 +1,18 @@
 {
     "directory name": "llvm-project/polly/test/IstAstInfo/OpenMP",
-    "score.sum": 8.287583164003827e-06,
+    "score.sum": 6.630066531203062e-05,
     "sha.latest": "b332499a94df11870dfc7598645c59656deb933d",
     "time.latest": 1717813171.277087,
     "formatted_time": "2024-06-07 21:19:31.277091",
     "filescores": {
-        "multiple_loops_outer_parallel.ll": 8.287583164003827e-06,
-        "nested_loop_both_parallel.ll": 8.287583164003827e-06,
-        "nested_loop_both_parallel_parametric.ll": 8.287583164003827e-06,
-        "nested_loop_inner_parallel.ll": 8.287583164003827e-06,
-        "nested_loop_outer_parallel.ll": 8.287583164003827e-06,
-        "single_loop_param_non_parallel.ll": 8.287583164003827e-06,
-        "single_loop_param_parallel.ll": 8.287583164003827e-06,
-        "single_loop_param_parallel_computeout.ll": 8.287583164003827e-06
+        "multiple_loops_outer_parallel.ll": 12.5,
+        "nested_loop_both_parallel.ll": 12.5,
+        "nested_loop_both_parallel_parametric.ll": 12.5,
+        "nested_loop_inner_parallel.ll": 12.5,
+        "nested_loop_outer_parallel.ll": 12.5,
+        "single_loop_param_non_parallel.ll": 12.5,
+        "single_loop_param_parallel.ll": 12.5,
+        "single_loop_param_parallel_computeout.ll": 12.5
     },
     "subdirscores": {}
 }

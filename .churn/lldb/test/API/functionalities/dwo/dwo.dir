@@ -5,9 +5,9 @@
     "time.latest": 1717909148.1057608,
     "formatted_time": "2024-06-09 10:29:08.105763",
     "filescores": {
-        "main.dwo.yaml": 0,
-        "main.o.yaml": 0,
-        "TestZeroDwoId.py": 7.845876624287616e-06
+        "main.dwo.yaml": 0.0,
+        "main.o.yaml": 0.0,
+        "TestZeroDwoId.py": 100.0
     },
     "subdirscores": {}
 }

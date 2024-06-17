@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/libcxx/test/libcxx/selftest/link.pass.cpp",
-    "score.sum": 6.099602068851199e-06,
+    "score.sum": 2.4398408275404796e-05,
     "sha.latest": "504bc07d1afc7bad7b980a977141696ec8298e7e",
     "time.latest": 1717863925.1645107,
     "formatted_time": "2024-06-08 21:55:25.164514",
     "filescores": {
-        "compile-error.link.pass.cpp": 6.099602068851199e-06,
-        "link-error.link.pass.cpp": 6.099602068851199e-06,
-        "link-success.link.pass.cpp": 6.099602068851199e-06,
-        "run-error.link.pass.cpp": 6.099602068851199e-06
+        "compile-error.link.pass.cpp": 25.0,
+        "link-error.link.pass.cpp": 25.0,
+        "link-success.link.pass.cpp": 25.0,
+        "run-error.link.pass.cpp": 25.0
     },
     "subdirscores": {}
 }

@@ -1,17 +1,17 @@
 {
     "directory name": "llvm-project/libcxx/test/std/utilities/template.bitset",
-    "score.sum": 0.00017238820576759281,
+    "score.sum": 0.0002665363309463337,
     "sha.latest": "b964419ec295c8971c0d3c93608ad30ac8fe40fb",
     "time.latest": 1718005915.0641544,
     "formatted_time": "2024-06-10 13:21:55.064156",
     "filescores": {
-        "bitset_test_cases.h": 1.136698076218842e-05,
-        "includes.pass.cpp": 2.2826616672043184e-05
+        "bitset_test_cases.h": 4.264702197193946,
+        "includes.pass.cpp": 8.564167065329361
     },
     "subdirscores": {
-        "bitset.cons": 5.77284931628058e-05,
-        "bitset.hash": 3.132139727986667e-05,
-        "bitset.members": 9.331767639431334e-05,
-        "bitset.operators": 4.9975166675116304e-05
+        "bitset.cons": 21.658770854180197,
+        "bitset.hash": 11.75126751713752,
+        "bitset.members": 35.01124070515647,
+        "bitset.operators": 18.749851661002513
     }
 }

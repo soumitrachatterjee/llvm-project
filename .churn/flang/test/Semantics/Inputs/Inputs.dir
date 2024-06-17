@@ -1,23 +1,23 @@
 {
     "directory name": "llvm-project/flang/test/Semantics/Inputs",
-    "score.sum": 6.542501331579237e-06,
+    "score.sum": 1.2199204137702398e-05,
     "sha.latest": "f7a15e0021697e2346d3aa335dedf2bb3cf468f9",
     "time.latest": 1717806115.4832191,
     "formatted_time": "2024-06-07 19:21:55.483223",
     "filescores": {
-        "getdefinition03-b.f90": 0,
-        "getsymbols02-a.f90": 6.099602068851199e-06,
-        "getsymbols02-b.f90": 6.099602068851199e-06,
-        "getsymbols03-b.f90": 0,
-        "mod-file-changed.f90": 0,
-        "mod-file-unchanged.f90": 0,
-        "modfile09-a.f90": 0,
-        "modfile09-b.f90": 0,
-        "modfile09-c.f90": 0,
-        "modfile09-d.f90": 0
+        "getdefinition03-b.f90": 0.0,
+        "getsymbols02-a.f90": 50.0,
+        "getsymbols02-b.f90": 50.0,
+        "getsymbols03-b.f90": 0.0,
+        "mod-file-changed.f90": 0.0,
+        "mod-file-unchanged.f90": 0.0,
+        "modfile09-a.f90": 0.0,
+        "modfile09-b.f90": 0.0,
+        "modfile09-c.f90": 0.0,
+        "modfile09-d.f90": 0.0
     },
     "subdirscores": {
-        "dir1": 0,
-        "dir2": 0
+        "dir1": 0.0,
+        "dir2": 0.0
     }
 }

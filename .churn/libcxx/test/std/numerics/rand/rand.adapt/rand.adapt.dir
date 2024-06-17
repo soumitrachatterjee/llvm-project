@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/libcxx/test/std/numerics/rand/rand.adapt",
-    "score.sum": 3.991764708989725e-05,
+    "score.sum": 0.00010371143584395996,
     "sha.latest": "24e1736d84fd0fb45097245706a523c3398beb69",
     "time.latest": 1717953041.09847,
     "formatted_time": "2024-06-09 22:40:41.098472",
     "filescores": {},
     "subdirscores": {
-        "rand.adapt.disc": 3.431192777089458e-05,
-        "rand.adapt.ibits": 3.365620569486864e-05,
-        "rand.adapt.shuf": 3.574330237819674e-05
+        "rand.adapt.disc": 33.08403503594234,
+        "rand.adapt.ibits": 32.45177874646959,
+        "rand.adapt.shuf": 34.464186217588065
     }
 }

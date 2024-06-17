@@ -1,16 +1,16 @@
 {
     "directory name": "llvm-project/libcxx/test/std/experimental",
-    "score.sum": 0.0007217166773423999,
+    "score.sum": 0.0004188770266684904,
     "sha.latest": "6bb5c989bd725deb3f96d4374541b5aeec776ba2",
     "time.latest": 1717901034.5547023,
     "formatted_time": "2024-06-09 08:13:54.554704",
     "filescores": {
-        "lit.local.cfg": 6.099602068851199e-06
+        "lit.local.cfg": 1.4561796614543328
     },
     "subdirscores": {
-        "iterator": 5.270930688423316e-05,
-        "memory": 0.00013398303224206826,
-        "simd": 0.00015903454179337368,
-        "utilities": 6.705054367996408e-05
+        "iterator": 12.583480002103006,
+        "memory": 31.986245058052738,
+        "simd": 37.9668808906146,
+        "utilities": 16.007214387775324
     }
 }

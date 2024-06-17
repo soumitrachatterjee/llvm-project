@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/libcxx/test/std/diagnostics/syserr/syserr.errcondition/syserr.errcondition.overview",
-    "score.sum": 2.048432833865602e-05,
+    "score.sum": 1.2853468217927668e-05,
     "sha.latest": "2df59c50688c122bbcae7467d3eaf862c3ea3088",
     "time.latest": 1717898800.5828261,
     "formatted_time": "2024-06-09 07:36:40.582835",
     "filescores": {
-        "types.pass.cpp": 1.2853468217927668e-05
+        "types.pass.cpp": 100.0
     },
     "subdirscores": {}
 }

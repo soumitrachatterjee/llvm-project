@@ -1,19 +1,19 @@
 {
     "directory name": "llvm-project/clang/test/CXX/basic",
-    "score.sum": 0.0004791050068733457,
+    "score.sum": 0.0005125601555933941,
     "sha.latest": "da00c60dae0040185dc45039c4397f6e746548e9",
     "time.latest": 1718082752.9685724,
     "formatted_time": "2024-06-11 10:42:32.968575",
     "filescores": {},
     "subdirscores": {
-        "basic.def": 6.099602068851199e-06,
-        "basic.def.odr": 2.1716168372610064e-05,
-        "basic.link": 7.20969212560276e-05,
-        "basic.lookup": 0.00021779345953497822,
-        "basic.namespace": 1.3075724204788067e-05,
-        "basic.scope": 5.29581747132794e-05,
-        "basic.start": 4.7439422490093025e-05,
-        "basic.stc": 2.4373661406640843e-05,
-        "basic.types": 5.70070215461257e-05
+        "basic.def": 1.1900265758639883,
+        "basic.def.odr": 4.236803843535033,
+        "basic.link": 14.066040925978832,
+        "basic.lookup": 42.491297296185145,
+        "basic.namespace": 2.5510613851071238,
+        "basic.scope": 10.332089635794922,
+        "basic.start": 9.25538631366539,
+        "basic.stc": 4.755278212841827,
+        "basic.types": 11.122015811027746
     }
 }

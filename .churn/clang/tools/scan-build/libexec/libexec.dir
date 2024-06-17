@@ -5,10 +5,10 @@
     "time.latest": 1718082675.6993525,
     "formatted_time": "2024-06-11 10:41:15.699355",
     "filescores": {
-        "c++-analyzer": 0,
-        "c++-analyzer.bat": 0,
-        "ccc-analyzer": 5.055058971638443e-05,
-        "ccc-analyzer.bat": 0
+        "c++-analyzer": 0.0,
+        "c++-analyzer.bat": 0.0,
+        "ccc-analyzer": 100.0,
+        "ccc-analyzer.bat": 0.0
     },
     "subdirscores": {}
 }

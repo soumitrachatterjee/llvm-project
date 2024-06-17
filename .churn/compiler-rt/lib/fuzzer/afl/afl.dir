@@ -5,7 +5,7 @@
     "time.latest": 1717798252.8137722,
     "formatted_time": "2024-06-08 03:40:52.813776",
     "filescores": {
-        "afl_driver.cpp": 4.7365811966319496e-05
+        "afl_driver.cpp": 100.0
     },
     "subdirscores": {}
 }

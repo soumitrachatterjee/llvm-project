@@ -5,10 +5,10 @@
     "time.latest": 1717833510.6764681,
     "formatted_time": "2024-06-08 13:28:30.676472",
     "filescores": {
-        "header1.h": 0,
-        "header2.h": 0
+        "header1.h": 0.0,
+        "header2.h": 0.0
     },
     "subdirscores": {
-        "system": 6.099602068851199e-06
+        "system": 100.0
     }
 }

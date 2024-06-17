@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/llvm/utils/docker/scripts",
-    "score.sum": 3.3935476253608686e-05,
+    "score.sum": 4.832177513879618e-05,
     "sha.latest": "b71edfaa4ec3c998aadb35255ce2f60bba2940b0",
     "time.latest": 1718079588.142943,
     "formatted_time": "2024-06-10 23:19:48.142943",
     "filescores": {
-        "build_install_llvm.sh": 1.883047965015007e-05,
-        "checkout.sh": 1.1940349393884965e-05
+        "build_install_llvm.sh": 38.968931907121956,
+        "checkout.sh": 24.710080206259637
     },
     "subdirscores": {
-        "llvm_checksum": 1.7550946094761144e-05
+        "llvm_checksum": 36.320987886618404
     }
 }

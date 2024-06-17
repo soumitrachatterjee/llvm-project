@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/libcxx/test/std/containers/views/views.span/span.obs",
-    "score.sum": 6.099602068851199e-06,
+    "score.sum": 1.2199204137702398e-05,
     "sha.latest": "fb855eb941b6d740cc6560297d0b4d3201dcaf9f",
     "time.latest": 1717894762.9658499,
     "formatted_time": "2024-06-09 06:29:22.965852",
     "filescores": {
-        "empty.nodiscard.verify.cpp": 0,
-        "empty.pass.cpp": 0,
-        "size.pass.cpp": 6.099602068851199e-06,
-        "size_bytes.pass.cpp": 6.099602068851199e-06
+        "empty.nodiscard.verify.cpp": 0.0,
+        "empty.pass.cpp": 0.0,
+        "size.pass.cpp": 50.0,
+        "size_bytes.pass.cpp": 50.0
     },
     "subdirscores": {}
 }

@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/lld/tools",
-    "score.sum": 0.0004106406257459022,
+    "score.sum": 0.0003901962866947554,
     "sha.latest": "3c6f47d6b879ddd2842925d2e5da54657d9e5631",
     "time.latest": 1717904719.2108073,
     "formatted_time": "2024-06-09 09:15:19.210809",
     "filescores": {},
     "subdirscores": {
-        "lld": 0.0003901962866947554
+        "lld": 100.0
     }
 }

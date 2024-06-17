@@ -1,20 +1,20 @@
 {
     "directory name": "llvm-project/llvm/cmake",
-    "score.sum": 0.007249954491917399,
+    "score.sum": 0.0075145592912613055,
     "sha.latest": "1ebbf97316729e38b3189c6c55516266a7909121",
     "time.latest": 1717789259.217533,
     "formatted_time": "2024-06-07 14:40:59.217536",
     "filescores": {
-        "README": 0,
-        "config-ix.cmake": 0.0011784041360081478,
-        "config.guess": 2.2967157384290346e-05,
-        "dummy.cpp": 0,
-        "nsis_icon.ico": 0,
-        "nsis_logo.bmp": 0,
-        "unwind.h": 6.099602068851199e-06
+        "README": 0.0,
+        "config-ix.cmake": 15.68161338986993,
+        "config.guess": 0.3056354537118217,
+        "dummy.cpp": 0.0,
+        "nsis_icon.ico": 0.0,
+        "nsis_logo.bmp": 0.0,
+        "unwind.h": 0.08117045634258868
     },
     "subdirscores": {
-        "modules": 0.006202460162968719,
-        "platforms": 0.00010462823283129639
+        "modules": 82.53924046060254,
+        "platforms": 1.3923402394731084
     }
 }

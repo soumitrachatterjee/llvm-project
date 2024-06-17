@@ -5,9 +5,9 @@
     "time.latest": 1717890186.4681237,
     "formatted_time": "2024-06-09 05:13:06.468125",
     "filescores": {
-        "main.cpp": 0,
-        "Makefile": 0,
-        "TestExprInsideLambdas.py": 9.70165987978928e-06
+        "main.cpp": 0.0,
+        "Makefile": 0.0,
+        "TestExprInsideLambdas.py": 100.0
     },
     "subdirscores": {}
 }

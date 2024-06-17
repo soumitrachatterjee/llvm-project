@@ -5,9 +5,9 @@
     "time.latest": 1717922415.3448381,
     "formatted_time": "2024-06-09 14:10:15.344840",
     "filescores": {
-        "main.cpp": 0,
-        "Makefile": 0,
-        "TestIgnoreSuspendedThread.py": 1.0264315159121712e-05
+        "main.cpp": 0.0,
+        "Makefile": 0.0,
+        "TestIgnoreSuspendedThread.py": 100.0
     },
     "subdirscores": {}
 }

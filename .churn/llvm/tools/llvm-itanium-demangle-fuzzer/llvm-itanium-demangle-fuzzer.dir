@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/llvm/tools/llvm-itanium-demangle-fuzzer",
-    "score.sum": 2.6523325136265777e-05,
+    "score.sum": 3.823921483018524e-05,
     "sha.latest": "3b01fa264c36c1c7bb293f001579e0f459a92b84",
     "time.latest": 1718080580.7883186,
     "formatted_time": "2024-06-10 23:36:20.788322",
     "filescores": {
-        "CMakeLists.txt": 1.82983951013721e-05,
-        "DummyDemanglerFuzzer.cpp": 7.696700504955392e-06,
-        "llvm-itanium-demangle-fuzzer.cpp": 1.2244119223857752e-05
+        "CMakeLists.txt": 47.852434163809576,
+        "DummyDemanglerFuzzer.cpp": 20.127768154067265,
+        "llvm-itanium-demangle-fuzzer.cpp": 32.01979768212317
     },
     "subdirscores": {}
 }

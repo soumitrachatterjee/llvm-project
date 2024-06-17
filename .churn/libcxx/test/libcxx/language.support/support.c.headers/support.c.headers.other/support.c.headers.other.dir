@@ -5,7 +5,7 @@
     "time.latest": 1717860130.456829,
     "formatted_time": "2024-06-08 20:52:10.456832",
     "filescores": {
-        "math.lerp.verify.cpp": 6.099602068851199e-06
+        "math.lerp.verify.cpp": 100.0
     },
     "subdirscores": {}
 }

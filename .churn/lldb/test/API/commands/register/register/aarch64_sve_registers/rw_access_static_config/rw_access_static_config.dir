@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/lldb/test/API/commands/register/register/aarch64_sve_registers/rw_access_static_config",
-    "score.sum": 4.4816286617950015e-05,
+    "score.sum": 6.508470888828473e-05,
     "sha.latest": "e7012ba8d36f8a38ab58edccf7267f12266218ab",
     "time.latest": 1717897286.4859316,
     "formatted_time": "2024-06-09 07:11:26.485935",
     "filescores": {
-        "main.c": 2.0079425637532238e-05,
-        "Makefile": 6.099602068851199e-06,
-        "TestSVERegisters.py": 3.890568118190129e-05
+        "main.c": 30.851218328406077,
+        "Makefile": 9.371789738386815,
+        "TestSVERegisters.py": 59.7769919332071
     },
     "subdirscores": {}
 }

@@ -1,22 +1,22 @@
 {
     "directory name": "llvm-project/lldb/test/Shell/ObjectFile/Breakpad/Inputs",
-    "score.sum": 6.106330312226319e-06,
+    "score.sum": 9.872201277989977e-05,
     "sha.latest": "c08a1c7071c43b7bd0384e71c486ad5e5546b08f",
     "time.latest": 1717974370.723104,
     "formatted_time": "2024-06-10 04:36:10.723105",
     "filescores": {
-        "bad-module-id-1.syms": 8.22683439832498e-06,
-        "bad-module-id-2.syms": 8.22683439832498e-06,
-        "bad-module-id-3.syms": 8.22683439832498e-06,
-        "discontiguous-sections.syms": 8.22683439832498e-06,
-        "identification-linux.syms": 8.22683439832498e-06,
-        "identification-macosx-arm64e.syms": 8.22683439832498e-06,
-        "identification-macosx.syms": 8.22683439832498e-06,
-        "identification-windows.syms": 8.22683439832498e-06,
-        "sections-trailing-func.syms": 8.22683439832498e-06,
-        "sections.syms": 8.22683439832498e-06,
-        "uuid-matching-mac.syms": 8.22683439832498e-06,
-        "uuid-matching-mac.yaml": 8.22683439832498e-06
+        "bad-module-id-1.syms": 8.333333333333332,
+        "bad-module-id-2.syms": 8.333333333333332,
+        "bad-module-id-3.syms": 8.333333333333332,
+        "discontiguous-sections.syms": 8.333333333333332,
+        "identification-linux.syms": 8.333333333333332,
+        "identification-macosx-arm64e.syms": 8.333333333333332,
+        "identification-macosx.syms": 8.333333333333332,
+        "identification-windows.syms": 8.333333333333332,
+        "sections-trailing-func.syms": 8.333333333333332,
+        "sections.syms": 8.333333333333332,
+        "uuid-matching-mac.syms": 8.333333333333332,
+        "uuid-matching-mac.yaml": 8.333333333333332
     },
     "subdirscores": {}
 }

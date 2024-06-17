@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/lldb/test/API/lang/objc/objc-super",
-    "score.sum": 2.357935953070012e-05,
+    "score.sum": 3.404378882921373e-05,
     "sha.latest": "9c2468821ec51defd09c246fea4a47886fff8c01",
     "time.latest": 1717959479.1603336,
     "formatted_time": "2024-06-10 00:27:59.160338",
     "filescores": {
-        "class.m": 6.099602068851199e-06,
-        "Makefile": 6.099602068851199e-06,
-        "TestObjCSuper.py": 2.1844584691511332e-05
+        "class.m": 17.91693074895646,
+        "Makefile": 17.91693074895646,
+        "TestObjCSuper.py": 64.1661385020871
     },
     "subdirscores": {}
 }

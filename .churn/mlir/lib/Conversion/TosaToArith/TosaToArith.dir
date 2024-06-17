@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/mlir/lib/Conversion/TosaToArith",
-    "score.sum": 2.995165973116536e-05,
+    "score.sum": 5.8803022716845704e-05,
     "sha.latest": "cf29d0a73764e81bf2cb41474f49926f5ef4ddd1",
     "time.latest": 1717803998.9210908,
     "formatted_time": "2024-06-07 18:46:38.921094",
     "filescores": {
-        "CMakeLists.txt": 8.496319612235403e-06,
-        "TosaToArith.cpp": 2.2088074291141448e-05,
-        "TosaToArithPass.cpp": 2.821862881346885e-05
+        "CMakeLists.txt": 14.448780385232482,
+        "TosaToArith.cpp": 37.562821213294065,
+        "TosaToArithPass.cpp": 47.98839840147345
     },
     "subdirscores": {}
 }

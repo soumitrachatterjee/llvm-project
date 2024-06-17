@@ -5,7 +5,7 @@
     "time.latest": 1717916369.3756132,
     "formatted_time": "2024-06-09 12:29:29.375615",
     "filescores": {
-        "default.sentinel.pass.cpp": 7.6384058273774e-06
+        "default.sentinel.pass.cpp": 100.0
     },
     "subdirscores": {}
 }

@@ -1,16 +1,16 @@
 {
     "directory name": "llvm-project/compiler-rt/test/sanitizer_common/ios_commands",
-    "score.sum": 6.564739984714575e-05,
+    "score.sum": 0.00011340930276587259,
     "sha.latest": "f98ee40f4b5d7474fc67e82824bf6abbaedb7b1c",
     "time.latest": 1717839946.2234197,
     "formatted_time": "2024-06-08 15:15:46.223423",
     "filescores": {
-        "get_pid_from_output.py": 6.099602068851199e-06,
-        "iossim_compile.py": 1.3290644931534213e-05,
-        "iossim_env.py": 1.1082407189378097e-05,
-        "iossim_prepare.py": 2.179815606074459e-05,
-        "iossim_run.py": 5.50388904465133e-05,
-        "print_crashreport_for_pid.py": 6.099602068851199e-06
+        "get_pid_from_output.py": 5.378396586604098,
+        "iossim_compile.py": 11.71918405932892,
+        "iossim_env.py": 9.772044196636259,
+        "iossim_prepare.py": 19.220783065517747,
+        "iossim_run.py": 48.53119550530888,
+        "print_crashreport_for_pid.py": 5.378396586604098
     },
     "subdirscores": {}
 }

@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/lldb/test/API/python_api/global_module_cache",
-    "score.sum": 1.220210560178969e-05,
+    "score.sum": 3.7976949365924027e-05,
     "sha.latest": "096c530ab3ea5c96526451181117f30db17b4b1d",
     "time.latest": 1717965670.7704046,
     "formatted_time": "2024-06-10 02:11:10.770409",
     "filescores": {
-        "Makefile": 8.59161458804478e-06,
-        "one-print.c": 8.59161458804478e-06,
-        "TestGlobalModuleCache.py": 1.220210560178969e-05,
-        "two-print.c": 8.59161458804478e-06
+        "Makefile": 22.623235229509685,
+        "one-print.c": 22.623235229509685,
+        "TestGlobalModuleCache.py": 32.13029431147095,
+        "two-print.c": 22.623235229509685
     },
     "subdirscores": {}
 }

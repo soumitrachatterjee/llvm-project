@@ -5,9 +5,9 @@
     "time.latest": 1717909677.492194,
     "formatted_time": "2024-06-09 10:37:57.492196",
     "filescores": {
-        "main.cpp": 8.20030755000429e-06,
-        "Makefile": 0,
-        "TestConcurrentVFork.py": 0
+        "main.cpp": 100.0,
+        "Makefile": 0.0,
+        "TestConcurrentVFork.py": 0.0
     },
     "subdirscores": {}
 }

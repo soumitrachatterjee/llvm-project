@@ -1,19 +1,19 @@
 {
     "directory name": "llvm-project/llvm/test/Analysis/StackSafetyAnalysis",
-    "score.sum": 0.00018595699629755556,
+    "score.sum": 0.0003099591586824699,
     "sha.latest": "2fb3c9b90394013d4a3222619cd1d6173c104741",
     "time.latest": 1717893101.997969,
     "formatted_time": "2024-06-08 19:31:41.997972",
     "filescores": {
-        "extend-ptr.ll": 0,
-        "i386-bug-fix.ll": 1.216423510760597e-05,
-        "ipa-alias.ll": 5.716806365331852e-05,
-        "ipa.ll": 7.091709620426703e-05,
-        "lifetime.ll": 3.403019849239665e-05,
-        "local.ll": 7.902508140988718e-05,
-        "memintrin.ll": 3.698540684809122e-05
+        "extend-ptr.ll": 0.0,
+        "i386-bug-fix.ll": 3.9244638420467917,
+        "ipa-alias.ll": 18.443740748400646,
+        "ipa.ll": 22.879496932986683,
+        "lifetime.ll": 10.978929816769202,
+        "local.ll": 25.49532065637154,
+        "memintrin.ll": 11.93234844400259
     },
     "subdirscores": {
-        "Inputs": 1.9669076966903317e-05
+        "Inputs": 6.3456995594225445
     }
 }

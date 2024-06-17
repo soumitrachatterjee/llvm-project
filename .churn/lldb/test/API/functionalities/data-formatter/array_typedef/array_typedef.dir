@@ -5,9 +5,9 @@
     "time.latest": 1717904368.2031608,
     "formatted_time": "2024-06-09 09:09:28.203163",
     "filescores": {
-        "main.cpp": 0,
-        "Makefile": 0,
-        "TestArrayTypedef.py": 1.0459834404963863e-05
+        "main.cpp": 0.0,
+        "Makefile": 0.0,
+        "TestArrayTypedef.py": 100.0
     },
     "subdirscores": {}
 }

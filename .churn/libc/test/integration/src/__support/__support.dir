@@ -5,9 +5,9 @@
     "time.latest": 1717844260.4960315,
     "formatted_time": "2024-06-08 05:57:40.496032",
     "filescores": {
-        "CMakeLists.txt": 0
+        "CMakeLists.txt": 0.0
     },
     "subdirscores": {
-        "threads": 1.926875377923391e-05
+        "threads": 100.0
     }
 }

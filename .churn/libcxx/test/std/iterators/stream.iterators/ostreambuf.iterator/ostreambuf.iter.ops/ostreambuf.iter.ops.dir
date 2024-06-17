@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/libcxx/test/std/iterators/stream.iterators/ostreambuf.iterator/ostreambuf.iter.ops",
-    "score.sum": 2.8023727437198324e-05,
+    "score.sum": 8.031816630316334e-05,
     "sha.latest": "896770c9a92e88e6adbf109424d9e66ab58905c9",
     "time.latest": 1717920460.567215,
     "formatted_time": "2024-06-09 13:37:40.567216",
     "filescores": {
-        "assign_c.pass.cpp": 1.7431479621988335e-05,
-        "deref.pass.cpp": 1.7431479621988335e-05,
-        "failed.pass.cpp": 2.8023727437198324e-05,
-        "increment.pass.cpp": 1.7431479621988335e-05
+        "assign_c.pass.cpp": 21.703034847923057,
+        "deref.pass.cpp": 21.703034847923057,
+        "failed.pass.cpp": 34.890895456230815,
+        "increment.pass.cpp": 21.703034847923057
     },
     "subdirscores": {}
 }

@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/llvm/lib/WindowsDriver",
-    "score.sum": 5.237929848077517e-05,
+    "score.sum": 5.589132313472948e-05,
     "sha.latest": "b7a66d0faeb1d2838e89c3632ba7835e6c2af6cc",
     "time.latest": 1717877967.7765908,
     "formatted_time": "2024-06-08 15:19:27.776595",
     "filescores": {
-        "CMakeLists.txt": 6.199065764273948e-06,
-        "MSVCPaths.cpp": 4.969225737045553e-05
+        "CMakeLists.txt": 11.091284687125258,
+        "MSVCPaths.cpp": 88.90871531287475
     },
     "subdirscores": {}
 }

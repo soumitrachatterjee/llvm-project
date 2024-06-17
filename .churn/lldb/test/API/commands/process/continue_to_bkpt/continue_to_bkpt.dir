@@ -5,9 +5,9 @@
     "time.latest": 1717896472.0312316,
     "formatted_time": "2024-06-09 06:57:52.031235",
     "filescores": {
-        "main.c": 0,
-        "Makefile": 0,
-        "TestContinueToBkpts.py": 7.193343404044388e-06
+        "main.c": 0.0,
+        "Makefile": 0.0,
+        "TestContinueToBkpts.py": 100.0
     },
     "subdirscores": {}
 }

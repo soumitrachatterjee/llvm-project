@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/clang/test/CXX/basic/basic.namespace/basic.namespace.general",
-    "score.sum": 1.3075724204788067e-05,
+    "score.sum": 3.104593416831871e-05,
     "sha.latest": "9effb6f81620058b57316401807b23db99e1682d",
     "time.latest": 1718082527.5655801,
     "formatted_time": "2024-06-11 10:38:47.565583",
     "filescores": {
-        "p2.cppm": 1.3075724204788067e-05
+        "p2.cppm": 42.11734822955138
     },
     "subdirscores": {
-        "Inputs": 1.7970209963530638e-05
+        "Inputs": 57.88265177044861
     }
 }

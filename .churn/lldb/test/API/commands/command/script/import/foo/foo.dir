@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/lldb/test/API/commands/command/script/import/foo",
-    "score.sum": 6.099602068851199e-06,
+    "score.sum": 1.8298806206553597e-05,
     "sha.latest": "193259cbcec77add8e189c4dedeefb15fef50d5e",
     "time.latest": 1717888578.4701476,
     "formatted_time": "2024-06-09 04:46:18.470149",
     "filescores": {
-        "foo.py": 6.099602068851199e-06,
-        "foo2.py": 6.099602068851199e-06
+        "foo.py": 33.33333333333333,
+        "foo2.py": 33.33333333333333
     },
     "subdirscores": {
-        "bar": 6.099602068851199e-06
+        "bar": 33.33333333333333
     }
 }

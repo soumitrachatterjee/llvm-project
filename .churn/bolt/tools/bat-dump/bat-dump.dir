@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/bolt/tools/bat-dump",
-    "score.sum": 2.4241874062919523e-05,
+    "score.sum": 3.3068011651319154e-05,
     "sha.latest": "52cf07116bf0a8cab87b0f55176d198bcaa02575",
     "time.latest": 1717796878.2297895,
     "formatted_time": "2024-06-08 03:17:58.229793",
     "filescores": {
-        "bat-dump.cpp": 1.368154747778024e-05,
-        "CMakeLists.txt": 1.938646417353891e-05
+        "bat-dump.cpp": 41.37396473075953,
+        "CMakeLists.txt": 58.62603526924046
     },
     "subdirscores": {}
 }

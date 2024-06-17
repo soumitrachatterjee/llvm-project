@@ -5,8 +5,8 @@
     "time.latest": 1717958756.7974849,
     "formatted_time": "2024-06-10 00:15:56.797489",
     "filescores": {
-        "main.m": 0,
-        "TestNSDictionary0.py": 1.2139001116993191e-05
+        "main.m": 0.0,
+        "TestNSDictionary0.py": 100.0
     },
     "subdirscores": {}
 }

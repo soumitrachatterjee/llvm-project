@@ -1,29 +1,29 @@
 {
     "directory name": "llvm-project/libcxx/test/std/containers/sequences/vector",
-    "score.sum": 0.0006180705788100844,
+    "score.sum": 0.0009241982916648525,
     "sha.latest": "4e112e5c1c8511056030294af3264da35f95d93c",
     "time.latest": 1717887638.7678041,
     "formatted_time": "2024-06-09 04:30:38.767806",
     "filescores": {
-        "access.pass.cpp": 3.189853871670271e-05,
-        "allocator_mismatch.verify.cpp": 6.099602068851199e-06,
-        "compare.pass.cpp": 1.1870914465163046e-05,
-        "compare.three_way.pass.cpp": 0,
-        "constant_initialization.pass.cpp": 6.099602068851199e-06,
-        "contiguous.pass.cpp": 4.078176110873062e-05,
-        "get_allocator.pass.cpp": 6.099602068851199e-06,
-        "iterators.pass.cpp": 1.824608397659369e-05,
-        "iterator_concept_conformance.compile.pass.cpp": 1.8116481458982844e-05,
-        "range_concept_conformance.compile.pass.cpp": 1.9934771682938306e-05,
-        "reverse_iterators.pass.cpp": 6.099602068851199e-06,
-        "types.pass.cpp": 3.7607759627061056e-05
+        "access.pass.cpp": 3.4514821120520165,
+        "allocator_mismatch.verify.cpp": 0.6599884596046336,
+        "compare.pass.cpp": 1.284455356845419,
+        "compare.three_way.pass.cpp": 0.0,
+        "constant_initialization.pass.cpp": 0.6599884596046336,
+        "contiguous.pass.cpp": 4.412663545965475,
+        "get_allocator.pass.cpp": 0.6599884596046336,
+        "iterators.pass.cpp": 1.9742607339952079,
+        "iterator_concept_conformance.compile.pass.cpp": 1.9602374969064034,
+        "range_concept_conformance.compile.pass.cpp": 2.156979931982754,
+        "reverse_iterators.pass.cpp": 0.6599884596046336,
+        "types.pass.cpp": 4.069230593286898
     },
     "subdirscores": {
-        "vector.capacity": 0.00011076782320319351,
-        "vector.cons": 0.0002535392425981622,
-        "vector.data": 3.9988887703087616e-05,
-        "vector.erasure": 3.501698747292351e-05,
-        "vector.modifiers": 0.0002064456315459267,
-        "vector.special": 7.558499982998179e-05
+        "vector.capacity": 11.985287594900889,
+        "vector.cons": 27.433424719000087,
+        "vector.data": 4.326873146568098,
+        "vector.erasure": 3.7889041549561666,
+        "vector.modifiers": 22.337807092678688,
+        "vector.special": 8.178439682443345
     }
 }

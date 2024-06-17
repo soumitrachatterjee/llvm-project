@@ -1,15 +1,15 @@
 {
     "directory name": "llvm-project/libcxx/test/std/utilities/meta/meta.unary",
-    "score.sum": 0.00025087691698628815,
+    "score.sum": 0.00032784597983329306,
     "sha.latest": "64addd65210db59c8cb3794f792720e03e25b5af",
     "time.latest": 1718002724.0370119,
     "formatted_time": "2024-06-10 12:28:44.037013",
     "filescores": {
-        "dependent_return_type.compile.pass.cpp": 6.099602068851199e-06
+        "dependent_return_type.compile.pass.cpp": 1.8605084228736908
     },
     "subdirscores": {
-        "meta.unary.cat": 7.512543464903916e-05,
-        "meta.unary.comp": 5.502314089392124e-05,
-        "meta.unary.prop": 0.00019159780222148144
+        "meta.unary.cat": 22.914856142887526,
+        "meta.unary.comp": 16.783228796003552,
+        "meta.unary.prop": 58.44140663823523
     }
 }

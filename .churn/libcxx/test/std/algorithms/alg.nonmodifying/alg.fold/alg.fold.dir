@@ -5,8 +5,8 @@
     "time.latest": 1717869912.708935,
     "formatted_time": "2024-06-08 23:35:12.708937",
     "filescores": {
-        "left_folds.pass.cpp": 6.099602068851199e-06,
-        "requirements.compile.pass.cpp": 0
+        "left_folds.pass.cpp": 100.0,
+        "requirements.compile.pass.cpp": 0.0
     },
     "subdirscores": {}
 }

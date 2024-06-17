@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/llvm/lib/Transforms/AggressiveInstCombine",
-    "score.sum": 0.0003678715942336193,
+    "score.sum": 0.000425805739937544,
     "sha.latest": "930996e9e442d69a321cd5c945543d37c97f4c0e",
     "time.latest": 1717874506.2329764,
     "formatted_time": "2024-06-08 14:21:46.232980",
     "filescores": {
-        "AggressiveInstCombine.cpp": 0.0002651014831589747,
-        "AggressiveInstCombineInternal.h": 4.1397329174756345e-05,
-        "CMakeLists.txt": 1.0075071400460716e-05,
-        "TruncInstCombine.cpp": 0.00010923185620335223
+        "AggressiveInstCombine.cpp": 62.25878570774059,
+        "AggressiveInstCombineInternal.h": 9.722116282610092,
+        "CMakeLists.txt": 2.366119207772657,
+        "TruncInstCombine.cpp": 25.652978801876664
     },
     "subdirscores": {}
 }

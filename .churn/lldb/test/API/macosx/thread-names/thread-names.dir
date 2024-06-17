@@ -5,9 +5,9 @@
     "time.latest": 1717964249.0816412,
     "formatted_time": "2024-06-10 01:47:29.081646",
     "filescores": {
-        "main.c": 0,
-        "Makefile": 0,
-        "TestInterruptThreadNames.py": 1.978184161620411e-05
+        "main.c": 0.0,
+        "Makefile": 0.0,
+        "TestInterruptThreadNames.py": 100.0
     },
     "subdirscores": {}
 }

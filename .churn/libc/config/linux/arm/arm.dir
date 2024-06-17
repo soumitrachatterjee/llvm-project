@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/libc/config/linux/arm",
-    "score.sum": 0.00013096680674151937,
+    "score.sum": 0.00015309639514161658,
     "sha.latest": "c996023f9a288f12f97de8e1a2b8fbb28d2ed0c3",
     "time.latest": 1717825138.4812195,
     "formatted_time": "2024-06-08 00:38:58.481223",
     "filescores": {
-        "entrypoints.txt": 0.00010924527976829332,
-        "headers.txt": 4.3851115373323265e-05
+        "entrypoints.txt": 71.35718621411021,
+        "headers.txt": 28.642813785889793
     },
     "subdirscores": {}
 }

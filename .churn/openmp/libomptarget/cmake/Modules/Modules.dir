@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/openmp/libomptarget/cmake/Modules",
-    "score.sum": 0.00010960207465548793,
+    "score.sum": 0.00010783604538399963,
     "sha.latest": "c7c68f1764ddd38d940946007c634b4bacb902b2",
     "time.latest": 1717794541.326152,
     "formatted_time": "2024-06-08 02:39:01.326158",
     "filescores": {
-        "LibomptargetGetDependencies.cmake": 0.00010173644331514843,
-        "LibomptargetUtils.cmake": 6.099602068851199e-06
+        "LibomptargetGetDependencies.cmake": 94.34363338609944,
+        "LibomptargetUtils.cmake": 5.656366613900548
     },
     "subdirscores": {}
 }

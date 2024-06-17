@@ -1,25 +1,25 @@
 {
     "directory name": "llvm-project/clang/test/AST/HLSL",
-    "score.sum": 2.8392200673057373e-05,
+    "score.sum": 4.484773772603991e-05,
     "sha.latest": "61329bdddd9cb155b4902fd7fa4a2367e796d51a",
     "time.latest": 1717863204.969752,
     "formatted_time": "2024-06-08 21:43:24.969754",
     "filescores": {
-        "ast-dump-comment-cbuffe-tbufferr.hlsl": 0,
-        "cbuffer_tbuffer.hlsl": 0,
-        "group_shared.hlsl": 0,
-        "pch.hlsl": 6.099602068851199e-06,
-        "pch_hlsl_buffer.hlsl": 0,
-        "pch_with_buf.hlsl": 6.099602068851199e-06,
-        "ResourceStruct.hlsl": 0,
-        "resource_binding_attr.hlsl": 6.278317172422996e-06,
-        "RWBuffer-AST.hlsl": 9.317959549351032e-06,
-        "this-reference-template.hlsl": 1.0952654797712286e-05,
-        "this-reference.hlsl": 0,
-        "vector-alias.hlsl": 0,
-        "vector-constructors.hlsl": 0
+        "ast-dump-comment-cbuffe-tbufferr.hlsl": 0.0,
+        "cbuffer_tbuffer.hlsl": 0.0,
+        "group_shared.hlsl": 0.0,
+        "pch.hlsl": 13.600690643777092,
+        "pch_hlsl_buffer.hlsl": 0.0,
+        "pch_with_buf.hlsl": 13.600690643777092,
+        "ResourceStruct.hlsl": 0.0,
+        "resource_binding_attr.hlsl": 13.999183661782835,
+        "RWBuffer-AST.hlsl": 20.77687754568889,
+        "this-reference-template.hlsl": 24.421866861197,
+        "this-reference.hlsl": 0.0,
+        "vector-alias.hlsl": 0.0,
+        "vector-constructors.hlsl": 0.0
     },
     "subdirscores": {
-        "Inputs": 6.099602068851199e-06
+        "Inputs": 13.600690643777092
     }
 }

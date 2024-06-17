@@ -5,8 +5,8 @@
     "time.latest": 1717932925.2520814,
     "formatted_time": "2024-06-09 17:05:25.252085",
     "filescores": {
-        "main.cpp": 6.099602068851199e-06,
-        "TestLambdas.py": 0
+        "main.cpp": 100.0,
+        "TestLambdas.py": 0.0
     },
     "subdirscores": {}
 }

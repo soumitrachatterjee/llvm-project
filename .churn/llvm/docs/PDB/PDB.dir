@@ -1,21 +1,21 @@
 {
     "directory name": "llvm-project/llvm/docs/PDB",
-    "score.sum": 5.4041791902927855e-05,
+    "score.sum": 0.0001492810038703504,
     "sha.latest": "111fcb0df02db3db8bed1d5db6d911b7ce544d92",
     "time.latest": 1717801964.1049147,
     "formatted_time": "2024-06-07 18:12:44.104918",
     "filescores": {
-        "CodeViewSymbols.rst": 1.2192623493060344e-05,
-        "CodeViewTypes.rst": 1.1907942627296065e-05,
-        "DbiStream.rst": 1.7184109978074936e-05,
-        "GlobalStream.rst": 6.099602068851199e-06,
-        "HashTable.rst": 8.161995072585772e-06,
-        "ModiStream.rst": 1.199099207704591e-05,
-        "MsfFile.rst": 1.953497351131015e-05,
-        "PdbStream.rst": 9.031958182706822e-06,
-        "PublicStream.rst": 6.099602068851199e-06,
-        "TpiStream.rst": 2.3057921458196665e-05,
-        "index.rst": 2.4019283332371364e-05
+        "CodeViewSymbols.rst": 8.167565314371519,
+        "CodeViewTypes.rst": 7.976863980388313,
+        "DbiStream.rst": 11.511250281381564,
+        "GlobalStream.rst": 4.085986770392209,
+        "HashTable.rst": 5.467537637725435,
+        "ModiStream.rst": 8.032496946135229,
+        "MsfFile.rst": 13.086041093531332,
+        "PdbStream.rst": 6.050306434535381,
+        "PublicStream.rst": 4.085986770392209,
+        "TpiStream.rst": 15.445984994997971,
+        "index.rst": 16.089979776148848
     },
     "subdirscores": {}
 }

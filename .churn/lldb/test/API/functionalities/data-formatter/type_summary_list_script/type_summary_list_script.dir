@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/lldb/test/API/functionalities/data-formatter/type_summary_list_script",
-    "score.sum": 1.0459834404963863e-05,
+    "score.sum": 1.655943647381506e-05,
     "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
     "time.latest": 1717908670.5145326,
     "formatted_time": "2024-06-09 10:21:10.514534",
     "filescores": {
-        "main.cpp": 0,
-        "Makefile": 0,
-        "TestTypeSummaryListScript.py": 1.0459834404963863e-05,
-        "tslsformatters.py": 6.099602068851199e-06
+        "main.cpp": 0.0,
+        "Makefile": 0.0,
+        "TestTypeSummaryListScript.py": 63.16540071580145,
+        "tslsformatters.py": 36.834599284198575
     },
     "subdirscores": {}
 }

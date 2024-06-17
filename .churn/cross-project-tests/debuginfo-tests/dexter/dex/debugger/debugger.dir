@@ -1,18 +1,18 @@
 {
     "directory name": "llvm-project/cross-project-tests/debuginfo-tests/dexter/dex/debugger",
-    "score.sum": 8.610913620024238e-05,
+    "score.sum": 0.00021069790424550967,
     "sha.latest": "e1c0e7e515a6fcc8e0cedeaca65015dc27f15ff0",
     "time.latest": 1717788982.381692,
     "formatted_time": "2024-06-08 01:06:22.381698",
     "filescores": {
-        "DebuggerBase.py": 1.272504922582582e-05,
-        "Debuggers.py": 3.082421820783329e-05,
-        "__init__.py": 6.099602068851199e-06
+        "DebuggerBase.py": 6.039475936598934,
+        "Debuggers.py": 14.629579880356216,
+        "__init__.py": 2.894951466505245
     },
     "subdirscores": {
-        "dbgeng": 1.759673565496461e-05,
-        "DebuggerControllers": 5.682929669813778e-05,
-        "lldb": 3.074876819125743e-05,
-        "visualstudio": 5.5874234198639507e-05
+        "dbgeng": 8.351642470283197,
+        "DebuggerControllers": 26.971932588337033,
+        "lldb": 14.5937703089008,
+        "visualstudio": 26.518647349018558
     }
 }

@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/lldb/test/API/functionalities/data-formatter/data-formatter-categories",
-    "score.sum": 2.8011202532360156e-05,
+    "score.sum": 3.406738170366813e-05,
     "sha.latest": "d093111ab135154cabc77e5bad625d9d7cd720d5",
     "time.latest": 1717904812.3043425,
     "formatted_time": "2024-06-09 09:16:52.304345",
     "filescores": {
-        "main.cpp": 6.099602068851199e-06,
-        "Makefile": 0,
-        "TestDataFormatterCategories.py": 2.796777963481693e-05
+        "main.cpp": 17.904522636661678,
+        "Makefile": 0.0,
+        "TestDataFormatterCategories.py": 82.09547736333832
     },
     "subdirscores": {}
 }

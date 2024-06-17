@@ -5,7 +5,7 @@
     "time.latest": 1717851080.8539238,
     "formatted_time": "2024-06-08 18:21:20.853929",
     "filescores": {
-        "is_pathable.pass.cpp": 1.741718069452717e-05
+        "is_pathable.pass.cpp": 100.0
     },
     "subdirscores": {}
 }

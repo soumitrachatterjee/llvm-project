@@ -1,22 +1,22 @@
 {
     "directory name": "llvm-project/libc/src/__support/StringUtil/tables",
-    "score.sum": 1.8501840332523054e-05,
+    "score.sum": 0.00014344227890018577,
     "sha.latest": "330793c91d08e6ac60334e4813746db898b9407e",
     "time.latest": 1717829481.9894876,
     "formatted_time": "2024-06-08 01:51:21.989491",
     "filescores": {
-        "CMakeLists.txt": 7.476197301161708e-06,
-        "linux_extension_errors.h": 1.1406869299305424e-05,
-        "linux_extension_signals.h": 1.220661563669565e-05,
-        "linux_platform_errors.h": 1.220661563669565e-05,
-        "linux_platform_signals.h": 1.220661563669565e-05,
-        "minimal_platform_errors.h": 1.220661563669565e-05,
-        "minimal_platform_signals.h": 1.220661563669565e-05,
-        "posix_errors.h": 1.220661563669565e-05,
-        "posix_signals.h": 1.220661563669565e-05,
-        "signal_table.h": 1.4699671569457807e-05,
-        "stdc_errors.h": 1.220661563669565e-05,
-        "stdc_signals.h": 1.220661563669565e-05
+        "CMakeLists.txt": 5.2119900481809935,
+        "linux_extension_errors.h": 7.9522365280064236,
+        "linux_extension_signals.h": 8.50977531191457,
+        "linux_platform_errors.h": 8.50977531191457,
+        "linux_platform_signals.h": 8.50977531191457,
+        "minimal_platform_errors.h": 8.50977531191457,
+        "minimal_platform_signals.h": 8.50977531191457,
+        "posix_errors.h": 8.50977531191457,
+        "posix_signals.h": 8.50977531191457,
+        "signal_table.h": 10.247795616581472,
+        "stdc_errors.h": 8.50977531191457,
+        "stdc_signals.h": 8.50977531191457
     },
     "subdirscores": {}
 }

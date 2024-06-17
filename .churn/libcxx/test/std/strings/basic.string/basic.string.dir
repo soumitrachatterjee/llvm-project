@@ -1,28 +1,28 @@
 {
     "directory name": "llvm-project/libcxx/test/std/strings/basic.string",
-    "score.sum": 0.0008394571874630906,
+    "score.sum": 0.001407366002584463,
     "sha.latest": "a315fb1c577a40a40968daa9d346435458d7e06e",
     "time.latest": 1717971163.3173237,
     "formatted_time": "2024-06-10 03:42:43.317325",
     "filescores": {
-        "allocator_mismatch.verify.cpp": 6.099602068851199e-06,
-        "char.bad.verify.cpp": 1.6531879965951683e-05,
-        "range_concept_conformance.compile.pass.cpp": 1.7191038745220708e-05,
-        "test_traits.h": 1.3403365523527221e-05,
-        "traits_mismatch.verify.cpp": 8.832417963087666e-06,
-        "types.pass.cpp": 2.1570189117649724e-05
+        "allocator_mismatch.verify.cpp": 0.4334055290272746,
+        "char.bad.verify.cpp": 1.174668134344074,
+        "range_concept_conformance.compile.pass.cpp": 1.2215044781280333,
+        "test_traits.h": 0.9523724105110901,
+        "traits_mismatch.verify.cpp": 0.6275850025414826,
+        "types.pass.cpp": 1.5326637902321498
     },
     "subdirscores": {
-        "string.access": 8.114523301574591e-05,
-        "string.capacity": 0.0002087035111329226,
-        "string.cons": 0.00027318756979823066,
-        "string.contains": 2.0473770213869034e-05,
-        "string.ends_with": 2.6162024682537628e-05,
-        "string.iterators": 0.00016828055036268688,
-        "string.modifiers": 0.00020537395969101317,
-        "string.nonmembers": 0.00014890307573403442,
-        "string.ops": 0.00012065366243622843,
-        "string.require": 4.469212745036844e-05,
-        "string.starts_with": 2.6162024682537628e-05
+        "string.access": 5.765751969759976,
+        "string.capacity": 14.829369954202603,
+        "string.cons": 19.411266813078733,
+        "string.contains": 1.4547580498798003,
+        "string.ends_with": 1.8589353895499914,
+        "string.iterators": 11.957127716149127,
+        "string.modifiers": 14.592789602268914,
+        "string.nonmembers": 10.580266644255392,
+        "string.ops": 8.57301243703927,
+        "string.require": 3.1755866894820945,
+        "string.starts_with": 1.8589353895499914
     }
 }

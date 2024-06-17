@@ -1,17 +1,17 @@
 {
     "directory name": "llvm-project/flang/unittests/Optimizer/Builder",
-    "score.sum": 0.00010825585861457515,
+    "score.sum": 0.00015755591166075576,
     "sha.latest": "de58aa83726d465aecca66763892e62d8e8b636e",
     "time.latest": 1717813056.5944302,
     "formatted_time": "2024-06-07 21:17:36.594431",
     "filescores": {
-        "CharacterTest.cpp": 1.56931977803792e-05,
-        "ComplexTest.cpp": 1.4421763785377462e-05,
-        "DoLoopHelperTest.cpp": 1.2763449949364122e-05,
-        "FIRBuilderTest.cpp": 4.76992247915116e-05,
-        "HLFIRToolsTest.cpp": 1.2760201003030661e-05
+        "CharacterTest.cpp": 9.96039921000824,
+        "ComplexTest.cpp": 9.153426001830976,
+        "DoLoopHelperTest.cpp": 8.100901968595101,
+        "FIRBuilderTest.cpp": 30.274474812608755,
+        "HLFIRToolsTest.cpp": 8.098839877557568
     },
     "subdirscores": {
-        "Runtime": 5.4218074351092735e-05
+        "Runtime": 34.41195812939937
     }
 }

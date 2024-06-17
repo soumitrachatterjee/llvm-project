@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/lldb/test/Shell/ScriptInterpreter/Python/Crashlog/Inputs/application_specific_info",
-    "score.sum": 6.354425118284272e-06,
+    "score.sum": 6.099602068851199e-06,
     "sha.latest": "4c4f0d81f47cf9ad785dc2ea323ec2f0aedb72df",
     "time.latest": 1717978798.4634328,
     "formatted_time": "2024-06-10 05:49:58.463434",
     "filescores": {
-        "asi.txt": 6.099602068851199e-06,
-        "asi.yaml": 0,
-        "leb.txt": 0,
-        "main.m": 0
+        "asi.txt": 100.0,
+        "asi.yaml": 0.0,
+        "leb.txt": 0.0,
+        "main.m": 0.0
     },
     "subdirscores": {}
 }

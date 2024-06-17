@@ -5,8 +5,8 @@
     "time.latest": 1718082521.914604,
     "formatted_time": "2024-06-11 10:38:41.914607",
     "filescores": {
-        "p2.cppm": 1.7970209963530638e-05,
-        "p2.h": 0
+        "p2.cppm": 100.0,
+        "p2.h": 0.0
     },
     "subdirscores": {}
 }

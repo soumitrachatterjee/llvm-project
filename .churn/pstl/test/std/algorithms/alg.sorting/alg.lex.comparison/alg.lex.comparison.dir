@@ -5,7 +5,7 @@
     "time.latest": 1717791820.4932249,
     "formatted_time": "2024-06-07 15:23:40.493228",
     "filescores": {
-        "lexicographical_compare.pass.cpp": 1.1661997467057341e-05
+        "lexicographical_compare.pass.cpp": 100.0
     },
     "subdirscores": {}
 }

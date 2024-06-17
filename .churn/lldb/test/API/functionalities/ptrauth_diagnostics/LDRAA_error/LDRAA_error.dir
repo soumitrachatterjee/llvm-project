@@ -5,9 +5,9 @@
     "time.latest": 1717919323.9637246,
     "formatted_time": "2024-06-09 13:18:43.963727",
     "filescores": {
-        "ldraa.c": 0,
-        "Makefile": 0,
-        "TestPtrauthLDRAADiagnostic.py": 6.099602068851199e-06
+        "ldraa.c": 0.0,
+        "Makefile": 0.0,
+        "TestPtrauthLDRAADiagnostic.py": 100.0
     },
     "subdirscores": {}
 }

@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/lldb/test/API/lang/cpp/symbols",
-    "score.sum": 6.14315219479982e-06,
+    "score.sum": 1.2199204137702398e-05,
     "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
     "time.latest": 1717936210.015169,
     "formatted_time": "2024-06-09 18:00:10.015173",
     "filescores": {
-        "main.cpp": 6.099602068851199e-06,
-        "TestSymbols.py": 6.099602068851199e-06
+        "main.cpp": 50.0,
+        "TestSymbols.py": 50.0
     },
     "subdirscores": {}
 }

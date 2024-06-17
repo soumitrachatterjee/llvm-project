@@ -1,22 +1,22 @@
 {
     "directory name": "llvm-project/lldb/source/Plugins/ScriptInterpreter/Python",
-    "score.sum": 0.0011263746930141054,
+    "score.sum": 0.001703801855146981,
     "sha.latest": "5784bf85bc5143266565586ece0113cd773a8616",
     "time.latest": 1717880202.4267704,
     "formatted_time": "2024-06-09 02:26:42.426773",
     "filescores": {
-        "CMakeLists.txt": 9.399551215507823e-05,
-        "lldb-python.h": 3.2159850338726605e-05,
-        "PythonDataObjects.cpp": 0.00025205424566651473,
-        "PythonDataObjects.h": 0.00020251236763999946,
-        "PythonReadline.cpp": 1.5119524343973816e-05,
-        "PythonReadline.h": 1.2400623756201597e-05,
-        "ScriptInterpreterPython.cpp": 0.0006990957075115947,
-        "ScriptInterpreterPython.h": 0.0001476679841326628,
-        "ScriptInterpreterPythonImpl.h": 0.00013748193178364916,
-        "SWIGPythonBridge.h": 9.401079772279429e-05
+        "CMakeLists.txt": 5.516810060461495,
+        "lldb-python.h": 1.8875346473872858,
+        "PythonDataObjects.cpp": 14.793636061909963,
+        "PythonDataObjects.h": 11.885910737110297,
+        "PythonReadline.cpp": 0.8873992183010921,
+        "PythonReadline.h": 0.7278207685207526,
+        "ScriptInterpreterPython.cpp": 41.03151463297862,
+        "ScriptInterpreterPython.h": 8.666969324312891,
+        "ScriptInterpreterPythonImpl.h": 8.069126780695346,
+        "SWIGPythonBridge.h": 5.517707205142367
     },
     "subdirscores": {
-        "Interfaces": 1.7303310095785726e-05
+        "Interfaces": 1.0155705631798968
     }
 }

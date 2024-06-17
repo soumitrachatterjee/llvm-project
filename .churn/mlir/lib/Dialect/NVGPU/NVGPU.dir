@@ -1,16 +1,16 @@
 {
     "directory name": "llvm-project/mlir/lib/Dialect/NVGPU",
-    "score.sum": 0.00028661139041817537,
+    "score.sum": 0.0002704973246391427,
     "sha.latest": "0a600c34c8c1fe87c9661b6020e5044b24da3dc7",
     "time.latest": 1717807831.9481556,
     "formatted_time": "2024-06-07 19:50:31.948157",
     "filescores": {
-        "CMakeLists.txt": 2.1570080122878403e-05
+        "CMakeLists.txt": 7.974230485145832
     },
     "subdirscores": {
-        "IR": 0.00013294896119475053,
-        "TransformOps": 4.604392955703182e-05,
-        "Transforms": 5.3615677287685246e-05,
-        "Utils": 1.631867647679667e-05
+        "IR": 49.14982481697787,
+        "TransformOps": 17.021953772909505,
+        "Transforms": 19.821148826226402,
+        "Utils": 6.032842098740393
     }
 }

@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/libcxx/test/std/input.output/iostream.format/output.streams/ostream.rvalue",
-    "score.sum": 5.1597912896300445e-05,
+    "score.sum": 1.6617832643453985e-05,
     "sha.latest": "f4c1258d5633fcf06385ff3fd1f4bf57ab971964",
     "time.latest": 1717906466.9529676,
     "formatted_time": "2024-06-09 09:44:26.952969",
     "filescores": {
-        "not_ostreamable.verify.cpp": 6.124144517009697e-06,
-        "rvalue.pass.cpp": 1.0493688126444289e-05
+        "not_ostreamable.verify.cpp": 36.85284747058811,
+        "rvalue.pass.cpp": 63.1471525294119
     },
     "subdirscores": {}
 }

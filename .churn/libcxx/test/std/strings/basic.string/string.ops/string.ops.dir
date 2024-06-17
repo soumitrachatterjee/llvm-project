@@ -1,19 +1,19 @@
 {
     "directory name": "llvm-project/libcxx/test/std/strings/basic.string/string.ops",
-    "score.sum": 0.00012065366243622843,
+    "score.sum": 0.0004971060735398944,
     "sha.latest": "9ed20568e7de53dce85f1631d7d8c1415e7930ae",
     "time.latest": 1717971071.0295086,
     "formatted_time": "2024-06-10 03:41:11.029511",
     "filescores": {},
     "subdirscores": {
-        "string.accessors": 3.896696542394149e-05,
-        "string_compare": 7.663785967321265e-05,
-        "string_find": 5.123703309940096e-05,
-        "string_find.first.not.of": 5.123703309940096e-05,
-        "string_find.first.of": 5.123703309940096e-05,
-        "string_find.last.not.of": 5.316374052123632e-05,
-        "string_find.last.of": 5.123703309940096e-05,
-        "string_rfind": 5.123703309940096e-05,
-        "string_substr": 7.215234242449911e-05
+        "string.accessors": 7.838762690316287,
+        "string_compare": 15.41680211780036,
+        "string_find": 10.30706238098075,
+        "string_find.first.not.of": 10.30706238098075,
+        "string_find.first.of": 10.30706238098075,
+        "string_find.last.not.of": 10.69464714897911,
+        "string_find.last.of": 10.30706238098075,
+        "string_rfind": 10.30706238098075,
+        "string_substr": 14.514476138000484
     }
 }

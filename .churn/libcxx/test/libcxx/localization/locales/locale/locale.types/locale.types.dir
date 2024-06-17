@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/libcxx/test/libcxx/localization/locales/locale/locale.types",
-    "score.sum": 1.7492792608394212e-05,
+    "score.sum": 3.444879001600844e-05,
     "sha.latest": "a984dcaf7c21511228bad63bffb2ed5446a67d2c",
     "time.latest": 1717860616.4061859,
     "formatted_time": "2024-06-08 21:00:16.406189",
     "filescores": {},
     "subdirscores": {
-        "locale.facet": 1.7492792608394212e-05,
-        "locale.id": 1.695599740761423e-05
+        "locale.facet": 50.77912054462658,
+        "locale.id": 49.22087945537342
     }
 }

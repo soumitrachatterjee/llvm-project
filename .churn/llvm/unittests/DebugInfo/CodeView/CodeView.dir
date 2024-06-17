@@ -1,15 +1,15 @@
 {
     "directory name": "llvm-project/llvm/unittests/DebugInfo/CodeView",
-    "score.sum": 6.390145919030249e-05,
+    "score.sum": 9.995881984154419e-05,
     "sha.latest": "4a0ccfa865437fe29ef2ecb18152df7694dddb7f",
     "time.latest": 1718079828.6055074,
     "formatted_time": "2024-06-10 23:23:48.605510",
     "filescores": {
-        "CMakeLists.txt": 1.3947986266216993e-05,
-        "GUIDFormatTest.cpp": 6.099602068851199e-06,
-        "RandomAccessVisitorTest.cpp": 3.629804341143468e-05,
-        "TypeHashingTest.cpp": 8.558100017588628e-06,
-        "TypeIndexDiscoveryTest.cpp": 3.505508807745269e-05
+        "CMakeLists.txt": 13.953732435344367,
+        "GUIDFormatTest.cpp": 6.102114929448302,
+        "RandomAccessVisitorTest.cpp": 36.312997161205715,
+        "TypeHashingTest.cpp": 8.56162570862183,
+        "TypeIndexDiscoveryTest.cpp": 35.069529765379784
     },
     "subdirscores": {}
 }

@@ -5,10 +5,10 @@
     "time.latest": 1717925355.0063365,
     "formatted_time": "2024-06-09 14:59:15.006338",
     "filescores": {
-        "functions.c": 0,
-        "main.c": 0,
-        "Makefile": 0,
-        "TestConstVariables.py": 1.533172143249332e-05
+        "functions.c": 0.0,
+        "main.c": 0.0,
+        "Makefile": 0.0,
+        "TestConstVariables.py": 100.0
     },
     "subdirscores": {}
 }

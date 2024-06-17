@@ -1,22 +1,22 @@
 {
     "directory name": "llvm-project/bolt/lib/Rewrite",
-    "score.sum": 0.0009855008777803075,
+    "score.sum": 0.0012200996471828512,
     "sha.latest": "a9b0d7590b9e08151243b97aa75366e988e0d6c8",
     "time.latest": 1717789145.4852114,
     "formatted_time": "2024-06-08 01:09:05.485215",
     "filescores": {
-        "BinaryPassManager.cpp": 7.288456093962442e-05,
-        "BoltDiff.cpp": 4.697122271492299e-05,
-        "CMakeLists.txt": 6.191726585205175e-05,
-        "DWARFRewriter.cpp": 0.000300036081788787,
-        "ExecutableFileMemoryManager.cpp": 2.781832722935832e-05,
-        "JITLinkLinker.cpp": 2.0953013036513594e-05,
-        "LinuxKernelRewriter.cpp": 7.494593602063946e-05,
-        "MachORewriteInstance.cpp": 6.0198584698525554e-05,
-        "MetadataManager.cpp": 6.305568411263146e-06,
-        "PseudoProbeRewriter.cpp": 8.925414927694595e-06,
-        "RewriteInstance.cpp": 0.0005391436715634705,
-        "SDTRewriter.cpp": 0
+        "BinaryPassManager.cpp": 5.973656422892279,
+        "BoltDiff.cpp": 3.8497857796596513,
+        "CMakeLists.txt": 5.074771228318573,
+        "DWARFRewriter.cpp": 24.591112904716862,
+        "ExecutableFileMemoryManager.cpp": 2.280004530252053,
+        "JITLinkLinker.cpp": 1.7173198176798958,
+        "LinuxKernelRewriter.cpp": 6.14260779385404,
+        "MachORewriteInstance.cpp": 4.93390722942352,
+        "MetadataManager.cpp": 0.5168076579501015,
+        "PseudoProbeRewriter.cpp": 0.7315316374611638,
+        "RewriteInstance.cpp": 44.18849499779187,
+        "SDTRewriter.cpp": 0.0
     },
     "subdirscores": {}
 }

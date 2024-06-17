@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/libcxx/test/std/language.support/support.exception/propagation",
-    "score.sum": 3.3167926334307495e-05,
+    "score.sum": 9.8849149957039e-05,
     "sha.latest": "e0c734561d5b268f8d24e68c535df8aa41369690",
     "time.latest": 1717923138.4633057,
     "formatted_time": "2024-06-09 14:22:18.463307",
     "filescores": {
-        "current_exception.pass.cpp": 2.9967152893276594e-05,
-        "exception_ptr.pass.cpp": 2.2386033946675547e-05,
-        "make_exception_ptr.pass.cpp": 2.324798155854344e-05,
-        "rethrow_exception.pass.cpp": 2.324798155854344e-05
+        "current_exception.pass.cpp": 30.31604511146598,
+        "exception_ptr.pass.cpp": 22.64666307844304,
+        "make_exception_ptr.pass.cpp": 23.5186459050455,
+        "rethrow_exception.pass.cpp": 23.5186459050455
     },
     "subdirscores": {}
 }

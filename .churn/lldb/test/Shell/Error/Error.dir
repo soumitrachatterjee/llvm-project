@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/lldb/test/Shell/Error",
-    "score.sum": 6.319411017846802e-06,
+    "score.sum": 1.2135975864629474e-05,
     "sha.latest": "b6d56ddac1bf50d532abdc86a84f9bc8e3e7a266",
     "time.latest": 1717972513.6307564,
     "formatted_time": "2024-06-10 04:05:13.630759",
     "filescores": {
-        "assert.test": 1.2135975864629474e-05,
-        "cleanup.cpp": 0
+        "assert.test": 100.0,
+        "cleanup.cpp": 0.0
     },
     "subdirscores": {
-        "Inputs": 0
+        "Inputs": 0.0
     }
 }

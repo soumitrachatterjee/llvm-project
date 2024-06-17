@@ -1,17 +1,17 @@
 {
     "directory name": "llvm-project/lldb/utils",
-    "score.sum": 0.00044867210851876554,
+    "score.sum": 0.00018514811325880923,
     "sha.latest": "249cf356ef21d0b6ed0d1fa962f3fc5a9e3fcc9e",
     "time.latest": 1718000018.4330149,
     "formatted_time": "2024-06-10 11:43:38.433018",
     "filescores": {
-        "CMakeLists.txt": 6.099602068851199e-06
+        "CMakeLists.txt": 3.2944446267863783
     },
     "subdirscores": {
-        "lit-cpuid": 1.951045622763837e-05,
-        "lldb-dotest": 8.996984564925797e-05,
-        "lldb-repro": 1.0720431186374924e-05,
-        "lui": 3.775753066637363e-05,
-        "TableGen": 2.1090247460313156e-05
+        "lit-cpuid": 10.537755899443429,
+        "lldb-dotest": 48.59344449462126,
+        "lldb-repro": 5.790191969922682,
+        "lui": 20.39314903176695,
+        "TableGen": 11.391013977459313
     }
 }

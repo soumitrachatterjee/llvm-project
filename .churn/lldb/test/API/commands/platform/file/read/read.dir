@@ -5,7 +5,7 @@
     "time.latest": 1717896059.0712018,
     "formatted_time": "2024-06-09 06:50:59.071204",
     "filescores": {
-        "TestPlatformFileRead.py": 1.0228257440187292e-05
+        "TestPlatformFileRead.py": 100.0
     },
     "subdirscores": {}
 }

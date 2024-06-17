@@ -1,16 +1,16 @@
 {
     "directory name": "llvm-project/lldb/test/API/commands/platform",
-    "score.sum": 8.744205764716214e-05,
+    "score.sum": 0.00011942182880200562,
     "sha.latest": "03588a27261f7ebea15af49268d2ec901fe1979e",
     "time.latest": 1717896242.8725908,
     "formatted_time": "2024-06-09 06:54:02.872592",
     "filescores": {},
     "subdirscores": {
-        "basic": 2.4314596797268066e-05,
-        "connect": 1.3609200619890556e-05,
-        "file": 1.0228257440187292e-05,
-        "launchgdbserver": 0,
-        "process": 4.8166600565791806e-05,
-        "sdk": 2.3103173378867905e-05
+        "basic": 20.36026163824726,
+        "connect": 11.395907060219127,
+        "file": 8.564813939623335,
+        "launchgdbserver": 0.0,
+        "process": 40.3331627466945,
+        "sdk": 19.345854615215792
     }
 }

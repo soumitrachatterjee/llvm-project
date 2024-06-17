@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/libc/test/integration/src/stdio",
-    "score.sum": 1.3843390332785582e-05,
+    "score.sum": 1.8397216324378366e-05,
     "sha.latest": "b6bc9d72f65a5086f310f321e969d96e9a559e75",
     "time.latest": 1717844423.5376983,
     "formatted_time": "2024-06-08 06:00:23.537702",
     "filescores": {
-        "CMakeLists.txt": 9.631561579728742e-06,
-        "sprintf_size_test.cpp": 8.765654744649624e-06
+        "CMakeLists.txt": 52.35336373669666,
+        "sprintf_size_test.cpp": 47.646636263303336
     },
     "subdirscores": {}
 }

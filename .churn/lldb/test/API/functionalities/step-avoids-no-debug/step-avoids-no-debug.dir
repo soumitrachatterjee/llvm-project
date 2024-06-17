@@ -5,10 +5,10 @@
     "time.latest": 1717920103.7812636,
     "formatted_time": "2024-06-09 13:31:43.781265",
     "filescores": {
-        "Makefile": 0,
-        "TestStepNoDebug.py": 5.4909860520077326e-05,
-        "with-debug.c": 0,
-        "without-debug.c": 0
+        "Makefile": 0.0,
+        "TestStepNoDebug.py": 100.0,
+        "with-debug.c": 0.0,
+        "without-debug.c": 0.0
     },
     "subdirscores": {}
 }

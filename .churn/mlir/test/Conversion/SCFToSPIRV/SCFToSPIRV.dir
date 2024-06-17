@@ -1,15 +1,15 @@
 {
     "directory name": "llvm-project/mlir/test/Conversion/SCFToSPIRV",
-    "score.sum": 6.333818859271299e-05,
+    "score.sum": 0.00010980077350671462,
     "sha.latest": "10056c821a56a19cef732129e4e0c5883ae1ee49",
     "time.latest": 1717816626.79066,
     "formatted_time": "2024-06-07 22:17:06.790663",
     "filescores": {
-        "for.mlir": 3.960160658920983e-05,
-        "if.mlir": 4.014022719587841e-05,
-        "unsupported.mlir": 6.099602068851199e-06,
-        "use-indices.mlir": 6.383332098912591e-06,
-        "while.mlir": 1.7576005553862596e-05
+        "for.mlir": 36.06678288726999,
+        "if.mlir": 36.55732643215279,
+        "unsupported.mlir": 5.555154006704872,
+        "use-indices.mlir": 5.813558406783202,
+        "while.mlir": 16.00717826708914
     },
     "subdirscores": {}
 }

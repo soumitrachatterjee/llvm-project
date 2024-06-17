@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/libcxx/test/libcxx/input.output/iostreams.base",
-    "score.sum": 3.266874808812757e-05,
+    "score.sum": 1.3715992195462146e-05,
     "sha.latest": "86ab93828a56fb1208b4a63e83f3631f183a30fb",
     "time.latest": 1717851483.8845296,
     "formatted_time": "2024-06-08 18:28:03.884534",
     "filescores": {
-        "lit.local.cfg": 6.100016742778657e-06
+        "lit.local.cfg": 44.47375483923658
     },
     "subdirscores": {
-        "ios": 7.6159754526834886e-06
+        "ios": 55.52624516076342
     }
 }

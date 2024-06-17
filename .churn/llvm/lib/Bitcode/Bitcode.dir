@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/llvm/lib/Bitcode",
-    "score.sum": 0.006199717259296299,
+    "score.sum": 0.008162691595411142,
     "sha.latest": "40282674e9808baeb9b88afdd3cbd7da46825544",
     "time.latest": 1717828616.4640706,
     "formatted_time": "2024-06-08 01:36:56.464075",
     "filescores": {
-        "CMakeLists.txt": 0
+        "CMakeLists.txt": 0.0
     },
     "subdirscores": {
-        "Reader": 0.004889229621450219,
-        "Writer": 0.0032734619739609237
+        "Reader": 59.89727241684373,
+        "Writer": 40.10272758315628
     }
 }

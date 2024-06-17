@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/mlir/test/lib/Dialect/Mesh",
-    "score.sum": 2.7668734867525498e-05,
+    "score.sum": 3.252162721791844e-05,
     "sha.latest": "dc3258c617420e83caff63c93d548e0923b10791",
     "time.latest": 1717831422.812845,
     "formatted_time": "2024-06-08 02:23:42.812848",
     "filescores": {
-        "CMakeLists.txt": 1.3427854584883077e-05,
-        "TestOpLowering.cpp": 0,
-        "TestReshardingSpmdization.cpp": 6.099602068851199e-06,
-        "TestSimplifications.cpp": 1.2994170564184168e-05
+        "CMakeLists.txt": 41.28899976285545,
+        "TestOpLowering.cpp": 0.0,
+        "TestReshardingSpmdization.cpp": 18.755525447664258,
+        "TestSimplifications.cpp": 39.955474789480306
     },
     "subdirscores": {}
 }

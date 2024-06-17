@@ -5,9 +5,9 @@
     "time.latest": 1717904101.1294472,
     "formatted_time": "2024-06-09 09:05:01.129449",
     "filescores": {
-        "main.c": 0,
-        "Makefile": 0,
-        "TestInterruptBacktrace.py": 1.5357026169841917e-05
+        "main.c": 0.0,
+        "Makefile": 0.0,
+        "TestInterruptBacktrace.py": 100.0
     },
     "subdirscores": {}
 }

@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/libcxx/test/std/language.support/support.exception/uncaught",
-    "score.sum": 4.857674287475961e-05,
+    "score.sum": 6.94588250426615e-05,
     "sha.latest": "ed61d6a46611cfb144b260e0dd0fb1b5783562d9",
     "time.latest": 1717923166.5391293,
     "formatted_time": "2024-06-09 14:22:46.539131",
     "filescores": {
-        "uncaught_exception.pass.cpp": 2.370492514194357e-05,
-        "uncaught_exceptions.pass.cpp": 4.5753899900717916e-05
+        "uncaught_exception.pass.cpp": 34.12802495202596,
+        "uncaught_exceptions.pass.cpp": 65.87197504797403
     },
     "subdirscores": {}
 }

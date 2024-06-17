@@ -1,15 +1,15 @@
 {
     "directory name": "llvm-project/libcxx/test/std/utilities/charconv/charconv.syn",
-    "score.sum": 2.3397777469029995e-05,
+    "score.sum": 4.135073967513488e-05,
     "sha.latest": "7291761669dd63624ccaab30887aca7e9c7d3273",
     "time.latest": 1717990322.0661716,
     "formatted_time": "2024-06-10 09:02:02.066174",
     "filescores": {
-        "chars_format.pass.cpp": 1.0867136207294292e-05,
-        "from_chars_result.operator_bool.pass.cpp": 6.099602068851199e-06,
-        "from_chars_result.pass.cpp": 9.142199665069095e-06,
-        "to_chars_result.operator_bool.pass.cpp": 6.099602068851199e-06,
-        "to_chars_result.pass.cpp": 9.142199665069095e-06
+        "chars_format.pass.cpp": 26.280391336817953,
+        "from_chars_result.operator_bool.pass.cpp": 14.750889867440572,
+        "from_chars_result.pass.cpp": 22.108914464150452,
+        "to_chars_result.operator_bool.pass.cpp": 14.750889867440572,
+        "to_chars_result.pass.cpp": 22.108914464150452
     },
     "subdirscores": {}
 }

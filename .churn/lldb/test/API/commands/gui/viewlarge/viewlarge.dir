@@ -5,9 +5,9 @@
     "time.latest": 1717895677.577089,
     "formatted_time": "2024-06-09 06:44:37.577091",
     "filescores": {
-        "main.c": 0,
-        "Makefile": 0,
-        "TestGuiViewLarge.py": 2.4596656166265626e-05
+        "main.c": 0.0,
+        "Makefile": 0.0,
+        "TestGuiViewLarge.py": 100.0
     },
     "subdirscores": {}
 }

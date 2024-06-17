@@ -5,8 +5,8 @@
     "time.latest": 1717997670.3447964,
     "formatted_time": "2024-06-10 11:04:30.344799",
     "filescores": {
-        "CMakeLists.txt": 0,
-        "UnixSignalsTest.cpp": 3.8163642417181504e-05
+        "CMakeLists.txt": 0.0,
+        "UnixSignalsTest.cpp": 100.0
     },
     "subdirscores": {}
 }

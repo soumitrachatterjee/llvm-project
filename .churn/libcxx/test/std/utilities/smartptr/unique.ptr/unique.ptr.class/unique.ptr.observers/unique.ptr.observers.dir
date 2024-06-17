@@ -1,19 +1,19 @@
 {
     "directory name": "llvm-project/libcxx/test/std/utilities/smartptr/unique.ptr/unique.ptr.class/unique.ptr.observers",
-    "score.sum": 5.117511431274087e-05,
+    "score.sum": 0.00010726267757237975,
     "sha.latest": "c000f754bfb9fb3a7a0a1f9b0485f36ae70534b7",
     "time.latest": 1718004884.143417,
     "formatted_time": "2024-06-10 13:04:44.143419",
     "filescores": {
-        "dereference.single.pass.cpp": 1.2553091664331263e-05,
-        "dereference.verify.cpp": 6.099602068851199e-06,
-        "explicit_bool.pass.cpp": 1.0145370142935176e-05,
-        "get.pass.cpp": 1.0145370142935176e-05,
-        "get_deleter.pass.cpp": 2.841880184596777e-05,
-        "op_arrow.single.pass.cpp": 1.2553091664331263e-05,
-        "op_arrow.verify.cpp": 6.099602068851199e-06,
-        "op_subscript.runtime.pass.cpp": 2.1247747974176684e-05,
-        "op_subscript.single.verify.cpp": 0
+        "dereference.single.pass.cpp": 11.703130994339169,
+        "dereference.verify.cpp": 5.686602466860153,
+        "explicit_bool.pass.cpp": 9.458434538974831,
+        "get.pass.cpp": 9.458434538974831,
+        "get_deleter.pass.cpp": 26.494585525138557,
+        "op_arrow.single.pass.cpp": 11.703130994339169,
+        "op_arrow.verify.cpp": 5.686602466860153,
+        "op_subscript.runtime.pass.cpp": 19.809078474513118,
+        "op_subscript.single.verify.cpp": 0.0
     },
     "subdirscores": {}
 }

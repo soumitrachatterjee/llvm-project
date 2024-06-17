@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/clang-tools-extra/include-cleaner/tool",
-    "score.sum": 5.2899540576186824e-05,
+    "score.sum": 7.00324141156409e-05,
     "sha.latest": "7e3fb372b0e8899958ec7e9241797e7e136a7a23",
     "time.latest": 1717813815.7227244,
     "formatted_time": "2024-06-08 08:00:15.722727",
     "filescores": {
-        "CMakeLists.txt": 1.853532858070433e-05,
-        "IncludeCleaner.cpp": 5.1497085534936574e-05
+        "CMakeLists.txt": 26.466785151941068,
+        "IncludeCleaner.cpp": 73.53321484805892
     },
     "subdirscores": {}
 }

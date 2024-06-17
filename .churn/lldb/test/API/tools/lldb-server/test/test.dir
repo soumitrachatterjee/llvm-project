@@ -5,7 +5,7 @@
     "time.latest": 1717970268.4963276,
     "formatted_time": "2024-06-10 03:27:48.496331",
     "filescores": {
-        "test_lldbgdbserverutils.py": 1.1098236381966638e-05
+        "test_lldbgdbserverutils.py": 100.0
     },
     "subdirscores": {}
 }

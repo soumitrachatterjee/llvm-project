@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/libcxx/test/std/language.support/support.dynamic/ptr.launder",
-    "score.sum": 6.603437316805123e-05,
+    "score.sum": 3.329054349860077e-05,
     "sha.latest": "9bb9ec380ace81d040d3a0a0a2ae9a75733ab330",
     "time.latest": 1717922699.9646955,
     "formatted_time": "2024-06-09 14:14:59.964698",
     "filescores": {
-        "launder.nodiscard.verify.cpp": 1.4469498260374012e-05,
-        "launder.pass.cpp": 1.2721443169375553e-05,
-        "launder.types.verify.cpp": 6.099602068851199e-06
+        "launder.nodiscard.verify.cpp": 43.46428967427996,
+        "launder.pass.cpp": 38.21338383949859,
+        "launder.types.verify.cpp": 18.322326486221442
     },
     "subdirscores": {}
 }

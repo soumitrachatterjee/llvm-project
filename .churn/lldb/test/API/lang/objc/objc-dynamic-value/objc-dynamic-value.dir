@@ -5,9 +5,9 @@
     "time.latest": 1717958713.0115938,
     "formatted_time": "2024-06-10 00:15:13.011597",
     "filescores": {
-        "dynamic-value.m": 0,
-        "Makefile": 0,
-        "TestObjCDynamicValue.py": 1.932231198350135e-05
+        "dynamic-value.m": 0.0,
+        "Makefile": 0.0,
+        "TestObjCDynamicValue.py": 100.0
     },
     "subdirscores": {}
 }

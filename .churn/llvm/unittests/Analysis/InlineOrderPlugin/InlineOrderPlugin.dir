@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/llvm/unittests/Analysis/InlineOrderPlugin",
-    "score.sum": 6.397060194197047e-06,
+    "score.sum": 1.858095044420313e-05,
     "sha.latest": "a6ea0185d698dfce0811c37e910d5c08b6a20ed0",
     "time.latest": 1718078696.4431596,
     "formatted_time": "2024-06-10 23:04:56.443163",
     "filescores": {
-        "CMakeLists.txt": 6.397060194197047e-06,
-        "InlineOrderPlugin.cpp": 1.2183890250006082e-05
+        "CMakeLists.txt": 34.42805691456326,
+        "InlineOrderPlugin.cpp": 65.57194308543674
     },
     "subdirscores": {}
 }

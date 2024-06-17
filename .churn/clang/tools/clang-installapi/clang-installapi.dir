@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/clang/tools/clang-installapi",
-    "score.sum": 1.8405637794429023e-05,
+    "score.sum": 3.676606613204809e-05,
     "sha.latest": "50ae8a2a38b618d76193bed04b1d7df6890d5c8a",
     "time.latest": 1718082093.5722256,
     "formatted_time": "2024-06-11 10:31:33.572229",
     "filescores": {
-        "ClangInstallAPI.cpp": 1.5520524749690512e-05,
-        "CMakeLists.txt": 6.1570035530493974e-06,
-        "Options.cpp": 8.988935760456978e-06,
-        "Options.h": 6.099602068851199e-06
+        "ClangInstallAPI.cpp": 42.21426544234399,
+        "CMakeLists.txt": 16.746430066616476,
+        "Options.cpp": 24.44900068495917,
+        "Options.h": 16.590303806080367
     },
     "subdirscores": {}
 }

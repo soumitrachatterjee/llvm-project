@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/llvm/lib/Target/RISCV/TargetInfo",
-    "score.sum": 4.129883270532256e-05,
+    "score.sum": 5.0798354620806804e-05,
     "sha.latest": "29463612d21b7d630476fcecdc8301ddf5634bf7",
     "time.latest": 1717865627.85117,
     "formatted_time": "2024-06-08 11:53:47.851173",
     "filescores": {
-        "CMakeLists.txt": 1.485782881443584e-05,
-        "RISCVTargetInfo.cpp": 2.9840923737519767e-05,
-        "RISCVTargetInfo.h": 6.099602068851199e-06
+        "CMakeLists.txt": 29.248641861227004,
+        "RISCVTargetInfo.cpp": 58.743878537548234,
+        "RISCVTargetInfo.h": 12.007479601224773
     },
     "subdirscores": {}
 }

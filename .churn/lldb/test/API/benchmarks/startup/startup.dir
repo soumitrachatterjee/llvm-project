@@ -5,7 +5,7 @@
     "time.latest": 1717887879.943176,
     "formatted_time": "2024-06-09 04:34:39.943178",
     "filescores": {
-        "TestStartupDelays.py": 1.511750750479991e-05
+        "TestStartupDelays.py": 100.0
     },
     "subdirscores": {}
 }

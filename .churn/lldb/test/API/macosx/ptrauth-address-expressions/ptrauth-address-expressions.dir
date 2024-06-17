@@ -5,9 +5,9 @@
     "time.latest": 1717963822.8705864,
     "formatted_time": "2024-06-10 01:40:22.870654",
     "filescores": {
-        "main.c": 0,
-        "Makefile": 0,
-        "TestPtrauthAddressExpressions.py": 6.099602068851199e-06
+        "main.c": 0.0,
+        "Makefile": 0.0,
+        "TestPtrauthAddressExpressions.py": 100.0
     },
     "subdirscores": {}
 }

@@ -1,19 +1,19 @@
 {
     "directory name": "llvm-project/libcxx/test/libcxx/strings/basic.string/string.modifiers",
-    "score.sum": 0.0001156460243896066,
+    "score.sum": 0.00018446460984041446,
     "sha.latest": "58780b811c23df3d928d8452ee21c862dde754a2",
     "time.latest": 1717864840.355087,
     "formatted_time": "2024-06-08 22:10:40.355090",
     "filescores": {
-        "assert.erase_iter.null.pass.cpp": 2.9739703526618338e-05,
-        "assert.pop_back.pass.cpp": 3.457315203992169e-05,
-        "clear_and_shrink.pass.cpp": 9.77737725880206e-06,
-        "debug.erase.iter.pass.cpp": 1.859672555857447e-05,
-        "debug.erase.iter_iter.pass.cpp": 1.859672555857447e-05,
-        "debug.insert.iter_char.pass.cpp": 1.859672555857447e-05,
-        "debug.insert.iter_iter_iter.pass.cpp": 1.859672555857447e-05,
-        "debug.insert.iter_size_char.pass.cpp": 1.859672555857447e-05,
-        "resize_default_initialized.pass.cpp": 1.7390749222200022e-05
+        "assert.erase_iter.null.pass.cpp": 16.122173002369937,
+        "assert.pop_back.pass.cpp": 18.74243090305067,
+        "clear_and_shrink.pass.cpp": 5.300408174370545,
+        "debug.erase.iter.pass.cpp": 10.081459839187053,
+        "debug.erase.iter_iter.pass.cpp": 10.081459839187053,
+        "debug.insert.iter_char.pass.cpp": 10.081459839187053,
+        "debug.insert.iter_iter_iter.pass.cpp": 10.081459839187053,
+        "debug.insert.iter_size_char.pass.cpp": 10.081459839187053,
+        "resize_default_initialized.pass.cpp": 9.427688724273589
     },
     "subdirscores": {}
 }

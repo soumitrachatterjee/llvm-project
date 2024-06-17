@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/libcxx/test/std/utilities/type.index/type.index.overview",
-    "score.sum": 2.5535420658558604e-05,
+    "score.sum": 5.107084131711721e-05,
     "sha.latest": "f9e70fa546a461b3c9fa8463efcd9f7fe989bd9f",
     "time.latest": 1718007527.5520563,
     "formatted_time": "2024-06-10 13:48:47.552058",
     "filescores": {
-        "copy_assign.pass.cpp": 2.5535420658558604e-05,
-        "copy_ctor.pass.cpp": 2.5535420658558604e-05
+        "copy_assign.pass.cpp": 50.0,
+        "copy_ctor.pass.cpp": 50.0
     },
     "subdirscores": {}
 }

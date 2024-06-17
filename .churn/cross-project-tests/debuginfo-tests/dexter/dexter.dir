@@ -1,17 +1,17 @@
 {
     "directory name": "llvm-project/cross-project-tests/debuginfo-tests/dexter",
-    "score.sum": 0.00013753656400631182,
+    "score.sum": 0.0002613044899708936,
     "sha.latest": "e1c0e7e515a6fcc8e0cedeaca65015dc27f15ff0",
     "time.latest": 1717792335.9062667,
     "formatted_time": "2024-06-08 02:02:15.906271",
     "filescores": {
-        "Commands.md": 1.6956043644074637e-05,
-        "dexter.py": 6.099602068851199e-06,
-        "LICENSE.txt": 0,
-        "README.md": 3.023950417094275e-05
+        "Commands.md": 6.488998197452846,
+        "dexter.py": 2.3342890394002134,
+        "LICENSE.txt": 0.0,
+        "README.md": 11.572516099631926
     },
     "subdirscores": {
-        "dex": 0.0001093074257938096,
-        "feature_tests": 9.870191429321537e-05
+        "dex": 41.831438030775985,
+        "feature_tests": 37.77275863273902
     }
 }

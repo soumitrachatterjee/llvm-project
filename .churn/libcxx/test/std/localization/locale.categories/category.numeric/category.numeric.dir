@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/libcxx/test/std/localization/locale.categories/category.numeric",
-    "score.sum": 0.00019683133194171466,
+    "score.sum": 0.00021879902359129866,
     "sha.latest": "785e0945ce49cf5be0d8fcc0874ad6a5c94fc920",
     "time.latest": 1717930086.9254825,
     "formatted_time": "2024-06-09 16:18:06.925485",
     "filescores": {},
     "subdirscores": {
-        "locale.nm.put": 0.0001143229101794347,
-        "locale.num.get": 0.00010447611341186397
+        "locale.nm.put": 52.250192118307595,
+        "locale.num.get": 47.74980788169241
     }
 }

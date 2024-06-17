@@ -1,18 +1,18 @@
 {
     "directory name": "llvm-project/llvm/test/Analysis/MemoryDependenceAnalysis",
-    "score.sum": 0.00012368804054448628,
+    "score.sum": 0.0001409495342383967,
     "sha.latest": "fed4e7d0d2a45b1e49998054379af94d1ba43edd",
     "time.latest": 1717889036.2025013,
     "formatted_time": "2024-06-08 18:23:56.202505",
     "filescores": {
-        "InvariantLoad.ll": 1.1185877136004778e-05,
-        "invalidation.ll": 1.8849515498425385e-05,
-        "invariant.group-bug.ll": 3.078309955036574e-05,
-        "memdep-block-scan-limit.ll": 2.2080956458619637e-05,
-        "memdep_requires_dominator_tree.ll": 2.038380710608116e-05,
-        "memdep_with_tbaa.ll": 6.099602068851199e-06,
-        "reorder-over-store-atomic.ll": 1.5785975550281757e-05,
-        "reorder-volatile.ll": 1.578070086976705e-05
+        "InvariantLoad.ll": 7.936086625930533,
+        "invalidation.ll": 13.37323716624989,
+        "invariant.group-bug.ll": 21.839802250286525,
+        "memdep-block-scan-limit.ll": 15.665859825597398,
+        "memdep_requires_dominator_tree.ll": 14.461776845324485,
+        "memdep_with_tbaa.ll": 4.327507786251044,
+        "reorder-over-store-atomic.ll": 11.1997358739632,
+        "reorder-volatile.ll": 11.195993626396927
     },
     "subdirscores": {}
 }

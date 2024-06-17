@@ -5,7 +5,7 @@
     "time.latest": 1718082311.7134874,
     "formatted_time": "2024-06-11 10:35:11.713490",
     "filescores": {
-        "hello_world.cpp": 6.099602068851199e-06
+        "hello_world.cpp": 100.0
     },
     "subdirscores": {}
 }

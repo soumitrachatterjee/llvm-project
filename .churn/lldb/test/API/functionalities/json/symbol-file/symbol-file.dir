@@ -5,9 +5,9 @@
     "time.latest": 1717910863.340014,
     "formatted_time": "2024-06-09 10:57:43.340016",
     "filescores": {
-        "main.c": 0,
-        "Makefile": 0,
-        "TestSymbolFileJSON.py": 6.099602068851199e-06
+        "main.c": 0.0,
+        "Makefile": 0.0,
+        "TestSymbolFileJSON.py": 100.0
     },
     "subdirscores": {}
 }

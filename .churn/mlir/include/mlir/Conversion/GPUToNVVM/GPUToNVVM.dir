@@ -5,7 +5,7 @@
     "time.latest": 1717791631.1538641,
     "formatted_time": "2024-06-07 15:20:31.153867",
     "filescores": {
-        "GPUToNVVMPass.h": 7.632257432410517e-05
+        "GPUToNVVMPass.h": 100.0
     },
     "subdirscores": {}
 }

@@ -1,23 +1,23 @@
 {
     "directory name": "llvm-project/lldb/tools/lldb-server",
-    "score.sum": 0.0005395599984827898,
+    "score.sum": 0.0007333490051277085,
     "sha.latest": "c2e34a60c433f5dff79c4c2bdb2df5d8ad1f201f",
     "time.latest": 1717992102.4306014,
     "formatted_time": "2024-06-10 09:31:42.430604",
     "filescores": {
-        "Acceptor.cpp": 6.029822932831046e-05,
-        "Acceptor.h": 1.834381041253592e-05,
-        "CMakeLists.txt": 0.000129816876939213,
-        "lldb-gdbserver.cpp": 0.00021632445375913524,
-        "lldb-platform.cpp": 0.00014248529121610264,
-        "lldb-server.cpp": 6.093784808820619e-05,
-        "LLDBServerUtilities.cpp": 3.2749258293759666e-05,
-        "LLDBServerUtilities.h": 1.245824480743227e-05,
-        "LLGSOptions.td": 0,
-        "SystemInitializerLLGS.cpp": 3.956374997385105e-05,
-        "SystemInitializerLLGS.h": 1.4271640240310749e-05
+        "Acceptor.cpp": 8.2223101015607,
+        "Acceptor.h": 2.501375236657129,
+        "CMakeLists.txt": 17.701923099576053,
+        "lldb-gdbserver.cpp": 29.4981587547751,
+        "lldb-platform.cpp": 19.429397220125725,
+        "lldb-server.cpp": 8.309528977624264,
+        "LLDBServerUtilities.cpp": 4.465712514065056,
+        "LLDBServerUtilities.h": 1.698815259899717,
+        "LLGSOptions.td": 0.0,
+        "SystemInitializerLLGS.cpp": 5.394941521323977,
+        "SystemInitializerLLGS.h": 1.9460911708505593
     },
     "subdirscores": {
-        "Darwin": 6.099602068851199e-06
+        "Darwin": 0.8317461435417081
     }
 }

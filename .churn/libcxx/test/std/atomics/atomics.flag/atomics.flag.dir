@@ -1,23 +1,23 @@
 {
     "directory name": "llvm-project/libcxx/test/std/atomics/atomics.flag",
-    "score.sum": 6.18268835235097e-05,
+    "score.sum": 0.0002144703881316914,
     "sha.latest": "1544d1f9fdb115782202d72ad200c3f93b2c4f5a",
     "time.latest": 1717873229.9039466,
     "formatted_time": "2024-06-09 00:30:29.903949",
     "filescores": {
-        "atomic_flag_clear.pass.cpp": 2.6128697445818727e-05,
-        "atomic_flag_clear_explicit.pass.cpp": 2.6128697445818727e-05,
-        "atomic_flag_test.pass.cpp": 1.5131053289954107e-05,
-        "atomic_flag_test_and_set.pass.cpp": 2.276874788629627e-05,
-        "atomic_flag_test_and_set_explicit.pass.cpp": 2.276874788629627e-05,
-        "atomic_flag_test_explicit.pass.cpp": 1.5599320471569797e-05,
-        "clear.pass.cpp": 2.0746944973863043e-05,
-        "copy_assign.compile.fail.cpp": 0,
-        "copy_ctor.compile.fail.cpp": 0,
-        "copy_volatile_assign.compile.fail.cpp": 0,
-        "default.pass.cpp": 1.5453648717348986e-05,
-        "init.pass.cpp": 3.247795633643923e-05,
-        "test_and_set.pass.cpp": 1.7266573678286238e-05
+        "atomic_flag_clear.pass.cpp": 12.182892786940315,
+        "atomic_flag_clear_explicit.pass.cpp": 12.182892786940315,
+        "atomic_flag_test.pass.cpp": 7.055078056119886,
+        "atomic_flag_test_and_set.pass.cpp": 10.616266462070074,
+        "atomic_flag_test_and_set_explicit.pass.cpp": 10.616266462070074,
+        "atomic_flag_test_explicit.pass.cpp": 7.27341457599794,
+        "clear.pass.cpp": 9.67357086197083,
+        "copy_assign.compile.fail.cpp": 0.0,
+        "copy_ctor.compile.fail.cpp": 0.0,
+        "copy_volatile_assign.compile.fail.cpp": 0.0,
+        "default.pass.cpp": 7.205492959643442,
+        "init.pass.cpp": 15.143328931962753,
+        "test_and_set.pass.cpp": 8.050796116284378
     },
     "subdirscores": {}
 }

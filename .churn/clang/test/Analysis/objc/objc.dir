@@ -5,7 +5,7 @@
     "time.latest": 1717837071.4370055,
     "formatted_time": "2024-06-08 14:27:51.437070",
     "filescores": {
-        "direct-ivar-assignment-in-annotated-functions.m": 4.338231532144964e-05
+        "direct-ivar-assignment-in-annotated-functions.m": 100.0
     },
     "subdirscores": {}
 }

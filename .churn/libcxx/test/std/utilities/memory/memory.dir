@@ -1,23 +1,23 @@
 {
     "directory name": "llvm-project/libcxx/test/std/utilities/memory",
-    "score.sum": 0.001037833114397757,
+    "score.sum": 0.001544131257593975,
     "sha.latest": "1197fcabc4b5f39dbe8a94b1ab6e92354f3f0dd2",
     "time.latest": 1718000554.5526488,
     "formatted_time": "2024-06-10 11:52:34.552650",
     "filescores": {},
     "subdirscores": {
-        "allocator.tag": 4.689350711823399e-05,
-        "allocator.traits": 0.00011911861340072433,
-        "allocator.uses": 5.275325408189423e-05,
-        "c.malloc": 1.2132863580760565e-05,
-        "default.allocator": 0.00020026378774805372,
-        "pointer.conversion": 5.414536780894241e-05,
-        "pointer.traits": 5.0206507692701945e-05,
-        "ptr.align": 2.8090681593748076e-05,
-        "specialized.algorithms": 0.00019033819244783191,
-        "storage.iterator": 5.669224876531135e-05,
-        "temporary.buffer": 7.105457115591128e-05,
-        "unique.ptr": 0.00011956821768535872,
-        "util.smartptr": 0.0005428734445145027
+        "allocator.tag": 3.036886073487187,
+        "allocator.traits": 7.714280299353038,
+        "allocator.uses": 3.4163711033278985,
+        "c.malloc": 0.7857404298431001,
+        "default.allocator": 12.969350031816566,
+        "pointer.conversion": 3.50652624526948,
+        "pointer.traits": 3.251440409990302,
+        "ptr.align": 1.819190010926807,
+        "specialized.algorithms": 12.32655524015568,
+        "storage.iterator": 3.6714656533569388,
+        "temporary.buffer": 4.601588809660305,
+        "unique.ptr": 7.7433972725652085,
+        "util.smartptr": 35.15720842024751
     }
 }

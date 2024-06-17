@@ -5,8 +5,8 @@
     "time.latest": 1717890929.9972103,
     "formatted_time": "2024-06-09 05:25:29.997212",
     "filescores": {
-        "module.modulemap": 0,
-        "vector": 9.060086406514315e-06
+        "module.modulemap": 0.0,
+        "vector": 100.0
     },
     "subdirscores": {}
 }

@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/mlir/test/Dialect/SPIRV/Linking/ModuleCombiner",
-    "score.sum": 3.34609565214192e-05,
+    "score.sum": 5.819421971991748e-05,
     "sha.latest": "4f4cd963a6e820b50514706a1a3faed3a05779a2",
     "time.latest": 1717821861.160032,
     "formatted_time": "2024-06-07 23:44:21.160035",
     "filescores": {
-        "basic.mlir": 2.2959044555263394e-05,
-        "conflict-resolution.mlir": 9.652024123706798e-06,
-        "deduplication.mlir": 1.948354897209609e-05,
-        "symbol-rename-listener.mlir": 6.099602068851199e-06
+        "basic.mlir": 39.452448483307805,
+        "conflict-resolution.mlir": 16.5858811582335,
+        "deduplication.mlir": 33.48021344021505,
+        "symbol-rename-listener.mlir": 10.481456918243646
     },
     "subdirscores": {}
 }

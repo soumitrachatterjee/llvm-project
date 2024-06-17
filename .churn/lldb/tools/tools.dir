@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/lldb/tools",
-    "score.sum": 0.006527737289547148,
+    "score.sum": 0.0008267422987690068,
     "sha.latest": "c2e34a60c433f5dff79c4c2bdb2df5d8ad1f201f",
     "time.latest": 1717995573.7424731,
     "formatted_time": "2024-06-10 10:29:33.742476",
     "filescores": {
-        "CMakeLists.txt": 8.451900584878208e-05
+        "CMakeLists.txt": 10.22313796870297
     },
     "subdirscores": {
         "argdumper": null,
@@ -20,6 +20,6 @@
         "lldb-instr": null,
         "lldb-server": null,
         "lldb-test": null,
-        "lldb-vscode": 0.0007422232929202247
+        "lldb-vscode": 89.77686203129703
     }
 }

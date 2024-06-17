@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/clang-tools-extra/test/clang-tidy/infrastructure/Inputs/nolintbeginend",
-    "score.sum": 1.8362394148269403e-05,
+    "score.sum": 3.755020603197397e-05,
     "sha.latest": "5da7c040030c4af72dcc21220f579098469c554e",
     "time.latest": 1717833893.1392832,
     "formatted_time": "2024-06-08 13:34:53.139285",
     "filescores": {
-        "1st-translation-unit.cpp": 1.0922081333967027e-05,
-        "2nd-translation-unit.cpp": 1.0922081333967027e-05,
-        "error_in_include.inc": 7.853021682019958e-06,
-        "nolint_in_include.inc": 7.853021682019958e-06
+        "1st-translation-unit.cpp": 29.08660827231383,
+        "2nd-translation-unit.cpp": 29.08660827231383,
+        "error_in_include.inc": 20.91339172768617,
+        "nolint_in_include.inc": 20.91339172768617
     },
     "subdirscores": {}
 }

@@ -1,22 +1,22 @@
 {
     "directory name": "llvm-project/libcxx/test/std/localization/locale.categories/category.ctype/locale.ctype/locale.ctype.members",
-    "score.sum": 2.207155989827882e-05,
+    "score.sum": 0.00026485871877934575,
     "sha.latest": "a7f9895cc18995549c7facb96e72718da282a864",
     "time.latest": 1717927543.67119,
     "formatted_time": "2024-06-09 15:35:43.671192",
     "filescores": {
-        "is_1.pass.cpp": 2.207155989827882e-05,
-        "is_many.pass.cpp": 2.207155989827882e-05,
-        "narrow_1.pass.cpp": 2.207155989827882e-05,
-        "narrow_many.pass.cpp": 2.207155989827882e-05,
-        "scan_is.pass.cpp": 2.207155989827882e-05,
-        "scan_not.pass.cpp": 2.207155989827882e-05,
-        "tolower_1.pass.cpp": 2.207155989827882e-05,
-        "tolower_many.pass.cpp": 2.207155989827882e-05,
-        "toupper_1.pass.cpp": 2.207155989827882e-05,
-        "toupper_many.pass.cpp": 2.207155989827882e-05,
-        "widen_1.pass.cpp": 2.207155989827882e-05,
-        "widen_many.pass.cpp": 2.207155989827882e-05
+        "is_1.pass.cpp": 8.333333333333336,
+        "is_many.pass.cpp": 8.333333333333336,
+        "narrow_1.pass.cpp": 8.333333333333336,
+        "narrow_many.pass.cpp": 8.333333333333336,
+        "scan_is.pass.cpp": 8.333333333333336,
+        "scan_not.pass.cpp": 8.333333333333336,
+        "tolower_1.pass.cpp": 8.333333333333336,
+        "tolower_many.pass.cpp": 8.333333333333336,
+        "toupper_1.pass.cpp": 8.333333333333336,
+        "toupper_many.pass.cpp": 8.333333333333336,
+        "widen_1.pass.cpp": 8.333333333333336,
+        "widen_many.pass.cpp": 8.333333333333336
     },
     "subdirscores": {}
 }

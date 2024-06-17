@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/compiler-rt/lib/scudo",
-    "score.sum": 0.0028918150898855476,
+    "score.sum": 0.0020941452368974742,
     "sha.latest": "1cf428a05a62711200d37a1b12722ca16c33a6ea",
     "time.latest": 1717806753.2975903,
     "formatted_time": "2024-06-08 06:02:33.297594",
     "filescores": {},
     "subdirscores": {
-        "standalone": 0.0020941452368974742
+        "standalone": 100.0
     }
 }

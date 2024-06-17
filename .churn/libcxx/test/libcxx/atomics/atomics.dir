@@ -1,20 +1,20 @@
 {
     "directory name": "llvm-project/libcxx/test/libcxx/atomics",
-    "score.sum": 0.00028570806800881735,
+    "score.sum": 0.0001839487699865302,
     "sha.latest": "85a847fd1d639a0e7d5319b17e994ea157be6046",
     "time.latest": 1717845530.3980608,
     "formatted_time": "2024-06-08 16:48:50.398064",
     "filescores": {
-        "bit-int.verify.cpp": 2.2221026296182753e-05,
-        "diagnose_invalid_memory_order.verify.cpp": 1.619104606295545e-05
+        "bit-int.verify.cpp": 12.080008090192669,
+        "diagnose_invalid_memory_order.verify.cpp": 8.801932225010829
     },
     "subdirscores": {
-        "atomics.align": 6.185080933663001e-05,
-        "atomics.flag": 2.2312301010266476e-05,
-        "atomics.order": 6.563060145679162e-06,
-        "atomics.syn": 9.039916876022753e-06,
-        "atomics.types.generic": 9.149276837041909e-06,
-        "atomics.types.operations": 2.0200757345264403e-05,
-        "stdatomic.h.syn": 1.6420576076487266e-05
+        "atomics.align": 33.62393200082778,
+        "atomics.flag": 12.129627728361712,
+        "atomics.order": 3.5678738956285203,
+        "atomics.syn": 4.914366579719292,
+        "atomics.types.generic": 4.973817893814605,
+        "atomics.types.operations": 10.981730047308073,
+        "stdatomic.h.syn": 8.926711539136509
     }
 }

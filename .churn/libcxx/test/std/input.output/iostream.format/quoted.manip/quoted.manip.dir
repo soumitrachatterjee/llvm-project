@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/libcxx/test/std/input.output/iostream.format/quoted.manip",
-    "score.sum": 5.544250883314934e-05,
+    "score.sum": 5.541296766756311e-05,
     "sha.latest": "72f0edf3f4291d2614719a8c8af21a7a62ed5d74",
     "time.latest": 1717906778.034046,
     "formatted_time": "2024-06-09 09:49:38.034048",
     "filescores": {
-        "quoted.pass.cpp": 3.658576902195092e-05,
-        "quoted_char.verify.cpp": 1.272759657676099e-05,
-        "quoted_traits.compile.pass.cpp": 0,
-        "quoted_traits.verify.cpp": 6.099602068851199e-06
+        "quoted.pass.cpp": 66.02383983734371,
+        "quoted_char.verify.cpp": 22.96862469650998,
+        "quoted_traits.compile.pass.cpp": 0.0,
+        "quoted_traits.verify.cpp": 11.007535466146313
     },
     "subdirscores": {}
 }

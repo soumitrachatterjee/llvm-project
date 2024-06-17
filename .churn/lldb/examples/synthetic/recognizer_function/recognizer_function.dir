@@ -5,9 +5,9 @@
     "time.latest": 1717842936.3751369,
     "formatted_time": "2024-06-08 16:05:36.375141",
     "filescores": {
-        "example.py": 6.099602068851199e-06,
-        "lldb-commands": 0,
-        "program.cpp": 0
+        "example.py": 100.0,
+        "lldb-commands": 0.0,
+        "program.cpp": 0.0
     },
     "subdirscores": {}
 }

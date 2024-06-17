@@ -1,20 +1,20 @@
 {
     "directory name": "llvm-project/llvm/test/Analysis/CallGraph",
-    "score.sum": 0.00017183116882168225,
+    "score.sum": 0.00023163505451465847,
     "sha.latest": "10410534696e1922cbed56b229d123b2db4acd8e",
     "time.latest": 1717880010.2779677,
     "formatted_time": "2024-06-08 15:53:30.277971",
     "filescores": {
-        "2008-09-09-DirectCall.ll": 2.5878580693263008e-05,
-        "2008-09-09-UsedByGlobal.ll": 2.3052968504870248e-05,
-        "callback-calls.ll": 1.8257841595888287e-05,
-        "do-nothing-intrinsic.ll": 1.3407752802585924e-05,
-        "ignore-assumelike-calls.ll": 2.3492907363020878e-05,
-        "ignore-callback-uses.ll": 1.8292254682160083e-05,
-        "llvm-used.ll": 2.410538536352302e-05,
-        "no-intrinsics.ll": 3.068516460986197e-05,
-        "non-leaf-intrinsics.ll": 5.446219889948505e-05,
-        "printer.ll": 0
+        "2008-09-09-DirectCall.ll": 11.17213486856988,
+        "2008-09-09-UsedByGlobal.ll": 9.952279698413005,
+        "callback-calls.ll": 7.882158265787393,
+        "do-nothing-intrinsic.ll": 5.788309040995109,
+        "ignore-assumelike-calls.ll": 10.142207280433103,
+        "ignore-callback-uses.ll": 7.897014862662983,
+        "llvm-used.ll": 10.40662235430241,
+        "no-intrinsics.ll": 13.24720244703728,
+        "non-leaf-intrinsics.ll": 23.512071181798845,
+        "printer.ll": 0.0
     },
     "subdirscores": {}
 }

@@ -6,6 +6,6 @@
     "formatted_time": "2024-06-08 22:56:39.543892",
     "filescores": {},
     "subdirscores": {
-        "mem.poly.allocator.mem": 2.6477160792642856e-05
+        "mem.poly.allocator.mem": 100.0
     }
 }

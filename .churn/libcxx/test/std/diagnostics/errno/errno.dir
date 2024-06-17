@@ -5,7 +5,7 @@
     "time.latest": 1717897273.0541856,
     "formatted_time": "2024-06-09 07:11:13.054189",
     "filescores": {
-        "cerrno.pass.cpp": 1.883474204184848e-05
+        "cerrno.pass.cpp": 100.0
     },
     "subdirscores": {}
 }

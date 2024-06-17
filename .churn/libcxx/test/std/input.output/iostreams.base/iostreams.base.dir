@@ -1,18 +1,18 @@
 {
     "directory name": "llvm-project/libcxx/test/std/input.output/iostreams.base",
-    "score.sum": 0.00013364999593785216,
+    "score.sum": 0.000205812715993843,
     "sha.latest": "fbdf684fae5243e7a9ff50dd4abdc5b55e6aa895",
     "time.latest": 1717908597.45535,
     "formatted_time": "2024-06-09 10:19:57.455351",
     "filescores": {
-        "is_error_code_enum_io_errc.pass.cpp": 1.210048714648103e-05,
-        "lit.local.cfg": 9.845454441214068e-06
+        "is_error_code_enum_io_errc.pass.cpp": 5.879368088628217,
+        "lit.local.cfg": 4.783695892487323
     },
     "subdirscores": {
-        "fpos": 3.020053882045736e-05,
-        "ios": 5.619765769844418e-05,
-        "ios.base": 6.143692445123285e-05,
-        "std.ios.manip": 1.8665377791775296e-05,
-        "stream.types": 1.7366275644238228e-05
+        "fpos": 14.67379635637325,
+        "ios": 27.30524079966243,
+        "ios.base": 29.850888539399463,
+        "std.ios.manip": 9.069108146035875,
+        "stream.types": 8.437902177413445
     }
 }

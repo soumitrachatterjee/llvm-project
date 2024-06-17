@@ -5,8 +5,8 @@
     "time.latest": 1717826169.291563,
     "formatted_time": "2024-06-08 00:56:09.291566",
     "filescores": {
-        "CMakeLists.txt": 0,
-        "time-macros.h": 6.099602068851199e-06
+        "CMakeLists.txt": 0.0,
+        "time-macros.h": 100.0
     },
     "subdirscores": {}
 }

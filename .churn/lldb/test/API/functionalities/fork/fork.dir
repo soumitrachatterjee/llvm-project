@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/lldb/test/API/functionalities/fork",
-    "score.sum": 1.9181061440991575e-05,
+    "score.sum": 1.429990961885549e-05,
     "sha.latest": "36f866c6ec3f6671fd4178ed4e49fd632a335cc2",
     "time.latest": 1717909718.6399024,
     "formatted_time": "2024-06-09 10:38:38.639904",
     "filescores": {},
     "subdirscores": {
-        "concurrent_vfork": 8.20030755000429e-06,
-        "resumes-child": 6.099602068851199e-06
+        "concurrent_vfork": 57.345170484095775,
+        "resumes-child": 42.654829515904225
     }
 }

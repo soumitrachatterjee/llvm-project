@@ -5,10 +5,10 @@
     "time.latest": 1717893151.4185104,
     "formatted_time": "2024-06-09 06:02:31.418513",
     "filescores": {
-        "foo.cpp": 0,
-        "main.cpp": 0,
-        "Makefile": 0,
-        "TestExprOptions.py": 1.117107419523803e-05
+        "foo.cpp": 0.0,
+        "main.cpp": 0.0,
+        "Makefile": 0.0,
+        "TestExprOptions.py": 100.0
     },
     "subdirscores": {}
 }

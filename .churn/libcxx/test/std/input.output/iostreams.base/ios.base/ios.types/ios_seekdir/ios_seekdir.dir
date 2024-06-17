@@ -5,7 +5,7 @@
     "time.latest": 1717908117.0092554,
     "formatted_time": "2024-06-09 10:11:57.009257",
     "filescores": {
-        "seekdir.pass.cpp": 1.7366275644238228e-05
+        "seekdir.pass.cpp": 100.0
     },
     "subdirscores": {}
 }

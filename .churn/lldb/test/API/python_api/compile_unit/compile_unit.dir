@@ -5,9 +5,9 @@
     "time.latest": 1717964660.4386003,
     "formatted_time": "2024-06-10 01:54:20.438605",
     "filescores": {
-        "main.c": 0,
-        "Makefile": 0,
-        "TestCompileUnitAPI.py": 9.403058985203006e-06
+        "main.c": 0.0,
+        "Makefile": 0.0,
+        "TestCompileUnitAPI.py": 100.0
     },
     "subdirscores": {}
 }

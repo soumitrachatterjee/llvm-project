@@ -1,22 +1,22 @@
 {
     "directory name": "llvm-project/libcxx/test/std/utilities/format/format.formatter/format.formatter.spec",
-    "score.sum": 9.295252477781678e-05,
+    "score.sum": 0.00029806014657159145,
     "sha.latest": "74fb205876be681d2ca9d8bdd23e171e671df5e1",
     "time.latest": 1717994419.5602765,
     "formatted_time": "2024-06-10 10:10:19.560277",
     "filescores": {
-        "formatter.bool.pass.cpp": 2.326200468256859e-05,
-        "formatter.char.fsigned-char.pass.cpp": 0,
-        "formatter.char.funsigned-char.pass.cpp": 0,
-        "formatter.char.pass.cpp": 2.410064473352005e-05,
-        "formatter.char_array.pass.cpp": 3.2406106627756484e-05,
-        "formatter.c_string.pass.cpp": 2.5450586949136055e-05,
-        "formatter.floating_point.pass.cpp": 3.9628112948634814e-05,
-        "formatter.handle.pass.cpp": 2.5726346242151873e-05,
-        "formatter.pointer.pass.cpp": 3.659341816578298e-05,
-        "formatter.signed_integral.pass.cpp": 3.0774815262494274e-05,
-        "formatter.string.pass.cpp": 3.109009475993576e-05,
-        "formatter.unsigned_integral.pass.cpp": 2.9028016199610593e-05
+        "formatter.bool.pass.cpp": 7.804466632033029,
+        "formatter.char.fsigned-char.pass.cpp": 0.0,
+        "formatter.char.funsigned-char.pass.cpp": 0.0,
+        "formatter.char.pass.cpp": 8.085832678650744,
+        "formatter.char_array.pass.cpp": 10.872338016505948,
+        "formatter.c_string.pass.cpp": 8.538742009583977,
+        "formatter.floating_point.pass.cpp": 13.295341025780678,
+        "formatter.handle.pass.cpp": 8.631260011801889,
+        "formatter.pointer.pass.cpp": 12.277192568914462,
+        "formatter.signed_integral.pass.cpp": 10.32503527106145,
+        "formatter.string.pass.cpp": 10.43081241069852,
+        "formatter.unsigned_integral.pass.cpp": 9.738979374969311
     },
     "subdirscores": {}
 }

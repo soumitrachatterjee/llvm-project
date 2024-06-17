@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/llvm/include/llvm/Testing/Support",
-    "score.sum": 0.00012736628582773506,
+    "score.sum": 9.816228208319431e-05,
     "sha.latest": "da6642a1c81bb5ff68153bcdc138e75e6ecdce43",
     "time.latest": 1717823436.326237,
     "formatted_time": "2024-06-08 00:10:36.326242",
     "filescores": {
-        "Error.h": 4.661947548859753e-05,
-        "SupportHelpers.h": 5.154280659459679e-05
+        "Error.h": 47.49224905864218,
+        "SupportHelpers.h": 52.50775094135782
     },
     "subdirscores": {}
 }

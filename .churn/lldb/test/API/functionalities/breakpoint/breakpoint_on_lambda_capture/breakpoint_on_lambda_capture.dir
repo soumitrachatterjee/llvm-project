@@ -5,9 +5,9 @@
     "time.latest": 1717902660.6095629,
     "formatted_time": "2024-06-09 08:41:00.609565",
     "filescores": {
-        "main.cpp": 0,
-        "Makefile": 0,
-        "TestBreakOnLambdaCapture.py": 6.347277474120524e-06
+        "main.cpp": 0.0,
+        "Makefile": 0.0,
+        "TestBreakOnLambdaCapture.py": 100.0
     },
     "subdirscores": {}
 }

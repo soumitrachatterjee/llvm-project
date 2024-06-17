@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/libcxx/test/std/re/re.results/re.results.form",
-    "score.sum": 3.0571151385798045e-05,
+    "score.sum": 9.354268427378564e-05,
     "sha.latest": "5f26d8636f506b487962cd2a9b0e32940e93fa9b",
     "time.latest": 1717967550.352361,
     "formatted_time": "2024-06-10 02:42:30.352364",
     "filescores": {
-        "form1.pass.cpp": 2.695510331025295e-05,
-        "form2.pass.cpp": 2.9618827245391664e-05,
-        "form3.pass.cpp": 1.848437685907051e-05,
-        "form4.pass.cpp": 1.848437685907051e-05
+        "form1.pass.cpp": 28.815832600398057,
+        "form2.pass.cpp": 31.6634352278172,
+        "form3.pass.cpp": 19.760366085892365,
+        "form4.pass.cpp": 19.760366085892365
     },
     "subdirscores": {}
 }

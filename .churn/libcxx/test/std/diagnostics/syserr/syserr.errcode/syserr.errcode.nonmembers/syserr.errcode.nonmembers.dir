@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/libcxx/test/std/diagnostics/syserr/syserr.errcode/syserr.errcode.nonmembers",
-    "score.sum": 2.128627699197688e-05,
+    "score.sum": 5.601882828045334e-05,
     "sha.latest": "a7f9895cc18995549c7facb96e72718da282a864",
     "time.latest": 1717898264.269512,
     "formatted_time": "2024-06-09 07:27:44.269516",
     "filescores": {
-        "lt.pass.cpp": 1.7366275644238228e-05,
-        "make_error_code.pass.cpp": 1.7366275644238228e-05,
-        "stream_inserter.pass.cpp": 2.128627699197688e-05
+        "lt.pass.cpp": 31.00078344605049,
+        "make_error_code.pass.cpp": 31.00078344605049,
+        "stream_inserter.pass.cpp": 37.99843310789902
     },
     "subdirscores": {}
 }

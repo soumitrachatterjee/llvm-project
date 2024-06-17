@@ -1,15 +1,15 @@
 {
     "directory name": "llvm-project/compiler-rt/lib/safestack",
-    "score.sum": 9.7030149119069e-05,
+    "score.sum": 5.687502350038254e-05,
     "sha.latest": "ccae01cbce8aeaba03e782759807d5b5fc4991f1",
     "time.latest": 1717802489.880416,
     "formatted_time": "2024-06-08 04:51:29.880419",
     "filescores": {
-        ".clang-format": 2.3322092761216942e-05,
-        "CMakeLists.txt": 2.125836350623244e-05,
-        "safestack.cpp": 0,
-        "safestack_platform.h": 6.194965164081959e-06,
-        "safestack_util.h": 6.099602068851199e-06
+        ".clang-format": 41.00586043900286,
+        "CMakeLists.txt": 37.377326984470535,
+        "safestack.cpp": 0.0,
+        "safestack_platform.h": 10.892241941737907,
+        "safestack_util.h": 10.724570634788702
     },
     "subdirscores": {}
 }

@@ -5,11 +5,11 @@
     "time.latest": 1717790193.6059005,
     "formatted_time": "2024-06-07 14:56:33.605901",
     "filescores": {
-        "CMakeLists.txt": 0
+        "CMakeLists.txt": 0.0
     },
     "subdirscores": {
-        "include": 0,
-        "lib": 0,
-        "transform-opt": 6.099602068851199e-06
+        "include": 0.0,
+        "lib": 0.0,
+        "transform-opt": 100.0
     }
 }

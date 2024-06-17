@@ -5,9 +5,9 @@
     "time.latest": 1717925483.698804,
     "formatted_time": "2024-06-09 15:01:23.698807",
     "filescores": {
-        "main.c": 0,
-        "Makefile": 0,
-        "TestFindStructTypes.py": 1.4740728982021631e-05
+        "main.c": 0.0,
+        "Makefile": 0.0,
+        "TestFindStructTypes.py": 100.0
     },
     "subdirscores": {}
 }

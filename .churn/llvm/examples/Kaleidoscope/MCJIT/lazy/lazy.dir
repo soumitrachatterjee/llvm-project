@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/llvm/examples/Kaleidoscope/MCJIT/lazy",
-    "score.sum": 3.420673054841277e-05,
+    "score.sum": 4.8908933871040814e-05,
     "sha.latest": "b71edfaa4ec3c998aadb35255ce2f60bba2940b0",
     "time.latest": 1717804358.8142838,
     "formatted_time": "2024-06-07 18:52:38.814287",
     "filescores": {
-        "README.txt": 6.099602068851199e-06,
-        "genk-timing.py": 9.486257652003172e-06,
-        "toy-jit.cpp": 1.7158463506619344e-05,
-        "toy.cpp": 1.6164610643567097e-05
+        "README.txt": 12.471345388419515,
+        "genk-timing.py": 19.395756360209734,
+        "toy-jit.cpp": 35.08247297285485,
+        "toy.cpp": 33.0504252785159
     },
     "subdirscores": {}
 }

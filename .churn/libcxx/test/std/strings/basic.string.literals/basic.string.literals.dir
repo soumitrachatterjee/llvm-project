@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/libcxx/test/std/strings/basic.string.literals",
-    "score.sum": 6.087186918895659e-05,
+    "score.sum": 5.5062454183989946e-05,
     "sha.latest": "a40bada91aeda276a772acfbcae6e8de26755a11",
     "time.latest": 1717971246.8446903,
     "formatted_time": "2024-06-10 03:44:06.844693",
     "filescores": {
-        "literal.pass.cpp": 4.286325004628755e-05,
-        "literal.verify.cpp": 6.099602068851199e-06,
-        "noexcept.compile.pass.cpp": 6.099602068851199e-06
+        "literal.pass.cpp": 77.84478676351941,
+        "literal.verify.cpp": 11.077606618240292,
+        "noexcept.compile.pass.cpp": 11.077606618240292
     },
     "subdirscores": {}
 }

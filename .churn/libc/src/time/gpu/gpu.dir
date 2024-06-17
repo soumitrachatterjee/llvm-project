@@ -1,15 +1,15 @@
 {
     "directory name": "llvm-project/libc/src/time/gpu",
-    "score.sum": 3.936067470910028e-05,
+    "score.sum": 6.796661673101511e-05,
     "sha.latest": "63198e0682058c81cd546cb1851e785cec1387ef",
     "time.latest": 1717842838.3538065,
     "formatted_time": "2024-06-08 05:33:58.353810",
     "filescores": {
-        "CMakeLists.txt": 6.099602068851199e-06,
-        "clock.cpp": 6.099602068851199e-06,
-        "nanosleep.cpp": 1.8723190236389237e-05,
-        "time_utils.cpp": 9.344609720761422e-06,
-        "time_utils.h": 2.7699612636162043e-05
+        "CMakeLists.txt": 8.974408852791662,
+        "clock.cpp": 8.974408852791662,
+        "nanosleep.cpp": 27.54762725719921,
+        "time_utils.cpp": 13.748822834221214,
+        "time_utils.h": 40.75473220299624
     },
     "subdirscores": {}
 }

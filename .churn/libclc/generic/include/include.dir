@@ -1,16 +1,16 @@
 {
     "directory name": "llvm-project/libclc/generic/include",
-    "score.sum": 0.0007282905103261688,
+    "score.sum": 0.0008013601713274724,
     "sha.latest": "21508fa76914a5e4281dc5bc77cac7f2e8bc3aef",
     "time.latest": 1717827828.6713455,
     "formatted_time": "2024-06-08 01:23:48.671349",
     "filescores": {
-        "config.h": 0,
-        "utils.h": 0
+        "config.h": 0.0,
+        "utils.h": 0.0
     },
     "subdirscores": {
-        "clc": 0.0007051126838247472,
-        "integer": 0,
-        "math": 9.624748750272523e-05
+        "clc": 87.98948451065532,
+        "integer": 0.0,
+        "math": 12.010515489344693
     }
 }

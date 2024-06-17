@@ -5,9 +5,9 @@
     "time.latest": 1717959758.1863089,
     "formatted_time": "2024-06-10 00:32:38.186314",
     "filescores": {
-        "main.m": 0,
-        "Makefile": 0,
-        "TestRdar10967107.py": 1.1847074432302387e-05
+        "main.m": 0.0,
+        "Makefile": 0.0,
+        "TestRdar10967107.py": 100.0
     },
     "subdirscores": {}
 }

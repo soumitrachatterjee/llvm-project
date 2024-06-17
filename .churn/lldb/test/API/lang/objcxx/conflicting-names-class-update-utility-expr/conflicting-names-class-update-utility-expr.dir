@@ -5,9 +5,9 @@
     "time.latest": 1717960344.1008775,
     "formatted_time": "2024-06-10 00:42:24.100883",
     "filescores": {
-        "main.mm": 0,
-        "Makefile": 0,
-        "TestObjCConflictingNamesForClassUpdateExpr.py": 9.006739130307968e-06
+        "main.mm": 0.0,
+        "Makefile": 0.0,
+        "TestObjCConflictingNamesForClassUpdateExpr.py": 100.0
     },
     "subdirscores": {}
 }

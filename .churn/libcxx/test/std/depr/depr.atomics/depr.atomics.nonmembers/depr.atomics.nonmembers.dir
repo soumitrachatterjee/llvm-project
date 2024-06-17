@@ -5,7 +5,7 @@
     "time.latest": 1717894900.9810545,
     "formatted_time": "2024-06-09 06:31:40.981056",
     "filescores": {
-        "atomic_init.depr_in_cxx20.verify.cpp": 6.099602068851199e-06
+        "atomic_init.depr_in_cxx20.verify.cpp": 100.0
     },
     "subdirscores": {}
 }

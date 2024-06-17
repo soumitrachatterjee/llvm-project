@@ -5,8 +5,8 @@
     "time.latest": 1717789853.462756,
     "formatted_time": "2024-06-07 14:50:53.462760",
     "filescores": {
-        "FIRContext.h": 8.653411249430247e-06,
-        "KindMapping.h": 0
+        "FIRContext.h": 100.0,
+        "KindMapping.h": 0.0
     },
     "subdirscores": {}
 }

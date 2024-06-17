@@ -5,13 +5,13 @@
     "time.latest": 1717992315.7058997,
     "formatted_time": "2024-06-10 09:35:15.705902",
     "filescores": {
-        "ctad.compile.pass.cpp": 0,
-        "equality.pass.cpp": 0
+        "ctad.compile.pass.cpp": 0.0,
+        "equality.pass.cpp": 0.0
     },
     "subdirscores": {
-        "assign": 0,
-        "ctor": 0,
-        "observer": 0,
-        "swap": 6.099602068851199e-06
+        "assign": 0.0,
+        "ctor": 0.0,
+        "observer": 0.0,
+        "swap": 100.0
     }
 }

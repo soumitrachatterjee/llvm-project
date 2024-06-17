@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/llvm/tools/llvm-debuginfod",
-    "score.sum": 5.361350313009622e-05,
+    "score.sum": 9.6832639988405e-05,
     "sha.latest": "716042a63f26cd020eb72960f72fa97b9a197382",
     "time.latest": 1718079163.8419838,
     "formatted_time": "2024-06-10 23:12:43.841987",
     "filescores": {
-        "CMakeLists.txt": 3.29345200622772e-05,
-        "Opts.td": 1.02847235095783e-05,
-        "llvm-debuginfod.cpp": 5.361339641654951e-05
+        "CMakeLists.txt": 34.01179609088513,
+        "Opts.td": 10.621133029947154,
+        "llvm-debuginfod.cpp": 55.367070879167734
     },
     "subdirscores": {}
 }

@@ -1,15 +1,15 @@
 {
     "directory name": "llvm-project/clang/lib/Analysis/plugins",
-    "score.sum": 2.2830097242100467e-05,
+    "score.sum": 3.737330341624281e-05,
     "sha.latest": "9d59cfc67eadbe4b4088d70f8bbc61c96568d2f1",
     "time.latest": 1717804372.614702,
     "formatted_time": "2024-06-08 05:22:52.614704",
     "filescores": {
-        "CMakeLists.txt": 1.2237719050069676e-05
+        "CMakeLists.txt": 32.744547394627794
     },
     "subdirscores": {
-        "CheckerDependencyHandling": 7.135705155619024e-06,
-        "CheckerOptionHandling": 9.042185603723526e-06,
-        "SampleAnalyzer": 8.95769360683058e-06
+        "CheckerDependencyHandling": 19.093054408772907,
+        "CheckerOptionHandling": 24.194237001253953,
+        "SampleAnalyzer": 23.96816119534533
     }
 }

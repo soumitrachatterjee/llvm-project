@@ -1,19 +1,19 @@
 {
     "directory name": "llvm-project/lldb/include/lldb/Host/common",
-    "score.sum": 0.0002522522581959388,
+    "score.sum": 0.00041235048506550634,
     "sha.latest": "12dee9d3cd762d9754e2adadffa13c1cce85cf07",
     "time.latest": 1717847203.2334692,
     "formatted_time": "2024-06-08 17:16:43.233474",
     "filescores": {
-        "GetOptInc.h": 1.7211701041394184e-05,
-        "NativeBreakpointList.h": 2.6859412697954734e-05,
-        "NativeProcessProtocol.h": 0.00019867324666980927,
-        "NativeRegisterContext.h": 5.292057366329756e-05,
-        "NativeThreadProtocol.h": 3.824314891948502e-05,
-        "NativeWatchpointList.h": 1.7986035996827864e-05,
-        "TCPSocket.h": 2.5620261763051212e-05,
-        "UDPSocket.h": 3.483610431368652e-05,
-        "ZipFileResolver.h": 0
+        "GetOptInc.h": 4.174046512558345,
+        "NativeBreakpointList.h": 6.5137337461086835,
+        "NativeProcessProtocol.h": 48.18067490286761,
+        "NativeRegisterContext.h": 12.83388175350165,
+        "NativeThreadProtocol.h": 9.27442801805112,
+        "NativeWatchpointList.h": 4.361832142375335,
+        "TCPSocket.h": 6.213224596784737,
+        "UDPSocket.h": 8.448178327752524,
+        "ZipFileResolver.h": 0.0
     },
     "subdirscores": {}
 }

@@ -1,15 +1,15 @@
 {
     "directory name": "llvm-project/lldb/test/Shell/Commands/CommandScriptImmediateOutput",
-    "score.sum": 1.0894163706071993e-05,
+    "score.sum": 3.5574666901046934e-05,
     "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
     "time.latest": 1717971901.9524806,
     "formatted_time": "2024-06-10 03:55:01.952484",
     "filescores": {
-        "CommandScriptImmediateOutputConsole.test": 8.22683439832498e-06,
-        "CommandScriptImmediateOutputFile.test": 8.22683439832498e-06,
-        "lit.local.cfg": 8.22683439832498e-06
+        "CommandScriptImmediateOutputConsole.test": 23.12554161422906,
+        "CommandScriptImmediateOutputFile.test": 23.12554161422906,
+        "lit.local.cfg": 23.12554161422906
     },
     "subdirscores": {
-        "Inputs": 1.0894163706071993e-05
+        "Inputs": 30.62337515731282
     }
 }

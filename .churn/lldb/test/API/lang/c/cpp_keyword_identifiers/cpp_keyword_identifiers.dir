@@ -5,9 +5,9 @@
     "time.latest": 1717925397.861635,
     "formatted_time": "2024-06-09 14:59:57.861637",
     "filescores": {
-        "main.c": 0,
-        "Makefile": 0,
-        "TestCppKeywordsAsCIdentifiers.py": 9.933421624180591e-06
+        "main.c": 0.0,
+        "Makefile": 0.0,
+        "TestCppKeywordsAsCIdentifiers.py": 100.0
     },
     "subdirscores": {}
 }

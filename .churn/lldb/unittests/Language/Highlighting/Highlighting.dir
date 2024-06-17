@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/lldb/unittests/Language/Highlighting",
-    "score.sum": 2.7541696644887328e-05,
+    "score.sum": 4.584049916660571e-05,
     "sha.latest": "e126fa27c07c83997fcdee2bd45996ffc860317b",
     "time.latest": 1717996732.2594087,
     "formatted_time": "2024-06-10 10:48:52.259411",
     "filescores": {
-        "CMakeLists.txt": 1.8298802521718377e-05,
-        "HighlighterTest.cpp": 2.7541696644887328e-05
+        "CMakeLists.txt": 39.91841898407784,
+        "HighlighterTest.cpp": 60.08158101592215
     },
     "subdirscores": {}
 }

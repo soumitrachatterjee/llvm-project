@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/libcxx/test/std/diagnostics/syserr/syserr.compare",
-    "score.sum": 1.9724840084344147e-05,
+    "score.sum": 1.4589931491692786e-05,
     "sha.latest": "f1d3ebc9918aa6d1d04cda98da1ecef2dd51978c",
     "time.latest": 1717897750.2487905,
     "formatted_time": "2024-06-09 07:19:10.248794",
     "filescores": {
-        "cmp_error_code.pass.cpp": 0,
-        "cmp_error_condition.pass.cpp": 0,
-        "eq_error_code_error_code.pass.cpp": 1.4589931491692786e-05
+        "cmp_error_code.pass.cpp": 0.0,
+        "cmp_error_condition.pass.cpp": 0.0,
+        "eq_error_code_error_code.pass.cpp": 100.0
     },
     "subdirscores": {}
 }

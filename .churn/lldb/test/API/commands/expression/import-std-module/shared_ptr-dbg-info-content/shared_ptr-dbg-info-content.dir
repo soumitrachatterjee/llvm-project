@@ -5,9 +5,9 @@
     "time.latest": 1717891805.5996797,
     "formatted_time": "2024-06-09 05:40:05.599681",
     "filescores": {
-        "main.cpp": 0,
-        "Makefile": 0,
-        "TestSharedPtrDbgInfoContentFromStdModule.py": 1.162782275014115e-05
+        "main.cpp": 0.0,
+        "Makefile": 0.0,
+        "TestSharedPtrDbgInfoContentFromStdModule.py": 100.0
     },
     "subdirscores": {}
 }

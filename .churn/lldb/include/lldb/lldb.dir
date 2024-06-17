@@ -1,21 +1,21 @@
 {
     "directory name": "llvm-project/lldb/include/lldb",
-    "score.sum": 0.017866736438103978,
+    "score.sum": 0.005578881580545884,
     "sha.latest": "624ea68cbc3ce422b3ee110c0c0af839eec2e278",
     "time.latest": 1717860558.6336865,
     "formatted_time": "2024-06-08 20:59:18.633689",
     "filescores": {
-        "lldb-defines.h": 0.00018186882389446734,
-        "lldb-enumerations.h": 0.0007605964853901026,
-        "lldb-forward.h": 0.0006574095505344508,
-        "lldb-private-enumerations.h": 0.00015673996211232658,
-        "lldb-private-forward.h": 4.158709378549247e-05,
-        "lldb-private-interfaces.h": 0.0002543154228327738,
-        "lldb-private-types.h": 0.0001620575528512851,
-        "lldb-private.h": 5.062345973727651e-05,
-        "lldb-public.h": 2.135230014467892e-05,
-        "lldb-types.h": 0.00011503362365675309,
-        "lldb-versioning.h": 2.4262554149724974e-05
+        "lldb-defines.h": 3.259951323015388,
+        "lldb-enumerations.h": 13.633493997119034,
+        "lldb-forward.h": 11.7838950521356,
+        "lldb-private-enumerations.h": 2.8095230172817156,
+        "lldb-private-forward.h": 0.7454378298781391,
+        "lldb-private-interfaces.h": 4.558537749207601,
+        "lldb-private-types.h": 2.904839446967219,
+        "lldb-private.h": 0.9074123371574252,
+        "lldb-public.h": 0.38273442152162757,
+        "lldb-types.h": 2.061947757734934,
+        "lldb-versioning.h": 0.4348999669455419
     },
     "subdirscores": {
         "API": null,
@@ -28,7 +28,7 @@
         "Interpreter": null,
         "Symbol": null,
         "Target": null,
-        "Utility": 0.0031469351493877006,
-        "Version": 6.099602068851199e-06
+        "Utility": 56.4079933218403,
+        "Version": 0.10933377919547746
     }
 }

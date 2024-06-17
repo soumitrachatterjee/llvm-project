@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/libcxx/test/std/algorithms/alg.sorting/alg.three.way",
-    "score.sum": 2.7164539914668288e-05,
+    "score.sum": 3.7163954785834566e-05,
     "sha.latest": "f1db578f0d0f9d83f8b8b88d92ad5397377a74b2",
     "time.latest": 1717872483.71016,
     "formatted_time": "2024-06-09 00:18:03.710162",
     "filescores": {
-        "lexicographical_compare_three_way.pass.cpp": 8.594042570201458e-06,
-        "lexicographical_compare_three_way_comp.pass.cpp": 2.247031014678191e-05,
-        "lexicographical_compare_three_way_comp.verify.cpp": 6.099602068851199e-06
+        "lexicographical_compare_three_way.pass.cpp": 23.12467179482515,
+        "lexicographical_compare_three_way_comp.pass.cpp": 60.46264526009677,
+        "lexicographical_compare_three_way_comp.verify.cpp": 16.412682945078082
     },
     "subdirscores": {}
 }

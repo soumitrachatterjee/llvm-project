@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/mlir/lib/Dialect/IRDL/IR",
-    "score.sum": 1.8027274352793774e-05,
+    "score.sum": 2.5203378930905075e-05,
     "sha.latest": "914cfa41385606fe81c3afd296a6ca3ab975a97d",
     "time.latest": 1717806423.955804,
     "formatted_time": "2024-06-07 19:27:03.955808",
     "filescores": {
-        "IRDL.cpp": 1.571441811174402e-05,
-        "IRDLOps.cpp": 9.488960819161056e-06
+        "IRDL.cpp": 62.35044179919292,
+        "IRDLOps.cpp": 37.64955820080708
     },
     "subdirscores": {}
 }

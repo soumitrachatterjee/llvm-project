@@ -5,8 +5,8 @@
     "time.latest": 1717802921.876949,
     "formatted_time": "2024-06-08 04:58:41.876952",
     "filescores": {
-        "empty_reduce.c": 0,
-        "tree_reduce.c": 6.099602068851199e-06
+        "empty_reduce.c": 0.0,
+        "tree_reduce.c": 100.0
     },
     "subdirscores": {}
 }

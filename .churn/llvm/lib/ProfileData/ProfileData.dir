@@ -1,26 +1,26 @@
 {
     "directory name": "llvm-project/llvm/lib/ProfileData",
-    "score.sum": 0.0029675759301145003,
+    "score.sum": 0.004072576094251089,
     "sha.latest": "fab2bb8bfda865bd438dee981d7be7df8017b76d",
     "time.latest": 1717842363.5622478,
     "formatted_time": "2024-06-08 05:26:03.562250",
     "filescores": {
-        "CMakeLists.txt": 0.0001329137064879978,
-        "GCOV.cpp": 0.00015913288733073076,
-        "InstrProf.cpp": 0.0007596665045473018,
-        "InstrProfCorrelator.cpp": 9.70522452744785e-05,
-        "InstrProfReader.cpp": 0.0005999411445837427,
-        "InstrProfWriter.cpp": 0.00036125953474587036,
-        "ItaniumManglingCanonicalizer.cpp": 1.5629641928771185e-05,
-        "MemProf.cpp": 1.8740602968658412e-05,
-        "ProfileSummaryBuilder.cpp": 0.00013865310880354425,
-        "RawMemProfReader.cpp": 0.00010493154514888376,
-        "SampleProf.cpp": 0.0002613929783989151,
-        "SampleProfReader.cpp": 0.0004642430748370274,
-        "SampleProfWriter.cpp": 0.00031765989043998594,
-        "SymbolRemappingReader.cpp": 6.099602068851199e-06
+        "CMakeLists.txt": 3.263627331006063,
+        "GCOV.cpp": 3.9074257582409615,
+        "InstrProf.cpp": 18.653218183440664,
+        "InstrProfCorrelator.cpp": 2.3830676954441423,
+        "InstrProfReader.cpp": 14.731244566077692,
+        "InstrProfWriter.cpp": 8.87054106259254,
+        "ItaniumManglingCanonicalizer.cpp": 0.3837777752227694,
+        "MemProf.cpp": 0.4601658148294131,
+        "ProfileSummaryBuilder.cpp": 3.4045553869274316,
+        "RawMemProfReader.cpp": 2.576539829347983,
+        "SampleProf.cpp": 6.418369414089069,
+        "SampleProfReader.cpp": 11.399248635092665,
+        "SampleProfWriter.cpp": 7.799974342736027,
+        "SymbolRemappingReader.cpp": 0.14977257459870402
     },
     "subdirscores": {
-        "Coverage": 0.0006352596266863302
+        "Coverage": 15.59847163035388
     }
 }

@@ -5,9 +5,9 @@
     "time.latest": 1717879735.4650393,
     "formatted_time": "2024-06-09 02:18:55.465041",
     "filescores": {
-        "CMakeLists.txt": 0,
-        "RegisterTypeBuilderClang.cpp": 8.023218987802295e-06,
-        "RegisterTypeBuilderClang.h": 0
+        "CMakeLists.txt": 0.0,
+        "RegisterTypeBuilderClang.cpp": 100.0,
+        "RegisterTypeBuilderClang.h": 0.0
     },
     "subdirscores": {}
 }

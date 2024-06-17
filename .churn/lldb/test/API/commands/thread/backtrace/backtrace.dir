@@ -5,9 +5,9 @@
     "time.latest": 1717899066.824152,
     "formatted_time": "2024-06-09 07:41:06.824155",
     "filescores": {
-        "main.cpp": 0,
-        "Makefile": 0,
-        "TestThreadBacktraceRepeat.py": 9.325386474713485e-06
+        "main.cpp": 0.0,
+        "Makefile": 0.0,
+        "TestThreadBacktraceRepeat.py": 100.0
     },
     "subdirscores": {}
 }

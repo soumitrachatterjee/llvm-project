@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/lldb/test/API/functionalities/data-formatter/data-formatter-stl",
-    "score.sum": 0.0003972320032086227,
+    "score.sum": 0.0004048846168509448,
     "sha.latest": "9c2468821ec51defd09c246fea4a47886fff8c01",
     "time.latest": 1717907544.4448092,
     "formatted_time": "2024-06-09 10:02:24.444811",
     "filescores": {},
     "subdirscores": {
-        "generic": 7.319264855826486e-05,
-        "libcxx": 0.00025481536540982797,
-        "libstdcpp": 7.687660288285197e-05
+        "generic": 18.077409096826756,
+        "libcxx": 62.93530423351113,
+        "libstdcpp": 18.987286669662115
     }
 }

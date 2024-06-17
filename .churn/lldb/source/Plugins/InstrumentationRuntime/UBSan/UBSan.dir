@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/lldb/source/Plugins/InstrumentationRuntime/UBSan",
-    "score.sum": 9.740538862196393e-05,
+    "score.sum": 7.306441599394791e-05,
     "sha.latest": "f2d32ddcec82c20582c6aa32558b82ca7c3d3c50",
     "time.latest": 1717869980.3147304,
     "formatted_time": "2024-06-08 23:36:20.314733",
     "filescores": {
-        "CMakeLists.txt": 6.099602068851199e-06,
-        "InstrumentationRuntimeUBSan.cpp": 4.894724155631182e-05,
-        "InstrumentationRuntimeUBSan.h": 1.8017572368784883e-05
+        "CMakeLists.txt": 8.348252683435453,
+        "InstrumentationRuntimeUBSan.cpp": 66.99190144812248,
+        "InstrumentationRuntimeUBSan.h": 24.65984586844206
     },
     "subdirscores": {}
 }

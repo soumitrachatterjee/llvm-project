@@ -1,15 +1,15 @@
 {
     "directory name": "llvm-project/libclc/generic/include/clc/cl_khr_int64_extended_atomics",
-    "score.sum": 6.099602068851199e-06,
+    "score.sum": 3.0498010344255995e-05,
     "sha.latest": "b9cbe0bf514b141efc2e9bb35f625992b670431a",
     "time.latest": 1717824803.7899692,
     "formatted_time": "2024-06-08 00:33:23.789973",
     "filescores": {
-        "atom_and.h": 6.099602068851199e-06,
-        "atom_max.h": 6.099602068851199e-06,
-        "atom_min.h": 6.099602068851199e-06,
-        "atom_or.h": 6.099602068851199e-06,
-        "atom_xor.h": 6.099602068851199e-06
+        "atom_and.h": 20.0,
+        "atom_max.h": 20.0,
+        "atom_min.h": 20.0,
+        "atom_or.h": 20.0,
+        "atom_xor.h": 20.0
     },
     "subdirscores": {}
 }

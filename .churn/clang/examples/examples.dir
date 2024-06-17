@@ -1,18 +1,18 @@
 {
     "directory name": "llvm-project/clang/examples",
-    "score.sum": 0.0005053906121039409,
+    "score.sum": 0.00033570792816435676,
     "sha.latest": "407afbf1bc276fb70569da335e5ef57b7cb119db",
     "time.latest": 1717792985.6978483,
     "formatted_time": "2024-06-08 02:13:05.697854",
     "filescores": {
-        "CMakeLists.txt": 9.610515268415495e-05
+        "CMakeLists.txt": 28.627608888969565
     },
     "subdirscores": {
-        "AnnotateFunctions": 3.902264042664941e-05,
-        "Attribute": 2.6423661230113965e-05,
-        "CallSuperAttribute": 1.4498529949738714e-05,
-        "LLVMPrintFunctionNames": 6.099602068851199e-06,
-        "PluginsOrder": 1.1852359567582805e-05,
-        "PrintFunctionNames": 0.00014170598223726567
+        "AnnotateFunctions": 11.623985361330103,
+        "Attribute": 7.871026869874041,
+        "CallSuperAttribute": 4.318792835491358,
+        "LLVMPrintFunctionNames": 1.816937151947433,
+        "PluginsOrder": 3.530556943469055,
+        "PrintFunctionNames": 42.21109194891844
     }
 }

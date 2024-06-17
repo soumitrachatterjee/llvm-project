@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/mlir/include/mlir/Conversion/SCFToGPU",
-    "score.sum": 4.55080533812366e-05,
+    "score.sum": 4.8057780562945054e-05,
     "sha.latest": "34a35a8b244243f5a4ad5d531007bccfeaa0b02e",
     "time.latest": 1717792115.9066367,
     "formatted_time": "2024-06-07 15:28:35.906640",
     "filescores": {
-        "SCFToGPU.h": 2.218070591141934e-05,
-        "SCFToGPUPass.h": 2.587707465152571e-05
+        "SCFToGPU.h": 46.15424526808417,
+        "SCFToGPUPass.h": 53.84575473191583
     },
     "subdirscores": {}
 }

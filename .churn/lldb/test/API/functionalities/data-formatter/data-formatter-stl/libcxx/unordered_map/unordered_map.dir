@@ -5,9 +5,9 @@
     "time.latest": 1717906927.2538304,
     "formatted_time": "2024-06-09 09:52:07.253832",
     "filescores": {
-        "main.cpp": 0,
-        "Makefile": 0,
-        "TestDataFormatterLibccUnorderedMap.py": 6.099602068851199e-06
+        "main.cpp": 0.0,
+        "Makefile": 0.0,
+        "TestDataFormatterLibccUnorderedMap.py": 100.0
     },
     "subdirscores": {}
 }

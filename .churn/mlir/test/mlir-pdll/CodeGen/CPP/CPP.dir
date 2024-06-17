@@ -5,9 +5,9 @@
     "time.latest": 1717833078.6349485,
     "formatted_time": "2024-06-08 02:51:18.634949",
     "filescores": {
-        "general.pdll": 1.587676453707689e-05
+        "general.pdll": 100.0
     },
     "subdirscores": {
-        "include": 0
+        "include": 0.0
     }
 }

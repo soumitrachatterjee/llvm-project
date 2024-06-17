@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/lld/test/MachO/Inputs/WatchOS.sdk/usr/lib",
-    "score.sum": 6.992048197385216e-06,
+    "score.sum": 2.097614459215565e-05,
     "sha.latest": "2d28100bf2e427c892305e08a57cdffa9620bf6e",
     "time.latest": 1717898122.3820562,
     "formatted_time": "2024-06-09 07:25:22.382059",
     "filescores": {
-        "libc++.tbd": 6.992048197385216e-06,
-        "libc++abi.tbd": 6.992048197385216e-06,
-        "libSystem.tbd": 6.992048197385216e-06
+        "libc++.tbd": 33.33333333333333,
+        "libc++abi.tbd": 33.33333333333333,
+        "libSystem.tbd": 33.33333333333333
     },
     "subdirscores": {}
 }

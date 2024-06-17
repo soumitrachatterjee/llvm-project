@@ -5,9 +5,9 @@
     "time.latest": 1717885065.214284,
     "formatted_time": "2024-06-09 03:47:45.214286",
     "filescores": {
-        "main.cpp": 0,
-        "Makefile": 0,
-        "TestSBCommandReturnObject.py": 3.41025642786255e-05
+        "main.cpp": 0.0,
+        "Makefile": 0.0,
+        "TestSBCommandReturnObject.py": 100.0
     },
     "subdirscores": {}
 }

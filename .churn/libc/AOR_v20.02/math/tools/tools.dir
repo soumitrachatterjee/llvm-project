@@ -5,19 +5,19 @@
     "time.latest": 1717822963.8859751,
     "formatted_time": "2024-06-08 00:02:43.885979",
     "filescores": {
-        "cos.sollya": 0,
-        "exp.sollya": 0,
-        "exp2.sollya": 0,
-        "log.sollya": 0,
-        "log2.sollya": 0,
-        "log2_abs.sollya": 0,
-        "log_abs.sollya": 0,
-        "plot.py": 6.738712657006058e-06,
-        "remez.jl": 0,
-        "sin.sollya": 0,
-        "v_exp.sollya": 0,
-        "v_log.sollya": 0,
-        "v_sin.sollya": 0
+        "cos.sollya": 0.0,
+        "exp.sollya": 0.0,
+        "exp2.sollya": 0.0,
+        "log.sollya": 0.0,
+        "log2.sollya": 0.0,
+        "log2_abs.sollya": 0.0,
+        "log_abs.sollya": 0.0,
+        "plot.py": 100.0,
+        "remez.jl": 0.0,
+        "sin.sollya": 0.0,
+        "v_exp.sollya": 0.0,
+        "v_log.sollya": 0.0,
+        "v_sin.sollya": 0.0
     },
     "subdirscores": {}
 }

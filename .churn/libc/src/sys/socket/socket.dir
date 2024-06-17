@@ -1,15 +1,15 @@
 {
     "directory name": "llvm-project/libc/src/sys/socket",
-    "score.sum": 1.6553771939352997e-05,
+    "score.sum": 3.079818643835868e-05,
     "sha.latest": "8180ea8694cbc58f105f27f2044dabc3febbcf6a",
     "time.latest": 1717841810.9719687,
     "formatted_time": "2024-06-08 05:16:50.971971",
     "filescores": {
-        "CMakeLists.txt": 6.099602068851199e-06,
-        "bind.h": 0,
-        "socket.h": 1.198893888239437e-05
+        "CMakeLists.txt": 19.805068980471642,
+        "bind.h": 0.0,
+        "socket.h": 38.9274183607848
     },
     "subdirscores": {
-        "linux": 1.270964548711311e-05
+        "linux": 41.267512658743556
     }
 }

@@ -5,7 +5,7 @@
     "time.latest": 1718009463.7006414,
     "formatted_time": "2024-06-10 14:21:03.700643",
     "filescores": {
-        "monostate.pass.cpp": 1.9166214642674215e-05
+        "monostate.pass.cpp": 100.0
     },
     "subdirscores": {}
 }

@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/bolt/unittests/Profile",
-    "score.sum": 1.1779129977808408e-05,
+    "score.sum": 1.5200871184902772e-05,
     "sha.latest": "9cbd2959c156f50c1e44dabcf3d7de3461c5836a",
     "time.latest": 1717797076.5860107,
     "formatted_time": "2024-06-08 03:21:16.586013",
     "filescores": {
-        "CMakeLists.txt": 6.099602068851199e-06,
-        "DataAggregator.cpp": 9.101269116051573e-06
+        "CMakeLists.txt": 40.126661127878066,
+        "DataAggregator.cpp": 59.87333887212193
     },
     "subdirscores": {}
 }

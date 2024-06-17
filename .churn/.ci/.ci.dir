@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/.ci",
-    "score.sum": 6.611297849496566e-05,
+    "score.sum": 7.647456997428645e-05,
     "sha.latest": "cd4e2466163c46c4e731f8dfc77a9b6673d26c89",
     "time.latest": 1717784382.8547435,
     "formatted_time": "2024-06-07 23:49:42.854761",
     "filescores": {
-        "generate-buildkite-pipeline-premerge": 5.0355585814993264e-05,
-        "monolithic-linux.sh": 1.1339596769319307e-05,
-        "monolithic-windows.sh": 1.4779387389973875e-05
+        "generate-buildkite-pipeline-premerge": 65.84618368161424,
+        "monolithic-linux.sh": 14.827931393575792,
+        "monolithic-windows.sh": 19.325884924809966
     },
     "subdirscores": {}
 }

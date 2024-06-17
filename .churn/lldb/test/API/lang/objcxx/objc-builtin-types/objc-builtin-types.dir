@@ -5,9 +5,9 @@
     "time.latest": 1717960508.0923693,
     "formatted_time": "2024-06-10 00:45:08.092374",
     "filescores": {
-        "main.cpp": 0,
-        "Makefile": 0,
-        "TestObjCBuiltinTypes.py": 1.9856451229437706e-05
+        "main.cpp": 0.0,
+        "Makefile": 0.0,
+        "TestObjCBuiltinTypes.py": 100.0
     },
     "subdirscores": {}
 }

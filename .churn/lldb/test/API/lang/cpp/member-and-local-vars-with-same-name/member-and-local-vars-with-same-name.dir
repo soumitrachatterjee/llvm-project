@@ -5,9 +5,9 @@
     "time.latest": 1717933177.6305437,
     "formatted_time": "2024-06-09 17:09:37.630546",
     "filescores": {
-        "main.cpp": 0,
-        "Makefile": 0,
-        "TestMembersAndLocalsWithSameName.py": 1.5965996945812298e-05
+        "main.cpp": 0.0,
+        "Makefile": 0.0,
+        "TestMembersAndLocalsWithSameName.py": 100.0
     },
     "subdirscores": {}
 }

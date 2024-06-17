@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/libcxx/test/std/numerics/numeric.ops/exclusive.scan",
-    "score.sum": 4.784865522689795e-05,
+    "score.sum": 9.542460952031988e-05,
     "sha.latest": "fb855eb941b6d740cc6560297d0b4d3201dcaf9f",
     "time.latest": 1717951814.306226,
     "formatted_time": "2024-06-09 22:20:14.306228",
     "filescores": {
-        "exclusive_scan.pass.cpp": 4.771230476015994e-05,
-        "exclusive_scan_init_op.pass.cpp": 4.771230476015994e-05
+        "exclusive_scan.pass.cpp": 50.0,
+        "exclusive_scan_init_op.pass.cpp": 50.0
     },
     "subdirscores": {}
 }

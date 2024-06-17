@@ -5,8 +5,8 @@
     "time.latest": 1717925987.0636573,
     "formatted_time": "2024-06-09 15:09:47.063658",
     "filescores": {
-        "main.c": 0,
-        "TestRedefinitionsInInlines.py": 6.099602068851199e-06
+        "main.c": 0.0,
+        "TestRedefinitionsInInlines.py": 100.0
     },
     "subdirscores": {}
 }

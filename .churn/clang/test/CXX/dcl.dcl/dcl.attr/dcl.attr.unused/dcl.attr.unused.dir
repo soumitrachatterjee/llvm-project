@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/clang/test/CXX/dcl.dcl/dcl.attr/dcl.attr.unused",
-    "score.sum": 2.0179534075958593e-05,
+    "score.sum": 2.7169994768515865e-05,
     "sha.latest": "62328f2f29b432dadbd327ff91ba3914c478e3fc",
     "time.latest": 1718085552.4499776,
     "formatted_time": "2024-06-11 11:29:12.449981",
     "filescores": {
-        "p1.cpp": 1.2198414209509161e-05,
-        "p2.cpp": 6.099602068851199e-06,
-        "p3.cpp": 8.871978490155506e-06,
-        "p4.cpp": 0
+        "p1.cpp": 44.89663805031158,
+        "p2.cpp": 22.449772702640765,
+        "p3.cpp": 32.65358924704765,
+        "p4.cpp": 0.0
     },
     "subdirscores": {}
 }

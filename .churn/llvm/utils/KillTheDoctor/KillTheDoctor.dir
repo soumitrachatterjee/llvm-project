@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/llvm/utils/KillTheDoctor",
-    "score.sum": 7.864672293574206e-05,
+    "score.sum": 8.048694209653681e-05,
     "sha.latest": "5e96cea1db0623a833d5376c9ea2ce4528771f97",
     "time.latest": 1718077644.5933635,
     "formatted_time": "2024-06-10 22:47:24.593367",
     "filescores": {
-        "CMakeLists.txt": 1.028184208032215e-05,
-        "KillTheDoctor.cpp": 7.020510001621467e-05
+        "CMakeLists.txt": 12.774546792931963,
+        "KillTheDoctor.cpp": 87.22545320706804
     },
     "subdirscores": {}
 }

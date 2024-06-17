@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/libcxx/test/std/diagnostics/syserr/syserr.syserr",
-    "score.sum": 3.0427387843258383e-05,
+    "score.sum": 3.705317147595845e-05,
     "sha.latest": "201184b30b286340e323c08d7d1f5f86cfa15489",
     "time.latest": 1717899071.9573262,
     "formatted_time": "2024-06-09 07:41:11.957329",
     "filescores": {},
     "subdirscores": {
-        "syserr.syserr.members": 2.492030789519789e-05,
-        "syserr.syserr.overview": 1.2132863580760565e-05
+        "syserr.syserr.members": 67.2555327993102,
+        "syserr.syserr.overview": 32.744467200689805
     }
 }

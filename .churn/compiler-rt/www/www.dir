@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/compiler-rt/www",
-    "score.sum": 6.505437115182389e-05,
+    "score.sum": 7.389175199996835e-05,
     "sha.latest": "0199d514ee0ace4d19cbefdebb66b53540e24eba",
     "time.latest": 1717865913.4039881,
     "formatted_time": "2024-06-08 22:28:33.403991",
     "filescores": {
-        "content.css": 0,
-        "index.html": 5.472151939730536e-05,
-        "menu.css": 0,
-        "menu.html.incl": 1.9170232602662982e-05
+        "content.css": 0.0,
+        "index.html": 74.05632958510552,
+        "menu.css": 0.0,
+        "menu.html.incl": 25.94367041489447
     },
     "subdirscores": {}
 }

@@ -1,25 +1,25 @@
 {
     "directory name": "llvm-project/flang/include/flang/Optimizer/Builder",
-    "score.sum": 0.0007341030687000289,
+    "score.sum": 0.0007814265267216793,
     "sha.latest": "860a40057da2fbb626fdf17feec18070d95b687b",
     "time.latest": 1717789665.094841,
     "formatted_time": "2024-06-07 14:47:45.094845",
     "filescores": {
-        "BoxValue.h": 2.950749662220983e-05,
-        "Character.h": 2.769536947410303e-05,
-        "Complex.h": 0,
-        "DoLoopHelper.h": 0,
-        "FIRBuilder.h": 0.0001823309592728764,
-        "Factory.h": 2.2890825755971254e-05,
-        "HLFIRTools.h": 0.00013008728812053758,
-        "IntrinsicCall.h": 8.516601942147367e-05,
-        "LowLevelIntrinsics.h": 1.0918690668592477e-05,
-        "MutableBox.h": 4.325403015234862e-05,
-        "PPCIntrinsicCall.h": 5.9479403260341655e-05,
-        "TemporaryStorage.h": 1.2448816695193266e-05,
-        "Todo.h": 6.355003210060518e-06
+        "BoxValue.h": 3.7761063405414084,
+        "Character.h": 3.544206464335615,
+        "Complex.h": 0.0,
+        "DoLoopHelper.h": 0.0,
+        "FIRBuilder.h": 23.333090577025832,
+        "Factory.h": 2.9293637947005964,
+        "HLFIRTools.h": 16.64741132685796,
+        "IntrinsicCall.h": 10.89878785901611,
+        "LowLevelIntrinsics.h": 1.3972766850390514,
+        "MutableBox.h": 5.535265143072678,
+        "PPCIntrinsicCall.h": 7.6116437344244945,
+        "TemporaryStorage.h": 1.5930885719249661,
+        "Todo.h": 0.8132566521284705
     },
     "subdirscores": {
-        "Runtime": 0.00017129262406797094
+        "Runtime": 21.92050285093281
     }
 }

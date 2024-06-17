@@ -1,21 +1,21 @@
 {
     "directory name": "llvm-project/openmp/tools/archer/tests/task",
-    "score.sum": 1.7851209807094982e-05,
+    "score.sum": 5.5087817601730726e-05,
     "sha.latest": "1880d8f5c15b796e3813bdc639982d985bf50824",
     "time.latest": 1717806404.7391198,
     "formatted_time": "2024-06-08 05:56:44.739122",
     "filescores": {
-        "omp_task_depend_all.c": 0,
-        "task-barrier.c": 6.099602068851199e-06,
-        "task-create.c": 6.099602068851199e-06,
-        "task-dependency.c": 6.099602068851199e-06,
-        "task-taskgroup-nested.c": 6.099602068851199e-06,
-        "task-taskgroup.c": 6.099602068851199e-06,
-        "task-taskwait-nested.c": 6.099602068851199e-06,
-        "task-taskwait.c": 6.099602068851199e-06,
-        "taskwait-depend.c": 0,
-        "task_early_fulfill.c": 6.099602068851199e-06,
-        "task_late_fulfill.c": 6.291001050921135e-06
+        "omp_task_depend_all.c": 0.0,
+        "task-barrier.c": 11.07250628977461,
+        "task-create.c": 11.07250628977461,
+        "task-dependency.c": 11.07250628977461,
+        "task-taskgroup-nested.c": 11.07250628977461,
+        "task-taskgroup.c": 11.07250628977461,
+        "task-taskwait-nested.c": 11.07250628977461,
+        "task-taskwait.c": 11.07250628977461,
+        "taskwait-depend.c": 0.0,
+        "task_early_fulfill.c": 11.07250628977461,
+        "task_late_fulfill.c": 11.419949681803129
     },
     "subdirscores": {}
 }

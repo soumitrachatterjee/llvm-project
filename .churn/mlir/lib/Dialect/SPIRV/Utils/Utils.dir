@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/mlir/lib/Dialect/SPIRV/Utils",
-    "score.sum": 1.5378902266057025e-05,
+    "score.sum": 1.7696280574723155e-05,
     "sha.latest": "5550c821897ab77e664977121a0e90ad5be1ff59",
     "time.latest": 1717808764.331591,
     "formatted_time": "2024-06-07 20:06:04.331594",
     "filescores": {
-        "CMakeLists.txt": 6.099602068851199e-06,
-        "LayoutUtils.cpp": 1.1596678505871956e-05
+        "CMakeLists.txt": 34.468271697520954,
+        "LayoutUtils.cpp": 65.53172830247905
     },
     "subdirscores": {}
 }

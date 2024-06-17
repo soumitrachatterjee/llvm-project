@@ -5,11 +5,11 @@
     "time.latest": 1717933922.767954,
     "formatted_time": "2024-06-09 17:22:02.767958",
     "filescores": {
-        "main.cpp": 0,
-        "Makefile": 0,
-        "other.cpp": 0,
-        "shared.h": 0,
-        "TestNestedClassWithParentInAnotherCU.py": 1.0459834404963863e-05
+        "main.cpp": 0.0,
+        "Makefile": 0.0,
+        "other.cpp": 0.0,
+        "shared.h": 0.0,
+        "TestNestedClassWithParentInAnotherCU.py": 100.0
     },
     "subdirscores": {}
 }

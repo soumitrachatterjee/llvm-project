@@ -5,9 +5,9 @@
     "time.latest": 1717913879.3136141,
     "formatted_time": "2024-06-09 11:47:59.313627",
     "filescores": {
-        "main.cpp": 6.099602068851199e-06,
-        "Makefile": 0,
-        "TestNoASanExceptionAfterEvalOP_piece.py": 0
+        "main.cpp": 100.0,
+        "Makefile": 0.0,
+        "TestNoASanExceptionAfterEvalOP_piece.py": 0.0
     },
     "subdirscores": {}
 }

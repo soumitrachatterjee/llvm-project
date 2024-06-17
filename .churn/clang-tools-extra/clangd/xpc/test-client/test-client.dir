@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/clang-tools-extra/clangd/xpc/test-client",
-    "score.sum": 1.156780186014101e-05,
+    "score.sum": 1.6647061377558172e-05,
     "sha.latest": "26e1553a107f52667be879e99739a4153f8799d8",
     "time.latest": 1717806749.3570504,
     "formatted_time": "2024-06-08 06:02:29.357053",
     "filescores": {
-        "ClangdXPCTestClient.cpp": 8.769564282230432e-06,
-        "CMakeLists.txt": 7.87749709532774e-06
+        "ClangdXPCTestClient.cpp": 52.679353330508185,
+        "CMakeLists.txt": 47.320646669491815
     },
     "subdirscores": {}
 }

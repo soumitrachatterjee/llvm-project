@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/mlir/lib/Tools/mlir-reduce",
-    "score.sum": 2.6037069669140474e-05,
+    "score.sum": 3.213667173799167e-05,
     "sha.latest": "18546ff8dd45a81e72c0a2ed0561b5aec8c15ca3",
     "time.latest": 1717812923.8736315,
     "formatted_time": "2024-06-07 21:15:23.873635",
     "filescores": {
-        "CMakeLists.txt": 6.099602068851199e-06,
-        "MlirReduceMain.cpp": 2.6037069669140474e-05
+        "CMakeLists.txt": 18.980192219595367,
+        "MlirReduceMain.cpp": 81.01980778040463
     },
     "subdirscores": {}
 }

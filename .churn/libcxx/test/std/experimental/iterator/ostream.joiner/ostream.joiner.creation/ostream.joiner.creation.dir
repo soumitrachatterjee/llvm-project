@@ -5,7 +5,7 @@
     "time.latest": 1717899203.6006966,
     "formatted_time": "2024-06-09 07:43:23.600699",
     "filescores": {
-        "make_ostream_joiner.pass.cpp": 2.7367529932192733e-05
+        "make_ostream_joiner.pass.cpp": 100.0
     },
     "subdirscores": {}
 }

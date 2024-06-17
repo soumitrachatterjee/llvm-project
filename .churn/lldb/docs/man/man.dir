@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/lldb/docs/man",
-    "score.sum": 3.335240525898128e-05,
+    "score.sum": 3.009232721639727e-05,
     "sha.latest": "bbef51eb43c2e8f8e36fbbc0d0b4cca75b6f0863",
     "time.latest": 1717840443.2074423,
     "formatted_time": "2024-06-08 15:24:03.207445",
     "filescores": {
-        "lldb-server.rst": 0,
-        "lldb.rst": 3.009232721639727e-05
+        "lldb-server.rst": 0.0,
+        "lldb.rst": 100.0
     },
     "subdirscores": {}
 }

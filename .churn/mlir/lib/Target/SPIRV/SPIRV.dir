@@ -1,17 +1,17 @@
 {
     "directory name": "llvm-project/mlir/lib/Target/SPIRV",
-    "score.sum": 0.00023061901571158513,
+    "score.sum": 0.00036680624931634297,
     "sha.latest": "e5332482c6009699d7b66393617a389d8ae62710",
     "time.latest": 1717812380.2255204,
     "formatted_time": "2024-06-07 21:06:20.225523",
     "filescores": {
-        "CMakeLists.txt": 1.7755387346594495e-05,
-        "SPIRVBinaryUtils.cpp": 9.790319313237856e-06,
-        "Target.cpp": 6.099602068851199e-06,
-        "TranslateRegistration.cpp": 4.685724533384617e-05
+        "CMakeLists.txt": 4.840535672357588,
+        "SPIRVBinaryUtils.cpp": 2.6690710235949218,
+        "Target.cpp": 1.662894806241632,
+        "TranslateRegistration.cpp": 12.774385774827762
     },
     "subdirscores": {
-        "Deserialization": 0.0001550498801249286,
-        "Serialization": 0.00013125381512888465
+        "Deserialization": 42.27023951034424,
+        "Serialization": 35.78287321263386
     }
 }
