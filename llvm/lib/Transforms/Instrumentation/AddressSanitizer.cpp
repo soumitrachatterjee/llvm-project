@@ -88,8 +88,174 @@
 #include <sstream>
 #include <string>
 #include <tuple>
+#include "llvm/Analysis/CallGraph.h" // Include the appropriate header file
+#include "llvm/IR/Instructions.h"
+#include <cstdlib>
+#include <cxxabi.h>
+#include <fstream>
+#include <iostream>
+#include <optional>
+#include <sstream>
+#include <string>
+   #include <fcntl.h> // for open() function
+#include "llvm/IR/Attributes.h"
+#include "llvm/ADT/StringRef.h"
+
+#include "llvm/IR/Module.h"
+
+#include <llvm/IR/DebugLoc.h>
+
+#include <llvm/IR/DebugInfoMetadata.h>
+// Opens file to store names of fragile functions.
+std::ofstream file("/ptmp/shash/llvm-project/fragile_functions.txt",
+                   std::ios::app);
+llvm::cl::OptionCategory mycat("my_category");
+llvm::cl::opt<std::string> filename{
+    "readfile",
+    llvm::cl::desc(
+        "Reads given file with line ranges for identifying fragile functions"),
+    llvm::cl::value_desc("input"), llvm::cl::cat(mycat)};
+
+llvm::cl::opt<int> limit{
+    "limit",llvm::cl::cat(mycat)};
+llvm::Attribute getFragileAttr(llvm::LLVMContext &Ctx) {
+
+  return llvm::Attribute::get(Ctx, "isFragile", "true");
+}
+llvm::Attribute getPotentialFragileAttr(llvm::LLVMContext &Ctx) {
+
+  return llvm::Attribute::get(Ctx, "potentiallyFragile", "true");
+}
+struct FragileCluster {
+
+  int start;
+
+  int end;
+};
+
+struct FragileCluster s;
 
 using namespace llvm;
+using namespace std;
+vector<FragileCluster> vec;
+// Reads data from the file and populates a vector 'vec' with start and end
+// values.
+
+string demangle(const std::string &mangled_name) {
+  int status;
+  char *demangled_name =
+      abi::__cxa_demangle(mangled_name.c_str(), nullptr, nullptr, &status);
+  std::string result;
+  if (status == 0) {
+    result = demangled_name;
+    free(demangled_name);
+  } else {
+    // If demangling failed, return the original mangled name
+    result = mangled_name;
+  }
+  return result;
+}
+
+void getcalledfunction(Module &M, Function &F,int n)
+{
+   if(limit!=-1 && n==limit)
+ {
+return;
+}       
+else{
+
+  llvm::CallGraph CG(M);
+        for (auto &CGN : CG) {
+          llvm::Function *CallerFunction = CGN.second->getFunction();
+          if (CallerFunction) {
+            for (auto &CallRecord : *CGN.second) {
+              if (CallRecord.second->getFunction() == &F && !CallerFunction->hasFnAttribute ("potentiallyFragile")) {
+                CallerFunction->addFnAttr(getPotentialFragileAttr(CallerFunction->getContext()));
+                std::string tabs(n+1, '\t');
+                file <<tabs<< demangle(CallerFunction->getName().str()) <<"\n";
+                getcalledfunction(M,*CallerFunction,n+1);
+              }
+
+            }
+          }
+        }
+        }   
+        
+}
+void readfile() {
+  vec.clear();
+  string line, value;
+  if (!filename.empty()) {
+    // Reads the churn data from the file specified in command-line and stores
+    // it in vector.
+    ifstream file(filename);
+    if (file.is_open()) {
+      while (getline(file, line)) {
+        stringstream obj_ss(line);
+        getline(obj_ss, value, ',');
+        s.start = stoi(value);
+        getline(obj_ss, value, ',');
+        s.end = stoi(value);
+        vec.push_back(s);
+      }
+      file.close();
+    } else {
+      cerr << "Sorry!! Unable to open file!" << endl;
+    }
+  }
+}
+// Marks functions as fragile if they overlap with line ranges in the
+// vector and prints their demangled names to a file.
+ void markFragile(Module &M,Function &F) {
+  int Line = 0, Line1 = 0;
+  string sourcename = "";
+    if (F.isDeclaration())
+        return;
+
+    int flag = 0, flag1 = 0;
+    if (auto *SP = F.getSubprogram()) {
+      if (!SP->getFilename().empty()) {
+        sourcename = SP->getFilename();
+      }
+    }
+
+
+      readfile();
+      for (BasicBlock &BB : F) {
+        for (Instruction &I : BB) {
+          if (flag == 0) {
+            if (DILocation *Loc = I.getDebugLoc()) {
+              // Stores the line number where the function starts.
+              Line = Loc->getLine();
+              flag = 1;
+              break;
+            }
+          }
+        }
+
+        Instruction &I1 = *(BB.getTerminator());
+        if (DILocation *Loc = I1.getDebugLoc()) {
+          if (Line != 0)
+            // Stores the line number where the function ends.
+            Line1 = Loc->getLine();
+        }
+      }
+      // Logic to find if there is an overlapping.
+      for (auto &s : vec) {
+        if (((Line >= s.start && Line <= s.end) ||
+             (Line1 >= s.start && Line1 <= s.end)) ||
+            ((s.start >= Line && s.start <= Line1) ||
+             (s.end >= Line && s.end <= Line1))) {
+        F.addFnAttr(getFragileAttr(F.getContext()));
+        file << demangle(F.getName().str()) <<"\n";
+        getcalledfunction(M,F,0);
+        file<<"\n--------------------------------\n";
+          break;
+        }
+      }
+}
+
+
 
 #define DEBUG_TYPE "asan"
 
@@ -1262,7 +1428,11 @@ PreservedAnalyses AddressSanitizerPass::run(Module &M,
         Options.MaxInlinePoisoningSize, Options.CompileKernel, Options.Recover,
         Options.UseAfterScope, Options.UseAfterReturn);
     const TargetLibraryInfo &TLI = FAM.getResult<TargetLibraryAnalysis>(F);
+    markFragile(M,F);
+    if (F.hasFnAttribute ("potentiallyFragile") ||F.hasFnAttribute ("isFragile"))
+    {
     Modified |= FunctionSanitizer.instrumentFunction(F, &TLI);
+    }
   }
   Modified |= ModuleSanitizer.instrumentModule(M);
   if (!Modified)
@@ -3079,7 +3249,7 @@ bool AddressSanitizer::instrumentFunction(Function &F,
 
   LLVM_DEBUG(dbgs() << "ASAN done instrumenting: " << FunctionModified << " "
                     << F << "\n");
-
+  errs()<<demangle(F.getName().str())<<" ASAN DONE INSTRUMNETING "<<"\n";
   return FunctionModified;
 }
 
