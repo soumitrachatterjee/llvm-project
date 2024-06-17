@@ -10,5 +10,6 @@
         "pstl.none_of.pass.cpp": 24.119574256171955,
         "ranges.none_of.pass.cpp": 16.22542799807281
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 7.760536203296786
 }

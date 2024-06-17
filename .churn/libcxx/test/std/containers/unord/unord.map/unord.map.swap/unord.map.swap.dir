@@ -9,5 +9,6 @@
         "swap_noexcept.pass.cpp": 42.933283820377746,
         "swap_non_member.pass.cpp": 47.310662253083855
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 8.049484452915607
 }

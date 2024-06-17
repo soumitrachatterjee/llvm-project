@@ -14,5 +14,6 @@
         "real.pass.cpp": 12.983218633238138,
         "UDT_is_rejected.verify.cpp": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 10.757489628665795
 }

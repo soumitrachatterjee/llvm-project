@@ -9,5 +9,6 @@
         "big_phi.ll": 33.33333333333333,
         "long_phi_chain.ll": 33.33333333333333
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.03744325389597063
 }

@@ -17,5 +17,6 @@
         "noop-cast-expr-no-pointer.ll": 14.775626284787908,
         "tail-call-byval.ll": 14.103922000445102
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.500242890421319
 }

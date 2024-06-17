@@ -9,5 +9,6 @@
         "TestArm64Disassembly.cpp": 50.0,
         "TestArmv7Disassembly.cpp": 50.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 12.805282707195238
 }

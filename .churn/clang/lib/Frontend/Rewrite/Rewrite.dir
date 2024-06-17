@@ -15,5 +15,6 @@
         "RewriteObjC.cpp": 25.52119510079704,
         "RewriteTest.cpp": 1.0951128795272662
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 3.2477874289549056
 }

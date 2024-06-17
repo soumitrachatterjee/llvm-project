@@ -9,5 +9,6 @@
         "nth_element_comp.pass.cpp": 41.69080598251804,
         "ranges_nth_element.pass.cpp": 18.627558230208223
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 5.448428777004658
 }

@@ -18,5 +18,6 @@
         "transform_interpreter.c": 0.9533631462965465,
         "translation.c": 3.3525178650344407
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 1.118228353945509
 }

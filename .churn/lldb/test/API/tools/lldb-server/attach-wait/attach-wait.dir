@@ -10,5 +10,6 @@
         "shim.cpp": 25.466290067531773,
         "TestGdbRemoteAttachWait.py": 23.6011297974047
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.9713651889085948
 }

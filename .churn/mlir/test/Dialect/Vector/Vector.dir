@@ -64,5 +64,6 @@
         "vector-unroll-options.mlir": 1.861495534545841,
         "vector-warp-distribute.mlir": 4.990725334223442
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 10.410702909548968
 }

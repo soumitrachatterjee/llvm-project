@@ -9,5 +9,6 @@
         "INVOKE_tested_elsewhere.pass.cpp": 20.82846249419301,
         "unary_function.pass.cpp": 39.58576875290349
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 2.471566701910367
 }

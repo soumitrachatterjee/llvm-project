@@ -10,5 +10,6 @@
     "subdirscores": {
         "tuple.assign": 7.970738321081085,
         "tuple.cnstr": 69.79972735640762
-    }
+    },
+    "score.percentage": 100.0
 }

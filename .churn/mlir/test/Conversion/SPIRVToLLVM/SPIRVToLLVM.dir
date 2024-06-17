@@ -25,5 +25,6 @@
         "spirv-types-to-llvm-invalid.mlir": 5.366374918208891,
         "spirv-types-to-llvm.mlir": 4.476175048133672
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 2.94547667836853
 }

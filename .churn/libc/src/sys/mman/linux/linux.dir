@@ -19,5 +19,6 @@
         "munmap.cpp": 17.826242039628042,
         "posix_madvise.cpp": 6.919695412422905
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 50.201353370340144
 }

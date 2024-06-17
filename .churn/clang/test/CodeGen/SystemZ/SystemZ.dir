@@ -87,5 +87,6 @@
         "zvector.c": 6.466984446452639,
         "zvector2.c": 4.16423956995561
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.43184881155804244
 }

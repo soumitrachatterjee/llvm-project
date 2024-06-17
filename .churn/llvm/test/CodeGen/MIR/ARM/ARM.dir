@@ -15,5 +15,6 @@
         "target-constant-pools-error.mir": 0.0,
         "thumb2-sub-sp-t3.mir": 13.346174088520046
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 5.237550572952464
 }

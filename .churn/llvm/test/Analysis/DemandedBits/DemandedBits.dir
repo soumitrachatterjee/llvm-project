@@ -12,5 +12,6 @@
         "vectors-inseltpoison.ll": 9.450583523040942,
         "vectors.ll": 18.77523260547761
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.335031959744885
 }

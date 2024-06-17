@@ -37,5 +37,6 @@
         "TraceExporter": 0.20241469757956865,
         "TypeSystem": 1.6446031236126635,
         "UnwindAssembly": 1.2146006268008125
-    }
+    },
+    "score.percentage": 38.72528948274646
 }

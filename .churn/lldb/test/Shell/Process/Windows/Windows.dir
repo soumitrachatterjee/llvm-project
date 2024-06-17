@@ -10,5 +10,6 @@
         "lit.local.cfg": 0.0,
         "process_load.cpp": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 30.966846389741743
 }

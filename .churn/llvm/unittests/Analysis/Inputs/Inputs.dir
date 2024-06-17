@@ -7,5 +7,6 @@
     "filescores": {},
     "subdirscores": {
         "ir2native_x86_64_model": 100.0
-    }
+    },
+    "score.percentage": 0.21677867360406555
 }

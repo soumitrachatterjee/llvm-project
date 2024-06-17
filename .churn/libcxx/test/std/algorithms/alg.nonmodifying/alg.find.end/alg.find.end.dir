@@ -9,5 +9,6 @@
         "find_end_pred.pass.cpp": 53.19550298169848,
         "ranges.find_end.pass.cpp": 10.983889407531779
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 5.218866133522669
 }

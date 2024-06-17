@@ -8,5 +8,6 @@
         "isalwayslockfree.pass.cpp": 74.59295888822531,
         "lockfree.pass.cpp": 25.407041111774685
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 11.31673886723868
 }

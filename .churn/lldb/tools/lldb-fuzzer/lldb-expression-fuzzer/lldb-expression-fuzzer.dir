@@ -8,5 +8,6 @@
         "CMakeLists.txt": 44.68886435615087,
         "lldb-expression-fuzzer.cpp": 55.31113564384913
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 13.30170283607757
 }

@@ -8,5 +8,6 @@
         "f03-suffix.f03": 50.0,
         "f08-suffix.f08": 50.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.4890473035343984
 }

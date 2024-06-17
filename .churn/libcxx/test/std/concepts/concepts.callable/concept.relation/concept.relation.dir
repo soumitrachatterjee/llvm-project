@@ -8,5 +8,6 @@
         "relation.compile.pass.cpp": 43.77365977105476,
         "relation.subsumption.compile.pass.cpp": 56.22634022894524
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 14.29969575836342
 }

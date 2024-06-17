@@ -19,5 +19,6 @@
         "RegionUtils.cpp": 6.9654992573877585,
         "TopologicalSortUtils.cpp": 1.132402701190194
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 60.05445295257071
 }

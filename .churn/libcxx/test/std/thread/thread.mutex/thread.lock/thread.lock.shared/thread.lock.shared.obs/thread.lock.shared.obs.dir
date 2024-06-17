@@ -9,5 +9,6 @@
         "op_bool.pass.cpp": 33.36987816505221,
         "owns_lock.pass.cpp": 33.3150609174739
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 15.707999785073392
 }

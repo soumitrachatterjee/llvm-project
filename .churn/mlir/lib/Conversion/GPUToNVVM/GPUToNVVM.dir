@@ -10,5 +10,6 @@
         "LowerGpuOpsToNVVMOps.cpp": 72.75177204848049,
         "WmmaOpsToNvvm.cpp": 13.091194125178863
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 5.579035337400224
 }

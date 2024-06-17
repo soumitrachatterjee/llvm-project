@@ -26,5 +26,6 @@
         "unnecessary-copy-initialization.rst": 0.0,
         "unnecessary-value-param.rst": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 1.531680712020705
 }

@@ -11,5 +11,6 @@
         "nothrow_input_range.compile.pass.cpp": 15.975508563746684,
         "nothrow_sentinel_for.compile.pass.cpp": 24.254444687620936
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 100.0
 }

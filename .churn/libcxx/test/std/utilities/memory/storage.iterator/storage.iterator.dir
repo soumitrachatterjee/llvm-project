@@ -10,5 +10,6 @@
         "raw_storage_iterator.pass.cpp": 41.92948360474714,
         "types.compile.pass.cpp": 8.926377044274313
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 3.6714656533569388
 }

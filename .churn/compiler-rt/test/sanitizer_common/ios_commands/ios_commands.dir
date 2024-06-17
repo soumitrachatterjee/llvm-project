@@ -12,5 +12,6 @@
         "iossim_run.py": 48.53119550530888,
         "print_crashreport_for_pid.py": 5.378396586604098
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 2.376414529971049
 }

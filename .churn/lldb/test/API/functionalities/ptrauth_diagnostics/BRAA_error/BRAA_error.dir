@@ -9,5 +9,6 @@
         "Makefile": 0.0,
         "TestPtrauthBRAADiagnostic.py": 100.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 20.0
 }

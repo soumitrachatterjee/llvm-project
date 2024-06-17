@@ -10,5 +10,6 @@
         "Makefile": 0.0,
         "TestBreakInLoadedDylib.py": 100.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 1.1069541878891145
 }

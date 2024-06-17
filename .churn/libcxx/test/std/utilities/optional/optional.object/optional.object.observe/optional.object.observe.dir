@@ -21,5 +21,6 @@
         "value_or_const.pass.cpp": 5.150094654721065,
         "value_rvalue.pass.cpp": 11.434865987942423
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 13.747188303743249
 }

@@ -13,5 +13,6 @@
         "gcd.not_integral2.compile.fail.cpp": 9.534276767909699,
         "gcd.pass.cpp": 42.794339392541815
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 4.605588297944796
 }

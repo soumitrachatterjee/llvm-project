@@ -987,5 +987,6 @@
         "xnor.ll": 0.1605930076954478,
         "zextload.ll": 0.10434166803535982
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 9.014020279044951
 }

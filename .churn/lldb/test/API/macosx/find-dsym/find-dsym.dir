@@ -8,5 +8,6 @@
     "subdirscores": {
         "bundle-with-dot-in-filename": 50.0,
         "deep-bundle": 50.0
-    }
+    },
+    "score.percentage": 3.646155273709126
 }

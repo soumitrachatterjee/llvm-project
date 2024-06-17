@@ -50,5 +50,6 @@
     "subdirscores": {
         "gmp-compat-test": 25.84505883451036,
         "linux": 0.0
-    }
+    },
+    "score.percentage": 7.752434311690133
 }

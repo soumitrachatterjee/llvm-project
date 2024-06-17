@@ -33,5 +33,6 @@
         "xtype_pred.ll": 3.6562045675299304,
         "xtype_shift.ll": 3.663404600836423
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.39817834103479466
 }

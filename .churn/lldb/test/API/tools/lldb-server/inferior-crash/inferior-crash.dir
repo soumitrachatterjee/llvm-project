@@ -10,5 +10,6 @@
         "TestGdbRemoteAbort.py": 50.0,
         "TestGdbRemoteSegFault.py": 50.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 1.550460005135561
 }

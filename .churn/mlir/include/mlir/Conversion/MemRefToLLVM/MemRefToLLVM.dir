@@ -8,5 +8,6 @@
         "AllocLikeConversion.h": 63.739631962200825,
         "MemRefToLLVM.h": 36.260368037799175
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 2.328885570594302
 }

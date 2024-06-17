@@ -10,5 +10,6 @@
         "mt-unsafe-posix.cpp": 50.0,
         "thread-canceltype-asynchronous.cpp": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.3694481944425917
 }

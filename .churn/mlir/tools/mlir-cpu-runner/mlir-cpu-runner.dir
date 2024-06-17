@@ -8,5 +8,6 @@
         "CMakeLists.txt": 59.43772529620609,
         "mlir-cpu-runner.cpp": 40.56227470379392
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 2.858587811468577
 }

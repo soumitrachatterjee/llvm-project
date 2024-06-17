@@ -38,5 +38,6 @@
         "unsigned_long_long.cpp": 0.0,
         "unsigned_short.cpp": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.31642518750535803
 }

@@ -13,5 +13,6 @@
         "stream_extract.pass.cpp": 14.314915894245884,
         "stream_insert.pass.cpp": 11.74322818718505
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 16.5074949296446
 }

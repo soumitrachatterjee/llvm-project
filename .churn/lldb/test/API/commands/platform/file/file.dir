@@ -8,5 +8,6 @@
     "subdirscores": {
         "close": 50.0,
         "read": 50.0
-    }
+    },
+    "score.percentage": 8.564813939623335
 }

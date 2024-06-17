@@ -15,5 +15,6 @@
         "task-two.c": 10.860869372957733,
         "taskwait-depend.c": 5.339300834755821
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 30.14877789315963
 }

@@ -62,5 +62,6 @@
         "WindowsManifest": 0.006862218278707177,
         "WindowsResource": 0.002972898932759922,
         "XRay": 0.04925187858796346
-    }
+    },
+    "score.percentage": 98.6079916502724
 }

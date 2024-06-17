@@ -48,5 +48,6 @@
         "wineh-opcodes.ll": 1.4207958513489962,
         "wineh-tailmerge.ll": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.96211706336972
 }

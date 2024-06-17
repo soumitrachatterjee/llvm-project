@@ -9,5 +9,6 @@
         "Makefile": 0.0,
         "TestConcurrentVFork.py": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 57.345170484095775
 }

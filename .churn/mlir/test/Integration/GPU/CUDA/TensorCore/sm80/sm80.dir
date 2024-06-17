@@ -9,5 +9,6 @@
         "transform-mma-sync-matmul-f16-f16-accum.mlir": 50.0,
         "transform-mma-sync-matmul-f32.mlir": 50.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 12.759314329855313
 }

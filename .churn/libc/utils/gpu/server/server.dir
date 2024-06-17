@@ -9,5 +9,6 @@
         "llvmlibc_rpc_server.h": 6.353140375858859,
         "rpc_server.cpp": 61.74924019851148
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 35.74641659060869
 }

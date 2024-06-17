@@ -12,5 +12,6 @@
         "weak_ptr.pass.cpp": 29.10495470692027,
         "weak_ptr_Y.pass.cpp": 21.327606252115043
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 26.46346083212723
 }

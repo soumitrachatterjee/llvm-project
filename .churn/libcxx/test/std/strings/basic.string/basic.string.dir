@@ -24,5 +24,6 @@
         "string.ops": 8.57301243703927,
         "string.require": 3.1755866894820945,
         "string.starts_with": 1.8589353895499914
-    }
+    },
+    "score.percentage": 42.88803190921357
 }

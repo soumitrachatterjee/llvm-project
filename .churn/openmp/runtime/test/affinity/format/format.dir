@@ -22,5 +22,6 @@
         "simple.c": 6.4186078576190395,
         "simple_env.c": 10.272851030338733
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 29.850699363646687
 }

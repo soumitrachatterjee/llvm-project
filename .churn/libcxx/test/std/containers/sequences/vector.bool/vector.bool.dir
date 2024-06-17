@@ -65,5 +65,6 @@
     "subdirscores": {
         "reference": 0.7620262319914621,
         "vector.bool.fmt": 2.7875202616385337
-    }
+    },
+    "score.percentage": 16.080010672517012
 }

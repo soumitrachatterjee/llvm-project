@@ -19,5 +19,6 @@
         "init.pass.cpp": 15.143328931962753,
         "test_and_set.pass.cpp": 8.050796116284378
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 8.808280794762252
 }

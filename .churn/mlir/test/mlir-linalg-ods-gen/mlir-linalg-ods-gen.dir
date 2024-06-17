@@ -7,5 +7,6 @@
     "filescores": {
         "test-linalg-ods-yaml-gen.yaml": 100.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.3223894538110567
 }

@@ -15,5 +15,6 @@
         "std-exceptions.exp": 0.0,
         "std-misc.exp": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.6906329789918985
 }

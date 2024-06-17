@@ -11,5 +11,6 @@
         "string_view_ctor.pass.cpp": 0.0,
         "ull_ctor.pass.cpp": 27.046540682289944
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 21.658770854180197
 }

@@ -10,5 +10,6 @@
         "default.pass.cpp": 40.226808921564306,
         "incomplete.compile.fail.cpp": 19.546382156871385
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 37.551347237075696
 }

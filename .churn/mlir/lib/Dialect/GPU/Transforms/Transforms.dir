@@ -24,5 +24,6 @@
         "SubgroupReduceLowering.cpp": 0.7966362312299633,
         "Utils.cpp": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 43.36304479995029
 }

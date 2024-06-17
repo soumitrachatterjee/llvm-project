@@ -8,5 +8,6 @@
         "CMakeLists.txt": 100.0,
         "llvm-omp-device-info.cpp": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 31.2473992654043
 }

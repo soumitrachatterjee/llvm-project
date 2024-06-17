@@ -14,5 +14,6 @@
         "getcwd_test.cpp": 32.90019020069123,
         "stack_smashing_test.cpp": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 17.063727544818377
 }

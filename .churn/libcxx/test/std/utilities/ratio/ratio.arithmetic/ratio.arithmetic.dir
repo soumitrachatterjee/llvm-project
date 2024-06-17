@@ -15,5 +15,6 @@
         "ratio_subtract.compile.fail.cpp": 0.0,
         "ratio_subtract.pass.cpp": 25.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 22.39579578837942
 }

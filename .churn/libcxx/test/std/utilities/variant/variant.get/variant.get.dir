@@ -11,5 +11,6 @@
         "get_type.pass.cpp": 32.448254255271095,
         "holds_alternative.pass.cpp": 9.296878496408304
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 11.067325465359817
 }

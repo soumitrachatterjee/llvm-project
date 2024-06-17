@@ -27,5 +27,6 @@
         "merge.pass.cpp": 2.11233938211158,
         "try.emplace.pass.cpp": 6.016208690342852
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 11.576686504295866
 }

@@ -9,5 +9,6 @@
         "thread_detach_test.cpp": 41.449834728048934,
         "thread_tls_test.cpp": 28.050089481480395
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 100.0
 }

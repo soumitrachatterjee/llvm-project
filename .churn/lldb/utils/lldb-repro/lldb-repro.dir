@@ -8,5 +8,6 @@
         "CMakeLists.txt": 42.86637253075828,
         "lldb-repro.py": 57.13362746924172
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 5.790191969922682
 }

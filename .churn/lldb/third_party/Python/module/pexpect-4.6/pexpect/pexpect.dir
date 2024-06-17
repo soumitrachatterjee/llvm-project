@@ -22,5 +22,6 @@
         "_async.py": 0.0,
         "__init__.py": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 100.0
 }

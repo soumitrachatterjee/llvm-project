@@ -8,5 +8,6 @@
         "construct_at.pass.cpp": 82.00455380330648,
         "ranges_construct_at.pass.cpp": 17.995446196693514
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 9.726473212607473
 }

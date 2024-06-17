@@ -38,5 +38,6 @@
         "substr_rvalue.pass.cpp": 0.5800573876556091,
         "T_size_size.pass.cpp": 3.3683704171231246
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 19.411266813078733
 }

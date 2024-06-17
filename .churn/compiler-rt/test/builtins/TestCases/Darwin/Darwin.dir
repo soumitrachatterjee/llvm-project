@@ -10,5 +10,6 @@
         "os_version_check_test_no_core_foundation.c": 27.36782083206061,
         "platform_version_check_test.c": 22.608664834311025
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 100.0
 }

@@ -54,5 +54,6 @@
         "is_unsigned.pass.cpp": 2.2054576065707248,
         "is_volatile.pass.cpp": 1.7599954975493468
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 58.44140663823523
 }

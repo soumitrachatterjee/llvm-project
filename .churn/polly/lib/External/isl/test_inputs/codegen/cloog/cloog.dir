@@ -291,5 +291,6 @@
         "youcefn.c": 0.9008690490219496,
         "youcefn.st": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 6.271539383003281
 }

@@ -11,5 +11,6 @@
         "ctor.iter.pass.cpp": 0.0,
         "ctor.reverse_iterator.LWG3435.verify.cpp": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 50.0
 }

@@ -16,5 +16,6 @@
         "istreambuf.iterator_op==": 11.309282448995837,
         "istreambuf.iterator_op_astrk": 9.150311330770005,
         "istreambuf.iterator_proxy": 10.826441231422496
-    }
+    },
+    "score.percentage": 24.383865738751652
 }

@@ -10,5 +10,6 @@
         "constexpr-fns.pass.cpp": 80.69008984516246,
         "fdelayed-template-parsing.pass.cpp": 19.309910154837553
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 26.96724743791823
 }

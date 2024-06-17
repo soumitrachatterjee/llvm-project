@@ -14,5 +14,6 @@
         "aarch64_sve_registers": 26.332524065132322,
         "aarch64_sve_simd_registers": 6.1877120302948745,
         "register_command": 40.85942852431745
-    }
+    },
+    "score.percentage": 100.0
 }

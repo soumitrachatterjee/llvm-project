@@ -9,5 +9,6 @@
         "TestAbbreviations.py": 50.0,
         "TestCommonShortSpellings.py": 50.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.27827977252319247
 }

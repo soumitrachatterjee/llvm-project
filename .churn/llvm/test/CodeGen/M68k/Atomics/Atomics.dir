@@ -10,5 +10,6 @@
         "load-store.ll": 39.39789545850322,
         "rmw.ll": 60.60210454149679
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 5.556565176733751
 }

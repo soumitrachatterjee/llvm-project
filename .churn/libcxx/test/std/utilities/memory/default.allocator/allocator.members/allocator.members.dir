@@ -11,5 +11,6 @@
         "allocate.verify.cpp": 3.44807620096897,
         "allocate_at_least.pass.cpp": 3.8509428665561285
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 43.93353562603619
 }

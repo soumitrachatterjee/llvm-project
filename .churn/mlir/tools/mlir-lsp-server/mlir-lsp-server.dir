@@ -8,5 +8,6 @@
         "CMakeLists.txt": 80.16059832353105,
         "mlir-lsp-server.cpp": 19.839401676468945
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.7998391836914016
 }

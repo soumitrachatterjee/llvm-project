@@ -11,5 +11,6 @@
         "InferIntRangeInterfaceTest.cpp": 3.5530403127931534,
         "InferTypeOpInterfaceTest.cpp": 23.005204493333267
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 5.823976312673103
 }

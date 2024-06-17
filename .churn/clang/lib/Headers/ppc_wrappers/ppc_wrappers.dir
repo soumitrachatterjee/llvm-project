@@ -19,5 +19,6 @@
         "x86intrin.h": 0.0,
         "xmmintrin.h": 14.747496541117147
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.46413380316877595
 }

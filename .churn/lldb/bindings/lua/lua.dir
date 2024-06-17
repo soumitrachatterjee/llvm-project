@@ -11,5 +11,6 @@
         "lua-wrapper.swig": 25.715574710851484,
         "lua.swig": 18.655208650619066
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 3.697395942708394
 }

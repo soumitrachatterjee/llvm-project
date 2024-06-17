@@ -13,5 +13,6 @@
         "emplace.intializer_list.pass.cpp": 12.938263534596125,
         "emplace.pass.cpp": 18.849701689751825
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 22.763070567258577
 }

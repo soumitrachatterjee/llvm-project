@@ -12,5 +12,6 @@
         "rand.req.genl": 13.007016734761473,
         "rand.req.seedseq": 13.007016734761473,
         "rand.req.urng": 34.96491632619263
-    }
+    },
+    "score.percentage": 8.954371298007647
 }

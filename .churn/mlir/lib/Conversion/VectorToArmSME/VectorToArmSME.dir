@@ -9,5 +9,6 @@
         "VectorToArmSME.cpp": 84.56969184585171,
         "VectorToArmSMEPass.cpp": 7.519875568583537
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.8255088479093888
 }

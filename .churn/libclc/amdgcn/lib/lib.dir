@@ -14,5 +14,6 @@
         "mem_fence": 5.709424637819508,
         "synchronization": 5.355932335865205,
         "workitem": 28.205768136595804
-    }
+    },
+    "score.percentage": 100.0
 }

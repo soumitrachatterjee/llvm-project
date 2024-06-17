@@ -27,5 +27,6 @@
         "select.inc": 6.5208634281642,
         "signbit.cl": 6.624825857821441
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 4.751037305802992
 }

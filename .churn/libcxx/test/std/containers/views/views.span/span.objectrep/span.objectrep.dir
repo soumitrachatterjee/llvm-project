@@ -9,5 +9,6 @@
         "as_writable_bytes.pass.cpp": 0.0,
         "as_writable_bytes.verify.cpp": 100.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 5.956862502228607
 }

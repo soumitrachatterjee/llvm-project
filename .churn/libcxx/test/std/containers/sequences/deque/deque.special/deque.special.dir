@@ -12,5 +12,6 @@
         "swap.pass.cpp": 17.677096706047806,
         "swap_noexcept.pass.cpp": 12.081216407804625
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 11.199064183728593
 }

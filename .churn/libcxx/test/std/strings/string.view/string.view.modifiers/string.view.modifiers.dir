@@ -9,5 +9,6 @@
         "remove_suffix.pass.cpp": 32.50905793545385,
         "swap.pass.cpp": 32.50905793545385
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 3.2880949326353055
 }

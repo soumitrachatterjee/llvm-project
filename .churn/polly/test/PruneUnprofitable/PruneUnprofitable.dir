@@ -7,5 +7,6 @@
     "filescores": {
         "prune_only_scalardeps.ll": 100.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.5366282166788431
 }

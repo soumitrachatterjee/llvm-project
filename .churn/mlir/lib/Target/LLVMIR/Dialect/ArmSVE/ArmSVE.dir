@@ -8,5 +8,6 @@
         "ArmSVEToLLVMIRTranslation.cpp": 61.971744718493724,
         "CMakeLists.txt": 38.028255281506276
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 1.1660223190032435
 }

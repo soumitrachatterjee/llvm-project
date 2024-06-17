@@ -27,5 +27,6 @@
         "x86-zmm-read.cpp": 8.540933000096476,
         "x86-zmm-write.cpp": 6.3350131396158265
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 9.318047758279828
 }

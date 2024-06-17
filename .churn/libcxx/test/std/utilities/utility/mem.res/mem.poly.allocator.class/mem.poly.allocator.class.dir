@@ -9,5 +9,6 @@
         "mem.poly.allocator.ctor": 21.67658358839403,
         "mem.poly.allocator.eq": 20.671250965473128,
         "mem.poly.allocator.mem": 57.65216544613284
-    }
+    },
+    "score.percentage": 25.9422806738485
 }

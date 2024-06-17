@@ -16,5 +16,6 @@
         "aeabi_uldivmod_test.c": 7.24416303515924,
         "call_apsr.h": 7.478428708120004
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.4520674083300316
 }

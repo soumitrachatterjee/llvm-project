@@ -126,5 +126,6 @@
         "vectorize-tensor-extract-masked.mlir": 0.3383421283857429,
         "vectorize-tensor-extract.mlir": 0.4397440438304349
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 23.06956655504442
 }

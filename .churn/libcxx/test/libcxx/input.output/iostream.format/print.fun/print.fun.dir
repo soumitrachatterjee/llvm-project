@@ -9,5 +9,6 @@
         "vprint_unicode_posix.pass.cpp": 35.4954212426149,
         "vprint_unicode_windows.pass.cpp": 29.99143205944924
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 8.167599478635944
 }

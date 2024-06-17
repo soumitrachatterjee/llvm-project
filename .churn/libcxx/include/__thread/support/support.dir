@@ -10,5 +10,6 @@
         "pthread.h": 48.099125508270355,
         "windows.h": 25.49005502424549
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 8.08827136440174
 }

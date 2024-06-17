@@ -9,5 +9,6 @@
         "template.pass.cpp": 0.0,
         "valarray.pass.cpp": 48.64607040210375
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 28.851885575510188
 }

@@ -8,5 +8,6 @@
         "to_array.pass.cpp": 100.0,
         "to_array.verify.cpp": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 2.6530328047180896
 }

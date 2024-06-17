@@ -10,5 +10,6 @@
     "subdirscores": {
         "include": 8.780355212722737,
         "unittests": 14.0655559814981
-    }
+    },
+    "score.percentage": 8.149468735561308
 }

@@ -21,5 +21,6 @@
         "sub.ll": 0.0,
         "umul-with-overflow.ll": 18.646977902800757
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 24.287348078686353
 }

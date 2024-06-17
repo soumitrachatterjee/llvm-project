@@ -13,5 +13,6 @@
         "re.tokiter.comp": 18.71580631864861,
         "re.tokiter.deref": 13.665213636304783,
         "re.tokiter.incr": 13.665213636304783
-    }
+    },
+    "score.percentage": 49.427122695675784
 }

@@ -15,5 +15,6 @@
         "trivial-static-initializer.S": 32.40879686086724,
         "trivial-tls.S": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 70.95883610988476
 }

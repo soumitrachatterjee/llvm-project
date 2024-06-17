@@ -21,5 +21,6 @@
         "TestRuntimeTypes.py": 12.695396157510386,
         "TestSymbolTable.py": 10.418989695774062
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 3.663063579847857
 }

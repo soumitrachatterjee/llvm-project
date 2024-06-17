@@ -10,5 +10,6 @@
         "assert.other_span.pass.cpp": 25.0,
         "assert.range.pass.cpp": 25.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 26.335371209375364
 }

@@ -8,5 +8,6 @@
         "input_iterator.compile.pass.cpp": 47.86552218770302,
         "subsumption.compile.pass.cpp": 52.134477812296986
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 7.113633136927114
 }

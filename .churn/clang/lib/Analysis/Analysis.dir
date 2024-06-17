@@ -40,5 +40,6 @@
     "subdirscores": {
         "FlowSensitive": 22.16099997204082,
         "plugins": 0.38037461684852625
-    }
+    },
+    "score.percentage": 3.154510197816921
 }

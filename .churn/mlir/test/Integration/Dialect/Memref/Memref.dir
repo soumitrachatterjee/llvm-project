@@ -13,5 +13,6 @@
         "subview-runtime-verification.mlir": 0.0,
         "verify-memref.mlir": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 1.297520840333402
 }

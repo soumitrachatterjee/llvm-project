@@ -9,5 +9,6 @@
         "ABISysV_riscv.h": 50.0,
         "CMakeLists.txt": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 1.2432806542148411
 }

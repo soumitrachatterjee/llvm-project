@@ -22,5 +22,6 @@
         "TokenKinds.def": 6.035092628778287,
         "TypeParser.cpp": 11.649096627473728
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.3427120711930509
 }

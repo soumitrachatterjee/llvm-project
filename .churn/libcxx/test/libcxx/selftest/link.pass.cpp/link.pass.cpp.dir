@@ -10,5 +10,6 @@
         "link-success.link.pass.cpp": 25.0,
         "run-error.link.pass.cpp": 25.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 2.8494396053691275
 }

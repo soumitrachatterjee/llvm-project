@@ -11,5 +11,6 @@
         "omp_test_lock.c": 21.865359245954746,
         "omp_test_nest_lock.c": 11.814411602385228
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 1.2315867074950273
 }

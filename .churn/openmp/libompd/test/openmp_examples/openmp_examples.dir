@@ -21,5 +21,6 @@
         "ompd_parallel.cmd": 0.0,
         "parallel.c": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 34.26772334405632
 }

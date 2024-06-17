@@ -10,5 +10,6 @@
         "native.pass.cpp": 20.873982924871708,
         "operator_string.pass.cpp": 20.873982924871708
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 8.7384766391214
 }

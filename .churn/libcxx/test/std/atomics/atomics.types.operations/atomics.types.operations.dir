@@ -12,5 +12,6 @@
         "atomics.types.operations.req": 52.80620610410709,
         "atomics.types.operations.templ": 5.819459344243334,
         "atomics.types.operations.wait": 23.91595651891958
-    }
+    },
+    "score.percentage": 28.009947126151648
 }

@@ -9,5 +9,6 @@
         "Makefile": 0.0,
         "TestAArch64LinuxMTEMemoryTagAccess.py": 62.35490606721953
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 14.16853476281956
 }

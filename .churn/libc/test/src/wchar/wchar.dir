@@ -9,5 +9,6 @@
         "btowc_test.cpp": 33.31991930846289,
         "wctob_test.cpp": 33.31991930846289
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.14448855125264562
 }

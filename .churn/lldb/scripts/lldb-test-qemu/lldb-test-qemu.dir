@@ -9,5 +9,6 @@
         "run-qemu.sh": 49.51337168034022,
         "setup.sh": 25.243314159829882
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 13.578584288996506
 }

@@ -33,5 +33,6 @@
         "virtual-function-call.cpp": 6.531378023494964,
         "vtable-hidden-when-in-comdat.cpp": 2.084197719276874
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.19483869170994975
 }

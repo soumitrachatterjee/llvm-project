@@ -21,5 +21,6 @@
         "Wasm.cpp": 8.27932967188285,
         "XCOFF.cpp": 5.1971989926451405
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.06240761441960758
 }

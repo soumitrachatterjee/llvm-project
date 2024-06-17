@@ -9,5 +9,6 @@
         "static.m": 0.0,
         "TestObjCStaticMethod.py": 100.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 1.4392742788583883
 }

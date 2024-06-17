@@ -8,5 +8,6 @@
         "ranges.contains.pass.cpp": 100.0,
         "ranges.contains_subrange.pass.cpp": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 1.2596616788524695
 }

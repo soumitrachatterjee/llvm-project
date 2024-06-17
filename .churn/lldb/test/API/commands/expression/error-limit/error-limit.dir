@@ -9,5 +9,6 @@
         "Makefile": 0.0,
         "TestExprErrorLimit.py": 100.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.799392879532906
 }

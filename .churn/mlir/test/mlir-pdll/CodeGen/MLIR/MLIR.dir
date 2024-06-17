@@ -11,5 +11,6 @@
     },
     "subdirscores": {
         "include": 0.0
-    }
+    },
+    "score.percentage": 40.07204304400536
 }

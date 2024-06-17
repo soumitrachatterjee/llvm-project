@@ -9,5 +9,6 @@
         "Makefile": 0.0,
         "TestNamespaceLocalVarSameNameCppAndC.py": 100.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.730983931816974
 }

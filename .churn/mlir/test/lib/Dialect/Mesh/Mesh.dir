@@ -10,5 +10,6 @@
         "TestReshardingSpmdization.cpp": 18.755525447664258,
         "TestSimplifications.cpp": 39.955474789480306
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.7374592991441511
 }

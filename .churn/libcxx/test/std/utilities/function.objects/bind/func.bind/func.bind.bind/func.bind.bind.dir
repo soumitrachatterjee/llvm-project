@@ -15,5 +15,6 @@
         "nested.pass.cpp": 14.816824552406468,
         "PR23141.pass.cpp": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 50.33928161517812
 }

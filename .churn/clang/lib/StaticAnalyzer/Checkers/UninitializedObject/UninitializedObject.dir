@@ -9,5 +9,6 @@
         "UninitializedObjectChecker.cpp": 45.08502143508949,
         "UninitializedPointee.cpp": 41.9912912266722
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.5874580190550258
 }

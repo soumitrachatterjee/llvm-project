@@ -20,5 +20,6 @@
         "get_year.pass.cpp": 4.484856333890969,
         "get_year_wide.pass.cpp": 6.3280758866304465
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 40.28333367258469
 }

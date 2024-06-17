@@ -8,5 +8,6 @@
         "cmp.pass.cpp": 0.0,
         "cmp_nullptr.pass.cpp": 100.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 2.599223353215426
 }

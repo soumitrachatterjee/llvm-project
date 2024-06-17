@@ -21,5 +21,6 @@
         "to_int_type.pass.cpp": 5.737293868535918,
         "types.compile.pass.cpp": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 28.606068864138773
 }

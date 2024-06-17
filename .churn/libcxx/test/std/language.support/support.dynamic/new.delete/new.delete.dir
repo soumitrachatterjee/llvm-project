@@ -12,5 +12,6 @@
         "new.delete.dataraces": 1.8161026348250293,
         "new.delete.placement": 8.031344817911751,
         "new.delete.single": 45.73806443141556
-    }
+    },
+    "score.percentage": 65.54530189306121
 }

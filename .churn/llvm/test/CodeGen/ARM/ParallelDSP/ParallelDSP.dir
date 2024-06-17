@@ -36,5 +36,6 @@
         "squaring.ll": 1.200214436277895,
         "unroll-n-jam-smlad.ll": 4.920492496527015
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.462262968110757
 }

@@ -103,5 +103,6 @@
         "webkit.RefCntblBaseVirtualDtor.rst": 0.6027270253139329,
         "webkit.UncountedLambdaCapturesChecker.rst": 0.6027270253139329
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 1.3780682274340121
 }

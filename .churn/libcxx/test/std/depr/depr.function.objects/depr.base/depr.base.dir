@@ -10,5 +10,6 @@
         "unary_function.depr.verify.cpp": 0.0,
         "unary_function.pass.cpp": 50.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 37.45977026754661
 }

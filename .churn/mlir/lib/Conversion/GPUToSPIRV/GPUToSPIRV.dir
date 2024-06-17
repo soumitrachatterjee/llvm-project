@@ -10,5 +10,6 @@
         "GPUToSPIRVPass.cpp": 25.12955193292391,
         "WmmaOpsToSPIRV.cpp": 10.824790282704706
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 4.661148400054071
 }

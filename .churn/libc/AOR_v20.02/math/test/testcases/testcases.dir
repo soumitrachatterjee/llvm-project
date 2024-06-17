@@ -8,5 +8,6 @@
     "subdirscores": {
         "directed": 50.0,
         "random": 50.0
-    }
+    },
+    "score.percentage": 33.33333333333333
 }

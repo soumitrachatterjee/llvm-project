@@ -10,5 +10,6 @@
         "epoll_pwait2.cpp": 21.351613090329636,
         "epoll_wait.cpp": 35.9451607290111
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 29.62066989769213
 }

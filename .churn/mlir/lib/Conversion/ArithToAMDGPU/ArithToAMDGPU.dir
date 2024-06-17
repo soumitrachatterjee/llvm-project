@@ -8,5 +8,6 @@
         "ArithToAMDGPU.cpp": 65.91034219127171,
         "CMakeLists.txt": 34.089657808728276
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.13465784106583786
 }

@@ -7,5 +7,6 @@
     "filescores": {},
     "subdirscores": {
         "AMDGPU": 100.0
-    }
+    },
+    "score.percentage": 0.09825304289649169
 }

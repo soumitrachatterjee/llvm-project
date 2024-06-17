@@ -104,5 +104,6 @@
         "unterminated-vbr.bc": 0.0,
         "x86_intrcc_upgrade.bc": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 4.8399162424855176
 }

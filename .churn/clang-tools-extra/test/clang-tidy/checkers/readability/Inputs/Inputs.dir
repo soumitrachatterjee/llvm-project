@@ -9,5 +9,6 @@
         "duplicate-include": 0.0,
         "identifier-naming": 100.0,
         "static-accessed-through-instance": 0.0
-    }
+    },
+    "score.percentage": 3.8836474757963515
 }

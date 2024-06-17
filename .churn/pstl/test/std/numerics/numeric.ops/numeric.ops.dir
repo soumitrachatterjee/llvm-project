@@ -12,5 +12,6 @@
         "transform_reduce.pass.cpp": 22.008172799093852,
         "transform_scan.pass.cpp": 18.224833677666076
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 100.0
 }

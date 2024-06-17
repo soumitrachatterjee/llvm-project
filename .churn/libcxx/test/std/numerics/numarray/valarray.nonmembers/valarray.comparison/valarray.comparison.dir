@@ -30,5 +30,6 @@
         "or_valarray_value.pass.cpp": 4.166666666666665,
         "or_value_valarray.pass.cpp": 4.166666666666665
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 23.65576110125333
 }

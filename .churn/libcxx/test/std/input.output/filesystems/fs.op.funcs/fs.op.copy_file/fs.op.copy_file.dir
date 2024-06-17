@@ -8,5 +8,6 @@
         "copy_file.pass.cpp": 65.82010533153384,
         "copy_file_large.pass.cpp": 34.179894668466154
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 4.8632913105012765
 }

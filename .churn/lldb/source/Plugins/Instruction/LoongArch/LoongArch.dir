@@ -9,5 +9,6 @@
         "EmulateInstructionLoongArch.cpp": 32.659157882790964,
         "EmulateInstructionLoongArch.h": 30.953400111809675
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.7750584280577638
 }

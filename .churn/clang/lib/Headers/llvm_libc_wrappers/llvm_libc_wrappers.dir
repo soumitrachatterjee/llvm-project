@@ -15,5 +15,6 @@
     },
     "subdirscores": {
         "llvm-libc-decls": 10.094663203291498
-    }
+    },
+    "score.percentage": 0.3364270162695496
 }

@@ -18,5 +18,6 @@
         "slice_array.pass.cpp": 7.551102637546199,
         "value_size.pass.cpp": 7.551102637546199
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 17.028703698244048
 }

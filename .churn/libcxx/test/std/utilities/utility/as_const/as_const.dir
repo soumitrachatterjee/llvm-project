@@ -8,5 +8,6 @@
         "as_const.compile.fail.cpp": 22.963692727240964,
         "as_const.pass.cpp": 77.03630727275905
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 3.834254426820744
 }

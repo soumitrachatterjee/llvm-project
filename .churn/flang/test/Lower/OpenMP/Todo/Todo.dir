@@ -23,5 +23,6 @@
         "task_mergeable.f90": 0.0,
         "task_untied.f90": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 5.8560763990097415
 }

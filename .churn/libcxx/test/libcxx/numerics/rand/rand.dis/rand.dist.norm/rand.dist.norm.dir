@@ -12,5 +12,6 @@
         "rand.dist.norm.lognormal": 16.664257649550148,
         "rand.dist.norm.normal": 16.664257649550148,
         "rand.dist.norm.t": 16.664257649550148
-    }
+    },
+    "score.percentage": 20.003467080333444
 }

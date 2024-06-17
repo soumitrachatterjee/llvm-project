@@ -8,5 +8,6 @@
         "c1xx_broken_is_trivially_copyable.pass.cpp": 60.6700934776614,
         "c1xx_broken_za_ctor_check.pass.cpp": 39.32990652233859
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.9726542293166301
 }

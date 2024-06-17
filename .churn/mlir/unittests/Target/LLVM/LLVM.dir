@@ -10,5 +10,6 @@
         "SerializeROCDLTarget.cpp": 26.714380302381674,
         "SerializeToLLVMBitcode.cpp": 20.091315990983418
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 87.48703151962825
 }

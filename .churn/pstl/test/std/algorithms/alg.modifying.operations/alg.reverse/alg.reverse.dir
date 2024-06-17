@@ -8,5 +8,6 @@
         "reverse.pass.cpp": 42.288372378810195,
         "reverse_copy.pass.cpp": 57.7116276211898
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 8.132932766213909
 }

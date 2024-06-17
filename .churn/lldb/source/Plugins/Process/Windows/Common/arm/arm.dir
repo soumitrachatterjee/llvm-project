@@ -8,5 +8,6 @@
         "RegisterContextWindows_arm.cpp": 100.0,
         "RegisterContextWindows_arm.h": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 1.7794543137989383
 }

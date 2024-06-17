@@ -16,5 +16,6 @@
         "signal_test.cpp": 11.744076583080032,
         "sigprocmask_test.cpp": 14.376040661001351
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 1.458419644877492
 }

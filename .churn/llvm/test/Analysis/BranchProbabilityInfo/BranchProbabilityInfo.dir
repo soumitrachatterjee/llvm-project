@@ -21,5 +21,6 @@
         "unreachable.ll": 1.8087367393226452,
         "zero_heuristics.ll": 6.6094453961363
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 1.2659113372875386
 }

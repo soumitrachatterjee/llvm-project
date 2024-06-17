@@ -29,5 +29,6 @@
         "symbols-forwarder-export.yaml": 0.0,
         "uuid.yaml": 4.898250730073469
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 28.94104302454053
 }

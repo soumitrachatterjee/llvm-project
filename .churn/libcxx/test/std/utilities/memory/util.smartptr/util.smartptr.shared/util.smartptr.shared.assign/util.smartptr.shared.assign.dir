@@ -12,5 +12,6 @@
         "shared_ptr_Y_rv.pass.cpp": 14.768345245525252,
         "unique_ptr_Y.pass.cpp": 24.17597968469854
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 9.200781278599266
 }

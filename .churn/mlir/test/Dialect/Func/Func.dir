@@ -10,5 +10,6 @@
         "func-transform.mlir": 0.0,
         "invalid.mlir": 46.32351595044063
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.10105958270864629
 }

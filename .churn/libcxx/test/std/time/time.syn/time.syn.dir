@@ -26,5 +26,6 @@
         "formatter.year_month_weekday_last.pass.cpp": 3.7300842855330427,
         "formatter_tests.h": 1.8714352403409855
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 24.832176888546382
 }

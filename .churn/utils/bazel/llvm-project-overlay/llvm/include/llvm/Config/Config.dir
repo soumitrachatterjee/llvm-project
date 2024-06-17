@@ -8,5 +8,6 @@
         "config.h": 48.52139221730077,
         "llvm-config.h": 51.478607782699235
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 100.0
 }

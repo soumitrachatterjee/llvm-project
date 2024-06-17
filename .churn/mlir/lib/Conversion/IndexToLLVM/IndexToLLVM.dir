@@ -8,5 +8,6 @@
         "CMakeLists.txt": 0.0,
         "IndexToLLVM.cpp": 100.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.1001165154395596
 }

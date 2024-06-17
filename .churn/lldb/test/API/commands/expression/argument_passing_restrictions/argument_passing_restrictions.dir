@@ -9,5 +9,6 @@
         "Makefile": 0.0,
         "TestArgumentPassingRestrictions.py": 100.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.7977166692556276
 }

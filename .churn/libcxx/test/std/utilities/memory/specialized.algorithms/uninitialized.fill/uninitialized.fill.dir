@@ -8,5 +8,6 @@
         "ranges_uninitialized_fill.pass.cpp": 37.52749718793609,
         "uninitialized_fill.pass.cpp": 62.472502812063915
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 9.61386765617912
 }

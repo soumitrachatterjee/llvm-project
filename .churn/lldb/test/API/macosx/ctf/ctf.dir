@@ -9,5 +9,6 @@
         "test.c": 42.664307581070545,
         "TestCTF.py": 42.605102512329175
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 3.1640650472199057
 }

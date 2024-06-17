@@ -32,5 +32,6 @@
         "gdb": 0.9640114263154074,
         "libcxx": 38.19744204445401,
         "symcheck-blacklists": 0.0
-    }
+    },
+    "score.percentage": 9.493541071506426
 }

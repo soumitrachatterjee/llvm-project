@@ -9,5 +9,6 @@
         "liboffset-test.so": 0.0,
         "offset-test.bin": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 17.40160450869264
 }

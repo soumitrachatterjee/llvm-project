@@ -9,5 +9,6 @@
         "xsputn.pass.cpp": 41.77091960956788,
         "xsputn.PR14074.pass.cpp": 26.663843090572094
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 34.734920156560584
 }

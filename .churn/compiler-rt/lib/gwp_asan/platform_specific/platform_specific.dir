@@ -19,5 +19,6 @@
         "utilities_fuchsia.cpp": 0.0,
         "utilities_posix.cpp": 35.29357500851503
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 6.722534357730879
 }

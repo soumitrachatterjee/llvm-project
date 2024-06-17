@@ -83,5 +83,6 @@
         "VectorBuilder.cpp": 0.05108011406466395,
         "Verifier.cpp": 11.855706255764035
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 2.4670883030922153
 }

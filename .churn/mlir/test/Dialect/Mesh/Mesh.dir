@@ -16,5 +16,6 @@
         "simplifications.mlir": 6.34823937920193,
         "spmdization.mlir": 6.496193615956757
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.3800878936980649
 }

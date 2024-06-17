@@ -9,5 +9,6 @@
         "longjmp.cpp": 33.707487631940744,
         "setjmp.cpp": 33.146256184029625
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 16.9924314789611
 }

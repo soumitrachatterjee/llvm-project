@@ -9,5 +9,6 @@
         "sentinel_for.subsumption.compile.pass.cpp": 37.20069808135651,
         "sized_sentinel_for.compile.pass.cpp": 31.265847853683322
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 7.565364533146064
 }

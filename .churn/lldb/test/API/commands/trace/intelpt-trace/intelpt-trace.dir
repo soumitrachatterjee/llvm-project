@@ -20,5 +20,6 @@
         "trace_bad_image.json": 9.636874159467963,
         "trace_wrong_cpu.json": 9.636874159467963
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 6.8900206631077054
 }

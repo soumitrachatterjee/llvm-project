@@ -32,5 +32,6 @@
         "ThreadSafeModuleTest.cpp": 1.2852581282933448,
         "WrapperFunctionUtilsTest.cpp": 0.8867596026824007
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 67.65811992535892
 }

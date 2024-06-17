@@ -8,5 +8,6 @@
         "bind_back.pass.cpp": 100.0,
         "compose.pass.cpp": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 5.300569233618906
 }

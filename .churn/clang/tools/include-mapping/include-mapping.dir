@@ -9,5 +9,6 @@
         "gen_std.py": 55.561825611100545,
         "test.py": 12.932326808897002
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.4751054066697784
 }

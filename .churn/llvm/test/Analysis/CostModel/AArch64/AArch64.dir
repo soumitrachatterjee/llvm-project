@@ -87,5 +87,6 @@
         "vector-reduce.ll": 2.3912022996638167,
         "vector-select.ll": 2.7070448076565023
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 19.006187963789476
 }

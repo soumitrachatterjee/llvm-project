@@ -9,5 +9,6 @@
         "features.json": 33.33333333333333,
         "forest.json": 33.33333333333333
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.1268446117935853
 }

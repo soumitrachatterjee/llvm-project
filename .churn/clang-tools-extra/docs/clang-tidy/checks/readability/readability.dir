@@ -57,5 +57,6 @@
         "use-anyofallof.rst": 4.033748242367074,
         "use-std-min-max.rst": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 6.383088284042067
 }

@@ -9,5 +9,6 @@
         "transform_reduce_iter_iter_iter_init.pass.cpp": 33.37008825288106,
         "transform_reduce_iter_iter_iter_init_op_op.pass.cpp": 32.840884048512514
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 7.593582953345641
 }

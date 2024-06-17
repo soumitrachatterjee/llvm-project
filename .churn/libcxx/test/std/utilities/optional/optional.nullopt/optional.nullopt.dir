@@ -8,5 +8,6 @@
         "nullopt_t.compile.fail.cpp": 22.7731610675466,
         "nullopt_t.pass.cpp": 77.2268389324534
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 5.962439658304499
 }

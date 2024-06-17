@@ -17,5 +17,6 @@
         "RISCVRegisterBankInfo.h": 2.533103954736519,
         "RISCVRegisterBanks.td": 1.8129296668549912
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 2.762464325953993
 }

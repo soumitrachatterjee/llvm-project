@@ -9,5 +9,6 @@
         "assert.front.pass.cpp": 33.333333333333336,
         "assert.op_idx.pass.cpp": 33.333333333333336
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 24.496461899562668
 }

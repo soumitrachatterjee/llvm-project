@@ -8,5 +8,6 @@
         "RegisterContextWindows_x86.cpp": 75.08998414103849,
         "RegisterContextWindows_x86.h": 24.910015858961533
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 4.806437029823677
 }

@@ -26,5 +26,6 @@
         "asan_test_utils.h": 8.021498780463533,
         "CMakeLists.txt": 51.91468367724603
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 16.098535081843213
 }

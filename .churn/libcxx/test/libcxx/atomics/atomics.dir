@@ -16,5 +16,6 @@
         "atomics.types.generic": 4.973817893814605,
         "atomics.types.operations": 10.981730047308073,
         "stdatomic.h.syn": 8.926711539136509
-    }
+    },
+    "score.percentage": 3.3509677582334723
 }

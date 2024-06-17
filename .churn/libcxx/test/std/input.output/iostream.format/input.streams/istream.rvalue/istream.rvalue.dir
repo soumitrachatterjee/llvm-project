@@ -8,5 +8,6 @@
         "not_istreamable.verify.cpp": 11.252152811361327,
         "rvalue.pass.cpp": 88.74784718863867
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 17.10555878453192
 }

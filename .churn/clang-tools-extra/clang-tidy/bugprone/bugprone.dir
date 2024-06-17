@@ -170,5 +170,6 @@
         "VirtualNearMissCheck.cpp": 0.678615155540939,
         "VirtualNearMissCheck.h": 0.7585890539995878
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 10.191951943391524
 }

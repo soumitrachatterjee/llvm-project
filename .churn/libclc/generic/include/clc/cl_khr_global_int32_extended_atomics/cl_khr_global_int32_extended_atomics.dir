@@ -11,5 +11,6 @@
         "atom_or.h": 20.0,
         "atom_xor.h": 20.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.3812308299755314
 }

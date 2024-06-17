@@ -8,5 +8,6 @@
         "excessive_brace_count.pass.cpp": 64.21640679929817,
         "excessive_brace_min_max.pass.cpp": 35.78359320070184
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 5.077984835987539
 }

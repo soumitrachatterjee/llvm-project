@@ -8,5 +8,6 @@
         "adjacent_difference.pass.cpp": 46.748585614371734,
         "adjacent_difference_op.pass.cpp": 53.25141438562827
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 8.259943875082966
 }

@@ -9,5 +9,6 @@
         "main.o.yaml": 0.0,
         "TestZeroDwoId.py": 100.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.18429433990037608
 }

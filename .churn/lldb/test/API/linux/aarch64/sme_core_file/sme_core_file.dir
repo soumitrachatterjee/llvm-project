@@ -13,5 +13,6 @@
         "main.c": 14.613395378219248,
         "TestAArch64LinuxSMECoreFile.py": 26.933023108903747
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 7.292533560593839
 }

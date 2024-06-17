@@ -9,5 +9,6 @@
         "lit.cfg": 50.0,
         "lit.site.cfg.in": 50.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.20046066681019092
 }

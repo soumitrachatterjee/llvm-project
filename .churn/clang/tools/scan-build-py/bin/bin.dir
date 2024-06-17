@@ -9,5 +9,6 @@
         "intercept-build": 33.333333333333336,
         "scan-build": 33.333333333333336
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 7.644008601804715
 }

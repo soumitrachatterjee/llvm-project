@@ -10,5 +10,6 @@
         "other.m": 0.0,
         "TestClangModulesHashMismatch.py": 100.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 2.4512718670429146
 }

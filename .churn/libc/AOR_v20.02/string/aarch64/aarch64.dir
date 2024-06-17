@@ -34,5 +34,6 @@
         "strrchr-sve.S": 25.0,
         "strrchr.S": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 49.64640116914844
 }

@@ -11,5 +11,6 @@
         "ComplexBase.td": 25.451787905052836,
         "ComplexOps.td": 50.51120087301674
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 100.0
 }

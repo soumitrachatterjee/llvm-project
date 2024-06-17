@@ -30,5 +30,6 @@
         "transform-op-make-loop-independent.mlir": 0.83330706844186,
         "value-bounds-op-interface-impl.mlir": 0.7677372003501544
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 4.4149187688634575
 }

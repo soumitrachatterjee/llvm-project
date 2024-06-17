@@ -525,5 +525,6 @@
         "xsfvcp-xvv.c": 0.08732663147146476,
         "xsfvcp-xvw.c": 0.08732663147146476
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 57.786651819422495
 }

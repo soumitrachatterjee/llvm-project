@@ -9,5 +9,6 @@
         "enabled_hashes.pass.cpp": 50.65867201695029,
         "string_view.pass.cpp": 44.15263401297455
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 10.560354052580442
 }

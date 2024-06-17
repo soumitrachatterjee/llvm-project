@@ -8,5 +8,6 @@
         "func-ops-to-spirv.mlir": 17.482562320835836,
         "types-to-spirv.mlir": 82.51743767916416
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.9444889027549896
 }

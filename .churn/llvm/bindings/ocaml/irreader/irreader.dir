@@ -10,5 +10,6 @@
         "llvm_irreader.ml": 16.3391429044843,
         "llvm_irreader.mli": 13.754959075222988
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 2.1085825371357956
 }

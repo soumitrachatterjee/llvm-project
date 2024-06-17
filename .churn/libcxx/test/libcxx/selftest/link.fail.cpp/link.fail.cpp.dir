@@ -9,5 +9,6 @@
         "link-error.link.fail.cpp": 33.33333333333333,
         "link-success.link.fail.cpp": 33.33333333333333
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 2.8494396053691275
 }

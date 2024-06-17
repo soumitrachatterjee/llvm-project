@@ -31,5 +31,6 @@
         "SparseTensorPasses.cpp": 0.0,
         "TransformInterpreter.cpp": 0.8372538683413037
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 100.0
 }

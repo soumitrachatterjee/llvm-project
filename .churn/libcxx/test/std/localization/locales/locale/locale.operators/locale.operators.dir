@@ -8,5 +8,6 @@
         "compare.pass.cpp": 64.68261441405667,
         "eq.pass.cpp": 35.317385585943335
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 14.870944578178397
 }

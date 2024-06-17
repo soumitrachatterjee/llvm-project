@@ -10,5 +10,6 @@
         "uninitialized_copy.pass.cpp": 32.77419829280311,
         "uninitialized_copy_n.pass.cpp": 30.179060393628028
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 12.372526868754361
 }

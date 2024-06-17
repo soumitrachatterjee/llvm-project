@@ -10,5 +10,6 @@
         "llvm_transform_utils.mli": 13.846122283907675,
         "transform_utils_ocaml.c": 48.46622124985239
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 69.25512952227568
 }

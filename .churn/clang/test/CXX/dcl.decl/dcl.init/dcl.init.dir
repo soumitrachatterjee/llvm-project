@@ -16,5 +16,6 @@
         "dcl.init.list": 33.33729313217435,
         "dcl.init.ref": 35.891845687865995,
         "dcl.init.string": 2.2661252404395906
-    }
+    },
+    "score.percentage": 43.85718568860344
 }

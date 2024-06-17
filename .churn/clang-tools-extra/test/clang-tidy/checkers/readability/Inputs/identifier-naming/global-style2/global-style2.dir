@@ -8,5 +8,6 @@
         ".clang-tidy": 100.0,
         "header.h": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 13.41254937748503
 }

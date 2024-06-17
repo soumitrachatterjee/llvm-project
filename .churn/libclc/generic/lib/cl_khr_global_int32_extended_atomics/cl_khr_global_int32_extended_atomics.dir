@@ -11,5 +11,6 @@
         "atom_or.cl": 20.0,
         "atom_xor.cl": 20.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.49187438545920825
 }

@@ -9,5 +9,6 @@
         "iter_move.pass.cpp": 47.19848114273868,
         "iter_rvalue_reference_t.compile.pass.cpp": 13.50148401142338
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 61.06496717559473
 }

@@ -46,5 +46,6 @@
         "omp_parallel_for_reduction.c": 1.9370499538277761,
         "omp_par_in_loop.c": 1.9370499538277761
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 85.30862226539982
 }

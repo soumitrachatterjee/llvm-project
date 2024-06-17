@@ -9,5 +9,6 @@
         "lower-to-arm-neon.mlir": 0.0,
         "roundtrip.mlir": 53.3445642326275
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.08669149914809453
 }

@@ -9,5 +9,6 @@
         "expected-plists": 38.20475652853619,
         "expected-sarif": 47.23317107862907,
         "include": 14.562072392834738
-    }
+    },
+    "score.percentage": 9.827797590580275
 }

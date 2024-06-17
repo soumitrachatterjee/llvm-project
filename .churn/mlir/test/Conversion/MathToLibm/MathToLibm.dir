@@ -7,5 +7,6 @@
     "filescores": {
         "convert-to-libm.mlir": 100.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 1.5011925778113273
 }

@@ -15,5 +15,6 @@
         "vector.compile.fail.cpp": 0.0,
         "vector.pass.cpp": 18.43276225621042
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 29.885952249046156
 }

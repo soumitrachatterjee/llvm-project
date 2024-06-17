@@ -25,5 +25,6 @@
         "swap.member.pass.cpp": 7.5146376470887875,
         "type.compile.pass.cpp": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.6335472130727606
 }

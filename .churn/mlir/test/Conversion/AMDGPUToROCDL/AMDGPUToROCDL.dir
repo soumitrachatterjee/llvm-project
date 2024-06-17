@@ -10,5 +10,6 @@
         "mfma.mlir": 20.240260417987006,
         "wmma.mlir": 13.6919085666597
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 1.0049240687662326
 }

@@ -10,5 +10,6 @@
         "underflow.pass.cpp": 23.130370370242538,
         "xsgetn.pass.cpp": 30.608888889272386
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 23.21301972717586
 }

@@ -14,5 +14,6 @@
         "ocml-sample-target-attrs.cl": 0.0,
         "ocml-sample.cl": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 3.604980136245962
 }

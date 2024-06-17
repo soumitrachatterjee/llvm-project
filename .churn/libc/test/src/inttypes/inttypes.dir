@@ -11,5 +11,6 @@
         "strtoimax_test.cpp": 21.166693123406713,
         "strtoumax_test.cpp": 21.166693123406713
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.6283066891478097
 }

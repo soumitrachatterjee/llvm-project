@@ -10,5 +10,6 @@
         "sleep_until.pass.cpp": 49.94415282407817,
         "yield.pass.cpp": 18.826536341814514
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 20.40793280134732
 }

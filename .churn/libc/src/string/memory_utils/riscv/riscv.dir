@@ -11,5 +11,6 @@
         "inline_memmove.h": 24.634680066812926,
         "inline_memset.h": 18.84132998329677
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.8337083731596717
 }

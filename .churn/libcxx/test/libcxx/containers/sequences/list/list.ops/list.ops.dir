@@ -9,5 +9,6 @@
         "debug.splice.pos_list_iter.pass.cpp": 33.33333333333333,
         "debug.splice.pos_list_iter_iter.pass.cpp": 33.33333333333333
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 23.759465048809155
 }

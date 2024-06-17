@@ -12,5 +12,6 @@
         "sort_constexpr.pass.cpp": 5.721181446561691,
         "sort_constexpr_comp.pass.cpp": 5.721181446561691
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 40.811755173451445
 }

@@ -8,5 +8,6 @@
         "benchmark.h": 100.0,
         "export.h": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 100.0
 }

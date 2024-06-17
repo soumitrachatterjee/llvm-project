@@ -12,5 +12,6 @@
         "slice.arr.assign": 28.851885575510188,
         "slice.arr.comp.assign": 23.716038141496604,
         "slice.arr.fill": 23.716038141496604
-    }
+    },
+    "score.percentage": 12.695881401757509
 }

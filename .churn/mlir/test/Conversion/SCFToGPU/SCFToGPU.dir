@@ -10,5 +10,6 @@
         "step_one.mlir": 24.682111437649684,
         "step_positive.mlir": 22.381589582263487
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 1.2386696650496145
 }

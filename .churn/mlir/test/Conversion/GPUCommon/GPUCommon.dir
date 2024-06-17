@@ -22,5 +22,6 @@
         "set-default-device.mlir": 0.0,
         "transfer_write.mlir": 2.4101017438124854
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 5.080829458312857
 }

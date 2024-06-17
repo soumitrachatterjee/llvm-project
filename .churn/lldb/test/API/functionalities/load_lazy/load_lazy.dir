@@ -13,5 +13,6 @@
         "t2_1.c": 13.190119175206064,
         "TestLoadUsingLazyBind.py": 23.410300717803146
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.3441290015878783
 }

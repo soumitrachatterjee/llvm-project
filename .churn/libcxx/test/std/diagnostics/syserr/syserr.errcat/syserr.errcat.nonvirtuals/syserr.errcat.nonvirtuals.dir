@@ -11,5 +11,6 @@
         "lt.pass.cpp": 23.009608748155635,
         "neq.pass.cpp": 23.009608748155635
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 13.980791092171438
 }

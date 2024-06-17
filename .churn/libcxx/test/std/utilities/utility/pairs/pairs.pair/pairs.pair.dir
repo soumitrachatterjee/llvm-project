@@ -42,5 +42,6 @@
         "swap_member_const.pass.cpp": 0.0,
         "types.pass.cpp": 5.29290909615433
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 57.16978091756197
 }

@@ -16,5 +16,6 @@
         "path.io.unicode_bug.pass.cpp": 11.718507027108377,
         "swap.pass.cpp": 15.753594108972885
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 17.29278081322667
 }

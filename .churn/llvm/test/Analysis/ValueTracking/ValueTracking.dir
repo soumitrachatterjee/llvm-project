@@ -47,5 +47,6 @@
         "shift-recurrence-knownbits.ll": 1.2883796024649938,
         "signbits-extract-elt.ll": 0.740304418022131
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 5.797811939086593
 }

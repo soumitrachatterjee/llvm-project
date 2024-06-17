@@ -21,5 +21,6 @@
         "tsan_interface_atomic.h": 3.199585607041472,
         "ubsan_interface.h": 0.9580203621075565
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 54.362364328704906
 }

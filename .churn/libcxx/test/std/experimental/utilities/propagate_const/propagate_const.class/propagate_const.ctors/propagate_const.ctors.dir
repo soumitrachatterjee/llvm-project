@@ -15,5 +15,6 @@
         "element_type.non-explicit.ctor.pass.cpp": 11.342032152690749,
         "move_ctor.pass.cpp": 9.26507078197995
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 23.80101741352351
 }

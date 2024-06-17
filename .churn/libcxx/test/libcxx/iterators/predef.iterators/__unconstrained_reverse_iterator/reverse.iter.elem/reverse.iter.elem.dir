@@ -9,5 +9,6 @@
         "bracket.pass.cpp": 0.0,
         "dereference.pass.cpp": 50.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 50.0
 }

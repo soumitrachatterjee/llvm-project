@@ -65,5 +65,6 @@
         "stepvector.ll": 0.6047781383120646,
         "vector-cost-without-v.ll": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 11.61135265969708
 }

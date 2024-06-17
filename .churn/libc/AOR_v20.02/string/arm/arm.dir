@@ -14,5 +14,6 @@
         "strcpy.c": 50.0,
         "strlen-armv6t2.S": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 50.35359883085157
 }

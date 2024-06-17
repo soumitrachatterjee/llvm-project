@@ -9,5 +9,6 @@
         "set_difference.pass.cpp": 45.449249968649006,
         "set_difference_comp.pass.cpp": 45.449249968649006
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 19.468046536811382
 }

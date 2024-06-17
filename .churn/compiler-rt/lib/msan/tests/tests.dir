@@ -11,5 +11,6 @@
         "msan_test_config.h": 2.333494429856592,
         "msan_test_main.cpp": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 31.7300236863025
 }

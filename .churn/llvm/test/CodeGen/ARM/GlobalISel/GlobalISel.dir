@@ -68,5 +68,6 @@
         "thumb-select-select.mir": 0.7608855507092714,
         "thumb-select-shifts.mir": 0.5689469835160619
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 1.5286438843449799
 }

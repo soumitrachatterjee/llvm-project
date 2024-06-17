@@ -24,5 +24,6 @@
         "wsregex_token_iterator.pass.cpp": 6.447337036461163,
         "wssub_match.pass.cpp": 6.447337036461163
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 2.149159981386934
 }

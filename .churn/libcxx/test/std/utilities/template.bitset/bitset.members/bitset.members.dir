@@ -36,5 +36,6 @@
         "to_ullong.pass.cpp": 3.983623204463199,
         "to_ulong.pass.cpp": 4.804464667312381
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 35.01124070515647
 }

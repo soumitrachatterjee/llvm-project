@@ -12,5 +12,6 @@
         "map-storage-class.mlir": 9.267205626392903,
         "memref-to-spirv.mlir": 45.9546396884848
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 2.627228392599392
 }

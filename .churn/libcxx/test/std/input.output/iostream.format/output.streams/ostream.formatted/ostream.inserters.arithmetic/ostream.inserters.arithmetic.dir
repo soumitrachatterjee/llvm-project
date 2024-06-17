@@ -22,5 +22,6 @@
         "unsigned_long_long.pass.cpp": 6.3150223904983065,
         "unsigned_short.pass.cpp": 5.884792060998354
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 51.912244880025916
 }

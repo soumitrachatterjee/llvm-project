@@ -8,5 +8,6 @@
         "contiguous_iterator.compile.pass.cpp": 60.20141249315577,
         "random_access_iterator.compile.pass.cpp": 39.79858750684422
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 13.694585059855
 }

@@ -23,5 +23,6 @@
         "span.verify.cpp": 0.0,
         "stdarray.pass.cpp": 6.388174788572998
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 38.73909992464127
 }

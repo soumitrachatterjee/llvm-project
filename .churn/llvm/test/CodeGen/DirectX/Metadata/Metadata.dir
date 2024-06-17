@@ -14,5 +14,6 @@
         "shaderModel-ps.ll": 14.285714285714285,
         "shaderModel-vs.ll": 14.285714285714285
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 3.982802741527284
 }

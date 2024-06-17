@@ -10,5 +10,6 @@
         "uninitialized_value_construct.pass.cpp": 29.578593283274014,
         "uninitialized_value_construct_n.pass.cpp": 31.94414274932366
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 8.290988844419406
 }

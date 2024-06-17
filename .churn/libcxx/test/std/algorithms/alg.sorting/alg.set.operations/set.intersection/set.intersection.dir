@@ -9,5 +9,6 @@
         "set_intersection.pass.cpp": 45.60029432360511,
         "set_intersection_comp.pass.cpp": 45.60029432360511
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 17.67772639883906
 }

@@ -10,5 +10,6 @@
         "memref.mlir": 0.0,
         "wmma-ops-to-nvvm.mlir": 16.822990233631277
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 5.693275101855796
 }

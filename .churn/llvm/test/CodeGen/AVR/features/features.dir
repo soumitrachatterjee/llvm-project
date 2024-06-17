@@ -9,5 +9,6 @@
         "avr25.ll": 23.848556159089956,
         "xmega_io.ll": 23.848556159089956
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 1.5502942247512022
 }

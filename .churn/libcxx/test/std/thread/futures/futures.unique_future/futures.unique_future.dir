@@ -17,5 +17,6 @@
         "wait_for.pass.cpp": 19.659124847112647,
         "wait_until.pass.cpp": 16.735294411214426
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 18.164348733206527
 }

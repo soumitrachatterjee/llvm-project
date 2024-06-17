@@ -10,5 +10,6 @@
         "printf_float_conv_fuzz.cpp": 26.5016255224423,
         "printf_parser_fuzz.cpp": 28.36118163407808
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 21.14997319385421
 }

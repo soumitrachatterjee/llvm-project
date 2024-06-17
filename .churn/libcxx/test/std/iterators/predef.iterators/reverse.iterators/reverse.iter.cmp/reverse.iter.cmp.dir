@@ -14,5 +14,6 @@
         "sfinae.compile.pass.cpp": 39.336888482668655,
         "three-way.pass.cpp": 60.66311151733132
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 18.53134472042319
 }

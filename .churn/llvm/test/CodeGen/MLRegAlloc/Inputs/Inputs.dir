@@ -11,5 +11,6 @@
         "reference-prio-log-noml.txt": 41.351593996938284,
         "two-large-fcts.ll": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 32.39269284156116
 }

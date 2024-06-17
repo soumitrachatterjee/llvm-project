@@ -77,5 +77,6 @@
         "stdc_trailing_zeros_ull_test.cpp": 0.0,
         "stdc_trailing_zeros_us_test.cpp": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.9472358067541289
 }

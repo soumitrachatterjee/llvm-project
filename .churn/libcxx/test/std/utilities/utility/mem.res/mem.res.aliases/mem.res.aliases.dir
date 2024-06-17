@@ -24,5 +24,6 @@
         "header_vector_synop.pass.cpp": 5.51074468307698,
         "header_vector_synop2.pass.cpp": 5.51074468307698
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 9.62163841823218
 }

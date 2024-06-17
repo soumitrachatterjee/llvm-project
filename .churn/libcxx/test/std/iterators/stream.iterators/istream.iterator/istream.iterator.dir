@@ -11,5 +11,6 @@
     "subdirscores": {
         "istream.iterator.cons": 39.72084050333173,
         "istream.iterator.ops": 14.53071487501354
-    }
+    },
+    "score.percentage": 27.290730779385246
 }

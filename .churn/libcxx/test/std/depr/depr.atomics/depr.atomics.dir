@@ -7,5 +7,6 @@
     "filescores": {},
     "subdirscores": {
         "depr.atomics.nonmembers": 100.0
-    }
+    },
+    "score.percentage": 0.9886410733270996
 }

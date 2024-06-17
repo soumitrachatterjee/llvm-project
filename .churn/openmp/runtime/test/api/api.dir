@@ -33,5 +33,6 @@
         "omp_realloc_null_ptr.c": 0.0,
         "omp_realloc_size_0.c": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 6.593670360680563
 }

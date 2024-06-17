@@ -10,5 +10,6 @@
     "subdirscores": {
         "IR": 26.390633583791118,
         "Transforms": 71.71288483389876
-    }
+    },
+    "score.percentage": 10.696924096931184
 }

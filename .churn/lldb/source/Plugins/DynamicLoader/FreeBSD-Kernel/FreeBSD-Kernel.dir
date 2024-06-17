@@ -9,5 +9,6 @@
         "DynamicLoaderFreeBSDKernel.cpp": 100.0,
         "DynamicLoaderFreeBSDKernel.h": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.4071254929912927
 }

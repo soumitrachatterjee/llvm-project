@@ -12,5 +12,6 @@
         "SemaLookupTest.cpp": 0.0,
         "SemaNoloadLookupTest.cpp": 4.1345106559120115
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 1.135003980308248
 }

@@ -45,5 +45,6 @@
         "terminator.mlir": 1.9403980907974165,
         "undef.mlir": 2.1655988190291082
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 7.849494694555843
 }

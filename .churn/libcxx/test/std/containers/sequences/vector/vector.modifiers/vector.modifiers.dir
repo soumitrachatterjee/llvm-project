@@ -33,5 +33,6 @@
         "push_back_rvalue.pass.cpp": 5.9630777034805185,
         "resize_not_move_insertable.verify.cpp": 1.0283783625352185
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 22.337807092678688
 }

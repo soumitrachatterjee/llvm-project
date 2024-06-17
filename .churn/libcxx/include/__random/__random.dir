@@ -43,5 +43,6 @@
         "uniform_real_distribution.h": 3.318309456614525,
         "weibull_distribution.h": 2.538473273639951
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.3467526367003316
 }

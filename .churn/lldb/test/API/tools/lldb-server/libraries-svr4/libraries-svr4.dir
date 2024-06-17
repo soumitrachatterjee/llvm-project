@@ -11,5 +11,6 @@
         "svr4lib_b_quote.cpp": 15.043080052827024,
         "TestGdbRemoteLibrariesSvr4Support.py": 54.87075984151893
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 2.2544806618389464
 }

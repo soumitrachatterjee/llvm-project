@@ -10,5 +10,6 @@
     },
     "subdirscores": {
         "math": 50.0
-    }
+    },
+    "score.percentage": 100.0
 }

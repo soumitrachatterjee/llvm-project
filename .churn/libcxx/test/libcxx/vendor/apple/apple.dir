@@ -8,5 +8,6 @@
         "availability-with-pedantic-errors.compile.pass.cpp": 0.0,
         "system-install-properties.sh.cpp": 100.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 54.76643155382727
 }

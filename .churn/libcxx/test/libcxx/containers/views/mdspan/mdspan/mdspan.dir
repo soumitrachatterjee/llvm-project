@@ -9,5 +9,6 @@
         "assert.index_operator.pass.cpp": 21.4164883547698,
         "assert.size.pass.cpp": 41.07896242880448
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 18.184082098477433
 }

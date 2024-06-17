@@ -16,5 +16,6 @@
         "TosaOptionalDecompositions.cpp": 5.131087736498849,
         "TosaValidation.cpp": 11.954598529633236
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 30.875864463344328
 }

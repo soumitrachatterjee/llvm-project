@@ -8,5 +8,6 @@
         "sarif-diagnostics-taint-test.c.sarif": 34.76428867516042,
         "sarif-multi-diagnostic-test.c.sarif": 65.23571132483958
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 47.23317107862907
 }

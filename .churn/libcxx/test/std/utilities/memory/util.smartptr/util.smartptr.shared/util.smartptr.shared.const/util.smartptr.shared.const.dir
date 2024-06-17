@@ -28,5 +28,6 @@
         "unique_ptr.pass.cpp": 10.047420746604805,
         "weak_ptr.pass.cpp": 4.15973348266113
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 27.41426956581713
 }

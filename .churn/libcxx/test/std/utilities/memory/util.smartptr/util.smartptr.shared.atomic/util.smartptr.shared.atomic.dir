@@ -17,5 +17,6 @@
         "atomic_store.pass.cpp": 8.411480963057377,
         "atomic_store_explicit.pass.cpp": 10.08687301189029
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 4.4574397095539355
 }

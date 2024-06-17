@@ -7,5 +7,6 @@
     "filescores": {},
     "subdirscores": {
         "aarch64-adrp-add": 100.0
-    }
+    },
+    "score.percentage": 0.212297746175721
 }

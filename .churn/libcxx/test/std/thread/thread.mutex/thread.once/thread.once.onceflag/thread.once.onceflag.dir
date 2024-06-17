@@ -9,5 +9,6 @@
         "copy.compile.fail.cpp": 24.25138334671199,
         "default.pass.cpp": 51.49723330657601
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 40.72733371086481
 }

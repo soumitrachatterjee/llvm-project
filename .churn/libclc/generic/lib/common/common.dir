@@ -13,5 +13,6 @@
         "smoothstep.cl": 25.0,
         "step.cl": 25.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 1.3574970243744056
 }

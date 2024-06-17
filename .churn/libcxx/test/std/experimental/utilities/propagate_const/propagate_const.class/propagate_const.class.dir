@@ -12,5 +12,6 @@
         "propagate_const.ctors": 23.80101741352351,
         "propagate_const.non-const_observers": 19.04985717106541,
         "propagate_const.observers": 19.04985717106541
-    }
+    },
+    "score.percentage": 62.97624056615532
 }

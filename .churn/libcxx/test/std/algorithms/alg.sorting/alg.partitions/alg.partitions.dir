@@ -8,5 +8,6 @@
         "pstl.is_partitioned.pass.cpp": 0.0,
         "ranges.is_partitioned.pass.cpp": 100.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 1.5438679711422088
 }

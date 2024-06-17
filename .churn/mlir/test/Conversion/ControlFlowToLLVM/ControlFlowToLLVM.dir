@@ -8,5 +8,6 @@
         "assert.mlir": 100.0,
         "invalid.mlir": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.6059738602956314
 }

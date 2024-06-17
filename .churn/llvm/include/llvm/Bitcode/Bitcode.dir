@@ -13,5 +13,6 @@
         "BitcodeWriterPass.h": 2.9295031767747006,
         "LLVMBitCodes.h": 78.30956967141435
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.9017849195372092
 }

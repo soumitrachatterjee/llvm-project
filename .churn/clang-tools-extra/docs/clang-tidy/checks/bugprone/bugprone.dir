@@ -87,5 +87,6 @@
         "use-after-move.rst": 2.917633879146743,
         "virtual-near-miss.rst": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 9.881813276470142
 }

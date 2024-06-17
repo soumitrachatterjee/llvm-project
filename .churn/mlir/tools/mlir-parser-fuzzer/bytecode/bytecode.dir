@@ -9,5 +9,6 @@
         "DummyParserFuzzer.cpp": 0.0,
         "mlir-bytecode-parser-fuzzer.cpp": 100.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 27.710385515128564
 }

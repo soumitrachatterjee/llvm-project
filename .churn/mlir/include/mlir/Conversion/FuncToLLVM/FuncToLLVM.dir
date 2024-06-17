@@ -8,5 +8,6 @@
         "ConvertFuncToLLVM.h": 42.90100014111389,
         "ConvertFuncToLLVMPass.h": 57.09899985888611
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 1.3811636045224083
 }

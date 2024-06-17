@@ -70,5 +70,6 @@
         "VectorToLLVM": 8.441274733500293,
         "VectorToSCF": 3.991503379940152,
         "VectorToSPIRV": 2.990739506662617
-    }
+    },
+    "score.percentage": 11.665967941481673
 }

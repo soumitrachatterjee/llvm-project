@@ -23,5 +23,6 @@
         "SimplifyAffineStructures.cpp": 7.070999929708659,
         "SuperVectorize.cpp": 15.052124661556773
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 28.8670889370305
 }

@@ -13,5 +13,6 @@
         "member_function_volatile.pass.cpp": 17.104176784771333,
         "robust_against_adl.pass.cpp": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 4.127887988678023
 }

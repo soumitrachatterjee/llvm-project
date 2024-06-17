@@ -9,5 +9,6 @@
         "linux-x86_64.syms": 29.86609098557557,
         "linux-x86_64.yaml": 40.27380126878036
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 10.143448603635779
 }

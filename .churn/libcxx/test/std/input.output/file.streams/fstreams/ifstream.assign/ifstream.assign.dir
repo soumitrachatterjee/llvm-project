@@ -11,5 +11,6 @@
         "test.dat": 0.0,
         "test2.dat": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 4.041625040305304
 }

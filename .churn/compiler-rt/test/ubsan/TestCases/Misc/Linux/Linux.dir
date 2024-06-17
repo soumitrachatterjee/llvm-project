@@ -12,5 +12,6 @@
         "static-link.cpp": 31.19438714755665,
         "ubsan_options.cpp": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 33.43189553202295
 }

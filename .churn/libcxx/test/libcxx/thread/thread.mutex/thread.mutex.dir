@@ -13,5 +13,6 @@
     },
     "subdirscores": {
         "thread.mutex.requirements": 12.9003913635198
-    }
+    },
+    "score.percentage": 9.753857450202947
 }

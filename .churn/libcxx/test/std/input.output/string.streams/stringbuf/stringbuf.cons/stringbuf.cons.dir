@@ -19,5 +19,6 @@
         "string_view.mode.alloc.pass.cpp": 0.0,
         "string_view.mode.pass.cpp": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 28.584870448993698
 }

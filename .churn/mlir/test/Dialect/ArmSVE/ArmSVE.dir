@@ -10,5 +10,6 @@
         "legalize-vector-storage.mlir": 0.0,
         "roundtrip.mlir": 50.49855071990107
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.20131290482288552
 }

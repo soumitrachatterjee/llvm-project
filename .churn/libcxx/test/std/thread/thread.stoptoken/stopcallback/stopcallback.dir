@@ -12,5 +12,6 @@
         "dtor.pass.cpp": 21.79667303698687,
         "typedef.compile.pass.cpp": 15.640665392602626
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 31.71870655535653
 }

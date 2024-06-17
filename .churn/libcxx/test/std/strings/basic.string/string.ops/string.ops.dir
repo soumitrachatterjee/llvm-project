@@ -15,5 +15,6 @@
         "string_find.last.of": 10.30706238098075,
         "string_rfind": 10.30706238098075,
         "string_substr": 14.514476138000484
-    }
+    },
+    "score.percentage": 8.57301243703927
 }

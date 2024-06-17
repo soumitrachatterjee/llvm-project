@@ -9,5 +9,6 @@
         "Canonicalizer.cpp": 34.14310761312016,
         "DialectConversion.cpp": 48.94280947765614
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 1.445996276774368
 }

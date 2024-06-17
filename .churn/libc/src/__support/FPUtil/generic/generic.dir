@@ -12,5 +12,6 @@
         "sqrt.h": 24.95083143610908,
         "sqrt_80_bit_long_double.h": 26.133921345801962
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 12.257346500194313
 }

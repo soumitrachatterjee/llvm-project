@@ -12,5 +12,6 @@
         "rpc_stream_test.cpp": 15.797563654624597,
         "rpc_test.cpp": 15.193194892852125
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 62.50869025805621
 }

@@ -13,5 +13,6 @@
         "thread.lock.shared.locking": 28.6489747308721,
         "thread.lock.shared.mod": 6.202863962253153,
         "thread.lock.shared.obs": 15.707999785073392
-    }
+    },
+    "score.percentage": 40.1381071852389
 }

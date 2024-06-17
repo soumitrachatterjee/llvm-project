@@ -9,5 +9,6 @@
         "is_permutation_pred.pass.cpp": 56.31895572255714,
         "ranges.is_permutation.pass.cpp": 8.88785054408427
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 3.95544303024044
 }

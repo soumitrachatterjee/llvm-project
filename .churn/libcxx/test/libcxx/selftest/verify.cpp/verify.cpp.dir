@@ -11,5 +11,6 @@
         "right-diagnostic.verify.cpp": 0.0,
         "wrong-diagnostic.verify.cpp": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 3.1376827122706197
 }

@@ -11,5 +11,6 @@
     "subdirscores": {
         "deduplication": 0.0,
         "multidirectory_project": 50.0
-    }
+    },
+    "score.percentage": 6.154580211964779
 }

@@ -9,5 +9,6 @@
         "doubles.ll": 50.0,
         "no_flags.ll": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 4.287026573841552
 }

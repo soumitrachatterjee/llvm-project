@@ -8,5 +8,6 @@
         "get_terminate.pass.cpp": 50.0,
         "set_terminate.pass.cpp": 50.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 32.3285057256658
 }

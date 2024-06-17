@@ -9,5 +9,6 @@
         "overaligned.pass.cpp": 61.30569333458331,
         "temporary_buffer.pass.cpp": 38.69430666541669
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 4.601588809660305
 }

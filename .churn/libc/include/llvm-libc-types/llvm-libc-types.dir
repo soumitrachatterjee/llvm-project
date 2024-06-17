@@ -103,5 +103,6 @@
         "wchar_t.h": 0.7462524966112571,
         "wint_t.h": 0.7462524966112571
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 18.674645316485204
 }

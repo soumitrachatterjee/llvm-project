@@ -11,5 +11,6 @@
         "istream.assign": 31.807390293651768,
         "istream.cons": 31.593515119453887,
         "istream_sentry": 18.333836955680557
-    }
+    },
+    "score.percentage": 11.227309197059164
 }

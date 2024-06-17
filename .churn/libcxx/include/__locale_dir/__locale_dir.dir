@@ -9,5 +9,6 @@
     },
     "subdirscores": {
         "locale_base_api": 100.0
-    }
+    },
+    "score.percentage": 0.06268151904907804
 }

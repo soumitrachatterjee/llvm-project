@@ -14,5 +14,6 @@
         "MLIRConfigVersion.cmake.in": 2.775196499975403,
         "MLIRDetectPythonEnv.cmake": 7.166342060574257
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 100.0
 }

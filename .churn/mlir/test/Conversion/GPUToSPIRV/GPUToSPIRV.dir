@@ -15,5 +15,6 @@
         "shuffle.mlir": 7.923803320907341,
         "wmma-ops-to-spirv-khr-coop-matrix.mlir": 3.667089425012364
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 5.351138804774734
 }

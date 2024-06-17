@@ -9,5 +9,6 @@
         "libc_errno.cpp": 31.16976853352311,
         "libc_errno.h": 32.98283732438794
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.9203635341906408
 }

@@ -17,5 +17,6 @@
         "ThreadFreeBSDKernel.cpp": 7.577642710892686,
         "ThreadFreeBSDKernel.h": 7.577642710892686
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.13111055598163643
 }

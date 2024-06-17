@@ -9,5 +9,6 @@
         "lexicographical_compare_three_way_comp.pass.cpp": 60.46264526009677,
         "lexicographical_compare_three_way_comp.verify.cpp": 16.412682945078082
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 2.3923700000954167
 }

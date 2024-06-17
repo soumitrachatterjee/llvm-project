@@ -29,5 +29,6 @@
         "pipeline-stats.mlir": 7.134901470797073,
         "run-reproducer.mlir": 10.83990687789282
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.5958668297060152
 }

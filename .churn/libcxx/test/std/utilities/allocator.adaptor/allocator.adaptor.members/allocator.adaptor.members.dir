@@ -23,5 +23,6 @@
         "outer_allocator.pass.cpp": 4.735568297414194,
         "select_on_container_copy_construction.pass.cpp": 4.735568297414194
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 47.83705642167572
 }

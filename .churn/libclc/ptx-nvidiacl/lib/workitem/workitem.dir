@@ -11,5 +11,6 @@
         "get_local_size.cl": 21.414410211235214,
         "get_num_groups.cl": 21.414410211235214
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 27.86888193724213
 }

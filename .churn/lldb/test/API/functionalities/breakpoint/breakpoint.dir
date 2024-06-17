@@ -43,5 +43,6 @@
         "step_over_breakpoint": 4.484129565760463,
         "thread_plan_user_breakpoint": 1.8014937783489688,
         "two_hits_one_actual": 0.8857037568974735
-    }
+    },
+    "score.percentage": 5.949436466410687
 }

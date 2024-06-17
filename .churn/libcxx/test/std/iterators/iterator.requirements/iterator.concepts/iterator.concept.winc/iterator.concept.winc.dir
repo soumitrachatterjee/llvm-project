@@ -7,5 +7,6 @@
     "filescores": {
         "weakly_incrementable.compile.pass.cpp": 100.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 8.704520309090915
 }

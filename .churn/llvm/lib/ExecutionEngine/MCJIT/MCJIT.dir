@@ -9,5 +9,6 @@
         "MCJIT.cpp": 61.69615816102599,
         "MCJIT.h": 32.44788543673653
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 4.776824852886764
 }

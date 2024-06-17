@@ -8,5 +8,6 @@
         "omp_threadprivate.c": 45.05431143539377,
         "omp_threadprivate_for.c": 54.94568856460624
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.4715409161634637
 }

@@ -9,5 +9,6 @@
         "Makefile": 0.0,
         "TestAArch64LinuxNonAddressBitCodeBreak.py": 100.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 3.9490592989027546
 }

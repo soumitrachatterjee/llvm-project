@@ -9,5 +9,6 @@
         "add_rvalue_ref.pass.cpp": 33.22951270199644,
         "remove_ref.pass.cpp": 33.22951270199644
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 8.291635027661028
 }

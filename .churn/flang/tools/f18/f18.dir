@@ -9,5 +9,6 @@
         "dump.cpp": 4.92593686600342,
         "flang-to-external-fc.in": 2.678712669700415
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 43.58559689089348
 }

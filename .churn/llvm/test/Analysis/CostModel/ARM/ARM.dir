@@ -51,5 +51,6 @@
         "sub-cast-vect.ll": 1.274783752791021,
         "target-intrinsics.ll": 1.8289767422757504
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 9.003178576436948
 }

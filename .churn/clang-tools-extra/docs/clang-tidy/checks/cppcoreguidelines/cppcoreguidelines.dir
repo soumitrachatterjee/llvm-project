@@ -46,5 +46,6 @@
         "use-default-member-init.rst": 3.682149554365154,
         "virtual-class-destructor.rst": 2.0879437250740276
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 4.076884311857358
 }

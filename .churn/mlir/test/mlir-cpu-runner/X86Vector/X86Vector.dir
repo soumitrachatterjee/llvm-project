@@ -8,5 +8,6 @@
         "lit.local.cfg": 0.0,
         "math-polynomial-approx-avx2.mlir": 100.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 3.5808190048686477
 }

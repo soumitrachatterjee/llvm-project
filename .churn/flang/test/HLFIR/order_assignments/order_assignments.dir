@@ -21,5 +21,6 @@
         "where-fusing-scheduling.f90": 0.0,
         "where-scheduling.f90": 28.709734334912522
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 5.1929223142202
 }

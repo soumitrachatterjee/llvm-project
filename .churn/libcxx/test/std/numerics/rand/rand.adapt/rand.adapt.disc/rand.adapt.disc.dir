@@ -20,5 +20,6 @@
         "seed_sseq.pass.cpp": 6.419621433055937,
         "values.pass.cpp": 8.248464401642435
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 33.08403503594234
 }

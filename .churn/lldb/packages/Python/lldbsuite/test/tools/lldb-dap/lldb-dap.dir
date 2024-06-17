@@ -8,5 +8,6 @@
         "dap_server.py": 46.36023603998382,
         "lldbdap_testcase.py": 53.639763960016175
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 8.290501364774668
 }

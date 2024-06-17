@@ -41,5 +41,6 @@
         "shifts.ll": 4.51460516895363,
         "shufflevector.ll": 4.2172102881113185
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 2.989318448796372
 }

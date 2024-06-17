@@ -16,5 +16,6 @@
         "operator[].pass.cpp": 0.0,
         "plus_minus_equal.pass.cpp": 14.285714285714285
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 20.16896689372568
 }

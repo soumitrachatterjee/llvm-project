@@ -12,5 +12,6 @@
         "ranges.is_sorted.pass.cpp": 5.9855575077085055,
         "ranges.is_sorted_until.pass.cpp": 5.9855575077085055
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 9.103705145299601
 }

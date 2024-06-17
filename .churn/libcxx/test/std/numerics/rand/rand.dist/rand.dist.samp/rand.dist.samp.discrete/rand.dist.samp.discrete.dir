@@ -30,5 +30,6 @@
         "set_param.pass.cpp": 0.0,
         "types.pass.cpp": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 59.16871843200128
 }

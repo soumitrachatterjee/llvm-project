@@ -10,5 +10,6 @@
         "indirectly_copyable_storable.compile.pass.cpp": 25.0,
         "indirectly_copyable_storable.subsumption.compile.pass.cpp": 25.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 2.61638177895397
 }

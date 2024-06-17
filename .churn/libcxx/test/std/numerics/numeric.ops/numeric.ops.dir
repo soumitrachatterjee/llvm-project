@@ -21,5 +21,6 @@
         "transform.exclusive.scan": 7.3609900634065,
         "transform.inclusive.scan": 7.322310905856659,
         "transform.reduce": 7.593582953345641
-    }
+    },
+    "score.percentage": 31.495910779186186
 }

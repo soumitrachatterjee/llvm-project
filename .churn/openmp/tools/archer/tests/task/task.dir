@@ -17,5 +17,6 @@
         "task_early_fulfill.c": 11.07250628977461,
         "task_late_fulfill.c": 11.419949681803129
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 12.555373914688836
 }

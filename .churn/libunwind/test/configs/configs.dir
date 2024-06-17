@@ -14,5 +14,6 @@
         "llvm-libunwind-shared.cfg.in": 22.57520494159998,
         "llvm-libunwind-static.cfg.in": 22.57520494159998
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 14.787271016910678
 }

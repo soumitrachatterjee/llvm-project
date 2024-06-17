@@ -8,5 +8,6 @@
         "container.compile.fail.cpp": 21.318762025806244,
         "container.pass.cpp": 78.68123797419375
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 32.808763013204114
 }

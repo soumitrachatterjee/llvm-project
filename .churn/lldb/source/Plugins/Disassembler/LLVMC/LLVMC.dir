@@ -9,5 +9,6 @@
         "DisassemblerLLVMC.cpp": 77.35256037949509,
         "DisassemblerLLVMC.h": 18.923051954257264
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 95.85787870787549
 }

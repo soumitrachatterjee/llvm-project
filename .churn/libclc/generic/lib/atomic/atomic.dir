@@ -17,5 +17,6 @@
         "atomic_xchg.cl": 100.0,
         "atomic_xor.cl": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 1.648691245968565
 }

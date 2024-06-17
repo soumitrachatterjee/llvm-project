@@ -12,5 +12,6 @@
         "ranges_destroy_at.pass.cpp": 4.971426194868324,
         "ranges_destroy_n.pass.cpp": 4.971426194868324
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 14.116012754010807
 }

@@ -48,5 +48,6 @@
         "unreachable_sentinel.h": 1.0646808801538525,
         "wrap_iter.h": 3.787731451714296
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.956734095870104
 }

@@ -12,5 +12,6 @@
         "requirements.txt": 8.500413267335492,
         "yaml_summarizer.py": 13.769823248337138
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 33.76039404029359
 }

@@ -67,5 +67,6 @@
         "vsplat-v8i8.ll": 0.0,
         "zext-v4i1.ll": 3.9916122460687196
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 1.3626790250290037
 }

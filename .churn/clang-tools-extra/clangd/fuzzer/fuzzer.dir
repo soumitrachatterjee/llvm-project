@@ -9,5 +9,6 @@
         "CMakeLists.txt": 68.83273354579326,
         "FuzzerClangdMain.cpp": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.3834400545505978
 }

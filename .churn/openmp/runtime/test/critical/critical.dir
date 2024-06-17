@@ -8,5 +8,6 @@
         "omp_critical.c": 0.0,
         "omp_critical_with_hint.c": 100.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.7498978862108663
 }

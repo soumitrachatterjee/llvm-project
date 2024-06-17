@@ -11,5 +11,6 @@
         "setRegClassOrRegBank.ll": 17.614293049746802,
         "setRegClassOrRegBank.mir": 15.996277299865074
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 1.9805973068991634
 }

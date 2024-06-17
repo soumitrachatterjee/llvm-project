@@ -12,5 +12,6 @@
         "TensorTilingInterfaceImpl.cpp": 14.514484527336819,
         "ValueBoundsOpInterfaceImpl.cpp": 0.8110893521955758
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 51.396492881798096
 }

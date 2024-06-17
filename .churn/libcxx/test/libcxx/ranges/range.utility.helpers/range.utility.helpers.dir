@@ -9,5 +9,6 @@
         "has_arrow.compile.pass.cpp": 28.643403616428532,
         "simple_view.compile.pass.cpp": 39.81981021046817
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 13.669510905296942
 }

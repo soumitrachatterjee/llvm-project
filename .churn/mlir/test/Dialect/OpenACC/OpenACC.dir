@@ -10,5 +10,6 @@
         "legalize-data.mlir": 1.7192428882335982,
         "ops.mlir": 59.70537444318842
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 2.4760728219569246
 }

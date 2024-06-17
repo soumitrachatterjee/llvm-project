@@ -8,5 +8,6 @@
         "lit.local.cfg": 42.825198738740504,
         "smoketest.py": 57.1748012612595
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 3.9056207545680057
 }

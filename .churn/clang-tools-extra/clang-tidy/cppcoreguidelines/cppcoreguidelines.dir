@@ -68,5 +68,6 @@
         "VirtualClassDestructorCheck.cpp": 2.0689928256176606,
         "VirtualClassDestructorCheck.h": 0.5270852690645503
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 5.9857503984496585
 }

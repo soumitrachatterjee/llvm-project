@@ -9,5 +9,6 @@
         "sync_with_default_resource.pass.cpp": 33.333333333333336,
         "unsync_with_default_resource.pass.cpp": 33.333333333333336
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 41.939201579069824
 }

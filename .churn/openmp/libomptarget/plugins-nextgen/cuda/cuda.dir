@@ -10,5 +10,6 @@
     "subdirscores": {
         "dynamic_cuda": 8.133248367503056,
         "src": 73.22217856391417
-    }
+    },
+    "score.percentage": 18.34885862202685
 }

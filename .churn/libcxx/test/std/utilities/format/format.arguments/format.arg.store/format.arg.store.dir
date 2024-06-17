@@ -9,5 +9,6 @@
         "make_format_args.sh.cpp": 35.27125299543032,
         "make_wformat_args.pass.cpp": 33.87054140928957
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 25.792392806085
 }

@@ -11,5 +11,6 @@
         "use-indices.mlir": 5.813558406783202,
         "while.mlir": 16.00717826708914
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 1.3424438323831367
 }

@@ -21,5 +21,6 @@
         "tls-trad.yaml": 0.0,
         "unmarked-data.yaml": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 16.009390260383476
 }

@@ -12,5 +12,6 @@
         "find-module.dmp.yaml": 57.42031151853967,
         "find-module.exe.yaml": 42.57968848146033
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 16.969634688641797
 }

@@ -8,5 +8,6 @@
         "__init__.py": 0.0,
         "np_to_memref.py": 100.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 2.3600066390515755
 }

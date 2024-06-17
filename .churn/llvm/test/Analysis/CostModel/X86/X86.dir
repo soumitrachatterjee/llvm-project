@@ -379,5 +379,6 @@
         "vshift-shl-latency.ll": 0.0803084606533191,
         "vshift-shl-sizelatency.ll": 0.11789734251203413
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 51.897168572594474
 }

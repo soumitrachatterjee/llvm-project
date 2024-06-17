@@ -23,5 +23,6 @@
         "NativeThreadFreeBSD.cpp": 9.28250131914993,
         "NativeThreadFreeBSD.h": 2.42168317299729
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 4.756510398176469
 }

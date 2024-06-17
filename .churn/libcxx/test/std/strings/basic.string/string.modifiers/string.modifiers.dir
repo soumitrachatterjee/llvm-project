@@ -16,5 +16,6 @@
         "string_op_plus_equal": 7.8966991026713895,
         "string_replace": 15.432895178436848,
         "string_swap": 5.101467592589689
-    }
+    },
+    "score.percentage": 14.592789602268914
 }

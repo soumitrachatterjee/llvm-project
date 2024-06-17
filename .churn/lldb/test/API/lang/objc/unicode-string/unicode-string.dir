@@ -8,5 +8,6 @@
         "main.m": 0.0,
         "TestUnicodeString.py": 100.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.6234003427724033
 }

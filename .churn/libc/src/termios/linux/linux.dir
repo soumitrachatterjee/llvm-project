@@ -19,5 +19,6 @@
         "tcsendbreak.cpp": 9.863261961981491,
         "tcsetattr.cpp": 9.863261961981491
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 12.441367921232919
 }

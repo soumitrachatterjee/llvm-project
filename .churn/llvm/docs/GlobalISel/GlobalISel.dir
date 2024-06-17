@@ -24,5 +24,6 @@
         "testing-pass-level.png": 0.0,
         "testing-unit-level.png": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.7592036136050402
 }

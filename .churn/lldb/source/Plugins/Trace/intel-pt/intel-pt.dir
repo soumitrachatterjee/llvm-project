@@ -35,5 +35,6 @@
         "TraceIntelPTOptions.td": 3.8491992342402885,
         "TraceIntelPTProperties.td": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 91.25538806913168
 }

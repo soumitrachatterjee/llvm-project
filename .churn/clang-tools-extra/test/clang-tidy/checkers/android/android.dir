@@ -22,5 +22,6 @@
         "comparison-in-temp-failure-retry-custom-macro.c": 100.0,
         "comparison-in-temp-failure-retry.c": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.3694481944425917
 }

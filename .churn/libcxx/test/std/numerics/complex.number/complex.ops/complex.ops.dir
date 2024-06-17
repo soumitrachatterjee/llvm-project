@@ -28,5 +28,6 @@
         "unary_minus.pass.cpp": 4.282749163965193,
         "unary_plus.pass.cpp": 4.282749163965193
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 13.969082067813767
 }

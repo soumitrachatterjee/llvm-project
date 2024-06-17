@@ -8,5 +8,6 @@
         "iosfwd.pass.cpp": 69.59899462754136,
         "lit.local.cfg": 30.401005372458652
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 1.9556979382530055
 }

@@ -9,5 +9,6 @@
         "legalize-for-llvm.mlir": 33.33333333333333,
         "roundtrip.mlir": 33.33333333333333
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.05070347051250024
 }

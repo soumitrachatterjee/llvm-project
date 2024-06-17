@@ -19,5 +19,6 @@
     },
     "subdirscores": {
         "range.take.sentinel": 0.0
-    }
+    },
+    "score.percentage": 11.438814310093674
 }

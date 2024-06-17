@@ -10,5 +10,6 @@
         "layout.unary.compile.pass.cpp": 0.0,
         "unary.pass.cpp": 50.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 15.225771360307325
 }

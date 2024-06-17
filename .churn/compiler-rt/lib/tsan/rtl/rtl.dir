@@ -78,5 +78,6 @@
         "tsan_vector_clock.cpp": 0.10994372368069064,
         "tsan_vector_clock.h": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 68.47453879335903
 }

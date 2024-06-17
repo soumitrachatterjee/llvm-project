@@ -10,5 +10,6 @@
         "SPIRVToLLVM.cpp": 43.82521174120263,
         "SPIRVToLLVMPass.cpp": 12.641684334240317
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 3.0034579677681426
 }

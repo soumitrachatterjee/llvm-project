@@ -15,5 +15,6 @@
         "pointer.pass.cpp": 14.232172354048489,
         "volatile_pointer.pass.cpp": 8.55568027855711
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 42.67299299759062
 }

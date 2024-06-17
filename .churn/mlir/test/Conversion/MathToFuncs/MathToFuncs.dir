@@ -9,5 +9,6 @@
         "fpowi.mlir": 33.33333333333333,
         "ipowi.mlir": 33.33333333333333
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.33721808186244384
 }

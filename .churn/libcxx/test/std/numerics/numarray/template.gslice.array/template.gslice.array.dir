@@ -12,5 +12,6 @@
         "gslice.array.assign": null,
         "gslice.array.comp.assign": 33.33333333333333,
         "gslice.array.fill": 33.33333333333333
-    }
+    },
+    "score.percentage": 9.843979221546858
 }

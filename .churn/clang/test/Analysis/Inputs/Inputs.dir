@@ -56,5 +56,6 @@
     "subdirscores": {
         "expected-plists": 16.63194092347786,
         "Models": 0.0
-    }
+    },
+    "score.percentage": 2.7945467022383257
 }

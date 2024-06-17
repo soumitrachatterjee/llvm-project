@@ -8,5 +8,6 @@
         "AMDGPUToROCDL.cpp": 92.26399599176405,
         "CMakeLists.txt": 7.736004008235953
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 1.0478400848227476
 }

@@ -11,5 +11,6 @@
         "IndexOps.cpp": 49.319848200333446,
         "InferIntRangeInterfaceImpls.cpp": 10.559166549644422
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 100.0
 }

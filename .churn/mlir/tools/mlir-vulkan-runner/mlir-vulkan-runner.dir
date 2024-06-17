@@ -11,5 +11,6 @@
         "mlir-vulkan-runner.cpp": 49.789277380533356,
         "vulkan-runtime-wrappers.cpp": 4.547618604753431
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 4.522481976908959
 }

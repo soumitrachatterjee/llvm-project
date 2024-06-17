@@ -17,5 +17,6 @@
         "vce-deduction.mlir": 13.578611957160572,
         "webgpu-prepare.mlir": 1.7310917803721608
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 41.0867512604516
 }

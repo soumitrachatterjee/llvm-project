@@ -9,5 +9,6 @@
         "clang-tidy": 53.60985260675687,
         "include-cleaner": 0.0,
         "unittests": 46.390147393243126
-    }
+    },
+    "score.percentage": 0.2449260351704645
 }

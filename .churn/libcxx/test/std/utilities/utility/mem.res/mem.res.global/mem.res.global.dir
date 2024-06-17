@@ -9,5 +9,6 @@
         "new_delete_resource.pass.cpp": 35.15268809504296,
         "null_memory_resource.pass.cpp": 39.3743470384886
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 14.255135890680837
 }

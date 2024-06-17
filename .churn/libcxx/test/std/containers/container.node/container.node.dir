@@ -8,5 +8,6 @@
         "node_handle.nodiscard.verify.cpp": 31.34166801261364,
         "node_handle.pass.cpp": 68.65833198738636
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.4707656299482232
 }

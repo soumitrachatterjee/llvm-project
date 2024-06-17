@@ -10,5 +10,6 @@
         "uninitialized_construct_using_allocator.pass.cpp": 28.707896114864596,
         "uses_allocator_construction_args.pass.cpp": 19.01521800001723
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 59.33298021543656
 }

@@ -11,5 +11,6 @@
     "subdirscores": {
         "ostream.iterator.cons.des": 28.562671171451775,
         "ostream.iterator.ops": 28.77307471584461
-    }
+    },
+    "score.percentage": 24.191093426837014
 }

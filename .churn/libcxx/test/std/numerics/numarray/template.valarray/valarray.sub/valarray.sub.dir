@@ -14,5 +14,6 @@
         "valarray_bool_const.pass.cpp": 12.500000000000004,
         "valarray_bool_non_const.pass.cpp": 12.500000000000004
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 11.951265553016116
 }

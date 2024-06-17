@@ -25,5 +25,6 @@
         "underlying_type.pass.cpp": 9.540663214590879,
         "underlying_type.verify.cpp": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 66.99009369660303
 }

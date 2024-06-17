@@ -14,5 +14,6 @@
         "dcl.attr.nodiscard": 22.76955968262944,
         "dcl.attr.noreturn": 13.969101542733808,
         "dcl.attr.unused": 12.094692771323855
-    }
+    },
+    "score.percentage": 17.827953222961128
 }

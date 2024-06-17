@@ -8,5 +8,6 @@
         "clang-shlib.cpp": 23.222996408992373,
         "CMakeLists.txt": 76.77700359100763
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.26958063360024614
 }

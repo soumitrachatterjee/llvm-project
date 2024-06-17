@@ -9,5 +9,6 @@
         "relative.split": 0.0,
         "sbaddress.py": 100.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 3.259430399577191
 }

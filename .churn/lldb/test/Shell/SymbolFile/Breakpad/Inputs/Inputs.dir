@@ -24,5 +24,6 @@
         "unwind-via-stack-win.syms": 4.873051495126086,
         "unwind-via-stack-win.yaml": 4.8988798458783345
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 7.456216234730088
 }

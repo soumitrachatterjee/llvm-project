@@ -7,5 +7,6 @@
     "filescores": {
         "tested_elsewhere.pass.cpp": 100.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 1.7948301844159318
 }

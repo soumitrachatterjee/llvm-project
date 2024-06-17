@@ -14,5 +14,6 @@
         "issue-70160.mlir": 0.0,
         "memref-to-llvm.mlir": 44.480174114456055
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 4.677621561746644
 }

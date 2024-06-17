@@ -11,5 +11,6 @@
         "TestWatchpointCommandPython.py": 42.47947850202179,
         "watchpoint_command.py": 23.848603436246357
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 34.0243894995026
 }

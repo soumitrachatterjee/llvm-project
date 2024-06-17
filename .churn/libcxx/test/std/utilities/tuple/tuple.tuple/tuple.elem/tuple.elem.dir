@@ -14,5 +14,6 @@
         "tuple.by.type.pass.cpp": 22.88730121856678,
         "tuple.by.type.verify.cpp": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 6.543466654502543
 }

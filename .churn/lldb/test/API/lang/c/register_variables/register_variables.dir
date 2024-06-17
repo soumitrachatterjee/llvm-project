@@ -9,5 +9,6 @@
         "test.c": 0.0,
         "TestRegisterVariables.py": 100.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 3.129104244464355
 }

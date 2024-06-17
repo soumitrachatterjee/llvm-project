@@ -13,5 +13,6 @@
         "remove-dead-function-spurious-ref-edge.ll": 0.0,
         "replace-libcall.ll": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.4413130161172513
 }

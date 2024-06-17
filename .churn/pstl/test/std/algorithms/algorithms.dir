@@ -10,5 +10,6 @@
         "alg.modifying.operations": 31.02303228583266,
         "alg.nonmodifying": 22.41160367844969,
         "alg.sorting": 28.46816712850443
-    }
+    },
+    "score.percentage": 47.319318041040866
 }

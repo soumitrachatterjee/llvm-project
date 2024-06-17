@@ -9,5 +9,6 @@
         "cmp_error_condition.pass.cpp": 0.0,
         "eq_error_code_error_code.pass.cpp": 100.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 5.90626267796414
 }

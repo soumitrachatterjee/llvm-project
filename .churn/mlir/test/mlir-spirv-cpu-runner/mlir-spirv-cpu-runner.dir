@@ -11,5 +11,6 @@
         "mlir_test_spirv_cpu_runner_c_wrappers.cpp": 14.261382114127482,
         "simple_add.mlir": 36.37745816822967
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.15744373387869884
 }

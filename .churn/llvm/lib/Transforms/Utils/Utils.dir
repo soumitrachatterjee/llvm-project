@@ -93,5 +93,6 @@
         "VNCoercion.cpp": 0.48750435776548073,
         "ValueMapper.cpp": 2.933277145231181
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 18.944922620631125
 }

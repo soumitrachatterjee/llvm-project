@@ -8,5 +8,6 @@
         "generic.c": 100.0,
         "generic.cpp": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 100.0
 }

@@ -10,5 +10,6 @@
         "data.c": 0.0,
         "runtime.c": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.015086916606115339
 }

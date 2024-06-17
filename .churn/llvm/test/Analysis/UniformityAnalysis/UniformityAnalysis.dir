@@ -8,5 +8,6 @@
     "subdirscores": {
         "AMDGPU": 88.64534468986022,
         "NVPTX": 11.354655310139757
-    }
+    },
+    "score.percentage": 0.3801185850539867
 }

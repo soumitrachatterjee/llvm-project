@@ -10,5 +10,6 @@
         "sort_heap.pass.cpp": 24.037357996302404,
         "sort_heap_comp.pass.cpp": 22.187863999148927
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 27.621292576897417
 }

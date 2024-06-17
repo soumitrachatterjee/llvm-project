@@ -7,5 +7,6 @@
     "filescores": {
         "bad_weak_ptr.pass.cpp": 100.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 3.936568205539769
 }

@@ -42,5 +42,6 @@
         "gtest": 0.0,
         "llvm": 0.0,
         "llvm-c": 0.0
-    }
+    },
+    "score.percentage": 100.0
 }

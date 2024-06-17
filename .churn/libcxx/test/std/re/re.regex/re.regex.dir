@@ -15,5 +15,6 @@
         "re.regex.nonmemb": 8.162512608794525,
         "re.regex.operations": 5.78179593724019,
         "re.regex.swap": 6.7333843932320905
-    }
+    },
+    "score.percentage": 11.92737486957776
 }

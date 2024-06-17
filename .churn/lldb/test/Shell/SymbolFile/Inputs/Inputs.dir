@@ -10,5 +10,6 @@
         "symbol-binding.s": 0.0,
         "target-symbols-add-unwind.c": 100.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.8270403387978038
 }

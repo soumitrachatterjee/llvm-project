@@ -14,5 +14,6 @@
         "limit_steps_hit_count.cpp": 12.839398901817583,
         "limit_steps_simple.cpp": 10.124207687276906
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 9.230928815167179
 }

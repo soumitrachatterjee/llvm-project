@@ -30,5 +30,6 @@
         "rfind_pointer_size_size.pass.cpp": 3.9547483962587906,
         "rfind_string_view_size.pass.cpp": 3.9547483962587906
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 3.292829410214495
 }

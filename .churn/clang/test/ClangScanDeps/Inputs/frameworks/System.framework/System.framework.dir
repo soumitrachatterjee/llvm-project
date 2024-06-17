@@ -8,5 +8,6 @@
     "subdirscores": {
         "Headers": 50.0,
         "Modules": 50.0
-    }
+    },
+    "score.percentage": 50.0
 }

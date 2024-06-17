@@ -11,5 +11,6 @@
         "to_chars_result.operator_bool.pass.cpp": 14.750889867440572,
         "to_chars_result.pass.cpp": 22.108914464150452
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 11.904133308565262
 }

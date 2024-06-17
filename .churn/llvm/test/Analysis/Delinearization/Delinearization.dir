@@ -27,5 +27,6 @@
         "type_mismatch.ll": 3.6325215146771748,
         "undef.ll": 3.9739352158471117
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.6342483330748202
 }

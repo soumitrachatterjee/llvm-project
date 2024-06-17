@@ -60,5 +60,6 @@
     "subdirscores": {
         "GreedyFuse": 1.036333938586997,
         "ManualOptimization": 2.52447513299769
-    }
+    },
+    "score.percentage": 13.313094919000578
 }

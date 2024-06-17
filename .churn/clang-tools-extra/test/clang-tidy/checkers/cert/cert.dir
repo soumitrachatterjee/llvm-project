@@ -28,5 +28,6 @@
         "uppercase-literal-suffix-integer.cpp": 28.463145973783483,
         "variadic-function-def.cpp": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 2.041161253375728
 }

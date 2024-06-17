@@ -37,5 +37,6 @@
         "reduction_two_reductions_different_rloops.ll": 3.3992291962041064,
         "sequential_loops.ll": 4.899802993289943
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 2.292685632495026
 }

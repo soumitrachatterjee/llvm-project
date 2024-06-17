@@ -11,5 +11,6 @@
         "mlir-minimal-opt-canonicalize.cpp": 0.0,
         "mlir-minimal-opt.cpp": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 2.240553308415214
 }

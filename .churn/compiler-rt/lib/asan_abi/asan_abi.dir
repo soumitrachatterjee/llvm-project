@@ -11,5 +11,6 @@
         "asan_abi_tbd.txt": 11.143936053334755,
         "CMakeLists.txt": 13.14325573808597
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.047683330911805814
 }

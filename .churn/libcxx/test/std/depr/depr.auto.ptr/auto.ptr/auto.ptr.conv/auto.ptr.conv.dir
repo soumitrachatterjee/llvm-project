@@ -10,5 +10,6 @@
         "convert_to_auto_ptr.pass.cpp": 24.893814593769413,
         "convert_to_auto_ptr_ref.pass.cpp": 25.31855621869175
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 19.219059774849743
 }

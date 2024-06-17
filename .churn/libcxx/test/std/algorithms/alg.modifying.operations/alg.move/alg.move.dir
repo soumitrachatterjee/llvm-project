@@ -15,5 +15,6 @@
         "ranges.move_backward.pass.cpp": 12.168574868411033,
         "ranges.move_backward.segmented.pass.cpp": 3.1281096242374877
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 12.258387972318953
 }

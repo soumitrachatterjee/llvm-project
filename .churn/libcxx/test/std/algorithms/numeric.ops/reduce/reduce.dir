@@ -8,5 +8,6 @@
         "pstl.exception_handling.pass.cpp": 100.0,
         "pstl.reduce.pass.cpp": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 44.84706406018149
 }

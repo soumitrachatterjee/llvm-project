@@ -29,5 +29,6 @@
         "TransUnusedInitDelegate.cpp": 0.9601067268388709,
         "TransZeroOutPropsInDealloc.cpp": 2.299662643780862
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.3575759949081291
 }

@@ -11,5 +11,6 @@
         "iterator_count_sentinel.pass.cpp": 19.847710956010168,
         "iterator_sentinel.pass.cpp": 26.420081506831888
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 29.367668796446672
 }

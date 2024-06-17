@@ -8,5 +8,6 @@
         "convert-shape-constraints.mlir": 32.954695481255186,
         "shape-to-standard.mlir": 67.04530451874481
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 1.5206487787288558
 }

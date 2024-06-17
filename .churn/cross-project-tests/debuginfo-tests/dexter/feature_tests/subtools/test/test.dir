@@ -25,5 +25,6 @@
         "target_run_args.c": 7.091112033256869,
         "target_run_args_with_command.c": 7.091112033256869
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 49.24028037693787
 }

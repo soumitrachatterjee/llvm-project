@@ -217,5 +217,6 @@
         "workshare04.f90": 0.0,
         "workshare05.f90": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 2.8155508368241207
 }

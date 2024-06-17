@@ -12,5 +12,6 @@
         "MemRefOps.td": 63.98447132704608,
         "ValueBoundsOpInterfaceImpl.h": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 61.395705943646604
 }

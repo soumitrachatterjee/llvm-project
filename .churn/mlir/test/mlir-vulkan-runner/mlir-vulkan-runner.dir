@@ -17,5 +17,6 @@
         "time.mlir": 15.957054402330902,
         "umul_extended.mlir": 3.7219141657846446
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.20045080717030492
 }

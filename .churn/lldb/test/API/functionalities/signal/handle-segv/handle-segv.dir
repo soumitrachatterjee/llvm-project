@@ -9,5 +9,6 @@
         "Makefile": 0.0,
         "TestHandleSegv.py": 100.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 18.874138283074952
 }

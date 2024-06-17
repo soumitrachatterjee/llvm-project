@@ -9,5 +9,6 @@
         "equal_range_comp.pass.cpp": 42.66011251046854,
         "ranges_equal_range.pass.cpp": 14.67977497906292
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 23.51348043286744
 }

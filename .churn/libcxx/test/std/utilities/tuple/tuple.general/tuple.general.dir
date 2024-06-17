@@ -8,5 +8,6 @@
         "ignore.pass.cpp": 35.19160153633887,
         "tuple.smartptr.pass.cpp": 64.80839846366113
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 5.473476471672157
 }

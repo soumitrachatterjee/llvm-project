@@ -15,5 +15,6 @@
         "omp_section_lastprivate.c": 10.154656263212265,
         "omp_section_private.c": 10.154656263212265
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 7.754898429434684
 }

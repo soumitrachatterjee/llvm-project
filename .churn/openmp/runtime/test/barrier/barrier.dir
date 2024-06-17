@@ -8,5 +8,6 @@
         "llvm-issue-80664.c": 0.0,
         "omp_barrier.c": 100.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 1.4481181254482771
 }

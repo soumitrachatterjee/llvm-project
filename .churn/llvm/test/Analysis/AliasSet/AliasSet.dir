@@ -14,5 +14,6 @@
         "saturation.ll": 14.29440122883289,
         "unknown-inst-tracking.ll": 10.610527424458109
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.5411254080807185
 }

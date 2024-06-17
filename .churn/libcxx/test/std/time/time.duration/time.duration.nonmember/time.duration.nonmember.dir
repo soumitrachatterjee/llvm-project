@@ -18,5 +18,6 @@
         "op_times_rep2.compile.fail.cpp": 0.0,
         "ostream.pass.cpp": 63.34883457300127
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 83.62371868592133
 }

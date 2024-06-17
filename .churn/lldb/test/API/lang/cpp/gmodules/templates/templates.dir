@@ -12,5 +12,6 @@
         "module.modulemap": 0.0,
         "TestGModules.py": 100.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 34.371275169998285
 }

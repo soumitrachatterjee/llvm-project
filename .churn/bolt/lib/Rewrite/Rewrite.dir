@@ -18,5 +18,6 @@
         "RewriteInstance.cpp": 44.18849499779187,
         "SDTRewriter.cpp": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 28.114168862810494
 }

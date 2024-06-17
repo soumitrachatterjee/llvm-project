@@ -8,5 +8,6 @@
         "invoke.pass.cpp": 100.0,
         "invoke.verify.cpp": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 7.27030026928694
 }

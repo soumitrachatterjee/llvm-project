@@ -15,5 +15,6 @@
         "subsumption.compile.pass.cpp": 9.399707193370778,
         "viewable_range.compile.pass.cpp": 10.14187594563761
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 42.68574492130541
 }

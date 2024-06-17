@@ -13,5 +13,6 @@
         "builtins-amdgcn-wmma-w64.cl": 0.0,
         "lit.local.cfg": 100.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 2.199654948779489
 }

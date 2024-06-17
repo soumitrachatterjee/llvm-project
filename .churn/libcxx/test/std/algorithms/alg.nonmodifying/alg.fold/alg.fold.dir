@@ -8,5 +8,6 @@
         "left_folds.pass.cpp": 100.0,
         "requirements.compile.pass.cpp": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.7313184221490964
 }

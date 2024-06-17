@@ -22,5 +22,6 @@
     "subdirscores": {
         "invalid": 36.842907848800074,
         "versioning": 14.396836445770479
-    }
+    },
+    "score.percentage": 0.2537708646283704
 }

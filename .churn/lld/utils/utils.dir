@@ -8,5 +8,6 @@
         "benchmark.py": 100.0,
         "link.yaml": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.06549277357048386
 }

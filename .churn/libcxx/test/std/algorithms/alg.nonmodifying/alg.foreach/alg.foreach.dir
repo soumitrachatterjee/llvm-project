@@ -13,5 +13,6 @@
         "ranges.for_each.pass.cpp": 9.931837550711338,
         "ranges.for_each_n.pass.cpp": 18.23006468656297
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 12.843722137220958
 }

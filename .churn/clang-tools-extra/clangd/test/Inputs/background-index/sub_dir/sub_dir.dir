@@ -8,5 +8,6 @@
         "compile_flags.txt": 50.0,
         "foo.h": 50.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 39.45011506519952
 }

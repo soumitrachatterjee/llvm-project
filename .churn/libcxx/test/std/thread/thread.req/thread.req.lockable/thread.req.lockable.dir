@@ -10,5 +10,6 @@
         "thread.req.lockable.general": 25.0,
         "thread.req.lockable.req": 25.0,
         "thread.req.lockable.timed": 25.0
-    }
+    },
+    "score.percentage": 24.28964996174842
 }

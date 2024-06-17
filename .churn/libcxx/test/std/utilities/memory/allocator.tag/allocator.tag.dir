@@ -8,5 +8,6 @@
         "allocator_arg.pass.cpp": 100.0,
         "allocator_arg.verify.cpp": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 3.036886073487187
 }

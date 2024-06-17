@@ -8,5 +8,6 @@
         "README": 0.0,
         "build-install-linux.sh": 100.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 72.24882797186108
 }

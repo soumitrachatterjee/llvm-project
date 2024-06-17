@@ -8,5 +8,6 @@
         "namespace1.cpp": 50.0,
         "namespace2.cpp": 50.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 32.246025483638654
 }

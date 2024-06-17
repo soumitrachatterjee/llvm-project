@@ -8,5 +8,6 @@
         "fma.cl": 100.0,
         "fma.inc": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 50.0
 }

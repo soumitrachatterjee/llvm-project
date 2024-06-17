@@ -7,5 +7,6 @@
     "filescores": {
         "module.modulemap": 100.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 50.0
 }

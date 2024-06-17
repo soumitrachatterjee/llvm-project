@@ -86,5 +86,6 @@
         "rewrite07.f90": 0.0,
         "test_folding.py": 0.8744916301610016
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 4.422307510472226
 }

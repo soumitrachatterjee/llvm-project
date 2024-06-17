@@ -10,5 +10,6 @@
         "TestAddDsymDownload.py": 39.40211525824688,
         "TestAddDsymMidExecutionCommand.py": 60.59788474175313
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 2.8172514162981988
 }

@@ -10,5 +10,6 @@
         "fpbits_test.cpp": 74.71221202575947,
         "rounding_mode_test.cpp": 4.80184548693672
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 19.319999152184913
 }

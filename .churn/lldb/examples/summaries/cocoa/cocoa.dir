@@ -29,5 +29,6 @@
         "objc_runtime.py": 3.738140701177839,
         "Selector.py": 3.0143178562402397
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 42.4326685163512
 }

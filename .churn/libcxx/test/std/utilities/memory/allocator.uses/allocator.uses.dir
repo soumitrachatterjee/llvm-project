@@ -8,5 +8,6 @@
     "subdirscores": {
         "allocator.uses.construction": 59.33298021543656,
         "allocator.uses.trait": 40.667019784563436
-    }
+    },
+    "score.percentage": 3.4163711033278985
 }

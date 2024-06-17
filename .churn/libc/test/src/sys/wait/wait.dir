@@ -9,5 +9,6 @@
         "wait4_test.cpp": 40.02650477019537,
         "waitpid_test.cpp": 40.02650477019537
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 3.678449099863608
 }

@@ -8,5 +8,6 @@
         "definitions-self-contained.mlir": 43.561900596313414,
         "definitions-with-unresolved.mlir": 56.43809940368659
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 13.184612544452042
 }

@@ -7,5 +7,6 @@
     "filescores": {},
     "subdirscores": {
         "clang-apply-replacements": 100.0
-    }
+    },
+    "score.percentage": 15.631290198369713
 }

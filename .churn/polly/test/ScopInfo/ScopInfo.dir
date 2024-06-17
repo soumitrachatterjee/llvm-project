@@ -378,5 +378,6 @@
     "subdirscores": {
         "BoundChecks": 0.41566506291884076,
         "NonAffine": 1.6863752849120246
-    }
+    },
+    "score.percentage": 41.831983751042934
 }

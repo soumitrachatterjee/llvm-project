@@ -11,5 +11,6 @@
         "LLDConfig.cmake.in": 14.256744648828109,
         "LLDConfigVersion.cmake.in": 8.034560760966366
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 100.0
 }

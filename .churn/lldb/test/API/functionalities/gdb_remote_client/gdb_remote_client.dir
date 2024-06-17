@@ -64,5 +64,6 @@
         "test_wasm_embedded_debug_sections.yaml": 0.0,
         "test_wasm_external_debug_sections.yaml": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 9.84741086248444
 }

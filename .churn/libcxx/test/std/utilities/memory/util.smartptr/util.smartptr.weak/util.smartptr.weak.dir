@@ -15,5 +15,6 @@
         "util.smartptr.weak.mod": 7.758047461356675,
         "util.smartptr.weak.obs": 11.726332302641453,
         "util.smartptr.weak.spec": 5.335642126057667
-    }
+    },
+    "score.percentage": 13.311726527663422
 }

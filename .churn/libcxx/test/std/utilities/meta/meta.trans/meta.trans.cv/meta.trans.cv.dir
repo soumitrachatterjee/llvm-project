@@ -12,5 +12,6 @@
         "remove_cv.pass.cpp": 16.666666666666664,
         "remove_volatile.pass.cpp": 16.666666666666664
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 5.753808913145169
 }

@@ -22,5 +22,6 @@
         "udivdi3.S": 6.658806915720754,
         "umoddi3.S": 6.658806915720754
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.8831039476577344
 }

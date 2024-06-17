@@ -7,5 +7,6 @@
     "filescores": {},
     "subdirscores": {
         "clang-include-cleaner": 100.0
-    }
+    },
+    "score.percentage": 9.959937919044073
 }

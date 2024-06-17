@@ -9,5 +9,6 @@
         "options_parser_fuzzer.cpp": 0.0,
         "stack_trace_compressor_fuzzer.cpp": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 100.0
 }

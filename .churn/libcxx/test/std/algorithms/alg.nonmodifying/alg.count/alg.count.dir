@@ -12,5 +12,6 @@
         "ranges.count.pass.cpp": 12.307071329033063,
         "ranges.count_if.pass.cpp": 9.896419957007963
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 5.392320150092165
 }

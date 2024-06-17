@@ -17,5 +17,6 @@
         "legalize-udiv.mir": 18.8547277467845,
         "reg_bank_test.ll": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 8.286570291572458
 }

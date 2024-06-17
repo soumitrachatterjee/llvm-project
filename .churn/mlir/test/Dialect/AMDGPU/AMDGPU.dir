@@ -12,5 +12,6 @@
         "optimize_shmem_reads_writes.mlir": 10.36981379971004,
         "transform_optimize_shmem_reads_writes.mlir": 10.152546154473145
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.3701632994556575
 }

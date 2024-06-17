@@ -17,5 +17,6 @@
         "pointer_deleter.pass.cpp": 6.044108043776723,
         "pointer_deleter.verify.cpp": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 31.41052499294782
 }

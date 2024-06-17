@@ -10,5 +10,6 @@
         "regular.compile.pass.cpp": 20.506819230497616,
         "semiregular.compile.pass.cpp": 26.321273772786462
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 17.320217859755907
 }

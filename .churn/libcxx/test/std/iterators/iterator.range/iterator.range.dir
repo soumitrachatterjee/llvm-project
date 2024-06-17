@@ -10,5 +10,6 @@
         "begin-end.container.pass.cpp": 50.0,
         "begin-end.initializer_list.pass.cpp": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 3.8903488076608284
 }

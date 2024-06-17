@@ -12,5 +12,6 @@
         "invoke_void_0.pass.cpp": 29.870910113028405,
         "robust_against_adl.pass.cpp": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 12.179724934413464
 }

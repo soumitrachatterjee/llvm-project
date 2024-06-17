@@ -83,5 +83,6 @@
         "update_unroll.ll": 1.1518322900999816,
         "volatile-clobber.ll": 1.577213638989918
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 2.6688488098605387
 }

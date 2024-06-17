@@ -12,5 +12,6 @@
         "LivenessAnalysis.cpp": 4.671960176447815,
         "SparseAnalysis.cpp": 30.61806707860718
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 10.449624570978768
 }

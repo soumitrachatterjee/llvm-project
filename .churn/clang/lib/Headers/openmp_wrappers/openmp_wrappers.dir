@@ -15,5 +15,6 @@
         "time.h": 0.0,
         "__clang_openmp_device_functions.h": 17.93354759148769
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.697957618977752
 }

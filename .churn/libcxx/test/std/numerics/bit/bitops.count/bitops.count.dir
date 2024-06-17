@@ -11,5 +11,6 @@
         "countr_zero.pass.cpp": 20.0,
         "popcount.pass.cpp": 20.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 20.993960062733336
 }

@@ -9,5 +9,6 @@
         "lower_bound_comp.pass.cpp": 41.004294955586026,
         "ranges.lower_bound.pass.cpp": 14.12345111232399
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 30.885608683581843
 }

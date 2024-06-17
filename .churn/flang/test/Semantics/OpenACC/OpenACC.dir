@@ -39,5 +39,6 @@
         "acc-update-validity.f90": 2.8626059378579547,
         "acc-wait-validity.f90": 2.129048192952239
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 3.3524644689253487
 }

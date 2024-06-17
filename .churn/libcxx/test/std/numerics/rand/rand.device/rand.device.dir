@@ -9,5 +9,6 @@
         "entropy.pass.cpp": 15.901959976417896,
         "eval.pass.cpp": 36.750255871451984
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 23.628874113677277
 }

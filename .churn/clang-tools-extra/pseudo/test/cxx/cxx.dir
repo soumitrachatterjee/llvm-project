@@ -26,5 +26,6 @@
         "template-empty-type-parameter.cpp": 5.541440039817923,
         "unsized-array.cpp": 5.544814619772779
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 32.06619468575243
 }

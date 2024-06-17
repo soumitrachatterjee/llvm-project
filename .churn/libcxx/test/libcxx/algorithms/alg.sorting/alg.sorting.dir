@@ -11,5 +11,6 @@
     "subdirscores": {
         "alg.heap.operations": 29.502648752885268,
         "assert.sort.invalid_comparator": 0.0
-    }
+    },
+    "score.percentage": 14.777745037116045
 }

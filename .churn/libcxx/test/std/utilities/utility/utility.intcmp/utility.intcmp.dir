@@ -15,5 +15,6 @@
         "intcmp.cmp_less_equal": 14.016214544599977,
         "intcmp.cmp_not_equal": 14.016214544599977,
         "intcmp.in_range": 15.902712732400134
-    }
+    },
+    "score.percentage": 5.0425103806484
 }

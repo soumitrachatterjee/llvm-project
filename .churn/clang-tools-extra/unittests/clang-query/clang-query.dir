@@ -9,5 +9,6 @@
         "QueryEngineTest.cpp": 23.49377171142049,
         "QueryParserTest.cpp": 63.54718882897809
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 12.165896263736267
 }

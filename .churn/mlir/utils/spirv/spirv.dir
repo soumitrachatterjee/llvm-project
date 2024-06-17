@@ -12,5 +12,6 @@
         "refresh_inst.sh": 0.0,
         "report_coverage.sh": 4.738479395719182
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 26.18584151059852
 }

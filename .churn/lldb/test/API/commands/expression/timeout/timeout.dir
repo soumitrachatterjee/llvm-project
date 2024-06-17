@@ -9,5 +9,6 @@
         "TestCallWithTimeout.py": 100.0,
         "wait-a-while.cpp": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 1.2695062407465691
 }

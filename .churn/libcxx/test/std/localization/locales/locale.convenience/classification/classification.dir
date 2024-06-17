@@ -18,5 +18,6 @@
         "isupper.pass.cpp": 9.090909090909092,
         "isxdigit.pass.cpp": 9.090909090909092
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 11.869301144249212
 }

@@ -10,5 +10,6 @@
         "llvm_debuginfo.ml": 30.032379720764663,
         "llvm_debuginfo.mli": 19.80356970829596
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 1.2558983070480332
 }

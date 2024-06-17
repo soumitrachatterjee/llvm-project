@@ -15,5 +15,6 @@
         "is_nothrow_invocable.pass.cpp": 16.798146312334534,
         "is_same.pass.cpp": 15.337838850539526
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 13.35964030206026
 }

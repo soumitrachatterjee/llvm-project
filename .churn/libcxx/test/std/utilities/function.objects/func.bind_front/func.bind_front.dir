@@ -8,5 +8,6 @@
         "bind_front.pass.cpp": 35.36161344584531,
         "bind_front.verify.cpp": 64.63838655415469
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 2.542417295047548
 }

@@ -12,5 +12,6 @@
         "TestSCFWrapInZeroTripCheck.cpp": 0.0,
         "TestWhileOpBuilder.cpp": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 2.5507076766636705
 }

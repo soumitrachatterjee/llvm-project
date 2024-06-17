@@ -17,5 +17,6 @@
         "TestReifyValueBounds.cpp": 5.870943445608084,
         "TestVectorizationUtils.cpp": 24.129699132644696
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 6.296624795446633
 }

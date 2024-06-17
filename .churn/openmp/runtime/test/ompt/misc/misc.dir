@@ -18,5 +18,6 @@
         "threads_nested.c": 5.391587423169935,
         "unset_callback.c": 5.391587423169935
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 10.514101402866608
 }

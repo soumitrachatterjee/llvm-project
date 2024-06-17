@@ -8,5 +8,6 @@
         "bool_constant.pass.cpp": 44.843684469707554,
         "integral_constant.pass.cpp": 55.15631553029245
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 1.816418803113594
 }

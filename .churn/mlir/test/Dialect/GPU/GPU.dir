@@ -35,5 +35,6 @@
         "transform-gpu-failing.mlir": 5.65078462836733,
         "transform-gpu.mlir": 4.548946329006387
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 4.44308030449402
 }

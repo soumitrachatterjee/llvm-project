@@ -34,5 +34,6 @@
         "wchar_h.compile.pass.cpp": 0.0,
         "wctype_h.compile.pass.cpp": 1.7736206252508717
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 51.352702855557574
 }

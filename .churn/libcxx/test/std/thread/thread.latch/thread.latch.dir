@@ -11,5 +11,6 @@
         "max.pass.cpp": 7.273352102736845,
         "try_wait.pass.cpp": 25.018335366019684
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 2.935492298847672
 }

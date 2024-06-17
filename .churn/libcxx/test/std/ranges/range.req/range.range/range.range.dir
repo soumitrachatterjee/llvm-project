@@ -14,5 +14,6 @@
         "range_size_t.compile.pass.cpp": 9.231942961032496,
         "sentinel_t.compile.pass.cpp": 15.359460344825685
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 26.437492235892996
 }

@@ -10,5 +10,6 @@
         "reinterpret_pointer_cast.pass.cpp": 5.736233176449751,
         "static_pointer_cast.pass.cpp": 28.857236406357178
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 5.633944164725043
 }

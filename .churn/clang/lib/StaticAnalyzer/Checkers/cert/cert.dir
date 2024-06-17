@@ -8,5 +8,6 @@
         "InvalidPtrChecker.cpp": 41.444095056444056,
         "PutenvWithAutoChecker.cpp": 58.555904943555944
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.49336684125880503
 }

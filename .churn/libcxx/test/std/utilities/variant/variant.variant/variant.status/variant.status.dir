@@ -8,5 +8,6 @@
         "index.pass.cpp": 50.0,
         "valueless_by_exception.pass.cpp": 50.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 9.582334314470724
 }

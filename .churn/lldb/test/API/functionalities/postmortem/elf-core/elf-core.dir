@@ -36,5 +36,6 @@
     "subdirscores": {
         "gcore": 8.84104977683177,
         "thread_crash": 15.392533497433044
-    }
+    },
+    "score.percentage": 39.141633248790654
 }

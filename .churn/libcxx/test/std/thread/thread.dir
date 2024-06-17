@@ -19,5 +19,6 @@
         "thread.semaphore": 4.849490772749347,
         "thread.stoptoken": 0.6771340073711002,
         "thread.threads": 19.796233066668854
-    }
+    },
+    "score.percentage": 4.674268683887289
 }

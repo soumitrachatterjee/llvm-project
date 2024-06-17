@@ -9,5 +9,6 @@
         "hash_shared_ptr.pass.cpp": 33.49995089922421,
         "hash_unique_ptr.pass.cpp": 40.837370055179136
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 6.778601591259862
 }

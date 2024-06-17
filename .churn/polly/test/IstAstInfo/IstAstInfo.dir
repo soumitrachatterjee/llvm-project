@@ -64,5 +64,6 @@
     },
     "subdirscores": {
         "OpenMP": 2.3246730170265963
-    }
+    },
+    "score.percentage": 0.2769441291719064
 }

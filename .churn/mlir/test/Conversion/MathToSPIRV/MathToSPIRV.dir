@@ -9,5 +9,6 @@
         "math-to-gl-spirv.mlir": 22.44939561670439,
         "math-to-opencl-spirv.mlir": 46.22923002550066
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 1.718843598690448
 }

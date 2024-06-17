@@ -8,5 +8,6 @@
         "declval.pass.cpp": 100.0,
         "declval.verify.cpp": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 2.415227939598439
 }

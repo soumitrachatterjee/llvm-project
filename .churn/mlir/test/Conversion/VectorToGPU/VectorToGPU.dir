@@ -9,5 +9,6 @@
         "vector-to-mma-ops-mma-sync.mlir": 29.880711828503898,
         "vector-to-mma-ops.mlir": 70.1192881714961
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 2.308271770043796
 }

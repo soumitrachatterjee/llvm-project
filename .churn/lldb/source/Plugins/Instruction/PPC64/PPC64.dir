@@ -9,5 +9,6 @@
         "EmulateInstructionPPC64.cpp": 67.65567181152844,
         "EmulateInstructionPPC64.h": 32.344328188471565
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 7.383341199649627
 }

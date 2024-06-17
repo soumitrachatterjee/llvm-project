@@ -18,5 +18,6 @@
         "print-fns-definitions.f90": 15.121387170026404,
         "print-fns-interfaces.f90": 15.121387170026404
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.3465007569724685
 }

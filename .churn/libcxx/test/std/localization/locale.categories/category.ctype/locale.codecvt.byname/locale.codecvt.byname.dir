@@ -14,5 +14,6 @@
         "ctor_char32_t_char8_t.pass.cpp": 10.383444692084245,
         "ctor_wchar_t.pass.cpp": 19.378950177851316
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 18.299319978523634
 }

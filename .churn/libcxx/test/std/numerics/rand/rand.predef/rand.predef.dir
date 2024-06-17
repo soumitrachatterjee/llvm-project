@@ -16,5 +16,6 @@
         "ranlux48.pass.cpp": 10.168354801123968,
         "ranlux48_base.pass.cpp": 10.168354801123968
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 4.793693210795105
 }

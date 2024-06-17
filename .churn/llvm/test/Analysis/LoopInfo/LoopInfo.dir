@@ -10,5 +10,6 @@
         "annotated-parallel-complex.ll": 18.835288255992136,
         "annotated-parallel-simple.ll": 28.72944979891279
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.29948804519830435
 }

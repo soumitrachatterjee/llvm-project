@@ -28,5 +28,6 @@
     "subdirscores": {
         "ArmSME": 4.515177713370118,
         "ArmSVE": 2.267438761576415
-    }
+    },
+    "score.percentage": 100.0
 }

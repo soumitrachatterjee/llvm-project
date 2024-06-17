@@ -256,5 +256,6 @@
         "LiveDebugValues": 0.4164965639784178,
         "MIRParser": 0.7795287670241583,
         "SelectionDAG": 35.35266350097098
-    }
+    },
+    "score.percentage": 16.994279564040056
 }

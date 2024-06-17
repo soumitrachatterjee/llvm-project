@@ -14,5 +14,6 @@
         "ThinLTOCodeGenerator.cpp": 16.361484936130836,
         "UpdateCompilerUsed.cpp": 0.7337756048122427
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.321485595892851
 }

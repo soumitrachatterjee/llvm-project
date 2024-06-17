@@ -10,5 +10,6 @@
         "make_optional_explicit_initializer_list.pass.cpp": 14.673651720996968,
         "swap.pass.cpp": 22.19883657315952
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 11.876789932910786
 }

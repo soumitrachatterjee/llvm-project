@@ -7,5 +7,6 @@
     "filescores": {
         "uniform_random_bit_generator.compile.pass.cpp": 100.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 34.96491632619263
 }

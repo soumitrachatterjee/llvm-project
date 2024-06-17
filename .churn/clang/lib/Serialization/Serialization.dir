@@ -24,5 +24,6 @@
         "MultiOnDiskHashTable.h": 0.09904110567621306,
         "PCHContainerOperations.cpp": 0.05181752615755974
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 3.190600777184538
 }

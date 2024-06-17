@@ -53,5 +53,6 @@
         "truncf_diff.cpp": 1.5497268844592638,
         "truncf_perf.cpp": 1.5497268844592638
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 2.0408470879164384
 }

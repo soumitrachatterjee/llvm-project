@@ -27,5 +27,6 @@
         "test_terse.cpp": 7.997226640233576,
         "unaligned_loads_and_stores.cpp": 6.669500893451907
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 63.330960147292245
 }

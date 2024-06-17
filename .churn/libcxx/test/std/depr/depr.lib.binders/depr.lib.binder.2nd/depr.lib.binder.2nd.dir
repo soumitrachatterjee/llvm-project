@@ -8,5 +8,6 @@
         "binder2nd.depr_in_cxx11.verify.cpp": 25.539992626617046,
         "binder2nd.pass.cpp": 74.46000737338296
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 23.975681964937532
 }

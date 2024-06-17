@@ -9,5 +9,6 @@
         "ConvertGPULaunchFuncToVulkanLaunchFunc.cpp": 44.48174891222729,
         "ConvertLaunchFuncToVulkanCalls.cpp": 42.32740383980965
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 1.5923148601690456
 }

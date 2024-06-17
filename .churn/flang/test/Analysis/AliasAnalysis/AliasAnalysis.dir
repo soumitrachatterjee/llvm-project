@@ -15,5 +15,6 @@
         "alias-analysis-8.fir": 0.0,
         "alias-analysis-host-assoc.fir": 18.173294117517905
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 100.0
 }

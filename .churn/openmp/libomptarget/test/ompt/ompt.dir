@@ -24,5 +24,6 @@
         "veccopy_no_device_init.c": 10.689603994858036,
         "veccopy_wrong_return.c": 10.689603994858036
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 2.0486322799390577
 }

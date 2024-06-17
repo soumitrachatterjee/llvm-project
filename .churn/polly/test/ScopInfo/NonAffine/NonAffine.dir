@@ -26,5 +26,6 @@
         "non_affine_region_guaranteed_non-entry.ll": 3.3344900144153145,
         "whole-scop-non-affine-subregion-in-loop.ll": 1.5023658028843705
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 1.6863752849120246
 }

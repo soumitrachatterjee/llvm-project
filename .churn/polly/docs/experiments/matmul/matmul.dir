@@ -40,5 +40,6 @@
         "scopsonly.print_array.dot": 2.4829233210520623,
         "scopsonly.print_array.dot.png": 2.4829233210520623
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 100.0
 }

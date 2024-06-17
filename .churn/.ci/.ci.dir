@@ -9,5 +9,6 @@
         "monolithic-linux.sh": 14.827931393575792,
         "monolithic-windows.sh": 19.325884924809966
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.0038580814650647226
 }

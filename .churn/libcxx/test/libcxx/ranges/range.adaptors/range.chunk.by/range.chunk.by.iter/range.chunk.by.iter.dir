@@ -8,5 +8,6 @@
         "assert.deref.pass.cpp": 50.0,
         "assert.increment.pass.cpp": 50.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 25.0
 }

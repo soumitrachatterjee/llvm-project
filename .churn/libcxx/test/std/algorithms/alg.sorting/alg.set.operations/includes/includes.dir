@@ -9,5 +9,6 @@
         "includes_comp.pass.cpp": 43.57875893190146,
         "ranges_includes.pass.cpp": 12.84248213619708
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 16.097967759439662
 }

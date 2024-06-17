@@ -14,5 +14,6 @@
         "move.pass.cpp": 13.77267211446425,
         "move_assign.pass.cpp": 15.273977815107683
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 38.089717728955655
 }

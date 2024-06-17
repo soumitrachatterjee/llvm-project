@@ -9,5 +9,6 @@
         "dereference.pass.cpp": 26.925459782433244,
         "increment.pass.cpp": 26.925459782433244
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 28.77307471584461
 }

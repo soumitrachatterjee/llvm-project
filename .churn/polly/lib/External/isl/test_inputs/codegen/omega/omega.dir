@@ -273,5 +273,6 @@
         "x-1.c": 0.0,
         "x-1.in": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 5.88272248159601
 }

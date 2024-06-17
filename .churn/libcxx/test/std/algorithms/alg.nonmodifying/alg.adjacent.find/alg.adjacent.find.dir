@@ -9,5 +9,6 @@
         "adjacent_find_pred.pass.cpp": 38.18316374201912,
         "ranges.adjacent_find.pass.cpp": 23.633672515961752
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 3.585529943965721
 }

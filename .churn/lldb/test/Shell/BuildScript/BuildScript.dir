@@ -12,5 +12,6 @@
         "toolchain-clang.test": 18.322012754939244,
         "toolchain-msvc.test": 31.277891938069235
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.9788937097433574
 }

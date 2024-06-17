@@ -11,5 +11,6 @@
         "signed_integral.pass.cpp": 26.36392151852163,
         "unsigned_integral.pass.cpp": 26.36392151852163
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 10.182313318848626
 }

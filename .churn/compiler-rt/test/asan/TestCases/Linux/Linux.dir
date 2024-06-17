@@ -92,5 +92,6 @@
         "unpoison_tls.cpp": 1.2531019883532752,
         "vfork.cpp": 1.7040741491288116
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 22.0869600655365
 }

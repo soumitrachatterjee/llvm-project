@@ -8,5 +8,6 @@
         "lit.local.cfg.py": 18.74668140369379,
         "posix_memalign-alignment.cpp": 81.25331859630622
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 2.6851980137226206
 }

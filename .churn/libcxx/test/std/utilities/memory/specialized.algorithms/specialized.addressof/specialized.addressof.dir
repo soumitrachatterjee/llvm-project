@@ -9,5 +9,6 @@
         "addressof.temp.compile.fail.cpp": 0.0,
         "constexpr_addressof.pass.cpp": 65.86251591592674
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 10.426466991186485
 }

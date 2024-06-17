@@ -11,5 +11,6 @@
         "ARM64_32.cpp": 12.67056550422166,
         "X86_64.cpp": 33.26858386112944
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 2.6372747803011065
 }

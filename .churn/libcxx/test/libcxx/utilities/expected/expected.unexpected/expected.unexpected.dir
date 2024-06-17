@@ -9,5 +9,6 @@
         "noexcept.extension.compile.pass.cpp": 0.0,
         "swap.mandates.verify.cpp": 50.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 3.9545381192673097
 }

@@ -10,5 +10,6 @@
         "match_matmul_common.mlir": 0.0,
         "match_reduction.mlir": 27.655531964175694
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.425045212363904
 }

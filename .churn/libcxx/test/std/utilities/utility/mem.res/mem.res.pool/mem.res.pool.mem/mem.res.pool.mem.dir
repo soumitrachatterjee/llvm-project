@@ -15,5 +15,6 @@
         "unsync_allocate_reuse_blocks.pass.cpp": 11.841795978797096,
         "unsync_deallocate_matches_allocate.pass.cpp": 11.841795978797096
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 58.06079842093018
 }

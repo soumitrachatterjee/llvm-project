@@ -33,5 +33,6 @@
     "subdirscores": {
         "cross-dso": 10.757795234668848,
         "icall": 6.348709023537263
-    }
+    },
+    "score.percentage": 1.0382536179620714
 }

@@ -14,5 +14,6 @@
         "prefetch.inc": 0.0,
         "wait_group_events.h": 33.931227995013614
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.8674345812833442
 }

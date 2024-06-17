@@ -15,5 +15,6 @@
         "sys_time.ostream.pass.cpp": 0.0,
         "to_time_t.pass.cpp": 24.561476900294004
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 33.70778760381128
 }

@@ -24,5 +24,6 @@
         "split-dwarf5-debug-stroffsets-file2.dwo.yaml": 6.25,
         "split-dwarf5-debug-stroffsets-main.yaml": 6.25
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 5.020277576276412
 }

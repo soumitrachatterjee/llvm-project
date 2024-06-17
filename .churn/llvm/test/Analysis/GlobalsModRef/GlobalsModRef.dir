@@ -33,5 +33,6 @@
         "volatile-instrs.ll": 6.286724593955576,
         "weak-interposition.ll": 1.4017729317399796
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 1.9448871962597025
 }

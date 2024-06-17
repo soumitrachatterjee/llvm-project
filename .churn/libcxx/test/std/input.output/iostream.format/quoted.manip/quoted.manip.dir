@@ -10,5 +10,6 @@
         "quoted_traits.compile.pass.cpp": 0.0,
         "quoted_traits.verify.cpp": 11.007535466146313
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 11.83705316786056
 }

@@ -10,5 +10,6 @@
     "subdirscores": {
         "AsLibAll": 8.956046605442571,
         "AsLibELF": 8.956046605442571
-    }
+    },
+    "score.percentage": 0.7495640416179888
 }

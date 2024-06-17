@@ -36,5 +36,6 @@
         "xor_valarray_value.pass.cpp": 3.333333333333334,
         "xor_value_valarray.pass.cpp": 3.333333333333334
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 23.825222666546697
 }

@@ -9,5 +9,6 @@
         "ControlFlowToSPIRV.cpp": 47.2735464203968,
         "ControlFlowToSPIRVPass.cpp": 37.30013330223593
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.4071194546404078
 }

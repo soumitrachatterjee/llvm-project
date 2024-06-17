@@ -44,5 +44,6 @@
         "VersionFromVCS.cmake": 0.9861531471322993,
         "llvm-driver-template.cpp.in": 0.18721035754439583
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 82.53924046060254
 }

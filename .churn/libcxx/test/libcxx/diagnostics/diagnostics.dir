@@ -22,5 +22,6 @@
         "ranges.nodiscard_extensions.verify.cpp": 10.78158589742553,
         "view_adaptors.nodiscard_extensions.verify.cpp": 3.0735446301529086
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 7.1525417686078105
 }

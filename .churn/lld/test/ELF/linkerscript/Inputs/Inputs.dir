@@ -46,5 +46,6 @@
         "symbol-reserved.script": 0.0,
         "synthetic-symbols.s": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 1.4964259648165494
 }

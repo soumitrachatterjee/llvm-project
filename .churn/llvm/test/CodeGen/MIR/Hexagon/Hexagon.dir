@@ -10,5 +10,6 @@
         "parse-lane-masks.mir": 19.242347255856522,
         "target-flags.mir": 13.89493253491589
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 3.108927658400268
 }

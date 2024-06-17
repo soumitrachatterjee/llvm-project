@@ -133,5 +133,6 @@
         "vector-subscript-lhs.f90": 0.895852565224653,
         "where.f90": 0.7382608262730737
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 9.585602122634642
 }

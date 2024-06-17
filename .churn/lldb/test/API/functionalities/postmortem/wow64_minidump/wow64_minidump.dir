@@ -9,5 +9,6 @@
         "fizzbuzz_wow64.dmp": 0.0,
         "TestWow64MiniDump.py": 100.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 6.434697179491177
 }

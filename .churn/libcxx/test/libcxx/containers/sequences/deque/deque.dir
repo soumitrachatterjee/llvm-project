@@ -15,5 +15,6 @@
         "segmented_iterator.compile.pass.cpp": 0.0,
         "spare_block_handling.pass.cpp": 15.543907065393714
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 27.6889674412581
 }

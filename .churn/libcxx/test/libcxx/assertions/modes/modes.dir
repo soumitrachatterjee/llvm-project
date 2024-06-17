@@ -16,5 +16,6 @@
         "override_with_fast_mode.pass.cpp": 21.246027505578873,
         "override_with_unchecked_mode.pass.cpp": 5.403366284516524
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 49.43138208814562
 }

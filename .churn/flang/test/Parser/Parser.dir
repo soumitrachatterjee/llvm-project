@@ -35,5 +35,6 @@
     "subdirscores": {
         "Inputs": 0.0,
         "OpenMP": 36.90775205982668
-    }
+    },
+    "score.percentage": 1.8016962194375246
 }

@@ -13,5 +13,6 @@
         "check_SSE2.cpp": 16.666666666666664,
         "check_SSE4_2.cpp": 16.666666666666664
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 3.7964285863885854
 }

@@ -10,5 +10,6 @@
         "disassembly.json": 25.0,
         "x86.disasm": 25.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.6763603213280233
 }

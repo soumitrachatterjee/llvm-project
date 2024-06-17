@@ -12,5 +12,6 @@
         "ranges.next_permutation.pass.cpp": 7.39875487550503,
         "ranges.prev_permutation.pass.cpp": 7.39875487550503
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 2.753511985243358
 }

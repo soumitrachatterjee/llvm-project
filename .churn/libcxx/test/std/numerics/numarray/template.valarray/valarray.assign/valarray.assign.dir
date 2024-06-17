@@ -15,5 +15,6 @@
         "value_assign.addressof.compile.pass.cpp": 0.0,
         "value_assign.pass.cpp": 11.480661850257265
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 16.83041578969981
 }

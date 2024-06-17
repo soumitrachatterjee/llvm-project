@@ -8,5 +8,6 @@
         "lit.cfg": 40.02491051466131,
         "lit.site.cfg.in": 59.97508948533869
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 1.3617379307153574
 }

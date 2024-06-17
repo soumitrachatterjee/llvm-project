@@ -936,5 +936,6 @@
         "gfx9_vsrc_fd235e.rst": 0.0,
         "gfx9_waitcnt.rst": 1.4448310760927536
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.8168203530788997
 }

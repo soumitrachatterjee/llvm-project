@@ -14,5 +14,6 @@
         "M68kRegisterBankInfo.h": 13.51394691803717,
         "M68kRegisterBanks.td": 6.628869924785315
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 3.09756185220891
 }

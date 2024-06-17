@@ -10,5 +10,6 @@
         "thread.lock.algorithm": 7.712225606138498,
         "thread.mutex.requirements": 32.26540977092277,
         "thread.once": 9.944273217541438
-    }
+    },
+    "score.percentage": 26.780650752352532
 }

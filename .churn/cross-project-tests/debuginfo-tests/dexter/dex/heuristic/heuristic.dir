@@ -8,5 +8,6 @@
         "Heuristic.py": 100.0,
         "__init__.py": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 4.859522654921995
 }

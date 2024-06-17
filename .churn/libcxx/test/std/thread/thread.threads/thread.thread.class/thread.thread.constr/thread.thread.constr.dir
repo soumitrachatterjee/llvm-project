@@ -12,5 +12,6 @@
         "move.pass.cpp": 22.68399881119884,
         "robust_against_adl.pass.cpp": 4.277669962160799
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 27.85969854897469
 }

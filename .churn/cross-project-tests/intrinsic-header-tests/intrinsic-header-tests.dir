@@ -9,5 +9,6 @@
         "README.txt": 0.0,
         "wasm_simd128.c": 50.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 3.3984854731109966
 }

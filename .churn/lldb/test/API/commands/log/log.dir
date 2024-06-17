@@ -8,5 +8,6 @@
     "subdirscores": {
         "basic": 66.20250455520508,
         "invalid-args": 33.79749544479492
-    }
+    },
+    "score.percentage": 1.3419412363650023
 }

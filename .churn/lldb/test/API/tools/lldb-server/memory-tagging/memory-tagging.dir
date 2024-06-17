@@ -9,5 +9,6 @@
         "Makefile": 0.0,
         "TestGdbRemoteMemoryTagging.py": 100.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.9932245776907908
 }

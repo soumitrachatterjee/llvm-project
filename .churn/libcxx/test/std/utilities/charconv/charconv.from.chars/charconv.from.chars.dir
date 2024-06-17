@@ -9,5 +9,6 @@
         "integral.pass.cpp": 54.30678873697153,
         "integral.roundtrip.pass.cpp": 45.69321126302848
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 28.552770352074862
 }

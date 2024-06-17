@@ -16,5 +16,6 @@
         "unroll_partial.ll": 10.857336428524226,
         "unroll_partial_followup.ll": 10.457389946653798
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 2.52447513299769
 }

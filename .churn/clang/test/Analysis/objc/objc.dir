@@ -7,5 +7,6 @@
     "filescores": {
         "direct-ivar-assignment-in-annotated-functions.m": 100.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.1527195623973684
 }

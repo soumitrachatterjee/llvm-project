@@ -23,5 +23,6 @@
         "range.lazy.split.inner": 9.473067338100368,
         "range.lazy.split.outer": 5.578239737931753,
         "range.lazy.split.outer.value": 3.803306087684681
-    }
+    },
+    "score.percentage": 9.789161534930313
 }

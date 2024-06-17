@@ -11,5 +11,6 @@
         "inline-asm3.ll": 28.57194456085056,
         "loadstore.ll": 12.073176474155483
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 4.851853795310186
 }

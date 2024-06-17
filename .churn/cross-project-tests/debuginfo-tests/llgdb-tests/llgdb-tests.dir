@@ -23,5 +23,6 @@
         "static-member.cpp": 8.634667788019481,
         "test_debuginfo.pl": 4.453133406190288
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 11.695165572780754
 }

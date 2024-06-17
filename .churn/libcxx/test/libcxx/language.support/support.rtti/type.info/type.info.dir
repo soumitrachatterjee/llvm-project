@@ -9,5 +9,6 @@
         "type_info.comparison.merged.sh.cpp": 36.55646425803333,
         "type_info.comparison.unmerged.sh.cpp": 37.189293522143785
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 100.0
 }

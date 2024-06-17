@@ -9,5 +9,6 @@
         "ttype-encoding-00.pass.sh.s": 36.169748245311204,
         "ttype-encoding-90.pass.sh.s": 36.169748245311204
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 58.75252500599415
 }

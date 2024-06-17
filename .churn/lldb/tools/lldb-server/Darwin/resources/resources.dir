@@ -10,5 +10,6 @@
         "lldb-server-macos-entitlements.plist": 50.0,
         "lldb-server-mig.defs": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 100.0
 }

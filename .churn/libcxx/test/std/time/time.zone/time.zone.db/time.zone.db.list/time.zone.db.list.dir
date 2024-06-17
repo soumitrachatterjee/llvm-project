@@ -10,5 +10,6 @@
         "iterators.pass.cpp": 33.40011502050914,
         "types.compile.pass.cpp": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 33.27718564052187
 }

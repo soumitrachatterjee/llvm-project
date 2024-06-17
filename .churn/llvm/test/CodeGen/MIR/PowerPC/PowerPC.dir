@@ -8,5 +8,6 @@
         "lit.local.cfg": 29.91805665765863,
         "unordered-implicit-registers.mir": 70.08194334234136
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 2.2476588835446827
 }

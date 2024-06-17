@@ -12,5 +12,6 @@
         "make-core.sh": 0.0,
         "TestLinuxCoreThreads.py": 81.26162497324093
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 15.392533497433044
 }

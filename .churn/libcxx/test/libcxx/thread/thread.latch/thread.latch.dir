@@ -9,5 +9,6 @@
         "assert.count_down.pass.cpp": 33.333333333333336,
         "assert.ctor.pass.cpp": 33.333333333333336
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 8.700724210484816
 }

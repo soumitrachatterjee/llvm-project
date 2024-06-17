@@ -7,5 +7,6 @@
     "filescores": {
         "compute_size_class_config.cpp": 100.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.1706348838604614
 }

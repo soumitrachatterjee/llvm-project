@@ -8,5 +8,6 @@
         "CMathDialect.td": 100.0,
         "TestDialect.td": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.015254201754037928
 }

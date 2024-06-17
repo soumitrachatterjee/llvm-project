@@ -33,5 +33,6 @@
         "unary_negate.h": 2.0194509615166902,
         "weak_result_type.h": 3.1236581425072045
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.7641722636786633
 }

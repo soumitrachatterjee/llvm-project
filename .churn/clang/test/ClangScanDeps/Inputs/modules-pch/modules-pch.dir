@@ -18,5 +18,6 @@
         "tu.c": 0.0,
         "tu_with_common.c": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 1.5754946109942696
 }

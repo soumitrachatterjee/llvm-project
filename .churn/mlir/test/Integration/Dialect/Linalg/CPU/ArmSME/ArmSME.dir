@@ -13,5 +13,6 @@
         "multi-tile-matmul.mlir": 12.446510337690352,
         "use-too-many-tiles.mlir": 17.146122121585144
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 4.515177713370118
 }

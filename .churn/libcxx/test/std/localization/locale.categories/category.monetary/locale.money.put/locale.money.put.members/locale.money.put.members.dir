@@ -11,5 +11,6 @@
         "put_long_double_zh_CN.pass.cpp": 19.989640394454312,
         "put_string_en_US.pass.cpp": 13.26533871982068
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 75.03253035412789
 }

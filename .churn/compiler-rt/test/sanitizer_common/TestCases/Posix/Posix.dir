@@ -76,5 +76,6 @@
         "wcsxfrm.c": 1.306369438232619,
         "weak_hook_test.cpp": 1.306369438232619
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 32.215080947044385
 }

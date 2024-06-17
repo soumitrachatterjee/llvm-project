@@ -31,5 +31,6 @@
         "X86.cpp": 9.033974103756039,
         "XCore.cpp": 2.3294191443120806
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.26530557876294086
 }

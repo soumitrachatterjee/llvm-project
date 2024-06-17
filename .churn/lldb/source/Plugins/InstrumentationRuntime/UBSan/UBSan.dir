@@ -9,5 +9,6 @@
         "InstrumentationRuntimeUBSan.cpp": 66.99190144812248,
         "InstrumentationRuntimeUBSan.h": 24.65984586844206
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 24.236032417073883
 }

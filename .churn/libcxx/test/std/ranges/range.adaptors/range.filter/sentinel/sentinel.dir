@@ -10,5 +10,6 @@
         "ctor.default.pass.cpp": 16.09362310933975,
         "ctor.parent.pass.cpp": 27.968792296886747
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 10.484681307897866
 }

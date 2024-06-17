@@ -9,5 +9,6 @@
         ".clang-tidy": 0.0,
         "Utils.h": 100.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.21546734940132234
 }

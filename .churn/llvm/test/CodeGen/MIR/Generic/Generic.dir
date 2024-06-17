@@ -62,5 +62,6 @@
         "scalable-vector-type-err9.mir": 0.0,
         "scalable-vector-type.mir": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 8.51352716124595
 }

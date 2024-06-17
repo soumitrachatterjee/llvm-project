@@ -9,5 +9,6 @@
     },
     "subdirscores": {
         "mlir_opt_kernel": 100.0
-    }
+    },
+    "score.percentage": 3.0740836927065405
 }

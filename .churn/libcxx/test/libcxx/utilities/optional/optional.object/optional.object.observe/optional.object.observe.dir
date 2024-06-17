@@ -8,5 +8,6 @@
         "assert.dereference.pass.cpp": 50.0,
         "assert.op_arrow.pass.cpp": 50.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 42.287804883220645
 }

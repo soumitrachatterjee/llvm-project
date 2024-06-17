@@ -12,5 +12,6 @@
         "transforms.mlir": 0.0,
         "types.mlir": 7.117014990939347
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.6514998059378531
 }

@@ -9,5 +9,6 @@
         "compare.three_way.verify.cpp": 50.0,
         "op_compare.pass.cpp": 50.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 2.431060910609235
 }

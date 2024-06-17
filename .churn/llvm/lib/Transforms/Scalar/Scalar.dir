@@ -87,5 +87,6 @@
         "TailRecursionElimination.cpp": 1.7081068295541668,
         "WarnMissedTransforms.cpp": 0.1257887882366619
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 29.517643252699067
 }

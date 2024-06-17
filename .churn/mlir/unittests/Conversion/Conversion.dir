@@ -9,5 +9,6 @@
     },
     "subdirscores": {
         "PDLToPDLInterp": 100.0
-    }
+    },
+    "score.percentage": 0.5772483878026042
 }

@@ -14,5 +14,6 @@
         "test-tilezero-block.mlir": 16.027300628652018,
         "test-tilezero.mlir": 14.807700445363444
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 1.7698636593440251
 }

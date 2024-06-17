@@ -14,5 +14,6 @@
         "ssize.LWG3207.compile.pass.cpp": 0.0,
         "ssize.pass.cpp": 30.132573793518
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 7.131690630677793
 }

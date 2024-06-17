@@ -25,5 +25,6 @@
         "runtime-operator.rst": 0.0,
         "upgrade-googletest-case.rst": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 1.007593446427667
 }

@@ -11,5 +11,6 @@
         "nests-with-lcssa.ll": 0.0,
         "perfectnest.ll": 37.06381964540322
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.08668262622847672
 }

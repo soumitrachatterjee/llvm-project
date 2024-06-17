@@ -9,5 +9,6 @@
         "gdbremote_testcase.py": 67.12506338227733,
         "lldbgdbserverutils.py": 30.99532726154623
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 86.69979674397614
 }

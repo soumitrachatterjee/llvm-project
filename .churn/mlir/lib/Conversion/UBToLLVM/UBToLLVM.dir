@@ -8,5 +8,6 @@
         "CMakeLists.txt": 0.0,
         "UBToLLVM.cpp": 100.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.10085734245641859
 }

@@ -8,5 +8,6 @@
         "echo_command.py": 40.20639696488181,
         "TestRegexCommand.py": 59.793603035118196
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 4.088620561708155
 }

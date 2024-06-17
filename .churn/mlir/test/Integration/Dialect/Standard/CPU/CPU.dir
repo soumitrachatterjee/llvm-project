@@ -8,5 +8,6 @@
         "test-ceil-floor-pos-neg.mlir": 53.89634678562102,
         "test_subview.mlir": 46.10365321437899
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 100.0
 }

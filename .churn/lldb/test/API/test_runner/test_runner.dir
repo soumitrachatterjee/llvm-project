@@ -7,5 +7,6 @@
     "filescores": {},
     "subdirscores": {
         "test": 100.0
-    }
+    },
+    "score.percentage": 0.1164796559486414
 }

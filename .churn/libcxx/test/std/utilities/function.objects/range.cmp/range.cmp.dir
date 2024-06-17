@@ -12,5 +12,6 @@
         "less_equal.pass.cpp": 16.666666666666664,
         "not_equal_to.pass.cpp": 16.666666666666664
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 1.549215391931067
 }

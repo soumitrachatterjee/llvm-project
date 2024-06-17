@@ -9,5 +9,6 @@
         "EmulateInstructionARM64.cpp": 74.865428655327,
         "EmulateInstructionARM64.h": 22.276777827083972
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 19.818348765667572
 }

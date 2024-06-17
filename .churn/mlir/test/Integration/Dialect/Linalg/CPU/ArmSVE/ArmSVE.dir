@@ -9,5 +9,6 @@
         "lit.local.cfg": 0.0,
         "matmul.mlir": 49.95475344669104
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 2.267438761576415
 }

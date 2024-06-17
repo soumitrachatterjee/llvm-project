@@ -10,5 +10,6 @@
         "provider.py": 26.91906833277961,
         "TestPyObjSynthProvider.py": 46.16186333444079
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.8229459465620312
 }

@@ -14,5 +14,6 @@
         "simd_subscr.pass.cpp": 18.383374518537654,
         "simd_width.pass.cpp": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 22.572962574822363
 }

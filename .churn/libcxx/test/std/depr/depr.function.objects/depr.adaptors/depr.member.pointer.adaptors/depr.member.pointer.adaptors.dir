@@ -38,5 +38,6 @@
         "mem_fun_t.cxx1z.compile.fail.cpp": 1.2185892322390302,
         "mem_fun_t.pass.cpp": 5.031410767760972
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 51.85870131854805
 }

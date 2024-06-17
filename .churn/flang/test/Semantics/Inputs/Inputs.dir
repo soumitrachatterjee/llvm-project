@@ -19,5 +19,6 @@
     "subdirscores": {
         "dir1": 0.0,
         "dir2": 0.0
-    }
+    },
+    "score.percentage": 0.07057143978791665
 }

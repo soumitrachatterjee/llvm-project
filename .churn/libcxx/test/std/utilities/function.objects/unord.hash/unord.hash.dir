@@ -13,5 +13,6 @@
         "non_enum.pass.cpp": 10.246740121240046,
         "pointer.pass.cpp": 11.497167030633117
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 8.469734986973306
 }

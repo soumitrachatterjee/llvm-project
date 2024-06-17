@@ -8,5 +8,6 @@
         "buildkite-pipeline.yml": 53.785796290518796,
         "run-buildbot": 46.214203709481204
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.5339387308163557
 }

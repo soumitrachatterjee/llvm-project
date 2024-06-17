@@ -8,5 +8,6 @@
         "make_signed.pass.cpp": 50.0,
         "make_unsigned.pass.cpp": 50.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 7.1916006931743075
 }

@@ -8,5 +8,6 @@
         "lit.cfg.py": 43.32745313471422,
         "lit.site.cfg.py.in": 56.67254686528578
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 5.21652705387856
 }

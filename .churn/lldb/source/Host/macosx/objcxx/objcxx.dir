@@ -11,5 +11,6 @@
         "HostThreadMacOSX.mm": 5.1047812085604765,
         "PosixSpawnResponsible.h": 1.501646498086594
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 83.2425058163649
 }

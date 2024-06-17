@@ -18,5 +18,6 @@
         "long_double_float_explicit.pass.cpp": 11.111111111111112,
         "long_double_float_implicit.pass.cpp": 11.111111111111112
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 5.451090099106447
 }

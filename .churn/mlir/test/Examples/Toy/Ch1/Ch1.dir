@@ -8,5 +8,6 @@
         "ast.toy": 100.0,
         "empty.toy": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 7.123444426427604
 }

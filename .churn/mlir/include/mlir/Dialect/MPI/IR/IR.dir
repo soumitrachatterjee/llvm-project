@@ -11,5 +11,6 @@
         "MPIOps.td": 20.0,
         "MPITypes.td": 20.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 50.0
 }

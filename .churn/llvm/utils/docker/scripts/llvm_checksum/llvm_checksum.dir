@@ -8,5 +8,6 @@
         "llvm_checksum.py": 44.609311382609405,
         "project_tree.py": 55.390688617390595
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 36.320987886618404
 }

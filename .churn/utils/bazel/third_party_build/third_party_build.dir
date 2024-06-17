@@ -13,5 +13,6 @@
         "zlib-ng.BUILD": 22.109909111771707,
         "zstd.BUILD": 22.109909111771707
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.4137571146371308
 }

@@ -32,5 +32,6 @@
         "MipsOptionRecord.cpp": 2.175917213979507,
         "MipsTargetStreamer.cpp": 11.344897959745655
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 6.775485306445833
 }

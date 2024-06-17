@@ -8,5 +8,6 @@
     "subdirscores": {
         "thread.timedmutex.class": 52.15694461086896,
         "thread.timedmutex.recursive": 47.843055389131045
-    }
+    },
+    "score.percentage": 18.831478443283856
 }

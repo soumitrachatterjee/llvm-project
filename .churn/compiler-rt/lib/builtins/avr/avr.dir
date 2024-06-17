@@ -13,5 +13,6 @@
         "udivmodhi4.S": 0.0,
         "udivmodqi4.S": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.16701394506637546
 }

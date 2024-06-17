@@ -8,5 +8,6 @@
         "auto_ptr.cxx1z.pass.cpp": 74.16998233978867,
         "auto_ptr.depr_in_cxx11.verify.cpp": 25.83001766021132
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 100.0
 }

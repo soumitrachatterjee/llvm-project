@@ -16,5 +16,6 @@
         "non-leaf-intrinsics.ll": 23.512071181798845,
         "printer.ll": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 1.0548094791769598
 }

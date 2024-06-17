@@ -9,5 +9,6 @@
         "benchmark_sparse.py": 23.43615991877553,
         "common.py": 76.56384008122447
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 100.0
 }

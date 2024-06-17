@@ -9,5 +9,6 @@
         "lwg3664.pass.cpp": 27.09509799139379,
         "range.pass.cpp": 25.888340208799548
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 9.350665212410114
 }

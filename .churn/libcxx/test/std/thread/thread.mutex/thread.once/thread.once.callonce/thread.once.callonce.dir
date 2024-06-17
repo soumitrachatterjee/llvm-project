@@ -8,5 +8,6 @@
         "call_once.pass.cpp": 58.76651581475253,
         "race.pass.cpp": 41.23348418524747
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 59.27266628913518
 }

@@ -10,5 +10,6 @@
         "clamp.pass.cpp": 25.776316891639027,
         "ranges.clamp.pass.cpp": 16.921627742286503
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 7.060745269791944
 }

@@ -34,5 +34,6 @@
         "push_front_exception_safety.pass.cpp": 8.006728590466695,
         "push_front_rvalue.pass.cpp": 5.471410449296245
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 14.20223199169425
 }

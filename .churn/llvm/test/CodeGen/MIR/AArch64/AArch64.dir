@@ -55,5 +55,6 @@
         "target-memoperands.mir": 2.2839915511120674,
         "unnamed-stack.ll": 1.7839054196910236
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 14.752120324616463
 }

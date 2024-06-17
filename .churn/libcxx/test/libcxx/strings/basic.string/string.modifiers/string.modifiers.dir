@@ -15,5 +15,6 @@
         "debug.insert.iter_size_char.pass.cpp": 10.081459839187053,
         "resize_default_initialized.pass.cpp": 9.427688724273589
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 34.390983906302644
 }

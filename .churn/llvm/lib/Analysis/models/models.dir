@@ -12,5 +12,6 @@
         "log_reader.py": 21.49634513340006,
         "saved-model-to-tflite.py": 10.255114115700813
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.24404722252954011
 }

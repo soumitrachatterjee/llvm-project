@@ -8,5 +8,6 @@
     "subdirscores": {
         "directory1": 50.0,
         "directory2": 50.0
-    }
+    },
+    "score.percentage": 50.0
 }

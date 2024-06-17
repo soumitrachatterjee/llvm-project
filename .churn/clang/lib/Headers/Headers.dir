@@ -202,5 +202,6 @@
         "llvm_libc_wrappers": 0.3364270162695496,
         "openmp_wrappers": 0.697957618977752,
         "ppc_wrappers": 0.46413380316877595
-    }
+    },
+    "score.percentage": 3.1974408664716734
 }

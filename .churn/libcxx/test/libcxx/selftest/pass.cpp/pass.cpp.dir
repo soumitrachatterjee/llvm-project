@@ -11,5 +11,6 @@
         "run-success.pass.cpp": 20.0,
         "werror.pass.cpp": 20.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 2.8494396053691275
 }

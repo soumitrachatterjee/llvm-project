@@ -8,5 +8,6 @@
     "subdirscores": {
         "non-policy": null,
         "policy": 100.0
-    }
+    },
+    "score.percentage": 32.556170418038754
 }

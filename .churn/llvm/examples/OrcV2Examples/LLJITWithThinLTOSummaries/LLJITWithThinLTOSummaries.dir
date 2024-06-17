@@ -8,5 +8,6 @@
         "CMakeLists.txt": 40.4656195641947,
         "LLJITWithThinLTOSummaries.cpp": 59.53438043580531
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 4.944876144741537
 }

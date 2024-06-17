@@ -13,5 +13,6 @@
         "assert.index_operator.pass.cpp": 10.734309937629853,
         "assert.stride.pass.cpp": 18.762740018350318
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 24.924508231212652
 }

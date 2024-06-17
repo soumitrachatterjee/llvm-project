@@ -17,5 +17,6 @@
         "TestTopologicalSort.cpp": 3.0480450786176045,
         "lit.local.cfg": 1.6608896668769955
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 12.839511534140065
 }

@@ -9,5 +9,6 @@
         "fuzzer_initialize.cpp": 68.45849636102537,
         "fuzzer_initialize.h": 31.54150363897462
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 3.8581110159584453
 }

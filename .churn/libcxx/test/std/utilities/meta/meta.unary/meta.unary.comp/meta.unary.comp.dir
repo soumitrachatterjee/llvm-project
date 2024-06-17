@@ -28,5 +28,6 @@
         "union.pass.cpp": 4.692754496366052,
         "void.pass.cpp": 4.692754496366052
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 16.783228796003552
 }

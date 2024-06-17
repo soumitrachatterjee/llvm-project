@@ -12,5 +12,6 @@
         "strcpy_fuzz.cpp": 22.972250042917366,
         "strstr_fuzz.cpp": 22.184698076363237
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 9.064944755186282
 }

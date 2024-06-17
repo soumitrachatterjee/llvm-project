@@ -10,5 +10,6 @@
         "vector-scalable-memcpy.mlir": 1.3020134228832856,
         "vector-to-llvm.mlir": 81.05387905996787
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 8.441274733500293
 }

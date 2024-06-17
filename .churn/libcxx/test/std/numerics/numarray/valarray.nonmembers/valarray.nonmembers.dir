@@ -10,5 +10,6 @@
         "valarray.comparison": 23.65576110125333,
         "valarray.special": 27.111712858825083,
         "valarray.transcend": 25.407303373374884
-    }
+    },
+    "score.percentage": 15.417422777072371
 }

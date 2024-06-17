@@ -10,5 +10,6 @@
         "TestTilingInterfaceTransformOps.td": 23.17796478916409,
         "lit.local.cfg": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 76.5872426158838
 }

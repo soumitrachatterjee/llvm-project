@@ -14,5 +14,6 @@
         "rtd-ret.ll": 0.0,
         "rte.ll": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 7.5627537954688755
 }

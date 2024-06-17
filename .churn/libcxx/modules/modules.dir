@@ -16,5 +16,6 @@
     "subdirscores": {
         "std": 50.64427252341355,
         "std.compat": 4.096068360058971
-    }
+    },
+    "score.percentage": 0.341201639339214
 }

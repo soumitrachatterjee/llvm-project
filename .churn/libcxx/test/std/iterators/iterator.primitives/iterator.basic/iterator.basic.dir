@@ -8,5 +8,6 @@
         "deprecated.verify.cpp": 0.0,
         "iterator.pass.cpp": 100.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 6.104333985051388
 }

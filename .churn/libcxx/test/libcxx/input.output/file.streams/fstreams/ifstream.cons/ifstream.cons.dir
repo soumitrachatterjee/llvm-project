@@ -8,5 +8,6 @@
         "test.dat": 0.0,
         "wchar_pointer.pass.cpp": 100.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 8.43029650103741
 }

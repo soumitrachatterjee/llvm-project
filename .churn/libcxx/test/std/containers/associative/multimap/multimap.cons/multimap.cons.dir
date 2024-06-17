@@ -34,5 +34,6 @@
         "move_assign_noexcept.pass.cpp": 3.933933221835506,
         "move_noexcept.pass.cpp": 3.9339128209727874
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 32.43502142392259
 }

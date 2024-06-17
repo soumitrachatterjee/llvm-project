@@ -15,5 +15,6 @@
         "next_arg_id.verify.cpp": 2.925861476063619,
         "types.compile.pass.cpp": 9.89050863882086
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 33.948832098932925
 }

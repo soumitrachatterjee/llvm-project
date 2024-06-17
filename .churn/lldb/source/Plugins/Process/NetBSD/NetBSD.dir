@@ -15,5 +15,6 @@
         "NativeThreadNetBSD.cpp": 10.53567166708363,
         "NativeThreadNetBSD.h": 5.234278704066099
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 1.9474960251265587
 }

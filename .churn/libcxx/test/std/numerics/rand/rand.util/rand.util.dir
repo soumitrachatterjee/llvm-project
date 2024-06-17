@@ -8,5 +8,6 @@
     "subdirscores": {
         "rand.util.canonical": 48.52264456486689,
         "rand.util.seedseq": 51.47735543513311
-    }
+    },
+    "score.percentage": 11.456389877280785
 }

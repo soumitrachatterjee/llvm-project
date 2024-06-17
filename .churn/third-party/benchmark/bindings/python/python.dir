@@ -11,5 +11,6 @@
     },
     "subdirscores": {
         "google_benchmark": 38.27562472206939
-    }
+    },
+    "score.percentage": 100.0
 }

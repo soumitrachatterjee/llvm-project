@@ -11,5 +11,6 @@
         "nearmiss.mlir": 3.6500870454667664,
         "outputfile.mlir": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.4260301426896987
 }

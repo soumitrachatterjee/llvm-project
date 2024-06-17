@@ -8,5 +8,6 @@
         "CMakeLists.txt": 35.669678687100095,
         "malloc_benchmark.cpp": 64.3303213128999
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.23467298403301082
 }

@@ -8,5 +8,6 @@
         "AttrToLLVMConverter.cpp": 100.0,
         "CMakeLists.txt": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.3444970377452207
 }

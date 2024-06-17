@@ -9,5 +9,6 @@
         "equivalent_error_code_int.pass.cpp": 33.33333333333333,
         "equivalent_int_error_condition.pass.cpp": 33.33333333333333
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 10.668535697699006
 }

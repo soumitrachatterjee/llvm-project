@@ -12,5 +12,6 @@
     "subdirscores": {
         "thread.condition.condvar": 32.73439198659756,
         "thread.condition.condvarany": 42.439338891005754
-    }
+    },
+    "score.percentage": 14.52268684722419
 }

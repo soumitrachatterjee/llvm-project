@@ -7,5 +7,6 @@
     "filescores": {
         "enable_shared_from_this.pass.cpp": 100.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 7.053481044259681
 }

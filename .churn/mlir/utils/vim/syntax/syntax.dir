@@ -7,5 +7,6 @@
     "filescores": {
         "mlir.vim": 100.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 87.88946073257675
 }

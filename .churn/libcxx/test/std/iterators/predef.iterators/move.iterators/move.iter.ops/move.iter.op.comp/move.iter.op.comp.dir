@@ -13,5 +13,6 @@
         "op_neq.pass.cpp": 14.75759054623063,
         "op_spaceship.pass.cpp": 4.54236847101954
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 9.150013116041684
 }

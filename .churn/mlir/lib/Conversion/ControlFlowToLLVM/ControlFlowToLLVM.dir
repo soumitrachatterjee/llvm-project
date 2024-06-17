@@ -8,5 +8,6 @@
         "CMakeLists.txt": 7.653429958679375,
         "ControlFlowToLLVM.cpp": 92.34657004132062
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.8543408335926552
 }

@@ -40,5 +40,6 @@
         "ComparisonInTempFailureRetryCheck.cpp": 3.3717194021053096,
         "ComparisonInTempFailureRetryCheck.h": 4.27406926763906
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.48673507619371775
 }

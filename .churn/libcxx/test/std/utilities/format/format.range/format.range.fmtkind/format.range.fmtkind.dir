@@ -9,5 +9,6 @@
         "format_kind.verify.cpp": 15.82446553813274,
         "range_format.compile.pass.cpp": 15.82446553813274
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 16.12685864535262
 }

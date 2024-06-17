@@ -10,5 +10,6 @@
         "TestLLDBIterator.py": 47.66150742872653,
         "TestRegistersIterator.py": 40.20519690807497
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 34.620528559856474
 }

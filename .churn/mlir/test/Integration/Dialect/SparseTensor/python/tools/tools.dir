@@ -8,5 +8,6 @@
         "lit.local.cfg": 0.0,
         "sparsifier.py": 100.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 13.235036514038374
 }

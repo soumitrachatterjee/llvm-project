@@ -9,5 +9,6 @@
         "assert.front.pass.cpp": 33.33333333333333,
         "assert.subscript.pass.cpp": 33.33333333333333
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 100.0
 }

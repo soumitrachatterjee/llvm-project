@@ -10,5 +10,6 @@
         "lower-affine.mlir": 59.74710948807079,
         "no-memref.mlir": 7.1557763616669
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 1.2460468177210735
 }

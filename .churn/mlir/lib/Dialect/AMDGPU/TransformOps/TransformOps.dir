@@ -8,5 +8,6 @@
         "AMDGPUTransformOps.cpp": 100.0,
         "CMakeLists.txt": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 4.563381636745956
 }

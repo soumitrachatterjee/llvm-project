@@ -30,5 +30,6 @@
         "to_underlying.h": 5.284988447160878,
         "unreachable.h": 3.5609795111143936
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.8529092243761572
 }

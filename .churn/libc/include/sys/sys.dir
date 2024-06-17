@@ -23,5 +23,6 @@
         "utsname.h.def": 0.0,
         "wait.h.def": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 6.717728375847617
 }

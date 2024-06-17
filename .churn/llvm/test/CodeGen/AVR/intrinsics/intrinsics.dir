@@ -9,5 +9,6 @@
         "named-reg-special.ll": 0.0,
         "stacksave-restore.ll": 100.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.9565145252173484
 }

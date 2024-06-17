@@ -15,5 +15,6 @@
         "transform_error.mandates.verify.cpp": 37.07471933388844,
         "value.lwg3940.verify.cpp": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 48.651376572338165
 }

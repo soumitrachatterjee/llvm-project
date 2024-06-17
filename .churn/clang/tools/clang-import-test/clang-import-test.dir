@@ -8,5 +8,6 @@
         "clang-import-test.cpp": 84.72933528513919,
         "CMakeLists.txt": 15.270664714860816
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 1.1398501383814572
 }

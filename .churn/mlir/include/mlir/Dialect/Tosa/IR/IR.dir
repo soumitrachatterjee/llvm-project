@@ -15,5 +15,6 @@
         "TosaTypesBase.td": 10.197535201229895,
         "TosaUtilOps.td": 4.352104568719107
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 70.31660914984369
 }

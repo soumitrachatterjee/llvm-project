@@ -9,5 +9,6 @@
         "scan-build.bat": 0.0,
         "set-xcode-analyzer": 19.229070872304025
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 30.782672972761034
 }

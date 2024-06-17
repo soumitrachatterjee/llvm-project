@@ -11,5 +11,6 @@
         "assign.unexpected.move.pass.cpp": 21.225559826534187,
         "emplace.pass.cpp": 15.097760693863242
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 13.39418015825454
 }

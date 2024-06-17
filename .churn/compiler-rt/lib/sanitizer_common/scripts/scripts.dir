@@ -8,5 +8,6 @@
         "gen_dynamic_list.py": 60.121726826938115,
         "sancov.py": 39.87827317306189
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 1.6774028491539614
 }

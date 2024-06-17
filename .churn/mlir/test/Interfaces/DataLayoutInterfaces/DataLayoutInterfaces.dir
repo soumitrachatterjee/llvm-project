@@ -9,5 +9,6 @@
         "query.mlir": 39.16139657597941,
         "types.mlir": 39.386766593634334
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 9.668961698776867
 }

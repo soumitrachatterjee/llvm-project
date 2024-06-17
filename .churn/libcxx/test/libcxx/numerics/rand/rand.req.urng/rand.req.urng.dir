@@ -8,5 +8,6 @@
         "valid_int_type.verify.cpp": 100.0,
         "valid_real_type.verify.cpp": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 26.380476575339067
 }

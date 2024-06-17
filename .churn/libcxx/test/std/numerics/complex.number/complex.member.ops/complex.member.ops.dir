@@ -16,5 +16,6 @@
         "times_equal_complex.pass.cpp": 10.48020626221966,
         "times_equal_scalar.pass.cpp": 9.794197316191573
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 5.031838291537119
 }

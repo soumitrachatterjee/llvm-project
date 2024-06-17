@@ -8,5 +8,6 @@
         "indirectly_readable.compile.pass.cpp": 53.3957258071731,
         "iter_common_reference_t.compile.pass.cpp": 46.60427419282689
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 9.053313899752343
 }

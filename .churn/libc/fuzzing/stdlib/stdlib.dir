@@ -13,5 +13,6 @@
         "strtointeger_differential_fuzz.cpp": 6.004943407294385,
         "strtointeger_fuzz.cpp": 5.3688816900815315
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 44.995419346082414
 }

@@ -8,5 +8,6 @@
         "io.pass.cpp": 100.0,
         "io.verify.cpp": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 70.53030578327562
 }

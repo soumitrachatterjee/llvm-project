@@ -8,5 +8,6 @@
         "mlir-lsp-client.el": 28.031696507854225,
         "mlir-mode.el": 71.96830349214578
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 5.6207658485757905
 }

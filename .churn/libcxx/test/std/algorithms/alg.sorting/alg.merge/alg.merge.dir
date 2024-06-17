@@ -14,5 +14,6 @@
         "ranges_inplace_merge.pass.cpp": 7.041015815497598,
         "ranges_merge.pass.cpp": 4.494865114377471
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 16.943350804709038
 }

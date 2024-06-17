@@ -50,5 +50,6 @@
         "ThinLTOBitcodeWriter.cpp": 1.2377995273095816,
         "WholeProgramDevirt.cpp": 3.000747058723851
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 16.19732288451678
 }

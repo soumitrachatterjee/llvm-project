@@ -80,5 +80,6 @@
         "pthread_setspecific.cpp": 1.0187851834139612,
         "pthread_setspecific.h": 1.0187851834139612
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.7182627181039833
 }

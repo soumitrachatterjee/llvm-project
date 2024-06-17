@@ -7,5 +7,6 @@
     "filescores": {
         "move_constructible.compile.pass.cpp": 100.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 5.488278790801323
 }

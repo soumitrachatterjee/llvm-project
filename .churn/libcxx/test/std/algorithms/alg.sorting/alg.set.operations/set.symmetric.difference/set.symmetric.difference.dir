@@ -9,5 +9,6 @@
         "set_symmetric_difference.pass.cpp": 43.032659376176206,
         "set_symmetric_difference_comp.pass.cpp": 43.032659376176206
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 19.727425759565868
 }

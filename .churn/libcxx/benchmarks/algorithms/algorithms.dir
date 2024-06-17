@@ -31,5 +31,6 @@
         "sort_heap.bench.cpp": 5.133787634703847,
         "stable_sort.bench.cpp": 9.620011316039465
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 7.615315603176695
 }

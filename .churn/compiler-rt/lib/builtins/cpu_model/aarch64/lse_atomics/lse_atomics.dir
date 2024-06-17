@@ -10,5 +10,6 @@
         "fuchsia.inc": 26.064013291936327,
         "sysauxv.inc": 26.064013291936327
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 22.631431069364897
 }

@@ -11,5 +11,6 @@
         "memory_resource_convert.pass.cpp": 27.260355745405423,
         "other_alloc.pass.cpp": 15.581196482086423
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 21.67658358839403
 }

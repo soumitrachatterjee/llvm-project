@@ -208,5 +208,6 @@
         "xop-builtins-cmp.c": 0.2856758905290942,
         "xop-builtins.c": 0.2856758905290942
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 2.7260370154300047
 }

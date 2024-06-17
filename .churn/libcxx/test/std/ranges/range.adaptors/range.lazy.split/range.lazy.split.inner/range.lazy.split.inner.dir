@@ -15,5 +15,6 @@
         "iter_swap.pass.cpp": 14.417292343176136,
         "types.compile.pass.cpp": 9.652523024877734
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 9.473067338100368
 }

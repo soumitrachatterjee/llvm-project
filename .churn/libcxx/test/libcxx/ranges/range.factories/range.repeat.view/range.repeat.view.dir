@@ -9,5 +9,6 @@
         "ctor.value.bound.pass.cpp": 50.0,
         "no_unique_address.compile.pass.cpp": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 67.66409780643089
 }

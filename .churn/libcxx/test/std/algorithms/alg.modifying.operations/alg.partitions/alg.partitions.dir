@@ -15,5 +15,6 @@
         "ranges_stable_partition.pass.cpp": 4.600497594920179,
         "stable_partition.pass.cpp": 14.347117232482965
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 8.063966541193794
 }

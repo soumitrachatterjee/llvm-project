@@ -11,5 +11,6 @@
         "llvm_backend.ml.in": 14.548193055475434,
         "llvm_backend.mli.in": 14.548193055475434
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 1.4513810280900008
 }

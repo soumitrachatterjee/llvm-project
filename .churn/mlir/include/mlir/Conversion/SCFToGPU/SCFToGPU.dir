@@ -8,5 +8,6 @@
         "SCFToGPU.h": 46.15424526808417,
         "SCFToGPUPass.h": 53.84575473191583
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 1.5888174468413778
 }

@@ -15,5 +15,6 @@
         "rtest": 0.0,
         "testcases": 33.33333333333333,
         "traces": 0.0
-    }
+    },
+    "score.percentage": 33.845435467056895
 }

@@ -10,5 +10,6 @@
         "modify-watchpoints": 16.57130028993991,
         "unaligned-large-watchpoint": 8.404497638321761,
         "unaligned-spanning-two-dwords": 36.412358495911846
-    }
+    },
+    "score.percentage": 1.1617722337750194
 }

@@ -12,5 +12,6 @@
         "SCFOps.td": 79.5105325164829,
         "ValueBoundsOpInterfaceImpl.h": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 42.141612717136965
 }

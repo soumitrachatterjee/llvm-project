@@ -8,5 +8,6 @@
         "sleep_for.pass.cpp": 73.38088330273625,
         "sleep_for.signals.pass.cpp": 26.619116697263756
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 72.6229228858073
 }

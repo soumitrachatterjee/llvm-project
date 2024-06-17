@@ -10,5 +10,6 @@
         "SelectionDAGCompat.td": 31.635867768717045,
         "Target.td": 2.721911062120342
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 15.537808088953357
 }

@@ -9,5 +9,6 @@
         "quick-sanity-test.cpp": 41.38810725821777,
         "thorough-test.cpp": 31.630963646160225
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 1.5191092461649074
 }

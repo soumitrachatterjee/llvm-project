@@ -38,5 +38,6 @@
         "stdout.cpp": 0.0,
         "ungetc.cpp": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 1.941834330516818
 }

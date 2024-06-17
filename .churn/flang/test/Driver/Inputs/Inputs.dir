@@ -20,5 +20,6 @@
     "subdirscores": {
         "header-dir": 0.0,
         "module-dir": 0.0
-    }
+    },
+    "score.percentage": 0.7126134290670956
 }

@@ -16,5 +16,6 @@
         "ScheduleOrderedAssignments.h": 0.0,
         "SimplifyHLFIRIntrinsics.cpp": 3.3442866813448067
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 71.71288483389876
 }

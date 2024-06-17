@@ -12,5 +12,6 @@
         "main_without_envp.cpp": 11.718617096625687,
         "tls_test.cpp": 41.40691451687156
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 37.49130974194379
 }

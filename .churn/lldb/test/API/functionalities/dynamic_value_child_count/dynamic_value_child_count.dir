@@ -9,5 +9,6 @@
         "pass-to-base.cpp": 0.0,
         "TestDynamicValueChildCount.py": 100.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.5294383575864706
 }

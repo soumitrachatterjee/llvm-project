@@ -13,5 +13,6 @@
         "thread.lock.scoped": 8.569445615467236,
         "thread.lock.shared": 40.1381071852389,
         "thread.lock.unique": 25.224278649346637
-    }
+    },
+    "score.percentage": 50.078091405397295
 }

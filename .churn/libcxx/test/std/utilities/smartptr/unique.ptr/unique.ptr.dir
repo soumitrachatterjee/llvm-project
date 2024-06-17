@@ -12,5 +12,6 @@
         "unique.ptr.create": 23.56713123507708,
         "unique.ptr.dltr": 13.956488509528953,
         "unique.ptr.special": 12.809090691911868
-    }
+    },
+    "score.percentage": 100.0
 }

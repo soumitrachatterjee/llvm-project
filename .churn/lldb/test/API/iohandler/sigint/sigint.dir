@@ -10,5 +10,6 @@
         "TestIOHandlerPythonREPLSigint.py": 45.360671078250505,
         "TestProcessIOHandlerInterrupt.py": 30.72113996989564
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 16.580594417797048
 }

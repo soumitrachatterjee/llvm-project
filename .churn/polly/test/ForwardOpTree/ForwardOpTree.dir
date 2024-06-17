@@ -41,5 +41,6 @@
         "noforward_synthesizable_unknownit.ll": 2.103927468678702,
         "out-of-quota1.ll": 2.5952652675117123
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 2.040937267445088
 }

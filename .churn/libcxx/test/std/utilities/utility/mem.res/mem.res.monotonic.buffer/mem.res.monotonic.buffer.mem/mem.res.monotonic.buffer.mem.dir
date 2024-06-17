@@ -14,5 +14,6 @@
         "allocate_with_initial_size.pass.cpp": 14.959668436919602,
         "equality.pass.cpp": 13.789584255824133
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 63.29172429233131
 }

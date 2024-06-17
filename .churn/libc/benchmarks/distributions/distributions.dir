@@ -44,5 +44,6 @@
         "README.md": 0.0,
         "Uniform384To4096.csv": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 1.8442944676013773
 }

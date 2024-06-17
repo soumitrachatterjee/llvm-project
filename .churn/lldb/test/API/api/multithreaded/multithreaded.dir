@@ -19,5 +19,6 @@
         "test_listener_resume.cpp.template": 0.0,
         "test_stop-hook.cpp.template": 8.258510498666352
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 23.82124791234668
 }

@@ -7,5 +7,6 @@
     "filescores": {
         "FuzzedDataProvider.h": 100.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 2.269264904222666
 }

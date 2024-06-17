@@ -39,5 +39,6 @@
         "sqrt.hlsl": 3.156952720785222,
         "trunc.hlsl": 5.8834925632231085
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 45.89201561350975
 }

@@ -8,5 +8,6 @@
         "a.yaml": 0.0,
         "TestDumpSymtabDemangle.py": 100.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 5.036273396955057
 }

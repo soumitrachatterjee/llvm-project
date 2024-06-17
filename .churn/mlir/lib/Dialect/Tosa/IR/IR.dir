@@ -9,5 +9,6 @@
         "TosaCanonicalizations.cpp": 21.554000012669523,
         "TosaOps.cpp": 76.13084445759915
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 56.82204115414812
 }

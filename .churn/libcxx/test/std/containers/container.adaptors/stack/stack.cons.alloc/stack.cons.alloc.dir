@@ -12,5 +12,6 @@
         "ctor_rcontainer_alloc.pass.cpp": 23.182873909347794,
         "ctor_rqueue_alloc.pass.cpp": 23.182873909347794
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 15.278607854811169
 }

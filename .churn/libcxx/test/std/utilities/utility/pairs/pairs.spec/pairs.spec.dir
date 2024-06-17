@@ -11,5 +11,6 @@
         "non_member_swap.pass.cpp": 24.161832649318463,
         "three_way_comparison.pass.cpp": 13.489864568635666
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 12.329298989219035
 }

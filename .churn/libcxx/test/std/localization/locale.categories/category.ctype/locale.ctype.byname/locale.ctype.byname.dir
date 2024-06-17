@@ -20,5 +20,6 @@
         "widen_1.pass.cpp": 9.401306498193177,
         "widen_many.pass.cpp": 9.401306498193177
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 19.676862105928077
 }

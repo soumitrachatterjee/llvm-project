@@ -11,5 +11,6 @@
         "weak.c": 27.423683980837122,
         "wrong-signature-mixed-lto.c": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 6.348709023537263
 }

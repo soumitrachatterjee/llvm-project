@@ -98,5 +98,6 @@
         "wrapping_op.mlir": 1.0692584229342266,
         "zero_whitespace.mlir": 0.2558431615437228
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 3.030933493165455
 }

@@ -23,5 +23,6 @@
         "tolower_test.cpp": 5.756376801430997,
         "toupper_test.cpp": 5.756376801430997
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.7128858100413961
 }

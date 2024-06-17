@@ -35,5 +35,6 @@
         "quiet-start.cpp": 2.3839654314926952,
         "typed-event-logging.cpp": 2.5311415847178576
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 100.0
 }

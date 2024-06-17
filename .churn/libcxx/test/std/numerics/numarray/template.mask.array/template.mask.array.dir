@@ -12,5 +12,6 @@
         "mask.array.assign": 25.0,
         "mask.array.comp.assign": 25.0,
         "mask.array.fill": 25.0
-    }
+    },
+    "score.percentage": 9.843979221546858
 }

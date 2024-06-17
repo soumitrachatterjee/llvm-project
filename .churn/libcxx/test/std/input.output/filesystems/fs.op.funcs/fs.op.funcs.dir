@@ -45,5 +45,6 @@
         "fs.op.symlink_status": 3.537262229870163,
         "fs.op.temp_dir_path": 2.7867842219631966,
         "fs.op.weakly_canonical": 3.0364178961695627
-    }
+    },
+    "score.percentage": 25.55832437324185
 }

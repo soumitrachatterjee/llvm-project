@@ -12,5 +12,6 @@
         "make_error_code.pass.cpp": 15.410225918821343,
         "make_error_condition.pass.cpp": 15.410225918821343
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 4.778771196587253
 }

@@ -12,5 +12,6 @@
         "optional.object.assign": 26.66989942204408,
         "optional.object.ctor": 19.78137396730509,
         "optional.object.observe": 42.287804883220645
-    }
+    },
+    "score.percentage": 90.46864293567181
 }

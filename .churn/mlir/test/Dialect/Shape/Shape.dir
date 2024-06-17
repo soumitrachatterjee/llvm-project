@@ -14,5 +14,6 @@
         "remove-shape-constraints.mlir": 2.9720783086096674,
         "shape-to-shape.mlir": 4.296081942463246
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 1.1677509280486282
 }

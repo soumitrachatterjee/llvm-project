@@ -8,5 +8,6 @@
         "to_underlying.pass.cpp": 37.62601819699414,
         "to_underlying.verify.cpp": 62.373981803005854
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 2.027603590925629
 }

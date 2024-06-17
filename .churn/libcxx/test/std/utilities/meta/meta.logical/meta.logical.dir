@@ -9,5 +9,6 @@
         "disjunction.compile.pass.cpp": 18.85453045980255,
         "negation.pass.cpp": 62.290939080394914
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 3.0631322012430426
 }

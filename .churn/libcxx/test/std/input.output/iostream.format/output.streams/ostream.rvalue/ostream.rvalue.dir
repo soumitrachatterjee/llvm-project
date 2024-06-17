@@ -8,5 +8,6 @@
         "not_ostreamable.verify.cpp": 36.85284747058811,
         "rvalue.pass.cpp": 63.1471525294119
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 14.446278364855006
 }

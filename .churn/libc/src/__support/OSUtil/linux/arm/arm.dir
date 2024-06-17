@@ -8,5 +8,6 @@
         "CMakeLists.txt": 0.0,
         "syscall.h": 100.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 8.869402872467594
 }

@@ -9,5 +9,6 @@
         "bind_test.cpp": 34.2662455380052,
         "socket_test.cpp": 46.26823073940293
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 100.0
 }

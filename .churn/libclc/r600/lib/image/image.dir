@@ -21,5 +21,6 @@
         "write_imagei.cl": 6.460392520281112,
         "write_imageui.cl": 6.460392520281112
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 4.956376068045554
 }

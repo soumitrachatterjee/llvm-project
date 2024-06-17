@@ -25,5 +25,6 @@
         "YAML.h": 2.2965274861007656,
         "yaml2obj.h": 2.134010730052396
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.4856176378926764
 }

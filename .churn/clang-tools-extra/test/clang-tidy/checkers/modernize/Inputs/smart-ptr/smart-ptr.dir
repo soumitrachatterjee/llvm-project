@@ -9,5 +9,6 @@
         "shared_ptr.h": 100.0,
         "unique_ptr.h": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 28.624268247583984
 }

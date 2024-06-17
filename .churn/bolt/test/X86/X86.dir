@@ -270,5 +270,6 @@
     "subdirscores": {
         "Inputs": 17.98984129213333,
         "MachO": 0.0
-    }
+    },
+    "score.percentage": 58.02352872935527
 }

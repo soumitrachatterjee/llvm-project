@@ -60,5 +60,6 @@
         "variadic.c": 1.829745589026945,
         "voidarg.c": 1.829745589026945
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.058872884578476566
 }

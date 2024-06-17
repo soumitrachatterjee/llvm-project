@@ -10,5 +10,6 @@
         "ErrorCodeEnum.pass.cpp": 27.383643054210626,
         "lwg3629.pass.cpp": 10.847600350214853
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 20.387245799589458
 }

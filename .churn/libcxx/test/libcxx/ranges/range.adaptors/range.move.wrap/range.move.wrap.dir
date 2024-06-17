@@ -17,5 +17,6 @@
         "properties.compile.pass.cpp": 0.0,
         "types.h": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 4.025380669185874
 }

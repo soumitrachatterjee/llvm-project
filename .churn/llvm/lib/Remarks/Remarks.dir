@@ -20,5 +20,6 @@
         "YAMLRemarkParser.h": 5.771070992809327,
         "YAMLRemarkSerializer.cpp": 9.545865035450095
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.02291660048162056
 }

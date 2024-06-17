@@ -9,5 +9,6 @@
     },
     "subdirscores": {
         "IR": 50.0
-    }
+    },
+    "score.percentage": 0.02057121095612598
 }

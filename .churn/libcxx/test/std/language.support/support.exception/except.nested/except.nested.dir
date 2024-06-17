@@ -12,5 +12,6 @@
         "rethrow_nested.pass.cpp": 19.092803420493727,
         "throw_with_nested.pass.cpp": 21.559210308402317
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 25.25222683955889
 }

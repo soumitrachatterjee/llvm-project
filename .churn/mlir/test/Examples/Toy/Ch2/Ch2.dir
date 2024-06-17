@@ -11,5 +11,6 @@
         "invalid.mlir": 16.156769273558414,
         "scalar.toy": 15.610946507257747
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 7.870972771143031
 }

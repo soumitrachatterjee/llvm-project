@@ -29,5 +29,6 @@
         "nullptr_t.pass.cpp": 3.507619184696565,
         "nullptr_t_assign.pass.cpp": 6.235027699528853
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 43.904689226472684
 }

@@ -11,5 +11,6 @@
         "must_be_executed_context.ll": 18.054371016902174,
         "pr57780.ll": 15.63650418412029
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.3149487429237585
 }

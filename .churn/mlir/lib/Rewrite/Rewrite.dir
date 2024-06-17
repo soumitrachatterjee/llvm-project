@@ -11,5 +11,6 @@
         "FrozenRewritePatternSet.cpp": 15.55954505393817,
         "PatternApplicator.cpp": 15.50493606588371
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.36092225286090845
 }

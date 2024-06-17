@@ -8,5 +8,6 @@
         "CMakeLists.txt": 39.24889888775211,
         "mlir-spirv-cpu-runner.cpp": 60.75110111224789
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 2.340391564357206
 }

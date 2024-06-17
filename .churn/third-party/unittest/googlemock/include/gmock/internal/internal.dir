@@ -11,5 +11,6 @@
     },
     "subdirscores": {
         "custom": 25.0
-    }
+    },
+    "score.percentage": 10.0
 }

@@ -16,5 +16,6 @@
         "RuntimeDyldMachOI386.h": 11.56966767763951,
         "RuntimeDyldMachOX86_64.h": 9.970431026044102
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 7.857152603087505
 }

@@ -11,5 +11,6 @@
         "bit_width.pass.cpp": 25.324198490959652,
         "has_single_bit.pass.cpp": 23.933403030269506
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 37.582602812578806
 }

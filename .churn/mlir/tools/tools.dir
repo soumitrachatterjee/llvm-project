@@ -24,5 +24,6 @@
         "mlir-vulkan-runner": 4.522481976908959,
         "tblgen-lsp-server": 0.23695972874462437,
         "tblgen-to-irdl": 0.15563344787623928
-    }
+    },
+    "score.percentage": 3.4445008954440297
 }

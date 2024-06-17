@@ -8,5 +8,6 @@
     "subdirscores": {
         "absl": 100.0,
         "folly": 0.0
-    }
+    },
+    "score.percentage": 62.38103429028323
 }

@@ -12,5 +12,6 @@
         "util.smartptr.shared.atomic": 4.4574397095539355,
         "util.smartptr.weak": 13.311726527663422,
         "util.smartptr.weakptr": 3.936568205539769
-    }
+    },
+    "score.percentage": 35.15720842024751
 }

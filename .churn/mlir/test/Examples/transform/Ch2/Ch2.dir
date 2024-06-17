@@ -9,5 +9,6 @@
         "ops.mlir": 28.8580384641823,
         "sequence.mlir": 42.283923071635385
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 17.86116488250494
 }

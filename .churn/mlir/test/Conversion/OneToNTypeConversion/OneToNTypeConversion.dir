@@ -8,5 +8,6 @@
         "one-to-n-type-conversion.mlir": 62.93391471454364,
         "scf-structural-one-to-n-type-conversion.mlir": 37.06608528545637
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.28262497189418345
 }

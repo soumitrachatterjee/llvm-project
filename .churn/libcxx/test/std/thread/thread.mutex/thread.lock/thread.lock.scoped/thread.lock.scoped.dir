@@ -13,5 +13,6 @@
         "mutex.verify.cpp": 0.0,
         "types.pass.cpp": 35.4037098000744
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 8.569445615467236
 }

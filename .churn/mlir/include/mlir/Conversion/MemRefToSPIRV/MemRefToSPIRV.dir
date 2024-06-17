@@ -8,5 +8,6 @@
         "MemRefToSPIRV.h": 39.757686321238154,
         "MemRefToSPIRVPass.h": 60.24231367876186
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 1.4191336165133743
 }

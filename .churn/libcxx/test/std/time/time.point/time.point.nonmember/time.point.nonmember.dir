@@ -9,5 +9,6 @@
         "op_-duration.pass.cpp": 100.0,
         "op_-time_point.pass.cpp": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 65.11653699219816
 }

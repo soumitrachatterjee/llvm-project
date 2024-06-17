@@ -12,5 +12,6 @@
         "setbuf.pass.cpp": 13.174318368390486,
         "underflow.pass.cpp": 13.174318368390486
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 19.92232667749049
 }

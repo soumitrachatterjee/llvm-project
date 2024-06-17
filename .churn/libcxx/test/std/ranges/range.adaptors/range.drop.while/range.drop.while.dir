@@ -17,5 +17,6 @@
         "pred.pass.cpp": 0.0,
         "range.concept.compile.pass.cpp": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 1.5950084265181605
 }

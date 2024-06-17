@@ -12,5 +12,6 @@
     "subdirscores": {
         "bitfield": 6.48238189989905,
         "recognizer_function": 3.1638668339686102
-    }
+    },
+    "score.percentage": 10.021918339210728
 }

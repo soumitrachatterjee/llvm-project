@@ -8,5 +8,6 @@
         "LLVMIRToLLVMTranslation.h": 0.0,
         "LLVMToLLVMIRTranslation.h": 100.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 5.936381015923823
 }

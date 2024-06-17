@@ -7,5 +7,6 @@
     "filescores": {
         "gen_decision_forest.gni": 100.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 1.5723222385519893
 }

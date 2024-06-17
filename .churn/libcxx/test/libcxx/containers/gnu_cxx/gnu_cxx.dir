@@ -10,5 +10,6 @@
         "hash_set.pass.cpp": 35.126862173151515,
         "hash_set_name_lookup.pass.cpp": 14.87313782684848
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 5.098665716067682
 }

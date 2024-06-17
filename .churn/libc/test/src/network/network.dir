@@ -11,5 +11,6 @@
         "ntohl_test.cpp": 19.44043926817948,
         "ntohs_test.cpp": 19.44043926817948
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.16223182794769386
 }

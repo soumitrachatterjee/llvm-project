@@ -9,5 +9,6 @@
         "FuncToEmitC.cpp": 50.0,
         "FuncToEmitCPass.cpp": 50.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.07838914959459717
 }

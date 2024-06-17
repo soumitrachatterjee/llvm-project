@@ -8,5 +8,6 @@
         "comparisons.pass.cpp": 25.364872034482723,
         "ostream.pass.cpp": 74.63512796551728
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 81.44340495403824
 }

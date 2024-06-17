@@ -17,5 +17,6 @@
         "signed-bitwise-standard-types.h": 0.0,
         "signed-bitwise.cpp": 31.885152833813535
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.6931494625503296
 }

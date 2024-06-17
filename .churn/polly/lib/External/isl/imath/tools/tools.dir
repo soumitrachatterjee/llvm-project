@@ -8,5 +8,6 @@
         "findthreshold.py": 0.0,
         "mkdoc.py": 100.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 4.2084031667717
 }

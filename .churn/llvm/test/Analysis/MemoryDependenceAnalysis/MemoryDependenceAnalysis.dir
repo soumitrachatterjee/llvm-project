@@ -14,5 +14,6 @@
         "reorder-over-store-atomic.ll": 11.1997358739632,
         "reorder-volatile.ll": 11.195993626396927
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.7592762042056566
 }

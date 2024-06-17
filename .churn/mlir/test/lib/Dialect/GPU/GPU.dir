@@ -9,5 +9,6 @@
         "TestGpuMemoryPromotion.cpp": 20.6800811782878,
         "TestGpuRewrite.cpp": 24.937442231839817
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 4.167067662624442
 }

@@ -10,5 +10,6 @@
         "stripped-debug-sections.yaml": 22.6803867607703,
         "unified-debug-sections.yaml": 24.166129517170475
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 5.8366659774379475
 }

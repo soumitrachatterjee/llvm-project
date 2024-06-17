@@ -24,5 +24,6 @@
         "ssize.pass.cpp": 10.094640456859894,
         "ssize.verify.cpp": 3.6298972876807367
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 14.08789186456349
 }

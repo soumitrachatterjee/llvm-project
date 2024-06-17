@@ -9,5 +9,6 @@
         "LLVMPrintFunctionNames.cpp": 100.0,
         "LLVMPrintFunctionNames.exports": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 1.816937151947433
 }

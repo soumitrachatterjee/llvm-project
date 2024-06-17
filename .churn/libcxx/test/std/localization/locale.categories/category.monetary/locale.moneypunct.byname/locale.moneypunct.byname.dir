@@ -15,5 +15,6 @@
         "pos_format.pass.cpp": 13.231561043863913,
         "thousands_sep.pass.cpp": 18.79511954103231
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 27.848136689595936
 }

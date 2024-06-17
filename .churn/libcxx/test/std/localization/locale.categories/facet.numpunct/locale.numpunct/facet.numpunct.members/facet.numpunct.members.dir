@@ -11,5 +11,6 @@
         "thousands_sep.pass.cpp": 20.0,
         "truename.pass.cpp": 20.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 26.358394463702446
 }

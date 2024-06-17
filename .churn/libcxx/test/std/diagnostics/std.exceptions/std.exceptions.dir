@@ -15,5 +15,6 @@
         "range.error": 11.111111111111112,
         "runtime.error": 11.111111111111112,
         "underflow.error": 11.111111111111112
-    }
+    },
+    "score.percentage": 7.318745525777648
 }

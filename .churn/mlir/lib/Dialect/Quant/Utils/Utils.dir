@@ -9,5 +9,6 @@
         "FakeQuantSupport.cpp": 31.30436121813785,
         "UniformSupport.cpp": 43.75045351919604
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 22.234263044749685
 }

@@ -8,5 +8,6 @@
         "CMakeLists.txt": 47.468467401767136,
         "mlir-reduce.cpp": 52.531532598232864
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 1.2190716845442005
 }

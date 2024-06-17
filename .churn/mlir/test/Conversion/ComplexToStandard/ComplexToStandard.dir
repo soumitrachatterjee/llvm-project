@@ -8,5 +8,6 @@
         "convert-to-standard.mlir": 72.68421349455737,
         "full-conversion.mlir": 27.31578650544263
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 2.863420909692434
 }

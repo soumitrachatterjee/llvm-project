@@ -8,5 +8,6 @@
         "predicate.compile.pass.cpp": 56.23835427630991,
         "predicate.subsumption.compile.pass.cpp": 43.76164572369009
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 16.397776978994635
 }

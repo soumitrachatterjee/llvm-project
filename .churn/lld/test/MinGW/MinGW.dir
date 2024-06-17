@@ -9,5 +9,6 @@
         "error-limit.test": 0.0,
         "lib.test": 12.867684659294632
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 1.224563980482621
 }

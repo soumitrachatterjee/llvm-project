@@ -8,5 +8,6 @@
         "make_integer_seq.pass.cpp": 77.76905335616203,
         "make_integer_seq.verify.cpp": 22.230946643837974
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 51.83600043698489
 }

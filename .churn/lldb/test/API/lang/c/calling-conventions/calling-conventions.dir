@@ -15,5 +15,6 @@
         "TestCCallingConventions.py": 100.0,
         "vectorcall.c": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 2.427780473909499
 }

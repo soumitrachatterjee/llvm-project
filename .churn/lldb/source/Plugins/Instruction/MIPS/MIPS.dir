@@ -9,5 +9,6 @@
         "EmulateInstructionMIPS.cpp": 70.89027630901029,
         "EmulateInstructionMIPS.h": 24.758814393438623
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 16.22422378428963
 }

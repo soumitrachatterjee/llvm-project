@@ -8,5 +8,6 @@
         "invoke-vulkan.mlir": 35.4627093705972,
         "lower-gpu-launch-vulkan-launch.mlir": 64.53729062940279
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 1.2100970565872262
 }

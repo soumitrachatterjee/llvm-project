@@ -10,5 +10,6 @@
         "RustEnumValue.py": 50.0,
         "TestRustEnumStructs.py": 50.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 100.0
 }

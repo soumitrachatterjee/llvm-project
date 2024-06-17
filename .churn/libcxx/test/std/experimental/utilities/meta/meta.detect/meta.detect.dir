@@ -13,5 +13,6 @@
         "nonesuch.pass.cpp": 8.12138251796957,
         "nonesuch.verify.cpp": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 100.0
 }

@@ -8,5 +8,6 @@
         "invalid.mlir": 50.89199538005366,
         "roundtrip.mlir": 49.108004619946335
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.05233937089777342
 }

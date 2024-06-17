@@ -11,5 +11,6 @@
     "subdirscores": {
         "range.lazy.split.inner": 40.168091946658436,
         "range.lazy.split.outer": 40.168091946658436
-    }
+    },
+    "score.percentage": 29.105928190147484
 }

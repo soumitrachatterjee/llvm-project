@@ -8,5 +8,6 @@
         "assert.set_exception.pass.cpp": 50.0,
         "assert.set_exception_at_thread_exit.pass.cpp": 50.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 83.82516455260544
 }

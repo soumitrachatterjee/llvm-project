@@ -9,5 +9,6 @@
         "at.const.abort.pass.cpp": 50.0,
         "find.modules.compile.pass.mm": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 27.925233014160078
 }

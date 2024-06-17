@@ -9,5 +9,6 @@
         "TensorToSPIRV.cpp": 33.418353055266216,
         "TensorToSPIRVPass.cpp": 52.363941197884834
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.47635611285433943
 }

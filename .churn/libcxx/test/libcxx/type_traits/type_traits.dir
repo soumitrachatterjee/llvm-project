@@ -19,5 +19,6 @@
         "is_trivially_relocatable.compile.pass.cpp": 4.102702859490622,
         "lazy_metafunctions.pass.cpp": 15.863396327558785
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 2.1921654442716534
 }

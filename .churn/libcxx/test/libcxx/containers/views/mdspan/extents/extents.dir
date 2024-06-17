@@ -11,5 +11,6 @@
         "assert.ctor_from_span.pass.cpp": 20.0,
         "assert.obs.pass.cpp": 20.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 9.480258494336896
 }

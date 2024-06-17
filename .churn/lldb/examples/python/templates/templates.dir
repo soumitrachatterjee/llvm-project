@@ -10,5 +10,6 @@
         "scripted_platform.py": 0.0,
         "scripted_process.py": 50.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.8014701966997689
 }

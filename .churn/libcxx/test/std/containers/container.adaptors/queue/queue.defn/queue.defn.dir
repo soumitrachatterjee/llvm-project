@@ -24,5 +24,6 @@
         "types.compile.fail.cpp": 0.0,
         "types.pass.cpp": 6.601077573459118
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 32.65436017830517
 }

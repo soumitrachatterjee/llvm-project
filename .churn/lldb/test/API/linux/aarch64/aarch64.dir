@@ -17,5 +17,6 @@
         "tagged_memory_region": 11.66408390777037,
         "tls_registers": 7.325935060738939,
         "unwind_signal": 10.188262614293771
-    }
+    },
+    "score.percentage": 67.36646934947173
 }

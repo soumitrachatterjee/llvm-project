@@ -14,5 +14,6 @@
         "mem.res.global": 14.255135890680837,
         "mem.res.monotonic.buffer": 15.8177146751388,
         "mem.res.pool": 12.700582506483608
-    }
+    },
+    "score.percentage": 5.422398316743219
 }

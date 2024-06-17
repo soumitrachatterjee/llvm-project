@@ -23,5 +23,6 @@
         "GNUmakefile": 0.0,
         "TestNetBSDCore.py": 100.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 8.409897450268664
 }

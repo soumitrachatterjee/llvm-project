@@ -37,5 +37,6 @@
         "strtoul_test.cpp": 2.158604619524374,
         "strtoull_test.cpp": 2.1395953983292437
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 6.61318124620963
 }

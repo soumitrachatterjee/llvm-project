@@ -28,5 +28,6 @@
         "i386.def": 0.0,
         "x86_64.def": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 8.832293248616011
 }

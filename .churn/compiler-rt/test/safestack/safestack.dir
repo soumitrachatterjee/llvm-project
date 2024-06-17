@@ -19,5 +19,6 @@
         "pthread.c": 9.250560799613742,
         "utils.h": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.35267327893383743
 }

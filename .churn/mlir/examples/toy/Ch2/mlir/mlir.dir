@@ -8,5 +8,6 @@
         "Dialect.cpp": 55.64492898833703,
         "MLIRGen.cpp": 44.355071011662986
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 37.71631974961829
 }

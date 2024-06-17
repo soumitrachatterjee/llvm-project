@@ -31,5 +31,6 @@
         "ranges.min_element.pass.cpp": 2.063611277594431,
         "requires_forward_iterator.verify.cpp": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 13.613667643117774
 }

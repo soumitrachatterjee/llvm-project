@@ -33,5 +33,6 @@
         "2003-06-26-Reoptimizer2.txt": 3.341681795746334,
         "2007-OriginalClangReadme.txt": 1.8754295418822244
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.12566585495608726
 }

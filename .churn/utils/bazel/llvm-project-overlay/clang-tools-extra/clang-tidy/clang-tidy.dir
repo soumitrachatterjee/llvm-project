@@ -8,5 +8,6 @@
         "BUILD.bazel": 70.84520978503144,
         "defs.bzl": 29.154790214968546
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 53.60985260675687
 }

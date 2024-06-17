@@ -18,5 +18,6 @@
     "subdirscores": {
         "android": 9.163576616744939,
         "lldb-test-qemu": 13.578584288996506
-    }
+    },
+    "score.percentage": 1.7525383362615714
 }

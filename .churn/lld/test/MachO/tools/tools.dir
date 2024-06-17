@@ -9,5 +9,6 @@
         "generate-thunkable-program.py": 20.61545323579065,
         "validate-unwind-info.py": 19.59314209684141
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.9311470924477542
 }

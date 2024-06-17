@@ -8,5 +8,6 @@
         "function-extraction.mlir": 100.0,
         "simple-test.mlir": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.06575143723602755
 }

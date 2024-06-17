@@ -14,5 +14,6 @@
         "StdAllocatorConstCheck.cpp": 3.20110848222856,
         "StdAllocatorConstCheck.h": 3.9147936357510544
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.8073422380279863
 }

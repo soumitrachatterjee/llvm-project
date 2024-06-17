@@ -8,5 +8,6 @@
         "disassemble.test": 100.0,
         "lit.local.cfg": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 2.262931515050094
 }

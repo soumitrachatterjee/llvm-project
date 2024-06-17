@@ -8,5 +8,6 @@
         "CMakeLists.txt": 26.153610692666195,
         "TestLowerToLLVM.cpp": 73.84638930733381
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.8674574403359857
 }

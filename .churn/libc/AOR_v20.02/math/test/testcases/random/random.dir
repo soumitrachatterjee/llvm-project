@@ -8,5 +8,6 @@
         "double.tst": 0.0,
         "float.tst": 100.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 50.0
 }

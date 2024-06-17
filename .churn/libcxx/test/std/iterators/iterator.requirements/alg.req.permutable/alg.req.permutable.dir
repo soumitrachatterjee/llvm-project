@@ -8,5 +8,6 @@
         "permutable.compile.pass.cpp": 55.62682961109279,
         "permutable.subsumption.compile.pass.cpp": 44.373170388907205
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 3.2799329446115917
 }

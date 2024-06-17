@@ -12,5 +12,6 @@
         "lit.local.cfg.py": 100.0,
         "shared-bexpall-pgo.c": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.4772642945870726
 }

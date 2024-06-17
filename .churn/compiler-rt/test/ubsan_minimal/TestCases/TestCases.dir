@@ -16,5 +16,6 @@
         "test-darwin-interface.c": 0.0,
         "uadd-overflow.cpp": 11.169773975903807
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 52.51656027241306
 }

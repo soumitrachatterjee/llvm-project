@@ -53,5 +53,6 @@
         "user_counters_test.cc": 2.60768608985646,
         "user_counters_thousands_test.cc": 2.60768608985646
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 7.459696261569065
 }

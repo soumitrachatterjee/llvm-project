@@ -8,5 +8,6 @@
         "deep_recursion_in_scev.ll": 68.70853532772163,
         "zext-fold-cache-invalidation.ll": 31.291464672278373
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.28669345117788164
 }

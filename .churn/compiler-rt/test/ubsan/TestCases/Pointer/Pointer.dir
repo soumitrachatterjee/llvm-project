@@ -23,5 +23,6 @@
         "nullptr-and-nonzero-offset-variable.cpp": 8.30028374685694,
         "unsigned-index-expression.cpp": 7.224849199860872
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 9.910069083941655
 }

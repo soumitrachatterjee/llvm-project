@@ -139,5 +139,6 @@
         "RetainCountChecker": 1.4769541748249526,
         "UninitializedObject": 0.5874580190550258,
         "WebKit": 1.4455124848104373
-    }
+    },
+    "score.percentage": 45.159485021622956
 }

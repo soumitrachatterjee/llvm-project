@@ -9,5 +9,6 @@
         "reduce_init.pass.cpp": 33.664564147027065,
         "reduce_init_op.pass.cpp": 32.670871705945856
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 6.729235134723079
 }

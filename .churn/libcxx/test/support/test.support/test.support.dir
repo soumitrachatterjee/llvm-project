@@ -16,5 +16,6 @@
         "test_proxy.pass.cpp": 9.40865989236134,
         "type_algorithms.pass.cpp": 4.716744429678797
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 4.921285675692788
 }

@@ -20,5 +20,6 @@
         "thinlto.ll": 11.11111111111111,
         "used.ll": 11.11111111111111
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 8.30645259011039
 }

@@ -117,5 +117,6 @@
         "trunc.h": 1.2554836408801147,
         "unary_decl.inc": 1.2554836408801147
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 36.531943981143236
 }

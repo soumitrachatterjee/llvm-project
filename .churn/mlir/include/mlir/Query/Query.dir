@@ -10,5 +10,6 @@
     },
     "subdirscores": {
         "Matcher": 100.0
-    }
+    },
+    "score.percentage": 0.08597737375953377
 }

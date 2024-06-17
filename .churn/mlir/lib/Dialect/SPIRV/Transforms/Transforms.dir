@@ -15,5 +15,6 @@
         "UnifyAliasedResourcePass.cpp": 9.009587884366693,
         "UpdateVCEPass.cpp": 11.053635942626668
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 35.820357413843205
 }

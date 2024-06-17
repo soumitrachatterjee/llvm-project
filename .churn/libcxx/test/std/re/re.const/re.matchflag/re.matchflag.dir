@@ -12,5 +12,6 @@
         "match_not_null.pass.cpp": 13.375784528429804,
         "match_prev_avail.pass.cpp": 8.977618553137711
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 54.07205059611342
 }

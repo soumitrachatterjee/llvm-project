@@ -7,5 +7,6 @@
     "filescores": {
         "no_unique_address.compile.pass.cpp": 100.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 32.335902193569105
 }

@@ -17,5 +17,6 @@
         "unique.pass.cpp": 12.111903900003044,
         "unique.removed_in_cxx20.verify.cpp": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 7.853087706789057
 }

@@ -9,5 +9,6 @@
         "constexpr.cwchar.compile.pass.cpp": 0.0,
         "constexpr_memmove.pass.cpp": 23.057223837389394
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 19.576841703218108
 }

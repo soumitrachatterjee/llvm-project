@@ -8,5 +8,6 @@
         "ClangFormatFuzzer.cpp": 45.462178141881445,
         "CMakeLists.txt": 54.53782185811855
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 3.148080935199719
 }

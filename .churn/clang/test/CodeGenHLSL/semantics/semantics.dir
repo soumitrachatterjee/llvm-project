@@ -8,5 +8,6 @@
         "DispatchThreadID.hlsl": 50.0,
         "GroupIndex-codegen.hlsl": 50.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 4.799335618655671
 }

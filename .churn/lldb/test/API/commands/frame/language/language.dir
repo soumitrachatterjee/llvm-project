@@ -13,5 +13,6 @@
         "somefunc.c": 0.0,
         "TestGuessLanguage.py": 100.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 18.121383994468
 }

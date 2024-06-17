@@ -8,5 +8,6 @@
         "kernel1.o": 50.0,
         "kernel2.o": 50.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 25.0
 }

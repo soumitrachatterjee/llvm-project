@@ -13,5 +13,6 @@
         "heatmap": 10.81151131974088,
         "llvm-bolt-fuzzer": 7.8050393325998,
         "merge-fdata": 37.0066183568584
-    }
+    },
+    "score.percentage": 2.2334716775988253
 }

@@ -55,5 +55,6 @@
         "ValidateMemRefs.cpp": 1.0509772768435852,
         "VeneerElimination.cpp": 2.025711722817857
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 19.230386368402392
 }

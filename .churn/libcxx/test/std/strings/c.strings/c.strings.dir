@@ -14,5 +14,6 @@
         "cwctype.pass.cpp": 18.957960398889146,
         "no_c8rtomb_mbrtoc8.verify.cpp": 6.904653658840415
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 6.054013692953819
 }

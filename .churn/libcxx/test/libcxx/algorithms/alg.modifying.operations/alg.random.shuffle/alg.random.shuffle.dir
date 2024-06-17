@@ -8,5 +8,6 @@
         "random_shuffle.cxx1z.pass.cpp": 79.59428222704328,
         "random_shuffle.depr_in_cxx14.verify.cpp": 20.405717772956724
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 47.620809288859135
 }

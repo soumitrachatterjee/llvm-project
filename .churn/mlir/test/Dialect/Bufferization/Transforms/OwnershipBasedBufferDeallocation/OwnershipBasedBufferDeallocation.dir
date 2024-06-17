@@ -17,5 +17,6 @@
         "dealloc-subviews.mlir": 15.455448092955425,
         "invalid-buffer-deallocation.mlir": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 3.795894584253534
 }

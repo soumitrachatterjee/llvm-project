@@ -9,5 +9,6 @@
         "MemRefTransformOps.h": 31.024662836901403,
         "MemRefTransformOps.td": 68.9753371630986
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 8.949928103682552
 }

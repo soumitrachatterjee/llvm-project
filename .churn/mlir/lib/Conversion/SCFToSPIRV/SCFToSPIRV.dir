@@ -9,5 +9,6 @@
         "SCFToSPIRV.cpp": 47.410982231352286,
         "SCFToSPIRVPass.cpp": 31.96678938108632
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 1.5081290519429924
 }

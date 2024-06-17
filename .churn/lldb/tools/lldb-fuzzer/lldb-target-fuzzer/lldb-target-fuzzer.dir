@@ -8,5 +8,6 @@
         "CMakeLists.txt": 100.0,
         "lldb-target-fuzzer.cpp": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 33.59616259666019
 }

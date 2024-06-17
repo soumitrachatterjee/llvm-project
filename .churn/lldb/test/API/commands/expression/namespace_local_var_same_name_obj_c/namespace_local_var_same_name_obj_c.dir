@@ -10,5 +10,6 @@
         "TestNamespaceLocalVarSameNameObjC.py": 66.01263711161715,
         "util.mm": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.9766628149594515
 }

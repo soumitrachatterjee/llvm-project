@@ -8,5 +8,6 @@
         "CMakeLists.txt": 100.0,
         "getauxval.cpp": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 100.0
 }

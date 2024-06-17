@@ -10,5 +10,6 @@
         "int_error_category.pass.cpp": 29.839767055861543,
         "lwg3629.pass.cpp": 10.480698832415362
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 22.03364270699516
 }

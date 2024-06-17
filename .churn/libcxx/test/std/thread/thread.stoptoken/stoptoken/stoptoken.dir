@@ -17,5 +17,6 @@
         "swap.free.pass.cpp": 9.090909090909092,
         "swap.member.pass.cpp": 9.090909090909092
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 22.76043114821449
 }

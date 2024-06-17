@@ -16,5 +16,6 @@
         "ctor.unexpected.move.pass.cpp": 10.583803285019869,
         "ctor.unexpect_init_list.pass.cpp": 24.030478354253574
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 15.98767549107121
 }

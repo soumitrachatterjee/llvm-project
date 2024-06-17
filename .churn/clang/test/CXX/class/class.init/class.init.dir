@@ -7,5 +7,6 @@
     "filescores": {},
     "subdirscores": {
         "class.copy.elision": 100.0
-    }
+    },
+    "score.percentage": 9.728262479099724
 }

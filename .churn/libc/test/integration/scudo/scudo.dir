@@ -9,5 +9,6 @@
         "gwp_asan_should_crash.cpp": 0.0,
         "integration_test.cpp": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 7.562502501921549
 }

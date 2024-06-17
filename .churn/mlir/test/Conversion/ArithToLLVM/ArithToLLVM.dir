@@ -8,5 +8,6 @@
         "arith-to-llvm.mlir": 92.13586753526091,
         "convert-nd-vector-to-llvmir.mlir": 7.864132464739073
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 1.5146416583593598
 }

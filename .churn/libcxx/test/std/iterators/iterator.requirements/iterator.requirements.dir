@@ -23,5 +23,6 @@
         "iterator.requirements.general": 5.204307238556445,
         "output.iterators": 5.204307238556445,
         "random.access.iterators": 5.204307238556445
-    }
+    },
+    "score.percentage": 21.03748395043228
 }

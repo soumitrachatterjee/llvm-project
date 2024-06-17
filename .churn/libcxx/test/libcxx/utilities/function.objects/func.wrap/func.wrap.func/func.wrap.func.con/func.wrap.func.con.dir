@@ -8,5 +8,6 @@
         "move_reentrant.pass.cpp": 50.0,
         "nullptr_t_assign_reentrant.pass.cpp": 50.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 100.0
 }

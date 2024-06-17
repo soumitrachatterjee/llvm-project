@@ -53,5 +53,6 @@
         "UTypes.compile.fail.cpp": 0.6916429747203785,
         "UTypes.pass.cpp": 4.196202802663115
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 31.98683143200029
 }

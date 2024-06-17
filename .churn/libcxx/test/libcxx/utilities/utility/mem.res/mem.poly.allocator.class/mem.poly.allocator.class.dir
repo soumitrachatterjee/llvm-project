@@ -7,5 +7,6 @@
     "filescores": {},
     "subdirscores": {
         "mem.poly.allocator.mem": 100.0
-    }
+    },
+    "score.percentage": 52.73002124306364
 }

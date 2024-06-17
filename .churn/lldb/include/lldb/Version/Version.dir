@@ -8,5 +8,6 @@
         "Version.h": 0.0,
         "Version.inc.in": 100.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.10933377919547746
 }

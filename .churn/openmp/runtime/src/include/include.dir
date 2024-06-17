@@ -11,5 +11,6 @@
         "omp_lib.f90.var": 20.453096790844906,
         "omp_lib.h.var": 29.031920802741446
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 3.6615670854812556
 }

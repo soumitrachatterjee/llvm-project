@@ -16,5 +16,6 @@
         "transform-matmul-to-nvvm.mlir": 8.18839183404024,
         "transform-pipeline-shared.mlir": 11.828919083021706
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.7414165155822614
 }

@@ -68,5 +68,6 @@
         "UniqueDWARFASTType.cpp": 0.39917967842765156,
         "UniqueDWARFASTType.h": 0.37566909780279645
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 74.74530123568894
 }

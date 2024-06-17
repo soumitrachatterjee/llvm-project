@@ -12,5 +12,6 @@
         "underflow.pass.cpp": 33.61312969134482,
         "underflow_utf8.dat": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 4.729337505638345
 }

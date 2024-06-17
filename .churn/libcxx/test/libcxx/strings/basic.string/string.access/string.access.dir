@@ -12,5 +12,6 @@
         "assert.front.pass.cpp": 15.810151160885146,
         "assert.index.pass.cpp": 15.810151160885146
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 15.180704933211707
 }

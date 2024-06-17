@@ -9,5 +9,6 @@
         "X86Disassembler.cpp": 67.05426330723793,
         "X86DisassemblerDecoder.h": 28.07264169023197
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.7310226217129878
 }

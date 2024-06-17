@@ -12,5 +12,6 @@
         "one-shot-bufferize.mlir": 19.886672815271154,
         "ops.mlir": 8.165895076349566
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.17554468715191401
 }

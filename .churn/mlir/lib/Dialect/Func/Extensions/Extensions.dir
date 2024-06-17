@@ -10,5 +10,6 @@
         "InlinerExtension.cpp": 33.33333333333333,
         "MeshShardingExtensions.cpp": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 8.142683603370399
 }

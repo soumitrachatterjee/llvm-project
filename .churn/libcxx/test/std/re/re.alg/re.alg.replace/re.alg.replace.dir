@@ -13,5 +13,6 @@
         "test5.pass.cpp": 13.699441862892723,
         "test6.pass.cpp": 13.699441862892723
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 11.081104371378025
 }

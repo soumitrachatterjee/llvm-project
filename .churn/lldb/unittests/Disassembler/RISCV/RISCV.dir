@@ -8,5 +8,6 @@
         "CMakeLists.txt": 0.0,
         "TestMCDisasmInstanceRISCV.cpp": 100.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 12.805282707195238
 }

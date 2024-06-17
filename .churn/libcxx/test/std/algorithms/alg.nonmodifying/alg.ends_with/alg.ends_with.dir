@@ -7,5 +7,6 @@
     "filescores": {
         "ranges.ends_with.pass.cpp": 100.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.7313184221490964
 }

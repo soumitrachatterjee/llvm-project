@@ -10,5 +10,6 @@
         "emplace_type_args.pass.cpp": 24.88851990324553,
         "emplace_type_init_list_args.pass.cpp": 22.394237310116637
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 13.49826931690413
 }

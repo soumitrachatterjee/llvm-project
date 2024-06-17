@@ -8,5 +8,6 @@
         "CMakeLists.txt": 23.161472349193428,
         "TestDecomposeCallGraphTypes.cpp": 76.83852765080658
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.5780124464117127
 }

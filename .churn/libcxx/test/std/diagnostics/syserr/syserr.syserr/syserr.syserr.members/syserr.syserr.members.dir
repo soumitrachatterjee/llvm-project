@@ -12,5 +12,6 @@
         "ctor_int_error_category_const_char_pointer.pass.cpp": 16.666666666666664,
         "ctor_int_error_category_string.pass.cpp": 16.666666666666664
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 67.2555327993102
 }

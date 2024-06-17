@@ -12,5 +12,6 @@
         "TestModule.c": 0.0,
         "TestModule.so": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 5.223037746178462
 }

@@ -39,5 +39,6 @@
         "vector-of-vectors": 4.221177012008765,
         "weak_ptr": 5.012331421621689,
         "weak_ptr-dbg-info-content": 5.012331421621689
-    }
+    },
+    "score.percentage": 11.87037923241845
 }

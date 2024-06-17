@@ -16,5 +16,6 @@
         "explicit.compile.fail.cpp": 3.7748131932931264,
         "pointer.pass.cpp": 17.735112084024124
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 21.868117252511983
 }

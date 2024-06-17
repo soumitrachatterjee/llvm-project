@@ -8,5 +8,6 @@
         "single-loop.ll": 50.02174719146316,
         "two-loops.ll": 49.97825280853683
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.41566506291884076
 }

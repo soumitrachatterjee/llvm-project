@@ -11,5 +11,6 @@
         "tosa-to-linalg-resize.mlir": 3.9056388396619917,
         "tosa-to-linalg.mlir": 70.03680451653841
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 9.110366846483013
 }

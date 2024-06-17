@@ -22,5 +22,6 @@
         "transform_inclusive_scan.h": 6.007514109497903,
         "transform_reduce.h": 8.178829177731757
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.22331142726067713
 }

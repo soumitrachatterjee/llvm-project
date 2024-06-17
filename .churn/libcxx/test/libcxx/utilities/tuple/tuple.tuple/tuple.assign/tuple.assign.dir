@@ -8,5 +8,6 @@
         "array.extension.pass.cpp": 0.0,
         "tuple_array_template_depth.pass.cpp": 100.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 7.970738321081085
 }

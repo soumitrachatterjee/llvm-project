@@ -9,5 +9,6 @@
         "FuzzedDataProviderUnittest.cpp": 5.392003488871416,
         "FuzzerUnittest.cpp": 46.521323963148305
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 6.887993929413465
 }

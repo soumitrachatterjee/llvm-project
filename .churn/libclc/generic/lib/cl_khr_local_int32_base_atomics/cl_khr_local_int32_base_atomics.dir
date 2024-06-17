@@ -12,5 +12,6 @@
         "atom_sub.cl": 11.048476501995005,
         "atom_xchg.cl": 11.048476501995005
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 1.242233870998852
 }

@@ -8,5 +8,6 @@
         "CMakeLists.txt": 0.0,
         "get_error_info_fuzzer.cpp": 100.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.9171809808564494
 }

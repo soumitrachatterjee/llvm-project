@@ -9,5 +9,6 @@
         "inclusive_scan_op.pass.cpp": 34.93391925273115,
         "inclusive_scan_op_init.pass.cpp": 32.53304037363443
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 7.107479496564395
 }

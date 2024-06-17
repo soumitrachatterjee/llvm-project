@@ -8,5 +8,6 @@
         "CMakeLists.txt": 0.0,
         "ControlFlowToSCF.cpp": 100.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.07689242684122348
 }

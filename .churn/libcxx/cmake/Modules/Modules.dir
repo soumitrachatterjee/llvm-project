@@ -10,5 +10,6 @@
         "HandleLibcxxFlags.cmake": 17.734496835543155,
         "MacroEnsureOutOfSourceBuild.cmake": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 47.592655924887325
 }

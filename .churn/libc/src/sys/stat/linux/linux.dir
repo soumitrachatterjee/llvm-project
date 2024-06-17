@@ -16,5 +16,6 @@
         "mkdirat.cpp": 14.150283064647276,
         "stat.cpp": 5.590711503216431
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 40.86692522268351
 }

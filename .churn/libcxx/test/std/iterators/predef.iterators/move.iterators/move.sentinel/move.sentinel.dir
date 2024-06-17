@@ -15,5 +15,6 @@
         "ctor.sentinel.pass.cpp": 13.696039690243877,
         "op_eq.pass.cpp": 11.793232164193904
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 5.077569570503469
 }

@@ -8,5 +8,6 @@
         "sortable.compile.pass.cpp": 50.0,
         "sortable.subsumption.compile.pass.cpp": 50.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 3.8017784259627088
 }

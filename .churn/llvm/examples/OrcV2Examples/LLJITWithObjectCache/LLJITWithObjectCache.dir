@@ -8,5 +8,6 @@
         "CMakeLists.txt": 50.0,
         "LLJITWithObjectCache.cpp": 50.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 1.9796351766671143
 }

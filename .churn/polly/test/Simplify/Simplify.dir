@@ -91,5 +91,6 @@
         "sweep_mapped_value___%for---%return.jscop.transformed": 0.0,
         "ununsed_read_in_region_entry.ll": 1.6067603030598017
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 2.076283229587216
 }

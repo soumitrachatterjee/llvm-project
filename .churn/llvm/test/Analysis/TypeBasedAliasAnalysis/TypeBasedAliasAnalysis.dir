@@ -22,5 +22,6 @@
         "tbaa-path-new.ll": 2.142717743523826,
         "tbaa-path.ll": 5.382818065136953
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 1.9357231432559296
 }

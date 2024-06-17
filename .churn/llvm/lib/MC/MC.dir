@@ -82,5 +82,6 @@
     "subdirscores": {
         "MCDisassembler": 1.7233527849212413,
         "MCParser": 16.228260275387523
-    }
+    },
+    "score.percentage": 1.7279468352333176
 }

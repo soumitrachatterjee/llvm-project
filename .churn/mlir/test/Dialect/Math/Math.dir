@@ -15,5 +15,6 @@
         "polynomial-approximation.mlir": 20.716549219269428,
         "uplift-to-fma.mlir": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 1.666371638804493
 }

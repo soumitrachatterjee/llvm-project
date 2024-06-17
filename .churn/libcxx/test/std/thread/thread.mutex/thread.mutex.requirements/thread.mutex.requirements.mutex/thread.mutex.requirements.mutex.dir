@@ -8,5 +8,6 @@
     "subdirscores": {
         "thread.mutex.class": 51.70288317469925,
         "thread.mutex.recursive": 48.29711682530074
-    }
+    },
+    "score.percentage": 18.400280237457718
 }

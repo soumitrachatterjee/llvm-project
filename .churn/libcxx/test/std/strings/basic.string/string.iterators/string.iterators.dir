@@ -16,5 +16,6 @@
         "rbegin.pass.cpp": 10.023878095601463,
         "rend.pass.cpp": 11.746339971080296
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 11.957127716149127
 }

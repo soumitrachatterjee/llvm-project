@@ -19,5 +19,6 @@
         "initialize-params.test": 9.606677928954783,
         "references.test": 7.654394967163482
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.18114865828669371
 }

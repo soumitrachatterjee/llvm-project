@@ -185,5 +185,6 @@
         "virtual-registers.mir": 0.7390104500454439,
         "zero-probability.mir": 0.22550702324579427
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 33.19915700494857
 }

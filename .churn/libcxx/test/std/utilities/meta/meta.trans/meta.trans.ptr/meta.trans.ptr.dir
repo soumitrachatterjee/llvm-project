@@ -8,5 +8,6 @@
         "add_pointer.pass.cpp": 52.5370802331333,
         "remove_pointer.pass.cpp": 47.46291976686669
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 6.019052756271307
 }

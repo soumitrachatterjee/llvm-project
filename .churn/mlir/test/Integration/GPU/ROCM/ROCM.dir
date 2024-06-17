@@ -12,5 +12,6 @@
         "vecadd.mlir": 22.030718279089438,
         "vector-transferops.mlir": 21.964397986823705
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 17.845412256440234
 }

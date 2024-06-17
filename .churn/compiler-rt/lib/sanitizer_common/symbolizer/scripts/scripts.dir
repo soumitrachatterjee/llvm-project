@@ -8,5 +8,6 @@
         "build_symbolizer.sh": 62.14985999586787,
         "global_symbols.txt": 37.85014000413212
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 79.93370584591132
 }

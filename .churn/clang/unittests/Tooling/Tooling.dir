@@ -41,5 +41,6 @@
     "subdirscores": {
         "RecursiveASTVisitorTests": 4.523116839423815,
         "Syntax": 12.709787930766073
-    }
+    },
+    "score.percentage": 13.289088821877277
 }

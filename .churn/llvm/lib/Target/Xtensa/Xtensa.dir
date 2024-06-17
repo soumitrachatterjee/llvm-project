@@ -33,5 +33,6 @@
         "Disassembler": 8.383938173779299,
         "MCTargetDesc": 22.061537878165403,
         "TargetInfo": 0.0
-    }
+    },
+    "score.percentage": 0.015606809637783447
 }

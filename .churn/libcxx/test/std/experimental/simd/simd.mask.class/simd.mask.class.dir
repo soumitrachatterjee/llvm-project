@@ -13,5 +13,6 @@
         "simd_mask_subscr.pass.cpp": 0.0,
         "simd_mask_width.pass.cpp": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 14.105580103812937
 }

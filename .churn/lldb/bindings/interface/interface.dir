@@ -131,5 +131,6 @@
         "SBWatchpointExtensions.i": 2.5833005017828965,
         "SBWatchpointOptionsDocstrings.i": 1.4555999037717486
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 42.41355155206964
 }

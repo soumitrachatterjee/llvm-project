@@ -8,5 +8,6 @@
         "lwg3720_arg_id_width_precision_allowed_types.pass.cpp": 62.85654594072986,
         "lwg3720_arg_id_width_precision_allowed_types.verify.cpp": 37.143454059270134
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 100.0
 }

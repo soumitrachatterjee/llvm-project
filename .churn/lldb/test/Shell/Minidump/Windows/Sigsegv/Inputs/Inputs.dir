@@ -10,5 +10,6 @@
         "sigsegv.lldbinit": 25.0,
         "sigsegv.pdb": 25.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 57.417376714786414
 }

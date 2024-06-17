@@ -11,5 +11,6 @@
         "hardware_breakpoint_on_multiple_threads": 21.546234336616628,
         "require_hw_breakpoints": 51.678791665633206,
         "write_memory_with_hw_breakpoint": 16.73955880732455
-    }
+    },
+    "score.percentage": 4.831280928164487
 }

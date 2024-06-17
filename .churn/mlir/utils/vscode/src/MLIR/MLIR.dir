@@ -8,5 +8,6 @@
         "bytecodeProvider.ts": 100.0,
         "mlir.ts": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 4.4583729705666615
 }

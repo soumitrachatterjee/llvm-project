@@ -69,5 +69,6 @@
         "test-symbol-privatize.mlir": 0.3701126515512842,
         "test-toposort.mlir": 0.5956818048848315
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 2.931782612333319
 }

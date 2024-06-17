@@ -13,5 +13,6 @@
         "unique.ptr.dtor": 6.594364961068686,
         "unique.ptr.modifiers": 13.35273739575819,
         "unique.ptr.observers": 26.877570448924658
-    }
+    },
+    "score.percentage": 49.6672895634821
 }

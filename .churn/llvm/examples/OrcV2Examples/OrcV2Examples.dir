@@ -29,5 +29,6 @@
         "OrcV2CBindingsMCJITLikeMemoryManager": 1.5903256490409763,
         "OrcV2CBindingsRemovableCode": 4.854245934301215,
         "OrcV2CBindingsVeryLazy": 3.4093522453139657
-    }
+    },
+    "score.percentage": 11.704948580501283
 }

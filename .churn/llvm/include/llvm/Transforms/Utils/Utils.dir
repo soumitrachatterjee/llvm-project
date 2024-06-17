@@ -88,5 +88,6 @@
         "VNCoercion.h": 0.22883186890299287,
         "ValueMapper.h": 3.281067838492467
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 39.23674796716268
 }

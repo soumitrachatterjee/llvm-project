@@ -9,5 +9,6 @@
         "assume_aligned.nodiscard.verify.cpp": 27.334384193404286,
         "assume_aligned.pass.cpp": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 1.819190010926807
 }

@@ -10,5 +10,6 @@
         "source.lldb": 0.0,
         "TestBreakpointCallbackCommandSource.py": 100.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 2.063312796076352
 }

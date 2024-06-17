@@ -40,5 +40,6 @@
         "vscale.ll": 0.0,
         "zeroinitializer.ll": 2.976740190413833
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 24.341432062743586
 }

@@ -10,5 +10,6 @@
         "TestDisassembleBreakpoint.py": 28.53635225064039,
         "TestFrameDisassemble.py": 54.26169946418988
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 100.0
 }

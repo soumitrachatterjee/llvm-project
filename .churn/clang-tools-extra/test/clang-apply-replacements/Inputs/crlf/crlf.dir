@@ -9,5 +9,6 @@
         "crlf.cpp.expected": 32.93749669283025,
         "file1.yaml": 34.12500661433951
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 21.004480895786248
 }

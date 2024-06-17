@@ -20,5 +20,6 @@
         "precision.ll": 0.0,
         "redundant_edges.ll": 7.040280773121014
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.6113725170721245
 }

@@ -11,5 +11,6 @@
         "module.modulemap": 0.0,
         "TestClangModulesCache.py": 100.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 1.3728971315205512
 }

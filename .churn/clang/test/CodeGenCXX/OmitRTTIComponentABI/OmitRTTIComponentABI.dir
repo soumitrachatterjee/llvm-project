@@ -9,5 +9,6 @@
         "vbase-offset.cpp": 33.33333333333333,
         "vtable-layout.cpp": 33.33333333333333
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.020330313108216917
 }

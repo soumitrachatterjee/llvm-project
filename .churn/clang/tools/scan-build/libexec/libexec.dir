@@ -10,5 +10,6 @@
         "ccc-analyzer": 100.0,
         "ccc-analyzer.bat": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 20.442396716429325
 }

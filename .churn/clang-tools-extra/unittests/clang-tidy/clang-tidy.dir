@@ -25,5 +25,6 @@
         "TransformerClangTidyCheckTest.cpp": 7.285474396956332,
         "UsingInserterTest.cpp": 4.395893745977631
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 55.5419990890789
 }

@@ -8,5 +8,6 @@
         "generic_string_alloc.pass.cpp": 48.14185792721587,
         "named_overloads.pass.cpp": 51.85814207278414
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 6.3712090753957185
 }

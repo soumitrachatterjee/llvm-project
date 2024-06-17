@@ -69,5 +69,6 @@
         "use_tls_test.cpp": 1.3009620496557104,
         "xdrrec.cpp": 1.2990512693015923
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 39.873139779442816
 }

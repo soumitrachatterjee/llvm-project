@@ -11,5 +11,6 @@
         "rand.dist.pois.gamma": 19.996531115631434,
         "rand.dist.pois.poisson": 20.01387553747425,
         "rand.dist.pois.weibull": 19.996531115631434
-    }
+    },
+    "score.percentage": 20.003467080333444
 }

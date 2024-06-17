@@ -7,5 +7,6 @@
     "filescores": {
         "assert.iterator.pass.cpp": 100.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 70.59097127613971
 }

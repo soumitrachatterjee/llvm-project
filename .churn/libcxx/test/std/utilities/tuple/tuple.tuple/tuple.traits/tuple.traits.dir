@@ -7,5 +7,6 @@
     "filescores": {
         "uses_allocator.pass.cpp": 100.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 2.455758142972911
 }

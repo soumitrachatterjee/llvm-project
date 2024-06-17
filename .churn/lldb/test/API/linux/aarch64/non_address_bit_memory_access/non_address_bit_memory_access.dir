@@ -10,5 +10,6 @@
         "Makefile": 0.0,
         "TestAArch64LinuxNonAddressBitMemoryAccess.py": 63.76018856482122
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 6.947960146042028
 }

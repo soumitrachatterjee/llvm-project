@@ -10,5 +10,6 @@
         "atomic_fetch_sub.verify.cpp": 25.0,
         "atomic_fetch_sub_explicit.verify.cpp": 25.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 100.0
 }

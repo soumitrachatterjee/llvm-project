@@ -15,5 +15,6 @@
         "readdir.cpp": 21.092429982481246,
         "readdir.h": 8.12034925541562
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.18059383487079755
 }

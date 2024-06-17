@@ -7,5 +7,6 @@
     "filescores": {},
     "subdirscores": {
         "re.regex.nmswap": 100.0
-    }
+    },
+    "score.percentage": 8.162512608794525
 }

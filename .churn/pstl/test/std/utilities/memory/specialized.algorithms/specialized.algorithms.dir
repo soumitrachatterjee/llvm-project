@@ -9,5 +9,6 @@
         "uninitialized_copy_move.pass.cpp": 39.16973477698665,
         "uninitialized_fill_destroy.pass.cpp": 26.1733065612242
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 100.0
 }

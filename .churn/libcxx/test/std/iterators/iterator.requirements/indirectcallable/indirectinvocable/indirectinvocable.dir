@@ -14,5 +14,6 @@
         "indirect_strict_weak_order.compile.pass.cpp": 12.78915037565403,
         "indirect_unary_predicate.compile.pass.cpp": 12.78915037565403
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 61.40809842813807
 }

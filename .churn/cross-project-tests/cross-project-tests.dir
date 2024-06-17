@@ -13,5 +13,6 @@
         "amdgpu": 2.199654948779489,
         "debuginfo-tests": 65.07492589269407,
         "intrinsic-header-tests": 3.3984854731109966
-    }
+    },
+    "score.percentage": 0.015968903178248228
 }

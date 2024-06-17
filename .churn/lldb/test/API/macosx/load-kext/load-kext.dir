@@ -8,5 +8,6 @@
         "mykext.yaml": 0.0,
         "TestLoadKext.py": 100.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 1.424765486085543
 }

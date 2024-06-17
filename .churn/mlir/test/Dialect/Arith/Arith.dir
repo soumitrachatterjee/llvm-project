@@ -25,5 +25,6 @@
         "unsigned-when-equivalent.mlir": 4.474186272496765,
         "value-bounds-op-interface-impl.mlir": 2.8369058302856835
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 1.277156898457573
 }

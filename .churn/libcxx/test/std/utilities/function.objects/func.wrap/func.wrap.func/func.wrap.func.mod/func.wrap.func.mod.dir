@@ -8,5 +8,6 @@
         "assign_F_alloc.pass.cpp": 32.955408878448765,
         "swap.pass.cpp": 67.04459112155125
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 8.46350210225706
 }

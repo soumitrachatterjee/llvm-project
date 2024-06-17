@@ -11,5 +11,6 @@
         "setup.py": 19.41776109356912,
         "test_check_cfc.py": 15.05285692965163
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.5890259867168388
 }

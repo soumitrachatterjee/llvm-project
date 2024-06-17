@@ -16,5 +16,6 @@
         "max_size.pass.cpp": 9.08270628436783,
         "select_on_container_copy_construction.pass.cpp": 7.272128417891829
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 56.9410988844447
 }

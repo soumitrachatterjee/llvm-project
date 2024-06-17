@@ -8,5 +8,6 @@
         "LibomptargetGetDependencies.cmake": 94.34363338609944,
         "LibomptargetUtils.cmake": 5.656366613900548
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 100.0
 }

@@ -8,5 +8,6 @@
         "incrementable.compile.pass.cpp": 45.86789480135374,
         "subsumption.compile.pass.cpp": 54.13210519864625
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 7.547561040102788
 }

@@ -46,5 +46,6 @@
         "pre-fir-tree01.f90": 0.0,
         "stop-stmt-in-region.f90": 1.4559177370726988
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 15.789328494588679
 }

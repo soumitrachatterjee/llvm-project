@@ -54,5 +54,6 @@
         "unsafe-and-rt-checks.ll": 3.1292972799269942,
         "wrapping-pointer-versioning.ll": 6.485503699391917
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 2.8553953578953872
 }

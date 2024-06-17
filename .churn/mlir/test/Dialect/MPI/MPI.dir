@@ -7,5 +7,6 @@
     "filescores": {
         "ops.mlir": 100.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.035660539685752994
 }

@@ -32,5 +32,6 @@
         "UnwindRegistersSave.S": 6.734535845129093,
         "Unwind_AIXExtras.cpp": 0.2344519856708216
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 44.56719427857575
 }

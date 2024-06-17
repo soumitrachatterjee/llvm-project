@@ -8,5 +8,6 @@
         "equality_comparable.compile.pass.cpp": 49.95706770339236,
         "equality_comparable_with.compile.pass.cpp": 50.04293229660763
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 58.28443980201049
 }

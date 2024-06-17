@@ -28,5 +28,6 @@
         "unused-using-decls.rst": 11.412767784198277,
         "use-anonymous-namespace.rst": 6.780066420909321
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 5.25132531605264
 }

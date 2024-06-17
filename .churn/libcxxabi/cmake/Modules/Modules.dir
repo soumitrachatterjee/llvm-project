@@ -8,5 +8,6 @@
         "HandleLibcxxabiFlags.cmake": 100.0,
         "MacroEnsureOutOfSourceBuild.cmake": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 35.7031642440344
 }

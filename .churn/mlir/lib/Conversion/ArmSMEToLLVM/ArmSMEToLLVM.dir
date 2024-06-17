@@ -8,5 +8,6 @@
         "ArmSMEToLLVM.cpp": 85.66984577556927,
         "CMakeLists.txt": 14.33015422443072
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.41636847836775065
 }

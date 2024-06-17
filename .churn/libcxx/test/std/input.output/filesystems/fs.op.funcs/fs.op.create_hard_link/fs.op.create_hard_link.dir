@@ -7,5 +7,6 @@
     "filescores": {
         "create_hard_link.pass.cpp": 100.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 1.471635676003831
 }

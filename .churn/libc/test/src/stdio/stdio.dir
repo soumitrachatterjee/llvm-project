@@ -37,5 +37,6 @@
         "printf_core": 5.444218336411807,
         "scanf_core": 2.561170230521923,
         "testdata": 0.0
-    }
+    },
+    "score.percentage": 11.925644561991252
 }

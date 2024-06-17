@@ -13,5 +13,6 @@
     "subdirscores": {
         "Deserialization": 42.27023951034424,
         "Serialization": 35.78287321263386
-    }
+    },
+    "score.percentage": 7.0706275938121275
 }

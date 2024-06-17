@@ -21,5 +21,6 @@
         "lookahead_capture.pass.cpp": 5.398435558216128,
         "parse_curly_brackets.pass.cpp": 7.17209692156292
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 47.03303811949054
 }

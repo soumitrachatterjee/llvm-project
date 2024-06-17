@@ -13,5 +13,6 @@
         "sched_rr_get_interval_test.cpp": 14.037417682915668,
         "yield_test.cpp": 12.341444349965615
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 1.0080253458163555
 }

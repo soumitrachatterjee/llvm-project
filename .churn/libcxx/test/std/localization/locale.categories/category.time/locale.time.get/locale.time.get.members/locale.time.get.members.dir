@@ -18,5 +18,6 @@
         "get_weekday_wide.pass.cpp": 10.271618812196044,
         "get_year.pass.cpp": 8.175999330547858
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 35.80959579494758
 }

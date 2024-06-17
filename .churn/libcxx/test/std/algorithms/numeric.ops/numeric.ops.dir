@@ -8,5 +8,6 @@
     "subdirscores": {
         "reduce": 44.84706406018149,
         "transform.reduce": 55.15293593981851
-    }
+    },
+    "score.percentage": 0.6016578923347645
 }

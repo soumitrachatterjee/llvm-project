@@ -8,5 +8,6 @@
         "lit.local.cfg": 100.0,
         "machine-function-info.mir": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.357044492738347
 }

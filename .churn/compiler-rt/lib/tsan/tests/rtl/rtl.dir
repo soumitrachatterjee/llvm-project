@@ -17,5 +17,6 @@
         "tsan_test_util_posix.cpp": 10.74577077547228,
         "tsan_thread.cpp": 5.00422063012195
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 14.025085114068547
 }

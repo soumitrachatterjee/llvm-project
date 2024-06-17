@@ -45,5 +45,6 @@
     "subdirscores": {
         "glob_test_root": 0.0,
         "xattr_test_root": 0.0
-    }
+    },
+    "score.percentage": 24.453177677941433
 }

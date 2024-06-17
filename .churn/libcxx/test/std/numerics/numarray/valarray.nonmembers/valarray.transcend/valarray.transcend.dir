@@ -27,5 +27,6 @@
         "tan_valarray.pass.cpp": 5.015615803217134,
         "valarray_helper.h": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 25.407303373374884
 }

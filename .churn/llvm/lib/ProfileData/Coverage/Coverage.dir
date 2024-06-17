@@ -10,5 +10,6 @@
         "CoverageMappingReader.cpp": 36.7020749231838,
         "CoverageMappingWriter.cpp": 14.214642414638206
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 15.59847163035388
 }

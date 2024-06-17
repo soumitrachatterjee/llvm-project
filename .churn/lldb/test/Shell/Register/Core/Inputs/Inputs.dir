@@ -25,5 +25,6 @@
         "x86-core-dump.cpp": 0.0,
         "x86-fp.check": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 54.21254576043643
 }

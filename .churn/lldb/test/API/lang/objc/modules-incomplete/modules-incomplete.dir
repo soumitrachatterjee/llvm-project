@@ -13,5 +13,6 @@
         "myModule.m": 0.0,
         "TestIncompleteModules.py": 100.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 2.5388794806773607
 }

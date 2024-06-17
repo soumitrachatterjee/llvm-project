@@ -8,5 +8,6 @@
     "subdirscores": {
         "backtrace": 38.84615449418401,
         "select": 61.153845505815994
-    }
+    },
+    "score.percentage": 1.2005027153454242
 }

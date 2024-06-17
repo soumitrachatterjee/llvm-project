@@ -11,5 +11,6 @@
         "thread.sharedtimedmutex.requirements": 33.375272344214885,
         "thread.shared_mutex.requirements": 26.10316401919539,
         "thread.timedmutex.requirements": 18.831478443283856
-    }
+    },
+    "score.percentage": 32.26540977092277
 }

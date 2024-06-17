@@ -13,5 +13,6 @@
         "floatundisf.S": 15.86220727513427,
         "floatundixf.S": 14.00786730502034
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.5663364813402748
 }

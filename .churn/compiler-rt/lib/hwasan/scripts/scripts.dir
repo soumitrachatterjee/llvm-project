@@ -8,5 +8,6 @@
         "CMakeLists.txt": 0.0,
         "hwasan_symbolize": 100.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 3.1415834897830672
 }

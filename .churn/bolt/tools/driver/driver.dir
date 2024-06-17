@@ -8,5 +8,6 @@
         "CMakeLists.txt": 64.81946042718118,
         "llvm-bolt.cpp": 35.18053957281881
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 20.67006128508423
 }

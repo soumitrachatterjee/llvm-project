@@ -19,5 +19,6 @@
         "windows-unaligned-x86_64-asm.s": 0.0,
         "windows-unaligned-x86_64.cpp": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 29.54595309613115
 }

@@ -8,5 +8,6 @@
     "subdirscores": {
         "mem.res.monotonic.buffer.ctor": 36.7082757076687,
         "mem.res.monotonic.buffer.mem": 63.29172429233131
-    }
+    },
+    "score.percentage": 15.8177146751388
 }

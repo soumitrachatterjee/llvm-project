@@ -12,5 +12,6 @@
         "move.verify.cpp": 0.0,
         "move_if_noexcept.pass.cpp": 32.05295954050042
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 15.510611993362433
 }

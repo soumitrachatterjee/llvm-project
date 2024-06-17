@@ -8,5 +8,6 @@
         "lldb-server.rst": 0.0,
         "lldb.rst": 100.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 2.2406000244192907
 }

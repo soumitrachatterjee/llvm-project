@@ -19,5 +19,6 @@
         "AliasAnalysis": 4.856862808453017,
         "DataFlow": 10.449624570978768,
         "Presburger": 55.48106895435997
-    }
+    },
+    "score.percentage": 3.823230199798896
 }

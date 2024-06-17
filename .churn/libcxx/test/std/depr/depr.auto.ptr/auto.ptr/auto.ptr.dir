@@ -13,5 +13,6 @@
         "auto.ptr.cons": 21.868117252511983,
         "auto.ptr.conv": 19.219059774849743,
         "auto.ptr.members": 18.896642706208894
-    }
+    },
+    "score.percentage": 100.0
 }

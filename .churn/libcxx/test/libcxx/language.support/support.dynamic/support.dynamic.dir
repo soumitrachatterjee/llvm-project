@@ -10,5 +10,6 @@
         "new_dont_return_nullptr.pass.cpp": 0.0,
         "new_faligned_allocation.pass.cpp": 26.94833591150943
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 64.75812685106747
 }

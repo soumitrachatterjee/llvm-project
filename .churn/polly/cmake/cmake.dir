@@ -11,5 +11,6 @@
         "PollyConfigVersion.cmake.in": 6.070594492461943,
         "polly_macros.cmake": 25.951357814681835
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 1.3184337698204487
 }

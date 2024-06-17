@@ -11,5 +11,6 @@
         "signal_file.h": 14.922488867455709,
         "TestDyldLaunchLinux.py": 40.310044530177166
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.388613041819378
 }

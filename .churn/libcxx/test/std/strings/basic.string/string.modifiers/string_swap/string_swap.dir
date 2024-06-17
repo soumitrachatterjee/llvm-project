@@ -8,5 +8,6 @@
         "swap.asan.pass.cpp": 0.0,
         "swap.pass.cpp": 100.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 5.101467592589689
 }

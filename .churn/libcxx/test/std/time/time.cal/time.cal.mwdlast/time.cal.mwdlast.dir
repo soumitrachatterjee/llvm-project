@@ -10,5 +10,6 @@
     "subdirscores": {
         "time.cal.mwdlast.members": 0.0,
         "time.cal.mwdlast.nonmembers": 100.0
-    }
+    },
+    "score.percentage": 6.664524919197456
 }

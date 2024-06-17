@@ -8,5 +8,6 @@
         "hlsl_basic_types.h": 18.15455085377874,
         "hlsl_intrinsics.h": 81.84544914622126
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.9391383354446956
 }

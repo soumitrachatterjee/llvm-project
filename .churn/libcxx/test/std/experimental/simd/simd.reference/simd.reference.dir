@@ -9,5 +9,6 @@
         "reference_assignment.pass.cpp": 71.71114987866378,
         "reference_value_type.pass.cpp": 28.28885012133623
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 20.660658784522052
 }

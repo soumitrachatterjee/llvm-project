@@ -19,5 +19,6 @@
         "posix_compat.h": 13.772695869134052,
         "time_utils.h": 2.1362106938735446
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 7.504767601277994
 }

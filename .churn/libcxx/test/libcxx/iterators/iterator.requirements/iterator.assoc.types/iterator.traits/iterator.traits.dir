@@ -12,5 +12,6 @@
         "legacy_random_access_iterator.compile.pass.cpp": 19.14258574013775,
         "locale_dependent.compile.pass.cpp": 11.144074290269037
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 100.0
 }

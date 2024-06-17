@@ -16,5 +16,6 @@
         "getenv_and_setenv_test.cpp": 6.679807323345069,
         "rounding_mode_test.cpp": 4.627435235074769
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 2.187896383544188
 }

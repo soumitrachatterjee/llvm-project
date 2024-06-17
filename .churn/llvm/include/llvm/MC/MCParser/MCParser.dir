@@ -14,5 +14,6 @@
         "MCParsedAsmOperand.h": 9.536021493005121,
         "MCTargetAsmParser.h": 18.69762361166367
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 6.442315198533537
 }

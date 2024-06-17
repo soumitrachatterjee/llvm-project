@@ -8,5 +8,6 @@
         "variables.data-00000-of-00001": 50.0,
         "variables.index": 50.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 50.0
 }

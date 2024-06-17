@@ -8,5 +8,6 @@
         "exe.yaml": 0.0,
         "TestDebugIndexCache.py": 100.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 17.682106579828314
 }

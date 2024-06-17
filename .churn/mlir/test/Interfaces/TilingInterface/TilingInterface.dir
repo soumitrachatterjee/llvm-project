@@ -14,5 +14,6 @@
         "tile-using-interface.mlir": 22.217730991424244,
         "tile-using-scfforall.mlir": 8.327736490557003
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 56.90211530666338
 }

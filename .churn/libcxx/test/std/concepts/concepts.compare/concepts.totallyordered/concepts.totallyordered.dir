@@ -8,5 +8,6 @@
         "totally_ordered.pass.cpp": 64.9923443391841,
         "totally_ordered_with.pass.cpp": 35.0076556608159
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 41.71556019798952
 }

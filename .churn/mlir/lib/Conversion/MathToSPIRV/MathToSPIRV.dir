@@ -9,5 +9,6 @@
         "MathToSPIRV.cpp": 69.3871826416024,
         "MathToSPIRVPass.cpp": 24.900484388244383
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 1.0914924000276702
 }

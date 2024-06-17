@@ -13,5 +13,6 @@
         "type_ctor.compile.fail.cpp": 7.046538882256638,
         "type_ctor.pass.cpp": 22.916435193268114
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 18.24256112398579
 }

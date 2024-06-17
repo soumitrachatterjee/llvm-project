@@ -11,5 +11,6 @@
         "import-timing.ll": 0.0,
         "unregistered-dialects.mlir": 50.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.05743843919379522
 }

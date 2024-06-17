@@ -20,5 +20,6 @@
     "subdirscores": {
         "iterator": 10.062192642734052,
         "sentinel": 11.789197323174799
-    }
+    },
+    "score.percentage": 5.658790588500998
 }

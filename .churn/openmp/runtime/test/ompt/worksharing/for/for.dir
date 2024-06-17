@@ -25,5 +25,6 @@
         "static_serialized.c": 0.0,
         "static_split.c": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 56.42462009527792
 }

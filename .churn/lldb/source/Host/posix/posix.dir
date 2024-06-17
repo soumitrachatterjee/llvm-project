@@ -16,5 +16,6 @@
         "PipePosix.cpp": 12.453905340469555,
         "ProcessLauncherPosixFork.cpp": 7.385575832050918
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 12.335595616351805
 }

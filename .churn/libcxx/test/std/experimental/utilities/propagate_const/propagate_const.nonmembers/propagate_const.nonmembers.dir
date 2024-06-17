@@ -11,5 +11,6 @@
     "subdirscores": {
         "propagate_const.comparison_function_objects": 25.398596064213706,
         "propagate_const.relops": 25.398596064213706
-    }
+    },
+    "score.percentage": 37.023759433844674
 }

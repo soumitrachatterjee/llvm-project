@@ -22,5 +22,6 @@
         "thread.shared_timed_mutex": 1.0716989439269906,
         "thread.stoptoken": 1.0716989439269906,
         "thread.threads": 13.430510159643017
-    }
+    },
+    "score.percentage": 3.847204296596936
 }

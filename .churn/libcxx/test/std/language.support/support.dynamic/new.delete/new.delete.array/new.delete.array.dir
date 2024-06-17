@@ -28,5 +28,6 @@
         "sized_delete_array_calls_unsized_delete_array.pass.cpp": 6.998108432888138,
         "sized_delete_array_fsizeddeallocation.pass.cpp": 3.723751545094265
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 43.50147171910923
 }

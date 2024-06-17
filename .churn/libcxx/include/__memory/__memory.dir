@@ -35,5 +35,6 @@
         "uses_allocator_construction.h": 0.9973655529235422,
         "voidify.h": 0.6471470163065018
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 1.553880238068725
 }

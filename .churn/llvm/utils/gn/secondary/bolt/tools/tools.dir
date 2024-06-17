@@ -10,5 +10,6 @@
         "driver": 0.0,
         "heatmap": 0.0,
         "merge-fdata": 100.0
-    }
+    },
+    "score.percentage": 10.322923329427317
 }

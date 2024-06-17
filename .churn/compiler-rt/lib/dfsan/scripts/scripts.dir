@@ -8,5 +8,6 @@
         "build-libc-list.py": 56.4209330278286,
         "check_custom_wrappers.sh": 43.57906697217139
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 6.801430169942526
 }

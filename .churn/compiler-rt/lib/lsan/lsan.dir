@@ -30,5 +30,6 @@
         "lsan_thread.h": 5.238288265531829,
         "weak_symbols.txt": 0.35213958016927405
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 3.596751157926348
 }

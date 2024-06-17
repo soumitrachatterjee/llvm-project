@@ -8,5 +8,6 @@
         "ostream.pass.cpp": 100.0,
         "ostream.verify.cpp": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 8.363662664718403
 }

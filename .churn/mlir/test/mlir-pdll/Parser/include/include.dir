@@ -9,5 +9,6 @@
         "interfaces.td": 0.0,
         "ops.td": 100.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 12.568346959920634
 }

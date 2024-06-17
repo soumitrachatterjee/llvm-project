@@ -8,5 +8,6 @@
         "CMakeLists.txt": 0.0,
         "rpc_smoke_test.cpp": 100.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 1.043946302489147
 }

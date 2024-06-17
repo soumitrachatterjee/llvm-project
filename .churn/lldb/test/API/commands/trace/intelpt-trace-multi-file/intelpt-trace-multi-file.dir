@@ -16,5 +16,6 @@
         "multi-file-no-ld.json": 100.0,
         "multi-file.trace": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 3.1719860292670834
 }

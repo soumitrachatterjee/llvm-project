@@ -9,5 +9,6 @@
         "pthread_attr_test.cpp": 33.7207199283865,
         "pthread_mutexattr_test.cpp": 33.840058103896176
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.3230320884987834
 }

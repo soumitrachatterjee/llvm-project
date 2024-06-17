@@ -10,5 +10,6 @@
         "simple.c": 0.0,
         "TestJITLoaderGDB.py": 100.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.7440625257169414
 }

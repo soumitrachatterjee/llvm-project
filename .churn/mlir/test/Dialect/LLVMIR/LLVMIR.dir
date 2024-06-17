@@ -48,5 +48,6 @@
         "types-invalid.mlir": 1.5028473622703982,
         "types.mlir": 2.1001512549334445
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 7.794741847277677
 }

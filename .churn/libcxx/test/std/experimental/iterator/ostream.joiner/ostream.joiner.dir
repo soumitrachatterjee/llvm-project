@@ -9,5 +9,6 @@
         "ostream.joiner.cons": 32.235678988963855,
         "ostream.joiner.creation": 25.46467857077222,
         "ostream.joiner.ops": 42.299642440263916
-    }
+    },
+    "score.percentage": 100.0
 }

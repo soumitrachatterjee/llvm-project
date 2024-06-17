@@ -12,5 +12,6 @@
         "operator_bool.pass.cpp": 18.325560911966086,
         "triviality.compile.pass.cpp": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.7620262319914621
 }

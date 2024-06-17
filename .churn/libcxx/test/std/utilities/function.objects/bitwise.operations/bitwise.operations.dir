@@ -11,5 +11,6 @@
         "bit_xor.pass.cpp": 15.608484221062799,
         "transparent.pass.cpp": 29.119749208268864
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 2.9335738910866573
 }

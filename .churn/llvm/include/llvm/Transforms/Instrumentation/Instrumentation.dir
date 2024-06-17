@@ -29,5 +29,6 @@
         "SanitizerCoverage.h": 4.3032861690331385,
         "ThreadSanitizer.h": 3.856900041817901
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 4.999865091045147
 }

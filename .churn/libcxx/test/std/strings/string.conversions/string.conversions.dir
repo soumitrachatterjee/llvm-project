@@ -16,5 +16,6 @@
         "to_string.pass.cpp": 5.91298364946536,
         "to_wstring.pass.cpp": 8.612468273853954
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 3.2394241255328007
 }

@@ -25,5 +25,6 @@
         "tan.pass.cpp": 5.19571694852443,
         "tanh.pass.cpp": 4.715432372319992
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 13.582847306580636
 }

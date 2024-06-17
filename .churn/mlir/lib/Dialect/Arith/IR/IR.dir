@@ -12,5 +12,6 @@
         "InferIntRangeInterfaceImpls.cpp": 10.714956264097255,
         "ValueBoundsOpInterfaceImpl.cpp": 1.9841272366499654
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 44.7948445706212
 }

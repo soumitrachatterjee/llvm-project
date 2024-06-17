@@ -11,5 +11,6 @@
         "char.traits.specializations.char32_t": 25.36651324275522,
         "char.traits.specializations.char8_t": 18.014828312672456,
         "char.traits.specializations.wchar_t": 2.646076337678319
-    }
+    },
+    "score.percentage": 84.49755623765991
 }

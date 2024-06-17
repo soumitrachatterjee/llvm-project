@@ -9,5 +9,6 @@
         "variant_alternative.verify.cpp": 0.0,
         "variant_size.pass.cpp": 49.71258160992137
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 5.384835416753252
 }

@@ -9,5 +9,6 @@
         "lexicographical_compare_comp.pass.cpp": 45.57098467078547,
         "ranges.lexicographical_compare.pass.cpp": 15.704110813909026
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 2.711076139558597
 }

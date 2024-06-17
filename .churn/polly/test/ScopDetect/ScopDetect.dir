@@ -82,5 +82,6 @@
         "switch-in-loop-patch.ll": 0.5123182262728023,
         "tlr_is_hoistable_load.ll": 0.940224748137732
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 8.983254719221305
 }

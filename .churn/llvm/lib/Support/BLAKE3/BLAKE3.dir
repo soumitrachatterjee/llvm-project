@@ -32,5 +32,6 @@
         "blake3_sse41_x86-64_windows_msvc.asm": 4.384181286400066,
         "llvm_blake3_prefix.h": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.12248797663325002
 }

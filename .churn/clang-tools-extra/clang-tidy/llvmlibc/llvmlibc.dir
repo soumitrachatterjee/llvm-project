@@ -17,5 +17,6 @@
         "RestrictSystemLibcHeadersCheck.cpp": 17.134887232733675,
         "RestrictSystemLibcHeadersCheck.h": 6.783890923756452
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.7859083355589562
 }

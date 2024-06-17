@@ -10,5 +10,6 @@
         "pubsetbuf.pass.cpp": 25.0,
         "pubsync.pass.cpp": 25.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 18.72677218060474
 }

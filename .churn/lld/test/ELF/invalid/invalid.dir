@@ -48,5 +48,6 @@
         "verneed-shared.test": 1.3312525796421164,
         "x86-64-tlsdesc-gd.s": 1.3312525796421164
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 1.0852147348884602
 }

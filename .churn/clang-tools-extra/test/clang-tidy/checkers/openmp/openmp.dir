@@ -8,5 +8,6 @@
         "exception-escape.cpp": 100.0,
         "use-default-none.cpp": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.3694481944425917
 }

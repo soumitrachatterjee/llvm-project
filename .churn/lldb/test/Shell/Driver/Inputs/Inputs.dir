@@ -18,5 +18,6 @@
         "process_attach_pid.in": 10.545092892753562,
         "syntax_error.py": 10.545092892753562
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 15.329152516882452
 }

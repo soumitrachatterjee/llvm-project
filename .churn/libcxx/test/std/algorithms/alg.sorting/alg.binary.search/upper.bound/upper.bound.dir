@@ -9,5 +9,6 @@
         "upper_bound.pass.cpp": 42.65413957617314,
         "upper_bound_comp.pass.cpp": 42.65413957617314
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 22.243424251007067
 }

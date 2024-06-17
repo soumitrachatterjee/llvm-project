@@ -10,5 +10,6 @@
         "substitutes-in-compile-flags.sh.cpp": 42.83382527107122,
         "substitutes-in-run.sh.cpp": 28.583087364464387
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 8.48175123729592
 }

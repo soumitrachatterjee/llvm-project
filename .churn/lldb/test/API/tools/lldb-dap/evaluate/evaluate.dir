@@ -11,5 +11,6 @@
         "Makefile": 0.0,
         "TestDAP_evaluate.py": 100.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 7.544159806042865
 }

@@ -8,5 +8,6 @@
     "subdirscores": {
         "lldb-dap": 14.042240777399806,
         "lldb-server": 85.95775922260019
-    }
+    },
+    "score.percentage": 11.769052441467561
 }

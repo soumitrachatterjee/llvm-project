@@ -9,5 +9,6 @@
         "istream.formatted.arithmetic": 39.86881899662127,
         "istream.formatted.reqmts": 10.985394524203372,
         "istream_extractors": 49.145786479175364
-    }
+    },
+    "score.percentage": 22.265551503462184
 }

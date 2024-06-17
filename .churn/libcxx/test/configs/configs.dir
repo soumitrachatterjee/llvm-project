@@ -19,5 +19,6 @@
         "llvm-libc++-static-clangcl.cfg.in": 11.750401218375242,
         "llvm-libc++-static.cfg.in": 6.029931558870285
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.825080450564891
 }

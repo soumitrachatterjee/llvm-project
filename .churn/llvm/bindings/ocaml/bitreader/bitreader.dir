@@ -10,5 +10,6 @@
         "llvm_bitreader.ml": 17.7162931129846,
         "llvm_bitreader.mli": 22.727369245314687
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 4.331987255434826
 }

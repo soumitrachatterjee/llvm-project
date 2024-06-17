@@ -10,5 +10,6 @@
         "coroutine.traits": 16.201779724065535,
         "coroutine.trivial.awaitables": 18.550309964314646,
         "end.to.end": 31.55646154577744
-    }
+    },
+    "score.percentage": 0.9516895651474088
 }

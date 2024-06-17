@@ -9,5 +9,6 @@
         "CoreFoundation.framework": 100.0,
         "MacOnly-Indirect.framework": 0.0,
         "MacOnly.framework": 0.0
-    }
+    },
+    "score.percentage": 100.0
 }

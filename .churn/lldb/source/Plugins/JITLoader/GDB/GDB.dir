@@ -10,5 +10,6 @@
         "JITLoaderGDB.h": 18.95399057154999,
         "JITLoaderGDBProperties.td": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 96.71400323052758
 }

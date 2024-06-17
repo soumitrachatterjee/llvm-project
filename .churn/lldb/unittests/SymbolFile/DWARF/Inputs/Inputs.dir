@@ -9,5 +9,6 @@
         "test-dwarf.cpp": 0.0,
         "test-dwarf.exe": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 6.303261401204188
 }

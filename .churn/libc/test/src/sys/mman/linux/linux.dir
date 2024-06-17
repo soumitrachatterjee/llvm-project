@@ -14,5 +14,6 @@
         "msync_test.cpp": 0.0,
         "posix_madvise_test.cpp": 11.429164668038382
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 91.99778249652385
 }

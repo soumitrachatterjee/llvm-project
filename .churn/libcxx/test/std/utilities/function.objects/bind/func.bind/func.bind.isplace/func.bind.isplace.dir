@@ -8,5 +8,6 @@
         "is_placeholder.pass.cpp": 50.0,
         "specialization.pass.cpp": 50.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 7.896154250904336
 }

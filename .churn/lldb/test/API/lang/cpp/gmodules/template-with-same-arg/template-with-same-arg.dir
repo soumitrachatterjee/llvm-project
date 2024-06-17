@@ -16,5 +16,6 @@
         "module2.h": 0.0,
         "TestTemplateWithSameArg.py": 100.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 32.81436317115766
 }

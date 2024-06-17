@@ -40,5 +40,6 @@
         "while-op-builder.mlir": 0.0,
         "wrap-while-loop-in-zero-trip-check.mlir": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 5.200325284033418
 }

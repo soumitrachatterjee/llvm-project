@@ -59,5 +59,6 @@
         "instrprof-value-prof-real.c": 2.371130143937381,
         "instrprof-value-prof-visibility.c": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 9.474086684162428
 }

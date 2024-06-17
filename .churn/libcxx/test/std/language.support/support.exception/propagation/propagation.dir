@@ -10,5 +10,6 @@
         "make_exception_ptr.pass.cpp": 23.5186459050455,
         "rethrow_exception.pass.cpp": 23.5186459050455
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 17.895975516620002
 }

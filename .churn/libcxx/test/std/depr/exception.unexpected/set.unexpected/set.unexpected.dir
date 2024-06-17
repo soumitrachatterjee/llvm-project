@@ -8,5 +8,6 @@
         "get_unexpected.pass.cpp": 51.726874737088956,
         "set_unexpected.pass.cpp": 48.273125262911044
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 34.565746390622586
 }

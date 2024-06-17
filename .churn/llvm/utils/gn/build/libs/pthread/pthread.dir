@@ -8,5 +8,6 @@
         "BUILD.gn": 100.0,
         "enable.gni": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 45.597344294347394
 }

@@ -12,5 +12,6 @@
         "CMakeLists.txt": 20.59469826990899,
         "run-clang-tidy.py": 21.90886144555258
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 4.870363373750978
 }

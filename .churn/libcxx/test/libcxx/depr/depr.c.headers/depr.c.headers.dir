@@ -10,5 +10,6 @@
         "stdint_h.std_types_t.compile.pass.cpp": 12.516770021662966,
         "stdint_h.xopen_source.compile.pass.cpp": 24.643230405958953
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 34.381411472954895
 }

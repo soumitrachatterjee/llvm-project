@@ -10,5 +10,6 @@
         "uninitialized_default_construct.pass.cpp": 27.988737807457543,
         "uninitialized_default_construct_n.pass.cpp": 37.45399716554894
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 10.365002365905545
 }

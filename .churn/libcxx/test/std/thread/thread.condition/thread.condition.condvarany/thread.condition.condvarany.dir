@@ -23,5 +23,6 @@
         "wait_until_pred.pass.cpp": 11.081457869356823,
         "wait_until_token_pred.pass.cpp": 1.4882053068336336
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 42.439338891005754
 }

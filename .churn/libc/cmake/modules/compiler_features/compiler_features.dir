@@ -8,5 +8,6 @@
         "check_fixed_point.cpp": 32.05026854689015,
         "check_float128.cpp": 67.94973145310986
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 2.2847128861293937
 }

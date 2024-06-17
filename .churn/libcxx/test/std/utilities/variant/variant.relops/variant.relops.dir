@@ -9,5 +9,6 @@
         "relops_bool_conv.verify.cpp": 15.06098115859281,
         "three_way.pass.cpp": 15.06098115859281
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 11.541055190693735
 }

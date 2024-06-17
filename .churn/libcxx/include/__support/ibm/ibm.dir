@@ -9,5 +9,6 @@
         "locale_mgmt_zos.h": 28.712261482597533,
         "nanosleep.h": 34.77262450288811
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 41.91766215828776
 }

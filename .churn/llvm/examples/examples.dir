@@ -20,5 +20,6 @@
         "OrcV2Examples": 11.704948580501283,
         "ParallelJIT": 6.11457715794863,
         "SpeculativeJIT": 1.3914414950392406
-    }
+    },
+    "score.percentage": 0.16119045511991306
 }

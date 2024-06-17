@@ -8,5 +8,6 @@
         "AsyncToLLVM.cpp": 86.07990204349149,
         "CMakeLists.txt": 13.920097956508515
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 1.8509351897708675
 }

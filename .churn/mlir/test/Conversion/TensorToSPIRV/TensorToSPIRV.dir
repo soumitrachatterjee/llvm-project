@@ -7,5 +7,6 @@
     "filescores": {
         "tensor-ops-to-spirv.mlir": 100.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.25081251888837885
 }

@@ -10,5 +10,6 @@
         "unexpected.pass.cpp": 33.33333333333333,
         "unexpected_disabled_cpp17.verify.cpp": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 7.681388871482703
 }

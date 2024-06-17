@@ -12,5 +12,6 @@
         "expected.expected": 44.86115775884553,
         "expected.unexpected": 4.683317545035116,
         "expected.void": 34.94910807567376
-    }
+    },
+    "score.percentage": 1.12238485467676
 }

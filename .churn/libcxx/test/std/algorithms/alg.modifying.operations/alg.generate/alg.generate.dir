@@ -12,5 +12,6 @@
         "ranges_generate.pass.cpp": 9.964630703697209,
         "ranges_generate_n.pass.cpp": 9.964630703697209
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 4.866276979749744
 }

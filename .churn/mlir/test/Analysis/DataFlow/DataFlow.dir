@@ -12,5 +12,6 @@
         "test-next-access.mlir": 21.81051270090899,
         "test-written-to.mlir": 17.801473251939214
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 22.99601773472623
 }

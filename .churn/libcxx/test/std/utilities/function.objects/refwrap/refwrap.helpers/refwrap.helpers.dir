@@ -14,5 +14,6 @@
         "ref_1.pass.cpp": 15.384239382603148,
         "ref_2.pass.cpp": 23.044767602881898
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 18.579736152136654
 }

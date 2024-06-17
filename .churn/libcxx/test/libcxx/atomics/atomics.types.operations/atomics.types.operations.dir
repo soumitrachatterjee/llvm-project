@@ -7,5 +7,6 @@
     "filescores": {},
     "subdirscores": {
         "atomics.types.operations.req": 100.0
-    }
+    },
+    "score.percentage": 10.981730047308073
 }

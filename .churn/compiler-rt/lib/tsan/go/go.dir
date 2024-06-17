@@ -10,5 +10,6 @@
         "test.c": 6.202553430991639,
         "tsan_go.cpp": 16.010762545984498
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 7.947617998309458
 }

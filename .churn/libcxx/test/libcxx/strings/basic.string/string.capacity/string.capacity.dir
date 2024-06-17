@@ -9,5 +9,6 @@
         "max_size.pass.cpp": 53.72861530077404,
         "PR53170.pass.cpp": 36.28653417883931
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 22.52958685111582
 }

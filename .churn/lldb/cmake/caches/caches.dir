@@ -10,5 +10,6 @@
         "Apple-lldb-macOS.cmake": 22.574896519649705,
         "Apple-lldb-Xcode.cmake": 58.00537626327732
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 1.3104435301174686
 }

@@ -11,5 +11,6 @@
         "to_address_std_iterators.pass.cpp": 12.29230059107344,
         "to_address_without_pointer_traits.pass.cpp": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 3.50652624526948
 }

@@ -13,5 +13,6 @@
         "thread.lock.unique.locking": 32.102143676568815,
         "thread.lock.unique.mod": 8.242155510651052,
         "thread.lock.unique.obs": 10.911436929824168
-    }
+    },
+    "score.percentage": 25.224278649346637
 }

@@ -8,5 +8,6 @@
         "8-bit-float-saturation.mlir": 0.0,
         "8-bit-floats.mlir": 100.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.1292801919229938
 }

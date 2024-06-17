@@ -19,5 +19,6 @@
         "versioned_op.mlir": 39.05805996692542,
         "versioned_op_with_native_properties.mlir": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 14.396836445770479
 }

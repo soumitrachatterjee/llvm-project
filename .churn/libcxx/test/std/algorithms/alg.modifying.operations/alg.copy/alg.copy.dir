@@ -19,5 +19,6 @@
         "ranges.copy_n.pass.cpp": 3.7677575004674835,
         "ranges.copy_n.segmented.pass.cpp": 1.9293100516746808
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 15.751191164972234
 }

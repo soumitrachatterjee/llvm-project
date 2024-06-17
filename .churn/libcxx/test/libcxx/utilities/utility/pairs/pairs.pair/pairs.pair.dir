@@ -16,5 +16,6 @@
         "trivial_copy_move_ABI.pass.cpp": 17.1391096029778,
         "U_V.pass.cpp": 6.414443811896678
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 100.0
 }

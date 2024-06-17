@@ -21,5 +21,6 @@
         "ResolveShapedTypeResultDims.cpp": 14.432498561899923,
         "RuntimeOpVerification.cpp": 1.7660137474979742
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 40.50324959531542
 }

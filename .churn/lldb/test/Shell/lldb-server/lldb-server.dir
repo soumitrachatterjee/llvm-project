@@ -9,5 +9,6 @@
         "TestErrorMessages.test": 50.77984317677037,
         "TestGdbserverPort.test": 49.22015682322963
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.5109771675791586
 }

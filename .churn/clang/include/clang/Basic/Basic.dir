@@ -185,5 +185,6 @@
         "XRayInstr.h": 0.02659519873128369,
         "XRayLists.h": 0.025859957279518665
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 35.59989993175511
 }

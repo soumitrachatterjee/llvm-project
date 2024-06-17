@@ -12,5 +12,6 @@
         "parse.pass.cpp": 17.523317389433522,
         "types.compile.pass.cpp": 8.46550140501223
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 2.7875202616385337
 }

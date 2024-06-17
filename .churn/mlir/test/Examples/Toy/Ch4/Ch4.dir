@@ -14,5 +14,6 @@
         "transpose_transpose.toy": 7.905663931628433,
         "trivial_reshape.toy": 7.905663931628433
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 12.15039511061726
 }

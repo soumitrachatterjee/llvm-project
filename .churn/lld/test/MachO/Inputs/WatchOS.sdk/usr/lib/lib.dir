@@ -9,5 +9,6 @@
         "libc++abi.tbd": 33.33333333333333,
         "libSystem.tbd": 33.33333333333333
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 100.0
 }

@@ -18,5 +18,6 @@
         "uuid-matching-mac.syms": 8.333333333333332,
         "uuid-matching-mac.yaml": 8.333333333333332
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 11.008875989509594
 }

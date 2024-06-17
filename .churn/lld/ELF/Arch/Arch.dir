@@ -23,5 +23,6 @@
         "X86.cpp": 7.005987799987193,
         "X86_64.cpp": 10.161444713377016
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 4.829018836898591
 }

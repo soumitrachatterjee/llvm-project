@@ -13,5 +13,6 @@
         "math_differential_fuzz.cpp": 8.385866648875961,
         "nextafter_differential_fuzz.cpp": 8.385866648875961
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 17.059813820260043
 }

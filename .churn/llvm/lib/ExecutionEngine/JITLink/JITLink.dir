@@ -46,5 +46,6 @@
         "riscv.cpp": 1.5245576413785968,
         "x86_64.cpp": 1.3875589871933973
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 17.09946512759099
 }

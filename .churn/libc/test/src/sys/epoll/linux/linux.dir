@@ -10,5 +10,6 @@
         "epoll_pwait_test.cpp": 25.0,
         "epoll_wait_test.cpp": 25.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 50.0
 }

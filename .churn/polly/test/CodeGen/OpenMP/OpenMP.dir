@@ -33,5 +33,6 @@
         "single_parallel_loop___%for.i---%exit.jscop": 0.0,
         "two-parallel-loops-reference-outer-indvar.ll": 3.856997020402475
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 2.869543821801147
 }

@@ -56,5 +56,6 @@
         "wwm-reserved-regs-not-a-reg.mir": 0.0,
         "wwm-reserved-regs.mir": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 29.356769076322802
 }

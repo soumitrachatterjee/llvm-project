@@ -9,5 +9,6 @@
         "InstrumentationRuntimeASan.cpp": 61.63175552904955,
         "InstrumentationRuntimeASan.h": 24.15850598230032
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 19.39889513007962
 }

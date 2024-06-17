@@ -9,5 +9,6 @@
         "move_assign.pass.cpp": 47.12349298090688,
         "nonmember_swap.pass.cpp": 26.438253509546556
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 3.7905873078760486
 }

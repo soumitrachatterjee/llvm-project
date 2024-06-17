@@ -9,5 +9,6 @@
         "long-setcc.ll": 0.0,
         "setcc.ll": 31.456914294866696
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 7.270858088832334
 }

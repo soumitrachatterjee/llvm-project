@@ -26,5 +26,6 @@
         "swap.pass.cpp": 5.735524414443937,
         "uses_allocator.pass.cpp": 3.5985686556411745
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 9.76689848399284
 }

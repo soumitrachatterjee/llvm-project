@@ -15,5 +15,6 @@
         "inline-asm-gcc-regs.c": 0.0,
         "inline-asm-operand-modifier.c": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 10.81676569363512
 }

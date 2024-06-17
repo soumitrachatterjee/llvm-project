@@ -9,5 +9,6 @@
         "Makefile": 0.0,
         "TestUnusedInlinedParameters.py": 74.4729666743265
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.4179942762980766
 }

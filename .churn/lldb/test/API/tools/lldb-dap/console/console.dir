@@ -10,5 +10,6 @@
         "TestDAP_console.py": 100.0,
         "TestDAP_redirection_to_console.py": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 3.0745529475213527
 }

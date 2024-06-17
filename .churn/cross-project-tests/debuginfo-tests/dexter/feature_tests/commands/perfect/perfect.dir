@@ -21,5 +21,6 @@
         "expect_step_kind": 6.13096077951889,
         "float_range_watch": 6.091224067441712,
         "limit_steps": 9.92338858227729
-    }
+    },
+    "score.percentage": 65.38662685475116
 }

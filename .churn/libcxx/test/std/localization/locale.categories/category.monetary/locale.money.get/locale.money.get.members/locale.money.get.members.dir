@@ -11,5 +11,6 @@
         "get_long_double_zh_CN.pass.cpp": 19.301689779079265,
         "get_string_en_US.pass.cpp": 14.116507230191125
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 75.8171321079128
 }

@@ -49,5 +49,6 @@
         "size_hash_equal.pass.cpp": 2.896670673968041,
         "size_hash_equal_allocator.pass.cpp": 3.095161313743252
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 17.418087524909566
 }

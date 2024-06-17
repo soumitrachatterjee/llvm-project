@@ -8,5 +8,6 @@
         "Testsuite.ml": 0.0,
         "lit.local.cfg": 100.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 2.052068424661412
 }

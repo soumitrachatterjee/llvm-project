@@ -24,5 +24,6 @@
         "xor.assign.pass.cpp": 6.293170294337605,
         "xor.pass.cpp": 6.293170294337605
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 18.201833498943415
 }

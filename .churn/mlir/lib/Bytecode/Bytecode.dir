@@ -11,5 +11,6 @@
     "subdirscores": {
         "Reader": 43.49235444502221,
         "Writer": 47.38744913527136
-    }
+    },
+    "score.percentage": 0.332664133972435
 }

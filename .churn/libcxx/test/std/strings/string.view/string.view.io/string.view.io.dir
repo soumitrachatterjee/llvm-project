@@ -8,5 +8,6 @@
         "stream_insert.pass.cpp": 68.24944528253017,
         "stream_insert_decl_present.compile.pass.cpp": 31.750554717469814
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 4.691990453441126
 }

@@ -12,5 +12,6 @@
         "TestCallStopAndContinue.py": 15.901591217063975,
         "TestCallUserDefinedFunction.py": 19.48270409080484
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 1.9776846781114115
 }

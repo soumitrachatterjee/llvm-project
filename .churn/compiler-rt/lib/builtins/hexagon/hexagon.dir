@@ -32,5 +32,6 @@
         "umoddi3.S": 3.0746167060359726,
         "umodsi3.S": 3.0746167060359726
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.15831075582447243
 }

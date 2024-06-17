@@ -24,5 +24,6 @@
         "transpose-fold.mlir": 0.7828878126401274,
         "variables.mlir": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 2.7877813665783653
 }

@@ -10,5 +10,6 @@
         "release.pass.cpp": 25.0,
         "reset.pass.cpp": 25.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 18.896642706208894
 }

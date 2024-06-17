@@ -8,5 +8,6 @@
         "is_execution_policy.compile.pass.cpp": 47.32591938153084,
         "policies.compile.pass.cpp": 52.674080618469155
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.1179449381307138
 }

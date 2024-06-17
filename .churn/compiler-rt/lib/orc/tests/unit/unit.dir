@@ -22,5 +22,6 @@
         "string_pool_test.cpp": 0.0,
         "wrapper_function_utils_test.cpp": 11.877393633962141
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 83.30695720187109
 }

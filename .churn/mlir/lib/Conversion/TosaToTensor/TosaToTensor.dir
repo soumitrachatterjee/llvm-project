@@ -9,5 +9,6 @@
         "TosaToTensor.cpp": 67.19717879585791,
         "TosaToTensorPass.cpp": 25.003454958166433
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.8313671628071163
 }

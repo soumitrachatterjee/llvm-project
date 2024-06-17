@@ -7,5 +7,6 @@
     "filescores": {
         "file1.c": 100.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 50.0
 }

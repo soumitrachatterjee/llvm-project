@@ -50,5 +50,6 @@
         "update_access_functions___%loop1---%exit.jscop": 0.0,
         "update_access_functions___%loop1---%exit.jscop.transformed": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 2.472342399137117
 }

@@ -15,5 +15,6 @@
         "test-pdb.h": 10.79247422079638,
         "test-pdb.pdb": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 12.352436975664965
 }

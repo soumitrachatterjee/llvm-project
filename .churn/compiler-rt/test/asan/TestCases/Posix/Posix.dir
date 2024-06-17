@@ -70,5 +70,6 @@
     "subdirscores": {
         "asan_symbolize_script": 3.086353523089843,
         "glob_test_root": 0.0
-    }
+    },
+    "score.percentage": 16.930240808642484
 }

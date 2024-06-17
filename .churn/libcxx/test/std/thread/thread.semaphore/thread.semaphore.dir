@@ -15,5 +15,6 @@
         "timed.pass.cpp": 16.686786767979925,
         "try_acquire.pass.cpp": 18.36520978362204
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 4.849490772749347
 }

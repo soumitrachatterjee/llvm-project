@@ -8,5 +8,6 @@
         "integer_seq.compile.fail.cpp": 19.82278114019974,
         "integer_seq.pass.cpp": 80.17721885980026
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 29.808277617548296
 }

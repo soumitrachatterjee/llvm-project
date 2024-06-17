@@ -8,5 +8,6 @@
     "subdirscores": {
         "concurrent_vfork": 57.345170484095775,
         "resumes-child": 42.654829515904225
-    }
+    },
+    "score.percentage": 0.4505501712725522
 }

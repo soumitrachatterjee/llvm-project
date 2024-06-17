@@ -10,5 +10,6 @@
         "invoke_r.pass.cpp": 15.085208216823586,
         "invoke_r.temporary.verify.cpp": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 4.080974930525415
 }

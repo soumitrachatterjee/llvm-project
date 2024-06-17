@@ -18,5 +18,6 @@
         "SetPlatformToolchainTools.cmake": 0.0,
         "SortSubset.cmake": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 95.36139244960445
 }

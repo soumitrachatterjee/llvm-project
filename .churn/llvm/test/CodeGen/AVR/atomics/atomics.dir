@@ -15,5 +15,6 @@
         "store16.ll": 12.551052389120427,
         "swap.ll": 6.646361988814873
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 3.119639377807047
 }

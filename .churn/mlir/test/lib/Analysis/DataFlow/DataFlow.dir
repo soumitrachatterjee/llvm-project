@@ -12,5 +12,6 @@
         "TestLivenessAnalysis.cpp": 0.0,
         "TestSparseBackwardDataFlowAnalysis.cpp": 16.629639817545215
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 20.301979165596684
 }

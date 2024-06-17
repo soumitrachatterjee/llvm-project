@@ -8,5 +8,6 @@
         "structural-hash-detailed.ll": 100.0,
         "structural-hash-printer.ll": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.03744325389597063
 }

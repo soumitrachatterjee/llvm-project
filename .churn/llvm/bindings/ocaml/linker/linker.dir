@@ -10,5 +10,6 @@
         "llvm_linker.ml": 20.52145049526539,
         "llvm_linker.mli": 19.466659767958433
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 2.8448119987838307
 }

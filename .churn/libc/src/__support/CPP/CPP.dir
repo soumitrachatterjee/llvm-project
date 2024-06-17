@@ -30,5 +30,6 @@
     "subdirscores": {
         "type_traits": 5.373585652952616,
         "utility": 0.9920891497251776
-    }
+    },
+    "score.percentage": 15.10146449133581
 }

@@ -19,5 +19,6 @@
         "test_min_max.pass.cpp": 7.6838238374746055,
         "test_neg_one.pass.cpp": 6.846712766771325
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 65.4528187352236
 }

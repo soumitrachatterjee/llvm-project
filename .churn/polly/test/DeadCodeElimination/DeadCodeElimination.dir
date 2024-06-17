@@ -13,5 +13,6 @@
         "non-affine.ll": 9.326215402867057,
         "null_schedule.ll": 13.583093723458536
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 1.187844547445777
 }

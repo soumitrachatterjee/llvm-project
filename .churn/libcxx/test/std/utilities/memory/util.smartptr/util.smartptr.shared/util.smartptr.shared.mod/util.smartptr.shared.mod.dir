@@ -12,5 +12,6 @@
         "reset_pointer_deleter_allocator.pass.cpp": 30.370324692163525,
         "swap.pass.cpp": 13.049021208233484
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 5.317302737639032
 }

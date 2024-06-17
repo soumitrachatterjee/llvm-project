@@ -12,5 +12,6 @@
     "subdirscores": {
         "locale.time.get.members": 35.80959579494758,
         "locale.time.get.virtuals": 11.65103202706569
-    }
+    },
+    "score.percentage": 13.956469733094917
 }

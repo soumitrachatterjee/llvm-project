@@ -10,5 +10,6 @@
         "llvm_bitwriter.ml": 21.56901197166289,
         "llvm_bitwriter.mli": 22.13390411379449
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 3.336360799341808
 }

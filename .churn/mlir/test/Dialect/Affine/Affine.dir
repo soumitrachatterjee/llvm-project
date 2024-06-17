@@ -51,5 +51,6 @@
     },
     "subdirscores": {
         "SuperVectorize": 10.051420546901033
-    }
+    },
+    "score.percentage": 3.2856456425114247
 }

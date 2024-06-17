@@ -18,5 +18,6 @@
         "llvm-libc++abi-static-clangcl.cfg.in": 7.237708408120101,
         "llvm-libc++abi-static.cfg.in": 4.051251748125758
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 2.459085941325857
 }

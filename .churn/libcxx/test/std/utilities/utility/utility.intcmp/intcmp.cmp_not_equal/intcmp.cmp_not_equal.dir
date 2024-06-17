@@ -7,5 +7,6 @@
     "filescores": {
         "cmp_not_equal.pass.cpp": 100.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 14.016214544599977
 }

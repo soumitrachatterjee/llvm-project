@@ -28,5 +28,6 @@
         "tinyvm": 0.0,
         "tmux": 0.0,
         "zstd": 0.0
-    }
+    },
+    "score.percentage": 1.2320472454090596
 }

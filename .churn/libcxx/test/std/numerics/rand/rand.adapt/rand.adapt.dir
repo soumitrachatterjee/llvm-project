@@ -9,5 +9,6 @@
         "rand.adapt.disc": 33.08403503594234,
         "rand.adapt.ibits": 32.45177874646959,
         "rand.adapt.shuf": 34.464186217588065
-    }
+    },
+    "score.percentage": 9.784848102124363
 }

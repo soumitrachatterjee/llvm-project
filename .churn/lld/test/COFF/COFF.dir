@@ -463,5 +463,6 @@
     },
     "subdirscores": {
         "Inputs": null
-    }
+    },
+    "score.percentage": 16.708020790204767
 }

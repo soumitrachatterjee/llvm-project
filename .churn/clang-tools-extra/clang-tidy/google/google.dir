@@ -40,5 +40,6 @@
         "UsingNamespaceDirectiveCheck.cpp": 2.3460984805734575,
         "UsingNamespaceDirectiveCheck.h": 2.8147210662056734
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 3.6664760964654124
 }

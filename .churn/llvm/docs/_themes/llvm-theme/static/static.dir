@@ -10,5 +10,6 @@
         "logo.png": 0.0,
         "navigation.png": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 100.0
 }

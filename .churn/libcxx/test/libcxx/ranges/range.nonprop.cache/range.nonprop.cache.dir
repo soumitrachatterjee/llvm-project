@@ -16,5 +16,6 @@
         "emplace_from.pass.cpp": 9.313712300927618,
         "has_value.pass.cpp": 10.269567302997464
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 4.789639820312395
 }

@@ -10,5 +10,6 @@
         "TestPDLL.pdll": 17.593288744460207,
         "lit.local.cfg": 17.593288744460207
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 100.0
 }

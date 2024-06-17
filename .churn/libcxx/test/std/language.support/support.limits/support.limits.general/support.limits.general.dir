@@ -78,5 +78,6 @@
         "vector.version.compile.pass.cpp": 1.320240849442953,
         "version.version.compile.pass.cpp": 16.19310346448481
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 82.04902027093853
 }

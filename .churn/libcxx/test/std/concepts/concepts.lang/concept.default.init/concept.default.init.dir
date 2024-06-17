@@ -8,5 +8,6 @@
         "default_initializable.compile.pass.cpp": 71.15570962035665,
         "default_initializable.verify.cpp": 28.84429037964336
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 20.87708509833533
 }

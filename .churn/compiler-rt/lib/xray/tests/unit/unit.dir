@@ -17,5 +17,6 @@
         "test_helpers.h": 9.608028489224393,
         "xray_unit_test_main.cpp": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 51.80779721352153
 }

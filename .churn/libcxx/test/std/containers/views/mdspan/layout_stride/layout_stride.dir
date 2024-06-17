@@ -19,5 +19,6 @@
         "static_requirements.pass.cpp": 16.280239514283114,
         "stride.pass.cpp": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 13.73051652320536
 }

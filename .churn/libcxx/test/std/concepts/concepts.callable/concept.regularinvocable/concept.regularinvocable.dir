@@ -7,5 +7,6 @@
     "filescores": {
         "regular_invocable.compile.pass.cpp": 100.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 20.351567872957542
 }

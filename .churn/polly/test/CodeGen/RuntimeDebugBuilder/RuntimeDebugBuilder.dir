@@ -9,5 +9,6 @@
         "combine_different_values.ll": 65.42520231050271,
         "stmt_tracing.ll": 34.57479768949729
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.7624735246216241
 }

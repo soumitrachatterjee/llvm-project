@@ -8,5 +8,6 @@
         "borrowing.compile.pass.cpp": 49.36297907320065,
         "range.ref.view.pass.cpp": 50.63702092679936
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 17.33055895753633
 }

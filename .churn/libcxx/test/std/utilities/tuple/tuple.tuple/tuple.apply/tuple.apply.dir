@@ -10,5 +10,6 @@
         "apply_large_arity.pass.cpp": 22.453482054931882,
         "make_from_tuple.pass.cpp": 31.672378115345612
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 3.821878650317416
 }

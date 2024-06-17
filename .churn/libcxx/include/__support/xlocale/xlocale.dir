@@ -9,5 +9,6 @@
         "__posix_l_fallback.h": 36.271132755285024,
         "__strtonum_fallback.h": 37.70788214211149
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 58.08233784171224
 }

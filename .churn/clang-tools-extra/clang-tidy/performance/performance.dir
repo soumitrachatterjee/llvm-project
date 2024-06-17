@@ -48,5 +48,6 @@
         "UnnecessaryValueParamCheck.cpp": 9.934179817794423,
         "UnnecessaryValueParamCheck.h": 3.226341770069778
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 3.3268953162930535
 }

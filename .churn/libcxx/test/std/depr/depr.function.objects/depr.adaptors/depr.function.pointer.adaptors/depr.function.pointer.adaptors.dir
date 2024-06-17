@@ -14,5 +14,6 @@
         "ptr_fun2.cxx1z.compile.fail.cpp": 4.874356928956119,
         "ptr_fun2.pass.cpp": 20.125643071043882
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 48.141298681451936
 }

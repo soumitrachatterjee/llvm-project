@@ -7,5 +7,6 @@
     "filescores": {
         "bad_typeid.pass.cpp": 100.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 26.14648955489009
 }

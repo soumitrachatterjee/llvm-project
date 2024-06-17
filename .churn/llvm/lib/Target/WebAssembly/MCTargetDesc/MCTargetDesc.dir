@@ -21,5 +21,6 @@
         "WebAssemblyTargetStreamer.h": 7.2839191919511155,
         "WebAssemblyWasmObjectWriter.cpp": 7.860560606895335
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 6.549343762623729
 }

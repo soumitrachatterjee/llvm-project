@@ -8,5 +8,6 @@
         "shuffle.cl": 50.0,
         "shuffle2.cl": 50.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.49187423814421594
 }

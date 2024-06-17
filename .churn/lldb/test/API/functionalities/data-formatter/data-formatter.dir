@@ -60,5 +60,6 @@
         "var-in-aggregate-misuse": 0.8229459465620312,
         "varscript_formatting": 0.9263280543459593,
         "vector-types": 1.668181302768725
-    }
+    },
+    "score.percentage": 15.298747359575449
 }

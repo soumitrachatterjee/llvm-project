@@ -8,5 +8,6 @@
         "MathToSPIRV.h": 0.0,
         "MathToSPIRVPass.h": 100.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.9752999969193836
 }

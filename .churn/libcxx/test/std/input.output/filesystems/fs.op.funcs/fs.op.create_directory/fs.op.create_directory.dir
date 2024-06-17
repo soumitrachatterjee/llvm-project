@@ -8,5 +8,6 @@
         "create_directory.pass.cpp": 44.79976645342953,
         "create_directory_with_attributes.pass.cpp": 55.200233546570466
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 3.17129135172544
 }

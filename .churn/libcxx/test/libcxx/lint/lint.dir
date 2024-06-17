@@ -8,5 +8,6 @@
         "lint_cmakelists.sh.py": 23.11972931944003,
         "lint_headers.sh.py": 76.88027068055997
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.40085681019633107
 }

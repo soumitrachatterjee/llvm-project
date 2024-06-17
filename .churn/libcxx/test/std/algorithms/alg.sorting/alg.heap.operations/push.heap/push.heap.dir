@@ -9,5 +9,6 @@
         "push_heap_comp.pass.cpp": 34.50772598895108,
         "ranges_push_heap.pass.cpp": 21.52486405175987
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 16.069474587084922
 }

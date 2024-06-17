@@ -20,5 +20,6 @@
         "kill_dependency.h": 3.2336756715261363,
         "memory_order.h": 3.283613100788527
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.1991947910956447
 }

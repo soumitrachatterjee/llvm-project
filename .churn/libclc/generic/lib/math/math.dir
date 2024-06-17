@@ -159,5 +159,6 @@
         "trunc.cl": 0.9952692519012615,
         "unary_builtin.inc": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 28.142837601944798
 }

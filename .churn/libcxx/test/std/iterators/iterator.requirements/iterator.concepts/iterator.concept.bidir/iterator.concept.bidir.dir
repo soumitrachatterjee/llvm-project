@@ -8,5 +8,6 @@
         "bidirectional_iterator.compile.pass.cpp": 49.92135023918357,
         "subsumption.compile.pass.cpp": 50.07864976081644
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 6.216525834517997
 }

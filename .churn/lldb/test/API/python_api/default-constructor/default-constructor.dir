@@ -38,5 +38,6 @@
         "sb_watchpoint.py": 3.896163455194907,
         "TestDefaultConstructorForAPIObjects.py": 16.428255554252825
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 4.150141373894233
 }

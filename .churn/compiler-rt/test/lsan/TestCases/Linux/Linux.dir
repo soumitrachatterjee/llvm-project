@@ -22,5 +22,6 @@
         "use_tls_pthread_specific_static.cpp": 8.21554663366076,
         "use_tls_static.cpp": 6.764000506498434
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 13.402334295464009
 }

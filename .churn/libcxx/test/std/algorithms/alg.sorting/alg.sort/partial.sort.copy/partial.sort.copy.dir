@@ -9,5 +9,6 @@
         "partial_sort_copy_comp.pass.cpp": 42.98689997279256,
         "ranges_partial_sort_copy.pass.cpp": 14.026200054414886
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 12.428701140426817
 }

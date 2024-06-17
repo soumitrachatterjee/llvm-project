@@ -15,5 +15,6 @@
         "config.h.cmake": 69.63159636667761,
         "llvm-config.h.cmake": 26.49640131731754
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.7259710662287048
 }

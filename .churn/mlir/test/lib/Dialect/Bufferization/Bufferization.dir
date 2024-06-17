@@ -8,5 +8,6 @@
         "CMakeLists.txt": 0.0,
         "TestTensorCopyInsertion.cpp": 100.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.48590244244756
 }

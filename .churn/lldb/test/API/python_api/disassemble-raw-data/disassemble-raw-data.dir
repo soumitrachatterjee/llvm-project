@@ -8,5 +8,6 @@
         "TestDisassembleRawData.py": 57.903405651378215,
         "TestDisassemble_VST1_64.py": 42.096594348621785
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 2.7056630190321096
 }

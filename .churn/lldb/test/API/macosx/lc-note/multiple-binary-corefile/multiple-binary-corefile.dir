@@ -12,5 +12,6 @@
         "TestMultipleBinaryCorefile.py": 27.744571093497672,
         "two.c": 14.870413558456095
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 18.297765274787995
 }

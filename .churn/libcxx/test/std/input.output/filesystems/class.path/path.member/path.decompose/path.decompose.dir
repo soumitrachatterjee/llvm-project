@@ -8,5 +8,6 @@
         "empty.verify.cpp": 40.34557739037109,
         "path.decompose.pass.cpp": 59.65442260962891
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 8.059598554764875
 }

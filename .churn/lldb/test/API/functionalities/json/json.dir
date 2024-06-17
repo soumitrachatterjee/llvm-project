@@ -8,5 +8,6 @@
     "subdirscores": {
         "object-file": 0.0,
         "symbol-file": 100.0
-    }
+    },
+    "score.percentage": 0.14327553067226154
 }

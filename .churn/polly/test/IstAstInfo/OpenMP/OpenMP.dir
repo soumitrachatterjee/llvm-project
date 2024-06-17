@@ -14,5 +14,6 @@
         "single_loop_param_parallel.ll": 12.5,
         "single_loop_param_parallel_computeout.ll": 12.5
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 2.3246730170265963
 }

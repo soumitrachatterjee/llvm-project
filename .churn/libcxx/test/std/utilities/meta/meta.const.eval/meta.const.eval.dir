@@ -8,5 +8,6 @@
         "is_constant_evaluated.pass.cpp": 49.72910587961109,
         "is_constant_evaluated.verify.cpp": 50.270894120388895
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 6.16103817550376
 }

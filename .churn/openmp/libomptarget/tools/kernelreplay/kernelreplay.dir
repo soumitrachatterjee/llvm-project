@@ -8,5 +8,6 @@
         "CMakeLists.txt": 0.0,
         "llvm-omp-kernel-replay.cpp": 100.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 48.06194722053703
 }

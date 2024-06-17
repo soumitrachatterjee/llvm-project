@@ -10,5 +10,6 @@
         "debugserver-macosx-private-entitlements.plist": 31.475195788612613,
         "lldb-debugserver-Info.plist": 37.04960842277477
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.7139669111649756
 }

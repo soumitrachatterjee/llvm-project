@@ -7,5 +7,6 @@
     "filescores": {},
     "subdirscores": {
         "AliasAnalysis": 100.0
-    }
+    },
+    "score.percentage": 0.21285988218534999
 }

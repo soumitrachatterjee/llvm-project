@@ -56,5 +56,6 @@
         "skip_notinloop.ll": 1.8773578194081775,
         "skip_scalaraccess.ll": 1.8773578194081775
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 2.3706568719408536
 }

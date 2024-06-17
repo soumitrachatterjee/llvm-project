@@ -14,5 +14,6 @@
         "simd_size.pass.cpp": 0.0,
         "simd_size.verify.cpp": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 32.521292406979335
 }

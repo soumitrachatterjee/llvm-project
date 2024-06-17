@@ -12,5 +12,6 @@
         "resize_size_value.pass.cpp": 21.37826185205263,
         "size.pass.cpp": 13.192762988571042
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 13.017286753857245
 }

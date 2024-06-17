@@ -12,5 +12,6 @@
         "member_types.compile.pass.cpp": 0.0,
         "special_op.pass.cpp": 50.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 33.33333333333333
 }

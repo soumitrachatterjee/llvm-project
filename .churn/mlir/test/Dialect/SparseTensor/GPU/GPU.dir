@@ -15,5 +15,6 @@
         "gpu_sddmm_lib.mlir": 7.115998251806984,
         "gpu_spgemm_lib.mlir": 10.767775207056166
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 1.8394715089132552
 }

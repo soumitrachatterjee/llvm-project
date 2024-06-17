@@ -29,5 +29,6 @@
         "unroll-full.f90": 0.0,
         "unroll.f90": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 36.90775205982668
 }

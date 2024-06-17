@@ -8,5 +8,6 @@
         "strict_weak_order.compile.pass.cpp": 32.649984741756064,
         "strict_weak_order.subsumption.compile.pass.cpp": 67.35001525824394
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 14.29969575836342
 }

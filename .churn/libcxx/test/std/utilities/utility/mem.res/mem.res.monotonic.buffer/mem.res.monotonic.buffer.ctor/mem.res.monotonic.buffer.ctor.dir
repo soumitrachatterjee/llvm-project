@@ -9,5 +9,6 @@
         "without_buffer.pass.cpp": 38.442604620218255,
         "with_default_resource.pass.cpp": 38.442604620218255
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 36.7082757076687
 }

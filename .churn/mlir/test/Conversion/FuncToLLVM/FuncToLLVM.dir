@@ -16,5 +16,6 @@
         "func-to-llvm.mlir": 12.619107091575035,
         "invalid.mlir": 6.3964313422000165
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 2.5561117058514284
 }

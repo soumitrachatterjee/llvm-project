@@ -39,5 +39,6 @@
         "StatepointLowering.h": 0.0958297901880006,
         "TargetLowering.cpp": 9.832004750428489
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 35.35266350097098
 }

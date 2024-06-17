@@ -18,5 +18,6 @@
         "vector-legalization.mlir": 5.3735794402850265,
         "vector-ops-to-llvm.mlir": 14.31778592034602
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 1.0700751184485295
 }

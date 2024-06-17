@@ -10,5 +10,6 @@
         "typed-immediate-operand-invalid0.mir": 25.052917046703683,
         "typed-immediate-operand-invalid1.mir": 25.052917046703683
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.5606994954919006
 }

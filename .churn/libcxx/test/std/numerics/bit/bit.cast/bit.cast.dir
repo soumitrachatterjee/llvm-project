@@ -8,5 +8,6 @@
         "bit_cast.compile.pass.cpp": 41.776219055132266,
         "bit_cast.pass.cpp": 58.223780944867734
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 3.8606934432498026
 }

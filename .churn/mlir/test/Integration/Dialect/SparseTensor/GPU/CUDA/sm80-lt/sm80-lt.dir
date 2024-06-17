@@ -10,5 +10,6 @@
         "sparse-matmul-2-4-lib.mlir": 53.41348381183555,
         "sparse-matmul-2-4-prune.mlir": 46.58651618816446
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 9.821817131453122
 }

@@ -8,5 +8,6 @@
         "lexically_normal.pass.cpp": 52.364476942633246,
         "lexically_relative_and_proximate.pass.cpp": 47.63552305736677
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 8.157768182644038
 }

@@ -23,5 +23,6 @@
         "SPIRV": 0.0,
         "VCIX": 0.0,
         "X86Vector": 0.0
-    }
+    },
+    "score.percentage": 16.787163308760555
 }

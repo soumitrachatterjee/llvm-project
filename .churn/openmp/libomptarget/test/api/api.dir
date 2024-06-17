@@ -34,5 +34,6 @@
         "omp_target_memcpy_rect_async2.c": 0.0,
         "omp_target_memset.c": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 7.108278758853724
 }

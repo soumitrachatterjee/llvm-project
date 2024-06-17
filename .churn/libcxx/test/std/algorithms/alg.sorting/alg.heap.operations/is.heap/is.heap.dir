@@ -12,5 +12,6 @@
         "ranges_is_heap.pass.cpp": 6.4442733917373705,
         "ranges_is_heap_until.pass.cpp": 6.4442733917373705
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 11.435665679473383
 }

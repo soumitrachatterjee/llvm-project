@@ -14,5 +14,6 @@
         "unary_negate.depr_in_cxx17.verify.cpp": 5.910006430359827,
         "unary_negate.pass.cpp": 19.10240342978279
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 5.787030560610395
 }

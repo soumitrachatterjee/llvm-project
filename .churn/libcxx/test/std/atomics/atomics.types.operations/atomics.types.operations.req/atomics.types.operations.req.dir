@@ -33,5 +33,6 @@
         "ctor.pass.cpp": 4.118090668977572,
         "dtor.pass.cpp": 0.721112483234787
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 52.80620610410709
 }

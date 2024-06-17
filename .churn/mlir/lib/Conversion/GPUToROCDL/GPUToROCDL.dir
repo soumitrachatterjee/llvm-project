@@ -9,5 +9,6 @@
         "GPUToROCDL.td": 3.670320304667593,
         "LowerGpuOpsToROCDLOps.cpp": 77.85391063955595
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 3.038531144225948
 }

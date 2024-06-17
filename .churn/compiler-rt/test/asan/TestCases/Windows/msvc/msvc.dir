@@ -18,5 +18,6 @@
         "tls_init.cpp": 0.0,
         "use_after_return_linkage.cpp": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.4049430382320412
 }

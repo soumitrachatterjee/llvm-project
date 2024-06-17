@@ -13,5 +13,6 @@
         "vec_reg_restore-le.pass.cpp": 0.0,
         "vec_reg_restore.pass.cpp": 33.33333333333333
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 75.13423294087299
 }

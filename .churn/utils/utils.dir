@@ -7,5 +7,6 @@
     "filescores": {},
     "subdirscores": {
         "bazel": 100.0
-    }
+    },
+    "score.percentage": 0.47090581189990627
 }

@@ -9,5 +9,6 @@
         "MemoryHistoryASan.cpp": 68.51424039270505,
         "MemoryHistoryASan.h": 25.063711020935482
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 100.0
 }

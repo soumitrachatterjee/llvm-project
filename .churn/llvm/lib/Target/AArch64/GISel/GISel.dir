@@ -20,5 +20,6 @@
         "AArch64RegisterBankInfo.cpp": 6.540660549950653,
         "AArch64RegisterBankInfo.h": 1.2328992779252956
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 4.427920664290138
 }

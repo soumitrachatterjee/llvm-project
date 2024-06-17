@@ -8,5 +8,6 @@
         "specializations.compile.fail.cpp": 0.0,
         "specializations.pass.cpp": 100.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 65.12230778256492
 }

@@ -11,5 +11,6 @@
         "stable_sort.pass.cpp": 32.557300553170236,
         "stable_sort_comp.pass.cpp": 27.345463295171278
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 24.305907971670663
 }

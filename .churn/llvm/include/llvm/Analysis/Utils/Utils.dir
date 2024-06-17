@@ -10,5 +10,6 @@
         "TFUtils.h": 35.57692791220051,
         "TrainingLogger.h": 27.357943010054424
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.9098562712383657
 }

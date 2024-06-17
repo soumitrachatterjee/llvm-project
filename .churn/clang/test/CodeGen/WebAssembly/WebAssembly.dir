@@ -20,5 +20,6 @@
         "wasm-rotate.c": 0.0,
         "wasm-varargs.c": 20.45287990027399
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.15235985159854995
 }

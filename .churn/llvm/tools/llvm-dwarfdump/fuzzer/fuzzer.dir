@@ -8,5 +8,6 @@
         "CMakeLists.txt": 42.8387838436754,
         "llvm-dwarfdump-fuzzer.cpp": 57.1612161563246
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 2.038619928129947
 }

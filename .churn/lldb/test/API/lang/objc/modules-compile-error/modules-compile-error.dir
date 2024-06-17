@@ -11,5 +11,6 @@
         "module.modulemap": 0.0,
         "TestModulesCompileError.py": 100.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 2.197571603782044
 }

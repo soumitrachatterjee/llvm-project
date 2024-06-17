@@ -8,5 +8,6 @@
         "abi.compile.pass.cpp": 0.0,
         "trivial_for_purposes_of_call.pass.cpp": 100.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 1.667670676495616
 }

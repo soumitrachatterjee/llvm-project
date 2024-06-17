@@ -9,5 +9,6 @@
         "TestAST.h": 27.260412099958963,
         "TestClangConfig.h": 24.576633774781403
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.025529207428280604
 }

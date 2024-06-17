@@ -8,5 +8,6 @@
         "CMakeLists.txt": 21.45412705874711,
         "ComplexToLLVM.cpp": 78.54587294125291
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.8686978527372281
 }

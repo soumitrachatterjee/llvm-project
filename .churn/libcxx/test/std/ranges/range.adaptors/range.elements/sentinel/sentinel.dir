@@ -12,5 +12,6 @@
         "equality.pass.cpp": 50.0,
         "minus.pass.cpp": 50.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 15.914294964922945
 }

@@ -66,5 +66,6 @@
         "version.h": 0.0,
         "vertices.h": 0.8743870913648819
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 100.0
 }

@@ -8,5 +8,6 @@
         "partial_sum.pass.cpp": 46.98520633374581,
         "partial_sum_op.pass.cpp": 53.01479366625419
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 8.482933483383109
 }

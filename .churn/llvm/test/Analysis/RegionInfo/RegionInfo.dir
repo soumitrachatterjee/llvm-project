@@ -35,5 +35,6 @@
         "two_loops_same_header.ll": 3.7782588227492946,
         "unreachable_bb.ll": 2.3270170963497034
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.45163346640498525
 }

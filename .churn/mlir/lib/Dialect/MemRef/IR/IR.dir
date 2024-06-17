@@ -11,5 +11,6 @@
         "MemRefOps.cpp": 82.3973266097637,
         "ValueBoundsOpInterfaceImpl.cpp": 0.9621028041707759
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 48.49951495715324
 }

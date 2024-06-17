@@ -18,5 +18,6 @@
         "tuple_element.verify.cpp": 0.0,
         "tuple_size.pass.cpp": 13.426759528829649
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 13.395543198159189
 }

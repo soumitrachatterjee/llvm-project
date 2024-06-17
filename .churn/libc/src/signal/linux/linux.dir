@@ -19,5 +19,6 @@
         "signal_utils.h": 7.258549419027312,
         "sigprocmask.cpp": 11.938465366513467
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 37.02785751546122
 }

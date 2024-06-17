@@ -36,5 +36,6 @@
         "DWARFUnitIndex.cpp": 2.152875379501774,
         "DWARFVerifier.cpp": 6.663961508406809
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 51.354726713398726
 }

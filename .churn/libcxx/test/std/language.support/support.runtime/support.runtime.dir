@@ -14,5 +14,6 @@
         "ctime.pass.cpp": 26.404719703564304,
         "ctime.timespec.compile.pass.cpp": 10.426767180764688
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 7.5193618910217115
 }

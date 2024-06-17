@@ -36,5 +36,6 @@
         "invalid_attr_type_offset_section.mlir": 7.936143632547145,
         "invalid_attr_type_section.mlir": 24.5542183117178
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 36.842907848800074
 }

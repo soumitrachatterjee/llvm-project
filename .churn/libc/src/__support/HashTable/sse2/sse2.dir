@@ -7,5 +7,6 @@
     "filescores": {
         "bitmask_impl.inc": 100.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 11.284567420822771
 }

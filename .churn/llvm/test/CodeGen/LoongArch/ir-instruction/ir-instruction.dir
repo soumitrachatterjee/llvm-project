@@ -48,5 +48,6 @@
         "sub.ll": 1.338774357493281,
         "xor.ll": 1.235764455166456
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 16.671714963393462
 }

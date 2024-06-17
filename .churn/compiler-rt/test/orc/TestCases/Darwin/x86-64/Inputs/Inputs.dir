@@ -9,5 +9,6 @@
         "ret_self.S": 0.0,
         "standalone-ctor-and-cxa-atexit-dtor.S": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 12.781341182000983
 }

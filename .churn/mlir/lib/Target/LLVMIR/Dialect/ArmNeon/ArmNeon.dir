@@ -8,5 +8,6 @@
         "ArmNeonToLLVMIRTranslation.cpp": 63.625449409096305,
         "CMakeLists.txt": 36.374550590903695
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 1.3436944100220987
 }

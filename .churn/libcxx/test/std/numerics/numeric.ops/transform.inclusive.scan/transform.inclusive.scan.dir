@@ -8,5 +8,6 @@
         "transform_inclusive_scan_bop_uop.pass.cpp": 51.77824010483274,
         "transform_inclusive_scan_bop_uop_init.pass.cpp": 48.22175989516727
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 7.322310905856659
 }

@@ -11,5 +11,6 @@
         "file2.yaml": 29.121288320380962,
         "file3.yaml": 29.075097705608105
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 20.258842504189133
 }

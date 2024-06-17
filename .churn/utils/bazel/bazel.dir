@@ -20,5 +20,6 @@
         "llvm-project-overlay": 94.38020789845918,
         "llvm_configs": 1.749262158025652,
         "third_party_build": 0.4137571146371308
-    }
+    },
+    "score.percentage": 100.0
 }

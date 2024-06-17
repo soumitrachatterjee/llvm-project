@@ -8,5 +8,6 @@
         "file1.yaml": 0.0,
         "ignore-conflict.cpp": 100.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 6.520186660779211
 }

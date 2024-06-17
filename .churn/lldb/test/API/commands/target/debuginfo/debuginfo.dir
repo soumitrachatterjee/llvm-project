@@ -10,5 +10,6 @@
         "a.out.yaml": 0.0,
         "TestDebugInfoSize.py": 100.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 2.9368785816330947
 }

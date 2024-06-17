@@ -36,5 +36,6 @@
     "subdirscores": {
         "CommandScriptImmediateOutput": 3.9641831859239924,
         "Inputs": 13.627848659578365
-    }
+    },
+    "score.percentage": 9.042024413481522
 }

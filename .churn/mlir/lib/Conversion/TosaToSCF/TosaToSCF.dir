@@ -9,5 +9,6 @@
         "TosaToSCF.cpp": 38.041983975241685,
         "TosaToSCFPass.cpp": 38.31851993029115
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.5646098039018616
 }

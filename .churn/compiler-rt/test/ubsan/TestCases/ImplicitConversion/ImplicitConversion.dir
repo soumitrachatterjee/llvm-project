@@ -23,5 +23,6 @@
         "unsigned-integer-truncation-summary.cpp": 5.831837047409704,
         "unsigned-integer-truncation.c": 11.31580023205958
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 4.6353367565650885
 }

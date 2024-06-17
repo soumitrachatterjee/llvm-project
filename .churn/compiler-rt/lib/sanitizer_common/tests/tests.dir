@@ -58,5 +58,6 @@
         "sanitizer_vector_test.cpp": 0.0,
         "standalone_malloc_test.cpp": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 11.516031820086624
 }

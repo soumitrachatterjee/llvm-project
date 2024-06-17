@@ -9,5 +9,6 @@
         "MCInstrAnalysisTest.cpp": 0.0,
         "RISCVInstrInfoTest.cpp": 55.809872026953464
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 10.543100513224124
 }

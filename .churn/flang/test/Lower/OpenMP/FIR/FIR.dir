@@ -86,5 +86,6 @@
         "wsloop-variable.f90": 1.0876420101124848,
         "wsloop.f90": 1.0876420101124848
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 6.492921082769584
 }

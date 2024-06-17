@@ -13,5 +13,6 @@
         "procctl.cpp": 0.0,
         "sha2.cpp": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 1.2313482035885523
 }

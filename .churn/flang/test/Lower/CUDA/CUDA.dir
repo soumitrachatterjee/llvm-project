@@ -12,5 +12,6 @@
         "cuda-module-use.cuf": 19.688907994343634,
         "cuda-proc-attribute.cuf": 39.120486302842885
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.49302114454421564
 }

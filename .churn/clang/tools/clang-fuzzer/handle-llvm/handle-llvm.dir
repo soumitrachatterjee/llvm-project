@@ -10,5 +10,6 @@
         "handle_llvm.h": 7.167844862952159,
         "input_arrays.h": 5.968998367101181
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 23.316405323789475
 }

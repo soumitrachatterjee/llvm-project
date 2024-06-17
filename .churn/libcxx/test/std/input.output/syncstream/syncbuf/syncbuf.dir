@@ -16,5 +16,6 @@
         "syncstream.syncbuf.cons": 0.0,
         "syncstream.syncbuf.members": 0.0,
         "syncstream.syncbuf.special": 0.0
-    }
+    },
+    "score.percentage": 100.0
 }

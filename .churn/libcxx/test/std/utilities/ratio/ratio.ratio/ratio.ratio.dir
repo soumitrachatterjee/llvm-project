@@ -10,5 +10,6 @@
         "ratio2.compile.fail.cpp": 0.0,
         "ratio3.compile.fail.cpp": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 25.971290890310993
 }

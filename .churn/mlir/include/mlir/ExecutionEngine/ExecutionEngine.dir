@@ -18,5 +18,6 @@
     },
     "subdirscores": {
         "SparseTensor": 24.918827027905767
-    }
+    },
+    "score.percentage": 2.4776742235630254
 }

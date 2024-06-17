@@ -10,5 +10,6 @@
     "subdirscores": {
         "common": 6.923229002755332,
         "intel-pt": 91.25538806913168
-    }
+    },
+    "score.percentage": 0.8122393408358521
 }

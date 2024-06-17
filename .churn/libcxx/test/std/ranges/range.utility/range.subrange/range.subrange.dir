@@ -22,5 +22,6 @@
         "structured_bindings.pass.cpp": 7.077383166556464,
         "types.h": 4.532706526359952
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 34.24636355644044
 }

@@ -49,5 +49,6 @@
         "wchar_t_out.pass.cpp": 3.240159489121018,
         "wchar_t_unshift.pass.cpp": 2.561660918627261
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 22.309051843141834
 }

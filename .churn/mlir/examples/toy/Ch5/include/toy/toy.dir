@@ -16,5 +16,6 @@
         "ShapeInferenceInterface.h": 2.3753567939751576,
         "ShapeInferenceInterface.td": 4.359873945382439
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 100.0
 }

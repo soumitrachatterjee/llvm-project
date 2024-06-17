@@ -8,5 +8,6 @@
         "__init__.py": 0.0,
         "core_named_ops.py": 100.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 65.24004090106104
 }

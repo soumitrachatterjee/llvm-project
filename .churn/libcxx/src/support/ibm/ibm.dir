@@ -9,5 +9,6 @@
         "wcsnrtombs.cpp": 29.773298600167212,
         "xlocale_zos.cpp": 45.91865471087188
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 12.083629277284725
 }

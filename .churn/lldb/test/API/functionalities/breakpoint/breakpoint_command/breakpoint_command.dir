@@ -17,5 +17,6 @@
         "TestBreakpointCommandsFromPython.py": 25.50086674231563,
         "TestRegexpBreakCommand.py": 7.643510719475096
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 10.431491162932785
 }

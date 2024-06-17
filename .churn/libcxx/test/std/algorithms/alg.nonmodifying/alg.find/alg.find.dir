@@ -16,5 +16,6 @@
         "ranges.find_if.pass.cpp": 5.084902763089351,
         "ranges.find_if_not.pass.cpp": 5.084902763089351
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 12.233285172305493
 }

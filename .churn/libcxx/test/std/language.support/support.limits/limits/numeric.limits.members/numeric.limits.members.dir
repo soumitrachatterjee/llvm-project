@@ -38,5 +38,6 @@
         "tinyness_before.pass.cpp": 3.5186860202153585,
         "traps.pass.cpp": 3.171805237119909
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 36.999321982399245
 }

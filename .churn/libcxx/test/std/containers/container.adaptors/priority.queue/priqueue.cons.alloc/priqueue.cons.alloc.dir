@@ -16,5 +16,6 @@
         "ctor_iter_iter_comp_rcont_alloc.pass.cpp": 0.0,
         "ctor_move_alloc.pass.cpp": 24.28121740399818
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 15.136662493097438
 }

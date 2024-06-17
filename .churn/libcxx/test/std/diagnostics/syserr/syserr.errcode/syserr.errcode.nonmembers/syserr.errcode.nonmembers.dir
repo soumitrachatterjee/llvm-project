@@ -9,5 +9,6 @@
         "make_error_code.pass.cpp": 31.00078344605049,
         "stream_inserter.pass.cpp": 37.99843310789902
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 16.093952384677486
 }

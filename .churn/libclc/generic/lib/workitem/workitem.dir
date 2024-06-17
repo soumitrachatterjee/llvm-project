@@ -8,5 +8,6 @@
         "get_global_id.cl": 59.88965734491541,
         "get_global_size.cl": 40.110342655084594
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.7344284859470143
 }

@@ -13,5 +13,6 @@
         "RegisterContextNetBSDTest_x86_64.cpp": 0.0,
         "RegisterContextTest.cpp": 8.473348307382574
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 8.786927959952953
 }

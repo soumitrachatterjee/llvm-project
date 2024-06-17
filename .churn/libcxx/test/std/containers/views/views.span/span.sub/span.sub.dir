@@ -12,5 +12,6 @@
         "subspan.pass.cpp": 20.002892525005443,
         "subspan.verify.cpp": 19.373404577450533
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 17.595799318301008
 }

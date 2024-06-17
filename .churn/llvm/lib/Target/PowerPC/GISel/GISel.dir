@@ -14,5 +14,6 @@
         "PPCRegisterBankInfo.h": 11.906819520424595,
         "PPCRegisterBanks.td": 7.457969379582681
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.3989674507884844
 }

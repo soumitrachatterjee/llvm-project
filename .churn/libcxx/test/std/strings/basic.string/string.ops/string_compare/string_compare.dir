@@ -15,5 +15,6 @@
         "string.pass.cpp": 12.154943082332347,
         "string_view.pass.cpp": 8.949905392846986
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 15.41680211780036
 }

@@ -13,5 +13,6 @@
     "subdirscores": {
         "docker": 8.169800352705655,
         "dot2html": 15.278109900873021
-    }
+    },
+    "score.percentage": 0.9607672293507316
 }

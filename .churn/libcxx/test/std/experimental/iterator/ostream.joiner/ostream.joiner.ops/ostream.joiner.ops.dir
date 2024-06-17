@@ -10,5 +10,6 @@
         "ostream_joiner.op.pretincrement.pass.cpp": 23.399437914929322,
         "ostream_joiner.op.star.pass.cpp": 23.399437914929322
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 42.299642440263916
 }

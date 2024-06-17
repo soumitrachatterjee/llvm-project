@@ -8,5 +8,6 @@
         "interrupt.c": 50.0,
         "signal.c": 50.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 26.42851677456544
 }

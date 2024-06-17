@@ -30,5 +30,6 @@
         "VectorTransforms.cpp": 21.800625782661456,
         "VectorUnroll.cpp": 3.8983648240507027
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 55.142250787185475
 }

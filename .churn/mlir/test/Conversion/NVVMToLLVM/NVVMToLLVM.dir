@@ -8,5 +8,6 @@
         "invalid.mlir": 13.242915423713676,
         "nvvm-to-llvm.mlir": 86.75708457628633
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 2.0298801560289492
 }

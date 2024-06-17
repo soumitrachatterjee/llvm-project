@@ -12,5 +12,6 @@
     "subdirscores": {
         "basic.stc.dynamic.allocation": 11.408061070537197,
         "basic.stc.dynamic.deallocation": 40.96943725510663
-    }
+    },
+    "score.percentage": 100.0
 }

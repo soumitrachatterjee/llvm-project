@@ -21,5 +21,6 @@
         "WasmAsmParser.cpp": 2.024646706871112,
         "XCOFFAsmParser.cpp": 0.3269056881977911
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 16.228260275387523
 }

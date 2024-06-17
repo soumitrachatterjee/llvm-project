@@ -11,5 +11,6 @@
         "extended_grapheme_cluster.pass.cpp": 45.72674366477141,
         "test_exception.h": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 100.0
 }

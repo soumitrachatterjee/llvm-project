@@ -9,5 +9,6 @@
     },
     "subdirscores": {
         "clang_tidy_checks": 92.89449787944918
-    }
+    },
+    "score.percentage": 0.3225896448066268
 }

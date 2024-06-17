@@ -13,5 +13,6 @@
         "TestDAP_setExceptionBreakpoints.py": 0.0,
         "TestDAP_setFunctionBreakpoints.py": 19.37572505701966
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 6.64440771222775
 }

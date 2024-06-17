@@ -10,5 +10,6 @@
         "std-module.sh.cpp": 18.7024517931129,
         "std.compat-module.sh.cpp": 31.297548206887104
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 6.67106898756521
 }

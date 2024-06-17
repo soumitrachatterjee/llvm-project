@@ -13,5 +13,6 @@
         "re.regiter.comp": 16.96925473299617,
         "re.regiter.deref": 13.265796417731144,
         "re.regiter.incr": 21.766859005751353
-    }
+    },
+    "score.percentage": 50.572877304324216
 }

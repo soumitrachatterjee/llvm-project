@@ -8,5 +8,6 @@
         "CMakeLists.txt": 100.0,
         "TestPlugin.cpp": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 33.33333333333333
 }

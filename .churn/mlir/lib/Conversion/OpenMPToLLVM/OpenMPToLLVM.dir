@@ -8,5 +8,6 @@
         "CMakeLists.txt": 13.894808117860736,
         "OpenMPToLLVM.cpp": 86.10519188213927
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 1.742594063957003
 }

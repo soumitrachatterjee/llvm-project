@@ -8,5 +8,6 @@
         "bitset.pass.cpp": 44.30947215298031,
         "enabled_hash.pass.cpp": 55.6905278470197
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 11.75126751713752
 }

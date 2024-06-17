@@ -8,5 +8,6 @@
         "absolute.yaml": 0.0,
         "TestAbsoluteSymbol.py": 100.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.5281098849375692
 }

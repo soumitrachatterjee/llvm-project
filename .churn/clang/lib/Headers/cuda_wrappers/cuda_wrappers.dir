@@ -12,5 +12,6 @@
     },
     "subdirscores": {
         "bits": 12.252855583638894
-    }
+    },
+    "score.percentage": 0.4049552406568991
 }

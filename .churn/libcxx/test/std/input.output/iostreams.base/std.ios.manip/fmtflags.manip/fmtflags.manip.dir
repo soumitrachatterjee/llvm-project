@@ -20,5 +20,6 @@
         "unitbuf.pass.cpp": 7.142857142857144,
         "uppercase.pass.cpp": 7.142857142857144
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 20.569513134251753
 }

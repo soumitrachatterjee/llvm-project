@@ -9,5 +9,6 @@
         "stress_test_metafunctions.sh.cpp": 38.89308896738058,
         "stress_test_variant_overloads_impl.sh.cpp": 37.49923556981134
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 24.54637225952864
 }

@@ -39,5 +39,6 @@
         "lcssa.ll": 1.3975499731708387,
         "new-pm-invalidation.ll": 0.6918422663058487
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 1.0978596997353212
 }

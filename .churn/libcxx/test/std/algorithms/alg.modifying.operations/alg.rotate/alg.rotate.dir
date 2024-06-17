@@ -12,5 +12,6 @@
         "rotate.pass.cpp": 42.32797786119452,
         "rotate_copy.pass.cpp": 35.49739771730139
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 6.8043138766103155
 }

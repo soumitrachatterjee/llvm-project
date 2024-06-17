@@ -32,5 +32,6 @@
         "riscv.h": 4.407341455738143,
         "x86_64.h": 5.215904656629961
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 18.57227861877495
 }

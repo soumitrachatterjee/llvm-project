@@ -9,5 +9,6 @@
         "irreducible.mir": 39.77027791913049,
         "lit.local.cfg": 20.45944416173901
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 100.0
 }

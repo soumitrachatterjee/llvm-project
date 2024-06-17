@@ -14,5 +14,6 @@
         "copy.pass.cpp": 21.408529438355433,
         "substr.pass.cpp": 9.845750799481305
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 7.009364033942307
 }

@@ -18,5 +18,6 @@
         "omp_parallel_reduction.c": 7.900999245595326,
         "omp_parallel_shared.c": 7.900999245595326
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 3.4543154631311532
 }

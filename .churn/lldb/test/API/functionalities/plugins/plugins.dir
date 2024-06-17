@@ -8,5 +8,6 @@
     "subdirscores": {
         "command_plugin": 39.590084937353446,
         "python_os_plugin": 60.40991506264655
-    }
+    },
+    "score.percentage": 1.0620242815007708
 }

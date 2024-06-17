@@ -10,5 +10,6 @@
         "FlangConfig.cmake.in": 14.116162830729234,
         "FlangConfigVersion.cmake.in": 5.672125158373467
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 100.0
 }

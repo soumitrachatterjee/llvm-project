@@ -9,5 +9,6 @@
         "pstl.transform_reduce.binary.pass.cpp": 33.33333333333333,
         "pstl.transform_reduce.unary.pass.cpp": 33.33333333333333
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 55.15293593981851
 }

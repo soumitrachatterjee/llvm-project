@@ -10,5 +10,6 @@
         "is_error_code_enum_future_errc.pass.cpp": 18.95882870230242,
         "launch.pass.cpp": 28.016503823863314
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 5.873224383703509
 }

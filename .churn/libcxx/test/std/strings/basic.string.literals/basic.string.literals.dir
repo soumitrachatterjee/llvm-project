@@ -9,5 +9,6 @@
         "literal.verify.cpp": 11.077606618240292,
         "noexcept.compile.pass.cpp": 11.077606618240292
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 3.1099557036840912
 }

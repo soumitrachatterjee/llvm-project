@@ -13,5 +13,6 @@
         "construct.cxx2a.pass.cpp": 16.809093396804215,
         "max_size.cxx2a.pass.cpp": 8.430129718707537
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 78.14314033238273
 }

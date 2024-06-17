@@ -9,5 +9,6 @@
         "cpp20_iter_traits.compile.pass.cpp": 0.0,
         "integer_like.compile.pass.cpp": 45.55585666680407
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 54.87201669306055
 }

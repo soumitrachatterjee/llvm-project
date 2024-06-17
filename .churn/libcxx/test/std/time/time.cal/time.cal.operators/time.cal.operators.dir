@@ -15,5 +15,6 @@
         "year_month_weekday.pass.cpp": 6.9106388014544535,
         "year_month_weekday_last.pass.cpp": 11.636170149818193
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 1.7904572800758487
 }

@@ -15,5 +15,6 @@
         "min_max_result.pass.cpp": 10.4706295950555,
         "no_unique_address.compile.pass.cpp": 12.53697936612839
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.6232659314533723
 }

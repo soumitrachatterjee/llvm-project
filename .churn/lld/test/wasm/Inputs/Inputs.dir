@@ -62,5 +62,6 @@
         "weak-symbol2.s": 0.0,
         "weak-undefined.s": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 5.963240364456458
 }

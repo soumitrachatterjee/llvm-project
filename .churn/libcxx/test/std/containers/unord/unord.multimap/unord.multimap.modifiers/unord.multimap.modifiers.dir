@@ -26,5 +26,6 @@
         "insert_rvalue.pass.cpp": 6.069975015067749,
         "merge.pass.cpp": 2.292904106697377
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 10.731656868977504
 }

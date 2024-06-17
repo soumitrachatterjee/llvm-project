@@ -256,5 +256,6 @@
         "MemAccess": 2.472342399137117,
         "OpenMP": 2.869543821801147,
         "RuntimeDebugBuilder": 0.7624735246216241
-    }
+    },
+    "score.percentage": 5.8992339411230645
 }

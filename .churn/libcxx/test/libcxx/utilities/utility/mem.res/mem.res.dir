@@ -11,5 +11,6 @@
         "mem.poly.allocator.class": 52.73002124306364,
         "mem.res.monotonic.buffer": 27.067210832694716,
         "mem.res.pool": 20.20276792424164
-    }
+    },
+    "score.percentage": 15.341324471721427
 }

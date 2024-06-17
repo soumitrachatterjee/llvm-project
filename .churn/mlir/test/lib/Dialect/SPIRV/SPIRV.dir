@@ -10,5 +10,6 @@
         "TestEntryPointAbi.cpp": 20.871133628807065,
         "TestModuleCombiner.cpp": 11.052176160633204
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 3.9920585413325327
 }

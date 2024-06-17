@@ -8,5 +8,6 @@
     "subdirscores": {
         "rand.dist.uni.int": 50.02167488822744,
         "rand.dist.uni.real": 49.978325111772556
-    }
+    },
+    "score.percentage": 20.003467080333444
 }

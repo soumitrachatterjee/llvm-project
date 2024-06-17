@@ -8,5 +8,6 @@
         "CMakeLists.txt": 1.7032562831894158,
         "OpenMPToLLVMIRTranslation.cpp": 98.29674371681058
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 49.03103573489213
 }

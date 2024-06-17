@@ -15,5 +15,6 @@
         "TestQuitExitCodeNonInt.test": 9.95536012834038,
         "TestQuitExitCodeTooManyArgs.test": 9.95536012834038
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.32780387198732414
 }

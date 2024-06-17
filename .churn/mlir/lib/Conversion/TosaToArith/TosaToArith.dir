@@ -9,5 +9,6 @@
         "TosaToArith.cpp": 37.562821213294065,
         "TosaToArithPass.cpp": 47.98839840147345
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.34199528048029937
 }

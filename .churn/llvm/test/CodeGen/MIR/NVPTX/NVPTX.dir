@@ -10,5 +10,6 @@
         "floating-point-invalid-type-error.mir": 20.84201115801621,
         "lit.local.cfg": 14.815325354089753
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.6859480228393943
 }

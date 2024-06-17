@@ -10,5 +10,6 @@
         "X86AsmParserCommon.h": 0.8843273889045872,
         "X86Operand.h": 8.69424215612682
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 2.0018379282238725
 }

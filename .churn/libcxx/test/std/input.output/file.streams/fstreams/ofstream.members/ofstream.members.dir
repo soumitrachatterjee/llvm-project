@@ -14,5 +14,6 @@
         "open_string.pass.cpp": 12.08720786219949,
         "rdbuf.pass.cpp": 12.08720786219949
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 11.02888319443088
 }

@@ -26,5 +26,6 @@
         "scalar-substring.f90": 5.678052339934442,
         "test9.f90": 4.4562525191436695
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.8042254058817446
 }

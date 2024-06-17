@@ -166,5 +166,6 @@
         "test-vpush-2-thumb.dat": 0.0,
         "test-vpush-3-thumb.dat": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 33.309878166635954
 }

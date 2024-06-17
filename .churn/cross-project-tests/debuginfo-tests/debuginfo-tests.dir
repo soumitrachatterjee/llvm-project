@@ -15,5 +15,6 @@
         "llgdb-tests": 11.695165572780754,
         "llvm-prettyprinters": 8.995158490364648,
         "win_cdb-tests": 0.0
-    }
+    },
+    "score.percentage": 65.07492589269407
 }

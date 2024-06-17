@@ -14,5 +14,6 @@
     "subdirscores": {
         "api_tests": 0.0,
         "openmp_examples": 34.26772334405632
-    }
+    },
+    "score.percentage": 8.709524447576978
 }

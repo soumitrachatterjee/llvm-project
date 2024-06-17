@@ -21,5 +21,6 @@
         "unique.pass.cpp": 7.98699128092748,
         "unique_pred.pass.cpp": 12.28382602770547
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 14.200524522984495
 }

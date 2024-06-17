@@ -20,5 +20,6 @@
     "subdirscores": {
         "range.join.iterator": 0.0,
         "range.join.sentinel": 49.563752463442306
-    }
+    },
+    "score.percentage": 2.0277485790571834
 }

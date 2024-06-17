@@ -8,5 +8,6 @@
         "concept.formattable.compile.pass.cpp": 91.01620247448675,
         "concept.formattable.float.compile.pass.cpp": 8.98379752551326
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 7.974829941940776
 }

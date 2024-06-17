@@ -11,5 +11,6 @@
         "omp-atomic-compare-signedness.c": 25.727365736387735,
         "omp_atomic.c": 15.797245853825444
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 2.8985168980949756
 }

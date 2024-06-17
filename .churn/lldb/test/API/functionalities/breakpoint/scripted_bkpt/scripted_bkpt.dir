@@ -10,5 +10,6 @@
         "resolver.py": 16.402912417223174,
         "TestScriptedResolver.py": 83.59708758277684
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 3.988042687819947
 }

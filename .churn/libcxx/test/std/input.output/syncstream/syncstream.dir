@@ -8,5 +8,6 @@
     "subdirscores": {
         "osyncstream": 0.0,
         "syncbuf": 100.0
-    }
+    },
+    "score.percentage": 0.4925601154249325
 }

@@ -23,5 +23,6 @@
         "repeated_calls.c": 4.877324006296878,
         "serialized.c": 11.543780404597271
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 12.543907822575592
 }

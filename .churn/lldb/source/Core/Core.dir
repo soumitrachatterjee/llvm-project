@@ -59,5 +59,6 @@
         "ValueObjectVariable.cpp": 2.5116155625190832,
         "ValueObjectVTable.cpp": 0.23165069242937242
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 9.248093289659751
 }

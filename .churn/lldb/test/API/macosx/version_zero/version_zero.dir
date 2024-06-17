@@ -8,5 +8,6 @@
         "libDylib.dylib.yaml": 24.437650267647385,
         "TestGetVersionZeroVersion.py": 75.56234973235262
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 2.9050571568403263
 }

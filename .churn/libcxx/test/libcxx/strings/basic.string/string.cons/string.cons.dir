@@ -9,5 +9,6 @@
         "copy_shrunk_long.pass.cpp": 46.51261730798262,
         "debug.iterator.substr.pass.cpp": 26.743691346008692
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 9.708219585121636
 }

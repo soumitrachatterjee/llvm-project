@@ -14,5 +14,6 @@
         "implicit_ctad.pass.cpp": 0.0,
         "size.pass.cpp": 14.101674728756791
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 26.385426119628885
 }

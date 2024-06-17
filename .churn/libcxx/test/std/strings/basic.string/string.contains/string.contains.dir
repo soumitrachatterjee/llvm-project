@@ -9,5 +9,6 @@
         "contains.ptr.pass.cpp": 33.33333333333333,
         "contains.string_view.pass.cpp": 33.33333333333333
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 1.4547580498798003
 }

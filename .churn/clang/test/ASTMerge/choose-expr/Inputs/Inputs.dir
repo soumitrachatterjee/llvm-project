@@ -7,5 +7,6 @@
     "filescores": {
         "choose.c": 100.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 50.0
 }

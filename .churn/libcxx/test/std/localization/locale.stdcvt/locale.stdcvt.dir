@@ -32,5 +32,6 @@
         "depr.verify.cpp": 1.4682293106873228,
         "remove.verify.cpp": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 7.602425646716747
 }

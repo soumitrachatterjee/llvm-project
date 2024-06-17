@@ -34,5 +34,6 @@
         "target.mlir": 0.0,
         "types.mlir": 3.8272760547859637
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 53.922094119511414
 }

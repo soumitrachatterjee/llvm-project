@@ -8,5 +8,6 @@
         "construct_iter_iter.pass.cpp": 50.0,
         "construct_iter_iter_alloc.pass.cpp": 50.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 2.2601735441492785
 }

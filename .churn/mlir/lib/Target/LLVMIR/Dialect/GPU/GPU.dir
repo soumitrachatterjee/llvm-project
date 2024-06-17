@@ -9,5 +9,6 @@
         "GPUToLLVMIRTranslation.cpp": 43.6909421325335,
         "SelectObjectAttr.cpp": 35.13418112040618
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 2.538491000068351
 }

@@ -11,5 +11,6 @@
         "pop_heap_comp.pass.cpp": 19.915443626893303,
         "ranges_pop_heap.pass.cpp": 12.42264461983449
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 27.583547389512596
 }

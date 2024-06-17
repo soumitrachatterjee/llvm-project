@@ -628,5 +628,6 @@
         "widen-narrow-tbz-tbnz.mir": 0.247346912656262,
         "xro-addressing-mode-constant.mir": 0.08017961354048149
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 12.112622428174687
 }

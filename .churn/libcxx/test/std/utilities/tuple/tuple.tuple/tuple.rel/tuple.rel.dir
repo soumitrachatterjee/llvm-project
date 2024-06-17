@@ -11,5 +11,6 @@
         "size_incompatible_three_way.compile.pass.cpp": 9.403464691686798,
         "three_way.pass.cpp": 24.63642824244791
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 4.807882013195804
 }

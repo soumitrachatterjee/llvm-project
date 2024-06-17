@@ -12,5 +12,6 @@
         "search_n_pred.pass.cpp": 21.95642581913983,
         "search_pred.pass.cpp": 15.423117548090701
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 7.038625279894436
 }

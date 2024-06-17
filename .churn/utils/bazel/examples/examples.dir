@@ -8,5 +8,6 @@
     "subdirscores": {
         "http_archive": 50.95664791300602,
         "submodule": 49.04335208699398
-    }
+    },
+    "score.percentage": 0.2487117665238147
 }

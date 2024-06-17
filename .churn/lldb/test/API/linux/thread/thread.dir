@@ -7,5 +7,6 @@
     "filescores": {},
     "subdirscores": {
         "create_during_instruction_step": 100.0
-    }
+    },
+    "score.percentage": 8.459344577038708
 }

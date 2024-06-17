@@ -17,5 +17,6 @@
         "coroutine.handle.noop": 11.553587967745997,
         "coroutine.handle.prom": 8.876240943447025,
         "coroutine.handle.resumption": 8.876240943447025
-    }
+    },
+    "score.percentage": 33.69144876584237
 }

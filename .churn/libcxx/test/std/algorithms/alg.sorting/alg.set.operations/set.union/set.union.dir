@@ -10,5 +10,6 @@
         "set_union_comp.pass.cpp": 35.540904175714296,
         "set_union_move.pass.cpp": 16.78408483256963
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 27.02883354534403
 }

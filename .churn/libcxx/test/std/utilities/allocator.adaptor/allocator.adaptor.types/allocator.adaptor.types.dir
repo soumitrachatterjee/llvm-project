@@ -12,5 +12,6 @@
         "propagate_on_container_move_assignment.pass.cpp": 15.874950364676113,
         "propagate_on_container_swap.pass.cpp": 15.874950364676113
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 17.38997458919929
 }

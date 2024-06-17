@@ -11,5 +11,6 @@
         "standalone-plugin.mlir": 16.441020444454583,
         "standalone-translate.mlir": 14.964035489650588
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 28.473268652187976
 }

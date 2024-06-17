@@ -13,5 +13,6 @@
         "reference_types.verify.cpp": 3.4471769985008387,
         "void.verify.cpp": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 56.7813038620108
 }

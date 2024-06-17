@@ -14,5 +14,6 @@
         "single-function.mlir": 9.114957822061017,
         "test.sh": 6.212297297822462
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.0879984145185182
 }

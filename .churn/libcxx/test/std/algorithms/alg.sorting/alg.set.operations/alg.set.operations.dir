@@ -11,5 +11,6 @@
         "set.intersection": 17.67772639883906,
         "set.symmetric.difference": 19.727425759565868,
         "set.union": 27.02883354534403
-    }
+    },
+    "score.percentage": 9.181967125160455
 }

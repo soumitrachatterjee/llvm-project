@@ -8,5 +8,6 @@
         "reductions.mlir": 49.30271043569763,
         "scf-to-openmp.mlir": 50.69728956430237
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 1.0425629616442131
 }

@@ -17,5 +17,6 @@
         "working_phi_two_scalars.ll": 9.834541156653634,
         "working_value_expansion.ll": 7.361272540224031
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.7355160221622297
 }

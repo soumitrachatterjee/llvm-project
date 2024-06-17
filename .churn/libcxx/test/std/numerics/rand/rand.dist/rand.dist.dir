@@ -11,5 +11,6 @@
         "rand.dist.pois": 10.560816370415086,
         "rand.dist.samp": 31.729286953909874,
         "rand.dist.uni": 15.22342108885137
-    }
+    },
+    "score.percentage": 11.756285642174326
 }

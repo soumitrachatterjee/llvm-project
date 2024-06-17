@@ -13,5 +13,6 @@
         "move_assign_convertible.pass.cpp": 13.24167133574648,
         "move_assign_convertible_propagate_const.pass.cpp": 13.24167133574648
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 19.04985717106541
 }

@@ -8,5 +8,6 @@
         "CMakeLists.txt": 0.0,
         "__assert_fail.cpp": 100.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 7.93043977667841
 }

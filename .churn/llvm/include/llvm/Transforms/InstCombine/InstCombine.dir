@@ -8,5 +8,6 @@
         "InstCombine.h": 31.34152303425231,
         "InstCombiner.h": 68.65847696574768
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 1.5697315765059017
 }

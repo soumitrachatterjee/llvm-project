@@ -8,5 +8,6 @@
         "adaptors.depr_in_cxx11.verify.cpp": 21.43669584066887,
         "depr.adaptors.cxx1z.pass.cpp": 78.56330415933114
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 18.882678562488145
 }

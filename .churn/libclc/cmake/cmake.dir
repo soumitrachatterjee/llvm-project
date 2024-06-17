@@ -14,5 +14,6 @@
         "CMakeTestCLCCompiler.cmake": 20.0,
         "CMakeTestLLAsmCompiler.cmake": 20.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 1.150364157358762
 }

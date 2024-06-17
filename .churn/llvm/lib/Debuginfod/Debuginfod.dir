@@ -11,5 +11,6 @@
         "HTTPClient.cpp": 7.115137532704173,
         "HTTPServer.cpp": 7.522698527876276
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.015197469557771088
 }

@@ -10,5 +10,6 @@
     "subdirscores": {
         "benchmark": 48.042297030753964,
         "unittest": 46.822034554402876
-    }
+    },
+    "score.percentage": 0.007160215363691455
 }

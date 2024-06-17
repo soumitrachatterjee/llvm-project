@@ -8,5 +8,6 @@
         "minidump.yaml": 0.0,
         "TestDiagnosticReporting.py": 100.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.2536957223622876
 }

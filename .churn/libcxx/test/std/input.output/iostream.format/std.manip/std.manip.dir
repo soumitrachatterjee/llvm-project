@@ -12,5 +12,6 @@
         "setprecision.pass.cpp": 16.666666666666668,
         "setw.pass.cpp": 16.666666666666668
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 4.773538428952601
 }

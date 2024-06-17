@@ -250,5 +250,6 @@
         "znotext-plt-relocations.s": 0.0,
         "ztext.s": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 2.176738324623315
 }

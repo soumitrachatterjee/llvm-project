@@ -8,5 +8,6 @@
         "main.cpp": 50.0,
         "TestIgnoreArtificialConstructors.py": 50.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.4930024975690675
 }

@@ -12,5 +12,6 @@
         "sme-abi.S": 14.903635804761944,
         "sme-libc-routines.c": 14.149585008196624
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 1.492133313222886
 }

@@ -12,5 +12,6 @@
         "layout_stride.h": 0.0,
         "mdspan.h": 12.099756347370457
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.06943016636554332
 }

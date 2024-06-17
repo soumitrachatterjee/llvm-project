@@ -37,5 +37,6 @@
         "SPIRVUtilsGen.cpp": 5.7368765523402345,
         "mlir-tblgen.cpp": 0.821177623323105
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 55.79532065200925
 }

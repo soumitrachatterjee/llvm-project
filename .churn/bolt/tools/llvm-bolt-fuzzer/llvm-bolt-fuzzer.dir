@@ -8,5 +8,6 @@
         "CMakeLists.txt": 81.07894520483116,
         "llvm-bolt-fuzzer.cpp": 18.921054795168843
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 7.8050393325998
 }

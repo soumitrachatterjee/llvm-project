@@ -36,5 +36,6 @@
         "X86WinCOFFStreamer.cpp": 1.681858672387805,
         "X86WinCOFFTargetStreamer.cpp": 0.8833354579669458
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 2.4823328906884305
 }

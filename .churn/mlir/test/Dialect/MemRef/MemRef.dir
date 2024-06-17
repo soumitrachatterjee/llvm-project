@@ -30,5 +30,6 @@
         "transform-ops.mlir": 6.380773857980208,
         "value-bounds-op-interface-impl.mlir": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 3.110086868013579
 }

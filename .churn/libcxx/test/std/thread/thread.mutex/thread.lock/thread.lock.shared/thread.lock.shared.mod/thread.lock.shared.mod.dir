@@ -9,5 +9,6 @@
         "nonmember_swap.pass.cpp": 33.33333333333333,
         "release.pass.cpp": 33.33333333333333
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 6.202863962253153
 }

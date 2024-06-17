@@ -14,5 +14,6 @@
         "irreducible-2.ll": 0.0,
         "reducible-headers.ll": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 5.692758343648012
 }

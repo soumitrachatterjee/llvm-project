@@ -11,5 +11,6 @@
         "nullablepointer.requirements": 20.0,
         "swappable.requirements": 20.0,
         "utility.arg.requirements": 20.0
-    }
+    },
+    "score.percentage": 0.2705012069991034
 }

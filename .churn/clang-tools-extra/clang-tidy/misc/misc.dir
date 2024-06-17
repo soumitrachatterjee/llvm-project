@@ -54,5 +54,6 @@
     },
     "subdirscores": {
         "ConfusableTable": 0.7722202405414632
-    }
+    },
+    "score.percentage": 8.648166226240338
 }

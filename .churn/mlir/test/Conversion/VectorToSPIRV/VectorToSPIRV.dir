@@ -8,5 +8,6 @@
         "vector-reduction-to-spirv-dot-prod.mlir": 8.718815636569873,
         "vector-to-spirv.mlir": 91.28118436343013
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 2.990739506662617
 }

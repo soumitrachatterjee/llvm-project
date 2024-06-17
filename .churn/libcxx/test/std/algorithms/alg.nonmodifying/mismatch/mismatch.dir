@@ -9,5 +9,6 @@
         "mismatch_pred.pass.cpp": 49.554666369553615,
         "ranges_mismatch.pass.cpp": 12.075371867365634
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 6.035839749837804
 }

@@ -10,5 +10,6 @@
         "tie.pass.cpp": 25.42901779975847,
         "tuple_cat.pass.cpp": 34.360792834176294
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 5.9367957722760565
 }

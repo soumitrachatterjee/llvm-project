@@ -9,5 +9,6 @@
         "Makefile": 0.0,
         "TestAArch64LinuxTLSRegisters.py": 64.97506630213293
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 7.325935060738939
 }

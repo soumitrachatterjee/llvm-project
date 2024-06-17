@@ -27,5 +27,6 @@
         "multimap.ops": 10.093057151722098,
         "multimap.special": 7.103316978750226,
         "multimap.value_compare": 0.0
-    }
+    },
+    "score.percentage": 24.526897471621208
 }

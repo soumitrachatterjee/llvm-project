@@ -9,5 +9,6 @@
     },
     "subdirscores": {
         "compiler-rt": 39.17895924784362
-    }
+    },
+    "score.percentage": 0.05497997364496968
 }

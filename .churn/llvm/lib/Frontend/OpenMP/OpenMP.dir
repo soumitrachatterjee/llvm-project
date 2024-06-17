@@ -10,5 +10,6 @@
         "OMPContext.cpp": 5.655444379964671,
         "OMPIRBuilder.cpp": 90.6591001051688
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 91.76288717270329
 }

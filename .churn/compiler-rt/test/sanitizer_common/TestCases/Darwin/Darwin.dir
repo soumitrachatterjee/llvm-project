@@ -15,5 +15,6 @@
         "symbolizer-function-offset-atos.cpp": 0.0,
         "symbolizer-function-offset-dladdr.cpp": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 3.7147580222112593
 }

@@ -9,5 +9,6 @@
         "test.m": 0.0,
         "TestObjCStructReturn.py": 100.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 1.8189139572396655
 }

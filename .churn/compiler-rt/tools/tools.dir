@@ -9,5 +9,6 @@
     },
     "subdirscores": {
         "gwp_asan": 100.0
-    }
+    },
+    "score.percentage": 0.00809881825781612
 }

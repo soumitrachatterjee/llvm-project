@@ -12,5 +12,6 @@
         "indirect.array.assign": 25.0,
         "indirect.array.comp.assign": 25.0,
         "indirect.array.fill": 25.0
-    }
+    },
+    "score.percentage": 9.843979221546858
 }

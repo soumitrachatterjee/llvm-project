@@ -31,5 +31,6 @@
         "VectorCombine.cpp": 1.9068193705978436,
         "Vectorize.cpp": 0.4996622530440463
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 10.601391146229897
 }

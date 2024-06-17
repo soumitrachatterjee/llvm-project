@@ -15,5 +15,6 @@
         "nofuse-simple.ll": 11.111111111111112,
         "nofuse-with-middle.ll": 11.111111111111112
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 1.036333938586997
 }

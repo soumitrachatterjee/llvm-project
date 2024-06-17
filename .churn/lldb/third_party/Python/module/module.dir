@@ -8,5 +8,6 @@
     "subdirscores": {
         "pexpect-4.6": 82.91017373692823,
         "ptyprocess-0.6.0": 17.089826263071778
-    }
+    },
+    "score.percentage": 100.0
 }

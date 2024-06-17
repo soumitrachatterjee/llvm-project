@@ -12,5 +12,6 @@
         "InferShapedTypeOpInterface": 12.598309847768688,
         "LoopLikeInterface": 5.633266670234727,
         "TilingInterface": 56.90211530666338
-    }
+    },
+    "score.percentage": 0.39790389437838564
 }

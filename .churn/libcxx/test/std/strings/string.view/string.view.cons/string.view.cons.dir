@@ -15,5 +15,6 @@
         "implicit_deduction_guides.pass.cpp": 13.148921748240621,
         "nullptr.compile.pass.cpp": 2.4806278947713607
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 14.880730119610636
 }

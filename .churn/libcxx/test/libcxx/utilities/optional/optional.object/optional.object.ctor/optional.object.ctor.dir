@@ -8,5 +8,6 @@
         "copy.pass.cpp": 50.0,
         "move.pass.cpp": 50.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 19.78137396730509
 }

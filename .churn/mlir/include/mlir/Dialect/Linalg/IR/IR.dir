@@ -17,5 +17,6 @@
         "LinalgStructuredOps.td": 22.29822644476782,
         "ValueBoundsOpInterfaceImpl.h": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 34.15475283838327
 }

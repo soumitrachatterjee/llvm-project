@@ -8,5 +8,6 @@
         "CMakeLists.txt": 100.0,
         "external-hello.cpp": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 8.283297237425314
 }

@@ -8,5 +8,6 @@
         "CMakeLists.txt": 3.354169032548917,
         "RISCVVIntrinsicUtils.cpp": 96.64583096745108
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.06887564016157724
 }

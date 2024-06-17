@@ -14,5 +14,6 @@
         "TestLuaAPI.py": 26.22800180260366,
         "TestProcessAPI.lua": 13.296401525509664
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.23199446375807048
 }

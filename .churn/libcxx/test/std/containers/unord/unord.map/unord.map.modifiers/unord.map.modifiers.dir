@@ -34,5 +34,6 @@
         "try.emplace.pass.cpp": 5.698847092625949,
         "try_emplace_hint.addressof.compile.pass.cpp": 1.5874181521414288
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 9.436678221709512
 }

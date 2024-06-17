@@ -10,5 +10,6 @@
         "SimpleTest.pdb": 33.33333333333333,
         "empty.pdb": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 8.4034462546451
 }

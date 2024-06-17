@@ -9,5 +9,6 @@
         "unreachable.pass.cpp": 0.0,
         "unreachable.verify.cpp": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 5.876159818431733
 }

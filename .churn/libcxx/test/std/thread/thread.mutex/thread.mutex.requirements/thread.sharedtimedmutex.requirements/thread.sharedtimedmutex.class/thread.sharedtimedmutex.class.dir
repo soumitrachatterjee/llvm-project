@@ -18,5 +18,6 @@
         "try_lock_until.pass.cpp": 9.799980219879693,
         "try_lock_until_deadlock_bug.pass.cpp": 7.586340635539369
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 100.0
 }

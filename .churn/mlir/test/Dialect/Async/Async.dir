@@ -19,5 +19,6 @@
         "runtime.mlir": 11.089104779022959,
         "verify.mlir": 5.634948506290008
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.5797094255091373
 }

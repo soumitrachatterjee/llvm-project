@@ -11,5 +11,6 @@
         "MyModule.h": 0.0,
         "TestClangModuleBuildProgress.py": 100.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 14.232205970593833
 }

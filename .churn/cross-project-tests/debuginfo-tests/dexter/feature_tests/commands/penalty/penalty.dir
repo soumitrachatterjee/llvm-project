@@ -18,5 +18,6 @@
         "unreachable_line_range.cpp": 8.312547285125957,
         "unreachable_on_line.cpp": 8.312547285125957
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 34.61337314524884
 }

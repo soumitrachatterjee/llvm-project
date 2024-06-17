@@ -10,5 +10,6 @@
         "new_array_ptr.verify.cpp": 17.018078948156283,
         "new_ptr.verify.cpp": 17.018078948156283
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 8.031344817911751
 }

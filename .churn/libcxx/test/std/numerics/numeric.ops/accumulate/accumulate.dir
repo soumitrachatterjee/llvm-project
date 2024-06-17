@@ -8,5 +8,6 @@
         "accumulate.pass.cpp": 47.83473207282912,
         "accumulate_op.pass.cpp": 52.16526792717088
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 7.774688132044753
 }

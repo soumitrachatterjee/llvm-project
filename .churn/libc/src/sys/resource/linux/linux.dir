@@ -9,5 +9,6 @@
         "getrlimit.cpp": 50.0,
         "setrlimit.cpp": 50.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 37.174163385039954
 }

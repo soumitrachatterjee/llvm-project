@@ -10,5 +10,6 @@
         "index-ops.mlir": 26.353843872150474,
         "int-range-inference.mlir": 13.072832532647718
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.18081420789477556
 }

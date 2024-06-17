@@ -10,5 +10,6 @@
     "subdirscores": {
         "time.cal.weekday.members": 20.16896689372568,
         "time.cal.weekday.nonmembers": 79.83103310627432
-    }
+    },
+    "score.percentage": 5.151447080478199
 }

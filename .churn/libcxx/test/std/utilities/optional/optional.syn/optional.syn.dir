@@ -9,5 +9,6 @@
         "optional_in_place_t.verify.cpp": 0.0,
         "optional_nullopt_t.verify.cpp": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 4.734364608542888
 }

@@ -17,5 +17,6 @@
         "transparent.pass.cpp": 14.40205149890492,
         "transparent_three_way.compile.pass.cpp": 3.163047722009459
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 5.500086291438821
 }

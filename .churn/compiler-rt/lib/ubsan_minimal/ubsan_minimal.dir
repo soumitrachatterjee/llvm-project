@@ -9,5 +9,6 @@
         "ubsan.syms.extra": 0.0,
         "ubsan_minimal_handlers.cpp": 29.492172165348983
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.1541177466746154
 }

@@ -16,5 +16,6 @@
         "test5_run0.json": 0.0,
         "test5_run1.json": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 21.612078947768424
 }

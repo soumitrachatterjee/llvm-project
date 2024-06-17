@@ -9,5 +9,6 @@
         "cstdio.pass.cpp": 68.26146961390498,
         "gets.compile.fail.cpp": 7.287473986709997
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 28.6975736401267
 }

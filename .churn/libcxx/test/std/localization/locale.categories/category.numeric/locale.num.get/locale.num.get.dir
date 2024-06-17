@@ -12,5 +12,6 @@
     "subdirscores": {
         "facet.num.get.members": 65.4528187352236,
         "facet.num.get.virtuals": 7.913831838764418
-    }
+    },
+    "score.percentage": 47.74980788169241
 }

@@ -12,5 +12,6 @@
         "output_iterator_tag.pass.cpp": 18.8077103586573,
         "random_access_iterator_tag.pass.cpp": 18.8077103586573
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 9.199236826085155
 }

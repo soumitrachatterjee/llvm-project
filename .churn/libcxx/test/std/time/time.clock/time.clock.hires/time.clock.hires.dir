@@ -8,5 +8,6 @@
         "consistency.pass.cpp": 0.0,
         "now.pass.cpp": 100.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 11.784221213789817
 }

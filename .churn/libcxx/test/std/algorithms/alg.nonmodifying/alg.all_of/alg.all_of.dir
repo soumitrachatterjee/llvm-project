@@ -10,5 +10,6 @@
         "pstl.exception_handling.pass.cpp": 11.89596262756432,
         "ranges.all_of.pass.cpp": 13.507408173679739
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 9.926474882528009
 }

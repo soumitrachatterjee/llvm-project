@@ -18,5 +18,6 @@
         "struct-dse.c": 8.273594426310451,
         "unused-merged-value.c": 9.921407997066463
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 7.070026315700486
 }

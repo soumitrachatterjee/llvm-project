@@ -20,5 +20,6 @@
         "nanosleep_test.cpp": 6.5147817642679575,
         "time_test.cpp": 3.4746779317887415
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 3.766103801300722
 }

@@ -46,5 +46,6 @@
         "linker-script-to-export-list.py": 0.25800641860692713,
         "Rewrite.cpp": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 38.29613248909878
 }

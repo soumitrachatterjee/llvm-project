@@ -15,5 +15,6 @@
         "pr6047_c.ll": 13.363265314975106,
         "pr6047_d.ll": 13.363265314975106
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.28887444251091365
 }

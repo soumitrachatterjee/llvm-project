@@ -116,5 +116,6 @@
         "vector.inc": 1.9706831709272854,
         "version.inc": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 50.64427252341355
 }

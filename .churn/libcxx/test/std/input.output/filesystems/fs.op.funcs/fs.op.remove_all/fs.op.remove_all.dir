@@ -8,5 +8,6 @@
         "remove_all.pass.cpp": 64.5933790876143,
         "toctou.pass.cpp": 35.40662091238569
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 3.5702314045902415
 }

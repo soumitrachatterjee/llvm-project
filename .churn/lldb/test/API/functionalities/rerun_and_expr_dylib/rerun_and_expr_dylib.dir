@@ -11,5 +11,6 @@
         "rebuild.cpp": 15.92498136034057,
         "TestRerunAndExprDylib.py": 21.28370960642412
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.19966195876410506
 }

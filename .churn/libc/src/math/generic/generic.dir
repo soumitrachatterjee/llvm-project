@@ -165,5 +165,6 @@
         "truncf128.cpp": 0.0,
         "truncl.cpp": 0.18717477160893028
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 37.42802130325066
 }

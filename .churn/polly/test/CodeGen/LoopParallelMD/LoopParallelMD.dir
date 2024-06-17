@@ -9,5 +9,6 @@
         "loop_nest_param_parallel.ll": 25.69188160272867,
         "single_loop_param_parallel.ll": 48.616236794542644
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.7624735246216241
 }

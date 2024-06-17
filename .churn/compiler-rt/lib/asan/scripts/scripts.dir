@@ -9,5 +9,6 @@
         "asan_symbolize.py": 69.75693780225075,
         "CMakeLists.txt": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 5.036311994598125
 }

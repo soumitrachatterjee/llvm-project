@@ -18,5 +18,6 @@
         "formatter.string.pass.cpp": 10.43081241069852,
         "formatter.unsigned_integral.pass.cpp": 9.738979374969311
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 38.066628685867244
 }

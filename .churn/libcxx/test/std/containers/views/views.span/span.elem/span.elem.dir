@@ -11,5 +11,6 @@
         "front.pass.cpp": 0.0,
         "op_idx.pass.cpp": 100.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 8.926183709487642
 }

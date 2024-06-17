@@ -13,5 +13,6 @@
         "sys_aarch64.h": 0.0,
         "sys_x86_64.h": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 5.110790658376016
 }

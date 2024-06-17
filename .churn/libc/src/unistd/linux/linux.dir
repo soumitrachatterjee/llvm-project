@@ -42,5 +42,6 @@
         "unlinkat.cpp": 2.8064673989749167,
         "write.cpp": 4.353226400059972
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 32.52625023168137
 }

@@ -8,5 +8,6 @@
         "legalize-data.fir": 100.0,
         "propagate-attr-folding.fir": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 1.9123990691367394
 }

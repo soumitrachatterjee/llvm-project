@@ -9,5 +9,6 @@
         "mlir-linalg-ods-yaml-gen.cpp": 81.16124596865302,
         "update_core_linalg_named_ops.sh.in": 2.5116205020753086
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 7.991841130940183
 }

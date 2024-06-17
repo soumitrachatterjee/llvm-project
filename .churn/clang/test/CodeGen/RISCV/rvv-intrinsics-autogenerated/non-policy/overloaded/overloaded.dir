@@ -509,5 +509,6 @@
         "vzext_vf4.c": 0.09649187442409538,
         "vzext_vf8.c": 0.09649187442409538
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 42.2133481805775
 }

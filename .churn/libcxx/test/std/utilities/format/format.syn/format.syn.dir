@@ -8,5 +8,6 @@
         "format_to_n_result.pass.cpp": 100.0,
         "runtime_format_string.pass.cpp": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 1.8857806682044718
 }

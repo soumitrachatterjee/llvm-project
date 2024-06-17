@@ -9,5 +9,6 @@
         "InstrumentationRuntimeTSan.cpp": 77.21781173784304,
         "InstrumentationRuntimeTSan.h": 17.02022460359702
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 36.02705132736622
 }

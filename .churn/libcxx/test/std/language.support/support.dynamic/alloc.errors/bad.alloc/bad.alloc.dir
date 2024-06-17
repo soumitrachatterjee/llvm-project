@@ -7,5 +7,6 @@
     "filescores": {
         "bad_alloc.pass.cpp": 100.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 19.019113532865802
 }

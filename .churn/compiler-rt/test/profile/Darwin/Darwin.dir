@@ -9,5 +9,6 @@
         "instrprof-debug-info-correlate.c": 88.27094767110829,
         "lit.local.cfg.py": 11.729052328891711
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 2.9978480519710273
 }

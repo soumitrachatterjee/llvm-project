@@ -10,5 +10,6 @@
         "intercept-c++": 25.0,
         "intercept-cc": 25.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 2.080896978116536
 }

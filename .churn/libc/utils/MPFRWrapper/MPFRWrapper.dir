@@ -11,5 +11,6 @@
         "check_mpfr.cpp": 0.0,
         "mpfr_inc.h": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 38.48305540585121
 }

@@ -11,5 +11,6 @@
         "x86_64.c": 0.0,
         "x86_64h.c": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 3.693570728069675
 }

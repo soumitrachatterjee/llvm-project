@@ -11,5 +11,6 @@
         "lock.pass.cpp": 41.0509183605637,
         "try_lock.pass.cpp": 38.93901797520717
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 51.70288317469925
 }

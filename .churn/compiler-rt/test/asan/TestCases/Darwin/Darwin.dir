@@ -50,5 +50,6 @@
         "unset-insert-libraries-on-exec.cpp": 0.0,
         "uuid.cpp": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 7.355064650940293
 }

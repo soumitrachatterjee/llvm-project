@@ -44,5 +44,6 @@
         "TokenAnnotatorTest.cpp": 8.937352631931123,
         "UsingDeclarationsSorterTest.cpp": 0.25896906036070505
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 34.0644962188468
 }

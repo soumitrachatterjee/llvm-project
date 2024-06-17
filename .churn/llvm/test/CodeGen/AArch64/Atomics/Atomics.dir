@@ -67,5 +67,6 @@
         "aarch64_be-fence.ll": 2.329693638675522,
         "generate-tests.py": 1.7732881118192496
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.12930990555702934
 }

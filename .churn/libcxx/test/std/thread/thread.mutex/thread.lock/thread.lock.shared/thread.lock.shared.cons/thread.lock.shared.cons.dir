@@ -17,5 +17,6 @@
         "mutex_time_point.pass.cpp": 13.604414712077368,
         "mutex_try_to_lock.pass.cpp": 13.37215170094939
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 39.14289780872818
 }

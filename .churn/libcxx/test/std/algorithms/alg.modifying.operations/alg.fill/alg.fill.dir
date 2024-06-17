@@ -13,5 +13,6 @@
         "ranges.fill.pass.cpp": 8.176817906257245,
         "ranges.fill_n.pass.cpp": 7.0522787169825145
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 5.722957656512223
 }

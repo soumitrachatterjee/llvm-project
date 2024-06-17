@@ -10,5 +10,6 @@
         "gmock-matchers.h": 29.86426232852074,
         "gmock-port.h": 29.86426232852074
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 25.0
 }

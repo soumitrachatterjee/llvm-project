@@ -8,5 +8,6 @@
         "exclusive_scan.pass.cpp": 50.0,
         "exclusive_scan_init_op.pass.cpp": 50.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 6.6488972619101725
 }

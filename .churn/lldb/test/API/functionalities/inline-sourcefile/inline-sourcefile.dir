@@ -10,5 +10,6 @@
         "Makefile": 0.0,
         "TestInlineSourceFiles.py": 100.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.1573265693012286
 }

@@ -44,5 +44,6 @@
         "TransposeConv2D.cpp": 0.0,
         "Vectorization.cpp": 15.17114326929583
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 60.583530462401704
 }

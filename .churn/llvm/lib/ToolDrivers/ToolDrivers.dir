@@ -10,5 +10,6 @@
     "subdirscores": {
         "llvm-dlltool": 43.78665568566724,
         "llvm-lib": 51.92409327400287
-    }
+    },
+    "score.percentage": 0.04207407323869246
 }

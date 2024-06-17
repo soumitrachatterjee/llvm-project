@@ -11,5 +11,6 @@
         "TosaToLinalgNamedPass.cpp": 3.6754711559244493,
         "TosaToLinalgPass.cpp": 15.995614816545187
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 6.7140738491944925
 }

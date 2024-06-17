@@ -21,5 +21,6 @@
         "size_size_string_view.pass.cpp": 6.123457493483938,
         "size_size_T_size_size.pass.cpp": 7.6251136286751935
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 15.432895178436848
 }

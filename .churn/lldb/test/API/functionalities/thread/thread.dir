@@ -27,5 +27,6 @@
         "thread_exit": 3.7615330833989296,
         "thread_specific_break": 3.7963397846719165,
         "thread_specific_break_plus_condition": 4.2753193804642615
-    }
+    },
+    "score.percentage": 4.228126249034657
 }

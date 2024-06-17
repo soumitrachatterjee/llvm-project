@@ -10,5 +10,6 @@
         "llvm_analysis.ml": 17.15319794484574,
         "llvm_analysis.mli": 22.297292445509957
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 4.1827531666931685
 }

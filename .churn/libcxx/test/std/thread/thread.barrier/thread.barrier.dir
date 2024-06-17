@@ -12,5 +12,6 @@
         "ctor.compile.pass.cpp": 0.0,
         "max.pass.cpp": 8.789495221562344
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 3.270541450746689
 }

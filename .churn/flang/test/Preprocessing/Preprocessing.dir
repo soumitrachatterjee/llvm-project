@@ -106,5 +106,6 @@
         "renaming.F": 0.0,
         "unclosed-FLM.F90": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.7342889992637381
 }

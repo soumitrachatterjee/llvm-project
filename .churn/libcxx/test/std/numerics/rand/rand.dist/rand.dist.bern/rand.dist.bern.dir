@@ -10,5 +10,6 @@
         "rand.dist.bern.bin": 26.82444786247405,
         "rand.dist.bern.geo": 19.626424452081263,
         "rand.dist.bern.negbin": 41.050230694499426
-    }
+    },
+    "score.percentage": 35.760817043874795
 }

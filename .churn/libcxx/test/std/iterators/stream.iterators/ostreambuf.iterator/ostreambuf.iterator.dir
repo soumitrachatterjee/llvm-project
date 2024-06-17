@@ -11,5 +11,6 @@
     "subdirscores": {
         "ostreambuf.iter.cons": 27.175710959500126,
         "ostreambuf.iter.ops": 26.26072059760795
-    }
+    },
+    "score.percentage": 22.402046166890717
 }

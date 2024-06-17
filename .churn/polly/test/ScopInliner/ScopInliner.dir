@@ -9,5 +9,6 @@
         "invariant-load-func.ll": 39.33424040317005,
         "simple-inline-loop.ll": 39.33424040317005
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.3696393111108266
 }

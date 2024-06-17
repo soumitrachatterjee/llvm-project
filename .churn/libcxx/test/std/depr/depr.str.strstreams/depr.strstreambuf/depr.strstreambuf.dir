@@ -12,5 +12,6 @@
         "depr.strstreambuf.cons": 35.88686377336818,
         "depr.strstreambuf.members": 31.07163055190119,
         "depr.strstreambuf.virtuals": 16.52075283736531
-    }
+    },
+    "score.percentage": 43.08564314996328
 }

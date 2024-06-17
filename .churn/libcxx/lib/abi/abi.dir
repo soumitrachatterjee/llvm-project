@@ -18,5 +18,6 @@
         "x86_64-unknown-linux-gnu.libcxxabi.v1.stable.exceptions.nonew.abilist": 5.977927999710783,
         "x86_64-unknown-linux-gnu.libcxxabi.v1.stable.noexceptions.nonew.abilist": 5.977927999710783
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 96.69437788020389
 }

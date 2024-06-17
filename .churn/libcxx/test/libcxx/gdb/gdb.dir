@@ -8,5 +8,6 @@
         "gdb_pretty_printer_test.py": 15.754822267765356,
         "gdb_pretty_printer_test.sh.cpp": 84.24517773223464
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 1.3316173927442079
 }

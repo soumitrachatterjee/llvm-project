@@ -10,5 +10,6 @@
         "multithread-test.ips": 64.72651575192309,
         "multithread-test.yaml": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 31.014048834779395
 }

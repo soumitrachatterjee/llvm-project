@@ -9,5 +9,6 @@
         "arith-to-spirv.mlir": 75.05091727377551,
         "fast-math.mlir": 16.092737783632906
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 1.2131490671412382
 }

@@ -13,5 +13,6 @@
         "header_inclusion_order_numeric_1.pass.cpp": 10.882332094462823,
         "version.pass.cpp": 34.70600743322307
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 30.564747854330776
 }

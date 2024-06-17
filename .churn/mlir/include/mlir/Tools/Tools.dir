@@ -19,5 +19,6 @@
         "mlir-tblgen": 0.0,
         "mlir-translate": 19.02885545768284,
         "tblgen-lsp-server": 0.0
-    }
+    },
+    "score.percentage": 0.8242716189375384
 }

@@ -9,5 +9,6 @@
         "string.pass.cpp": 33.62851672945243,
         "unord_containers.pass.cpp": 33.185741635273786
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 86.10467312766536
 }

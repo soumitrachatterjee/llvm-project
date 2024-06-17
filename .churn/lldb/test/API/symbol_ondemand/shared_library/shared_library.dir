@@ -11,5 +11,6 @@
         "shared.c": 0.0,
         "TestSharedLibOnDemand.py": 100.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 38.30911505092457
 }

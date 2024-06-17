@@ -9,5 +9,6 @@
         "test-reduction-distribute.mlir": 46.94246927340466,
         "test-warp-distribute.mlir": 49.00444643307489
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 100.0
 }

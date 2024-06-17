@@ -110,5 +110,6 @@
         "UseStdMinMaxCheck.cpp": 0.0,
         "UseStdMinMaxCheck.h": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 12.362979222103524
 }

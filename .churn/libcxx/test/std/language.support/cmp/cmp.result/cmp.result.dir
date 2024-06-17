@@ -7,5 +7,6 @@
     "filescores": {
         "compare_three_way_result.compile.pass.cpp": 100.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 3.0874264385897474
 }

@@ -22,5 +22,6 @@
         "lookahead.pass.cpp": 6.414548942790282,
         "no_update_pos.pass.cpp": 4.756141944722391
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 37.12538498936373
 }

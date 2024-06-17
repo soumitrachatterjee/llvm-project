@@ -16,5 +16,6 @@
         "UncountedLambdaCapturesChecker.cpp": 8.39165307483254,
         "UncountedLocalVarsChecker.cpp": 5.726397368264262
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 1.4455124848104373
 }

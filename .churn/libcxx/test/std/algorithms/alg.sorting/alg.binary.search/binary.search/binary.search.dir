@@ -9,5 +9,6 @@
         "binary_search_comp.pass.cpp": 42.71097263423844,
         "ranges.binary_search.pass.cpp": 14.711296331588224
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 23.35748663254364
 }

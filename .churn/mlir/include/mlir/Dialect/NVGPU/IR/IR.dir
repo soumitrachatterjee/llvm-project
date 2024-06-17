@@ -9,5 +9,6 @@
         "NVGPU.td": 77.8070928366756,
         "NVGPUDialect.h": 19.017863031506224
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 70.14576472923083
 }

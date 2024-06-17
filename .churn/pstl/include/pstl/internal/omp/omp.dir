@@ -17,5 +17,6 @@
         "parallel_transform_scan.h": 10.324934809073591,
         "util.h": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 1.5877210314675916
 }

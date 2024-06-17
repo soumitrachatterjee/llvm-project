@@ -12,5 +12,6 @@
         "vprint_nonunicode.pass.cpp": 20.0,
         "vprint_unicode.pass.cpp": 20.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 3.541152384151315
 }

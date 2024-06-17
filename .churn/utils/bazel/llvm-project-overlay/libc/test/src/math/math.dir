@@ -8,5 +8,6 @@
         "BUILD.bazel": 53.91868770790319,
         "libc_math_test_rules.bzl": 46.08131229209682
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 27.238172603788826
 }

@@ -8,5 +8,6 @@
         "assert.ctor.pass.cpp": 50.0,
         "assert.release.pass.cpp": 50.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 7.829292047478319
 }

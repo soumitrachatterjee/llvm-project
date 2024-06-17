@@ -9,5 +9,6 @@
         "rand.dist.samp.discrete": 33.33333333333333,
         "rand.dist.samp.pconst": 33.33333333333333,
         "rand.dist.samp.plinear": 33.33333333333333
-    }
+    },
+    "score.percentage": 19.986131678666215
 }

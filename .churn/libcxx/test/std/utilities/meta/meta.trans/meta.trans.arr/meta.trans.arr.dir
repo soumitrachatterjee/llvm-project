@@ -8,5 +8,6 @@
         "remove_all_extents.pass.cpp": 50.0,
         "remove_extent.pass.cpp": 50.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 5.753808913145169
 }

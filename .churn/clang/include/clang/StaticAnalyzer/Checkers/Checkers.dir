@@ -13,5 +13,6 @@
         "SValExplainer.h": 7.716418028440309,
         "Taint.h": 1.4610489141493461
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 17.467880330001105
 }

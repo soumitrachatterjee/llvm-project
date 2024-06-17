@@ -16,5 +16,6 @@
         "segv_handler_fuchsia.cpp": 12.48447724935993,
         "segv_handler_posix.cpp": 24.212469570080735
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 8.214158634728935
 }

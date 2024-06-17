@@ -20,5 +20,6 @@
         "nth_element.pass.cpp": 7.182753705161152,
         "search_n.pass.cpp": 10.720568626875316
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 22.41160367844969
 }

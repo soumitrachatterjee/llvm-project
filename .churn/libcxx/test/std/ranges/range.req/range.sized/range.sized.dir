@@ -8,5 +8,6 @@
         "sized_range.compile.pass.cpp": 52.75596609548187,
         "subsumption.compile.pass.cpp": 47.244033904518126
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 14.862799827666857
 }

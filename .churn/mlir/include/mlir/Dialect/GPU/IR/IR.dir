@@ -14,5 +14,6 @@
         "GPUOps.td": 56.17852302239326,
         "ParallelLoopMapperAttr.td": 1.4020257542202204
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 58.37930880870652
 }

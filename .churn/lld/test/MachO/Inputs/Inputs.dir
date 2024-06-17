@@ -19,5 +19,6 @@
         "iPhoneSimulator.sdk": 19.512537145576538,
         "MacOSX.sdk": 30.26860071822879,
         "WatchOS.sdk": 4.551004893936074
-    }
+    },
+    "score.percentage": 4.532607385329774
 }

@@ -21,5 +21,6 @@
         "Version.h": 2.125270469735148,
         "Version.inc.in": 1.4410463947898366
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 100.0
 }

@@ -27,5 +27,6 @@
         "sub_sat.cl": 10.200544588511049,
         "upsample.cl": 7.473323067876153
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 3.0166181575865387
 }

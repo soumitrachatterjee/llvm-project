@@ -14,5 +14,6 @@
         "scp_size_scp.pass.cpp": 12.193664365765642,
         "ucp_size_ucp.pass.cpp": 12.193664365765642
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 35.88686377336818
 }

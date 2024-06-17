@@ -10,5 +10,6 @@
         "make12.pass.cpp": 0.0,
         "make24.pass.cpp": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 8.823520821122825
 }

@@ -16,5 +16,6 @@
         "pmpy-shiftconv-fail.ll": 5.923435889520229,
         "pmpy.ll": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.496283396494286
 }

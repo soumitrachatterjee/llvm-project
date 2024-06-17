@@ -11,5 +11,6 @@
         "implicit_copy.pass.cpp": 30.1191341094334,
         "initialization.pass.cpp": 20.724347046900004
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 10.231541838915629
 }

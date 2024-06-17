@@ -187,5 +187,6 @@
         "unreachable.s": 1.4264280823419238,
         "user-order.S": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 17.98984129213333
 }

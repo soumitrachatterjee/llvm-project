@@ -11,5 +11,6 @@
         "owner_before_shared_ptr.pass.cpp": 26.38578003967247,
         "owner_before_weak_ptr.pass.cpp": 26.38578003967247
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 11.726332302641453
 }

@@ -9,5 +9,6 @@
         "Makefile": 0.0,
         "TestExprInsideLambdas.py": 100.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.6779990207793218
 }

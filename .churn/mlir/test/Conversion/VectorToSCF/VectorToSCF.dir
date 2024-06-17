@@ -11,5 +11,6 @@
         "vector-to-scf-mask-and-permutation-map.mlir": 19.0496798220836,
         "vector-to-scf.mlir": 53.75197395514236
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 3.991503379940152
 }

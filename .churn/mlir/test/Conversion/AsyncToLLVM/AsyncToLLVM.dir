@@ -9,5 +9,6 @@
         "convert-runtime-to-llvm.mlir": 23.250812897657802,
         "convert-to-llvm.mlir": 43.407489133876865
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 1.7139915969872885
 }

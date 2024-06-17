@@ -50,5 +50,6 @@
     "subdirscores": {
         "algorithms": 7.615315603176695,
         "libcxxabi": 0.7452717812215719
-    }
+    },
+    "score.percentage": 0.8788033733281359
 }

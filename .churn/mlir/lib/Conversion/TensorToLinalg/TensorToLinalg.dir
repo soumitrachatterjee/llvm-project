@@ -9,5 +9,6 @@
         "TensorToLinalg.cpp": 18.648285897430757,
         "TensorToLinalgPass.cpp": 62.69685396328204
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.31355111917968315
 }

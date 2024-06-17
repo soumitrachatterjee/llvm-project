@@ -117,5 +117,6 @@
         "vscale.ll": 1.9235869234865242,
         "zext.ll": 1.3997839974426025
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 10.364122681790667
 }

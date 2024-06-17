@@ -8,5 +8,6 @@
         "atomic_signal_fence.pass.cpp": 50.0,
         "atomic_thread_fence.pass.cpp": 50.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 2.459914209713712
 }

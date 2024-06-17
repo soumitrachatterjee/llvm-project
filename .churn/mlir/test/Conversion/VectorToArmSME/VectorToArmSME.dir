@@ -8,5 +8,6 @@
         "unsupported.mlir": 50.0,
         "vector-to-arm-sme.mlir": 50.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.13435828147387915
 }

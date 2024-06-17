@@ -8,5 +8,6 @@
         "replace_failure_order.pass.cpp": 77.65420932265103,
         "replace_failure_order_codegen.sh.cpp": 22.34579067734897
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 4.515592612599124
 }

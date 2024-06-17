@@ -14,5 +14,6 @@
     },
     "subdirscores": {
         "range.chunk.by.iter": 25.0
-    }
+    },
+    "score.percentage": 7.529151709370212
 }

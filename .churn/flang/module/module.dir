@@ -21,5 +21,6 @@
         "omp_lib.f90": 2.244504276637656,
         "omp_lib.h": 2.4217854474672404
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.7484458401829646
 }

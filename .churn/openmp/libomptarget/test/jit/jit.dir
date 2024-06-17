@@ -10,5 +10,6 @@
         "empty_kernel_lvl2.c": 42.0769492366286,
         "type_punning.c": 30.798201601150794
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.910631010777684
 }

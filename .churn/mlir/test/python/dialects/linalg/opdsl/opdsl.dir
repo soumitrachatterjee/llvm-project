@@ -18,5 +18,6 @@
         "shape_maps_iteration.py": 8.41550960822876,
         "test_core_named_ops.py": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 47.87256527977096
 }

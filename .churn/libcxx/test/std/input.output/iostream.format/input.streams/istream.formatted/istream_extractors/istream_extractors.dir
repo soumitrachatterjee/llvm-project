@@ -16,5 +16,6 @@
         "unsigned_char_pointer.pass.cpp": 12.481037924842214,
         "wchar_t_pointer.pass.cpp": 10.006173982974511
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 49.145786479175364
 }

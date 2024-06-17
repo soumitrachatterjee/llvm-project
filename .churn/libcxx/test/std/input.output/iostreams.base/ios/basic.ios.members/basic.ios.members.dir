@@ -19,5 +19,6 @@
         "tie_ostream.pass.cpp": 7.347731736597717,
         "widen.pass.cpp": 7.347731736597717
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 36.14698981077137
 }

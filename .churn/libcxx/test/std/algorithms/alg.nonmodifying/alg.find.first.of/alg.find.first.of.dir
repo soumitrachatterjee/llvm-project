@@ -9,5 +9,6 @@
         "find_first_of_pred.pass.cpp": 39.60726585264087,
         "ranges.find_first_of.pass.cpp": 20.650511913261457
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 4.622584641673127
 }

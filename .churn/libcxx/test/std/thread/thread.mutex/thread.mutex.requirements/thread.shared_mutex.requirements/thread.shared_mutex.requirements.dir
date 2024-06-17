@@ -7,5 +7,6 @@
     "filescores": {},
     "subdirscores": {
         "thread.shared_mutex.class": 100.0
-    }
+    },
+    "score.percentage": 26.10316401919539
 }

@@ -16,5 +16,6 @@
         "LLDBGenerateConfig.cmake": 4.675636174082321,
         "LLDBStandalone.cmake": 22.370697689775067
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 98.68955646988252
 }

@@ -14,5 +14,6 @@
         "BPFRegisterBankInfo.h": 0.0,
         "BPFRegisterBanks.td": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.2191392137474765
 }

@@ -12,5 +12,6 @@
         "malloc.c": 42.2566287612173,
         "puts.c": 28.87168561939135
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 1.206684026913769
 }

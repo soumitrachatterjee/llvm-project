@@ -10,5 +10,6 @@
         "FindLLVMRanLib.cmake": 0.0,
         "FindPFM.cmake": 100.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 11.168210535830065
 }

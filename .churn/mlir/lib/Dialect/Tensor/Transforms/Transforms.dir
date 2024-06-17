@@ -20,5 +20,6 @@
         "SubsetInsertionOpInterfaceImpl.cpp": 4.594653858058387,
         "SwapExtractSliceWithProducerPatterns.cpp": 1.6673465943201267
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 41.50800893331752
 }

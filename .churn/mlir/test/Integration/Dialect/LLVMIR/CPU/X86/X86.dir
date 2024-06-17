@@ -9,5 +9,6 @@
         "test-inline-asm-vector.mlir": 50.65331648208019,
         "test-inline-asm.mlir": 25.132817361991695
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 29.936137919375934
 }

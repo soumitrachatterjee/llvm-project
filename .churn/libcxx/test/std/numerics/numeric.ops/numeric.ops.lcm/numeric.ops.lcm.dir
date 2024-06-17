@@ -13,5 +13,6 @@
         "lcm.not_integral2.compile.fail.cpp": 9.645707810863632,
         "lcm.pass.cpp": 42.12575313481822
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 4.502889413219562
 }

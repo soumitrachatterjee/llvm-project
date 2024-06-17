@@ -76,5 +76,6 @@
     "subdirscores": {
         "scripts": 5.036311994598125,
         "tests": 16.098535081843213
-    }
+    },
+    "score.percentage": 14.319381918077474
 }

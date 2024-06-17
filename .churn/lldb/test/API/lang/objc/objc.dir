@@ -69,5 +69,6 @@
         "unicode-string": 0.6234003427724033,
         "variadic_methods": 1.0267119865986198,
         "warnings-in-expr-parser": 0.8073441923163702
-    }
+    },
+    "score.percentage": 21.23970925336945
 }

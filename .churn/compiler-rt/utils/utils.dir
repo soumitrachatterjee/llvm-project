@@ -8,5 +8,6 @@
         "generate_netbsd_ioctls.awk": 58.134736281558254,
         "generate_netbsd_syscalls.awk": 41.86526371844175
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.11901737414569738
 }

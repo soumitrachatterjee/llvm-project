@@ -102,5 +102,6 @@
     "subdirscores": {
         "Float128Math": 0.6406353310906547,
         "FortranMain": 0.34339446693850767
-    }
+    },
+    "score.percentage": 5.307019429797011
 }

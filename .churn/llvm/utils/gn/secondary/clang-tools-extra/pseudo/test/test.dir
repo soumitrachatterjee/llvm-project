@@ -8,5 +8,6 @@
         "BUILD.gn": 100.0,
         "clang_pseudo_lit_site_cfg_files.gni": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 8.6829961339527
 }

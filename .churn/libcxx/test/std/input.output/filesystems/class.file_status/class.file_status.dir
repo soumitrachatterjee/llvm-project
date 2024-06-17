@@ -10,5 +10,6 @@
         "file_status.obs.pass.cpp": 33.33333333333333,
         "file_status.status.eq.ops.pass.cpp": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 2.037627208788567
 }

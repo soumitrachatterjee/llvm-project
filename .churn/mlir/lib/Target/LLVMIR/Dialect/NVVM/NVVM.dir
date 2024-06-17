@@ -9,5 +9,6 @@
         "LLVMIRToNVVMTranslation.cpp": 0.0,
         "NVVMToLLVMIRTranslation.cpp": 79.00883153764974
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 5.456824666411369
 }

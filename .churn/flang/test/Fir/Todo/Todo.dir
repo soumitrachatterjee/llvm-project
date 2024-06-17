@@ -16,5 +16,6 @@
         "select_case_with_character.fir": 14.294788244094992,
         "unboxproc.fir": 11.35026082720098
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 2.5987494563582283
 }

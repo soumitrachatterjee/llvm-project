@@ -157,5 +157,6 @@
         "widen-setcc.ll": 0.6330396745656875,
         "widen-trunc.ll": 1.1988840914546466
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 5.461311683100209
 }

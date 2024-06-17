@@ -21,5 +21,6 @@
         "vectorize_transpose_2d.mlir": 6.852579403799389,
         "vectorize_unsupported.mlir": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 10.051420546901033
 }

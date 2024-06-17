@@ -10,5 +10,6 @@
         "loop_proto_to_llvm.h": 28.961774923798018,
         "loop_proto_to_llvm_main.cpp": 26.303345365161984
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 2.0831303011124387
 }

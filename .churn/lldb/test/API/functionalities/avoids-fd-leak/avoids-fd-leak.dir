@@ -9,5 +9,6 @@
         "Makefile": 0.0,
         "TestFdLeak.py": 100.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.37480123302033924
 }

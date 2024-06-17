@@ -8,5 +8,6 @@
         "tosa-to-tensor-invalid.mlir": 15.810326074712558,
         "tosa-to-tensor.mlir": 84.18967392528745
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.8779249969830814
 }

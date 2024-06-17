@@ -8,5 +8,6 @@
         "integral.bool.verify.cpp": 0.0,
         "integral.pass.cpp": 100.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 40.459065632245576
 }

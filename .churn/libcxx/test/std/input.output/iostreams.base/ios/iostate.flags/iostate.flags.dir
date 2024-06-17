@@ -17,5 +17,6 @@
         "rdstate.pass.cpp": 8.796620019684994,
         "setstate.pass.cpp": 8.237722747182922
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 31.451739027995824
 }

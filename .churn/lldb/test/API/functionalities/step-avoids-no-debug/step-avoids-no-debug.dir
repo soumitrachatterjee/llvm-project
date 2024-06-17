@@ -10,5 +10,6 @@
         "with-debug.c": 0.0,
         "without-debug.c": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 1.289795517207512
 }

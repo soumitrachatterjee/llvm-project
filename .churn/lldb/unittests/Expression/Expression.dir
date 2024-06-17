@@ -12,5 +12,6 @@
         "DiagnosticManagerTest.cpp": 2.5734008685433003,
         "DWARFExpressionTest.cpp": 50.49419479536768
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 5.68467696322489
 }

@@ -13,5 +13,6 @@
         "invoke.ll": 16.540007704658734,
         "print-dot-dom.ll": 4.857692916174146
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.5370862125864964
 }

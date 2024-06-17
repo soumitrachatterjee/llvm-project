@@ -8,5 +8,6 @@
         "CMakeLists.txt": 30.205137214370538,
         "posix_spawn_file_actions_test.cpp": 69.79486278562946
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.3483930378487645
 }

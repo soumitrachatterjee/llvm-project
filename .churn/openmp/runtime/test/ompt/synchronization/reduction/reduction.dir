@@ -8,5 +8,6 @@
         "empty_reduce.c": 0.0,
         "tree_reduce.c": 100.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 4.166409924295688
 }

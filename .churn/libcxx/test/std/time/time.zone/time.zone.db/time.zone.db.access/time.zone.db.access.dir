@@ -8,5 +8,6 @@
         "get_tzdb.pass.cpp": 50.0,
         "get_tzdb_list.pass.cpp": 50.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 22.28549674098649
 }

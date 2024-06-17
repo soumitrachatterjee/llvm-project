@@ -7,5 +7,6 @@
     "filescores": {
         "has-no-random-device.verify.cpp": 100.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 35.98233181249956
 }

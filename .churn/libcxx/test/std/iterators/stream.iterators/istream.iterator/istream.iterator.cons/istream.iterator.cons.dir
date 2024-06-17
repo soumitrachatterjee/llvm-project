@@ -11,5 +11,6 @@
         "default_sentinel_t.pass.cpp": 0.0,
         "istream.pass.cpp": 19.155558672108047
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 39.72084050333173
 }

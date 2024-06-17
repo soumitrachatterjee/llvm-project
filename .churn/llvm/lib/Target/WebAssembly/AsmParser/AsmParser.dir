@@ -10,5 +10,6 @@
         "WebAssemblyAsmTypeCheck.cpp": 18.29346087665278,
         "WebAssemblyAsmTypeCheck.h": 8.326293919882533
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 4.2766555033623606
 }

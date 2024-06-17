@@ -7,5 +7,6 @@
     "filescores": {
         "default_assertion_handler.in": 100.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 100.0
 }

@@ -10,5 +10,6 @@
         "TestDAP_restart.py": 50.0,
         "TestDAP_restart_runInTerminal.py": 50.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 3.0745529475213527
 }

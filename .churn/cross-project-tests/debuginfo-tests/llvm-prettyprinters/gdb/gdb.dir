@@ -11,5 +11,6 @@
         "mlir-support.cpp": 26.067165985283207,
         "mlir-support.gdb": 17.865955393513396
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 100.0
 }

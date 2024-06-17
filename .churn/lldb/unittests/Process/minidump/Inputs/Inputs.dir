@@ -11,5 +11,6 @@
         "linux-x86_64.dmp": 0.0,
         "regions-memlist64.dmp": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 13.642682828347171
 }

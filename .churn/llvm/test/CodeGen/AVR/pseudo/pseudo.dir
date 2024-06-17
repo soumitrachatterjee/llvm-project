@@ -56,5 +56,6 @@
         "SUBWRdRr.mir": 2.111207821084563,
         "ZEXT.mir": 3.8014939233572886
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 11.458873826849194
 }

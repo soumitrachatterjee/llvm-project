@@ -8,5 +8,6 @@
         "allocate_from_underaligned_buffer.pass.cpp": 44.088670101649456,
         "allocate_in_geometric_progression.pass.cpp": 55.91132989835054
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 100.0
 }

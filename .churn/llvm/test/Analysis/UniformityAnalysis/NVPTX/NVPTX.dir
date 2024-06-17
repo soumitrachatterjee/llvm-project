@@ -12,5 +12,6 @@
         "lit.local.cfg": 100.0,
         "non-header-join.ll": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 11.354655310139757
 }

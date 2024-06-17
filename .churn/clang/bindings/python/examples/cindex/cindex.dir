@@ -8,5 +8,6 @@
         "cindex-dump.py": 64.07658380502201,
         "cindex-includes.py": 35.92341619497799
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 100.0
 }

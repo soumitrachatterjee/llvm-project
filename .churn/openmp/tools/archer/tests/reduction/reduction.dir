@@ -8,5 +8,6 @@
         "parallel-reduction-nowait.c": 50.0,
         "parallel-reduction.c": 50.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 4.290061319810296
 }

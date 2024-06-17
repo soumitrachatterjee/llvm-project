@@ -9,5 +9,6 @@
         "starts_with.ptr.pass.cpp": 33.33065588427607,
         "starts_with.string_view.pass.cpp": 33.338688231447854
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 1.8589353895499914
 }

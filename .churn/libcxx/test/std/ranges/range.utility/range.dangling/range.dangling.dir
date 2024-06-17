@@ -9,5 +9,6 @@
         "borrowed_subrange.compile.pass.cpp": 33.33333333333333,
         "dangling.pass.cpp": 33.33333333333333
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 10.398581744154816
 }

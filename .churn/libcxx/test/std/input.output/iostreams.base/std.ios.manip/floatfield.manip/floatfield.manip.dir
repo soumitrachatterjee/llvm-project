@@ -10,5 +10,6 @@
         "hexfloat.pass.cpp": 25.0,
         "scientific.pass.cpp": 25.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 20.569513134251753
 }

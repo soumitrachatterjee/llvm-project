@@ -7,5 +7,6 @@
     "filescores": {},
     "subdirscores": {
         "time.zone.db": 100.0
-    }
+    },
+    "score.percentage": 50.0
 }

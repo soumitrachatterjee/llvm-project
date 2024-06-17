@@ -14,5 +14,6 @@
         "set_brackets.pass.cpp": 10.543562456199812,
         "set_separator.pass.cpp": 10.543562456199812
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 5.233138172155363
 }

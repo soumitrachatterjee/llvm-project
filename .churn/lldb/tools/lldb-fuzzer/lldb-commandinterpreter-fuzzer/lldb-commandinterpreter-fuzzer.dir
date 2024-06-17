@@ -9,5 +9,6 @@
         "inputdictionary.txt": 0.0,
         "lldb-commandinterpreter-fuzzer.cpp": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 10.71645120875016
 }

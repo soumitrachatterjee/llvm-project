@@ -10,5 +10,6 @@
         "atomic_wait.pass.cpp": 38.19680995394655,
         "atomic_wait_explicit.pass.cpp": 15.091116955027653
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 23.91595651891958
 }

@@ -11,5 +11,6 @@
         "test-async-parallel-for-1d.mlir": 23.57959988531598,
         "test-async-parallel-for-2d.mlir": 22.966558215977898
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 100.0
 }

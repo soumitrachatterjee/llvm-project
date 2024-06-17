@@ -251,5 +251,6 @@
         "zext-signed-addrec.ll": 0.1678065807036653,
         "zext-wrap.ll": 0.4906263780035609
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 21.582541957373717
 }

@@ -32,5 +32,6 @@
         "uid_from_user.cpp": 0.0,
         "user_from_uid.cpp": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 2.8318665223937263
 }

@@ -13,5 +13,6 @@
         "GraphemeBreakTest.txt": 22.884590187405482,
         "README.txt": 28.898890255038403
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 100.0
 }

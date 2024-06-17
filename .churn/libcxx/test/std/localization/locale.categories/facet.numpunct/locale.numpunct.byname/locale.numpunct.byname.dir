@@ -9,5 +9,6 @@
         "grouping.pass.cpp": 32.1204804781582,
         "thousands_sep.pass.cpp": 52.85556129519544
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 78.55275045196399
 }

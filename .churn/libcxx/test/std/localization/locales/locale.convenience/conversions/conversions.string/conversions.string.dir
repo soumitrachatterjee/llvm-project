@@ -16,5 +16,6 @@
         "to_bytes.pass.cpp": 12.459614559209694,
         "types.pass.cpp": 8.895201928679924
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 44.06923661734431
 }

@@ -8,5 +8,6 @@
         "DNBArchImplARM64.cpp": 74.57066589356695,
         "DNBArchImplARM64.h": 25.429334106433032
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 7.383065499255043
 }

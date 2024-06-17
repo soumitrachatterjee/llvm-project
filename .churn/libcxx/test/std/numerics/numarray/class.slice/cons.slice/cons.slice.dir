@@ -8,5 +8,6 @@
         "default.pass.cpp": 50.0,
         "start_size_stride.pass.cpp": 50.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 58.870448767268854
 }

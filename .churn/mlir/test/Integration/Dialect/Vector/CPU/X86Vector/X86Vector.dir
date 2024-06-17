@@ -13,5 +13,6 @@
         "test-sparse-dot-product.mlir": 14.389020919396398,
         "test-vp2intersect-i32.mlir": 18.48537467389488
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 2.726639124042846
 }

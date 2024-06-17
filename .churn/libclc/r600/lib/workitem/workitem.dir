@@ -13,5 +13,6 @@
         "get_num_groups.cl": 12.433112323474637,
         "get_work_dim.cl": 16.07920995222867
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 27.080341519503275
 }

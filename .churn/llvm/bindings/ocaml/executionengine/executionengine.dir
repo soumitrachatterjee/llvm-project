@@ -10,5 +10,6 @@
         "llvm_executionengine.ml": 27.417486404005786,
         "llvm_executionengine.mli": 27.79425938914018
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 7.753383729151967
 }

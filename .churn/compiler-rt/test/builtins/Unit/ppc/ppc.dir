@@ -23,5 +23,6 @@
         "qsub_test.c": 12.899970946623826,
         "test": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.5655765649587696
 }

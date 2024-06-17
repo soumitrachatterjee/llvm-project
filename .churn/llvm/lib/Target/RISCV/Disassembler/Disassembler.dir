@@ -8,5 +8,6 @@
         "CMakeLists.txt": 3.9650448310095383,
         "RISCVDisassembler.cpp": 96.03495516899045
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 1.3201539873416794
 }

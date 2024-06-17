@@ -16,5 +16,6 @@
         "pthread_test.cpp": 9.154169759863288,
         "pthread_tss_test.cpp": 8.556368774615347
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 25.92723969151812
 }

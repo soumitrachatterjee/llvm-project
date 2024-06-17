@@ -9,5 +9,6 @@
         "assert.last.pass.cpp": 30.561572925697888,
         "assert.subspan.pass.cpp": 38.87685414860423
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 31.1615301588536
 }

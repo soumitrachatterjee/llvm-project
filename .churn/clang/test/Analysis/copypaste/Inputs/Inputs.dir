@@ -14,5 +14,6 @@
     },
     "subdirscores": {
         "expected-plists": 100.0
-    }
+    },
+    "score.percentage": 1.078958141023003
 }

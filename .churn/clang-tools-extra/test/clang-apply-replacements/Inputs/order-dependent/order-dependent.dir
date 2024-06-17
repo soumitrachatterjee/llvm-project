@@ -10,5 +10,6 @@
         "file2.yaml": 50.0,
         "order-dependent.cpp": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 6.520186660779211
 }

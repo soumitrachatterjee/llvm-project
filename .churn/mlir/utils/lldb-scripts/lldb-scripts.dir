@@ -8,5 +8,6 @@
         "action_debugging.py": 0.0,
         "mlirDataFormatters.py": 100.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 5.08283076775886
 }

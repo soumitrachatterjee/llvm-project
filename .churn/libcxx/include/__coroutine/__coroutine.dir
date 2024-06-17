@@ -10,5 +10,6 @@
         "noop_coroutine_handle.h": 16.506097022376416,
         "trivial_awaitables.h": 16.145891503493665
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.09381110004232844
 }

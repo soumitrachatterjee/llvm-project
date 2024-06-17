@@ -11,5 +11,6 @@
         "PerfSupportPlugin.h": 0.0,
         "VTuneSupportPlugin.h": 100.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.602611481812213
 }

@@ -14,5 +14,6 @@
         "remove_copy_if.pass.cpp": 19.68297373420331,
         "remove_if.pass.cpp": 17.126340843301925
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 5.703122433452804
 }

@@ -12,5 +12,6 @@
         "IndexIntrinsicsOpLowering.h": 7.850148784211898,
         "OpToFuncCallLowering.h": 8.663877617589849
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 8.189595166411435
 }

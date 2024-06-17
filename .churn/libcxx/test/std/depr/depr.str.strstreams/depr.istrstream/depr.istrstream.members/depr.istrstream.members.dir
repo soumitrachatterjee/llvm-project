@@ -8,5 +8,6 @@
         "rdbuf.pass.cpp": 50.0,
         "str.pass.cpp": 50.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 32.63328737744845
 }

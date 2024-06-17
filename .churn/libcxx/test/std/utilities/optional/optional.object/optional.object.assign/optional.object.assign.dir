@@ -14,5 +14,6 @@
         "nullopt_t.pass.cpp": 10.29573144480167,
         "optional_U.pass.cpp": 15.272417525969246
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 14.695930578570266
 }

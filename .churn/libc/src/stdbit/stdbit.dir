@@ -147,5 +147,6 @@
         "stdc_trailing_zeros_us.cpp": 0.0,
         "stdc_trailing_zeros_us.h": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.5452678902842006
 }

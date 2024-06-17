@@ -18,5 +18,6 @@
         "SanitizerUtils.cmake": 3.710566590401454,
         "UseLibtool.cmake": 0.37548817224670683
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 54.32912904521034
 }

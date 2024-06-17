@@ -18,5 +18,6 @@
         "tsan_unit_test_main.cpp": 4.421311619753021,
         "tsan_vector_clock_test.cpp": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 60.744915947674215
 }

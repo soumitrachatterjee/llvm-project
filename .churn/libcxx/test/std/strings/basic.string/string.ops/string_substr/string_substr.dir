@@ -8,5 +8,6 @@
         "substr.pass.cpp": 90.34625392275186,
         "substr_rvalue.pass.cpp": 9.653746077248135
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 14.514476138000484
 }

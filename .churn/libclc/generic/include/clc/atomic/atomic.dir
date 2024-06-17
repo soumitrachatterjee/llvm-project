@@ -18,5 +18,6 @@
         "atomic_xchg.h": 7.587651346890764,
         "atomic_xor.h": 7.587651921596922
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 2.0665081932730573
 }

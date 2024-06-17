@@ -10,5 +10,6 @@
         "lower-to-llvm-transform-symbol-def.mlir": 0.0,
         "transform-e2e.mlir": 81.73661995270544
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.4616794920852027
 }

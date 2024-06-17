@@ -18,5 +18,6 @@
         "debug.swap.pass.cpp": 4.752871398175521,
         "missing_hash_specialization.verify.cpp": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 32.03636926005469
 }

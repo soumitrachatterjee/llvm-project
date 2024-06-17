@@ -8,5 +8,6 @@
         "ArithToLLVM.cpp": 92.12768252069255,
         "CMakeLists.txt": 7.872317479307467
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.8150575392883986
 }

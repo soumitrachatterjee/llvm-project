@@ -7,5 +7,6 @@
     "filescores": {
         "x86_64-pc-linux-gnu_gcc-4.3.3.supp": 100.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.1304709707062573
 }

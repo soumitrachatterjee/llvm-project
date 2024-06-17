@@ -10,5 +10,6 @@
         "omp_single_nowait.c": 37.855308184535765,
         "omp_single_private.c": 20.714897271821407
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 6.936479305165492
 }

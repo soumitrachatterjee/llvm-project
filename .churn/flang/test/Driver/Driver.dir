@@ -158,5 +158,6 @@
         "Inputs": 0.7126134290670956,
         "input-from-stdin": 0.35056748486901795,
         "supported-suffices": 0.4890473035343984
-    }
+    },
+    "score.percentage": 8.485108068974208
 }

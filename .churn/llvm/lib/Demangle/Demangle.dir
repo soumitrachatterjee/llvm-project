@@ -13,5 +13,6 @@
         "MicrosoftDemangleNodes.cpp": 11.103319908464819,
         "RustDemangle.cpp": 10.333810514837488
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.10308649366123222
 }

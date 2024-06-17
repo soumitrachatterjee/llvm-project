@@ -14,5 +14,6 @@
         "set_log_dest.cpp": 0.0,
         "set_log_level.cpp": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 3.086353523089843
 }

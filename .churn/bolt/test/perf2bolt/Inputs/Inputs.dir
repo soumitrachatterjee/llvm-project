@@ -8,5 +8,6 @@
         "perf_test.c": 100.0,
         "perf_test.lds": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 100.0
 }

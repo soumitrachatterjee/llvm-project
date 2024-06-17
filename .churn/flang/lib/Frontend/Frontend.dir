@@ -19,5 +19,6 @@
         "TextDiagnosticBuffer.cpp": 0.7156444041279736,
         "TextDiagnosticPrinter.cpp": 1.388824498791207
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 4.891159772479016
 }

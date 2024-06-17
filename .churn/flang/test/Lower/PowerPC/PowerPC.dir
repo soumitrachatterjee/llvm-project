@@ -37,5 +37,6 @@
         "ppc-vec-store.f90": 4.7047774542345415,
         "ppc-vector-types.f90": 4.675613616746732
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.7043850753483282
 }

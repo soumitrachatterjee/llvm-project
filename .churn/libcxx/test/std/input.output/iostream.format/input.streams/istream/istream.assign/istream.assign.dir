@@ -8,5 +8,6 @@
         "member_swap.pass.cpp": 36.56439612958354,
         "move_assign.pass.cpp": 63.43560387041644
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 31.807390293651768
 }

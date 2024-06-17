@@ -11,5 +11,6 @@
         "gtest.h": 25.42197301528758,
         "raw-ostream.h": 8.518135482314335
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 13.754944775481057
 }

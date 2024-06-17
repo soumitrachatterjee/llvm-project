@@ -66,5 +66,6 @@
     "subdirscores": {
         "unord.multiset.cnstr": 13.204654719478704,
         "unord.multiset.swap": 5.6366553865634845
-    }
+    },
+    "score.percentage": 23.649539465046303
 }

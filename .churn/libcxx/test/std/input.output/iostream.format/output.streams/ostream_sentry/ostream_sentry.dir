@@ -8,5 +8,6 @@
         "construct.pass.cpp": 52.8158833015201,
         "destruct.pass.cpp": 47.18411669847989
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 5.403855124040943
 }

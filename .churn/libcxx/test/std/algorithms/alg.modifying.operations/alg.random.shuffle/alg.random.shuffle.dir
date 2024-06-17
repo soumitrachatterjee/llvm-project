@@ -10,5 +10,6 @@
         "random_shuffle_urng.pass.cpp": 19.873638839976987,
         "ranges_shuffle.pass.cpp": 7.93567539984316
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 4.418537322127674
 }

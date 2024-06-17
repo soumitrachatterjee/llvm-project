@@ -13,5 +13,6 @@
         "strong_order_long_double.verify.cpp": 25.91504961423481,
         "weak_order.pass.cpp": 14.87090809830576
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 9.659641259670016
 }

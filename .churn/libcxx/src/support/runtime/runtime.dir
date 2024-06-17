@@ -17,5 +17,6 @@
         "stdexcept_default.ipp": 6.4862044887647645,
         "stdexcept_vcruntime.ipp": 7.352669330287499
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 25.828222659571715
 }

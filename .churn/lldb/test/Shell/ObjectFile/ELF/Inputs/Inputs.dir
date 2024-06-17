@@ -9,5 +9,6 @@
         "netbsd-amd64.core": 33.333333333333336,
         "PT_LOAD-overlap-section.elf": 33.333333333333336
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 2.7198693272407986
 }

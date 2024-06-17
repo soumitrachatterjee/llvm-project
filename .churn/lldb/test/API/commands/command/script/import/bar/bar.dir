@@ -8,5 +8,6 @@
         "bar.py": 100.0,
         "barutil.py": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 18.64579419168789
 }

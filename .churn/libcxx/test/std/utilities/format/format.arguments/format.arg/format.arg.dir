@@ -12,5 +12,6 @@
         "visit_format_arg.deprecated.verify.cpp": 7.600315409032926,
         "visit_format_arg.pass.cpp": 40.802522752746754
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 36.91440277837038
 }

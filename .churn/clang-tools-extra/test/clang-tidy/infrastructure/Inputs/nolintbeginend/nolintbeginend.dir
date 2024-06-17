@@ -10,5 +10,6 @@
         "error_in_include.inc": 20.91339172768617,
         "nolint_in_include.inc": 20.91339172768617
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 28.916426927068372
 }

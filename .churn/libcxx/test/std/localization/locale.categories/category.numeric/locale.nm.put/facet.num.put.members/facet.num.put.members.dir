@@ -16,5 +16,6 @@
         "put_unsigned_long.pass.cpp": 8.818571738481502,
         "put_unsigned_long_long.pass.cpp": 8.824410908137834
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 70.03296685887199
 }

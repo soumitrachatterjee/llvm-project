@@ -21,5 +21,6 @@
         "lldb-server": null,
         "lldb-test": null,
         "lldb-vscode": 89.77686203129703
-    }
+    },
+    "score.percentage": 5.557106878677803
 }

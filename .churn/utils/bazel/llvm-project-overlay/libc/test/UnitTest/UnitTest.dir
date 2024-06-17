@@ -7,5 +7,6 @@
     "filescores": {
         "BUILD.bazel": 100.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 17.317726640555435
 }

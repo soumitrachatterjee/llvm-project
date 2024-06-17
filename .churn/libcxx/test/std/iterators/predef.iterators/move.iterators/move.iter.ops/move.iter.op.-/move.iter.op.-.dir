@@ -8,5 +8,6 @@
         "difference_type.pass.cpp": 100.0,
         "sentinel.pass.cpp": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 4.206312582920624
 }

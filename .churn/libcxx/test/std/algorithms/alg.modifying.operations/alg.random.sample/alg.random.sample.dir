@@ -10,5 +10,6 @@
         "sample.stable.pass.cpp": 33.03999595125171,
         "sample.verify.cpp": 8.370532595992318
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 8.445320980687676
 }

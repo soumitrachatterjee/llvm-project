@@ -17,5 +17,6 @@
         "test-wide-int-emulation-sitofp-i32.mlir": 0.0,
         "test-wide-int-emulation-uitofp-i32.mlir": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 100.0
 }

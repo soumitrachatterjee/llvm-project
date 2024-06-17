@@ -14,5 +14,6 @@
         "iterator.verify.cpp": 0.0,
         "types.pass.cpp": 18.971752940971342
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 51.47735543513311
 }

@@ -36,5 +36,6 @@
         "YAML.cpp": 1.0255658593086865,
         "yaml2obj.cpp": 0.8071868754397143
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.3037210419904653
 }

@@ -23,5 +23,6 @@
         "vector_unit.ll": 5.402115755728126,
         "vsr_load_32_64.ll": 5.660728698740801
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 2.3989956186584465
 }

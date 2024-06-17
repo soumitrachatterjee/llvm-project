@@ -16,5 +16,6 @@
         "select-vec.ll": 33.33267490286176,
         "trunc-vNi1.ll": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.3775210748250501
 }

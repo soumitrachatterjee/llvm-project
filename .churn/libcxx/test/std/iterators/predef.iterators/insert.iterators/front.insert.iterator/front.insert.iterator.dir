@@ -9,5 +9,6 @@
         "iterator_concept_conformance.compile.pass.cpp": 40.511432688459905,
         "types.pass.cpp": 59.488567311540095
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 21.45556705567774
 }

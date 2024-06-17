@@ -10,5 +10,6 @@
         "deduplication.mlir": 33.48021344021505,
         "symbol-rename-listener.mlir": 10.481456918243646
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 100.0
 }

@@ -10,5 +10,6 @@
         "main.c": 0.0,
         "TestAArch64LinuxMTEMemoryTagCoreFile.py": 100.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 13.07573097324819
 }

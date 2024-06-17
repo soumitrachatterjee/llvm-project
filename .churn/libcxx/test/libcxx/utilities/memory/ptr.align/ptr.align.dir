@@ -8,5 +8,6 @@
         "assume_aligned.const_eval.verify.cpp": 0.0,
         "assume_aligned.power2.verify.cpp": 100.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 9.162953065704853
 }

@@ -12,5 +12,6 @@
         "DependencyScanningWorker.cpp": 27.74032229141553,
         "ModuleDepCollector.cpp": 37.43768248136948
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 21.230111255419335
 }

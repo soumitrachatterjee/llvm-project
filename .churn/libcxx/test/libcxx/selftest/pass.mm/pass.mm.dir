@@ -12,5 +12,6 @@
         "run-success.pass.mm": 16.666666666666664,
         "use-objective-cxx.pass.mm": 16.666666666666664
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 2.8494396053691275
 }

@@ -10,5 +10,6 @@
     "subdirscores": {
         "re.submatch.members": 36.92505810020798,
         "re.submatch.op": 35.736550037031456
-    }
+    },
+    "score.percentage": 2.929425804991472
 }

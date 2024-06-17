@@ -8,5 +8,6 @@
         "incrementable_traits.compile.pass.cpp": 55.37237899620222,
         "iter_difference_t.compile.pass.cpp": 44.62762100379777
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 48.72801202202762
 }

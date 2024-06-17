@@ -39,5 +39,6 @@
         "ubsan_win_weak_interception.cpp": 0.0,
         "weak_symbols.txt": 0.6982398988550867
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 2.238826065839108
 }

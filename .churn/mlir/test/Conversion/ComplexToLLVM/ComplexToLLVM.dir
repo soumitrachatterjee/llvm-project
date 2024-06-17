@@ -8,5 +8,6 @@
         "convert-to-llvm.mlir": 74.16413541626167,
         "full-conversion.mlir": 25.835864583738328
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 1.080225941441707
 }

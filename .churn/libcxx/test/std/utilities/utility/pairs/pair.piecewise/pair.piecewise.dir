@@ -9,5 +9,6 @@
         "piecewise_construct_t.pass.cpp": 11.794869900275094,
         "piecewise_construct_t.verify.cpp": 11.688111692531923
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 13.918593542796373
 }

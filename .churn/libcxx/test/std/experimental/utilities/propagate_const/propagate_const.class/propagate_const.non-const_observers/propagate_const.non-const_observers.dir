@@ -11,5 +11,6 @@
         "operator_element_type_ptr.pass.cpp": 18.953902319967423,
         "op_arrow.pass.cpp": 18.953902319967423
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 19.04985717106541
 }

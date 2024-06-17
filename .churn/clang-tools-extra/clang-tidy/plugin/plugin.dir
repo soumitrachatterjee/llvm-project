@@ -8,5 +8,6 @@
         "ClangTidyPlugin.cpp": 54.649834935459786,
         "CMakeLists.txt": 45.350165064540214
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.6158187754210542
 }

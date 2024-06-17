@@ -9,5 +9,6 @@
         "rpc_host_call.cpp": 27.435840029989983,
         "rpc_host_call.h": 35.73686713788836
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.1433258934118813
 }

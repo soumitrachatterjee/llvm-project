@@ -17,5 +17,6 @@
     "subdirscores": {
         "compressed_pair": 12.034458374246954,
         "trivial_abi": 21.628554768681493
-    }
+    },
+    "score.percentage": 2.464591659858945
 }

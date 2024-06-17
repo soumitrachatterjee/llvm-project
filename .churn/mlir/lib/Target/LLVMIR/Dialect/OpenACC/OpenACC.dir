@@ -8,5 +8,6 @@
         "CMakeLists.txt": 16.30286410302839,
         "OpenACCToLLVMIRTranslation.cpp": 83.6971358969716
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 6.738934843134612
 }

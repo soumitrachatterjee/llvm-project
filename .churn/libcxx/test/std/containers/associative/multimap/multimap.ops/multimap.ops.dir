@@ -33,5 +33,6 @@
         "upper_bound2.compile.fail.cpp": 1.5486485725511872,
         "upper_bound3.compile.fail.cpp": 1.5486485725511872
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 10.093057151722098
 }

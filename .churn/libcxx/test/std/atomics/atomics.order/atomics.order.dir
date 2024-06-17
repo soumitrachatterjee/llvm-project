@@ -9,5 +9,6 @@
         "memory_order.pass.cpp": 51.52688336273164,
         "memory_order_new.pass.cpp": 17.148394046462872
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 4.732080390599382
 }

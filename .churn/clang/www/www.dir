@@ -28,5 +28,6 @@
     },
     "subdirscores": {
         "analyzer": 9.614907199739163
-    }
+    },
+    "score.percentage": 0.8894396906469629
 }

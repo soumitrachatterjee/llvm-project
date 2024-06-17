@@ -18,5 +18,6 @@
         "vprint_unicode.file.pass.cpp": 11.490481531601047,
         "vprint_unicode.sh.cpp": 10.122853549250435
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 4.7188852144885605
 }

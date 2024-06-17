@@ -8,5 +8,6 @@
         "three_way_comparable.compile.pass.cpp": 79.12193401944094,
         "three_way_comparable_with.compile.pass.cpp": 20.87806598055906
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 11.700468385886108
 }

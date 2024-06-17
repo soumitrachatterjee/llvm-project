@@ -9,5 +9,6 @@
         "pdl-to-pdl-interp-rewriter.mlir": 45.79546374330471,
         "use-constraint-result.mlir": 7.033067573036086
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 1.3277339318825265
 }

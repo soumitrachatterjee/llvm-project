@@ -9,5 +9,6 @@
         "lock-nested.c": 33.33333333333333,
         "lock.c": 33.33333333333333
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 4.290061319810296
 }

@@ -10,5 +10,6 @@
         "ostream.pass.cpp": 25.280478777057304,
         "streambuf.pass.cpp": 24.1585636688281
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 18.14563040463564
 }

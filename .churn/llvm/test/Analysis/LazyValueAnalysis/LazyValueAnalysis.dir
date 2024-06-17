@@ -11,5 +11,6 @@
         "pr60629.ll": 10.31578881199183,
         "print.ll": 0.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 0.3618688938043489
 }

@@ -10,5 +10,6 @@
         "MemRefToSPIRV.cpp": 54.31858256310751,
         "MemRefToSPIRVPass.cpp": 19.121622880827584
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 1.7771611556525104
 }

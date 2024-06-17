@@ -17,5 +17,6 @@
         "Unix.h": 3.373632070699279,
         "Watchdog.inc": 0.7825091885146327
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 9.645358747885007
 }

@@ -17,5 +17,6 @@
         "syscalls.cpp": 3.32518762652872,
         "vfork.c": 10.745292065546705
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 7.969394578268382
 }

@@ -8,5 +8,6 @@
         "erase.pass.cpp": 50.0,
         "erase_if.pass.cpp": 50.0
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 1.03191575275366
 }

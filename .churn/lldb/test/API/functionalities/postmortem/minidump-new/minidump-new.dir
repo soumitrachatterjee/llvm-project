@@ -42,5 +42,6 @@
         "TestMiniDumpNew.py": 37.89834834206447,
         "TestMiniDumpUUID.py": 34.792959681297035
     },
-    "subdirscores": {}
+    "subdirscores": {},
+    "score.percentage": 20.007989532582922
 }
