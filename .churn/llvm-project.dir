@@ -1,6 +1,7 @@
 {
     "directory_name": "llvm-project",
     "score.sum": 1.7136231853480717,
+     "score.percentage": 100.0,
     "sha.latest": "ec6a56307d2afdaa336786ad4c87410e3987499d",
     "time.latest": 1718085889.8128564,
     "formatted_time": "2024-06-11 11:34:49.812872",
