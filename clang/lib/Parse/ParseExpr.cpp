@@ -1486,6 +1486,7 @@ ExprResult Parser::ParseCastExpression(CastParseKind ParseKind,
   // unary-expression: '__datasizeof' unary-expression
   // unary-expression: '__datasizeof' '(' type-name ')'
   case tok::kw___datasizeof:
+  case tok::kw___nameof:
   case tok::kw_vec_step:   // unary-expression: OpenCL 'vec_step' expression
   // unary-expression: '__builtin_omp_required_simd_align' '(' type-name ')'
   case tok::kw___builtin_omp_required_simd_align:
@@ -2509,7 +2510,7 @@ ExprResult Parser::ParseSYCLUniqueStableNameExpression() {
 /// [C++11] 'alignof' '(' type-id ')'
 /// \endverbatim
 ExprResult Parser::ParseUnaryExprOrTypeTraitExpression() {
-  assert(Tok.isOneOf(tok::kw_sizeof, tok::kw___datasizeof, tok::kw___alignof,
+  assert(Tok.isOneOf(tok::kw_sizeof, tok::kw___datasizeof, tok::kw___nameof, tok::kw___alignof,
                      tok::kw_alignof, tok::kw__Alignof, tok::kw_vec_step,
                      tok::kw___builtin_omp_required_simd_align,
                      tok::kw___builtin_vectorelements) &&
@@ -2599,6 +2600,9 @@ ExprResult Parser::ParseUnaryExprOrTypeTraitExpression() {
     break;
   case tok::kw___datasizeof:
     ExprKind = UETT_DataSizeOf;
+    break;
+  case tok::kw___nameof:
+    ExprKind = UETT_nameof;
     break;
   case tok::kw___builtin_vectorelements:
     ExprKind = UETT_VectorElements;
