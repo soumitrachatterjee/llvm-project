@@ -2602,7 +2602,7 @@ ExprResult Parser::ParseUnaryExprOrTypeTraitExpression() {
     ExprKind = UETT_DataSizeOf;
     break;
   case tok::kw___nameof:
-    ExprKind = UETT_nameof;
+    ExprKind = UETT_NameOf;
     break;
   case tok::kw___builtin_vectorelements:
     ExprKind = UETT_VectorElements;
