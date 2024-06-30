@@ -1,15 +1,15 @@
 {
     "directory name": "llvm-project/pstl/test/std",
-    "score.sum": 3.671474372322582e-05,
+    "score.sum": 0.0019093438062480037,
     "sha.latest": "f98ee40f4b5d7474fc67e82824bf6abbaedb7b1c",
     "time.latest": 1717792059.429457,
     "formatted_time": "2024-06-07 15:27:39.429457",
     "filescores": {
-        "lit.local.cfg": 6.173961986480602e-06
+        "lit.local.cfg": 0.020321217427130753
     },
     "subdirscores": {
-        "algorithms": 4.086535101305295e-05,
-        "numerics": 2.6140969232661835e-05,
-        "utilities": 1.3180537629176497e-05
+        "algorithms": 0.0021251954101905884,
+        "numerics": 0.0013594565188842108,
+        "utilities": 0.0006854515470679076
     }
 }

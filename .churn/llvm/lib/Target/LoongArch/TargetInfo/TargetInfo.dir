@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/llvm/lib/Target/LoongArch/TargetInfo",
-    "score.sum": 2.2385059834422447e-05,
+    "score.sum": 0.0011641311095495284,
     "sha.latest": "f10d452db841f5367f84f6db4841233365a2d03e",
     "time.latest": 1717858672.2550237,
     "formatted_time": "2024-06-08 09:57:52.255027",
     "filescores": {
-        "CMakeLists.txt": 6.099602068851199e-06,
-        "LoongArchTargetInfo.cpp": 1.829118767458285e-05,
-        "LoongArchTargetInfo.h": 6.099602068851199e-06
+        "CMakeLists.txt": 0.02007646631636598,
+        "LoongArchTargetInfo.cpp": 0.06020432301811681,
+        "LoongArchTargetInfo.h": 0.02007646631636598
     },
     "subdirscores": {}
 }

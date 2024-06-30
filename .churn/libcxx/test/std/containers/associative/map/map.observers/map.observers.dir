@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/libcxx/test/std/containers/associative/map/map.observers",
-    "score.sum": 0,
+    "score.sum": 0.0,
     "sha.latest": "56c8ad237aa4088e61be09ca30830ee704f10018",
     "time.latest": 1717876811.4021401,
     "formatted_time": "2024-06-09 01:30:11.402143",
     "filescores": {
-        "key_comp.pass.cpp": 0,
-        "value_comp.pass.cpp": 0
+        "key_comp.pass.cpp": 0.0,
+        "value_comp.pass.cpp": 0.0
     },
     "subdirscores": {}
 }

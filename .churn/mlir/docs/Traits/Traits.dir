@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/mlir/docs/Traits",
-    "score.sum": 6.966768901992623e-06,
+    "score.sum": 0.0003623055945278456,
     "sha.latest": "777a6e6f10b2b90496d248b7fa904fce834484be",
     "time.latest": 1717788395.8700037,
     "formatted_time": "2024-06-07 14:26:35.870007",
     "filescores": {
-        "Broadcastable.md": 6.099602068851199e-06,
-        "_index.md": 6.099602068851199e-06
+        "Broadcastable.md": 0.02007646631636598,
+        "_index.md": 0.02007646631636598
     },
     "subdirscores": {}
 }

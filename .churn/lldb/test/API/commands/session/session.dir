@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/lldb/test/API/commands/session",
-    "score.sum": 2.3852016207957656e-05,
+    "score.sum": 0.001240419918398645,
     "sha.latest": "9c2468821ec51defd09c246fea4a47886fff8c01",
     "time.latest": 1717897492.7054658,
     "formatted_time": "2024-06-09 07:14:52.705469",
     "filescores": {},
     "subdirscores": {
-        "history": 1.0186753324445046e-05,
-        "save": 2.384709101688794e-05
+        "history": 0.0005297603195171233,
+        "save": 0.0012401637847011193
     }
 }

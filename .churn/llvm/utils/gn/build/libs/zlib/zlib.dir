@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/llvm/utils/gn/build/libs/zlib",
-    "score.sum": 1.8297759930117393e-05,
+    "score.sum": 0.0009515717950846409,
     "sha.latest": "1502941c1c025fc5cdef63a1f6e54a68c2cf49d6",
     "time.latest": 1718080349.690588,
     "formatted_time": "2024-06-10 23:32:29.690592",
     "filescores": {
-        "BUILD.gn": 1.8297759930117393e-05,
-        "enable.gni": 6.099602068851199e-06
+        "BUILD.gn": 0.060225955194342796,
+        "enable.gni": 0.02007646631636598
     },
     "subdirscores": {}
 }

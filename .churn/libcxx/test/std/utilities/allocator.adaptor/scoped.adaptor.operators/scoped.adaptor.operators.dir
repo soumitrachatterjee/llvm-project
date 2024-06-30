@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/libcxx/test/std/utilities/allocator.adaptor/scoped.adaptor.operators",
-    "score.sum": 2.0954536792318884e-05,
+    "score.sum": 0.0010897370097098058,
     "sha.latest": "4d3b502704809c9605b9568c6feb2a2f0ca51907",
     "time.latest": 1717987957.8130488,
     "formatted_time": "2024-06-10 08:22:37.813051",
     "filescores": {
-        "copy_assign.pass.cpp": 1.7652971925590014e-05,
-        "eq.pass.cpp": 2.0386900564078108e-05,
-        "move_assign.pass.cpp": 1.7652971925590014e-05
+        "copy_assign.pass.cpp": 0.05810367500164019,
+        "eq.pass.cpp": 0.06710223353093324,
+        "move_assign.pass.cpp": 0.05810367500164019
     },
     "subdirscores": {}
 }

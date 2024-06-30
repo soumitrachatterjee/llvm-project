@@ -1,15 +1,15 @@
 {
     "directory name": "llvm-project/libcxx/test/std/time/time.duration/time.duration.literals",
-    "score.sum": 0,
+    "score.sum": 0.0,
     "sha.latest": "7738db2c06b177fe916ac1bcf3633449b3c1fca9",
     "time.latest": 1717984479.4876487,
     "formatted_time": "2024-06-10 07:24:39.487651",
     "filescores": {
-        "literals.pass.cpp": 0,
-        "literals1.compile.fail.cpp": 0,
-        "literals1.pass.cpp": 0,
-        "literals2.compile.fail.cpp": 0,
-        "literals2.pass.cpp": 0
+        "literals.pass.cpp": 0.0,
+        "literals1.compile.fail.cpp": 0.0,
+        "literals1.pass.cpp": 0.0,
+        "literals2.compile.fail.cpp": 0.0,
+        "literals2.pass.cpp": 0.0
     },
     "subdirscores": {}
 }

@@ -1,23 +1,23 @@
 {
     "directory name": "llvm-project/libc/utils/HdrGen",
-    "score.sum": 0.00014229177651906648,
+    "score.sum": 0.007399858874810473,
     "sha.latest": "6cfbf8ccce8295b5d130c48a76a134da5f6194ae",
     "time.latest": 1717851859.5439653,
     "formatted_time": "2024-06-08 08:04:19.543969",
     "filescores": {
-        "CMakeLists.txt": 4.699997812760499e-05,
-        "Command.cpp": 6.099602068851199e-06,
-        "Command.h": 7.913262606555154e-06,
-        "Generator.cpp": 2.458649579745311e-05,
-        "Generator.h": 2.0438150514444475e-05,
-        "IncludeFileCommand.cpp": 6.099602068851199e-06,
-        "IncludeFileCommand.h": 6.099602068851199e-06,
-        "Main.cpp": 2.137614099191959e-05,
-        "PublicAPICommand.cpp": 2.7659113790714753e-05,
-        "PublicAPICommand.h": 9.677953872411824e-06,
-        "README.md": 0
+        "CMakeLists.txt": 0.15469754700350738,
+        "Command.cpp": 0.02007646631636598,
+        "Command.h": 0.026046018802499467,
+        "Generator.cpp": 0.08092494381490163,
+        "Generator.h": 0.06727091960104595,
+        "IncludeFileCommand.cpp": 0.02007646631636598,
+        "IncludeFileCommand.h": 0.02007646631636598,
+        "Main.cpp": 0.07035825776073805,
+        "PublicAPICommand.cpp": 0.09103827759446008,
+        "PublicAPICommand.h": 0.03185439193206485,
+        "README.md": 0.0
     },
     "subdirscores": {
-        "PrototypeTestGen": 5.508026504716225e-05
+        "PrototypeTestGen": 0.002864439520730433
     }
 }

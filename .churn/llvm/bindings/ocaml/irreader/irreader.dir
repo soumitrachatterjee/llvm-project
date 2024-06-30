@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/llvm/bindings/ocaml/irreader",
-    "score.sum": 2.7249967079595792e-05,
+    "score.sum": 0.0014171297573561496,
     "sha.latest": "30f423a543641816e367cd17dad3d4808cba8a79",
     "time.latest": 1717788361.8235006,
     "formatted_time": "2024-06-07 14:26:01.823504",
     "filescores": {
-        "CMakeLists.txt": 1.050285918943838e-05,
-        "irreader_ocaml.c": 2.049673578264377e-05,
-        "llvm_irreader.ml": 7.245551900112226e-06,
-        "llvm_irreader.mli": 6.099602068851199e-06
+        "CMakeLists.txt": 0.0345695172180319,
+        "irreader_ocaml.c": 0.0674637494201656,
+        "llvm_irreader.ml": 0.02384828994155705,
+        "llvm_irreader.mli": 0.02007646631636598
     },
     "subdirscores": {}
 }

@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/lldb/test/API/lang/c/local_types",
-    "score.sum": 1.4193303790514982e-05,
+    "score.sum": 0.0007381202736129312,
     "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
     "time.latest": 1717926073.592446,
     "formatted_time": "2024-06-09 15:11:13.592448",
     "filescores": {
-        "main.c": 0,
-        "other.c": 0,
-        "TestUseClosestType.py": 1.4193303790514982e-05
+        "main.c": 0.0,
+        "other.c": 0.0,
+        "TestUseClosestType.py": 0.046716389405693066
     },
     "subdirscores": {}
 }

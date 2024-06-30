@@ -1,28 +1,28 @@
 {
     "directory name": "llvm-project/libc/cmake/modules",
-    "score.sum": 0.0012962032172909538,
+    "score.sum": 0.06740882091484116,
     "sha.latest": "6bec4fc76de50a090d1d0b36498da66c4a324851",
     "time.latest": 1717824883.1341388,
     "formatted_time": "2024-06-08 00:34:43.134140",
     "filescores": {
-        "CheckCompilerFeatures.cmake": 2.5133465570690773e-05,
-        "LLVMLibCArchitectures.cmake": 7.810036425157786e-05,
-        "LLVMLibCCheckCpuFeatures.cmake": 8.079170123609367e-05,
-        "LLVMLibCCheckMPFR.cmake": 9.738194221972239e-06,
-        "LLVMLibCCompileOptionRules.cmake": 1.5841994484493524e-05,
-        "LLVMLibCFlagRules.cmake": 3.120448354873189e-05,
-        "LLVMLibCHeaderRules.cmake": 6.542869853054046e-05,
-        "LLVMLibCLibraryRules.cmake": 0.00010525380327493625,
-        "LLVMLibCObjectRules.cmake": 0.0004511982055454825,
-        "LLVMLibCRules.cmake": 2.44718290872585e-05,
-        "LLVMLibCTargetNameUtils.cmake": 0,
-        "LLVMLibCTestRules.cmake": 0.0004828005351907386,
-        "LibcConfig.cmake": 6.099602068851199e-06,
-        "prepare_libc_gpu_build.cmake": 8.431350201717856e-05
+        "CheckCompilerFeatures.cmake": 0.08272526129537368,
+        "LLVMLibCArchitectures.cmake": 0.2570625615398597,
+        "LLVMLibCCheckCpuFeatures.cmake": 0.2659209322508851,
+        "LLVMLibCCheckMPFR.cmake": 0.03205266935003149,
+        "LLVMLibCCompileOptionRules.cmake": 0.05214295376352178,
+        "LLVMLibCFlagRules.cmake": 0.10270764482898519,
+        "LLVMLibCHeaderRules.cmake": 0.21535455056651906,
+        "LLVMLibCLibraryRules.cmake": 0.3464364416344057,
+        "LLVMLibCObjectRules.cmake": 1.4850912360164383,
+        "LLVMLibCRules.cmake": 0.08054752536713326,
+        "LLVMLibCTargetNameUtils.cmake": 0.0,
+        "LLVMLibCTestRules.cmake": 1.589108366884973,
+        "LibcConfig.cmake": 0.02007646631636598,
+        "prepare_libc_gpu_build.cmake": 0.27751272364256824
     },
     "subdirscores": {
-        "compiler_features": 3.5525780275419156e-05,
-        "cpu_features": 5.903196353912571e-05,
-        "system_features": 0
+        "compiler_features": 0.001847511970731504,
+        "cpu_features": 0.003069946907535831,
+        "system_features": 0.0
     }
 }

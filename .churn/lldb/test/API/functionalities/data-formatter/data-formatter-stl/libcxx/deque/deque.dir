@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/lldb/test/API/functionalities/data-formatter/data-formatter-stl/libcxx/deque",
-    "score.sum": 2.0538132331462722e-05,
+    "score.sum": 0.0010680819687752072,
     "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
     "time.latest": 1717906323.1962457,
     "formatted_time": "2024-06-09 09:42:03.196247",
     "filescores": {
-        "main.cpp": 1.5027130470982454e-05,
-        "Makefile": 1.5027130470982454e-05,
-        "TestDataFormatterLibcxxDeque.py": 2.0538132331462722e-05
+        "main.cpp": 0.04946087881256438,
+        "Makefile": 0.04946087881256438,
+        "TestDataFormatterLibcxxDeque.py": 0.06760000362307854
     },
     "subdirscores": {}
 }

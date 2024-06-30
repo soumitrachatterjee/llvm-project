@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/lldb/examples/lookup",
-    "score.sum": 2.3540743115028877e-05,
+    "score.sum": 0.0012242322158093103,
     "sha.latest": "8b3af63b8993e45b1783853a3fcf6f36bfbed81b",
     "time.latest": 1717841448.5435429,
     "formatted_time": "2024-06-08 15:40:48.543545",
     "filescores": {
-        "main.cpp": 2.3540743115028877e-05,
-        "Makefile": 6.099602068851199e-06
+        "main.cpp": 0.07748291296322452,
+        "Makefile": 0.02007646631636598
     },
     "subdirscores": {}
 }

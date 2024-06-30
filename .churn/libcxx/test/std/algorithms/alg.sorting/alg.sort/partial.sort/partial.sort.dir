@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/libcxx/test/std/algorithms/alg.sorting/alg.sort/partial.sort",
-    "score.sum": 4.281123484340163e-05,
+    "score.sum": 0.002226390757410295,
     "sha.latest": "02540b2f6dc6c2d42a3365bef78833d7fab98491",
     "time.latest": 1717872168.212005,
     "formatted_time": "2024-06-09 00:12:48.212007",
     "filescores": {
-        "partial_sort.pass.cpp": 2.4320392301084038e-05,
-        "partial_sort_comp.pass.cpp": 2.5488305337898114e-05,
-        "ranges_partial_sort.pass.cpp": 9.620753842648714e-06
+        "partial_sort.pass.cpp": 0.08004908046820841,
+        "partial_sort_comp.pass.cpp": 0.08389319463817732,
+        "ranges_partial_sort.pass.cpp": 0.03166612154034559
     },
     "subdirscores": {}
 }

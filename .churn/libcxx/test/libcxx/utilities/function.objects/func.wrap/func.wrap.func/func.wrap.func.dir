@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/libcxx/test/libcxx/utilities/function.objects/func.wrap/func.wrap.func",
-    "score.sum": 1.8327719477918695e-05,
+    "score.sum": 0.0009531298361120721,
     "sha.latest": "70248920fcd804a5825ecf69f24b96a7e340afe6",
     "time.latest": 1717866797.1092699,
     "formatted_time": "2024-06-08 22:43:17.109272",
     "filescores": {},
     "subdirscores": {
-        "func.wrap.func.con": 1.8327719477918695e-05
+        "func.wrap.func.con": 0.0009531298361120721
     }
 }

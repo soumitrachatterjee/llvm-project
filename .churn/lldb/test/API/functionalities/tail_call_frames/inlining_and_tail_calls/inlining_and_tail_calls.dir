@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/lldb/test/API/functionalities/tail_call_frames/inlining_and_tail_calls",
-    "score.sum": 9.80735579765098e-06,
+    "score.sum": 0.000510029817696085,
     "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
     "time.latest": 1717920669.647565,
     "formatted_time": "2024-06-09 13:41:09.647567",
     "filescores": {
-        "main.cpp": 6.567086391080576e-06,
-        "TestInliningAndTailCalls.py": 9.763805671702358e-06
+        "main.cpp": 0.021615162307141476,
+        "TestInliningAndTailCalls.py": 0.032136967866888154
     },
     "subdirscores": {}
 }

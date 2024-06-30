@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/lldb/tools/lldb-instr",
-    "score.sum": 2.7374127354756446e-05,
+    "score.sum": 0.001423586690683729,
     "sha.latest": "c4125a37806aa2f663018f4f8dc5bbd5159c51c1",
     "time.latest": 1717991638.4541688,
     "formatted_time": "2024-06-10 09:23:58.454172",
     "filescores": {
-        "CMakeLists.txt": 2.1683072517826094e-05,
-        "Instrument.cpp": 2.01126403867188e-05
+        "CMakeLists.txt": 0.07136850406397816,
+        "Instrument.cpp": 0.0661995229687487
     },
     "subdirscores": {}
 }

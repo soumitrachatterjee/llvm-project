@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/mlir/test/Unit",
-    "score.sum": 4.734126386315236e-05,
+    "score.sum": 0.002461974121853424,
     "sha.latest": "f9008e6366c2496b1ca1785b891d5578174ad63e",
     "time.latest": 1717830581.5769112,
     "formatted_time": "2024-06-08 02:09:41.576915",
     "filescores": {
-        "lit.cfg.py": 2.5145974455357176e-05,
-        "lit.site.cfg.py.in": 3.4872986557660625e-05
+        "lit.cfg.py": 0.08276643352248385,
+        "lit.site.cfg.py.in": 0.1147822976110668
     },
     "subdirscores": {}
 }

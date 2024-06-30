@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/compiler-rt/test/ubsan/TestCases/Misc/Inputs",
-    "score.sum": 6.099602068851199e-06,
+    "score.sum": 0.00031720873550238375,
     "sha.latest": "8f4976bb7b242ec5782763ab72ed40d8b1010d75",
     "time.latest": 1717864458.62556,
     "formatted_time": "2024-06-08 22:04:18.625563",
     "filescores": {
-        "no-interception-dso.c": 0,
-        "returns-unexpectedly.c": 0
+        "no-interception-dso.c": 0.0,
+        "returns-unexpectedly.c": 0.0
     },
     "subdirscores": {}
 }

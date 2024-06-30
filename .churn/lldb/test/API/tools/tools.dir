@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/lldb/test/API/tools",
-    "score.sum": 0.0010869102810828972,
+    "score.sum": 0.056524578484803,
     "sha.latest": "82c1bfc44ecee97425582f345d04e787f066b899",
     "time.latest": 1717970590.6529703,
     "formatted_time": "2024-06-10 03:33:10.652972",
     "filescores": {},
     "subdirscores": {
-        "lldb-dap": 9.602065198914772e-05,
-        "lldb-server": 0.000587777991769244
+        "lldb-dap": 0.004993537161241173,
+        "lldb-server": 0.030567291344690654
     }
 }

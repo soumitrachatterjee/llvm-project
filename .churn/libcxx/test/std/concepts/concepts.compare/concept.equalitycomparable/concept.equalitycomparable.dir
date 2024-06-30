@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/libcxx/test/std/concepts/concepts.compare/concept.equalitycomparable",
-    "score.sum": 1.6773207328535078e-05,
+    "score.sum": 0.0008722877045003716,
     "sha.latest": "72f0edf3f4291d2614719a8c8af21a7a62ed5d74",
     "time.latest": 1717874939.2085178,
     "formatted_time": "2024-06-09 00:58:59.208521",
     "filescores": {
-        "equality_comparable.compile.pass.cpp": 1.4046635737879002e-05,
-        "equality_comparable_with.compile.pass.cpp": 1.4070778641358388e-05
+        "equality_comparable.compile.pass.cpp": 0.04623364050089642,
+        "equality_comparable_with.compile.pass.cpp": 0.04631310538778771
     },
     "subdirscores": {}
 }

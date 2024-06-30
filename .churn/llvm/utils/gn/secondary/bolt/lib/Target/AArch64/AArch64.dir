@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/llvm/utils/gn/secondary/bolt/lib/Target/AArch64",
-    "score.sum": 0,
+    "score.sum": 0.0,
     "sha.latest": "6bb781fa9ad34ac60501297f9031a2960d93c97c",
     "time.latest": 1718080794.9091024,
     "formatted_time": "2024-06-10 23:39:54.909106",
     "filescores": {
-        "BUILD.gn": 0
+        "BUILD.gn": 0.0
     },
     "subdirscores": {}
 }

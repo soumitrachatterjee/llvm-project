@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/libcxx/test/std/utilities/memory/specialized.algorithms/specialized.addressof",
-    "score.sum": 4.9407104481778626e-05,
+    "score.sum": 0.002569407800802798,
     "sha.latest": "6900df37d26764b828dbc5c2f98a57abbce1583e",
     "time.latest": 1717998631.8534365,
     "formatted_time": "2024-06-10 11:20:31.853439",
     "filescores": {
-        "addressof.pass.cpp": 1.7366275644238228e-05,
-        "addressof.temp.compile.fail.cpp": 0,
-        "constexpr_addressof.pass.cpp": 3.350529884399539e-05
+        "addressof.pass.cpp": 0.057160031765472394,
+        "addressof.temp.compile.fail.cpp": 0.0,
+        "constexpr_addressof.pass.cpp": 0.11028063733802555
     },
     "subdirscores": {}
 }

@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/clang/test/ASTMerge/attr/Inputs",
-    "score.sum": 6.224783515789342e-06,
+    "score.sum": 0.00032371877468910173,
     "sha.latest": "4cb4db11ee1323c5d4bf66d21deb046970f4e516",
     "time.latest": 1717864410.440239,
     "formatted_time": "2024-06-08 22:03:30.440241",
     "filescores": {
-        "FormatAttr.cpp": 0
+        "FormatAttr.cpp": 0.0
     },
     "subdirscores": {}
 }

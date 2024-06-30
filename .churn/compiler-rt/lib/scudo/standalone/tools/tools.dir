@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/compiler-rt/lib/scudo/standalone/tools",
-    "score.sum": 7.998761579497964e-06,
+    "score.sum": 0.00041597419267310837,
     "sha.latest": "0fb2aeef5310eaba2915b30810464a744a80da15",
     "time.latest": 1717806626.512326,
     "formatted_time": "2024-06-08 06:00:26.512328",
     "filescores": {
-        "compute_size_class_config.cpp": 7.998761579497964e-06
+        "compute_size_class_config.cpp": 0.026327433431026788
     },
     "subdirscores": {}
 }

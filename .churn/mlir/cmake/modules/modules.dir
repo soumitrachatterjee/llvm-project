@@ -1,18 +1,18 @@
 {
     "directory name": "llvm-project/mlir/cmake/modules",
-    "score.sum": 0.0003524414162865542,
+    "score.sum": 0.018328654023160414,
     "sha.latest": "a24c58140fbd73d5b98f8fa88cf9a9dbf0613a41",
     "time.latest": 1717787918.0606003,
     "formatted_time": "2024-06-07 14:18:38.060604",
     "filescores": {
-        "AddMLIR.cmake": 0.0001568073165810463,
-        "AddMLIRPython.cmake": 5.7974603199516924e-05,
-        "CMakeLists.txt": 9.192753281633667e-05,
-        "FindLevelZero.cmake": 0,
-        "FindSyclRuntime.cmake": 6.099602068851199e-06,
-        "MLIRConfig.cmake.in": 6.496389948873195e-05,
-        "MLIRConfigVersion.cmake.in": 1.1641262391094303e-05,
-        "MLIRDetectPythonEnv.cmake": 3.006103110616483e-05
+        "AddMLIR.cmake": 0.5161216705554751,
+        "AddMLIRPython.cmake": 0.19081985270540752,
+        "CMakeLists.txt": 0.3025738392933243,
+        "FindLevelZero.cmake": 0.0,
+        "FindSyclRuntime.cmake": 0.02007646631636598,
+        "MLIRConfig.cmake.in": 0.21382469301164658,
+        "MLIRConfigVersion.cmake.in": 0.03831650157447089,
+        "MLIRDetectPythonEnv.cmake": 0.09894404120559543
     },
     "subdirscores": {}
 }

@@ -1,21 +1,21 @@
 {
     "directory name": "llvm-project/libclc/generic/lib/geometric",
-    "score.sum": 3.9586741005415655e-05,
+    "score.sum": 0.0020587015210573076,
     "sha.latest": "70a270da5f4a27b670cba1cb8148fcce5c094f4f",
     "time.latest": 1717828764.047431,
     "formatted_time": "2024-06-08 01:39:24.047434",
     "filescores": {
-        "cross.cl": 6.099602068851199e-06,
-        "distance.cl": 6.099602068851199e-06,
-        "distance.inc": 0,
-        "dot.cl": 6.471835410852377e-06,
-        "fast_distance.cl": 6.099602068851199e-06,
-        "fast_distance.inc": 0,
-        "fast_length.cl": 6.099602068851199e-06,
-        "fast_normalize.cl": 0,
-        "fast_normalize.inc": 0,
-        "length.cl": 1.2388526278468203e-05,
-        "normalize.cl": 1.2247143703127937e-05
+        "cross.cl": 0.02007646631636598,
+        "distance.cl": 0.02007646631636598,
+        "distance.inc": 0.0,
+        "dot.cl": 0.021301649544412604,
+        "fast_distance.cl": 0.02007646631636598,
+        "fast_distance.inc": 0.0,
+        "fast_length.cl": 0.02007646631636598,
+        "fast_normalize.cl": 0.0,
+        "fast_normalize.inc": 0.0,
+        "length.cl": 0.04077607485399867,
+        "normalize.cl": 0.04031072277373182
     },
     "subdirscores": {}
 }

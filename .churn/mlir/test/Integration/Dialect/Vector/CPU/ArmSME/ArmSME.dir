@@ -1,27 +1,27 @@
 {
     "directory name": "llvm-project/mlir/test/Integration/Dialect/Vector/CPU/ArmSME",
-    "score.sum": 0.0001327978096701418,
+    "score.sum": 0.006906126794413275,
     "sha.latest": "c1b8c6cf41df4a148e7a89c3a3c7e8049b0a47af",
     "time.latest": 1717827332.932603,
     "formatted_time": "2024-06-08 01:15:32.932606",
     "filescores": {
-        "lit.local.cfg": 6.314089596677071e-06,
-        "load-store-128-bit-tile.mlir": 3.0478141117603306e-05,
-        "test-load-vertical.mlir": 2.5052439736897286e-05,
-        "test-multi-tile-transpose.mlir": 1.104287977793096e-05,
-        "test-outerproduct-f16f16f32.mlir": 6.099602068851199e-06,
-        "test-outerproduct-f32.mlir": 2.7964965640824394e-05,
-        "test-outerproduct-f64.mlir": 2.7964965640824394e-05,
-        "test-outerproduct-i8i8i32.mlir": 6.099602068851199e-06,
-        "test-ssve.mlir": 7.668818970388455e-06,
-        "test-transfer-read-2d.mlir": 1.9589341675003515e-05,
-        "test-transfer-write-2d.mlir": 2.4285392147330716e-05,
-        "test-transpose.mlir": 2.4213718526956124e-05,
-        "tile_fill.mlir": 2.8207802113509727e-05,
-        "vector-load-store.mlir": 3.049988412788237e-05,
-        "vector-ops.mlir": 3.104233941027796e-05
+        "lit.local.cfg": 0.020782438866553624,
+        "load-store-128-bit-tile.mlir": 0.10031693324024595,
+        "test-load-vertical.mlir": 0.082458569730162,
+        "test-multi-tile-transpose.mlir": 0.03634696188288647,
+        "test-outerproduct-f16f16f32.mlir": 0.02007646631636598,
+        "test-outerproduct-f32.mlir": 0.09204497021099678,
+        "test-outerproduct-f64.mlir": 0.09204497021099678,
+        "test-outerproduct-i8i8i32.mlir": 0.02007646631636598,
+        "test-ssve.mlir": 0.02524144755795679,
+        "test-transfer-read-2d.mlir": 0.06447711733628941,
+        "test-transfer-write-2d.mlir": 0.07993387960756793,
+        "test-transpose.mlir": 0.07969797027955276,
+        "tile_fill.mlir": 0.09284425157545641,
+        "vector-load-store.mlir": 0.10038849902577697,
+        "vector-ops.mlir": 0.10217395733637148
     },
     "subdirscores": {
-        "Emulated": 6.099602068851199e-06
+        "Emulated": 0.00031720873550238375
     }
 }

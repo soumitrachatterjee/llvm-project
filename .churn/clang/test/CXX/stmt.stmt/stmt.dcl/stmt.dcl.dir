@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/clang/test/CXX/stmt.stmt/stmt.dcl",
-    "score.sum": 1.123254242351919e-05,
+    "score.sum": 0.0005841463981456862,
     "sha.latest": "1a88adbb27a21e7728253c2f932b41009e314985",
     "time.latest": 1718111723.389896,
     "formatted_time": "2024-06-11 18:45:23.389897",
     "filescores": {
-        "p3-0x.cpp": 6.9010278404688e-06,
-        "p3.cpp": 1.069332463678082e-05
+        "p3-0x.cpp": 0.022714310117868057,
+        "p3.cpp": 0.03519642256281323
     },
     "subdirscores": {}
 }

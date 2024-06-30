@@ -1,17 +1,17 @@
 {
     "directory name": "llvm-project/mlir/lib/Dialect/Affine",
-    "score.sum": 0.0015460838002134883,
+    "score.sum": 0.08040381679174176,
     "sha.latest": "fab2bb8bfda865bd438dee981d7be7df8017b76d",
     "time.latest": 1717804949.7122333,
     "formatted_time": "2024-06-07 19:02:29.712234",
     "filescores": {
-        "CMakeLists.txt": 1.3276806957114294e-05
+        "CMakeLists.txt": 0.043699796257955066
     },
     "subdirscores": {
-        "Analysis": 0.00022942846746995863,
-        "IR": 0.000653339968472079,
-        "TransformOps": 3.481483890934563e-05,
-        "Transforms": 0.0005524093394860956,
-        "Utils": 0.00043036080547021496
+        "Analysis": 0.011931387200821472,
+        "IR": 0.03397683044120747,
+        "TransformOps": 0.0018105395897133774,
+        "Transforms": 0.02872795078763132,
+        "Utils": 0.022380838187810732
     }
 }

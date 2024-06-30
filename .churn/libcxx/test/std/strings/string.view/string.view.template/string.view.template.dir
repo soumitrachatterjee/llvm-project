@@ -1,19 +1,19 @@
 {
     "directory name": "llvm-project/libcxx/test/std/strings/string.view/string.view.template",
-    "score.sum": 4.9287605024595166e-05,
+    "score.sum": 0.0025631932524964483,
     "sha.latest": "a40bada91aeda276a772acfbcae6e8de26755a11",
     "time.latest": 1717974085.988029,
     "formatted_time": "2024-06-10 04:31:25.988030",
     "filescores": {
-        "contains.char.pass.cpp": 7.988460235944877e-06,
-        "contains.ptr.pass.cpp": 7.988460235944877e-06,
-        "contains.string_view.pass.cpp": 7.988460235944877e-06,
-        "ends_with.char.pass.cpp": 1.694494221401829e-05,
-        "ends_with.ptr.pass.cpp": 2.9711035430034355e-05,
-        "ends_with.string_view.pass.cpp": 1.694494221401829e-05,
-        "starts_with.char.pass.cpp": 1.694494221401829e-05,
-        "starts_with.ptr.pass.cpp": 2.6491166588018795e-05,
-        "starts_with.string_view.pass.cpp": 1.694494221401829e-05
+        "contains.char.pass.cpp": 0.026293527190173305,
+        "contains.ptr.pass.cpp": 0.026293527190173305,
+        "contains.string_view.pass.cpp": 0.026293527190173305,
+        "ends_with.char.pass.cpp": 0.05577323860678972,
+        "ends_with.ptr.pass.cpp": 0.09779205189163831,
+        "ends_with.string_view.pass.cpp": 0.05577323860678972,
+        "starts_with.char.pass.cpp": 0.05577323860678972,
+        "starts_with.ptr.pass.cpp": 0.08719405096958527,
+        "starts_with.string_view.pass.cpp": 0.05577323860678972
     },
     "subdirscores": {}
 }

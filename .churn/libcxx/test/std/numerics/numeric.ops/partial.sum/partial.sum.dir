@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/libcxx/test/std/numerics/numeric.ops/partial.sum",
-    "score.sum": 6.104725995457719e-05,
+    "score.sum": 0.0031747520440663602,
     "sha.latest": "0fa67d44e0abc1c79ed9b3fffcbab4681fbe4d6a",
     "time.latest": 1717952292.7341416,
     "formatted_time": "2024-06-09 22:28:12.734145",
     "filescores": {
-        "partial_sum.pass.cpp": 5.410410767855944e-05,
-        "partial_sum_op.pass.cpp": 6.104725995457719e-05
+        "partial_sum.pass.cpp": 0.17808035395171531,
+        "partial_sum_op.pass.cpp": 0.20093331406705017
     },
     "subdirscores": {}
 }

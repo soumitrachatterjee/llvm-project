@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/libcxx/test/std/input.output/filesystems/fs.op.funcs/fs.op.copy",
-    "score.sum": 5.033189993558944e-05,
+    "score.sum": 0.0026175016261360514,
     "sha.latest": "ac8c9f1e39e1a773fd81ce23dbf1c80ea186f226",
     "time.latest": 1717903910.2528453,
     "formatted_time": "2024-06-09 09:01:50.252847",
     "filescores": {
-        "copy.pass.cpp": 5.033189993558944e-05
+        "copy.pass.cpp": 0.16566436339442708
     },
     "subdirscores": {}
 }

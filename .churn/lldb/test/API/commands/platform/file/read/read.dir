@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/lldb/test/API/commands/platform/file/read",
-    "score.sum": 1.0228257440187292e-05,
+    "score.sum": 0.0005319187337749934,
     "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
     "time.latest": 1717896059.0712018,
     "formatted_time": "2024-06-09 06:50:59.071204",
     "filescores": {
-        "TestPlatformFileRead.py": 1.0228257440187292e-05
+        "TestPlatformFileRead.py": 0.033665682392903226
     },
     "subdirscores": {}
 }

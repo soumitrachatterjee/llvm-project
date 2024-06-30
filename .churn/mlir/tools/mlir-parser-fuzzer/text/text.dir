@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/mlir/tools/mlir-parser-fuzzer/text",
-    "score.sum": 6.099602068851199e-06,
+    "score.sum": 0.00031720873550238375,
     "sha.latest": "88d319a29ff5d3be1bb9a7e88ef6e17df1dfe607",
     "time.latest": 1717835186.4175992,
     "formatted_time": "2024-06-08 03:26:26.417603",
     "filescores": {
-        "CMakeLists.txt": 0,
-        "DummyParserFuzzer.cpp": 0,
-        "mlir-text-parser-fuzzer.cpp": 6.099602068851199e-06
+        "CMakeLists.txt": 0.0,
+        "DummyParserFuzzer.cpp": 0.0,
+        "mlir-text-parser-fuzzer.cpp": 0.02007646631636598
     },
     "subdirscores": {}
 }

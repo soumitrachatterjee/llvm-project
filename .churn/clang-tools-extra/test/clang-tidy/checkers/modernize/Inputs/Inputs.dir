@@ -1,19 +1,19 @@
 {
     "directory name": "llvm-project/clang-tools-extra/test/clang-tidy/checkers/modernize/Inputs",
-    "score.sum": 1.7108754422170185e-05,
+    "score.sum": 0.0008897377722379115,
     "sha.latest": "51018d1a90542a407c78868e6be29a2492c18f5a",
     "time.latest": 1717826825.0329576,
     "formatted_time": "2024-06-08 11:37:05.032963",
     "filescores": {},
     "subdirscores": {
-        "concat-nested-namespaces": 6.099602068851199e-06,
-        "deprecated-headers": 0,
-        "loop-convert": 9.10999411356131e-06,
-        "macro-to-enum": 0,
-        "pass-by-value": 0,
-        "replace-auto-ptr": 0,
-        "smart-ptr": 6.099602068851199e-06,
-        "use-auto": 0,
-        "use-using": 0
+        "concat-nested-namespaces": 0.00031720873550238375,
+        "deprecated-headers": 0.0,
+        "loop-convert": 0.00047376364565716715,
+        "macro-to-enum": 0.0,
+        "pass-by-value": 0.0,
+        "replace-auto-ptr": 0.0,
+        "smart-ptr": 0.00031720873550238375,
+        "use-auto": 0.0,
+        "use-using": 0.0
     }
 }

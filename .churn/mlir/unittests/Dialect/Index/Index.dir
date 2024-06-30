@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/mlir/unittests/Dialect/Index",
-    "score.sum": 0,
+    "score.sum": 0.0,
     "sha.latest": "9744d396f8823eaeb15c856f2fa45d8dd4f1d60b",
     "time.latest": 1717836029.6286798,
     "formatted_time": "2024-06-08 03:40:29.628682",
     "filescores": {
-        "CMakeLists.txt": 0,
-        "IndexOpsFoldersTest.cpp": 0
+        "CMakeLists.txt": 0.0,
+        "IndexOpsFoldersTest.cpp": 0.0
     },
     "subdirscores": {}
 }

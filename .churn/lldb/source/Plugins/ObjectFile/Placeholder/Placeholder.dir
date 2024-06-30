@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/lldb/source/Plugins/ObjectFile/Placeholder",
-    "score.sum": 0,
+    "score.sum": 0.0,
     "sha.latest": "46c2e4c4f347038179e21e027128f5f2914fb980",
     "time.latest": 1717872580.487439,
     "formatted_time": "2024-06-09 00:19:40.487444",
     "filescores": {
-        "CMakeLists.txt": 0,
-        "ObjectFilePlaceholder.cpp": 0,
-        "ObjectFilePlaceholder.h": 0
+        "CMakeLists.txt": 0.0,
+        "ObjectFilePlaceholder.cpp": 0.0,
+        "ObjectFilePlaceholder.h": 0.0
     },
     "subdirscores": {}
 }

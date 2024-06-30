@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/lldb/test/API/macosx/save_crashlog",
-    "score.sum": 1.439228345211459e-05,
+    "score.sum": 0.000748468176006274,
     "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
     "time.latest": 1717964011.3783765,
     "formatted_time": "2024-06-10 01:43:31.378381",
     "filescores": {
-        "main.c": 0,
-        "Makefile": 0,
-        "TestSaveCrashlog.py": 1.439228345211459e-05
+        "main.c": 0.0,
+        "Makefile": 0.0,
+        "TestSaveCrashlog.py": 0.04737131876479776
     },
     "subdirscores": {}
 }

@@ -1,15 +1,15 @@
 {
     "directory name": "llvm-project/compiler-rt/lib/sanitizer_common/symbolizer",
-    "score.sum": 0.000491523224652372,
+    "score.sum": 0.025561579067304344,
     "sha.latest": "8dbedf49d7c6e8e6e3212b8be633780e5c4f0ee3",
     "time.latest": 1717804920.7931335,
     "formatted_time": "2024-06-08 05:32:00.793135",
     "filescores": {
-        "CMakeLists.txt": 1.1643389416520052e-05,
-        "sanitizer_symbolize.cpp": 7.495504469734785e-05,
-        "sanitizer_wrappers.cpp": 1.3206739917261532e-05
+        "CMakeLists.txt": 0.03832350254827739,
+        "sanitizer_symbolize.cpp": 0.24670993502883234,
+        "sanitizer_wrappers.cpp": 0.04346917489124739
     },
     "subdirscores": {
-        "scripts": 0.00039757203605423795
+        "scripts": 0.020675663986654984
     }
 }

@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/lldb/test/API/lang/cpp/auto",
-    "score.sum": 1.3222779877121188e-05,
+    "score.sum": 0.0006876483477614711,
     "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
     "time.latest": 1717928564.0192578,
     "formatted_time": "2024-06-09 15:52:44.019260",
     "filescores": {
-        "main.cpp": 1.1655318940087796e-05,
-        "Makefile": 0,
-        "TestCPPAuto.py": 1.3179229751172567e-05
+        "main.cpp": 0.03836276784384497,
+        "Makefile": 0.0,
+        "TestCPPAuto.py": 0.04337862686588304
     },
     "subdirscores": {}
 }

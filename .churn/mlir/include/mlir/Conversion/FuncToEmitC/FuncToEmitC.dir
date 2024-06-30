@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/mlir/include/mlir/Conversion/FuncToEmitC",
-    "score.sum": 0,
+    "score.sum": 0.0,
     "sha.latest": "e7d40a87ff230528131541f6ac17a2e1a7dc78e1",
     "time.latest": 1717791553.2408187,
     "formatted_time": "2024-06-07 15:19:13.240822",
     "filescores": {
-        "FuncToEmitC.h": 0,
-        "FuncToEmitCPass.h": 0
+        "FuncToEmitC.h": 0.0,
+        "FuncToEmitCPass.h": 0.0
     },
     "subdirscores": {}
 }

@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/lldb/test/API/macosx/lc-note/kern-ver-str",
-    "score.sum": 1.8765874620622977e-05,
+    "score.sum": 0.000975916017440335,
     "sha.latest": "1eeeab82c6eb185f5139e633a59c2dbcb15616e4",
     "time.latest": 1717963177.425691,
     "formatted_time": "2024-06-10 01:29:37.425695",
     "filescores": {
-        "create-empty-corefile.cpp": 6.099602068851199e-06,
-        "main.c": 0,
-        "Makefile": 6.099602068851199e-06,
-        "TestKernVerStrLCNOTE.py": 1.4851465695140349e-05
+        "create-empty-corefile.cpp": 0.02007646631636598,
+        "main.c": 0.0,
+        "Makefile": 0.02007646631636598,
+        "TestKernVerStrLCNOTE.py": 0.0488826889707752
     },
     "subdirscores": {}
 }

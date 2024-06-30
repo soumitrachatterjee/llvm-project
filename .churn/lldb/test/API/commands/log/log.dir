@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/lldb/test/API/commands/log",
-    "score.sum": 2.9904294151837355e-05,
+    "score.sum": 0.001555167571084229,
     "sha.latest": "80fcecb13c388ff087a27a4b0e7ca3dd8c98eaa4",
     "time.latest": 1717895785.997821,
     "formatted_time": "2024-06-09 06:46:25.997823",
     "filescores": {},
     "subdirscores": {
-        "basic": 2.713140573386049e-05,
-        "invalid-args": 1.3851040347520155e-05
+        "basic": 0.0014109639953710828,
+        "invalid-args": 0.0007203209233052268
     }
 }

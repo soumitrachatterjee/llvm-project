@@ -1,17 +1,17 @@
 {
     "directory name": "llvm-project/clang/include/clang/Index",
-    "score.sum": 0.0003060491167513199,
+    "score.sum": 0.015916030624698103,
     "sha.latest": "75e16fd2c656fb7d27e6edc46dc1a63ff8323999",
     "time.latest": 1717800001.7088969,
     "formatted_time": "2024-06-08 04:10:01.708901",
     "filescores": {
-        "CommentToXML.h": 1.3507850401525999e-05,
-        "DeclOccurrence.h": 6.0996040891503195e-06,
-        "IndexDataConsumer.h": 3.449675705500755e-05,
-        "IndexingAction.h": 5.455751907280171e-05,
-        "IndexingOptions.h": 1.3252326507365317e-05,
-        "IndexSymbol.h": 4.463979134947792e-05,
-        "USRGeneration.h": 5.268019143810623e-05
+        "CommentToXML.h": 0.044460261592740816,
+        "DeclOccurrence.h": 0.02007647296605669,
+        "IndexDataConsumer.h": 0.11354396126519103,
+        "IndexingAction.h": 0.17957272976266322,
+        "IndexingOptions.h": 0.04361922035820832,
+        "IndexSymbol.h": 0.14692913689797327,
+        "USRGeneration.h": 0.1733936209294463
     },
     "subdirscores": {}
 }

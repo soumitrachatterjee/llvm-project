@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/libcxx/test/std/atomics/atomics.lockfree",
-    "score.sum": 7.94341951753851e-05,
+    "score.sum": 0.0041309613844988284,
     "sha.latest": "208a6d97f56fc36da6833a0e14e5847b7d84322e",
     "time.latest": 1717873323.8755245,
     "formatted_time": "2024-06-09 00:32:03.875527",
     "filescores": {
-        "isalwayslockfree.pass.cpp": 6.928440939157939e-05,
-        "lockfree.pass.cpp": 2.359890080851526e-05
+        "isalwayslockfree.pass.cpp": 0.22804538651835907,
+        "lockfree.pass.cpp": 0.07767433544638606
     },
     "subdirscores": {}
 }

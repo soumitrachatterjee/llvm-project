@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/lldb/test/API/commands/expression/rdar42038760",
-    "score.sum": 3.562632506167434e-05,
+    "score.sum": 0.0018527407847015558,
     "sha.latest": "67e22983115451ef5512ad2813dd337762c52da3",
     "time.latest": 1717893742.7307365,
     "formatted_time": "2024-06-09 06:12:22.730738",
     "filescores": {
-        "main.c": 3.562632506167434e-05,
-        "TestScalarURem.py": 0
+        "main.c": 0.11726186511890285,
+        "TestScalarURem.py": 0.0
     },
     "subdirscores": {}
 }

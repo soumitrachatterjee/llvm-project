@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/libcxx/test/std/strings/basic.string/string.ops/string_substr",
-    "score.sum": 7.215234242449911e-05,
+    "score.sum": 0.0037522699096862516,
     "sha.latest": "9ed20568e7de53dce85f1631d7d8c1415e7930ae",
     "time.latest": 1717971071.017355,
     "formatted_time": "2024-06-10 03:41:11.017357",
     "filescores": {
-        "substr.pass.cpp": 6.667988193413315e-05,
-        "substr_rvalue.pass.cpp": 7.124929044688385e-06
+        "substr.pass.cpp": 0.21947274404443487,
+        "substr_rvalue.pass.cpp": 0.023451267206866303
     },
     "subdirscores": {}
 }

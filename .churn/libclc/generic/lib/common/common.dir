@@ -1,17 +1,17 @@
 {
     "directory name": "llvm-project/libclc/generic/lib/common",
-    "score.sum": 1.683396160301164e-05,
+    "score.sum": 0.0008754472198860538,
     "sha.latest": "c37145cab12168798a603e22af6b6bf6f606b705",
     "time.latest": 1717828617.9683824,
     "formatted_time": "2024-06-08 01:36:57.968386",
     "filescores": {
-        "degrees.cl": 0,
-        "mix.cl": 6.099602068851199e-06,
-        "mix.inc": 0,
-        "radians.cl": 0,
-        "sign.cl": 6.099602068851199e-06,
-        "smoothstep.cl": 6.099602068851199e-06,
-        "step.cl": 6.099602068851199e-06
+        "degrees.cl": 0.0,
+        "mix.cl": 0.02007646631636598,
+        "mix.inc": 0.0,
+        "radians.cl": 0.0,
+        "sign.cl": 0.02007646631636598,
+        "smoothstep.cl": 0.02007646631636598,
+        "step.cl": 0.02007646631636598
     },
     "subdirscores": {}
 }

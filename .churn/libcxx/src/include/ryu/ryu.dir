@@ -1,19 +1,19 @@
 {
     "directory name": "llvm-project/libcxx/src/include/ryu",
-    "score.sum": 3.99209199684205e-05,
+    "score.sum": 0.0020760804394014403,
     "sha.latest": "9783f28cbb155e4a8d49c12e1c60ce14dcfaf0c7",
     "time.latest": 1717842665.1911094,
     "formatted_time": "2024-06-08 16:01:05.191113",
     "filescores": {
-        "common.h": 1.9080365002842282e-05,
-        "d2fixed.h": 6.855722839216352e-06,
-        "d2fixed_full_table.h": 6.855722839216352e-06,
-        "d2s.h": 6.855722839216352e-06,
-        "d2s_full_table.h": 6.855722839216352e-06,
-        "d2s_intrinsics.h": 1.2878881153708446e-05,
-        "digit_table.h": 1.4813364268792088e-05,
-        "f2s.h": 6.855722839216352e-06,
-        "ryu.h": 1.6071259188811844e-05
+        "common.h": 0.06280185181911026,
+        "d2fixed.h": 0.02256519148335048,
+        "d2fixed_full_table.h": 0.02256519148335048,
+        "d2s.h": 0.02256519148335048,
+        "d2s_full_table.h": 0.02256519148335048,
+        "d2s_intrinsics.h": 0.04239004786809084,
+        "digit_table.h": 0.04875728046149019,
+        "f2s.h": 0.02256519148335048,
+        "ryu.h": 0.05289756448432332
     },
     "subdirscores": {}
 }

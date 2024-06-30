@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/utils",
-    "score.sum": 0.008069551173868372,
+    "score.sum": 0.4196555931093164,
     "sha.latest": "a116f0ebaf0304e73b26098a7141c4ab836b7dc9",
     "time.latest": 1717791367.535036,
     "formatted_time": "2024-06-08 01:46:07.535040",
     "filescores": {},
     "subdirscores": {
-        "bazel": 0.006510494040222773
+        "bazel": 0.3385771003884241
     }
 }

@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/clang/test/Analysis/Inputs/Models",
-    "score.sum": 0,
+    "score.sum": 0.0,
     "sha.latest": "eeccb30b942fbfd220990cbf52335559cdc04959",
     "time.latest": 1717834191.5735443,
     "formatted_time": "2024-06-08 13:39:51.573546",
     "filescores": {
-        "modeledFunction.model": 0,
-        "notzero.model": 0
+        "modeledFunction.model": 0.0,
+        "notzero.model": 0.0
     },
     "subdirscores": {}
 }

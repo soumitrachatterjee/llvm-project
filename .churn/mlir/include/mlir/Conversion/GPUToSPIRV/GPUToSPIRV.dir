@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/mlir/include/mlir/Conversion/GPUToSPIRV",
-    "score.sum": 5.930612558399877e-05,
+    "score.sum": 0.003084204656581632,
     "sha.latest": "6e90f13cc9bc9dbc5c2c248d95c6e18a5fb021b4",
     "time.latest": 1717791668.9063425,
     "formatted_time": "2024-06-07 15:21:08.906346",
     "filescores": {
-        "GPUToSPIRV.h": 3.0711797048798644e-05,
-        "GPUToSPIRVPass.h": 3.407677761725499e-05
+        "GPUToSPIRV.h": 0.10108599741513986,
+        "GPUToSPIRVPass.h": 0.11216162468971771
     },
     "subdirscores": {}
 }

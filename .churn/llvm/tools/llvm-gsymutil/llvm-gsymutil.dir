@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/llvm/tools/llvm-gsymutil",
-    "score.sum": 0.00017597722118510684,
+    "score.sum": 0.009151664515036878,
     "sha.latest": "da1880cc56060c9da91cbd04daa7f8aa3ea0e829",
     "time.latest": 1718080433.8780437,
     "formatted_time": "2024-06-10 23:33:53.878047",
     "filescores": {
-        "CMakeLists.txt": 2.967651033177845e-05,
-        "Opts.td": 7.128021365200731e-06,
-        "llvm-gsymutil.cpp": 0.00016210740814771724
+        "CMakeLists.txt": 0.09767841464704763,
+        "Opts.td": 0.023461445390279705,
+        "llvm-gsymutil.cpp": 0.5335665970622899
     },
     "subdirscores": {}
 }

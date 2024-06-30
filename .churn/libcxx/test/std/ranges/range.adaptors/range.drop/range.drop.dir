@@ -1,21 +1,21 @@
 {
     "directory name": "llvm-project/libcxx/test/std/ranges/range.adaptors/range.drop",
-    "score.sum": 5.763030831371922e-05,
+    "score.sum": 0.002997054073438992,
     "sha.latest": "ba2236d3000645d3127f972aa7ac1844c47e299c",
     "time.latest": 1717960922.129173,
     "formatted_time": "2024-06-10 00:52:02.129176",
     "filescores": {
-        "adaptor.pass.cpp": 1.387128657695273e-05,
-        "base.pass.cpp": 1.264989413701876e-05,
-        "begin.pass.cpp": 2.639290823408104e-05,
-        "ctad.compile.pass.cpp": 1.9298545157215212e-05,
-        "ctor.default.pass.cpp": 1.5984412904328257e-05,
-        "ctor.view.pass.cpp": 1.6870108853349836e-05,
-        "dangling.cache.pass.cpp": 1.759260827467585e-05,
-        "end.pass.cpp": 1.264989413701876e-05,
-        "general.pass.cpp": 1.2664966234670466e-05,
-        "size.pass.cpp": 1.264989413701876e-05,
-        "types.h": 1.9546139120728103e-05
+        "adaptor.pass.cpp": 0.04565648948625615,
+        "base.pass.cpp": 0.04163635113909726,
+        "begin.pass.cpp": 0.08687063962063732,
+        "ctad.compile.pass.cpp": 0.06351997842322701,
+        "ctor.default.pass.cpp": 0.052611715262447005,
+        "ctor.view.pass.cpp": 0.05552692918728301,
+        "dangling.cache.pass.cpp": 0.05790499174482582,
+        "end.pass.cpp": 0.04163635113909726,
+        "general.pass.cpp": 0.041685960024628786,
+        "size.pass.cpp": 0.04163635113909726,
+        "types.h": 0.064334918777121
     },
     "subdirscores": {}
 }

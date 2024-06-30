@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/libcxx/test/libcxx/numerics/rand/rand.dis/rand.dist.norm/rand.dist.norm.cauchy",
-    "score.sum": 1.0626538928102316e-05,
+    "score.sum": 0.0005526312926812054,
     "sha.latest": "9bb9ec380ace81d040d3a0a0a2ae9a75733ab330",
     "time.latest": 1717861773.6736383,
     "formatted_time": "2024-06-08 21:19:33.673642",
     "filescores": {
-        "bad_engine.verify.cpp": 1.0626538928102316e-05
+        "bad_engine.verify.cpp": 0.03497660149652666
     },
     "subdirscores": {}
 }

@@ -1,15 +1,15 @@
 {
     "directory name": "llvm-project/libcxx/test/libcxx/containers/views/mdspan",
-    "score.sum": 3.892280246111256e-05,
+    "score.sum": 0.0020241735135393775,
     "sha.latest": "97b61aeadc58097b80902b600a9a6c95ad36baca",
     "time.latest": 1717848659.6020765,
     "formatted_time": "2024-06-08 17:40:59.602080",
     "filescores": {},
     "subdirscores": {
-        "extents": 1.0056309291344323e-05,
-        "layout_left": 2.5146002103691407e-05,
-        "layout_right": 2.5146002103691407e-05,
-        "layout_stride": 2.6439000988998206e-05,
-        "mdspan": 1.9289005027734445e-05
+        "extents": 0.0005229766004602661,
+        "layout_left": 0.0013077134278949014,
+        "layout_right": 0.0013077134278949014,
+        "layout_stride": 0.001374955608087061,
+        "mdspan": 0.001003121322486395
     }
 }

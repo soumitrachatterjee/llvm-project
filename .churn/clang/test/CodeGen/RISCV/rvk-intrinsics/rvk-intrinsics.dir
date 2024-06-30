@@ -1,19 +1,19 @@
 {
     "directory name": "llvm-project/clang/test/CodeGen/RISCV/rvk-intrinsics",
-    "score.sum": 4.6364643507539375e-05,
+    "score.sum": 0.002411185151593888,
     "sha.latest": "1a3b14d26152ab7e7352c8e7aa97ec880cdac82d",
     "time.latest": 1717907548.3335598,
     "formatted_time": "2024-06-09 10:02:28.333562",
     "filescores": {
-        "riscv32-zknd.c": 2.7548316624143395e-05,
-        "riscv32-zkne.c": 2.7548316624143395e-05,
-        "riscv32-zknh.c": 2.7876943989263736e-05,
-        "riscv64-zknd-zkne.c": 3.2288977614970876e-05,
-        "riscv64-zknd.c": 2.776727915716121e-05,
-        "riscv64-zkne.c": 2.776727915716121e-05,
-        "riscv64-zknh.c": 3.2606983846819436e-05,
-        "zksed.c": 6.196189425190864e-06,
-        "zksh.c": 6.196189425190864e-06
+        "riscv32-zknd.c": 0.09067359551233246,
+        "riscv32-zkne.c": 0.09067359551233246,
+        "riscv32-zknh.c": 0.0917552523404339,
+        "riscv64-zknd-zkne.c": 0.10627719057072016,
+        "riscv64-zknd.c": 0.09139429726780063,
+        "riscv64-zkne.c": 0.09139429726780063,
+        "riscv64-zknh.c": 0.10732388858971152,
+        "zksed.c": 0.020394377679148593,
+        "zksh.c": 0.020394377679148593
     },
     "subdirscores": {}
 }

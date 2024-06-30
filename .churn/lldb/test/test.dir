@@ -1,17 +1,17 @@
 {
     "directory name": "llvm-project/lldb/test",
-    "score.sum": 0.02234602056906429,
+    "score.sum": 1.16210087940346,
     "sha.latest": "d93a126090b6e772d3b96f201cdd44ea0d6360ef",
     "time.latest": 1717984575.1439626,
     "formatted_time": "2024-06-10 07:26:15.143965",
     "filescores": {
-        "CMakeLists.txt": 0.00047655821835824183,
-        "lit.cfg.py": 6.105530297029585e-06,
-        "lit.site.cfg.py.in": 1.7955532359468862e-05
+        "CMakeLists.txt": 1.5685621636721936,
+        "lit.cfg.py": 0.02009597871602675,
+        "lit.site.cfg.py.in": 0.059099534123410374
     },
     "subdirscores": {
-        "API": 0.008031828033664748,
-        "Shell": 0.0021095954930581435,
-        "Unit": 3.890839421505993e-05
+        "API": 0.41769380782101395,
+        "Shell": 0.10970914351803535,
+        "Unit": 0.0020234242152311318
     }
 }

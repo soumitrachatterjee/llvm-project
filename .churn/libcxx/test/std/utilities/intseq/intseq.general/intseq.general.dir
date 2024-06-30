@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/libcxx/test/std/utilities/intseq/intseq.general",
-    "score.sum": 2.2626792904302098e-05,
+    "score.sum": 0.001176702395439999,
     "sha.latest": "fb855eb941b6d740cc6560297d0b4d3201dcaf9f",
     "time.latest": 1717997549.0494862,
     "formatted_time": "2024-06-10 11:02:29.049488",
     "filescores": {
-        "integer_seq.pass.cpp": 2.2626792904302098e-05
+        "integer_seq.pass.cpp": 0.07447470186791487
     },
     "subdirscores": {}
 }

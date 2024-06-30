@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/lldb/test/API/functionalities/set-data",
-    "score.sum": 1.733606927856171e-05,
+    "score.sum": 0.000901559241465402,
     "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
     "time.latest": 1717919746.4755006,
     "formatted_time": "2024-06-09 13:25:46.475503",
     "filescores": {
-        "main.m": 0,
-        "Makefile": 0,
-        "TestSetData.py": 1.733606927856171e-05
+        "main.m": 0.0,
+        "Makefile": 0.0,
+        "TestSetData.py": 0.057060609364437194
     },
     "subdirscores": {}
 }

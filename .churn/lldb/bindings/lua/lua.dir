@@ -1,15 +1,15 @@
 {
     "directory name": "llvm-project/lldb/bindings/lua",
-    "score.sum": 3.632728171821401e-05,
+    "score.sum": 0.001889193912652049,
     "sha.latest": "79e8f29ab06560d159389d940c35c563e0c8640e",
     "time.latest": 1717839821.8169396,
     "formatted_time": "2024-06-08 15:13:41.816944",
     "filescores": {
-        "CMakeLists.txt": 8.107064731151334e-06,
-        "lua-swigsafecast.swig": 1.0511546500071915e-05,
-        "lua-typemaps.swig": 1.991941266034874e-05,
-        "lua-wrapper.swig": 1.7814873055499795e-05,
-        "lua.swig": 1.2923692263210399e-05
+        "CMakeLists.txt": 0.02668390661592993,
+        "lua-swigsafecast.swig": 0.03459811096846763,
+        "lua-typemaps.swig": 0.06556352575187006,
+        "lua-wrapper.swig": 0.05863656264652675,
+        "lua.swig": 0.042537540888186225
     },
     "subdirscores": {}
 }

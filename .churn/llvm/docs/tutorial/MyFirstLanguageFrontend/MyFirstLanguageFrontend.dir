@@ -1,22 +1,22 @@
 {
     "directory name": "llvm-project/llvm/docs/tutorial/MyFirstLanguageFrontend",
-    "score.sum": 0.00011730474268604193,
+    "score.sum": 0.006100412563942884,
     "sha.latest": "33aaad94279e5e2b7ab413786abdde48e3486ad9",
     "time.latest": 1717803429.8827474,
     "formatted_time": "2024-06-07 18:37:09.882751",
     "filescores": {
-        "LangImpl01.rst": 6.20389674063156e-06,
-        "LangImpl02.rst": 1.4658774915364618e-05,
-        "LangImpl03.rst": 2.6398086129586296e-05,
-        "LangImpl04.rst": 4.1049470594197866e-05,
-        "LangImpl05-cfg.png": 0,
-        "LangImpl05.rst": 2.351231225481773e-05,
-        "LangImpl06.rst": 1.2034115716335633e-05,
-        "LangImpl07.rst": 2.001671461291966e-05,
-        "LangImpl08.rst": 2.960636307353491e-05,
-        "LangImpl09.rst": 2.522369412905438e-05,
-        "LangImpl10.rst": 1.2547221358439745e-05,
-        "index.rst": 8.212641222802356e-06
+        "LangImpl01.rst": 0.020419745835478807,
+        "LangImpl02.rst": 0.04824845908069807,
+        "LangImpl03.rst": 0.08688768234629836,
+        "LangImpl04.rst": 0.13511181621136242,
+        "LangImpl05-cfg.png": 0.0,
+        "LangImpl05.rst": 0.07738933452959369,
+        "LangImpl06.rst": 0.03960955421338925,
+        "LangImpl07.rst": 0.06588378916434456,
+        "LangImpl08.rst": 0.09744752924642396,
+        "LangImpl09.rst": 0.08302224306439954,
+        "LangImpl10.rst": 0.0412984099820379,
+        "index.rst": 0.027031405166574072
     },
     "subdirscores": {}
 }

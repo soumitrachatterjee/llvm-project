@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/libcxx/test/std/numerics/complex.number/complex.members",
-    "score.sum": 1.550526548630068e-05,
+    "score.sum": 0.0008063486114372912,
     "sha.latest": "7223bcf04c4ce3c1585df9408c6a6663cc8364ea",
     "time.latest": 1717934208.3339548,
     "formatted_time": "2024-06-09 17:26:48.333957",
     "filescores": {
-        "construct.pass.cpp": 1.5575288285626978e-05,
-        "real_imag.pass.cpp": 1.3740738438212888e-05
+        "construct.pass.cpp": 0.05126510665850257,
+        "real_imag.pass.cpp": 0.045226798289930564
     },
     "subdirscores": {}
 }

@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/lldb/cmake",
-    "score.sum": 0.001147689073522422,
+    "score.sum": 0.059685368922847856,
     "sha.latest": "3239b4dcfebbaa3eeaff9258893a6674050d8354",
     "time.latest": 1717840228.7622378,
     "formatted_time": "2024-06-08 15:20:28.762242",
     "filescores": {},
     "subdirscores": {
-        "caches": 1.3444487662757829e-05,
-        "modules": 0.0010125049221185746
+        "caches": 0.0006991782222580344,
+        "modules": 0.05265514084522286
     }
 }

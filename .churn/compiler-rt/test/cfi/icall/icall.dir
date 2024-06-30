@@ -1,15 +1,15 @@
 {
     "directory name": "llvm-project/compiler-rt/test/cfi/icall",
-    "score.sum": 2.1964171645699815e-05,
+    "score.sum": 0.0011422428931338402,
     "sha.latest": "adb555ea369a3a989a9db619c784aa76cccdb823",
     "time.latest": 1717822770.0189753,
     "formatted_time": "2024-06-08 10:29:30.018978",
     "filescores": {
-        "bad-signature.c": 6.099602068851199e-06,
-        "external-call.c": 1.4397809617098856e-05,
-        "lit.local.cfg.py": 1.1704728774565026e-05,
-        "weak.c": 1.2167899556413453e-05,
-        "wrong-signature-mixed-lto.c": 0
+        "bad-signature.c": 0.02007646631636598,
+        "external-call.c": 0.04738950779810075,
+        "lit.local.cfg.py": 0.03852539728530396,
+        "weak.c": 0.04004989552232685,
+        "wrong-signature-mixed-lto.c": 0.0
     },
     "subdirscores": {}
 }

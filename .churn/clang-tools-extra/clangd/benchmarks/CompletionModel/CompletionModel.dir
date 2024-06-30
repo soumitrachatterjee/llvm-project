@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/clang-tools-extra/clangd/benchmarks/CompletionModel",
-    "score.sum": 1.1344935911895188e-05,
+    "score.sum": 0.0005899914017908448,
     "sha.latest": "0ed2bd9311fd54f0b414549b96a2cd4036ef0945",
     "time.latest": 1717801098.0733404,
     "formatted_time": "2024-06-08 04:28:18.073343",
     "filescores": {
-        "CMakeLists.txt": 6.099602068851199e-06,
-        "DecisionForestBenchmark.cpp": 8.85486001168155e-06
+        "CMakeLists.txt": 0.02007646631636598,
+        "DecisionForestBenchmark.cpp": 0.029145228943458397
     },
     "subdirscores": {}
 }

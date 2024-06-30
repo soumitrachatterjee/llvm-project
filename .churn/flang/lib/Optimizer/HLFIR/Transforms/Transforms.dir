@@ -1,20 +1,20 @@
 {
     "directory name": "llvm-project/flang/lib/Optimizer/HLFIR/Transforms",
-    "score.sum": 0.0004133039061270437,
+    "score.sum": 0.021493797129858924,
     "sha.latest": "44c0bdb402271522a17704b4a18c8bf5efb55c4f",
     "time.latest": 1717791726.714739,
     "formatted_time": "2024-06-07 15:22:06.714743",
     "filescores": {
-        "BufferizeHLFIR.cpp": 0.00012800601638064864,
-        "CMakeLists.txt": 2.2548570820655746e-05,
-        "ConvertToFIR.cpp": 7.443692796897394e-05,
-        "InlineElementals.cpp": 1.1686296057787685e-05,
-        "LowerHLFIRIntrinsics.cpp": 4.9856544851963716e-05,
-        "LowerHLFIROrderedAssignments.cpp": 3.070924040448605e-05,
-        "OptimizedBufferization.cpp": 5.149875756891124e-05,
-        "ScheduleOrderedAssignments.cpp": 1.6490518368242244e-05,
-        "ScheduleOrderedAssignments.h": 0,
-        "SimplifyHLFIRIntrinsics.cpp": 1.3329053402240379e-05
+        "BufferizeHLFIR.cpp": 0.42132395640725806,
+        "CMakeLists.txt": 0.07421723867444827,
+        "ConvertToFIR.cpp": 0.24500458557689606,
+        "InlineElementals.cpp": 0.03846472712791956,
+        "LowerHLFIRIntrinsics.cpp": 0.16409976127497725,
+        "LowerHLFIROrderedAssignments.cpp": 0.1010775823771021,
+        "OptimizedBufferization.cpp": 0.16950500376849528,
+        "ScheduleOrderedAssignments.cpp": 0.054277530373679606,
+        "ScheduleOrderedAssignments.h": 0.0,
+        "SimplifyHLFIRIntrinsics.cpp": 0.043871762229486265
     },
     "subdirscores": {}
 }

@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/libcxx/test/std/algorithms/alg.sorting/alg.sort/partial.sort.copy",
-    "score.sum": 3.985698955999034e-05,
+    "score.sum": 0.002072755749726708,
     "sha.latest": "fb855eb941b6d740cc6560297d0b4d3201dcaf9f",
     "time.latest": 1717872230.6240036,
     "formatted_time": "2024-06-09 00:13:50.624006",
     "filescores": {
-        "partial_sort_copy.pass.cpp": 2.2803387930382084e-05,
-        "partial_sort_copy_comp.pass.cpp": 2.2803387930382084e-05,
-        "ranges_partial_sort_copy.pass.cpp": 7.440519814929815e-06
+        "partial_sort_copy.pass.cpp": 0.07505595357133958,
+        "partial_sort_copy_comp.pass.cpp": 0.07505595357133958,
+        "ranges_partial_sort_copy.pass.cpp": 0.024490014882040688
     },
     "subdirscores": {}
 }

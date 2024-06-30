@@ -1,16 +1,16 @@
 {
     "directory name": "llvm-project/mlir/test/Dialect/Builtin",
-    "score.sum": 6.356713933019598e-05,
+    "score.sum": 0.0033057979289185034,
     "sha.latest": "728a8d5a81f35f24492fcd31928ef95e597a66af",
     "time.latest": 1717818625.7131093,
     "formatted_time": "2024-06-07 22:50:25.713113",
     "filescores": {
-        "canonicalize.mlir": 1.1895572881017207e-05,
-        "invalid.mlir": 1.2781085778437518e-05,
-        "ops.mlir": 8.355846254030864e-06,
-        "types.mlir": 6.099602068851199e-06
+        "canonicalize.mlir": 0.039153548963333965,
+        "invalid.mlir": 0.042068160385045086,
+        "ops.mlir": 0.027502755748684223,
+        "types.mlir": 0.02007646631636598
     },
     "subdirscores": {
-        "Bytecode": 1.4458068180144743e-05
+        "Bytecode": 0.0007518892992464895
     }
 }

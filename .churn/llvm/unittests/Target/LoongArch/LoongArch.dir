@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/llvm/unittests/Target/LoongArch",
-    "score.sum": 3.444530830982187e-05,
+    "score.sum": 0.0017913222157140197,
     "sha.latest": "42a4d5e8cab1537515d92ed56d6e17b673ed352f",
     "time.latest": 1718084264.6482372,
     "formatted_time": "2024-06-11 00:37:44.648240",
     "filescores": {
-        "CMakeLists.txt": 1.1857283436008788e-05,
-        "InstSizes.cpp": 1.1929900363833123e-05,
-        "MCInstrAnalysisTest.cpp": 1.1047963780453088e-05
+        "CMakeLists.txt": 0.03902752160215421,
+        "InstSizes.cpp": 0.03926653576881735,
+        "MCInstrAnalysisTest.cpp": 0.03636369556554899
     },
     "subdirscores": {}
 }

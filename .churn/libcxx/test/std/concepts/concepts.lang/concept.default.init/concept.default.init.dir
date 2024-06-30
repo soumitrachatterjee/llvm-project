@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/libcxx/test/std/concepts/concepts.lang/concept.default.init",
-    "score.sum": 3.450629347725793e-05,
+    "score.sum": 0.0017944937386475536,
     "sha.latest": "70bcd81e7a7365d2fa98a2d08ba81305eb7846f1",
     "time.latest": 1717875223.9632277,
     "formatted_time": "2024-06-09 01:03:43.963230",
     "filescores": {
-        "default_initializable.compile.pass.cpp": 3.175113018520216e-05,
-        "default_initializable.verify.cpp": 1.2870911186610133e-05
+        "default_initializable.compile.pass.cpp": 0.10450689872459495,
+        "default_initializable.verify.cpp": 0.04236381520992959
     },
     "subdirscores": {}
 }

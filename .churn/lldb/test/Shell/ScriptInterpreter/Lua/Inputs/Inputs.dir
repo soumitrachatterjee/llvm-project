@@ -1,18 +1,18 @@
 {
     "directory name": "llvm-project/lldb/test/Shell/ScriptInterpreter/Lua/Inputs",
-    "score.sum": 6.108332812995786e-06,
+    "score.sum": 0.0003176627763199384,
     "sha.latest": "a5a71b139c6b3cb2cc569c81f91210dede2f1f4c",
     "time.latest": 1717978491.4755487,
     "formatted_time": "2024-06-10 05:44:51.475552",
     "filescores": {
-        "independent_state.in": 0,
-        "nested_sessions.in": 0,
-        "nested_sessions_2.in": 0,
-        "testmodule.lua": 0,
-        "val.c": 0,
-        "watchpoint1.in": 0,
-        "watchpoint2.in": 0,
-        "watchpoint3.in": 0
+        "independent_state.in": 0.0,
+        "nested_sessions.in": 0.0,
+        "nested_sessions_2.in": 0.0,
+        "testmodule.lua": 0.0,
+        "val.c": 0.0,
+        "watchpoint1.in": 0.0,
+        "watchpoint2.in": 0.0,
+        "watchpoint3.in": 0.0
     },
     "subdirscores": {}
 }

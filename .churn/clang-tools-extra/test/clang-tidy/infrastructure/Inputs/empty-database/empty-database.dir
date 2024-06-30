@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/clang-tools-extra/test/clang-tidy/infrastructure/Inputs/empty-database",
-    "score.sum": 0,
+    "score.sum": 0.0,
     "sha.latest": "885c559369fe3d6323898c17787bd0454065fc34",
     "time.latest": 1717833287.9441738,
     "formatted_time": "2024-06-08 13:24:47.944178",
     "filescores": {
-        "compile_commands.json": 0
+        "compile_commands.json": 0.0
     },
     "subdirscores": {}
 }

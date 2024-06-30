@@ -1,22 +1,22 @@
 {
     "directory name": "llvm-project/clang-tools-extra/clangd/index/remote",
-    "score.sum": 0.00013714932814686093,
+    "score.sum": 0.007132426749383175,
     "sha.latest": "b8f89b84bc26c46a5a10d01eb5414fbde3c8700a",
     "time.latest": 1717802449.3430836,
     "formatted_time": "2024-06-08 04:50:49.343087",
     "filescores": {
-        "Client.cpp": 8.252477917098579e-05,
-        "Client.h": 6.888626383398786e-06,
-        "CMakeLists.txt": 3.560704047779239e-05,
-        "Index.proto": 2.2440771277941394e-05,
-        "MonitoringService.proto": 0,
-        "README.md": 1.218208084883149e-05,
-        "Service.proto": 6.099602068851199e-06
+        "Client.cpp": 0.2716252520394138,
+        "Client.h": 0.022673491482106314,
+        "CMakeLists.txt": 0.11719839109316135,
+        "Index.proto": 0.0738624230874977,
+        "MonitoringService.proto": 0.0,
+        "README.md": 0.04009657237703631,
+        "Service.proto": 0.02007646631636598
     },
     "subdirscores": {
-        "marshalling": 3.85113210574516e-05,
-        "monitor": 8.589893589001343e-06,
-        "server": 6.597983478035019e-05,
-        "unimplemented": 7.501691198079058e-06
+        "marshalling": 0.002002774495330535,
+        "monitor": 0.00044671590912164817,
+        "server": 0.0034312697325307537,
+        "unimplemented": 0.00039012413469133
     }
 }

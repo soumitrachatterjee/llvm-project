@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/libcxx/test/libcxx/selftest/convenience_substitutions",
-    "score.sum": 6.099602068851199e-06,
+    "score.sum": 0.00031720873550238375,
     "sha.latest": "dba04bbcf47007bb57f4686f10b55455cbbad84e",
     "time.latest": 1717863633.27184,
     "formatted_time": "2024-06-08 21:50:33.271843",
     "filescores": {
-        "build_run.sh.cpp": 0,
-        "verify.sh.cpp": 0
+        "build_run.sh.cpp": 0.0,
+        "verify.sh.cpp": 0.0
     },
     "subdirscores": {}
 }

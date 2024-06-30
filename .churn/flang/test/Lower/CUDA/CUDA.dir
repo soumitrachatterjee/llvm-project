@@ -1,16 +1,16 @@
 {
     "directory name": "llvm-project/flang/test/Lower/CUDA",
-    "score.sum": 2.9510790848438827e-05,
+    "score.sum": 0.0015347035008255333,
     "sha.latest": "b3189b13b274a3411f939574aa573a7656bf372b",
     "time.latest": 1717797841.3869672,
     "formatted_time": "2024-06-07 17:04:01.386971",
     "filescores": {
-        "cuda-data-attribute.cuf": 6.6612023309811806e-06,
-        "cuda-kernel-calls.cuf": 0,
-        "cuda-kernel-loop-directive.cuf": 0,
-        "cuda-mod.cuf": 6.099602068851199e-06,
-        "cuda-module-use.cuf": 6.099602068851199e-06,
-        "cuda-proc-attribute.cuf": 1.2119483683698339e-05
+        "cuda-data-attribute.cuf": 0.021924939154207745,
+        "cuda-kernel-calls.cuf": 0.0,
+        "cuda-kernel-loop-directive.cuf": 0.0,
+        "cuda-mod.cuf": 0.02007646631636598,
+        "cuda-module-use.cuf": 0.02007646631636598,
+        "cuda-proc-attribute.cuf": 0.03989053764508003
     },
     "subdirscores": {}
 }

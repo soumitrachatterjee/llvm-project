@@ -1,16 +1,16 @@
 {
     "directory name": "llvm-project/lldb/test/API/functionalities/progress_reporting",
-    "score.sum": 3.861124788380799e-05,
+    "score.sum": 0.002007971172404462,
     "sha.latest": "503075e4d4a9c1b3754b21ee9ec41f176e54fd83",
     "time.latest": 1717919122.2018063,
     "formatted_time": "2024-06-09 13:15:22.201808",
     "filescores": {
-        "main.c": 0,
-        "Makefile": 0,
-        "TestProgressReporting.py": 1.5267133071830774e-05,
-        "TestTrimmedProgressReporting.py": 2.1491006529541307e-05
+        "main.c": 0.0,
+        "Makefile": 0.0,
+        "TestProgressReporting.py": 0.05025083266158309,
+        "TestTrimmedProgressReporting.py": 0.07073633063679502
     },
     "subdirscores": {
-        "clang_modules": 6.099602068851199e-06
+        "clang_modules": 0.00031720873550238375
     }
 }

@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/clang/test/CodeGenCXX/OmitRTTIComponentABI",
-    "score.sum": 8.090943522387262e-06,
+    "score.sum": 0.00042076809844105866,
     "sha.latest": "f45f1c3585e6b50dd134b3b23ac14d1ca322dc6f",
     "time.latest": 1718006381.4124644,
     "formatted_time": "2024-06-10 13:29:41.412466",
     "filescores": {
-        "simple-vtable-definition.cpp": 8.090943522387262e-06,
-        "vbase-offset.cpp": 8.090943522387262e-06,
-        "vtable-layout.cpp": 8.090943522387262e-06
+        "simple-vtable-definition.cpp": 0.026630844645480444,
+        "vbase-offset.cpp": 0.026630844645480444,
+        "vtable-layout.cpp": 0.026630844645480444
     },
     "subdirscores": {}
 }

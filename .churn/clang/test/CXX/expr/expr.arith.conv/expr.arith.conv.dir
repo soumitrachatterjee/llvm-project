@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/clang/test/CXX/expr/expr.arith.conv",
-    "score.sum": 0,
+    "score.sum": 0.0,
     "sha.latest": "4b0029995853fe37d1dc95ef96f46697c743fcad",
     "time.latest": 1718095903.657947,
     "formatted_time": "2024-06-11 14:21:43.657949",
     "filescores": {
-        "p2.cpp": 0
+        "p2.cpp": 0.0
     },
     "subdirscores": {}
 }

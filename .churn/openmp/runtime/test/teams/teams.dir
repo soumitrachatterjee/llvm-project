@@ -1,15 +1,15 @@
 {
     "directory name": "llvm-project/openmp/runtime/test/teams",
-    "score.sum": 2.886932221597577e-05,
+    "score.sum": 0.0015013440371308181,
     "sha.latest": "fe7f620ed6e30015267d131bb753fd408bb3dd8c",
     "time.latest": 1717804814.005049,
     "formatted_time": "2024-06-08 05:30:14.005051",
     "filescores": {
-        "kmp_num_teams.c": 6.205578676270082e-06,
-        "teams-atomic.c": 6.099602068851199e-06,
-        "teams-distr-on-host.c": 6.099602068851199e-06,
-        "teams.c": 0,
-        "teams_resize.c": 6.099602068851199e-06
+        "kmp_num_teams.c": 0.020425281823533755,
+        "teams-atomic.c": 0.02007646631636598,
+        "teams-distr-on-host.c": 0.02007646631636598,
+        "teams.c": 0.0,
+        "teams_resize.c": 0.02007646631636598
     },
     "subdirscores": {}
 }

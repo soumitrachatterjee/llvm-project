@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/lld/test/MachO/Inputs/iPhoneSimulator.sdk/usr/lib",
-    "score.sum": 2.9978565911218487e-05,
+    "score.sum": 0.0015590300609009235,
     "sha.latest": "7208bd4b320fac383552995dea41c55677e8f3f5",
     "time.latest": 1717897736.9006844,
     "formatted_time": "2024-06-09 07:18:56.900687",
     "filescores": {
-        "libSystem.tbd": 2.9978565911218487e-05
+        "libSystem.tbd": 0.09867261207137903
     },
     "subdirscores": {}
 }

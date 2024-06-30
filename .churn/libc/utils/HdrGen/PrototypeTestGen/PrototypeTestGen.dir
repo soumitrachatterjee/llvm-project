@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/libc/utils/HdrGen/PrototypeTestGen",
-    "score.sum": 5.508026504716225e-05,
+    "score.sum": 0.002864439520730433,
     "sha.latest": "b6bc9d72f65a5086f310f321e969d96e9a559e75",
     "time.latest": 1717851836.219811,
     "formatted_time": "2024-06-08 08:03:56.219814",
     "filescores": {
-        "CMakeLists.txt": 6.6698166532700614e-06,
-        "PrototypeTestGen.cpp": 4.693243562036974e-05
+        "CMakeLists.txt": 0.02195329266798108,
+        "PrototypeTestGen.cpp": 0.15447523498116153
     },
     "subdirscores": {}
 }

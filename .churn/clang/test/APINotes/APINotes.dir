@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/clang/test/APINotes",
-    "score.sum": 1.726621045873978e-05,
+    "score.sum": 0.0008979262457962964,
     "sha.latest": "09fc7796e57417071523c82bdac8b3bf050648a0",
     "time.latest": 1717843508.9187458,
     "formatted_time": "2024-06-08 16:15:08.918750",
     "filescores": {
-        "yaml-roundtrip-2.test": 6.099602068851199e-06,
-        "yaml-roundtrip.test": 6.317732862338828e-06
+        "yaml-roundtrip-2.test": 0.02007646631636598,
+        "yaml-roundtrip.test": 0.02079443045215449
     },
     "subdirscores": {
-        "Inputs": 6.099602068851199e-06
+        "Inputs": 0.00031720873550238375
     }
 }

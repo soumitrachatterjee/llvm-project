@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/lldb/test/API/tools/lldb-server/thread-name",
-    "score.sum": 2.1439272830926436e-05,
+    "score.sum": 0.0011149456223575644,
     "sha.latest": "a2e61bc2f3bc66124575c0abf9b8421073470202",
     "time.latest": 1717970541.0052981,
     "formatted_time": "2024-06-10 03:32:21.005301",
     "filescores": {
-        "main.cpp": 7.274183439793914e-06,
-        "Makefile": 0,
-        "TestGdbRemoteThreadName.py": 1.644523196656748e-05
+        "main.cpp": 0.02394252889936391,
+        "Makefile": 0.0,
+        "TestGdbRemoteThreadName.py": 0.054128472958531855
     },
     "subdirscores": {}
 }

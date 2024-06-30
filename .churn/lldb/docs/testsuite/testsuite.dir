@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/lldb/docs/testsuite",
-    "score.sum": 3.8815764504774774e-05,
+    "score.sum": 0.002018607023398314,
     "sha.latest": "2685e7eadce08125672f0f6013145ae45b7a5ac3",
     "time.latest": 1717840666.1228132,
     "formatted_time": "2024-06-08 15:27:46.122817",
     "filescores": {
-        "a-detailed-walkthrough.txt": 2.9037436194104064e-05
+        "a-detailed-walkthrough.txt": 0.09557494129684319
     },
     "subdirscores": {}
 }

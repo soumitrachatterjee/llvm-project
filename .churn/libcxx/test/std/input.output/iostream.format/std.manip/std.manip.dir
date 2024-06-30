@@ -1,16 +1,16 @@
 {
     "directory name": "llvm-project/libcxx/test/std/input.output/iostream.format/std.manip",
-    "score.sum": 2.2358347365640556e-05,
+    "score.sum": 0.001162741932296848,
     "sha.latest": "f4c1258d5633fcf06385ff3fd1f4bf57ab971964",
     "time.latest": 1717906854.9059963,
     "formatted_time": "2024-06-09 09:50:54.905998",
     "filescores": {
-        "resetiosflags.pass.cpp": 2.101008021559111e-05,
-        "setbase.pass.cpp": 2.101008021559111e-05,
-        "setfill.pass.cpp": 2.101008021559111e-05,
-        "setiosflags.pass.cpp": 2.101008021559111e-05,
-        "setprecision.pass.cpp": 2.101008021559111e-05,
-        "setw.pass.cpp": 2.101008021559111e-05
+        "resetiosflags.pass.cpp": 0.06915339115423733,
+        "setbase.pass.cpp": 0.06915339115423733,
+        "setfill.pass.cpp": 0.06915339115423733,
+        "setiosflags.pass.cpp": 0.06915339115423733,
+        "setprecision.pass.cpp": 0.06915339115423733,
+        "setw.pass.cpp": 0.06915339115423733
     },
     "subdirscores": {}
 }

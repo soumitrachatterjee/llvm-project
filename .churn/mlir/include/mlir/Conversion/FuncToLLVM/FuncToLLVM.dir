@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/mlir/include/mlir/Conversion/FuncToLLVM",
-    "score.sum": 3.956028250305465e-05,
+    "score.sum": 0.002057325551283791,
     "sha.latest": "8c67c48591fbf76559a8b39e68c88c4da0a40218",
     "time.latest": 1717791578.310167,
     "formatted_time": "2024-06-07 15:19:38.310170",
     "filescores": {
-        "ConvertFuncToLLVM.h": 1.7601838179852524e-05,
-        "ConvertFuncToLLVMPass.h": 2.3427131126119245e-05
+        "ConvertFuncToLLVM.h": 0.05793537141194033,
+        "ConvertFuncToLLVMPass.h": 0.07710896606591335
     },
     "subdirscores": {}
 }

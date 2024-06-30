@@ -1,23 +1,23 @@
 {
     "directory name": "llvm-project/mlir/include/mlir/Dialect/Bufferization/IR",
-    "score.sum": 0.0005254970480448166,
+    "score.sum": 0.02732838179260546,
     "sha.latest": "067d2779fcfc62dd429177f350b8cefe49b65b51",
     "time.latest": 1717793631.384289,
     "formatted_time": "2024-06-07 15:53:51.384293",
     "filescores": {
-        "AllocationOpInterface.h": 1.2227342115773767e-05,
-        "AllocationOpInterface.td": 1.7103974728121695e-05,
-        "BufferDeallocationOpInterface.h": 1.6112414830081853e-05,
-        "BufferDeallocationOpInterface.td": 1.3247460426743058e-05,
-        "BufferizableOpInterface.h": 0.00017955942788460094,
-        "BufferizableOpInterface.td": 9.322677204477538e-05,
-        "Bufferization.h": 4.768420123722081e-05,
-        "BufferizationBase.td": 7.930820822813716e-05,
-        "BufferizationEnums.td": 6.099602068851199e-06,
-        "BufferizationOps.td": 0.00018464006071759392,
-        "CMakeLists.txt": 3.250810499390296e-05,
-        "DstBufferizableOpInterfaceImpl.h": 1.034343914656297e-05,
-        "UnstructuredControlFlow.h": 0
+        "AllocationOpInterface.h": 0.04024554706275278,
+        "AllocationOpInterface.td": 0.05629668437858994,
+        "BufferDeallocationOpInterface.h": 0.05303302575480606,
+        "BufferDeallocationOpInterface.td": 0.04360320395212104,
+        "BufferizableOpInterface.h": 0.5910088502527655,
+        "BufferizableOpInterface.td": 0.306850205572996,
+        "Bufferization.h": 0.1569496254273165,
+        "BufferizationBase.td": 0.2610381059503142,
+        "BufferizationEnums.td": 0.02007646631636598,
+        "BufferizationOps.td": 0.6077314417900553,
+        "CMakeLists.txt": 0.10699843490641044,
+        "DstBufferizableOpInterfaceImpl.h": 0.03404479591903336,
+        "UnstructuredControlFlow.h": 0.0
     },
     "subdirscores": {}
 }

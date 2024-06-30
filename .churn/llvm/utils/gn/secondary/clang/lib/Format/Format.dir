@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/llvm/utils/gn/secondary/clang/lib/Format",
-    "score.sum": 4.034844843462861e-05,
+    "score.sum": 0.0020983139822828185,
     "sha.latest": "51b988efb06f0343e7b71c9aec9ec3195412179d",
     "time.latest": 1718083803.7251308,
     "formatted_time": "2024-06-11 00:30:03.725134",
     "filescores": {
-        "BUILD.gn": 4.034844843462861e-05
+        "BUILD.gn": 0.13280444474437933
     },
     "subdirscores": {}
 }

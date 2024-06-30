@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/cross-project-tests/debuginfo-tests/dexter/dex/heuristic",
-    "score.sum": 1.498264684260552e-05,
+    "score.sum": 0.0007791699205579146,
     "sha.latest": "f98ee40f4b5d7474fc67e82824bf6abbaedb7b1c",
     "time.latest": 1717789263.2256792,
     "formatted_time": "2024-06-08 01:11:03.225684",
     "filescores": {
-        "Heuristic.py": 1.498264684260552e-05,
-        "__init__.py": 0
+        "Heuristic.py": 0.049314463676518046,
+        "__init__.py": 0.0
     },
     "subdirscores": {}
 }

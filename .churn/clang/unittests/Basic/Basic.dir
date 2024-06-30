@@ -1,20 +1,20 @@
 {
     "directory name": "llvm-project/clang/unittests/Basic",
-    "score.sum": 0.0008766090431696915,
+    "score.sum": 0.04558789950148073,
     "sha.latest": "9cf9cb271bf86bda4996be9a31fa413381f2f5e3",
     "time.latest": 1718081986.336224,
     "formatted_time": "2024-06-11 10:29:46.336227",
     "filescores": {
-        "CharInfoTest.cpp": 1.3958618301860348e-05,
-        "CMakeLists.txt": 0.00012528431562341665,
-        "DarwinSDKInfoTest.cpp": 2.5984910051184138e-05,
-        "DiagnosticTest.cpp": 3.975216691072027e-05,
-        "FileEntryTest.cpp": 2.837731522744347e-05,
-        "FileManagerTest.cpp": 0.00024019234505094446,
-        "LineOffsetMappingTest.cpp": 6.099602068851199e-06,
-        "SanitizersTest.cpp": 0,
-        "SarifTest.cpp": 2.740568968889812e-05,
-        "SourceManagerTest.cpp": 0.00013920975822137328
+        "CharInfoTest.cpp": 0.04594393650553165,
+        "CMakeLists.txt": 0.41236564519957525,
+        "DarwinSDKInfoTest.cpp": 0.08552773861109475,
+        "DiagnosticTest.cpp": 0.13084182065928524,
+        "FileEntryTest.cpp": 0.09340219359915862,
+        "FileManagerTest.cpp": 0.7905783804307186,
+        "LineOffsetMappingTest.cpp": 0.02007646631636598,
+        "SanitizersTest.cpp": 0.0,
+        "SarifTest.cpp": 0.09020414769771501,
+        "SourceManagerTest.cpp": 0.4582003859093113
     },
     "subdirscores": {}
 }

@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/lldb/test/API/commands/register/register/aarch64_sve_registers",
-    "score.sum": 6.814561882758822e-05,
+    "score.sum": 0.003543900951951434,
     "sha.latest": "9c2468821ec51defd09c246fea4a47886fff8c01",
     "time.latest": 1717897286.507672,
     "formatted_time": "2024-06-09 07:11:26.507675",
     "filescores": {},
     "subdirscores": {
-        "rw_access_dynamic_resize": 5.437319828433585e-05,
-        "rw_access_static_config": 4.4816286617950015e-05
+        "rw_access_dynamic_resize": 0.0028276686377744294,
+        "rw_access_static_config": 0.0023306631231879353
     }
 }

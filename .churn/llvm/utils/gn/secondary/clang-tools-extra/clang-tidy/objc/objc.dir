@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/llvm/utils/gn/secondary/clang-tools-extra/clang-tidy/objc",
-    "score.sum": 1.744042684006394e-05,
+    "score.sum": 0.000906986338143279,
     "sha.latest": "577840bc7a29c4e01062fd2ed9c87dc381c44b20",
     "time.latest": 1718082026.162914,
     "formatted_time": "2024-06-11 00:00:26.162917",
     "filescores": {
-        "BUILD.gn": 1.744042684006394e-05
+        "BUILD.gn": 0.05740409588121455
     },
     "subdirscores": {}
 }

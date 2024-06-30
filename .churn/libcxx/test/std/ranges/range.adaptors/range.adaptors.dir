@@ -1,30 +1,30 @@
 {
     "directory name": "llvm-project/libcxx/test/std/ranges/range.adaptors",
-    "score.sum": 0.0003304749206424018,
+    "score.sum": 0.017186290270894758,
     "sha.latest": "ba2236d3000645d3127f972aa7ac1844c47e299c",
     "time.latest": 1717963969.7779493,
     "formatted_time": "2024-06-10 01:42:49.777952",
     "filescores": {
-        "robust_against_nonbool.compile.pass.cpp": 0
+        "robust_against_nonbool.compile.pass.cpp": 0.0
     },
     "subdirscores": {
-        "range.all": 2.801152960401331e-05,
-        "range.as.rvalue": 1.6233404021432665e-05,
-        "range.chunk.by": 1.39119705136891e-05,
-        "range.common.view": 1.7631298048039392e-05,
-        "range.counted": 1.677465982185888e-05,
-        "range.drop": 5.763030831371922e-05,
-        "range.drop.while": 7.976504346127186e-06,
-        "range.elements": 2.3096947121583087e-05,
-        "range.empty": 1.921244768583565e-05,
-        "range.filter": 4.809168936069723e-05,
-        "range.join": 1.0140601820525048e-05,
-        "range.lazy.split": 4.8954781824422964e-05,
-        "range.reverse": 2.576027551915932e-05,
-        "range.split": 1.6918444188425438e-05,
-        "range.take": 5.720455800862515e-05,
-        "range.take.while": 1.5404824299589534e-05,
-        "range.transform": 4.8838289246058205e-05,
-        "range.zip": 2.829914060174271e-05
+        "range.all": 0.001456734682833195,
+        "range.as.rvalue": 0.0008442153282153049,
+        "range.chunk.by": 0.0007234895859075137,
+        "range.common.view": 0.0009169125618284102,
+        "range.counted": 0.0008723632411608566,
+        "range.drop": 0.002997054073438992,
+        "range.drop.while": 0.0004148167091563754,
+        "range.elements": 0.0012011526830278422,
+        "range.empty": 0.0009991399713518425,
+        "range.filter": 0.00250099986820179,
+        "range.join": 0.0005273602186523871,
+        "range.lazy.split": 0.0025458848403605784,
+        "range.reverse": 0.001339658609100797,
+        "range.split": 0.0008798407219192333,
+        "range.take": 0.0029749130035143963,
+        "range.take.while": 0.0008011251851433522,
+        "range.transform": 0.002539826664259682,
+        "range.zip": 0.0014716918423128634
     }
 }

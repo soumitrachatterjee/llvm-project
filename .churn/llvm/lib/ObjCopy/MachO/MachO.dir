@@ -1,19 +1,19 @@
 {
     "directory name": "llvm-project/llvm/lib/ObjCopy/MachO",
-    "score.sum": 6.685490398936833e-05,
+    "score.sum": 0.003476777553227325,
     "sha.latest": "fab2bb8bfda865bd438dee981d7be7df8017b76d",
     "time.latest": 1717841093.1490622,
     "formatted_time": "2024-06-08 05:04:53.149066",
     "filescores": {
-        "MachOLayoutBuilder.cpp": 1.331284623315504e-05,
-        "MachOLayoutBuilder.h": 6.807849624684122e-06,
-        "MachOObjcopy.cpp": 2.4268261173680727e-05,
-        "MachOObject.cpp": 1.790012861104021e-05,
-        "MachOObject.h": 2.1195239161416162e-05,
-        "MachOReader.cpp": 2.179854872976409e-05,
-        "MachOReader.h": 1.1152091880585962e-05,
-        "MachOWriter.cpp": 1.9774298359026315e-05,
-        "MachOWriter.h": 1.1152091880585962e-05
+        "MachOLayoutBuilder.cpp": 0.04381841732590852,
+        "MachOLayoutBuilder.h": 0.022407619732248772,
+        "MachOObjcopy.cpp": 0.07987749405789299,
+        "MachOObject.cpp": 0.05891717608159508,
+        "MachOObject.h": 0.06976283047455198,
+        "MachOReader.cpp": 0.07174858693711408,
+        "MachOReader.h": 0.03670642682429462,
+        "MachOWriter.cpp": 0.06508589092428019,
+        "MachOWriter.h": 0.03670642682429462
     },
     "subdirscores": {}
 }

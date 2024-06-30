@@ -1,18 +1,18 @@
 {
     "directory name": "llvm-project/mlir/include/mlir/Dialect/Linalg",
-    "score.sum": 0.0036038017141696655,
+    "score.sum": 0.187415075909761,
     "sha.latest": "fb582b6ace781ff6991775d6dcd4df98aa16698f",
     "time.latest": 1717795164.2572246,
     "formatted_time": "2024-06-07 16:19:24.257225",
     "filescores": {
-        "CMakeLists.txt": 3.6533820783590614e-05,
-        "Passes.h": 0.0002374098944890778,
-        "Passes.td": 0.0002762953385662509
+        "CMakeLists.txt": 0.1202488316599398,
+        "Passes.h": 0.7814201149649206,
+        "Passes.td": 0.9094091705459403
     },
     "subdirscores": {
-        "IR": 0.0013645678894911553,
-        "TransformOps": 0.0004680568488199833,
-        "Transforms": 0.0011518269279072978,
-        "Utils": 0.00046055965094707975
+        "IR": 0.07096411369900554,
+        "TransformOps": 0.024341214308982048,
+        "Transforms": 0.05990055731420576,
+        "Utils": 0.023951323848878183
     }
 }

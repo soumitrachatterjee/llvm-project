@@ -1,26 +1,26 @@
 {
     "directory name": "llvm-project/llvm/include/llvm/Transforms",
-    "score.sum": 0.018922575339071306,
+    "score.sum": 0.9840652108123336,
     "sha.latest": "a6a6fca7911feab8325129ea57247303b3c8d558",
     "time.latest": 1717826494.5229127,
     "formatted_time": "2024-06-08 01:01:34.522913",
     "filescores": {
-        "CFGuard.h": 6.099602068851199e-06,
-        "IPO.h": 0.0006029198025098969,
-        "Instrumentation.h": 0.0006916692502945491,
-        "ObjCARC.h": 4.166430741044698e-05,
-        "Scalar.h": 0.0013390938163527,
-        "Utils.h": 0.00011965738174889416
+        "CFGuard.h": 0.02007646631636598,
+        "IPO.h": 1.9844735721980855,
+        "Instrumentation.h": 2.276586939419799,
+        "ObjCARC.h": 0.1371355139037943,
+        "Scalar.h": 4.4075452127850605,
+        "Utils.h": 0.3938449372712388
     },
     "subdirscores": {
-        "AggressiveInstCombine": 3.3841192109430635e-05,
-        "Coroutines": 4.393115750225341e-05,
-        "HipStdPar": 6.4992862040776705e-06,
-        "IPO": 0.004847132447852067,
-        "InstCombine": 0.0003191083399125315,
-        "Instrumentation": 0.0010164149545500568,
-        "Scalar": 0.002775234017673683,
-        "Utils": 0.007976378697329851,
-        "Vectorize": 0.0005092033461984513
+        "AggressiveInstCombine": 0.001759905258696248,
+        "Coroutines": 0.002284632138809418,
+        "HipStdPar": 0.0003379942388359531,
+        "IPO": 0.2520742725902628,
+        "InstCombine": 0.016595173234142394,
+        "Instrumentation": 0.05285848139586264,
+        "Scalar": 0.14432555821387716,
+        "Utils": 0.41481017481271326,
+        "Vectorize": 0.02648103068658292
     }
 }

@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/lldb/test/API/functionalities/data-formatter/data-formatter-synthtype",
-    "score.sum": 1.18228661277381e-05,
+    "score.sum": 0.0006148460788197129,
     "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
     "time.latest": 1717907643.8195863,
     "formatted_time": "2024-06-09 10:04:03.819588",
     "filescores": {
-        "main.cpp": 0,
-        "Makefile": 0,
-        "myIntSynthProvider.py": 6.099602068851199e-06,
-        "TestDataFormatterSynthType.py": 1.18228661277381e-05
+        "main.cpp": 0.0,
+        "Makefile": 0.0,
+        "myIntSynthProvider.py": 0.02007646631636598,
+        "TestDataFormatterSynthType.py": 0.03891423914169256
     },
     "subdirscores": {}
 }

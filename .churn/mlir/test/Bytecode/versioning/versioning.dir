@@ -1,23 +1,23 @@
 {
     "directory name": "llvm-project/mlir/test/Bytecode/versioning",
-    "score.sum": 2.317723403067348e-05,
+    "score.sum": 0.0012053279896498945,
     "sha.latest": "cf0e8dca8496660fc18a8bbbb4da765027f2080d",
     "time.latest": 1717815062.2982194,
     "formatted_time": "2024-06-07 21:51:02.298223",
     "filescores": {
-        "versioned-attr-1.12.mlirbc": 0,
-        "versioned-attr-2.0.mlirbc": 0,
-        "versioned-op-1.12.mlirbc": 0,
-        "versioned-op-2.0.mlirbc": 0,
-        "versioned-op-2.2.mlirbc": 0,
-        "versioned-op-with-native-prop-1.12.mlirbc": 0,
-        "versioned-op-with-native-prop-2.0.mlirbc": 0,
-        "versioned-op-with-prop-1.12.mlirbc": 0,
-        "versioned-op-with-prop-2.0.mlirbc": 0,
-        "versioned_attr.mlir": 1.523685248997139e-05,
-        "versioned_bytecode.mlir": 1.198145772986181e-05,
-        "versioned_op.mlir": 1.7444380539701534e-05,
-        "versioned_op_with_native_properties.mlir": 0
+        "versioned-attr-1.12.mlirbc": 0.0,
+        "versioned-attr-2.0.mlirbc": 0.0,
+        "versioned-op-1.12.mlirbc": 0.0,
+        "versioned-op-2.0.mlirbc": 0.0,
+        "versioned-op-2.2.mlirbc": 0.0,
+        "versioned-op-with-native-prop-1.12.mlirbc": 0.0,
+        "versioned-op-with-native-prop-2.0.mlirbc": 0.0,
+        "versioned-op-with-prop-1.12.mlirbc": 0.0,
+        "versioned-op-with-prop-2.0.mlirbc": 0.0,
+        "versioned_attr.mlir": 0.05015116598253129,
+        "versioned_bytecode.mlir": 0.03943623367873862,
+        "versioned_op.mlir": 0.05741710924121791,
+        "versioned_op_with_native_properties.mlir": 0.0
     },
     "subdirscores": {}
 }

@@ -1,15 +1,15 @@
 {
     "directory name": "llvm-project/libcxx/test/std/strings/basic.string/string.nonmembers/string_operator==",
-    "score.sum": 3.972449974261034e-05,
+    "score.sum": 0.002065865640017311,
     "sha.latest": "6e1dcc9335116f650d68cdbed12bbb34a99b2d9b",
     "time.latest": 1717970261.8600912,
     "formatted_time": "2024-06-10 03:27:41.860093",
     "filescores": {
-        "pointer_string.pass.cpp": 3.7279668694249726e-05,
-        "string_pointer.pass.cpp": 3.7279668694249726e-05,
-        "string_string.pass.cpp": 3.7279668694249726e-05,
-        "string_string_view.pass.cpp": 3.376840354053441e-05,
-        "string_view_string.pass.cpp": 3.347626898181593e-05
+        "pointer_string.pass.cpp": 0.12270374433890735,
+        "string_pointer.pass.cpp": 0.12270374433890735,
+        "string_string.pass.cpp": 0.12270374433890735,
+        "string_string_view.pass.cpp": 0.1111466303188985,
+        "string_view_string.pass.cpp": 0.11018508732613365
     },
     "subdirscores": {}
 }

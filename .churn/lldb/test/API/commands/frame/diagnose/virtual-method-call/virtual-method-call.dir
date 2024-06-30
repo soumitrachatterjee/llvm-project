@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/lldb/test/API/commands/frame/diagnose/virtual-method-call",
-    "score.sum": 1.2557410235174005e-05,
+    "score.sum": 0.0006530459162616255,
     "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
     "time.latest": 1717894943.0384054,
     "formatted_time": "2024-06-09 06:32:23.038407",
     "filescores": {
-        "main.cpp": 0,
-        "Makefile": 0,
-        "TestDiagnoseDereferenceVirtualMethodCall.py": 1.2557410235174005e-05
+        "main.cpp": 0.0,
+        "Makefile": 0.0,
+        "TestDiagnoseDereferenceVirtualMethodCall.py": 0.041331946045251186
     },
     "subdirscores": {}
 }

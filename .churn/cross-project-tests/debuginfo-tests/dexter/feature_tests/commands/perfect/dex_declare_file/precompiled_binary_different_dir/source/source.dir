@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/cross-project-tests/debuginfo-tests/dexter/feature_tests/commands/perfect/dex_declare_file/precompiled_binary_different_dir/source",
-    "score.sum": 0,
+    "score.sum": 0.0,
     "sha.latest": "1364750dadbb56032ef73b4d0d8cbc88a51392da",
     "time.latest": 1717790968.6207614,
     "formatted_time": "2024-06-08 01:39:28.620766",
     "filescores": {
-        "test.cpp": 0
+        "test.cpp": 0.0
     },
     "subdirscores": {}
 }

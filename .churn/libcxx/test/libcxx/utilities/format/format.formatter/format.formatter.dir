@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/libcxx/test/libcxx/utilities/format/format.formatter",
-    "score.sum": 2.3011364893806015e-05,
+    "score.sum": 0.0011967019942864773,
     "sha.latest": "dff62f5251f26db856124526ae1b335ddc1e892c",
     "time.latest": 1717866506.110064,
     "formatted_time": "2024-06-08 22:38:26.110067",
     "filescores": {},
     "subdirscores": {
-        "format.context": 1.0776695623183843e-05
+        "format.context": 0.0005604401652660687
     }
 }

@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/utils/bazel/llvm-project-overlay/mlir/test/Dialect",
-    "score.sum": 9.122652597230294e-05,
+    "score.sum": 0.0047442194787962215,
     "sha.latest": "3517b67ef021055d201234384359fa313f3312f7",
     "time.latest": 1717790515.9087708,
     "formatted_time": "2024-06-08 01:31:55.908775",
     "filescores": {
-        "BUILD.bazel": 9.122652597230294e-05
+        "BUILD.bazel": 0.3002665182364876
     },
     "subdirscores": {}
 }

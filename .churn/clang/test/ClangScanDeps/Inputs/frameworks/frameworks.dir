@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/clang/test/ClangScanDeps/Inputs/frameworks",
-    "score.sum": 2.1585390557172277e-05,
+    "score.sum": 0.0011225444490767075,
     "sha.latest": "29b95f05738fed5bf9777e285ccb084ada54b9b1",
     "time.latest": 1717868278.093408,
     "formatted_time": "2024-06-08 23:07:58.093410",
     "filescores": {
-        "module.modulemap": 1.5063857166042616e-05
+        "module.modulemap": 0.049581762478082846
     },
     "subdirscores": {
-        "Framework.framework": 0,
-        "System.framework": 1.5063857166042616e-05
+        "Framework.framework": 0.0,
+        "System.framework": 0.0007833932491810672
     }
 }

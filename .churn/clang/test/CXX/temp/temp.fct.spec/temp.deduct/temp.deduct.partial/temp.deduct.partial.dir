@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/clang/test/CXX/temp/temp.fct.spec/temp.deduct/temp.deduct.partial",
-    "score.sum": 1.2160204154734319e-05,
+    "score.sum": 0.0006323892837325037,
     "sha.latest": "85914b757015dfbc780dc254696acb95b8dc7679",
     "time.latest": 1718115195.242931,
     "formatted_time": "2024-06-11 19:43:15.242933",
     "filescores": {
-        "p11.cpp": 1.923516330085301e-05,
-        "p12.cpp": 7.517658318926533e-06,
-        "p9-0x.cpp": 8.639897249724402e-06
+        "p11.cpp": 0.06331136092819031,
+        "p12.cpp": 0.02474391153951177,
+        "p9-0x.cpp": 0.028437692189258547
     },
     "subdirscores": {}
 }

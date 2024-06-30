@@ -1,20 +1,20 @@
 {
     "directory name": "llvm-project/clang/test/CXX/module",
-    "score.sum": 0.00016730934869531942,
+    "score.sum": 0.008700893326860136,
     "sha.latest": "a0d266d705d6c145e8daa08a08f70e9498ec3d0b",
     "time.latest": 1718104697.139964,
     "formatted_time": "2024-06-11 16:48:17.139967",
     "filescores": {
-        "codegen-basics.cppm": 0
+        "codegen-basics.cppm": 0.0
     },
     "subdirscores": {
-        "basic": 1.8074267677751353e-05,
-        "dcl.dcl": 6.121429066804207e-06,
-        "module.context": 1.0777095094918021e-05,
-        "module.import": 2.4718255702207658e-05,
-        "module.interface": 6.968466486278812e-05,
-        "module.private.frag": 0,
-        "module.reach": 6.870274520619872e-06,
-        "module.unit": 5.26795290723544e-05
+        "basic": 0.0009399491197088745,
+        "dcl.dcl": 0.0003183438447016944,
+        "module.context": 0.0005604609397235231,
+        "module.import": 0.001285468551327747,
+        "module.interface": 0.003623938771008319,
+        "module.private.frag": 0.0,
+        "module.reach": 0.0003572874211531192,
+        "module.unit": 0.0027395896675354507
     }
 }

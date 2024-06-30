@@ -1,30 +1,30 @@
 {
     "directory name": "llvm-project/compiler-rt/lib/gwp_asan/tests",
-    "score.sum": 0.00017706109538446766,
+    "score.sum": 0.009208031202624364,
     "sha.latest": "4f1f171f330545c7fad254a672c61eaffcd9344c",
     "time.latest": 1717799705.1096888,
     "formatted_time": "2024-06-08 04:05:05.109692",
     "filescores": {
-        "alignment.cpp": 2.6105017513824468e-05,
-        "backtrace.cpp": 4.375081681716187e-05,
-        "basic.cpp": 2.118346999126201e-05,
-        "CMakeLists.txt": 8.701575830047368e-05,
-        "compression.cpp": 7.631705853309984e-06,
-        "crash_handler_api.cpp": 3.1164089624468886e-05,
-        "driver.cpp": 6.099602068851199e-06,
-        "enable_disable.cpp": 6.099602068851199e-06,
-        "harness.cpp": 2.3124095750582844e-05,
-        "harness.h": 8.058445033536814e-05,
-        "iterate.cpp": 8.496629331115722e-06,
-        "late_init.cpp": 6.099602068851199e-06,
-        "mutex_test.cpp": 6.100651036078026e-06,
-        "never_allocated.cpp": 6.099602068851199e-06,
-        "options.cpp": 0,
-        "recoverable.cpp": 9.794834301735446e-06,
-        "slot_reuse.cpp": 6.752163345162125e-06,
-        "thread_contention.cpp": 7.476576111906223e-06
+        "alignment.cpp": 0.0859230649620311,
+        "backtrace.cpp": 0.14400313171719403,
+        "basic.cpp": 0.06972409297241589,
+        "CMakeLists.txt": 0.2864070345561949,
+        "compression.cpp": 0.025119292008051932,
+        "crash_handler_api.cpp": 0.10257469070333927,
+        "driver.cpp": 0.02007646631636598,
+        "enable_disable.cpp": 0.02007646631636598,
+        "harness.cpp": 0.0761115437027903,
+        "harness.h": 0.2652387786152076,
+        "iterate.cpp": 0.027966134617191427,
+        "late_init.cpp": 0.02007646631636598,
+        "mutex_test.cpp": 0.02007991892769351,
+        "never_allocated.cpp": 0.02007646631636598,
+        "options.cpp": 0.0,
+        "recoverable.cpp": 0.03223909670064986,
+        "slot_reuse.cpp": 0.022224331756658312,
+        "thread_contention.cpp": 0.024608691973360533
     },
     "subdirscores": {
-        "platform_specific": 0
+        "platform_specific": 0.0
     }
 }

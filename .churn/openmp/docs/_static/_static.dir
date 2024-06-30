@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/openmp/docs/_static",
-    "score.sum": 0,
+    "score.sum": 0.0,
     "sha.latest": "0103df7903b328aa4ca8116a5c4cb4c01d48ea7d",
     "time.latest": 1717792481.749703,
     "formatted_time": "2024-06-08 02:04:41.749708",
     "filescores": {
-        "lines.gif": 0
+        "lines.gif": 0.0
     },
     "subdirscores": {}
 }

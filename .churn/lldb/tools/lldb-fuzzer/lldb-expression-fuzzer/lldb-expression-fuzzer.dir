@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/lldb/tools/lldb-fuzzer/lldb-expression-fuzzer",
-    "score.sum": 7.571078574214425e-06,
+    "score.sum": 0.0003937326130142239,
     "sha.latest": "4fdda4f82d787c988d5bbdf365df95fd0c8ca14b",
     "time.latest": 1717991283.3346446,
     "formatted_time": "2024-06-10 09:18:03.334649",
     "filescores": {
-        "CMakeLists.txt": 6.117084733378711e-06,
-        "lldb-expression-fuzzer.cpp": 7.571078574214425e-06
+        "CMakeLists.txt": 0.02013400943500634,
+        "lldb-expression-fuzzer.cpp": 0.02491974103523837
     },
     "subdirscores": {}
 }

@@ -1,15 +1,15 @@
 {
     "directory name": "llvm-project/libcxx/test/std/utilities/utility/mem.res/mem.poly.allocator.class/mem.poly.allocator.ctor",
-    "score.sum": 1.0671665843727875e-05,
+    "score.sum": 0.0005549781100114386,
     "sha.latest": "2da049a1418f7a2f96e7cac4368cac3ce8667d2e",
     "time.latest": 1718007866.9587443,
     "formatted_time": "2024-06-10 13:54:26.958746",
     "filescores": {
-        "assign.pass.cpp": 6.099602068851199e-06,
-        "copy.pass.cpp": 6.099602068851199e-06,
-        "default.pass.cpp": 1.017672743381375e-05,
-        "memory_resource_convert.pass.cpp": 1.0671665843727875e-05,
-        "other_alloc.pass.cpp": 6.099602068851199e-06
+        "assign.pass.cpp": 0.02007646631636598,
+        "copy.pass.cpp": 0.02007646631636598,
+        "default.pass.cpp": 0.03349607453560978,
+        "memory_resource_convert.pass.cpp": 0.03512513397311963,
+        "other_alloc.pass.cpp": 0.02007646631636598
     },
     "subdirscores": {}
 }

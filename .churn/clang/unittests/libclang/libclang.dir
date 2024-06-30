@@ -1,15 +1,15 @@
 {
     "directory name": "llvm-project/clang/unittests/libclang",
-    "score.sum": 0.0001971994554782633,
+    "score.sum": 0.01025532308631403,
     "sha.latest": "f3dcc2351cff7b26c9870d737e5d431551542d9e",
     "time.latest": 1718082589.811727,
     "formatted_time": "2024-06-11 10:39:49.811730",
     "filescores": {
-        "CMakeLists.txt": 1.0280559217552258e-05,
-        "LibclangTest.cpp": 0.00015332639990781665,
-        "TestUtils.h": 2.257178385495345e-05
+        "CMakeLists.txt": 0.03383783048710695,
+        "LibclangTest.cpp": 0.5046644466986844,
+        "TestUtils.h": 0.07429364295392715
     },
     "subdirscores": {
-        "CrashTests": 4.0293795713848526e-05
+        "CrashTests": 0.0020954717771266913
     }
 }

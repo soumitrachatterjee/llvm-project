@@ -1,29 +1,29 @@
 {
     "directory name": "llvm-project/libc/src/search",
-    "score.sum": 1.6870384123815122e-05,
+    "score.sum": 0.0008773413666906269,
     "sha.latest": "330793c91d08e6ac60334e4813746db898b9407e",
     "time.latest": 1717836228.14808,
     "formatted_time": "2024-06-08 03:43:48.148084",
     "filescores": {
-        "CMakeLists.txt": 6.68899288485153e-06,
-        "hcreate.cpp": 6.099602068851199e-06,
-        "hcreate.h": 0,
-        "hcreate_r.cpp": 0,
-        "hcreate_r.h": 0,
-        "hdestroy.cpp": 6.099602068851199e-06,
-        "hdestroy.h": 0,
-        "hdestroy_r.cpp": 0,
-        "hdestroy_r.h": 0,
-        "hsearch.cpp": 6.099602068851199e-06,
-        "hsearch.h": 0,
-        "hsearch_r.cpp": 6.099602068851199e-06,
-        "hsearch_r.h": 0,
-        "insque.cpp": 0,
-        "insque.h": 0,
-        "remque.cpp": 0,
-        "remque.h": 0
+        "CMakeLists.txt": 0.02201641005876731,
+        "hcreate.cpp": 0.02007646631636598,
+        "hcreate.h": 0.0,
+        "hcreate_r.cpp": 0.0,
+        "hcreate_r.h": 0.0,
+        "hdestroy.cpp": 0.02007646631636598,
+        "hdestroy.h": 0.0,
+        "hdestroy_r.cpp": 0.0,
+        "hdestroy_r.h": 0.0,
+        "hsearch.cpp": 0.02007646631636598,
+        "hsearch.h": 0.0,
+        "hsearch_r.cpp": 0.02007646631636598,
+        "hsearch_r.h": 0.0,
+        "insque.cpp": 0.0,
+        "insque.h": 0.0,
+        "remque.cpp": 0.0,
+        "remque.h": 0.0
     },
     "subdirscores": {
-        "hsearch": 1.1871548307301933e-05
+        "hsearch": 0.0006173777870273356
     }
 }

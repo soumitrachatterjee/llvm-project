@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/libcxx/test/std/re/re.submatch",
-    "score.sum": 2.6625059712534698e-05,
+    "score.sum": 0.0013846315593632258,
     "sha.latest": "a79a6ea4a831facc564a36911d79d4472ad93cec",
     "time.latest": 1717967836.5067334,
     "formatted_time": "2024-06-10 02:47:16.506735",
     "filescores": {
-        "types.pass.cpp": 1.4661332372725158e-05
+        "types.pass.cpp": 0.04825687679483332
     },
     "subdirscores": {
-        "re.submatch.members": 1.9802574796902127e-05,
-        "re.submatch.op": 1.916518866865547e-05
+        "re.submatch.members": 0.0010298294282334664,
+        "re.submatch.op": 0.000996682274454308
     }
 }

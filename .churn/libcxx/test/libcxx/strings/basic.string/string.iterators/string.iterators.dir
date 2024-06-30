@@ -1,17 +1,17 @@
 {
     "directory name": "llvm-project/libcxx/test/libcxx/strings/basic.string/string.iterators",
-    "score.sum": 3.302416372292628e-05,
+    "score.sum": 0.0017174158407920717,
     "sha.latest": "6e1dcc9335116f650d68cdbed12bbb34a99b2d9b",
     "time.latest": 1717864723.1748264,
     "formatted_time": "2024-06-08 22:08:43.174829",
     "filescores": {
-        "debug.iterator.add.pass.cpp": 1.277779050464233e-05,
-        "debug.iterator.compare.pass.cpp": 1.277779050464233e-05,
-        "debug.iterator.decrement.pass.cpp": 1.277779050464233e-05,
-        "debug.iterator.dereference.pass.cpp": 1.277779050464233e-05,
-        "debug.iterator.increment.pass.cpp": 1.277779050464233e-05,
-        "debug.iterator.index.pass.cpp": 1.926161036204067e-05,
-        "debug.iterator.subtract.pass.cpp": 1.277779050464233e-05
+        "debug.iterator.add.pass.cpp": 0.04205731419334184,
+        "debug.iterator.compare.pass.cpp": 0.04205731419334184,
+        "debug.iterator.decrement.pass.cpp": 0.04205731419334184,
+        "debug.iterator.dereference.pass.cpp": 0.04205731419334184,
+        "debug.iterator.increment.pass.cpp": 0.04205731419334184,
+        "debug.iterator.index.pass.cpp": 0.06339840980893818,
+        "debug.iterator.subtract.pass.cpp": 0.04205731419334184
     },
     "subdirscores": {}
 }

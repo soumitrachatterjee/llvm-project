@@ -1,17 +1,17 @@
 {
     "directory name": "llvm-project/lldb/source/Plugins/DynamicLoader/MacOSX-DYLD",
-    "score.sum": 0.0007185834407248937,
+    "score.sum": 0.03736980576967805,
     "sha.latest": "1b26c25f7e56fe3d5e06c285566ef43812d7baee",
     "time.latest": 1717868507.2071042,
     "formatted_time": "2024-06-08 23:11:47.207107",
     "filescores": {
-        "CMakeLists.txt": 1.9020195573938515e-05,
-        "DynamicLoaderDarwin.cpp": 0.00022523840501269284,
-        "DynamicLoaderDarwin.h": 6.024048083179072e-05,
-        "DynamicLoaderMacOS.cpp": 0.0001643125751829011,
-        "DynamicLoaderMacOS.h": 6.872976841996664e-05,
-        "DynamicLoaderMacOSXDYLD.cpp": 0.00037656601696971106,
-        "DynamicLoaderMacOSXDYLD.h": 0.0001383939242495679
+        "CMakeLists.txt": 0.06260380783213768,
+        "DynamicLoaderDarwin.cpp": 0.7413584034410624,
+        "DynamicLoaderDarwin.h": 0.19827785003832527,
+        "DynamicLoaderMacOS.cpp": 0.5408247691863227,
+        "DynamicLoaderMacOS.h": 0.22621981975866437,
+        "DynamicLoaderMacOSXDYLD.cpp": 1.2394439621213484,
+        "DynamicLoaderMacOSXDYLD.h": 0.45551511840008463
     },
     "subdirscores": {}
 }

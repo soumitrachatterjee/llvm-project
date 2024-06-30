@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/lldb/packages/Python/lldbsuite/test/tools",
-    "score.sum": 0.0009900029135725573,
+    "score.sum": 0.051484927838443814,
     "sha.latest": "82c1bfc44ecee97425582f345d04e787f066b899",
     "time.latest": 1717861564.8526132,
     "formatted_time": "2024-06-08 21:16:04.852618",
     "filescores": {},
     "subdirscores": {
-        "intelpt": 2.5319003906788995e-05,
-        "lldb-dap": 4.190014515846322e-05,
-        "lldb-server": 0.00043818026304378915
+        "intelpt": 0.0013167103563142915,
+        "lldb-dap": 0.0021790096981827694,
+        "lldb-server": 0.022787487707112107
     }
 }

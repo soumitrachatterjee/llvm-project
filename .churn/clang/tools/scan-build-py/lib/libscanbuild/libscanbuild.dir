@@ -1,20 +1,20 @@
 {
     "directory name": "llvm-project/clang/tools/scan-build-py/lib/libscanbuild",
-    "score.sum": 1.4980028843413346e-05,
+    "score.sum": 0.0007790337719692162,
     "sha.latest": "dd3c26a045c081620375a878159f536758baba6e",
     "time.latest": 1718082798.520933,
     "formatted_time": "2024-06-11 10:43:18.520935",
     "filescores": {
-        "analyze.py": 1.4484674429063934e-05,
-        "arguments.py": 6.099602068851199e-06,
-        "clang.py": 6.099602068851199e-06,
-        "compilation.py": 6.099602068851199e-06,
-        "intercept.py": 6.099602068851199e-06,
-        "report.py": 6.5949564832006115e-06,
-        "shell.py": 6.099602068851199e-06,
-        "__init__.py": 6.099602068851199e-06
+        "analyze.py": 0.04767541800204669,
+        "arguments.py": 0.02007646631636598,
+        "clang.py": 0.02007646631636598,
+        "compilation.py": 0.02007646631636598,
+        "intercept.py": 0.02007646631636598,
+        "report.py": 0.02170689500697435,
+        "shell.py": 0.02007646631636598,
+        "__init__.py": 0.02007646631636598
     },
     "subdirscores": {
-        "resources": 0
+        "resources": 0.0
     }
 }

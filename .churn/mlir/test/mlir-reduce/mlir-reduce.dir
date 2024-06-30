@@ -1,18 +1,18 @@
 {
     "directory name": "llvm-project/mlir/test/mlir-reduce",
-    "score.sum": 4.0486268409628235e-05,
+    "score.sum": 0.0021054812859041244,
     "sha.latest": "5957e90c4ed332046d7461366fd579c268553939",
     "time.latest": 1717833432.4085858,
     "formatted_time": "2024-06-08 02:57:12.408590",
     "filescores": {
-        "crashop-reduction.mlir": 6.099602068851199e-06,
-        "dce-test.mlir": 1.4956470569501687e-05,
-        "failure-test.sh": 1.0155519940588597e-05,
-        "invalid.mlir": 6.099602068851199e-06,
-        "multiple-function.mlir": 2.300685805936179e-05,
-        "simple-test.mlir": 2.300685805936179e-05,
-        "single-function.mlir": 8.96986448519098e-06,
-        "test.sh": 6.113408969191012e-06
+        "crashop-reduction.mlir": 0.02007646631636598,
+        "dce-test.mlir": 0.04922830607814933,
+        "failure-test.sh": 0.033426271371635584,
+        "invalid.mlir": 0.02007646631636598,
+        "multiple-function.mlir": 0.07572566302856933,
+        "simple-test.mlir": 0.07572566302856933,
+        "single-function.mlir": 0.0295237591184733,
+        "test.sh": 0.020121910882499438
     },
     "subdirscores": {}
 }

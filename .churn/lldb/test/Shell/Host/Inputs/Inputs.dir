@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/lldb/test/Shell/Host/Inputs",
-    "score.sum": 8.22683439832498e-06,
+    "score.sum": 0.0004278350796040829,
     "sha.latest": "87aa9c9e4d41ed881453e2fab85b3d25f648bb55",
     "time.latest": 1717973046.4885159,
     "formatted_time": "2024-06-10 04:14:06.488517",
     "filescores": {
-        "simple.c": 8.22683439832498e-06
+        "simple.c": 0.02707812113379387
     },
     "subdirscores": {}
 }

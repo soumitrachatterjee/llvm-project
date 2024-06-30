@@ -1,20 +1,20 @@
 {
     "directory_name": "llvm-project/libcxx/test",
-    "score.sum": 0.024575286109578716,
+    "score.sum": 1.2780334427450555,
     "sha.latest": "e19e8600cf743690e1a23fb8a2b0dfbe2dafe559",
     "time.latest": 1718012596.236127,
     "formatted_time": "2024-06-10 15:13:16.236140",
     "filescores": {
-        ".clang-format": 0,
-        ".clang-tidy": 6.099602068851199e-06,
-        "CMakeLists.txt": 0.0004575756052100406,
-        "lit.cfg.py": 6.099602068851199e-06
+        ".clang-format": 0.0,
+        ".clang-tidy": 0.02007646631636598,
+        "CMakeLists.txt": 1.5060820560906436,
+        "lit.cfg.py": 0.02007646631636598
     },
     "subdirscores": {
-        "configs": 0.00020395886944703272,
-        "libcxx": 0.007109183965399188,
-        "std": 0.013774601812258546,
-        "support": 0.0030826134076023825,
-        "tools": 7.974376220528908e-05
+        "configs": 0.01060684522391707,
+        "libcxx": 0.36971186491561153,
+        "std": 0.7163457506889981,
+        "support": 0.1603107694617874,
+        "tools": 0.004147060363579862
     }
 }

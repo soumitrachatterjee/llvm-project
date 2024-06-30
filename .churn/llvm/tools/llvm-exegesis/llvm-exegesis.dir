@@ -1,15 +1,15 @@
 {
     "directory name": "llvm-project/llvm/tools/llvm-exegesis",
-    "score.sum": 0.0016410994051147345,
+    "score.sum": 0.0853450866554978,
     "sha.latest": "fab2bb8bfda865bd438dee981d7be7df8017b76d",
     "time.latest": 1718080365.1895168,
     "formatted_time": "2024-06-10 23:32:45.189520",
     "filescores": {
-        "CMakeLists.txt": 5.844420172322108e-05,
-        "README.md": 7.568535728867865e-06,
-        "llvm-exegesis.cpp": 0.000385923754834061
+        "CMakeLists.txt": 0.192365507460741,
+        "README.md": 0.02491137141565144,
+        "llvm-exegesis.cpp": 1.2702443826914707
     },
     "subdirscores": {
-        "lib": 0.001534104782340845
+        "lib": 0.07978085006882285
     }
 }

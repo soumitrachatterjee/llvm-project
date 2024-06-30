@@ -1,18 +1,18 @@
 {
     "directory name": "llvm-project/llvm/test/CodeGen/DirectX/Metadata",
-    "score.sum": 6.099602068851199e-06,
+    "score.sum": 0.00031720873550238375,
     "sha.latest": "b861507912d037801546c50613ed91d36279a469",
     "time.latest": 1718045579.5454493,
     "formatted_time": "2024-06-10 13:52:59.545453",
     "filescores": {
-        "shaderModel-as.ll": 6.099602068851199e-06,
-        "shaderModel-cs.ll": 6.099602068851199e-06,
-        "shaderModel-gs.ll": 6.099602068851199e-06,
-        "shaderModel-hs.ll": 6.099602068851199e-06,
-        "shaderModel-lib.ll": 0,
-        "shaderModel-ms.ll": 6.099602068851199e-06,
-        "shaderModel-ps.ll": 6.099602068851199e-06,
-        "shaderModel-vs.ll": 6.099602068851199e-06
+        "shaderModel-as.ll": 0.02007646631636598,
+        "shaderModel-cs.ll": 0.02007646631636598,
+        "shaderModel-gs.ll": 0.02007646631636598,
+        "shaderModel-hs.ll": 0.02007646631636598,
+        "shaderModel-lib.ll": 0.0,
+        "shaderModel-ms.ll": 0.02007646631636598,
+        "shaderModel-ps.ll": 0.02007646631636598,
+        "shaderModel-vs.ll": 0.02007646631636598
     },
     "subdirscores": {}
 }

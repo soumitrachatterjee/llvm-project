@@ -1,15 +1,15 @@
 {
     "directory name": "llvm-project/lldb/test/API/lang/cpp/gmodules/pch-chain",
-    "score.sum": 0,
+    "score.sum": 0.0,
     "sha.latest": "252f3c98db1383ee0e1f25020d488ffb7b4ac392",
     "time.latest": 1717931987.7378612,
     "formatted_time": "2024-06-09 16:49:47.737872",
     "filescores": {
-        "base-pch.h": 0,
-        "main.cpp": 0,
-        "Makefile": 0,
-        "pch.h": 0,
-        "TestPchChain.py": 0
+        "base-pch.h": 0.0,
+        "main.cpp": 0.0,
+        "Makefile": 0.0,
+        "pch.h": 0.0,
+        "TestPchChain.py": 0.0
     },
     "subdirscores": {}
 }

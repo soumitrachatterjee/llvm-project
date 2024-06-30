@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/lldb/test/API/commands/help",
-    "score.sum": 4.968907484042515e-05,
+    "score.sum": 0.0025840716198365313,
     "sha.latest": "563ef306017a47d387f1c36dd562b172c1ad0626",
     "time.latest": 1717895698.5331144,
     "formatted_time": "2024-06-09 06:44:58.533116",
     "filescores": {
-        "TestHelp.py": 4.968907484042515e-05
+        "TestHelp.py": 0.1635485439975707
     },
     "subdirscores": {}
 }

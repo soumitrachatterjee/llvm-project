@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/llvm/test/Analysis/UniformityAnalysis/AMDGPU/MIR/irreducible",
-    "score.sum": 6.099602068851199e-06,
+    "score.sum": 0.00031720873550238375,
     "sha.latest": "fbe1c0616fa83d39ebad29cfefa020bbebd90057",
     "time.latest": 1717893450.6126866,
     "formatted_time": "2024-06-08 19:37:30.612690",
     "filescores": {
-        "branch-outside-gmir.mir": 0,
-        "diverged-entry-basic-gmir.mir": 0,
-        "exit-divergence-gmir.mir": 0,
-        "irreducible-2-gmir.mir": 0
+        "branch-outside-gmir.mir": 0.0,
+        "diverged-entry-basic-gmir.mir": 0.0,
+        "exit-divergence-gmir.mir": 0.0,
+        "irreducible-2-gmir.mir": 0.0
     },
     "subdirscores": {}
 }

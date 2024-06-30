@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/lldb/test/API/lang/cpp/thread_local",
-    "score.sum": 2.486079661810963e-05,
+    "score.sum": 0.0012928813666524574,
     "sha.latest": "5b386158aacac4b41126983a5379d36ed413d0ea",
     "time.latest": 1717954603.1161158,
     "formatted_time": "2024-06-09 23:06:43.116122",
     "filescores": {
-        "main.cpp": 6.099602068851199e-06,
-        "Makefile": 0,
-        "TestThreadLocal.py": 2.486079661810963e-05
+        "main.cpp": 0.02007646631636598,
+        "Makefile": 0.0,
+        "TestThreadLocal.py": 0.08182778815200761
     },
     "subdirscores": {}
 }

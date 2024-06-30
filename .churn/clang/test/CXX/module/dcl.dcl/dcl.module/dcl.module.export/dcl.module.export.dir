@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/clang/test/CXX/module/dcl.dcl/dcl.module/dcl.module.export",
-    "score.sum": 0,
+    "score.sum": 0.0,
     "sha.latest": "d54888a3ebb141cdbb5e88ed7a3a2a54d24fc904",
     "time.latest": 1718102524.6520412,
     "formatted_time": "2024-06-11 16:12:04.652045",
     "filescores": {
-        "p1.cppm": 0
+        "p1.cppm": 0.0
     },
     "subdirscores": {}
 }

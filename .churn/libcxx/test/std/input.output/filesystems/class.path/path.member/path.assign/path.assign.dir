@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/libcxx/test/std/input.output/filesystems/class.path/path.member/path.assign",
-    "score.sum": 9.103807429468201e-05,
+    "score.sum": 0.0047344190823627045,
     "sha.latest": "ca06c330fd07f05e65a638892c32ca1474d47b5e",
     "time.latest": 1717902918.4154696,
     "formatted_time": "2024-06-09 08:45:18.415471",
     "filescores": {
-        "copy.pass.cpp": 3.1901580090657704e-05,
-        "move.pass.cpp": 5.434620503561946e-05,
-        "source.pass.cpp": 5.195833747019256e-05
+        "copy.pass.cpp": 0.1050020953661273,
+        "move.pass.cpp": 0.17887720256240053,
+        "source.pass.cpp": 0.17101768284224525
     },
     "subdirscores": {}
 }

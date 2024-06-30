@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/compiler-rt/lib/builtins/ve",
-    "score.sum": 0,
+    "score.sum": 0.0,
     "sha.latest": "dedaf3a2ac59548c70a0d54da7267bbb082782c0",
     "time.latest": 1717797792.715917,
     "formatted_time": "2024-06-08 03:33:12.715923",
     "filescores": {
-        "grow_stack.S": 0,
-        "grow_stack_align.S": 0
+        "grow_stack.S": 0.0,
+        "grow_stack_align.S": 0.0
     },
     "subdirscores": {}
 }

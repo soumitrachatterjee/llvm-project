@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/lldb/test/API/lang/c/blocks",
-    "score.sum": 1.6953758852151247e-05,
+    "score.sum": 0.0008816772548108396,
     "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
     "time.latest": 1717924914.216329,
     "formatted_time": "2024-06-09 14:51:54.216332",
     "filescores": {
-        "main.c": 6.099602068851199e-06,
-        "Makefile": 0,
-        "TestBlocks.py": 1.6953758852151247e-05
+        "main.c": 0.02007646631636598,
+        "Makefile": 0.0,
+        "TestBlocks.py": 0.05580225803076228
     },
     "subdirscores": {}
 }

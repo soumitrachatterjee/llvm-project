@@ -1,15 +1,15 @@
 {
     "directory name": "llvm-project/libclc/ptx-nvidiacl/lib",
-    "score.sum": 2.1554702773269508e-05,
+    "score.sum": 0.001120948536258578,
     "sha.latest": "3d21fa56f5f5afbbf16b35b199480af71e1189a3",
     "time.latest": 1717831286.4204173,
     "formatted_time": "2024-06-08 02:21:26.420418",
     "filescores": {
-        "SOURCES": 1.2218803503156001e-05
+        "SOURCES": 0.04021744274272107
     },
     "subdirscores": {
-        "mem_fence": 6.099602068851199e-06,
-        "synchronization": 1.3038268826082662e-05,
-        "workitem": 1.2115096510560003e-05
+        "mem_fence": 0.00031720873550238375,
+        "synchronization": 0.000678052882922046,
+        "workitem": 0.0006300434686107114
     }
 }

@@ -1,18 +1,18 @@
 {
     "directory name": "llvm-project/clang/docs/analyzer/checkers",
-    "score.sum": 0,
+    "score.sum": 0.0,
     "sha.latest": "1a17032b788016299ea4e3c4b53670c6dcd94b4f",
     "time.latest": 1717789975.4773154,
     "formatted_time": "2024-06-08 01:22:55.477322",
     "filescores": {
-        "callandmessage_example.c": 0,
-        "dealloc_example.m": 0,
-        "dividezero_example.c": 0,
-        "mismatched_deallocator_example.cpp": 0,
-        "newdelete_example.cpp": 0,
-        "seckeychainapi_example.m": 0,
-        "unix_api_example.c": 0,
-        "unix_malloc_example.c": 0
+        "callandmessage_example.c": 0.0,
+        "dealloc_example.m": 0.0,
+        "dividezero_example.c": 0.0,
+        "mismatched_deallocator_example.cpp": 0.0,
+        "newdelete_example.cpp": 0.0,
+        "seckeychainapi_example.m": 0.0,
+        "unix_api_example.c": 0.0,
+        "unix_malloc_example.c": 0.0
     },
     "subdirscores": {}
 }

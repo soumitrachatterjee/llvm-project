@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/libcxx/test/std/concepts/concepts.callable/concept.equiv",
-    "score.sum": 1.2596771818880935e-05,
+    "score.sum": 0.0006550929085168758,
     "sha.latest": "6cb3fdc278b95204baf60587fe2c25ff65f4e612",
     "time.latest": 1717874679.5507345,
     "formatted_time": "2024-06-09 00:54:39.550737",
     "filescores": {
-        "equivalence_relation.compile.pass.cpp": 6.099602068851199e-06,
-        "equivalence_relation.subsumption.compile.pass.cpp": 1.2582189414654206e-05
+        "equivalence_relation.compile.pass.cpp": 0.02007646631636598,
+        "equivalence_relation.subsumption.compile.pass.cpp": 0.04141350519559674
     },
     "subdirscores": {}
 }

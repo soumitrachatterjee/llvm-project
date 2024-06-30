@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/mlir/include/mlir/Config",
-    "score.sum": 4.4775833028304944e-05,
+    "score.sum": 0.002328559341355449,
     "sha.latest": "8406f8023dc08a1697acd2375e120670c0233a8a",
     "time.latest": 1717791134.6397383,
     "formatted_time": "2024-06-07 15:12:14.639742",
     "filescores": {
-        "mlir-config.h.cmake": 4.4775833028304944e-05
+        "mlir-config.h.cmake": 0.14737690974475295
     },
     "subdirscores": {}
 }

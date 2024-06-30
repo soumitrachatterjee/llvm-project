@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/lldb/test/API/python_api/value/change_values/libcxx/atomic",
-    "score.sum": 7.972496970419384e-06,
+    "score.sum": 0.0004146083062857281,
     "sha.latest": "9c2468821ec51defd09c246fea4a47886fff8c01",
     "time.latest": 1717967263.8493817,
     "formatted_time": "2024-06-10 02:37:43.849384",
     "filescores": {
-        "main.cpp": 0,
-        "Makefile": 0,
-        "TestChangeValue.py": 7.972496970419384e-06
+        "main.cpp": 0.0,
+        "Makefile": 0.0,
+        "TestChangeValue.py": 0.026240985080212005
     },
     "subdirscores": {}
 }

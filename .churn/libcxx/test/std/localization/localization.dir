@@ -1,19 +1,19 @@
 {
     "directory name": "llvm-project/libcxx/test/std/localization",
-    "score.sum": 0.0007057809382879369,
+    "score.sum": 0.03670401387646064,
     "sha.latest": "1197fcabc4b5f39dbe8a94b1ab6e92354f3f0dd2",
     "time.latest": 1717932837.2357275,
     "formatted_time": "2024-06-09 17:03:57.235731",
     "filescores": {
-        "codecvt_unicode.pass.cpp": 0,
-        "lit.local.cfg": 9.845454441214068e-06
+        "codecvt_unicode.pass.cpp": 0.0,
+        "lit.local.cfg": 0.03240570978683169
     },
     "subdirscores": {
-        "c.locales": 2.0747854767415356e-05,
-        "locale.categories": 0.000576362051649399,
-        "locale.stdcvt": 6.881316177736675e-05,
-        "locale.syn": 1.2132863580760565e-05,
-        "locales": 0.00020511319886093443,
-        "localization.general": 1.2132863580760565e-05
+        "c.locales": 0.0010789885472641126,
+        "locale.categories": 0.029973607381522053,
+        "locale.stdcvt": 0.0035786164059437727,
+        "locale.syn": 0.0006309674419795125,
+        "locales": 0.010666875922576391,
+        "localization.general": 0.0006309674419795125
     }
 }

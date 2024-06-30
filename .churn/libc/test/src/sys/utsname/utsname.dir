@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/libc/test/src/sys/utsname",
-    "score.sum": 2.7108743437649646e-05,
+    "score.sum": 0.0014097854466324149,
     "sha.latest": "73e974c00aa71fc51c59f4f045cb774ef1424031",
     "time.latest": 1717851213.4783108,
     "formatted_time": "2024-06-08 07:53:33.478314",
     "filescores": {
-        "CMakeLists.txt": 9.348702458166385e-06,
-        "uname_test.cpp": 1.9590207683247695e-05
+        "CMakeLists.txt": 0.030770681084521082,
+        "uname_test.cpp": 0.06447996774934059
     },
     "subdirscores": {}
 }

@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/llvm/tools/verify-uselistorder",
-    "score.sum": 7.248118496221708e-05,
+    "score.sum": 0.0037693713081695395,
     "sha.latest": "a2d45017182a5b98a6a3c75de49e599d67c92fbb",
     "time.latest": 1718085270.765389,
     "formatted_time": "2024-06-11 00:54:30.765393",
     "filescores": {
-        "CMakeLists.txt": 6.099602068851199e-06,
-        "verify-uselistorder.cpp": 6.480849813245173e-05
+        "CMakeLists.txt": 0.02007646631636598,
+        "verify-uselistorder.cpp": 0.21331319897323875
     },
     "subdirscores": {}
 }

@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/clang/test/ASTMerge/cxx-rewritten-binary-operator",
-    "score.sum": 0,
+    "score.sum": 0.0,
     "sha.latest": "dd639eb15aacfc865409915516f52385c4381923",
     "time.latest": 1717865117.240237,
     "formatted_time": "2024-06-08 22:15:17.240239",
     "filescores": {
-        "test.cpp": 0
+        "test.cpp": 0.0
     },
     "subdirscores": {
-        "Inputs": 0
+        "Inputs": 0.0
     }
 }

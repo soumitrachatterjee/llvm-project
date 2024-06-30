@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/lldb/test/API/lang/cpp/function-local-class",
-    "score.sum": 8.853194959831366e-06,
+    "score.sum": 0.0004604088507191918,
     "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
     "time.latest": 1717931425.0480156,
     "formatted_time": "2024-06-09 16:40:25.048018",
     "filescores": {
-        "main.cpp": 0,
-        "Makefile": 0,
-        "TestCppFunctionLocalClass.py": 8.853194959831366e-06
+        "main.cpp": 0.0,
+        "Makefile": 0.0,
+        "TestCppFunctionLocalClass.py": 0.029139748527357824
     },
     "subdirscores": {}
 }

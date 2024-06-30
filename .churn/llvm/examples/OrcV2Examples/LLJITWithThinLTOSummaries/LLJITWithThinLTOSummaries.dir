@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/llvm/examples/OrcV2Examples/LLJITWithThinLTOSummaries",
-    "score.sum": 2.5737403801286683e-05,
+    "score.sum": 0.0013384691694253473,
     "sha.latest": "b92839c9548a55bc7a3267b05d11c9d9c530b792",
     "time.latest": 1717804817.8096297,
     "formatted_time": "2024-06-07 19:00:17.809633",
     "filescores": {
-        "CMakeLists.txt": 1.1950176458438421e-05,
-        "LLJITWithThinLTOSummaries.cpp": 1.7581501511994358e-05
+        "CMakeLists.txt": 0.039333273291327145,
+        "LLJITWithThinLTOSummaries.cpp": 0.05786843451628175
     },
     "subdirscores": {}
 }

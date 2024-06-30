@@ -1,16 +1,16 @@
 {
     "directory name": "llvm-project/libcxx/test/std/algorithms/alg.sorting/alg.permutation.generators",
-    "score.sum": 3.126518315548076e-05,
+    "score.sum": 0.0016259403649701305,
     "sha.latest": "fb855eb941b6d740cc6560297d0b4d3201dcaf9f",
     "time.latest": 1717871602.6030285,
     "formatted_time": "2024-06-09 00:03:22.603031",
     "filescores": {
-        "next_permutation.pass.cpp": 1.875176458258604e-05,
-        "next_permutation_comp.pass.cpp": 1.875176458258604e-05,
-        "prev_permutation.pass.cpp": 1.875176458258604e-05,
-        "prev_permutation_comp.pass.cpp": 1.875176458258604e-05,
-        "ranges.next_permutation.pass.cpp": 6.513411015301903e-06,
-        "ranges.prev_permutation.pass.cpp": 6.513411015301903e-06
+        "next_permutation.pass.cpp": 0.06172028367837732,
+        "next_permutation_comp.pass.cpp": 0.06172028367837732,
+        "prev_permutation.pass.cpp": 0.06172028367837732,
+        "prev_permutation_comp.pass.cpp": 0.06172028367837732,
+        "ranges.next_permutation.pass.cpp": 0.02143849309795784,
+        "ranges.prev_permutation.pass.cpp": 0.02143849309795784
     },
     "subdirscores": {}
 }

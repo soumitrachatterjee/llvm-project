@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/libcxx/test/std/algorithms/alg.nonmodifying/alg.find.first.of",
-    "score.sum": 3.8554924899787065e-05,
+    "score.sum": 0.0020050421055015184,
     "sha.latest": "02540b2f6dc6c2d42a3365bef78833d7fab98491",
     "time.latest": 1717869881.796549,
     "formatted_time": "2024-06-08 23:34:41.796551",
     "filescores": {
-        "find_first_of.pass.cpp": 1.9931867446500958e-05,
-        "find_first_of_pred.pass.cpp": 1.9864182939821605e-05,
-        "ranges.find_first_of.pass.cpp": 1.0356825638309998e-05
+        "find_first_of.pass.cpp": 0.06560451991703692,
+        "find_first_of_pred.pass.cpp": 0.06538174051222505,
+        "ranges.find_first_of.pass.cpp": 0.03408885673605386
     },
     "subdirscores": {}
 }

@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/libc/test/src/__support/fixed_point",
-    "score.sum": 1.5068795878982088e-05,
+    "score.sum": 0.0007836500860810577,
     "sha.latest": "73dfc7bbadddeb2930b11e4ad07f9a8e8b498cc7",
     "time.latest": 1717845123.625129,
     "formatted_time": "2024-06-08 06:12:03.625133",
     "filescores": {
-        "CMakeLists.txt": 0,
-        "fx_bits_test.cpp": 1.5068795878982088e-05
+        "CMakeLists.txt": 0.0,
+        "fx_bits_test.cpp": 0.049598017948990006
     },
     "subdirscores": {}
 }

@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/clang/tools/amdgpu-arch",
-    "score.sum": 6.191444819245062e-05,
+    "score.sum": 0.003219850016241155,
     "sha.latest": "661d91a0fd4ad80ecc49ebb9e0fff01b4de2ce1c",
     "time.latest": 1718077220.7747068,
     "formatted_time": "2024-06-11 09:10:20.774722",
     "filescores": {
-        "AMDGPUArch.cpp": 4.1651532725991546e-05,
-        "AMDGPUArchByHIP.cpp": 0,
-        "AMDGPUArchByHSA.cpp": 0,
-        "CMakeLists.txt": 4.731205505565665e-05
+        "AMDGPUArch.cpp": 0.13709346681297155,
+        "AMDGPUArchByHIP.cpp": 0.0,
+        "AMDGPUArchByHSA.cpp": 0.0,
+        "CMakeLists.txt": 0.15572472908250556
     },
     "subdirscores": {}
 }

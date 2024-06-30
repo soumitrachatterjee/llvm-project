@@ -1,17 +1,17 @@
 {
     "directory name": "llvm-project/libc/fuzzing/math",
-    "score.sum": 2.9817058989255073e-05,
+    "score.sum": 0.001550630921758303,
     "sha.latest": "b6bc9d72f65a5086f310f321e969d96e9a559e75",
     "time.latest": 1717825794.0670147,
     "formatted_time": "2024-06-08 00:49:54.067018",
     "filescores": {
-        "CMakeLists.txt": 1.6662394144386258e-05,
-        "Compare.h": 2.105735808021668e-05,
-        "RemQuoDiff.h": 1.0618532369640832e-05,
-        "SingleInputSingleOutputDiff.h": 6.099602068851199e-06,
-        "TwoInputSingleOutputDiff.h": 6.099602068851199e-06,
-        "math_differential_fuzz.cpp": 6.099602068851199e-06,
-        "nextafter_differential_fuzz.cpp": 6.099602068851199e-06
+        "CMakeLists.txt": 0.05484324895522052,
+        "Compare.h": 0.069309003347615,
+        "RemQuoDiff.h": 0.03495024840013652,
+        "SingleInputSingleOutputDiff.h": 0.02007646631636598,
+        "TwoInputSingleOutputDiff.h": 0.02007646631636598,
+        "math_differential_fuzz.cpp": 0.02007646631636598,
+        "nextafter_differential_fuzz.cpp": 0.02007646631636598
     },
     "subdirscores": {}
 }

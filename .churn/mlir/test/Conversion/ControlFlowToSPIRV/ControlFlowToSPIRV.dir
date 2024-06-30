@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/mlir/test/Conversion/ControlFlowToSPIRV",
-    "score.sum": 1.650322524148538e-05,
+    "score.sum": 0.0008582473334278601,
     "sha.latest": "c8bc72dc79eec511d76c741fe6b6334355903dbe",
     "time.latest": 1717815601.3867385,
     "formatted_time": "2024-06-07 22:00:01.386742",
     "filescores": {
-        "cf-ops-to-spirv.mlir": 1.650322524148538e-05
+        "cf-ops-to-spirv.mlir": 0.05431935426805379
     },
     "subdirscores": {}
 }

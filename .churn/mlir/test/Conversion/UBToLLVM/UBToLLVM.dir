@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/mlir/test/Conversion/UBToLLVM",
-    "score.sum": 1.1912772449898749e-05,
+    "score.sum": 0.0006195216413308948,
     "sha.latest": "a8599ac242e2d08c3eb157ab9331d7a32c3483b0",
     "time.latest": 1717816982.5497456,
     "formatted_time": "2024-06-07 22:23:02.549749",
     "filescores": {
-        "ub-to-llvm.mlir": 1.1912772449898749e-05
+        "ub-to-llvm.mlir": 0.0392101602900088
     },
     "subdirscores": {}
 }

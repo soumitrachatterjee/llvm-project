@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/mlir/include/mlir/Conversion/TensorToLinalg",
-    "score.sum": 1.8232613851081078e-05,
+    "score.sum": 0.000948183884673308,
     "sha.latest": "67d0d7ac0acb0665d6a09f61278fbcf51f0114c2",
     "time.latest": 1717792227.9879992,
     "formatted_time": "2024-06-07 15:30:27.988002",
     "filescores": {
-        "TensorToLinalg.h": 0,
-        "TensorToLinalgPass.h": 1.8232613851081078e-05
+        "TensorToLinalg.h": 0.0,
+        "TensorToLinalgPass.h": 0.06001153086851752
     },
     "subdirscores": {}
 }

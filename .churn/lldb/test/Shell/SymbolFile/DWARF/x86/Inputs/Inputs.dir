@@ -1,23 +1,23 @@
 {
     "directory name": "llvm-project/lldb/test/Shell/SymbolFile/DWARF/x86/Inputs",
-    "score.sum": 9.911619621703737e-06,
+    "score.sum": 0.0005154520395743472,
     "sha.latest": "5a3556aa5563fb89693935303463881df44094de",
     "time.latest": 1717981825.4673588,
     "formatted_time": "2024-06-10 06:40:25.467362",
     "filescores": {
-        "debug-line-basic.script": 0,
-        "debug-types-basic.cpp": 0,
-        "debug_loc-aslr.yaml": 0,
-        "dir-separator-no-comp-dir-relative-name.lldbinit": 0,
-        "dir-separator-posix.lldbinit": 0,
-        "dir-separator-windows.lldbinit": 0,
-        "DW_TAG_variable-DW_AT_decl_file-DW_AT_abstract_origin-crosscu2.s": 0,
-        "find-variable-file-2.cpp": 0,
-        "find-variable-file-3.cpp": 0,
-        "subprogram_ranges.s": 0,
-        "unused-inlined-params.s": 0
+        "debug-line-basic.script": 0.0,
+        "debug-types-basic.cpp": 0.0,
+        "debug_loc-aslr.yaml": 0.0,
+        "dir-separator-no-comp-dir-relative-name.lldbinit": 0.0,
+        "dir-separator-posix.lldbinit": 0.0,
+        "dir-separator-windows.lldbinit": 0.0,
+        "DW_TAG_variable-DW_AT_decl_file-DW_AT_abstract_origin-crosscu2.s": 0.0,
+        "find-variable-file-2.cpp": 0.0,
+        "find-variable-file-3.cpp": 0.0,
+        "subprogram_ranges.s": 0.0,
+        "unused-inlined-params.s": 0.0
     },
     "subdirscores": {
-        "ModuleOwnership": 0
+        "ModuleOwnership": 0.0
     }
 }

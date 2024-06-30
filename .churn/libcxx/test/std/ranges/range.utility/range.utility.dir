@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/libcxx/test/std/ranges/range.utility",
-    "score.sum": 7.337719806586276e-05,
+    "score.sum": 0.0038159683124319088,
     "sha.latest": "ee22e255648ee9b056280484b4b70d4542bc807e",
     "time.latest": 1717965452.4779196,
     "formatted_time": "2024-06-10 02:07:32.477922",
     "filescores": {},
     "subdirscores": {
-        "range.dangling": 1.017528027210954e-05,
-        "range.subrange": 3.351094947954967e-05,
-        "range.utility.conv": 1.6325023579381934e-05,
-        "view.interface": 3.78413242844515e-05
+        "range.dangling": 0.0005291636654431987,
+        "range.subrange": 0.0017427310486656494,
+        "range.utility.conv": 0.0008489799872531114,
+        "view.interface": 0.0019679314306920467
     }
 }

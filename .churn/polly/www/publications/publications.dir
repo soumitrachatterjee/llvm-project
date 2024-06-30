@@ -1,16 +1,16 @@
 {
     "directory name": "llvm-project/polly/www/publications",
-    "score.sum": 6.31556316664342e-06,
+    "score.sum": 0.00032843975450577256,
     "sha.latest": "f75ba1969734e04c54b922389d482433c4fe8201",
     "time.latest": 1717820483.5740645,
     "formatted_time": "2024-06-07 23:21:23.574068",
     "filescores": {
-        "grosser-diploma-thesis.pdf": 0,
-        "grosser-impact-2011-slides.pdf": 0,
-        "grosser-impact-2011.pdf": 0,
-        "kernelgen-ncar-2012-slides.pdf": 0,
-        "kernelgen-pavt-2012-slides.pdf": 0,
-        "raghesh-a-masters-thesis.pdf": 0
+        "grosser-diploma-thesis.pdf": 0.0,
+        "grosser-impact-2011-slides.pdf": 0.0,
+        "grosser-impact-2011.pdf": 0.0,
+        "kernelgen-ncar-2012-slides.pdf": 0.0,
+        "kernelgen-pavt-2012-slides.pdf": 0.0,
+        "raghesh-a-masters-thesis.pdf": 0.0
     },
     "subdirscores": {}
 }

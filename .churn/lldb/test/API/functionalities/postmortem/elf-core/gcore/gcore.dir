@@ -1,16 +1,16 @@
 {
     "directory name": "llvm-project/lldb/test/API/functionalities/postmortem/elf-core/gcore",
-    "score.sum": 1.521679869271196e-05,
+    "score.sum": 0.0007913469464440962,
     "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
     "time.latest": 1717915027.5525832,
     "formatted_time": "2024-06-09 12:07:07.552585",
     "filescores": {
-        "linux-i386.core": 0,
-        "linux-x86_64.core": 0,
-        "main.cpp": 6.099602068851199e-06,
-        "main.mk": 0,
-        "make-core.sh": 0,
-        "TestGCore.py": 1.5173248566763339e-05
+        "linux-i386.core": 0.0,
+        "linux-x86_64.core": 0.0,
+        "main.cpp": 0.02007646631636598,
+        "main.mk": 0.0,
+        "make-core.sh": 0.0,
+        "TestGCore.py": 0.04994181756808371
     },
     "subdirscores": {}
 }

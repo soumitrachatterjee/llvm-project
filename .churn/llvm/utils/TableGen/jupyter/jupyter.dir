@@ -1,19 +1,19 @@
 {
     "directory name": "llvm-project/llvm/utils/TableGen/jupyter",
-    "score.sum": 2.8021192095650352e-05,
+    "score.sum": 0.001457237179015633,
     "sha.latest": "05bde3cc23b05a8ee4a77d00e6c4bea2ac44647b",
     "time.latest": 1718078949.7358522,
     "formatted_time": "2024-06-10 23:09:09.735855",
     "filescores": {
-        "LLVM_TableGen.ipynb": 6.099682977821571e-06,
-        "LLVM_TableGen.md": 6.099682977821571e-06,
-        "README.md": 1.8528795163292e-05,
-        "sql_query_backend.ipynb": 0,
-        "sql_query_backend.md": 0,
-        "tablegen_tutorial_part_1.ipynb": 0,
-        "tablegen_tutorial_part_1.md": 0
+        "LLVM_TableGen.ipynb": 0.0200767326232824,
+        "LLVM_TableGen.md": 0.0200767326232824,
+        "README.md": 0.06098639350234497,
+        "sql_query_backend.ipynb": 0.0,
+        "sql_query_backend.md": 0.0,
+        "tablegen_tutorial_part_1.ipynb": 0.0,
+        "tablegen_tutorial_part_1.md": 0.0
     },
     "subdirscores": {
-        "tablegen_kernel": 1.1905222675216963e-05
+        "tablegen_kernel": 0.0006191290166230689
     }
 }

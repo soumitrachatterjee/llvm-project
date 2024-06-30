@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/mlir/include/mlir/Conversion/ArmSMEToSCF",
-    "score.sum": 0,
+    "score.sum": 0.0,
     "sha.latest": "9e1b8253214572fea7b7f90f9f8dff28f75444bc",
     "time.latest": 1717791319.9116073,
     "formatted_time": "2024-06-07 15:15:19.911611",
     "filescores": {
-        "ArmSMEToSCF.h": 0
+        "ArmSMEToSCF.h": 0.0
     },
     "subdirscores": {}
 }

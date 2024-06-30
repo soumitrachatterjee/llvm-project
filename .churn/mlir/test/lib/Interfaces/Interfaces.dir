@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/mlir/test/lib/Interfaces",
-    "score.sum": 8.975014950346177e-05,
+    "score.sum": 0.00466744077954334,
     "sha.latest": "76ead96c1d06ee0d828238bce96d0107e650b5fa",
     "time.latest": 1717832230.4530513,
     "formatted_time": "2024-06-08 02:37:10.453053",
     "filescores": {
-        "CMakeLists.txt": 1.8249878582353325e-05
+        "CMakeLists.txt": 0.06006835667320704
     },
     "subdirscores": {
-        "LoopLikeInterface": 6.90546771003754e-06,
-        "TilingInterface": 8.22875570772775e-05
+        "LoopLikeInterface": 0.0003591176367946417,
+        "TilingInterface": 0.004279349969625076
     }
 }

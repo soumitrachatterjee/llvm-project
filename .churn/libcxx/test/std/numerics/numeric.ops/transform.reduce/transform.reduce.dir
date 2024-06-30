@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/libcxx/test/std/numerics/numeric.ops/transform.reduce",
-    "score.sum": 5.464706677797271e-05,
+    "score.sum": 0.002841911120739691,
     "sha.latest": "5425106e493e26f7e0a87077c8eca657a9aff293",
     "time.latest": 1717952430.9142287,
     "formatted_time": "2024-06-09 22:30:30.914230",
     "filescores": {
-        "transform_reduce_iter_iter_init_bop_uop.pass.cpp": 5.2194648143873914e-05,
-        "transform_reduce_iter_iter_iter_init.pass.cpp": 5.154750324351543e-05,
-        "transform_reduce_iter_iter_iter_init_op_op.pass.cpp": 5.073002996521762e-05
+        "transform_reduce_iter_iter_init_bop_uop.pass.cpp": 0.17179548493930155,
+        "transform_reduce_iter_iter_iter_init.pass.cpp": 0.16966544716844378,
+        "transform_reduce_iter_iter_iter_init_op_op.pass.cpp": 0.16697478398238347
     },
     "subdirscores": {}
 }

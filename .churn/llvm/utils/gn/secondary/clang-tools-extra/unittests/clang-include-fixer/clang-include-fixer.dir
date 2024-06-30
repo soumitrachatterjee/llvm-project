@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/llvm/utils/gn/secondary/clang-tools-extra/unittests/clang-include-fixer",
-    "score.sum": 9.631908258763151e-06,
+    "score.sum": 0.0005009056992159929,
     "sha.latest": "ce2474ff60c9ca0a9a5747e6e401abb284d8378f",
     "time.latest": 1718083094.3721914,
     "formatted_time": "2024-06-11 00:18:14.372192",
     "filescores": {
-        "BUILD.gn": 6.099602068851199e-06
+        "BUILD.gn": 0.02007646631636598
     },
     "subdirscores": {
-        "find-all-symbols": 9.631908258763151e-06
+        "find-all-symbols": 0.0005009056992159929
     }
 }

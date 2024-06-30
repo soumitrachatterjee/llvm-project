@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/clang/cmake",
-    "score.sum": 0.0016856149937609232,
+    "score.sum": 0.08766011203341746,
     "sha.latest": "b3b408bbb379a1cfdac66a71534d86c23a9cf3f1",
     "time.latest": 1717789616.944048,
     "formatted_time": "2024-06-08 01:16:56.944053",
     "filescores": {},
     "subdirscores": {
-        "caches": 0.0012980167600963625,
-        "modules": 0.0003670674603163532
+        "caches": 0.0675031338902762,
+        "modules": 0.019089278876999204
     }
 }

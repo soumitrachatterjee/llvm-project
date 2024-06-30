@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/clang-tools-extra/clangd/index/remote/monitor",
-    "score.sum": 8.589893589001343e-06,
+    "score.sum": 0.00044671590912164817,
     "sha.latest": "c21378f90a4442810adc4af924a83a9c222fdc51",
     "time.latest": 1717802349.273837,
     "formatted_time": "2024-06-08 04:49:09.273839",
     "filescores": {
-        "CMakeLists.txt": 6.099602068851199e-06,
-        "Monitor.cpp": 6.099602068851199e-06
+        "CMakeLists.txt": 0.02007646631636598,
+        "Monitor.cpp": 0.02007646631636598
     },
     "subdirscores": {}
 }

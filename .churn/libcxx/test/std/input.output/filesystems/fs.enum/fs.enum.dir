@@ -1,17 +1,17 @@
 {
     "directory name": "llvm-project/libcxx/test/std/input.output/filesystems/fs.enum",
-    "score.sum": 4.71425068501616e-05,
+    "score.sum": 0.0024516377982619236,
     "sha.latest": "b2cc4b994e5fb85053b1acedec5ea0d1d42e5ec4",
     "time.latest": 1717903729.48633,
     "formatted_time": "2024-06-09 08:58:49.486332",
     "filescores": {
-        "check_bitmask_types.h": 0,
-        "enum.copy_options.pass.cpp": 2.437488905694595e-05,
-        "enum.directory_options.pass.cpp": 2.746583782392262e-05,
-        "enum.file_type.pass.cpp": 2.3160221819974303e-05,
-        "enum.path.format.pass.cpp": 2.9136291681759777e-05,
-        "enum.perms.pass.cpp": 2.746583782392262e-05,
-        "enum.perm_options.pass.cpp": 2.747600391100742e-05
+        "check_bitmask_types.h": 0.0,
+        "enum.copy_options.pass.cpp": 0.0802284531995871,
+        "enum.directory_options.pass.cpp": 0.09040212159718924,
+        "enum.file_type.pass.cpp": 0.07623045044573738,
+        "enum.path.format.pass.cpp": 0.0959003180748207,
+        "enum.perms.pass.cpp": 0.09040212159718924,
+        "enum.perm_options.pass.cpp": 0.0904355826496683
     },
     "subdirscores": {}
 }

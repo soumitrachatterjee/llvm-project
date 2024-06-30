@@ -1,31 +1,31 @@
 {
     "directory name": "llvm-project/clang-tools-extra/test/clang-tidy/checkers/abseil",
-    "score.sum": 2.406984196587552e-05,
+    "score.sum": 0.0012517479087247399,
     "sha.latest": "96ec447a6ae39edff92674e9849de2bf21bfd430",
     "time.latest": 1717818530.436566,
     "formatted_time": "2024-06-08 09:18:50.436569",
     "filescores": {
-        "cleanup-ctad.cpp": 0,
-        "duration-addition.cpp": 0,
-        "duration-comparison.cpp": 0,
-        "duration-conversion-cast.cpp": 0,
-        "duration-division.cpp": 0,
-        "duration-factory-float.cpp": 0,
-        "duration-factory-scale.cpp": 0,
-        "duration-subtraction.cpp": 0,
-        "duration-unnecessary-conversion.cpp": 0,
-        "faster-strsplit-delimiter.cpp": 6.099602068851199e-06,
-        "no-internal-dependencies.cpp": 0,
-        "no-namespace.cpp": 0,
-        "redundant-strcat-calls.cpp": 6.099602068851199e-06,
-        "str-cat-append.cpp": 0,
-        "string-find-startswith.cpp": 1.6704714497975587e-05,
-        "string-find-str-contains.cpp": 6.099602068851199e-06,
-        "time-comparison.cpp": 0,
-        "time-subtraction.cpp": 0,
-        "upgrade-duration-conversions.cpp": 0
+        "cleanup-ctad.cpp": 0.0,
+        "duration-addition.cpp": 0.0,
+        "duration-comparison.cpp": 0.0,
+        "duration-conversion-cast.cpp": 0.0,
+        "duration-division.cpp": 0.0,
+        "duration-factory-float.cpp": 0.0,
+        "duration-factory-scale.cpp": 0.0,
+        "duration-subtraction.cpp": 0.0,
+        "duration-unnecessary-conversion.cpp": 0.0,
+        "faster-strsplit-delimiter.cpp": 0.02007646631636598,
+        "no-internal-dependencies.cpp": 0.0,
+        "no-namespace.cpp": 0.0,
+        "redundant-strcat-calls.cpp": 0.02007646631636598,
+        "str-cat-append.cpp": 0.0,
+        "string-find-startswith.cpp": 0.0549825438049078,
+        "string-find-str-contains.cpp": 0.02007646631636598,
+        "time-comparison.cpp": 0.0,
+        "time-subtraction.cpp": 0.0,
+        "upgrade-duration-conversions.cpp": 0.0
     },
     "subdirscores": {
-        "Inputs": 6.099602068851199e-06
+        "Inputs": 0.00031720873550238375
     }
 }

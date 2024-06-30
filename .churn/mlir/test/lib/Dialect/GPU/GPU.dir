@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/mlir/test/lib/Dialect/GPU",
-    "score.sum": 0.00015634420837326468,
+    "score.sum": 0.008130653128089221,
     "sha.latest": "c0345b4648608b44071bbb6b012b24bd07c3d29e",
     "time.latest": 1717831190.5383651,
     "formatted_time": "2024-06-08 02:19:50.538368",
     "filescores": {
-        "CMakeLists.txt": 6.0178478799043353e-05,
-        "TestGpuMemoryPromotion.cpp": 2.2884132992609048e-05,
-        "TestGpuRewrite.cpp": 2.7595237156422822e-05
+        "CMakeLists.txt": 0.19807377414813643,
+        "TestGpuMemoryPromotion.cpp": 0.07532172099415078,
+        "TestGpuRewrite.cpp": 0.09082803156819655
     },
     "subdirscores": {}
 }

@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/lldb/test/API/commands/frame/var-scope",
-    "score.sum": 6.14315219479982e-06,
+    "score.sum": 0.0003194735521620931,
     "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
     "time.latest": 1717895366.9827383,
     "formatted_time": "2024-06-09 06:39:26.982739",
     "filescores": {
-        "main.c": 6.099602068851199e-06,
-        "TestFrameVariableScope.py": 6.099602068851199e-06
+        "main.c": 0.02007646631636598,
+        "TestFrameVariableScope.py": 0.02007646631636598
     },
     "subdirscores": {}
 }

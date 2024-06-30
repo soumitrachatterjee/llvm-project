@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/lldb/test/API/functionalities/data-formatter/data-formatter-stl/libcxx/variant",
-    "score.sum": 2.7778470633249122e-05,
+    "score.sum": 0.001444614491945477,
     "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
     "time.latest": 1717907012.5664308,
     "formatted_time": "2024-06-09 09:53:32.566432",
     "filescores": {
-        "main.cpp": 6.099602068851199e-06,
-        "Makefile": 0,
-        "TestDataFormatterLibcxxVariant.py": 2.7778470633249122e-05
+        "main.cpp": 0.02007646631636598,
+        "Makefile": 0.0,
+        "TestDataFormatterLibcxxVariant.py": 0.09143113332532916
     },
     "subdirscores": {}
 }

@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/clang/utils/ci",
-    "score.sum": 2.4961980197569206e-05,
+    "score.sum": 0.0012981434009510363,
     "sha.latest": "6af26745974e9d14765d7e961be6af45b9ccd978",
     "time.latest": 1718082168.3956285,
     "formatted_time": "2024-06-11 10:32:48.395631",
     "filescores": {
-        "buildkite-pipeline.yml": 2.096604215187927e-05,
-        "run-buildbot": 1.801458767580463e-05
+        "buildkite-pipeline.yml": 0.06900844256697394,
+        "run-buildbot": 0.05929391107715822
     },
     "subdirscores": {}
 }

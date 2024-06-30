@@ -1,23 +1,23 @@
 {
     "directory name": "llvm-project/libcxx/test/std/utilities/memory/default.allocator",
-    "score.sum": 0.00020026378774805372,
+    "score.sum": 0.010414683148411073,
     "sha.latest": "ed276dff464a91587e5b2a24a99a7b00f7b6bf7e",
     "time.latest": 1717998301.0634096,
     "formatted_time": "2024-06-10 11:15:01.063412",
     "filescores": {
-        "allocator.ctor.pass.cpp": 3.5384274817327984e-05,
-        "allocator.dtor.pass.cpp": 2.7706117103469295e-05,
-        "allocator_pointers.pass.cpp": 4.442244777179408e-05,
-        "allocator_types.deprecated_in_cxx17.verify.cpp": 2.4942600132837203e-05,
-        "allocator_types.deprecated_in_cxx23.verify.cpp": 0,
-        "allocator_types.pass.cpp": 5.2181974041035295e-05,
-        "allocator_types.removed_in_cxx20.verify.cpp": 2.260357945364359e-05,
-        "allocator_types.removed_in_cxx26.verify.cpp": 0,
-        "allocator_types.void.compile.pass.cpp": 0,
-        "PR50299.compile.pass.cpp": 0
+        "allocator.ctor.pass.cpp": 0.11646517157682675,
+        "allocator.dtor.pass.cpp": 0.09119298611718375,
+        "allocator_pointers.pass.cpp": 0.1462137638347482,
+        "allocator_types.deprecated_in_cxx17.verify.cpp": 0.08209703940634358,
+        "allocator_types.deprecated_in_cxx23.verify.cpp": 0.0,
+        "allocator_types.pass.cpp": 0.17175376890670507,
+        "allocator_types.removed_in_cxx20.verify.cpp": 0.07439829621800993,
+        "allocator_types.removed_in_cxx26.verify.cpp": 0.0,
+        "allocator_types.void.compile.pass.cpp": 0.0,
+        "PR50299.compile.pass.cpp": 0.0
     },
     "subdirscores": {
-        "allocator.globals": 1.9504297136070758e-05,
-        "allocator.members": 0.00017767701972158713
+        "allocator.globals": 0.001014317550810494,
+        "allocator.members": 0.009240062239721116
     }
 }

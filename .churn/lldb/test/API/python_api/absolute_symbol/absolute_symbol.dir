@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/lldb/test/API/python_api/absolute_symbol",
-    "score.sum": 7.893226488738123e-06,
+    "score.sum": 0.00041048585879276995,
     "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
     "time.latest": 1717964507.1796825,
     "formatted_time": "2024-06-10 01:51:47.179687",
     "filescores": {
-        "absolute.yaml": 0,
-        "TestAbsoluteSymbol.py": 7.893226488738123e-06
+        "absolute.yaml": 0.0,
+        "TestAbsoluteSymbol.py": 0.02598007114887817
     },
     "subdirscores": {}
 }

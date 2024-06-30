@@ -1,16 +1,16 @@
 {
     "directory name": "llvm-project/libcxx/test/std/iterators/iterator.primitives/range.iter.ops",
-    "score.sum": 6.317293205533285e-05,
+    "score.sum": 0.003285297248747293,
     "sha.latest": "c2df70766647b39d302ab5ab952980e0b3b4d725",
     "time.latest": 1717912136.1656382,
     "formatted_time": "2024-06-09 11:18:56.165639",
     "filescores": {
-        "types.h": 6.101696939619612e-06
+        "types.h": 0.020083361455088874
     },
     "subdirscores": {
-        "range.iter.ops.advance": 5.0381520979224216e-05,
-        "range.iter.ops.distance": 1.355477595736947e-05,
-        "range.iter.ops.next": 4.2571534953229564e-05,
-        "range.iter.ops.prev": 3.235102370300906e-05
+        "range.iter.ops.advance": 0.0026200821598049736,
+        "range.iter.ops.distance": 0.0007049137456708039,
+        "range.iter.ops.next": 0.0022139252066738255,
+        "range.iter.ops.prev": 0.001682409312149096
     }
 }

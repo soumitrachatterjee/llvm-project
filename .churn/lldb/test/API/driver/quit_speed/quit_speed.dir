@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/lldb/test/API/driver/quit_speed",
-    "score.sum": 6.099602068851199e-06,
+    "score.sum": 0.00031720873550238375,
     "sha.latest": "503075e4d4a9c1b3754b21ee9ec41f176e54fd83",
     "time.latest": 1717901337.3482034,
     "formatted_time": "2024-06-09 08:18:57.348206",
     "filescores": {
-        "main.c": 0,
-        "Makefile": 0,
-        "TestQuitWithProcess.py": 6.099602068851199e-06
+        "main.c": 0.0,
+        "Makefile": 0.0,
+        "TestQuitWithProcess.py": 0.02007646631636598
     },
     "subdirscores": {}
 }

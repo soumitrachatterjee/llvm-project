@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/libcxx/test/std/input.output/iostreams.base/std.ios.manip/basefield.manip",
-    "score.sum": 1.7366275644238228e-05,
+    "score.sum": 0.000903130118213133,
     "sha.latest": "7fc6a55688c816f5fc1a5481ae7af25be7500356",
     "time.latest": 1717908255.9566941,
     "formatted_time": "2024-06-09 10:14:15.956695",
     "filescores": {
-        "dec.pass.cpp": 1.7366275644238228e-05,
-        "hex.pass.cpp": 1.7366275644238228e-05,
-        "oct.pass.cpp": 1.7366275644238228e-05
+        "dec.pass.cpp": 0.057160031765472394,
+        "hex.pass.cpp": 0.057160031765472394,
+        "oct.pass.cpp": 0.057160031765472394
     },
     "subdirscores": {}
 }

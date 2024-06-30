@@ -1,22 +1,22 @@
 {
     "directory name": "llvm-project/lldb/test/Shell/Driver/Inputs",
-    "score.sum": 2.1122410133787997e-05,
+    "score.sum": 0.0010984672333819226,
     "sha.latest": "ca8faf8f465962e5c39d145a0e2236648cbcc27d",
     "time.latest": 1717972261.6263611,
     "formatted_time": "2024-06-10 04:01:01.626364",
     "filescores": {
-        ".lldbinit": 8.22683439832498e-06,
-        "CommandOnCrashMultiThreaded.cpp": 0,
-        "convenience.in": 6.10055763541654e-06,
-        "dumpargs.c": 0,
-        "hello.c": 8.22683439832498e-06,
-        "hello.cpp": 6.100527513090239e-06,
-        "Print0.in": 8.22683439832498e-06,
-        "Print2.in": 8.22683439832498e-06,
-        "Print4.in": 8.22683439832498e-06,
-        "Print6.in": 8.22683439832498e-06,
-        "process_attach_pid.in": 8.22683439832498e-06,
-        "syntax_error.py": 8.22683439832498e-06
+        ".lldbinit": 0.02707812113379387,
+        "CommandOnCrashMultiThreaded.cpp": 0.0,
+        "convenience.in": 0.020079611505141502,
+        "dumpargs.c": 0.0,
+        "hello.c": 0.02707812113379387,
+        "hello.cpp": 0.02007951235935092,
+        "Print0.in": 0.02707812113379387,
+        "Print2.in": 0.02707812113379387,
+        "Print4.in": 0.02707812113379387,
+        "Print6.in": 0.02707812113379387,
+        "process_attach_pid.in": 0.02707812113379387,
+        "syntax_error.py": 0.02707812113379387
     },
     "subdirscores": {}
 }

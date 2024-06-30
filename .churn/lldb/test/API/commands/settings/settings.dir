@@ -1,16 +1,16 @@
 {
     "directory name": "llvm-project/lldb/test/API/commands/settings",
-    "score.sum": 5.92344239259339e-05,
+    "score.sum": 0.003080475824433002,
     "sha.latest": "afd469023aad10786eaea3d444047a558ad8d5c1",
     "time.latest": 1717897692.8884318,
     "formatted_time": "2024-06-09 07:18:12.888434",
     "filescores": {
-        "main.cpp": 6.099602068851199e-06,
-        "Makefile": 0,
-        "TestSettings.py": 5.0842728398879386e-05
+        "main.cpp": 0.02007646631636598,
+        "Makefile": 0.0,
+        "TestSettings.py": 0.16734572396859534
     },
     "subdirscores": {
-        "quoting": 1.9289377044440555e-05,
-        "use_source_cache": 1.485424893273744e-05
+        "quoting": 0.0010031406691499314,
+        "use_source_cache": 0.0007724926097808077
     }
 }

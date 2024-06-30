@@ -1,16 +1,16 @@
 {
     "directory name": "llvm-project/clang/test/ClangScanDeps/Inputs/removed-args",
-    "score.sum": 1.7931725827168895e-05,
+    "score.sum": 0.0009325362557762692,
     "sha.latest": "758bca6483853a743297b68bd88a5dba9d5247f2",
     "time.latest": 1717869225.3316793,
     "formatted_time": "2024-06-08 23:23:45.331682",
     "filescores": {
-        "cdb.json.template": 1.7931725827168895e-05,
-        "header.h": 0,
-        "module.modulemap": 0,
-        "mod_header.h": 0,
-        "mod_tu.h": 0,
-        "tu.c": 0
+        "cdb.json.template": 0.059021176381637265,
+        "header.h": 0.0,
+        "module.modulemap": 0.0,
+        "mod_header.h": 0.0,
+        "mod_tu.h": 0.0,
+        "tu.c": 0.0
     },
     "subdirscores": {}
 }

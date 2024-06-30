@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/lldb/test/API/commands/add-dsym",
-    "score.sum": 1.3635249770181513e-05,
+    "score.sum": 0.000709098772188111,
     "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
     "time.latest": 1717887999.7766962,
     "formatted_time": "2024-06-09 04:36:39.776698",
     "filescores": {},
     "subdirscores": {
-        "uuid": 1.3635249770181513e-05
+        "uuid": 0.000709098772188111
     }
 }

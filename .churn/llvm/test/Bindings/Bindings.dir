@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/llvm/test/Bindings",
-    "score.sum": 0.001033508205509596,
+    "score.sum": 0.0537474129132463,
     "sha.latest": "d5c95302b9736b4e785c77463d7f2026b772ba1b",
     "time.latest": 1717938114.6000636,
     "formatted_time": "2024-06-09 08:01:54.600064",
     "filescores": {},
     "subdirscores": {
-        "OCaml": 0.00028278866255769,
-        "llvm-c": 0.0002981699439085179
+        "OCaml": 0.014706374785073454,
+        "llvm-c": 0.01550627562329673
     }
 }

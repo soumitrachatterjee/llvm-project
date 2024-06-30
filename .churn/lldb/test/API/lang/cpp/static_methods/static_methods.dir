@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/lldb/test/API/lang/cpp/static_methods",
-    "score.sum": 1.104523790062498e-05,
+    "score.sum": 0.000574405659292481,
     "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
     "time.latest": 1717935648.9928143,
     "formatted_time": "2024-06-09 17:50:48.992819",
     "filescores": {
-        "main.cpp": 6.628769347465209e-06,
-        "Makefile": 0,
-        "TestCPPStaticMethods.py": 1.1001687774676358e-05
+        "main.cpp": 0.021818187977041152,
+        "Makefile": 0.0,
+        "TestCPPStaticMethods.py": 0.03621138092916035
     },
     "subdirscores": {}
 }

@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/llvm/utils/gn/secondary/clang-tools-extra/clangd/indexer",
-    "score.sum": 9.091043284827288e-06,
+    "score.sum": 0.000472778111133507,
     "sha.latest": "09fa41be98da578ea580967264adea3e8180c0b1",
     "time.latest": 1718082367.2902603,
     "formatted_time": "2024-06-11 00:06:07.290264",
     "filescores": {
-        "BUILD.gn": 9.091043284827288e-06
+        "BUILD.gn": 0.029922611709461124
     },
     "subdirscores": {}
 }

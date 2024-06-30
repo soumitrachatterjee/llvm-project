@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/lldb/examples/customization",
-    "score.sum": 2.2475763732171178e-05,
+    "score.sum": 0.0011688481498392455,
     "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
     "time.latest": 1717841134.5544543,
     "formatted_time": "2024-06-08 15:35:34.554461",
     "filescores": {},
     "subdirscores": {
-        "bin-utils": 2.215502443177939e-05,
-        "import-python": 1.8495308013850223e-05,
-        "pwd-cd-and-system": 1.8295944781383922e-05
+        "bin-utils": 0.0011521681587915082,
+        "import-python": 0.0009618452485221717,
+        "pwd-cd-and-system": 0.0009514773985931986
     }
 }

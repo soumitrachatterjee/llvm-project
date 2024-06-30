@@ -1,16 +1,16 @@
 {
     "directory name": "llvm-project/libcxx/test/std/utilities/memory/specialized.algorithms/specialized.destroy",
-    "score.sum": 6.689047379069745e-05,
+    "score.sum": 0.0034786273545052314,
     "sha.latest": "b8cb1dc9ea87faa8e8e9ab7a31710a8c0bb8b084",
     "time.latest": 1717998737.7735183,
     "formatted_time": "2024-06-10 11:22:17.773520",
     "filescores": {
-        "destroy.pass.cpp": 4.7092375265048124e-05,
-        "destroy_at.pass.cpp": 5.4933062655865824e-05,
-        "destroy_n.pass.cpp": 4.7092375265048124e-05,
-        "ranges_destroy.pass.cpp": 8.712721597257803e-06,
-        "ranges_destroy_at.pass.cpp": 8.712721597257803e-06,
-        "ranges_destroy_n.pass.cpp": 8.712721597257803e-06
+        "destroy.pass.cpp": 0.15500166651764402,
+        "destroy_at.pass.cpp": 0.18080880844625746,
+        "destroy_n.pass.cpp": 0.15500166651764402,
+        "ranges_destroy.pass.cpp": 0.02867738906517967,
+        "ranges_destroy_at.pass.cpp": 0.02867738906517967,
+        "ranges_destroy_n.pass.cpp": 0.02867738906517967
     },
     "subdirscores": {}
 }

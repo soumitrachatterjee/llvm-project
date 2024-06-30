@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/compiler-rt/test/profile/Posix/Inputs",
-    "score.sum": 0,
+    "score.sum": 0.0,
     "sha.latest": "17e2521724d49ea3fea6ff774499de1e942db782",
     "time.latest": 1717839206.1962023,
     "formatted_time": "2024-06-08 15:03:26.196204",
     "filescores": {
-        "instrprof-visibility-helper.cpp": 0
+        "instrprof-visibility-helper.cpp": 0.0
     },
     "subdirscores": {}
 }

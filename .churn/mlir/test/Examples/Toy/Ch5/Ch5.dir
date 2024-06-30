@@ -1,19 +1,19 @@
 {
     "directory name": "llvm-project/mlir/test/Examples/Toy/Ch5",
-    "score.sum": 5.9334108516904926e-05,
+    "score.sum": 0.00308565990409821,
     "sha.latest": "02da9643506dee4a82353e0f911513279634d846",
     "time.latest": 1717824241.4235294,
     "formatted_time": "2024-06-08 00:24:01.423533",
     "filescores": {
-        "affine-lowering.mlir": 3.188923439144197e-05,
-        "ast.toy": 1.9367962193018464e-05,
-        "codegen.toy": 1.4301551972207413e-05,
-        "empty.toy": 0,
-        "invalid.mlir": 7.18538727338749e-06,
-        "scalar.toy": 1.4104634030156418e-05,
-        "shape_inference.mlir": 1.046530711998855e-05,
-        "transpose_transpose.toy": 6.099602068851199e-06,
-        "trivial_reshape.toy": 6.099602170170739e-06
+        "affine-lowering.mlir": 0.10496146025392508,
+        "ast.toy": 0.06374846034144967,
+        "codegen.toy": 0.04707268166033931,
+        "empty.toy": 0.0,
+        "invalid.mlir": 0.023650261760662393,
+        "scalar.toy": 0.04642453832474964,
+        "shape_inference.mlir": 0.03444591688330362,
+        "transpose_transpose.toy": 0.02007646631636598,
+        "trivial_reshape.toy": 0.020076466649853034
     },
     "subdirscores": {}
 }

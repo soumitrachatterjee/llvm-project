@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/mlir/lib/Dialect/ArmNeon/Transforms",
-    "score.sum": 0,
+    "score.sum": 0.0,
     "sha.latest": "cb6ff746e0c7b9218b6f5c11db44162cacd623a4",
     "time.latest": 1717805213.07434,
     "formatted_time": "2024-06-07 19:06:53.074343",
     "filescores": {
-        "CMakeLists.txt": 0,
-        "LowerContractionToSMMLAPattern.cpp": 0
+        "CMakeLists.txt": 0.0,
+        "LowerContractionToSMMLAPattern.cpp": 0.0
     },
     "subdirscores": {}
 }

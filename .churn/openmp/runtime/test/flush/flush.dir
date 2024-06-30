@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/openmp/runtime/test/flush",
-    "score.sum": 6.099602068851199e-06,
+    "score.sum": 0.00031720873550238375,
     "sha.latest": "74f98554f92dabb4c1be7db9e1712f060f3cdbca",
     "time.latest": 1717801806.7213085,
     "formatted_time": "2024-06-08 04:40:06.721311",
     "filescores": {
-        "omp_flush.c": 6.099602068851199e-06
+        "omp_flush.c": 0.02007646631636598
     },
     "subdirscores": {}
 }

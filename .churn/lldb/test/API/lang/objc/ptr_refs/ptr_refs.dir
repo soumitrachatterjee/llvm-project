@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/lldb/test/API/lang/objc/ptr_refs",
-    "score.sum": 1.4515758228327164e-05,
+    "score.sum": 0.0007548894600813198,
     "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
     "time.latest": 1717959666.7729309,
     "formatted_time": "2024-06-10 00:31:06.772935",
     "filescores": {
-        "main.m": 6.099602068851199e-06,
-        "Makefile": 0,
-        "TestPtrRefsObjC.py": 1.4472208102378543e-05
+        "main.m": 0.02007646631636598,
+        "Makefile": 0.0,
+        "TestPtrRefsObjC.py": 0.04763438585192232
     },
     "subdirscores": {}
 }

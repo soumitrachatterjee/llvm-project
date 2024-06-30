@@ -1,18 +1,18 @@
 {
     "directory name": "llvm-project/libcxx/test/std/algorithms/alg.sorting/alg.merge",
-    "score.sum": 0.0001923859307734125,
+    "score.sum": 0.010004996578502552,
     "sha.latest": "8dfc67d6724eb0af5d278f4d1d5511ca9f9e039f",
     "time.latest": 1717870963.6143413,
     "formatted_time": "2024-06-08 23:52:43.614345",
     "filescores": {
-        "inplace_merge.pass.cpp": 2.6486365093071796e-05,
-        "inplace_merge_comp.pass.cpp": 5.510525128200066e-05,
-        "merge.pass.cpp": 5.569369681613502e-05,
-        "merge_comp.pass.cpp": 6.478618238491023e-05,
-        "pstl.exception_handling.pass.cpp": 6.099602068851199e-06,
-        "pstl.merge.pass.cpp": 8.71554267959821e-06,
-        "ranges_inplace_merge.pass.cpp": 1.7262391585959186e-05,
-        "ranges_merge.pass.cpp": 1.1020018100181982e-05
+        "inplace_merge.pass.cpp": 0.08717824714328914,
+        "inplace_merge_comp.pass.cpp": 0.1813755567543661,
+        "merge.pass.cpp": 0.18331238915944945,
+        "merge_comp.pass.cpp": 0.2132397480581161,
+        "pstl.exception_handling.pass.cpp": 0.02007646631636598,
+        "pstl.merge.pass.cpp": 0.028686674484776485,
+        "ranges_inplace_merge.pass.cpp": 0.05681810375552938,
+        "ranges_merge.pass.cpp": 0.03627171407195026
     },
     "subdirscores": {}
 }

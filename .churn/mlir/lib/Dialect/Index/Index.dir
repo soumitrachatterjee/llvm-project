@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/mlir/lib/Dialect/Index",
-    "score.sum": 4.985913995141286e-05,
+    "score.sum": 0.002592915826097948,
     "sha.latest": "c17aa14f4ca101db247d124b4b05506247aa330f",
     "time.latest": 1717806503.9734743,
     "formatted_time": "2024-06-07 19:28:23.973475",
     "filescores": {
-        "CMakeLists.txt": 0
+        "CMakeLists.txt": 0.0
     },
     "subdirscores": {
-        "IR": 4.985913995141286e-05
+        "IR": 0.002592915826097948
     }
 }

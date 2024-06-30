@@ -1,16 +1,16 @@
 {
     "directory name": "llvm-project/libcxx/test/std/re/re.results/re.results.const",
-    "score.sum": 5.51628662693019e-05,
+    "score.sum": 0.0028687351827965985,
     "sha.latest": "9a140a1586cc4d13ecc97a28065f9ed2f93c99de",
     "time.latest": 1717967496.615229,
     "formatted_time": "2024-06-10 02:41:36.615230",
     "filescores": {
-        "allocator.pass.cpp": 1.8555517552888327e-05,
-        "copy.pass.cpp": 8.352678110727213e-06,
-        "copy_assign.pass.cpp": 8.351492793831976e-06,
-        "default.pass.cpp": 2.4002801203492824e-05,
-        "move.pass.cpp": 1.7379111407413836e-05,
-        "move_assign.pass.cpp": 8.352081026463544e-06
+        "allocator.pass.cpp": 0.0610743486096729,
+        "copy.pass.cpp": 0.027492327999201024,
+        "copy_assign.pass.cpp": 0.027488426601297883,
+        "default.pass.cpp": 0.07900374883817823,
+        "move.pass.cpp": 0.05720227989315861,
+        "move_assign.pass.cpp": 0.027490362732947218
     },
     "subdirscores": {}
 }

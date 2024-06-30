@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/llvm/utils/gn/secondary/clang-tools-extra/clang-tidy/concurrency",
-    "score.sum": 6.2040146595224916e-06,
+    "score.sum": 0.00032263869396254393,
     "sha.latest": "7af9ea548c7d9922b9aa2699edc7dbfd11acbaa2",
     "time.latest": 1718081695.7089736,
     "formatted_time": "2024-06-10 23:54:55.708978",
     "filescores": {
-        "BUILD.gn": 6.2040146595224916e-06
+        "BUILD.gn": 0.020420133958280122
     },
     "subdirscores": {}
 }

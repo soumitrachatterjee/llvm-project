@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/mlir/test/lib/Dialect/ArmSME",
-    "score.sum": 6.099602068851199e-06,
+    "score.sum": 0.00031720873550238375,
     "sha.latest": "e09e0d52a03c7141a7d62fb4adf4d9fee32bebb8",
     "time.latest": 1717831045.913252,
     "formatted_time": "2024-06-08 02:17:25.913256",
     "filescores": {
-        "CMakeLists.txt": 6.099602068851199e-06,
-        "TestLowerToArmSME.cpp": 0
+        "CMakeLists.txt": 0.02007646631636598,
+        "TestLowerToArmSME.cpp": 0.0
     },
     "subdirscores": {}
 }

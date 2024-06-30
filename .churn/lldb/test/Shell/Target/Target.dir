@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/lldb/test/Shell/Target",
-    "score.sum": 1.8290393991570488e-05,
+    "score.sum": 0.000951188730742758,
     "sha.latest": "bcfd85a25857294cb4a5cfa3f616f57a6911cda6",
     "time.latest": 1717983964.983996,
     "formatted_time": "2024-06-10 07:16:04.983999",
     "filescores": {
-        "dependent-modules-nodupe-windows.test": 0,
-        "target-label.test": 1.08077442232554e-05
+        "dependent-modules-nodupe-windows.test": 0.0,
+        "target-label.test": 0.035573027618005314
     },
     "subdirscores": {
-        "Inputs": 0
+        "Inputs": 0.0
     }
 }

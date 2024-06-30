@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/openmp/libomptarget/plugins-nextgen/cuda/dynamic_cuda",
-    "score.sum": 1.9866722887152965e-05,
+    "score.sum": 0.0010331654384130933,
     "sha.latest": "fb32977ac768f27890af28308a6968c30af2aa3e",
     "time.latest": 1717795939.5156012,
     "formatted_time": "2024-06-08 03:02:19.515605",
     "filescores": {
-        "cuda.cpp": 1.9866722887152965e-05,
-        "cuda.h": 1.000402390415983e-05
+        "cuda.cpp": 0.0653901005931726,
+        "cuda.h": 0.032927631454130614
     },
     "subdirscores": {}
 }

@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/lld/test/MinGW",
-    "score.sum": 0.000187459645016827,
+    "score.sum": 0.009748805951977925,
     "sha.latest": "d033366bd2189e33343ca93d276b40341dc39770",
     "time.latest": 1717901319.6419456,
     "formatted_time": "2024-06-09 08:18:39.641948",
     "filescores": {
-        "driver.test": 0.00016654737468899878,
-        "error-limit.test": 0,
-        "lib.test": 2.459568634153175e-05
+        "driver.test": 0.5481804747719581,
+        "error-limit.test": 0.0,
+        "lib.test": 0.08095519392737473
     },
     "subdirscores": {}
 }

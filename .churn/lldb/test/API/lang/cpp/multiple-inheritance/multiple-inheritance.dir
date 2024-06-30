@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/lldb/test/API/lang/cpp/multiple-inheritance",
-    "score.sum": 1.199944923946578e-05,
+    "score.sum": 0.0006240292525661213,
     "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
     "time.latest": 1717933415.2626173,
     "formatted_time": "2024-06-09 17:13:35.262621",
     "filescores": {
-        "main.cpp": 0,
-        "Makefile": 0,
-        "TestCppMultipleInheritance.py": 1.199944923946578e-05
+        "main.cpp": 0.0,
+        "Makefile": 0.0,
+        "TestCppMultipleInheritance.py": 0.03949545162975698
     },
     "subdirscores": {}
 }

@@ -1,23 +1,23 @@
 {
     "directory name": "llvm-project/polly/docs",
-    "score.sum": 0.0003257135619918008,
+    "score.sum": 0.01693867664958275,
     "sha.latest": "4706251a3186c34da0ee8fd894f7e6b095da8fdc",
     "time.latest": 1717793014.0467043,
     "formatted_time": "2024-06-07 15:43:34.046708",
     "filescores": {
-        "Architecture.rst": 1.0610175775667645e-05,
-        "CMakeLists.txt": 6.099602068851199e-06,
-        "HowToManuallyUseTheIndividualPiecesOfPolly.rst": 2.1808470716995915e-05,
-        "Performance.rst": 6.099914543515396e-06,
-        "ReleaseNotes.rst": 9.232154574653153e-05,
-        "TipsAndTricks.rst": 1.073397493678631e-05,
-        "UsingPollyWithClang.rst": 2.0375069062401933e-05,
-        "conf.py": 4.0351384496551724e-05,
-        "doxygen.cfg.in": 1.1138893700045018e-05,
-        "index.rst": 1.7228609764297867e-05
+        "Architecture.rst": 0.03492274318331606,
+        "CMakeLists.txt": 0.02007646631636598,
+        "HowToManuallyUseTheIndividualPiecesOfPolly.rst": 0.0717812445498899,
+        "Performance.rst": 0.02007749480756912,
+        "ReleaseNotes.rst": 0.3038707087008658,
+        "TipsAndTricks.rst": 0.03533022053350021,
+        "UsingPollyWithClang.rst": 0.06706329086841321,
+        "conf.py": 0.1328141086122246,
+        "doxygen.cfg.in": 0.03666298582206584,
+        "index.rst": 0.05670691296028842
     },
     "subdirscores": {
-        "experiments": 2.5731072391621992e-05,
-        "images": 1.5493267697992844e-05
+        "experiments": 0.0013381399055764909,
+        "images": 0.000805724668561183
     }
 }

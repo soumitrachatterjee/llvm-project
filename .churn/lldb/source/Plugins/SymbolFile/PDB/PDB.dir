@@ -1,17 +1,17 @@
 {
     "directory name": "llvm-project/lldb/source/Plugins/SymbolFile/PDB",
-    "score.sum": 0.000630993992138803,
+    "score.sum": 0.032814731862278415,
     "sha.latest": "917b404e2ccdcc31d2d64971ad094b80967a240b",
     "time.latest": 1717881487.8181584,
     "formatted_time": "2024-06-09 02:48:07.818160",
     "filescores": {
-        "CMakeLists.txt": 3.627333264350321e-05,
-        "PDBASTParser.cpp": 0.00025765085552468327,
-        "PDBASTParser.h": 5.0368709995117856e-05,
-        "PDBLocationToDWARFExpression.cpp": 3.121330556519374e-05,
-        "PDBLocationToDWARFExpression.h": 1.5544376028911244e-05,
-        "SymbolFilePDB.cpp": 0.0004443328974963139,
-        "SymbolFilePDB.h": 0.00017470529010310258
+        "CMakeLists.txt": 0.11939145091423772,
+        "PDBASTParser.cpp": 0.8480419974836837,
+        "PDBASTParser.h": 0.16578552144898276,
+        "PDBLocationToDWARFExpression.cpp": 0.10273668195539762,
+        "PDBLocationToDWARFExpression.h": 0.051163360860381486,
+        "SymbolFilePDB.cpp": 1.4624944954020842,
+        "SymbolFilePDB.h": 0.5750317532937821
     },
     "subdirscores": {}
 }

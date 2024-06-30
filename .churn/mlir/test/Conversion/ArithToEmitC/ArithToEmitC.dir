@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/mlir/test/Conversion/ArithToEmitC",
-    "score.sum": 6.099602068851199e-06,
+    "score.sum": 0.00031720873550238375,
     "sha.latest": "0ddb1221471ae481cc0c7dfd57b71d98e7e60a27",
     "time.latest": 1717815310.005941,
     "formatted_time": "2024-06-07 21:55:10.005944",
     "filescores": {
-        "arith-to-emitc.mlir": 6.099602068851199e-06
+        "arith-to-emitc.mlir": 0.02007646631636598
     },
     "subdirscores": {}
 }

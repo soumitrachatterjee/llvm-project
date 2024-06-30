@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/mlir/test/lib/Interfaces/LoopLikeInterface",
-    "score.sum": 6.90546771003754e-06,
+    "score.sum": 0.0003591176367946417,
     "sha.latest": "81a79ee446fe499e217144ae1cd505ede9021712",
     "time.latest": 1717832191.378281,
     "formatted_time": "2024-06-08 02:36:31.378285",
     "filescores": {
-        "CMakeLists.txt": 6.90546771003754e-06,
-        "TestBlockInLoop.cpp": 6.90546771003754e-06
+        "CMakeLists.txt": 0.02272892367639855,
+        "TestBlockInLoop.cpp": 0.02272892367639855
     },
     "subdirscores": {}
 }

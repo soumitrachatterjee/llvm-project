@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/openmp/libomptarget/include/OpenMP/OMPT",
-    "score.sum": 1.2046971921957639e-05,
+    "score.sum": 0.0006265006613319332,
     "sha.latest": "e521752c04a479e3751003645a728667f3199d24",
     "time.latest": 1717795208.1013339,
     "formatted_time": "2024-06-08 02:50:08.101338",
     "filescores": {
-        "Callback.h": 0,
-        "Connector.h": 0,
-        "Interface.h": 1.2046971921957639e-05
+        "Callback.h": 0.0,
+        "Connector.h": 0.0,
+        "Interface.h": 0.039651869626134706
     },
     "subdirscores": {}
 }

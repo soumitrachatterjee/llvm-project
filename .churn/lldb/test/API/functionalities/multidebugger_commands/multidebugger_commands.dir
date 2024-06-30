@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/lldb/test/API/functionalities/multidebugger_commands",
-    "score.sum": 1.842220404256326e-05,
+    "score.sum": 0.0009580434893204429,
     "sha.latest": "9c2468821ec51defd09c246fea4a47886fff8c01",
     "time.latest": 1717913081.707025,
     "formatted_time": "2024-06-09 11:34:41.707027",
     "filescores": {
-        "TestMultipleDebuggersCommands.py": 1.842220404256326e-05
+        "TestMultipleDebuggersCommands.py": 0.06063555536228622
     },
     "subdirscores": {}
 }

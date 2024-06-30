@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/clang/test/CXX/special/class.init/class.base.init",
-    "score.sum": 9.316630160952959e-06,
+    "score.sum": 0.00048450971705042126,
     "sha.latest": "ab44d5badf576b5e823a6d78e5972f9ca6a99d68",
     "time.latest": 1718111317.7646866,
     "formatted_time": "2024-06-11 18:38:37.764695",
     "filescores": {
-        "p8-0x.cpp": 9.316630160952959e-06,
-        "p9-0x.cpp": 6.099602068851199e-06
+        "p8-0x.cpp": 0.030665117084209974,
+        "p9-0x.cpp": 0.02007646631636598
     },
     "subdirscores": {}
 }

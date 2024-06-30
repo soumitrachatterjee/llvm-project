@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/clang/lib/Headers/hlsl",
-    "score.sum": 9.428615080010599e-05,
+    "score.sum": 0.004903334731198563,
     "sha.latest": "5a5266248d4f7af101ad5a54960cbd814599a8d6",
     "time.latest": 1717814007.3938928,
     "formatted_time": "2024-06-08 08:03:27.393896",
     "filescores": {
-        "hlsl_basic_types.h": 1.9967126963313788e-05,
-        "hlsl_intrinsics.h": 9.00170148870354e-05
+        "hlsl_basic_types.h": 0.06572057445528935,
+        "hlsl_intrinsics.h": 0.29628548663991033
     },
     "subdirscores": {}
 }

@@ -1,28 +1,28 @@
 {
     "directory name": "llvm-project/clang/include/clang/Tooling/Refactoring",
-    "score.sum": 0.00021877229470380688,
+    "score.sum": 0.01137721480559134,
     "sha.latest": "b51a03e1bbe7ea8868ffb24472fc532d0c00943c",
     "time.latest": 1717803068.0998108,
     "formatted_time": "2024-06-08 05:01:08.099813",
     "filescores": {
-        "ASTSelection.h": 3.339130358007338e-05,
-        "AtomicChange.h": 2.4499228605731947e-05,
-        "Lookup.h": 6.099602068851199e-06,
-        "RecursiveSymbolVisitor.h": 3.525438677539995e-05,
-        "RefactoringAction.h": 8.014617466869113e-06,
-        "RefactoringActionRule.h": 1.8436066993543055e-05,
-        "RefactoringActionRuleRequirements.h": 1.4129933490053461e-05,
-        "RefactoringActionRules.h": 1.3415222619630095e-05,
-        "RefactoringActionRulesInternal.h": 1.8727227487428402e-05,
-        "RefactoringDiagnostic.h": 1.1639716160833313e-05,
-        "RefactoringOption.h": 7.979325159588187e-06,
-        "RefactoringOptions.h": 2.6864790076512588e-05,
-        "RefactoringOptionVisitor.h": 1.859784684908474e-05,
-        "RefactoringResultConsumer.h": 9.052089900835304e-06,
-        "RefactoringRuleContext.h": 1.2957776536537643e-05
+        "ASTSelection.h": 0.10990542891450514,
+        "AtomicChange.h": 0.0806377092026536,
+        "Lookup.h": 0.02007646631636598,
+        "RecursiveSymbolVisitor.h": 0.11603765304869461,
+        "RefactoringAction.h": 0.026379622112375132,
+        "RefactoringActionRule.h": 0.06068118441566539,
+        "RefactoringActionRuleRequirements.h": 0.046507809946195085,
+        "RefactoringActionRules.h": 0.044155382926525946,
+        "RefactoringActionRulesInternal.h": 0.06163952133374022,
+        "RefactoringDiagnostic.h": 0.038311412252347625,
+        "RefactoringOption.h": 0.026263459646306945,
+        "RefactoringOptions.h": 0.08842380977959918,
+        "RefactoringOptionVisitor.h": 0.06121367289340324,
+        "RefactoringResultConsumer.h": 0.029794399033815085,
+        "RefactoringRuleContext.h": 0.0426497271845459
     },
     "subdirscores": {
-        "Extract": 2.889554595143179e-05,
-        "Rename": 2.8656016308952427e-05
+        "Extract": 0.0015027077978926279,
+        "Rename": 0.0014902511008575495
     }
 }

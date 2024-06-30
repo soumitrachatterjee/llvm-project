@@ -1,18 +1,18 @@
 {
     "directory name": "llvm-project/llvm/lib/Bitcode/Reader",
-    "score.sum": 0.004889229621450219,
+    "score.sum": 0.2542635287178858,
     "sha.latest": "40282674e9808baeb9b88afdd3cbd7da46825544",
     "time.latest": 1717828540.8725212,
     "formatted_time": "2024-06-08 01:35:40.872524",
     "filescores": {
-        "BitReader.cpp": 0.00010487035739315397,
-        "BitcodeAnalyzer.cpp": 0.00010990605645680054,
-        "BitcodeReader.cpp": 0.003773881588502881,
-        "CMakeLists.txt": 4.334702383343066e-05,
-        "MetadataLoader.cpp": 0.0005138766009421502,
-        "MetadataLoader.h": 4.473139358293076e-05,
-        "ValueList.cpp": 6.161475720838654e-05,
-        "ValueList.h": 5.0021496974892406e-05
+        "BitReader.cpp": 0.3451743530189756,
+        "BitcodeAnalyzer.cpp": 0.36174904780881084,
+        "BitcodeReader.cpp": 12.42149991725635,
+        "CMakeLists.txt": 0.14267407186293518,
+        "MetadataLoader.cpp": 1.6913933324058297,
+        "MetadataLoader.h": 0.14723064003435185,
+        "ValueList.cpp": 0.2028011964915309,
+        "ValueList.h": 0.1646426910763659
     },
     "subdirscores": {}
 }

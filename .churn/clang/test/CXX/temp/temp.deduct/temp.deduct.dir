@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/clang/test/CXX/temp/temp.deduct",
-    "score.sum": 1.1165682411840736e-05,
+    "score.sum": 0.0005806693549679841,
     "sha.latest": "3eeed79946124a8f67a89bb950a1e510369dcdf9",
     "time.latest": 1718114351.5253012,
     "formatted_time": "2024-06-11 19:29:11.525303",
     "filescores": {
-        "p5.cpp": 0,
-        "p9.cpp": 6.099602068851199e-06
+        "p5.cpp": 0.0,
+        "p9.cpp": 0.02007646631636598
     },
     "subdirscores": {}
 }

@@ -1,17 +1,17 @@
 {
     "directory name": "llvm-project/lldb/test/API/functionalities/postmortem",
-    "score.sum": 0.00017240434744314625,
+    "score.sum": 0.00896585784289598,
     "sha.latest": "0123cefc00177e4fc7daa0dadf98ca8336760785",
     "time.latest": 1717918546.288365,
     "formatted_time": "2024-06-09 13:05:46.288366",
     "filescores": {},
     "subdirscores": {
-        "elf-core": 0.00010872758308474411,
-        "FreeBSDKernel": 8.604285574539245e-06,
-        "mach-core": 1.3546498095680778e-05,
-        "minidump": 5.008804880624916e-05,
-        "minidump-new": 5.5578169935711955e-05,
-        "netbsd-core": 2.336100330679266e-05,
-        "wow64_minidump": 1.787429430349363e-05
+        "elf-core": 0.0056543588836177605,
+        "FreeBSDKernel": 0.0004474643618046781,
+        "mach-core": 0.0007044832569259163,
+        "minidump": 0.0026048201909349145,
+        "minidump-new": 0.002890332977109146,
+        "netbsd-core": 0.0012148848786147728,
+        "wow64_minidump": 0.0009295495394630789
     }
 }

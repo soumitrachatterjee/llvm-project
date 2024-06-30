@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/libclc/generic/include/clc/misc",
-    "score.sum": 6.0996023488495025e-06,
+    "score.sum": 0.0003172087500636464,
     "sha.latest": "2946cd701067404b99c39fb29dc9c74bd7193eb3",
     "time.latest": 1717827039.7317383,
     "formatted_time": "2024-06-08 01:10:39.731742",
     "filescores": {
-        "shuffle.h": 6.099602068851199e-06,
-        "shuffle2.h": 6.099602068851199e-06
+        "shuffle.h": 0.02007646631636598,
+        "shuffle2.h": 0.02007646631636598
     },
     "subdirscores": {}
 }

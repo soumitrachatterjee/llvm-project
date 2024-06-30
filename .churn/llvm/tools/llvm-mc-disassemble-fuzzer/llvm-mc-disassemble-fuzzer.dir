@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/llvm/tools/llvm-mc-disassemble-fuzzer",
-    "score.sum": 3.474579199234262e-05,
+    "score.sum": 0.001806948816907933,
     "sha.latest": "8de9f2b558a046da15cf73191da627bdd83676ca",
     "time.latest": 1718080951.3924358,
     "formatted_time": "2024-06-10 23:42:31.392440",
     "filescores": {
-        "CMakeLists.txt": 1.1430493017472834e-05,
-        "llvm-mc-disassemble-fuzzer.cpp": 2.4711881215096324e-05
+        "CMakeLists.txt": 0.03762276710093171,
+        "llvm-mc-disassemble-fuzzer.cpp": 0.08133764223120202
     },
     "subdirscores": {}
 }

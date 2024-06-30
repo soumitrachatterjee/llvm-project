@@ -1,16 +1,16 @@
 {
     "directory name": "llvm-project/libc/fuzzing/string",
-    "score.sum": 1.5843666018132884e-05,
+    "score.sum": 0.0008239470717276762,
     "sha.latest": "1ee93ac0991d5150ed5b21624e691da43b349612",
     "time.latest": 1717825946.376089,
     "formatted_time": "2024-06-08 00:52:26.376093",
     "filescores": {
-        "CMakeLists.txt": 8.952083439096007e-06,
-        "bcmp_fuzz.cpp": 0,
-        "memcmp_fuzz.cpp": 0,
-        "strcmp_fuzz.cpp": 6.12681425706719e-06,
-        "strcpy_fuzz.cpp": 6.316136618385573e-06,
-        "strstr_fuzz.cpp": 6.099602068851199e-06
+        "CMakeLists.txt": 0.02946523389519382,
+        "bcmp_fuzz.cpp": 0.0,
+        "memcmp_fuzz.cpp": 0.0,
+        "strcmp_fuzz.cpp": 0.020166033565826868,
+        "strcpy_fuzz.cpp": 0.020789176513028872,
+        "strstr_fuzz.cpp": 0.02007646631636598
     },
     "subdirscores": {}
 }

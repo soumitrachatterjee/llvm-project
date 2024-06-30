@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/llvm/tools/llvm-strings",
-    "score.sum": 0.00012352460157954122,
+    "score.sum": 0.006423875234513746,
     "sha.latest": "dcb6d212fdfb1db60bc5ba1c877897cb5ba0546c",
     "time.latest": 1718084311.2082155,
     "formatted_time": "2024-06-11 00:38:31.208219",
     "filescores": {
-        "CMakeLists.txt": 7.383021482162957e-06,
-        "Opts.td": 0,
-        "llvm-strings.cpp": 0.00011902579017608656
+        "CMakeLists.txt": 0.024300762644269967,
+        "Opts.td": 0.0,
+        "llvm-strings.cpp": 0.3917660923246273
     },
     "subdirscores": {}
 }

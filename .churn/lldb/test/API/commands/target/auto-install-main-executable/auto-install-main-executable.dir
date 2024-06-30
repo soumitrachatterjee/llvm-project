@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/lldb/test/API/commands/target/auto-install-main-executable",
-    "score.sum": 2.740999455827404e-05,
+    "score.sum": 0.001425451958310272,
     "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
     "time.latest": 1717897923.8281214,
     "formatted_time": "2024-06-09 07:22:03.828124",
     "filescores": {
-        "main.cpp": 6.099602068851199e-06,
-        "Makefile": 6.099602068851199e-06,
-        "TestAutoInstallMainExecutable.py": 2.740999455827404e-05
+        "main.cpp": 0.02007646631636598,
+        "Makefile": 0.02007646631636598,
+        "TestAutoInstallMainExecutable.py": 0.09021831691138606
     },
     "subdirscores": {}
 }

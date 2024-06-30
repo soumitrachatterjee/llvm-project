@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/lldb/test/API/functionalities/target_var/no_vars",
-    "score.sum": 1.0061861473635697e-05,
+    "score.sum": 0.0005232653407262778,
     "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
     "time.latest": 1717920919.5368235,
     "formatted_time": "2024-06-09 13:45:19.536825",
     "filescores": {
-        "main.c": 0,
-        "Makefile": 0,
-        "TestTargetVarNoVars.py": 1.0061861473635697e-05
+        "main.c": 0.0,
+        "Makefile": 0.0,
+        "TestTargetVarNoVars.py": 0.033118000268734515
     },
     "subdirscores": {}
 }

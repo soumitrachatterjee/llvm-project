@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/mlir/test/Conversion/ArithToSPIRV",
-    "score.sum": 5.723789893634495e-05,
+    "score.sum": 0.0029766468926112743,
     "sha.latest": "f7ef73ea889a43b893f6277a2ecc227fd2bf803a",
     "time.latest": 1717815365.5613558,
     "formatted_time": "2024-06-07 21:56:05.561359",
     "filescores": {
-        "arith-to-spirv-unsupported.mlir": 6.641628968936617e-06,
-        "arith-to-spirv.mlir": 5.628285139545508e-05,
-        "fast-math.mlir": 1.2068409049794837e-05
+        "arith-to-spirv-unsupported.mlir": 0.02186051463284553,
+        "arith-to-spirv.mlir": 0.1852515553432985,
+        "fast-math.mlir": 0.0397224286183583
     },
     "subdirscores": {}
 }

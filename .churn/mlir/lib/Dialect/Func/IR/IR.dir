@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/mlir/lib/Dialect/Func/IR",
-    "score.sum": 5.084430501663118e-05,
+    "score.sum": 0.0026441491624814607,
     "sha.latest": "b43c50490c5964b3b1aa1b95a9025a5b5942a46e",
     "time.latest": 1717806082.8614273,
     "formatted_time": "2024-06-07 19:21:22.861431",
     "filescores": {
-        "CMakeLists.txt": 1.2434618779483915e-05,
-        "FuncOps.cpp": 4.991055154369209e-05
+        "CMakeLists.txt": 0.040927785495714894,
+        "FuncOps.cpp": 0.16427752099030032
     },
     "subdirscores": {}
 }

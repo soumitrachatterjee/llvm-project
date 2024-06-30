@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/llvm/lib/Target/BPF/Disassembler",
-    "score.sum": 8.304237746563207e-05,
+    "score.sum": 0.004318604271498979,
     "sha.latest": "6c412b6c6faa2dabd8602d35d3f5e796fb1daf80",
     "time.latest": 1717853630.70688,
     "formatted_time": "2024-06-08 08:33:50.706884",
     "filescores": {
-        "BPFDisassembler.cpp": 7.112735941923958e-05,
-        "CMakeLists.txt": 1.312613929177107e-05
+        "BPFDisassembler.cpp": 0.2341113435652971,
+        "CMakeLists.txt": 0.043203882873100695
     },
     "subdirscores": {}
 }

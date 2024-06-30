@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/lldb/test/API/lang/objc/conflicting-definition/TestExt",
-    "score.sum": 6.099602068851199e-06,
+    "score.sum": 0.00031720873550238375,
     "sha.latest": "af2ea183f5e3301406724bba116a7e200f108b79",
     "time.latest": 1717956192.2607455,
     "formatted_time": "2024-06-09 23:33:12.260752",
     "filescores": {
-        "Foo.h": 0,
-        "TestExt.h": 0,
-        "TestExt.m": 6.099602068851199e-06
+        "Foo.h": 0.0,
+        "TestExt.h": 0.0,
+        "TestExt.m": 0.02007646631636598
     },
     "subdirscores": {}
 }

@@ -1,15 +1,15 @@
 {
     "directory name": "llvm-project/llvm/include/llvm/DebugInfo/MSF",
-    "score.sum": 8.488818025812402e-05,
+    "score.sum": 0.004414594921902739,
     "sha.latest": "4a0ccfa865437fe29ef2ecb18152df7694dddb7f",
     "time.latest": 1717812988.6342585,
     "formatted_time": "2024-06-07 21:16:28.634262",
     "filescores": {
-        "IMSFFile.h": 6.854900017800753e-06,
-        "MSFBuilder.h": 2.147785986967725e-05,
-        "MSFCommon.h": 2.1881885902011115e-05,
-        "MSFError.h": 3.0274623403288598e-05,
-        "MappedBlockStream.h": 3.417559066595542e-05
+        "IMSFFile.h": 0.02256248321709832,
+        "MSFBuilder.h": 0.0706930592117161,
+        "MSFCommon.h": 0.07202288613116523,
+        "MSFError.h": 0.09964706715880292,
+        "MappedBlockStream.h": 0.11248686178247536
     },
     "subdirscores": {}
 }

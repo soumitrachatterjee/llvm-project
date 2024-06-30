@@ -1,17 +1,17 @@
 {
     "directory name": "llvm-project/lld/docs/ELF",
-    "score.sum": 3.968443278317086e-05,
+    "score.sum": 0.0020637819648208376,
     "sha.latest": "4bc3b3501ff994fb3504ed2b973342821a9c8cea",
     "time.latest": 1717839005.4801202,
     "formatted_time": "2024-06-08 15:00:05.480123",
     "filescores": {
-        "large_sections.rst": 0,
-        "large_section_layout_nopic.png": 0,
-        "large_section_layout_pic.png": 0,
-        "linker_script.rst": 2.56708069673653e-05,
-        "section_layout.png": 0,
-        "start-stop-gc.rst": 6.099602068851199e-06,
-        "warn_backrefs.rst": 6.099602068851199e-06
+        "large_sections.rst": 0.0,
+        "large_section_layout_nopic.png": 0.0,
+        "large_section_layout_pic.png": 0.0,
+        "linker_script.rst": 0.08449388756458814,
+        "section_layout.png": 0.0,
+        "start-stop-gc.rst": 0.02007646631636598,
+        "warn_backrefs.rst": 0.02007646631636598
     },
     "subdirscores": {}
 }

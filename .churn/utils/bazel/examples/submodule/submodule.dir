@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/utils/bazel/examples/submodule",
-    "score.sum": 1.578173576995002e-05,
+    "score.sum": 0.0008207264000357053,
     "sha.latest": "2fcfc9754a16805b81e541dc8222a8b5cf17a121",
     "time.latest": 1717788273.1345804,
     "formatted_time": "2024-06-08 00:54:33.134585",
     "filescores": {
-        "WORKSPACE": 1.578173576995002e-05
+        "WORKSPACE": 0.051944615898339035
     },
     "subdirscores": {}
 }

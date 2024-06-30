@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/libcxx/test/std/numerics/numarray/class.gslice",
-    "score.sum": 1.834849587503368e-05,
+    "score.sum": 0.0009542103089991141,
     "sha.latest": "f5832bab6f5024cabe32a9f668b7f44e6b7cfef5",
     "time.latest": 1717935957.5092754,
     "formatted_time": "2024-06-09 17:55:57.509278",
     "filescores": {},
     "subdirscores": {
-        "gslice.access": 1.2132863580760565e-05,
-        "gslice.cons": 1.4738659510993745e-05
+        "gslice.access": 0.0006309674419795125,
+        "gslice.cons": 0.000766481402181543
     }
 }

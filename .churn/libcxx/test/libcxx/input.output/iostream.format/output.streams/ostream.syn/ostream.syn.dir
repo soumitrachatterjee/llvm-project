@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/libcxx/test/libcxx/input.output/iostream.format/output.streams/ostream.syn",
-    "score.sum": 0,
+    "score.sum": 0.0,
     "sha.latest": "82d21814e6556480a71c83a2f8da350d0c8cadf6",
     "time.latest": 1717851267.7634137,
     "formatted_time": "2024-06-08 18:24:27.763417",
     "filescores": {
-        "includes.compile.pass.cpp": 0
+        "includes.compile.pass.cpp": 0.0
     },
     "subdirscores": {}
 }

@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/libc/docs/math",
-    "score.sum": 0.00016000693107103,
+    "score.sum": 0.00832113237941403,
     "sha.latest": "99f5e9634b6921ebb6dad9bef1c76ade83adc847",
     "time.latest": 1717825613.1005368,
     "formatted_time": "2024-06-08 00:46:53.100540",
     "filescores": {
-        "index.rst": 0.00012220154472838109,
-        "log.rst": 9.671107569940756e-06,
-        "stdfix.rst": 1.6706182327175353e-05
+        "index.rst": 0.4022188937661802,
+        "log.rst": 0.03183185774714581,
+        "stdfix.rst": 0.05498737507474388
     },
     "subdirscores": {}
 }

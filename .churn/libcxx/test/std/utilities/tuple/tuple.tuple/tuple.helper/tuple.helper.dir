@@ -1,23 +1,23 @@
 {
     "directory name": "llvm-project/libcxx/test/std/utilities/tuple/tuple.tuple/tuple.helper",
-    "score.sum": 0.00010919375859219737,
+    "score.sum": 0.005678602259099021,
     "sha.latest": "9bb9ec380ace81d040d3a0a0a2ae9a75733ab330",
     "time.latest": 1718007375.44509,
     "formatted_time": "2024-06-10 13:46:15.445092",
     "filescores": {
-        "tuple.include.array.pass.cpp": 1.9693509430794393e-05,
-        "tuple.include.ranges.pass.cpp": 9.575150998811313e-06,
-        "tuple.include.utility.pass.cpp": 1.7591074609692744e-05,
-        "tuple_element.pass.cpp": 2.2353795883110936e-05,
-        "tuple_element.verify.cpp": 6.099602068851199e-06,
-        "tuple_size.pass.cpp": 2.713213164373927e-05,
-        "tuple_size.verify.cpp": 0,
-        "tuple_size_incomplete.pass.cpp": 2.586471191451899e-05,
-        "tuple_size_incomplete.verify.cpp": 0,
-        "tuple_size_structured_bindings.pass.cpp": 2.573329304747279e-05,
-        "tuple_size_v.pass.cpp": 1.856545606039705e-05,
-        "tuple_size_v.verify.cpp": 0,
-        "tuple_size_value_sfinae.pass.cpp": 3.2359179076730786e-05
+        "tuple.include.array.pass.cpp": 0.06481997911920254,
+        "tuple.include.ranges.pass.cpp": 0.03151602257521679,
+        "tuple.include.utility.pass.cpp": 0.05789994378054447,
+        "tuple_element.pass.cpp": 0.07357614890682886,
+        "tuple_element.verify.cpp": 0.02007646631636598,
+        "tuple_size.pass.cpp": 0.08930374816062897,
+        "tuple_size.verify.cpp": 0.0,
+        "tuple_size_incomplete.pass.cpp": 0.08513211381216385,
+        "tuple_size_incomplete.verify.cpp": 0.0,
+        "tuple_size_structured_bindings.pass.cpp": 0.08469955666699176,
+        "tuple_size_v.pass.cpp": 0.06110706059792748,
+        "tuple_size_v.verify.cpp": 0.0,
+        "tuple_size_value_sfinae.pass.cpp": 0.10650825437889544
     },
     "subdirscores": {}
 }

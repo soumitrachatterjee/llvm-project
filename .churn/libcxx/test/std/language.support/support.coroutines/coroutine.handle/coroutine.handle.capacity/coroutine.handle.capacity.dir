@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/libcxx/test/std/language.support/support.coroutines/coroutine.handle/coroutine.handle.capacity",
-    "score.sum": 6.099602068851199e-06,
+    "score.sum": 0.00031720873550238375,
     "sha.latest": "e5ec498fc54ba9fa0b7b1760ab8783ae47b61249",
     "time.latest": 1717920798.9919004,
     "formatted_time": "2024-06-09 13:43:18.991902",
     "filescores": {
-        "operator_bool.pass.cpp": 6.099602068851199e-06
+        "operator_bool.pass.cpp": 0.02007646631636598
     },
     "subdirscores": {}
 }

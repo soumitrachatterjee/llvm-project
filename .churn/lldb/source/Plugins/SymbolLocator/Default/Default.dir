@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/lldb/source/Plugins/SymbolLocator/Default",
-    "score.sum": 6.3482137433743674e-06,
+    "score.sum": 0.00033013774202058727,
     "sha.latest": "f1ef910b97d6acb80480b79a4144541311369cc9",
     "time.latest": 1717881699.8526425,
     "formatted_time": "2024-06-09 02:51:39.852644",
     "filescores": {
-        "CMakeLists.txt": 0,
-        "SymbolLocatorDefault.cpp": 6.3482137433743674e-06,
-        "SymbolLocatorDefault.h": 7.052414966570807e-06
+        "CMakeLists.txt": 0.0,
+        "SymbolLocatorDefault.cpp": 0.020894756403666673,
+        "SymbolLocatorDefault.h": 0.023212591563708477
     },
     "subdirscores": {}
 }

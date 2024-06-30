@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/clang/www/analyzer/images/expandcollapse",
-    "score.sum": 0,
+    "score.sum": 0.0,
     "sha.latest": "45056dc50a0cb3a19bc64e7da83528a2ceeeb5e7",
     "time.latest": 1718081633.6378698,
     "formatted_time": "2024-06-11 10:23:53.637885",
     "filescores": {
-        "arrows_dark.gif": 0,
-        "arrows_light.gif": 0,
-        "ellipses_dark.gif": 0,
-        "ellipses_light.gif": 0
+        "arrows_dark.gif": 0.0,
+        "arrows_light.gif": 0.0,
+        "ellipses_dark.gif": 0.0,
+        "ellipses_light.gif": 0.0
     },
     "subdirscores": {}
 }

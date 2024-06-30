@@ -1,17 +1,17 @@
 {
     "directory name": "llvm-project/libclc/ptx/lib",
-    "score.sum": 3.321600358012156e-05,
+    "score.sum": 0.001727392438909944,
     "sha.latest": "80bb52ae750f1d9f5e82e40c61a1000d3d38eb42",
     "time.latest": 1717831429.4890096,
     "formatted_time": "2024-06-08 02:23:49.489010",
     "filescores": {
-        "SOURCES": 1.8873750148347584e-05,
-        "SOURCES_3.9": 6.099602068851199e-06,
-        "SOURCES_4.0": 6.099602068851199e-06,
-        "SOURCES_5.0": 6.099602068851199e-06
+        "SOURCES": 0.06212179169061323,
+        "SOURCES_3.9": 0.02007646631636598,
+        "SOURCES_4.0": 0.02007646631636598,
+        "SOURCES_5.0": 0.02007646631636598
     },
     "subdirscores": {
-        "math": 0,
-        "shared": 6.099602068851199e-06
+        "math": 0.0,
+        "shared": 0.00031720873550238375
     }
 }

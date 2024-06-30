@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/llvm/examples/Bye",
-    "score.sum": 5.615544239390957e-05,
+    "score.sum": 0.00292035393002349,
     "sha.latest": "a6ea0185d698dfce0811c37e910d5c08b6a20ed0",
     "time.latest": 1717803541.6590428,
     "formatted_time": "2024-06-07 18:39:01.659046",
     "filescores": {
-        "Bye.cpp": 3.8145903172034375e-05,
-        "CMakeLists.txt": 2.4952499708292687e-05
+        "Bye.cpp": 0.1255549020241158,
+        "CMakeLists.txt": 0.08212962325213137
     },
     "subdirscores": {}
 }

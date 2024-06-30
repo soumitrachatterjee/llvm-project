@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/utils/bazel/llvm-project-overlay/libc/test/src/stdio",
-    "score.sum": 1.8620384043749775e-05,
+    "score.sum": 0.0009683498055142916,
     "sha.latest": "7a7d5481ad5c925d4f31bee3ab66bd1d7d514b73",
     "time.latest": 1717789026.581117,
     "formatted_time": "2024-06-08 01:07:06.581121",
     "filescores": {
-        "BUILD.bazel": 1.8620384043749775e-05
+        "BUILD.bazel": 0.06128785268815879
     },
     "subdirscores": {}
 }

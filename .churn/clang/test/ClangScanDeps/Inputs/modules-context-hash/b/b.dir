@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/clang/test/ClangScanDeps/Inputs/modules-context-hash/b",
-    "score.sum": 0,
+    "score.sum": 0.0,
     "sha.latest": "954d77b98dd69c6bcf808e3dac871171d4832bad",
     "time.latest": 1717868589.0036466,
     "formatted_time": "2024-06-08 23:13:09.003649",
     "filescores": {
-        "dep.h": 0
+        "dep.h": 0.0
     },
     "subdirscores": {}
 }

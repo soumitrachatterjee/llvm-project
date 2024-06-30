@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/libcxx/test/libcxx/input.output/filesystems/class.directory_entry/directory_entry.mods",
-    "score.sum": 5.956460647910343e-05,
+    "score.sum": 0.0030976469101847612,
     "sha.latest": "1197fcabc4b5f39dbe8a94b1ab6e92354f3f0dd2",
     "time.latest": 1717850944.527474,
     "formatted_time": "2024-06-08 18:19:04.527478",
     "filescores": {
-        "last_write_time.pass.cpp": 4.342701354910766e-05
+        "last_write_time.pass.cpp": 0.14293735310887837
     },
     "subdirscores": {}
 }

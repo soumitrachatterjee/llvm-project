@@ -1,21 +1,21 @@
 {
     "directory name": "llvm-project/clang-tools-extra/clangd/index/dex",
-    "score.sum": 0.0002223114909145455,
+    "score.sum": 0.011561270083629286,
     "sha.latest": "d5953e3e3092f7142a07aa012fc9665ede09e53b",
     "time.latest": 1717802048.5193388,
     "formatted_time": "2024-06-08 04:44:08.519340",
     "filescores": {
-        "Dex.cpp": 6.777904607347219e-05,
-        "Dex.h": 2.945051881535218e-05,
-        "Iterator.cpp": 3.141564181841562e-05,
-        "Iterator.h": 1.7077957454528563e-05,
-        "PostingList.cpp": 3.335008802436405e-05,
-        "PostingList.h": 9.852158875820282e-06,
-        "Token.h": 1.9588682167300495e-05,
-        "Trigram.cpp": 2.7926835880099596e-05,
-        "Trigram.h": 2.616276259893915e-05
+        "Dex.cpp": 0.2230905754325329,
+        "Dex.h": 0.09693457742355299,
+        "Iterator.cpp": 0.10340265933007473,
+        "Iterator.h": 0.05621105011736434,
+        "PostingList.cpp": 0.109769770439318,
+        "PostingList.h": 0.03242777702236977,
+        "Token.h": 0.0644749466071114,
+        "Trigram.cpp": 0.09191946844084824,
+        "Trigram.h": 0.08611312937002927
     },
     "subdirscores": {
-        "dexp": 9.023624347332904e-05
+        "dexp": 0.00469272001116803
     }
 }

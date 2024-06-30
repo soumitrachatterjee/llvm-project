@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/clang/test/CXX/temp/temp.constr/temp.constr.decl",
-    "score.sum": 1.6920042323445988e-05,
+    "score.sum": 0.0008799238326506069,
     "sha.latest": "67c608a9695496cfc9d3fdf9d0b12b554ac6b4df",
     "time.latest": 1718112561.4678738,
     "formatted_time": "2024-06-11 18:59:21.467875",
     "filescores": {
-        "class-template-decl.cpp": 1.6920042323445988e-05,
-        "func-template-decl.cpp": 6.099602068851199e-06,
-        "p3.cpp": 6.099602068851199e-06,
-        "var-template-decl.cpp": 6.099602068851199e-06
+        "class-template-decl.cpp": 0.05569128214328387,
+        "func-template-decl.cpp": 0.02007646631636598,
+        "p3.cpp": 0.02007646631636598,
+        "var-template-decl.cpp": 0.02007646631636598
     },
     "subdirscores": {}
 }

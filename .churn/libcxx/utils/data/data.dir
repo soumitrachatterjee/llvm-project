@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/libcxx/utils/data",
-    "score.sum": 0.00040033289810336136,
+    "score.sum": 0.02081924213316576,
     "sha.latest": "6772c4f2483204fd0bc28717fe63e009e07abaf5",
     "time.latest": 1718011055.0192072,
     "formatted_time": "2024-06-10 14:47:35.019208",
     "filescores": {},
     "subdirscores": {
-        "unicode": 1.0905762238543598e-05
+        "unicode": 0.0005671522519549552
     }
 }

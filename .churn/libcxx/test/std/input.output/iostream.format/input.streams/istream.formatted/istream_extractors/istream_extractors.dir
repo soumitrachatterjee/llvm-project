@@ -1,20 +1,20 @@
 {
     "directory name": "llvm-project/libcxx/test/std/input.output/iostream.format/input.streams/istream.formatted/istream_extractors",
-    "score.sum": 5.4279263398986765e-05,
+    "score.sum": 0.0028227835705413864,
     "sha.latest": "ed61d6a46611cfb144b260e0dd0fb1b5783562d9",
     "time.latest": 1717905535.9599562,
     "formatted_time": "2024-06-09 09:28:55.959958",
     "filescores": {
-        "basic_ios.pass.cpp": 1.7366275644238228e-05,
-        "chart.pass.cpp": 2.4965706303246645e-05,
-        "ios_base.pass.cpp": 1.7366275644238228e-05,
-        "istream.pass.cpp": 1.7366275644238228e-05,
-        "signed_char.pass.cpp": 2.9946996912934115e-05,
-        "signed_char_pointer.pass.cpp": 3.551919784933407e-05,
-        "streambuf.pass.cpp": 4.811226709741923e-05,
-        "unsigned_char.pass.cpp": 2.9946996912934115e-05,
-        "unsigned_char_pointer.pass.cpp": 3.551919784933407e-05,
-        "wchar_t_pointer.pass.cpp": 2.847609914786986e-05
+        "basic_ios.pass.cpp": 0.057160031765472394,
+        "chart.pass.cpp": 0.0821730919498848,
+        "ios_base.pass.cpp": 0.057160031765472394,
+        "istream.pass.cpp": 0.057160031765472394,
+        "signed_char.pass.cpp": 0.0985687046486417,
+        "signed_char_pointer.pass.cpp": 0.11690926246616605,
+        "streambuf.pass.cpp": 0.15835857796658903,
+        "unsigned_char.pass.cpp": 0.0985687046486417,
+        "unsigned_char_pointer.pass.cpp": 0.11690926246616605,
+        "wchar_t_pointer.pass.cpp": 0.09372733481798777
     },
     "subdirscores": {}
 }

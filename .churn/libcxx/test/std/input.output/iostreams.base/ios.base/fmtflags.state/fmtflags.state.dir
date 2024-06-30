@@ -1,19 +1,19 @@
 {
     "directory name": "llvm-project/libcxx/test/std/input.output/iostreams.base/ios.base/fmtflags.state",
-    "score.sum": 1.7366275644238228e-05,
+    "score.sum": 0.000903130118213133,
     "sha.latest": "7fc6a55688c816f5fc1a5481ae7af25be7500356",
     "time.latest": 1717907758.113101,
     "formatted_time": "2024-06-09 10:05:58.113103",
     "filescores": {
-        "flags.pass.cpp": 1.7366275644238228e-05,
-        "flags_fmtflags.pass.cpp": 1.7366275644238228e-05,
-        "precision.pass.cpp": 1.7366275644238228e-05,
-        "precision_streamsize.pass.cpp": 1.7366275644238228e-05,
-        "setf_fmtflags.pass.cpp": 1.7366275644238228e-05,
-        "setf_fmtflags_mask.pass.cpp": 1.7366275644238228e-05,
-        "unsetf_mask.pass.cpp": 1.7366275644238228e-05,
-        "width.pass.cpp": 1.7366275644238228e-05,
-        "width_streamsize.pass.cpp": 1.7366275644238228e-05
+        "flags.pass.cpp": 0.057160031765472394,
+        "flags_fmtflags.pass.cpp": 0.057160031765472394,
+        "precision.pass.cpp": 0.057160031765472394,
+        "precision_streamsize.pass.cpp": 0.057160031765472394,
+        "setf_fmtflags.pass.cpp": 0.057160031765472394,
+        "setf_fmtflags_mask.pass.cpp": 0.057160031765472394,
+        "unsetf_mask.pass.cpp": 0.057160031765472394,
+        "width.pass.cpp": 0.057160031765472394,
+        "width_streamsize.pass.cpp": 0.057160031765472394
     },
     "subdirscores": {}
 }

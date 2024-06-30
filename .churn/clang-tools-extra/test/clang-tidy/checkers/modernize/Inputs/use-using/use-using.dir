@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/clang-tools-extra/test/clang-tidy/checkers/modernize/Inputs/use-using",
-    "score.sum": 0,
+    "score.sum": 0.0,
     "sha.latest": "89a1d03e2b379e325daa5249411e414bbd995b5e",
     "time.latest": 1717826825.0125067,
     "formatted_time": "2024-06-08 11:37:05.012513",
     "filescores": {
-        "modernize-use-using.h": 0
+        "modernize-use-using.h": 0.0
     },
     "subdirscores": {}
 }

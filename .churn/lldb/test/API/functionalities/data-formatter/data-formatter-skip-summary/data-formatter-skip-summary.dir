@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/lldb/test/API/functionalities/data-formatter/data-formatter-skip-summary",
-    "score.sum": 2.8151655461675657e-05,
+    "score.sum": 0.0014640219034778414,
     "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
     "time.latest": 1717905649.5836403,
     "formatted_time": "2024-06-09 09:30:49.583642",
     "filescores": {
-        "main.cpp": 0,
-        "Makefile": 1.822532135319238e-05,
-        "TestDataFormatterSkipSummary.py": 1.3166004711032558e-05
+        "main.cpp": 0.0,
+        "Makefile": 0.05998752805873223,
+        "TestDataFormatterSkipSummary.py": 0.043335097456930385
     },
     "subdirscores": {}
 }

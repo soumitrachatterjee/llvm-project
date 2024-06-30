@@ -1,16 +1,16 @@
 {
     "directory name": "llvm-project/lldb/test/API/macosx/duplicate-archive-members",
-    "score.sum": 1.0503384530912484e-05,
+    "score.sum": 0.0005462266698610313,
     "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
     "time.latest": 1717962266.028018,
     "formatted_time": "2024-06-10 01:14:26.028023",
     "filescores": {
-        "a.c": 6.099602068851199e-06,
-        "main.c": 6.099602068851199e-06,
-        "Makefile": 0,
-        "TestDuplicateMembers.py": 1.0459834404963863e-05
+        "a.c": 0.02007646631636598,
+        "main.c": 0.02007646631636598,
+        "Makefile": 0.0,
+        "TestDuplicateMembers.py": 0.03442790377726621
     },
     "subdirscores": {
-        "sub1": 6.099602068851199e-06
+        "sub1": 0.00031720873550238375
     }
 }

@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/llvm/utils/gn/build/libs/implicit",
-    "score.sum": 0,
+    "score.sum": 0.0,
     "sha.latest": "19784825379e1dce0fe3b9c8a1af95bd60576fa6",
     "time.latest": 1718080145.1307569,
     "formatted_time": "2024-06-10 23:29:05.130761",
     "filescores": {
-        "BUILD.gn": 0
+        "BUILD.gn": 0.0
     },
     "subdirscores": {}
 }

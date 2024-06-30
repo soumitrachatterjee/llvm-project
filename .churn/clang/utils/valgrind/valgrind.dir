@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/clang/utils/valgrind",
-    "score.sum": 6.099602068851199e-06,
+    "score.sum": 0.00031720873550238375,
     "sha.latest": "a34792085c0b44e4a634ab3319caa5661f9f476c",
     "time.latest": 1718082517.3229046,
     "formatted_time": "2024-06-11 10:38:37.322907",
     "filescores": {
-        "x86_64-pc-linux-gnu_gcc-4.3.3.supp": 6.099602068851199e-06
+        "x86_64-pc-linux-gnu_gcc-4.3.3.supp": 0.02007646631636598
     },
     "subdirscores": {}
 }

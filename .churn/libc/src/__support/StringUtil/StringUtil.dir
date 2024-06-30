@@ -1,20 +1,20 @@
 {
     "directory name": "llvm-project/libc/src/__support/StringUtil",
-    "score.sum": 5.8514597595279464e-05,
+    "score.sum": 0.003043041382390585,
     "sha.latest": "330793c91d08e6ac60334e4813746db898b9407e",
     "time.latest": 1717829481.990697,
     "formatted_time": "2024-06-08 01:51:21.990697",
     "filescores": {
-        "CMakeLists.txt": 1.6773662529663957e-05,
-        "error_to_string.cpp": 3.9363758970717514e-05,
-        "error_to_string.h": 1.766828676613239e-05,
-        "message_mapper.h": 2.481162357161593e-05,
-        "platform_errors.h": 8.698472871386611e-06,
-        "platform_signals.h": 8.698472871386611e-06,
-        "signal_to_string.cpp": 3.6827589429680295e-05,
-        "signal_to_string.h": 1.4335525353527434e-05
+        "CMakeLists.txt": 0.05520948202483531,
+        "error_to_string.cpp": 0.12956339973338651,
+        "error_to_string.h": 0.05815408286051671,
+        "message_mapper.h": 0.0816659380836818,
+        "platform_errors.h": 0.028630490257392692,
+        "platform_signals.h": 0.028630490257392692,
+        "signal_to_string.cpp": 0.12121575315112074,
+        "signal_to_string.h": 0.047184502962454675
     },
     "subdirscores": {
-        "tables": 1.8501840332523054e-05
+        "tables": 0.00096218496060875
     }
 }

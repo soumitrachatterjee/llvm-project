@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/libcxx/test/std/algorithms/alg.modifying.operations/alg.shift",
-    "score.sum": 0,
+    "score.sum": 0.0,
     "sha.latest": "3fbd3eaf28c1e6f2bb9519022611829dfe3b0464",
     "time.latest": 1717869112.561662,
     "formatted_time": "2024-06-08 23:21:52.561664",
     "filescores": {
-        "shift_left.pass.cpp": 0,
-        "shift_right.pass.cpp": 0
+        "shift_left.pass.cpp": 0.0,
+        "shift_right.pass.cpp": 0.0
     },
     "subdirscores": {}
 }

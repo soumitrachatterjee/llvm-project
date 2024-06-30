@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/libcxx/test/std/language.support/support.coroutines",
-    "score.sum": 1.8958430661365755e-05,
+    "score.sum": 0.000985929860557951,
     "sha.latest": "70248920fcd804a5825ecf69f24b96a7e340afe6",
     "time.latest": 1717921235.0003304,
     "formatted_time": "2024-06-09 13:50:35.000332",
     "filescores": {},
     "subdirscores": {
-        "coroutine.handle": 1.2684065213494877e-05,
-        "coroutine.traits": 6.099602068851199e-06,
-        "coroutine.trivial.awaitables": 6.983770361233615e-06,
-        "end.to.end": 1.1880291017926989e-05
+        "coroutine.handle": 0.0006596325861893922,
+        "coroutine.traits": 0.00031720873550238375,
+        "coroutine.trivial.awaitables": 0.00036318975243300976,
+        "end.to.end": 0.0006178324501596076
     }
 }

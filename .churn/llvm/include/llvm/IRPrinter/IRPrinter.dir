@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/llvm/include/llvm/IRPrinter",
-    "score.sum": 7.722159564232537e-06,
+    "score.sum": 0.00040158955339511,
     "sha.latest": "7524db4d447aeee582291cb849174a052a62dfbc",
     "time.latest": 1717817678.0476928,
     "formatted_time": "2024-06-07 22:34:38.047696",
     "filescores": {
-        "IRPrintingPasses.h": 7.722159564232537e-06
+        "IRPrintingPasses.h": 0.02541701485292417
     },
     "subdirscores": {}
 }

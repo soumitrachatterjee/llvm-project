@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/libcxx/test/std/utilities/function.objects/bind/func.bind",
-    "score.sum": 9.055345505440906e-05,
+    "score.sum": 0.004709216543791847,
     "sha.latest": "13f5579caeee2c75baf1249b9f64de54f7c361e2",
     "time.latest": 1717995653.094632,
     "formatted_time": "2024-06-10 10:30:53.094634",
     "filescores": {},
     "subdirscores": {
-        "func.bind.bind": 6.247414871370258e-05,
-        "func.bind.isbind": 3.5592023769967705e-05,
-        "func.bind.isplace": 9.799613723303364e-06,
-        "func.bind.place": 1.624037246110237e-05
+        "func.bind.bind": 0.0032489571436573853,
+        "func.bind.isbind": 0.0018509569520440247,
+        "func.bind.isplace": 0.0005096271924778737,
+        "func.bind.place": 0.0008445777206978144
     }
 }

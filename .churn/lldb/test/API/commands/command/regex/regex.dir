@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/lldb/test/API/commands/command/regex",
-    "score.sum": 9.071123311438119e-06,
+    "score.sum": 0.00047174217641207867,
     "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
     "time.latest": 1717888377.6798809,
     "formatted_time": "2024-06-09 04:42:57.679883",
     "filescores": {
-        "echo_command.py": 6.099602068851199e-06,
-        "TestRegexCommand.py": 9.071123311438119e-06
+        "echo_command.py": 0.02007646631636598,
+        "TestRegexCommand.py": 0.029857046338104713
     },
     "subdirscores": {}
 }

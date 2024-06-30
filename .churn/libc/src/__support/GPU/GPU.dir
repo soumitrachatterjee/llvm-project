@@ -1,18 +1,18 @@
 {
     "directory name": "llvm-project/libc/src/__support/GPU",
-    "score.sum": 8.004775028029723e-05,
+    "score.sum": 0.004162869210090288,
     "sha.latest": "ea697dcc2ad9e6a1cc313d792b485d9218a943a1",
     "time.latest": 1717828871.8446445,
     "formatted_time": "2024-06-08 01:41:11.844649",
     "filescores": {
-        "CMakeLists.txt": 1.7867517153765175e-05,
-        "allocator.cpp": 0,
-        "allocator.h": 0,
-        "utils.h": 1.4784901296273017e-05
+        "CMakeLists.txt": 0.05880983746899061,
+        "allocator.cpp": 0.0,
+        "allocator.h": 0.0,
+        "utils.h": 0.048663596332166256
     },
     "subdirscores": {
-        "amdgpu": 4.2971009708474976e-05,
-        "generic": 3.4877054524346624e-05,
-        "nvptx": 5.249563064217958e-05
+        "amdgpu": 0.002234699821238212,
+        "generic": 0.0018137751018566615,
+        "nvptx": 0.002730026061936567
     }
 }

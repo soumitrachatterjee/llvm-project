@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/clang/unittests/Support",
-    "score.sum": 3.668318491160165e-05,
+    "score.sum": 0.0019077025957860319,
     "sha.latest": "700d93b0584c9d6401ec646fc3e343e90f326fa2",
     "time.latest": 1718082816.5790741,
     "formatted_time": "2024-06-11 10:43:36.579076",
     "filescores": {
-        "CMakeLists.txt": 6.099602068851199e-06,
-        "TimeProfilerTest.cpp": 3.66598409255836e-05
+        "CMakeLists.txt": 0.02007646631636598,
+        "TimeProfilerTest.cpp": 0.12066361923253013
     },
     "subdirscores": {}
 }

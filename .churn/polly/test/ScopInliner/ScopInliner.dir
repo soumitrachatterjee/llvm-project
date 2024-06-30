@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/polly/test/ScopInliner",
-    "score.sum": 1.1247357113279387e-05,
+    "score.sum": 0.0005849168334876391,
     "sha.latest": "b332499a94df11870dfc7598645c59656deb933d",
     "time.latest": 1717818696.960275,
     "formatted_time": "2024-06-07 22:51:36.960278",
     "filescores": {
-        "ignore-declares.ll": 6.099602068851199e-06,
-        "invariant-load-func.ll": 1.1247357113279387e-05,
-        "simple-inline-loop.ll": 1.1247357113279387e-05
+        "ignore-declares.ll": 0.02007646631636598,
+        "invariant-load-func.ll": 0.03701998649813913,
+        "simple-inline-loop.ll": 0.03701998649813913
     },
     "subdirscores": {}
 }

@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/clang/test/ASTMerge/namespace/Inputs",
-    "score.sum": 1.4160033338511395e-05,
+    "score.sum": 0.0007363900495933111,
     "sha.latest": "0333dd95636da52229ca14b4e5525c1cd8ba62d2",
     "time.latest": 1717866063.087289,
     "formatted_time": "2024-06-08 22:31:03.087292",
     "filescores": {
-        "namespace1.cpp": 1.4160033338511395e-05,
-        "namespace2.cpp": 1.4160033338511395e-05
+        "namespace1.cpp": 0.0466068817523346,
+        "namespace2.cpp": 0.0466068817523346
     },
     "subdirscores": {}
 }

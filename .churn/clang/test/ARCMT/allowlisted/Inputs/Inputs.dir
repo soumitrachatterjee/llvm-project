@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/clang/test/ARCMT/allowlisted/Inputs",
-    "score.sum": 0,
+    "score.sum": 0.0,
     "sha.latest": "a83a6c22e63ad84e9c210c71b36413bed72ac23c",
     "time.latest": 1717843669.8795168,
     "formatted_time": "2024-06-08 16:17:49.879521",
     "filescores": {
-        "header1.h": 0
+        "header1.h": 0.0
     },
     "subdirscores": {}
 }

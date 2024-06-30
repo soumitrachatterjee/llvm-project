@@ -1,15 +1,15 @@
 {
     "directory name": "llvm-project/lldb/unittests/SymbolFile",
-    "score.sum": 0.0005344940765922071,
+    "score.sum": 0.027796270683812116,
     "sha.latest": "91f4a84a1504e718e4f4d4eef5db7713dc30a030",
     "time.latest": 1717998231.018097,
     "formatted_time": "2024-06-10 11:13:51.018100",
     "filescores": {
-        "CMakeLists.txt": 7.850450854733697e-06
+        "CMakeLists.txt": 0.02583927777161236
     },
     "subdirscores": {
-        "DWARF": 0.00026832550943343703,
-        "NativePDB": 6.284930592465978e-05,
-        "PDB": 0.000194157435165593
+        "DWARF": 0.013954221044200696,
+        "NativePDB": 0.003268467128597231,
+        "PDB": 0.010097123353632708
     }
 }

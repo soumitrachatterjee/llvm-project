@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/mlir/examples/toy/Ch7/include",
-    "score.sum": 0.00018879405560381216,
+    "score.sum": 0.009818201740450774,
     "sha.latest": "3dbac2c007c114a720300d2a4d79abe9ca1351e7",
     "time.latest": 1717789835.6361172,
     "formatted_time": "2024-06-07 14:50:35.636118",
     "filescores": {
-        "CMakeLists.txt": 0
+        "CMakeLists.txt": 0.0
     },
     "subdirscores": {
-        "toy": 0.00018879405560381216
+        "toy": 0.009818201740450774
     }
 }

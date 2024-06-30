@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/clang/test/CXX/stmt.stmt/stmt.iter",
-    "score.sum": 0.00013219991841207168,
+    "score.sum": 0.006875033564428837,
     "sha.latest": "15f3cd6bfc670ba6106184a903eb04be059e5977",
     "time.latest": 1718111781.5037918,
     "formatted_time": "2024-06-11 18:46:21.503793",
     "filescores": {},
     "subdirscores": {
-        "stmt.ranged": 0.00013219991841207168
+        "stmt.ranged": 0.006875033564428837
     }
 }

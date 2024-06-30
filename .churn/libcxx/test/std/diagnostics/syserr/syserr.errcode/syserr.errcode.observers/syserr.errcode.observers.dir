@@ -1,15 +1,15 @@
 {
     "directory name": "llvm-project/libcxx/test/std/diagnostics/syserr/syserr.errcode/syserr.errcode.observers",
-    "score.sum": 3.656258136443851e-05,
+    "score.sum": 0.0019014306294739861,
     "sha.latest": "317e92a3e82f88f111e04132195d9daa6b97f1ab",
     "time.latest": 1717898375.3676028,
     "formatted_time": "2024-06-09 07:29:35.367605",
     "filescores": {
-        "bool.pass.cpp": 1.7964010953511413e-05,
-        "category.pass.cpp": 1.7366275644238228e-05,
-        "default_error_condition.pass.cpp": 1.7366275644238228e-05,
-        "message.pass.cpp": 1.7366275644238228e-05,
-        "value.pass.cpp": 1.7366275644238228e-05
+        "bool.pass.cpp": 0.059127440895980786,
+        "category.pass.cpp": 0.057160031765472394,
+        "default_error_condition.pass.cpp": 0.057160031765472394,
+        "message.pass.cpp": 0.057160031765472394,
+        "value.pass.cpp": 0.057160031765472394
     },
     "subdirscores": {}
 }

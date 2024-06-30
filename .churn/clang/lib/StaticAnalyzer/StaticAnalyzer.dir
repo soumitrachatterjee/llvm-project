@@ -1,16 +1,16 @@
 {
     "directory name": "llvm-project/clang/lib/StaticAnalyzer",
-    "score.sum": 0.012570145288715539,
+    "score.sum": 0.6537082004868694,
     "sha.latest": "d72b7f913300493480f78d4f23104d0f51d50b62",
     "time.latest": 1717822562.957276,
     "formatted_time": "2024-06-08 10:26:02.957278",
     "filescores": {
-        "CMakeLists.txt": 1.2458743036532896e-05,
-        "README.txt": 1.6136012670508688e-05
+        "CMakeLists.txt": 0.0410071890090235,
+        "README.txt": 0.05311069660007115
     },
     "subdirscores": {
-        "Checkers": 0.006489794583024096,
-        "Core": 0.007018733879511276,
-        "Frontend": 0.0008337106828011805
+        "Checkers": 0.33750062874823156,
+        "Core": 0.3650080240671887,
+        "Frontend": 0.04335697779642205
     }
 }

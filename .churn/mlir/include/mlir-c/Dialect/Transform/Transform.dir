@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/mlir/include/mlir-c/Dialect/Transform",
-    "score.sum": 0,
+    "score.sum": 0.0,
     "sha.latest": "91f11611337dde9a8e0a5e19240f6bb4671922c6",
     "time.latest": 1717790508.097673,
     "formatted_time": "2024-06-07 15:01:48.097677",
     "filescores": {
-        "Interpreter.h": 0
+        "Interpreter.h": 0.0
     },
     "subdirscores": {}
 }

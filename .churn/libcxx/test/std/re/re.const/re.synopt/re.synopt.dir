@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/libcxx/test/std/re/re.const/re.synopt",
-    "score.sum": 3.344205111701762e-05,
+    "score.sum": 0.0017391480014094058,
     "sha.latest": "f5832bab6f5024cabe32a9f668b7f44e6b7cfef5",
     "time.latest": 1717966113.6960974,
     "formatted_time": "2024-06-10 02:18:33.696100",
     "filescores": {
-        "syntax_option_type.pass.cpp": 3.344205111701762e-05
+        "syntax_option_type.pass.cpp": 0.11007246132163581
     },
     "subdirscores": {}
 }

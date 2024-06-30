@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/clang/tools/clang-format/fuzzer",
-    "score.sum": 2.89044112403892e-05,
+    "score.sum": 0.0015031688356895697,
     "sha.latest": "f600a5aec52c0aa56e4e47c992b6f10e5cd7b7af",
     "time.latest": 1718081524.7745051,
     "formatted_time": "2024-06-11 10:22:04.774508",
     "filescores": {
-        "ClangFormatFuzzer.cpp": 2.030182340837342e-05,
-        "CMakeLists.txt": 2.4354689407651613e-05
+        "ClangFormatFuzzer.cpp": 0.06682220728798867,
+        "CMakeLists.txt": 0.0801619672921324
     },
     "subdirscores": {}
 }

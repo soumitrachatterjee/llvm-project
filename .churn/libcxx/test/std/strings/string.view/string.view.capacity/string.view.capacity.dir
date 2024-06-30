@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/libcxx/test/std/strings/string.view/string.view.capacity",
-    "score.sum": 7.906096219391392e-05,
+    "score.sum": 0.004111551468775824,
     "sha.latest": "a40bada91aeda276a772acfbcae6e8de26755a11",
     "time.latest": 1717972498.1150637,
     "formatted_time": "2024-06-10 04:04:58.115066",
     "filescores": {
-        "capacity.pass.cpp": 4.9635095284110736e-05,
-        "empty.verify.cpp": 1.4300285635813957e-05
+        "capacity.pass.cpp": 0.16337087359679936,
+        "empty.verify.cpp": 0.04706851359172411
     },
     "subdirscores": {}
 }

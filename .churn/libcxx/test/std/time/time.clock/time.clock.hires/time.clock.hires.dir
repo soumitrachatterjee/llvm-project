@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/libcxx/test/std/time/time.clock/time.clock.hires",
-    "score.sum": 1.1386053146879522e-05,
+    "score.sum": 0.0005921296963827724,
     "sha.latest": "d1a461dbb2293d9258d400b5426f610bb5191228",
     "time.latest": 1717983523.095297,
     "formatted_time": "2024-06-10 07:08:43.095300",
     "filescores": {
-        "consistency.pass.cpp": 0,
-        "now.pass.cpp": 1.1386053146879522e-05
+        "consistency.pass.cpp": 0.0,
+        "now.pass.cpp": 0.03747649599094791
     },
     "subdirscores": {}
 }

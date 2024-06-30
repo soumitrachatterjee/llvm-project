@@ -1,18 +1,18 @@
 {
     "directory name": "llvm-project/libcxx/test/libcxx/numerics",
-    "score.sum": 0.00023713260115286602,
+    "score.sum": 0.012332039321420653,
     "sha.latest": "5ca2777c69f8708d583e230c56ac7f5f6376fb40",
     "time.latest": 1717862260.2028265,
     "formatted_time": "2024-06-08 21:27:40.202831",
     "filescores": {
-        "bit.ops.pass.cpp": 1.2892558692307717e-05,
-        "clamp_to_integral.pass.cpp": 9.055034443816006e-06
+        "bit.ops.pass.cpp": 0.04243506664798491,
+        "clamp_to_integral.pass.cpp": 0.029804090816541538
     },
     "subdirscores": {
-        "c.math": 7.36975178821512e-05,
-        "complex.number": 2.1981723520869727e-05,
-        "numarray": 1.8174206120540174e-05,
-        "numeric.ops": 6.53638004275528e-05,
-        "rand": 7.212043970314166e-05
+        "c.math": 0.0038326264882824436,
+        "complex.number": 0.001143155675322825,
+        "numarray": 0.000945146400893332,
+        "numeric.ops": 0.0033992329740879703,
+        "rand": 0.0037506108142589356
     }
 }

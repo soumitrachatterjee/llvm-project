@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/llvm/include/llvm/WindowsManifest",
-    "score.sum": 1.4079456367812884e-05,
+    "score.sum": 0.0007321996583682158,
     "sha.latest": "67ffce68bc3e95be4cfad0493a2f55a3984e4851",
     "time.latest": 1717826551.0606089,
     "formatted_time": "2024-06-08 01:02:31.060612",
     "filescores": {
-        "WindowsManifestMerger.h": 1.4079456367812884e-05
+        "WindowsManifestMerger.h": 0.04634166759248562
     },
     "subdirscores": {}
 }

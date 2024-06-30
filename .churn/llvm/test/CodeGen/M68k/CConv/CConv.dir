@@ -1,18 +1,18 @@
 {
     "directory name": "llvm-project/llvm/test/CodeGen/M68k/CConv",
-    "score.sum": 1.8148089178869086e-05,
+    "score.sum": 0.0009437881939235722,
     "sha.latest": "cd0d11be7a6de335dcfcf2788a97d915f017e25e",
     "time.latest": 1718071263.9254348,
     "formatted_time": "2024-06-10 21:01:03.925439",
     "filescores": {
-        "c-args-inreg.ll": 6.099602068851199e-06,
-        "c-args.ll": 6.099602068851199e-06,
-        "c-call.ll": 6.099602068851199e-06,
-        "fastcc-args.ll": 6.099602068851199e-06,
-        "fastcc-call.ll": 6.971050743324843e-06,
-        "rtd-call.ll": 0,
-        "rtd-ret.ll": 0,
-        "rte.ll": 0
+        "c-args-inreg.ll": 0.02007646631636598,
+        "c-args.ll": 0.02007646631636598,
+        "c-call.ll": 0.02007646631636598,
+        "fastcc-args.ll": 0.02007646631636598,
+        "fastcc-call.ll": 0.02294478621035654,
+        "rtd-call.ll": 0.0,
+        "rtd-ret.ll": 0.0,
+        "rte.ll": 0.0
     },
     "subdirscores": {}
 }

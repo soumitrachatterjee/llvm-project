@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/libcxx/test/std/utilities/format/format.formatter/format.context",
-    "score.sum": 6.833369974164249e-05,
+    "score.sum": 0.0035536820668907107,
     "sha.latest": "e3f154d8733928fa725584736a18b75832db30db",
     "time.latest": 1717994312.6714902,
     "formatted_time": "2024-06-10 10:08:32.671492",
     "filescores": {},
     "subdirscores": {
-        "format.context": 6.047403121243365e-05
+        "format.context": 0.0031449413838959958
     }
 }

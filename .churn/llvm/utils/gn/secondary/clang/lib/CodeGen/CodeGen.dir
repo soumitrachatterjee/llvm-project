@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/llvm/utils/gn/secondary/clang/lib/CodeGen",
-    "score.sum": 0.00010502676395728408,
+    "score.sum": 0.0054618984341501566,
     "sha.latest": "81330286f18fda3da2a69fb2dd12de0ac90115b7",
     "time.latest": 1718083691.6674798,
     "formatted_time": "2024-06-11 00:28:11.667484",
     "filescores": {
-        "BUILD.gn": 0.00010502676395728408
+        "BUILD.gn": 0.3456891556374041
     },
     "subdirscores": {}
 }

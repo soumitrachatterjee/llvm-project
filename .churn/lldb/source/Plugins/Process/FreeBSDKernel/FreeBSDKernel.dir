@@ -1,21 +1,21 @@
 {
     "directory name": "llvm-project/lldb/source/Plugins/Process/FreeBSDKernel",
-    "score.sum": 1.750315382277727e-05,
+    "score.sum": 0.0009102484438747309,
     "sha.latest": "8884ba43a8485bebef5c4d41e7ed457e3fa84f07",
     "time.latest": 1717874788.8828876,
     "formatted_time": "2024-06-09 00:56:28.882891",
     "filescores": {
-        "CMakeLists.txt": 6.237501854604975e-06,
-        "ProcessFreeBSDKernel.cpp": 1.750315382277727e-05,
-        "ProcessFreeBSDKernel.h": 6.343027814714985e-06,
-        "RegisterContextFreeBSDKernel_arm64.cpp": 6.456684504286612e-06,
-        "RegisterContextFreeBSDKernel_arm64.h": 6.456684504286612e-06,
-        "RegisterContextFreeBSDKernel_i386.cpp": 6.456684504286612e-06,
-        "RegisterContextFreeBSDKernel_i386.h": 6.456684504286612e-06,
-        "RegisterContextFreeBSDKernel_x86_64.cpp": 6.456684504286612e-06,
-        "RegisterContextFreeBSDKernel_x86_64.h": 6.456684504286612e-06,
-        "ThreadFreeBSDKernel.cpp": 6.146783534436573e-06,
-        "ThreadFreeBSDKernel.h": 6.146783534436573e-06
+        "CMakeLists.txt": 0.020530355008196857,
+        "ProcessFreeBSDKernel.cpp": 0.05761055789977843,
+        "ProcessFreeBSDKernel.h": 0.020877687237371243,
+        "RegisterContextFreeBSDKernel_arm64.cpp": 0.02125178126417129,
+        "RegisterContextFreeBSDKernel_arm64.h": 0.02125178126417129,
+        "RegisterContextFreeBSDKernel_i386.cpp": 0.02125178126417129,
+        "RegisterContextFreeBSDKernel_i386.h": 0.02125178126417129,
+        "RegisterContextFreeBSDKernel_x86_64.cpp": 0.02125178126417129,
+        "RegisterContextFreeBSDKernel_x86_64.h": 0.02125178126417129,
+        "ThreadFreeBSDKernel.cpp": 0.020231761218211918,
+        "ThreadFreeBSDKernel.h": 0.020231761218211918
     },
     "subdirscores": {}
 }

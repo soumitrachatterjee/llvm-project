@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/mlir/test/lib/Conversion/FuncToLLVM",
-    "score.sum": 1.6487428806699424e-05,
+    "score.sum": 0.0008574258426080756,
     "sha.latest": "610c7617147ab05d03306b7412c77a336da2784a",
     "time.latest": 1717830792.354999,
     "formatted_time": "2024-06-08 02:13:12.355002",
     "filescores": {
-        "CMakeLists.txt": 6.099602068851199e-06,
-        "TestConvertCallOp.cpp": 1.5501457679793203e-05
+        "CMakeLists.txt": 0.02007646631636598,
+        "TestConvertCallOp.cpp": 0.05102209774506736
     },
     "subdirscores": {}
 }

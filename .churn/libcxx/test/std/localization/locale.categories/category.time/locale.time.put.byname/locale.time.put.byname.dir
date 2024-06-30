@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/libcxx/test/std/localization/locale.categories/category.time/locale.time.put.byname",
-    "score.sum": 8.293140794000217e-05,
+    "score.sum": 0.004312833320786618,
     "sha.latest": "7ec6c629052c30c0772e8fcae346a405af43444e",
     "time.latest": 1717930960.017375,
     "formatted_time": "2024-06-09 16:32:40.017377",
     "filescores": {
-        "put1.pass.cpp": 8.293140794000217e-05
+        "put1.pass.cpp": 0.27296364570711096
     },
     "subdirscores": {}
 }

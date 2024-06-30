@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/lldb/test/API/commands/expression/import-std-module/vector-dbg-info-content",
-    "score.sum": 5.2607059720563286e-05,
+    "score.sum": 0.0027358209116092685,
     "sha.latest": "5ce7831b402334a13b00c1441655a51fbec7456a",
     "time.latest": 1717892245.2632942,
     "formatted_time": "2024-06-09 05:47:25.263296",
     "filescores": {
-        "main.cpp": 0,
-        "Makefile": 6.099602068851199e-06,
-        "TestDbgInfoContentVectorFromStdModule.py": 4.765771915623027e-05
+        "main.cpp": 0.0,
+        "Makefile": 0.02007646631636598,
+        "TestDbgInfoContentVectorFromStdModule.py": 0.1568624612810341
     },
     "subdirscores": {}
 }

@@ -1,17 +1,17 @@
 {
     "directory name": "llvm-project/libc/src/sys/wait",
-    "score.sum": 2.480341620541182e-05,
+    "score.sum": 0.0012898973083566832,
     "sha.latest": "b6bc9d72f65a5086f310f321e969d96e9a559e75",
     "time.latest": 1717842109.0400176,
     "formatted_time": "2024-06-08 05:21:49.040021",
     "filescores": {
-        "CMakeLists.txt": 6.099602068851199e-06,
-        "wait.h": 6.099602068851199e-06,
-        "wait4.h": 6.099602068851199e-06,
-        "wait4Impl.h": 1.0156048093132013e-05,
-        "waitpid.h": 6.099602068851199e-06
+        "CMakeLists.txt": 0.02007646631636598,
+        "wait.h": 0.02007646631636598,
+        "wait4.h": 0.02007646631636598,
+        "wait4Impl.h": 0.03342800975335756,
+        "waitpid.h": 0.02007646631636598
     },
     "subdirscores": {
-        "linux": 1.3834031721989884e-05
+        "linux": 0.0007194363927184458
     }
 }

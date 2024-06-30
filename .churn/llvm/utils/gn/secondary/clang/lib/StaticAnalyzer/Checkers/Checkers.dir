@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/llvm/utils/gn/secondary/clang/lib/StaticAnalyzer/Checkers",
-    "score.sum": 7.856432016711546e-05,
+    "score.sum": 0.0040857236873009335,
     "sha.latest": "a243128ed6ec325a752e931637284d3fec53318f",
     "time.latest": 1718084105.2113945,
     "formatted_time": "2024-06-11 00:35:05.211398",
     "filescores": {
-        "BUILD.gn": 7.856432016711546e-05
+        "BUILD.gn": 0.25858964399629336
     },
     "subdirscores": {}
 }

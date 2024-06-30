@@ -1,23 +1,23 @@
 {
     "directory name": "llvm-project/compiler-rt/lib/builtins/Darwin-excludes",
-    "score.sum": 1.0266172600763115e-05,
+    "score.sum": 0.0005338905050490647,
     "sha.latest": "9693e8baa303c93a5b627b10537e086964573c5f",
     "time.latest": 1717794382.067186,
     "formatted_time": "2024-06-08 02:36:22.067190",
     "filescores": {
-        "CMakeLists.txt": 0,
-        "ios-armv7.txt": 1.2595054856534236e-05,
-        "ios-armv7s.txt": 1.2595054856534236e-05,
-        "ios.txt": 0,
-        "ios6-armv7.txt": 0,
-        "ios6-armv7s.txt": 0,
-        "ios7-arm64.txt": 0,
-        "iossim-i386.txt": 0,
-        "iossim-x86_64.txt": 0,
-        "iossim.txt": 0,
-        "osx-i386.txt": 1.2198972547927568e-05,
-        "osx.txt": 6.099602068851199e-06,
-        "README.TXT": 0
+        "CMakeLists.txt": 0.0,
+        "ios-armv7.txt": 0.04145585100891931,
+        "ios-armv7s.txt": 0.04145585100891931,
+        "ios.txt": 0.0,
+        "ios6-armv7.txt": 0.0,
+        "ios6-armv7s.txt": 0.0,
+        "ios7-arm64.txt": 0.0,
+        "iossim-i386.txt": 0.0,
+        "iossim-x86_64.txt": 0.0,
+        "iossim.txt": 0.0,
+        "osx-i386.txt": 0.040152170369184094,
+        "osx.txt": 0.02007646631636598,
+        "README.TXT": 0.0
     },
     "subdirscores": {}
 }

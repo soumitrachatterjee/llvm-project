@@ -1,15 +1,15 @@
 {
     "directory name": "llvm-project/mlir/lib/Bytecode",
-    "score.sum": 0.000186940807361122,
+    "score.sum": 0.009721823890715657,
     "sha.latest": "da092e8808319b572fa9fea7eb74e55e7434a8b2",
     "time.latest": 1717801790.8552742,
     "formatted_time": "2024-06-07 18:09:50.855275",
     "filescores": {
-        "BytecodeOpInterface.cpp": 7.430391772905359e-06,
-        "CMakeLists.txt": 1.8255615219367313e-05
+        "BytecodeOpInterface.cpp": 0.024456679052545668,
+        "CMakeLists.txt": 0.06008723846229436
     },
     "subdirscores": {
-        "Reader": 0.00012249132244250503,
-        "Writer": 0.00013346141835328195
+        "Reader": 0.006370139734266272,
+        "Writer": 0.0069406376475592965
     }
 }

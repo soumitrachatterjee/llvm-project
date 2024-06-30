@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/clang/unittests/InstallAPI",
-    "score.sum": 0,
+    "score.sum": 0.0,
     "sha.latest": "4c6043de0b837d23699424d875057d00956d80ac",
     "time.latest": 1718082433.287201,
     "formatted_time": "2024-06-11 10:37:13.287204",
     "filescores": {
-        "CMakeLists.txt": 0,
-        "FileListTest.cpp": 0,
-        "HeaderFileTest.cpp": 0
+        "CMakeLists.txt": 0.0,
+        "FileListTest.cpp": 0.0,
+        "HeaderFileTest.cpp": 0.0
     },
     "subdirscores": {}
 }

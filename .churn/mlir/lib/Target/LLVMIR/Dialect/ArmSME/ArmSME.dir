@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/mlir/lib/Target/LLVMIR/Dialect/ArmSME",
-    "score.sum": 6.128324976107764e-06,
+    "score.sum": 0.00031870246525523687,
     "sha.latest": "8d6d4f8321c740cb3ee5a8a185dc6e3c895b11ca",
     "time.latest": 1717811871.031761,
     "formatted_time": "2024-06-07 20:57:51.031764",
     "filescores": {
-        "ArmSMEToLLVMIRTranslation.cpp": 6.128324976107764e-06,
-        "CMakeLists.txt": 6.232931924347611e-06
+        "ArmSMEToLLVMIRTranslation.cpp": 0.0201710060049449,
+        "CMakeLists.txt": 0.020515313362882214
     },
     "subdirscores": {}
 }

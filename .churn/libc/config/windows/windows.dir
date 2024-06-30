@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/libc/config/windows",
-    "score.sum": 0.00015589256759341346,
+    "score.sum": 0.008107165628566997,
     "sha.latest": "69c0b2febe01108f50db6e8ed21cd8b2e6088caf",
     "time.latest": 1717825247.3693938,
     "formatted_time": "2024-06-08 00:40:47.369398",
     "filescores": {
-        "README.md": 6.3720597948839754e-06,
-        "entrypoints.txt": 0.0001522218683364143
+        "README.md": 0.020973244220495867,
+        "entrypoints.txt": 0.5010289487369626
     },
     "subdirscores": {}
 }

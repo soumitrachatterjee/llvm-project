@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/compiler-rt/lib/tsan/go",
-    "score.sum": 0.0004541768709247059,
+    "score.sum": 0.023619388493582392,
     "sha.latest": "9d3fbf97bef3f19da4e0a047f017b8142f59b3fd",
     "time.latest": 1717807072.576809,
     "formatted_time": "2024-06-08 06:07:52.576811",
     "filescores": {
-        "build.bat": 0.0001602103387942101,
-        "buildgo.sh": 0.00034458963652277374,
-        "test.c": 4.025173277652641e-05,
-        "tsan_go.cpp": 0.00010390252058600195
+        "build.bat": 0.5273225095717318,
+        "buildgo.sh": 1.134195665967637,
+        "test.c": 0.13248611108421,
+        "tsan_go.cpp": 0.34198877749467155
     },
     "subdirscores": {}
 }

@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/lldb/test/API/functionalities/data-formatter/refpointer-recursion",
-    "score.sum": 1.0459834404963863e-05,
+    "score.sum": 0.000543961853201322,
     "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
     "time.latest": 1717908315.8418386,
     "formatted_time": "2024-06-09 10:15:15.841840",
     "filescores": {
-        "main.cpp": 0,
-        "Makefile": 0,
-        "TestDataFormatterRefPtrRecursion.py": 1.0459834404963863e-05
+        "main.cpp": 0.0,
+        "Makefile": 0.0,
+        "TestDataFormatterRefPtrRecursion.py": 0.03442790377726621
     },
     "subdirscores": {}
 }

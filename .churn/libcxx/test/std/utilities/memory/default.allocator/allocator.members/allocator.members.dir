@@ -1,15 +1,15 @@
 {
     "directory name": "llvm-project/libcxx/test/std/utilities/memory/default.allocator/allocator.members",
-    "score.sum": 0.00017767701972158713,
+    "score.sum": 0.009240062239721116,
     "sha.latest": "9bb9ec380ace81d040d3a0a0a2ae9a75733ab330",
     "time.latest": 1717998216.7053037,
     "formatted_time": "2024-06-10 11:13:36.705306",
     "filescores": {
-        "allocate.constexpr.size.verify.cpp": 4.300959126325209e-05,
-        "allocate.pass.cpp": 5.509235117568609e-05,
-        "allocate.size.pass.cpp": 7.514978235707688e-05,
-        "allocate.verify.cpp": 6.444216048599437e-06,
-        "allocate_at_least.pass.cpp": 7.197145995766191e-06
+        "allocate.constexpr.size.verify.cpp": 0.1415634332421258,
+        "allocate.pass.cpp": 0.1813330968451821,
+        "allocate.size.pass.cpp": 0.2473509020988061,
+        "allocate.verify.cpp": 0.02121074210656804,
+        "allocate_at_least.pass.cpp": 0.023688964874586008
     },
     "subdirscores": {}
 }

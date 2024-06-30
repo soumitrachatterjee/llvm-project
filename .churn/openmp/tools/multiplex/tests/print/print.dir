@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/openmp/tools/multiplex/tests/print",
-    "score.sum": 6.909320442716121e-06,
+    "score.sum": 0.0003593179974816843,
     "sha.latest": "25b3164bfbe6dcca6687b4da97f212d8ece878fe",
     "time.latest": 1717806698.0173113,
     "formatted_time": "2024-06-08 06:01:38.017313",
     "filescores": {
-        "first-tool.h": 0,
-        "print.c": 6.909320442716121e-06,
-        "second-tool.h": 0
+        "first-tool.h": 0.0,
+        "print.c": 0.022741604709845382,
+        "second-tool.h": 0.0
     },
     "subdirscores": {}
 }

@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/clang/tools/scan-view/share",
-    "score.sum": 5.191382135547004e-05,
+    "score.sum": 0.0026997691720513826,
     "sha.latest": "dd3c26a045c081620375a878159f536758baba6e",
     "time.latest": 1718083062.6389122,
     "formatted_time": "2024-06-11 10:47:42.638914",
     "filescores": {
-        "bugcatcher.ico": 0,
-        "Reporter.py": 2.053934074054542e-05,
-        "ScanView.py": 3.548003749727348e-05,
-        "startfile.py": 1.4116654656447765e-05
+        "bugcatcher.ico": 0.0,
+        "Reporter.py": 0.06760398102750122,
+        "ScanView.py": 0.11678036856780892,
+        "startfile.py": 0.046464103479347554
     },
     "subdirscores": {}
 }

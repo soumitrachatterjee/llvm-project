@@ -1,15 +1,15 @@
 {
     "directory name": "llvm-project/libcxx/test/std/localization/locales/locale",
-    "score.sum": 0.00010080875103746575,
+    "score.sum": 0.005242541412245237,
     "sha.latest": "026776fb60e52be04ea26d3d1d371d9efcb6ae3b",
     "time.latest": 1717932030.1402996,
     "formatted_time": "2024-06-09 16:50:30.140302",
     "filescores": {},
     "subdirscores": {
-        "locale.cons": 6.751153347901632e-05,
-        "locale.members": 5.847762888448834e-05,
-        "locale.operators": 3.5506245204738135e-05,
-        "locale.statics": 4.057234821719688e-05,
-        "locale.types": 3.6694785612501835e-05
+        "locale.cons": 0.003510925454640186,
+        "locale.members": 0.003041118831071526,
+        "locale.operators": 0.001846496052807887,
+        "locale.statics": 0.0021099578511952566,
+        "locale.types": 0.0019083058882011688
     }
 }

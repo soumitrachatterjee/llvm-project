@@ -1,23 +1,23 @@
 {
     "directory name": "llvm-project/libcxx/test/std/input.output/iostreams.base/ios/basic.ios.members",
-    "score.sum": 3.874777539681205e-05,
+    "score.sum": 0.0020150712617664325,
     "sha.latest": "a7f9895cc18995549c7facb96e72718da282a864",
     "time.latest": 1717907458.801697,
     "formatted_time": "2024-06-09 10:00:58.801699",
     "filescores": {
-        "copyfmt.pass.cpp": 1.9243854180827414e-05,
-        "fill.pass.cpp": 1.7366275644238228e-05,
-        "fill_char_type.pass.cpp": 1.6818989481856792e-05,
-        "imbue.pass.cpp": 1.885982252081835e-05,
-        "move.pass.cpp": 1.9229408861916906e-05,
-        "narrow.pass.cpp": 2.2506758903029375e-05,
-        "rdbuf.pass.cpp": 1.7366275644238228e-05,
-        "rdbuf_streambuf.pass.cpp": 1.7366275644238228e-05,
-        "set_rdbuf.pass.cpp": 1.6262901385788504e-05,
-        "swap.pass.cpp": 1.9229408861916906e-05,
-        "tie.pass.cpp": 1.7366275644238228e-05,
-        "tie_ostream.pass.cpp": 1.7366275644238228e-05,
-        "widen.pass.cpp": 1.7366275644238228e-05
+        "copyfmt.pass.cpp": 0.06333996642689271,
+        "fill.pass.cpp": 0.057160031765472394,
+        "fill_char_type.pass.cpp": 0.05535867290952763,
+        "imbue.pass.cpp": 0.06207594975833613,
+        "move.pass.cpp": 0.06329242054516757,
+        "narrow.pass.cpp": 0.07407961731056696,
+        "rdbuf.pass.cpp": 0.057160031765472394,
+        "rdbuf_streambuf.pass.cpp": 0.057160031765472394,
+        "set_rdbuf.pass.cpp": 0.05352834302839331,
+        "swap.pass.cpp": 0.06329242054516757,
+        "tie.pass.cpp": 0.057160031765472394,
+        "tie_ostream.pass.cpp": 0.057160031765472394,
+        "widen.pass.cpp": 0.057160031765472394
     },
     "subdirscores": {}
 }

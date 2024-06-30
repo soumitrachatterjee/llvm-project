@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/libcxx/test/std/iterators/predef.iterators/move.iterators/move.iter.ops/move.iter.op.conv",
-    "score.sum": 1.2842469594762593e-05,
+    "score.sum": 0.0006678703782474294,
     "sha.latest": "b06049bc3b79be4a037a60dec4ad19a68e196a8f",
     "time.latest": 1717919099.2022939,
     "formatted_time": "2024-06-09 13:14:59.202295",
     "filescores": {
-        "base.pass.cpp": 0
+        "base.pass.cpp": 0.0
     },
     "subdirscores": {}
 }

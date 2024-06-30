@@ -1,15 +1,15 @@
 {
     "directory name": "llvm-project/lldb/test/API/commands/expression/completion",
-    "score.sum": 3.449707494423167e-05,
+    "score.sum": 0.0017940143304547836,
     "sha.latest": "80fcecb13c388ff087a27a4b0e7ca3dd8c98eaa4",
     "time.latest": 1717889627.9946647,
     "formatted_time": "2024-06-09 05:03:47.994667",
     "filescores": {
-        "categories": 0,
-        "main.cpp": 0,
-        "Makefile": 0,
-        "other.cpp": 0,
-        "TestExprCompletion.py": 3.336276995953903e-05
+        "categories": 0.0,
+        "main.cpp": 0.0,
+        "Makefile": 0.0,
+        "other.cpp": 0.0,
+        "TestExprCompletion.py": 0.1098115122515695
     },
     "subdirscores": {}
 }

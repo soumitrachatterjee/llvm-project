@@ -1,19 +1,19 @@
 {
     "directory name": "llvm-project/clang/test/CodeGen/RISCV/rvb-intrinsics",
-    "score.sum": 0.00015087741668309506,
+    "score.sum": 0.007846353585312615,
     "sha.latest": "1dc715a8a4d058dc8b7afbf9ce3fff5a3ff6e4ef",
     "time.latest": 1717907433.2949502,
     "formatted_time": "2024-06-09 10:00:33.294952",
     "filescores": {
-        "riscv32-xtheadbb.c": 1.2214708092942342e-05,
-        "riscv32-zbb-error.c": 2.2151869257739243e-05,
-        "riscv64-xtheadbb.c": 2.340058484101738e-05,
-        "riscv64-zbkb-error.c": 6.28919178138025e-06,
-        "zbb.c": 1.2149970161555477e-05,
-        "zbc.c": 9.658785788106124e-06,
-        "zbkb.c": 6.099602068851199e-06,
-        "zbkc.c": 6.099602068851199e-06,
-        "zbkx.c": 6.099602068851199e-06
+        "riscv32-xtheadbb.c": 0.040203962951043164,
+        "riscv32-zbb-error.c": 0.07291151979711125,
+        "riscv64-xtheadbb.c": 0.0770215905957341,
+        "riscv64-zbkb-error.c": 0.02070048923368981,
+        "zbb.c": 0.03999088201818743,
+        "zbc.c": 0.031791301357537396,
+        "zbkb.c": 0.02007646631636598,
+        "zbkc.c": 0.02007646631636598,
+        "zbkx.c": 0.02007646631636598
     },
     "subdirscores": {}
 }

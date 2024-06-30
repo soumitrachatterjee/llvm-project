@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/libcxx/test/std/thread/thread.stoptoken",
-    "score.sum": 8.500343726639563e-06,
+    "score.sum": 0.00044205888423977044,
     "sha.latest": "477f6bc407db14f6856420c6eb275747f8670758",
     "time.latest": 1717979836.5936406,
     "formatted_time": "2024-06-10 06:07:16.593642",
     "filescores": {},
     "subdirscores": {
-        "nostopstate": 6.099602068851199e-06,
-        "stopcallback": 8.500343726639563e-06,
-        "stopsource": 6.099602068851199e-06,
-        "stoptoken": 6.099602068851199e-06
+        "nostopstate": 0.00031720873550238375,
+        "stopcallback": 0.00044205888423977044,
+        "stopsource": 0.00031720873550238375,
+        "stoptoken": 0.00031720873550238375
     }
 }

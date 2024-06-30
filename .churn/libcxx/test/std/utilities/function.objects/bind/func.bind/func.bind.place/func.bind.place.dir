@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/libcxx/test/std/utilities/function.objects/bind/func.bind/func.bind.place",
-    "score.sum": 1.624037246110237e-05,
+    "score.sum": 0.0008445777206978144,
     "sha.latest": "77ac36547a2d15dc465d723179ce7047a59583ce",
     "time.latest": 1717995653.0801017,
     "formatted_time": "2024-06-10 10:30:53.080104",
     "filescores": {
-        "placeholders.pass.cpp": 1.624037246110237e-05
+        "placeholders.pass.cpp": 0.05345419045376636
     },
     "subdirscores": {}
 }

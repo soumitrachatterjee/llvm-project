@@ -1,15 +1,15 @@
 {
     "directory name": "llvm-project/clang-tools-extra/clangd/quality",
-    "score.sum": 1.2751195138821135e-05,
+    "score.sum": 0.0006631236661789959,
     "sha.latest": "dd3c26a045c081620375a878159f536758baba6e",
     "time.latest": 1717802847.1774166,
     "formatted_time": "2024-06-08 04:57:27.177418",
     "filescores": {
-        "CompletionModel.cmake": 1.1039086842220437e-05,
-        "CompletionModelCodegen.py": 9.237846478628241e-06,
-        "README.md": 7.82001669490072e-06
+        "CompletionModel.cmake": 0.03633447766749456,
+        "CompletionModelCodegen.py": 0.03040580542311839,
+        "README.md": 0.025739105600074506
     },
     "subdirscores": {
-        "model": 1.9067900306386156e-05
+        "model": 0.0009916228102423486
     }
 }

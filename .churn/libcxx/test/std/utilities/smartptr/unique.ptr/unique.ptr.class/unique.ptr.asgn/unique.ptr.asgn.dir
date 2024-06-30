@@ -1,16 +1,16 @@
 {
     "directory name": "llvm-project/libcxx/test/std/utilities/smartptr/unique.ptr/unique.ptr.class/unique.ptr.asgn",
-    "score.sum": 3.129499154311587e-05,
+    "score.sum": 0.0016274905449396378,
     "sha.latest": "64addd65210db59c8cb3794f792720e03e25b5af",
     "time.latest": 1718004451.537882,
     "formatted_time": "2024-06-10 12:57:31.537884",
     "filescores": {
-        "move.pass.cpp": 2.8968216974978343e-05,
-        "move_convert.pass.cpp": 1.65453397337781e-05,
-        "move_convert.runtime.pass.cpp": 1.722242284286401e-05,
-        "move_convert.single.pass.cpp": 1.610427388572998e-05,
-        "null.pass.cpp": 1.2553091664331263e-05,
-        "nullptr.pass.cpp": 1.2553091664331263e-05
+        "move.pass.cpp": 0.09534711048008887,
+        "move_convert.pass.cpp": 0.054457971537902154,
+        "move_convert.runtime.pass.cpp": 0.056686549087634645,
+        "move_convert.single.pass.cpp": 0.05300623033549528,
+        "null.pass.cpp": 0.04131773173404196,
+        "nullptr.pass.cpp": 0.04131773173404196
     },
     "subdirscores": {}
 }

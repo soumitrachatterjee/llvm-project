@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/llvm/resources",
-    "score.sum": 6.121783154618632e-06,
+    "score.sum": 0.00031836225897636394,
     "sha.latest": "95213c31f39d5db9000e1fcdebe6e41ab9f91813",
     "time.latest": 1717878265.3471835,
     "formatted_time": "2024-06-08 15:24:25.347187",
     "filescores": {
-        "windows_version_resource.rc": 6.121783154618632e-06
+        "windows_version_resource.rc": 0.020149474000513836
     },
     "subdirscores": {}
 }

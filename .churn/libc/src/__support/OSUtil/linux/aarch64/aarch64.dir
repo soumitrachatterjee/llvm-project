@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/libc/src/__support/OSUtil/linux/aarch64",
-    "score.sum": 1.842935377935531e-05,
+    "score.sum": 0.0009584153101279941,
     "sha.latest": "b6bc9d72f65a5086f310f321e969d96e9a559e75",
     "time.latest": 1717829157.6952145,
     "formatted_time": "2024-06-08 01:45:57.695218",
     "filescores": {
-        "CMakeLists.txt": 0,
-        "syscall.h": 1.842935377935531e-05
+        "CMakeLists.txt": 0.0,
+        "syscall.h": 0.060659088282672864
     },
     "subdirscores": {}
 }

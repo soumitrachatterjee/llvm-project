@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/lldb/examples/plugins",
-    "score.sum": 1.005734482776868e-05,
+    "score.sum": 0.0005230304533503447,
     "sha.latest": "2946cd701067404b99c39fb29dc9c74bd7193eb3",
     "time.latest": 1717841507.9672375,
     "formatted_time": "2024-06-08 15:41:47.967242",
     "filescores": {},
     "subdirscores": {
-        "commands": 1.005734482776868e-05
+        "commands": 0.0005230304533503447
     }
 }

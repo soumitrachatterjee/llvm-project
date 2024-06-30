@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/libcxx/test/std/experimental/iterator/ostream.joiner/ostream.joiner.cons",
-    "score.sum": 3.464449422218925e-05,
+    "score.sum": 0.0018016808441423569,
     "sha.latest": "a7f9895cc18995549c7facb96e72718da282a864",
     "time.latest": 1717899167.9430027,
     "formatted_time": "2024-06-09 07:42:47.943005",
     "filescores": {
-        "ostream_joiner.cons.pass.cpp": 3.464449422218925e-05
+        "ostream_joiner.cons.pass.cpp": 0.11403022909498034
     },
     "subdirscores": {}
 }

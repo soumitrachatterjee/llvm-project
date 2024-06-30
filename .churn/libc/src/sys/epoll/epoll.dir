@@ -1,16 +1,16 @@
 {
     "directory name": "llvm-project/libc/src/sys/epoll",
-    "score.sum": 1.027258578075863e-05,
+    "score.sum": 0.0005342240213496304,
     "sha.latest": "ecdbffe59e80666c9cadf3f80bd20bb34828fb47",
     "time.latest": 1717841287.4856956,
     "formatted_time": "2024-06-08 05:08:07.485696",
     "filescores": {
-        "CMakeLists.txt": 6.101969571969536e-06,
-        "epoll_pwait.h": 6.101969571969536e-06,
-        "epoll_pwait2.h": 6.101969571969536e-06,
-        "epoll_wait.h": 6.101969571969536e-06
+        "CMakeLists.txt": 0.020084258807756838,
+        "epoll_pwait.h": 0.020084258807756838,
+        "epoll_pwait2.h": 0.020084258807756838,
+        "epoll_wait.h": 0.020084258807756838
     },
     "subdirscores": {
-        "linux": 1.027258578075863e-05
+        "linux": 0.0005342240213496304
     }
 }

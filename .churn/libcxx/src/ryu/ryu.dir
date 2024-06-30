@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/libcxx/src/ryu",
-    "score.sum": 2.009565630530002e-05,
+    "score.sum": 0.0010450710806607264,
     "sha.latest": "bed1a5b3426059f2418f7be90c53a247ce082680",
     "time.latest": 1717843244.6578221,
     "formatted_time": "2024-06-08 16:10:44.657825",
     "filescores": {
-        "d2fixed.cpp": 2.009565630530002e-05,
-        "d2s.cpp": 1.5921973736200337e-05,
-        "f2s.cpp": 1.5921973736200337e-05,
-        "README.txt": 7.658573943559683e-06
+        "d2fixed.cpp": 0.06614362090584859,
+        "d2s.cpp": 0.05240620056794855,
+        "f2s.cpp": 0.05240620056794855,
+        "README.txt": 0.02520772668014928
     },
     "subdirscores": {}
 }

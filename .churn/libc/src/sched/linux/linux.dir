@@ -1,22 +1,22 @@
 {
     "directory name": "llvm-project/libc/src/sched/linux",
-    "score.sum": 3.630671021210406e-05,
+    "score.sum": 0.0018881240950857784,
     "sha.latest": "128d53f44cae211ad5501733ec1d9bc787b6f7a9",
     "time.latest": 1717835976.7717013,
     "formatted_time": "2024-06-08 03:39:36.771705",
     "filescores": {
-        "CMakeLists.txt": 1.3324704588545696e-05,
-        "sched_get_priority_max.cpp": 1.049346415817262e-05,
-        "sched_get_priority_min.cpp": 1.029568973255394e-05,
-        "sched_getaffinity.cpp": 1.4049654582970151e-05,
-        "sched_getcpucount.cpp": 6.099602068851199e-06,
-        "sched_getparam.cpp": 1.029568973255394e-05,
-        "sched_getscheduler.cpp": 1.4253608989073539e-05,
-        "sched_rr_get_interval.cpp": 1.8352164156896653e-05,
-        "sched_setaffinity.cpp": 1.4049654582970151e-05,
-        "sched_setparam.cpp": 1.029568973255394e-05,
-        "sched_setscheduler.cpp": 1.4253608989073539e-05,
-        "sched_yield.cpp": 1.0385209766142803e-05
+        "CMakeLists.txt": 0.04385744837578369,
+        "sched_get_priority_max.cpp": 0.03453859404851704,
+        "sched_get_priority_min.cpp": 0.03388763164976504,
+        "sched_getaffinity.cpp": 0.04624357684446484,
+        "sched_getcpucount.cpp": 0.02007646631636598,
+        "sched_getparam.cpp": 0.03388763164976504,
+        "sched_getscheduler.cpp": 0.04691488027016197,
+        "sched_rr_get_interval.cpp": 0.060405023371917776,
+        "sched_setaffinity.cpp": 0.04624357684446484,
+        "sched_setparam.cpp": 0.03388763164976504,
+        "sched_setscheduler.cpp": 0.04691488027016197,
+        "sched_yield.cpp": 0.03418228135292597
     },
     "subdirscores": {}
 }

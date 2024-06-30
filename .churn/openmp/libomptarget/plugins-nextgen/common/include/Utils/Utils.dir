@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/openmp/libomptarget/plugins-nextgen/common/include/Utils",
-    "score.sum": 0,
+    "score.sum": 0.0,
     "sha.latest": "ac029e02a92cbda80e6a45833b72df25e26669c2",
     "time.latest": 1717795739.8397372,
     "formatted_time": "2024-06-08 02:58:59.839742",
     "filescores": {
-        "ELF.h": 0
+        "ELF.h": 0.0
     },
     "subdirscores": {}
 }

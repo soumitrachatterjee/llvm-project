@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/lld/docs/llvm-theme",
-    "score.sum": 1.642775938817687e-05,
+    "score.sum": 0.0008543227449659591,
     "sha.latest": "569851f1d690fede27da210819bc99227c26dbba",
     "time.latest": 1717839234.1662838,
     "formatted_time": "2024-06-08 15:03:54.166287",
     "filescores": {
-        "layout.html": 0,
-        "theme.conf": 0
+        "layout.html": 0.0,
+        "theme.conf": 0.0
     },
     "subdirscores": {
-        "static": 1.642775938817687e-05
+        "static": 0.0008543227449659591
     }
 }

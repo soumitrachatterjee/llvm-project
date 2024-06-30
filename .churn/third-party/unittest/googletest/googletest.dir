@@ -1,15 +1,15 @@
 {
     "directory name": "llvm-project/third-party/unittest/googletest",
-    "score.sum": 3.14739432044284e-05,
+    "score.sum": 0.0016367968946916782,
     "sha.latest": "9625b74cdbc7576abd072dc8dbd94e07d5ea33b9",
     "time.latest": 1717790350.209392,
     "formatted_time": "2024-06-07 14:59:10.209392",
     "filescores": {
-        "LICENSE.TXT": 6.680685618677728e-06,
-        "README.LLVM": 1.8257891228743476e-05
+        "LICENSE.TXT": 0.02198906720137484,
+        "README.LLVM": 0.06009472980764123
     },
     "subdirscores": {
-        "include": 3.14739432044284e-05,
-        "src": 1.8257891228743476e-05
+        "include": 0.0016367968946916782,
+        "src": 0.0009494984302640854
     }
 }

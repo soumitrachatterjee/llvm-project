@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/llvm/include/llvm/ProfileData/Coverage",
-    "score.sum": 0.00035088440300353564,
+    "score.sum": 0.018247681820532817,
     "sha.latest": "512a8a78a7f3bffc41cd7c00788eb099519f4625",
     "time.latest": 1717820327.5558152,
     "formatted_time": "2024-06-07 23:18:47.555819",
     "filescores": {
-        "CoverageMapping.h": 0.0002871288568768795,
-        "CoverageMappingReader.h": 0.00011297446410786155,
-        "CoverageMappingWriter.h": 4.179577887107935e-05,
-        "MCDCTypes.h": 1.654378931293574e-05
+        "CoverageMapping.h": 0.9450670319926352,
+        "CoverageMappingReader.h": 0.3718485235051013,
+        "CoverageMappingWriter.h": 0.1375682441575314,
+        "MCDCTypes.h": 0.05445286842273718
     },
     "subdirscores": {}
 }

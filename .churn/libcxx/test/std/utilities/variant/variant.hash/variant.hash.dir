@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/libcxx/test/std/utilities/variant/variant.hash",
-    "score.sum": 3.1962744712686676e-05,
+    "score.sum": 0.0016622169313753937,
     "sha.latest": "fb855eb941b6d740cc6560297d0b4d3201dcaf9f",
     "time.latest": 1718009443.447075,
     "formatted_time": "2024-06-10 14:20:43.447076",
     "filescores": {
-        "enabled_hash.pass.cpp": 2.235154824572037e-05,
-        "hash.pass.cpp": 2.953381023596736e-05
+        "enabled_hash.pass.cpp": 0.07356875094613342,
+        "hash.pass.cpp": 0.0972087260289124
     },
     "subdirscores": {}
 }

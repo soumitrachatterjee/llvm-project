@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/libcxx/test/libcxx/concepts/concepts.arithmetic",
-    "score.sum": 0,
+    "score.sum": 0.0,
     "sha.latest": "bddd8f46f81477a52ff7ef2873e5671db71c431e",
     "time.latest": 1717845644.8293962,
     "formatted_time": "2024-06-08 16:50:44.829400",
     "filescores": {
-        "__libcpp_integer.compile.pass.cpp": 0,
-        "__libcpp_signed_integer.compile.pass.cpp": 0,
-        "__libcpp_unsigned_integer.compile.pass.cpp": 0
+        "__libcpp_integer.compile.pass.cpp": 0.0,
+        "__libcpp_signed_integer.compile.pass.cpp": 0.0,
+        "__libcpp_unsigned_integer.compile.pass.cpp": 0.0
     },
     "subdirscores": {}
 }

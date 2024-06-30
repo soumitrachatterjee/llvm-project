@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/libcxx/test/libcxx/strings/basic.string/string.cons",
-    "score.sum": 3.264567835510164e-05,
+    "score.sum": 0.0016977327756382131,
     "sha.latest": "76abab9dc186166b60af28c1b1e833791d82de40",
     "time.latest": 1717864629.4762104,
     "formatted_time": "2024-06-08 22:07:09.476213",
     "filescores": {
-        "constinit_sso_string.compile.pass.cpp": 6.099602068851199e-06,
-        "copy_shrunk_long.pass.cpp": 1.0608425482064069e-05,
-        "debug.iterator.substr.pass.cpp": 6.099602068851199e-06
+        "constinit_sso_string.compile.pass.cpp": 0.02007646631636598,
+        "copy_shrunk_long.pass.cpp": 0.03491698219920934,
+        "debug.iterator.substr.pass.cpp": 0.02007646631636598
     },
     "subdirscores": {}
 }

@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/llvm/utils/filecheck_lint",
-    "score.sum": 6.099602068851199e-06,
+    "score.sum": 0.00031720873550238375,
     "sha.latest": "b71edfaa4ec3c998aadb35255ce2f60bba2940b0",
     "time.latest": 1718079708.6364286,
     "formatted_time": "2024-06-10 23:21:48.636432",
     "filescores": {
-        "filecheck_lint.py": 6.099602068851199e-06,
-        "filecheck_lint_test.py": 6.099602068851199e-06
+        "filecheck_lint.py": 0.02007646631636598,
+        "filecheck_lint_test.py": 0.02007646631636598
     },
     "subdirscores": {}
 }

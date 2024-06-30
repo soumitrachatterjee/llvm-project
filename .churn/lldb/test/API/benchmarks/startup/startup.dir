@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/lldb/test/API/benchmarks/startup",
-    "score.sum": 1.511750750479991e-05,
+    "score.sum": 0.0007861833256359533,
     "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
     "time.latest": 1717887879.943176,
     "formatted_time": "2024-06-09 04:34:39.943178",
     "filescores": {
-        "TestStartupDelays.py": 1.511750750479991e-05
+        "TestStartupDelays.py": 0.04975834927944533
     },
     "subdirscores": {}
 }

@@ -1,17 +1,17 @@
 {
     "directory name": "llvm-project/libc/src/__support/macros/properties",
-    "score.sum": 0.00013541194215551706,
+    "score.sum": 0.00704207429570294,
     "sha.latest": "a84e66a92d7b97f68aa3ae7d2c5839f3fb0d291d",
     "time.latest": 1717829777.163441,
     "formatted_time": "2024-06-08 01:56:17.163445",
     "filescores": {
-        "CMakeLists.txt": 2.313792816879833e-05,
-        "README.md": 0,
-        "architectures.h": 3.225299718193686e-05,
-        "compiler.h": 2.275205103688663e-05,
-        "cpu_features.h": 1.859037717940997e-05,
-        "os.h": 6.099602068851199e-06,
-        "types.h": 1.8242758013306582e-05
+        "CMakeLists.txt": 0.07615707225944733,
+        "README.md": 0.0,
+        "architectures.h": 0.1061587631809164,
+        "compiler.h": 0.07488698133324694,
+        "cpu_features.h": 0.061189086933544364,
+        "os.h": 0.02007646631636598,
+        "types.h": 0.06004491975666617
     },
     "subdirscores": {}
 }

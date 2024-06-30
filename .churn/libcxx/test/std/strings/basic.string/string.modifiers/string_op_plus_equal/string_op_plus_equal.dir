@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/libcxx/test/std/strings/basic.string/string.modifiers/string_op_plus_equal",
-    "score.sum": 5.9836629144722316e-05,
+    "score.sum": 0.0031117934011877734,
     "sha.latest": "9ed20568e7de53dce85f1631d7d8c1415e7930ae",
     "time.latest": 1717969697.1243181,
     "formatted_time": "2024-06-10 03:18:17.124321",
     "filescores": {
-        "char.pass.cpp": 4.5492635488849556e-05,
-        "initializer_list.pass.cpp": 4.611820856378226e-05,
-        "pointer.pass.cpp": 4.4754929464980613e-05,
-        "string.pass.cpp": 5.31121043067254e-05
+        "char.pass.cpp": 0.1497362211050959,
+        "initializer_list.pass.cpp": 0.15179525653487397,
+        "pointer.pass.cpp": 0.147308106947417,
+        "string.pass.cpp": 0.1748152356611219
     },
     "subdirscores": {}
 }

@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/mlir/test/Conversion/SCFToOpenMP",
-    "score.sum": 4.918943190879981e-05,
+    "score.sum": 0.0025580877768325845,
     "sha.latest": "be9f8ffd8141f7cadf04b1bef5dfc65a7b8a7fd7",
     "time.latest": 1717816578.4553735,
     "formatted_time": "2024-06-07 22:16:18.455377",
     "filescores": {
-        "reductions.mlir": 2.9749606012651434e-05,
-        "scf-to-openmp.mlir": 3.059110497412472e-05
+        "reductions.mlir": 0.09791900460002381,
+        "scf-to-openmp.mlir": 0.10068874684953047
     },
     "subdirscores": {}
 }

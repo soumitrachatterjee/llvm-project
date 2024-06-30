@@ -1,19 +1,19 @@
 {
     "directory name": "llvm-project/clang/test/ARCMT/allowlisted",
-    "score.sum": 0,
+    "score.sum": 0.0,
     "sha.latest": "a83a6c22e63ad84e9c210c71b36413bed72ac23c",
     "time.latest": 1717843728.6631892,
     "formatted_time": "2024-06-08 16:18:48.663193",
     "filescores": {
-        "header1.h": 0,
-        "header1.h.result": 0,
-        "header2.h": 0,
-        "header2.h.result": 0,
-        "objcmt-with-allowlist-impl.m": 0,
-        "objcmt-with-allowlist-impl.m.result": 0,
-        "objcmt-with-allowlist.m": 0
+        "header1.h": 0.0,
+        "header1.h.result": 0.0,
+        "header2.h": 0.0,
+        "header2.h.result": 0.0,
+        "objcmt-with-allowlist-impl.m": 0.0,
+        "objcmt-with-allowlist-impl.m.result": 0.0,
+        "objcmt-with-allowlist.m": 0.0
     },
     "subdirscores": {
-        "Inputs": 0
+        "Inputs": 0.0
     }
 }

@@ -1,26 +1,26 @@
 {
     "directory name": "llvm-project/libcxx/test/std/utilities/tuple/tuple.tuple",
-    "score.sum": 0.0004864568379968435,
+    "score.sum": 0.02529810251810889,
     "sha.latest": "d29297239f4ebfd2948915fe084e1d2e36f558f9",
     "time.latest": 1718007448.5084608,
     "formatted_time": "2024-06-10 13:47:28.508462",
     "filescores": {
-        "alloc_first.h": 1.337861609084339e-05,
-        "alloc_last.h": 1.337861609084339e-05,
-        "PR27375.pass.cpp": 0,
-        "PR38601.pass.cpp": 6.099602068851199e-06,
-        "TupleFunction.pass.cpp": 3.106849873822366e-05
+        "alloc_first.h": 0.04403489478093061,
+        "alloc_last.h": 0.04403489478093061,
+        "PR27375.pass.cpp": 0.0,
+        "PR38601.pass.cpp": 0.02007646631636598,
+        "TupleFunction.pass.cpp": 0.10226005916079092
     },
     "subdirscores": {
-        "tuple.apply": 3.1808047518289106e-05,
-        "tuple.assign": 0.00012525151912400807,
-        "tuple.cnstr": 0.0002662142750304404,
-        "tuple.creation": 4.940970117281229e-05,
-        "tuple.elem": 5.4458792997907214e-05,
-        "tuple.helper": 0.00010919375859219737,
-        "tuple.rel": 4.0014179813207435e-05,
-        "tuple.special": 3.32308539015123e-05,
-        "tuple.swap": 3.8317294663816526e-05,
-        "tuple.traits": 2.0438344294008478e-05
+        "tuple.apply": 0.0016541719309201655,
+        "tuple.assign": 0.006513683278450682,
+        "tuple.cnstr": 0.013844426669458834,
+        "tuple.creation": 0.0025695428412644515,
+        "tuple.elem": 0.002832119975837336,
+        "tuple.helper": 0.005678602259099021,
+        "tuple.rel": 0.0020809304012684745,
+        "tuple.special": 0.0017281647272685925,
+        "tuple.swap": 0.0019926841867687075,
+        "tuple.traits": 0.0010628925093937877
     }
 }

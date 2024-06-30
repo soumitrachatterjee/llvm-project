@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/lldb/test/API/macosx/macCatalyst",
-    "score.sum": 3.806325042808988e-05,
+    "score.sum": 0.0019794726608581828,
     "sha.latest": "80fcecb13c388ff087a27a4b0e7ca3dd8c98eaa4",
     "time.latest": 1717963406.7398043,
     "formatted_time": "2024-06-10 01:33:26.739808",
     "filescores": {
-        "main.c": 0,
-        "Makefile": 2.1819678070090703e-05,
-        "TestMacCatalyst.py": 2.5071235992315473e-05
+        "main.c": 0.0,
+        "Makefile": 0.07181813286561334,
+        "TestMacCatalyst.py": 0.08252043645269855
     },
     "subdirscores": {}
 }

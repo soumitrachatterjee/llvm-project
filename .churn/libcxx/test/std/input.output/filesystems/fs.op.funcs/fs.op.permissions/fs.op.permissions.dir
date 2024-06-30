@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/libcxx/test/std/input.output/filesystems/fs.op.funcs/fs.op.permissions",
-    "score.sum": 5.380419833222656e-05,
+    "score.sum": 0.002798077895087915,
     "sha.latest": "fde04e61cb7393f0ca982d7fc905a17767d93e6e",
     "time.latest": 1717904477.2251267,
     "formatted_time": "2024-06-09 09:11:17.225128",
     "filescores": {
-        "permissions.pass.cpp": 5.380419833222656e-05
+        "permissions.pass.cpp": 0.17709322072209638
     },
     "subdirscores": {}
 }

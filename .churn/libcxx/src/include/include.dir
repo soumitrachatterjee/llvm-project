@@ -1,20 +1,20 @@
 {
     "directory name": "llvm-project/libcxx/src/include",
-    "score.sum": 0.00022034896814012277,
+    "score.sum": 0.011459209431042072,
     "sha.latest": "d332d88b919faa15564ab70b0633d94f21bc3e3c",
     "time.latest": 1717842797.1036744,
     "formatted_time": "2024-06-08 16:03:17.103678",
     "filescores": {
-        "apple_availability.h": 2.44261559321992e-05,
-        "atomic_support.h": 3.326035974136472e-05,
-        "config_elast.h": 4.729662726619885e-05,
-        "overridable_function.h": 0,
-        "refstring.h": 1.846990441987811e-05,
-        "sso_allocator.h": 2.07881723109745e-05,
-        "to_chars_floating_point.h": 2.4974983860583083e-05
+        "apple_availability.h": 0.08039719497692752,
+        "atomic_support.h": 0.10947443529598778,
+        "config_elast.h": 0.1556739494591975,
+        "overridable_function.h": 0.0,
+        "refstring.h": 0.0607925582302815,
+        "sso_allocator.h": 0.06842299488869703,
+        "to_chars_floating_point.h": 0.08220362846116219
     },
     "subdirscores": {
-        "ryu": 3.99209199684205e-05,
-        "tzdb": 0
+        "ryu": 0.0020760804394014403,
+        "tzdb": 0.0
     }
 }

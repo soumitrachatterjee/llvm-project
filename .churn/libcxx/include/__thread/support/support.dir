@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/libcxx/include/__thread/support",
-    "score.sum": 1.263100318845449e-05,
+    "score.sum": 0.0006568731048861427,
     "sha.latest": "33de5a316caa3c9b07ee1ccc7fbc3434247ff787",
     "time.latest": 1717837391.4519835,
     "formatted_time": "2024-06-08 14:33:11.451987",
     "filescores": {
-        "c11.h": 6.319934927982381e-06,
-        "external.h": 0,
-        "pthread.h": 1.1509803536364221e-05,
-        "windows.h": 6.099602068851199e-06
+        "c11.h": 0.02080167841623808,
+        "external.h": 0.0,
+        "pthread.h": 0.037883812812288475,
+        "windows.h": 0.02007646631636598
     },
     "subdirscores": {}
 }

@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/lldb/tools/lldb-dap/syntaxes",
-    "score.sum": 0,
+    "score.sum": 0.0,
     "sha.latest": "01263c6c6fb495a94fe0ccbb1420bb1ec8460748",
     "time.latest": 1717990841.2839842,
     "formatted_time": "2024-06-10 09:10:41.283993",
     "filescores": {
-        "arm.disasm": 0,
-        "arm64.disasm": 0,
-        "disassembly.json": 0,
-        "x86.disasm": 0
+        "arm.disasm": 0.0,
+        "arm64.disasm": 0.0,
+        "disassembly.json": 0.0,
+        "x86.disasm": 0.0
     },
     "subdirscores": {}
 }

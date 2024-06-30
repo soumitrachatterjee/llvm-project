@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/llvm/tools/llvm-mt",
-    "score.sum": 0.0001375145998393794,
+    "score.sum": 0.0071514226396708885,
     "sha.latest": "3c6f47d6b879ddd2842925d2e5da54657d9e5631",
     "time.latest": 1718081486.5451112,
     "formatted_time": "2024-06-10 23:51:26.545114",
     "filescores": {
-        "CMakeLists.txt": 1.2012864869332068e-05,
-        "Opts.td": 7.816992236713851e-06,
-        "llvm-mt.cpp": 0.00012807291456078015
+        "CMakeLists.txt": 0.03953960835311091,
+        "Opts.td": 0.02572915078134559,
+        "llvm-mt.cpp": 0.421544147666438
     },
     "subdirscores": {}
 }

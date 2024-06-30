@@ -1,19 +1,19 @@
 {
     "directory name": "llvm-project/libcxx/test/std/iterators/predef.iterators/move.iterators/move.sentinel",
-    "score.sum": 1.3471697025714077e-05,
+    "score.sum": 0.0007005932404050793,
     "sha.latest": "b40a3d73dc9c10a25a72e82da70d58727d198b80",
     "time.latest": 1717919414.3803494,
     "formatted_time": "2024-06-09 13:20:14.380351",
     "filescores": {
-        "assign.converting.pass.cpp": 7.0837570961522635e-06,
-        "base.pass.cpp": 6.268473886603693e-06,
-        "concept_conformance.compile.pass.cpp": 1.2002258104577243e-05,
-        "constraints.compile.pass.cpp": 0,
-        "ctad.compile.pass.cpp": 0,
-        "ctor.converting.pass.cpp": 7.0837570961522635e-06,
-        "ctor.default.pass.cpp": 6.099602068851199e-06,
-        "ctor.sentinel.pass.cpp": 7.0837570961522635e-06,
-        "op_eq.pass.cpp": 6.099602068851199e-06
+        "assign.converting.pass.cpp": 0.02331575226201675,
+        "base.pass.cpp": 0.020632297552997777,
+        "concept_conformance.compile.pass.cpp": 0.03950469683709361,
+        "constraints.compile.pass.cpp": 0.0,
+        "ctad.compile.pass.cpp": 0.0,
+        "ctor.converting.pass.cpp": 0.02331575226201675,
+        "ctor.default.pass.cpp": 0.02007646631636598,
+        "ctor.sentinel.pass.cpp": 0.02331575226201675,
+        "op_eq.pass.cpp": 0.02007646631636598
     },
     "subdirscores": {}
 }

@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/libcxx/test/std/numerics/cfenv",
-    "score.sum": 2.660791238698866e-05,
+    "score.sum": 0.0013837398157064578,
     "sha.latest": "ae85b39396a69afa5c58f06c2f9a4a0d94e94ef6",
     "time.latest": 1717933548.5578132,
     "formatted_time": "2024-06-09 17:15:48.557816",
     "filescores": {},
     "subdirscores": {
-        "cfenv.syn": 2.5584916273108444e-05
+        "cfenv.syn": 0.0013305390822742008
     }
 }

@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/openmp/libomptarget/utils",
-    "score.sum": 1.810367760136742e-05,
+    "score.sum": 0.000941478577626976,
     "sha.latest": "f98ee40f4b5d7474fc67e82824bf6abbaedb7b1c",
     "time.latest": 1717799278.5811398,
     "formatted_time": "2024-06-08 03:57:58.581142",
     "filescores": {
-        "generate_microtask_cases.py": 1.810367760136742e-05
+        "generate_microtask_cases.py": 0.05958714510611608
     },
     "subdirscores": {}
 }

@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/compiler-rt/test/xray/TestCases",
-    "score.sum": 0.00017579677697490996,
+    "score.sum": 0.009142280545541953,
     "sha.latest": "75b0a99668cef7abaf36e09c41bb1eb91234bbf3",
     "time.latest": 1717865670.6013737,
     "formatted_time": "2024-06-08 22:24:30.601376",
     "filescores": {},
     "subdirscores": {
-        "Posix": 9.011211720756504e-05
+        "Posix": 0.004686264846493158
     }
 }

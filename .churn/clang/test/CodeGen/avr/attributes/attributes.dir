@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/clang/test/CodeGen/avr/attributes",
-    "score.sum": 1.7861384570945236e-05,
+    "score.sum": 0.0009288781710867283,
     "sha.latest": "fd739804e0591468762eb87488a497a3f7d4afb0",
     "time.latest": 1717891309.4874637,
     "formatted_time": "2024-06-09 05:31:49.487465",
     "filescores": {
-        "interrupt.c": 1.7861384570945236e-05,
-        "signal.c": 1.7861384570945236e-05
+        "interrupt.c": 0.05878965244855369,
+        "signal.c": 0.05878965244855369
     },
     "subdirscores": {}
 }

@@ -1,23 +1,23 @@
 {
     "directory name": "llvm-project/openmp/libomptarget/test/mapping/present",
-    "score.sum": 2.1853720069204894e-05,
+    "score.sum": 0.0011364988782753761,
     "sha.latest": "5d57041d39461d0262fcef71bd9cfa0ee20c6576",
     "time.latest": 1717797630.924244,
     "formatted_time": "2024-06-08 03:30:30.924246",
     "filescores": {
-        "target.c": 1.901779339176841e-05,
-        "target_array_extension.c": 1.8809394514330088e-05,
-        "target_data.c": 1.683892968706508e-05,
-        "target_data_array_extension.c": 1.8809394514330088e-05,
-        "target_data_at_exit.c": 1.6750515740828744e-05,
-        "target_enter_data.c": 1.901779339176841e-05,
-        "target_exit_data_delete.c": 1.5254112791708382e-05,
-        "target_exit_data_release.c": 1.5254112791708382e-05,
-        "target_update.c": 1.6802157563439024e-05,
-        "target_update_array_extension.c": 1.6750515740828744e-05,
-        "unified_shared_memory.c": 1.8308833126879197e-05,
-        "zero_length_array_section.c": 1.901779339176841e-05,
-        "zero_length_array_section_exit.c": 1.683892968706508e-05
+        "target.c": 0.06259590119677368,
+        "target_array_extension.c": 0.06190996906611471,
+        "target_data.c": 0.05542430487267651,
+        "target_data_array_extension.c": 0.06190996906611471,
+        "target_data_at_exit.c": 0.05513329578823551,
+        "target_enter_data.c": 0.06259590119677368,
+        "target_exit_data_delete.c": 0.05020797720767704,
+        "target_exit_data_release.c": 0.05020797720767704,
+        "target_update.c": 0.055303271681818075,
+        "target_update_array_extension.c": 0.05513329578823551,
+        "unified_shared_memory.c": 0.060262401942719736,
+        "zero_length_array_section.c": 0.06259590119677368,
+        "zero_length_array_section_exit.c": 0.05542430487267651
     },
     "subdirscores": {}
 }

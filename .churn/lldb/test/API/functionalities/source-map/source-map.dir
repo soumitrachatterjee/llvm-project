@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/lldb/test/API/functionalities/source-map",
-    "score.sum": 2.3237698288894855e-05,
+    "score.sum": 0.0012084724227911048,
     "sha.latest": "80fcecb13c388ff087a27a4b0e7ca3dd8c98eaa4",
     "time.latest": 1717919995.2206879,
     "formatted_time": "2024-06-09 13:29:55.220690",
     "filescores": {
-        "a.yaml": 1.9838054698479425e-05,
-        "TestTargetSourceMap.py": 2.051182715957309e-05
+        "a.yaml": 0.06529574100745557,
+        "TestTargetSourceMap.py": 0.0675134217622576
     },
     "subdirscores": {
-        "Trivial": 0
+        "Trivial": 0.0
     }
 }

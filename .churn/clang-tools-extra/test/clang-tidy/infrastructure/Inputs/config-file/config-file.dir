@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/clang-tools-extra/test/clang-tidy/infrastructure/Inputs/config-file",
-    "score.sum": 7.068271190573593e-06,
+    "score.sum": 0.00036758420323836956,
     "sha.latest": "132f1d31fd66c30baf9773bf8f37b36a40fa7039",
     "time.latest": 1717833002.611418,
     "formatted_time": "2024-06-08 13:20:02.611421",
     "filescores": {
-        "config-file": 0,
-        "config-file-list-bracket": 0,
-        "config-file-list-dash": 0,
-        "config-file-spaces": 0
+        "config-file": 0.0,
+        "config-file-list-bracket": 0.0,
+        "config-file-list-dash": 0.0,
+        "config-file-spaces": 0.0
     },
     "subdirscores": {}
 }

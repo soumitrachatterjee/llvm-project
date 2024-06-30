@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/libcxx/test/std/numerics/numarray/class.slice",
-    "score.sum": 1.9014619814341783e-05,
+    "score.sum": 0.0009888519676008835,
     "sha.latest": "f877e88c354eacba1db81b82270ff8c27f000ea6",
     "time.latest": 1717936114.0256999,
     "formatted_time": "2024-06-09 17:58:34.025703",
     "filescores": {},
     "subdirscores": {
-        "cons.slice": 1.7366275644238228e-05,
-        "slice.access": 1.2132863580760565e-05,
-        "slice.ops": 0
+        "cons.slice": 0.000903130118213133,
+        "slice.access": 0.0006309674419795125,
+        "slice.ops": 0.0
     }
 }

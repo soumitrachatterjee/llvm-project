@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/flang/lib/Optimizer/HLFIR",
-    "score.sum": 0.0005197192581293162,
+    "score.sum": 0.02702790884168073,
     "sha.latest": "10b01563da1d7c98d5fff6aa8b4a78be56a8099d",
     "time.latest": 1717791726.7159107,
     "formatted_time": "2024-06-07 15:22:06.715911",
     "filescores": {
-        "CMakeLists.txt": 1.0930019726333231e-05
+        "CMakeLists.txt": 0.03597548994114521
     },
     "subdirscores": {
-        "IR": 0.00015209752014037645,
-        "Transforms": 0.0004133039061270437
+        "IR": 0.007909804851558776,
+        "Transforms": 0.021493797129858924
     }
 }

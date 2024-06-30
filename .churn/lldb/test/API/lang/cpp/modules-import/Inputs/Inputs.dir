@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/lldb/test/API/lang/cpp/modules-import/Inputs",
-    "score.sum": 0,
+    "score.sum": 0.0,
     "sha.latest": "99451b4453688a94c6014cac233d371ab4cc342d",
     "time.latest": 1717933271.256636,
     "formatted_time": "2024-06-09 17:11:11.256639",
     "filescores": {
-        "Bar.h": 0,
-        "Foo.h": 0,
-        "module.modulemap": 0
+        "Bar.h": 0.0,
+        "Foo.h": 0.0,
+        "module.modulemap": 0.0
     },
     "subdirscores": {}
 }

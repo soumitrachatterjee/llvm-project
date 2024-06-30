@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/utils/bazel/llvm-project-overlay/llvm/include/llvm/Config",
-    "score.sum": 8.132790024728701e-05,
+    "score.sum": 0.00422944318453953,
     "sha.latest": "43bec3376c07c9940361adef29bb2e4fb1f526a7",
     "time.latest": 1717789780.202861,
     "formatted_time": "2024-06-08 01:19:40.202865",
     "filescores": {
-        "config.h": 4.8877018641571935e-05,
-        "llvm-config.h": 5.1855908440731295e-05
+        "config.h": 0.1608757107964463,
+        "llvm-config.h": 0.17068054397046561
     },
     "subdirscores": {}
 }

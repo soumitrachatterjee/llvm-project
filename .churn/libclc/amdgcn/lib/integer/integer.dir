@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/libclc/amdgcn/lib/integer",
-    "score.sum": 0,
+    "score.sum": 0.0,
     "sha.latest": "04a46bf0a293711db41c26a2652def47d3123fdf",
     "time.latest": 1717823448.8212605,
     "formatted_time": "2024-06-08 00:10:48.821263",
     "filescores": {
-        "popcount.cl": 0,
-        "popcount.inc": 0
+        "popcount.cl": 0.0,
+        "popcount.inc": 0.0
     },
     "subdirscores": {}
 }

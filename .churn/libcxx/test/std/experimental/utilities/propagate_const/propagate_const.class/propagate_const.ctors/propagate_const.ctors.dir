@@ -1,19 +1,19 @@
 {
     "directory name": "llvm-project/libcxx/test/std/experimental/utilities/propagate_const/propagate_const.class/propagate_const.ctors",
-    "score.sum": 2.977844467156034e-05,
+    "score.sum": 0.0015486227909409201,
     "sha.latest": "31cbe0f240f660f15602c96b787c58a26f17e179",
     "time.latest": 1717900531.1004386,
     "formatted_time": "2024-06-09 08:05:31.100440",
     "filescores": {
-        "convertible_element_type.explicit.ctor.pass.cpp": 2.38335119804237e-05,
-        "convertible_element_type.non-explicit.ctor.pass.cpp": 2.38335119804237e-05,
-        "convertible_propagate_const.copy_ctor.pass.cpp": 2.8988234656379523e-05,
-        "convertible_propagate_const.explicit.move_ctor.pass.cpp": 1.8679347435995682e-05,
-        "convertible_propagate_const.move_ctor.pass.cpp": 2.38335119804237e-05,
-        "copy_ctor.pass.cpp": 2.3834070111951515e-05,
-        "element_type.explicit.ctor.pass.cpp": 2.38335119804237e-05,
-        "element_type.non-explicit.ctor.pass.cpp": 2.3834070111951515e-05,
-        "move_ctor.pass.cpp": 1.94695574511765e-05
+        "convertible_element_type.explicit.ctor.pass.cpp": 0.07844654373753285,
+        "convertible_element_type.non-explicit.ctor.pass.cpp": 0.07844654373753285,
+        "convertible_propagate_const.copy_ctor.pass.cpp": 0.0954129974513775,
+        "convertible_propagate_const.explicit.move_ctor.pass.cpp": 0.06148192707939963,
+        "convertible_propagate_const.move_ctor.pass.cpp": 0.07844654373753285,
+        "copy_ctor.pass.cpp": 0.07844838079324432,
+        "element_type.explicit.ctor.pass.cpp": 0.07844654373753285,
+        "element_type.non-explicit.ctor.pass.cpp": 0.07844838079324432,
+        "move_ctor.pass.cpp": 0.0640828549060932
     },
     "subdirscores": {}
 }

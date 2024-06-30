@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/libcxx/test/support/test.workarounds",
-    "score.sum": 2.8265150895489396e-05,
+    "score.sum": 0.0014699242136021692,
     "sha.latest": "4e00a1921fb15898fd1680308ae603919aea8811",
     "time.latest": 1718010146.78492,
     "formatted_time": "2024-06-10 14:32:26.784922",
     "filescores": {
-        "c1xx_broken_is_trivially_copyable.pass.cpp": 2.656112965329515e-05,
-        "c1xx_broken_za_ctor_check.pass.cpp": 1.7218479262380745e-05
+        "c1xx_broken_is_trivially_copyable.pass.cpp": 0.08742433011034814,
+        "c1xx_broken_za_ctor_check.pass.cpp": 0.05667356903420747
     },
     "subdirscores": {}
 }

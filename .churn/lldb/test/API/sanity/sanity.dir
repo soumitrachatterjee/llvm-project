@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/lldb/test/API/sanity",
-    "score.sum": 3.4444004587221706e-05,
+    "score.sum": 0.0017912544158489177,
     "sha.latest": "0c02329ff375100ddcf2cb104aebe97bb3c9126f",
     "time.latest": 1717968017.805342,
     "formatted_time": "2024-06-10 02:50:17.805343",
     "filescores": {
-        "TestModuleCacheSanity.py": 1.0459834404963863e-05,
-        "TestReprStrEquality.py": 6.2078377336007425e-06,
-        "TestSettingSkipping.py": 3.055205509379489e-05
+        "TestModuleCacheSanity.py": 0.03442790377726621,
+        "TestReprStrEquality.py": 0.020432717372261985,
+        "TestSettingSkipping.py": 0.10056021656210344
     },
     "subdirscores": {}
 }

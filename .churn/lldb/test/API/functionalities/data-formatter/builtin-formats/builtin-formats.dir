@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/lldb/test/API/functionalities/data-formatter/builtin-formats",
-    "score.sum": 3.216918795852587e-05,
+    "score.sum": 0.0016729529761577368,
     "sha.latest": "b047c9116432375586ddf7f01bf272f99d9a005c",
     "time.latest": 1717904469.7597282,
     "formatted_time": "2024-06-09 09:11:09.759730",
     "filescores": {
-        "main.cpp": 6.099602068851199e-06,
-        "Makefile": 0,
-        "TestBuiltinFormats.py": 3.216918795852587e-05
+        "main.cpp": 0.02007646631636598,
+        "Makefile": 0.0,
+        "TestBuiltinFormats.py": 0.10588291025939486
     },
     "subdirscores": {}
 }

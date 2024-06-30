@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/llvm/utils/crosstool/ARM",
-    "score.sum": 1.588001761231531e-05,
+    "score.sum": 0.0008258375300057643,
     "sha.latest": "3008068c61f3cd57916087c76d3661c01101df52",
     "time.latest": 1718079391.554158,
     "formatted_time": "2024-06-10 23:16:31.554162",
     "filescores": {
-        "README": 0,
-        "build-install-linux.sh": 1.1565057735446996e-05
+        "README": 0.0,
+        "build-install-linux.sh": 0.03806567862159888
     },
     "subdirscores": {}
 }

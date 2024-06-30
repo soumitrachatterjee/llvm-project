@@ -1,15 +1,15 @@
 {
     "directory name": "llvm-project/libcxx/utils/libcxx",
-    "score.sum": 0.0019939471513949355,
+    "score.sum": 0.10369487179869301,
     "sha.latest": "e19e8600cf743690e1a23fb8a2b0dfbe2dafe559",
     "time.latest": 1718011324.1724305,
     "formatted_time": "2024-06-10 14:52:04.172432",
     "filescores": {
-        "header_information.py": 3.274858728805905e-05,
-        "__init__.py": 7.982290067275964e-06
+        "header_information.py": 0.10778996763654745,
+        "__init__.py": 0.026273218458218422
     },
     "subdirscores": {
-        "sym_check": 4.501008452510077e-05,
-        "test": 0.0018962633166709378
+        "sym_check": 0.0023407415493502306,
+        "test": 0.09861484111110766
     }
 }

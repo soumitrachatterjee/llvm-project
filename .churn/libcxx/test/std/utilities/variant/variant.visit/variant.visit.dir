@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/libcxx/test/std/utilities/variant/variant.visit",
-    "score.sum": 7.833908040647989e-05,
+    "score.sum": 0.004074010133064186,
     "sha.latest": "ec350ad418a24f70c88758259c774a1e11c06d74",
     "time.latest": 1718009655.94224,
     "formatted_time": "2024-06-10 14:24:15.942241",
     "filescores": {
-        "robust_against_adl.pass.cpp": 1.523993860824425e-05,
-        "visit.pass.cpp": 7.481742310084944e-05,
-        "visit_return_type.pass.cpp": 1.6438775012996617e-05
+        "robust_against_adl.pass.cpp": 0.0501613237516536,
+        "visit.pass.cpp": 0.24625696197988303,
+        "visit_return_type.pass.cpp": 0.05410722029165154
     },
     "subdirscores": {}
 }

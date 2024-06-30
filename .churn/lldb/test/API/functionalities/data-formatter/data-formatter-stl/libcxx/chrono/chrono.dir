@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/lldb/test/API/functionalities/data-formatter/data-formatter-stl/libcxx/chrono",
-    "score.sum": 3.16551236768454e-05,
+    "score.sum": 0.0016462191533741933,
     "sha.latest": "99446df3f5357b327b388bbbb4adf6465999ea60",
     "time.latest": 1717906283.8607445,
     "formatted_time": "2024-06-09 09:41:23.860746",
     "filescores": {
-        "main.cpp": 1.676331851723726e-05,
-        "Makefile": 0,
-        "TestDataFormatterLibcxxChrono.py": 3.16551236768454e-05
+        "main.cpp": 0.05517543534199987,
+        "Makefile": 0.0,
+        "TestDataFormatterLibcxxChrono.py": 0.10419089918734328
     },
     "subdirscores": {}
 }

@@ -1,20 +1,20 @@
 {
     "directory name": "llvm-project/clang/test/CXX/module/module.unit/p7",
-    "score.sum": 2.06699005607642e-05,
+    "score.sum": 0.0010749345524231734,
     "sha.latest": "9c04851cf5809c80862183481f8ced0b3e9ee301",
     "time.latest": 1718104664.8335621,
     "formatted_time": "2024-06-11 16:47:44.833565",
     "filescores": {
-        "t1.cpp": 0,
-        "t2.cpp": 0,
-        "t3.cpp": 0,
-        "t4.cpp": 0,
-        "t5.cpp": 0,
-        "t6.cpp": 1.829835439118601e-05,
-        "t7.cpp": 0,
-        "t8.cpp": 0
+        "t1.cpp": 0.0,
+        "t2.cpp": 0.0,
+        "t3.cpp": 0.0,
+        "t4.cpp": 0.0,
+        "t5.cpp": 0.0,
+        "t6.cpp": 0.06022791182651089,
+        "t7.cpp": 0.0,
+        "t8.cpp": 0.0
     },
     "subdirscores": {
-        "Inputs": 7.772280754054648e-06
+        "Inputs": 0.00040419609707876067
     }
 }

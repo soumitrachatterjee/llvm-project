@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/libcxx/test/std/time/time.traits/time.traits.specializations",
-    "score.sum": 0,
+    "score.sum": 0.0,
     "sha.latest": "7738db2c06b177fe916ac1bcf3633449b3c1fca9",
     "time.latest": 1717985904.0388544,
     "formatted_time": "2024-06-10 07:48:24.038857",
     "filescores": {
-        "duration.pass.cpp": 0,
-        "time_point.pass.cpp": 0
+        "duration.pass.cpp": 0.0,
+        "time_point.pass.cpp": 0.0
     },
     "subdirscores": {}
 }

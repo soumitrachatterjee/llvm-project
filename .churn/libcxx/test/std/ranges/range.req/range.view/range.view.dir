@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/libcxx/test/std/ranges/range.req/range.view",
-    "score.sum": 1.4611282346342639e-05,
+    "score.sum": 0.0007598571750803699,
     "sha.latest": "b8cb1dc9ea87faa8e8e9ab7a31710a8c0bb8b084",
     "time.latest": 1717965154.1896176,
     "formatted_time": "2024-06-10 02:02:34.189621",
     "filescores": {
-        "enable_view.compile.pass.cpp": 1.4314579671001878e-05,
-        "view.compile.pass.cpp": 1.1304530409775772e-05,
-        "view.subsumption.compile.pass.cpp": 1.1304530409775772e-05,
-        "view_base.compile.pass.cpp": 1.1007827734435011e-05
+        "enable_view.compile.pass.cpp": 0.047115561532349734,
+        "view.compile.pass.cpp": 0.03720816889894966,
+        "view.subsumption.compile.pass.cpp": 0.03720816889894966,
+        "view_base.compile.pass.cpp": 0.03623159023033885
     },
     "subdirscores": {}
 }

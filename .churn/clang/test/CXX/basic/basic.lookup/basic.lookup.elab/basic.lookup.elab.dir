@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/clang/test/CXX/basic/basic.lookup/basic.lookup.elab",
-    "score.sum": 2.2498753895659293e-05,
+    "score.sum": 0.0011700437492581483,
     "sha.latest": "0f1c1be1968076d6f96f8a7bcc4a15cf195ecd97",
     "time.latest": 1718082335.009123,
     "formatted_time": "2024-06-11 10:35:35.009125",
     "filescores": {
-        "p2.cpp": 2.1213817202581963e-05,
-        "templateid.cpp": 1.1039004557106303e-05
+        "p2.cpp": 0.06982397895825289,
+        "templateid.cpp": 0.0363342068310853
     },
     "subdirscores": {}
 }

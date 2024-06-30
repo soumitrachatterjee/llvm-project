@@ -1,16 +1,16 @@
 {
     "directory name": "llvm-project/libcxx/test/std/algorithms/alg.modifying.operations/alg.unique",
-    "score.sum": 5.609851163004485e-05,
+    "score.sum": 0.0029173932556363965,
     "sha.latest": "774295ca1d5ff752cb478b61f22a5b1dbe33074f",
     "time.latest": 1717869323.8964894,
     "formatted_time": "2024-06-08 23:25:23.896492",
     "filescores": {
-        "ranges_unique.pass.cpp": 8.851388927505702e-06,
-        "ranges_unique_copy.pass.cpp": 1.250805777021269e-05,
-        "unique.pass.cpp": 2.0953118932785364e-05,
-        "unique_copy.pass.cpp": 2.5980444475160604e-05,
-        "unique_copy_pred.pass.cpp": 2.1217462183018854e-05,
-        "unique_pred.pass.cpp": 1.8623718763737352e-05
+        "ranges_unique.pass.cpp": 0.029133804082664035,
+        "ranges_unique_copy.pass.cpp": 0.04116950543203721,
+        "unique.pass.cpp": 0.06896590658349352,
+        "unique_copy.pass.cpp": 0.08551304044134406,
+        "unique_copy_pred.pass.cpp": 0.069835976187931,
+        "unique_pred.pass.cpp": 0.06129882871458631
     },
     "subdirscores": {}
 }

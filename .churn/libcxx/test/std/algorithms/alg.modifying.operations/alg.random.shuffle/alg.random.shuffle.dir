@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/libcxx/test/std/algorithms/alg.modifying.operations/alg.random.shuffle",
-    "score.sum": 5.380568011758427e-05,
+    "score.sum": 0.0027981549550754846,
     "sha.latest": "c000f754bfb9fb3a7a0a1f9b0485f36ae70534b7",
     "time.latest": 1717868700.334561,
     "formatted_time": "2024-06-08 23:15:00.334563",
     "filescores": {
-        "random_shuffle.pass.cpp": 3.015009262940603e-05,
-        "random_shuffle_rand.pass.cpp": 3.1567324402329656e-05,
-        "random_shuffle_urng.pass.cpp": 1.699041425232617e-05,
-        "ranges_shuffle.pass.cpp": 6.784384757164357e-06
+        "random_shuffle.pass.cpp": 0.09923718175005276,
+        "random_shuffle_rand.pass.cpp": 0.1039019132571925,
+        "random_shuffle_urng.pass.cpp": 0.055922907033536216,
+        "ranges_shuffle.pass.cpp": 0.022330386559156336
     },
     "subdirscores": {}
 }

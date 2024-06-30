@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/lldb/test/API/lang/cpp/namespace_conflicts",
-    "score.sum": 6.099602068851199e-06,
+    "score.sum": 0.00031720873550238375,
     "sha.latest": "fdea9a4ec9b0d9585b8fe8a612686d9f44f40ddc",
     "time.latest": 1717933672.4608915,
     "formatted_time": "2024-06-09 17:17:52.460894",
     "filescores": {
-        "main.cpp": 6.099602068851199e-06,
-        "TestNamespaceConflicts.py": 0
+        "main.cpp": 0.02007646631636598,
+        "TestNamespaceConflicts.py": 0.0
     },
     "subdirscores": {}
 }

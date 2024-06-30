@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/clang/test/CXX/dcl.dcl/dcl.attr/dcl.attr.nodiscard",
-    "score.sum": 3.799014280045249e-05,
+    "score.sum": 0.0019756707115085913,
     "sha.latest": "cb08f4aa4467cf562b62e542725f5351c5482495",
     "time.latest": 1718085500.059187,
     "formatted_time": "2024-06-11 11:28:20.059191",
     "filescores": {
-        "p1.cpp": 2.104692572344472e-05,
-        "p2.cpp": 3.07047859616036e-05,
-        "p3.cpp": 0
+        "p1.cpp": 0.06927466588478244,
+        "p2.cpp": 0.10106292085140284,
+        "p3.cpp": 0.0
     },
     "subdirscores": {}
 }

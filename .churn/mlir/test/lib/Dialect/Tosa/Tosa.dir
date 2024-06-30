@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/mlir/test/lib/Dialect/Tosa",
-    "score.sum": 6.469381732028204e-05,
+    "score.sum": 0.0033643906201333384,
     "sha.latest": "af78e5daf0791135485dbd7972ffedb927727a6b",
     "time.latest": 1717831867.5780182,
     "formatted_time": "2024-06-08 02:31:07.578022",
     "filescores": {
-        "CMakeLists.txt": 1.6011950981959223e-05,
-        "TosaTestPasses.cpp": 5.663971568376958e-05
+        "CMakeLists.txt": 0.052702355156940925,
+        "TosaTestPasses.cpp": 0.18642615227322729
     },
     "subdirscores": {}
 }

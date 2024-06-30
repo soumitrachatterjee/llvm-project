@@ -1,20 +1,20 @@
 {
     "directory name": "llvm-project/compiler-rt/test/builtins/Unit/arm",
-    "score.sum": 2.6685291766403114e-05,
+    "score.sum": 0.0013877639167577977,
     "sha.latest": "6f4f1023fafec4a470d8b7e8ea884c1953fe5291",
     "time.latest": 1717818972.7561297,
     "formatted_time": "2024-06-08 09:26:12.756134",
     "filescores": {
-        "aeabi_cdcmpeq_test.c": 2.7595923066112735e-05,
-        "aeabi_cdcmple_test.c": 2.7595923066112735e-05,
-        "aeabi_cfcmpeq_test.c": 2.7595923066112735e-05,
-        "aeabi_cfcmple_test.c": 2.7595923066112735e-05,
-        "aeabi_drsub_test.c": 2.184419290221789e-05,
-        "aeabi_frsub_test.c": 2.184419290221789e-05,
-        "aeabi_idivmod_test.c": 1.5534622156731347e-05,
-        "aeabi_uidivmod_test.c": 1.5534622156731347e-05,
-        "aeabi_uldivmod_test.c": 1.572742360843284e-05,
-        "call_apsr.h": 1.6236025562542163e-05
+        "aeabi_cdcmpeq_test.c": 0.09083028919789603,
+        "aeabi_cdcmple_test.c": 0.09083028919789603,
+        "aeabi_cfcmpeq_test.c": 0.09083028919789603,
+        "aeabi_cfcmple_test.c": 0.09083028919789603,
+        "aeabi_drsub_test.c": 0.07189882193285041,
+        "aeabi_frsub_test.c": 0.07189882193285041,
+        "aeabi_idivmod_test.c": 0.051131256587993966,
+        "aeabi_uidivmod_test.c": 0.051131256587993966,
+        "aeabi_uldivmod_test.c": 0.05176585074793079,
+        "call_apsr.h": 0.05343988290361154
     },
     "subdirscores": {}
 }

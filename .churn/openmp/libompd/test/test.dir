@@ -1,18 +1,18 @@
 {
     "directory name": "llvm-project/openmp/libompd/test",
-    "score.sum": 1.170024418183112e-05,
+    "score.sum": 0.0006084691460350925,
     "sha.latest": "ae1507d3eafcce78366aa2ca5dc5f6e8d41f84d8",
     "time.latest": 1717794471.2626023,
     "formatted_time": "2024-06-08 02:37:51.262605",
     "filescores": {
-        "CMakeLists.txt": 1.170024418183112e-05,
-        "lit.cfg": 0,
-        "lit.site.cfg.in": 0,
-        "ompt_plugin.h": 0,
-        "test.cmd": 0
+        "CMakeLists.txt": 0.03851063652321676,
+        "lit.cfg": 0.0,
+        "lit.site.cfg.in": 0.0,
+        "ompt_plugin.h": 0.0,
+        "test.cmd": 0.0
     },
     "subdirscores": {
-        "api_tests": 0,
-        "openmp_examples": 6.099602068851199e-06
+        "api_tests": 0.0,
+        "openmp_examples": 0.00031720873550238375
     }
 }

@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/llvm/utils/gn/secondary/clang/lib/Tooling/DependencyScanning",
-    "score.sum": 1.085727183757897e-05,
+    "score.sum": 0.0005646305171597392,
     "sha.latest": "2aa998d22fe09191cd6c1b697e373266c1131502",
     "time.latest": 1718084307.3301022,
     "formatted_time": "2024-06-11 00:38:27.330106",
     "filescores": {
-        "BUILD.gn": 1.085727183757897e-05
+        "BUILD.gn": 0.035736044724608854
     },
     "subdirscores": {}
 }

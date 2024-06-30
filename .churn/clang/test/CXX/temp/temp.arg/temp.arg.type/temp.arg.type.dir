@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/clang/test/CXX/temp/temp.arg/temp.arg.type",
-    "score.sum": 2.2569449039329856e-05,
+    "score.sum": 0.001173720237802281,
     "sha.latest": "84a3aadf0f2483dde0acfc4e79f2a075a5f35bd1",
     "time.latest": 1718112312.8075807,
     "formatted_time": "2024-06-11 18:55:12.807583",
     "filescores": {
-        "p2-cxx0x.cpp": 9.280795688000422e-06,
-        "p2.cpp": 2.1017320379723496e-05
+        "p2-cxx0x.cpp": 0.030547170113067346,
+        "p2.cpp": 0.06917722171067166
     },
     "subdirscores": {}
 }

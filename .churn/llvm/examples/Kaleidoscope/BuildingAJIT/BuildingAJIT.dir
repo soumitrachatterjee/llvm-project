@@ -1,16 +1,16 @@
 {
     "directory name": "llvm-project/llvm/examples/Kaleidoscope/BuildingAJIT",
-    "score.sum": 0.0001508387502924516,
+    "score.sum": 0.007844342746450668,
     "sha.latest": "c118d05f9ed1c5f29c42fba66f8f36c5af01868e",
     "time.latest": 1717803896.3257189,
     "formatted_time": "2024-06-07 18:44:56.325720",
     "filescores": {
-        "CMakeLists.txt": 6.181163956622962e-06
+        "CMakeLists.txt": 0.020344922270388144
     },
     "subdirscores": {
-        "Chapter1": 9.56689062611054e-05,
-        "Chapter2": 0.00010459394353882424,
-        "Chapter3": 9.583300063548976e-05,
-        "Chapter4": 0.00010006822594890187
+        "Chapter1": 0.0049752446863631054,
+        "Chapter2": 0.005439389684220325,
+        "Chapter3": 0.004983778385514946,
+        "Chapter4": 0.005204030534929042
     }
 }

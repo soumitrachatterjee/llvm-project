@@ -1,16 +1,16 @@
 {
     "directory name": "llvm-project/libcxx/test/std/containers/container.adaptors/stack/stack.cons.alloc",
-    "score.sum": 3.835614606165613e-05,
+    "score.sum": 0.0019947046468974322,
     "sha.latest": "e7b07a65388f9cc143cff89762e996efbe25b73f",
     "time.latest": 1717882321.7998147,
     "formatted_time": "2024-06-09 03:02:01.799816",
     "filescores": {
-        "ctor_alloc.pass.cpp": 1.706479892923008e-05,
-        "ctor_container_alloc.pass.cpp": 2.1139670725271207e-05,
-        "ctor_copy_alloc.pass.cpp": 1.926607059535771e-05,
-        "ctor_iterators.pass.cpp": 6.099602068851199e-06,
-        "ctor_rcontainer_alloc.pass.cpp": 2.747756394164217e-05,
-        "ctor_rqueue_alloc.pass.cpp": 2.747756394164217e-05
+        "ctor_alloc.pass.cpp": 0.05616773963793534,
+        "ctor_container_alloc.pass.cpp": 0.06957993037321349,
+        "ctor_copy_alloc.pass.cpp": 0.06341309039349793,
+        "ctor_iterators.pass.cpp": 0.02007646631636598,
+        "ctor_rcontainer_alloc.pass.cpp": 0.09044071739487586,
+        "ctor_rqueue_alloc.pass.cpp": 0.09044071739487586
     },
     "subdirscores": {}
 }

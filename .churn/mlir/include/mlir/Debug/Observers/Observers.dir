@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/mlir/include/mlir/Debug/Observers",
-    "score.sum": 2.1289790574672674e-05,
+    "score.sum": 0.0011071718238456181,
     "sha.latest": "b82f3747dac0ea3508656f9cd08ad0dbc03ca16d",
     "time.latest": 1717792558.80765,
     "formatted_time": "2024-06-07 15:35:58.807653",
     "filescores": {
-        "ActionLogging.h": 1.828401743029934e-05,
-        "ActionProfiler.h": 6.125635995588572e-06
+        "ActionLogging.h": 0.060180722598579095,
+        "ActionProfiler.h": 0.02016215539039504
     },
     "subdirscores": {}
 }

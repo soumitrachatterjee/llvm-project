@@ -1,18 +1,18 @@
 {
     "directory name": "llvm-project/mlir/utils/tree-sitter-mlir",
-    "score.sum": 1.1221659215780989e-05,
+    "score.sum": 0.0005835804188365647,
     "sha.latest": "8a6e54c9b3080f1b8e1a925bf1a39730223b99f9",
     "time.latest": 1717837372.9080508,
     "formatted_time": "2024-06-08 04:02:52.908052",
     "filescores": {
-        "README.md": 6.099602068851199e-06,
-        "grammar.js": 6.373435525304503e-06,
-        "package-lock.json": 0,
-        "package.json": 0
+        "README.md": 0.02007646631636598,
+        "grammar.js": 0.020977772352845547,
+        "package-lock.json": 0.0,
+        "package.json": 0.0
     },
     "subdirscores": {
-        "dialect": 6.099602068851199e-06,
-        "queries": 6.099602068851199e-06,
-        "test": 6.099602068851199e-06
+        "dialect": 0.00031720873550238375,
+        "queries": 0.00031720873550238375,
+        "test": 0.00031720873550238375
     }
 }

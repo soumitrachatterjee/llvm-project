@@ -1,15 +1,15 @@
 {
     "directory name": "llvm-project/libcxx/test/std/containers/sequences/array/array.cons",
-    "score.sum": 8.123483515789874e-05,
+    "score.sum": 0.004224603350892836,
     "sha.latest": "1c7607e8ee6ec4ca3abce1561dd39a98d4efac96",
     "time.latest": 1717883036.475494,
     "formatted_time": "2024-06-09 03:13:56.475495",
     "filescores": {
-        "deduct.pass.cpp": 2.8048689231887668e-05,
-        "deduct.verify.cpp": 0,
-        "implicit_copy.addressof.compile.pass.cpp": 0,
-        "implicit_copy.pass.cpp": 1.7185965410931267e-05,
-        "initialization.pass.cpp": 1.1825303815776239e-05
+        "deduct.pass.cpp": 0.0923205412788949,
+        "deduct.verify.cpp": 0.0,
+        "implicit_copy.addressof.compile.pass.cpp": 0.0,
+        "implicit_copy.pass.cpp": 0.05656655168519479,
+        "initialization.pass.cpp": 0.03892226264244475
     },
     "subdirscores": {}
 }

@@ -1,22 +1,22 @@
 {
     "directory name": "llvm-project/libcxx/test/std/utilities/function.objects/refwrap",
-    "score.sum": 0.00010915378835936365,
+    "score.sum": 0.0056765236141527115,
     "sha.latest": "b2cc4b994e5fb85053b1acedec5ea0d1d42e5ec4",
     "time.latest": 1717997436.1592252,
     "formatted_time": "2024-06-10 11:00:36.159228",
     "filescores": {
-        "binder_typedefs.compile.pass.cpp": 0,
-        "type.pass.cpp": 1.7366275644238228e-05,
-        "type_properties.pass.cpp": 4.435736718663778e-05,
-        "unwrap_reference.pass.cpp": 9.320125834649355e-06,
-        "unwrap_ref_decay.pass.cpp": 9.320125834649355e-06,
-        "weak_result.pass.cpp": 2.7104888983414304e-05
+        "binder_typedefs.compile.pass.cpp": 0.0,
+        "type.pass.cpp": 0.057160031765472394,
+        "type_properties.pass.cpp": 0.14599955507801435,
+        "unwrap_reference.pass.cpp": 0.030676622879903942,
+        "unwrap_ref_decay.pass.cpp": 0.030676622879903942,
+        "weak_result.pass.cpp": 0.08921408061408928
     },
     "subdirscores": {
-        "refwrap.access": 2.1043314124944818e-05,
-        "refwrap.assign": 2.132740993358011e-05,
-        "refwrap.const": 5.359930910220643e-05,
-        "refwrap.helpers": 5.458997858291007e-05,
-        "refwrap.invoke": 3.578581083558093e-05
+        "refwrap.access": 0.0010943538593183,
+        "refwrap.assign": 0.0011091282120058194,
+        "refwrap.const": 0.0027874226666256127,
+        "refwrap.helpers": 0.0028389422591707683,
+        "refwrap.invoke": 0.0018610348143940627
     }
 }

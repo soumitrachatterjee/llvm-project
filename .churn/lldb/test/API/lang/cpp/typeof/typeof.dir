@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/lldb/test/API/lang/cpp/typeof",
-    "score.sum": 1.020210225525609e-05,
+    "score.sum": 0.0005305585379712004,
     "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
     "time.latest": 1717954743.0712264,
     "formatted_time": "2024-06-09 23:09:03.071231",
     "filescores": {
-        "TestTypeOfDeclTypeExpr.py": 1.020210225525609e-05
+        "TestTypeOfDeclTypeExpr.py": 0.03357959420496206
     },
     "subdirscores": {}
 }

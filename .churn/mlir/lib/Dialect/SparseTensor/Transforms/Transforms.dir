@@ -1,27 +1,27 @@
 {
     "directory name": "llvm-project/mlir/lib/Dialect/SparseTensor/Transforms",
-    "score.sum": 0.0026459709315087353,
+    "score.sum": 0.13760325409523463,
     "sha.latest": "fc9f1d49aae4328ef36e1d9ba606e93703fde970",
     "time.latest": 1717809279.3626263,
     "formatted_time": "2024-06-07 20:14:39.362627",
     "filescores": {
-        "BufferizableOpInterfaceImpl.cpp": 6.068112095618713e-05,
-        "CMakeLists.txt": 0.00010139128392381632,
-        "SparseAssembler.cpp": 1.8545619220599234e-05,
-        "SparseBufferRewriting.cpp": 5.894954718144571e-05,
-        "SparseGPUCodegen.cpp": 0.00011440719136772369,
-        "SparseReinterpretMap.cpp": 2.753638356041323e-05,
-        "SparseStorageSpecifierToLLVM.cpp": 1.8927646155527667e-05,
-        "SparseTensorCodegen.cpp": 0.0003292364446422894,
-        "SparseTensorConversion.cpp": 0.00044893171734093266,
-        "SparseTensorPasses.cpp": 0.00027347399349068646,
-        "SparseTensorRewriting.cpp": 0.0004119187723183476,
-        "SparseVectorization.cpp": 4.1901047325720895e-05,
-        "Sparsification.cpp": 0.0006534733239553718,
-        "SparsificationAndBufferizationPass.cpp": 7.79151756411304e-05,
-        "StageSparseOperations.cpp": 7.30458146872849e-06
+        "BufferizableOpInterfaceImpl.cpp": 0.19972818999742856,
+        "CMakeLists.txt": 0.33372319595481076,
+        "SparseAssembler.cpp": 0.061041768855691084,
+        "SparseBufferRewriting.cpp": 0.19402882105983388,
+        "SparseGPUCodegen.cpp": 0.3765642574576572,
+        "SparseReinterpretMap.cpp": 0.09063431856453726,
+        "SparseStorageSpecifierToLLVM.cpp": 0.06229918709453034,
+        "SparseTensorCodegen.cpp": 1.0836615760126016,
+        "SparseTensorConversion.cpp": 1.477631229022301,
+        "SparseTensorPasses.cpp": 0.9001228861724611,
+        "SparseTensorRewriting.cpp": 1.355805389299057,
+        "SparseVectorization.cpp": 0.1379147288232409,
+        "Sparsification.cpp": 2.1508673892073507,
+        "SparsificationAndBufferizationPass.cpp": 0.2564530245802587,
+        "StageSparseOperations.cpp": 0.024042582148264435
     },
     "subdirscores": {
-        "Utils": 7.791413814746451e-05
+        "Utils": 0.004051911085434152
     }
 }

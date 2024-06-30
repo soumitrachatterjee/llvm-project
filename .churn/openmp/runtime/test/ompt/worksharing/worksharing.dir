@@ -1,16 +1,16 @@
 {
     "directory name": "llvm-project/openmp/runtime/test/ompt/worksharing",
-    "score.sum": 3.4648751478130026e-05,
+    "score.sum": 0.001801902241990682,
     "sha.latest": "39a959eac793ee43008d6755206b6684fc11872d",
     "time.latest": 1717803648.1529222,
     "formatted_time": "2024-06-08 05:10:48.152924",
     "filescores": {
-        "sections.c": 8.072221569074001e-06,
-        "sections_dispatch.c": 6.099602068851199e-06,
-        "single.c": 6.099602068851199e-06
+        "sections.c": 0.02656922248376768,
+        "sections_dispatch.c": 0.02007646631636598,
+        "single.c": 0.02007646631636598
     },
     "subdirscores": {
-        "for": 2.6248939121023236e-05,
-        "taskinfo": 0
+        "for": 0.0013650714739866677,
+        "taskinfo": 0.0
     }
 }

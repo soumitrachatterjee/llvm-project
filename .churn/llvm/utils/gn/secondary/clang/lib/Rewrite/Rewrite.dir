@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/llvm/utils/gn/secondary/clang/lib/Rewrite",
-    "score.sum": 0,
+    "score.sum": 0.0,
     "sha.latest": "29ea6035be15950f73cb0638a288062d351a8aa0",
     "time.latest": 1718084032.8503869,
     "formatted_time": "2024-06-11 00:33:52.850390",
     "filescores": {
-        "BUILD.gn": 0
+        "BUILD.gn": 0.0
     },
     "subdirscores": {}
 }

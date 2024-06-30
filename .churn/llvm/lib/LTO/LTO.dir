@@ -1,18 +1,18 @@
 {
     "directory name": "llvm-project/llvm/lib/LTO",
-    "score.sum": 0.0023693865026604014,
+    "score.sum": 0.1232195293957719,
     "sha.latest": "a3319371970b599ef65ef1567c440fbdc3a330f4",
     "time.latest": 1717839350.8800616,
     "formatted_time": "2024-06-08 04:35:50.880066",
     "filescores": {
-        "CMakeLists.txt": 8.144691931760222e-05,
-        "LTO.cpp": 0.0007457468043061367,
-        "LTOBackend.cpp": 0.0004694571844138457,
-        "LTOCodeGenerator.cpp": 0.0006049703999640989,
-        "LTOModule.cpp": 0.00021077809860833095,
-        "SummaryBasedOptimizations.cpp": 1.3864131819604597e-05,
-        "ThinLTOCodeGenerator.cpp": 0.00041962412621103723,
-        "UpdateCompilerUsed.cpp": 1.881919325820846e-05
+        "CMakeLists.txt": 0.2680775424026286,
+        "LTO.cpp": 2.4545798936043624,
+        "LTOBackend.cpp": 1.5451895457232179,
+        "LTOCodeGenerator.cpp": 1.9912229880211192,
+        "LTOModule.cpp": 0.6937631912986119,
+        "SummaryBasedOptimizations.cpp": 0.04563294004101691,
+        "ThinLTOCodeGenerator.cpp": 1.3811670893142514,
+        "UpdateCompilerUsed.cpp": 0.06194222103094722
     },
     "subdirscores": {}
 }

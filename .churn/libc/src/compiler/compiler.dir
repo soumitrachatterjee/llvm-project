@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/libc/src/compiler",
-    "score.sum": 7.2452481782793106e-06,
+    "score.sum": 0.00037678786043591594,
     "sha.latest": "8f6352fcb309c1c0b394b173f589bc9322437aa0",
     "time.latest": 1717830124.0541475,
     "formatted_time": "2024-06-08 02:02:04.054148",
     "filescores": {
-        "CMakeLists.txt": 0,
-        "__stack_chk_fail.h": 6.099602068851199e-06
+        "CMakeLists.txt": 0.0,
+        "__stack_chk_fail.h": 0.02007646631636598
     },
     "subdirscores": {
-        "generic": 7.2452481782793106e-06
+        "generic": 0.00037678786043591594
     }
 }

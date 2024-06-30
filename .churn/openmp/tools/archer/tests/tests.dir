@@ -1,23 +1,23 @@
 {
     "directory name": "llvm-project/openmp/tools/archer/tests",
-    "score.sum": 7.686172363329836e-05,
+    "score.sum": 0.003997180453256064,
     "sha.latest": "f7fc98a1cff737d860ea99fe37e3ddb55ff5c1ed",
     "time.latest": 1717806434.2449715,
     "formatted_time": "2024-06-08 05:57:14.244973",
     "filescores": {
-        "CMakeLists.txt": 7.227286217616645e-06,
-        "deflake.bash": 0,
-        "lit.cfg": 2.4727975026598335e-05,
-        "lit.site.cfg.in": 8.485185608139729e-06
+        "CMakeLists.txt": 0.023788169567272203,
+        "deflake.bash": 0.0,
+        "lit.cfg": 0.08139061402524284,
+        "lit.site.cfg.in": 0.027928468304493
     },
     "subdirscores": {
-        "barrier": 6.099602068851199e-06,
-        "critical": 6.099602068851199e-06,
-        "ompt": 0,
-        "parallel": 1.6624286798819196e-05,
-        "races": 4.286548240261132e-05,
-        "reduction": 6.099602068851199e-06,
-        "task": 1.7851209807094982e-05,
-        "worksharing": 6.099602068851199e-06
+        "barrier": 0.00031720873550238375,
+        "critical": 0.00031720873550238375,
+        "ompt": 0.0,
+        "parallel": 0.0008645431184784808,
+        "races": 0.0022292118922100346,
+        "reduction": 0.00031720873550238375,
+        "task": 0.0009283490342777131,
+        "worksharing": 0.00031720873550238375
     }
 }

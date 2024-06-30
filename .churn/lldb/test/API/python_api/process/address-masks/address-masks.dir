@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/lldb/test/API/python_api/process/address-masks",
-    "score.sum": 1.2181207080113962e-05,
+    "score.sum": 0.0006334815371822082,
     "sha.latest": "04bbbba271ebe4c2421f34a4fbf34c328df9f111",
     "time.latest": 1717966159.6633203,
     "formatted_time": "2024-06-10 02:19:19.663325",
     "filescores": {
-        "main.c": 6.1194044466094085e-06,
-        "Makefile": 6.1194044466094085e-06,
-        "TestAddressMasks.py": 1.2181207080113962e-05
+        "main.c": 0.02014164462891146,
+        "Makefile": 0.02014164462891146,
+        "TestAddressMasks.py": 0.040093696420862815
     },
     "subdirscores": {}
 }

@@ -1,16 +1,16 @@
 {
     "directory name": "llvm-project/libcxx/test/std/containers/sequences/vector.bool/reference",
-    "score.sum": 8.677168912817192e-06,
+    "score.sum": 0.00045125464702548007,
     "sha.latest": "d6cd4257e510ef54d2945cb2119e84cc5525438a",
     "time.latest": 1717888213.984868,
     "formatted_time": "2024-06-09 04:40:13.984870",
     "filescores": {
-        "assign_bool.pass.cpp": 6.4479414538410385e-06,
-        "assign_copy.pass.cpp": 8.537920122234198e-06,
-        "ctor_copy.pass.cpp": 6.099602068851199e-06,
-        "flip.pass.cpp": 6.099602068851199e-06,
-        "operator_bool.pass.cpp": 6.099602068851199e-06,
-        "triviality.compile.pass.cpp": 0
+        "assign_bool.pass.cpp": 0.021223004049560974,
+        "assign_copy.pass.cpp": 0.028102040725115997,
+        "ctor_copy.pass.cpp": 0.02007646631636598,
+        "flip.pass.cpp": 0.02007646631636598,
+        "operator_bool.pass.cpp": 0.02007646631636598,
+        "triviality.compile.pass.cpp": 0.0
     },
     "subdirscores": {}
 }

@@ -1,22 +1,22 @@
 {
     "directory name": "llvm-project/libcxx/test/std/utilities/variant/variant.variant",
-    "score.sum": 0.00017623100381201082,
+    "score.sum": 0.009164862436026476,
     "sha.latest": "64addd65210db59c8cb3794f792720e03e25b5af",
     "time.latest": 1718009641.9725559,
     "formatted_time": "2024-06-10 14:24:01.972558",
     "filescores": {
-        "implicit_ctad.pass.cpp": 6.099602068851199e-06,
-        "variant_array.verify.cpp": 6.099602068851199e-06,
-        "variant_empty.verify.cpp": 6.099602068851199e-06,
-        "variant_reference.verify.cpp": 6.099602068851199e-06,
-        "variant_void.verify.cpp": 6.099602068851199e-06
+        "implicit_ctad.pass.cpp": 0.02007646631636598,
+        "variant_array.verify.cpp": 0.02007646631636598,
+        "variant_empty.verify.cpp": 0.02007646631636598,
+        "variant_reference.verify.cpp": 0.02007646631636598,
+        "variant_void.verify.cpp": 0.02007646631636598
     },
     "subdirscores": {
-        "variant.assign": 0.00010300737626633341,
-        "variant.ctor": 0.00011055462970321883,
-        "variant.dtor": 2.6010778862957544e-05,
-        "variant.mod": 5.646201636046098e-05,
-        "variant.status": 4.00820211934504e-05,
-        "variant.swap": 5.16759498495205e-05
+        "variant.assign": 0.005356880531555048,
+        "variant.ctor": 0.0057493741224822585,
+        "variant.dtor": 0.0013526859915477835,
+        "variant.mod": 0.002936297255369965,
+        "variant.status": 0.0020844584803462072,
+        "variant.swap": 0.002687398706115641
     }
 }

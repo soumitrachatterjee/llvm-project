@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/lldb/test/API/tools/lldb-server/memory-allocation",
-    "score.sum": 1.404580728497331e-05,
+    "score.sum": 0.0007304497437183957,
     "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
     "time.latest": 1717970069.9564345,
     "formatted_time": "2024-06-10 03:24:29.956437",
     "filescores": {
-        "main.c": 0,
-        "Makefile": 0,
-        "TestGdbRemoteMemoryAllocation.py": 1.404580728497331e-05
+        "main.c": 0.0,
+        "Makefile": 0.0,
+        "TestGdbRemoteMemoryAllocation.py": 0.046230913698939814
     },
     "subdirscores": {}
 }

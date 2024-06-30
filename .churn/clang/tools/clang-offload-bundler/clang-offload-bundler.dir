@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/clang/tools/clang-offload-bundler",
-    "score.sum": 0.0002713122905072644,
+    "score.sum": 0.014109548069956934,
     "sha.latest": "124d0b787b5d1ff4aa06bbd61a98d3fc344d0cc6",
     "time.latest": 1718082129.1757338,
     "formatted_time": "2024-06-11 10:32:09.175736",
     "filescores": {
-        "ClangOffloadBundler.cpp": 0.00025150570722228135,
-        "CMakeLists.txt": 5.7097947841157015e-05
+        "ClangOffloadBundler.cpp": 0.8278156185314776,
+        "CMakeLists.txt": 0.1879343953305645
     },
     "subdirscores": {}
 }

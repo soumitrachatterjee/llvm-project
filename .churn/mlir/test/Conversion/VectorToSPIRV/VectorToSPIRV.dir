@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/mlir/test/Conversion/VectorToSPIRV",
-    "score.sum": 0.00014110685179907848,
+    "score.sum": 0.007338237072625645,
     "sha.latest": "6b9c186b2d4c8bd315034a9655a28d32bcf745ab",
     "time.latest": 1717817158.3060393,
     "formatted_time": "2024-06-07 22:25:58.306043",
     "filescores": {
-        "vector-reduction-to-spirv-dot-prod.mlir": 7.012194021086471e-06,
-        "vector-to-spirv.mlir": 7.341379860656798e-05
+        "vector-reduction-to-spirv-dot-prod.mlir": 0.02308020678710931,
+        "vector-to-spirv.mlir": 0.2416370179962954
     },
     "subdirscores": {}
 }

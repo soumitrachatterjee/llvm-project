@@ -1,19 +1,19 @@
 {
     "directory name": "llvm-project/libclc/test",
-    "score.sum": 2.321697784940458e-05,
+    "score.sum": 0.001207394859970519,
     "sha.latest": "354686be7657d153808b63813ca54b47bd5e0ca0",
     "time.latest": 1717832086.646625,
     "formatted_time": "2024-06-08 02:34:46.646629",
     "filescores": {
-        "add_sat.cl": 0,
-        "as_type.cl": 0,
-        "convert.cl": 0,
-        "cos.cl": 0,
-        "cross.cl": 0,
-        "fabs.cl": 0,
-        "get_group_id.cl": 0,
-        "rsqrt.cl": 0,
-        "subsat.cl": 0
+        "add_sat.cl": 0.0,
+        "as_type.cl": 0.0,
+        "convert.cl": 0.0,
+        "cos.cl": 0.0,
+        "cross.cl": 0.0,
+        "fabs.cl": 0.0,
+        "get_group_id.cl": 0.0,
+        "rsqrt.cl": 0.0,
+        "subsat.cl": 0.0
     },
     "subdirscores": {}
 }

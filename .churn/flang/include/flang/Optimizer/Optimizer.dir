@@ -1,21 +1,21 @@
 {
     "directory name": "llvm-project/flang/include/flang/Optimizer",
-    "score.sum": 0.002668207037973936,
+    "score.sum": 0.13875963891094956,
     "sha.latest": "860a40057da2fbb626fdf17feec18070d95b687b",
     "time.latest": 1717790012.0245156,
     "formatted_time": "2024-06-07 14:53:32.024516",
     "filescores": {
-        ".clang-format": 0,
-        ".clang-tidy": 2.571839294425189e-05,
-        "CMakeLists.txt": 7.53735619710357e-06
+        ".clang-format": 0.0,
+        ".clang-tidy": 0.08465051389058634,
+        "CMakeLists.txt": 0.024808745898091435
     },
     "subdirscores": {
-        "Analysis": 3.21474601261297e-05,
-        "Builder": 0.0007341030687000289,
-        "CodeGen": 0.00018580951790020639,
-        "Dialect": 0.00103996507350679,
-        "HLFIR": 0.00021610337257901014,
-        "Support": 0.0002741072754523503,
-        "Transforms": 0.00022484702547575917
+        "Analysis": 0.0016718230240458122,
+        "Builder": 0.03817690129982748,
+        "CodeGen": 0.009662991380769348,
+        "Dialect": 0.05408320120067493,
+        "HLFIR": 0.011238417978715623,
+        "Support": 0.014254900771685865,
+        "Transforms": 0.011693130113661812
     }
 }

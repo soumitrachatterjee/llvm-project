@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/lldb/test/API/lang/cpp/static_members",
-    "score.sum": 4.774615409786007e-05,
+    "score.sum": 0.0024830303674771787,
     "sha.latest": "ab05d9134d18db34501985a01fbfc02609767587",
     "time.latest": 1717935456.7369127,
     "formatted_time": "2024-06-09 17:47:36.736916",
     "filescores": {
-        "main.cpp": 1.013013792386209e-05,
-        "Makefile": 0,
-        "TestCPPStaticMembers.py": 4.766319583932757e-05
+        "main.cpp": 0.033342728019446516,
+        "Makefile": 0.0,
+        "TestCPPStaticMembers.py": 0.15688048744773928
     },
     "subdirscores": {}
 }

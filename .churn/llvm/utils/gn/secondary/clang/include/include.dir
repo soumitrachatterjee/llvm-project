@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/llvm/utils/gn/secondary/clang/include",
-    "score.sum": 0.00020629865844499422,
+    "score.sum": 0.010728525540273438,
     "sha.latest": "1f780bfac919dc34deface0f8e276d3573240291",
     "time.latest": 1718083450.6450014,
     "formatted_time": "2024-06-11 00:24:10.645002",
     "filescores": {},
     "subdirscores": {
-        "clang": 0.00020629865844499422
+        "clang": 0.010728525540273438
     }
 }

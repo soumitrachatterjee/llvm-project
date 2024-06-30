@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/lldb/test/API/python_api/format",
-    "score.sum": 6.099602068851199e-06,
+    "score.sum": 0.00031720873550238375,
     "sha.latest": "9c2468821ec51defd09c246fea4a47886fff8c01",
     "time.latest": 1717965319.4085062,
     "formatted_time": "2024-06-10 02:05:19.408508",
     "filescores": {
-        "TestFormat.py": 6.099602068851199e-06
+        "TestFormat.py": 0.02007646631636598
     },
     "subdirscores": {}
 }

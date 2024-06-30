@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/clang-tools-extra/test/clang-tidy/checkers/google/Inputs",
-    "score.sum": 6.099602068851199e-06,
+    "score.sum": 0.00031720873550238375,
     "sha.latest": "6c2140943cbe257c85f7121349c5bca950a26e0d",
     "time.latest": 1717823455.4847548,
     "formatted_time": "2024-06-08 10:40:55.484757",
     "filescores": {
-        "google-namespaces.h": 0,
-        "system-header-throw.h": 0
+        "google-namespaces.h": 0.0,
+        "system-header-throw.h": 0.0
     },
     "subdirscores": {
-        "gtest": 0
+        "gtest": 0.0
     }
 }

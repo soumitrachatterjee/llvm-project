@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/openmp/runtime/test/ompt/worksharing/taskinfo",
-    "score.sum": 0,
+    "score.sum": 0.0,
     "sha.latest": "ba02586fbe188c4d66dcce72bc0c39e852228cb0",
     "time.latest": 1717803648.140865,
     "formatted_time": "2024-06-08 05:10:48.140868",
     "filescores": {
-        "sections_serialized.c": 0
+        "sections_serialized.c": 0.0
     },
     "subdirscores": {}
 }

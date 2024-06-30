@@ -1,15 +1,15 @@
 {
     "directory name": "llvm-project/libcxx/test/std/input.output/iostreams.requirements",
-    "score.sum": 2.5488921681069465e-05,
+    "score.sum": 0.0013255469003560965,
     "sha.latest": "7bfaa0f09d0564f315ea778023b34b8a113ec740",
     "time.latest": 1717908701.6151202,
     "formatted_time": "2024-06-09 10:21:41.615122",
     "filescores": {
-        "lit.local.cfg": 9.845454441214068e-06
+        "lit.local.cfg": 0.03240570978683169
     },
     "subdirscores": {
-        "iostream.limits.imbue": 1.2132863580760565e-05,
-        "iostreams.limits.pos": 1.2132863580760565e-05,
-        "iostreams.threadsafety": 1.2132863580760565e-05
+        "iostream.limits.imbue": 0.0006309674419795125,
+        "iostreams.limits.pos": 0.0006309674419795125,
+        "iostreams.threadsafety": 0.0006309674419795125
     }
 }

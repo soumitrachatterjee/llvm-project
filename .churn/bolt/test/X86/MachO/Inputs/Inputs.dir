@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/bolt/test/X86/MachO/Inputs",
-    "score.sum": 0,
+    "score.sum": 0.0,
     "sha.latest": "d755e10e7ac8abe7031c3f119df93541c0a78551",
     "time.latest": 1717796360.6804547,
     "formatted_time": "2024-06-08 03:09:20.680459",
     "filescores": {
-        "external_symbol.yaml": 0
+        "external_symbol.yaml": 0.0
     },
     "subdirscores": {}
 }

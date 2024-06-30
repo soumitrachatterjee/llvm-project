@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/clang-tools-extra/clang-include-fixer/plugin",
-    "score.sum": 1.4942614349309965e-05,
+    "score.sum": 0.0007770880377672095,
     "sha.latest": "732bccb8c1b4ea724919db6ff02b1188e20850e7",
     "time.latest": 1717789330.5291,
     "formatted_time": "2024-06-08 01:12:10.529106",
     "filescores": {
-        "CMakeLists.txt": 7.845739665615803e-06,
-        "IncludeFixerPlugin.cpp": 7.696922317314201e-06
+        "CMakeLists.txt": 0.025823771181417175,
+        "IncludeFixerPlugin.cpp": 0.02533394800168461
     },
     "subdirscores": {}
 }

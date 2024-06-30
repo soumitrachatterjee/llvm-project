@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/libc/test/integration/src/spawn/testdata",
-    "score.sum": 0,
+    "score.sum": 0.0,
     "sha.latest": "02a543db66518b93b126feed43080feca0b14bd2",
     "time.latest": 1717844399.335031,
     "formatted_time": "2024-06-08 05:59:59.335035",
     "filescores": {
-        "CMakeLists.txt": 0
+        "CMakeLists.txt": 0.0
     },
     "subdirscores": {}
 }

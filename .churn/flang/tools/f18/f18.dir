@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/flang/tools/f18",
-    "score.sum": 0.0005078595684820916,
+    "score.sum": 0.026411147762190283,
     "sha.latest": "e302950023cd99251371c5dc8a1e3b609dd5a8fe",
     "time.latest": 1717812651.0245016,
     "formatted_time": "2024-06-07 21:10:51.024504",
     "filescores": {
-        "CMakeLists.txt": 0.0002103901912358828,
-        "dump.cpp": 1.1216676965307071e-05,
-        "flang-to-external-fc.in": 6.099602068851199e-06
+        "CMakeLists.txt": 0.6924864179601354,
+        "dump.cpp": 0.03691900467171921,
+        "flang-to-external-fc.in": 0.02007646631636598
     },
     "subdirscores": {}
 }

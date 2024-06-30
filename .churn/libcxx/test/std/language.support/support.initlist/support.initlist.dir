@@ -1,16 +1,16 @@
 {
     "directory name": "llvm-project/libcxx/test/std/language.support/support.initlist",
-    "score.sum": 3.446857488690478e-05,
+    "score.sum": 0.001792532189973427,
     "sha.latest": "000940e2964d27ea2ce29c107198e718f7de3d63",
     "time.latest": 1717923288.559841,
     "formatted_time": "2024-06-09 14:24:48.559843",
     "filescores": {
-        "include_cxx03.pass.cpp": 1.633952076913769e-05,
-        "types.pass.cpp": 2.285637341849217e-05
+        "include_cxx03.pass.cpp": 0.05378053103207408,
+        "types.pass.cpp": 0.07523035205755078
     },
     "subdirscores": {
-        "support.initlist.access": 3.356192663442574e-05,
-        "support.initlist.cons": 2.331101852155543e-05,
-        "support.initlist.range": 3.0330984837538475e-05
+        "support.initlist.access": 0.0017453821066617647,
+        "support.initlist.cons": 0.0012122854286276286,
+        "support.initlist.range": 0.0015773575453373184
     }
 }

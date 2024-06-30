@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/llvm/test/Analysis/IVUsers",
-    "score.sum": 4.670309831483105e-05,
+    "score.sum": 0.002428786434470021,
     "sha.latest": "1aee1e1f4c4b504becc06521546de992a662694b",
     "time.latest": 1717887938.6207392,
     "formatted_time": "2024-06-08 18:05:38.620743",
     "filescores": {
-        "deep_recursion_in_scev.ll": 1.3393260066985281e-05,
-        "zext-fold-cache-invalidation.ll": 6.099602068851199e-06
+        "deep_recursion_in_scev.ll": 0.044083094530755554,
+        "zext-fold-cache-invalidation.ll": 0.02007646631636598
     },
     "subdirscores": {}
 }

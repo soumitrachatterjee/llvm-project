@@ -1,15 +1,15 @@
 {
     "directory name": "llvm-project/mlir/test/mlir-opt",
-    "score.sum": 0.000196007744024725,
+    "score.sum": 0.010193348341241557,
     "sha.latest": "52556c8e3561e7f3fa620e9d0c8f60cd4736b10f",
     "time.latest": 1717832836.1044667,
     "formatted_time": "2024-06-08 02:47:16.104470",
     "filescores": {
-        "async.mlir": 2.1997589681967297e-05,
-        "commandline.mlir": 0.00013035594617746664,
-        "debugcounter.mlir": 8.655262306350732e-06,
-        "nearmiss.mlir": 6.099602068851199e-06,
-        "outputfile.mlir": 0
+        "async.mlir": 0.07240371803048354,
+        "commandline.mlir": 0.42905860628754566,
+        "debugcounter.mlir": 0.02848826533129725,
+        "nearmiss.mlir": 0.02007646631636598,
+        "outputfile.mlir": 0.0
     },
     "subdirscores": {}
 }

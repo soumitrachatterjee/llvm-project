@@ -1,15 +1,15 @@
 {
     "directory name": "llvm-project/libc/src/string/memory_utils/aarch64",
-    "score.sum": 3.690331159743445e-05,
+    "score.sum": 0.001919150245464678,
     "sha.latest": "6f8d826b746242802a2368cac26896dfebd6f5a1",
     "time.latest": 1717840343.655803,
     "formatted_time": "2024-06-08 04:52:23.655807",
     "filescores": {
-        "inline_bcmp.h": 7.974428586427135e-06,
-        "inline_memcmp.h": 7.974428586427135e-06,
-        "inline_memcpy.h": 7.975113520872978e-06,
-        "inline_memmove.h": 6.099602068851199e-06,
-        "inline_memset.h": 6.099602068851199e-06
+        "inline_bcmp.h": 0.02624734287589736,
+        "inline_memcmp.h": 0.02624734287589736,
+        "inline_memcpy.h": 0.02624959729564076,
+        "inline_memmove.h": 0.02007646631636598,
+        "inline_memset.h": 0.02007646631636598
     },
     "subdirscores": {}
 }

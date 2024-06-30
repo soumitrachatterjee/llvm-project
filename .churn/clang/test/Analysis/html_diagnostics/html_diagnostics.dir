@@ -1,19 +1,19 @@
 {
     "directory name": "llvm-project/clang/test/Analysis/html_diagnostics",
-    "score.sum": 2.6516283331331475e-05,
+    "score.sum": 0.0013789746627420173,
     "sha.latest": "243bfed68367263cfc3fb3f396660acf60051fbf",
     "time.latest": 1717832279.3814957,
     "formatted_time": "2024-06-08 13:07:59.381499",
     "filescores": {
-        "control-arrows.cpp": 6.099602068851199e-06,
-        "counter.c": 0,
-        "notes-links.cpp": 0,
-        "td-hotfix.c": 6.099602068851199e-06,
-        "variable-popups-macro.c": 6.099602068851199e-06,
-        "variable-popups-multiple.c": 6.099602068851199e-06,
-        "variable-popups-simple.c": 6.099602068851199e-06
+        "control-arrows.cpp": 0.02007646631636598,
+        "counter.c": 0.0,
+        "notes-links.cpp": 0.0,
+        "td-hotfix.c": 0.02007646631636598,
+        "variable-popups-macro.c": 0.02007646631636598,
+        "variable-popups-multiple.c": 0.02007646631636598,
+        "variable-popups-simple.c": 0.02007646631636598
     },
     "subdirscores": {
-        "relevant_lines": 8.301107806501935e-06
+        "relevant_lines": 0.00043169765516611487
     }
 }

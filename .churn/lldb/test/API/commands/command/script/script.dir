@@ -1,24 +1,24 @@
 {
     "directory name": "llvm-project/lldb/test/API/commands/command/script",
-    "score.sum": 9.656628443571527e-05,
+    "score.sum": 0.005021912680901484,
     "sha.latest": "5784bf85bc5143266565586ece0113cd773a8616",
     "time.latest": 1717888788.971523,
     "formatted_time": "2024-06-09 04:49:48.971525",
     "filescores": {
-        "bug11569.py": 0,
-        "callables.py": 6.099602068851199e-06,
-        "cmd_file.lldb": 0,
-        "decorated.py": 6.099602068851199e-06,
-        "main.cpp": 6.099602068851199e-06,
-        "Makefile": 6.099602068851199e-06,
-        "mysto.py": 1.0757275168687244e-05,
-        "persistence.py": 6.277549905982914e-06,
-        "py_import": 0,
-        "TestCommandScript.py": 4.9090629097535735e-05,
-        "welcome.py": 1.0757275168687244e-05
+        "bug11569.py": 0.0,
+        "callables.py": 0.02007646631636598,
+        "cmd_file.lldb": 0.0,
+        "decorated.py": 0.02007646631636598,
+        "main.cpp": 0.02007646631636598,
+        "Makefile": 0.02007646631636598,
+        "mysto.py": 0.03540691181854509,
+        "persistence.py": 0.02066217071444287,
+        "py_import": 0.0,
+        "TestCommandScript.py": 0.16157879651836266,
+        "welcome.py": 0.03540691181854509
     },
     "subdirscores": {
-        "add": 8.12414251270704e-06,
-        "import": 2.4276456347659215e-05
+        "add": 0.00042249460610834915,
+        "import": 0.0012624928534018533
     }
 }

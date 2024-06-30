@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/clang-tools-extra/test/clang-tidy/checkers/readability/Inputs/identifier-naming/system",
-    "score.sum": 0,
+    "score.sum": 0.0,
     "sha.latest": "89a1d03e2b379e325daa5249411e414bbd995b5e",
     "time.latest": 1717831176.3418372,
     "formatted_time": "2024-06-08 12:49:36.341841",
     "filescores": {
-        "coroutines.h": 0,
-        "system-header.h": 0
+        "coroutines.h": 0.0,
+        "system-header.h": 0.0
     },
     "subdirscores": {}
 }

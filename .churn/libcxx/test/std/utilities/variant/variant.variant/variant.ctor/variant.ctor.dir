@@ -1,19 +1,19 @@
 {
     "directory name": "llvm-project/libcxx/test/std/utilities/variant/variant.variant/variant.ctor",
-    "score.sum": 0.00011055462970321883,
+    "score.sum": 0.0057493741224822585,
     "sha.latest": "5d73c7d1af78379827759dfb57887246e47a503e",
     "time.latest": 1718009584.1634116,
     "formatted_time": "2024-06-10 14:23:04.163414",
     "filescores": {
-        "conv.pass.cpp": 1.7034310741907974e-05,
-        "copy.pass.cpp": 7.29626602434447e-05,
-        "default.pass.cpp": 4.72461011401879e-05,
-        "in_place_index_args.pass.cpp": 4.545694750360279e-05,
-        "in_place_index_init_list_args.pass.cpp": 4.802462016574087e-05,
-        "in_place_type_args.pass.cpp": 4.545694750360279e-05,
-        "in_place_type_init_list_args.pass.cpp": 4.685784536834608e-05,
-        "move.pass.cpp": 6.14831117870239e-05,
-        "T.pass.cpp": 7.509482506904097e-05
+        "conv.pass.cpp": 0.0560673896382288,
+        "copy.pass.cpp": 0.24015212372794337,
+        "default.pass.cpp": 0.15550764581258167,
+        "in_place_index_args.pass.cpp": 0.14961875628925744,
+        "in_place_index_init_list_args.pass.cpp": 0.1580700934635492,
+        "in_place_type_args.pass.cpp": 0.14961875628925744,
+        "in_place_type_init_list_args.pass.cpp": 0.15422972573885707,
+        "move.pass.cpp": 0.20236789365671357,
+        "T.pass.cpp": 0.24717001355400642
     },
     "subdirscores": {}
 }

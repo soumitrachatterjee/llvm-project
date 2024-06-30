@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/lldb/test/API/python_api/lldbutil/process",
-    "score.sum": 1.2348687821940039e-05,
+    "score.sum": 0.0006421913437787649,
     "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
     "time.latest": 1717965922.2793846,
     "formatted_time": "2024-06-10 02:15:22.279388",
     "filescores": {
-        "main.cpp": 6.099602068851199e-06,
-        "Makefile": 0,
-        "TestPrintStackTraces.py": 1.2305137695991418e-05
+        "main.cpp": 0.02007646631636598,
+        "Makefile": 0.0,
+        "TestPrintStackTraces.py": 0.04050160644632761
     },
     "subdirscores": {}
 }

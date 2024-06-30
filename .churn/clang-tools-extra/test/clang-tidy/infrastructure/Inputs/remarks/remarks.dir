@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/clang-tools-extra/test/clang-tidy/infrastructure/Inputs/remarks",
-    "score.sum": 0,
+    "score.sum": 0.0,
     "sha.latest": "7f2f0247f855b143c12cd33d1f53d14bc63f3e82",
     "time.latest": 1717833964.4640176,
     "formatted_time": "2024-06-08 13:36:04.464020",
     "filescores": {
-        "A.h": 0,
-        "module.modulemap": 0
+        "A.h": 0.0,
+        "module.modulemap": 0.0
     },
     "subdirscores": {}
 }

@@ -1,19 +1,19 @@
 {
     "directory name": "llvm-project/libunwind/include",
-    "score.sum": 0.0002481797971948432,
+    "score.sum": 0.012906546813510625,
     "sha.latest": "cb1a6392ce541b74a700d9440f7c0a832ca77d2b",
     "time.latest": 1717826164.513398,
     "formatted_time": "2024-06-08 11:26:04.513403",
     "filescores": {
-        "CMakeLists.txt": 6.586937573217834e-06,
-        "libunwind.h": 0.00011945408084983301,
-        "libunwind.modulemap": 6.099602068851199e-06,
-        "unwind.h": 6.450728148286453e-05,
-        "unwind_arm_ehabi.h": 1.2278232647396204e-05,
-        "unwind_itanium.h": 7.464463177184831e-06,
-        "__libunwind_config.h": 0.00012422413496772247
+        "CMakeLists.txt": 0.021680501256308986,
+        "libunwind.h": 0.3931757848239126,
+        "libunwind.modulemap": 0.02007646631636598,
+        "unwind.h": 0.2123217628350933,
+        "unwind_arm_ehabi.h": 0.04041305012810147,
+        "unwind_itanium.h": 0.024568822991223448,
+        "__libunwind_config.h": 0.40887612555828556
     },
     "subdirscores": {
-        "mach-o": 3.146113657886914e-05
+        "mach-o": 0.001636130888376209
     }
 }

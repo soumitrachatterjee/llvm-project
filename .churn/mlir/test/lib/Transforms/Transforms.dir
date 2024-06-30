@@ -1,21 +1,21 @@
 {
     "directory name": "llvm-project/mlir/test/lib/Transforms",
-    "score.sum": 0.0007059731626552344,
+    "score.sum": 0.03671401047095892,
     "sha.latest": "914e60748729387f45919e42335723eb9d2df460",
     "time.latest": 1717832440.2450643,
     "formatted_time": "2024-06-08 02:40:40.245068",
     "filescores": {
-        "CMakeLists.txt": 0.00017539688567174037,
-        "TestCommutativityUtils.cpp": 0,
-        "TestConstantFold.cpp": 6.635801349849754e-05,
-        "TestControlFlowSink.cpp": 8.151150147061243e-06,
-        "TestDialectConversion.cpp": 6.099602068851199e-06,
-        "TestDialectConversion.pdll": 6.099602068851199e-06,
-        "TestInlining.cpp": 6.539255023925412e-05,
-        "TestIntRangeInference.cpp": 2.2457759496361756e-05,
-        "TestMakeIsolatedFromAbove.cpp": 0,
-        "TestTopologicalSort.cpp": 1.1193917596252083e-05,
-        "lit.local.cfg": 6.099602068851199e-06
+        "CMakeLists.txt": 0.5773080977145453,
+        "TestCommutativityUtils.cpp": 0.0,
+        "TestConstantFold.cpp": 0.2184133338184237,
+        "TestControlFlowSink.cpp": 0.02682901106005065,
+        "TestDialectConversion.cpp": 0.02007646631636598,
+        "TestDialectConversion.pdll": 0.02007646631636598,
+        "TestInlining.cpp": 0.2152355706815671,
+        "TestIntRangeInference.cpp": 0.07391833876708494,
+        "TestMakeIsolatedFromAbove.cpp": 0.0,
+        "TestTopologicalSort.cpp": 0.03684409360357797,
+        "lit.local.cfg": 0.02007646631636598
     },
     "subdirscores": {}
 }

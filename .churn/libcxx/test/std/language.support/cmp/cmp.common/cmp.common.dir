@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/libcxx/test/std/language.support/cmp/cmp.common",
-    "score.sum": 1.354986190984518e-05,
+    "score.sum": 0.0007046581914914027,
     "sha.latest": "4ff2fe1df0cea28e3ef2963116385c86bf3b5055",
     "time.latest": 1717920601.6088257,
     "formatted_time": "2024-06-09 13:40:01.608827",
     "filescores": {
-        "common_comparison_category.pass.cpp": 1.354986190984518e-05
+        "common_comparison_category.pass.cpp": 0.044598539897153
     },
     "subdirscores": {}
 }

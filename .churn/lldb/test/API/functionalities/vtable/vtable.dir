@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/lldb/test/API/functionalities/vtable",
-    "score.sum": 1.31182210008073e-05,
+    "score.sum": 0.0006822107817421315,
     "sha.latest": "80fcecb13c388ff087a27a4b0e7ca3dd8c98eaa4",
     "time.latest": 1717924268.2470438,
     "formatted_time": "2024-06-09 14:41:08.247045",
     "filescores": {
-        "main.cpp": 0,
-        "Makefile": 0,
-        "TestVTableValue.py": 1.31182210008073e-05
+        "main.cpp": 0.0,
+        "Makefile": 0.0,
+        "TestVTableValue.py": 0.04317782030376865
     },
     "subdirscores": {}
 }

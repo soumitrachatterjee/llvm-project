@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/llvm/tools/llvm-nm",
-    "score.sum": 0.0015706472669384979,
+    "score.sum": 0.08168123556946584,
     "sha.latest": "01706e767777aeac9d5a22617d522826b64fce3e",
     "time.latest": 1718081526.5523212,
     "formatted_time": "2024-06-10 23:52:06.552324",
     "filescores": {
-        "CMakeLists.txt": 6.413290613038836e-05,
-        "Opts.td": 1.1981163539940544e-05,
-        "llvm-nm.cpp": 0.001481237913459022
+        "CMakeLists.txt": 0.2110895293108691,
+        "Opts.td": 0.039435265370646025,
+        "llvm-nm.cpp": 4.8754037952651474
     },
     "subdirscores": {}
 }

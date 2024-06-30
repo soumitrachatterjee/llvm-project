@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/mlir/include/mlir/Dialect/Arith/Utils",
-    "score.sum": 2.2061553710156086e-05,
+    "score.sum": 0.0011473072303115936,
     "sha.latest": "dc3258c617420e83caff63c93d548e0923b10791",
     "time.latest": 1717793132.9314356,
     "formatted_time": "2024-06-07 15:45:32.931439",
     "filescores": {
-        "Utils.h": 2.2061553710156086e-05
+        "Utils.h": 0.07261425170840151
     },
     "subdirscores": {}
 }

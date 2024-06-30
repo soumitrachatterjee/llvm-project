@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/clang/test/CXX/class/class.dtor",
-    "score.sum": 0,
+    "score.sum": 0.0,
     "sha.latest": "21eb1af469c3257606aec2270d544e0e8ecf77b2",
     "time.latest": 1718082896.1547542,
     "formatted_time": "2024-06-11 10:44:56.154756",
     "filescores": {
-        "p4.cpp": 0
+        "p4.cpp": 0.0
     },
     "subdirscores": {}
 }

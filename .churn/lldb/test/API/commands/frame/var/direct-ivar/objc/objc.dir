@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/lldb/test/API/commands/frame/var/direct-ivar/objc",
-    "score.sum": 6.250344684484173e-06,
+    "score.sum": 0.0003250480787827338,
     "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
     "time.latest": 1717895255.2338386,
     "formatted_time": "2024-06-09 06:37:35.233840",
     "filescores": {
-        "main.m": 6.099602068851199e-06,
-        "Makefile": 6.099602068851199e-06,
-        "TestFrameVarDirectIvarObjC.py": 6.250344684484173e-06
+        "main.m": 0.02007646631636598,
+        "Makefile": 0.02007646631636598,
+        "TestFrameVarDirectIvarObjC.py": 0.020572626395504768
     },
     "subdirscores": {}
 }

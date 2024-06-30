@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/libcxx/test/libcxx/thread/thread.latch",
-    "score.sum": 4.952039534564695e-05,
+    "score.sum": 0.0025752994723030036,
     "sha.latest": "58780b811c23df3d928d8452ee21c862dde754a2",
     "time.latest": 1717865210.4517176,
     "formatted_time": "2024-06-08 22:16:50.451720",
     "filescores": {
-        "assert.arrive_and_wait.pass.cpp": 1.3759063749086535e-05,
-        "assert.count_down.pass.cpp": 1.3759063749086535e-05,
-        "assert.ctor.pass.cpp": 1.3759063749086535e-05
+        "assert.arrive_and_wait.pass.cpp": 0.045287114927366715,
+        "assert.count_down.pass.cpp": 0.045287114927366715,
+        "assert.ctor.pass.cpp": 0.045287114927366715
     },
     "subdirscores": {}
 }

@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/clang/test/Analysis/exploration_order",
-    "score.sum": 7.835132536247888e-06,
+    "score.sum": 0.000407464692985271,
     "sha.latest": "c41c5b2747434f41a15ecbc3f9efaa11f930e65f",
     "time.latest": 1717831158.0550325,
     "formatted_time": "2024-06-08 12:49:18.055035",
     "filescores": {
-        "noexprcrash.c": 0,
-        "prefer_unexplored.cpp": 0
+        "noexprcrash.c": 0.0,
+        "prefer_unexplored.cpp": 0.0
     },
     "subdirscores": {}
 }

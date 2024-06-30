@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/llvm/tools/llvm-dis-fuzzer",
-    "score.sum": 6.099602068851199e-06,
+    "score.sum": 0.00031720873550238375,
     "sha.latest": "13ac0392debf74875666207b98c114a359dbe918",
     "time.latest": 1718079316.1380394,
     "formatted_time": "2024-06-10 23:15:16.138042",
     "filescores": {
-        "CMakeLists.txt": 0,
-        "llvm-dis-fuzzer.cpp": 6.099602068851199e-06
+        "CMakeLists.txt": 0.0,
+        "llvm-dis-fuzzer.cpp": 0.02007646631636598
     },
     "subdirscores": {}
 }

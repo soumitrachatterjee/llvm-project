@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/lldb/test/API/commands/expression/static-initializers",
-    "score.sum": 1.4348820710463264e-05,
+    "score.sum": 0.0007462079037516151,
     "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
     "time.latest": 1717894003.4446957,
     "formatted_time": "2024-06-09 06:16:43.444697",
     "filescores": {
-        "main.cpp": 6.099602068851199e-06,
-        "Makefile": 0,
-        "TestStaticInitializers.py": 1.4320294179244531e-05
+        "main.cpp": 0.02007646631636598,
+        "Makefile": 0.0,
+        "TestStaticInitializers.py": 0.04713437048594264
     },
     "subdirscores": {}
 }

@@ -1,18 +1,18 @@
 {
     "directory name": "llvm-project/libcxx/test/std/ranges",
-    "score.sum": 0.0005041402258394959,
+    "score.sum": 0.026217724000567738,
     "sha.latest": "ee22e255648ee9b056280484b4b70d4542bc807e",
     "time.latest": 1717965462.656825,
     "formatted_time": "2024-06-10 02:07:42.656842",
     "filescores": {
-        "iterator_robust_against_adl.compile.pass.cpp": 6.103780854289043e-06,
-        "ranges_robust_against_no_unique_address.pass.cpp": 0
+        "iterator_robust_against_adl.compile.pass.cpp": 0.020090220532483556,
+        "ranges_robust_against_no_unique_address.pass.cpp": 0.0
     },
     "subdirscores": {
-        "range.access": 8.889433257906526e-05,
-        "range.adaptors": 0.0003304749206424018,
-        "range.factories": 8.980946936035972e-05,
-        "range.req": 4.2338416837280953e-05,
-        "range.utility": 7.337719806586276e-05
+        "range.access": 0.004622934170530977,
+        "range.adaptors": 0.017186290270894758,
+        "range.factories": 0.004670525698294494,
+        "range.req": 0.002201801939951168,
+        "range.utility": 0.0038159683124319088
     }
 }

@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/libcxx/test/std/utilities/meta/meta.logical",
-    "score.sum": 2.508656791357287e-05,
+    "score.sum": 0.001304622563264668,
     "sha.latest": "a0549ee2a39013c6ff75b86cda9d4ccfadb0ab88",
     "time.latest": 1718000679.8458476,
     "formatted_time": "2024-06-10 11:54:39.845850",
     "filescores": {
-        "conjunction.compile.pass.cpp": 6.099602068851199e-06,
-        "disjunction.compile.pass.cpp": 6.099602068851199e-06,
-        "negation.pass.cpp": 2.0151652235281376e-05
+        "conjunction.compile.pass.cpp": 0.02007646631636598,
+        "disjunction.compile.pass.cpp": 0.02007646631636598,
+        "negation.pass.cpp": 0.06632792807694508
     },
     "subdirscores": {}
 }

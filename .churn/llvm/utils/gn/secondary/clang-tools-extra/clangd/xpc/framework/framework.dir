@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/llvm/utils/gn/secondary/clang-tools-extra/clangd/xpc/framework",
-    "score.sum": 1.3537434324151769e-05,
+    "score.sum": 0.0007040118970776596,
     "sha.latest": "1afd889d0b4352ddaef33680ace94045938591f1",
     "time.latest": 1718082609.862573,
     "formatted_time": "2024-06-11 00:10:09.862576",
     "filescores": {
-        "BUILD.gn": 1.3537434324151769e-05
+        "BUILD.gn": 0.044557635260628975
     },
     "subdirscores": {}
 }

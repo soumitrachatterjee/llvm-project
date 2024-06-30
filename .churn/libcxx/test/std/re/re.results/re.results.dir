@@ -1,21 +1,21 @@
 {
     "directory name": "llvm-project/libcxx/test/std/re/re.results",
-    "score.sum": 0.0001836093431631381,
+    "score.sum": 0.0095485716795574,
     "sha.latest": "cdcfc5ec9b33da441218041b6cd4f4ad19620eca",
     "time.latest": 1717967693.0528157,
     "formatted_time": "2024-06-10 02:44:53.052817",
     "filescores": {
-        "range_concept_conformance.compile.pass.cpp": 1.9934771682938306e-05,
-        "types.pass.cpp": 1.412973324667397e-05
+        "range_concept_conformance.compile.pass.cpp": 0.06561407903324663,
+        "types.pass.cpp": 0.046507150857386
     },
     "subdirscores": {
-        "re.results.acc": 1.7191474216961586e-05,
-        "re.results.all": 1.8555517552888327e-05,
-        "re.results.const": 5.51628662693019e-05,
-        "re.results.form": 3.0571151385798045e-05,
-        "re.results.nonmember": 1.2964179810982022e-05,
-        "re.results.size": 4.402472217045566e-05,
-        "re.results.state": 1.412973324667397e-05,
-        "re.results.swap": 1.412973324667397e-05
+        "re.results.acc": 0.0008940396006540297,
+        "re.results.all": 0.0009649764350369431,
+        "re.results.const": 0.0028687351827965985,
+        "re.results.form": 0.0015898473645457605,
+        "re.results.nonmember": 0.0006741998966895986,
+        "re.results.size": 0.002289497952964689,
+        "re.results.state": 0.000734814298633025,
+        "re.results.swap": 0.000734814298633025
     }
 }

@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/lldb/test/API/commands/process/attach/attach_denied",
-    "score.sum": 1.4755240764683633e-05,
+    "score.sum": 0.0007673437073707411,
     "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
     "time.latest": 1717896323.096995,
     "formatted_time": "2024-06-09 06:55:23.097026",
     "filescores": {
-        "entitlements.plist": 0,
-        "main.cpp": 0,
-        "Makefile": 0,
-        "TestAttachDenied.py": 1.4755240764683633e-05
+        "entitlements.plist": 0.0,
+        "main.cpp": 0.0,
+        "Makefile": 0.0,
+        "TestAttachDenied.py": 0.048565970510570336
     },
     "subdirscores": {}
 }

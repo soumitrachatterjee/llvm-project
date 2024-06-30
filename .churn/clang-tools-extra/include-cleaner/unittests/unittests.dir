@@ -1,18 +1,18 @@
 {
     "directory name": "llvm-project/clang-tools-extra/include-cleaner/unittests",
-    "score.sum": 0.00031769343271317494,
+    "score.sum": 0.016521591233465152,
     "sha.latest": "bd595d54219e434acce2c05e97440847d30b5240",
     "time.latest": 1717813946.5693045,
     "formatted_time": "2024-06-08 08:02:26.569308",
     "filescores": {
-        "AnalysisTest.cpp": 7.571751137685995e-05,
-        "CMakeLists.txt": 4.216702856795571e-05,
-        "FindHeadersTest.cpp": 5.006735703586363e-05,
-        "IncludeSpellerTest.cpp": 9.052444967929206e-06,
-        "LocateSymbolTest.cpp": 1.1526260385692743e-05,
-        "RecordTest.cpp": 5.025364477796837e-05,
-        "TypesTest.cpp": 1.637526357793533e-05,
-        "WalkASTTest.cpp": 0.0001160009574778832
+        "AnalysisTest.cpp": 0.2492195473667826,
+        "CMakeLists.txt": 0.13879018977794513,
+        "FindHeadersTest.cpp": 0.16479363665592375,
+        "IncludeSpellerTest.cpp": 0.029795567715389767,
+        "LocateSymbolTest.cpp": 0.037937979523081755,
+        "RecordTest.cpp": 0.1654067913400001,
+        "TypesTest.cpp": 0.053898176296269695,
+        "WalkASTTest.cpp": 0.38181004091461135
     },
     "subdirscores": {}
 }

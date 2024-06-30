@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/compiler-rt/test/hwasan/TestCases/Posix",
-    "score.sum": 4.41824861450189e-05,
+    "score.sum": 0.00229770244078441,
     "sha.latest": "71e5652f47b0d02a54aa9582319648bc4c23842c",
     "time.latest": 1717829569.9938648,
     "formatted_time": "2024-06-08 12:22:49.993869",
     "filescores": {
-        "lit.local.cfg.py": 6.099602068851199e-06,
-        "posix_memalign-alignment.cpp": 2.643736774197277e-05
+        "lit.local.cfg.py": 0.02007646631636598,
+        "posix_memalign-alignment.cpp": 0.08701697536558513
     },
     "subdirscores": {}
 }

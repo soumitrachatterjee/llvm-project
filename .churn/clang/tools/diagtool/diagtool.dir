@@ -1,20 +1,20 @@
 {
     "directory name": "llvm-project/clang/tools/diagtool",
-    "score.sum": 0.0002664421243399776,
+    "score.sum": 0.013856275932828404,
     "sha.latest": "a87dc23a6271cadd6d3f93561f2d8b1661399e6d",
     "time.latest": 1718082333.4718661,
     "formatted_time": "2024-06-11 10:35:33.471868",
     "filescores": {
-        "CMakeLists.txt": 4.506418341375166e-05,
-        "DiagnosticNames.cpp": 7.91008593422108e-05,
-        "DiagnosticNames.h": 2.838779532221695e-05,
-        "DiagTool.cpp": 3.56521656414279e-05,
-        "DiagTool.h": 1.812497834044167e-05,
-        "diagtool_main.cpp": 7.4864986420796755e-06,
-        "FindDiagnosticID.cpp": 2.6005593022854583e-05,
-        "ListWarnings.cpp": 3.429723466243539e-05,
-        "ShowEnabledWarnings.cpp": 3.9313975987842724e-05,
-        "TreeView.cpp": 6.375139779642077e-05
+        "CMakeLists.txt": 0.14832599736315596,
+        "DiagnosticNames.cpp": 0.2603556298023545,
+        "DiagnosticNames.h": 0.09343668818869694,
+        "DiagTool.cpp": 0.11734691780318646,
+        "DiagTool.h": 0.059657255183086795,
+        "diagtool_main.cpp": 0.02464135137319544,
+        "FindDiagnosticID.cpp": 0.08559581534452373,
+        "ListWarnings.cpp": 0.11288724554035848,
+        "ShowEnabledWarnings.cpp": 0.1293995420968502,
+        "TreeView.cpp": 0.20983381801530332
     },
     "subdirscores": {}
 }

@@ -1,26 +1,26 @@
 {
     "directory name": "llvm-project/openmp/runtime/test/ompt/synchronization",
-    "score.sum": 4.854726763871666e-05,
+    "score.sum": 0.002524692136625476,
     "sha.latest": "124d36e09332e28b807cdd38eb587a74335ce91e",
     "time.latest": 1717802977.8558712,
     "formatted_time": "2024-06-08 04:59:37.855874",
     "filescores": {
-        "critical.c": 6.099602068851199e-06,
-        "flush.c": 6.099602068851199e-06,
-        "lock.c": 1.527172038059022e-05,
-        "masked.c": 0,
-        "master.c": 1.227001700259238e-05,
-        "nest_lock.c": 1.671306649025421e-05,
-        "ordered.c": 6.099602068851199e-06,
-        "ordered_dependences.c": 1.2360390004949204e-05,
-        "taskgroup.c": 6.37612650064355e-06,
-        "taskwait.c": 1.7091549738603712e-05,
-        "test_lock.c": 6.353024736064427e-06,
-        "test_nest_lock.c": 6.099602068851199e-06,
-        "test_nest_lock_parallel.c": 6.500529137578168e-06
+        "critical.c": 0.02007646631636598,
+        "flush.c": 0.02007646631636598,
+        "lock.c": 0.05026593150717206,
+        "masked.c": 0.0,
+        "master.c": 0.040386008836832084,
+        "nest_lock.c": 0.055010033875532674,
+        "ordered.c": 0.02007646631636598,
+        "ordered_dependences.c": 0.04068346603440749,
+        "taskgroup.c": 0.020986629533222678,
+        "taskwait.c": 0.0562557882872182,
+        "test_lock.c": 0.020910591491201894,
+        "test_nest_lock.c": 0.02007646631636598,
+        "test_nest_lock_parallel.c": 0.02139609318706319
     },
     "subdirscores": {
-        "barrier": 2.2965036184218034e-05,
-        "reduction": 6.099602068851199e-06
+        "barrier": 0.0011942926778720658,
+        "reduction": 0.00031720873550238375
     }
 }

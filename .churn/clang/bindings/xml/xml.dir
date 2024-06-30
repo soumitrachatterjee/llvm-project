@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/clang/bindings/xml",
-    "score.sum": 1.337639802211714e-05,
+    "score.sum": 0.0006956372324418721,
     "sha.latest": "be1a9b3863b6649ef64f25c22394335c47f2ef31",
     "time.latest": 1717788858.183504,
     "formatted_time": "2024-06-08 01:04:18.183510",
     "filescores": {
-        "comment-xml-schema.rng": 1.337639802211714e-05
+        "comment-xml-schema.rng": 0.04402759414368128
     },
     "subdirscores": {}
 }

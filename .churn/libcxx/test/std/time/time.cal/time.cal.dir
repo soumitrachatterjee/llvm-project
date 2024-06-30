@@ -1,29 +1,29 @@
 {
     "directory name": "llvm-project/libcxx/test/std/time/time.cal",
-    "score.sum": 8.280876612235961e-05,
+    "score.sum": 0.004306455354575875,
     "sha.latest": "766bf140ffd6ce420426b80aa2cce0cb0d25ab7d",
     "time.latest": 1717983379.8917367,
     "formatted_time": "2024-06-10 07:06:19.891739",
     "filescores": {
-        "euclidian.h": 6.099602068851199e-06
+        "euclidian.h": 0.02007646631636598
     },
     "subdirscores": {
-        "time.cal.day": 3.829193344975257e-05,
-        "time.cal.last": 0,
-        "time.cal.md": 3.39297924740328e-05,
-        "time.cal.mdlast": 3.822949883498986e-05,
-        "time.cal.month": 4.7634560889692234e-05,
-        "time.cal.mwd": 3.822949883498986e-05,
-        "time.cal.mwdlast": 3.822949883498986e-05,
-        "time.cal.operators": 1.0270542211582177e-05,
-        "time.cal.wdidx": 2.967214091482851e-05,
-        "time.cal.wdlast": 2.6770663482255833e-05,
-        "time.cal.weekday": 2.9550079345395925e-05,
-        "time.cal.year": 3.931773231534173e-05,
-        "time.cal.ym": 4.400252367900181e-05,
-        "time.cal.ymd": 3.757371397706761e-05,
-        "time.cal.ymdlast": 4.293933498838179e-05,
-        "time.cal.ymwd": 3.7709832380447915e-05,
-        "time.cal.ymwdlast": 3.517581839474468e-05
+        "time.cal.day": 0.001991365281280575,
+        "time.cal.last": 0.0,
+        "time.cal.md": 0.001764512905113713,
+        "time.cal.mdlast": 0.0019881183800931033,
+        "time.cal.month": 0.0024772269822638483,
+        "time.cal.mwd": 0.0019881183800931033,
+        "time.cal.mwdlast": 0.0019881183800931033,
+        "time.cal.operators": 0.000534117745893124,
+        "time.cal.wdidx": 0.0015430944827215596,
+        "time.cal.wdlast": 0.0013922036578634678,
+        "time.cal.weekday": 0.0015367466922171806,
+        "time.cal.year": 0.002044711771323753,
+        "time.cal.ym": 0.0022883435243110403,
+        "time.cal.ymd": 0.0019540144036049607,
+        "time.cal.ymdlast": 0.002233052582976644,
+        "time.cal.ymwd": 0.0019610932172927204,
+        "time.cal.ymwdlast": 0.001829312264522851
     }
 }

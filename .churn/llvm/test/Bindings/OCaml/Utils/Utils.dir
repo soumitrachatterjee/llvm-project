@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/llvm/test/Bindings/OCaml/Utils",
-    "score.sum": 6.099602068851199e-06,
+    "score.sum": 0.00031720873550238375,
     "sha.latest": "f84bac329ba6c9f0c022bcf77237e912362e247a",
     "time.latest": 1717937564.3387415,
     "formatted_time": "2024-06-09 07:52:44.338745",
     "filescores": {
-        "Testsuite.ml": 0,
-        "lit.local.cfg": 6.099602068851199e-06
+        "Testsuite.ml": 0.0,
+        "lit.local.cfg": 0.02007646631636598
     },
     "subdirscores": {}
 }

@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/compiler-rt/lib/ubsan_minimal",
-    "score.sum": 6.231173137655435e-05,
+    "score.sum": 0.0032405106585327984,
     "sha.latest": "0a71e25e2448ee471b1ebe74e910c5de9b9c82b4",
     "time.latest": 1717808589.3136292,
     "formatted_time": "2024-06-08 06:33:09.313631",
     "filescores": {
-        "CMakeLists.txt": 3.913097446242768e-05,
-        "ubsan.syms.extra": 0,
-        "ubsan_minimal_handlers.cpp": 1.636779165215796e-05
+        "CMakeLists.txt": 0.1287972037935696,
+        "ubsan.syms.extra": 0.0,
+        "ubsan_minimal_handlers.cpp": 0.05387358291058741
     },
     "subdirscores": {}
 }

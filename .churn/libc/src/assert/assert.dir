@@ -1,16 +1,16 @@
 {
     "directory name": "llvm-project/libc/src/assert",
-    "score.sum": 7.272312603795445e-05,
+    "score.sum": 0.00378195341136815,
     "sha.latest": "4df364bc93af49ae413ec1ae8328f34ac70730c4",
     "time.latest": 1717830078.0140219,
     "formatted_time": "2024-06-08 02:01:18.014023",
     "filescores": {
-        "CMakeLists.txt": 1.8588593137659647e-05,
-        "__assert_fail.h": 1.217021599492495e-05,
-        "assert.h": 2.821401086622486e-05
+        "CMakeLists.txt": 0.06118321486948132,
+        "__assert_fail.h": 0.04005751993769446,
+        "assert.h": 0.0928646873044343
     },
     "subdirscores": {
-        "generic": 6.099602068851199e-06,
-        "gpu": 1.184137137401854e-05
+        "generic": 0.00031720873550238375,
+        "gpu": 0.0006158084409060454
     }
 }

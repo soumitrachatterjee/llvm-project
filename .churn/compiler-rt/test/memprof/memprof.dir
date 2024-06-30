@@ -1,15 +1,15 @@
 {
     "directory name": "llvm-project/compiler-rt/test/memprof",
-    "score.sum": 8.172309068231287e-05,
+    "score.sum": 0.0042499949937825215,
     "sha.latest": "ae86239e86e9e289167fad2d7465d254852ecb82",
     "time.latest": 1717832047.5156732,
     "formatted_time": "2024-06-08 13:04:07.515676",
     "filescores": {
-        "CMakeLists.txt": 1.2198503102096659e-05,
-        "lit.cfg.py": 2.8134972203713783e-05,
-        "lit.site.cfg.py.in": 0
+        "CMakeLists.txt": 0.040150625217007734,
+        "lit.cfg.py": 0.09260453639168907,
+        "lit.site.cfg.py.in": 0.0
     },
     "subdirscores": {
-        "TestCases": 6.965979276944321e-05
+        "TestCases": 0.0036226453021573715
     }
 }

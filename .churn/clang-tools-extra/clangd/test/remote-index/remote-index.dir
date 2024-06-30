@@ -1,17 +1,17 @@
 {
     "directory name": "llvm-project/clang-tools-extra/clangd/test/remote-index",
-    "score.sum": 1.020398223299838e-05,
+    "score.sum": 0.0005306563058838731,
     "sha.latest": "dd3c26a045c081620375a878159f536758baba6e",
     "time.latest": 1717804673.5165918,
     "formatted_time": "2024-06-08 05:27:53.516595",
     "filescores": {
-        "log-prefix.test": 0,
-        "pipeline.test": 6.099602068851199e-06,
-        "pipeline_helper.py": 7.420745443334116e-06,
-        "public-log.test": 0,
-        "result-limiting.test": 0
+        "log-prefix.test": 0.0,
+        "pipeline.test": 0.02007646631636598,
+        "pipeline_helper.py": 0.024424928750062393,
+        "public-log.test": 0.0,
+        "result-limiting.test": 0.0
     },
     "subdirscores": {
-        "Inputs": 0
+        "Inputs": 0.0
     }
 }

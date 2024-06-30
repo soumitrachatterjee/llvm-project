@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/libcxx/test/libcxx/localization/locales/locale.convenience/conversions",
-    "score.sum": 4.1216989238525906e-05,
+    "score.sum": 0.0021434822944163957,
     "sha.latest": "233e7c5de2d2abda024577e79dcd195562de68c8",
     "time.latest": 1717860707.8722804,
     "formatted_time": "2024-06-08 21:01:47.872284",
     "filescores": {},
     "subdirscores": {
-        "conversions.string": 4.1216989238525906e-05
+        "conversions.string": 0.0021434822944163957
     }
 }

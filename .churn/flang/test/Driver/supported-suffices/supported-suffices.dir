@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/flang/test/Driver/supported-suffices",
-    "score.sum": 8.5090434029244e-06,
+    "score.sum": 0.0004425113093787292,
     "sha.latest": "b1fdcd5fbc09f9f3e1c8a8b954aa8f9067401b31",
     "time.latest": 1717794861.8125982,
     "formatted_time": "2024-06-07 16:14:21.812602",
     "filescores": {
-        "f03-suffix.f03": 8.5090434029244e-06,
-        "f08-suffix.f08": 8.5090434029244e-06
+        "f03-suffix.f03": 0.028006994773592225,
+        "f08-suffix.f08": 0.028006994773592225
     },
     "subdirscores": {}
 }

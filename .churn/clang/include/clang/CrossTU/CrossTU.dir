@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/clang/include/clang/CrossTU",
-    "score.sum": 0.00014529499301662132,
+    "score.sum": 0.007556040621894294,
     "sha.latest": "2d861436a9eb789bb70a3644393b21e548240ac6",
     "time.latest": 1717798905.9800334,
     "formatted_time": "2024-06-08 03:51:45.980036",
     "filescores": {
-        "CrossTranslationUnit.h": 0.00014390640028349658,
-        "CrossTUDiagnostic.h": 1.1667816152492772e-05
+        "CrossTranslationUnit.h": 0.4736590953621404,
+        "CrossTUDiagnostic.h": 0.038403901652422134
     },
     "subdirscores": {}
 }

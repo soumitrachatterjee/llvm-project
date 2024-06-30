@@ -1,17 +1,17 @@
 {
     "directory name": "llvm-project/lldb/test/API/functionalities/limit-debug-info",
-    "score.sum": 2.4345713215842784e-05,
+    "score.sum": 0.0012660945446816099,
     "sha.latest": "80fcecb13c388ff087a27a4b0e7ca3dd8c98eaa4",
     "time.latest": 1717911043.4680576,
     "formatted_time": "2024-06-09 11:00:43.468059",
     "filescores": {
-        "foo.cpp": 0,
-        "main.cpp": 1.065806241048868e-05,
-        "Makefile": 6.642191789388612e-06,
-        "one.cpp": 1.065806241048868e-05,
-        "onetwo.h": 1.0807704572207001e-05,
-        "TestLimitDebugInfo.py": 2.4345308379648977e-05,
-        "two.cpp": 7.720508445867302e-06
+        "foo.cpp": 0.0,
+        "main.cpp": 0.03508035910647573,
+        "Makefile": 0.02186236712186352,
+        "one.cpp": 0.03508035910647573,
+        "onetwo.h": 0.035572897109010036,
+        "TestLimitDebugInfo.py": 0.08013109021349975,
+        "two.cpp": 0.02541158029803521
     },
     "subdirscores": {}
 }

@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/mlir/test/Conversion/AMDGPUToROCDL",
-    "score.sum": 4.741358159907448e-05,
+    "score.sum": 0.0024657349930229376,
     "sha.latest": "2ebd633f145615a42d7e8b1d07cbdad294c244aa",
     "time.latest": 1717815213.9355288,
     "formatted_time": "2024-06-07 21:53:33.935532",
     "filescores": {
-        "8-bit-floats.mlir": 0,
-        "amdgpu-to-rocdl.mlir": 2.943252774321395e-05,
-        "mfma.mlir": 9.016824332311436e-06,
-        "wmma.mlir": 6.099602068851199e-06
+        "8-bit-floats.mlir": 0.0,
+        "amdgpu-to-rocdl.mlir": 0.0968753609124263,
+        "mfma.mlir": 0.02967832457672672,
+        "wmma.mlir": 0.02007646631636598
     },
     "subdirscores": {}
 }

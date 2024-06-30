@@ -1,18 +1,18 @@
 {
     "directory name": "llvm-project/mlir/test/Interfaces/TilingInterface",
-    "score.sum": 6.975272836970523e-05,
+    "score.sum": 0.0036274784017447715,
     "sha.latest": "47bc565ca7990a2de20af4030baf08ac62739aca",
     "time.latest": 1717828634.454175,
     "formatted_time": "2024-06-08 01:37:14.454178",
     "filescores": {
-        "lower-to-loops-using-interface.mlir": 3.161710460583828e-05,
-        "tile-and-fuse-using-interface.mlir": 3.0060133835556576e-05,
-        "tile-and-fuse-using-scfforall.mlir": 0,
-        "tile-fuse-and-yield-using-interface.mlir": 1.60938835137332e-05,
-        "tile-fuse-and-yield-using-scfforall.mlir": 0,
-        "tile-pad-using-interface.mlir": 1.6703477076443677e-05,
-        "tile-using-interface.mlir": 3.0221371459977487e-05,
-        "tile-using-scfforall.mlir": 1.1327692193189123e-05
+        "lower-to-loops-using-interface.mlir": 0.10406576174561544,
+        "tile-and-fuse-using-interface.mlir": 0.09894108789438923,
+        "tile-and-fuse-using-scfforall.mlir": 0.0,
+        "tile-fuse-and-yield-using-interface.mlir": 0.05297203106297665,
+        "tile-fuse-and-yield-using-scfforall.mlir": 0.0,
+        "tile-pad-using-interface.mlir": 0.05497847090778696,
+        "tile-using-interface.mlir": 0.09947179165163073,
+        "tile-using-scfforall.mlir": 0.03728440448928427
     },
     "subdirscores": {}
 }

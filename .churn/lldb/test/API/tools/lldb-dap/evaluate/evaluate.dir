@@ -1,15 +1,15 @@
 {
     "directory name": "llvm-project/lldb/test/API/tools/lldb-dap/evaluate",
-    "score.sum": 1.4966849992868285e-05,
+    "score.sum": 0.0007783484081586617,
     "sha.latest": "737bc9f76a14b955bdfeb3811ce6c9156572be9f",
     "time.latest": 1717969100.6298075,
     "formatted_time": "2024-06-10 03:08:20.629809",
     "filescores": {
-        "foo.cpp": 0,
-        "foo.h": 0,
-        "main.cpp": 0,
-        "Makefile": 0,
-        "TestDAP_evaluate.py": 1.4966849992868285e-05
+        "foo.cpp": 0.0,
+        "foo.h": 0.0,
+        "main.cpp": 0.0,
+        "Makefile": 0.0,
+        "TestDAP_evaluate.py": 0.04926246931392285
     },
     "subdirscores": {}
 }

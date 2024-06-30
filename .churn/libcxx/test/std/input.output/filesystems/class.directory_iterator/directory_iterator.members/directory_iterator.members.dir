@@ -1,18 +1,18 @@
 {
     "directory name": "llvm-project/libcxx/test/std/input.output/filesystems/class.directory_iterator/directory_iterator.members",
-    "score.sum": 6.848458359658033e-05,
+    "score.sum": 0.0035615287552963316,
     "sha.latest": "ac8c9f1e39e1a773fd81ce23dbf1c80ea186f226",
     "time.latest": 1717902674.1899612,
     "formatted_time": "2024-06-09 08:41:14.189963",
     "filescores": {
-        "copy.pass.cpp": 3.811504950371265e-05,
-        "copy_assign.pass.cpp": 3.811504950371265e-05,
-        "ctor.pass.cpp": 5.1280193801354525e-05,
-        "default_ctor.pass.cpp": 1.7681070507548858e-05,
-        "equal.pass.cpp": 6.2132966360078735e-06,
-        "increment.pass.cpp": 4.495450898107845e-05,
-        "move.pass.cpp": 3.811504950371265e-05,
-        "move_assign.pass.cpp": 4.2269823582748106e-05
+        "copy.pass.cpp": 0.12545334906610223,
+        "copy_assign.pass.cpp": 0.12545334906610223,
+        "ctor.pass.cpp": 0.1687856145250988,
+        "default_ctor.pass.cpp": 0.05819615976177154,
+        "equal.pass.cpp": 0.02045068501491539,
+        "increment.pass.cpp": 0.1479650106908328,
+        "move.pass.cpp": 0.12545334906610223,
+        "move_assign.pass.cpp": 0.13912853326800806
     },
     "subdirscores": {}
 }

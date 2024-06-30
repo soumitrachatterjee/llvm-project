@@ -1,30 +1,30 @@
 {
     "directory name": "llvm-project/llvm/include/llvm/ProfileData",
-    "score.sum": 0.0025328340091491986,
+    "score.sum": 0.131719588296187,
     "sha.latest": "08ddd2ce4048b0adbddc3ab9b770ccf43f81d65d",
     "time.latest": 1717820507.5278559,
     "formatted_time": "2024-06-07 23:21:47.527860",
     "filescores": {
-        "FunctionId.h": 0,
-        "GCOV.h": 8.659635212620518e-05,
-        "HashKeyMap.h": 0,
-        "InstrProf.h": 0.0007207537239820232,
-        "InstrProfCorrelator.h": 5.4797634285126704e-05,
-        "InstrProfData.inc": 0.000339829189523676,
-        "InstrProfReader.h": 0.00040590246847985737,
-        "InstrProfWriter.h": 0.00019738412929164252,
-        "ItaniumManglingCanonicalizer.h": 0,
-        "MIBEntryDef.inc": 6.10572703963858e-06,
-        "MemProf.h": 3.073236029789177e-05,
-        "MemProfData.inc": 4.003154854179327e-05,
-        "ProfileCommon.h": 5.0916271056469985e-05,
-        "RawMemProfReader.h": 4.125442574238713e-05,
-        "SampleProf.h": 0.0005470126051503457,
-        "SampleProfReader.h": 0.00030664851933803934,
-        "SampleProfWriter.h": 0.000178809987707248,
-        "SymbolRemappingReader.h": 0
+        "FunctionId.h": 0.0,
+        "GCOV.h": 0.2850265848423395,
+        "HashKeyMap.h": 0.0,
+        "InstrProf.h": 2.3723167017427667,
+        "InstrProfCorrelator.h": 0.1803630542654546,
+        "InstrProfData.inc": 1.1185269464758703,
+        "InstrProfReader.h": 1.3360030940019112,
+        "InstrProfWriter.h": 0.649677762315934,
+        "ItaniumManglingCanonicalizer.h": 0.0,
+        "MIBEntryDef.inc": 0.020096626282264336,
+        "MemProf.h": 0.10115368008904435,
+        "MemProfData.inc": 0.13176138817243366,
+        "ProfileCommon.h": 0.1675877851180388,
+        "RawMemProfReader.h": 0.13578641351829174,
+        "SampleProf.h": 1.800458459087133,
+        "SampleProfReader.h": 1.0093148044677527,
+        "SampleProfWriter.h": 0.5885421138481739,
+        "SymbolRemappingReader.h": 0.0
     },
     "subdirscores": {
-        "Coverage": 0.00035088440300353564
+        "Coverage": 0.018247681820532817
     }
 }

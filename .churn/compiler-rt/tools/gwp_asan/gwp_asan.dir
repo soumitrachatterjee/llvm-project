@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/compiler-rt/tools/gwp_asan",
-    "score.sum": 6.099602068851199e-06,
+    "score.sum": 0.00031720873550238375,
     "sha.latest": "6a42cbf6d2116b52cb59aa3e23bef93a30cf2dc8",
     "time.latest": 1717865752.2051804,
     "formatted_time": "2024-06-08 22:25:52.205184",
     "filescores": {
-        "CMakeLists.txt": 6.099602068851199e-06,
-        "options_parser_fuzzer.cpp": 0,
-        "stack_trace_compressor_fuzzer.cpp": 0
+        "CMakeLists.txt": 0.02007646631636598,
+        "options_parser_fuzzer.cpp": 0.0,
+        "stack_trace_compressor_fuzzer.cpp": 0.0
     },
     "subdirscores": {}
 }

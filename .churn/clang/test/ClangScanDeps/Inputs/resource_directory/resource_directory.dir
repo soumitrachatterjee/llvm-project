@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/clang/test/ClangScanDeps/Inputs/resource_directory",
-    "score.sum": 6.099602068851199e-06,
+    "score.sum": 0.00031720873550238375,
     "sha.latest": "47eec789ed9cc7d4cb9f1eaa0cafe3e509af015c",
     "time.latest": 1717869288.021903,
     "formatted_time": "2024-06-08 23:24:48.021906",
     "filescores": {
-        "cdb.json.template": 0,
-        "mod.h": 0,
-        "module.modulemap": 0,
-        "tu.c": 0
+        "cdb.json.template": 0.0,
+        "mod.h": 0.0,
+        "module.modulemap": 0.0,
+        "tu.c": 0.0
     },
     "subdirscores": {}
 }

@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/clang/test/CXX/dcl.dcl/basic.namespace",
-    "score.sum": 0.00012486483681048907,
+    "score.sum": 0.0064935739325740266,
     "sha.latest": "0f1c1be1968076d6f96f8a7bcc4a15cf195ecd97",
     "time.latest": 1718085310.053039,
     "formatted_time": "2024-06-11 11:25:10.053042",
     "filescores": {},
     "subdirscores": {
-        "namespace.def": 4.556201974755858e-05,
-        "namespace.udecl": 9.612116959183649e-05,
-        "namespace.udir": 1.9861048331749683e-05
+        "namespace.def": 0.002369444843764983,
+        "namespace.udecl": 0.004998764561534622,
+        "namespace.udir": 0.0010328703341548654
     }
 }

@@ -1,16 +1,16 @@
 {
     "directory name": "llvm-project/libcxx/test/std/input.output/iostream.format/input.streams",
-    "score.sum": 0.00013600898535770642,
+    "score.sum": 0.00707312342269008,
     "sha.latest": "54daf6af57fb15d7a51e3f4bb889199fd1453bee",
     "time.latest": 1717905807.0778184,
     "formatted_time": "2024-06-09 09:33:27.077820",
     "filescores": {},
     "subdirscores": {
-        "iostreamclass": 3.0241889740414077e-05,
-        "istream": 3.170341555982918e-05,
-        "istream.formatted": 6.287294841474038e-05,
-        "istream.manip": 2.9850748518955382e-05,
-        "istream.rvalue": 4.830228053852396e-05,
-        "istream.unformatted": 7.940640010219628e-05
+        "iostreamclass": 0.0015727241704418288,
+        "istream": 0.0016487305642766427,
+        "istream.formatted": 0.0032696966521461347,
+        "istream.manip": 0.00155238293984002,
+        "istream.rvalue": 0.002511951625459449,
+        "istream.unformatted": 0.004129515906593892
     }
 }

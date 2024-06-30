@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/lldb/test/API/commands/expression/call-restarts",
-    "score.sum": 2.9351749154798632e-05,
+    "score.sum": 0.0015264325654493725,
     "sha.latest": "9c2468821ec51defd09c246fea4a47886fff8c01",
     "time.latest": 1717889283.2879303,
     "formatted_time": "2024-06-09 04:58:03.287932",
     "filescores": {
-        "lotta-signals.c": 0,
-        "Makefile": 0,
-        "TestCallThatRestarts.py": 2.9351749154798632e-05
+        "lotta-signals.c": 0.0,
+        "Makefile": 0.0,
+        "TestCallThatRestarts.py": 0.0966094831402212
     },
     "subdirscores": {}
 }

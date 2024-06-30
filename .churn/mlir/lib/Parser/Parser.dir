@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/mlir/lib/Parser",
-    "score.sum": 0.0007896958006382292,
+    "score.sum": 0.041067991571321336,
     "sha.latest": "7c800a41b04304719f98af376e488962fc3725da",
     "time.latest": 1717811165.3298995,
     "formatted_time": "2024-06-07 20:46:05.329903",
     "filescores": {
-        "CMakeLists.txt": 5.260121795603247e-05,
-        "Parser.cpp": 0.000478501866237156
+        "CMakeLists.txt": 0.17313368455411507,
+        "Parser.cpp": 1.5749595615239598
     },
     "subdirscores": {}
 }

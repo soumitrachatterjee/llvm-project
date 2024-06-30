@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/mlir/include/mlir/Conversion/VectorToSPIRV",
-    "score.sum": 3.488534767231632e-05,
+    "score.sum": 0.001814206385561911,
     "sha.latest": "b194ef692cf3965bac141af31a69428b4f6ae2df",
     "time.latest": 1717792464.2805371,
     "formatted_time": "2024-06-07 15:34:24.280541",
     "filescores": {
-        "VectorToSPIRV.h": 1.035696146088934e-05,
-        "VectorToSPIRVPass.h": 3.266893557554169e-05
+        "VectorToSPIRV.h": 0.03408930378774811,
+        "VectorToSPIRVPass.h": 0.10752779890728525
     },
     "subdirscores": {}
 }

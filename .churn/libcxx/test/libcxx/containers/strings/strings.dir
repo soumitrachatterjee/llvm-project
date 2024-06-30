@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/libcxx/test/libcxx/containers/strings",
-    "score.sum": 1.7919599956323573e-05,
+    "score.sum": 0.0009319056519902694,
     "sha.latest": "a16f81f5e3313e88f96de35e5edfe8bee463d308",
     "time.latest": 1717847112.4405613,
     "formatted_time": "2024-06-08 17:15:12.440564",
     "filescores": {},
     "subdirscores": {
-        "basic.string": 1.7919599956323573e-05
+        "basic.string": 0.0009319056519902694
     }
 }

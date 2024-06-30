@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/lldb/test/API/functionalities/tail_call_frames/disambiguate_tail_call_seq",
-    "score.sum": 9.80735579765098e-06,
+    "score.sum": 0.000510029817696085,
     "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
     "time.latest": 1717920640.5071826,
     "formatted_time": "2024-06-09 13:40:40.507185",
     "filescores": {
-        "main.cpp": 6.567086391080576e-06,
-        "TestDisambiguateTailCallSeq.py": 9.763805671702358e-06
+        "main.cpp": 0.021615162307141476,
+        "TestDisambiguateTailCallSeq.py": 0.032136967866888154
     },
     "subdirscores": {}
 }

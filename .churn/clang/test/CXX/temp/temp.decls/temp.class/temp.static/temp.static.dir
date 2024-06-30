@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/clang/test/CXX/temp/temp.decls/temp.class/temp.static",
-    "score.sum": 2.120428438024284e-05,
+    "score.sum": 0.0011027250892051376,
     "sha.latest": "53851923d5c9f9ebb3a4d708db0c1cab30ca1d33",
     "time.latest": 1718113126.2744164,
     "formatted_time": "2024-06-11 19:08:46.274418",
     "filescores": {
-        "p1-inst.cpp": 7.770534300660527e-06,
-        "p1.cpp": 2.120428438024284e-05
+        "p1-inst.cpp": 0.025576237332603495,
+        "p1.cpp": 0.06979260225786639
     },
     "subdirscores": {}
 }

@@ -1,15 +1,15 @@
 {
     "directory name": "llvm-project/lldb/source/Host/macosx/objcxx",
-    "score.sum": 0.0003570475212623235,
+    "score.sum": 0.018568193704349846,
     "sha.latest": "3b6a8f823bf873aa74cdb738f517e7333e20de7a",
     "time.latest": 1717866263.3829823,
     "formatted_time": "2024-06-08 22:34:23.382984",
     "filescores": {
-        "CMakeLists.txt": 1.601288517662195e-05,
-        "Host.mm": 0.00014566894670749202,
-        "HostInfoMacOSX.mm": 0.0002176775096811666,
-        "HostThreadMacOSX.mm": 2.0735328894279254e-05,
-        "PosixSpawnResponsible.h": 6.099602068851199e-06
+        "CMakeLists.txt": 0.05270543000140905,
+        "Host.mm": 0.47946040887619396,
+        "HostInfoMacOSX.mm": 0.7164721799249201,
+        "HostThreadMacOSX.mm": 0.06824906402183908,
+        "PosixSpawnResponsible.h": 0.02007646631636598
     },
     "subdirscores": {}
 }

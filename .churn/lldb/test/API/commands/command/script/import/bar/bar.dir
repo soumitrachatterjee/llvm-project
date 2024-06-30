@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/lldb/test/API/commands/command/script/import/bar",
-    "score.sum": 1.0757275168687244e-05,
+    "score.sum": 0.000559430207937015,
     "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
     "time.latest": 1717888509.2853825,
     "formatted_time": "2024-06-09 04:45:09.285384",
     "filescores": {
-        "bar.py": 1.0757275168687244e-05,
-        "barutil.py": 0
+        "bar.py": 0.03540691181854509,
+        "barutil.py": 0.0
     },
     "subdirscores": {}
 }

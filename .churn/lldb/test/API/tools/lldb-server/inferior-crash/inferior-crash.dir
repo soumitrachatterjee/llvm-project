@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/lldb/test/API/tools/lldb-server/inferior-crash",
-    "score.sum": 1.5325542654457614e-05,
+    "score.sum": 0.0007970021570971011,
     "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
     "time.latest": 1717969933.7643452,
     "formatted_time": "2024-06-10 03:22:13.764348",
     "filescores": {
-        "main.cpp": 0,
-        "Makefile": 0,
-        "TestGdbRemoteAbort.py": 1.5325542654457614e-05,
-        "TestGdbRemoteSegFault.py": 1.5325542654457614e-05
+        "main.cpp": 0.0,
+        "Makefile": 0.0,
+        "TestGdbRemoteAbort.py": 0.05044308422241017,
+        "TestGdbRemoteSegFault.py": 0.05044308422241017
     },
     "subdirscores": {}
 }

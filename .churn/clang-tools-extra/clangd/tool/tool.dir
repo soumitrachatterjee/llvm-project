@@ -1,15 +1,15 @@
 {
     "directory name": "llvm-project/clang-tools-extra/clangd/tool",
-    "score.sum": 0.0007267310596036796,
+    "score.sum": 0.037793521260085734,
     "sha.latest": "525fe4492bbecf357d3580d879f2092bf99c12a2",
     "time.latest": 1717805098.4783142,
     "formatted_time": "2024-06-08 05:34:58.478316",
     "filescores": {
-        "Check.cpp": 0.00012955497650834344,
-        "ClangdMain.cpp": 0.0005596368671487103,
-        "ClangdMain.h": 0,
-        "ClangdToolMain.cpp": 0,
-        "CMakeLists.txt": 6.523010616391509e-05
+        "Check.cpp": 0.42642226371944575,
+        "ClangdMain.cpp": 1.8420104436130487,
+        "ClangdMain.h": 0.0,
+        "ClangdToolMain.cpp": 0.0,
+        "CMakeLists.txt": 0.21470089596508166
     },
     "subdirscores": {}
 }

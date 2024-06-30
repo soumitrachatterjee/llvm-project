@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/libcxx/test/std/strings/strings.general",
-    "score.sum": 1.661240308499097e-05,
+    "score.sum": 0.000863925108025672,
     "sha.latest": "a40bada91aeda276a772acfbcae6e8de26755a11",
     "time.latest": 1717974341.2475584,
     "formatted_time": "2024-06-10 04:35:41.247561",
     "filescores": {
-        "nothing_to_do.pass.cpp": 1.661240308499097e-05
+        "nothing_to_do.pass.cpp": 0.05467870644757166
     },
     "subdirscores": {}
 }

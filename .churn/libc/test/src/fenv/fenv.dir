@@ -1,20 +1,20 @@
 {
     "directory name": "llvm-project/libc/test/src/fenv",
-    "score.sum": 0.0001094290975847526,
+    "score.sum": 0.005690841022119985,
     "sha.latest": "69c0b2febe01108f50db6e8ed21cd8b2e6088caf",
     "time.latest": 1717845617.5629263,
     "formatted_time": "2024-06-08 06:20:17.562930",
     "filescores": {
-        "CMakeLists.txt": 4.321014357251855e-05,
-        "enabled_exceptions_test.cpp": 6.654025544785911e-05,
-        "exception_flags_test.cpp": 1.8789890733616066e-05,
-        "exception_status_test.cpp": 2.1786784235719578e-05,
-        "feclearexcept_test.cpp": 1.5794320461143578e-05,
-        "feenableexcept_test.cpp": 3.9166815702089835e-05,
-        "feholdexcept_test.cpp": 5.747972272349103e-05,
-        "feupdateenv_test.cpp": 1.7095225343231323e-05,
-        "getenv_and_setenv_test.cpp": 2.107761702009971e-05,
-        "rounding_mode_test.cpp": 1.4601515125944975e-05
+        "CMakeLists.txt": 0.1422235388746258,
+        "enabled_exceptions_test.cpp": 0.2190131720236848,
+        "exception_flags_test.cpp": 0.06184577356743678,
+        "exception_status_test.cpp": 0.07170986482610625,
+        "feclearexcept_test.cpp": 0.051986037637986544,
+        "feenableexcept_test.cpp": 0.12891517303692215,
+        "feholdexcept_test.cpp": 0.18919098395373957,
+        "feupdateenv_test.cpp": 0.05626788631454285,
+        "getenv_and_setenv_test.cpp": 0.069375684406408,
+        "rounding_mode_test.cpp": 0.048059991993732475
     },
     "subdirscores": {}
 }

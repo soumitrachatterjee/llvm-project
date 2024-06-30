@@ -1,16 +1,16 @@
 {
     "directory name": "llvm-project/clang-tools-extra/clang-tidy/tool",
-    "score.sum": 0.0006894180080025788,
+    "score.sum": 0.035853062557613426,
     "sha.latest": "8dfc023e80c35aded33b3e5e4739d3a487b95a7a",
     "time.latest": 1717800474.2259595,
     "formatted_time": "2024-06-08 04:17:54.225962",
     "filescores": {
-        "clang-tidy-diff.py": 8.605875485384921e-05,
-        "ClangTidyMain.cpp": 0.00035664780892789643,
-        "ClangTidyMain.h": 6.099602068851199e-06,
-        "ClangTidyToolMain.cpp": 0,
-        "CMakeLists.txt": 0.0001607582577569302,
-        "run-clang-tidy.py": 0.00017101636301081758
+        "clang-tidy-diff.py": 0.28325711637400425,
+        "ClangTidyMain.cpp": 1.173884401297543,
+        "ClangTidyMain.h": 0.02007646631636598,
+        "ClangTidyToolMain.cpp": 0.0,
+        "CMakeLists.txt": 0.5291259512512018,
+        "run-clang-tidy.py": 0.5628898758932883
     },
     "subdirscores": {}
 }

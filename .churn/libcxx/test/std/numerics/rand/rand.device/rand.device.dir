@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/libcxx/test/std/numerics/rand/rand.device",
-    "score.sum": 9.639485949675606e-05,
+    "score.sum": 0.005012997757024972,
     "sha.latest": "164c204a19f7859d570003d4c5e82faf48cb65a9",
     "time.latest": 1717953082.025459,
     "formatted_time": "2024-06-09 22:41:22.025463",
     "filescores": {
-        "ctor.pass.cpp": 8.282797525313141e-05,
-        "entropy.pass.cpp": 2.7818137025611405e-05,
-        "eval.pass.cpp": 6.428916027171526e-05
+        "ctor.pass.cpp": 0.27262320335849016,
+        "entropy.pass.cpp": 0.09156169282432007,
+        "eval.pass.cpp": 0.21160383023898413
     },
     "subdirscores": {}
 }

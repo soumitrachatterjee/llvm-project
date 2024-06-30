@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/lldb/test/API/commands/expression/no-deadlock",
-    "score.sum": 2.6597791845145263e-05,
+    "score.sum": 0.0013832134987033966,
     "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
     "time.latest": 1717893093.0142202,
     "formatted_time": "2024-06-09 06:01:33.014222",
     "filescores": {
-        "locking.cpp": 0,
-        "Makefile": 6.099602068851199e-06,
-        "TestExprDoesntBlock.py": 2.2436693144075804e-05
+        "locking.cpp": 0.0,
+        "Makefile": 0.02007646631636598,
+        "TestExprDoesntBlock.py": 0.07384900015986046
     },
     "subdirscores": {}
 }

@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/llvm/utils/gn/secondary/clang-tools-extra/clangd/unittests",
-    "score.sum": 0.00015455326571421242,
+    "score.sum": 0.008037515469300567,
     "sha.latest": "ccb77728d0c02ca3146adf377c308a6327aa40c0",
     "time.latest": 1718082544.2591326,
     "formatted_time": "2024-06-11 00:09:04.259133",
     "filescores": {
-        "BUILD.gn": 0.0001519543094654905
+        "BUILD.gn": 0.5001482951141341
     },
     "subdirscores": {
-        "xpc": 9.434613868599246e-06
+        "xpc": 0.0004906454390680069
     }
 }

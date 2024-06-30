@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/llvm/test/Analysis/UniformityAnalysis",
-    "score.sum": 6.192229217700538e-05,
+    "score.sum": 0.0032202579412818092,
     "sha.latest": "1aee1e1f4c4b504becc06521546de992a662694b",
     "time.latest": 1717893891.94349,
     "formatted_time": "2024-06-08 19:44:51.943491",
     "filescores": {},
     "subdirscores": {
-        "AMDGPU": 5.93742384413897e-05,
-        "NVPTX": 7.605295169901297e-06
+        "AMDGPU": 0.003087746853780817,
+        "NVPTX": 0.00039551204107010575
     }
 }

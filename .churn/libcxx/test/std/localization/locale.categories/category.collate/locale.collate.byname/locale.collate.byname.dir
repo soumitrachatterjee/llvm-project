@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/libcxx/test/std/localization/locale.categories/category.collate/locale.collate.byname",
-    "score.sum": 6.50461913466583e-05,
+    "score.sum": 0.003382715769556037,
     "sha.latest": "bce3b505931cee9dc79d1c56c021983b4a8fb819",
     "time.latest": 1717925361.175152,
     "formatted_time": "2024-06-09 14:59:21.175154",
     "filescores": {
-        "compare.pass.cpp": 4.985726255249554e-05,
-        "hash.pass.cpp": 3.5506245204738135e-05,
-        "transform.pass.cpp": 2.5883854236043267e-05,
-        "types.pass.cpp": 1.8406051871789724e-05
+        "compare.pass.cpp": 0.16410212354228418,
+        "hash.pass.cpp": 0.11686662963044943,
+        "transform.pass.cpp": 0.08519511959007545,
+        "types.pass.cpp": 0.0605823914822805
     },
     "subdirscores": {}
 }

@@ -1,21 +1,21 @@
 {
     "directory name": "llvm-project/clang/utils/perf-training",
-    "score.sum": 0.00016278866791048118,
+    "score.sum": 0.008465796115733618,
     "sha.latest": "dd0356d741aefa25ece973d6cc4b55dcb73b84b4",
     "time.latest": 1718082343.976421,
     "formatted_time": "2024-06-11 10:35:43.976423",
     "filescores": {
-        "bolt.lit.cfg": 2.998132940917998e-05,
-        "bolt.lit.site.cfg.in": 2.998132940917998e-05,
-        "CMakeLists.txt": 8.306403958586067e-05,
-        "lit.cfg": 2.578919919663566e-05,
-        "lit.site.cfg.in": 4.3938148327054786e-05,
-        "order-files.lit.cfg": 1.2437039414465598e-05,
-        "order-files.lit.site.cfg.in": 4.3444006000252046e-05,
-        "perf-helper.py": 8.728466907303854e-05,
-        "README.txt": 0
+        "bolt.lit.cfg": 0.09868170795552245,
+        "bolt.lit.site.cfg.in": 0.09868170795552245,
+        "CMakeLists.txt": 0.27340019463940285,
+        "lit.cfg": 0.0848835683300276,
+        "lit.site.cfg.in": 0.14461972189896427,
+        "order-files.lit.cfg": 0.04093575286737708,
+        "order-files.lit.site.cfg.in": 0.14299328272021727,
+        "perf-helper.py": 0.2872921378804062,
+        "README.txt": 0.0
     },
     "subdirscores": {
-        "cxx": 6.099602068851199e-06
+        "cxx": 0.00031720873550238375
     }
 }

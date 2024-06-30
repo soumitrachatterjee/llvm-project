@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/libc/src/sys/resource/linux",
-    "score.sum": 1.434004030898485e-05,
+    "score.sum": 0.0007457512805131265,
     "sha.latest": "b6bc9d72f65a5086f310f321e969d96e9a559e75",
     "time.latest": 1717841647.4449556,
     "formatted_time": "2024-06-08 05:14:07.444960",
     "filescores": {
-        "CMakeLists.txt": 0,
-        "getrlimit.cpp": 1.434004030898485e-05,
-        "setrlimit.cpp": 1.434004030898485e-05
+        "CMakeLists.txt": 0.0,
+        "getrlimit.cpp": 0.04719936366158513,
+        "setrlimit.cpp": 0.04719936366158513
     },
     "subdirscores": {}
 }

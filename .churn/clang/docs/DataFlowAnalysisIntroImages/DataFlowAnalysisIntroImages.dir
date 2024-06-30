@@ -1,17 +1,17 @@
 {
     "directory name": "llvm-project/clang/docs/DataFlowAnalysisIntroImages",
-    "score.sum": 0,
+    "score.sum": 0.0,
     "sha.latest": "ab31d003e16e483bff298ea2f28fec0f23e8eb79",
     "time.latest": 1717791064.3193521,
     "formatted_time": "2024-06-08 01:41:04.319358",
     "filescores": {
-        "CFGExample.svg": 0,
-        "CFGJoinRule.svg": 0,
-        "DefinitiveInitializationLattice.svg": 0,
-        "IntegerSetsFiniteLattice.svg": 0,
-        "IntegerSetsInfiniteLattice.svg": 0,
-        "OutputParameterIdentificationLattice.svg": 0,
-        "UniquePtrLattice.svg": 0
+        "CFGExample.svg": 0.0,
+        "CFGJoinRule.svg": 0.0,
+        "DefinitiveInitializationLattice.svg": 0.0,
+        "IntegerSetsFiniteLattice.svg": 0.0,
+        "IntegerSetsInfiniteLattice.svg": 0.0,
+        "OutputParameterIdentificationLattice.svg": 0.0,
+        "UniquePtrLattice.svg": 0.0
     },
     "subdirscores": {}
 }

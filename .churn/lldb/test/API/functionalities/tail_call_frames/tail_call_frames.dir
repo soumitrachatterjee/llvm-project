@@ -1,22 +1,22 @@
 {
     "directory name": "llvm-project/lldb/test/API/functionalities/tail_call_frames",
-    "score.sum": 4.7525095534221365e-05,
+    "score.sum": 0.0024715342556567215,
     "sha.latest": "80fcecb13c388ff087a27a4b0e7ca3dd8c98eaa4",
     "time.latest": 1717920806.017912,
     "formatted_time": "2024-06-09 13:43:26.017914",
     "filescores": {},
     "subdirscores": {
-        "ambiguous_tail_call_seq1": 6.711381813855588e-06,
-        "ambiguous_tail_call_seq2": 6.711381813855588e-06,
-        "cross_dso": 2.0421844760736558e-05,
-        "cross_object": 2.0421844760736558e-05,
-        "disambiguate_call_site": 9.80735579765098e-06,
-        "disambiguate_paths_to_common_sink": 9.80735579765098e-06,
-        "disambiguate_tail_call_seq": 9.80735579765098e-06,
-        "inlining_and_tail_calls": 9.80735579765098e-06,
-        "sbapi_support": 1.633549164043383e-05,
-        "thread_step_out_message": 9.80735579765098e-06,
-        "thread_step_out_or_return": 1.6253060871465856e-05,
-        "unambiguous_sequence": 3.410803073349032e-05
+        "ambiguous_tail_call_seq1": 0.00034902423381330273,
+        "ambiguous_tail_call_seq2": 0.00034902423381330273,
+        "cross_dso": 0.0010620344540605896,
+        "cross_object": 0.0010620344540605896,
+        "disambiguate_call_site": 0.000510029817696085,
+        "disambiguate_paths_to_common_sink": 0.000510029817696085,
+        "disambiguate_tail_call_seq": 0.000510029817696085,
+        "inlining_and_tail_calls": 0.000510029817696085,
+        "sbapi_support": 0.0008495243769316433,
+        "thread_step_out_message": 0.000510029817696085,
+        "thread_step_out_or_return": 0.0008452375792527668,
+        "unambiguous_sequence": 0.0017737821545274397
     }
 }

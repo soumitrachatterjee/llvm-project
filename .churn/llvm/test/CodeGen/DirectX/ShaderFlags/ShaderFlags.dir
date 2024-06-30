@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/llvm/test/CodeGen/DirectX/ShaderFlags",
-    "score.sum": 6.565516259787596e-06,
+    "score.sum": 0.0003414385212640287,
     "sha.latest": "78a73dda601279b33691e6fb67047155c2390af6",
     "time.latest": 1718045622.0987232,
     "formatted_time": "2024-06-10 13:53:42.098727",
     "filescores": {
-        "double-extensions.ll": 6.565516259787596e-06,
-        "doubles.ll": 6.565516259787596e-06,
-        "no_flags.ll": 0
+        "double-extensions.ll": 0.0216099943162365,
+        "doubles.ll": 0.0216099943162365,
+        "no_flags.ll": 0.0
     },
     "subdirscores": {}
 }

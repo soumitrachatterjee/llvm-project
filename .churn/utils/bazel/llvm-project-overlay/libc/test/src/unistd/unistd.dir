@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/utils/bazel/llvm-project-overlay/libc/test/src/unistd",
-    "score.sum": 0,
+    "score.sum": 0.0,
     "sha.latest": "7a7d5481ad5c925d4f31bee3ab66bd1d7d514b73",
     "time.latest": 1717789232.2399092,
     "formatted_time": "2024-06-08 01:10:32.239915",
     "filescores": {
-        "BUILD.bazel": 0
+        "BUILD.bazel": 0.0
     },
     "subdirscores": {}
 }

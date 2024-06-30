@@ -1,20 +1,20 @@
 {
     "directory name": "llvm-project/libcxx/include/__locale_dir/locale_base_api",
-    "score.sum": 2.8967320589148164e-05,
+    "score.sum": 0.0015064404253352312,
     "sha.latest": "00e80fbfb9151a68e7383dcec7da69c867225e54",
     "time.latest": 1717834825.7886899,
     "formatted_time": "2024-06-08 13:50:25.788692",
     "filescores": {
-        "android.h": 0,
-        "bsd_locale_defaults.h": 6.099602068851199e-06,
-        "bsd_locale_fallbacks.h": 1.1842020309098722e-05,
-        "fuchsia.h": 0,
-        "ibm.h": 6.099602068851199e-06,
-        "locale_guard.h": 2.0784599146066002e-05,
-        "musl.h": 0,
-        "newlib.h": 0,
-        "openbsd.h": 0,
-        "win32.h": 0
+        "android.h": 0.0,
+        "bsd_locale_defaults.h": 0.02007646631636598,
+        "bsd_locale_fallbacks.h": 0.038977283955528505,
+        "fuchsia.h": 0.0,
+        "ibm.h": 0.02007646631636598,
+        "locale_guard.h": 0.06841123403542848,
+        "musl.h": 0.0,
+        "newlib.h": 0.0,
+        "openbsd.h": 0.0,
+        "win32.h": 0.0
     },
     "subdirscores": {}
 }

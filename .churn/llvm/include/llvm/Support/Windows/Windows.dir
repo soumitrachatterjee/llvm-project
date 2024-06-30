@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/llvm/include/llvm/Support/Windows",
-    "score.sum": 1.5346695367845805e-05,
+    "score.sum": 0.000798102200245912,
     "sha.latest": "e66500c7749578cf5e1372d0b52781259cb1fa28",
     "time.latest": 1717822678.7752142,
     "formatted_time": "2024-06-07 23:57:58.775218",
     "filescores": {
-        "WindowsSupport.h": 1.5346695367845805e-05
+        "WindowsSupport.h": 0.05051270708190889
     },
     "subdirscores": {}
 }

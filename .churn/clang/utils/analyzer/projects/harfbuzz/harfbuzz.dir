@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/clang/utils/analyzer/projects/harfbuzz",
-    "score.sum": 0,
+    "score.sum": 0.0,
     "sha.latest": "089a0ad8bc993923817d7957f08bd67dbecd56af",
     "time.latest": 1718081802.8482366,
     "formatted_time": "2024-06-11 10:26:42.848240",
     "filescores": {
-        "cleanup_run_static_analyzer.sh": 0,
-        "run_static_analyzer.cmd": 0
+        "cleanup_run_static_analyzer.sh": 0.0,
+        "run_static_analyzer.cmd": 0.0
     },
     "subdirscores": {}
 }

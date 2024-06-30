@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/lldb/test/API/tools/lldb-dap/disconnect",
-    "score.sum": 0,
+    "score.sum": 0.0,
     "sha.latest": "01263c6c6fb495a94fe0ccbb1420bb1ec8460748",
     "time.latest": 1717969039.7244542,
     "formatted_time": "2024-06-10 03:07:19.724457",
     "filescores": {
-        "main.cpp": 0,
-        "Makefile": 0,
-        "TestDAP_disconnect.py": 0
+        "main.cpp": 0.0,
+        "Makefile": 0.0,
+        "TestDAP_disconnect.py": 0.0
     },
     "subdirscores": {}
 }

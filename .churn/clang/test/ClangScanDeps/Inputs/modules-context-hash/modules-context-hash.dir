@@ -1,19 +1,19 @@
 {
     "directory name": "llvm-project/clang/test/ClangScanDeps/Inputs/modules-context-hash",
-    "score.sum": 6.177485046236319e-06,
+    "score.sum": 0.0003212590260778389,
     "sha.latest": "223e99fb698dd63b5bb9266e11c2582261e05ad9",
     "time.latest": 1717868659.9145434,
     "formatted_time": "2024-06-08 23:14:19.914546",
     "filescores": {
-        "cdb_a.json.template": 0,
-        "cdb_b.json.template": 0,
-        "cdb_b2.json.template": 0,
-        "mod.h": 0,
-        "module.modulemap": 0,
-        "tu.c": 0
+        "cdb_a.json.template": 0.0,
+        "cdb_b.json.template": 0.0,
+        "cdb_b2.json.template": 0.0,
+        "mod.h": 0.0,
+        "module.modulemap": 0.0,
+        "tu.c": 0.0
     },
     "subdirscores": {
-        "a": 0,
-        "b": 0
+        "a": 0.0,
+        "b": 0.0
     }
 }

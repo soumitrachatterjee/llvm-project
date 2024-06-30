@@ -1,19 +1,19 @@
 {
     "directory name": "llvm-project/libcxx/test/std/localization/locale.categories/category.monetary/locale.moneypunct.byname",
-    "score.sum": 0.0001255830322931293,
+    "score.sum": 0.006530923562651571,
     "sha.latest": "7ec6c629052c30c0772e8fcae346a405af43444e",
     "time.latest": 1717929274.1312604,
     "formatted_time": "2024-06-09 16:04:34.131262",
     "filescores": {
-        "curr_symbol.pass.cpp": 6.225972874626757e-05,
-        "decimal_point.pass.cpp": 2.9217956276947932e-05,
-        "frac_digits.pass.cpp": 1.7431479621988335e-05,
-        "grouping.pass.cpp": 4.908579035022306e-05,
-        "negative_sign.pass.cpp": 2.793421904173281e-05,
-        "neg_format.pass.cpp": 4.9154045885101874e-05,
-        "positive_sign.pass.cpp": 1.7431479621988335e-05,
-        "pos_format.pass.cpp": 4.9154045885101874e-05,
-        "thousands_sep.pass.cpp": 6.982215970384779e-05
+        "curr_symbol.pass.cpp": 0.20492408077301683,
+        "decimal_point.pass.cpp": 0.09616911208400818,
+        "frac_digits.pass.cpp": 0.05737464666136505,
+        "grouping.pass.cpp": 0.16156287007818843,
+        "negative_sign.pass.cpp": 0.0919437696647911,
+        "neg_format.pass.cpp": 0.16178752898731594,
+        "positive_sign.pass.cpp": 0.05737464666136505,
+        "pos_format.pass.cpp": 0.16178752898731594,
+        "thousands_sep.pass.cpp": 0.2298153587081851
     },
     "subdirscores": {}
 }

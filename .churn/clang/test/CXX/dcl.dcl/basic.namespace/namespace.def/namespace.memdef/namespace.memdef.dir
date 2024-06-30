@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/clang/test/CXX/dcl.dcl/basic.namespace/namespace.def/namespace.memdef",
-    "score.sum": 2.0695436422680303e-05,
+    "score.sum": 0.0010762625404422174,
     "sha.latest": "0f1c1be1968076d6f96f8a7bcc4a15cf195ecd97",
     "time.latest": 1718085119.6614387,
     "formatted_time": "2024-06-11 11:21:59.661441",
     "filescores": {
-        "p3.cpp": 2.0695436422680303e-05
+        "p3.cpp": 0.06811776039689889
     },
     "subdirscores": {}
 }

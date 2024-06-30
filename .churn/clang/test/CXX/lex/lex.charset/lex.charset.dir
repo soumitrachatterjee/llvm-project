@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/clang/test/CXX/lex/lex.charset",
-    "score.sum": 0,
+    "score.sum": 0.0,
     "sha.latest": "2a70e65436c728e9f01e1e162c9125ed7c86e78b",
     "time.latest": 1718101056.0225835,
     "formatted_time": "2024-06-11 15:47:36.022585",
     "filescores": {
-        "p2-cxx11.cpp": 0,
-        "p2-cxx98.cpp": 0
+        "p2-cxx11.cpp": 0.0,
+        "p2-cxx98.cpp": 0.0
     },
     "subdirscores": {}
 }

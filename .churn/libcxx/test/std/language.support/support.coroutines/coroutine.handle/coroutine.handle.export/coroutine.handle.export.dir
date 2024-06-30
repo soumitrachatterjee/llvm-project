@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/libcxx/test/std/language.support/support.coroutines/coroutine.handle/coroutine.handle.export",
-    "score.sum": 6.6685112147188404e-06,
+    "score.sum": 0.0003467947558262316,
     "sha.latest": "e5ec498fc54ba9fa0b7b1760ab8783ae47b61249",
     "time.latest": 1717920903.331474,
     "formatted_time": "2024-06-09 13:45:03.331476",
     "filescores": {
-        "address.pass.cpp": 6.099602068851199e-06,
-        "from_address.pass.cpp": 6.6685112147188404e-06
+        "address.pass.cpp": 0.02007646631636598,
+        "from_address.pass.cpp": 0.021948995897010475
     },
     "subdirscores": {}
 }

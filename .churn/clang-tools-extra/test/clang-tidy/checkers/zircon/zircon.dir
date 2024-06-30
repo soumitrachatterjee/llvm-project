@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/clang-tools-extra/test/clang-tidy/checkers/zircon",
-    "score.sum": 6.099602068851199e-06,
+    "score.sum": 0.00031720873550238375,
     "sha.latest": "e8a3ddafe063c970df9c23e803812369abde4c82",
     "time.latest": 1717832303.872174,
     "formatted_time": "2024-06-08 13:08:23.872177",
     "filescores": {
-        "temporary-objects.cpp": 6.099602068851199e-06
+        "temporary-objects.cpp": 0.02007646631636598
     },
     "subdirscores": {}
 }

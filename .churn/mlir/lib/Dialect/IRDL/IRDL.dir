@@ -1,15 +1,15 @@
 {
     "directory name": "llvm-project/mlir/lib/Dialect/IRDL",
-    "score.sum": 4.1565366221544646e-05,
+    "score.sum": 0.0021615995783005105,
     "sha.latest": "914cfa41385606fe81c3afd296a6ca3ab975a97d",
     "time.latest": 1717806439.73612,
     "formatted_time": "2024-06-07 19:27:19.736123",
     "filescores": {
-        "CMakeLists.txt": 2.9038123798938886e-05,
-        "IRDLLoading.cpp": 2.185690455933876e-05,
-        "IRDLVerifiers.cpp": 1.4942867222640617e-05
+        "CMakeLists.txt": 0.0955772045060082,
+        "IRDLLoading.cpp": 0.0719406615730649,
+        "IRDLVerifiers.cpp": 0.04918353149581374
     },
     "subdirscores": {
-        "IR": 1.8027274352793774e-05
+        "IR": 0.0009375052400887645
     }
 }

@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/llvm/utils/gn/secondary/clang/lib/CrossTU",
-    "score.sum": 1.4240298691287157e-05,
+    "score.sum": 0.0007405642351830028,
     "sha.latest": "2aa998d22fe09191cd6c1b697e373266c1131502",
     "time.latest": 1718083713.0213857,
     "formatted_time": "2024-06-11 00:28:33.021389",
     "filescores": {
-        "BUILD.gn": 1.4240298691287157e-05
+        "BUILD.gn": 0.0468710702408924
     },
     "subdirscores": {}
 }

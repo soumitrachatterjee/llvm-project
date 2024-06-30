@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/lldb/examples/functions",
-    "score.sum": 1.5353601032437876e-05,
+    "score.sum": 0.0007984613281215221,
     "sha.latest": "8b3af63b8993e45b1783853a3fcf6f36bfbed81b",
     "time.latest": 1717841295.6587734,
     "formatted_time": "2024-06-08 15:38:15.658776",
     "filescores": {
-        "main.cpp": 1.5353601032437876e-05,
-        "Makefile": 6.099602068851199e-06
+        "main.cpp": 0.05053543665361044,
+        "Makefile": 0.02007646631636598
     },
     "subdirscores": {}
 }

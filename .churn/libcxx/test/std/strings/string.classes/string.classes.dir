@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/libcxx/test/std/strings/string.classes",
-    "score.sum": 3.950502097385533e-05,
+    "score.sum": 0.002054451685152628,
     "sha.latest": "eb1ceb17ae9716a738eac4ab30872bfc3c7268ef",
     "time.latest": 1717972251.6818197,
     "formatted_time": "2024-06-10 04:00:51.681822",
     "filescores": {
-        "typedefs.compile.pass.cpp": 6.099602068851199e-06
+        "typedefs.compile.pass.cpp": 0.02007646631636598
     },
     "subdirscores": {}
 }

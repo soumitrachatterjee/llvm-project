@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/lldb/test/API/functionalities/module_cache/universal",
-    "score.sum": 1.1431014685921802e-05,
+    "score.sum": 0.0005944679133328051,
     "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
     "time.latest": 1717912852.7051024,
     "formatted_time": "2024-06-09 11:30:52.705105",
     "filescores": {
-        "TestModuleCacheUniversal.py": 1.1431014685921802e-05,
-        "universal.yaml": 0
+        "TestModuleCacheUniversal.py": 0.037624484140654266,
+        "universal.yaml": 0.0
     },
     "subdirscores": {}
 }

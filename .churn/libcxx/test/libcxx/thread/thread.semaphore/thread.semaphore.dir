@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/libcxx/test/libcxx/thread/thread.semaphore",
-    "score.sum": 4.456061680479955e-05,
+    "score.sum": 0.0023173670594086693,
     "sha.latest": "58780b811c23df3d928d8452ee21c862dde754a2",
     "time.latest": 1717865423.3715563,
     "formatted_time": "2024-06-08 22:20:23.371559",
     "filescores": {
-        "assert.ctor.pass.cpp": 1.2184160285904018e-05,
-        "assert.release.pass.cpp": 1.2184160285904018e-05
+        "assert.ctor.pass.cpp": 0.040103416716695255,
+        "assert.release.pass.cpp": 0.040103416716695255
     },
     "subdirscores": {}
 }

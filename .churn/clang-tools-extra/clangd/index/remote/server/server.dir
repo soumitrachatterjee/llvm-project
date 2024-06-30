@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/clang-tools-extra/clangd/index/remote/server",
-    "score.sum": 6.597983478035019e-05,
+    "score.sum": 0.0034312697325307537,
     "sha.latest": "b8f89b84bc26c46a5a10d01eb5414fbde3c8700a",
     "time.latest": 1717802404.484306,
     "formatted_time": "2024-06-08 04:50:04.484309",
     "filescores": {
-        "CMakeLists.txt": 2.4346488819359902e-05,
-        "Server.cpp": 5.9611517261979386e-05
+        "CMakeLists.txt": 0.08013497555844969,
+        "Server.cpp": 0.19620765500248474
     },
     "subdirscores": {}
 }

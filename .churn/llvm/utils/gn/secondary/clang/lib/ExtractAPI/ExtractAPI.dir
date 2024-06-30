@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/llvm/utils/gn/secondary/clang/lib/ExtractAPI",
-    "score.sum": 4.012374896379911e-05,
+    "score.sum": 0.0020866285257226495,
     "sha.latest": "bb029a5c039766ef83c88a456cf936cec0a1a69b",
     "time.latest": 1718083783.6938934,
     "formatted_time": "2024-06-11 00:29:43.693897",
     "filescores": {
-        "BUILD.gn": 4.012374896379911e-05
+        "BUILD.gn": 0.13206486020976668
     },
     "subdirscores": {}
 }

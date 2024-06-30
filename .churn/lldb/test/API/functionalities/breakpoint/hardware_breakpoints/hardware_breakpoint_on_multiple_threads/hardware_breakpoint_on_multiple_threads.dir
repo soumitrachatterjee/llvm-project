@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/lldb/test/API/functionalities/breakpoint/hardware_breakpoints/hardware_breakpoint_on_multiple_threads",
-    "score.sum": 1.309596594079788e-05,
+    "score.sum": 0.0006810534112506747,
     "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
     "time.latest": 1717903392.6611092,
     "formatted_time": "2024-06-09 08:53:12.661111",
     "filescores": {
-        "main.cpp": 6.099602068851199e-06,
-        "Makefile": 0,
-        "TestHWBreakMultiThread.py": 1.305241581484926e-05
+        "main.cpp": 0.02007646631636598,
+        "Makefile": 0.0,
+        "TestHWBreakMultiThread.py": 0.04296122656791243
     },
     "subdirscores": {}
 }

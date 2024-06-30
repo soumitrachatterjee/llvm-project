@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/libcxx/test/std/localization/locales/locale/locale.statics",
-    "score.sum": 4.057234821719688e-05,
+    "score.sum": 0.0021099578511952566,
     "sha.latest": "f0fc8c4878ed3ed60bd7536f97ef2673eb691ae7",
     "time.latest": 1717931868.9925163,
     "formatted_time": "2024-06-09 16:47:48.992520",
     "filescores": {
-        "classic.pass.cpp": 3.976924275016184e-05,
-        "global.pass.cpp": 4.057234821719688e-05
+        "classic.pass.cpp": 0.13089802473809278,
+        "global.pass.cpp": 0.13354139715409943
     },
     "subdirscores": {}
 }

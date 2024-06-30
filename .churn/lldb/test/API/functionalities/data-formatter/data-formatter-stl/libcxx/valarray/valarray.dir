@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/lldb/test/API/functionalities/data-formatter/data-formatter-stl/libcxx/valarray",
-    "score.sum": 0,
+    "score.sum": 0.0,
     "sha.latest": "5e9eaf87b374c3f6638543682b523827834494a8",
     "time.latest": 1717906968.8221703,
     "formatted_time": "2024-06-09 09:52:48.822172",
     "filescores": {
-        "main.cpp": 0,
-        "Makefile": 0,
-        "TestDataFormatterLibcxxValarray.py": 0
+        "main.cpp": 0.0,
+        "Makefile": 0.0,
+        "TestDataFormatterLibcxxValarray.py": 0.0
     },
     "subdirscores": {}
 }

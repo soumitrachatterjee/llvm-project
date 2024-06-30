@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/clang/test/APINotes/Inputs/Frameworks/Simple.framework",
-    "score.sum": 0,
+    "score.sum": 0.0,
     "sha.latest": "82f86ae01a54ff8e3a5aaefd24745ef2b7b917ba",
     "time.latest": 1717843221.961115,
     "formatted_time": "2024-06-08 16:10:21.961118",
     "filescores": {},
     "subdirscores": {
-        "Headers": 0
+        "Headers": 0.0
     }
 }

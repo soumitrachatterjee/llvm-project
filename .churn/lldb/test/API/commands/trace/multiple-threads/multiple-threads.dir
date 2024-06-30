@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/lldb/test/API/commands/trace/multiple-threads",
-    "score.sum": 3.7719129662707806e-05,
+    "score.sum": 0.00196157672082557,
     "sha.latest": "9c2468821ec51defd09c246fea4a47886fff8c01",
     "time.latest": 1717900079.8294494,
     "formatted_time": "2024-06-09 07:57:59.829451",
     "filescores": {
-        "main.cpp": 0,
-        "Makefile": 0,
-        "TestTraceStartStopMultipleThreads.py": 3.7719129662707806e-05
+        "main.cpp": 0.0,
+        "Makefile": 0.0,
+        "TestTraceStartStopMultipleThreads.py": 0.12415020317851948
     },
     "subdirscores": {}
 }

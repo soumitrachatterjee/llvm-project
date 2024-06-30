@@ -1,20 +1,20 @@
 {
     "directory name": "llvm-project/llvm/test/CodeGen/Hexagon/isel",
-    "score.sum": 3.56699096440445e-05,
+    "score.sum": 0.0018550073932614218,
     "sha.latest": "aaf2d078b62251b867f37eaa94621dbbbfa0e5b0",
     "time.latest": 1718051531.4134705,
     "formatted_time": "2024-06-10 15:32:11.413474",
     "filescores": {
-        "cmp-i1.ll": 0,
-        "cmp-v2i1.ll": 0,
-        "cmp-v4i1.ll": 0,
-        "cmp-v8i1.ll": 0,
-        "extload-i1.ll": 6.099602068851199e-06,
-        "logical.ll": 6.0999635307391215e-06,
-        "mulh-scalar.ll": 0,
-        "select-i1.ll": 0,
-        "select-vec.ll": 6.099602068851199e-06,
-        "trunc-vNi1.ll": 0
+        "cmp-i1.ll": 0.0,
+        "cmp-v2i1.ll": 0.0,
+        "cmp-v4i1.ll": 0.0,
+        "cmp-v8i1.ll": 0.0,
+        "extload-i1.ll": 0.02007646631636598,
+        "logical.ll": 0.020077656046013196,
+        "mulh-scalar.ll": 0.0,
+        "select-i1.ll": 0.0,
+        "select-vec.ll": 0.02007646631636598,
+        "trunc-vNi1.ll": 0.0
     },
     "subdirscores": {}
 }

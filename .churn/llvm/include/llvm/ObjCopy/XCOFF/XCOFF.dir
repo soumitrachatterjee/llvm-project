@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/llvm/include/llvm/ObjCopy/XCOFF",
-    "score.sum": 0,
+    "score.sum": 0.0,
     "sha.latest": "61835d19a848ecd3530d9b86deb6b15f336ae6d6",
     "time.latest": 1717819424.8658037,
     "formatted_time": "2024-06-07 23:03:44.865807",
     "filescores": {
-        "XCOFFConfig.h": 0,
-        "XCOFFObjcopy.h": 0
+        "XCOFFConfig.h": 0.0,
+        "XCOFFObjcopy.h": 0.0
     },
     "subdirscores": {}
 }

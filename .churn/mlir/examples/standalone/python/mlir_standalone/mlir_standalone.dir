@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/mlir/examples/standalone/python/mlir_standalone",
-    "score.sum": 6.130621499129694e-06,
+    "score.sum": 0.0003188218955321001,
     "sha.latest": "67a910bbff772ebf4c47e8b434b59cdc4820bb68",
     "time.latest": 1717789010.297831,
     "formatted_time": "2024-06-07 14:36:50.297832",
     "filescores": {},
     "subdirscores": {
-        "dialects": 6.130621499129694e-06
+        "dialects": 0.0003188218955321001
     }
 }

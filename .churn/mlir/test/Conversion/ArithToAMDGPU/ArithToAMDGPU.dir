@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/mlir/test/Conversion/ArithToAMDGPU",
-    "score.sum": 6.099602068851199e-06,
+    "score.sum": 0.00031720873550238375,
     "sha.latest": "750e90e4403df23d6b271afb90e6b4d463739965",
     "time.latest": 1717815278.7514114,
     "formatted_time": "2024-06-07 21:54:38.751414",
     "filescores": {
-        "8-bit-float-saturation.mlir": 0,
-        "8-bit-floats.mlir": 6.099602068851199e-06
+        "8-bit-float-saturation.mlir": 0.0,
+        "8-bit-floats.mlir": 0.02007646631636598
     },
     "subdirscores": {}
 }

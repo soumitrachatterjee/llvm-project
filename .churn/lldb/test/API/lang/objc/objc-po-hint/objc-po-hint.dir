@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/lldb/test/API/lang/objc/objc-po-hint",
-    "score.sum": 6.099602068851199e-06,
+    "score.sum": 0.00031720873550238375,
     "sha.latest": "ecbe78c124a78a4ea6e06b1d52ce281dcc394332",
     "time.latest": 1717959096.7356384,
     "formatted_time": "2024-06-10 00:21:36.735641",
     "filescores": {
-        "main.m": 0,
-        "Makefile": 0,
-        "TestObjcPoHint.py": 6.099602068851199e-06
+        "main.m": 0.0,
+        "Makefile": 0.0,
+        "TestObjcPoHint.py": 0.02007646631636598
     },
     "subdirscores": {}
 }

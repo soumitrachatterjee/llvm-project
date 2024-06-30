@@ -1,15 +1,15 @@
 {
     "directory name": "llvm-project/libcxx/utils/libcxx/sym_check",
-    "score.sum": 4.501008452510077e-05,
+    "score.sum": 0.0023407415493502306,
     "sha.latest": "7bfaa0f09d0564f315ea778023b34b8a113ec740",
     "time.latest": 1718011286.0377908,
     "formatted_time": "2024-06-10 14:51:26.037792",
     "filescores": {
-        "diff.py": 1.0147125628527498e-05,
-        "extract.py": 3.4027857281116136e-05,
-        "match.py": 7.982290067275964e-06,
-        "util.py": 3.505814327544682e-05,
-        "__init__.py": 7.982290067275964e-06
+        "diff.py": 0.03339864200804081,
+        "extract.py": 0.11200060640203424,
+        "match.py": 0.026273218458218422,
+        "util.py": 0.11539172959792812,
+        "__init__.py": 0.026273218458218422
     },
     "subdirscores": {}
 }

@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/lldb/test/API/commands/session/history",
-    "score.sum": 1.0186753324445046e-05,
+    "score.sum": 0.0005297603195171233,
     "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
     "time.latest": 1717897468.1534421,
     "formatted_time": "2024-06-09 07:14:28.153444",
     "filescores": {
-        "TestSessionHistory.py": 1.0186753324445046e-05
+        "TestSessionHistory.py": 0.03352907414005589
     },
     "subdirscores": {}
 }

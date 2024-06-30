@@ -1,19 +1,19 @@
 {
     "directory name": "llvm-project/mlir/test/Dialect/Math",
-    "score.sum": 0.00030800760931359053,
+    "score.sum": 0.016017881686809392,
     "sha.latest": "05e85e4fc5ac67612245efe56c3423cc9b47bc6d",
     "time.latest": 1717820693.2709663,
     "formatted_time": "2024-06-07 23:24:53.270970",
     "filescores": {
-        "algebraic-simplification.mlir": 1.6996384462491273e-05,
-        "canonicalize.mlir": 6.453426030571239e-05,
-        "canonicalize_ipowi.mlir": 6.099602068851199e-06,
-        "depends-on-arith.mlir": 0,
-        "expand-math.mlir": 7.579273331330894e-05,
-        "legalize-to-f32.mlir": 0,
-        "ops.mlir": 5.223997018343928e-05,
-        "polynomial-approximation.mlir": 5.635214009187605e-05,
-        "uplift-to-fma.mlir": 0
+        "algebraic-simplification.mlir": 0.055942557614332866,
+        "canonicalize.mlir": 0.21241056197674976,
+        "canonicalize_ipowi.mlir": 0.02007646631636598,
+        "depends-on-arith.mlir": 0.0,
+        "expand-math.mlir": 0.24946713575965204,
+        "legalize-to-f32.mlir": 0.0,
+        "ops.mlir": 0.1719446596543817,
+        "polynomial-approximation.mlir": 0.18547961484031134,
+        "uplift-to-fma.mlir": 0.0
     },
     "subdirscores": {}
 }

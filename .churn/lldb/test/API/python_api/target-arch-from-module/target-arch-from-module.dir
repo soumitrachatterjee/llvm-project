@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/lldb/test/API/python_api/target-arch-from-module",
-    "score.sum": 0,
+    "score.sum": 0.0,
     "sha.latest": "ebf249066ac5c7917064eb56a9e51c21000cdf93",
     "time.latest": 1717967061.915914,
     "formatted_time": "2024-06-10 02:34:21.915915",
     "filescores": {
-        "main.c": 0,
-        "Makefile": 0,
-        "TestTargetArchFromModule.py": 0
+        "main.c": 0.0,
+        "Makefile": 0.0,
+        "TestTargetArchFromModule.py": 0.0
     },
     "subdirscores": {}
 }

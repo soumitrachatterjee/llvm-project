@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/libcxx/test/std/utilities/memory/specialized.algorithms/uninitialized.fill.n",
-    "score.sum": 4.867425579281499e-05,
+    "score.sum": 0.002531296133301099,
     "sha.latest": "fb855eb941b6d740cc6560297d0b4d3201dcaf9f",
     "time.latest": 1717998971.3604345,
     "formatted_time": "2024-06-10 11:26:11.360436",
     "filescores": {
-        "ranges_uninitialized_fill_n.pass.cpp": 1.1500869350558802e-05,
-        "uninitialized_fill_n.pass.cpp": 1.698896859853446e-05
+        "ranges_uninitialized_fill_n.pass.cpp": 0.03785440648735744,
+        "uninitialized_fill_n.pass.cpp": 0.05591814875269645
     },
     "subdirscores": {}
 }

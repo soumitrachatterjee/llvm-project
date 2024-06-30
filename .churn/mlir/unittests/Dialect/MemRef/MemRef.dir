@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/mlir/unittests/Dialect/MemRef",
-    "score.sum": 7.10026954173172e-06,
+    "score.sum": 0.00036924827187669344,
     "sha.latest": "2791162b01e3199b24f2d18f7b370157e2c57daf",
     "time.latest": 1717836088.4186459,
     "formatted_time": "2024-06-08 03:41:28.418649",
     "filescores": {
-        "CMakeLists.txt": 0,
-        "InferShapeTest.cpp": 7.10026954173172e-06
+        "CMakeLists.txt": 0.0,
+        "InferShapeTest.cpp": 0.02337010196446205
     },
     "subdirscores": {}
 }

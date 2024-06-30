@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/libcxx/test/std/iterators/iterator.primitives/range.iter.ops/range.iter.ops.distance",
-    "score.sum": 1.355477595736947e-05,
+    "score.sum": 0.0007049137456708039,
     "sha.latest": "b8cb1dc9ea87faa8e8e9ab7a31710a8c0bb8b084",
     "time.latest": 1717911781.3836954,
     "formatted_time": "2024-06-09 11:13:01.383697",
     "filescores": {
-        "iterator_sentinel.pass.cpp": 1.355477595736947e-05,
-        "lwg3664.pass.cpp": 7.81145980814413e-06,
-        "range.pass.cpp": 7.463554075531752e-06
+        "iterator_sentinel.pass.cpp": 0.04461471418335804,
+        "lwg3664.pass.cpp": 0.02571094113183502,
+        "range.pass.cpp": 0.02456583073885843
     },
     "subdirscores": {}
 }

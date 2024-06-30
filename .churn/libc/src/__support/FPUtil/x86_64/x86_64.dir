@@ -1,16 +1,16 @@
 {
     "directory name": "llvm-project/libc/src/__support/FPUtil/x86_64",
-    "score.sum": 0.00032772809486913176,
+    "score.sum": 0.017043442078447272,
     "sha.latest": "f7d4236adf8e0865e734216626c378345f673ca5",
     "time.latest": 1717828650.0208075,
     "formatted_time": "2024-06-08 01:37:30.020810",
     "filescores": {
-        "FEnvImpl.h": 6.6023575048176e-05,
-        "FMA.h": 7.984760128458111e-05,
-        "NextAfterLongDouble.h": 0.00010784620984963051,
-        "PolyEval.h": 2.9535003298714706e-05,
-        "nearest_integer.h": 2.358055837830323e-05,
-        "sqrt.h": 3.353021188274649e-05
+        "FEnvImpl.h": 0.2173125501595903,
+        "FMA.h": 0.2628134851318971,
+        "NextAfterLongDouble.h": 0.35496918896573737,
+        "PolyEval.h": 0.09721265292181297,
+        "nearest_integer.h": 0.07761396246169701,
+        "sqrt.h": 0.11036263707795595
     },
     "subdirscores": {}
 }

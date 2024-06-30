@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/mlir/lib/Conversion/VectorToGPU",
-    "score.sum": 0.00027188602109478986,
+    "score.sum": 0.014139384828508341,
     "sha.latest": "fe8a62c46365f5ef0c15df2265bbf0026d0a4047",
     "time.latest": 1717804244.1809065,
     "formatted_time": "2024-06-07 18:50:44.180911",
     "filescores": {
-        "CMakeLists.txt": 3.4318349457043346e-05,
-        "VectorToGPU.cpp": 0.0002549115907162461
+        "CMakeLists.txt": 0.1129567435925164,
+        "VectorToGPU.cpp": 0.8390258752781
     },
     "subdirscores": {}
 }

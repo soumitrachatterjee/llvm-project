@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/libcxx/test/std/experimental/iterator",
-    "score.sum": 5.270930688423316e-05,
+    "score.sum": 0.002741138257418113,
     "sha.latest": "a7f9895cc18995549c7facb96e72718da282a864",
     "time.latest": 1717899292.491491,
     "formatted_time": "2024-06-09 07:44:52.491495",
     "filescores": {},
     "subdirscores": {
-        "ostream.joiner": 4.5460488628891704e-05
+        "ostream.joiner": 0.0023641647357508996
     }
 }

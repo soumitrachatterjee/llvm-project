@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/pstl/test/std/utilities/memory",
-    "score.sum": 1.3180537629176497e-05,
+    "score.sum": 0.0006854515470679076,
     "sha.latest": "3b9a1bb1af90db9472340ef2122d3855eb9ba3fc",
     "time.latest": 1717792059.4272764,
     "formatted_time": "2024-06-07 15:27:39.427277",
     "filescores": {},
     "subdirscores": {
-        "specialized.algorithms": 1.3180537629176497e-05
+        "specialized.algorithms": 0.0006854515470679076
     }
 }

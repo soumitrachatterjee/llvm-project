@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/libcxx/test/std/concepts/concepts.callable/concept.predicate",
-    "score.sum": 1.4444996483263261e-05,
+    "score.sum": 0.0007512095079434108,
     "sha.latest": "6cb3fdc278b95204baf60587fe2c25ff65f4e612",
     "time.latest": 1717874756.241665,
     "formatted_time": "2024-06-09 00:55:56.241667",
     "filescores": {
-        "predicate.compile.pass.cpp": 1.0068561300885248e-05,
-        "predicate.subsumption.compile.pass.cpp": 7.834809860042504e-06
+        "predicate.compile.pass.cpp": 0.03314005233944056,
+        "predicate.subsumption.compile.pass.cpp": 0.02578779639634761
     },
     "subdirscores": {}
 }

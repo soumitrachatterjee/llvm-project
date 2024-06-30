@@ -1,17 +1,17 @@
 {
     "directory name": "llvm-project/libcxx/test/std/containers/container.adaptors/stack",
-    "score.sum": 0.0001538757942161482,
+    "score.sum": 0.008002283682896452,
     "sha.latest": "b82dcb624e6bfa58ed566511cb564f8f201fa62e",
     "time.latest": 1717882597.4216592,
     "formatted_time": "2024-06-09 03:06:37.421661",
     "filescores": {
-        "compare.three_way.pass.cpp": 6.099602068851199e-06
+        "compare.three_way.pass.cpp": 0.02007646631636598
     },
     "subdirscores": {
-        "stack.cons": 8.903532556091685e-05,
-        "stack.cons.alloc": 3.835614606165613e-05,
-        "stack.defn": 7.636767823476793e-05,
-        "stack.ops": 1.7366275644238228e-05,
-        "stack.special": 2.3819743171414074e-05
+        "stack.cons": 0.0046302664858169605,
+        "stack.cons.alloc": 0.0019947046468974322,
+        "stack.defn": 0.00397148770897871,
+        "stack.ops": 0.000903130118213133,
+        "stack.special": 0.0012387415647950404
     }
 }

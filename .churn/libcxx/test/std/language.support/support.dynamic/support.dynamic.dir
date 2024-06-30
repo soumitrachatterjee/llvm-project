@@ -1,20 +1,20 @@
 {
     "directory name": "llvm-project/libcxx/test/std/language.support/support.dynamic",
-    "score.sum": 0.000443462742212827,
+    "score.sum": 0.02306220210956226,
     "sha.latest": "1197fcabc4b5f39dbe8a94b1ab6e92354f3f0dd2",
     "time.latest": 1717922699.9780173,
     "formatted_time": "2024-06-09 14:14:59.978019",
     "filescores": {
-        "align_val_t.pass.cpp": 2.8126902149059898e-05,
-        "destroying_delete_t.pass.cpp": 1.275635961645006e-05,
-        "destroying_delete_t_declaration.pass.cpp": 1.1616911891078758e-05,
-        "hardware_inference_size.compile.pass.cpp": 0,
-        "nothrow_t.pass.cpp": 6.1088131110489895e-06,
-        "nothrow_t.verify.cpp": 6.099602068851199e-06
+        "align_val_t.pass.cpp": 0.09257797430147384,
+        "destroying_delete_t.pass.cpp": 0.04198677573852704,
+        "destroying_delete_t_declaration.pass.cpp": 0.03823635339630607,
+        "hardware_inference_size.compile.pass.cpp": 0.0,
+        "nothrow_t.pass.cpp": 0.020106783897141767,
+        "nothrow_t.verify.cpp": 0.02007646631636598
     },
     "subdirscores": {
-        "alloc.errors": 4.166222687913872e-05,
-        "new.delete": 0.00032797704737500536,
-        "ptr.launder": 6.603437316805123e-05
+        "alloc.errors": 0.002166636799805869,
+        "new.delete": 0.017056388809840062,
+        "ptr.launder": 0.003434105991815163
     }
 }

@@ -1,24 +1,24 @@
 {
     "directory name": "llvm-project/libcxx/test/std/ranges/range.adaptors/range.split",
-    "score.sum": 1.6918444188425438e-05,
+    "score.sum": 0.0008798407219192333,
     "sha.latest": "ba2236d3000645d3127f972aa7ac1844c47e299c",
     "time.latest": 1717962956.1351385,
     "formatted_time": "2024-06-10 01:25:56.135141",
     "filescores": {
-        "adaptor.pass.cpp": 1.0914980759807258e-05,
-        "base.pass.cpp": 0,
-        "begin.pass.cpp": 0,
-        "constraints.compile.pass.cpp": 0,
-        "ctad.compile.pass.cpp": 0,
-        "ctor.default.pass.cpp": 0,
-        "ctor.range.pass.cpp": 6.099602068851199e-06,
-        "ctor.view.pass.cpp": 7.643116127991312e-06,
-        "end.pass.cpp": 0,
-        "general.pass.cpp": 6.099602068851199e-06,
-        "types.h": 6.099602068851199e-06
+        "adaptor.pass.cpp": 0.03592599010468317,
+        "base.pass.cpp": 0.0,
+        "begin.pass.cpp": 0.0,
+        "constraints.compile.pass.cpp": 0.0,
+        "ctad.compile.pass.cpp": 0.0,
+        "ctor.default.pass.cpp": 0.0,
+        "ctor.range.pass.cpp": 0.02007646631636598,
+        "ctor.view.pass.cpp": 0.025156848227738785,
+        "end.pass.cpp": 0.0,
+        "general.pass.cpp": 0.02007646631636598,
+        "types.h": 0.02007646631636598
     },
     "subdirscores": {
-        "iterator": 0,
-        "sentinel": 0
+        "iterator": 0.0,
+        "sentinel": 0.0
     }
 }

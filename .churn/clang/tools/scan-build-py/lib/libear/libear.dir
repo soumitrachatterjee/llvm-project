@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/clang/tools/scan-build-py/lib/libear",
-    "score.sum": 1.1599238757743155e-05,
+    "score.sum": 0.0006032163766753596,
     "sha.latest": "dd3c26a045c081620375a878159f536758baba6e",
     "time.latest": 1718082746.550583,
     "formatted_time": "2024-06-11 10:42:26.550584",
     "filescores": {
-        "config.h.in": 0,
-        "ear.c": 9.490821926999473e-06,
-        "__init__.py": 6.099602068851199e-06
+        "config.h.in": 0.0,
+        "ear.c": 0.03123845860454948,
+        "__init__.py": 0.02007646631636598
     },
     "subdirscores": {}
 }

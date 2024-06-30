@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/llvm/utils/gn/secondary/bolt/unittests/Profile",
-    "score.sum": 0,
+    "score.sum": 0.0,
     "sha.latest": "6bb781fa9ad34ac60501297f9031a2960d93c97c",
     "time.latest": 1718081024.0703824,
     "formatted_time": "2024-06-10 23:43:44.070386",
     "filescores": {
-        "BUILD.gn": 0
+        "BUILD.gn": 0.0
     },
     "subdirscores": {}
 }

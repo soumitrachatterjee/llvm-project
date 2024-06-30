@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/libc/config/linux/aarch64",
-    "score.sum": 0.0006438523784625231,
+    "score.sum": 0.033483429987222924,
     "sha.latest": "fe1645e25c5ab5e3ba8aa16d4f637633ded328ab",
     "time.latest": 1717825100.9452047,
     "formatted_time": "2024-06-08 00:38:20.945208",
     "filescores": {
-        "entrypoints.txt": 0.0005839606082097727,
-        "headers.txt": 9.155305706782378e-05
+        "entrypoints.txt": 1.9220705463194536,
+        "headers.txt": 0.3013412753216994
     },
     "subdirscores": {}
 }

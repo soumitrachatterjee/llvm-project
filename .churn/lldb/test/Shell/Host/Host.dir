@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/lldb/test/Shell/Host",
-    "score.sum": 1.288977360119652e-05,
+    "score.sum": 0.0006703304148032122,
     "sha.latest": "294ca122956f78aef3ab4e81108b69518e353b07",
     "time.latest": 1717973063.2762384,
     "formatted_time": "2024-06-10 04:14:23.276241",
     "filescores": {
-        "TestCustomShell.test": 1.288977360119652e-05
+        "TestCustomShell.test": 0.04242589969131285
     },
     "subdirscores": {
-        "Inputs": 8.22683439832498e-06
+        "Inputs": 0.0004278350796040829
     }
 }

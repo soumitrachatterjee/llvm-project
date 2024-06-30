@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/lldb/test/API/commands/command/script/import/rdar-12586188",
-    "score.sum": 1.0459834404963863e-05,
+    "score.sum": 0.000543961853201322,
     "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
     "time.latest": 1717888657.9896095,
     "formatted_time": "2024-06-09 04:47:37.989611",
     "filescores": {
-        "fail12586188.py": 6.099602068851199e-06,
-        "fail212586188.py": 6.099602068851199e-06,
-        "Makefile": 0,
-        "TestRdar12586188.py": 1.0459834404963863e-05
+        "fail12586188.py": 0.02007646631636598,
+        "fail212586188.py": 0.02007646631636598,
+        "Makefile": 0.0,
+        "TestRdar12586188.py": 0.03442790377726621
     },
     "subdirscores": {}
 }

@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/mlir/lib/Bytecode/Reader",
-    "score.sum": 0.00012249132244250503,
+    "score.sum": 0.006370139734266272,
     "sha.latest": "da092e8808319b572fa9fea7eb74e55e7434a8b2",
     "time.latest": 1717801751.901404,
     "formatted_time": "2024-06-07 18:09:11.901407",
     "filescores": {
-        "BytecodeReader.cpp": 0.00012249132244250503,
-        "CMakeLists.txt": 0
+        "BytecodeReader.cpp": 0.403172679349432,
+        "CMakeLists.txt": 0.0
     },
     "subdirscores": {}
 }

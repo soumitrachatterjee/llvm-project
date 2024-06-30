@@ -1,21 +1,21 @@
 {
     "directory name": "llvm-project/lldb/utils/lui",
-    "score.sum": 3.775753066637363e-05,
+    "score.sum": 0.0019635737582843027,
     "sha.latest": "602e47c5f9fd2e14c7bfb6111e6558fa0d27c87f",
     "time.latest": 1717999922.340347,
     "formatted_time": "2024-06-10 11:42:02.340349",
     "filescores": {
-        "breakwin.py": 1.8260644825667317e-05,
-        "commandwin.py": 1.8251345230887438e-05,
-        "cui.py": 1.827107503790142e-05,
-        "debuggerdriver.py": 1.8239924684433003e-05,
-        "eventwin.py": 1.8239924684433003e-05,
-        "lldbutil.py": 3.43297448681931e-05,
-        "lui.py": 2.4936889284367465e-05,
-        "Readme": 1.2199156957402671e-05,
-        "sandbox.py": 2.160201770917087e-05,
-        "sourcewin.py": 1.8273405849867594e-05,
-        "statuswin.py": 1.825028397634778e-05
+        "breakwin.py": 0.060103793103126135,
+        "commandwin.py": 0.060073184056954505,
+        "cui.py": 0.060138123507343794,
+        "debuggerdriver.py": 0.0600355940283561,
+        "eventwin.py": 0.0600355940283561,
+        "lldbutil.py": 0.1129942508898002,
+        "lui.py": 0.08207824249866888,
+        "Readme": 0.040152777341667466,
+        "sandbox.py": 0.07110171712978516,
+        "sourcewin.py": 0.0601457952320564,
+        "statuswin.py": 0.06006969100268997
     },
     "subdirscores": {}
 }

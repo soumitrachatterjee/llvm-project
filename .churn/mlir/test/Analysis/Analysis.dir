@@ -1,24 +1,24 @@
 {
     "directory name": "llvm-project/mlir/test/Analysis",
-    "score.sum": 0.00022398376093944023,
+    "score.sum": 0.011648236192898,
     "sha.latest": "2bd6642533ce858c07f1c412e1b8a669c17afb54",
     "time.latest": 1717814581.549293,
     "formatted_time": "2024-06-07 21:43:01.549297",
     "filescores": {
-        "invalid.mlir": 0,
-        "test-alias-analysis-extending.mlir": 0,
-        "test-alias-analysis-modref.mlir": 1.4043855017312506e-05,
-        "test-alias-analysis.mlir": 2.7887732302527712e-05,
-        "test-callgraph.mlir": 1.5868601147070976e-05,
-        "test-cfg-loop-info.mlir": 0,
-        "test-dominance.mlir": 3.223470887647023e-05,
-        "test-foo-analysis.mlir": 1.1289317554684035e-05,
-        "test-liveness.mlir": 5.217368347111408e-05,
-        "test-match-reduction.mlir": 2.2242692078590727e-05,
-        "test-shape-fn-report.mlir": 2.828474385118837e-05,
-        "test-topoligical-sort.mlir": 1.301588876200815e-05
+        "invalid.mlir": 0.0,
+        "test-alias-analysis-extending.mlir": 0.0,
+        "test-alias-analysis-modref.mlir": 0.04622448792960434,
+        "test-alias-analysis.mlir": 0.0917907614122405,
+        "test-callgraph.mlir": 0.05223052796246092,
+        "test-cfg-loop-info.mlir": 0.0,
+        "test-dominance.mlir": 0.10609856834450909,
+        "test-foo-analysis.mlir": 0.03715809671893243,
+        "test-liveness.mlir": 0.17172648100400456,
+        "test-match-reduction.mlir": 0.07321045754468887,
+        "test-shape-fn-report.mlir": 0.09309750058865292,
+        "test-topoligical-sort.mlir": 0.04284100001252031
     },
     "subdirscores": {
-        "DataFlow": 6.48159181882659e-05
+        "DataFlow": 0.0033707404543519832
     }
 }

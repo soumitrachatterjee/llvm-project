@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/openmp/libomptarget/plugins-nextgen/cuda",
-    "score.sum": 0.00022385457231513658,
+    "score.sum": 0.011641517761155393,
     "sha.latest": "d4f4f802363d4227c61553872bdd61abcdeb8c08",
     "time.latest": 1717795965.5771182,
     "formatted_time": "2024-06-08 03:02:45.577124",
     "filescores": {
-        "CMakeLists.txt": 4.554226672614522e-05
+        "CMakeLists.txt": 0.1498995792803602
     },
     "subdirscores": {
-        "dynamic_cuda": 1.9866722887152965e-05,
-        "src": 0.00017885654845303952
+        "dynamic_cuda": 0.0010331654384130933,
+        "src": 0.009301403424468798
     }
 }

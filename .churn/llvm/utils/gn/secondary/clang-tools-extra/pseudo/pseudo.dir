@@ -1,16 +1,16 @@
 {
     "directory name": "llvm-project/llvm/utils/gn/secondary/clang-tools-extra/pseudo",
-    "score.sum": 3.1753358180929e-05,
+    "score.sum": 0.0016513278215252176,
     "sha.latest": "19cab7ef2e14d6e6b174019b6fd1549b476e1907",
     "time.latest": 1718082929.9079907,
     "formatted_time": "2024-06-11 00:15:29.907992",
     "filescores": {},
     "subdirscores": {
-        "gen": 6.099602068851199e-06,
-        "include": 6.099602068851199e-06,
-        "lib": 1.9396988240167716e-05,
-        "test": 6.099602068851199e-06,
-        "tool": 1.0717529054401875e-05,
-        "unittests": 2.1834341875580347e-05
+        "gen": 0.00031720873550238375,
+        "include": 0.00031720873550238375,
+        "lib": 0.0010087369705048723,
+        "test": 0.00031720873550238375,
+        "tool": 0.0005573632182364934,
+        "unittests": 0.0011354911187155595
     }
 }

@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/lldb/test/API/macosx/profile_vrs_detach",
-    "score.sum": 2.9745314650775006e-05,
+    "score.sum": 0.0015468998700221685,
     "sha.latest": "9c2468821ec51defd09c246fea4a47886fff8c01",
     "time.latest": 1717963779.7875874,
     "formatted_time": "2024-06-10 01:39:39.787591",
     "filescores": {
-        "main.c": 6.099602068851199e-06,
-        "Makefile": 0,
-        "TestDetachVrsProfile.py": 2.721578813268196e-05
+        "main.c": 0.02007646631636598,
+        "Makefile": 0.0,
+        "TestDetachVrsProfile.py": 0.08957909836601044
     },
     "subdirscores": {}
 }

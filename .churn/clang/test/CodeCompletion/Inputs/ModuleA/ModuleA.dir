@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/clang/test/CodeCompletion/Inputs/ModuleA",
-    "score.sum": 0,
+    "score.sum": 0.0,
     "sha.latest": "537c5b5b62c42528fc90914ce6abe7002c3fb4c4",
     "time.latest": 1717870934.1931314,
     "formatted_time": "2024-06-08 23:52:14.193134",
     "filescores": {
-        "module.modulemap": 0,
-        "moduleA.h": 0
+        "module.modulemap": 0.0,
+        "moduleA.h": 0.0
     },
     "subdirscores": {}
 }

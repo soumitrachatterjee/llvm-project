@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/openmp/runtime/test/barrier",
-    "score.sum": 2.2744109960668844e-05,
+    "score.sum": 0.0011828034483747465,
     "sha.latest": "0e0bee26e7f33c065eebef9a674b2f19bb156414",
     "time.latest": 1717801604.2175605,
     "formatted_time": "2024-06-08 04:36:44.217563",
     "filescores": {
-        "llvm-issue-80664.c": 0,
-        "omp_barrier.c": 2.3986419746315844e-05
+        "llvm-issue-80664.c": 0.0,
+        "omp_barrier.c": 0.07894983027603038
     },
     "subdirscores": {}
 }

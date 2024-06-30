@@ -1,21 +1,21 @@
 {
     "directory name": "llvm-project/lldb/source/Host/windows",
-    "score.sum": 0.0005405170657079942,
+    "score.sum": 0.028109495176131045,
     "sha.latest": "68fbc8eec38d2930b60e01ffb2cbf297eac658fb",
     "time.latest": 1717866574.980383,
     "formatted_time": "2024-06-08 22:39:34.980385",
     "filescores": {
-        "ConnectionGenericFileWindows.cpp": 6.879234240813945e-05,
-        "FileSystem.cpp": 6.729063853491933e-05,
-        "Host.cpp": 0.00016912799107044295,
-        "HostInfoWindows.cpp": 8.587224243113876e-05,
-        "HostProcessWindows.cpp": 7.381532867024824e-05,
-        "HostThreadWindows.cpp": 2.4647474569865715e-05,
-        "LockFileWindows.cpp": 2.1587994723380588e-05,
-        "MainLoopWindows.cpp": 7.0793697999990175e-06,
-        "PipeWindows.cpp": 4.4188655944890456e-05,
-        "ProcessLauncherWindows.cpp": 7.981241590316061e-05,
-        "ProcessRunLock.cpp": 2.552777721867255e-05
+        "ConnectionGenericFileWindows.cpp": 0.2264257782050764,
+        "FileSystem.cpp": 0.22148301195777947,
+        "Host.cpp": 0.556674415404922,
+        "HostInfoWindows.cpp": 0.2826432221674866,
+        "HostProcessWindows.cpp": 0.24295862958791897,
+        "HostThreadWindows.cpp": 0.08112565170642243,
+        "LockFileWindows.cpp": 0.0710555613316371,
+        "MainLoopWindows.cpp": 0.023301311745660712,
+        "PipeWindows.cpp": 0.14544425236746059,
+        "ProcessLauncherWindows.cpp": 0.2626976746057442,
+        "ProcessRunLock.cpp": 0.0840231139142
     },
     "subdirscores": {}
 }

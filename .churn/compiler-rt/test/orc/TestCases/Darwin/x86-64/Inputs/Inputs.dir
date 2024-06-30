@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/compiler-rt/test/orc/TestCases/Darwin/x86-64/Inputs",
-    "score.sum": 1.639209196685369e-05,
+    "score.sum": 0.0008524678669773875,
     "sha.latest": "93509b4462a74c3f96eb576f1bbaaa26328e63b2",
     "time.latest": 1717835392.2585812,
     "formatted_time": "2024-06-08 13:59:52.258585",
     "filescores": {
-        "dlopen-dlclose-x2.S": 1.2191610002441196e-05,
-        "ret_self.S": 0,
-        "standalone-ctor-and-cxa-atexit-dtor.S": 0
+        "dlopen-dlclose-x2.S": 0.04012793700202483,
+        "ret_self.S": 0.0,
+        "standalone-ctor-and-cxa-atexit-dtor.S": 0.0
     },
     "subdirscores": {}
 }

@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/libcxx/test/libcxx/atomics/atomics.types.operations",
-    "score.sum": 2.0200757345264403e-05,
+    "score.sum": 0.001050536841805595,
     "sha.latest": "9bb9ec380ace81d040d3a0a0a2ae9a75733ab330",
     "time.latest": 1717845460.5016208,
     "formatted_time": "2024-06-08 16:47:40.501623",
     "filescores": {},
     "subdirscores": {
-        "atomics.types.operations.req": 2.0200757345264403e-05
+        "atomics.types.operations.req": 0.001050536841805595
     }
 }

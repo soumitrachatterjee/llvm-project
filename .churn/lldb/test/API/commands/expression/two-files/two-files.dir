@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/lldb/test/API/commands/expression/two-files",
-    "score.sum": 1.654329487616822e-05,
+    "score.sum": 0.000860331147749895,
     "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
     "time.latest": 1717894240.6042004,
     "formatted_time": "2024-06-09 06:20:40.604202",
     "filescores": {
-        "foo.m": 0,
-        "main.m": 0,
-        "Makefile": 0,
-        "TestObjCTypeQueryFromOtherCompileUnit.py": 1.654329487616822e-05
+        "foo.m": 0.0,
+        "main.m": 0.0,
+        "Makefile": 0.0,
+        "TestObjCTypeQueryFromOtherCompileUnit.py": 0.05445124101442487
     },
     "subdirscores": {}
 }

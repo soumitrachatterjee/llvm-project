@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/libclc/ptx-nvidiacl/lib/synchronization",
-    "score.sum": 1.3038268826082662e-05,
+    "score.sum": 0.000678052882922046,
     "sha.latest": "3d21fa56f5f5afbbf16b35b199480af71e1189a3",
     "time.latest": 1717831226.186665,
     "formatted_time": "2024-06-08 02:20:26.186669",
     "filescores": {
-        "barrier.cl": 1.3038268826082662e-05
+        "barrier.cl": 0.04291466262156895
     },
     "subdirscores": {}
 }

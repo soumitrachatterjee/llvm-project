@@ -1,22 +1,22 @@
 {
     "directory name": "llvm-project/libc/src/__support/threads",
-    "score.sum": 0.00016640311330611772,
+    "score.sum": 0.00865376471443078,
     "sha.latest": "330793c91d08e6ac60334e4813746db898b9407e",
     "time.latest": 1717829991.3159742,
     "formatted_time": "2024-06-08 01:59:51.315977",
     "filescores": {
-        "CMakeLists.txt": 2.413388809625187e-05,
-        "callonce.h": 1.2114861678127615e-05,
-        "fork_callbacks.cpp": 6.099602068851199e-06,
-        "fork_callbacks.h": 1.2103017610895243e-05,
-        "mutex.h": 2.220193579871982e-05,
-        "mutex_common.h": 1.214424516535169e-05,
-        "sleep.h": 0,
-        "thread.cpp": 2.0790618719775815e-05,
-        "thread.h": 6.165416739445008e-05
+        "CMakeLists.txt": 0.07943521331033351,
+        "callonce.h": 0.039875324597063576,
+        "fork_callbacks.cpp": 0.02007646631636598,
+        "fork_callbacks.h": 0.03983634057578556,
+        "mutex.h": 0.07307631074777123,
+        "mutex_common.h": 0.03997203854411334,
+        "sleep.h": 0.0,
+        "thread.cpp": 0.06843104709330666,
+        "thread.h": 0.2029309127031944
     },
     "subdirscores": {
-        "gpu": 1.204093606109984e-05,
-        "linux": 0.00013609214110144887
+        "gpu": 0.0006261867674469292,
+        "linux": 0.007077447922554916
     }
 }

@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/libcxx/test/std/thread/thread.threads/thread.thread.class/thread.thread.destr",
-    "score.sum": 2.6059361028807787e-05,
+    "score.sum": 0.001355212498559777,
     "sha.latest": "c9d36bd80760db14f14b33789e6cbc6cb8c64830",
     "time.latest": 1717980014.1124382,
     "formatted_time": "2024-06-10 06:10:14.112441",
     "filescores": {
-        "dtor.pass.cpp": 2.6059361028807787e-05
+        "dtor.pass.cpp": 0.0857727894402488
     },
     "subdirscores": {}
 }

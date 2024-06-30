@@ -1,21 +1,21 @@
 {
     "directory name": "llvm-project/llvm/include/llvm/TableGen",
-    "score.sum": 0.0009956952691217594,
+    "score.sum": 0.05178095779013746,
     "sha.latest": "67c82d6ffb4bbc21212116a11f390761d859297a",
     "time.latest": 1717822953.5006955,
     "formatted_time": "2024-06-08 00:02:33.500699",
     "filescores": {
-        "Automaton.td": 0,
-        "DirectiveEmitter.h": 2.75576727537503e-05,
-        "Error.h": 5.958529397489763e-05,
-        "Main.h": 2.362136106079148e-05,
-        "Parser.h": 1.2852203295055145e-05,
-        "Record.h": 0.0007850958918360389,
-        "SearchableTable.td": 1.7383119126328115e-05,
-        "SetTheory.h": 1.574047679821345e-05,
-        "StringMatcher.h": 3.481744700666555e-05,
-        "StringToOffsetTable.h": 2.1350675404812675e-05,
-        "TableGenBackend.h": 2.9178362013722345e-05
+        "Automaton.td": 0.0,
+        "DirectiveEmitter.h": 0.09070439063942178,
+        "Error.h": 0.19612134266048953,
+        "Main.h": 0.07774826198998526,
+        "Parser.h": 0.04230223933163222,
+        "Record.h": 2.5840950031896353,
+        "SearchableTable.td": 0.05721547105429991,
+        "SetTheory.h": 0.05180881452195957,
+        "StringMatcher.h": 0.11459949258342855,
+        "StringToOffsetTable.h": 0.07027443934176456,
+        "TableGenBackend.h": 0.09603878999364932
     },
     "subdirscores": {}
 }

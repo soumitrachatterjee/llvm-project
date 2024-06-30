@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/mlir/test/Dialect/Index",
-    "score.sum": 3.342120725455677e-05,
+    "score.sum": 0.001738064019998888,
     "sha.latest": "c17aa14f4ca101db247d124b4b05506247aa330f",
     "time.latest": 1717819234.637425,
     "formatted_time": "2024-06-07 23:00:34.637428",
     "filescores": {
-        "index-canonicalize.mlir": 2.922819372712045e-05,
-        "index-errors.mlir": 0,
-        "index-ops.mlir": 1.2716410598452218e-05,
-        "int-range-inference.mlir": 6.307979472612215e-06
+        "index-canonicalize.mlir": 0.09620280802371606,
+        "index-errors.mlir": 0.0,
+        "index-ops.mlir": 0.04185528599458107,
+        "int-range-inference.mlir": 0.02076232776773239
     },
     "subdirscores": {}
 }

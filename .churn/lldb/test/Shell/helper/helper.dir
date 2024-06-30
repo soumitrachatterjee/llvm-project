@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/lldb/test/Shell/helper",
-    "score.sum": 0.0001301830794982601,
+    "score.sum": 0.0067701482105417,
     "sha.latest": "0c02329ff375100ddcf2cb104aebe97bb3c9126f",
     "time.latest": 1717972975.7405076,
     "formatted_time": "2024-06-10 04:12:55.740511",
     "filescores": {
-        "build.py": 7.895334487344831e-05,
-        "toolchain.py": 6.775758894297987e-05,
-        "__init__.py": 8.22683439832498e-06
+        "build.py": 0.2598700949707611,
+        "toolchain.py": 0.2230199506027961,
+        "__init__.py": 0.02707812113379387
     },
     "subdirscores": {}
 }

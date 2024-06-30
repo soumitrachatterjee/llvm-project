@@ -1,20 +1,20 @@
 {
     "directory name": "llvm-project/libcxx/test/std/re/re.regex/re.regex.assign",
-    "score.sum": 2.9457601483495642e-05,
+    "score.sum": 0.0015319373972329784,
     "sha.latest": "60a6a0d17ad5afcac5c71dcf9a05f8c814951804",
     "time.latest": 1717966848.8184745,
     "formatted_time": "2024-06-10 02:30:48.818476",
     "filescores": {
-        "assign.il.pass.cpp": 1.9396914251497965e-05,
-        "assign.pass.cpp": 2.0344604616019638e-05,
-        "assign_iter_iter_flag.pass.cpp": 1.748277479628062e-05,
-        "assign_ptr_flag.pass.cpp": 1.412973324667397e-05,
-        "assign_ptr_size_flag.pass.cpp": 1.833923067422399e-05,
-        "assign_string_flag.pass.cpp": 1.2933477575358423e-05,
-        "copy.pass.cpp": 1.412973324667397e-05,
-        "il.pass.cpp": 1.9396914251497965e-05,
-        "ptr.pass.cpp": 1.412973324667397e-05,
-        "string.pass.cpp": 1.412973324667397e-05
+        "assign.il.pass.cpp": 0.06384375426723236,
+        "assign.pass.cpp": 0.06696301901055478,
+        "assign_iter_iter_flag.pass.cpp": 0.05754348158325777,
+        "assign_ptr_flag.pass.cpp": 0.046507150857386,
+        "assign_ptr_size_flag.pass.cpp": 0.060362453606497016,
+        "assign_string_flag.pass.cpp": 0.042569748643301625,
+        "copy.pass.cpp": 0.046507150857386,
+        "il.pass.cpp": 0.06384375426723236,
+        "ptr.pass.cpp": 0.046507150857386,
+        "string.pass.cpp": 0.046507150857386
     },
     "subdirscores": {}
 }

@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/clang/test/CXX/module/module.reach/p4",
-    "score.sum": 1.0188895165163926e-05,
+    "score.sum": 0.0005298717055679532,
     "sha.latest": "9c04851cf5809c80862183481f8ced0b3e9ee301",
     "time.latest": 1718103867.7911818,
     "formatted_time": "2024-06-11 16:34:27.791185",
     "filescores": {
-        "TransitiveImport.cpp": 1.0188895165163926e-05
+        "TransitiveImport.cpp": 0.03353612387749158
     },
     "subdirscores": {}
 }

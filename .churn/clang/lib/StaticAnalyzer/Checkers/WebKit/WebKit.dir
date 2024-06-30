@@ -1,20 +1,20 @@
 {
     "directory name": "llvm-project/clang/lib/StaticAnalyzer/Checkers/WebKit",
-    "score.sum": 0.00017020210656307463,
+    "score.sum": 0.008851330692279618,
     "sha.latest": "7ce1cfed9a11735f0f4ee8a3a8bebfa87ee76d07",
     "time.latest": 1717821671.7021458,
     "formatted_time": "2024-06-08 10:11:11.702149",
     "filescores": {
-        "ASTUtils.cpp": 3.7581111966473614e-05,
-        "ASTUtils.h": 1.1732904560782237e-05,
-        "DiagOutputUtils.h": 6.327964918781136e-06,
-        "NoUncountedMembersChecker.cpp": 2.6176240585050625e-05,
-        "PtrTypesSemantics.cpp": 8.872855385571384e-05,
-        "PtrTypesSemantics.h": 3.9291163762917656e-05,
-        "RefCntblBaseVirtualDtorChecker.cpp": 2.2077504725673506e-05,
-        "UncountedCallArgsChecker.cpp": 6.506201208112651e-05,
-        "UncountedLambdaCapturesChecker.cpp": 2.901810914269095e-05,
-        "UncountedLocalVarsChecker.cpp": 1.9801727066752767e-05
+        "ASTUtils.cpp": 0.12369592639157,
+        "ASTUtils.h": 0.03861813615851926,
+        "DiagOutputUtils.h": 0.02082810863873,
+        "NoUncountedMembersChecker.cpp": 0.08615749133514193,
+        "PtrTypesSemantics.cpp": 0.292044596135368,
+        "PtrTypesSemantics.h": 0.12932445705685253,
+        "RefCntblBaseVirtualDtorChecker.cpp": 0.07266675349821214,
+        "UncountedCallArgsChecker.cpp": 0.21414762459541,
+        "UncountedLambdaCapturesChecker.cpp": 0.09551132749182606,
+        "UncountedLocalVarsChecker.cpp": 0.06517617083443755
     },
     "subdirscores": {}
 }

@@ -1,30 +1,30 @@
 {
     "directory name": "llvm-project/clang/include/clang/Analysis",
-    "score.sum": 0.004366546381324983,
+    "score.sum": 0.22708147851249566,
     "sha.latest": "2d539db246fd9d26201255b84d04dacf2782eddf",
     "time.latest": 1717794100.2980747,
     "formatted_time": "2024-06-08 02:31:40.298079",
     "filescores": {
-        "AnalysisDeclContext.h": 4.068522817434757e-05,
-        "AnyCall.h": 3.3639036827641123e-05,
-        "BodyFarm.h": 3.391500318850037e-05,
-        "CallGraph.h": 8.977723504545706e-05,
-        "CFG.h": 0.0003742536652455506,
-        "CFGStmtMap.h": 2.0303528209298134e-05,
-        "CloneDetection.h": 4.783987934424343e-05,
-        "CodeInjector.h": 1.3665469758808008e-05,
-        "ConstructionContext.h": 3.2971419333512324e-05,
-        "IssueHash.h": 6.587288900275304e-06,
-        "MacroExpansionContext.h": 2.4036273293309456e-05,
-        "PathDiagnostic.h": 0.00013257480256771204,
-        "ProgramPoint.h": 0.0002238484301468631,
-        "RetainSummaryManager.h": 2.9467230554518352e-05,
-        "SelectorExtras.h": 1.2037800897926317e-05
+        "AnalysisDeclContext.h": 0.13391293461374806,
+        "AnyCall.h": 0.11072082771332785,
+        "BodyFarm.h": 0.11162915407391684,
+        "CallGraph.h": 0.29549626598937406,
+        "CFG.h": 1.2318329981637535,
+        "CFGStmtMap.h": 0.06682781853573151,
+        "CloneDetection.h": 0.1574620303738287,
+        "CodeInjector.h": 0.04497905604548706,
+        "ConstructionContext.h": 0.10852340565500367,
+        "IssueHash.h": 0.02168165762778301,
+        "MacroExpansionContext.h": 0.07911392017003833,
+        "PathDiagnostic.h": 0.43636183608463397,
+        "ProgramPoint.h": 0.736783386372829,
+        "RetainSummaryManager.h": 0.09698958308862267,
+        "SelectorExtras.h": 0.03962168376270081
     },
     "subdirscores": {
-        "Analyses": 0.0012587718246509384,
-        "DomainSpecific": 2.615646015791261e-05,
-        "FlowSensitive": 0.0015537910134353465,
-        "Support": 6.919014491173042e-05
+        "Analyses": 0.06546220790740134,
+        "DomainSpecific": 0.0013602621217342153,
+        "FlowSensitive": 0.0808046290632238,
+        "Support": 0.0035982213477100387
     }
 }

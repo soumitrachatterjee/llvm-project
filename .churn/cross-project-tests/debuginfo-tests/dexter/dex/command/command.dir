@@ -1,16 +1,16 @@
 {
     "directory name": "llvm-project/cross-project-tests/debuginfo-tests/dexter/dex/command",
-    "score.sum": 5.998009749287851e-05,
+    "score.sum": 0.0031192544474641596,
     "sha.latest": "9120e854486d00307e14751769200ae4c45909a9",
     "time.latest": 1717788386.1697228,
     "formatted_time": "2024-06-08 00:56:26.169728",
     "filescores": {
-        "CommandBase.py": 8.241294320283094e-06,
-        "ParseCommand.py": 1.746120047493386e-05,
-        "StepValueInfo.py": 6.099602068851199e-06,
-        "__init__.py": 0
+        "CommandBase.py": 0.027125715080555057,
+        "ParseCommand.py": 0.05747247102700712,
+        "StepValueInfo.py": 0.02007646631636598,
+        "__init__.py": 0.0
     },
     "subdirscores": {
-        "commands": 5.47535601817633e-05
+        "commands": 0.0028474492915210713
     }
 }

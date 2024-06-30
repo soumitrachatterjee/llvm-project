@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/libcxx/test/std/utilities/optional/optional.nullopt",
-    "score.sum": 2.7888326239052315e-05,
+    "score.sum": 0.0014503275134526723,
     "sha.latest": "31cbe0f240f660f15602c96b787c58a26f17e179",
     "time.latest": 1718003056.0030248,
     "formatted_time": "2024-06-10 12:34:16.003027",
     "filescores": {
-        "nullopt_t.compile.fail.cpp": 6.099602068851199e-06,
-        "nullopt_t.pass.cpp": 2.0684567466328407e-05
+        "nullopt_t.compile.fail.cpp": 0.02007646631636598,
+        "nullopt_t.pass.cpp": 0.06808198589331166
     },
     "subdirscores": {}
 }

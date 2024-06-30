@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/llvm/test/CodeGen/Hexagon/pipeliner",
-    "score.sum": 1.9065655510020414e-05,
+    "score.sum": 0.0009915060700011655,
     "sha.latest": "60442f0d442723a487528bdd8b48b24657a025e8",
     "time.latest": 1718057973.9938958,
     "formatted_time": "2024-06-10 17:19:33.993899",
     "filescores": {
-        "swp-phi-start.mir": 1.9065655510020414e-05
+        "swp-phi-start.mir": 0.0627534364251492
     },
     "subdirscores": {}
 }

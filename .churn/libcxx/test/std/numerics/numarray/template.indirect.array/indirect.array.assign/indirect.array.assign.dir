@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/libcxx/test/std/numerics/numarray/template.indirect.array/indirect.array.assign",
-    "score.sum": 1.7366275644238228e-05,
+    "score.sum": 0.000903130118213133,
     "sha.latest": "7fc6a55688c816f5fc1a5481ae7af25be7500356",
     "time.latest": 1717949111.9253356,
     "formatted_time": "2024-06-09 21:35:11.925338",
     "filescores": {
-        "indirect_array.pass.cpp": 1.7366275644238228e-05,
-        "valarray.pass.cpp": 1.7366275644238228e-05
+        "indirect_array.pass.cpp": 0.057160031765472394,
+        "valarray.pass.cpp": 0.057160031765472394
     },
     "subdirscores": {}
 }

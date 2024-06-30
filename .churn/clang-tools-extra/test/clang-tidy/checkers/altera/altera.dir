@@ -1,19 +1,19 @@
 {
     "directory name": "llvm-project/clang-tools-extra/test/clang-tidy/checkers/altera",
-    "score.sum": 1.3695908489563121e-05,
+    "score.sum": 0.000712253318247844,
     "sha.latest": "e8a3ddafe063c970df9c23e803812369abde4c82",
     "time.latest": 1717819107.4529927,
     "formatted_time": "2024-06-08 09:28:27.452996",
     "filescores": {
-        "id-dependent-backward-branch.cpp": 1.2196966312359206e-05,
-        "kernel-name-restriction.cpp": 0,
-        "single-work-item-barrier.cpp": 6.099602068851199e-06,
-        "struct-pack-align-invalid-decl-no-crash.cpp": 0,
-        "struct-pack-align-no-crash.cpp": 0,
-        "struct-pack-align.cpp": 0,
-        "unroll-loops.cpp": 6.099602068851199e-06
+        "id-dependent-backward-branch.cpp": 0.04014556696778901,
+        "kernel-name-restriction.cpp": 0.0,
+        "single-work-item-barrier.cpp": 0.02007646631636598,
+        "struct-pack-align-invalid-decl-no-crash.cpp": 0.0,
+        "struct-pack-align-no-crash.cpp": 0.0,
+        "struct-pack-align.cpp": 0.0,
+        "unroll-loops.cpp": 0.02007646631636598
     },
     "subdirscores": {
-        "Inputs": 0
+        "Inputs": 0.0
     }
 }

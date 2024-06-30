@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/clang/test/CXX/lex/lex.literal/lex.ccon",
-    "score.sum": 1.6561607784513415e-05,
+    "score.sum": 0.0008612835073356481,
     "sha.latest": "c6e68daac0fa6e77a89f3ca72f266a528503dd1c",
     "time.latest": 1718101137.3272119,
     "formatted_time": "2024-06-11 15:48:57.327214",
     "filescores": {
-        "p1.cpp": 1.6561607784513415e-05
+        "p1.cpp": 0.05451151682969886
     },
     "subdirscores": {}
 }

@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/clang/test/ASTMerge/inheritance",
-    "score.sum": 1.1677920706871453e-05,
+    "score.sum": 0.0006073082176361504,
     "sha.latest": "0333dd95636da52229ca14b4e5525c1cd8ba62d2",
     "time.latest": 1717865667.3220372,
     "formatted_time": "2024-06-08 22:24:27.322040",
     "filescores": {
-        "test.cpp": 1.1677920706871453e-05
+        "test.cpp": 0.038437160173770836
     },
     "subdirscores": {
-        "Inputs": 1.1677920706871453e-05
+        "Inputs": 0.0006073082176361504
     }
 }

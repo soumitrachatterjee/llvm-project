@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/lldb/scripts/lldb-test-qemu",
-    "score.sum": 1.787179940735638e-05,
+    "score.sum": 0.0009294197928271554,
     "sha.latest": "01e30b30d09aca13819b40bfeff634e776e2b564",
     "time.latest": 1717861847.810505,
     "formatted_time": "2024-06-08 21:20:47.810508",
     "filescores": {
-        "rootfs.sh": 6.099602068851199e-06,
-        "run-qemu.sh": 1.1964033820004435e-05,
-        "setup.sh": 6.099602068851199e-06
+        "rootfs.sh": 0.02007646631636598,
+        "run-qemu.sh": 0.03937888394749347,
+        "setup.sh": 0.02007646631636598
     },
     "subdirscores": {}
 }

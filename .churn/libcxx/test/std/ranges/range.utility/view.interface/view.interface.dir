@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/libcxx/test/std/ranges/range.utility/view.interface",
-    "score.sum": 3.78413242844515e-05,
+    "score.sum": 0.0019679314306920467,
     "sha.latest": "fb855eb941b6d740cc6560297d0b4d3201dcaf9f",
     "time.latest": 1717965452.46484,
     "formatted_time": "2024-06-10 02:07:32.464842",
     "filescores": {
-        "view.interface.pass.cpp": 3.78413242844515e-05
+        "view.interface.pass.cpp": 0.12455239928570593
     },
     "subdirscores": {}
 }

@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/lldb/test/API/functionalities/type_lookup",
-    "score.sum": 1.2631625928834905e-05,
+    "score.sum": 0.0006569054903903753,
     "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
     "time.latest": 1717923704.867698,
     "formatted_time": "2024-06-09 14:31:44.867700",
     "filescores": {
-        "main.mm": 6.2244180030747585e-06,
-        "Makefile": 6.099602068851199e-06,
-        "TestTypeLookup.py": 1.0459834404963863e-05
+        "main.mm": 0.020487290312898757,
+        "Makefile": 0.02007646631636598,
+        "TestTypeLookup.py": 0.03442790377726621
     },
     "subdirscores": {}
 }

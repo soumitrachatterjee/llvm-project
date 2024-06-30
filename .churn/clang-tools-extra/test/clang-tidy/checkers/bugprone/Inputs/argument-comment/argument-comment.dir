@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/clang-tools-extra/test/clang-tidy/checkers/bugprone/Inputs/argument-comment",
-    "score.sum": 0,
+    "score.sum": 0.0,
     "sha.latest": "89a1d03e2b379e325daa5249411e414bbd995b5e",
     "time.latest": 1717820336.8494544,
     "formatted_time": "2024-06-08 09:48:56.849459",
     "filescores": {
-        "header-with-decl.h": 0,
-        "system-header-with-decl.h": 0
+        "header-with-decl.h": 0.0,
+        "system-header-with-decl.h": 0.0
     },
     "subdirscores": {}
 }

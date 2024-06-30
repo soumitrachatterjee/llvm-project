@@ -1,15 +1,15 @@
 {
     "directory name": "llvm-project/clang/lib/Tooling/Refactoring/Rename",
-    "score.sum": 0.00010790489107316862,
+    "score.sum": 0.0056115749298853625,
     "sha.latest": "f3dcc2351cff7b26c9870d737e5d431551542d9e",
     "time.latest": 1717823655.691674,
     "formatted_time": "2024-06-08 10:44:15.691676",
     "filescores": {
-        "RenamingAction.cpp": 3.0283455430449627e-05,
-        "SymbolOccurrences.cpp": 1.2180311497792858e-05,
-        "USRFinder.cpp": 1.930402714177895e-05,
-        "USRFindingAction.cpp": 5.34457711127996e-05,
-        "USRLocFinder.cpp": 4.493911161104548e-05
+        "RenamingAction.cpp": 0.09967613723481808,
+        "SymbolOccurrences.cpp": 0.04009074866655028,
+        "USRFinder.cpp": 0.06353802203938401,
+        "USRFindingAction.cpp": 0.17591347950021544,
+        "USRLocFinder.cpp": 0.14791433119119685
     },
     "subdirscores": {}
 }

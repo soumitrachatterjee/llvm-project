@@ -1,30 +1,30 @@
 {
     "directory name": "llvm-project/mlir/test/mlir-pdll-lsp-server",
-    "score.sum": 1.4692869899306066e-05,
+    "score.sum": 0.0007641001214588599,
     "sha.latest": "f9008e6366c2496b1ca1785b891d5578174ad63e",
     "time.latest": 1717833027.2428002,
     "formatted_time": "2024-06-08 02:50:27.242804",
     "filescores": {
-        "compilation_database.test": 6.099602068851199e-06,
-        "completion.test": 1.2191741873396647e-05,
-        "definition-split-file.test": 6.099602068851199e-06,
-        "definition.test": 0,
-        "document-links.test": 0,
-        "document-symbols.test": 0,
-        "exit-eof.test": 0,
-        "exit-with-shutdown.test": 0,
-        "exit-without-shutdown.test": 0,
-        "hover.test": 9.202037952442576e-06,
-        "initialize-params-invalid.test": 0,
-        "initialize-params.test": 1.5138895070486222e-05,
-        "inlay-hints.test": 0,
-        "lit.local.cfg": 6.099602068851199e-06,
-        "references.test": 0,
-        "signature-help.test": 6.099602068851199e-06,
-        "textdocument-didchange.test": 0,
-        "view-output.test": 0
+        "compilation_database.test": 0.02007646631636598,
+        "completion.test": 0.040128371047191275,
+        "definition-split-file.test": 0.02007646631636598,
+        "definition.test": 0.0,
+        "document-links.test": 0.0,
+        "document-symbols.test": 0.0,
+        "exit-eof.test": 0.0,
+        "exit-with-shutdown.test": 0.0,
+        "exit-without-shutdown.test": 0.0,
+        "hover.test": 0.030287943854168435,
+        "initialize-params-invalid.test": 0.0,
+        "initialize-params.test": 0.04982874514088735,
+        "inlay-hints.test": 0.0,
+        "lit.local.cfg": 0.02007646631636598,
+        "references.test": 0.0,
+        "signature-help.test": 0.02007646631636598,
+        "textdocument-didchange.test": 0.0,
+        "view-output.test": 0.0
     },
     "subdirscores": {
-        "include": 6.099602068851199e-06
+        "include": 0.00031720873550238375
     }
 }

@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/llvm/utils/gn/secondary/clang/lib/Interpreter",
-    "score.sum": 5.883834983541167e-05,
+    "score.sum": 0.0030598780608409454,
     "sha.latest": "a806aef7535075a1fa2e2159803c9dceb042b6ff",
     "time.latest": 1718083961.8452473,
     "formatted_time": "2024-06-11 00:32:41.845251",
     "filescores": {
-        "BUILD.gn": 5.883834983541167e-05
+        "BUILD.gn": 0.19366282181153505
     },
     "subdirscores": {}
 }

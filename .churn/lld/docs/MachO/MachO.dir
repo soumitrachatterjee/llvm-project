@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/lld/docs/MachO",
-    "score.sum": 1.4132776127790174e-05,
+    "score.sum": 0.0007349725431316431,
     "sha.latest": "a2ae9e3a24a77451341020341bed251a76ba7c02",
     "time.latest": 1717839272.710571,
     "formatted_time": "2024-06-08 15:04:32.710574",
     "filescores": {
-        "index.rst": 6.448844213814904e-06,
-        "ld64-vs-lld.rst": 1.4132776127790174e-05
+        "index.rst": 0.021225975428677595,
+        "ld64-vs-lld.rst": 0.046517166314057536
     },
     "subdirscores": {}
 }

@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/mlir/test/Conversion/ReconcileUnrealizedCasts",
-    "score.sum": 0,
+    "score.sum": 0.0,
     "sha.latest": "e90deaf1217d9ea0316a3ec03e199c658f5757d5",
     "time.latest": 1717816473.8952672,
     "formatted_time": "2024-06-07 22:14:33.895271",
     "filescores": {
-        "reconcile-unrealized-casts-failure.mlir": 0,
-        "reconcile-unrealized-casts.mlir": 0
+        "reconcile-unrealized-casts-failure.mlir": 0.0,
+        "reconcile-unrealized-casts.mlir": 0.0
     },
     "subdirscores": {}
 }

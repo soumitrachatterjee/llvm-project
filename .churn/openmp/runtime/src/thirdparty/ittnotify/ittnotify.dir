@@ -1,19 +1,19 @@
 {
     "directory name": "llvm-project/openmp/runtime/src/thirdparty/ittnotify",
-    "score.sum": 8.347674765879791e-05,
+    "score.sum": 0.0043411936171905115,
     "sha.latest": "1111ef025762d9b7ecc3cafc576083987ae63fe6",
     "time.latest": 1717800708.168673,
     "formatted_time": "2024-06-08 04:21:48.168676",
     "filescores": {
-        "disable_warnings.h": 2.5344541516691128e-05,
-        "ittnotify.h": 3.563411776453741e-05,
-        "ittnotify_config.h": 4.232991145680282e-05,
-        "ittnotify_static.cpp": 1.3985582130667546e-05,
-        "ittnotify_static.h": 2.06168462773843e-05,
-        "ittnotify_types.h": 1.983091748520236e-05,
-        "LICENSE.txt": 0
+        "disable_warnings.h": 0.08342000483310569,
+        "ittnotify.h": 0.11728751432269972,
+        "ittnotify_config.h": 0.1393263088221941,
+        "ittnotify_static.cpp": 0.04603268629522242,
+        "ittnotify_static.h": 0.0678590857510739,
+        "ittnotify_types.h": 0.06527224930745083,
+        "LICENSE.txt": 0.0
     },
     "subdirscores": {
-        "legacy": 2.922978616429756e-05
+        "legacy": 0.0015200899015250322
     }
 }

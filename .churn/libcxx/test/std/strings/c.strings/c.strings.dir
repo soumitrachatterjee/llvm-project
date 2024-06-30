@@ -1,18 +1,18 @@
 {
     "directory name": "llvm-project/libcxx/test/std/strings/c.strings",
-    "score.sum": 0.00011849658474205424,
+    "score.sum": 0.006162394100974108,
     "sha.latest": "8aeacebf288b2f5dc9d3f23e9ac9a4f910238504",
     "time.latest": 1717971335.3037112,
     "formatted_time": "2024-06-10 03:45:35.303714",
     "filescores": {
-        "cctype.pass.cpp": 1.522058395989131e-05,
-        "cstring.pass.cpp": 3.04929681715804e-05,
-        "cuchar.compile.pass.cpp": 1.5447074464100396e-05,
-        "cwchar.pass.cpp": 4.850490327027002e-05,
-        "cwchar_include_order1.compile.verify.cpp": 0,
-        "cwchar_include_order2.compile.verify.cpp": 0,
-        "cwctype.pass.cpp": 2.804300078692739e-05,
-        "no_c8rtomb_mbrtoc8.verify.cpp": 1.0213504191076829e-05
+        "cctype.pass.cpp": 0.05009761911300067,
+        "cstring.pass.cpp": 0.10036573557954316,
+        "cuchar.compile.pass.cpp": 0.0508430987241955,
+        "cwchar.pass.cpp": 0.15965091586172492,
+        "cwchar_include_order1.compile.verify.cpp": 0.0,
+        "cwchar_include_order2.compile.verify.cpp": 0.0,
+        "cwctype.pass.cpp": 0.09230181811099832,
+        "no_c8rtomb_mbrtoc8.verify.cpp": 0.03361712297780044
     },
     "subdirscores": {}
 }

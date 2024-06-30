@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/lldb/test/API/commands/trace/intelpt-kernel-trace",
-    "score.sum": 0,
+    "score.sum": 0.0,
     "sha.latest": "6fb744be76704f075a4edc753916e0e475d10f20",
     "time.latest": 1717899309.3227477,
     "formatted_time": "2024-06-09 07:45:09.322751",
     "filescores": {
-        "trace.json": 0,
-        "trace_kernel_with_process.json": 0,
-        "trace_kernel_wo_cpus.json": 0,
-        "trace_with_loadAddress.json": 0
+        "trace.json": 0.0,
+        "trace_kernel_with_process.json": 0.0,
+        "trace_kernel_wo_cpus.json": 0.0,
+        "trace_with_loadAddress.json": 0.0
     },
     "subdirscores": {}
 }

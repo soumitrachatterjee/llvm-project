@@ -1,19 +1,19 @@
 {
     "directory name": "llvm-project/flang/lib/Lower/OpenMP",
-    "score.sum": 2.554085558319885e-05,
+    "score.sum": 0.0013282477138252722,
     "sha.latest": "c03fd37d9b61bc6063e4d6e983846f877e83ac67",
     "time.latest": 1717791084.2882638,
     "formatted_time": "2024-06-07 15:11:24.288268",
     "filescores": {
-        "ClauseProcessor.cpp": 6.099602068851199e-06,
-        "ClauseProcessor.h": 6.099602068851199e-06,
-        "DataSharingProcessor.cpp": 1.2096730174402287e-05,
-        "DataSharingProcessor.h": 6.099602068851199e-06,
-        "OpenMP.cpp": 2.275470272533467e-05,
-        "ReductionProcessor.cpp": 0,
-        "ReductionProcessor.h": 0,
-        "Utils.cpp": 6.099602068851199e-06,
-        "Utils.h": 9.257853058993498e-06
+        "ClauseProcessor.cpp": 0.02007646631636598,
+        "ClauseProcessor.h": 0.02007646631636598,
+        "DataSharingProcessor.cpp": 0.03981564586397613,
+        "DataSharingProcessor.h": 0.02007646631636598,
+        "OpenMP.cpp": 0.07489570920323052,
+        "ReductionProcessor.cpp": 0.0,
+        "ReductionProcessor.h": 0.0,
+        "Utils.cpp": 0.02007646631636598,
+        "Utils.h": 0.03047165585602777
     },
     "subdirscores": {}
 }

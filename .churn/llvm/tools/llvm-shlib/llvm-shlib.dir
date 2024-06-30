@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/llvm/tools/llvm-shlib",
-    "score.sum": 0.0003566554585169062,
+    "score.sum": 0.018547804550056238,
     "sha.latest": "10c48a772742b7afe665a815b7eba2047f17dc4b",
     "time.latest": 1718084081.8165607,
     "formatted_time": "2024-06-11 00:34:41.816564",
     "filescores": {
-        "CMakeLists.txt": 0.00021277902803476927,
-        "gen-msvc-exports.py": 8.657941982119228e-06,
-        "libllvm.cpp": 8.286549398786674e-06,
-        "simple_version_script.map.in": 7.302983945207621e-06
+        "CMakeLists.txt": 0.7003491278528108,
+        "gen-msvc-exports.py": 0.028497085319830553,
+        "libllvm.cpp": 0.0272746693974049,
+        "simple_version_script.map.in": 0.024037323997520454
     },
     "subdirscores": {}
 }

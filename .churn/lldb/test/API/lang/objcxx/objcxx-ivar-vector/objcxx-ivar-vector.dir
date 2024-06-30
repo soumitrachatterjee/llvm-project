@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/lldb/test/API/lang/objcxx/objcxx-ivar-vector",
-    "score.sum": 1.2139001116993191e-05,
+    "score.sum": 0.000631286623474547,
     "sha.latest": "a852cf66ea5d130a09cd796b97b15c18059e95cd",
     "time.latest": 1717960549.2147188,
     "formatted_time": "2024-06-10 00:45:49.214722",
     "filescores": {
-        "main.mm": 0,
-        "TestIvarVector.py": 1.2139001116993191e-05
+        "main.mm": 0.0,
+        "TestIvarVector.py": 0.03995477808039089
     },
     "subdirscores": {}
 }

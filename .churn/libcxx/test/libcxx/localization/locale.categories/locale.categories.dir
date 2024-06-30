@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/libcxx/test/libcxx/localization/locale.categories",
-    "score.sum": 1.695599740761423e-05,
+    "score.sum": 0.0008817936704949693,
     "sha.latest": "7fc6a55688c816f5fc1a5481ae7af25be7500356",
     "time.latest": 1717860473.1682293,
     "formatted_time": "2024-06-08 20:57:53.168232",
     "filescores": {
-        "__scan_keyword.pass.cpp": 1.695599740761423e-05
+        "__scan_keyword.pass.cpp": 0.05580962609884978
     },
     "subdirscores": {}
 }

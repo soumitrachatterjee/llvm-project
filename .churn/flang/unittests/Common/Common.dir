@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/flang/unittests/Common",
-    "score.sum": 0,
+    "score.sum": 0.0,
     "sha.latest": "73b193aec21d5203bde76c76bd0a29c6f77daf36",
     "time.latest": 1717812767.4050462,
     "formatted_time": "2024-06-07 21:12:47.405050",
     "filescores": {
-        "CMakeLists.txt": 0,
-        "FastIntSetTest.cpp": 0
+        "CMakeLists.txt": 0.0,
+        "FastIntSetTest.cpp": 0.0
     },
     "subdirscores": {}
 }

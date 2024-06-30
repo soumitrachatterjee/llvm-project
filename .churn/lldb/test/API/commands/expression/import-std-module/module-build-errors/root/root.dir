@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/lldb/test/API/commands/expression/import-std-module/module-build-errors/root",
-    "score.sum": 0,
+    "score.sum": 0.0,
     "sha.latest": "6fcb857746c19b5ed46afdf732b839082326f9d4",
     "time.latest": 1717891478.7935658,
     "formatted_time": "2024-06-09 05:34:38.793567",
     "filescores": {},
     "subdirscores": {
-        "usr": 0
+        "usr": 0.0
     }
 }

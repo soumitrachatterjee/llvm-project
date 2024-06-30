@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/lldb/test/API/commands/register/register/aarch64_sve_registers/rw_access_dynamic_resize",
-    "score.sum": 5.437319828433585e-05,
+    "score.sum": 0.0028276686377744294,
     "sha.latest": "9c2468821ec51defd09c246fea4a47886fff8c01",
     "time.latest": 1717897230.4457285,
     "formatted_time": "2024-06-09 07:10:30.445731",
     "filescores": {
-        "main.c": 1.7834886738242613e-05,
-        "Makefile": 0,
-        "TestSVEThreadedDynamic.py": 4.911376491607938e-05
+        "main.c": 0.0587024364564765,
+        "Makefile": 0.0,
+        "TestSVEThreadedDynamic.py": 0.16165494664692023
     },
     "subdirscores": {}
 }

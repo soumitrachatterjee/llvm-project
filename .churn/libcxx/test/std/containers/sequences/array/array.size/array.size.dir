@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/libcxx/test/std/containers/sequences/array/array.size",
-    "score.sum": 2.1739186318159878e-05,
+    "score.sum": 0.001130542570645594,
     "sha.latest": "9fb3669429a8bc59622c26ab6f5cf6926ee97e7d",
     "time.latest": 1717883158.129926,
     "formatted_time": "2024-06-09 03:15:58.129927",
     "filescores": {
-        "size.pass.cpp": 2.1739186318159878e-05
+        "size.pass.cpp": 0.07155319919811447
     },
     "subdirscores": {}
 }

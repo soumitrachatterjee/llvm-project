@@ -1,22 +1,22 @@
 {
     "directory name": "llvm-project/mlir/test/Dialect/ArmSME",
-    "score.sum": 0.0001977897795090583,
+    "score.sum": 0.01028602278397159,
     "sha.latest": "d1fc59c3b5c5ce292a6060d7a5545094cdf1b5fc",
     "time.latest": 1717818038.7570884,
     "formatted_time": "2024-06-07 22:40:38.757092",
     "filescores": {
-        "canonicalize.mlir": 6.099602068851199e-06,
-        "cse.mlir": 6.099602068851199e-06,
-        "enable-arm-streaming.mlir": 2.134192056974145e-05,
-        "enable-arm-za.mlir": 2.0160870984368376e-05,
-        "invalid.mlir": 3.844388425743815e-05,
-        "outer-product-fusion.mlir": 1.0663485522620968e-05,
-        "roundtrip.mlir": 5.0104925847629025e-05,
-        "tile-allocation-invalid.mlir": 0,
-        "tile-allocation.mlir": 1.0721398569983208e-05,
-        "tile-zero-masks.mlir": 1.2436022908809314e-05,
-        "vector-legalization.mlir": 1.1781240462589828e-05,
-        "vector-ops-to-llvm.mlir": 3.139085979726993e-05
+        "canonicalize.mlir": 0.02007646631636598,
+        "cse.mlir": 0.02007646631636598,
+        "enable-arm-streaming.mlir": 0.07024562333878129,
+        "enable-arm-za.mlir": 0.06635827102447428,
+        "invalid.mlir": 0.12653568850108507,
+        "outer-product-fusion.mlir": 0.035098208947633366,
+        "roundtrip.mlir": 0.16491729209695746,
+        "tile-allocation-invalid.mlir": 0.0,
+        "tile-allocation.mlir": 0.03528882619307363,
+        "tile-zero-masks.mlir": 0.04093240710131916,
+        "vector-legalization.mlir": 0.03877723081642603,
+        "vector-ops-to-llvm.mlir": 0.10332109082656143
     },
     "subdirscores": {}
 }

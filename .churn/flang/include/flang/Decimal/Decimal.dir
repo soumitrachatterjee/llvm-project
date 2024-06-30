@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/flang/include/flang/Decimal",
-    "score.sum": 3.387425798413278e-05,
+    "score.sum": 0.0017616248437091974,
     "sha.latest": "befdfae198a12b88bce6d26f840e6f71ce4a8b0c",
     "time.latest": 1717788671.0469942,
     "formatted_time": "2024-06-07 14:31:11.046998",
     "filescores": {
-        "binary-floating-point.h": 1.8501937489571018e-05,
-        "decimal.h": 2.130406113222232e-05
+        "binary-floating-point.h": 0.06089799311561338,
+        "decimal.h": 0.07012101132089395
     },
     "subdirscores": {}
 }

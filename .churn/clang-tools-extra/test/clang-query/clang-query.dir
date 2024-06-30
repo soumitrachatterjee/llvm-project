@@ -1,15 +1,15 @@
 {
     "directory name": "llvm-project/clang-tools-extra/test/clang-query",
-    "score.sum": 2.2953192793709256e-05,
+    "score.sum": 0.001193676764426411,
     "sha.latest": "d47ee525f9e9289815db0864b03e866fc8e5ba01",
     "time.latest": 1717817889.429906,
     "formatted_time": "2024-06-08 09:08:09.429909",
     "filescores": {
-        "errors.c": 6.099602068851199e-06,
-        "function-decl.c": 6.099602068851199e-06,
-        "invalid-command-line.cpp": 6.102014642593491e-06
+        "errors.c": 0.02007646631636598,
+        "function-decl.c": 0.02007646631636598,
+        "invalid-command-line.cpp": 0.020084407154952848
     },
     "subdirscores": {
-        "Inputs": 0
+        "Inputs": 0.0
     }
 }

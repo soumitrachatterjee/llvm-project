@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/lldb/test/API/functionalities/data-formatter/nsarraysynth",
-    "score.sum": 1.6120035598488006e-05,
+    "score.sum": 0.0008383196232689414,
     "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
     "time.latest": 1717907952.4075873,
     "formatted_time": "2024-06-09 10:09:12.407589",
     "filescores": {
-        "main.m": 6.388204415939911e-06,
-        "Makefile": 0,
-        "TestNSArraySynthetic.py": 1.6076485472539386e-05
+        "main.m": 0.02102638325106889,
+        "Makefile": 0.0,
+        "TestNSArraySynthetic.py": 0.05291476647685191
     },
     "subdirscores": {}
 }

@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/libcxx/test/libcxx/numerics/numarray/class.indirect.array",
-    "score.sum": 0,
+    "score.sum": 0.0,
     "sha.latest": "5ca2777c69f8708d583e230c56ac7f5f6376fb40",
     "time.latest": 1717861387.5723226,
     "formatted_time": "2024-06-08 21:13:07.572327",
     "filescores": {
-        "assert.get.pass.cpp": 0,
-        "get.pass.cpp": 0
+        "assert.get.pass.cpp": 0.0,
+        "get.pass.cpp": 0.0
     },
     "subdirscores": {}
 }

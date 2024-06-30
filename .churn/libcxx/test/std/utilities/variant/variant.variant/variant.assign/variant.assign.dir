@@ -1,15 +1,15 @@
 {
     "directory name": "llvm-project/libcxx/test/std/utilities/variant/variant.variant/variant.assign",
-    "score.sum": 0.00010300737626633341,
+    "score.sum": 0.005356880531555048,
     "sha.latest": "5d73c7d1af78379827759dfb57887246e47a503e",
     "time.latest": 1718009549.0205357,
     "formatted_time": "2024-06-10 14:22:29.020538",
     "filescores": {
-        "conv.pass.cpp": 1.7034310741907974e-05,
-        "copy.pass.cpp": 6.516036701216153e-05,
-        "copy.verify.cpp": 0,
-        "move.pass.cpp": 6.709649966951352e-05,
-        "T.pass.cpp": 7.187151753429994e-05
+        "conv.pass.cpp": 0.0560673896382288,
+        "copy.pass.cpp": 0.21447135382195362,
+        "copy.verify.cpp": 0.0,
+        "move.pass.cpp": 0.22084401578261564,
+        "T.pass.cpp": 0.2365606943856324
     },
     "subdirscores": {}
 }

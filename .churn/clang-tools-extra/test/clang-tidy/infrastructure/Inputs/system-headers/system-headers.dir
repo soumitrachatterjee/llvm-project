@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/clang-tools-extra/test/clang-tidy/infrastructure/Inputs/system-headers",
-    "score.sum": 0,
+    "score.sum": 0.0,
     "sha.latest": "26f476286fbcb5cde51176abb2d3c6c0986bc410",
     "time.latest": 1717833987.2128146,
     "formatted_time": "2024-06-08 13:36:27.212817",
     "filescores": {
-        "system_header.h": 0
+        "system_header.h": 0.0
     },
     "subdirscores": {}
 }

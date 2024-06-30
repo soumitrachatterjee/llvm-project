@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/libcxx/test/std/depr/depr.atomics",
-    "score.sum": 6.099602068851199e-06,
+    "score.sum": 0.00031720873550238375,
     "sha.latest": "92832e4889ae6038cc8b3e6e449af2a9b9374ab4",
     "time.latest": 1717894900.9948795,
     "formatted_time": "2024-06-09 06:31:40.994881",
     "filescores": {},
     "subdirscores": {
-        "depr.atomics.nonmembers": 6.099602068851199e-06
+        "depr.atomics.nonmembers": 0.00031720873550238375
     }
 }

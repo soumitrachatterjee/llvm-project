@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/clang/test/CXX/dcl.dcl/dcl.spec/dcl.fct.spec",
-    "score.sum": 2.3711112255565873e-05,
+    "score.sum": 0.0012330922330741003,
     "sha.latest": "673f44c769ee85e592a8e00d77a6ce4231edf1dc",
     "time.latest": 1718085776.7591808,
     "formatted_time": "2024-06-11 11:32:56.759183",
     "filescores": {
-        "p3.cpp": 1.0881042407591778e-05,
-        "p4.cpp": 1.1956700282875823e-05,
-        "p6.cpp": 1.4400918170558812e-05
+        "p3.cpp": 0.035814284098718195,
+        "p4.cpp": 0.03935474605956562,
+        "p6.cpp": 0.047399739411266156
     },
     "subdirscores": {}
 }

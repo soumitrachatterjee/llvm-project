@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/libcxx/test/std/input.output/file.streams/fstreams/filebuf.assign",
-    "score.sum": 4.022706598226954e-05,
+    "score.sum": 0.002092001509142706,
     "sha.latest": "4ff70dba3839ce9510499a79f93522b67cab504c",
     "time.latest": 1717901201.6120315,
     "formatted_time": "2024-06-09 08:16:41.612033",
     "filescores": {
-        "member_swap.pass.cpp": 1.7431479621988335e-05,
-        "move_assign.pass.cpp": 3.487025048490939e-05,
-        "nonmember_swap.pass.cpp": 2.232980409597637e-05,
-        "nonmember_swap_min.pass.cpp": 0
+        "member_swap.pass.cpp": 0.05737464666136505,
+        "move_assign.pass.cpp": 0.11477329199532182,
+        "nonmember_swap.pass.cpp": 0.07349718141012342,
+        "nonmember_swap_min.pass.cpp": 0.0
     },
     "subdirscores": {}
 }

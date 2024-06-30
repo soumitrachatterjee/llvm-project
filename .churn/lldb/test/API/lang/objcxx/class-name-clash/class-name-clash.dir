@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/lldb/test/API/lang/objcxx/class-name-clash",
-    "score.sum": 1.5892002939569662e-05,
+    "score.sum": 0.0008264608248469721,
     "sha.latest": "d1a1798e51a30fbf537e9fd8931a49b504f37a25",
     "time.latest": 1717960298.991162,
     "formatted_time": "2024-06-10 00:41:38.991167",
     "filescores": {
-        "main.mm": 0,
-        "Makefile": 6.099602068851199e-06,
-        "myobject.mm": 6.099602068851199e-06,
-        "TestNameClash.py": 1.2139001116993191e-05
+        "main.mm": 0.0,
+        "Makefile": 0.02007646631636598,
+        "myobject.mm": 0.02007646631636598,
+        "TestNameClash.py": 0.03995477808039089
     },
     "subdirscores": {}
 }

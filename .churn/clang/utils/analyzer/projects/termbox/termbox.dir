@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/clang/utils/analyzer/projects/termbox",
-    "score.sum": 0,
+    "score.sum": 0.0,
     "sha.latest": "8dc2802773ce3910f21689240c53839f1c7de0ad",
     "time.latest": 1718081940.0662868,
     "formatted_time": "2024-06-11 10:29:00.066289",
     "filescores": {
-        "cleanup_run_static_analyzer.sh": 0,
-        "run_static_analyzer.cmd": 0
+        "cleanup_run_static_analyzer.sh": 0.0,
+        "run_static_analyzer.cmd": 0.0
     },
     "subdirscores": {}
 }

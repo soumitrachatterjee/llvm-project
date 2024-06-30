@@ -1,15 +1,15 @@
 {
     "directory name": "llvm-project/llvm/test/CodeGen/Generic/MIRDebugify",
-    "score.sum": 5.686352007491494e-05,
+    "score.sum": 0.00295717738560204,
     "sha.latest": "ff9af4c43ad71eeba2cabe99609cfaa0fd54c1d0",
     "time.latest": 1718046896.50733,
     "formatted_time": "2024-06-10 14:14:56.507333",
     "filescores": {
-        "check-line-and-variables-x.mir": 7.185101732154086e-06,
-        "check-line-and-variables.ll": 6.152798021924468e-06,
-        "check-line-and-variables.mir": 8.926307392919543e-06,
-        "locations-and-values.mir": 2.9660832076399637e-05,
-        "multifunction-module.mir": 6.453444761738886e-06
+        "check-line-and-variables-x.mir": 0.023649321919195745,
+        "check-line-and-variables.ll": 0.020251557535102417,
+        "check-line-and-variables.mir": 0.029380393619223434,
+        "locations-and-values.mir": 0.0976268106305136,
+        "multifunction-module.mir": 0.021241117850165105
     },
     "subdirscores": {}
 }

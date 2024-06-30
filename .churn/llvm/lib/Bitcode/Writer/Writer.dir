@@ -1,16 +1,16 @@
 {
     "directory name": "llvm-project/llvm/lib/Bitcode/Writer",
-    "score.sum": 0.0032734619739609237,
+    "score.sum": 0.17023581567360324,
     "sha.latest": "40282674e9808baeb9b88afdd3cbd7da46825544",
     "time.latest": 1717828616.4628541,
     "formatted_time": "2024-06-08 01:36:56.462858",
     "filescores": {
-        "BitWriter.cpp": 5.396471605216747e-05,
-        "BitcodeWriter.cpp": 0.0027888230278495844,
-        "BitcodeWriterPass.cpp": 0.00010715103823996949,
-        "CMakeLists.txt": 3.629667615713434e-05,
-        "ValueEnumerator.cpp": 0.0005340053926503709,
-        "ValueEnumerator.h": 0.0002118953773973947
+        "BitWriter.cpp": 0.17762155495787063,
+        "BitcodeWriter.cpp": 9.179240046961471,
+        "BitcodeWriterPass.cpp": 0.3526810742251504,
+        "CMakeLists.txt": 0.11946828465844446,
+        "ValueEnumerator.cpp": 1.7576460164592582,
+        "ValueEnumerator.h": 0.6974406459458874
     },
     "subdirscores": {}
 }

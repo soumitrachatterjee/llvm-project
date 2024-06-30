@@ -1,17 +1,17 @@
 {
     "directory name": "llvm-project/lldb/test/API/commands/gui",
-    "score.sum": 8.879478258183976e-05,
+    "score.sum": 0.004617757090389893,
     "sha.latest": "6bf923d5c3daf5d66e0acf53d037a12ceff4a275",
     "time.latest": 1717895677.590065,
     "formatted_time": "2024-06-09 06:44:37.590066",
     "filescores": {},
     "subdirscores": {
-        "basic": 1.8074768584052498e-05,
-        "basicdebug": 2.7451117827812196e-05,
-        "breakpoints": 1.5958438556347273e-05,
-        "expand-threads-tree": 1.865778507549865e-05,
-        "invalid-args": 1.4871076735453724e-05,
-        "spawn-threads": 6.099602068851199e-06,
-        "viewlarge": 2.4596656166265626e-05
+        "basic": 0.0009399751692531885,
+        "basicdebug": 0.0014275905667281126,
+        "breakpoints": 0.0008299157974423099,
+        "expand-threads-tree": 0.0009702948396089141,
+        "invalid-args": 0.0007733677367088701,
+        "spawn-threads": 0.00031720873550238375,
+        "viewlarge": 0.0012791447887939866
     }
 }

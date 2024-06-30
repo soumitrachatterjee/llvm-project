@@ -1,16 +1,16 @@
 {
     "directory name": "llvm-project/compiler-rt/lib/builtins/riscv",
-    "score.sum": 3.334430250050033e-05,
+    "score.sum": 0.0017340646017560254,
     "sha.latest": "2b5ea51a417fd4454128bd55bf3eb7e7719dee2a",
     "time.latest": 1717797410.2027774,
     "formatted_time": "2024-06-08 03:26:50.202780",
     "filescores": {
-        "fp_mode.c": 6.099602068851199e-06,
-        "int_mul_impl.inc": 6.099602068851199e-06,
-        "muldi3.S": 0,
-        "mulsi3.S": 8.49747165717566e-06,
-        "restore.S": 1.2198199720094959e-05,
-        "save.S": 6.099602068851199e-06
+        "fp_mode.c": 0.02007646631636598,
+        "int_mul_impl.inc": 0.02007646631636598,
+        "muldi3.S": 0.0,
+        "mulsi3.S": 0.02796890708178484,
+        "restore.S": 0.040149626653745836,
+        "save.S": 0.02007646631636598
     },
     "subdirscores": {}
 }

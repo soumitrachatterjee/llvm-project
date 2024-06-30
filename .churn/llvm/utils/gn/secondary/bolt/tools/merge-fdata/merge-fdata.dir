@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/llvm/utils/gn/secondary/bolt/tools/merge-fdata",
-    "score.sum": 6.099602068851199e-06,
+    "score.sum": 0.00031720873550238375,
     "sha.latest": "9ddbcb0182c0b84c24c8086ca3bd72abd19c9d94",
     "time.latest": 1718080961.2118444,
     "formatted_time": "2024-06-10 23:42:41.211848",
     "filescores": {
-        "BUILD.gn": 6.099602068851199e-06
+        "BUILD.gn": 0.02007646631636598
     },
     "subdirscores": {}
 }

@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/lldb/test/API/sample_test",
-    "score.sum": 2.7891672064205375e-05,
+    "score.sum": 0.0014505015125027799,
     "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
     "time.latest": 1717967925.5294611,
     "formatted_time": "2024-06-10 02:48:45.529464",
     "filescores": {
-        "main.c": 1.3875985525991515e-05,
-        "Makefile": 0,
-        "TestSampleInlineTest.py": 1.0757275168687244e-05,
-        "TestSampleTest.py": 2.3233998964369324e-05
+        "main.c": 0.04567195578898125,
+        "Makefile": 0.0,
+        "TestSampleInlineTest.py": 0.03540691181854509,
+        "TestSampleTest.py": 0.076473283394124
     },
     "subdirscores": {}
 }

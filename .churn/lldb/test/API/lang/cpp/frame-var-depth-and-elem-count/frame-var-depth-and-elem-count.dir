@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/lldb/test/API/lang/cpp/frame-var-depth-and-elem-count",
-    "score.sum": 9.807803007071569e-06,
+    "score.sum": 0.0005100530747435462,
     "sha.latest": "ab855530f797bbc113f75f833a4ca5711749d7c8",
     "time.latest": 1717931357.6134646,
     "formatted_time": "2024-06-09 16:39:17.613492",
     "filescores": {
-        "main.cpp": 6.099602068851199e-06,
-        "Makefile": 0,
-        "TestFrameVarDepthAndElemCount.py": 9.807803007071569e-06
+        "main.cpp": 0.02007646631636598,
+        "Makefile": 0.0,
+        "TestFrameVarDepthAndElemCount.py": 0.03228178239930833
     },
     "subdirscores": {}
 }

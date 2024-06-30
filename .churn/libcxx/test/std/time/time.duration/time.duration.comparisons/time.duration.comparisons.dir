@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/libcxx/test/std/time/time.duration/time.duration.comparisons",
-    "score.sum": 6.099602068851199e-06,
+    "score.sum": 0.00031720873550238375,
     "sha.latest": "83542e47644eb32a738b288a9de6540cbda0b8c9",
     "time.latest": 1717984219.6614203,
     "formatted_time": "2024-06-10 07:20:19.661423",
     "filescores": {
-        "compare.three_way.pass.cpp": 0,
-        "op_equal.pass.cpp": 0,
-        "op_less.pass.cpp": 0
+        "compare.three_way.pass.cpp": 0.0,
+        "op_equal.pass.cpp": 0.0,
+        "op_less.pass.cpp": 0.0
     },
     "subdirscores": {}
 }

@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/libcxx/test/libcxx/utilities/optional/optional.object/optional.object.assign",
-    "score.sum": 2.4522138178734778e-05,
+    "score.sum": 0.0012752694939255633,
     "sha.latest": "6900df37d26764b828dbc5c2f98a57abbce1583e",
     "time.latest": 1717867267.0717943,
     "formatted_time": "2024-06-08 22:51:07.071796",
     "filescores": {
-        "copy.pass.cpp": 2.4522138178734778e-05,
-        "move.pass.cpp": 2.4522138178734778e-05
+        "copy.pass.cpp": 0.08071311465788197,
+        "move.pass.cpp": 0.08071311465788197
     },
     "subdirscores": {}
 }

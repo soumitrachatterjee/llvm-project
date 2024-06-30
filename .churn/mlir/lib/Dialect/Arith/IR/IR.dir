@@ -1,16 +1,16 @@
 {
     "directory name": "llvm-project/mlir/lib/Dialect/Arith/IR",
-    "score.sum": 0.00020385168522611983,
+    "score.sum": 0.01060127112731244,
     "sha.latest": "1a8c6130f60fe517fb722ab4309997ce7b638234",
     "time.latest": 1717805021.627917,
     "formatted_time": "2024-06-07 19:03:41.627920",
     "filescores": {
-        "ArithCanonicalization.td": 5.7622337057106575e-05,
-        "ArithDialect.cpp": 1.4969155372614944e-05,
-        "ArithOps.cpp": 0.00017163226191065865,
-        "CMakeLists.txt": 2.415664035171209e-05,
-        "InferIntRangeInterfaceImpls.cpp": 3.293990838333915e-05,
-        "ValueBoundsOpInterfaceImpl.cpp": 6.099602068851199e-06
+        "ArithCanonicalization.td": 0.1896603902908652,
+        "ArithDialect.cpp": 0.049270057330043866,
+        "ArithOps.cpp": 0.5649170693687595,
+        "CMakeLists.txt": 0.07951010096451361,
+        "InferIntRangeInterfaceImpls.cpp": 0.1084196892940661,
+        "ValueBoundsOpInterfaceImpl.cpp": 0.02007646631636598
     },
     "subdirscores": {}
 }

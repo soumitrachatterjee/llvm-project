@@ -1,15 +1,15 @@
 {
     "directory name": "llvm-project/libcxx/test/std/time/time.point/time.point.cons",
-    "score.sum": 0,
+    "score.sum": 0.0,
     "sha.latest": "7738db2c06b177fe916ac1bcf3633449b3c1fca9",
     "time.latest": 1717985371.7755003,
     "formatted_time": "2024-06-10 07:39:31.775504",
     "filescores": {
-        "convert.compile.fail.cpp": 0,
-        "convert.pass.cpp": 0,
-        "default.pass.cpp": 0,
-        "duration.compile.fail.cpp": 0,
-        "duration.pass.cpp": 0
+        "convert.compile.fail.cpp": 0.0,
+        "convert.pass.cpp": 0.0,
+        "default.pass.cpp": 0.0,
+        "duration.compile.fail.cpp": 0.0,
+        "duration.pass.cpp": 0.0
     },
     "subdirscores": {}
 }

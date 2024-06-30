@@ -1,24 +1,24 @@
 {
     "directory name": "llvm-project/llvm/lib/Transforms",
-    "score.sum": 0.14408655613874932,
+    "score.sum": 7.493196074063582,
     "sha.latest": "fab2bb8bfda865bd438dee981d7be7df8017b76d",
     "time.latest": 1717877936.6812751,
     "formatted_time": "2024-06-08 15:18:56.681276",
     "filescores": {
-        "CMakeLists.txt": 6.738876457612753e-05
+        "CMakeLists.txt": 0.22180598780748864
     },
     "subdirscores": {
-        "AggressiveInstCombine": 0.0003678715942336193,
-        "CFGuard": 7.24775960710875e-05,
-        "Coroutines": 0.0016376473158693262,
-        "Hello": 0.00012978224260271998,
-        "HipStdPar": 1.2401293682058624e-05,
-        "IPO": 0.02463789659442878,
-        "InstCombine": 0.02157358190909456,
-        "Instrumentation": 0.013025218388702908,
-        "ObjCARC": 0.0007439252313081469,
-        "Scalar": 0.044899558239122825,
-        "Utils": 0.02881729578674689,
-        "Vectorize": 0.01612587343477517
+        "AggressiveInstCombine": 0.019131097720292797,
+        "CFGuard": 0.0037691846685159653,
+        "Coroutines": 0.08516556135991019,
+        "Hello": 0.006749302758110254,
+        "HipStdPar": 0.0006449271023052837,
+        "IPO": 1.2812894900255662,
+        "InstCombine": 1.1219303424050846,
+        "Instrumentation": 0.677374197215625,
+        "ObjCARC": 0.038687701143104256,
+        "Scalar": 2.334993649238209,
+        "Utils": 1.4986384118060656,
+        "Vectorize": 0.8386232189208902
     }
 }

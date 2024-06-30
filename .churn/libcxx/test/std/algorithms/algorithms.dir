@@ -1,28 +1,28 @@
 {
     "directory name": "llvm-project/libcxx/test/std/algorithms",
-    "score.sum": 0.0016397338314095272,
+    "score.sum": 0.08527407023452893,
     "sha.latest": "a6b846ae1e58e11160185e427e20a995f6656859",
     "time.latest": 1717872946.4468057,
     "formatted_time": "2024-06-09 00:25:46.446808",
     "filescores": {
-        "ranges_result_alias_declarations.compile.pass.cpp": 8.78732900235317e-06,
-        "ranges_robust_against_dangling.pass.cpp": 1.545581767080828e-05,
-        "ranges_robust_against_differing_projections.pass.cpp": 1.2357051643196608e-05,
-        "ranges_robust_against_nonbool.compile.pass.cpp": 0,
-        "ranges_robust_against_omitting_invoke.pass.cpp": 1.71921292725097e-05,
-        "ranges_robust_against_proxy_iterators.pass.cpp": 1.502676434895731e-05,
-        "robust_against_adl.compile.pass.cpp": 2.375469754124121e-05,
-        "robust_against_adl_on_new.pass.cpp": 8.5963124598446e-06,
-        "robust_against_proxy_iterators_lifetime_bugs.pass.cpp": 1.3142538478793672e-05,
-        "robust_re_difference_type.compile.pass.cpp": 6.13097344568018e-06
+        "ranges_result_alias_declarations.compile.pass.cpp": 0.028922954765768186,
+        "ranges_robust_against_dangling.pass.cpp": 0.05087187645313364,
+        "ranges_robust_against_differing_projections.pass.cpp": 0.04067247802133364,
+        "ranges_robust_against_nonbool.compile.pass.cpp": 0.0,
+        "ranges_robust_against_omitting_invoke.pass.cpp": 0.05658683965774796,
+        "ranges_robust_against_proxy_iterators.pass.cpp": 0.049459673744361145,
+        "robust_against_adl.compile.pass.cpp": 0.07818713084212923,
+        "robust_against_adl_on_new.pass.cpp": 0.028294235525028556,
+        "robust_against_proxy_iterators_lifetime_bugs.pass.cpp": 0.04325785979194863,
+        "robust_re_difference_type.compile.pass.cpp": 0.020179723280196685
     },
     "subdirscores": {
-        "alg.c.library": 1.2132863580760565e-05,
-        "alg.modifying.operations": 0.0006464343423598293,
-        "alg.nonmodifying": 0.0004330770963388949,
-        "alg.sorting": 0.00068706651132608,
-        "algorithms.general": 1.2132863580760565e-05,
-        "algorithms.results": 1.206012994215213e-05,
-        "numeric.ops": 1.1642016667521761e-05
+        "alg.c.library": 0.0006309674419795125,
+        "alg.modifying.operations": 0.033617704566733575,
+        "alg.nonmodifying": 0.022522098417901926,
+        "alg.sorting": 0.035730773385488676,
+        "algorithms.general": 0.0006309674419795125,
+        "algorithms.results": 0.0006271849418637607,
+        "numeric.ops": 0.0006054410343686216
     }
 }

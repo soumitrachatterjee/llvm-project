@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/bolt/docs/_static",
-    "score.sum": 0,
+    "score.sum": 0.0,
     "sha.latest": "75c069584a3f97122c0defb292272048af5a0c2f",
     "time.latest": 1717784559.3957496,
     "formatted_time": "2024-06-07 23:52:39.398656",
     "filescores": {
-        "favicon.ico": 0
+        "favicon.ico": 0.0
     },
     "subdirscores": {}
 }

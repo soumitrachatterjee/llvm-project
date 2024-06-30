@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/libcxx/test/libcxx/selftest/file_dependencies/dir",
-    "score.sum": 0,
+    "score.sum": 0.0,
     "sha.latest": "70f6389257a85a8fa7f128a05a1ccbd0dbba191c",
     "time.latest": 1717863741.0815427,
     "formatted_time": "2024-06-08 21:52:21.081546",
     "filescores": {
-        "b.txt": 0
+        "b.txt": 0.0
     },
     "subdirscores": {}
 }

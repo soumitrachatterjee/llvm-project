@@ -1,15 +1,15 @@
 {
     "directory name": "llvm-project/lldb/test/Shell/Diagnostics",
-    "score.sum": 6.18534499076839e-06,
+    "score.sum": 0.00032166778111431405,
     "sha.latest": "9d311dd6a71ba3910554b81fec5e6d5799ce0453",
     "time.latest": 1717972088.2276607,
     "formatted_time": "2024-06-10 03:58:08.227664",
     "filescores": {
-        "TestCopyLogs.test": 0,
-        "TestDiagnosticsLog.test": 0,
-        "TestDump.test": 6.099602068851199e-06
+        "TestCopyLogs.test": 0.0,
+        "TestDiagnosticsLog.test": 0.0,
+        "TestDump.test": 0.02007646631636598
     },
     "subdirscores": {
-        "Inputs": 0
+        "Inputs": 0.0
     }
 }

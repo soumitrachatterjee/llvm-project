@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/mlir/lib/Dialect/NVGPU/IR",
-    "score.sum": 0.00013294896119475053,
+    "score.sum": 0.006913987402933173,
     "sha.latest": "e892f323ea234a997888b0fa44356b0678eda5f0",
     "time.latest": 1717807736.0555682,
     "formatted_time": "2024-06-07 19:48:56.055572",
     "filescores": {
-        "CMakeLists.txt": 1.2468270800528231e-05,
-        "NVGPUDialect.cpp": 0.00012878797660572465
+        "CMakeLists.txt": 0.0410385490601815,
+        "NVGPUDialect.cpp": 0.4238977305555172
     },
     "subdirscores": {}
 }

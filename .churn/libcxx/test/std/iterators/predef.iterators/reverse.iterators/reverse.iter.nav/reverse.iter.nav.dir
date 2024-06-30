@@ -1,18 +1,18 @@
 {
     "directory name": "llvm-project/libcxx/test/std/iterators/predef.iterators/reverse.iterators/reverse.iter.nav",
-    "score.sum": 0,
+    "score.sum": 0.0,
     "sha.latest": "10d38699524a6092dc85f150fc1078567dde9537",
     "time.latest": 1717919758.9154992,
     "formatted_time": "2024-06-09 13:25:58.915501",
     "filescores": {
-        "decrement-assign.pass.cpp": 0,
-        "increment-assign.pass.cpp": 0,
-        "minus.pass.cpp": 0,
-        "plus.pass.cpp": 0,
-        "postdecrement.pass.cpp": 0,
-        "postincrement.pass.cpp": 0,
-        "predecrement.pass.cpp": 0,
-        "preincrement.pass.cpp": 0
+        "decrement-assign.pass.cpp": 0.0,
+        "increment-assign.pass.cpp": 0.0,
+        "minus.pass.cpp": 0.0,
+        "plus.pass.cpp": 0.0,
+        "postdecrement.pass.cpp": 0.0,
+        "postincrement.pass.cpp": 0.0,
+        "predecrement.pass.cpp": 0.0,
+        "preincrement.pass.cpp": 0.0
     },
     "subdirscores": {}
 }

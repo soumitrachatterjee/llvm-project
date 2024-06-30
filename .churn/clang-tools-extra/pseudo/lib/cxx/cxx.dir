@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/clang-tools-extra/pseudo/lib/cxx",
-    "score.sum": 2.250096553718782e-05,
+    "score.sum": 0.0011701587652878384,
     "sha.latest": "732bccb8c1b4ea724919db6ff02b1188e20850e7",
     "time.latest": 1717814736.9980376,
     "formatted_time": "2024-06-08 08:15:36.998041",
     "filescores": {
-        "CMakeLists.txt": 1.1966310506614302e-05,
-        "cxx.bnf": 5.850164768387721e-05,
-        "CXX.cpp": 1.4605791681736308e-05
+        "CMakeLists.txt": 0.03938637752191357,
+        "cxx.bnf": 0.19255458731891958,
+        "CXX.cpp": 0.048074068014975435
     },
     "subdirscores": {}
 }

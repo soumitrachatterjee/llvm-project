@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/lldb/test/API/commands/statistics",
-    "score.sum": 6.396112627313293e-05,
+    "score.sum": 0.003326287150766548,
     "sha.latest": "1eeeab82c6eb185f5139e633a59c2dbcb15616e4",
     "time.latest": 1717897851.695548,
     "formatted_time": "2024-06-09 07:20:51.695551",
     "filescores": {},
     "subdirscores": {
-        "basic": 6.396112627313293e-05
+        "basic": 0.003326287150766548
     }
 }

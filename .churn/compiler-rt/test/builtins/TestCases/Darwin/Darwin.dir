@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/compiler-rt/test/builtins/TestCases/Darwin",
-    "score.sum": 1.862677142540688e-05,
+    "score.sum": 0.0009686819801767944,
     "sha.latest": "f98ee40f4b5d7474fc67e82824bf6abbaedb7b1c",
     "time.latest": 1717818182.5737047,
     "formatted_time": "2024-06-08 09:13:02.573708",
     "filescores": {
-        "lit.local.cfg.py": 6.099602068851199e-06,
-        "os_version_check_test.c": 7.396264836900359e-06,
-        "os_version_check_test_no_core_foundation.c": 7.383576951162889e-06,
-        "platform_version_check_test.c": 6.099602068851199e-06
+        "lit.local.cfg.py": 0.02007646631636598,
+        "os_version_check_test.c": 0.024344352334597294,
+        "os_version_check_test_no_core_foundation.c": 0.024302590936434124,
+        "platform_version_check_test.c": 0.02007646631636598
     },
     "subdirscores": {}
 }

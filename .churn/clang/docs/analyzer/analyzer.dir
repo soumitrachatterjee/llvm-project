@@ -1,19 +1,19 @@
 {
     "directory name": "llvm-project/clang/docs/analyzer",
-    "score.sum": 0.0006248975048666461,
+    "score.sum": 0.03249768511123168,
     "sha.latest": "bbeb946652f2830b3211dcd8c6836bce4dbdd188",
     "time.latest": 1717790267.1999476,
     "formatted_time": "2024-06-08 01:27:47.199955",
     "filescores": {
-        "checkers.rst": 0.0002731686896511174,
-        "conf.py": 5.69166788699201e-05,
-        "developer-docs.rst": 1.2064481115757116e-05,
-        "make.bat": 0,
-        "user-docs.rst": 6.1553152881068716e-06
+        "checkers.rst": 0.8991179972990269,
+        "conf.py": 0.18733775962315916,
+        "developer-docs.rst": 0.03970950006424755,
+        "make.bat": 0.0,
+        "user-docs.rst": 0.02025984296243848
     },
     "subdirscores": {
-        "checkers": 0,
-        "developer-docs": 4.164385660273407e-05,
-        "user-docs": 4.51923431632548e-05
+        "checkers": 0.0,
+        "developer-docs": 0.0021656814568042485,
+        "user-docs": 0.0023502198778527516
     }
 }

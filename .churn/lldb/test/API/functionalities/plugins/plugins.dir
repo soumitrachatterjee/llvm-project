@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/lldb/test/API/functionalities/plugins",
-    "score.sum": 4.5213062371622755e-05,
+    "score.sum": 0.002351297376649037,
     "sha.latest": "80fcecb13c388ff087a27a4b0e7ca3dd8c98eaa4",
     "time.latest": 1717914522.53195,
     "formatted_time": "2024-06-09 11:58:42.531952",
     "filescores": {},
     "subdirscores": {
-        "command_plugin": 2.2797007241632846e-05,
-        "python_os_plugin": 3.478561042060852e-05
+        "command_plugin": 0.0011855543621912055,
+        "python_os_plugin": 0.0018090195672843257
     }
 }

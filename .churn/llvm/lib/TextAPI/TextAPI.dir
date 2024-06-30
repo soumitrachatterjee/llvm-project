@@ -1,30 +1,30 @@
 {
     "directory name": "llvm-project/llvm/lib/TextAPI",
-    "score.sum": 0.0004389520888358633,
+    "score.sum": 0.022827626372023093,
     "sha.latest": "50ae8a2a38b618d76193bed04b1d7df6890d5c8a",
     "time.latest": 1717874323.361585,
     "formatted_time": "2024-06-08 14:18:43.361588",
     "filescores": {
-        "Architecture.cpp": 8.781596707261428e-06,
-        "ArchitectureSet.cpp": 0,
-        "CMakeLists.txt": 8.953653254701906e-05,
-        "InterfaceFile.cpp": 5.469306243617236e-05,
-        "PackedVersion.cpp": 2.2364547463203895e-05,
-        "Platform.cpp": 4.054805858517813e-05,
-        "RecordVisitor.cpp": 1.2724661103993293e-05,
-        "RecordsSlice.cpp": 2.758921850361417e-05,
-        "Symbol.cpp": 3.2802377823683325e-05,
-        "SymbolSet.cpp": 1.2656064134012088e-05,
-        "Target.cpp": 2.6198986477020586e-05,
-        "TextAPIContext.h": 6.099602068851199e-06,
-        "TextAPIError.cpp": 1.1883940286427704e-05,
-        "TextStub.cpp": 8.548253668553403e-05,
-        "TextStubCommon.cpp": 3.54561677568507e-05,
-        "TextStubCommon.h": 5.257268938570428e-05,
-        "TextStubV5.cpp": 3.8234309937852415e-05,
-        "Utils.cpp": 6.099602068851199e-06
+        "Architecture.cpp": 0.0289040872678518,
+        "ArchitectureSet.cpp": 0.0,
+        "CMakeLists.txt": 0.29470400847034117,
+        "InterfaceFile.cpp": 0.18001886243466397,
+        "PackedVersion.cpp": 0.07361153707365474,
+        "Platform.cpp": 0.13346144931921497,
+        "RecordVisitor.cpp": 0.04188244202783023,
+        "RecordsSlice.cpp": 0.09080822154140811,
+        "Symbol.cpp": 0.10796701588730383,
+        "SymbolSet.cpp": 0.04165665930599247,
+        "Target.cpp": 0.08623235804428393,
+        "TextAPIContext.h": 0.02007646631636598,
+        "TextAPIError.cpp": 0.03911526099129711,
+        "TextStub.cpp": 0.28136052959400193,
+        "TextStubCommon.cpp": 0.11670180278037415,
+        "TextStubCommon.h": 0.17303978451362345,
+        "TextStubV5.cpp": 0.12584588747465011,
+        "Utils.cpp": 0.02007646631636598
     },
     "subdirscores": {
-        "BinaryReader": 1.1807036581299261e-05
+        "BinaryReader": 0.0006140228660342292
     }
 }

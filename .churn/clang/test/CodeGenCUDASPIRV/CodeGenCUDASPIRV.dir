@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/clang/test/CodeGenCUDASPIRV",
-    "score.sum": 2.256110672429686e-05,
+    "score.sum": 0.0011732863971725303,
     "sha.latest": "8bd13ad6c5374f39408be4a34989007999a57ee9",
     "time.latest": 1717994114.8345494,
     "formatted_time": "2024-06-10 10:05:14.834551",
     "filescores": {
-        "copy-aggregate-byval.cu": 6.099602068851199e-06,
-        "cuda-types.cu": 0,
-        "kernel-argument.cu": 8.348068615352783e-06,
-        "kernel-cc.cu": 6.099602068851199e-06
+        "copy-aggregate-byval.cu": 0.02007646631636598,
+        "cuda-types.cu": 0.0,
+        "kernel-argument.cu": 0.027477156127728827,
+        "kernel-cc.cu": 0.02007646631636598
     },
     "subdirscores": {}
 }

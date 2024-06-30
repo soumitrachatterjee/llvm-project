@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/clang-tools-extra/clang-doc/assets",
-    "score.sum": 4.961364763922143e-05,
+    "score.sum": 0.0025801490414705587,
     "sha.latest": "7003f64c1eb25e6a0dd10a4beabc3ca7bcaef7eb",
     "time.latest": 1717788158.2434301,
     "formatted_time": "2024-06-08 00:52:38.243435",
     "filescores": {
-        "clang-doc-default-stylesheet.css": 6.099602068851199e-06,
-        "index.js": 4.961364763922143e-05
+        "clang-doc-default-stylesheet.css": 0.02007646631636598,
+        "index.js": 0.1633002799883434
     },
     "subdirscores": {}
 }

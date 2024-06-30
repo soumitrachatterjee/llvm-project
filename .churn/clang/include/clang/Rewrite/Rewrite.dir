@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/clang/include/clang/Rewrite",
-    "score.sum": 0.0002164769180246664,
+    "score.sum": 0.011257844144083755,
     "sha.latest": "243bfed68367263cfc3fb3f396660acf60051fbf",
     "time.latest": 1717800790.064681,
     "formatted_time": "2024-06-08 04:23:10.064684",
     "filescores": {},
     "subdirscores": {
-        "Core": 5.695139946993296e-05,
-        "Frontend": 6.0960436876260976e-05
+        "Core": 0.0029617475381227653,
+        "Frontend": 0.003170236825110397
     }
 }

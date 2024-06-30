@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/libcxx/test/std/utilities/optional/optional.object/optional.object.mod",
-    "score.sum": 2.158630496538833e-05,
+    "score.sum": 0.0011225920027155632,
     "sha.latest": "7d5275e0c0e4234ce1a75fd7a6dfae82ad8eb1c9",
     "time.latest": 1718003592.8318605,
     "formatted_time": "2024-06-10 12:43:12.831861",
     "filescores": {
-        "reset.pass.cpp": 2.158630496538833e-05
+        "reset.pass.cpp": 0.07104999959678432
     },
     "subdirscores": {}
 }

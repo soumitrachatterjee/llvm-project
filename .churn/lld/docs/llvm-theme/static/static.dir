@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/lld/docs/llvm-theme/static",
-    "score.sum": 1.642775938817687e-05,
+    "score.sum": 0.0008543227449659591,
     "sha.latest": "569851f1d690fede27da210819bc99227c26dbba",
     "time.latest": 1717839211.7016351,
     "formatted_time": "2024-06-08 15:03:31.701639",
     "filescores": {
-        "contents.png": 1.219919927448234e-05,
-        "llvm.css": 6.099602068851199e-06,
-        "logo.png": 1.4036144061858367e-05,
-        "navigation.png": 1.219919927448234e-05
+        "contents.png": 0.04015291662574124,
+        "llvm.css": 0.02007646631636598,
+        "logo.png": 0.046199107792392995,
+        "navigation.png": 0.04015291662574124
     },
     "subdirscores": {}
 }

@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/lldb/test/API/macosx/corefile-exception-reason",
-    "score.sum": 1.885508852823635e-05,
+    "score.sum": 0.0009805555710544604,
     "sha.latest": "2cab996192cf143d10e3381fcefa75e270cc7ddb",
     "time.latest": 1717962003.362855,
     "formatted_time": "2024-06-10 01:10:03.362858",
     "filescores": {
-        "main.cpp": 6.1313484153960345e-06,
-        "Makefile": 6.1313484153960345e-06,
-        "TestCorefileExceptionReason.py": 1.885508852823635e-05
+        "main.cpp": 0.020180957470031537,
+        "Makefile": 0.020180957470031537,
+        "TestCorefileExceptionReason.py": 0.062060368111936624
     },
     "subdirscores": {}
 }

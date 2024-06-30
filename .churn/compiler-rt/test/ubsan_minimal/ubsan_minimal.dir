@@ -1,15 +1,15 @@
 {
     "directory name": "llvm-project/compiler-rt/test/ubsan_minimal",
-    "score.sum": 5.230032118372427e-05,
+    "score.sum": 0.0027198690278138586,
     "sha.latest": "058e9b0374b09a9f70c9964c533caf2d49eb219a",
     "time.latest": 1717865262.8041346,
     "formatted_time": "2024-06-08 22:17:42.804137",
     "filescores": {
-        "CMakeLists.txt": 1.0244362866937668e-05,
-        "lit.common.cfg.py": 1.4073844210878665e-05,
-        "lit.site.cfg.py.in": 0
+        "CMakeLists.txt": 0.033718692417822035,
+        "lit.common.cfg.py": 0.0463231955219505,
+        "lit.site.cfg.py.in": 0.0
     },
     "subdirscores": {
-        "TestCases": 2.6895873488651004e-05
+        "TestCases": 0.0013987151822797382
     }
 }

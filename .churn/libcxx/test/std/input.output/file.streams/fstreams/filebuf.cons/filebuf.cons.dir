@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/libcxx/test/std/input.output/file.streams/fstreams/filebuf.cons",
-    "score.sum": 3.0241889740414077e-05,
+    "score.sum": 0.0015727241704418288,
     "sha.latest": "f4c1258d5633fcf06385ff3fd1f4bf57ab971964",
     "time.latest": 1717901240.534114,
     "formatted_time": "2024-06-09 08:17:20.534115",
     "filescores": {
-        "default.pass.cpp": 1.7431479621988335e-05,
-        "move.pass.cpp": 3.0241889740414077e-05
+        "default.pass.cpp": 0.05737464666136505,
+        "move.pass.cpp": 0.09953932631395872
     },
     "subdirscores": {}
 }

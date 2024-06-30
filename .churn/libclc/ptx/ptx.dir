@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/libclc/ptx",
-    "score.sum": 3.321600358012156e-05,
+    "score.sum": 0.001727392438909944,
     "sha.latest": "80bb52ae750f1d9f5e82e40c61a1000d3d38eb42",
     "time.latest": 1717831429.4898577,
     "formatted_time": "2024-06-08 02:23:49.489858",
     "filescores": {},
     "subdirscores": {
-        "lib": 3.321600358012156e-05
+        "lib": 0.001727392438909944
     }
 }

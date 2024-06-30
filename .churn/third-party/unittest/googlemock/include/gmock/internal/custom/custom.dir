@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/third-party/unittest/googlemock/include/gmock/internal/custom",
-    "score.sum": 1.8257891228743476e-05,
+    "score.sum": 0.0009494984302640854,
     "sha.latest": "a866ce789eb99da4d7a486eeb60a53be6c75f4fd",
     "time.latest": 1717789886.9126968,
     "formatted_time": "2024-06-07 14:51:26.912700",
     "filescores": {
-        "README.md": 6.362580167617361e-06,
-        "gmock-generated-actions.h": 1.8257891228743476e-05,
-        "gmock-matchers.h": 1.8257891228743476e-05,
-        "gmock-port.h": 1.8257891228743476e-05
+        "README.md": 0.020942042608429766,
+        "gmock-generated-actions.h": 0.06009472980764123,
+        "gmock-matchers.h": 0.06009472980764123,
+        "gmock-port.h": 0.06009472980764123
     },
     "subdirscores": {}
 }

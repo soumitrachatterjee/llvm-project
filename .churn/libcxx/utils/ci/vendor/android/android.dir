@@ -1,20 +1,20 @@
 {
     "directory name": "llvm-project/libcxx/utils/ci/vendor/android",
-    "score.sum": 1.0847907733929176e-05,
+    "score.sum": 0.0005641435385922302,
     "sha.latest": "f4e3fb5972b2c42b5373952fccc8259e98b3423b",
     "time.latest": 1718010910.8882985,
     "formatted_time": "2024-06-10 14:45:10.888300",
     "filescores": {
-        "build-emulator-images.sh": 0,
-        "container-setup.sh": 0,
-        "Dockerfile.emulator": 0,
-        "emulator-entrypoint.sh": 0,
-        "emulator-functions.sh": 0,
-        "emulator-wait-for-ready.sh": 0,
-        "run-buildbot-container": 0,
-        "setup-env-for-emulator.sh": 0,
-        "start-emulator.sh": 0,
-        "stop-emulator.sh": 0
+        "build-emulator-images.sh": 0.0,
+        "container-setup.sh": 0.0,
+        "Dockerfile.emulator": 0.0,
+        "emulator-entrypoint.sh": 0.0,
+        "emulator-functions.sh": 0.0,
+        "emulator-wait-for-ready.sh": 0.0,
+        "run-buildbot-container": 0.0,
+        "setup-env-for-emulator.sh": 0.0,
+        "start-emulator.sh": 0.0,
+        "stop-emulator.sh": 0.0
     },
     "subdirscores": {}
 }

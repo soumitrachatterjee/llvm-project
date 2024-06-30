@@ -1,15 +1,15 @@
 {
     "directory name": "llvm-project/lldb/test/API/lang/objc/ivar-IMP",
-    "score.sum": 1.829944112905907e-05,
+    "score.sum": 0.0009516592255406605,
     "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
     "time.latest": 1717957099.1947026,
     "formatted_time": "2024-06-09 23:48:19.194709",
     "filescores": {
-        "Makefile": 6.099602068851199e-06,
-        "myclass.h": 6.099602068851199e-06,
-        "myclass.m": 6.099602068851199e-06,
-        "repro.m": 6.099602068851199e-06,
-        "TestObjCiVarIMP.py": 1.617119973113665e-05
+        "Makefile": 0.02007646631636598,
+        "myclass.h": 0.02007646631636598,
+        "myclass.m": 0.02007646631636598,
+        "repro.m": 0.02007646631636598,
+        "TestObjCiVarIMP.py": 0.05322651265323252
     },
     "subdirscores": {}
 }

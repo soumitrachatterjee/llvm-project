@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/lldb/test/API/commands/expression/radar_9531204",
-    "score.sum": 1.20939955238505e-05,
+    "score.sum": 0.0006289461154987511,
     "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
     "time.latest": 1717893661.2072916,
     "formatted_time": "2024-06-09 06:11:01.207294",
     "filescores": {
-        "main.c": 6.099602068851199e-06,
-        "Makefile": 0,
-        "TestPrintfAfterUp.py": 1.205044539790188e-05
+        "main.c": 0.02007646631636598,
+        "Makefile": 0.0,
+        "TestPrintfAfterUp.py": 0.03966330235928813
     },
     "subdirscores": {}
 }

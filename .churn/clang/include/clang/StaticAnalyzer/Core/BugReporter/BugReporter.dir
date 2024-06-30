@@ -1,15 +1,15 @@
 {
     "directory name": "llvm-project/clang/include/clang/StaticAnalyzer/Core/BugReporter",
-    "score.sum": 0.0007288214068254987,
+    "score.sum": 0.03790222940063482,
     "sha.latest": "56e241a07ff7f839d39775dbf05de5153a8e7d9f",
     "time.latest": 1717801698.2396226,
     "formatted_time": "2024-06-08 04:38:18.239625",
     "filescores": {
-        "BugReporter.h": 0.0003204608129097612,
-        "BugReporterVisitors.h": 0.0001420620445535779,
-        "BugSuppression.h": 6.099602068851199e-06,
-        "BugType.h": 7.434391662935102e-05,
-        "CommonBugCategories.h": 3.681479135185566e-05
+        "BugReporter.h": 1.0547771220934432,
+        "BugReporterVisitors.h": 0.46758851153238523,
+        "BugSuppression.h": 0.02007646631636598,
+        "BugType.h": 0.24469844445393404,
+        "CommonBugCategories.h": 0.12117362906245721
     },
     "subdirscores": {}
 }

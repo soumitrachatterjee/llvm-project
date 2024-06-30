@@ -1,19 +1,19 @@
 {
     "directory name": "llvm-project/libcxx/test/std/utilities/smartptr/unique.ptr/unique.ptr.create",
-    "score.sum": 5.336142390672605e-05,
+    "score.sum": 0.002775051488768222,
     "sha.latest": "b2cc4b994e5fb85053b1acedec5ea0d1d42e5ec4",
     "time.latest": 1718004972.577557,
     "formatted_time": "2024-06-10 13:06:12.577559",
     "filescores": {
-        "make_unique.array.pass.cpp": 1.610427388572998e-05,
-        "make_unique.array1.compile.fail.cpp": 0,
-        "make_unique.array2.compile.fail.cpp": 0,
-        "make_unique.array3.compile.fail.cpp": 0,
-        "make_unique.array4.compile.fail.cpp": 0,
-        "make_unique.single.pass.cpp": 1.610427388572998e-05,
-        "make_unique.sizezero.pass.cpp": 9.695974370141813e-06,
-        "make_unique_for_overwrite.default_init.pass.cpp": 1.307205673858442e-05,
-        "make_unique_for_overwrite.pass.cpp": 6.099602068851199e-06
+        "make_unique.array.pass.cpp": 0.05300623033549528,
+        "make_unique.array1.compile.fail.cpp": 0.0,
+        "make_unique.array2.compile.fail.cpp": 0.0,
+        "make_unique.array3.compile.fail.cpp": 0.0,
+        "make_unique.array4.compile.fail.cpp": 0.0,
+        "make_unique.single.pass.cpp": 0.05300623033549528,
+        "make_unique.sizezero.pass.cpp": 0.03191370529572308,
+        "make_unique_for_overwrite.default_init.pass.cpp": 0.043025873464437855,
+        "make_unique_for_overwrite.pass.cpp": 0.02007646631636598
     },
     "subdirscores": {}
 }

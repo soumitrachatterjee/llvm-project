@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/lldb/examples/test/tmp",
-    "score.sum": 0,
+    "score.sum": 0.0,
     "sha.latest": "c50ce97745ad9a5ef352e60d04f3c4b471186690",
     "time.latest": 1717843258.5020168,
     "formatted_time": "2024-06-08 16:10:58.502023",
     "filescores": {
-        "lldb_log-x86_64-clang-TestBreakpointCommand.BreakpointCommandTestCase.test_with_dsym.txt": 0,
-        "lldb_log-x86_64-clang-TestBreakpointCommand.BreakpointCommandTestCase.test_with_dwarf.txt": 0
+        "lldb_log-x86_64-clang-TestBreakpointCommand.BreakpointCommandTestCase.test_with_dsym.txt": 0.0,
+        "lldb_log-x86_64-clang-TestBreakpointCommand.BreakpointCommandTestCase.test_with_dwarf.txt": 0.0
     },
     "subdirscores": {}
 }

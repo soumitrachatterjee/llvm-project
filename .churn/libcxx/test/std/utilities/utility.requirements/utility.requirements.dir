@@ -1,15 +1,15 @@
 {
     "directory name": "llvm-project/libcxx/test/std/utilities/utility.requirements",
-    "score.sum": 1.5570024931144824e-05,
+    "score.sum": 0.0008097164150052895,
     "sha.latest": "aaaa25e23db7af931b4354700f48027a034444ae",
     "time.latest": 1718009391.9651675,
     "formatted_time": "2024-06-10 14:19:51.965169",
     "filescores": {},
     "subdirscores": {
-        "allocator.requirements": 1.2132863580760565e-05,
-        "hash.requirements": 1.2132863580760565e-05,
-        "nullablepointer.requirements": 1.2132863580760565e-05,
-        "swappable.requirements": 1.2132863580760565e-05,
-        "utility.arg.requirements": 1.2132863580760565e-05
+        "allocator.requirements": 0.0006309674419795125,
+        "hash.requirements": 0.0006309674419795125,
+        "nullablepointer.requirements": 0.0006309674419795125,
+        "swappable.requirements": 0.0006309674419795125,
+        "utility.arg.requirements": 0.0006309674419795125
     }
 }

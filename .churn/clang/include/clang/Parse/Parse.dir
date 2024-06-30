@@ -1,16 +1,16 @@
 {
     "directory name": "llvm-project/clang/include/clang/Parse",
-    "score.sum": 0.003419816310872209,
+    "score.sum": 0.17784694728889278,
     "sha.latest": "2b5f68a5f63d2342a056bf9f86bd116c100fd81a",
     "time.latest": 1717800607.3603008,
     "formatted_time": "2024-06-08 04:20:07.360304",
     "filescores": {
-        "CMakeLists.txt": 3.347798084376101e-05,
-        "LoopHint.h": 1.1962858657034576e-05,
-        "ParseAST.h": 3.218081135354162e-05,
-        "ParseDiagnostic.h": 2.636017643219557e-05,
-        "Parser.h": 0.0028729193611550276,
-        "RAIIObjectsForParser.h": 7.238652093006777e-05
+        "CMakeLists.txt": 0.11019072181479218,
+        "LoopHint.h": 0.039375015970613284,
+        "ParseAST.h": 0.1059211679515986,
+        "ParseDiagnostic.h": 0.08676290490112448,
+        "Parser.h": 9.456037973101363,
+        "RAIIObjectsForParser.h": 0.2382557964941367
     },
     "subdirscores": {}
 }

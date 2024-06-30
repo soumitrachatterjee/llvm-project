@@ -1,17 +1,17 @@
 {
     "directory name": "llvm-project/libcxx/test/std/experimental/simd/simd.mask.class",
-    "score.sum": 1.8103411024788504e-05,
+    "score.sum": 0.0009414647143587566,
     "sha.latest": "6bb5c989bd725deb3f96d4374541b5aeec776ba2",
     "time.latest": 1717899917.630767,
     "formatted_time": "2024-06-09 07:55:17.630770",
     "filescores": {
-        "simd_mask_alias.pass.cpp": 0,
-        "simd_mask_ctor_broadcast.pass.cpp": 6.099602068851199e-06,
-        "simd_mask_ctor_conversion.pass.cpp": 0,
-        "simd_mask_ctor_default.pass.cpp": 6.099602068851199e-06,
-        "simd_mask_ctor_load.pass.cpp": 0,
-        "simd_mask_subscr.pass.cpp": 0,
-        "simd_mask_width.pass.cpp": 0
+        "simd_mask_alias.pass.cpp": 0.0,
+        "simd_mask_ctor_broadcast.pass.cpp": 0.02007646631636598,
+        "simd_mask_ctor_conversion.pass.cpp": 0.0,
+        "simd_mask_ctor_default.pass.cpp": 0.02007646631636598,
+        "simd_mask_ctor_load.pass.cpp": 0.0,
+        "simd_mask_subscr.pass.cpp": 0.0,
+        "simd_mask_width.pass.cpp": 0.0
     },
     "subdirscores": {}
 }

@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/libc/lib",
-    "score.sum": 0.00011791301032891408,
+    "score.sum": 0.006132045415998565,
     "sha.latest": "18d0d9b9b2e99ba1d22b9c7c3352f5f9df978d2c",
     "time.latest": 1717827535.563972,
     "formatted_time": "2024-06-08 01:18:55.563975",
     "filescores": {
-        "CMakeLists.txt": 0.00011791301032891408
+        "CMakeLists.txt": 0.38810344566881083
     },
     "subdirscores": {}
 }

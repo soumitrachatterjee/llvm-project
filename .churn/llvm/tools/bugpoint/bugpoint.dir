@@ -1,23 +1,23 @@
 {
     "directory name": "llvm-project/llvm/tools/bugpoint",
-    "score.sum": 0.0019933881195970606,
+    "score.sum": 0.1036657994481187,
     "sha.latest": "6b62a9135a28bd001263e5a9db08d4cff1123126",
     "time.latest": 1718077681.945745,
     "formatted_time": "2024-06-10 22:48:01.945749",
     "filescores": {
-        "BugDriver.cpp": 0.00022915017813973423,
-        "BugDriver.h": 0.00020771728005673063,
-        "CMakeLists.txt": 9.161800066513471e-05,
-        "CrashDebugger.cpp": 0.0005143479614224216,
-        "ExecutionDriver.cpp": 0.0002205865007009733,
-        "ExtractFunction.cpp": 0.0003310065925168651,
-        "FindBugs.cpp": 7.289162372457536e-05,
-        "ListReducer.h": 8.020197671766848e-05,
-        "Miscompilation.cpp": 0.000475475155437876,
-        "OptimizerDriver.cpp": 0.0003378045751823629,
-        "ToolRunner.cpp": 0.00025559357034377625,
-        "ToolRunner.h": 7.89286571037198e-05,
-        "bugpoint.cpp": 0.00033459808504077696
+        "BugDriver.cpp": 0.7542337649049461,
+        "BugDriver.h": 0.6836886946579998,
+        "CMakeLists.txt": 0.3015550331913373,
+        "CrashDebugger.cpp": 1.6929447865331995,
+        "ExecutionDriver.cpp": 0.7260469455513537,
+        "ExtractFunction.cpp": 1.0894879092352867,
+        "FindBugs.cpp": 0.23991831138047975,
+        "ListReducer.h": 0.26397989014740764,
+        "Miscompilation.cpp": 1.564997328459374,
+        "OptimizerDriver.cpp": 1.1118630524761983,
+        "ToolRunner.cpp": 0.8412705694181449,
+        "ToolRunner.h": 0.2597888366900099,
+        "bugpoint.cpp": 1.101309086726522
     },
     "subdirscores": {}
 }

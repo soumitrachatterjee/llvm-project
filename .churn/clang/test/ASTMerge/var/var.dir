@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/clang/test/ASTMerge/var",
-    "score.sum": 2.7230055737152614e-05,
+    "score.sum": 0.0014160942714855533,
     "sha.latest": "aee49255074fd4ef38d97e6e70cbfbf2f9fd0fa7",
     "time.latest": 1717866508.2173314,
     "formatted_time": "2024-06-08 22:38:28.217333",
     "filescores": {
-        "test.c": 2.7230055737152614e-05
+        "test.c": 0.08962605931155034
     },
     "subdirscores": {
-        "Inputs": 1.1677920706871453e-05
+        "Inputs": 0.0006073082176361504
     }
 }

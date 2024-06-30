@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/compiler-rt/test/orc/TestCases/Darwin",
-    "score.sum": 0.00010330141132437542,
+    "score.sum": 0.005372171773164264,
     "sha.latest": "93509b4462a74c3f96eb576f1bbaaa26328e63b2",
     "time.latest": 1717835567.1752567,
     "formatted_time": "2024-06-08 14:02:47.175259",
     "filescores": {
-        "lit.local.cfg.py": 6.1062491327473905e-06
+        "lit.local.cfg.py": 0.020098344719728736
     },
     "subdirscores": {
-        "arm64": 3.4097093709921085e-05,
-        "x86-64": 8.808378085742346e-05
+        "arm64": 0.0017732133765354665,
+        "x86-64": 0.004580781570446739
     }
 }

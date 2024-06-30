@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/libcxx/test/std/algorithms/alg.sorting/alg.nth.element",
-    "score.sum": 6.18650380080286e-05,
+    "score.sum": 0.0032172804482685996,
     "sha.latest": "d05bada59205b9bcf1195a6eac7e09b721e3b79b",
     "time.latest": 1717871431.1494582,
     "formatted_time": "2024-06-09 00:00:31.149462",
     "filescores": {
-        "nth_element.pass.cpp": 3.4911018647425955e-05,
-        "nth_element_comp.pass.cpp": 3.667864180006126e-05,
-        "ranges_nth_element.pass.cpp": 1.6388110515831397e-05
+        "nth_element.pass.cpp": 0.11490747790323928,
+        "nth_element_comp.pass.cpp": 0.12072550115841782,
+        "ranges_nth_element.pass.cpp": 0.053940461204863316
     },
     "subdirscores": {}
 }

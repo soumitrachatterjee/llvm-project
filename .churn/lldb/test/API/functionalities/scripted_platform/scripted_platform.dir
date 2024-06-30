@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/lldb/test/API/functionalities/scripted_platform",
-    "score.sum": 6.099602068851199e-06,
+    "score.sum": 0.00031720873550238375,
     "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
     "time.latest": 1717919604.8116736,
     "formatted_time": "2024-06-09 13:23:24.811675",
     "filescores": {
-        "my_scripted_platform.py": 6.099602068851199e-06
+        "my_scripted_platform.py": 0.02007646631636598
     },
     "subdirscores": {}
 }

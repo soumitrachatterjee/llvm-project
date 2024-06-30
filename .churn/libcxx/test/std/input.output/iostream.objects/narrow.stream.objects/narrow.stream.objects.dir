@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/libcxx/test/std/input.output/iostream.objects/narrow.stream.objects",
-    "score.sum": 9.833409137431209e-05,
+    "score.sum": 0.005113847170606688,
     "sha.latest": "98418c27bc17946990e5980d56ef98ae82da8770",
     "time.latest": 1717906965.5251298,
     "formatted_time": "2024-06-09 09:52:45.525132",
     "filescores": {
-        "cerr.sh.cpp": 3.38171001106037e-05,
-        "cin.sh.cpp": 4.474777913564857e-05,
-        "clog.sh.cpp": 3.151411515016321e-05,
-        "cout.sh.cpp": 3.3742160706506584e-05
+        "cerr.sh.cpp": 0.11130691209428041,
+        "cin.sh.cpp": 0.1472845720767213,
+        "clog.sh.cpp": 0.10372677826530607,
+        "cout.sh.cpp": 0.11106025363932853
     },
     "subdirscores": {}
 }

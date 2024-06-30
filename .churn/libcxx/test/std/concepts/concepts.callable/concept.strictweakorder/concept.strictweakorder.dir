@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/libcxx/test/std/concepts/concepts.callable/concept.strictweakorder",
-    "score.sum": 1.2596771818880935e-05,
+    "score.sum": 0.0006550929085168758,
     "sha.latest": "6cb3fdc278b95204baf60587fe2c25ff65f4e612",
     "time.latest": 1717874879.99769,
     "formatted_time": "2024-06-09 00:57:59.997692",
     "filescores": {
-        "strict_weak_order.compile.pass.cpp": 6.099602068851199e-06,
-        "strict_weak_order.subsumption.compile.pass.cpp": 1.2582189414654206e-05
+        "strict_weak_order.compile.pass.cpp": 0.02007646631636598,
+        "strict_weak_order.subsumption.compile.pass.cpp": 0.04141350519559674
     },
     "subdirscores": {}
 }

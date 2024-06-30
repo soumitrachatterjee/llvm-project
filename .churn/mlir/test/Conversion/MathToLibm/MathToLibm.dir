@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/mlir/test/Conversion/MathToLibm",
-    "score.sum": 7.082815408269382e-05,
+    "score.sum": 0.0036834057272806336,
     "sha.latest": "b8dca4fa729fcbd5d42ce3ca056dc4d278da2548",
     "time.latest": 1717816144.695366,
     "formatted_time": "2024-06-07 22:09:04.695369",
     "filescores": {
-        "convert-to-libm.mlir": 7.082815408269382e-05
+        "convert-to-libm.mlir": 0.2331265275407381
     },
     "subdirscores": {}
 }

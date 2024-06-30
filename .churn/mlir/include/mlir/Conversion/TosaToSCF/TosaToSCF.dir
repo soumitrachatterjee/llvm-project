@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/mlir/include/mlir/Conversion/TosaToSCF",
-    "score.sum": 1.8839955685009154e-05,
+    "score.sum": 0.0009797685901972715,
     "sha.latest": "67d0d7ac0acb0665d6a09f61278fbcf51f0114c2",
     "time.latest": 1717792322.9871993,
     "formatted_time": "2024-06-07 15:32:02.987202",
     "filescores": {
-        "TosaToSCF.h": 1.8839955685009154e-05
+        "TosaToSCF.h": 0.06201055928606697
     },
     "subdirscores": {}
 }

@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/libcxx/test/std/language.support/cmp/compare.syn",
-    "score.sum": 0,
+    "score.sum": 0.0,
     "sha.latest": "969359e3b86b6cd238bcb48cdaeb9be5dbeddb4b",
     "time.latest": 1717920728.4006479,
     "formatted_time": "2024-06-09 13:42:08.400649",
     "filescores": {
-        "named_functions.pass.cpp": 0
+        "named_functions.pass.cpp": 0.0
     },
     "subdirscores": {}
 }

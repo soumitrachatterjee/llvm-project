@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/lldb/source/Plugins/OperatingSystem/Python",
-    "score.sum": 0.00019797809834144924,
+    "score.sum": 0.010295816271812227,
     "sha.latest": "7a1e8783586ecc90ee15f12c7b76799313bb32e8",
     "time.latest": 1717872744.4173746,
     "formatted_time": "2024-06-09 00:22:24.417378",
     "filescores": {
-        "CMakeLists.txt": 1.1761780045574753e-05,
-        "OperatingSystemPython.cpp": 0.00018437755574558277,
-        "OperatingSystemPython.h": 5.9798711095809635e-05
+        "CMakeLists.txt": 0.038713178046705064,
+        "OperatingSystemPython.cpp": 0.6068674227657039,
+        "OperatingSystemPython.h": 0.19682379203193398
     },
     "subdirscores": {}
 }

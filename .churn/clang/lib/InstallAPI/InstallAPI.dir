@@ -1,15 +1,15 @@
 {
     "directory name": "llvm-project/clang/lib/InstallAPI",
-    "score.sum": 3.839102356890806e-05,
+    "score.sum": 0.0019965184455433076,
     "sha.latest": "50ae8a2a38b618d76193bed04b1d7df6890d5c8a",
     "time.latest": 1717816690.2881675,
     "formatted_time": "2024-06-08 08:48:10.288170",
     "filescores": {
-        "CMakeLists.txt": 1.6552061162580382e-05,
-        "FileList.cpp": 6.099602068851199e-06,
-        "Frontend.cpp": 1.270346089400926e-05,
-        "HeaderFile.cpp": 0,
-        "Visitor.cpp": 1.1738001944466948e-05
+        "CMakeLists.txt": 0.05448009470879489,
+        "FileList.cpp": 0.02007646631636598,
+        "Frontend.cpp": 0.041812662836197736,
+        "HeaderFile.cpp": 0.0,
+        "Visitor.cpp": 0.03863491388445819
     },
     "subdirscores": {}
 }

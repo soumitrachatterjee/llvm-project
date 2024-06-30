@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/libcxx/test/std/utilities/function.objects/func.wrap/func.wrap.func/func.wrap.func.inv",
-    "score.sum": 4.145126181120772e-05,
+    "score.sum": 0.002155665598458931,
     "sha.latest": "902e28def669bd3f0f45088fd7793b1f2f58286a",
     "time.latest": 1717996692.153916,
     "formatted_time": "2024-06-10 10:48:12.153917",
     "filescores": {
-        "invoke.pass.cpp": 3.17904296059013e-05,
-        "invoke.verify.cpp": 0
+        "invoke.pass.cpp": 0.10463625035885128,
+        "invoke.verify.cpp": 0.0
     },
     "subdirscores": {}
 }

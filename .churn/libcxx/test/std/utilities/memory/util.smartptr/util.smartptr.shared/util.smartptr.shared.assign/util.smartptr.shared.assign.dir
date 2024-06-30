@@ -1,16 +1,16 @@
 {
     "directory name": "llvm-project/libcxx/test/std/utilities/memory/util.smartptr/util.smartptr.shared/util.smartptr.shared.assign",
-    "score.sum": 6.993772603792392e-05,
+    "score.sum": 0.003637099173025281,
     "sha.latest": "a38a4654ce4b1d2ae8a03797d2e520e415150492",
     "time.latest": 1717999383.8407173,
     "formatted_time": "2024-06-10 11:33:03.840719",
     "filescores": {
-        "auto_ptr_Y.pass.cpp": 3.362325862017976e-05,
-        "shared_ptr.pass.cpp": 2.536342307411442e-05,
-        "shared_ptr_rv.pass.cpp": 3.866443947433834e-05,
-        "shared_ptr_Y.pass.cpp": 2.263274813940191e-05,
-        "shared_ptr_Y_rv.pass.cpp": 2.909465348435794e-05,
-        "unique_ptr_Y.pass.cpp": 4.762833884752972e-05
+        "auto_ptr_Y.pass.cpp": 0.11066889471064094,
+        "shared_ptr.pass.cpp": 0.08348215232196321,
+        "shared_ptr_rv.pass.cpp": 0.12726163247792377,
+        "shared_ptr_Y.pass.cpp": 0.07449430315920205,
+        "shared_ptr_Y_rv.pass.cpp": 0.09576326850040978,
+        "unique_ptr_Y.pass.cpp": 0.15676575779589969
     },
     "subdirscores": {}
 }

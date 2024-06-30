@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/mlir/python/mlir/dialects/gpu",
-    "score.sum": 6.985173347714724e-06,
+    "score.sum": 0.0003632627144988259,
     "sha.latest": "92233062c17590d3157bdc6db430fcdfc54312fe",
     "time.latest": 1717813886.1642468,
     "formatted_time": "2024-06-07 21:31:26.164248",
     "filescores": {
-        "__init__.py": 6.099602068851199e-06
+        "__init__.py": 0.02007646631636598
     },
     "subdirscores": {
-        "passes": 6.099602068851199e-06
+        "passes": 0.00031720873550238375
     }
 }

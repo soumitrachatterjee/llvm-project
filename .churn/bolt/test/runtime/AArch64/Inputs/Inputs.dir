@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/bolt/test/runtime/AArch64/Inputs",
-    "score.sum": 6.7138148471918785e-06,
+    "score.sum": 0.0003491507632851155,
     "sha.latest": "83cb541f806dc7745361ba80ddfe4d0a000bd366",
     "time.latest": 1717791504.0136697,
     "formatted_time": "2024-06-08 01:48:24.013674",
     "filescores": {
-        "basic-instrumentation.s": 0
+        "basic-instrumentation.s": 0.0
     },
     "subdirscores": {}
 }

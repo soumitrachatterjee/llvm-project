@@ -1,18 +1,18 @@
 {
     "directory name": "llvm-project/libcxx/test/std/numerics/complex.number/complex.value.ops",
-    "score.sum": 2.6546036511871383e-05,
+    "score.sum": 0.001380521971676224,
     "sha.latest": "f642436cc213f99a90e3a4258666dd693b29d79d",
     "time.latest": 1717935781.2890544,
     "formatted_time": "2024-06-09 17:53:01.289058",
     "filescores": {
-        "abs.pass.cpp": 1.937491655323309e-05,
-        "arg.pass.cpp": 2.390359959311051e-05,
-        "conj.pass.cpp": 1.7366275644238228e-05,
-        "imag.pass.cpp": 1.7366275644238228e-05,
-        "norm.pass.cpp": 1.937491655323309e-05,
-        "polar.pass.cpp": 2.3653058473418187e-05,
-        "proj.pass.cpp": 1.937491655323309e-05,
-        "real.pass.cpp": 1.7366275644238228e-05
+        "abs.pass.cpp": 0.06377135019180791,
+        "arg.pass.cpp": 0.07867723281846273,
+        "conj.pass.cpp": 0.057160031765472394,
+        "imag.pass.cpp": 0.057160031765472394,
+        "norm.pass.cpp": 0.06377135019180791,
+        "polar.pass.cpp": 0.07785259208065884,
+        "proj.pass.cpp": 0.06377135019180791,
+        "real.pass.cpp": 0.057160031765472394
     },
     "subdirscores": {}
 }

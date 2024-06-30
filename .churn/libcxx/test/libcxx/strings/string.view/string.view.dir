@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/libcxx/test/libcxx/strings/string.view",
-    "score.sum": 5.828579977586974e-05,
+    "score.sum": 0.003031142791931498,
     "sha.latest": "58780b811c23df3d928d8452ee21c862dde754a2",
     "time.latest": 1717864945.6406274,
     "formatted_time": "2024-06-08 22:12:25.640630",
     "filescores": {
-        "assert.ctor.length.pass.cpp": 2.2040801134250772e-05,
-        "assert.ctor.pointer.pass.cpp": 3.8889579849386164e-05
+        "assert.ctor.length.pass.cpp": 0.07254594587690005,
+        "assert.ctor.pointer.pass.cpp": 0.12800266822174453
     },
     "subdirscores": {
-        "string.view.iterators": 2.008979269677076e-05
+        "string.view.iterators": 0.0010447661447278488
     }
 }

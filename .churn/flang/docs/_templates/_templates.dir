@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/flang/docs/_templates",
-    "score.sum": 2.2123230071428636e-05,
+    "score.sum": 0.0011505146986593344,
     "sha.latest": "86b8abc2dd08b16b9e66d96464509967b940661e",
     "time.latest": 1717788180.3055923,
     "formatted_time": "2024-06-07 14:23:00.305596",
     "filescores": {
-        "indexsidebar.html": 2.2123230071428636e-05,
-        "layout.html": 0
+        "indexsidebar.html": 0.07281725567089403,
+        "layout.html": 0.0
     },
     "subdirscores": {}
 }

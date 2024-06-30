@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/mlir/test/Integration/Dialect/Transform",
-    "score.sum": 1.2686015980753547e-05,
+    "score.sum": 0.000659734035498445,
     "sha.latest": "2798b72ae7e5caad793169b77cbac47fe2362d0f",
     "time.latest": 1717827094.7219298,
     "formatted_time": "2024-06-08 01:11:34.721933",
     "filescores": {
-        "match_batch_matmul.mlir": 1.2551624379704861e-05,
-        "match_matmul.mlir": 1.2686015980753547e-05,
-        "match_matmul_common.mlir": 0,
-        "match_reduction.mlir": 9.647736566995069e-06
+        "match_batch_matmul.mlir": 0.04131290225663573,
+        "match_matmul.mlir": 0.04175524397355442,
+        "match_matmul_common.mlir": 0.0,
+        "match_reduction.mlir": 0.03175493352354524
     },
     "subdirscores": {}
 }

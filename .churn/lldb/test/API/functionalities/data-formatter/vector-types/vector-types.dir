@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/lldb/test/API/functionalities/data-formatter/vector-types",
-    "score.sum": 2.1291252193971083e-05,
+    "score.sum": 0.0011072478351008116,
     "sha.latest": "0dfcfb53d7bba22b3a5d36853837d5889b32a744",
     "time.latest": 1717908859.4120152,
     "formatted_time": "2024-06-09 10:24:19.412017",
     "filescores": {
-        "main.cpp": 6.1385708817527375e-06,
-        "Makefile": 0,
-        "TestVectorTypesFormatting.py": 2.1252283381069542e-05
+        "main.cpp": 0.020204729775322058,
+        "Makefile": 0.0,
+        "TestVectorTypesFormatting.py": 0.0699505880268459
     },
     "subdirscores": {}
 }

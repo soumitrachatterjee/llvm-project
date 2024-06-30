@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/flang/test/Lower/AMD",
-    "score.sum": 6.153053236921952e-06,
+    "score.sum": 0.0003199884541206579,
     "sha.latest": "500846d2f542c93e349161a39a1baae0f1f6fad0",
     "time.latest": 1717797773.1296568,
     "formatted_time": "2024-06-07 17:02:53.129660",
     "filescores": {
-        "code-object-version.f90": 6.153053236921952e-06
+        "code-object-version.f90": 0.020252397559622475
     },
     "subdirscores": {}
 }

@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/lldb/test/API/commands/expression/po_persistent_result",
-    "score.sum": 7.073235718741685e-06,
+    "score.sum": 0.0003678423826547955,
     "sha.latest": "e0528382b570bb18b438c20eadad34f8857a69a8",
     "time.latest": 1717893431.903246,
     "formatted_time": "2024-06-09 06:07:11.903247",
     "filescores": {
-        "main.m": 0,
-        "Makefile": 0,
-        "TestPoPersistentResult.py": 7.073235718741685e-06
+        "main.m": 0.0,
+        "Makefile": 0.0,
+        "TestPoPersistentResult.py": 0.02328112179320897
     },
     "subdirscores": {}
 }

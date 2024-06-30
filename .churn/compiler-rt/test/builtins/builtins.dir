@@ -1,17 +1,17 @@
 {
     "directory name": "llvm-project/compiler-rt/test/builtins",
-    "score.sum": 0.000655394456327877,
+    "score.sum": 0.03408367372171764,
     "sha.latest": "c22828991e7ca7b99048761c078252e94403ba6e",
     "time.latest": 1717822297.1539524,
     "formatted_time": "2024-06-08 10:21:37.153955",
     "filescores": {
-        "CMakeLists.txt": 0.0001183809293875525,
-        "lit.cfg.py": 1.7783435921859017e-05,
-        "lit.site.cfg.py.in": 0
+        "CMakeLists.txt": 0.3896435725678282,
+        "lit.cfg.py": 0.05853308924818078,
+        "lit.site.cfg.py.in": 0.0
     },
     "subdirscores": {
-        "TestCases": 1.862677142540688e-05,
-        "timing": 0,
-        "Unit": 0.0005663790854965787
+        "TestCases": 0.0009686819801767944,
+        "timing": 0.0,
+        "Unit": 0.029454444978113718
     }
 }

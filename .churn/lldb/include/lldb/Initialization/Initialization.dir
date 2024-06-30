@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/lldb/include/lldb/Initialization",
-    "score.sum": 3.4961141981059084e-05,
+    "score.sum": 0.0018181480552910475,
     "sha.latest": "9494c510af56d9c8593ab69017dcaa232210b235",
     "time.latest": 1717848763.8520067,
     "formatted_time": "2024-06-08 17:42:43.852012",
     "filescores": {
-        "SystemInitializer.h": 2.2098340590651637e-05,
-        "SystemInitializerCommon.h": 2.9001684049461903e-05,
-        "SystemLifetimeManager.h": 2.4648043971157456e-05
+        "SystemInitializer.h": 0.07273533347059132,
+        "SystemInitializerCommon.h": 0.0954572653042876,
+        "SystemLifetimeManager.h": 0.08112752585587106
     },
     "subdirscores": {}
 }

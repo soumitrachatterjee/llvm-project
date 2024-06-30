@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/libcxx/test/std/thread/thread.threads/thread.thread.class/thread.thread.static",
-    "score.sum": 2.7785504112136447e-05,
+    "score.sum": 0.001444980266781089,
     "sha.latest": "a7f9895cc18995549c7facb96e72718da282a864",
     "time.latest": 1717980234.3674386,
     "formatted_time": "2024-06-10 06:13:54.367442",
     "filescores": {
-        "hardware_concurrency.pass.cpp": 2.7785504112136447e-05
+        "hardware_concurrency.pass.cpp": 0.09145428358994877
     },
     "subdirscores": {}
 }

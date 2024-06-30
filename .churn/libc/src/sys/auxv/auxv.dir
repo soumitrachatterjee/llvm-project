@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/libc/src/sys/auxv",
-    "score.sum": 6.099602068851199e-06,
+    "score.sum": 0.00031720873550238375,
     "sha.latest": "86f05477d0bd7347e9bec8c1f9a7d89c167ad556",
     "time.latest": 1717841213.54339,
     "formatted_time": "2024-06-08 05:06:53.543390",
     "filescores": {
-        "CMakeLists.txt": 0,
-        "getauxval.h": 0
+        "CMakeLists.txt": 0.0,
+        "getauxval.h": 0.0
     },
     "subdirscores": {
-        "linux": 6.099602068851199e-06
+        "linux": 0.00031720873550238375
     }
 }

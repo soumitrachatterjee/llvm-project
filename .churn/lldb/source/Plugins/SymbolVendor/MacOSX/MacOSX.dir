@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/lldb/source/Plugins/SymbolVendor/MacOSX",
-    "score.sum": 0.0002984921450291628,
+    "score.sum": 0.015523031636050278,
     "sha.latest": "50ffc53e4708f3484939ef82e7b0309600a8e19f",
     "time.latest": 1717881816.3726907,
     "formatted_time": "2024-06-09 02:53:36.372692",
     "filescores": {
-        "CMakeLists.txt": 1.7611737616201294e-05,
-        "SymbolVendorMacOSX.cpp": 0.0002689347023031686,
-        "SymbolVendorMacOSX.h": 5.66191087098944e-05
+        "CMakeLists.txt": 0.057967954799866904,
+        "SymbolVendorMacOSX.cpp": 0.8851820874781057,
+        "SymbolVendorMacOSX.h": 0.1863583256818829
     },
     "subdirscores": {}
 }

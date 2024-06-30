@@ -1,17 +1,17 @@
 {
     "directory name": "llvm-project/libcxx/test/std/thread/thread.mutex/thread.lock/thread.lock.unique",
-    "score.sum": 0.0001072432890930682,
+    "score.sum": 0.005577168434978875,
     "sha.latest": "e8cfbfd05a951b85f80156dffc8eeecb34c7271c",
     "time.latest": 1717978428.6617343,
     "formatted_time": "2024-06-10 05:43:48.661736",
     "filescores": {
-        "implicit_ctad.pass.cpp": 0,
-        "types.pass.cpp": 1.6482671913285826e-05
+        "implicit_ctad.pass.cpp": 0.0,
+        "types.pass.cpp": 0.05425170424816236
     },
     "subdirscores": {
-        "thread.lock.unique.cons": 8.099616213675592e-05,
-        "thread.lock.unique.locking": 6.419790323663171e-05,
-        "thread.lock.unique.mod": 1.6482671913285826e-05,
-        "thread.lock.unique.obs": 2.182070391469672e-05
+        "thread.lock.unique.cons": 0.004212191202300082,
+        "thread.lock.unique.locking": 0.003338600695214159,
+        "thread.lock.unique.mod": 0.0008571784612006306,
+        "thread.lock.unique.obs": 0.0011347818789523925
     }
 }

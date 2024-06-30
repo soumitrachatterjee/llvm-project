@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/lldb/source/Plugins/OperatingSystem",
-    "score.sum": 0.000282623187221387,
+    "score.sum": 0.014697769269239307,
     "sha.latest": "7a1e8783586ecc90ee15f12c7b76799313bb32e8",
     "time.latest": 1717872744.4342542,
     "formatted_time": "2024-06-09 00:22:24.434257",
     "filescores": {
-        "CMakeLists.txt": 3.854380060246918e-05
+        "CMakeLists.txt": 0.12686455702608504
     },
     "subdirscores": {
-        "Python": 0.00019797809834144924
+        "Python": 0.010295816271812227
     }
 }

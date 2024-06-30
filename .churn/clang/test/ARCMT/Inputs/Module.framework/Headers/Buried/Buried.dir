@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/clang/test/ARCMT/Inputs/Module.framework/Headers/Buried",
-    "score.sum": 0,
+    "score.sum": 0.0,
     "sha.latest": "fcfc213c3f2279fe12a6fc343937874a7dbbde62",
     "time.latest": 1717845279.3566465,
     "formatted_time": "2024-06-08 16:44:39.356650",
     "filescores": {
-        "Treasure.h": 0
+        "Treasure.h": 0.0
     },
     "subdirscores": {}
 }

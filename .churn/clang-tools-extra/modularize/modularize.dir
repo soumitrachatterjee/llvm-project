@@ -1,20 +1,20 @@
 {
     "directory name": "llvm-project/clang-tools-extra/modularize",
-    "score.sum": 0.0004193337607722486,
+    "score.sum": 0.021807378662830775,
     "sha.latest": "da95d926f6fce4ed9707c77908ad96624268f134",
     "time.latest": 1717814119.0792475,
     "formatted_time": "2024-06-08 08:05:19.079251",
     "filescores": {
-        "CMakeLists.txt": 5.685781397743104e-05,
-        "CoverageChecker.cpp": 9.092282533254216e-05,
-        "CoverageChecker.h": 1.8036931521727848e-05,
-        "Modularize.cpp": 0.00014925206802669512,
-        "Modularize.h": 1.3390451128955287e-05,
-        "ModularizeUtilities.cpp": 8.991362872011704e-05,
-        "ModularizeUtilities.h": 1.3772170969776991e-05,
-        "ModuleAssistant.cpp": 4.37328154751106e-05,
-        "PreprocessorTracker.cpp": 0.0001000608865483788,
-        "PreprocessorTracker.h": 1.3310689845449644e-05
+        "CMakeLists.txt": 0.18714400943783013,
+        "CoverageChecker.cpp": 0.29926690619694934,
+        "CoverageChecker.h": 0.05936745447638199,
+        "Modularize.cpp": 0.4912540330602684,
+        "Modularize.h": 0.044073849083412046,
+        "ModularizeUtilities.cpp": 0.2959451974088612,
+        "ModularizeUtilities.h": 0.04533025654082326,
+        "ModuleAssistant.cpp": 0.14394388140327813,
+        "PreprocessorTracker.cpp": 0.3293442745442238,
+        "PreprocessorTracker.h": 0.043811319707958415
     },
     "subdirscores": {}
 }

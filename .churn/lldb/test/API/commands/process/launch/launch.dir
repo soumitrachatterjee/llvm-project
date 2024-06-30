@@ -1,16 +1,16 @@
 {
     "directory name": "llvm-project/lldb/test/API/commands/process/launch",
-    "score.sum": 3.278085201630996e-05,
+    "score.sum": 0.0017047624581750596,
     "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
     "time.latest": 1717896621.3178842,
     "formatted_time": "2024-06-09 07:00:21.317886",
     "filescores": {
-        "input-file.txt": 0,
-        "main.cpp": 0,
-        "Makefile": 0,
-        "print_cwd.cpp": 0,
-        "print_env.cpp": 0,
-        "TestProcessLaunch.py": 3.278085201630996e-05
+        "input-file.txt": 0.0,
+        "main.cpp": 0.0,
+        "Makefile": 0.0,
+        "print_cwd.cpp": 0.0,
+        "print_env.cpp": 0.0,
+        "TestProcessLaunch.py": 0.10789616501182277
     },
     "subdirscores": {}
 }

@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/libc/test/src/math/generic",
-    "score.sum": 1.0931877815775378e-05,
+    "score.sum": 0.0005685103879672882,
     "sha.latest": "84c899b2350f95ab4d1a335158363d2c112029ba",
     "time.latest": 1717846825.1790755,
     "formatted_time": "2024-06-08 06:40:25.179079",
     "filescores": {
-        "CMakeLists.txt": 1.0931877815775378e-05
+        "CMakeLists.txt": 0.035981605728646913
     },
     "subdirscores": {}
 }

@@ -1,15 +1,15 @@
 {
     "directory name": "llvm-project/llvm/unittests/Testing",
-    "score.sum": 2.4130807445760902e-05,
+    "score.sum": 0.001254918407810655,
     "sha.latest": "3432f4bf86e7c77666ae9dede1610ae843dde648",
     "time.latest": 1718084663.7364562,
     "formatted_time": "2024-06-11 00:44:23.736457",
     "filescores": {
-        "CMakeLists.txt": 9.617550219397692e-06
+        "CMakeLists.txt": 0.03165557701079047
     },
     "subdirscores": {
-        "ADT": 6.099602068851199e-06,
-        "Annotations": 0,
-        "Support": 1.1831451820158265e-05
+        "ADT": 0.00031720873550238375,
+        "Annotations": 0.0,
+        "Support": 0.0006152925762477862
     }
 }

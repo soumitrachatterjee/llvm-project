@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/llvm/examples/OrcV2Examples/OrcV2CBindingsVeryLazy",
-    "score.sum": 1.774521198711549e-05,
+    "score.sum": 0.0009228366362454861,
     "sha.latest": "c2cabe479b27af031d3d63cc73630e2c23bddbcd",
     "time.latest": 1717805034.1064556,
     "formatted_time": "2024-06-07 19:03:54.106459",
     "filescores": {
-        "CMakeLists.txt": 6.104896131027755e-06,
-        "OrcV2CBindingsVeryLazy.c": 1.2370502932150148e-05
+        "CMakeLists.txt": 0.02009389139750482,
+        "OrcV2CBindingsVeryLazy.c": 0.04071675211438744
     },
     "subdirscores": {}
 }

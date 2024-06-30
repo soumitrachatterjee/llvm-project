@@ -1,16 +1,16 @@
 {
     "directory name": "llvm-project/lldb/test/API/commands/frame",
-    "score.sum": 8.214779469803891e-05,
+    "score.sum": 0.00427208165161209,
     "sha.latest": "80fcecb13c388ff087a27a4b0e7ca3dd8c98eaa4",
     "time.latest": 1717895366.9924908,
     "formatted_time": "2024-06-09 06:39:26.992492",
     "filescores": {},
     "subdirscores": {
-        "diagnose": 1.2557410235174005e-05,
-        "language": 2.6144166684451065e-05,
-        "recognizer": 2.0803518027340422e-05,
-        "select": 1.0459834404963863e-05,
-        "var": 6.816437960983712e-05,
-        "var-scope": 6.14315219479982e-06
+        "diagnose": 0.0006530459162616255,
+        "language": 0.0013596228018035623,
+        "recognizer": 0.0010818833053311903,
+        "select": 0.000543961853201322,
+        "var": 0.003544876603140975,
+        "var-scope": 0.0003194735521620931
     }
 }

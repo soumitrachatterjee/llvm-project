@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/lldb/test/API/functionalities/data-formatter/data-formatter-smart-array",
-    "score.sum": 1.913620251988177e-05,
+    "score.sum": 0.0009951748548725384,
     "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
     "time.latest": 1717905698.653188,
     "formatted_time": "2024-06-09 09:31:38.653190",
     "filescores": {
-        "main.cpp": 6.099602068851199e-06,
-        "Makefile": 0,
-        "TestDataFormatterSmartArray.py": 1.909265239393315e-05
+        "main.cpp": 0.02007646631636598,
+        "Makefile": 0.0,
+        "TestDataFormatterSmartArray.py": 0.06284229501369365
     },
     "subdirscores": {}
 }

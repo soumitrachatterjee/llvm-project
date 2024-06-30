@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/clang/test/CXX/basic/basic.lookup/basic.lookup.classref",
-    "score.sum": 1.8312031960490895e-05,
+    "score.sum": 0.0009523140095203904,
     "sha.latest": "d0d076fed9681ebf2c2aed22e18cc5b89c5ac940",
     "time.latest": 1718082314.1688576,
     "formatted_time": "2024-06-11 10:35:14.168860",
     "filescores": {
-        "p1-cxx11.cpp": 6.0996202104490565e-06,
-        "p1.cpp": 1.2517963777992533e-05,
-        "p3.cpp": 9.466941001480925e-06,
-        "p4-cxx11.cpp": 6.099602068851199e-06
+        "p1-cxx11.cpp": 0.020076526028323285,
+        "p1.cpp": 0.041202110449426343,
+        "p3.cpp": 0.031159856002057573,
+        "p4-cxx11.cpp": 0.02007646631636598
     },
     "subdirscores": {}
 }

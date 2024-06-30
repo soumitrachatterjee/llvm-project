@@ -1,18 +1,18 @@
 {
     "directory name": "llvm-project/llvm/tools/opt-viewer",
-    "score.sum": 7.710116965364491e-05,
+    "score.sum": 0.004009632801536796,
     "sha.latest": "b71edfaa4ec3c998aadb35255ce2f60bba2940b0",
     "time.latest": 1718085027.209142,
     "formatted_time": "2024-06-11 00:50:27.209144",
     "filescores": {
-        "CMakeLists.txt": 3.859895161892851e-05,
-        "extract-reproducers.py": 6.099602068851199e-06,
-        "opt-diff.py": 1.3594375360116442e-05,
-        "opt-stats.py": 1.2924349401564048e-05,
-        "opt-viewer.py": 2.8736742536495677e-05,
-        "optpmap.py": 1.0520991570488347e-05,
-        "optrecord.py": 3.519061989220378e-05,
-        "style.css": 7.500542356489439e-06
+        "CMakeLists.txt": 0.1270460832161153,
+        "extract-reproducers.py": 0.02007646631636598,
+        "opt-diff.py": 0.044745053190136476,
+        "opt-stats.py": 0.042539703818796015,
+        "opt-viewer.py": 0.09458522655473761,
+        "optpmap.py": 0.034629198838779615,
+        "optrecord.py": 0.11582776826143525,
+        "style.css": 0.024687575398323915
     },
     "subdirscores": {}
 }

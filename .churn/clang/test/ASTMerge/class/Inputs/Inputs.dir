@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/clang/test/ASTMerge/class/Inputs",
-    "score.sum": 1.5200465400993189e-05,
+    "score.sum": 0.0007904975364737046,
     "sha.latest": "0333dd95636da52229ca14b4e5525c1cd8ba62d2",
     "time.latest": 1717864649.2271116,
     "formatted_time": "2024-06-08 22:07:29.227114",
     "filescores": {
-        "class1.cpp": 1.5200465400993189e-05,
-        "class2.cpp": 1.5200465400993189e-05
+        "class1.cpp": 0.05003140010961443,
+        "class2.cpp": 0.05003140010961443
     },
     "subdirscores": {}
 }

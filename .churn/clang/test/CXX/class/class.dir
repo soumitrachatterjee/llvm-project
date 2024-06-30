@@ -1,27 +1,27 @@
 {
     "directory name": "llvm-project/clang/test/CXX/class",
-    "score.sum": 0.0005555338969519992,
+    "score.sum": 0.028890442850486576,
     "sha.latest": "99500e8c08a4d941acb8a7eb00523296fb2acf7a",
     "time.latest": 1718083299.4260383,
     "formatted_time": "2024-06-11 10:51:39.426040",
     "filescores": {
-        "p1-0x.cpp": 9.228336001284754e-06,
-        "p2-0x.cpp": 8.752794027525661e-06,
-        "p6-0x.cpp": 1.3612050529785603e-05
+        "p1-0x.cpp": 0.03037450226991531,
+        "p2-0x.cpp": 0.02880928501304748,
+        "p6-0x.cpp": 0.0448032299276504
     },
     "subdirscores": {
-        "class.base": 0,
-        "class.bit": 1.4781204669294787e-05,
-        "class.compare": 9.684711271560805e-05,
-        "class.dtor": 0,
-        "class.friend": 5.542326106425349e-05,
-        "class.init": 5.220906587973154e-05,
-        "class.local": 8.857926256720456e-05,
-        "class.mem": 6.2774447025918e-05,
-        "class.mfct": 3.113968634311883e-05,
-        "class.nest": 1.9499503517224267e-05,
-        "class.nested.type": 6.9085573762356045e-06,
-        "class.static": 2.888315180200008e-05,
-        "class.union": 4.8035674440976385e-05
+        "class.base": 0.0,
+        "class.bit": 0.0007686939556750473,
+        "class.compare": 0.00503651710632999,
+        "class.dtor": 0.0,
+        "class.friend": 0.0028822769684255013,
+        "class.init": 0.002715123311739159,
+        "class.local": 0.004606549009838703,
+        "class.mem": 0.0032645741047010917,
+        "class.mfct": 0.001619413925259875,
+        "class.nest": 0.0010140682595033545,
+        "class.nested.type": 0.00035927831434323415,
+        "class.static": 0.0015020632423258086,
+        "class.union": 0.0024980868221287263
     }
 }

@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/libc/src/stdlib/linux",
-    "score.sum": 3.346753611790409e-05,
+    "score.sum": 0.0017404733444095267,
     "sha.latest": "b6bc9d72f65a5086f310f321e969d96e9a559e75",
     "time.latest": 1717839867.3818262,
     "formatted_time": "2024-06-08 04:44:27.381830",
     "filescores": {
-        "CMakeLists.txt": 2.4343880010080432e-05,
-        "abort.cpp": 6.099602068851199e-06
+        "CMakeLists.txt": 0.08012638882262105,
+        "abort.cpp": 0.02007646631636598
     },
     "subdirscores": {}
 }

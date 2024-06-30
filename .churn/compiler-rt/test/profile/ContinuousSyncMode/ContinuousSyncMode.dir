@@ -1,23 +1,23 @@
 {
     "directory name": "llvm-project/compiler-rt/test/profile/ContinuousSyncMode",
-    "score.sum": 6.310565740765666e-05,
+    "score.sum": 0.003281798642497271,
     "sha.latest": "8b2bdfbca7c1db272e4e703445f5626b4bc4b9d3",
     "time.latest": 1717836730.127451,
     "formatted_time": "2024-06-08 14:22:10.127455",
     "filescores": {
-        "basic.c": 7.070807354388151e-06,
-        "darwin-proof-of-concept.c": 0,
-        "get-filename.c": 0,
-        "image-with-mcdc.c": 0,
-        "image-with-no-counters.c": 0,
-        "multiple-DSOs.c": 7.41744770523055e-06,
-        "online-merging-windows.c": 1.0838003610037105e-05,
-        "online-merging.c": 7.714295631230023e-06,
-        "pid-substitution.c": 6.099602068851199e-06,
-        "reset-default-profile.c": 0,
-        "runtime-counter-relocation.c": 1.2029478634971551e-05,
-        "set-file-object.c": 1.838361582776432e-05,
-        "set-filename.c": 6.099602068851199e-06
+        "basic.c": 0.023273128980793128,
+        "darwin-proof-of-concept.c": 0.0,
+        "get-filename.c": 0.0,
+        "image-with-mcdc.c": 0.0,
+        "image-with-no-counters.c": 0.0,
+        "multiple-DSOs.c": 0.024414074447239174,
+        "online-merging-windows.c": 0.03567262453475815,
+        "online-merging.c": 0.025391131199489565,
+        "pid-substitution.c": 0.02007646631636598,
+        "reset-default-profile.c": 0.0,
+        "runtime-counter-relocation.c": 0.03959429154432307,
+        "set-file-object.c": 0.06050854461865495,
+        "set-filename.c": 0.02007646631636598
     },
     "subdirscores": {}
 }

@@ -1,16 +1,16 @@
 {
     "directory name": "llvm-project/libcxx/test/std/utilities/function.objects/refwrap/refwrap.invoke",
-    "score.sum": 3.578581083558093e-05,
+    "score.sum": 0.0018610348143940627,
     "sha.latest": "76804e89b34333e52c8000efc44217ccd4fd7fca",
     "time.latest": 1717997379.0594504,
     "formatted_time": "2024-06-10 10:59:39.059452",
     "filescores": {
-        "invoke.compile.fail.cpp": 0,
-        "invoke.incomplete.compile.fail.cpp": 7.794516441862335e-06,
-        "invoke.pass.cpp": 1.5610684278307937e-05,
-        "invoke_int_0.pass.cpp": 1.7366275644238228e-05,
-        "invoke_void_0.pass.cpp": 1.7366275644238228e-05,
-        "robust_against_adl.pass.cpp": 0
+        "invoke.compile.fail.cpp": 0.0,
+        "invoke.incomplete.compile.fail.cpp": 0.02565517308031254,
+        "invoke.pass.cpp": 0.05138161039870927,
+        "invoke_int_0.pass.cpp": 0.057160031765472394,
+        "invoke_void_0.pass.cpp": 0.057160031765472394,
+        "robust_against_adl.pass.cpp": 0.0
     },
     "subdirscores": {}
 }

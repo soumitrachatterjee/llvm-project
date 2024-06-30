@@ -1,18 +1,18 @@
 {
     "directory name": "llvm-project/clang/lib/DirectoryWatcher",
-    "score.sum": 6.811711035500214e-05,
+    "score.sum": 0.0035424183738359994,
     "sha.latest": "ba13fa2a5d57581bff1a7e9322234af30f4882f6",
     "time.latest": 1717809522.5188463,
     "formatted_time": "2024-06-08 06:48:42.518848",
     "filescores": {
-        "CMakeLists.txt": 7.614921519552946e-06,
-        "DirectoryScanner.cpp": 1.8298768108790697e-05,
-        "DirectoryScanner.h": 1.3145075320220906e-05
+        "CMakeLists.txt": 0.025064047402336326,
+        "DirectoryScanner.cpp": 0.06022927355264667,
+        "DirectoryScanner.h": 0.04326620965000312
     },
     "subdirscores": {
-        "default": 6.793167988622884e-06,
-        "linux": 2.775168300892741e-05,
-        "mac": 1.184887580595217e-05,
-        "windows": 4.472131479982977e-05
+        "default": 0.0003532775094838576,
+        "linux": 0.0014432214062421332,
+        "mac": 0.0006161987075722083,
+        "windows": 0.0023257241304480442
     }
 }

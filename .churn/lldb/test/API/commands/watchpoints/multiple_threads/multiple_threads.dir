@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/lldb/test/API/commands/watchpoints/multiple_threads",
-    "score.sum": 2.6436574164207087e-05,
+    "score.sum": 0.0013748294014895507,
     "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
     "time.latest": 1717900447.895862,
     "formatted_time": "2024-06-09 08:04:07.895864",
     "filescores": {
-        "main.cpp": 6.291807313127599e-06,
-        "Makefile": 0,
-        "TestWatchpointMultipleThreads.py": 2.6393024038258464e-05
+        "main.cpp": 0.020709098096109407,
+        "Makefile": 0.0,
+        "TestWatchpointMultipleThreads.py": 0.08687102078298875
     },
     "subdirscores": {}
 }

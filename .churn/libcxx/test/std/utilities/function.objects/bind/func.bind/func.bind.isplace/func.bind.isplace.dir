@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/libcxx/test/std/utilities/function.objects/bind/func.bind/func.bind.isplace",
-    "score.sum": 9.799613723303364e-06,
+    "score.sum": 0.0005096271924778737,
     "sha.latest": "049a3fe10f644c259a33f185a0a7711757252188",
     "time.latest": 1717995633.939988,
     "formatted_time": "2024-06-10 10:30:33.939990",
     "filescores": {
-        "is_placeholder.pass.cpp": 6.099602068851199e-06,
-        "specialization.pass.cpp": 6.099602068851199e-06
+        "is_placeholder.pass.cpp": 0.02007646631636598,
+        "specialization.pass.cpp": 0.02007646631636598
     },
     "subdirscores": {}
 }

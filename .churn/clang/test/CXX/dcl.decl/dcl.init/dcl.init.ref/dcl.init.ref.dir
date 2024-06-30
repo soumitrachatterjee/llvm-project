@@ -1,21 +1,21 @@
 {
     "directory name": "llvm-project/clang/test/CXX/dcl.decl/dcl.init/dcl.init.ref",
-    "score.sum": 0.00011944771734219617,
+    "score.sum": 0.006211857584981834,
     "sha.latest": "f9ead46931aef2978ddf350ba6523638175d7861",
     "time.latest": 1718089393.0158734,
     "formatted_time": "2024-06-11 12:33:13.015877",
     "filescores": {
-        "basic.cpp": 6.099602068851199e-06,
-        "p1.cpp": 1.0107760311345781e-05,
-        "p3.cpp": 8.436891676977689e-06,
-        "p4-ast.cpp": 6.099602068851199e-06,
-        "p4.cpp": 0,
-        "p5-0x.cpp": 4.553366757433237e-05,
-        "p5-cxx03-extra-copy.cpp": 3.0196003863771367e-05,
-        "p5-cxx0x-no-extra-copy.cpp": 6.9391102505812e-06,
-        "p5-examples.cpp": 2.8225253294482118e-05,
-        "p5-var.cpp": 2.2235871763747934e-05,
-        "p5.cpp": 1.764713090397663e-05
+        "basic.cpp": 0.02007646631636598,
+        "p1.cpp": 0.03326907347955143,
+        "p3.cpp": 0.02776951179039335,
+        "p4-ast.cpp": 0.02007646631636598,
+        "p4.cpp": 0.0,
+        "p5-0x.cpp": 0.14987127569927883,
+        "p5-cxx03-extra-copy.cpp": 0.09938829576370056,
+        "p5-cxx0x-no-extra-copy.cpp": 0.022839656036378383,
+        "p5-examples.cpp": 0.09290169106790498,
+        "p5-var.cpp": 0.07318800889645531,
+        "p5.cpp": 0.058084449637042526
     },
     "subdirscores": {}
 }

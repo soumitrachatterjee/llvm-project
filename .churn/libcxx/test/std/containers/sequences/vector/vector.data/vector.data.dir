@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/libcxx/test/std/containers/sequences/vector/vector.data",
-    "score.sum": 3.9988887703087616e-05,
+    "score.sum": 0.0020796150895188333,
     "sha.latest": "e3dd9f7e66fec22986605da2dcd8120a7864455d",
     "time.latest": 1717887274.4792733,
     "formatted_time": "2024-06-09 04:24:34.479275",
     "filescores": {
-        "data.pass.cpp": 3.9988887703087616e-05,
-        "data_const.pass.cpp": 3.9988887703087616e-05
+        "data.pass.cpp": 0.13162097263685704,
+        "data_const.pass.cpp": 0.13162097263685704
     },
     "subdirscores": {}
 }

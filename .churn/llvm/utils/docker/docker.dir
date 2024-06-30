@@ -1,17 +1,17 @@
 {
     "directory name": "llvm-project/llvm/utils/docker",
-    "score.sum": 4.2700626789918444e-05,
+    "score.sum": 0.002220638604993508,
     "sha.latest": "b71edfaa4ec3c998aadb35255ce2f60bba2940b0",
     "time.latest": 1718079588.1448429,
     "formatted_time": "2024-06-10 23:19:48.144843",
     "filescores": {
-        "README": 0,
-        "build_docker_image.sh": 2.340252588427516e-05
+        "README": 0.0,
+        "build_docker_image.sh": 0.07702797942063506
     },
     "subdirscores": {
-        "debian10": 6.099602068851199e-06,
-        "example": 1.387385265857049e-05,
-        "nvidia-cuda": 1.0689440297013005e-05,
-        "scripts": 3.3935476253608686e-05
+        "debian10": 0.00031720873550238375,
+        "example": 0.0007215072735393046,
+        "nvidia-cuda": 0.0005559024673362573,
+        "scripts": 0.001764808489073419
     }
 }

@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/llvm/examples/Kaleidoscope/Chapter2",
-    "score.sum": 6.580939998400305e-05,
+    "score.sum": 0.0034224063008470767,
     "sha.latest": "33aaad94279e5e2b7ab413786abdde48e3486ad9",
     "time.latest": 1717803939.0814476,
     "formatted_time": "2024-06-07 18:45:39.081451",
     "filescores": {
-        "CMakeLists.txt": 2.0357232670311205e-05,
-        "toy.cpp": 6.267577256564971e-05
+        "CMakeLists.txt": 0.0670045834771813,
+        "toy.cpp": 0.20629346350186933
     },
     "subdirscores": {}
 }

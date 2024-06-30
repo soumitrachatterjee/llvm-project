@@ -1,24 +1,24 @@
 {
     "directory name": "llvm-project/libcxx/test/std/ranges/range.adaptors/range.join",
-    "score.sum": 1.0140601820525048e-05,
+    "score.sum": 0.0005273602186523871,
     "sha.latest": "ba2236d3000645d3127f972aa7ac1844c47e299c",
     "time.latest": 1717962037.7072842,
     "formatted_time": "2024-06-10 01:10:37.707286",
     "filescores": {
-        "adaptor.pass.cpp": 6.099602068851199e-06,
-        "base.pass.cpp": 0,
-        "begin.pass.cpp": 0,
-        "ctad.compile.pass.cpp": 0,
-        "ctad.verify.cpp": 0,
-        "ctor.default.pass.cpp": 0,
-        "ctor.view.pass.cpp": 0,
-        "end.pass.cpp": 0,
-        "general.pass.cpp": 0,
-        "lwg3698.pass.cpp": 0,
-        "types.h": 6.099602068851199e-06
+        "adaptor.pass.cpp": 0.02007646631636598,
+        "base.pass.cpp": 0.0,
+        "begin.pass.cpp": 0.0,
+        "ctad.compile.pass.cpp": 0.0,
+        "ctad.verify.cpp": 0.0,
+        "ctor.default.pass.cpp": 0.0,
+        "ctor.view.pass.cpp": 0.0,
+        "end.pass.cpp": 0.0,
+        "general.pass.cpp": 0.0,
+        "lwg3698.pass.cpp": 0.0,
+        "types.h": 0.02007646631636598
     },
     "subdirscores": {
-        "range.join.iterator": 0,
-        "range.join.sentinel": 1.1988170485796409e-05
+        "range.join.iterator": 0.0,
+        "range.join.sentinel": 0.0006234427029602422
     }
 }

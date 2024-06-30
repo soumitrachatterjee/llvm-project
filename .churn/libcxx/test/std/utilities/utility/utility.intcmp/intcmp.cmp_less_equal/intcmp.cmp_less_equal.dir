@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/libcxx/test/std/utilities/utility/utility.intcmp/intcmp.cmp_less_equal",
-    "score.sum": 1.478405844717434e-05,
+    "score.sum": 0.0007688423658930188,
     "sha.latest": "d2baefae6846765eef6a6dd69d4fdf1082ce29ad",
     "time.latest": 1718009245.8615677,
     "formatted_time": "2024-06-10 14:17:25.861570",
     "filescores": {
-        "cmp_less_equal.pass.cpp": 1.478405844717434e-05
+        "cmp_less_equal.pass.cpp": 0.04866082214602291
     },
     "subdirscores": {}
 }

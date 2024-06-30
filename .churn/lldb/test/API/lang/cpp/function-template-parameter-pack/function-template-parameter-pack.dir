@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/lldb/test/API/lang/cpp/function-template-parameter-pack",
-    "score.sum": 6.14315219479982e-06,
+    "score.sum": 0.0003194735521620931,
     "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
     "time.latest": 1717931579.4025748,
     "formatted_time": "2024-06-09 16:42:59.402577",
     "filescores": {
-        "main.cpp": 6.099602068851199e-06,
-        "TestFunctionTemplateParameterPack.py": 6.099602068851199e-06
+        "main.cpp": 0.02007646631636598,
+        "TestFunctionTemplateParameterPack.py": 0.02007646631636598
     },
     "subdirscores": {}
 }

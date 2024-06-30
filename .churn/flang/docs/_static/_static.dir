@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/flang/docs/_static",
-    "score.sum": 0,
+    "score.sum": 0.0,
     "sha.latest": "2fc86ccdd25309b9f77739aaed4a7b06f1c6f111",
     "time.latest": 1717788155.0916705,
     "formatted_time": "2024-06-07 14:22:35.091674",
     "filescores": {
-        "llvm.css": 0
+        "llvm.css": 0.0
     },
     "subdirscores": {}
 }

@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/libcxx/test/std/utilities/format/format.range/format.range.fmtkind",
-    "score.sum": 2.6346186568560546e-05,
+    "score.sum": 0.001370128810435167,
     "sha.latest": "c352fa7407122ee62d990d6b82551650149f98d4",
     "time.latest": 1717994899.0345864,
     "formatted_time": "2024-06-10 10:18:19.034588",
     "filescores": {
-        "format_kind.compile.pass.cpp": 2.6346186568560546e-05,
-        "format_kind.verify.cpp": 6.099602068851199e-06,
-        "range_format.compile.pass.cpp": 6.099602068851199e-06
+        "format_kind.compile.pass.cpp": 0.08671685812252011,
+        "format_kind.verify.cpp": 0.02007646631636598,
+        "range_format.compile.pass.cpp": 0.02007646631636598
     },
     "subdirscores": {}
 }

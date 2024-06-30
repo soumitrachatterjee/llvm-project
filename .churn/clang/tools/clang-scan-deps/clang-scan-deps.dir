@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/clang/tools/clang-scan-deps",
-    "score.sum": 0.00038341544413912073,
+    "score.sum": 0.019939452907681534,
     "sha.latest": "716042a63f26cd020eb72960f72fa97b9a197382",
     "time.latest": 1718082238.7148826,
     "formatted_time": "2024-06-11 10:33:58.714885",
     "filescores": {
-        "ClangScanDeps.cpp": 0.0003637405719743509,
-        "CMakeLists.txt": 4.7760958176740395e-05,
-        "Opts.td": 9.945595944405918e-06
+        "ClangScanDeps.cpp": 1.1972297960929326,
+        "CMakeLists.txt": 0.15720226618870023,
+        "Opts.td": 0.03273531940611626
     },
     "subdirscores": {}
 }

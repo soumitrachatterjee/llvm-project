@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/clang-tools-extra/docs/clang-tidy/checks/mpi",
-    "score.sum": 0,
+    "score.sum": 0.0,
     "sha.latest": "6e566bc5523f743bc34a7e26f050f1f2b4d699a8",
     "time.latest": 1717811478.2680883,
     "formatted_time": "2024-06-08 07:21:18.268091",
     "filescores": {
-        "buffer-deref.rst": 0,
-        "type-mismatch.rst": 0
+        "buffer-deref.rst": 0.0,
+        "type-mismatch.rst": 0.0
     },
     "subdirscores": {}
 }

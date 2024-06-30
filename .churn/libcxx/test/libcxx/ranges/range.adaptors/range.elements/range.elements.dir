@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/libcxx/test/libcxx/ranges/range.adaptors/range.elements",
-    "score.sum": 0,
+    "score.sum": 0.0,
     "sha.latest": "94461822c75d5080bf648f86552f7a59b76905c9",
     "time.latest": 1717862658.3767576,
     "formatted_time": "2024-06-08 21:34:18.376760",
     "filescores": {
-        "elements_view.no_unique_address.compile.pass.cpp": 0,
-        "sentinel.no_unique_address.compile.pass.cpp": 0
+        "elements_view.no_unique_address.compile.pass.cpp": 0.0,
+        "sentinel.no_unique_address.compile.pass.cpp": 0.0
     },
     "subdirscores": {}
 }

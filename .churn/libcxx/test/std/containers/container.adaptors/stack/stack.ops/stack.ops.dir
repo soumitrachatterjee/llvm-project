@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/libcxx/test/std/containers/container.adaptors/stack/stack.ops",
-    "score.sum": 1.7366275644238228e-05,
+    "score.sum": 0.000903130118213133,
     "sha.latest": "7fc6a55688c816f5fc1a5481ae7af25be7500356",
     "time.latest": 1717882557.9764268,
     "formatted_time": "2024-06-09 03:05:57.976428",
     "filescores": {
-        "eq.pass.cpp": 1.7366275644238228e-05,
-        "lt.pass.cpp": 1.7366275644238228e-05
+        "eq.pass.cpp": 0.057160031765472394,
+        "lt.pass.cpp": 0.057160031765472394
     },
     "subdirscores": {}
 }

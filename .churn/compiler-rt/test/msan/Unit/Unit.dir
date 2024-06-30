@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/compiler-rt/test/msan/Unit",
-    "score.sum": 8.56440730869908e-06,
+    "score.sum": 0.0004453904995857335,
     "sha.latest": "8007ff1ab159ae56cb32184626119b7087c59d06",
     "time.latest": 1717834950.773595,
     "formatted_time": "2024-06-08 13:52:30.773598",
     "filescores": {
-        "lit.site.cfg.py.in": 0
+        "lit.site.cfg.py.in": 0.0
     },
     "subdirscores": {}
 }

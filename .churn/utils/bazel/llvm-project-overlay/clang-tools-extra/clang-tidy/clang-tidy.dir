@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/utils/bazel/llvm-project-overlay/clang-tools-extra/clang-tidy",
-    "score.sum": 1.5215185704892315e-05,
+    "score.sum": 0.000791263063295511,
     "sha.latest": "3b54337be54107a5f196bb98dfc858b10ec35b8a",
     "time.latest": 1717788585.3068302,
     "formatted_time": "2024-06-08 00:59:45.306836",
     "filescores": {
-        "BUILD.bazel": 1.4821838366414095e-05,
-        "defs.bzl": 6.099602068851199e-06
+        "BUILD.bazel": 0.048785172434367995,
+        "defs.bzl": 0.02007646631636598
     },
     "subdirscores": {}
 }

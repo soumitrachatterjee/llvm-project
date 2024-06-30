@@ -1,16 +1,16 @@
 {
     "directory name": "llvm-project/libcxx/test/std/depr/depr.ios.members",
-    "score.sum": 2.834305654851966e-05,
+    "score.sum": 0.0014739756834205719,
     "sha.latest": "66c7388c83bb0320f2223da3e3f31363f44bb3aa",
     "time.latest": 1717896095.9223611,
     "formatted_time": "2024-06-09 06:51:35.922363",
     "filescores": {
-        "io_state.pass.cpp": 1.2651593647064733e-05,
-        "lit.local.cfg": 9.845454441214068e-06,
-        "open_mode.pass.cpp": 1.2651593647064733e-05,
-        "seek_dir.pass.cpp": 1.2651593647064733e-05,
-        "streamoff.pass.cpp": 1.3399759051282329e-05,
-        "streampos.pass.cpp": 1.3399759051282329e-05
+        "io_state.pass.cpp": 0.041641944972237055,
+        "lit.local.cfg": 0.03240570978683169,
+        "open_mode.pass.cpp": 0.041641944972237055,
+        "seek_dir.pass.cpp": 0.041641944972237055,
+        "streamoff.pass.cpp": 0.04410448553919471,
+        "streampos.pass.cpp": 0.04410448553919471
     },
     "subdirscores": {}
 }

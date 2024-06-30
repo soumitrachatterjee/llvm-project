@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/mlir/lib/Conversion/TosaToTensor",
-    "score.sum": 7.281043860339913e-05,
+    "score.sum": 0.003786494086016355,
     "sha.latest": "65066c02770cc3da3b5154fbb7ed9df78ab94b93",
     "time.latest": 1717804142.8977346,
     "formatted_time": "2024-06-07 18:49:02.897738",
     "filescores": {
-        "CMakeLists.txt": 7.074968320150993e-06,
-        "TosaToTensor.cpp": 6.095596695815172e-05,
-        "TosaToTensorPass.cpp": 2.2681157179229307e-05
+        "CMakeLists.txt": 0.02328682454454275,
+        "TosaToTensor.cpp": 0.20063282876539154,
+        "TosaToTensorPass.cpp": 0.0746536385464178
     },
     "subdirscores": {}
 }

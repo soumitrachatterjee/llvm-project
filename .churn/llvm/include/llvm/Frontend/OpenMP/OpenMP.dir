@@ -1,20 +1,20 @@
 {
     "directory name": "llvm-project/llvm/include/llvm/Frontend/OpenMP",
-    "score.sum": 0.0013317483461174396,
+    "score.sum": 0.06925733910357645,
     "sha.latest": "141ebdd242f35bfebc576c51d8b60182ae4eac2d",
     "time.latest": 1717816155.8024766,
     "formatted_time": "2024-06-07 22:09:15.802480",
     "filescores": {
-        "CMakeLists.txt": 1.1456734584252401e-05,
-        "OMP.h": 0,
-        "OMP.td": 0.00035906524958754436,
-        "OMPAssume.h": 0,
-        "OMPConstants.h": 0.00010532085794613068,
-        "OMPContext.h": 1.1438973122563881e-05,
-        "OMPDeviceConstants.h": 6.099602068851199e-06,
-        "OMPGridValues.h": 5.769133551763957e-05,
-        "OMPIRBuilder.h": 0.000593614826066692,
-        "OMPKinds.def": 0.00038059055326429905
+        "CMakeLists.txt": 0.037709139609431744,
+        "OMP.h": 0.0,
+        "OMP.td": 1.1818412590445557,
+        "OMPAssume.h": 0.0,
+        "OMPConstants.h": 0.3466571479743266,
+        "OMPContext.h": 0.037650678847025616,
+        "OMPDeviceConstants.h": 0.02007646631636598,
+        "OMPGridValues.h": 0.18988749449424364,
+        "OMPIRBuilder.h": 1.953846812611494,
+        "OMPKinds.def": 1.2526904766390579
     },
     "subdirscores": {}
 }

@@ -1,15 +1,15 @@
 {
     "directory name": "llvm-project/llvm/test/Analysis/DDG",
-    "score.sum": 1.3832184631143842e-05,
+    "score.sum": 0.0007193403350830432,
     "sha.latest": "7cf5581712b24d4aea5dffa2e23f0ed42af1954d",
     "time.latest": 1717886770.7021794,
     "formatted_time": "2024-06-08 17:46:10.702183",
     "filescores": {
-        "basic-a.ll": 8.78332878885853e-06,
-        "basic-b.ll": 8.78332878885853e-06,
-        "basic-loopnest.ll": 8.78332878885853e-06,
-        "print-dot-ddg.ll": 6.104031104174277e-06,
-        "root-node.ll": 7.209858920871229e-06
+        "basic-a.ll": 0.02890978830825557,
+        "basic-b.ll": 0.02890978830825557,
+        "basic-loopnest.ll": 0.02890978830825557,
+        "print-dot-ddg.ll": 0.02009104421464099,
+        "root-node.ll": 0.02373080868829267
     },
     "subdirscores": {}
 }

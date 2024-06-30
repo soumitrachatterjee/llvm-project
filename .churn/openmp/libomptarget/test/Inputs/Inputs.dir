@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/openmp/libomptarget/test/Inputs",
-    "score.sum": 1.8230500084654005e-05,
+    "score.sum": 0.0009480739586210985,
     "sha.latest": "13b88265088329decd15449e3b2461a6177174b2",
     "time.latest": 1717796864.511551,
     "formatted_time": "2024-06-08 03:17:44.511554",
     "filescores": {
-        "basic_array.f90": 0,
-        "declare_indirect_func.c": 0
+        "basic_array.f90": 0.0,
+        "declare_indirect_func.c": 0.0
     },
     "subdirscores": {}
 }

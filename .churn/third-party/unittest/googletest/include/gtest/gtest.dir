@@ -1,24 +1,24 @@
 {
     "directory name": "llvm-project/third-party/unittest/googletest/include/gtest",
-    "score.sum": 3.14739432044284e-05,
+    "score.sum": 0.0016367968946916782,
     "sha.latest": "9625b74cdbc7576abd072dc8dbd94e07d5ea33b9",
     "time.latest": 1717790243.1403568,
     "formatted_time": "2024-06-07 14:57:23.140358",
     "filescores": {
-        "gtest-assertion-result.h": 6.362580167617361e-06,
-        "gtest-death-test.h": 1.8257891228743476e-05,
-        "gtest-matchers.h": 2.0726916075633293e-05,
-        "gtest-message.h": 1.8257891228743476e-05,
-        "gtest-param-test.h": 1.8257891228743476e-05,
-        "gtest-printers.h": 1.8257891228743476e-05,
-        "gtest-spi.h": 1.8257891228743476e-05,
-        "gtest-test-part.h": 1.8257891228743476e-05,
-        "gtest-typed-test.h": 1.8257891228743476e-05,
-        "gtest.h": 1.8257891228743476e-05,
-        "gtest_pred_impl.h": 1.8257891228743476e-05,
-        "gtest_prod.h": 1.8257891228743476e-05
+        "gtest-assertion-result.h": 0.020942042608429766,
+        "gtest-death-test.h": 0.06009472980764123,
+        "gtest-matchers.h": 0.06822137374495466,
+        "gtest-message.h": 0.06009472980764123,
+        "gtest-param-test.h": 0.06009472980764123,
+        "gtest-printers.h": 0.06009472980764123,
+        "gtest-spi.h": 0.06009472980764123,
+        "gtest-test-part.h": 0.06009472980764123,
+        "gtest-typed-test.h": 0.06009472980764123,
+        "gtest.h": 0.06009472980764123,
+        "gtest_pred_impl.h": 0.06009472980764123,
+        "gtest_prod.h": 0.06009472980764123
     },
     "subdirscores": {
-        "internal": 2.9118908597934386e-05
+        "internal": 0.0015143237331382037
     }
 }

@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/libcxx/test/std/algorithms/alg.sorting/alg.binary.search/lower.bound",
-    "score.sum": 3.9735524116685556e-05,
+    "score.sum": 0.0020664389606570234,
     "sha.latest": "33912468a7dbd2cdef3648878ccd6b8f99e0b5bf",
     "time.latest": 1717870397.7830455,
     "formatted_time": "2024-06-08 23:43:17.783048",
     "filescores": {
-        "lower_bound.pass.cpp": 2.4566443737843312e-05,
-        "lower_bound_comp.pass.cpp": 2.244883233547477e-05,
-        "ranges.lower_bound.pass.cpp": 7.732238448734585e-06
+        "lower_bound.pass.cpp": 0.08085894368984665,
+        "lower_bound_comp.pass.cpp": 0.0738889555642423,
+        "ranges.lower_bound.pass.cpp": 0.025450188883447446
     },
     "subdirscores": {}
 }

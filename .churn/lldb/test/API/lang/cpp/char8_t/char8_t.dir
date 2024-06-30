@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/lldb/test/API/lang/cpp/char8_t",
-    "score.sum": 2.492670613205228e-05,
+    "score.sum": 0.0012963089793621603,
     "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
     "time.latest": 1717929426.5750825,
     "formatted_time": "2024-06-09 16:07:06.575084",
     "filescores": {
-        "main.cpp": 6.099602068851199e-06,
-        "Makefile": 0,
-        "TestCxxChar8_t.py": 2.492670613205228e-05
+        "main.cpp": 0.02007646631636598,
+        "Makefile": 0.0,
+        "TestCxxChar8_t.py": 0.08204472527703008
     },
     "subdirscores": {}
 }

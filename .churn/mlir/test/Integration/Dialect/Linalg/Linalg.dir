@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/mlir/test/Integration/Dialect/Linalg",
-    "score.sum": 0.00034501868338930987,
+    "score.sum": 0.017942636101051887,
     "sha.latest": "afa6b5e5763059c65f21ca2e612df3d02e71ad00",
     "time.latest": 1717825846.641623,
     "formatted_time": "2024-06-08 00:50:46.641624",
     "filescores": {},
     "subdirscores": {
-        "CPU": 0.00034501868338930987
+        "CPU": 0.017942636101051887
     }
 }

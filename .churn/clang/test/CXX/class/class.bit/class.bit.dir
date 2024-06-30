@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/clang/test/CXX/class/class.bit",
-    "score.sum": 1.4781204669294787e-05,
+    "score.sum": 0.0007686939556750473,
     "sha.latest": "82afc9b169a67e8b8a1862fb9c41a2cd974d6691",
     "time.latest": 1718082797.4904935,
     "formatted_time": "2024-06-11 10:43:17.490495",
     "filescores": {
-        "p1.cpp": 6.099602068851199e-06,
-        "p2.cpp": 6.107942530298052e-06
+        "p1.cpp": 0.02007646631636598,
+        "p2.cpp": 0.020103918433964894
     },
     "subdirscores": {}
 }

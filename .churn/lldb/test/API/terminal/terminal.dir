@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/lldb/test/API/terminal",
-    "score.sum": 5.133310337992389e-05,
+    "score.sum": 0.0026695690356117944,
     "sha.latest": "503075e4d4a9c1b3754b21ee9ec41f176e54fd83",
     "time.latest": 1717968378.941507,
     "formatted_time": "2024-06-10 02:56:18.941509",
     "filescores": {
-        "TestEditline.py": 3.0362626129884697e-05,
-        "TestSTTYBeforeAndAfter.py": 3.29403551833418e-05
+        "TestEditline.py": 0.099936722739005,
+        "TestSTTYBeforeAndAfter.py": 0.10842115990888687
     },
     "subdirscores": {}
 }

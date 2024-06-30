@@ -1,26 +1,26 @@
 {
     "directory name": "llvm-project/mlir/lib/ExecutionEngine",
-    "score.sum": 0.0018620064955933218,
+    "score.sum": 0.0968333211408371,
     "sha.latest": "716042a63f26cd020eb72960f72fa97b9a197382",
     "time.latest": 1717810668.3906171,
     "formatted_time": "2024-06-07 20:37:48.390620",
     "filescores": {
-        "ArmRunnerUtils.cpp": 0,
-        "ArmSMEStubs.cpp": 1.821320161680029e-05,
-        "AsyncRuntime.cpp": 5.977871625859695e-05,
-        "CMakeLists.txt": 0.0002902034335778821,
-        "CRunnerUtils.cpp": 8.801019688732416e-05,
-        "CudaRuntimeWrappers.cpp": 0.00028265118509124835,
-        "ExecutionEngine.cpp": 0.0001776982913632173,
-        "Float16bits.cpp": 2.001049822662891e-05,
-        "JitRunner.cpp": 0.00016524071363624603,
-        "OptUtils.cpp": 5.3650054572550346e-05,
-        "RocmRuntimeWrappers.cpp": 3.4582498552741125e-05,
-        "RunnerUtils.cpp": 7.403724863177391e-05,
-        "SparseTensorRuntime.cpp": 0.00012562144203776332,
-        "SyclRuntimeWrappers.cpp": 0
+        "ArmRunnerUtils.cpp": 0.0,
+        "ArmSMEStubs.cpp": 0.05994763668931297,
+        "AsyncRuntime.cpp": 0.1967579802508915,
+        "CMakeLists.txt": 0.9551868127386582,
+        "CRunnerUtils.cpp": 0.2896801682077412,
+        "CudaRuntimeWrappers.cpp": 0.9303290497824452,
+        "ExecutionEngine.cpp": 0.584883033476532,
+        "Float16bits.cpp": 0.06586332830992044,
+        "JitRunner.cpp": 0.5438796800124995,
+        "OptUtils.cpp": 0.17658586598582252,
+        "RocmRuntimeWrappers.cpp": 0.11382617414920086,
+        "RunnerUtils.cpp": 0.24368906553803638,
+        "SparseTensorRuntime.cpp": 0.4134752761272307,
+        "SyclRuntimeWrappers.cpp": 0.0
     },
     "subdirscores": {
-        "SparseTensor": 8.233893826884723e-05
+        "SparseTensor": 0.004282022039478562
     }
 }

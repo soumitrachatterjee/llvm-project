@@ -1,15 +1,15 @@
 {
     "directory name": "llvm-project/lldb/unittests/Process/minidump/Inputs",
-    "score.sum": 3.519683258923379e-05,
+    "score.sum": 0.001830405104020616,
     "sha.latest": "c71fbdd87b356c6d43dbc26a4d7113d9cbb93fe7",
     "time.latest": 1717997365.3748038,
     "formatted_time": "2024-06-10 10:59:25.374806",
     "filescores": {
-        "fizzbuzz_no_heap.dmp": 0,
-        "fizzbuzz_wow64.dmp": 0,
-        "linux-x86_64.cpp": 6.117001368482472e-06,
-        "linux-x86_64.dmp": 0,
-        "regions-memlist64.dmp": 0
+        "fizzbuzz_no_heap.dmp": 0.0,
+        "fizzbuzz_wow64.dmp": 0.0,
+        "linux-x86_64.cpp": 0.020133735044560473,
+        "linux-x86_64.dmp": 0.0,
+        "regions-memlist64.dmp": 0.0
     },
     "subdirscores": {}
 }

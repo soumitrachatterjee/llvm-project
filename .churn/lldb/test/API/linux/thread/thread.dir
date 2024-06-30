@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/lldb/test/API/linux/thread",
-    "score.sum": 2.072608427040947e-05,
+    "score.sum": 0.0010778563763866446,
     "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
     "time.latest": 1717961515.5912967,
     "formatted_time": "2024-06-10 01:01:55.591303",
     "filescores": {},
     "subdirscores": {
-        "create_during_instruction_step": 2.072608427040947e-05
+        "create_during_instruction_step": 0.0010778563763866446
     }
 }

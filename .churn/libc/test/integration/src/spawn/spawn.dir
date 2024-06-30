@@ -1,16 +1,16 @@
 {
     "directory name": "llvm-project/libc/test/integration/src/spawn",
-    "score.sum": 1.4364295828780045e-05,
+    "score.sum": 0.0007470126845647904,
     "sha.latest": "330793c91d08e6ac60334e4813746db898b9407e",
     "time.latest": 1717844399.33627,
     "formatted_time": "2024-06-08 05:59:59.336271",
     "filescores": {
-        "CMakeLists.txt": 8.597503109732432e-06,
-        "posix_spawn_test.cpp": 8.153261262641717e-06,
-        "posix_spawn_test_binary.cpp": 0,
-        "test_binary_properties.h": 6.099602068851199e-06
+        "CMakeLists.txt": 0.028298154476149927,
+        "posix_spawn_test.cpp": 0.02683595966757667,
+        "posix_spawn_test_binary.cpp": 0.0,
+        "test_binary_properties.h": 0.02007646631636598
     },
     "subdirscores": {
-        "testdata": 0
+        "testdata": 0.0
     }
 }

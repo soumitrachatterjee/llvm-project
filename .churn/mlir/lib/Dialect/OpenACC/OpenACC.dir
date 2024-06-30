@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/mlir/lib/Dialect/OpenACC",
-    "score.sum": 0.0006166125783040272,
+    "score.sum": 0.03206682895881493,
     "sha.latest": "a435e1f63bbd8c6d0ff140ccc890c25787091490",
     "time.latest": 1717807895.5471828,
     "formatted_time": "2024-06-07 19:51:35.547183",
     "filescores": {
-        "CMakeLists.txt": 6.025000979134422e-05
+        "CMakeLists.txt": 0.19830921402458976
     },
     "subdirscores": {
-        "IR": 0.0005953451210631861,
-        "Transforms": 9.824855265050919e-06
+        "IR": 0.030960818576077156,
+        "Transforms": 0.0005109398744281867
     }
 }

@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/libcxx/test/std/ranges/range.factories/range.iota.view/sentinel",
-    "score.sum": 1.4275938695008142e-05,
+    "score.sum": 0.0007424176873239821,
     "sha.latest": "0a4aa8a122aa097499c498b639a75b5e9a73e9f0",
     "time.latest": 1717964284.027382,
     "formatted_time": "2024-06-10 01:48:04.027385",
     "filescores": {
-        "ctor.default.pass.cpp": 9.592170861939149e-06,
-        "ctor.value.pass.cpp": 1.230490153900064e-05,
-        "eq.pass.cpp": 9.592170861939149e-06,
-        "minus.pass.cpp": 1.2639006114065868e-05
+        "ctor.default.pass.cpp": 0.03157204241141891,
+        "ctor.value.pass.cpp": 0.04050082915006842,
+        "eq.pass.cpp": 0.03157204241141891,
+        "minus.pass.cpp": 0.04160051387896158
     },
     "subdirscores": {}
 }

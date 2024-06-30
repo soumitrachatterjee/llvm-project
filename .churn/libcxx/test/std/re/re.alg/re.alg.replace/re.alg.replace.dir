@@ -1,17 +1,17 @@
 {
     "directory name": "llvm-project/libcxx/test/std/re/re.alg/re.alg.replace",
-    "score.sum": 2.8242055195953455e-05,
+    "score.sum": 0.0014687231257996137,
     "sha.latest": "5f26d8636f506b487962cd2a9b0e32940e93fa9b",
     "time.latest": 1717965758.0059059,
     "formatted_time": "2024-06-10 02:12:38.005908",
     "filescores": {
-        "exponential.pass.cpp": 6.155135329554767e-06,
-        "test1.pass.cpp": 2.0233436332890674e-05,
-        "test2.pass.cpp": 2.0233436332890674e-05,
-        "test3.pass.cpp": 1.412973324667397e-05,
-        "test4.pass.cpp": 1.412973324667397e-05,
-        "test5.pass.cpp": 1.412973324667397e-05,
-        "test6.pass.cpp": 1.412973324667397e-05
+        "exponential.pass.cpp": 0.020259250639895324,
+        "test1.pass.cpp": 0.06659711542102648,
+        "test2.pass.cpp": 0.06659711542102648,
+        "test3.pass.cpp": 0.046507150857386,
+        "test4.pass.cpp": 0.046507150857386,
+        "test5.pass.cpp": 0.046507150857386,
+        "test6.pass.cpp": 0.046507150857386
     },
     "subdirscores": {}
 }

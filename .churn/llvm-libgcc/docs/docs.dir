@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/llvm-libgcc/docs",
-    "score.sum": 0,
+    "score.sum": 0.0,
     "sha.latest": "c5a20b518203613497fa864867fc232648006068",
     "time.latest": 1717787762.3275144,
     "formatted_time": "2024-06-07 14:16:02.327521",
     "filescores": {
-        "LLVMLibgcc.rst": 0
+        "LLVMLibgcc.rst": 0.0
     },
     "subdirscores": {}
 }

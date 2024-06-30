@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/lldb/test/API/functionalities/data-formatter/dump_dynamic",
-    "score.sum": 1.0800825294635866e-05,
+    "score.sum": 0.0005616950245967244,
     "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
     "time.latest": 1717907730.543016,
     "formatted_time": "2024-06-09 10:05:30.543017",
     "filescores": {
-        "main.cpp": 6.099602068851199e-06,
-        "TestDumpDynamic.py": 1.0757275168687244e-05
+        "main.cpp": 0.02007646631636598,
+        "TestDumpDynamic.py": 0.03540691181854509
     },
     "subdirscores": {}
 }

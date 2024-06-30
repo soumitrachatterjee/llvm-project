@@ -1,21 +1,21 @@
 {
     "directory name": "llvm-project/lldb/test/API/lang/cpp/accelerator-table",
-    "score.sum": 2.4618186799557045e-05,
+    "score.sum": 0.001280264485601064,
     "sha.latest": "379b59d1b0f3e1ddc421f706e9de65e52acad0cb",
     "time.latest": 1717928387.0949223,
     "formatted_time": "2024-06-09 15:49:47.094924",
     "filescores": {
-        "a.cpp": 0,
-        "b.cpp": 0,
-        "c.cpp": 0,
-        "d.cpp": 0,
-        "e.cpp": 0,
-        "f.cpp": 0,
-        "g.cpp": 0,
-        "main.cpp": 0,
-        "Makefile": 0,
-        "source.h": 0,
-        "TestCPPAccelerator.py": 2.4618186799557045e-05
+        "a.cpp": 0.0,
+        "b.cpp": 0.0,
+        "c.cpp": 0.0,
+        "d.cpp": 0.0,
+        "e.cpp": 0.0,
+        "f.cpp": 0.0,
+        "g.cpp": 0.0,
+        "main.cpp": 0.0,
+        "Makefile": 0.0,
+        "source.h": 0.0,
+        "TestCPPAccelerator.py": 0.08102925280573248
     },
     "subdirscores": {}
 }

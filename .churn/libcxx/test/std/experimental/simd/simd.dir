@@ -1,16 +1,16 @@
 {
     "directory name": "llvm-project/libcxx/test/std/experimental/simd",
-    "score.sum": 0.00015903454179337368,
+    "score.sum": 0.008270563445621349,
     "sha.latest": "6bb5c989bd725deb3f96d4374541b5aeec776ba2",
     "time.latest": 1717900127.5061667,
     "formatted_time": "2024-06-09 07:58:47.506169",
     "filescores": {
-        "test_utils.h": 1.3013264658832375e-05
+        "test_utils.h": 0.04283236293776946
     },
     "subdirscores": {
-        "simd.class": 2.8970635488342252e-05,
-        "simd.mask.class": 1.8103411024788504e-05,
-        "simd.reference": 2.6516342842078852e-05,
-        "simd.traits": 4.173854029170583e-05
+        "simd.class": 0.0015066128160862678,
+        "simd.mask.class": 0.0009414647143587566,
+        "simd.reference": 0.0013789777575879943,
+        "simd.traits": 0.002170605465438321
     }
 }

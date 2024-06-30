@@ -1,20 +1,20 @@
 {
     "directory name": "llvm-project/clang-tools-extra/unittests/clang-doc",
-    "score.sum": 0.0001254792698372382,
+    "score.sum": 0.0065255274143365995,
     "sha.latest": "edd690b02e16e991393bf7f67631196942369aed",
     "time.latest": 1717836687.8725982,
     "formatted_time": "2024-06-08 14:21:27.872602",
     "filescores": {
-        "BitcodeTest.cpp": 3.9724069201695814e-05,
-        "ClangDocTest.cpp": 5.2890487517049534e-05,
-        "ClangDocTest.h": 2.1051271377559505e-05,
-        "CMakeLists.txt": 2.0021492390111526e-05,
-        "GeneratorTest.cpp": 6.192201906900206e-06,
-        "HTMLGeneratorTest.cpp": 4.454383589905292e-05,
-        "MDGeneratorTest.cpp": 4.245950748936571e-05,
-        "MergeTest.cpp": 3.4004371809413595e-05,
-        "SerializeTest.cpp": 6.31696830445728e-05,
-        "YAMLGeneratorTest.cpp": 6.704656528227906e-05
+        "BitcodeTest.cpp": 0.13074933877236392,
+        "ClangDocTest.cpp": 0.17408579758256432,
+        "ClangDocTest.h": 0.06928896933892145,
+        "CMakeLists.txt": 0.06589951492510351,
+        "GeneratorTest.cpp": 0.02038125300712169,
+        "HTMLGeneratorTest.cpp": 0.14661330541477424,
+        "MDGeneratorTest.cpp": 0.13975286621940042,
+        "MergeTest.cpp": 0.1119233054115372,
+        "SerializeTest.cpp": 0.20791913956753225,
+        "YAMLGeneratorTest.cpp": 0.22067965980791024
     },
     "subdirscores": {}
 }

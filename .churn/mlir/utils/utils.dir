@@ -1,24 +1,24 @@
 {
     "directory name": "llvm-project/mlir/utils",
-    "score.sum": 0.0004484952210677035,
+    "score.sum": 0.023323915289533446,
     "sha.latest": "5b4abae7630572c96a736faa1f09b1a3c37201a2",
     "time.latest": 1717837672.3261993,
     "formatted_time": "2024-06-08 04:07:52.326200",
     "filescores": {
-        "generate-test-checks.py": 2.8577505966240396e-05
+        "generate-test-checks.py": 0.09406110914462172
     },
     "subdirscores": {
-        "MLIRVisualizers": 0,
-        "clang-tidy": 1.6992313831098657e-05,
-        "emacs": 2.3587810213998316e-05,
-        "gdb-scripts": 2.7210113803464633e-05,
-        "jupyter": 1.2900537876681353e-05,
-        "lldb-scripts": 2.133034015820926e-05,
-        "mbr": 8.228925350917422e-06,
-        "spirv": 0.00010989012467088331,
-        "textmate": 1.2642443567025683e-05,
-        "tree-sitter-mlir": 1.1221659215780989e-05,
-        "vim": 5.749782508846797e-05,
-        "vscode": 8.95751385875092e-05
+        "MLIRVisualizers": 0.0,
+        "clang-tidy": 0.0008836822997270781,
+        "emacs": 0.0012266799320339646,
+        "gdb-scripts": 0.0014150571947226377,
+        "jupyter": 0.0006708902090613622,
+        "lldb-scripts": 0.0011092805978235919,
+        "mbr": 0.00042794381922682507,
+        "spirv": 0.005714816654853583,
+        "textmate": 0.0006574680597666863,
+        "tree-sitter-mlir": 0.0005835804188365647,
+        "vim": 0.002990164306552094,
+        "vscode": 0.004658339367562396
     }
 }

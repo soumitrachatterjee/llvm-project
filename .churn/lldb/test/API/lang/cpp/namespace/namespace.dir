@@ -1,19 +1,19 @@
 {
     "directory name": "llvm-project/lldb/test/API/lang/cpp/namespace",
-    "score.sum": 8.539395639298099e-05,
+    "score.sum": 0.0044408977210647635,
     "sha.latest": "9c2468821ec51defd09c246fea4a47886fff8c01",
     "time.latest": 1717933610.94667,
     "formatted_time": "2024-06-09 17:16:50.946674",
     "filescores": {
-        "cmds.txt": 0,
-        "main.cpp": 6.144700044195345e-06,
-        "Makefile": 0,
-        "ns.cpp": 6.099602068851199e-06,
-        "ns.h": 6.099602068851199e-06,
-        "ns2.cpp": 6.099602068851199e-06,
-        "ns3.cpp": 7.050467538700764e-06,
-        "TestNamespace.py": 4.9508995492407794e-05,
-        "TestNamespaceLookup.py": 4.4385028209415126e-05
+        "cmds.txt": 0.0,
+        "main.cpp": 0.02022490353779665,
+        "Makefile": 0.0,
+        "ns.cpp": 0.02007646631636598,
+        "ns.h": 0.02007646631636598,
+        "ns2.cpp": 0.02007646631636598,
+        "ns3.cpp": 0.02320618172424762,
+        "TestNamespace.py": 0.16295582386207105,
+        "TestNamespaceLookup.py": 0.1460905996389213
     },
     "subdirscores": {}
 }

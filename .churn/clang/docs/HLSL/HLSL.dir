@@ -1,17 +1,17 @@
 {
     "directory name": "llvm-project/clang/docs/HLSL",
-    "score.sum": 2.578014432985853e-05,
+    "score.sum": 0.00134069188311551,
     "sha.latest": "8e22fffc85b36784146041499b716cec74285660",
     "time.latest": 1717791492.5299118,
     "formatted_time": "2024-06-08 01:48:12.529916",
     "filescores": {
-        "EntryFunctions.rst": 1.036146110020803e-05,
-        "ExpectedDifferences.rst": 6.099602068851199e-06,
-        "FunctionCalls.rst": 6.099602068851199e-06,
-        "HLSLDocs.rst": 1.2471849122580242e-05,
-        "HLSLIRReference.rst": 0,
-        "HLSLSupport.rst": 6.099602068851199e-06,
-        "ResourceTypes.rst": 6.099602068851199e-06
+        "EntryFunctions.rst": 0.034104114074746804,
+        "ExpectedDifferences.rst": 0.02007646631636598,
+        "FunctionCalls.rst": 0.02007646631636598,
+        "HLSLDocs.rst": 0.0410503268878718,
+        "HLSLIRReference.rst": 0.0,
+        "HLSLSupport.rst": 0.02007646631636598,
+        "ResourceTypes.rst": 0.02007646631636598
     },
     "subdirscores": {}
 }

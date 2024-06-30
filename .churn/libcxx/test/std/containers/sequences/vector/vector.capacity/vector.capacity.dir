@@ -1,20 +1,20 @@
 {
     "directory name": "llvm-project/libcxx/test/std/containers/sequences/vector/vector.capacity",
-    "score.sum": 0.00011076782320319351,
+    "score.sum": 0.005760461213046681,
     "sha.latest": "fb855eb941b6d740cc6560297d0b4d3201dcaf9f",
     "time.latest": 1717886918.9834378,
     "formatted_time": "2024-06-09 04:18:38.983439",
     "filescores": {
-        "capacity.pass.cpp": 1.861103969699137e-05,
-        "empty.pass.cpp": 2.6403519427194752e-05,
-        "empty.verify.cpp": 9.49368308932207e-06,
-        "max_size.pass.cpp": 1.759491700570573e-05,
-        "reserve.pass.cpp": 5.956585992000443e-05,
-        "resize_size.pass.cpp": 3.670591880947356e-05,
-        "resize_size_value.pass.cpp": 3.820131192375503e-05,
-        "shrink_to_fit.pass.cpp": 4.2964029777890376e-05,
-        "size.pass.cpp": 2.6403519427194752e-05,
-        "swap.pass.cpp": 3.5486685352418465e-05
+        "capacity.pass.cpp": 0.06125709634359304,
+        "empty.pass.cpp": 0.08690556571232644,
+        "empty.verify.cpp": 0.03124787594495085,
+        "max_size.pass.cpp": 0.057912590791490116,
+        "reserve.pass.cpp": 0.19605737666007678,
+        "resize_size.pass.cpp": 0.12081528176287294,
+        "resize_size_value.pass.cpp": 0.12573727653396002,
+        "shrink_to_fit.pass.cpp": 0.1414134704058845,
+        "size.pass.cpp": 0.08690556571232644,
+        "swap.pass.cpp": 0.11680224957551859
     },
     "subdirscores": {}
 }

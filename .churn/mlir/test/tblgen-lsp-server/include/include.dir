@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/mlir/test/tblgen-lsp-server/include",
-    "score.sum": 6.099602068851199e-06,
+    "score.sum": 0.00031720873550238375,
     "sha.latest": "3e2ad37679ed800aa34e5255bd44672ce353d566",
     "time.latest": 1717834955.075206,
     "formatted_time": "2024-06-08 03:22:35.075210",
     "filescores": {
-        "included.td": 6.099602068851199e-06
+        "included.td": 0.02007646631636598
     },
     "subdirscores": {}
 }

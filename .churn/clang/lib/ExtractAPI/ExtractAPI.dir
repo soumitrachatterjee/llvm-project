@@ -1,18 +1,18 @@
 {
     "directory name": "llvm-project/clang/lib/ExtractAPI",
-    "score.sum": 0.0002931790206894526,
+    "score.sum": 0.015246723536875567,
     "sha.latest": "4c6043de0b837d23699424d875057d00956d80ac",
     "time.latest": 1717811217.3116097,
     "formatted_time": "2024-06-08 07:16:57.311613",
     "filescores": {
-        "API.cpp": 8.135281115879754e-05,
-        "APIIgnoresList.cpp": 6.099602068851199e-06,
-        "CMakeLists.txt": 4.020235096804541e-05,
-        "DeclarationFragments.cpp": 0.00012863547973746234,
-        "ExtractAPIConsumer.cpp": 7.951634704227949e-05,
-        "TypedefUnderlyingTypeResolver.cpp": 3.463181464647396e-05
+        "API.cpp": 0.26776779116656263,
+        "APIIgnoresList.cpp": 0.02007646631636598,
+        "CMakeLists.txt": 0.13232357388859964,
+        "DeclarationFragments.cpp": 0.4233957964613811,
+        "ExtractAPIConsumer.cpp": 0.26172318209857576,
+        "TypedefUnderlyingTypeResolver.cpp": 0.1139884950487458
     },
     "subdirscores": {
-        "Serialization": 0.00015607466386328747
+        "Serialization": 0.008116635513135599
     }
 }

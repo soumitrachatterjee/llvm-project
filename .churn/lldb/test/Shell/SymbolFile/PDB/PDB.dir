@@ -1,30 +1,30 @@
 {
     "directory name": "llvm-project/lldb/test/Shell/SymbolFile/PDB",
-    "score.sum": 6.32495323681219e-05,
+    "score.sum": 0.0032892808345754546,
     "sha.latest": "f8499d5709e37b4e9a6d2a39c385cfd2c00bad6e",
     "time.latest": 1717983784.6975467,
     "formatted_time": "2024-06-10 07:13:04.697550",
     "filescores": {
-        "ast-restore.test": 8.087529496314369e-06,
-        "calling-conventions-arm.test": 0,
-        "calling-conventions-x86.test": 0,
-        "class-layout.test": 6.100772009907315e-06,
-        "compilands.test": 6.100862736375369e-06,
-        "enums-layout.test": 1.116511435688665e-05,
-        "expressions.test": 7.117011577944519e-06,
-        "func-symbols.test": 6.100539520795165e-06,
-        "function-level-linking.test": 6.142562783957262e-06,
-        "function-nested-block.test": 6.100311286434357e-06,
-        "lit.local.cfg": 0,
-        "pointers.test": 1.2114852837556372e-05,
-        "type-quals.test": 8.22683439832498e-06,
-        "typedefs.test": 1.1786851057723818e-05,
-        "udt-layout.test": 1.5472518433279362e-05,
-        "variables-locations.test": 8.22683439832498e-06,
-        "variables.test": 1.1173229239087332e-05,
-        "vbases.test": 8.22683439832498e-06
+        "ast-restore.test": 0.0266196075879344,
+        "calling-conventions-arm.test": 0.0,
+        "calling-conventions-x86.test": 0.0,
+        "class-layout.test": 0.020080317105637166,
+        "compilands.test": 0.020080615726245418,
+        "enums-layout.test": 0.036749289506786895,
+        "expressions.test": 0.023425207350403553,
+        "func-symbols.test": 0.02007955188197564,
+        "function-level-linking.test": 0.020217868876732725,
+        "function-nested-block.test": 0.020078800662567342,
+        "lit.local.cfg": 0.0,
+        "pointers.test": 0.03987529549886523,
+        "type-quals.test": 0.02707812113379387,
+        "typedefs.test": 0.038795697746391425,
+        "udt-layout.test": 0.05092684598908428,
+        "variables-locations.test": 0.02707812113379387,
+        "variables.test": 0.03677599914412459,
+        "vbases.test": 0.02707812113379387
     },
     "subdirscores": {
-        "Inputs": 1.3309323404017019e-05
+        "Inputs": 0.0006921490286948608
     }
 }

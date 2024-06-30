@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/mlir/test/Conversion/LLVMCommon",
-    "score.sum": 0,
+    "score.sum": 0.0,
     "sha.latest": "43bc81d7488a8fbd43b855f7e1100cfe110f90fc",
     "time.latest": 1717816079.6587625,
     "formatted_time": "2024-06-07 22:07:59.658766",
     "filescores": {
-        "types.mlir": 0
+        "types.mlir": 0.0
     },
     "subdirscores": {}
 }

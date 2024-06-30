@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/lldb/test/API/lang/c/tls_globals",
-    "score.sum": 2.9188497079934413e-05,
+    "score.sum": 0.001517942669936308,
     "sha.latest": "d93a126090b6e772d3b96f201cdd44ea0d6360ef",
     "time.latest": 1717927656.1821194,
     "formatted_time": "2024-06-09 15:37:36.182122",
     "filescores": {
-        "a.c": 6.099602068851199e-06,
-        "main.c": 6.099602068851199e-06,
-        "Makefile": 0,
-        "TestTlsGlobals.py": 2.9153360743577727e-05
+        "a.c": 0.02007646631636598,
+        "main.c": 0.02007646631636598,
+        "Makefile": 0.0,
+        "TestTlsGlobals.py": 0.09595649984549556
     },
     "subdirscores": {}
 }

@@ -1,25 +1,25 @@
 {
     "directory name": "llvm-project/libc/src/sys/mman",
-    "score.sum": 8.488368819666428e-05,
+    "score.sum": 0.0044143613130345925,
     "sha.latest": "fe1645e25c5ab5e3ba8aa16d4f637633ded328ab",
     "time.latest": 1717841497.7819574,
     "formatted_time": "2024-06-08 05:11:37.781961",
     "filescores": {
-        "CMakeLists.txt": 3.794944277282124e-05,
-        "madvise.h": 6.099602068851199e-06,
-        "mincore.h": 6.550076183645706e-06,
-        "mlock.h": 0,
-        "mlock2.h": 0,
-        "mlockall.h": 0,
-        "mmap.h": 1.0017972212911392e-05,
-        "mprotect.h": 6.099602068851199e-06,
-        "msync.h": 0,
-        "munlock.h": 0,
-        "munlockall.h": 0,
-        "munmap.h": 1.0017972212911392e-05,
-        "posix_madvise.h": 6.099602068851199e-06
+        "CMakeLists.txt": 0.1249082646627305,
+        "madvise.h": 0.02007646631636598,
+        "mincore.h": 0.021559174252060876,
+        "mlock.h": 0.0,
+        "mlock2.h": 0.0,
+        "mlockall.h": 0.0,
+        "mmap.h": 0.03297354145738329,
+        "mprotect.h": 0.02007646631636598,
+        "msync.h": 0.0,
+        "munlock.h": 0.0,
+        "munlockall.h": 0.0,
+        "munmap.h": 0.03297354145738329,
+        "posix_madvise.h": 0.02007646631636598
     },
     "subdirscores": {
-        "linux": 8.350412551827911e-05
+        "linux": 0.004342617397969776
     }
 }

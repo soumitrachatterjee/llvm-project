@@ -1,17 +1,17 @@
 {
     "directory name": "llvm-project/lldb/test/API/tools/lldb-dap/breakpoint",
-    "score.sum": 1.3181832845151801e-05,
+    "score.sum": 0.0006855189045474761,
     "sha.latest": "80fcecb13c388ff087a27a4b0e7ca3dd8c98eaa4",
     "time.latest": 1717968657.5634024,
     "formatted_time": "2024-06-10 03:00:57.563404",
     "filescores": {
-        "main.cpp": 6.099602068851199e-06,
-        "Makefile": 0,
-        "other.c": 0,
-        "TestDAP_logpoints.py": 1.3181832845151801e-05,
-        "TestDAP_setBreakpoints.py": 6.099602068851199e-06,
-        "TestDAP_setExceptionBreakpoints.py": 0,
-        "TestDAP_setFunctionBreakpoints.py": 6.099602068851199e-06
+        "main.cpp": 0.02007646631636598,
+        "Makefile": 0.0,
+        "other.c": 0.0,
+        "TestDAP_logpoints.py": 0.0433871947901513,
+        "TestDAP_setBreakpoints.py": 0.02007646631636598,
+        "TestDAP_setExceptionBreakpoints.py": 0.0,
+        "TestDAP_setFunctionBreakpoints.py": 0.02007646631636598
     },
     "subdirscores": {}
 }

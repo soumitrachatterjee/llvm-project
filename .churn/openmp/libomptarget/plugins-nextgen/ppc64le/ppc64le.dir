@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/openmp/libomptarget/plugins-nextgen/ppc64le",
-    "score.sum": 6.099602068851199e-06,
+    "score.sum": 0.00031720873550238375,
     "sha.latest": "e90ab9148baccda79874267c257bbba8d56e0600",
     "time.latest": 1717796107.476512,
     "formatted_time": "2024-06-08 03:05:07.476517",
     "filescores": {
-        "CMakeLists.txt": 6.099602068851199e-06
+        "CMakeLists.txt": 0.02007646631636598
     },
     "subdirscores": {}
 }

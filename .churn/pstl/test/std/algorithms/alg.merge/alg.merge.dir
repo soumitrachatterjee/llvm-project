@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/pstl/test/std/algorithms/alg.merge",
-    "score.sum": 1.6401791343328062e-05,
+    "score.sum": 0.0008529722813493199,
     "sha.latest": "3b9a1bb1af90db9472340ef2122d3855eb9ba3fc",
     "time.latest": 1717791387.7548935,
     "formatted_time": "2024-06-07 15:16:27.754897",
     "filescores": {
-        "inplace_merge.pass.cpp": 1.6401791343328062e-05,
-        "merge.pass.cpp": 1.3180537629176497e-05
+        "inplace_merge.pass.cpp": 0.05398549080996157,
+        "merge.pass.cpp": 0.0433829316661627
     },
     "subdirscores": {}
 }

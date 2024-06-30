@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/clang-tools-extra/test/clang-tidy/checkers/readability/Inputs/identifier-naming/global-style1",
-    "score.sum": 6.099602068851199e-06,
+    "score.sum": 0.00031720873550238375,
     "sha.latest": "e8a3ddafe063c970df9c23e803812369abde4c82",
     "time.latest": 1717830926.5435126,
     "formatted_time": "2024-06-08 12:45:26.543517",
     "filescores": {
-        ".clang-tidy": 6.099602068851199e-06,
-        "header.h": 0
+        ".clang-tidy": 0.02007646631636598,
+        "header.h": 0.0
     },
     "subdirscores": {}
 }

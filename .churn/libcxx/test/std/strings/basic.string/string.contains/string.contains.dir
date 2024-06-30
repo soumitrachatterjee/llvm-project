@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/libcxx/test/std/strings/basic.string/string.contains",
-    "score.sum": 2.0473770213869034e-05,
+    "score.sum": 0.0010647348281411634,
     "sha.latest": "6e1dcc9335116f650d68cdbed12bbb34a99b2d9b",
     "time.latest": 1717969018.1736825,
     "formatted_time": "2024-06-10 03:06:58.173684",
     "filescores": {
-        "contains.char.pass.cpp": 2.0473770213869034e-05,
-        "contains.ptr.pass.cpp": 2.0473770213869034e-05,
-        "contains.string_view.pass.cpp": 2.0473770213869034e-05
+        "contains.char.pass.cpp": 0.06738815965828641,
+        "contains.ptr.pass.cpp": 0.06738815965828641,
+        "contains.string_view.pass.cpp": 0.06738815965828641
     },
     "subdirscores": {}
 }

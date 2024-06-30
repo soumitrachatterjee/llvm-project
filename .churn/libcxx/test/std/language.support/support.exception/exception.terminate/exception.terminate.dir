@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/libcxx/test/std/language.support/support.exception/exception.terminate",
-    "score.sum": 2.2058319604004796e-05,
+    "score.sum": 0.0011471390411885737,
     "sha.latest": "aaaa25e23db7af931b4354700f48027a034444ae",
     "time.latest": 1717923090.9336236,
     "formatted_time": "2024-06-09 14:21:30.933625",
     "filescores": {},
     "subdirscores": {
-        "set.terminate": 1.7366275644238228e-05,
-        "terminate": 1.7366275644238228e-05,
-        "terminate.handler": 1.8985600090388658e-05
+        "set.terminate": 0.000903130118213133,
+        "terminate": 0.000903130118213133,
+        "terminate.handler": 0.0009873428019477983
     }
 }

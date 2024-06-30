@@ -1,21 +1,21 @@
 {
     "directory name": "llvm-project/llvm/lib/Support/Unix",
-    "score.sum": 0.0019450286996015142,
+    "score.sum": 0.10115087629522108,
     "sha.latest": "ba13fa2a5d57581bff1a7e9322234af30f4882f6",
     "time.latest": 1717844379.5386868,
     "formatted_time": "2024-06-08 05:59:39.538690",
     "filescores": {
-        "COM.inc": 1.4556131646912365e-05,
-        "DynamicLibrary.inc": 9.092725910449252e-06,
-        "Memory.inc": 0.00014905698079183764,
-        "Path.inc": 0.0007269725498362364,
-        "Process.inc": 0.000253010880772505,
-        "Program.inc": 0.0002448407690939558,
-        "README.txt": 0,
-        "Signals.inc": 0.0003956498357834682,
-        "Threading.inc": 0.00014287131507261037,
-        "Unix.h": 6.814755235471273e-05,
-        "Watchdog.inc": 1.5806728408676584e-05
+        "COM.inc": 0.04791061505441202,
+        "DynamicLibrary.inc": 0.029928149968554276,
+        "Memory.inc": 0.4906119153851875,
+        "Path.inc": 2.3927855858404747,
+        "Process.inc": 0.8327698050079475,
+        "Program.inc": 0.8058783832293076,
+        "README.txt": 0.0,
+        "Signals.inc": 1.3022571819473734,
+        "Threading.inc": 0.4702521758391362,
+        "Unix.h": 0.2243034912685472,
+        "Watchdog.inc": 0.05202687763670937
     },
     "subdirscores": {}
 }

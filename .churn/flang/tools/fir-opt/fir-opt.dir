@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/flang/tools/fir-opt",
-    "score.sum": 4.962568007760653e-05,
+    "score.sum": 0.0025807747863178564,
     "sha.latest": "369b82218419a0218400e7483255523b8dfd6cf0",
     "time.latest": 1717812673.829035,
     "formatted_time": "2024-06-07 21:11:13.829038",
     "filescores": {
-        "CMakeLists.txt": 4.1136272066459904e-05,
-        "fir-opt.cpp": 2.7990486673206764e-05
+        "CMakeLists.txt": 0.1353975179365584,
+        "fir-opt.cpp": 0.09212897112469573
     },
     "subdirscores": {}
 }

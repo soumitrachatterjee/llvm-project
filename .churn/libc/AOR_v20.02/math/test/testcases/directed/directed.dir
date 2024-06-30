@@ -1,20 +1,20 @@
 {
     "directory name": "llvm-project/libc/AOR_v20.02/math/test/testcases/directed",
-    "score.sum": 6.099602068851199e-06,
+    "score.sum": 0.00031720873550238375,
     "sha.latest": "5fedf7f42043f6a7d4562df2eab4a22b3346ac1a",
     "time.latest": 1717822752.9855728,
     "formatted_time": "2024-06-07 23:59:12.985577",
     "filescores": {
-        "exp.tst": 0,
-        "exp2.tst": 0,
-        "exp2f.tst": 0,
-        "expf.tst": 0,
-        "log.tst": 0,
-        "log2.tst": 0,
-        "log2f.tst": 0,
-        "logf.tst": 0,
-        "pow.tst": 0,
-        "powf.tst": 0
+        "exp.tst": 0.0,
+        "exp2.tst": 0.0,
+        "exp2f.tst": 0.0,
+        "expf.tst": 0.0,
+        "log.tst": 0.0,
+        "log2.tst": 0.0,
+        "log2f.tst": 0.0,
+        "logf.tst": 0.0,
+        "pow.tst": 0.0,
+        "powf.tst": 0.0
     },
     "subdirscores": {}
 }

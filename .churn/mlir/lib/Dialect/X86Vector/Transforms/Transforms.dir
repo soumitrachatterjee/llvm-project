@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/mlir/lib/Dialect/X86Vector/Transforms",
-    "score.sum": 9.235865523303402e-05,
+    "score.sum": 0.004803095662384603,
     "sha.latest": "ce254598b73b119c9463f5b7f4131559e276e844",
     "time.latest": 1717810479.5342665,
     "formatted_time": "2024-06-07 20:34:39.534270",
     "filescores": {
-        "AVXTranspose.cpp": 3.66413826408965e-05,
-        "CMakeLists.txt": 1.7753668992554656e-05,
-        "LegalizeForLLVMExport.cpp": 3.4011318847486794e-05
+        "AVXTranspose.cpp": 0.12060286491993803,
+        "CMakeLists.txt": 0.05843511322502797,
+        "LegalizeForLLVMExport.cpp": 0.11194617116151576
     },
     "subdirscores": {}
 }

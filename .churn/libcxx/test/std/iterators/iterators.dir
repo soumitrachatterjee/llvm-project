@@ -1,18 +1,18 @@
 {
     "directory name": "llvm-project/libcxx/test/std/iterators",
-    "score.sum": 0.0009998644926118333,
+    "score.sum": 0.05199777752630794,
     "sha.latest": "3903438860b6eebf53a912c672560e1e55311220",
     "time.latest": 1717920470.1647391,
     "formatted_time": "2024-06-09 13:37:50.164741",
     "filescores": {},
     "subdirscores": {
-        "iterator.container": 0.0001017067876567079,
-        "iterator.primitives": 0.00031340446062734826,
-        "iterator.range": 5.5481217649745665e-05,
-        "iterator.requirements": 0.0003000207137104409,
-        "iterator.synopsis": 1.2132863580760565e-05,
-        "iterators.general": 2.241531517704152e-05,
-        "predef.iterators": 0.00040010040235902074,
-        "stream.iterators": 0.00022086274356339816
+        "iterator.container": 0.005289243649081203,
+        "iterator.primitives": 0.016298543992580742,
+        "iterator.range": 0.0028852909904863657,
+        "iterator.requirements": 0.015602524582154564,
+        "iterator.synopsis": 0.0006309674419795125,
+        "iterators.general": 0.0011657045333345647,
+        "predef.iterators": 0.020807151232769387,
+        "stream.iterators": 0.011485928231794935
     }
 }

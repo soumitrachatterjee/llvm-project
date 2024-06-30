@@ -1,21 +1,21 @@
 {
     "directory name": "llvm-project/openmp/runtime/test/ompt",
-    "score.sum": 0.0003778411639975519,
+    "score.sum": 0.019649563446847228,
     "sha.latest": "dcd7c8b7c98fafa7c77e0d9f0d1efc5747afee30",
     "time.latest": 1717803648.1729946,
     "formatted_time": "2024-06-08 05:10:48.172997",
     "filescores": {
-        "callback.h": 0.0001513675936675,
-        "ompt-signal.h": 1.2056060248015764e-05
+        "callback.h": 0.49821715602953887,
+        "ompt-signal.h": 0.03968178329425903
     },
     "subdirscores": {
-        "cancel": 1.9090748341067636e-05,
-        "loadtool": 2.141659797579648e-05,
-        "misc": 5.342560093339266e-05,
-        "parallel": 6.37397137230833e-05,
-        "synchronization": 4.854726763871666e-05,
-        "tasks": 8.900343498293453e-05,
-        "teams": 1.483706030694574e-05,
-        "worksharing": 3.4648751478130026e-05
+        "cancel": 0.000992811018277597,
+        "loadtool": 0.001113766420494511,
+        "misc": 0.0027783890037810736,
+        "parallel": 0.003314772629944892,
+        "synchronization": 0.002524692136625476,
+        "tasks": 0.004628608021903738,
+        "teams": 0.0007715987183120099,
+        "worksharing": 0.001801902241990682
     }
 }

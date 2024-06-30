@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/clang-tools-extra/test/clang-tidy/infrastructure/Inputs/mock-libcxx",
-    "score.sum": 0,
+    "score.sum": 0.0,
     "sha.latest": "885c559369fe3d6323898c17787bd0454065fc34",
     "time.latest": 1717833797.8233268,
     "formatted_time": "2024-06-08 13:33:17.823329",
     "filescores": {},
     "subdirscores": {
-        "bin": 0,
-        "include": 0
+        "bin": 0.0,
+        "include": 0.0
     }
 }

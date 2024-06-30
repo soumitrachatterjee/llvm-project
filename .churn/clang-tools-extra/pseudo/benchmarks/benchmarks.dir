@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/clang-tools-extra/pseudo/benchmarks",
-    "score.sum": 3.105170740179998e-05,
+    "score.sum": 0.0016148385958512387,
     "sha.latest": "9ab67cc8bfe7181b7d775bab4d7a908dc8774889",
     "time.latest": 1717814236.3898332,
     "formatted_time": "2024-06-08 08:07:16.389836",
     "filescores": {
-        "Benchmark.cpp": 2.9427144675247986e-05,
-        "CMakeLists.txt": 7.859375020425459e-06
+        "Benchmark.cpp": 0.09685764287418751,
+        "CMakeLists.txt": 0.02586865111595351
     },
     "subdirscores": {}
 }

@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/mlir/test/Conversion/TosaToTensor",
-    "score.sum": 4.1421605647707464e-05,
+    "score.sum": 0.002154123334878851,
     "sha.latest": "d37056c6a596c176acf0f7042e6d8ade78f31793",
     "time.latest": 1717816965.3675137,
     "formatted_time": "2024-06-07 22:22:45.367517",
     "filescores": {
-        "tosa-to-tensor-invalid.mlir": 6.099602068851199e-06,
-        "tosa-to-tensor.mlir": 3.248026048443959e-05
+        "tosa-to-tensor-invalid.mlir": 0.02007646631636598,
+        "tosa-to-tensor.mlir": 0.1069067864103238
     },
     "subdirscores": {}
 }

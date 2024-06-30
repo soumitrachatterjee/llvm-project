@@ -1,18 +1,18 @@
 {
     "directory name": "llvm-project/openmp/runtime/test/tasking/hidden_helper_task",
-    "score.sum": 4.005066278971325e-05,
+    "score.sum": 0.002082827692061241,
     "sha.latest": "110141b37813dc48af33de5e1407231e56acdfc5",
     "time.latest": 1717804052.0038364,
     "formatted_time": "2024-06-08 05:17:32.003839",
     "filescores": {
-        "affinity.cpp": 6.099602068851199e-06,
-        "capacity_mix_threads.cpp": 6.099602068851199e-06,
-        "capacity_nthreads.cpp": 6.7229596877446875e-06,
-        "common.h": 1.7932375261716782e-05,
-        "depend.cpp": 1.8130976475396568e-05,
-        "gtid.cpp": 1.2238692917241658e-05,
-        "single_helper_thread.c": 6.099602068851199e-06,
-        "taskgroup.cpp": 7.208691439056478e-06
+        "affinity.cpp": 0.02007646631636598,
+        "capacity_mix_threads.cpp": 0.02007646631636598,
+        "capacity_nthreads.cpp": 0.022128209708393888,
+        "common.h": 0.05902331395564262,
+        "depend.cpp": 0.059676997676617306,
+        "gtid.cpp": 0.0402829075300032,
+        "single_helper_thread.c": 0.02007646631636598,
+        "taskgroup.cpp": 0.02372696599346369
     },
     "subdirscores": {}
 }

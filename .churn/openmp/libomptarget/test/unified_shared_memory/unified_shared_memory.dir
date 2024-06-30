@@ -1,17 +1,17 @@
 {
     "directory name": "llvm-project/openmp/libomptarget/test/unified_shared_memory",
-    "score.sum": 9.813433525325019e-05,
+    "score.sum": 0.005103458888575227,
     "sha.latest": "3440466536c97ced20e366301a60f12f4fd01e30",
     "time.latest": 1717799115.0568507,
     "formatted_time": "2024-06-08 03:55:15.056853",
     "filescores": {
-        "api.c": 7.798238096939725e-05,
-        "associate_ptr.c": 6.09989681954045e-06,
-        "close_enter_exit.c": 5.602288642038304e-05,
-        "close_manual.c": 1.2046492299321452e-05,
-        "close_member.c": 6.09989681954045e-06,
-        "close_modifier.c": 4.2792722743298856e-05,
-        "shared_update.c": 4.284164309555537e-05
+        "api.c": 0.2566742267986985,
+        "associate_ptr.c": 0.020077436470192028,
+        "close_enter_exit.c": 0.1843958965631755,
+        "close_manual.c": 0.039650290977627595,
+        "close_member.c": 0.020077436470192028,
+        "close_modifier.c": 0.14084962380230093,
+        "shared_update.c": 0.1410106421430347
     },
     "subdirscores": {}
 }

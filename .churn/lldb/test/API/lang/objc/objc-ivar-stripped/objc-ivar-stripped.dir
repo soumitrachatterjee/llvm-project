@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/lldb/test/API/lang/objc/objc-ivar-stripped",
-    "score.sum": 2.0489417849085105e-05,
+    "score.sum": 0.0010655485806654206,
     "sha.latest": "80fcecb13c388ff087a27a4b0e7ca3dd8c98eaa4",
     "time.latest": 1717958921.799621,
     "formatted_time": "2024-06-10 00:18:41.799626",
     "filescores": {
-        "main.m": 0,
-        "Makefile": 6.099602068851199e-06,
-        "TestObjCIvarStripped.py": 2.0337978601021868e-05
+        "main.m": 0.0,
+        "Makefile": 0.02007646631636598,
+        "TestObjCIvarStripped.py": 0.06694120988835092
     },
     "subdirscores": {}
 }

@@ -1,21 +1,21 @@
 {
     "directory name": "llvm-project/libcxx/test/std/numerics/numeric.ops/numeric.ops.sat",
-    "score.sum": 0,
+    "score.sum": 0.0,
     "sha.latest": "03c19e91e8d8cb706b58e02d69f80caeaf7eb0f4",
     "time.latest": 1717952261.6094623,
     "formatted_time": "2024-06-09 22:27:41.609466",
     "filescores": {
-        "add_sat.compile.pass.cpp": 0,
-        "add_sat.pass.cpp": 0,
-        "div_sat.assert.pass.cpp": 0,
-        "div_sat.compile.pass.cpp": 0,
-        "div_sat.pass.cpp": 0,
-        "mul_sat.compile.pass.cpp": 0,
-        "mul_sat.pass.cpp": 0,
-        "saturate_cast.compile.pass.cpp": 0,
-        "saturate_cast.pass.cpp": 0,
-        "sub_sat.compile.pass.cpp": 0,
-        "sub_sat.pass.cpp": 0
+        "add_sat.compile.pass.cpp": 0.0,
+        "add_sat.pass.cpp": 0.0,
+        "div_sat.assert.pass.cpp": 0.0,
+        "div_sat.compile.pass.cpp": 0.0,
+        "div_sat.pass.cpp": 0.0,
+        "mul_sat.compile.pass.cpp": 0.0,
+        "mul_sat.pass.cpp": 0.0,
+        "saturate_cast.compile.pass.cpp": 0.0,
+        "saturate_cast.pass.cpp": 0.0,
+        "sub_sat.compile.pass.cpp": 0.0,
+        "sub_sat.pass.cpp": 0.0
     },
     "subdirscores": {}
 }

@@ -1,21 +1,21 @@
 {
     "directory name": "llvm-project/libclc/generic/include/clc/common",
-    "score.sum": 3.0438253736516806e-05,
+    "score.sum": 0.0015829360456098872,
     "sha.latest": "1314630ec352029b9e2413060e1e1b7e48c58f80",
     "time.latest": 1717825129.821528,
     "formatted_time": "2024-06-08 00:38:49.821532",
     "filescores": {
-        "degrees.h": 0,
-        "degrees.inc": 0,
-        "mix.h": 0,
-        "mix.inc": 0,
-        "radians.h": 0,
-        "radians.inc": 0,
-        "sign.h": 0,
-        "smoothstep.h": 0,
-        "smoothstep.inc": 0,
-        "step.h": 0,
-        "step.inc": 0
+        "degrees.h": 0.0,
+        "degrees.inc": 0.0,
+        "mix.h": 0.0,
+        "mix.inc": 0.0,
+        "radians.h": 0.0,
+        "radians.inc": 0.0,
+        "sign.h": 0.0,
+        "smoothstep.h": 0.0,
+        "smoothstep.inc": 0.0,
+        "step.h": 0.0,
+        "step.inc": 0.0
     },
     "subdirscores": {}
 }

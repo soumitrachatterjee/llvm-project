@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/lldb/test/API/functionalities/data-formatter/stringprinter",
-    "score.sum": 2.3157575466643805e-05,
+    "score.sum": 0.0012043056494763459,
     "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
     "time.latest": 1717908417.7804866,
     "formatted_time": "2024-06-09 10:16:57.780488",
     "filescores": {
-        "main.cpp": 2.7026330960460967e-05,
-        "TestStringPrinter.py": 6.099602068851199e-06
+        "main.cpp": 0.08895551169698612,
+        "TestStringPrinter.py": 0.02007646631636598
     },
     "subdirscores": {}
 }

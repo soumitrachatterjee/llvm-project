@@ -1,16 +1,16 @@
 {
     "directory name": "llvm-project/mlir/include/mlir/Dialect/SCF",
-    "score.sum": 0.0009250104592881711,
+    "score.sum": 0.04810500665538384,
     "sha.latest": "f7201505a6ec7a0f904d2f09cece5c770058a991",
     "time.latest": 1717796583.3742964,
     "formatted_time": "2024-06-07 16:43:03.374297",
     "filescores": {
-        "CMakeLists.txt": 1.545674896821045e-05
+        "CMakeLists.txt": 0.05087494176144624
     },
     "subdirscores": {
-        "IR": 0.0002024198502675196,
-        "TransformOps": 8.927638867902792e-05,
-        "Transforms": 0.00011195469964202316,
-        "Utils": 6.122478482913021e-05
+        "IR": 0.010526808801485465,
+        "TransformOps": 0.00464280293098324,
+        "Transforms": 0.005822184514027466,
+        "Utils": 0.0031839841940232813
     }
 }

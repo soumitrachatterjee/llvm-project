@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/lldb/test/API/commands/command/source/subdir",
-    "score.sum": 0,
+    "score.sum": 0.0,
     "sha.latest": "3bf3b96629e8dfc55d01ba0cb05ca01a467017fa",
     "time.latest": 1717888912.81526,
     "formatted_time": "2024-06-09 04:51:52.815261",
     "filescores": {
-        "subcmds.txt": 0
+        "subcmds.txt": 0.0
     },
     "subdirscores": {}
 }

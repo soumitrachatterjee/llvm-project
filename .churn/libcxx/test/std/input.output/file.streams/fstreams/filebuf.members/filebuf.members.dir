@@ -1,15 +1,15 @@
 {
     "directory name": "llvm-project/libcxx/test/std/input.output/file.streams/fstreams/filebuf.members",
-    "score.sum": 9.231397873321811e-05,
+    "score.sum": 0.004800772268849531,
     "sha.latest": "92e243173c09fc78c25814a7d7e392971034f5be",
     "time.latest": 1717901310.980651,
     "formatted_time": "2024-06-09 08:18:30.980652",
     "filescores": {
-        "close.pass.cpp": 6.099602068851199e-06,
-        "native_handle.assert.pass.cpp": 7.861837576936922e-06,
-        "native_handle.pass.cpp": 7.861837576936922e-06,
-        "open_path.pass.cpp": 4.153581903408843e-05,
-        "open_pointer.pass.cpp": 1.9426009662556054e-05
+        "close.pass.cpp": 0.02007646631636598,
+        "native_handle.assert.pass.cpp": 0.02587675646976126,
+        "native_handle.pass.cpp": 0.02587675646976126,
+        "open_path.pass.cpp": 0.1367126022890875,
+        "open_pointer.pass.cpp": 0.06393952002924029
     },
     "subdirscores": {}
 }

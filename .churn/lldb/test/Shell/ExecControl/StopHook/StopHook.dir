@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/lldb/test/Shell/ExecControl/StopHook",
-    "score.sum": 1.3577790704965945e-05,
+    "score.sum": 0.0007061106235819492,
     "sha.latest": "2c2eb5e6702bf3bbb8fb8f09790b1ab7b139e879",
     "time.latest": 1717972663.729526,
     "formatted_time": "2024-06-10 04:07:43.729528",
     "filescores": {
-        "stop-hook-threads.test": 6.438915129360035e-06,
-        "stop-hook.test": 1.3016039777223511e-05
+        "stop-hook-threads.test": 0.02119329445582717,
+        "stop-hook.test": 0.04284149706984474
     },
     "subdirscores": {
-        "Inputs": 6.106581997893812e-06
+        "Inputs": 0.00031757172548771585
     }
 }

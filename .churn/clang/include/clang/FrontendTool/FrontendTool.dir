@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/clang/include/clang/FrontendTool",
-    "score.sum": 1.1518227594118479e-05,
+    "score.sum": 0.000599003405323312,
     "sha.latest": "2946cd701067404b99c39fb29dc9c74bd7193eb3",
     "time.latest": 1717799896.7245762,
     "formatted_time": "2024-06-08 04:08:16.724579",
     "filescores": {
-        "Utils.h": 1.1518227594118479e-05
+        "Utils.h": 0.03791154008200892
     },
     "subdirscores": {}
 }

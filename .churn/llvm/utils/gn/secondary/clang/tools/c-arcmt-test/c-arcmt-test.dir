@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/llvm/utils/gn/secondary/clang/tools/c-arcmt-test",
-    "score.sum": 1.437018068607832e-05,
+    "score.sum": 0.000747318725536173,
     "sha.latest": "1afd889d0b4352ddaef33680ace94045938591f1",
     "time.latest": 1718084596.7322233,
     "formatted_time": "2024-06-11 00:43:16.732227",
     "filescores": {
-        "BUILD.gn": 1.437018068607832e-05
+        "BUILD.gn": 0.047298568865244195
     },
     "subdirscores": {}
 }

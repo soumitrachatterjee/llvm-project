@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/libcxx/test/std/utilities/variant/variant.helpers",
-    "score.sum": 2.993829859589528e-05,
+    "score.sum": 0.0015569359662318668,
     "sha.latest": "b82dcb624e6bfa58ed566511cb564f8f201fa62e",
     "time.latest": 1718009455.851328,
     "formatted_time": "2024-06-10 14:20:55.851330",
     "filescores": {
-        "variant_alternative.pass.cpp": 2.105844100059729e-05,
-        "variant_alternative.verify.cpp": 0,
-        "variant_size.pass.cpp": 2.0817721416903108e-05
+        "variant_alternative.pass.cpp": 0.06931256771366696,
+        "variant_alternative.verify.cpp": 0.0,
+        "variant_size.pass.cpp": 0.06852025395956068
     },
     "subdirscores": {}
 }

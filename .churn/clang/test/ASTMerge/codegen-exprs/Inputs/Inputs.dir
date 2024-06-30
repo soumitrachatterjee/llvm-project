@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/clang/test/ASTMerge/codegen-exprs/Inputs",
-    "score.sum": 1.1677920706871453e-05,
+    "score.sum": 0.0006073082176361504,
     "sha.latest": "0333dd95636da52229ca14b4e5525c1cd8ba62d2",
     "time.latest": 1717865041.443514,
     "formatted_time": "2024-06-08 22:14:01.443516",
     "filescores": {
-        "exprs1.c": 1.1677920706871453e-05,
-        "exprs2.c": 1.1677920706871453e-05
+        "exprs1.c": 0.038437160173770836,
+        "exprs2.c": 0.038437160173770836
     },
     "subdirscores": {}
 }

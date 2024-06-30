@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/mlir/include/mlir/Dialect/AMDGPU/IR",
-    "score.sum": 3.284014012150648e-05,
+    "score.sum": 0.0017078457256845517,
     "sha.latest": "3f37df5b711773bfd962b703b6d4178e6d16c076",
     "time.latest": 1717792609.1463642,
     "formatted_time": "2024-06-07 15:36:49.146367",
     "filescores": {
-        "AMDGPU.td": 3.129760782646987e-05,
-        "AMDGPUDialect.h": 1.778052215795617e-05,
-        "CMakeLists.txt": 0
+        "AMDGPU.td": 0.10301415768083004,
+        "AMDGPUDialect.h": 0.05852349877290239,
+        "CMakeLists.txt": 0.0
     },
     "subdirscores": {}
 }

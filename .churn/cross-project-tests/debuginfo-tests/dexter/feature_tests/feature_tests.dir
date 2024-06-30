@@ -1,16 +1,16 @@
 {
     "directory name": "llvm-project/cross-project-tests/debuginfo-tests/dexter/feature_tests",
-    "score.sum": 9.870191429321537e-05,
+    "score.sum": 0.005132975736974965,
     "sha.latest": "9120e854486d00307e14751769200ae4c45909a9",
     "time.latest": 1717792298.796135,
     "formatted_time": "2024-06-08 02:01:38.796140",
     "filescores": {
-        "lit.local.cfg": 6.099602068851199e-06,
-        "Readme.md": 0
+        "lit.local.cfg": 0.02007646631636598,
+        "Readme.md": 0.0
     },
     "subdirscores": {
-        "commands": 7.029375851599172e-05,
-        "subtools": 7.34310491640223e-05,
-        "unittests": 0
+        "commands": 0.003655614579586374,
+        "subtools": 0.003818768829344288,
+        "unittests": 0.0
     }
 }

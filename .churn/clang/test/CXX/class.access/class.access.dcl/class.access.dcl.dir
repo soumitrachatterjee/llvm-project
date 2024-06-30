@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/clang/test/CXX/class.access/class.access.dcl",
-    "score.sum": 6.629546885319155e-06,
+    "score.sum": 0.00034476842271153707,
     "sha.latest": "64a1a81e76b48ade6773887323476b2a6fb72c38",
     "time.latest": 1718083415.8722622,
     "formatted_time": "2024-06-11 10:53:35.872264",
     "filescores": {
-        "p1.cpp": 6.629546885319155e-06
+        "p1.cpp": 0.02182074719522592
     },
     "subdirscores": {}
 }

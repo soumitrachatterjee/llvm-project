@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/libclc/generic/include/integer",
-    "score.sum": 0,
+    "score.sum": 0.0,
     "sha.latest": "17e8679493734b07aa764a9ec7cf040da35388e0",
     "time.latest": 1717827593.8979318,
     "formatted_time": "2024-06-08 01:19:53.897935",
     "filescores": {
-        "popcount.h": 0,
-        "unary_intrin.inc": 0
+        "popcount.h": 0.0,
+        "unary_intrin.inc": 0.0
     },
     "subdirscores": {}
 }

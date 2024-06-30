@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/llvm/examples/OrcV2Examples/LLJITWithInitializers",
-    "score.sum": 1.3070607029219513e-05,
+    "score.sum": 0.0006797346255029012,
     "sha.latest": "b92839c9548a55bc7a3267b05d11c9d9c530b792",
     "time.latest": 1717804631.4049885,
     "formatted_time": "2024-06-07 18:57:11.404992",
     "filescores": {
-        "CMakeLists.txt": 6.099602068851199e-06,
-        "LLJITWithInitializers.cpp": 7.142524545739936e-06
+        "CMakeLists.txt": 0.02007646631636598,
+        "LLJITWithInitializers.cpp": 0.023509181720008893
     },
     "subdirscores": {}
 }

@@ -1,24 +1,24 @@
 {
     "directory name": "llvm-project/mlir/test/lib/Analysis",
-    "score.sum": 0.00023614155781489555,
+    "score.sum": 0.012280500286493924,
     "sha.latest": "11140cc238b8c4124e6f9efacb1601f81da096a0",
     "time.latest": 1717830747.0835974,
     "formatted_time": "2024-06-08 02:12:27.083601",
     "filescores": {
-        "CMakeLists.txt": 6.63013939658918e-05,
-        "TestAliasAnalysis.cpp": 3.6136114532515695e-05,
-        "TestAliasAnalysis.h": 0,
-        "TestCFGLoopInfo.cpp": 6.099602068851199e-06,
-        "TestCallGraph.cpp": 1.251364219137509e-05,
-        "TestDataFlowFramework.cpp": 1.8999401074900155e-05,
-        "TestLiveness.cpp": 2.677156759312844e-05,
-        "TestMatchReduction.cpp": 1.1835852114517027e-05,
-        "TestMemRefBoundCheck.cpp": 1.7881901859551083e-05,
-        "TestMemRefDependenceCheck.cpp": 5.075248131503283e-05,
-        "TestMemRefStrideCalculation.cpp": 2.0092446125860694e-05,
-        "TestSlice.cpp": 2.0888926356244247e-05
+        "CMakeLists.txt": 0.21822697409751463,
+        "TestAliasAnalysis.cpp": 0.11893980591311469,
+        "TestAliasAnalysis.h": 0.0,
+        "TestCFGLoopInfo.cpp": 0.02007646631636598,
+        "TestCallGraph.cpp": 0.04118788621197954,
+        "TestDataFlowFramework.cpp": 0.0625353640132136,
+        "TestLiveness.cpp": 0.08811697368988974,
+        "TestMatchReduction.cpp": 0.038956981721160695,
+        "TestMemRefBoundCheck.cpp": 0.05885718384633158,
+        "TestMemRefDependenceCheck.cpp": 0.16704868122407796,
+        "TestMemRefStrideCalculation.cpp": 0.06613305479700154,
+        "TestSlice.cpp": 0.06875462065268342
     },
     "subdirscores": {
-        "DataFlow": 7.343368206762235e-05
+        "DataFlow": 0.0038189057530341034
     }
 }

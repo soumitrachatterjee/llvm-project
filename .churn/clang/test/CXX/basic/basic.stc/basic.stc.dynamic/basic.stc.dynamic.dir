@@ -1,16 +1,16 @@
 {
     "directory name": "llvm-project/clang/test/CXX/basic/basic.stc/basic.stc.dynamic",
-    "score.sum": 2.4373661406640843e-05,
+    "score.sum": 0.001267547985440951,
     "sha.latest": "83ea47acd7116bf50274534ba9b3bd3035c01da6",
     "time.latest": 1718082743.7658336,
     "formatted_time": "2024-06-11 10:42:23.765836",
     "filescores": {
-        "p2-nodef.cpp": 6.628276156349719e-06,
-        "p2-noexceptions.cpp": 8.537384064529044e-06,
-        "p2.cpp": 1.0419468105987921e-05
+        "p2-nodef.cpp": 0.02181656466871613,
+        "p2-noexceptions.cpp": 0.02810027632403873,
+        "p2.cpp": 0.034295040578559303
     },
     "subdirscores": {
-        "basic.stc.dynamic.allocation": 6.128966269900862e-06,
-        "basic.stc.dynamic.deallocation": 2.2010777947347032e-05
+        "basic.stc.dynamic.allocation": 0.0003187358156264411,
+        "basic.stc.dynamic.deallocation": 0.0011446666456745925
     }
 }

@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/clang/test/CXX/temp/temp.decls/temp.class/temp.mem.enum",
-    "score.sum": 6.90665872137024e-06,
+    "score.sum": 0.0003591795751300528,
     "sha.latest": "3a48630a4b25d50abefd945742c247f17bd61156",
     "time.latest": 1718112948.6388557,
     "formatted_time": "2024-06-11 19:05:48.638858",
     "filescores": {
-        "p1.cpp": 6.90665872137024e-06
+        "p1.cpp": 0.022732843817193545
     },
     "subdirscores": {}
 }

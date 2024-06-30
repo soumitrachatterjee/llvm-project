@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/llvm/examples/HowToUseJIT",
-    "score.sum": 0.0001476125304994229,
+    "score.sum": 0.00767656375210848,
     "sha.latest": "a4e3457fb752d675c58fb14a3d8ed03fe218b6b0",
     "time.latest": 1717803649.2146235,
     "formatted_time": "2024-06-07 18:40:49.214628",
     "filescores": {
-        "CMakeLists.txt": 2.6307723214917763e-05,
-        "HowToUseJIT.cpp": 0.00011621706520470823
+        "CMakeLists.txt": 0.08659025835173059,
+        "HowToUseJIT.cpp": 0.38252134625048984
     },
     "subdirscores": {}
 }

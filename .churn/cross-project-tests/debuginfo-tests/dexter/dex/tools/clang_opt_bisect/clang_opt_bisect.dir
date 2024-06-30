@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/cross-project-tests/debuginfo-tests/dexter/dex/tools/clang_opt_bisect",
-    "score.sum": 4.329947246315076e-05,
+    "score.sum": 0.002251781469171019,
     "sha.latest": "4a351ef70aa6e34a8eb5a8655473531881225fa4",
     "time.latest": 1717789328.8654115,
     "formatted_time": "2024-06-08 01:12:08.865417",
     "filescores": {
-        "Tool.py": 1.312860776334583e-05
+        "Tool.py": 0.04321200769597671
     },
     "subdirscores": {}
 }

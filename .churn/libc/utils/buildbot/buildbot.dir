@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/libc/utils/buildbot",
-    "score.sum": 1.7020869654233483e-05,
+    "score.sum": 0.0008851673402994929,
     "sha.latest": "17b3ff511c0a034d93c969bccd699dedc5a29e96",
     "time.latest": 1717851976.214956,
     "formatted_time": "2024-06-08 08:06:16.214959",
     "filescores": {
-        "Dockerfile": 1.1361293883278524e-05,
-        "README.txt": 6.099602068851199e-06,
-        "run.sh": 6.099602068851199e-06
+        "Dockerfile": 0.03739500239249796,
+        "README.txt": 0.02007646631636598,
+        "run.sh": 0.02007646631636598
     },
     "subdirscores": {}
 }

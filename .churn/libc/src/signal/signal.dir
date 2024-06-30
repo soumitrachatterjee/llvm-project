@@ -1,23 +1,23 @@
 {
     "directory name": "llvm-project/libc/src/signal",
-    "score.sum": 8.17731153082429e-05,
+    "score.sum": 0.004252596515677905,
     "sha.latest": "2c0d20668a11dd4cc9a678706cd3f0312ed97b23",
     "time.latest": 1717836522.4958766,
     "formatted_time": "2024-06-08 03:48:42.495880",
     "filescores": {
-        "CMakeLists.txt": 1.2439528578553562e-05,
-        "kill.h": 6.099602068851199e-06,
-        "raise.h": 1.2037909884513694e-05,
-        "sigaction.h": 1.0590012272910419e-05,
-        "sigaddset.h": 1.675986960872974e-05,
-        "sigaltstack.h": 1.2109780802398538e-05,
-        "sigdelset.h": 1.1836193181873183e-05,
-        "sigemptyset.h": 1.1987119467189905e-05,
-        "sigfillset.h": 1.1836193181873183e-05,
-        "signal.h": 1.1886760279556936e-05,
-        "sigprocmask.h": 1.1987119467189905e-05
+        "CMakeLists.txt": 0.0409439457983919,
+        "kill.h": 0.02007646631636598,
+        "raise.h": 0.03962204248537251,
+        "sigaction.h": 0.03485637624997255,
+        "sigaddset.h": 0.055164083471058466,
+        "sigaltstack.h": 0.03985860120604871,
+        "sigdelset.h": 0.03895810432345675,
+        "sigemptyset.h": 0.039454868940101015,
+        "sigfillset.h": 0.03895810432345675,
+        "signal.h": 0.0391245428258221,
+        "sigprocmask.h": 0.039454868940101015
     },
     "subdirscores": {
-        "linux": 7.618770136802199e-05
+        "linux": 0.0039621280435979634
     }
 }

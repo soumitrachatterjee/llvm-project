@@ -1,15 +1,15 @@
 {
     "directory name": "llvm-project/clang-tools-extra/clang-change-namespace",
-    "score.sum": 8.23895233758847e-05,
+    "score.sum": 0.00428465270909561,
     "sha.latest": "732bccb8c1b4ea724919db6ff02b1188e20850e7",
     "time.latest": 1717788064.4013638,
     "formatted_time": "2024-06-08 00:51:04.401368",
     "filescores": {
-        "ChangeNamespace.cpp": 5.85291130931625e-05,
-        "ChangeNamespace.h": 1.1197691037395808e-05,
-        "CMakeLists.txt": 1.1105270677282579e-05
+        "ChangeNamespace.cpp": 0.19264498803000812,
+        "ChangeNamespace.h": 0.03685651365379823,
+        "CMakeLists.txt": 0.0365523177036665
     },
     "subdirscores": {
-        "tool": 1.8482811807484568e-05
+        "tool": 0.0009611953855024071
     }
 }

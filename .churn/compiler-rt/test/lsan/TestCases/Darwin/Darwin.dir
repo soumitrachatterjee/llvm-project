@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/compiler-rt/test/lsan/TestCases/Darwin",
-    "score.sum": 1.8595897363814093e-05,
+    "score.sum": 0.0009670763800200754,
     "sha.latest": "f98ee40f4b5d7474fc67e82824bf6abbaedb7b1c",
     "time.latest": 1717830690.4084303,
     "formatted_time": "2024-06-08 12:41:30.408435",
     "filescores": {
-        "dispatch.mm": 6.1007697108489165e-06,
-        "dispatch_continuations.mm": 0,
-        "lit.local.cfg.py": 6.099602068851199e-06,
-        "trampoline.mm": 0
+        "dispatch.mm": 0.020080309538427373,
+        "dispatch_continuations.mm": 0.0,
+        "lit.local.cfg.py": 0.02007646631636598,
+        "trampoline.mm": 0.0
     },
     "subdirscores": {}
 }

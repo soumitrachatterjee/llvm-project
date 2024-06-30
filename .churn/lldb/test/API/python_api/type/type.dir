@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/lldb/test/API/python_api/type",
-    "score.sum": 6.915760679995358e-05,
+    "score.sum": 0.0035965292089154316,
     "sha.latest": "c63e68ba5fb54b69521c4f010d1c5290856c6509",
     "time.latest": 1717967156.7091963,
     "formatted_time": "2024-06-10 02:35:56.709198",
     "filescores": {
-        "main.cpp": 2.7639036322389528e-05,
-        "Makefile": 0,
-        "TestTypeList.py": 6.912211084132335e-05
+        "main.cpp": 0.09097219383817577,
+        "Makefile": 0.0,
+        "TestTypeList.py": 0.22751119078876386
     },
     "subdirscores": {}
 }

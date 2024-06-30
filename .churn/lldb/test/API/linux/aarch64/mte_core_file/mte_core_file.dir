@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/lldb/test/API/linux/aarch64/mte_core_file",
-    "score.sum": 2.0196393535626766e-05,
+    "score.sum": 0.001050309902650958,
     "sha.latest": "2f8e3d55da68b08f63186fa9f98245145a180449",
     "time.latest": 1717960741.6265,
     "formatted_time": "2024-06-10 00:49:01.626502",
     "filescores": {
-        "core.mte": 0,
-        "core.nomte": 0,
-        "main.c": 0,
-        "TestAArch64LinuxMTEMemoryTagCoreFile.py": 2.0196393535626766e-05
+        "core.mte": 0.0,
+        "core.nomte": 0.0,
+        "main.c": 0.0,
+        "TestAArch64LinuxMTEMemoryTagCoreFile.py": 0.0664751913244808
     },
     "subdirscores": {}
 }

@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/libcxx/test/std/input.output/iostream.forward",
-    "score.sum": 3.80169201473054e-05,
+    "score.sum": 0.001977063262733973,
     "sha.latest": "7bfaa0f09d0564f315ea778023b34b8a113ec740",
     "time.latest": 1717906884.4186747,
     "formatted_time": "2024-06-09 09:51:24.418676",
     "filescores": {
-        "iosfwd.pass.cpp": 2.2539837823276023e-05,
-        "lit.local.cfg": 9.845454441214068e-06
+        "iosfwd.pass.cpp": 0.07418849454888797,
+        "lit.local.cfg": 0.03240570978683169
     },
     "subdirscores": {}
 }

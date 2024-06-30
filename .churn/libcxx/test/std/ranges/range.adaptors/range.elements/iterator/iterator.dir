@@ -1,21 +1,21 @@
 {
     "directory name": "llvm-project/libcxx/test/std/ranges/range.adaptors/range.elements/iterator",
-    "score.sum": 1.4620381968957935e-05,
+    "score.sum": 0.0007603303993580794,
     "sha.latest": "b2cc4b994e5fb85053b1acedec5ea0d1d42e5ec4",
     "time.latest": 1717961273.5579731,
     "formatted_time": "2024-06-10 00:57:53.557977",
     "filescores": {
-        "arithmetic.pass.cpp": 0,
-        "base.pass.cpp": 6.099602068851199e-06,
-        "compare.pass.cpp": 0,
-        "ctor.base.pass.cpp": 0,
-        "ctor.default.pass.cpp": 6.099602068851199e-06,
-        "ctor.other.pass.cpp": 6.099602068851199e-06,
-        "decrement.pass.cpp": 0,
-        "deref.pass.cpp": 6.099602068851199e-06,
-        "increment.pass.cpp": 0,
-        "member_types.compile.pass.cpp": 7.303351603284681e-06,
-        "subscript.pass.cpp": 0
+        "arithmetic.pass.cpp": 0.0,
+        "base.pass.cpp": 0.02007646631636598,
+        "compare.pass.cpp": 0.0,
+        "ctor.base.pass.cpp": 0.0,
+        "ctor.default.pass.cpp": 0.02007646631636598,
+        "ctor.other.pass.cpp": 0.02007646631636598,
+        "decrement.pass.cpp": 0.0,
+        "deref.pass.cpp": 0.02007646631636598,
+        "increment.pass.cpp": 0.0,
+        "member_types.compile.pass.cpp": 0.0240385341215444,
+        "subscript.pass.cpp": 0.0
     },
     "subdirscores": {}
 }

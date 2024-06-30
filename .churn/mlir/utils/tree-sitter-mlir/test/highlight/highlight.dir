@@ -1,15 +1,15 @@
 {
     "directory name": "llvm-project/mlir/utils/tree-sitter-mlir/test/highlight",
-    "score.sum": 0,
+    "score.sum": 0.0,
     "sha.latest": "10f8be19e7562624c0e63872e28cc963e03e56a5",
     "time.latest": 1717837372.9058628,
     "formatted_time": "2024-06-08 04:02:52.905866",
     "filescores": {
-        "attribute.mlir": 0,
-        "controlflow.mlir": 0,
-        "downstream.mlir": 0,
-        "func.mlir": 0,
-        "type.mlir": 0
+        "attribute.mlir": 0.0,
+        "controlflow.mlir": 0.0,
+        "downstream.mlir": 0.0,
+        "func.mlir": 0.0,
+        "type.mlir": 0.0
     },
     "subdirscores": {}
 }

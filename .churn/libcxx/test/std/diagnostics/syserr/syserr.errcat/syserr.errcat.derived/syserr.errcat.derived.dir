@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/libcxx/test/std/diagnostics/syserr/syserr.errcat/syserr.errcat.derived",
-    "score.sum": 1.4589931491692786e-05,
+    "score.sum": 0.0007587468276300073,
     "sha.latest": "f1d3ebc9918aa6d1d04cda98da1ecef2dd51978c",
     "time.latest": 1717897789.6996408,
     "formatted_time": "2024-06-09 07:19:49.699642",
     "filescores": {
-        "message.pass.cpp": 1.4589931491692786e-05
+        "message.pass.cpp": 0.048021865171644716
     },
     "subdirscores": {}
 }

@@ -1,22 +1,22 @@
 {
     "directory name": "llvm-project/clang/test/Analysis/html_diagnostics/relevant_lines",
-    "score.sum": 8.301107806501935e-06,
+    "score.sum": 0.00043169765516611487,
     "sha.latest": "1ea584377e7897f7df5302ed9cd378d17be14fbf",
     "time.latest": 1717832208.3675816,
     "formatted_time": "2024-06-08 13:06:48.367585",
     "filescores": {
-        "goto.c": 0,
-        "header.h": 0,
-        "macros_same_file.c": 0,
-        "multifile.c": 0,
-        "multiline_func_def.c": 0,
-        "notexecutedlines.c": 6.099602068851199e-06,
-        "objcmethods.m": 0,
-        "simple_conditional.c": 0,
-        "switch.c": 0,
-        "switch_default.c": 0,
-        "synthesized_body.cpp": 6.099602068851199e-06,
-        "unused_header.c": 0
+        "goto.c": 0.0,
+        "header.h": 0.0,
+        "macros_same_file.c": 0.0,
+        "multifile.c": 0.0,
+        "multiline_func_def.c": 0.0,
+        "notexecutedlines.c": 0.02007646631636598,
+        "objcmethods.m": 0.0,
+        "simple_conditional.c": 0.0,
+        "switch.c": 0.0,
+        "switch_default.c": 0.0,
+        "synthesized_body.cpp": 0.02007646631636598,
+        "unused_header.c": 0.0
     },
     "subdirscores": {}
 }

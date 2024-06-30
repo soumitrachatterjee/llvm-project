@@ -1,30 +1,30 @@
 {
     "directory name": "llvm-project/clang/lib/Analysis/FlowSensitive",
-    "score.sum": 0.0013301039604999548,
+    "score.sum": 0.06917182311802317,
     "sha.latest": "2d539db246fd9d26201255b84d04dacf2782eddf",
     "time.latest": 1717804110.4039388,
     "formatted_time": "2024-06-08 05:18:30.403941",
     "filescores": {
-        "Arena.cpp": 4.171525340746721e-05,
-        "CMakeLists.txt": 8.15669272013065e-05,
-        "ControlFlowContext.cpp": 6.855245753640102e-05,
-        "DataflowAnalysisContext.cpp": 0.00021119650001949158,
-        "DataflowEnvironment.cpp": 0.0004892183827801638,
-        "DebugSupport.cpp": 6.0941351879131354e-05,
-        "Formula.cpp": 2.0174705966779556e-05,
-        "HTMLLogger.cpp": 7.274871924978442e-05,
-        "HTMLLogger.css": 2.370865815182645e-05,
-        "HTMLLogger.html": 2.721066188854599e-05,
-        "HTMLLogger.js": 6.099602068851199e-06,
-        "Logger.cpp": 1.057376370626477e-05,
-        "RecordOps.cpp": 2.0987964331338748e-05,
-        "SimplifyConstraints.cpp": 6.104577790596234e-06,
-        "Transfer.cpp": 0.00038170148965558666,
-        "TypeErasedDataflowAnalysis.cpp": 0.00030280724276070996,
-        "Value.cpp": 2.1444570889739938e-05,
-        "WatchedLiteralsSolver.cpp": 7.837131189983556e-05
+        "Arena.cpp": 0.13730319953009995,
+        "CMakeLists.txt": 0.268472540995601,
+        "ControlFlowContext.cpp": 0.2256362118542063,
+        "DataflowAnalysisContext.cpp": 0.6951403338962877,
+        "DataflowEnvironment.cpp": 1.6102323188245022,
+        "DebugSupport.cpp": 0.20058472412867073,
+        "Formula.cpp": 0.06640380802102427,
+        "HTMLLogger.cpp": 0.23944795006146039,
+        "HTMLLogger.css": 0.0780355950139919,
+        "HTMLLogger.html": 0.08956222564766528,
+        "HTMLLogger.js": 0.02007646631636598,
+        "Logger.cpp": 0.03480289508886263,
+        "RecordOps.cpp": 0.06908059807687959,
+        "SimplifyConstraints.cpp": 0.020092843599488094,
+        "Transfer.cpp": 1.2563470556728296,
+        "TypeErasedDataflowAnalysis.cpp": 0.9966714780759504,
+        "Value.cpp": 0.07058349057479951,
+        "WatchedLiteralsSolver.cpp": 0.2579543691155576
     },
     "subdirscores": {
-        "Models": 0.00018105296238496852
+        "Models": 0.009415627545669254
     }
 }

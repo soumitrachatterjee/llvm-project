@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/lldb/test/Shell/SymbolFile/OnDemand",
-    "score.sum": 6.099602068851199e-06,
+    "score.sum": 0.00031720873550238375,
     "sha.latest": "d738d4717f6da88494683da62648f91f04f7c8ce",
     "time.latest": 1717983136.235519,
     "formatted_time": "2024-06-10 07:02:16.235522",
     "filescores": {
-        "source-breakpoint.test": 6.099602068851199e-06,
-        "symbolic-breakpoint.test": 6.099602068851199e-06
+        "source-breakpoint.test": 0.02007646631636598,
+        "symbolic-breakpoint.test": 0.02007646631636598
     },
     "subdirscores": {
-        "Inputs": 0
+        "Inputs": 0.0
     }
 }

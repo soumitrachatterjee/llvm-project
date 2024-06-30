@@ -1,15 +1,15 @@
 {
     "directory name": "llvm-project/lldb/test/API/commands/target/dump-separate-debug-info/oso",
-    "score.sum": 9.378843473801494e-06,
+    "score.sum": 0.0004877451094706705,
     "sha.latest": "69a5869da4906f61caf59ff021559ca7d974c5f9",
     "time.latest": 1717898605.656164,
     "formatted_time": "2024-06-09 07:33:25.656166",
     "filescores": {
-        "foo.cpp": 0,
-        "foo.h": 0,
-        "main.cpp": 0,
-        "Makefile": 0,
-        "TestDumpOso.py": 9.378843473801494e-06
+        "foo.cpp": 0.0,
+        "foo.h": 0.0,
+        "main.cpp": 0.0,
+        "Makefile": 0.0,
+        "TestDumpOso.py": 0.03086988838990081
     },
     "subdirscores": {}
 }

@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/llvm/tools/bugpoint-passes",
-    "score.sum": 8.091075867147881e-05,
+    "score.sum": 0.004207749810071167,
     "sha.latest": "50ed0ba285bf07632ddee0dec743c26b0442c4cc",
     "time.latest": 1718077541.5552878,
     "formatted_time": "2024-06-10 22:45:41.555293",
     "filescores": {
-        "CMakeLists.txt": 3.5692870194516234e-05,
-        "TestPasses.cpp": 4.354965793461024e-05,
-        "bugpoint.exports": 1.2147994793451555e-05
+        "CMakeLists.txt": 0.11748089434457003,
+        "TestPasses.cpp": 0.1433410295859076,
+        "bugpoint.exports": 0.03998438021515944
     },
     "subdirscores": {}
 }

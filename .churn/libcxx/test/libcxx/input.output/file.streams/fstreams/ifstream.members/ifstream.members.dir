@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/libcxx/test/libcxx/input.output/file.streams/fstreams/ifstream.members",
-    "score.sum": 1.3279312003001613e-05,
+    "score.sum": 0.0006905882910501272,
     "sha.latest": "bc8f007fe045139dde244b2374b851f93cc7ed3c",
     "time.latest": 1717850776.7353578,
     "formatted_time": "2024-06-08 18:16:16.735361",
     "filescores": {
-        "open_wchar_pointer.pass.cpp": 1.3279312003001613e-05,
-        "test.dat": 0
+        "open_wchar_pointer.pass.cpp": 0.04370804146293894,
+        "test.dat": 0.0
     },
     "subdirscores": {}
 }

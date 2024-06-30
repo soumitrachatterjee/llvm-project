@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/libcxx/test/std/utilities/memory/allocator.uses/allocator.uses.trait",
-    "score.sum": 2.2886403361935986e-05,
+    "score.sum": 0.0011902033917442956,
     "sha.latest": "43562287a816c74be390478d32adc0cb4c4abca4",
     "time.latest": 1717998070.2550652,
     "formatted_time": "2024-06-10 11:11:10.255097",
     "filescores": {
-        "uses_allocator.pass.cpp": 2.2886403361935986e-05
+        "uses_allocator.pass.cpp": 0.07532919377562136
     },
     "subdirscores": {}
 }

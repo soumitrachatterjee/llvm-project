@@ -1,23 +1,23 @@
 {
     "directory name": "llvm-project/mlir/lib/Analysis",
-    "score.sum": 0.0021484664780154865,
+    "score.sum": 0.11173062227138184,
     "sha.latest": "1837579bbc9c5e0b49a54e60d99eed3d38b47d3b",
     "time.latest": 1717801346.1978035,
     "formatted_time": "2024-06-07 18:02:26.197807",
     "filescores": {
-        "AliasAnalysis.cpp": 6.758919739670745e-06,
-        "CFGLoopInfo.cpp": 9.01138405039755e-06,
-        "CMakeLists.txt": 0.0002080657369709353,
-        "CallGraph.cpp": 2.732325494155857e-05,
-        "DataFlowFramework.cpp": 2.0711452250494824e-05,
-        "DataLayoutAnalysis.cpp": 6.099602068851199e-06,
-        "FlatLinearValueConstraints.cpp": 4.230704007179316e-05,
-        "Liveness.cpp": 3.72352519503787e-05,
-        "SliceAnalysis.cpp": 0.00012270205874736063
+        "AliasAnalysis.cpp": 0.022246570015030134,
+        "CFGLoopInfo.cpp": 0.029660418222285437,
+        "CMakeLists.txt": 0.6848356192314011,
+        "CallGraph.cpp": 0.08993281877993,
+        "DataFlowFramework.cpp": 0.06817047551241256,
+        "DataLayoutAnalysis.cpp": 0.02007646631636598,
+        "FlatLinearValueConstraints.cpp": 0.13925102906040437,
+        "Liveness.cpp": 0.12255754934911234,
+        "SliceAnalysis.cpp": 0.4038663049791553
     },
     "subdirscores": {
-        "AliasAnalysis": 7.984052779002166e-05,
-        "DataFlow": 0.00017177828031347288,
-        "Presburger": 0.0009120368440222816
+        "AliasAnalysis": 0.004152092640837738,
+        "DataFlow": 0.008933299331651866,
+        "Presburger": 0.0474303160695171
     }
 }

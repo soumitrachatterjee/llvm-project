@@ -1,17 +1,17 @@
 {
     "directory name": "llvm-project/compiler-rt/cmake",
-    "score.sum": 0.004034677574505137,
+    "score.sum": 0.20982269943548032,
     "sha.latest": "57a2229a2f62746d5616f0bd82a03b23eb459cf3",
     "time.latest": 1717788161.8998284,
     "formatted_time": "2024-06-08 00:52:41.899835",
     "filescores": {
-        "base-config-ix.cmake": 0.00020078217788389193,
-        "builtin-config-ix.cmake": 0.0002771305402299618,
-        "config-ix.cmake": 0.0012918518515105716,
-        "crt-config-ix.cmake": 1.5211545468278182e-05
+        "base-config-ix.cmake": 0.6608622309638238,
+        "builtin-config-ix.cmake": 0.9121581856258736,
+        "config-ix.cmake": 4.252051181343995,
+        "crt-config-ix.cmake": 0.050067869471897286
     },
     "subdirscores": {
-        "caches": 6.099602068851199e-06,
-        "Modules": 0.0021306268466773732
+        "caches": 0.00031720873550238375,
+        "Modules": 0.11080287537335223
     }
 }

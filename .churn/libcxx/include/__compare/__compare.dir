@@ -1,23 +1,23 @@
 {
     "directory name": "llvm-project/libcxx/include/__compare",
-    "score.sum": 7.967431017549276e-05,
+    "score.sum": 0.004143448522954674,
     "sha.latest": "1b5f6916199ce09244cdb52c6911f2028e6ca95a",
     "time.latest": 1717832096.159566,
     "formatted_time": "2024-06-08 13:04:56.159570",
     "filescores": {
-        "common_comparison_category.h": 2.663823141224345e-05,
-        "compare_partial_order_fallback.h": 1.9449630095077784e-05,
-        "compare_strong_order_fallback.h": 1.9449630095077784e-05,
-        "compare_three_way.h": 2.192449627204748e-05,
-        "compare_three_way_result.h": 2.3759748351960736e-05,
-        "compare_weak_order_fallback.h": 1.9449630095077784e-05,
-        "is_eq.h": 1.1307252951730974e-05,
-        "ordering.h": 4.023243383626904e-05,
-        "partial_order.h": 2.574634225575346e-05,
-        "strong_order.h": 3.0303268933711622e-05,
-        "synth_three_way.h": 2.8547635423592314e-05,
-        "three_way_comparable.h": 2.260899630404005e-05,
-        "weak_order.h": 3.0303268933711622e-05
+        "common_comparison_category.h": 0.08767810582374475,
+        "compare_partial_order_fallback.h": 0.06401726523500086,
+        "compare_strong_order_fallback.h": 0.06401726523500086,
+        "compare_three_way.h": 0.0721631355522105,
+        "compare_three_way_result.h": 0.07820375527600808,
+        "compare_weak_order_fallback.h": 0.06401726523500086,
+        "is_eq.h": 0.0372171299789089,
+        "ordering.h": 0.1324225898053388,
+        "partial_order.h": 0.08474250733615754,
+        "strong_order.h": 0.09974135216627728,
+        "synth_three_way.h": 0.09396279208449936,
+        "three_way_comparable.h": 0.07441612544904791,
+        "weak_order.h": 0.09974135216627728
     },
     "subdirscores": {}
 }

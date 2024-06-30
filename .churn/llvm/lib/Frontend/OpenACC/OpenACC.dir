@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/llvm/lib/Frontend/OpenACC",
-    "score.sum": 1.82093876908345e-05,
+    "score.sum": 0.0009469760122843836,
     "sha.latest": "d709dcc0909716ce23c30d9884712766aec6a628",
     "time.latest": 1717838145.379791,
     "formatted_time": "2024-06-08 04:15:45.379794",
     "filescores": {
-        "ACC.cpp": 0,
-        "CMakeLists.txt": 1.82093876908345e-05
+        "ACC.cpp": 0.0,
+        "CMakeLists.txt": 0.05993508338578252
     },
     "subdirscores": {}
 }

@@ -1,15 +1,15 @@
 {
     "directory name": "llvm-project/libcxx/test/std/containers/views/views.span/span.iterators",
-    "score.sum": 1.1172929860020365e-05,
+    "score.sum": 0.0005810462572391041,
     "sha.latest": "80643d9366f4b5297ddc6627bb792f642ba1b0a5",
     "time.latest": 1717894668.8267038,
     "formatted_time": "2024-06-09 06:27:48.826705",
     "filescores": {
-        "begin.pass.cpp": 0,
-        "end.pass.cpp": 6.099602068851199e-06,
-        "iterator_concept_conformance.compile.pass.cpp": 6.099602068851199e-06,
-        "rbegin.pass.cpp": 0,
-        "rend.pass.cpp": 6.099602068851199e-06
+        "begin.pass.cpp": 0.0,
+        "end.pass.cpp": 0.02007646631636598,
+        "iterator_concept_conformance.compile.pass.cpp": 0.02007646631636598,
+        "rbegin.pass.cpp": 0.0,
+        "rend.pass.cpp": 0.02007646631636598
     },
     "subdirscores": {}
 }

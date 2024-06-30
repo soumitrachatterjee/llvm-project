@@ -1,25 +1,25 @@
 {
     "directory name": "llvm-project/clang-tools-extra/test/clang-apply-replacements",
-    "score.sum": 6.529856694014436e-05,
+    "score.sum": 0.00339584051801958,
     "sha.latest": "95403b42da0de500f4f86add7a60b0daf8ec98d0",
     "time.latest": 1717816755.5655632,
     "formatted_time": "2024-06-08 08:49:15.565565",
     "filescores": {
-        "basic.cpp": 0,
-        "ClangRenameClassReplacements.cpp": 0,
-        "conflict.cpp": 0,
-        "crlf.cpp": 6.099602068851199e-06,
-        "format-header.cpp": 0,
-        "format.cpp": 0,
-        "identical-in-TU.cpp": 0,
-        "identical.cpp": 6.099602068851199e-06,
-        "ignore-conflict.cpp": 0,
-        "invalid-files.cpp": 6.099602068851199e-06,
-        "order-dependent.cpp": 0,
-        "relative-paths.cpp": 0,
-        "yml-basic.cpp": 0
+        "basic.cpp": 0.0,
+        "ClangRenameClassReplacements.cpp": 0.0,
+        "conflict.cpp": 0.0,
+        "crlf.cpp": 0.02007646631636598,
+        "format-header.cpp": 0.0,
+        "format.cpp": 0.0,
+        "identical-in-TU.cpp": 0.0,
+        "identical.cpp": 0.02007646631636598,
+        "ignore-conflict.cpp": 0.0,
+        "invalid-files.cpp": 0.02007646631636598,
+        "order-dependent.cpp": 0.0,
+        "relative-paths.cpp": 0.0,
+        "yml-basic.cpp": 0.0
     },
     "subdirscores": {
-        "Inputs": 5.8240660843054735e-05
+        "Inputs": 0.003028795349649436
     }
 }

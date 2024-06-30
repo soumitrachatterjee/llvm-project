@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/libcxx/test/std/utilities/function.objects/func.identity",
-    "score.sum": 1.0058815074352478e-05,
+    "score.sum": 0.0005231069132660012,
     "sha.latest": "7afa1598a38103f9b940f219d7c2bef578139e94",
     "time.latest": 1717995923.5181844,
     "formatted_time": "2024-06-10 10:35:23.518186",
     "filescores": {
-        "identity.pass.cpp": 1.0058815074352478e-05
+        "identity.pass.cpp": 0.033107973232231906
     },
     "subdirscores": {}
 }

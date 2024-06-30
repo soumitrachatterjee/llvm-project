@@ -1,23 +1,23 @@
 {
     "directory name": "llvm-project/libcxx/test/std/input.output/string.streams/stringbuf/stringbuf.cons",
-    "score.sum": 4.65477162403937e-05,
+    "score.sum": 0.0024207058169484767,
     "sha.latest": "80f9458cf30d13eef21b09042ea590945c5e64db",
     "time.latest": 1717910231.9296515,
     "formatted_time": "2024-06-09 10:47:11.929653",
     "filescores": {
-        "alloc.pass.cpp": 0,
-        "default.pass.cpp": 2.5549876353170667e-05,
-        "mode.alloc.pass.cpp": 0,
-        "move.alloc.pass.cpp": 6.099602068851199e-06,
-        "move.pass.cpp": 2.4055411969909357e-05,
-        "string-alloc.mode.pass.cpp": 0,
-        "string.alloc.pass.cpp": 0,
-        "string.mode.alloc.pass.cpp": 0,
-        "string.move.mode.pass.cpp": 6.099602068851199e-06,
-        "string.pass.cpp": 1.7431479621988335e-05,
-        "string_view.alloc.pass.cpp": 0,
-        "string_view.mode.alloc.pass.cpp": 0,
-        "string_view.mode.pass.cpp": 0
+        "alloc.pass.cpp": 0.0,
+        "default.pass.cpp": 0.08409585186076834,
+        "mode.alloc.pass.cpp": 0.0,
+        "move.alloc.pass.cpp": 0.02007646631636598,
+        "move.pass.cpp": 0.07917691395090479,
+        "string-alloc.mode.pass.cpp": 0.0,
+        "string.alloc.pass.cpp": 0.0,
+        "string.mode.alloc.pass.cpp": 0.0,
+        "string.move.mode.pass.cpp": 0.02007646631636598,
+        "string.pass.cpp": 0.05737464666136505,
+        "string_view.alloc.pass.cpp": 0.0,
+        "string_view.mode.alloc.pass.cpp": 0.0,
+        "string_view.mode.pass.cpp": 0.0
     },
     "subdirscores": {}
 }

@@ -1,16 +1,16 @@
 {
     "directory name": "llvm-project/clang-tools-extra/clang-tidy/openmp",
-    "score.sum": 3.8053442875910034e-05,
+    "score.sum": 0.0019789626208276652,
     "sha.latest": "df0c8f25145047731fb95b4ce7153ce6fb5b6f5d",
     "time.latest": 1717798752.8309417,
     "formatted_time": "2024-06-08 03:49:12.830944",
     "filescores": {
-        "CMakeLists.txt": 2.937080989646051e-05,
-        "ExceptionEscapeCheck.cpp": 7.810261897597321e-06,
-        "ExceptionEscapeCheck.h": 1.4767210139466784e-05,
-        "OpenMPTidyModule.cpp": 6.099603841426908e-06,
-        "UseDefaultNoneCheck.cpp": 1.6198554858210924e-05,
-        "UseDefaultNoneCheck.h": 1.476721117230284e-05
+        "CMakeLists.txt": 0.0966722204030164,
+        "ExceptionEscapeCheck.cpp": 0.025706998282699695,
+        "ExceptionEscapeCheck.h": 0.04860536697397064,
+        "OpenMPTidyModule.cpp": 0.020076472150690267,
+        "UseDefaultNoneCheck.cpp": 0.05331655037718358,
+        "UseDefaultNoneCheck.h": 0.04860537037348721
     },
     "subdirscores": {}
 }

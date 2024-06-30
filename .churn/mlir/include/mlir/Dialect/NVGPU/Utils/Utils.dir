@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/mlir/include/mlir/Dialect/NVGPU/Utils",
-    "score.sum": 1.1433463361898403e-05,
+    "score.sum": 0.0005945952562973829,
     "sha.latest": "cafb6284d18bbdb952ae6d5e4aa97912d57dbfb8",
     "time.latest": 1717795953.0070672,
     "formatted_time": "2024-06-07 16:32:33.007071",
     "filescores": {
-        "MMAUtils.h": 1.1433463361898403e-05
+        "MMAUtils.h": 0.037632543807532365
     },
     "subdirscores": {}
 }

@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/libc/src/__support/OSUtil/linux/riscv",
-    "score.sum": 0,
+    "score.sum": 0.0,
     "sha.latest": "e3087c4b8cee20094c1a72b94b0a7f5f543cf37d",
     "time.latest": 1717829222.0045383,
     "formatted_time": "2024-06-08 01:47:02.004543",
     "filescores": {
-        "CMakeLists.txt": 0,
-        "syscall.h": 0
+        "CMakeLists.txt": 0.0,
+        "syscall.h": 0.0
     },
     "subdirscores": {}
 }

@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/lldb/source/Plugins/InstrumentationRuntime/Utility",
-    "score.sum": 0,
+    "score.sum": 0.0,
     "sha.latest": "77edd9b77317d008b86a2543fbafdc0c3e8a3759",
     "time.latest": 1717870023.9428349,
     "formatted_time": "2024-06-08 23:37:03.942837",
     "filescores": {
-        "CMakeLists.txt": 0,
-        "ReportRetriever.cpp": 0,
-        "ReportRetriever.h": 0
+        "CMakeLists.txt": 0.0,
+        "ReportRetriever.cpp": 0.0,
+        "ReportRetriever.h": 0.0
     },
     "subdirscores": {}
 }

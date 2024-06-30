@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/mlir/lib/Dialect/ArmSVE/Transforms",
-    "score.sum": 5.503866117326739e-05,
+    "score.sum": 0.0028622759185673373,
     "sha.latest": "7dcca6213258bf2df2dd8a7d555c9a12c1484759",
     "time.latest": 1717805384.1077154,
     "formatted_time": "2024-06-07 19:09:44.107719",
     "filescores": {
-        "CMakeLists.txt": 1.9443817455148114e-05,
-        "LegalizeForLLVMExport.cpp": 3.952554440156012e-05,
-        "LegalizeVectorStorage.cpp": 1.2132701718397582e-05
+        "CMakeLists.txt": 0.06399813328697541,
+        "LegalizeForLLVMExport.cpp": 0.13009590656188558,
+        "LegalizeVectorStorage.cpp": 0.03993404399605382
     },
     "subdirscores": {}
 }

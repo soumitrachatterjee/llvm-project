@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/lldb/test/API/functionalities/data-formatter/setvaluefromcstring",
-    "score.sum": 7.51670017482906e-06,
+    "score.sum": 0.0003909046738941029,
     "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
     "time.latest": 1717908387.4929974,
     "formatted_time": "2024-06-09 10:16:27.492999",
     "filescores": {
-        "main.m": 6.099602068851199e-06,
-        "TestSetValueFromCString.py": 7.473150048880439e-06
+        "main.m": 0.02007646631636598,
+        "TestSetValueFromCString.py": 0.024597415296921894
     },
     "subdirscores": {}
 }

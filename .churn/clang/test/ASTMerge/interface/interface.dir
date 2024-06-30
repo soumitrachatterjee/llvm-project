@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/clang/test/ASTMerge/interface",
-    "score.sum": 2.0587818867497503e-05,
+    "score.sum": 0.0010706659083649017,
     "sha.latest": "2423b7dfd3d2b10cffd4b93e904963763bc0a1f4",
     "time.latest": 1717865909.0587611,
     "formatted_time": "2024-06-08 22:28:29.058763",
     "filescores": {
-        "test.m": 1.777741988406308e-05
+        "test.m": 0.05851328782854638
     },
     "subdirscores": {
-        "Inputs": 1.4488344452347898e-05
+        "Inputs": 0.0007534638114708742
     }
 }

@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/libcxx/test/std/utilities/format/format.arguments/format.arg.store",
-    "score.sum": 3.621438159248242e-05,
+    "score.sum": 0.0018833225614200953,
     "sha.latest": "e3f154d8733928fa725584736a18b75832db30db",
     "time.latest": 1717993977.2208886,
     "formatted_time": "2024-06-10 10:02:57.220890",
     "filescores": {
-        "make_format_args.pass.cpp": 2.3278760192855886e-05,
-        "make_format_args.sh.cpp": 2.6607867319017365e-05,
-        "make_wformat_args.pass.cpp": 2.555120091589661e-05
+        "make_format_args.pass.cpp": 0.07662061223391484,
+        "make_format_args.sh.cpp": 0.08757816427214853,
+        "make_wformat_args.pass.cpp": 0.08410021157778778
     },
     "subdirscores": {}
 }

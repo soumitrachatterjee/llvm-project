@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/lldb/test/Shell/lldb-server",
-    "score.sum": 1.1765615288629224e-05,
+    "score.sum": 0.0006118687589756991,
     "sha.latest": "0cfa50154a47eb65de5bc687f6565625f556edc8",
     "time.latest": 1717973223.1059198,
     "formatted_time": "2024-06-10 04:17:03.105921",
     "filescores": {
-        "lit.local.cfg": 0,
-        "TestErrorMessages.test": 1.2582065116980988e-05,
-        "TestGdbserverPort.test": 1.2195611082572049e-05
+        "lit.local.cfg": 0.0,
+        "TestErrorMessages.test": 0.041413096077424535,
+        "TestGdbserverPort.test": 0.04014110631201742
     },
     "subdirscores": {}
 }

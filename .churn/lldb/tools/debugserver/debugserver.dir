@@ -1,16 +1,16 @@
 {
     "directory name": "llvm-project/lldb/tools/debugserver",
-    "score.sum": 0.002253419028739416,
+    "score.sum": 0.11718866125935103,
     "sha.latest": "4551f53523074cd4e2f93a6f79313ca2cdcc40d2",
     "time.latest": 1717988262.680371,
     "formatted_time": "2024-06-10 08:27:42.680373",
     "filescores": {
-        "CMakeLists.txt": 0.00011395277893388294
+        "CMakeLists.txt": 0.37506858678623256
     },
     "subdirscores": {
-        "debugserver.xcodeproj": 0.0003048615704640396,
-        "resources": 1.726638293129799e-05,
-        "scripts": 2.6061203556673084e-05,
-        "source": 0.00195623105329431
+        "debugserver.xcodeproj": 0.01585427248836616,
+        "resources": 0.0008979352152014282,
+        "scripts": 0.0013553083188981665,
+        "source": 0.10173345273372168
     }
 }

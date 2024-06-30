@@ -1,25 +1,25 @@
 {
     "directory name": "llvm-project/mlir/test/tblgen-lsp-server",
-    "score.sum": 1.1333137613541696e-05,
+    "score.sum": 0.0005893778333548147,
     "sha.latest": "f9008e6366c2496b1ca1785b891d5578174ad63e",
     "time.latest": 1717834997.1645367,
     "formatted_time": "2024-06-08 03:23:17.164540",
     "filescores": {
-        "compilation_database.test": 0,
-        "definition.test": 6.099602068851199e-06,
-        "diagnostics.test": 0,
-        "document-links.test": 0,
-        "exit-eof.test": 0,
-        "exit-with-shutdown.test": 0,
-        "exit-without-shutdown.test": 0,
-        "hover.test": 6.099602068851199e-06,
-        "initialize-params-invalid.test": 0,
-        "initialize-params.test": 1.2114293173209365e-05,
-        "lit.local.cfg": 6.099602068851199e-06,
-        "references.test": 0,
-        "textdocument-didchange.test": 0
+        "compilation_database.test": 0.0,
+        "definition.test": 0.02007646631636598,
+        "diagnostics.test": 0.0,
+        "document-links.test": 0.0,
+        "exit-eof.test": 0.0,
+        "exit-with-shutdown.test": 0.0,
+        "exit-without-shutdown.test": 0.0,
+        "hover.test": 0.02007646631636598,
+        "initialize-params-invalid.test": 0.0,
+        "initialize-params.test": 0.03987345339797336,
+        "lit.local.cfg": 0.02007646631636598,
+        "references.test": 0.0,
+        "textdocument-didchange.test": 0.0
     },
     "subdirscores": {
-        "include": 6.099602068851199e-06
+        "include": 0.00031720873550238375
     }
 }

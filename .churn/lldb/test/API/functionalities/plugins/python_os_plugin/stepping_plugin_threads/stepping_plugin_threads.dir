@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/lldb/test/API/functionalities/plugins/python_os_plugin/stepping_plugin_threads",
-    "score.sum": 2.4221899318728798e-05,
+    "score.sum": 0.00125965562468358,
     "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
     "time.latest": 1717914495.0170567,
     "formatted_time": "2024-06-09 11:58:15.017059",
     "filescores": {
-        "main.cpp": 0,
-        "Makefile": 0,
-        "operating_system.py": 6.65224875640444e-06,
-        "TestOSPluginStepping.py": 2.3669252631175555e-05
+        "main.cpp": 0.0,
+        "Makefile": 0.0,
+        "operating_system.py": 0.0218954690123244,
+        "TestOSPluginStepping.py": 0.07790589415824814
     },
     "subdirscores": {}
 }

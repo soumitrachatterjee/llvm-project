@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/clang-tools-extra/clang-tidy/zircon",
-    "score.sum": 4.760180090287295e-05,
+    "score.sum": 0.002475523304896584,
     "sha.latest": "2fb1c1082c01ddf9b2531083196ff2dace1fdab7",
     "time.latest": 1717800980.027884,
     "formatted_time": "2024-06-08 04:26:20.027886",
     "filescores": {
-        "CMakeLists.txt": 1.3573199075945299e-05,
-        "TemporaryObjectsCheck.cpp": 2.512232322909786e-05,
-        "TemporaryObjectsCheck.h": 1.9004664177157005e-05,
-        "ZirconTidyModule.cpp": 7.171134337691169e-06
+        "CMakeLists.txt": 0.044675352748850504,
+        "TemporaryObjectsCheck.cpp": 0.08268858696102359,
+        "TemporaryObjectsCheck.h": 0.06255268719167452,
+        "ZirconTidyModule.cpp": 0.023603349096494055
     },
     "subdirscores": {}
 }

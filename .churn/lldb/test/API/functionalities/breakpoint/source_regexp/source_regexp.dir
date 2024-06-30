@@ -1,15 +1,15 @@
 {
     "directory name": "llvm-project/lldb/test/API/functionalities/breakpoint/source_regexp",
-    "score.sum": 1.6150926542448413e-05,
+    "score.sum": 0.0008399261013902267,
     "sha.latest": "80fcecb13c388ff087a27a4b0e7ca3dd8c98eaa4",
     "time.latest": 1717903909.812629,
     "formatted_time": "2024-06-09 09:01:49.812631",
     "filescores": {
-        "a.c": 0,
-        "a.h": 0,
-        "main.c": 0,
-        "Makefile": 0,
-        "TestSourceRegexBreakpoints.py": 1.6150926542448413e-05
+        "a.c": 0.0,
+        "a.h": 0.0,
+        "main.c": 0.0,
+        "Makefile": 0.0,
+        "TestSourceRegexBreakpoints.py": 0.0531597846953706
     },
     "subdirscores": {}
 }

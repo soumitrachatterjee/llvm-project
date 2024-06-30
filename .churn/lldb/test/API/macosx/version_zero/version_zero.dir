@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/lldb/test/API/macosx/version_zero",
-    "score.sum": 2.1561180049429507e-05,
+    "score.sum": 0.001121285385868933,
     "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
     "time.latest": 1717964462.8654962,
     "formatted_time": "2024-06-10 01:51:02.865500",
     "filescores": {
-        "libDylib.dylib.yaml": 6.099602068851199e-06,
-        "TestGetVersionZeroVersion.py": 1.886025291739666e-05
+        "libDylib.dylib.yaml": 0.02007646631636598,
+        "TestGetVersionZeroVersion.py": 0.0620773663822912
     },
     "subdirscores": {}
 }

@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/clang/utils/ABITest/return-types-64",
-    "score.sum": 1.2184096775073705e-05,
+    "score.sum": 0.0006336318152616338,
     "sha.latest": "2e4c67299e46108b3c1c80b323a3e7e46132893e",
     "time.latest": 1718081475.3397312,
     "formatted_time": "2024-06-11 10:21:15.339734",
     "filescores": {
-        "Makefile": 1.2184096775073705e-05
+        "Makefile": 0.04010320767469036
     },
     "subdirscores": {}
 }

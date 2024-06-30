@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/libcxx/test/std/containers/sequences/forwardlist/forwardlist.erasure",
-    "score.sum": 1.1746257905290978e-05,
+    "score.sum": 0.0006108620816511706,
     "sha.latest": "fb855eb941b6d740cc6560297d0b4d3201dcaf9f",
     "time.latest": 1717884970.6841135,
     "formatted_time": "2024-06-09 03:46:10.684115",
     "filescores": {
-        "erase.pass.cpp": 1.1746257905290978e-05,
-        "erase_if.pass.cpp": 1.1746257905290978e-05
+        "erase.pass.cpp": 0.03866208787343679,
+        "erase_if.pass.cpp": 0.03866208787343679
     },
     "subdirscores": {}
 }

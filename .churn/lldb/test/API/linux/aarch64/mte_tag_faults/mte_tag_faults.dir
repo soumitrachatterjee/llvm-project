@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/lldb/test/API/linux/aarch64/mte_tag_faults",
-    "score.sum": 9.06496107351899e-06,
+    "score.sum": 0.0004714217103101712,
     "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
     "time.latest": 1717960878.1059353,
     "formatted_time": "2024-06-10 00:51:18.105940",
     "filescores": {
-        "main.c": 0,
-        "Makefile": 0,
-        "TestAArch64LinuxMTEMemoryTagFaults.py": 9.06496107351899e-06
+        "main.c": 0.0,
+        "Makefile": 0.0,
+        "TestAArch64LinuxMTEMemoryTagFaults.py": 0.029836763709726613
     },
     "subdirscores": {}
 }

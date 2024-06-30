@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/lldb/test/API/functionalities/tty",
-    "score.sum": 2.3600793686833223e-05,
+    "score.sum": 0.0012273551352609787,
     "sha.latest": "5b386158aacac4b41126983a5379d36ed413d0ea",
     "time.latest": 1717923556.7737117,
     "formatted_time": "2024-06-09 14:29:16.773713",
     "filescores": {
-        "main.c": 0,
-        "Makefile": 0,
-        "TestTerminal.py": 2.3600793686833223e-05
+        "main.c": 0.0,
+        "Makefile": 0.0,
+        "TestTerminal.py": 0.07768056573934004
     },
     "subdirscores": {}
 }

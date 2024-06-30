@@ -1,19 +1,19 @@
 {
     "directory name": "llvm-project/clang/include/clang/ExtractAPI",
-    "score.sum": 0.00017657692184059007,
+    "score.sum": 0.009182851842416353,
     "sha.latest": "e606dc1dafead794f92a677fd92b2ea8e5a3fb4f",
     "time.latest": 1717799440.8066041,
     "formatted_time": "2024-06-08 04:00:40.806607",
     "filescores": {
-        "API.h": 7.866264792945045e-05,
-        "APIIgnoresList.h": 6.099602068851199e-06,
-        "DeclarationFragments.h": 7.640687197986733e-05,
-        "ExtractAPIActionBase.h": 0,
-        "ExtractAPIVisitor.h": 8.092660712944882e-05,
-        "FrontendActions.h": 1.092793996857542e-05,
-        "TypedefUnderlyingTypeResolver.h": 1.4183061394408601e-05
+        "API.h": 0.2589132837987262,
+        "APIIgnoresList.h": 0.02007646631636598,
+        "DeclarationFragments.h": 0.2514885355351721,
+        "ExtractAPIActionBase.h": 0.0,
+        "ExtractAPIVisitor.h": 0.26636496672940546,
+        "FrontendActions.h": 0.03596864454597032,
+        "TypedefUnderlyingTypeResolver.h": 0.04668267718674705
     },
     "subdirscores": {
-        "Serialization": 8.023735604418418e-05
+        "Serialization": 0.0041727296245776
     }
 }

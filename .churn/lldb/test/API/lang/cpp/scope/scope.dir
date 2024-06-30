@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/lldb/test/API/lang/cpp/scope",
-    "score.sum": 1.1076254430230357e-05,
+    "score.sum": 0.0005760186684732007,
     "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
     "time.latest": 1717934951.7543108,
     "formatted_time": "2024-06-09 17:39:11.754314",
     "filescores": {
-        "main.cpp": 6.099602068851199e-06,
-        "Makefile": 0,
-        "TestCppScope.py": 1.1076254430230357e-05
+        "main.cpp": 0.02007646631636598,
+        "Makefile": 0.0,
+        "TestCppScope.py": 0.03645681250513131
     },
     "subdirscores": {}
 }

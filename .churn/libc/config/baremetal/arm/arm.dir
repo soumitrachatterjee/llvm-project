@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/libc/config/baremetal/arm",
-    "score.sum": 6.587997570101735e-05,
+    "score.sum": 0.0034260765786289014,
     "sha.latest": "14171b87a3b5a403f39d78da964595175636a0ae",
     "time.latest": 1717824935.1303623,
     "formatted_time": "2024-06-08 00:35:35.130366",
     "filescores": {
-        "entrypoints.txt": 4.915125386574997e-05,
-        "headers.txt": 3.2009779147937e-05
+        "entrypoints.txt": 0.1617783392267643,
+        "headers.txt": 0.10535822593077894
     },
     "subdirscores": {}
 }

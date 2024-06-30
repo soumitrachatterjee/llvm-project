@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/lldb/test/Shell/Minidump/Inputs",
-    "score.sum": 9.446014329389945e-06,
+    "score.sum": 0.000491238318031379,
     "sha.latest": "fbf665a0086c8d88d62d60320bef4466c590132e",
     "time.latest": 1717973476.5109365,
     "formatted_time": "2024-06-10 04:21:16.510940",
     "filescores": {
-        "basic-elf.yaml": 6.099602068851199e-06,
-        "linux-x86_64.syms": 6.100824280873191e-06,
-        "linux-x86_64.yaml": 8.22683439832498e-06
+        "basic-elf.yaml": 0.02007646631636598,
+        "linux-x86_64.syms": 0.020080489152317242,
+        "linux-x86_64.yaml": 0.02707812113379387
     },
     "subdirscores": {}
 }

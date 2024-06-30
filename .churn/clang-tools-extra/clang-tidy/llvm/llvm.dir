@@ -1,22 +1,22 @@
 {
     "directory name": "llvm-project/clang-tools-extra/clang-tidy/llvm",
-    "score.sum": 0.0002638110246601146,
+    "score.sum": 0.013719446055566057,
     "sha.latest": "da95d926f6fce4ed9707c77908ad96624268f134",
     "time.latest": 1717796799.704324,
     "formatted_time": "2024-06-08 03:16:39.704327",
     "filescores": {
-        "CMakeLists.txt": 3.0151014326483772e-05,
-        "HeaderGuardCheck.cpp": 4.8047570137487415e-05,
-        "HeaderGuardCheck.h": 3.210806532575588e-05,
-        "IncludeOrderCheck.cpp": 9.672832592674966e-05,
-        "IncludeOrderCheck.h": 2.135101864031782e-05,
-        "LLVMTidyModule.cpp": 5.024681994816223e-05,
-        "PreferIsaOrDynCastInConditionalsCheck.cpp": 2.3812069515506075e-05,
-        "PreferIsaOrDynCastInConditionalsCheck.h": 1.3215648386806026e-05,
-        "PreferRegisterOverUnsignedCheck.cpp": 1.7715471601834355e-05,
-        "PreferRegisterOverUnsignedCheck.h": 1.1114044411307723e-05,
-        "TwineLocalCheck.cpp": 3.028844681233427e-05,
-        "TwineLocalCheck.h": 1.755456272597333e-05
+        "CMakeLists.txt": 0.099240215459486,
+        "HeaderGuardCheck.cpp": 0.15814563188876612,
+        "HeaderGuardCheck.h": 0.10568172886032606,
+        "IncludeOrderCheck.cpp": 0.3183753555373506,
+        "IncludeOrderCheck.h": 0.07027556908039011,
+        "LLVMTidyModule.cpp": 0.1653843278310414,
+        "PreferIsaOrDynCastInConditionalsCheck.cpp": 0.07837596717863618,
+        "PreferIsaOrDynCastInConditionalsCheck.h": 0.04349849657268194,
+        "PreferRegisterOverUnsignedCheck.cpp": 0.05830938885489482,
+        "PreferRegisterOverUnsignedCheck.h": 0.036581195911398134,
+        "TwineLocalCheck.cpp": 0.09969256606232976,
+        "TwineLocalCheck.h": 0.05777976715338658
     },
     "subdirscores": {}
 }

@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/clang/test/CXX/dcl.decl/dcl.meaning/dcl.array",
-    "score.sum": 5.812617624398231e-05,
+    "score.sum": 0.0030228415981593654,
     "sha.latest": "0f1c1be1968076d6f96f8a7bcc4a15cf195ecd97",
     "time.latest": 1718090171.4134722,
     "formatted_time": "2024-06-11 12:46:11.413475",
     "filescores": {
-        "cwg2397.cpp": 0,
-        "p1-cxx0x.cpp": 8.054477400086415e-06,
-        "p1.cpp": 1.1037582570826647e-05,
-        "p3.cpp": 4.128127268247399e-05
+        "cwg2397.cpp": 0.0,
+        "p1-cxx0x.cpp": 0.02651081863922667,
+        "p1.cpp": 0.03632952645041069,
+        "p3.cpp": 0.1358747785759246
     },
     "subdirscores": {}
 }

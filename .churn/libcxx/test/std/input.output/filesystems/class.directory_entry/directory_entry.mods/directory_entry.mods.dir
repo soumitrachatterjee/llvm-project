@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/libcxx/test/std/input.output/filesystems/class.directory_entry/directory_entry.mods",
-    "score.sum": 7.020304229995338e-05,
+    "score.sum": 0.003650896898686168,
     "sha.latest": "ac8c9f1e39e1a773fd81ce23dbf1c80ea186f226",
     "time.latest": 1717902442.4638903,
     "formatted_time": "2024-06-09 08:37:22.463892",
     "filescores": {
-        "assign.pass.cpp": 2.2795059641550817e-05,
-        "refresh.pass.cpp": 5.9039617161655455e-05,
-        "replace_filename.pass.cpp": 3.864987315782979e-05
+        "assign.pass.cpp": 0.0750285415191587,
+        "refresh.pass.cpp": 0.19432528087858683,
+        "replace_filename.pass.cpp": 0.12721368834002159
     },
     "subdirscores": {}
 }

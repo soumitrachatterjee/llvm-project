@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/lldb/examples/scripting",
-    "score.sum": 2.23431947825613e-05,
+    "score.sum": 0.001161953924872116,
     "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
     "time.latest": 1717842210.1618547,
     "formatted_time": "2024-06-08 15:53:30.161860",
     "filescores": {
-        "dictionary.c": 1.0307445370501409e-05,
-        "tree_utils.py": 2.23431947825613e-05
+        "dictionary.c": 0.03392632461147233,
+        "tree_utils.py": 0.07354125603419574
     },
     "subdirscores": {}
 }

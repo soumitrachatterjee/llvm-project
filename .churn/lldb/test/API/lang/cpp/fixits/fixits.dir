@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/lldb/test/API/lang/cpp/fixits",
-    "score.sum": 0,
+    "score.sum": 0.0,
     "sha.latest": "8e2bd05c4e86834a318ef2279e271f0769be4988",
     "time.latest": 1717931211.6448262,
     "formatted_time": "2024-06-09 16:36:51.644828",
     "filescores": {
-        "main.cpp": 0,
-        "Makefile": 0,
-        "TestCppFixIts.py": 0
+        "main.cpp": 0.0,
+        "Makefile": 0.0,
+        "TestCppFixIts.py": 0.0
     },
     "subdirscores": {}
 }

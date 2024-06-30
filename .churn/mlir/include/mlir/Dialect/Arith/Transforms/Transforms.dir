@@ -1,18 +1,18 @@
 {
     "directory name": "llvm-project/mlir/include/mlir/Dialect/Arith/Transforms",
-    "score.sum": 7.561513110496642e-05,
+    "score.sum": 0.003932351627517048,
     "sha.latest": "b97aaa72d9dd21e95eac43c88e35142f96a443a2",
     "time.latest": 1717793116.5798817,
     "formatted_time": "2024-06-07 15:45:16.579885",
     "filescores": {
-        "BufferDeallocationOpInterfaceImpl.h": 7.0891023931768e-06,
-        "BufferizableOpInterfaceImpl.h": 0,
-        "CMakeLists.txt": 0,
-        "NarrowTypeEmulationConverter.h": 0,
-        "Passes.h": 3.9549955917544526e-05,
-        "Passes.td": 3.798076655126943e-05,
-        "Transforms.h": 0,
-        "WideIntEmulationConverter.h": 6.099602068851199e-06
+        "BufferDeallocationOpInterfaceImpl.h": 0.023333345979517126,
+        "BufferizableOpInterfaceImpl.h": 0.0,
+        "CMakeLists.txt": 0.0,
+        "NarrowTypeEmulationConverter.h": 0.0,
+        "Passes.h": 0.13017625557037177,
+        "Passes.td": 0.1250113649594085,
+        "Transforms.h": 0.0,
+        "WideIntEmulationConverter.h": 0.02007646631636598
     },
     "subdirscores": {}
 }

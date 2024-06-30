@@ -1,17 +1,17 @@
 {
     "directory name": "llvm-project/lldb/test/API/api",
-    "score.sum": 0.00011639517212560415,
+    "score.sum": 0.006053110506518505,
     "sha.latest": "0da0966da4b813386a85cf70ae0d0efc7cb2eaea",
     "time.latest": 1717885419.6823587,
     "formatted_time": "2024-06-09 03:53:39.682360",
     "filescores": {},
     "subdirscores": {
-        "check_public_api_headers": 2.740486428563246e-05,
-        "command-return-object": 3.41025642786255e-05,
-        "listeners": 2.8933774538258395e-05,
-        "log": 1.511909763712816e-05,
-        "multiple-debuggers": 4.6564778469945946e-05,
-        "multiple-targets": 3.805084964642638e-05,
-        "multithreaded": 5.94683927485105e-05
+        "check_public_api_headers": 0.00142518515938158,
+        "command-return-object": 0.0017734978725012062,
+        "listeners": 0.001504695868843885,
+        "log": 0.000786266020188718,
+        "multiple-debuggers": 0.0024215931352030164,
+        "multiple-targets": 0.0019788277603833126,
+        "multithreaded": 0.003092643332004604
     }
 }

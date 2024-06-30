@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/mlir/test/Integration/Dialect/SparseTensor/GPU/CUDA/sm80-lt",
-    "score.sum": 3.0653701686843496e-05,
+    "score.sum": 0.0015941403784693552,
     "sha.latest": "e5924d64991abb4da111317ff5e8d9147265354a",
     "time.latest": 1717826863.4311788,
     "formatted_time": "2024-06-08 01:07:43.431183",
     "filescores": {
-        "lit.local.cfg": 0,
-        "sparse-matmul-2-4-hand.mlir": 0,
-        "sparse-matmul-2-4-lib.mlir": 2.2894672768693007e-05,
-        "sparse-matmul-2-4-prune.mlir": 1.996842309179443e-05
+        "lit.local.cfg": 0.0,
+        "sparse-matmul-2-4-hand.mlir": 0.0,
+        "sparse-matmul-2-4-lib.mlir": 0.0753564120210642,
+        "sparse-matmul-2-4-prune.mlir": 0.06572484058273334
     },
     "subdirscores": {}
 }

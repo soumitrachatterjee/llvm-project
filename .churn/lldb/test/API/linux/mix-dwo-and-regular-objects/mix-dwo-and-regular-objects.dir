@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/lldb/test/API/linux/mix-dwo-and-regular-objects",
-    "score.sum": 1.4783959703798128e-05,
+    "score.sum": 0.000768837230761062,
     "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
     "time.latest": 1717961407.8669543,
     "formatted_time": "2024-06-10 01:00:07.866959",
     "filescores": {
-        "a.c": 0,
-        "b.c": 0,
-        "Makefile": 0,
-        "TestMixedDwarfBinary.py": 1.4783959703798128e-05
+        "a.c": 0.0,
+        "b.c": 0.0,
+        "Makefile": 0.0,
+        "TestMixedDwarfBinary.py": 0.04866049713825287
     },
     "subdirscores": {}
 }

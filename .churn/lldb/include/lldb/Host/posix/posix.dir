@@ -1,19 +1,19 @@
 {
     "directory name": "llvm-project/lldb/include/lldb/Host/posix",
-    "score.sum": 0.00021915275362963707,
+    "score.sum": 0.011397000505283045,
     "sha.latest": "22413641e236ebee7485ce8bc5880e8d1e41573f",
     "time.latest": 1717848210.9532294,
     "formatted_time": "2024-06-08 17:33:30.953234",
     "filescores": {
-        "ConnectionFileDescriptorPosix.h": 9.95073643206706e-05,
-        "DomainSocket.h": 2.5646206977382002e-05,
-        "HostInfoPosix.h": 5.297900822777924e-05,
-        "HostProcessPosix.h": 3.638081556945959e-05,
-        "HostThreadPosix.h": 2.3109882684680385e-05,
-        "LockFilePosix.h": 1.5450590090940967e-05,
-        "MainLoopPosix.h": 2.351700762078075e-05,
-        "PipePosix.h": 3.689431221874353e-05,
-        "ProcessLauncherPosixFork.h": 1.0578772418961204e-05
+        "ConnectionFileDescriptorPosix.h": 0.3275223900615142,
+        "DomainSocket.h": 0.08441291820548771,
+        "HostInfoPosix.h": 0.17437715807579077,
+        "HostProcessPosix.h": 0.11974522437653738,
+        "HostThreadPosix.h": 0.07606476226760452,
+        "LockFilePosix.h": 0.050854670194440434,
+        "MainLoopPosix.h": 0.07740478903884454,
+        "PipePosix.h": 0.12143536712135047,
+        "ProcessLauncherPosixFork.h": 0.034819380959679
     },
     "subdirscores": {}
 }

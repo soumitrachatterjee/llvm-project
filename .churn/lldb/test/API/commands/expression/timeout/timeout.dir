@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/lldb/test/API/commands/expression/timeout",
-    "score.sum": 1.8165686653700746e-05,
+    "score.sum": 0.0009447033475149665,
     "sha.latest": "80fcecb13c388ff087a27a4b0e7ca3dd8c98eaa4",
     "time.latest": 1717894108.7582018,
     "formatted_time": "2024-06-09 06:18:28.758204",
     "filescores": {
-        "Makefile": 0,
-        "TestCallWithTimeout.py": 1.8165686653700746e-05,
-        "wait-a-while.cpp": 0
+        "Makefile": 0.0,
+        "TestCallWithTimeout.py": 0.05979124410084185,
+        "wait-a-while.cpp": 0.0
     },
     "subdirscores": {}
 }

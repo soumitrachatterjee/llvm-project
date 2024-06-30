@@ -1,16 +1,16 @@
 {
     "directory name": "llvm-project/mlir/utils/spirv",
-    "score.sum": 0.00010989012467088331,
+    "score.sum": 0.005714816654853583,
     "sha.latest": "f9008e6366c2496b1ca1785b891d5578174ad63e",
     "time.latest": 1717837064.5357006,
     "formatted_time": "2024-06-08 03:57:44.535704",
     "filescores": {
-        "define_enum.sh": 1.1367815279535998e-05,
-        "define_inst.sh": 1.4392920727157696e-05,
-        "define_opcodes.sh": 7.974453236174547e-06,
-        "gen_spirv_dialect.py": 8.889009191477886e-05,
-        "refresh_inst.sh": 0,
-        "report_coverage.sh": 6.099602068851199e-06
+        "define_enum.sh": 0.03741646716853105,
+        "define_inst.sh": 0.04737341631653848,
+        "define_opcodes.sh": 0.02624742400902999,
+        "gen_spirv_dialect.py": 0.29257628875482455,
+        "refresh_inst.sh": 0.0,
+        "report_coverage.sh": 0.02007646631636598
     },
     "subdirscores": {}
 }

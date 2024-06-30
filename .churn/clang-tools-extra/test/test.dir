@@ -1,26 +1,26 @@
 {
     "directory name": "llvm-project/clang-tools-extra/test",
-    "score.sum": 0.008981437932523536,
+    "score.sum": 0.4670781040156468,
     "sha.latest": "4fdf10faf2b45f4bbbd2ddfb07272d19a47cc531",
     "time.latest": 1717836397.5085406,
     "formatted_time": "2024-06-08 14:16:37.508544",
     "filescores": {
-        ".clang-format": 6.099602068851199e-06,
-        "CMakeLists.txt": 0.00023882922882078472,
-        "lit.cfg.py": 5.2874040414428954e-05,
-        "lit.site.cfg.py.in": 6.791163229390493e-05
+        ".clang-format": 0.02007646631636598,
+        "CMakeLists.txt": 0.786091766915413,
+        "lit.cfg.py": 0.17403166295246275,
+        "lit.site.cfg.py.in": 0.22352697484982037
     },
     "subdirscores": {
-        "clang-apply-replacements": 6.529856694014436e-05,
-        "clang-change-namespace": 2.1779638678258046e-05,
-        "clang-doc": 5.6997877412773984e-05,
-        "clang-include-fixer": 9.326284259170864e-06,
-        "clang-move": 2.5726636252335063e-05,
-        "clang-query": 2.2953192793709256e-05,
-        "clang-reorder-fields": 8.089609227186353e-06,
-        "clang-tidy": 0.007014507453826272,
-        "modularize": 7.189365865360109e-05,
-        "pp-trace": 8.661324777568261e-05,
-        "Unit": 4.2396506543706786e-05
+        "clang-apply-replacements": 0.00339584051801958,
+        "clang-change-namespace": 0.0011326462885357092,
+        "clang-doc": 0.0029641646153863205,
+        "clang-include-fixer": 0.00048501177673456955,
+        "clang-move": 0.0013379092049311313,
+        "clang-query": 0.001193676764426411,
+        "clang-reorder-fields": 0.0004206987086532185,
+        "clang-tidy": 0.36478822954090623,
+        "modularize": 0.0037388171055630797,
+        "pp-trace": 0.004504306755514872,
+        "Unit": 0.002204822884942832
     }
 }

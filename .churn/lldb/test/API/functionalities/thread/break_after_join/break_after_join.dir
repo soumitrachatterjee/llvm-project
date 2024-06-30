@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/lldb/test/API/functionalities/thread/break_after_join",
-    "score.sum": 1.89990928887951e-05,
+    "score.sum": 0.0009880444925618062,
     "sha.latest": "9c2468821ec51defd09c246fea4a47886fff8c01",
     "time.latest": 1717921039.7711687,
     "formatted_time": "2024-06-09 13:47:19.771170",
     "filescores": {
-        "main.cpp": 6.099602068851199e-06,
-        "Makefile": 0,
-        "TestBreakAfterJoin.py": 1.896359425465852e-05
+        "main.cpp": 0.02007646631636598,
+        "Makefile": 0.0,
+        "TestBreakAfterJoin.py": 0.06241750805927386
     },
     "subdirscores": {}
 }

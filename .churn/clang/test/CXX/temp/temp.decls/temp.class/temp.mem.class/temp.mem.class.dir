@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/clang/test/CXX/temp/temp.decls/temp.class/temp.mem.class",
-    "score.sum": 6.303830028458055e-06,
+    "score.sum": 0.0003278295747128544,
     "sha.latest": "8fbe78f6fc7b41d1a4228c126fcb522131150518",
     "time.latest": 1718112912.8260791,
     "formatted_time": "2024-06-11 19:05:12.826081",
     "filescores": {
-        "p1.cpp": 6.303830028458055e-06
+        "p1.cpp": 0.020748670126651495
     },
     "subdirscores": {}
 }

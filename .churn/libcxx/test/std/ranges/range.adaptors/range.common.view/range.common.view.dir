@@ -1,20 +1,20 @@
 {
     "directory name": "llvm-project/libcxx/test/std/ranges/range.adaptors/range.common.view",
-    "score.sum": 1.7631298048039392e-05,
+    "score.sum": 0.0009169125618284102,
     "sha.latest": "ba2236d3000645d3127f972aa7ac1844c47e299c",
     "time.latest": 1717960773.383793,
     "formatted_time": "2024-06-10 00:49:33.383795",
     "filescores": {
-        "adaptor.pass.cpp": 9.439911374734765e-06,
-        "base.pass.cpp": 1.2266249851986782e-05,
-        "begin.pass.cpp": 1.6903574212536627e-05,
-        "borrowing.compile.pass.cpp": 1.4216521438064616e-05,
-        "ctad.compile.pass.cpp": 1.3997019729806344e-05,
-        "ctor.default.pass.cpp": 1.2266249851986782e-05,
-        "ctor.view.pass.cpp": 1.2266249671524485e-05,
-        "end.pass.cpp": 1.6850899793902974e-05,
-        "size.pass.cpp": 1.109388482718161e-05,
-        "types.h": 8.263952133616418e-06
+        "adaptor.pass.cpp": 0.031070889642483977,
+        "base.pass.cpp": 0.040373609491532465,
+        "begin.pass.cpp": 0.05563707836568756,
+        "borrowing.compile.pass.cpp": 0.04679280886940789,
+        "ctad.compile.pass.cpp": 0.046070332451686104,
+        "ctor.default.pass.cpp": 0.040373609491532465,
+        "ctor.view.pass.cpp": 0.04037360889755187,
+        "end.pass.cpp": 0.05546370374559012,
+        "size.pass.cpp": 0.036514841875988725,
+        "types.h": 0.027200291884263608
     },
     "subdirscores": {}
 }

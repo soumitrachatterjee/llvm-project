@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/libcxx/test/std/iterators/predef.iterators/insert.iterators/front.insert.iter.ops/front.insert.iter.cons",
-    "score.sum": 4.547238826567313e-05,
+    "score.sum": 0.0023647835742740962,
     "sha.latest": "462f8f06113616ac5646144972d3f453639aac69",
     "time.latest": 1717917083.3662922,
     "formatted_time": "2024-06-09 12:41:23.366298",
     "filescores": {
-        "container.compile.fail.cpp": 6.099602068851199e-06,
-        "container.pass.cpp": 2.844492618994462e-05
+        "container.compile.fail.cpp": 0.02007646631636598,
+        "container.pass.cpp": 0.09362473093781606
     },
     "subdirscores": {}
 }

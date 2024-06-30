@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/llvm/test/CodeGen/AVR/intrinsics",
-    "score.sum": 1.0081975075427158e-05,
+    "score.sum": 0.0005243113450587981,
     "sha.latest": "7bdc80f35c325d148b1ddbdfce7dea8c6ba7af84",
     "time.latest": 1718038685.6721997,
     "formatted_time": "2024-06-10 11:58:05.672203",
     "filescores": {
-        "named-reg-alloc.ll": 0,
-        "named-reg-special.ll": 0,
-        "stacksave-restore.ll": 6.099602068851199e-06
+        "named-reg-alloc.ll": 0.0,
+        "named-reg-special.ll": 0.0,
+        "stacksave-restore.ll": 0.02007646631636598
     },
     "subdirscores": {}
 }

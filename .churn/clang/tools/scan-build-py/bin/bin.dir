@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/clang/tools/scan-build-py/bin",
-    "score.sum": 2.2406400303433598e-05,
+    "score.sum": 0.0011652409168965725,
     "sha.latest": "4c1e487c413810655757ea19d0cf3d4f5c40898e",
     "time.latest": 1718082721.6953032,
     "formatted_time": "2024-06-11 10:42:01.695306",
     "filescores": {
-        "analyze-build": 2.0244054825066932e-05,
-        "intercept-build": 2.0244054825066932e-05,
-        "scan-build": 2.0244054825066932e-05
+        "analyze-build": 0.06663206553713255,
+        "intercept-build": 0.06663206553713255,
+        "scan-build": 0.06663206553713255
     },
     "subdirscores": {}
 }

@@ -1,20 +1,20 @@
 {
     "directory name": "llvm-project/libcxx/test/std/utilities/memory/allocator.traits/allocator.traits.members",
-    "score.sum": 0.00010004264972298658,
+    "score.sum": 0.005202700447787301,
     "sha.latest": "7d78ccf7d5a9861839126d5899b443f55236cab9",
     "time.latest": 1717997785.2413652,
     "formatted_time": "2024-06-10 11:06:25.241367",
     "filescores": {
-        "allocate.pass.cpp": 3.2448618764164274e-05,
-        "allocate.verify.cpp": 1.2341075549281277e-05,
-        "allocate_at_least.pass.cpp": 0,
-        "allocate_hint.pass.cpp": 4.140346990412548e-05,
-        "construct.pass.cpp": 5.7451432657875384e-05,
-        "deallocate.pass.cpp": 3.7829558872329376e-05,
-        "destroy.pass.cpp": 4.3578632556595234e-05,
-        "incomplete_type_helper.h": 0,
-        "max_size.pass.cpp": 2.4437615340594397e-05,
-        "select_on_container_copy_construction.pass.cpp": 1.956613716439416e-05
+        "allocate.pass.cpp": 0.106802639627611,
+        "allocate.verify.cpp": 0.040619893687513536,
+        "allocate_at_least.pass.cpp": 0.0,
+        "allocate_hint.pass.cpp": 0.13627698324054816,
+        "construct.pass.cpp": 0.18909786893688943,
+        "deallocate.pass.cpp": 0.12451367415290189,
+        "destroy.pass.cpp": 0.14343639777808553,
+        "incomplete_type_helper.h": 0.0,
+        "max_size.pass.cpp": 0.08043491291722177,
+        "select_on_container_copy_construction.pass.cpp": 0.06440074111200823
     },
     "subdirscores": {}
 }

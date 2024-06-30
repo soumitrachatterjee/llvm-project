@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/lldb/test/API/lang/c/find_struct_type",
-    "score.sum": 1.4740728982021631e-05,
+    "score.sum": 0.000766589024659289,
     "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
     "time.latest": 1717925483.698804,
     "formatted_time": "2024-06-09 15:01:23.698807",
     "filescores": {
-        "main.c": 0,
-        "Makefile": 0,
-        "TestFindStructTypes.py": 1.4740728982021631e-05
+        "main.c": 0.0,
+        "Makefile": 0.0,
+        "TestFindStructTypes.py": 0.048518205867481255
     },
     "subdirscores": {}
 }

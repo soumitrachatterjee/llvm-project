@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/lldb/test/API/lang/objcxx/cxx-bridged-po",
-    "score.sum": 2.535850465819564e-05,
+    "score.sum": 0.0013187645859613507,
     "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
     "time.latest": 1717960412.635242,
     "formatted_time": "2024-06-10 00:43:32.635247",
     "filescores": {
-        "main.mm": 0,
-        "Makefile": 0,
-        "TestObjCXXBridgedPO.py": 2.535850465819564e-05
+        "main.mm": 0.0,
+        "Makefile": 0.0,
+        "TestObjCXXBridgedPO.py": 0.08346596365745551
     },
     "subdirscores": {}
 }

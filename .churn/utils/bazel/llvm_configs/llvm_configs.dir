@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/utils/bazel/llvm_configs",
-    "score.sum": 0.0001175444631936541,
+    "score.sum": 0.00611287918688571,
     "sha.latest": "5f254eb05566f5b400a212ae77117a9efd9019a1",
     "time.latest": 1717791148.3973024,
     "formatted_time": "2024-06-08 01:42:28.397307",
     "filescores": {
-        "abi-breaking.h.cmake": 0,
-        "BUILD.bazel": 6.099602068851199e-06,
-        "config.h.cmake": 4.7533458228060145e-05,
-        "llvm-config.h.cmake": 8.438761064358854e-05
+        "abi-breaking.h.cmake": 0.0,
+        "BUILD.bazel": 0.02007646631636598,
+        "config.h.cmake": 0.15645346405290544,
+        "llvm-config.h.cmake": 0.27775664764368796
     },
     "subdirscores": {}
 }

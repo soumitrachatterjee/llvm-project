@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/openmp/libomptarget/unittests",
-    "score.sum": 6.099602068851199e-06,
+    "score.sum": 0.00031720873550238375,
     "sha.latest": "813a671232e2ecd49a4c861ca34727a01abf09c9",
     "time.latest": 1717799257.6182897,
     "formatted_time": "2024-06-08 03:57:37.618294",
     "filescores": {
-        "CMakeLists.txt": 0
+        "CMakeLists.txt": 0.0
     },
     "subdirscores": {
-        "Plugins": 6.099602068851199e-06
+        "Plugins": 0.00031720873550238375
     }
 }

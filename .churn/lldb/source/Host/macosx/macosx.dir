@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/lldb/source/Host/macosx",
-    "score.sum": 0.0011612256275285262,
+    "score.sum": 0.060389335039139895,
     "sha.latest": "3b6a8f823bf873aa74cdb738f517e7333e20de7a",
     "time.latest": 1717866263.394161,
     "formatted_time": "2024-06-08 22:34:23.394163",
     "filescores": {},
     "subdirscores": {
-        "cfcpp": 7.187700204549174e-05,
-        "objcxx": 0.0003570475212623235
+        "cfcpp": 0.003737950881580518,
+        "objcxx": 0.018568193704349846
     }
 }

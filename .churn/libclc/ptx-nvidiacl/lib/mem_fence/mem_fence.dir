@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/libclc/ptx-nvidiacl/lib/mem_fence",
-    "score.sum": 6.099602068851199e-06,
+    "score.sum": 0.00031720873550238375,
     "sha.latest": "3d21fa56f5f5afbbf16b35b199480af71e1189a3",
     "time.latest": 1717831204.6669767,
     "formatted_time": "2024-06-08 02:20:04.666980",
     "filescores": {
-        "fence.cl": 6.099602068851199e-06
+        "fence.cl": 0.02007646631636598
     },
     "subdirscores": {}
 }

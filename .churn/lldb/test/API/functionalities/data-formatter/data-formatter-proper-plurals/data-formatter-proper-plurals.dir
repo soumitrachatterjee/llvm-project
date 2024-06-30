@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/lldb/test/API/functionalities/data-formatter/data-formatter-proper-plurals",
-    "score.sum": 1.0503384530912484e-05,
+    "score.sum": 0.0005462266698610313,
     "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
     "time.latest": 1717905451.1456075,
     "formatted_time": "2024-06-09 09:27:31.145609",
     "filescores": {
-        "main.m": 6.099602068851199e-06,
-        "Makefile": 0,
-        "TestFormattersOneIsSingular.py": 1.0459834404963863e-05
+        "main.m": 0.02007646631636598,
+        "Makefile": 0.0,
+        "TestFormattersOneIsSingular.py": 0.03442790377726621
     },
     "subdirscores": {}
 }

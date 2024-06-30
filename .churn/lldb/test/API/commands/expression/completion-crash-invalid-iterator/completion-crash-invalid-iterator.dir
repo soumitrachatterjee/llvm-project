@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/lldb/test/API/commands/expression/completion-crash-invalid-iterator",
-    "score.sum": 1.65655275940394e-05,
+    "score.sum": 0.0008614873563423724,
     "sha.latest": "9c2468821ec51defd09c246fea4a47886fff8c01",
     "time.latest": 1717889715.6865492,
     "formatted_time": "2024-06-09 05:05:15.686551",
     "filescores": {
-        "main.cpp": 0,
-        "Makefile": 0,
-        "TestInvalidIteratorCompletionCrash.py": 1.65655275940394e-05
+        "main.cpp": 0.0,
+        "Makefile": 0.0,
+        "TestInvalidIteratorCompletionCrash.py": 0.05452441864247726
     },
     "subdirscores": {}
 }

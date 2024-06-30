@@ -1,16 +1,16 @@
 {
     "directory name": "llvm-project/lldb/test/API/macosx/lc-note/multiple-binary-corefile",
-    "score.sum": 1.3249020295693292e-05,
+    "score.sum": 0.0006890129761258061,
     "sha.latest": "1eeeab82c6eb185f5139e633a59c2dbcb15616e4",
     "time.latest": 1717963256.0369258,
     "formatted_time": "2024-06-10 01:30:56.036930",
     "filescores": {
-        "create-multibin-corefile.cpp": 6.099932102774041e-06,
-        "main.c": 7.101151802902136e-06,
-        "Makefile": 7.101151802902136e-06,
-        "one.c": 7.101151802902136e-06,
-        "TestMultipleBinaryCorefile.py": 1.3249020295693292e-05,
-        "two.c": 7.101151802902136e-06
+        "create-multibin-corefile.cpp": 0.020077552602792603,
+        "main.c": 0.023373005873023652,
+        "Makefile": 0.023373005873023652,
+        "one.c": 0.023373005873023652,
+        "TestMultipleBinaryCorefile.py": 0.04360833816515393,
+        "two.c": 0.023373005873023652
     },
     "subdirscores": {}
 }

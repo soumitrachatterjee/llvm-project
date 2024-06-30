@@ -1,15 +1,15 @@
 {
     "directory name": "llvm-project/openmp/runtime/test/atomic",
-    "score.sum": 4.5524039713764036e-05,
+    "score.sum": 0.0023674696987705532,
     "sha.latest": "4b9c089381f7bd9a757d3926091205d70fcc9964",
     "time.latest": 1717801570.7513585,
     "formatted_time": "2024-06-08 04:36:10.751360",
     "filescores": {
-        "kmp_atomic_cas.c": 6.099602068851199e-06,
-        "kmp_atomic_cas_cpt.c": 6.099602068851199e-06,
-        "kmp_atomic_float10_max_min.c": 1.0379199934855647e-05,
-        "omp-atomic-compare-signedness.c": 9.933800785518628e-06,
-        "omp_atomic.c": 6.099602068851199e-06
+        "kmp_atomic_cas.c": 0.02007646631636598,
+        "kmp_atomic_cas_cpt.c": 0.02007646631636598,
+        "kmp_atomic_float10_max_min.c": 0.03416250036163478,
+        "omp-atomic-compare-signedness.c": 0.032696496363658095,
+        "omp_atomic.c": 0.02007646631636598
     },
     "subdirscores": {}
 }

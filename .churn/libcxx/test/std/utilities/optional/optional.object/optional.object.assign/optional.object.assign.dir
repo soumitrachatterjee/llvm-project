@@ -1,18 +1,18 @@
 {
     "directory name": "llvm-project/libcxx/test/std/utilities/optional/optional.object/optional.object.assign",
-    "score.sum": 5.751030416374518e-05,
+    "score.sum": 0.0029908132786726094,
     "sha.latest": "7d5275e0c0e4234ce1a75fd7a6dfae82ad8eb1c9",
     "time.latest": 1718003152.8656492,
     "formatted_time": "2024-06-10 12:35:52.865651",
     "filescores": {
-        "assign_value.pass.cpp": 2.593330368394875e-05,
-        "const_optional_U.pass.cpp": 2.449603726873653e-05,
-        "copy.pass.cpp": 2.304008262048012e-05,
-        "emplace.pass.cpp": 3.138584919557978e-05,
-        "emplace_initializer_list.pass.cpp": 2.356835905339263e-05,
-        "move.pass.cpp": 2.054794812019963e-05,
-        "nullopt_t.pass.cpp": 2.0606385019120422e-05,
-        "optional_U.pass.cpp": 3.056697014681576e-05
+        "assign_value.pass.cpp": 0.0853578794167053,
+        "const_optional_U.pass.cpp": 0.08062720511255568,
+        "copy.pass.cpp": 0.07583501963489196,
+        "emplace.pass.cpp": 0.10330459873823805,
+        "emplace_initializer_list.pass.cpp": 0.07757380913154768,
+        "move.pass.cpp": 0.0676323116900181,
+        "nullopt_t.pass.cpp": 0.0678246531607523,
+        "optional_U.pass.cpp": 0.10060930854485907
     },
     "subdirscores": {}
 }

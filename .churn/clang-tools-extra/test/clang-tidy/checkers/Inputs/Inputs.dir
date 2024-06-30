@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/clang-tools-extra/test/clang-tidy/checkers/Inputs",
-    "score.sum": 0.0001766112396303425,
+    "score.sum": 0.009184636533051863,
     "sha.latest": "bc8cff1d7fb2069aa3f7333e25642f2571049af1",
     "time.latest": 1717824527.0623913,
     "formatted_time": "2024-06-08 10:58:47.062394",
     "filescores": {},
     "subdirscores": {
-        "Headers": 0.00010276822658047146
+        "Headers": 0.0053444435940972
     }
 }

@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/libc/test/src/sys/wait",
-    "score.sum": 1.5693452512085695e-05,
+    "score.sum": 0.00081613524469851,
     "sha.latest": "b6bc9d72f65a5086f310f321e969d96e9a559e75",
     "time.latest": 1717851244.5030894,
     "formatted_time": "2024-06-08 07:54:04.503092",
     "filescores": {
-        "CMakeLists.txt": 6.099602068851199e-06,
-        "wait4_test.cpp": 1.223972868486291e-05,
-        "waitpid_test.cpp": 1.223972868486291e-05
+        "CMakeLists.txt": 0.02007646631636598,
+        "wait4_test.cpp": 0.040286316695638084,
+        "waitpid_test.cpp": 0.040286316695638084
     },
     "subdirscores": {}
 }

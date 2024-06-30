@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/libcxx/test/std/concepts/concepts.callable/concept.regularinvocable",
-    "score.sum": 1.7927937837570796e-05,
+    "score.sum": 0.0009323392620417687,
     "sha.latest": "34f73804ed60e90276e2303398162c2fc05f47ec",
     "time.latest": 1717874787.3569925,
     "formatted_time": "2024-06-09 00:56:27.356995",
     "filescores": {
-        "regular_invocable.compile.pass.cpp": 1.543553918825759e-05
+        "regular_invocable.compile.pass.cpp": 0.05080513107084797
     },
     "subdirscores": {}
 }

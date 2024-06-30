@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/mlir/lib/Conversion/VectorToSPIRV",
-    "score.sum": 0.00019216372266512945,
+    "score.sum": 0.009993440684814536,
     "sha.latest": "560564f51c626cf89920f13b6cea96684bac5848",
     "time.latest": 1717804318.8648412,
     "formatted_time": "2024-06-07 18:51:58.864845",
     "filescores": {
-        "CMakeLists.txt": 1.1370816226507291e-05,
-        "VectorToSPIRV.cpp": 0.00017190617651265057,
-        "VectorToSPIRVPass.cpp": 3.1599165780148906e-05
+        "CMakeLists.txt": 0.03742634460153509,
+        "VectorToSPIRV.cpp": 0.5658186424908054,
+        "VectorToSPIRVPass.cpp": 0.10400671720047258
     },
     "subdirscores": {}
 }

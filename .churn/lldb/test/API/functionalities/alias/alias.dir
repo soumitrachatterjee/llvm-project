@@ -1,15 +1,15 @@
 {
     "directory name": "llvm-project/lldb/test/API/functionalities/alias",
-    "score.sum": 1.940170515240279e-05,
+    "score.sum": 0.0010089822726981423,
     "sha.latest": "385496385476fc9735da5fa4acabc34654e8b30d",
     "time.latest": 1717901466.704042,
     "formatted_time": "2024-06-09 08:21:06.704044",
     "filescores": {
-        "categories": 0,
-        "main.c": 0,
-        "Makefile": 0,
-        "TestBtAliasRepeat.py": 0,
-        "TestPAlias.py": 6.099602068851199e-06
+        "categories": 0.0,
+        "main.c": 0.0,
+        "Makefile": 0.0,
+        "TestBtAliasRepeat.py": 0.0,
+        "TestPAlias.py": 0.02007646631636598
     },
     "subdirscores": {}
 }

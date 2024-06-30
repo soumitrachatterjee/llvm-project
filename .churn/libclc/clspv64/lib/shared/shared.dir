@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/libclc/clspv64/lib/shared",
-    "score.sum": 0,
+    "score.sum": 0.0,
     "sha.latest": 0,
     "time.latest": 1717824114.3792944,
     "formatted_time": "2024-06-08 00:21:54.379310",
     "filescores": {
-        "vstore_half.cl": 0,
-        "vstore_half.inc": 0
+        "vstore_half.cl": 0.0,
+        "vstore_half.inc": 0.0
     },
     "subdirscores": {}
 }

@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/libcxx/utils/gdb/libcxx",
-    "score.sum": 5.0322423034944115e-05,
+    "score.sum": 0.0026170087815805786,
     "sha.latest": "0d3c40b82b3b667a4f7f69f45658c184615fd54f",
     "time.latest": 1718011094.5561385,
     "formatted_time": "2024-06-10 14:48:14.556140",
     "filescores": {
-        "printers.py": 5.0322423034944115e-05
+        "printers.py": 0.16563317075686784
     },
     "subdirscores": {}
 }

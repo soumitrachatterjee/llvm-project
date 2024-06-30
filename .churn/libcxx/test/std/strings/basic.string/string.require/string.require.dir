@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/libcxx/test/std/strings/basic.string/string.require",
-    "score.sum": 4.469212745036844e-05,
+    "score.sum": 0.0023242062474598114,
     "sha.latest": "6e1dcc9335116f650d68cdbed12bbb34a99b2d9b",
     "time.latest": 1717971092.470709,
     "formatted_time": "2024-06-10 03:41:32.470711",
     "filescores": {
-        "contiguous.pass.cpp": 4.32161311391685e-05
+        "contiguous.pass.cpp": 0.14224324658322843
     },
     "subdirscores": {}
 }

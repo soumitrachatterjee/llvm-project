@@ -1,19 +1,19 @@
 {
     "directory name": "llvm-project/lldb/test/API/commands/process/launch-with-shellexpand",
-    "score.sum": 2.190977540783363e-05,
+    "score.sum": 0.0011394140263266536,
     "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
     "time.latest": 1717896765.612514,
     "formatted_time": "2024-06-09 07:02:45.612516",
     "filescores": {
-        "file1.txt": 0,
-        "file2.txt": 0,
-        "file3.txt": 0,
-        "file4.txy": 0,
-        "file5.tyx": 0,
-        "foo bar": 0,
-        "main.cpp": 0,
-        "Makefile": 0,
-        "TestLaunchWithShellExpand.py": 2.190977540783363e-05
+        "file1.txt": 0.0,
+        "file2.txt": 0.0,
+        "file3.txt": 0.0,
+        "file4.txy": 0.0,
+        "file5.tyx": 0.0,
+        "foo bar": 0.0,
+        "main.cpp": 0.0,
+        "Makefile": 0.0,
+        "TestLaunchWithShellExpand.py": 0.07211468273000979
     },
     "subdirscores": {}
 }

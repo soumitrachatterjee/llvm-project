@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/lldb/test/API/commands/statistics/basic",
-    "score.sum": 6.396112627313293e-05,
+    "score.sum": 0.003326287150766548,
     "sha.latest": "1eeeab82c6eb185f5139e633a59c2dbcb15616e4",
     "time.latest": 1717897851.6801946,
     "formatted_time": "2024-06-09 07:20:51.680197",
     "filescores": {
-        "main.c": 6.099602068851199e-06,
-        "Makefile": 0,
-        "TestStats.py": 6.396112627313293e-05
+        "main.c": 0.02007646631636598,
+        "Makefile": 0.0,
+        "TestStats.py": 0.21052412644047036
     },
     "subdirscores": {}
 }

@@ -1,19 +1,19 @@
 {
     "directory name": "llvm-project/libcxx/test/std/numerics/numarray/template.valarray/valarray.assign",
-    "score.sum": 3.27314737573995e-05,
+    "score.sum": 0.0017021945504831326,
     "sha.latest": "b8608b87239ca7817d1536376a8ce4b5265747ee",
     "time.latest": 1717949973.523287,
     "formatted_time": "2024-06-09 21:49:33.523290",
     "filescores": {
-        "copy_assign.pass.cpp": 2.703357433425878e-05,
-        "gslice_array_assign.pass.cpp": 1.7366275644238228e-05,
-        "indirect_array_assign.pass.cpp": 1.7366275644238228e-05,
-        "initializer_list_assign.pass.cpp": 3.0734502234195036e-05,
-        "mask_array_assign.pass.cpp": 1.7366275644238228e-05,
-        "move_assign.pass.cpp": 2.7081553001058066e-05,
-        "slice_array_assign.pass.cpp": 1.7366275644238228e-05,
-        "value_assign.addressof.compile.pass.cpp": 0,
-        "value_assign.pass.cpp": 2.0014104209518827e-05
+        "copy_assign.pass.cpp": 0.08897935281783749,
+        "gslice_array_assign.pass.cpp": 0.057160031765472394,
+        "indirect_array_assign.pass.cpp": 0.057160031765472394,
+        "initializer_list_assign.pass.cpp": 0.1011607301410902,
+        "mask_array_assign.pass.cpp": 0.057160031765472394,
+        "move_assign.pass.cpp": 0.0891372716586122,
+        "slice_array_assign.pass.cpp": 0.057160031765472394,
+        "value_assign.addressof.compile.pass.cpp": 0.0,
+        "value_assign.pass.cpp": 0.06587519718156316
     },
     "subdirscores": {}
 }

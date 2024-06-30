@@ -1,16 +1,16 @@
 {
     "directory name": "llvm-project/libcxx/test/std/algorithms/alg.nonmodifying/alg.search",
-    "score.sum": 5.870604653024807e-05,
+    "score.sum": 0.0030529976506666412,
     "sha.latest": "c000f754bfb9fb3a7a0a1f9b0485f36ae70534b7",
     "time.latest": 1717870174.122648,
     "formatted_time": "2024-06-08 23:39:34.122650",
     "filescores": {
-        "ranges.search.pass.cpp": 6.540730035241078e-06,
-        "ranges.search_n.pass.cpp": 6.540730035241078e-06,
-        "search.pass.cpp": 2.980074551410254e-05,
-        "search_n.pass.cpp": 2.483424358585224e-05,
-        "search_n_pred.pass.cpp": 2.3743218636451123e-05,
-        "search_pred.pass.cpp": 1.667823602149239e-05
+        "ranges.search.pass.cpp": 0.021528411977487023,
+        "ranges.search_n.pass.cpp": 0.021528411977487023,
+        "search.pass.cpp": 0.09808732713430222,
+        "search_n.pass.cpp": 0.08174039047397952,
+        "search_n_pred.pass.cpp": 0.0781493487306463,
+        "search_pred.pass.cpp": 0.054895391522640356
     },
     "subdirscores": {}
 }

@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/clang/test/Analysis/scan-build/Inputs/deduplication",
-    "score.sum": 0,
+    "score.sum": 0.0,
     "sha.latest": "73093599287cc6d546ac46652ee781789d7de61f",
     "time.latest": 1717839206.7022295,
     "formatted_time": "2024-06-08 15:03:26.702232",
     "filescores": {
-        "1.c": 0,
-        "2.c": 0,
-        "header.h": 0
+        "1.c": 0.0,
+        "2.c": 0.0,
+        "header.h": 0.0
     },
     "subdirscores": {}
 }

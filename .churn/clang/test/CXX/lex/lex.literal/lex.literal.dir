@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/clang/test/CXX/lex/lex.literal",
-    "score.sum": 4.9379194882103764e-05,
+    "score.sum": 0.0025679563669680485,
     "sha.latest": "99d63ccff04b672694f8a2b3eed024b873dc163d",
     "time.latest": 1718101565.9660919,
     "formatted_time": "2024-06-11 15:56:05.966093",
     "filescores": {},
     "subdirscores": {
-        "lex.ccon": 1.6561607784513415e-05,
-        "lex.ext": 2.5063992742404054e-05,
-        "lex.string": 1.2153773052281645e-05
+        "lex.ccon": 0.0008612835073356481,
+        "lex.ext": 0.0013034485454485258,
+        "lex.string": 0.0006320548353776976
     }
 }

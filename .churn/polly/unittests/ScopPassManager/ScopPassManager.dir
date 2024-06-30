@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/polly/unittests/ScopPassManager",
-    "score.sum": 1.1943126549082723e-05,
+    "score.sum": 0.0006211002009337635,
     "sha.latest": "96b02808afa7eb043b9968b07424cc96bc8d94a6",
     "time.latest": 1717819867.3173757,
     "formatted_time": "2024-06-07 23:11:07.317379",
     "filescores": {
-        "CMakeLists.txt": 1.1708264261980258e-05,
-        "PassManagerTest.cpp": 6.099602068851199e-06
+        "CMakeLists.txt": 0.03853703412541297,
+        "PassManagerTest.cpp": 0.02007646631636598
     },
     "subdirscores": {}
 }

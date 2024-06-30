@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/cross-project-tests/debuginfo-tests/dexter/feature_tests/subtools/list-debuggers",
-    "score.sum": 0,
+    "score.sum": 0.0,
     "sha.latest": "1364750dadbb56032ef73b4d0d8cbc88a51392da",
     "time.latest": 1717791883.5589883,
     "formatted_time": "2024-06-08 01:54:43.558993",
     "filescores": {
-        "list-debuggers.test": 0
+        "list-debuggers.test": 0.0
     },
     "subdirscores": {}
 }

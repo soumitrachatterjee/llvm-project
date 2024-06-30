@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/clang-tools-extra/docs/_static",
-    "score.sum": 0,
+    "score.sum": 0.0,
     "sha.latest": "47e6241ac42af5b3566964d29e6ae4abebc5ce03",
     "time.latest": 1717813170.2672048,
     "formatted_time": "2024-06-08 07:49:30.267207",
     "filescores": {
-        "clang-tools-extra-styles.css": 0
+        "clang-tools-extra-styles.css": 0.0
     },
     "subdirscores": {}
 }

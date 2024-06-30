@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/openmp/runtime/test/worksharing",
-    "score.sum": 0.00012613238461890556,
+    "score.sum": 0.006559492533977534,
     "sha.latest": "fcd2d483251605f1b6cdace0ce5baf5dfd31b880",
     "time.latest": 1717805652.0337021,
     "formatted_time": "2024-06-08 05:44:12.033704",
     "filescores": {},
     "subdirscores": {
-        "for": 0.00012397941411455054,
-        "sections": 1.1270229646987421e-05,
-        "single": 1.0080817359781939e-05
+        "for": 0.00644752768060653,
+        "sections": 0.0005861063155904655,
+        "single": 0.0005242511382597731
     }
 }

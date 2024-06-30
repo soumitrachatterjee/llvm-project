@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/clang/test/CXX/class/class.compare/class.spaceship",
-    "score.sum": 5.111630697980913e-05,
+    "score.sum": 0.002658294576857664,
     "sha.latest": "02bb2beeef3d93360694de29573430f584caafe9",
     "time.latest": 1718082887.3264096,
     "formatted_time": "2024-06-11 10:44:47.326411",
     "filescores": {
-        "p1.cpp": 4.0799740133155495e-05,
-        "p2.cpp": 5.0064027779781805e-05,
-        "p3.cpp": 6.099602068851199e-06
+        "p1.cpp": 0.13428984370681313,
+        "p2.cpp": 0.1647826786136071,
+        "p3.cpp": 0.02007646631636598
     },
     "subdirscores": {}
 }

@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/lldb/unittests/Thread",
-    "score.sum": 5.414611509645066e-05,
+    "score.sum": 0.0028158592164269675,
     "sha.latest": "f3f4387e02b0ed637b5d843e8937116334329a65",
     "time.latest": 1717998701.4903803,
     "formatted_time": "2024-06-10 11:21:41.490382",
     "filescores": {
-        "CMakeLists.txt": 2.4402471453734563e-05,
-        "ThreadTest.cpp": 3.603665854058697e-05
+        "CMakeLists.txt": 0.08031923896787174,
+        "ThreadTest.cpp": 0.11861245261213225
     },
     "subdirscores": {}
 }

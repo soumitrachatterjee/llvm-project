@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/libc/utils/gpu/loader/amdgpu",
-    "score.sum": 9.950860645030748e-05,
+    "score.sum": 0.005174927621081903,
     "sha.latest": "06ac828dc1076413b3c2649e9c1d3de33467d308",
     "time.latest": 1717852042.937733,
     "formatted_time": "2024-06-08 08:07:22.937736",
     "filescores": {
-        "CMakeLists.txt": 1.1755207067750226e-05,
-        "Loader.cpp": 9.150024966584488e-05
+        "CMakeLists.txt": 0.03869154349310587,
+        "Loader.cpp": 0.3011674629950727
     },
     "subdirscores": {}
 }

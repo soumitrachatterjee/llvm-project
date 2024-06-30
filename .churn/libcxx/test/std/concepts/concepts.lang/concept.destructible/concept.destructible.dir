@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/libcxx/test/std/concepts/concepts.lang/concept.destructible",
-    "score.sum": 9.071197331829686e-06,
+    "score.sum": 0.00047174602582955626,
     "sha.latest": "72f0edf3f4291d2614719a8c8af21a7a62ed5d74",
     "time.latest": 1717875285.7218232,
     "formatted_time": "2024-06-09 01:04:45.721825",
     "filescores": {
-        "destructible.compile.pass.cpp": 9.071197331829686e-06
+        "destructible.compile.pass.cpp": 0.029857289971686258
     },
     "subdirscores": {}
 }

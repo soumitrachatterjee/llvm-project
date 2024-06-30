@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/llvm/lib/Target/AMDGPU/MCA",
-    "score.sum": 5.415143778472395e-05,
+    "score.sum": 0.00281613602189683,
     "sha.latest": "ef067f52044042fbe1b6fa21a90bfdbcf1622b02",
     "time.latest": 1717848544.3380399,
     "formatted_time": "2024-06-08 07:09:04.338044",
     "filescores": {
-        "AMDGPUCustomBehaviour.cpp": 2.5569056241517986e-05,
-        "AMDGPUCustomBehaviour.h": 1.3405327974805249e-05,
-        "CMakeLists.txt": 2.773656699270442e-05
+        "AMDGPUCustomBehaviour.cpp": 0.08415898128757522,
+        "AMDGPUCustomBehaviour.h": 0.044122815309606656,
+        "CMakeLists.txt": 0.0912932100610846
     },
     "subdirscores": {}
 }

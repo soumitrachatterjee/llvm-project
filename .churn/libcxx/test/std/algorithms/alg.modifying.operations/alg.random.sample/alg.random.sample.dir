@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/libcxx/test/std/algorithms/alg.modifying.operations/alg.random.sample",
-    "score.sum": 0.00010284087381169666,
+    "score.sum": 0.005348221600612146,
     "sha.latest": "d05bada59205b9bcf1195a6eac7e09b721e3b79b",
     "time.latest": 1717868646.7162387,
     "formatted_time": "2024-06-08 23:14:06.716242",
     "filescores": {
-        "ranges_sample.pass.cpp": 9.317807157403135e-06,
-        "sample.pass.cpp": 3.3376305455841204e-05,
-        "sample.stable.pass.cpp": 2.4076225180173124e-05,
-        "sample.verify.cpp": 6.099602068851199e-06
+        "ranges_sample.pass.cpp": 0.030668991095878232,
+        "sample.pass.cpp": 0.10985606350794959,
+        "sample.stable.pass.cpp": 0.07924541935668032,
+        "sample.verify.cpp": 0.02007646631636598
     },
     "subdirscores": {}
 }

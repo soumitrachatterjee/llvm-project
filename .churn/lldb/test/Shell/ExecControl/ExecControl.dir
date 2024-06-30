@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/lldb/test/Shell/ExecControl",
-    "score.sum": 1.3577790704965945e-05,
+    "score.sum": 0.0007061106235819492,
     "sha.latest": "2c2eb5e6702bf3bbb8fb8f09790b1ab7b139e879",
     "time.latest": 1717972663.7441976,
     "formatted_time": "2024-06-10 04:07:43.744200",
     "filescores": {},
     "subdirscores": {
-        "StopHook": 1.3577790704965945e-05
+        "StopHook": 0.0007061106235819492
     }
 }

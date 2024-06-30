@@ -1,21 +1,21 @@
 {
     "directory name": "llvm-project/libcxx/test/std/containers/views/views.span",
-    "score.sum": 6.000627000203479e-05,
+    "score.sum": 0.0031206155442112388,
     "sha.latest": "dbbeee6b8357c5a68543f612f3b2b607f1911b4c",
     "time.latest": 1717894854.4343274,
     "formatted_time": "2024-06-09 06:30:54.434329",
     "filescores": {
-        "enable_borrowed_range.compile.pass.cpp": 0,
-        "range_concept_conformance.compile.pass.cpp": 6.099602068851199e-06,
-        "trivially_copyable.compile.pass.cpp": 0,
-        "types.pass.cpp": 6.099602068851199e-06
+        "enable_borrowed_range.compile.pass.cpp": 0.0,
+        "range_concept_conformance.compile.pass.cpp": 0.02007646631636598,
+        "trivially_copyable.compile.pass.cpp": 0.0,
+        "types.pass.cpp": 0.02007646631636598
     },
     "subdirscores": {
-        "span.cons": 3.9667374218789215e-05,
-        "span.elem": 9.14007476267365e-06,
-        "span.iterators": 1.1172929860020365e-05,
-        "span.objectrep": 6.099602068851199e-06,
-        "span.obs": 6.099602068851199e-06,
-        "span.sub": 1.801743348698171e-05
+        "span.cons": 0.002062894837172852,
+        "span.elem": 0.00047532798453703333,
+        "span.iterators": 0.0005810462572391041,
+        "span.objectrep": 0.00031720873550238375,
+        "span.obs": 0.00031720873550238375,
+        "span.sub": 0.0009369934675886475
     }
 }

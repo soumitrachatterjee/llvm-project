@@ -1,23 +1,23 @@
 {
     "directory name": "llvm-project/libcxx/test/libcxx/ranges/range.adaptors",
-    "score.sum": 0.00011200984572735027,
+    "score.sum": 0.005825052376520309,
     "sha.latest": "58780b811c23df3d928d8452ee21c862dde754a2",
     "time.latest": 1717863013.5745142,
     "formatted_time": "2024-06-08 21:40:13.574517",
     "filescores": {},
     "subdirscores": {
-        "range.adaptor.helpers": 0,
-        "range.all": 1.0517214658432782e-05,
-        "range.chunk.by": 1.1408816486530526e-05,
-        "range.common.view": 1.0512956826320703e-05,
-        "range.counted": 8.401745225401892e-06,
-        "range.drop.while": 2.8855815073979082e-05,
-        "range.elements": 0,
-        "range.join": 6.6100664590807875e-06,
-        "range.lazy.split": 4.410379896825113e-05,
-        "range.move.wrap": 6.099602068851199e-06,
-        "range.reverse": 8.401745052419121e-06,
-        "range.split": 6.099602068851199e-06,
-        "range.transform": 1.0517214658432782e-05
+        "range.adaptor.helpers": 0.0,
+        "range.all": 0.0005469459032164258,
+        "range.chunk.by": 0.0005933134998678195,
+        "range.common.view": 0.000546724475404413,
+        "range.counted": 0.0004369312864806067,
+        "range.drop.while": 0.001500641600580916,
+        "range.elements": 0.0,
+        "range.join": 0.00034375534656257384,
+        "range.lazy.split": 0.0022936103279611454,
+        "range.move.wrap": 0.00031720873550238375,
+        "range.reverse": 0.0004369312774846681,
+        "range.split": 0.00031720873550238375,
+        "range.transform": 0.0005469459032164258
     }
 }

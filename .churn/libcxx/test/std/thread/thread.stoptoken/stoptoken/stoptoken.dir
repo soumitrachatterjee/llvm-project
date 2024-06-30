@@ -1,21 +1,21 @@
 {
     "directory name": "llvm-project/libcxx/test/std/thread/thread.stoptoken/stoptoken",
-    "score.sum": 6.099602068851199e-06,
+    "score.sum": 0.00031720873550238375,
     "sha.latest": "477f6bc407db14f6856420c6eb275747f8670758",
     "time.latest": 1717979836.5804918,
     "formatted_time": "2024-06-10 06:07:16.580493",
     "filescores": {
-        "assign.copy.pass.cpp": 6.099602068851199e-06,
-        "assign.move.pass.cpp": 6.099602068851199e-06,
-        "cons.copy.pass.cpp": 6.099602068851199e-06,
-        "cons.default.pass.cpp": 6.099602068851199e-06,
-        "cons.move.pass.cpp": 6.099602068851199e-06,
-        "equals.pass.cpp": 6.099602068851199e-06,
-        "nodiscard.verify.cpp": 6.099602068851199e-06,
-        "stop_possible.pass.cpp": 6.099602068851199e-06,
-        "stop_requested.pass.cpp": 6.099602068851199e-06,
-        "swap.free.pass.cpp": 6.099602068851199e-06,
-        "swap.member.pass.cpp": 6.099602068851199e-06
+        "assign.copy.pass.cpp": 0.02007646631636598,
+        "assign.move.pass.cpp": 0.02007646631636598,
+        "cons.copy.pass.cpp": 0.02007646631636598,
+        "cons.default.pass.cpp": 0.02007646631636598,
+        "cons.move.pass.cpp": 0.02007646631636598,
+        "equals.pass.cpp": 0.02007646631636598,
+        "nodiscard.verify.cpp": 0.02007646631636598,
+        "stop_possible.pass.cpp": 0.02007646631636598,
+        "stop_requested.pass.cpp": 0.02007646631636598,
+        "swap.free.pass.cpp": 0.02007646631636598,
+        "swap.member.pass.cpp": 0.02007646631636598
     },
     "subdirscores": {}
 }

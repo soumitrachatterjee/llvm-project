@@ -1,18 +1,18 @@
 {
     "directory name": "llvm-project/lldb/test/API/commands/register/register",
-    "score.sum": 0.00023246478149573438,
+    "score.sum": 0.012089290179053932,
     "sha.latest": "9c2468821ec51defd09c246fea4a47886fff8c01",
     "time.latest": 1717897430.3561895,
     "formatted_time": "2024-06-09 07:13:50.356192",
     "filescores": {
-        "TestRegistersUnavailable.py": 6.099602068851199e-06
+        "TestRegistersUnavailable.py": 0.02007646631636598
     },
     "subdirscores": {
-        "aarch64_dynamic_regset": 4.9140256861820375e-05,
-        "aarch64_mte_ctrl_register": 7.06500376147686e-06,
-        "aarch64_sme_z_registers": 6.5855795380930595e-06,
-        "aarch64_sve_registers": 6.814561882758822e-05,
-        "aarch64_sve_simd_registers": 1.6013104721309123e-05,
-        "register_command": 0.00010573961823196876
+        "aarch64_dynamic_regset": 0.00255553043714148,
+        "aarch64_mte_ctrl_register": 0.00036741428116141776,
+        "aarch64_sme_z_registers": 0.0003424819085324882,
+        "aarch64_sve_registers": 0.003543900951951434,
+        "aarch64_sve_simd_registers": 0.0008327587017607516,
+        "register_command": 0.005498970295645014
     }
 }

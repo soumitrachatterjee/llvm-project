@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/libcxx/test/std/time/time.cal/time.cal.ymwdlast/time.cal.ymwdlast.nonmembers",
-    "score.sum": 3.517581839474468e-05,
+    "score.sum": 0.001829312264522851,
     "sha.latest": "766bf140ffd6ce420426b80aa2cce0cb0d25ab7d",
     "time.latest": 1717983367.1183429,
     "formatted_time": "2024-06-10 07:06:07.118346",
     "filescores": {
-        "comparisons.pass.cpp": 6.099602068851199e-06,
-        "minus.pass.cpp": 1.205904218653514e-05,
-        "ostream.pass.cpp": 2.3341127303974412e-05,
-        "plus.pass.cpp": 1.205904218653514e-05
+        "comparisons.pass.cpp": 0.02007646631636598,
+        "minus.pass.cpp": 0.039691598162108765,
+        "ostream.pass.cpp": 0.07682588975718382,
+        "plus.pass.cpp": 0.039691598162108765
     },
     "subdirscores": {}
 }

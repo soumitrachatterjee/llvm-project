@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/clang/test/CXX/expr/expr.cond",
-    "score.sum": 0,
+    "score.sum": 0.0,
     "sha.latest": "16d315085243f2fed77e386a8b4077accc1cde7a",
     "time.latest": 1718096098.6931834,
     "formatted_time": "2024-06-11 14:24:58.693185",
     "filescores": {
-        "p4.cpp": 0
+        "p4.cpp": 0.0
     },
     "subdirscores": {}
 }

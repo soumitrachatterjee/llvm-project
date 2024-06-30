@@ -1,19 +1,19 @@
 {
     "directory name": "llvm-project/libcxx/test/std/input.output/string.streams",
-    "score.sum": 0.00020030378735554706,
+    "score.sum": 0.010416763320981404,
     "sha.latest": "80f9458cf30d13eef21b09042ea590945c5e64db",
     "time.latest": 1717910679.7268994,
     "formatted_time": "2024-06-09 10:54:39.726901",
     "filescores": {
-        "helper_concepts.h": 0,
-        "helper_string_macros.h": 0,
-        "helper_types.h": 0,
-        "lit.local.cfg": 9.845454441214068e-06
+        "helper_concepts.h": 0.0,
+        "helper_string_macros.h": 0.0,
+        "helper_types.h": 0.0,
+        "lit.local.cfg": 0.03240570978683169
     },
     "subdirscores": {
-        "istringstream": 6.609273593036057e-05,
-        "ostringstream": 6.739721803487902e-05,
-        "stringbuf": 0.00010498467596594776,
-        "stringstream": 6.0746677591879636e-05
+        "istringstream": 0.0034371411370301462,
+        "ostringstream": 0.0035049805000228404,
+        "stringbuf": 0.0054597096555444495,
+        "stringstream": 0.003159120311027164
     }
 }

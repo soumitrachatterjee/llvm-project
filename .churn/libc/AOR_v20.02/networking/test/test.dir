@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/libc/AOR_v20.02/networking/test",
-    "score.sum": 0,
+    "score.sum": 0.0,
     "sha.latest": "0928368f623a0f885894f9c3ef1b740b060c0d9c",
     "time.latest": 1717823393.1310859,
     "formatted_time": "2024-06-08 00:09:53.131090",
     "filescores": {
-        "chksum.c": 0
+        "chksum.c": 0.0
     },
     "subdirscores": {}
 }

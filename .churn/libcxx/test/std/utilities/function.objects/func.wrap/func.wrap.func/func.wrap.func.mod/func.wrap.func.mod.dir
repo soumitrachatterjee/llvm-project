@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/libcxx/test/std/utilities/function.objects/func.wrap/func.wrap.func/func.wrap.func.mod",
-    "score.sum": 4.8254243770700886e-05,
+    "score.sum": 0.002509453481776176,
     "sha.latest": "ca06c330fd07f05e65a638892c32ca1474d47b5e",
     "time.latest": 1717996721.1896725,
     "formatted_time": "2024-06-10 10:48:41.189674",
     "filescores": {
-        "assign_F_alloc.pass.cpp": 2.3355021842391942e-05,
-        "swap.pass.cpp": 4.751353247757886e-05
+        "assign_F_alloc.pass.cpp": 0.07687162277867804,
+        "swap.pass.cpp": 0.15638787966660447
     },
     "subdirscores": {}
 }

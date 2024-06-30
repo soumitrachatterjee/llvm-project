@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/mlir/test/Dialect/Func",
-    "score.sum": 1.8679578878725267e-05,
+    "score.sum": 0.0009714282225223023,
     "sha.latest": "42b160356fe5d3b41bf07c428d0142d3721b1d44",
     "time.latest": 1717818847.3138375,
     "formatted_time": "2024-06-07 22:54:07.313841",
     "filescores": {
-        "duplicate-function-elimination.mlir": 6.099602068851199e-06,
-        "func-bufferize.mlir": 6.099602068851199e-06,
-        "func-transform.mlir": 0,
-        "invalid.mlir": 1.0528074583532214e-05
+        "duplicate-function-elimination.mlir": 0.02007646631636598,
+        "func-bufferize.mlir": 0.02007646631636598,
+        "func-transform.mlir": 0.0,
+        "invalid.mlir": 0.03465251214203915
     },
     "subdirscores": {}
 }

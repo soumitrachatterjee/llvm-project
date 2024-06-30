@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/mlir/examples/toy/Ch1/include/toy",
-    "score.sum": 6.191041796647039e-05,
+    "score.sum": 0.0032196404250460983,
     "sha.latest": "2140260d9154ea3b7dd905b72805004dd182b1a3",
     "time.latest": 1717789291.167259,
     "formatted_time": "2024-06-07 14:41:31.167262",
     "filescores": {
-        "AST.h": 4.6702345007969325e-05,
-        "Lexer.h": 1.3006551883779252e-05,
-        "Parser.h": 3.434162061470614e-05
+        "AST.h": 0.15371790583453426,
+        "Lexer.h": 0.042810268250161626,
+        "Parser.h": 0.11303333918148864
     },
     "subdirscores": {}
 }

@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/lldb/unittests/Platform/tools",
-    "score.sum": 0,
+    "score.sum": 0.0,
     "sha.latest": "3053e143bef273a2e65519cea15be8f7ce6cd854",
     "time.latest": 1717997097.838594,
     "formatted_time": "2024-06-10 10:54:57.838596",
     "filescores": {
-        "generate_siginfo.c": 0
+        "generate_siginfo.c": 0.0
     },
     "subdirscores": {}
 }

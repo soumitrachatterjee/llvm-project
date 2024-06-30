@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/libcxx/test/libcxx/ranges/range.adaptors/range.adaptor.helpers",
-    "score.sum": 0,
+    "score.sum": 0.0,
     "sha.latest": "6a664674990094c1b5d2e717256f08cb04485899",
     "time.latest": 1717862394.265743,
     "formatted_time": "2024-06-08 21:29:54.265747",
     "filescores": {
-        "as-lvalue.lifetimebound.verify.cpp": 0,
-        "as-lvalue.pass.cpp": 0,
-        "tuple-for-each.pass.cpp": 0
+        "as-lvalue.lifetimebound.verify.cpp": 0.0,
+        "as-lvalue.pass.cpp": 0.0,
+        "tuple-for-each.pass.cpp": 0.0
     },
     "subdirscores": {}
 }

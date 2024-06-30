@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/libcxx/test/std/re/re.iter/re.tokiter/re.tokiter.deref",
-    "score.sum": 1.3904075387875805e-05,
+    "score.sum": 0.0007230790012746806,
     "sha.latest": "3cd4531b9ba421d1d096e746d787fe3039a546bb",
     "time.latest": 1717966682.2475905,
     "formatted_time": "2024-06-10 02:28:02.247594",
     "filescores": {
-        "deref.pass.cpp": 1.3904075387875805e-05
+        "deref.pass.cpp": 0.045764411847521724
     },
     "subdirscores": {}
 }

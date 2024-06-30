@@ -1,16 +1,16 @@
 {
     "directory name": "llvm-project/lldb/test/API/functionalities/module_cache/bsd",
-    "score.sum": 1.2654943906544846e-05,
+    "score.sum": 0.0006581181377303739,
     "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
     "time.latest": 1717912558.1865125,
     "formatted_time": "2024-06-09 11:25:58.186514",
     "filescores": {
-        "a.c": 0,
-        "b.c": 0,
-        "c.c": 0,
-        "main.c": 0,
-        "Makefile": 0,
-        "TestModuleCacheBSD.py": 1.2654943906544846e-05
+        "a.c": 0.0,
+        "b.c": 0.0,
+        "c.c": 0.0,
+        "main.c": 0.0,
+        "Makefile": 0.0,
+        "TestModuleCacheBSD.py": 0.04165297214595172
     },
     "subdirscores": {}
 }

@@ -1,20 +1,20 @@
 {
     "directory name": "llvm-project/libcxx/test/std/strings/basic.string/string.modifiers",
-    "score.sum": 0.00020537395969101317,
+    "score.sum": 0.010680436743797867,
     "sha.latest": "a315fb1c577a40a40968daa9d346435458d7e06e",
     "time.latest": 1717969919.4298952,
     "formatted_time": "2024-06-10 03:21:59.429898",
     "filescores": {
-        "robust_against_adl.pass.cpp": 1.8802599512283577e-05
+        "robust_against_adl.pass.cpp": 0.061887603733398494
     },
     "subdirscores": {
-        "string_append": 0.00015542317360590363,
-        "string_assign": 0.00013558605169204866,
-        "string_copy": 5.437339570036556e-05,
-        "string_erase": 4.8631589335853626e-05,
-        "string_insert": 0.00012949130564149586,
-        "string_op_plus_equal": 5.9836629144722316e-05,
-        "string_replace": 0.00011694157437366486,
-        "string_swap": 3.865597770191641e-05
+        "string_append": 0.008082754876595028,
+        "string_assign": 0.007051128831605229,
+        "string_copy": 0.00282767890436042,
+        "string_erase": 0.002529077271692045,
+        "string_insert": 0.006734172632482536,
+        "string_op_plus_equal": 0.0031117934011877734,
+        "string_replace": 0.0060815260595704175,
+        "string_swap": 0.002010297338747982
     }
 }

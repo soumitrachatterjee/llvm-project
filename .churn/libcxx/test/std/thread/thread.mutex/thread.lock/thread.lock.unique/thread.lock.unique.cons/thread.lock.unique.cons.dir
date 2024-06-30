@@ -1,21 +1,21 @@
 {
     "directory name": "llvm-project/libcxx/test/std/thread/thread.mutex/thread.lock/thread.lock.unique/thread.lock.unique.cons",
-    "score.sum": 8.099616213675592e-05,
+    "score.sum": 0.004212191202300082,
     "sha.latest": "e655d8a54880cf550567dda0e9a1a33f6ee98df5",
     "time.latest": 1717978274.5136151,
     "formatted_time": "2024-06-10 05:41:14.513617",
     "filescores": {
-        "copy_assign.compile.fail.cpp": 0,
-        "copy_ctor.compile.fail.cpp": 0,
-        "default.pass.cpp": 1.6482671913285826e-05,
-        "move_assign.pass.cpp": 2.9744037175919974e-05,
-        "move_ctor.pass.cpp": 2.7605897152390505e-05,
-        "mutex.pass.cpp": 5.0685805367111806e-05,
-        "mutex_adopt_lock.pass.cpp": 2.532985709008909e-05,
-        "mutex_defer_lock.pass.cpp": 2.532985709008909e-05,
-        "mutex_duration.pass.cpp": 4.0002337210895845e-05,
-        "mutex_time_point.pass.cpp": 4.0002337210895845e-05,
-        "mutex_try_to_lock.pass.cpp": 4.591147959843975e-05
+        "copy_assign.compile.fail.cpp": 0.0,
+        "copy_ctor.compile.fail.cpp": 0.0,
+        "default.pass.cpp": 0.05425170424816236,
+        "move_assign.pass.cpp": 0.09790067511528064,
+        "move_ctor.pass.cpp": 0.09086311829148801,
+        "mutex.pass.cpp": 0.16682922142859652,
+        "mutex_adopt_lock.pass.cpp": 0.08337167194307071,
+        "mutex_defer_lock.pass.cpp": 0.08337167194307071,
+        "mutex_duration.pass.cpp": 0.1316652408673802,
+        "mutex_time_point.pass.cpp": 0.1316652408673802,
+        "mutex_try_to_lock.pass.cpp": 0.1511148208175161
     },
     "subdirscores": {}
 }

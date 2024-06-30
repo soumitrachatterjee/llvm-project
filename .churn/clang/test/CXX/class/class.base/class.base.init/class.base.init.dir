@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/clang/test/CXX/class/class.base/class.base.init",
-    "score.sum": 0,
+    "score.sum": 0.0,
     "sha.latest": "0f65d59e5224ad9ed16ae0db9c700b73b7988d94",
     "time.latest": 1718082783.041405,
     "formatted_time": "2024-06-11 10:43:03.041407",
     "filescores": {
-        "p5-0x.cpp": 0
+        "p5-0x.cpp": 0.0
     },
     "subdirscores": {}
 }

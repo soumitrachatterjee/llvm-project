@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/libcxx/test/libcxx/utilities/variant/variant.variant",
-    "score.sum": 7.262258635899299e-05,
+    "score.sum": 0.0037767248630020114,
     "sha.latest": "9bb9ec380ace81d040d3a0a0a2ae9a75733ab330",
     "time.latest": 1717867904.4327345,
     "formatted_time": "2024-06-08 23:01:44.432737",
     "filescores": {
-        "variant_size.pass.cpp": 3.20126619710879e-05
+        "variant_size.pass.cpp": 0.10536771456646891
     },
     "subdirscores": {
-        "variant.helper": 4.06729815287041e-05
+        "variant.helper": 0.0021151912689055096
     }
 }

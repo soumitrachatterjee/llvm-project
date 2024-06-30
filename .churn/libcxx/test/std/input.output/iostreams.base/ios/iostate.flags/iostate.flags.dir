@@ -1,21 +1,21 @@
 {
     "directory name": "llvm-project/libcxx/test/std/input.output/iostreams.base/ios/iostate.flags",
-    "score.sum": 3.371470006425753e-05,
+    "score.sum": 0.0017533270620782467,
     "sha.latest": "c1a8f12873783e8f4827437f6b2dddadfc58109d",
     "time.latest": 1717907608.7174647,
     "formatted_time": "2024-06-09 10:03:28.717466",
     "filescores": {
-        "bad.pass.cpp": 1.7366275644238228e-05,
-        "bool.pass.cpp": 2.7067234479779397e-05,
-        "clear.pass.cpp": 1.6262901385788504e-05,
-        "eof.pass.cpp": 1.7366275644238228e-05,
-        "exceptions.pass.cpp": 1.7366275644238228e-05,
-        "exceptions_iostate.pass.cpp": 1.6262901385788504e-05,
-        "fail.pass.cpp": 1.7366275644238228e-05,
-        "good.pass.cpp": 1.7366275644238228e-05,
-        "not.pass.cpp": 1.7366275644238228e-05,
-        "rdstate.pass.cpp": 1.7366275644238228e-05,
-        "setstate.pass.cpp": 1.6262901385788504e-05
+        "bad.pass.cpp": 0.057160031765472394,
+        "bool.pass.cpp": 0.08909014312351982,
+        "clear.pass.cpp": 0.05352834302839331,
+        "eof.pass.cpp": 0.057160031765472394,
+        "exceptions.pass.cpp": 0.057160031765472394,
+        "exceptions_iostate.pass.cpp": 0.05352834302839331,
+        "fail.pass.cpp": 0.057160031765472394,
+        "good.pass.cpp": 0.057160031765472394,
+        "not.pass.cpp": 0.057160031765472394,
+        "rdstate.pass.cpp": 0.057160031765472394,
+        "setstate.pass.cpp": 0.05352834302839331
     },
     "subdirscores": {}
 }

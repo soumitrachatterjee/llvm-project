@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/clang/test/CXX/basic/basic.stc/basic.stc.dynamic/basic.stc.dynamic.allocation",
-    "score.sum": 6.128966269900862e-06,
+    "score.sum": 0.0003187358156264411,
     "sha.latest": "bdd146435ff77f63c83823eeec4d763c6fb9a2d8",
     "time.latest": 1718082705.6770105,
     "formatted_time": "2024-06-11 10:41:45.677012",
     "filescores": {
-        "p1.cpp": 6.128966269900862e-06
+        "p1.cpp": 0.020173116784154874
     },
     "subdirscores": {}
 }

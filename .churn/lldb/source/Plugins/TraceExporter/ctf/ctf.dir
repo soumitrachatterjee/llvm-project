@@ -1,16 +1,16 @@
 {
     "directory name": "llvm-project/lldb/source/Plugins/TraceExporter/ctf",
-    "score.sum": 3.465956323776717e-05,
+    "score.sum": 0.0018024645056538423,
     "sha.latest": "92d8a28cc665d73d9d679b8c014dd04f95d1df18",
     "time.latest": 1717882609.3261704,
     "formatted_time": "2024-06-09 03:06:49.326173",
     "filescores": {
-        "CMakeLists.txt": 1.7847668302185483e-05,
-        "CommandObjectThreadTraceExportCTF.cpp": 2.516276880721024e-05,
-        "CommandObjectThreadTraceExportCTF.h": 1.3966716425409248e-05,
-        "TraceExporterCTF.cpp": 1.4605387606513734e-05,
-        "TraceExporterCTF.h": 1.4605387606513734e-05,
-        "TraceExporterCTFOptions.td": 1.7847668302185483e-05
+        "CMakeLists.txt": 0.05874450619071047,
+        "CommandObjectThreadTraceExportCTF.cpp": 0.08282171110214845,
+        "CommandObjectThreadTraceExportCTF.h": 0.045970590982794275,
+        "TraceExporterCTF.cpp": 0.04807273802614932,
+        "TraceExporterCTF.h": 0.04807273802614932,
+        "TraceExporterCTFOptions.td": 0.05874450619071047
     },
     "subdirscores": {}
 }

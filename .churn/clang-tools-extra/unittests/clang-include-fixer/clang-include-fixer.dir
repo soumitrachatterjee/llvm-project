@@ -1,15 +1,15 @@
 {
     "directory name": "llvm-project/clang-tools-extra/unittests/clang-include-fixer",
-    "score.sum": 2.7204008187874043e-05,
+    "score.sum": 0.0014147396732549925,
     "sha.latest": "f9d558c871337699d2815dbf116bae94025f5d90",
     "time.latest": 1717836795.6839972,
     "formatted_time": "2024-06-08 14:23:15.683999",
     "filescores": {
-        "CMakeLists.txt": 6.269241928684818e-06,
-        "FuzzySymbolIndexTests.cpp": 0,
-        "IncludeFixerTest.cpp": 1.3414807154044447e-05
+        "CMakeLists.txt": 0.020634825516428378,
+        "FuzzySymbolIndexTests.cpp": 0.0,
+        "IncludeFixerTest.cpp": 0.04415401544701799
     },
     "subdirscores": {
-        "find-all-symbols": 1.3792967335843e-05
+        "find-all-symbols": 0.0007173008465210383
     }
 }

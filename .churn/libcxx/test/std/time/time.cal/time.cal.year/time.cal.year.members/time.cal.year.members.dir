@@ -1,17 +1,17 @@
 {
     "directory name": "llvm-project/libcxx/test/std/time/time.cal/time.cal.year/time.cal.year.members",
-    "score.sum": 6.099602068851199e-06,
+    "score.sum": 0.00031720873550238375,
     "sha.latest": "efac016e32f3b7ded78650b0e40a9880a298bdbe",
     "time.latest": 1717982067.7903693,
     "formatted_time": "2024-06-10 06:44:27.790372",
     "filescores": {
-        "ctor.pass.cpp": 0,
-        "decrement.pass.cpp": 6.099602068851199e-06,
-        "increment.pass.cpp": 6.099602068851199e-06,
-        "is_leap.pass.cpp": 0,
-        "ok.pass.cpp": 0,
-        "plus_minus.pass.cpp": 6.099602068851199e-06,
-        "plus_minus_equal.pass.cpp": 6.099602068851199e-06
+        "ctor.pass.cpp": 0.0,
+        "decrement.pass.cpp": 0.02007646631636598,
+        "increment.pass.cpp": 0.02007646631636598,
+        "is_leap.pass.cpp": 0.0,
+        "ok.pass.cpp": 0.0,
+        "plus_minus.pass.cpp": 0.02007646631636598,
+        "plus_minus_equal.pass.cpp": 0.02007646631636598
     },
     "subdirscores": {}
 }

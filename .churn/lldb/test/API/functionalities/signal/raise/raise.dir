@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/lldb/test/API/functionalities/signal/raise",
-    "score.sum": 2.857593496374121e-05,
+    "score.sum": 0.0014860864845489706,
     "sha.latest": "9c2468821ec51defd09c246fea4a47886fff8c01",
     "time.latest": 1717919931.6861634,
     "formatted_time": "2024-06-09 13:28:51.686165",
     "filescores": {
-        "main.c": 0,
-        "Makefile": 0,
-        "TestRaise.py": 2.857593496374121e-05
+        "main.c": 0.0,
+        "Makefile": 0.0,
+        "TestRaise.py": 0.09405593828619493
     },
     "subdirscores": {}
 }

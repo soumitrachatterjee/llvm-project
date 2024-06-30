@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/llvm/utils/gn/secondary/clang/lib/StaticAnalyzer",
-    "score.sum": 0.00013497061060647843,
+    "score.sum": 0.007019122925920515,
     "sha.latest": "8abc80eeb0cd18de2365fcadc39315a2918c93bf",
     "time.latest": 1718084166.3304937,
     "formatted_time": "2024-06-11 00:36:06.330494",
     "filescores": {},
     "subdirscores": {
-        "Checkers": 7.856432016711546e-05,
-        "Core": 5.276929116780102e-05,
-        "Frontend": 1.8253211744121348e-05
+        "Checkers": 0.0040857236873009335,
+        "Core": 0.0027442577295616727,
+        "Frontend": 0.0009492550744872607
     }
 }

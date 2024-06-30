@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/llvm/utils/docker/example",
-    "score.sum": 1.387385265857049e-05,
+    "score.sum": 0.0007215072735393046,
     "sha.latest": "2946cd701067404b99c39fb29dc9c74bd7193eb3",
     "time.latest": 1718079504.6883059,
     "formatted_time": "2024-06-10 23:18:24.688309",
     "filescores": {
-        "Dockerfile": 6.605901984133049e-06
+        "Dockerfile": 0.02174292145235642
     },
     "subdirscores": {}
 }

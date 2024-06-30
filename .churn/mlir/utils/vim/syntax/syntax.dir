@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/mlir/utils/vim/syntax",
-    "score.sum": 4.4266462845027813e-05,
+    "score.sum": 0.002302069634335859,
     "sha.latest": "6ad6b00f6a47cd23b882f65ba6da45e227ba536a",
     "time.latest": 1717837435.0400546,
     "formatted_time": "2024-06-08 04:03:55.040058",
     "filescores": {
-        "mlir.vim": 4.4266462845027813e-05
+        "mlir.vim": 0.14570034900985726
     },
     "subdirscores": {}
 }

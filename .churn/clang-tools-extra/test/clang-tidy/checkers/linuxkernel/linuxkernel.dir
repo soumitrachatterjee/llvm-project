@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/clang-tools-extra/test/clang-tidy/checkers/linuxkernel",
-    "score.sum": 0,
+    "score.sum": 0.0,
     "sha.latest": "89a1d03e2b379e325daa5249411e414bbd995b5e",
     "time.latest": 1717824551.8717034,
     "formatted_time": "2024-06-08 10:59:11.871705",
     "filescores": {
-        "must-check-errs.c": 0
+        "must-check-errs.c": 0.0
     },
     "subdirscores": {}
 }

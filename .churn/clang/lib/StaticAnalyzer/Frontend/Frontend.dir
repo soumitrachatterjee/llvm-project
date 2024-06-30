@@ -1,19 +1,19 @@
 {
     "directory name": "llvm-project/clang/lib/StaticAnalyzer/Frontend",
-    "score.sum": 0.0008337106828011805,
+    "score.sum": 0.04335697779642205,
     "sha.latest": "f3dcc2351cff7b26c9870d737e5d431551542d9e",
     "time.latest": 1717822548.2939985,
     "formatted_time": "2024-06-08 10:25:48.294002",
     "filescores": {
-        "AnalysisConsumer.cpp": 0.0005253097166724804,
-        "AnalyzerHelpFlags.cpp": 1.818483027512691e-05,
-        "CheckerRegistry.cpp": 5.9511369212515805e-05,
-        "CMakeLists.txt": 6.574657942817233e-05,
-        "CreateCheckerManager.cpp": 6.102879936701515e-06,
-        "FrontendActions.cpp": 2.5777568103064527e-05,
-        "ModelConsumer.cpp": 1.1757263934436844e-05,
-        "ModelInjector.cpp": 4.0615785111418325e-05,
-        "ModelInjector.h": 1.664997972737416e-05
+        "AnalysisConsumer.cpp": 1.7290247320053642,
+        "AnalyzerHelpFlags.cpp": 0.05985425415730084,
+        "CheckerRegistry.cpp": 0.19587802383654804,
+        "CMakeLists.txt": 0.21640083605561894,
+        "CreateCheckerManager.cpp": 0.02008725521746863,
+        "FrontendActions.cpp": 0.0848452852985007,
+        "ModelConsumer.cpp": 0.03869831354372311,
+        "ModelInjector.cpp": 0.13368436702883563,
+        "ModelInjector.h": 0.05480238766260383
     },
     "subdirscores": {}
 }

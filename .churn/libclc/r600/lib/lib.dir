@@ -1,17 +1,17 @@
 {
     "directory name": "llvm-project/libclc/r600/lib",
-    "score.sum": 0.00011963756620157009,
+    "score.sum": 0.006221730641607299,
     "sha.latest": "3d21fa56f5f5afbbf16b35b199480af71e1189a3",
     "time.latest": 1717831806.751782,
     "formatted_time": "2024-06-08 02:30:06.751783",
     "filescores": {
-        "SOURCES": 6.712760292481726e-05,
-        "SOURCES_3.9": 2.652255521659085e-05
+        "SOURCES": 0.2209463902408813,
+        "SOURCES_3.9": 0.08729736471647082
     },
     "subdirscores": {
-        "image": 1.0859838168656314e-05,
-        "math": 2.4218880759805608e-05,
-        "synchronization": 3.1044247394462503e-05,
-        "workitem": 5.933531322406648e-05
+        "image": 0.0005647639787571903,
+        "math": 0.0012594986450563425,
+        "synchronization": 0.0016144506394784057,
+        "workitem": 0.003085722554682798
     }
 }

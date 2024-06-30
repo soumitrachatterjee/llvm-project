@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/mlir/test/Conversion/ArithToArmSME",
-    "score.sum": 0,
+    "score.sum": 0.0,
     "sha.latest": "9f7fff7f1391ea3bec394d8251b81cea92175cca",
     "time.latest": 1717815294.4653144,
     "formatted_time": "2024-06-07 21:54:54.465318",
     "filescores": {
-        "arith-to-arm-sme.mlir": 0
+        "arith-to-arm-sme.mlir": 0.0
     },
     "subdirscores": {}
 }

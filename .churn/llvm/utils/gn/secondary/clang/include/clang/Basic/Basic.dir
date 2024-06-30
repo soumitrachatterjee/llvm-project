@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/llvm/utils/gn/secondary/clang/include/clang/Basic",
-    "score.sum": 7.939067628339509e-05,
+    "score.sum": 0.004128698192155657,
     "sha.latest": "1f780bfac919dc34deface0f8e276d3573240291",
     "time.latest": 1718083232.4183218,
     "formatted_time": "2024-06-11 00:20:32.418325",
     "filescores": {
-        "BUILD.gn": 7.939067628339509e-05
+        "BUILD.gn": 0.26130954449907084
     },
     "subdirscores": {}
 }

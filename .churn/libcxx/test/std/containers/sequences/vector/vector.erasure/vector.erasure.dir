@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/libcxx/test/std/containers/sequences/vector/vector.erasure",
-    "score.sum": 3.501698747292351e-05,
+    "score.sum": 0.0018210522902981617,
     "sha.latest": "fb855eb941b6d740cc6560297d0b4d3201dcaf9f",
     "time.latest": 1717887304.3450778,
     "formatted_time": "2024-06-09 04:25:04.345079",
     "filescores": {
-        "erase.pass.cpp": 3.501698747292351e-05,
-        "erase_if.pass.cpp": 3.501698747292351e-05
+        "erase.pass.cpp": 0.11525626779669003,
+        "erase_if.pass.cpp": 0.11525626779669003
     },
     "subdirscores": {}
 }

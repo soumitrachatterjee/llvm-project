@@ -1,17 +1,17 @@
 {
     "directory name": "llvm-project/third-party/unittest/googlemock/src",
-    "score.sum": 1.8257891228743476e-05,
+    "score.sum": 0.0009494984302640854,
     "sha.latest": "a866ce789eb99da4d7a486eeb60a53be6c75f4fd",
     "time.latest": 1717789976.9553382,
     "formatted_time": "2024-06-07 14:52:56.955342",
     "filescores": {
-        "gmock-all.cc": 6.680685618677728e-06,
-        "gmock-cardinalities.cc": 1.8257891228743476e-05,
-        "gmock-internal-utils.cc": 1.8257891228743476e-05,
-        "gmock-matchers.cc": 1.8257891228743476e-05,
-        "gmock-spec-builders.cc": 1.8257891228743476e-05,
-        "gmock.cc": 1.8257891228743476e-05,
-        "gmock_main.cc": 6.362580167617361e-06
+        "gmock-all.cc": 0.02198906720137484,
+        "gmock-cardinalities.cc": 0.06009472980764123,
+        "gmock-internal-utils.cc": 0.06009472980764123,
+        "gmock-matchers.cc": 0.06009472980764123,
+        "gmock-spec-builders.cc": 0.06009472980764123,
+        "gmock.cc": 0.06009472980764123,
+        "gmock_main.cc": 0.020942042608429766
     },
     "subdirscores": {}
 }

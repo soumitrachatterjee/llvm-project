@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/libcxx/include/__debug_utils",
-    "score.sum": 2.0148743984970318e-05,
+    "score.sum": 0.0010478318961285038,
     "sha.latest": "8938bc0ad0651f8d481cca2b2b98345d34b3aabe",
     "time.latest": 1717832613.8162563,
     "formatted_time": "2024-06-08 13:13:33.816259",
     "filescores": {
-        "randomize_range.h": 7.018518831277789e-06,
-        "strict_weak_ordering_check.h": 6.734158413976143e-06
+        "randomize_range.h": 0.023101024512155975,
+        "strict_weak_ordering_check.h": 0.022165069629325483
     },
     "subdirscores": {}
 }

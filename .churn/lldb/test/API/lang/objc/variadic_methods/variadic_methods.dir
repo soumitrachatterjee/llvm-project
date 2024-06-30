@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/lldb/test/API/lang/objc/variadic_methods",
-    "score.sum": 1.2330488122197749e-05,
+    "score.sum": 0.0006412448715865449,
     "sha.latest": "a852cf66ea5d130a09cd796b97b15c18059e95cd",
     "time.latest": 1717960161.7467363,
     "formatted_time": "2024-06-10 00:39:21.746740",
     "filescores": {
-        "main.m": 6.099602068851199e-06,
-        "TestVariadicMethods.py": 1.2139001116993191e-05
+        "main.m": 0.02007646631636598,
+        "TestVariadicMethods.py": 0.03995477808039089
     },
     "subdirscores": {}
 }

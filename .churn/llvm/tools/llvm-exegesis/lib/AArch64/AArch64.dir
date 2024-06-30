@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/llvm/tools/llvm-exegesis/lib/AArch64",
-    "score.sum": 5.8402697648848055e-05,
+    "score.sum": 0.0030372220453076704,
     "sha.latest": "37ef64078553af3e8d305ac2a5d50faa82f8b8bb",
     "time.latest": 1718079701.7005465,
     "formatted_time": "2024-06-10 23:21:41.700550",
     "filescores": {
-        "CMakeLists.txt": 4.49587393848502e-05,
-        "Target.cpp": 1.2830653750715947e-05
+        "CMakeLists.txt": 0.14797893480553231,
+        "Target.cpp": 0.04223131032738319
     },
     "subdirscores": {}
 }

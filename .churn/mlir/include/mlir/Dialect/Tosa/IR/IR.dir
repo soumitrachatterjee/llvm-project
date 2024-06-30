@@ -1,19 +1,19 @@
 {
     "directory name": "llvm-project/mlir/include/mlir/Dialect/Tosa/IR",
-    "score.sum": 0.0004682285740546828,
+    "score.sum": 0.024350144849685854,
     "sha.latest": "d57f158a9546746219e3b01398886e104d8a0fdb",
     "time.latest": 1717797607.889338,
     "formatted_time": "2024-06-07 17:00:07.889342",
     "filescores": {
-        "CMakeLists.txt": 1.0372964563694852e-05,
-        "ShardingInterfaceImpl.h": 7.138209873746793e-06,
-        "TosaDialectBytecode.td": 0,
-        "TosaInterfaces.td": 1.1425812485567735e-05,
-        "TosaOpBase.td": 0.00010252713263259008,
-        "TosaOps.h": 5.6237830694299084e-05,
-        "TosaOps.td": 0.0003276865598857965,
-        "TosaTypesBase.td": 6.150579658492617e-05,
-        "TosaUtilOps.td": 2.6249446855322563e-05
+        "CMakeLists.txt": 0.034141977019674655,
+        "ShardingInterfaceImpl.h": 0.02349498024162412,
+        "TosaDialectBytecode.td": 0.0,
+        "TosaInterfaces.td": 0.03760736141707321,
+        "TosaOpBase.td": 0.3374617723545134,
+        "TosaOps.h": 0.18510337246512135,
+        "TosaOps.td": 1.078560225341403,
+        "TosaTypesBase.td": 0.20244255927847668,
+        "TosaUtilOps.td": 0.08639844528634585
     },
     "subdirscores": {}
 }

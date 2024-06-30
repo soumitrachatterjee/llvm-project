@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/libc/src/__support/OSUtil/darwin/arm",
-    "score.sum": 1.1951078032790268e-05,
+    "score.sum": 0.000621513716449,
     "sha.latest": "b6bc9d72f65a5086f310f321e969d96e9a559e75",
     "time.latest": 1717829025.0516534,
     "formatted_time": "2024-06-08 01:43:45.051657",
     "filescores": {
-        "CMakeLists.txt": 0,
-        "syscall.h": 1.1951078032790268e-05
+        "CMakeLists.txt": 0.0,
+        "syscall.h": 0.03933624076804156
     },
     "subdirscores": {}
 }

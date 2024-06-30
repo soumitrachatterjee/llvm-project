@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/lldb/test/API/lang/cpp/non-type-template-param",
-    "score.sum": 1.2087402708095836e-05,
+    "score.sum": 0.0006286032572720452,
     "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
     "time.latest": 1717934092.8560772,
     "formatted_time": "2024-06-09 17:24:52.856083",
     "filescores": {
-        "main.cpp": 0,
-        "Makefile": 0,
-        "TestCppNonTypeTemplateParam.py": 1.207460526936499e-05
+        "main.cpp": 0.0,
+        "Makefile": 0.0,
+        "TestCppNonTypeTemplateParam.py": 0.03974282309525775
     },
     "subdirscores": {}
 }

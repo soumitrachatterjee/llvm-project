@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/llvm/include/llvm/ToolDrivers/llvm-dlltool",
-    "score.sum": 6.1029581899521105e-06,
+    "score.sum": 0.0003173832699914531,
     "sha.latest": "2946cd701067404b99c39fb29dc9c74bd7193eb3",
     "time.latest": 1717823675.2980719,
     "formatted_time": "2024-06-08 00:14:35.298074",
     "filescores": {
-        "DlltoolDriver.h": 6.1029581899521105e-06
+        "DlltoolDriver.h": 0.0200875127832462
     },
     "subdirscores": {}
 }

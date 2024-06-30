@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/llvm/tools/llvm-bcanalyzer",
-    "score.sum": 0.0006730341259500931,
+    "score.sum": 0.03500102164579244,
     "sha.latest": "49e75ebd854dee1fcf5729c264f4cfadf76e952d",
     "time.latest": 1718078247.7899835,
     "formatted_time": "2024-06-10 22:57:27.789987",
     "filescores": {
-        "CMakeLists.txt": 2.980959246145253e-05,
-        "llvm-bcanalyzer.cpp": 0.0006240956373260544
+        "CMakeLists.txt": 0.09811644631920476,
+        "llvm-bcanalyzer.cpp": 2.054172534459666
     },
     "subdirscores": {}
 }

@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/lldb/source/Plugins/SymbolFile/JSON",
-    "score.sum": 8.460272721593823e-06,
+    "score.sum": 0.0004399749986522533,
     "sha.latest": "917b404e2ccdcc31d2d64971ad094b80967a240b",
     "time.latest": 1717881151.0974329,
     "formatted_time": "2024-06-09 02:42:31.097435",
     "filescores": {
-        "CMakeLists.txt": 0,
-        "SymbolFileJSON.cpp": 6.099602068851199e-06,
-        "SymbolFileJSON.h": 8.460272721593823e-06
+        "CMakeLists.txt": 0.0,
+        "SymbolFileJSON.cpp": 0.02007646631636598,
+        "SymbolFileJSON.h": 0.027846469065536665
     },
     "subdirscores": {}
 }

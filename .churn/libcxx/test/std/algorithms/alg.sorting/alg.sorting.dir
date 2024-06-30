@@ -1,24 +1,24 @@
 {
     "directory name": "llvm-project/libcxx/test/std/algorithms/alg.sorting",
-    "score.sum": 0.00068706651132608,
+    "score.sum": 0.035730773385488676,
     "sha.latest": "8dfc67d6724eb0af5d278f4d1d5511ca9f9e039f",
     "time.latest": 1717872498.6192298,
     "formatted_time": "2024-06-09 00:18:18.619233",
     "filescores": {
-        "sortable_helpers.h": 2.015089845361105e-05
+        "sortable_helpers.h": 0.0663254470507825
     },
     "subdirscores": {
-        "alg.binary.search": 5.634725329345758e-05,
-        "alg.clamp": 8.017233818385903e-05,
-        "alg.heap.operations": 0.0001505510090317766,
-        "alg.lex.comparison": 3.078333869836483e-05,
-        "alg.merge": 0.0001923859307734125,
-        "alg.min.max": 0.00015457852174277038,
-        "alg.nth.element": 6.18650380080286e-05,
-        "alg.partitions": 1.753009071481327e-05,
-        "alg.permutation.generators": 3.126518315548076e-05,
-        "alg.set.operations": 0.00010425808401570211,
-        "alg.sort": 0.00020841343833792088,
-        "alg.three.way": 2.7164539914668288e-05
+        "alg.binary.search": 0.0029303290222039966,
+        "alg.clamp": 0.004169348382157847,
+        "alg.heap.operations": 0.007829378812669367,
+        "alg.lex.comparison": 0.0016008821285105573,
+        "alg.merge": 0.010004996578502552,
+        "alg.min.max": 0.008038828904634913,
+        "alg.nth.element": 0.0032172804482685996,
+        "alg.partitions": 0.0009116492922193694,
+        "alg.permutation.generators": 0.0016259403649701305,
+        "alg.set.operations": 0.005421923368642124,
+        "alg.sort": 0.010838504297597105,
+        "alg.three.way": 0.001412687132631073
     }
 }

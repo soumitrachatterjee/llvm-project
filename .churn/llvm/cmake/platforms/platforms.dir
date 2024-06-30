@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/llvm/cmake/platforms",
-    "score.sum": 0.00010462823283129639,
+    "score.sum": 0.005441172892859771,
     "sha.latest": "15eaefa5fe3608b03f1abefc31129efaf9eab88e",
     "time.latest": 1717789247.1512349,
     "formatted_time": "2024-06-07 14:40:47.151237",
     "filescores": {
-        "Android.cmake": 1.497029154609294e-05,
-        "ClangClCMakeCompileRules.cmake": 0,
-        "WinMsvc.cmake": 5.227128993340301e-05,
-        "iOS.cmake": 2.2944702818866343e-05
+        "Android.cmake": 0.04927379697540156,
+        "ClangClCMakeCompileRules.cmake": 0.0,
+        "WinMsvc.cmake": 0.17204774669155004,
+        "iOS.cmake": 0.07552108286446896
     },
     "subdirscores": {}
 }

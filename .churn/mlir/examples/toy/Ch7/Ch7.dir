@@ -1,16 +1,16 @@
 {
     "directory name": "llvm-project/mlir/examples/toy/Ch7",
-    "score.sum": 0.0005368644527597291,
+    "score.sum": 0.027919541680555385,
     "sha.latest": "fab2bb8bfda865bd438dee981d7be7df8017b76d",
     "time.latest": 1717789878.181952,
     "formatted_time": "2024-06-07 14:51:18.181955",
     "filescores": {
-        "CMakeLists.txt": 5.5202752395429554e-05,
-        "toyc.cpp": 0.0001277268466308923
+        "CMakeLists.txt": 0.18169647569259645,
+        "toyc.cpp": 0.42040508628847556
     },
     "subdirscores": {
-        "include": 0.00018879405560381216,
-        "mlir": 0.00035836103087514946,
-        "parser": 2.1339941678085742e-05
+        "include": 0.009818201740450774,
+        "mlir": 0.018636502541328325,
+        "parser": 0.0011097799231803186
     }
 }

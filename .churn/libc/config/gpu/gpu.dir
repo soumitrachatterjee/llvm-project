@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/libc/config/gpu",
-    "score.sum": 0.00016779538815751927,
+    "score.sum": 0.008726169723823144,
     "sha.latest": "043a020688765ad1ed27df718f908cfd0dc353a3",
     "time.latest": 1717825062.7006922,
     "formatted_time": "2024-06-08 00:37:42.700695",
     "filescores": {
-        "api.td": 3.562858387296723e-05,
-        "config.json": 0,
-        "entrypoints.txt": 0.00014324906732504384,
-        "headers.txt": 4.0900863747761884e-05
+        "api.td": 0.11726929985781283,
+        "config.json": 0.0,
+        "entrypoints.txt": 0.47149552422257274,
+        "headers.txt": 0.1346226858856172
     },
     "subdirscores": {}
 }

@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/libc/test/src/stdio/scanf_core",
-    "score.sum": 2.277691032175677e-05,
+    "score.sum": 0.0011845092253987683,
     "sha.latest": "b6bc9d72f65a5086f310f321e969d96e9a559e75",
     "time.latest": 1717849903.2210455,
     "formatted_time": "2024-06-08 07:31:43.221049",
     "filescores": {
-        "CMakeLists.txt": 6.4763859408326535e-06,
-        "converter_test.cpp": 7.83804065898691e-06,
-        "parser_test.cpp": 1.6183655071846252e-05,
-        "reader_test.cpp": 6.099602068851199e-06
+        "CMakeLists.txt": 0.02131662733490441,
+        "converter_test.cpp": 0.02579843037303169,
+        "parser_test.cpp": 0.053267508643690994,
+        "reader_test.cpp": 0.02007646631636598
     },
     "subdirscores": {}
 }

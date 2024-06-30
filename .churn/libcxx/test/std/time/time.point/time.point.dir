@@ -1,20 +1,20 @@
 {
     "directory name": "llvm-project/libcxx/test/std/time/time.point",
-    "score.sum": 1.4593264720771919e-05,
+    "score.sum": 0.0007589201716235001,
     "sha.latest": "d1a461dbb2293d9258d400b5426f610bb5191228",
     "time.latest": 1717985490.7049398,
     "formatted_time": "2024-06-10 07:41:30.704942",
     "filescores": {
-        "default_duration.pass.cpp": 0,
-        "duration.compile.fail.cpp": 0
+        "default_duration.pass.cpp": 0.0,
+        "duration.compile.fail.cpp": 0.0
     },
     "subdirscores": {
-        "time.point.arithmetic": 0,
-        "time.point.cast": 0,
-        "time.point.comparisons": 6.099602068851199e-06,
-        "time.point.cons": 0,
-        "time.point.nonmember": 1.1386053146879522e-05,
-        "time.point.observer": 0,
-        "time.point.special": 0
+        "time.point.arithmetic": 0.0,
+        "time.point.cast": 0.0,
+        "time.point.comparisons": 0.00031720873550238375,
+        "time.point.cons": 0.0,
+        "time.point.nonmember": 0.0005921296963827724,
+        "time.point.observer": 0.0,
+        "time.point.special": 0.0
     }
 }

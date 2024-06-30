@@ -1,16 +1,16 @@
 {
     "directory name": "llvm-project/mlir/lib/Dialect/Bufferization",
-    "score.sum": 0.0011103277419320112,
+    "score.sum": 0.057742399428001516,
     "sha.latest": "afac64cef40c77320cc49808be30f3e5ef7f7357",
     "time.latest": 1717805770.373727,
     "formatted_time": "2024-06-07 19:16:10.373728",
     "filescores": {
-        "CMakeLists.txt": 2.01724798462662e-05
+        "CMakeLists.txt": 0.06639648088181124
     },
     "subdirscores": {
-        "IR": 0.0005373628260512531,
-        "Pipelines": 8.03982624278365e-06,
-        "TransformOps": 0.0001048637585669755,
-        "Transforms": 0.0008131630483810777
+        "IR": 0.027945459496148607,
+        "Pipelines": 0.0004181097532830707,
+        "TransformOps": 0.005453421367424132,
+        "Transforms": 0.04228840167319412
     }
 }

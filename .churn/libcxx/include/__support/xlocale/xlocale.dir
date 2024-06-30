@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/libcxx/include/__support/xlocale",
-    "score.sum": 4.090490637559489e-05,
+    "score.sum": 0.0021272524798801574,
     "sha.latest": "09531e34eec121e9c2319d58bb9fb7edc304027e",
     "time.latest": 1717837219.43926,
     "formatted_time": "2024-06-08 14:30:19.439262",
     "filescores": {
-        "__nop_locale_mgmt.h": 2.0919384613794342e-05,
-        "__posix_l_fallback.h": 2.9159917408733474e-05,
-        "__strtonum_fallback.h": 3.031498178843095e-05
+        "__nop_locale_mgmt.h": 0.06885487214038002,
+        "__posix_l_fallback.h": 0.0959780807069454,
+        "__strtonum_fallback.h": 0.09977990430961167
     },
     "subdirscores": {}
 }

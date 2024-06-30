@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/libcxx/test/std/re/re.regex/re.regex.nonmemb",
-    "score.sum": 1.7128700672548115e-05,
+    "score.sum": 0.0008907750734895303,
     "sha.latest": "aaaa25e23db7af931b4354700f48027a034444ae",
     "time.latest": 1717967176.4876237,
     "formatted_time": "2024-06-10 02:36:16.487625",
     "filescores": {},
     "subdirscores": {
-        "re.regex.nmswap": 1.412973324667397e-05
+        "re.regex.nmswap": 0.000734814298633025
     }
 }

@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/libcxx/test/std/input.output/iostreams.base/ios.base/ios.base.storage",
-    "score.sum": 2.3142923531384718e-05,
+    "score.sum": 0.0012035436781536702,
     "sha.latest": "d486c5b11757be769051c1b2b6d6a18e2857dbbd",
     "time.latest": 1717907902.275032,
     "formatted_time": "2024-06-09 10:08:22.275034",
     "filescores": {
-        "iword.pass.cpp": 1.9367069938750154e-05,
-        "pword.pass.cpp": 1.9367069938750154e-05,
-        "xalloc.pass.cpp": 2.3121252943013473e-05
+        "iword.pass.cpp": 0.0637455235412189,
+        "pword.pass.cpp": 0.0637455235412189,
+        "xalloc.pass.cpp": 0.07610218677593406
     },
     "subdirscores": {}
 }

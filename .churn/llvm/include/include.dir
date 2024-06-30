@@ -1,18 +1,18 @@
 {
     "directory name": "llvm-project/llvm/include",
-    "score.sum": 0.20557827492105635,
+    "score.sum": 10.691062121492067,
     "sha.latest": "fab2bb8bfda865bd438dee981d7be7df8017b76d",
     "time.latest": 1717826849.4089894,
     "formatted_time": "2024-06-08 01:07:29.408993",
     "filescores": {
-        "CMakeLists.txt": 0,
-        "module.extern.modulemap": 0,
-        "module.install.modulemap": 0,
-        "module.modulemap": 2.2922079701128498e-05,
-        "module.modulemap.build": 0
+        "CMakeLists.txt": 0.0,
+        "module.extern.modulemap": 0.0,
+        "module.install.modulemap": 0.0,
+        "module.modulemap": 0.07544662025918615,
+        "module.modulemap.build": 0.0
     },
     "subdirscores": {
-        "llvm-c": 0.002848191443273416,
-        "llvm": 0.20338580465832612
+        "llvm-c": 0.14811969633285108,
+        "llvm": 10.577043090116431
     }
 }

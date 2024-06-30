@@ -1,28 +1,28 @@
 {
     "directory name": "llvm-project/clang-tools-extra/clang-include-fixer",
-    "score.sum": 0.0001951257632462074,
+    "score.sum": 0.010147481085585703,
     "sha.latest": "716042a63f26cd020eb72960f72fa97b9a197382",
     "time.latest": 1717789587.4479263,
     "formatted_time": "2024-06-08 01:16:27.447934",
     "filescores": {
-        "CMakeLists.txt": 9.569097636141386e-06,
-        "FuzzySymbolIndex.cpp": 6.80431306509924e-06,
-        "FuzzySymbolIndex.h": 0,
-        "IncludeFixer.cpp": 2.2719713569109055e-05,
-        "IncludeFixer.h": 1.110883544649101e-05,
-        "IncludeFixerContext.cpp": 1.250078665071139e-05,
-        "IncludeFixerContext.h": 8.526803132545756e-06,
-        "InMemorySymbolIndex.cpp": 6.099602068851199e-06,
-        "InMemorySymbolIndex.h": 0,
-        "SymbolIndex.h": 0,
-        "SymbolIndexManager.cpp": 2.2214693052062836e-05,
-        "SymbolIndexManager.h": 0,
-        "YamlSymbolIndex.cpp": 6.099602068851199e-06,
-        "YamlSymbolIndex.h": 0
+        "CMakeLists.txt": 0.031496098303047594,
+        "FuzzySymbolIndex.cpp": 0.02239597936315907,
+        "FuzzySymbolIndex.h": 0.0,
+        "IncludeFixer.cpp": 0.07478054454027835,
+        "IncludeFixer.h": 0.03656405092300292,
+        "IncludeFixerContext.cpp": 0.041145572987903584,
+        "IncludeFixerContext.h": 0.02806544983500545,
+        "InMemorySymbolIndex.cpp": 0.02007646631636598,
+        "InMemorySymbolIndex.h": 0.0,
+        "SymbolIndex.h": 0.0,
+        "SymbolIndexManager.cpp": 0.07311830046515595,
+        "SymbolIndexManager.h": 0.0,
+        "YamlSymbolIndex.cpp": 0.02007646631636598,
+        "YamlSymbolIndex.h": 0.0
     },
     "subdirscores": {
-        "find-all-symbols": 0.00013498313154146964,
-        "plugin": 1.4942614349309965e-05,
-        "tool": 4.810898593541283e-05
+        "find-all-symbols": 0.007019774074948113,
+        "plugin": 0.0007770880377672095,
+        "tool": 0.002501899373535437
     }
 }

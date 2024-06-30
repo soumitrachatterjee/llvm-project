@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/libc/startup/linux/aarch64",
-    "score.sum": 4.239792863573359e-05,
+    "score.sum": 0.0022048968405892007,
     "sha.latest": "2bc994456c5be2ab6d98b94de2349302577a9823",
     "time.latest": 1717843737.1233232,
     "formatted_time": "2024-06-08 05:48:57.123327",
     "filescores": {
-        "CMakeLists.txt": 1.2388345192998388e-05,
-        "start.cpp": 3.952382162765916e-05,
-        "tls.cpp": 0
+        "CMakeLists.txt": 0.04077547882227495,
+        "start.cpp": 0.13009023615719312,
+        "tls.cpp": 0.0
     },
     "subdirscores": {}
 }

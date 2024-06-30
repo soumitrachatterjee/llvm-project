@@ -1,16 +1,16 @@
 {
     "directory name": "llvm-project/clang/lib/Headers/cuda_wrappers",
-    "score.sum": 4.0656066786784956e-05,
+    "score.sum": 0.002114311620719455,
     "sha.latest": "588023ddafb4b0cd11914ab068c6d07187374d69",
     "time.latest": 1717813758.7201304,
     "formatted_time": "2024-06-08 07:59:18.720134",
     "filescores": {
-        "algorithm": 1.502695986147607e-05,
-        "cmath": 0,
-        "complex": 6.18074274752159e-06,
-        "new": 2.2473760864096577e-05
+        "algorithm": 0.04946031726183213,
+        "cmath": 0.0,
+        "complex": 0.020343535886450246,
+        "new": 0.07397100628813265
     },
     "subdirscores": {
-        "bits": 6.099602068851199e-06
+        "bits": 0.00031720873550238375
     }
 }

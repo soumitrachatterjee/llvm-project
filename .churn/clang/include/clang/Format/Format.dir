@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/clang/include/clang/Format",
-    "score.sum": 0.0015602705994607888,
+    "score.sum": 0.08114159879772595,
     "sha.latest": "3b5965e633bf6f945436dc8ac33bbb37ace4acf1",
     "time.latest": 1717799475.4758563,
     "formatted_time": "2024-06-08 04:01:15.475859",
     "filescores": {
-        ".clang-format": 1.6742608278909176e-05,
-        "Format.h": 0.0015317687074390882
+        ".clang-format": 0.055107268862038664,
+        "Format.h": 5.0417228062151676
     },
     "subdirscores": {}
 }

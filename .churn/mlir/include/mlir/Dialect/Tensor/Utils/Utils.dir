@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/mlir/include/mlir/Dialect/Tensor/Utils",
-    "score.sum": 4.3208061764305954e-05,
+    "score.sum": 0.0022470276718142986,
     "sha.latest": "adf838daee63b3245c8822957988da5367e1572c",
     "time.latest": 1717797506.2668283,
     "formatted_time": "2024-06-07 16:58:26.266831",
     "filescores": {
-        "Utils.h": 4.3208061764305954e-05
+        "Utils.h": 0.1422166867305047
     },
     "subdirscores": {}
 }

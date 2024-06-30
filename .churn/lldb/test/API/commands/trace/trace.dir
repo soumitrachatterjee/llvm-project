@@ -1,27 +1,27 @@
 {
     "directory name": "llvm-project/lldb/test/API/commands/trace",
-    "score.sum": 0.000183236027512377,
+    "score.sum": 0.00952915746463248,
     "sha.latest": "1eeeab82c6eb185f5139e633a59c2dbcb15616e4",
     "time.latest": 1717900196.2514114,
     "formatted_time": "2024-06-09 07:59:56.251414",
     "filescores": {
-        "TestTraceDumpFunctionCalls.py": 6.535804850483149e-06,
-        "TestTraceDumpInfo.py": 4.414535826435377e-05,
-        "TestTraceDumpInstructions.py": 3.899894092517463e-05,
-        "TestTraceEvents.py": 1.5054106363415512e-05,
-        "TestTraceExport.py": 1.939753990523817e-05,
-        "TestTraceLoad.py": 0.00010678387784582462,
-        "TestTraceSave.py": 2.818469341996048e-05,
-        "TestTraceSchema.py": 2.0947918542865468e-05,
-        "TestTraceStartStop.py": 4.712501270280706e-05,
-        "TestTraceTSC.py": 1.1166308283843648e-05
+        "TestTraceDumpFunctionCalls.py": 0.021512201033760153,
+        "TestTraceDumpInfo.py": 0.14530174070603424,
+        "TestTraceDumpInstructions.py": 0.12836262349908972,
+        "TestTraceEvents.py": 0.04954966830894019,
+        "TestTraceExport.py": 0.06384581356816695,
+        "TestTraceLoad.py": 0.35147258829401135,
+        "TestTraceSave.py": 0.09276819072715518,
+        "TestTraceSchema.py": 0.06894878981884556,
+        "TestTraceStartStop.py": 0.1551090906434187,
+        "TestTraceTSC.py": 0.036753219244180554
     },
     "subdirscores": {
-        "inline-function": 0,
-        "intelpt-kernel-trace": 0,
-        "intelpt-multi-core-trace": 1.2209711634806362e-05,
-        "intelpt-trace": 2.9744685388162978e-05,
-        "intelpt-trace-multi-file": 1.3693678308018572e-05,
-        "multiple-threads": 3.7719129662707806e-05
+        "inline-function": 0.0,
+        "intelpt-kernel-trace": 0.0,
+        "intelpt-multi-core-trace": 0.0006349639115482686,
+        "intelpt-trace": 0.0015468671453304252,
+        "intelpt-trace-multi-file": 0.0007121373380478733,
+        "multiple-threads": 0.00196157672082557
     }
 }

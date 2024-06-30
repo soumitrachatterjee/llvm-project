@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/libcxx/test/std/input.output/iostreams.base/ios.base/ios.types/ios_Init",
-    "score.sum": 3.638969913062707e-05,
+    "score.sum": 0.001892439919234345,
     "sha.latest": "ed61d6a46611cfb144b260e0dd0fb1b5783562d9",
     "time.latest": 1717908032.8976748,
     "formatted_time": "2024-06-09 10:10:32.897676",
     "filescores": {
-        "ios_Init.multiple.pass.cpp": 1.3823235788341236e-05,
-        "tested_elsewhere.pass.cpp": 1.2132863580760565e-05
+        "ios_Init.multiple.pass.cpp": 0.04549833326095747,
+        "tested_elsewhere.pass.cpp": 0.039934576756099745
     },
     "subdirscores": {}
 }

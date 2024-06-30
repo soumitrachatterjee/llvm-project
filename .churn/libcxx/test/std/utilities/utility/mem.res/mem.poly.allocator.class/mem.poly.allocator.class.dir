@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/libcxx/test/std/utilities/utility/mem.res/mem.poly.allocator.class",
-    "score.sum": 2.868611271755807e-05,
+    "score.sum": 0.0014918162593071003,
     "sha.latest": "f5832bab6f5024cabe32a9f668b7f44e6b7cfef5",
     "time.latest": 1718008077.939265,
     "formatted_time": "2024-06-10 13:57:57.939266",
     "filescores": {},
     "subdirscores": {
-        "mem.poly.allocator.ctor": 1.0671665843727875e-05,
-        "mem.poly.allocator.eq": 1.017672743381375e-05,
-        "mem.poly.allocator.mem": 2.838291570715302e-05
+        "mem.poly.allocator.ctor": 0.0005549781100114386,
+        "mem.poly.allocator.eq": 0.0005292389248337424,
+        "mem.poly.allocator.mem": 0.0014760485519725787
     }
 }

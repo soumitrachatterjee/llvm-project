@@ -1,21 +1,21 @@
 {
     "directory name": "llvm-project/mlir/test/Integration/Dialect/Arith/CPU",
-    "score.sum": 3.994922449953659e-05,
+    "score.sum": 0.002077552411576506,
     "sha.latest": "c1b8c6cf41df4a148e7a89c3a3c7e8049b0a47af",
     "time.latest": 1717825391.717921,
     "formatted_time": "2024-06-08 00:43:11.717924",
     "filescores": {
-        "test-wide-int-emulation-addi-i16.mlir": 1.814430807339747e-05,
-        "test-wide-int-emulation-cmpi-i16.mlir": 1.8074720983465475e-05,
-        "test-wide-int-emulation-compare-results-i16.mlir": 3.4747720043850016e-05,
-        "test-wide-int-emulation-constants-i16.mlir": 3.835376488429354e-05,
-        "test-wide-int-emulation-max-min-i16.mlir": 1.805994858665713e-05,
-        "test-wide-int-emulation-muli-i16.mlir": 1.814430807339747e-05,
-        "test-wide-int-emulation-shli-i16.mlir": 1.8137153452520106e-05,
-        "test-wide-int-emulation-shrsi-i16.mlir": 1.8066899921698155e-05,
-        "test-wide-int-emulation-shrui-i16.mlir": 2.0180298268943046e-05,
-        "test-wide-int-emulation-sitofp-i32.mlir": 0,
-        "test-wide-int-emulation-uitofp-i32.mlir": 0
+        "test-wide-int-emulation-addi-i16.mlir": 0.059720877814237315,
+        "test-wide-int-emulation-cmpi-i16.mlir": 0.05949183617327389,
+        "test-wide-int-emulation-compare-results-i16.mlir": 0.11436999055944286,
+        "test-wide-int-emulation-constants-i16.mlir": 0.1262390661085147,
+        "test-wide-int-emulation-max-min-i16.mlir": 0.059443213734697235,
+        "test-wide-int-emulation-muli-i16.mlir": 0.059720877814237315,
+        "test-wide-int-emulation-shli-i16.mlir": 0.05969732881818326,
+        "test-wide-int-emulation-shrsi-i16.mlir": 0.059466093627882,
+        "test-wide-int-emulation-shrui-i16.mlir": 0.0664222147407986,
+        "test-wide-int-emulation-sitofp-i32.mlir": 0.0,
+        "test-wide-int-emulation-uitofp-i32.mlir": 0.0
     },
     "subdirscores": {}
 }

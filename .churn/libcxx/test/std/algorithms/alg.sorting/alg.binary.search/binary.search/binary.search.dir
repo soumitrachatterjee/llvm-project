@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/libcxx/test/std/algorithms/alg.sorting/alg.binary.search/binary.search",
-    "score.sum": 3.0050305399549042e-05,
+    "score.sum": 0.0015627608604058838,
     "sha.latest": "33912468a7dbd2cdef3648878ccd6b8f99e0b5bf",
     "time.latest": 1717870305.2453988,
     "formatted_time": "2024-06-08 23:41:45.245401",
     "filescores": {
-        "binary_search.pass.cpp": 2.2378800721688154e-05,
-        "binary_search_comp.pass.cpp": 2.244883233547477e-05,
-        "ranges.binary_search.pass.cpp": 7.732238448734585e-06
+        "binary_search.pass.cpp": 0.0736584508002598,
+        "binary_search_comp.pass.cpp": 0.0738889555642423,
+        "ranges.binary_search.pass.cpp": 0.025450188883447446
     },
     "subdirscores": {}
 }

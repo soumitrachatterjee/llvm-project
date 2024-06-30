@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/utils/bazel/llvm-project-overlay/mlir/test/mlir-tblgen",
-    "score.sum": 2.407072264209988e-05,
+    "score.sum": 0.0012517937081372857,
     "sha.latest": "571c1292b693cdf2b2a21edd6d8003169c2d2085",
     "time.latest": 1717790744.3324456,
     "formatted_time": "2024-06-08 01:35:44.332450",
     "filescores": {
-        "BUILD.bazel": 2.407072264209988e-05
+        "BUILD.bazel": 0.07922730808990669
     },
     "subdirscores": {}
 }

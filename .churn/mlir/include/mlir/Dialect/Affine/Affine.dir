@@ -1,22 +1,22 @@
 {
     "directory name": "llvm-project/mlir/include/mlir/Dialect/Affine",
-    "score.sum": 0.0008019345556392681,
+    "score.sum": 0.04170446587803529,
     "sha.latest": "2679d3793b264b2884cf5c9492e3311f08f41de3",
     "time.latest": 1717792973.3396566,
     "formatted_time": "2024-06-07 15:42:53.339660",
     "filescores": {
-        "CMakeLists.txt": 9.514918925669938e-06,
-        "LoopFusionUtils.h": 1.5385187001469525e-05,
-        "LoopUtils.h": 4.038453755981399e-05,
-        "Passes.h": 8.189943753084849e-05,
-        "Passes.td": 0.0001066106083162787,
-        "Utils.h": 9.316654816040758e-05,
-        "ViewLikeInterfaceUtils.h": 1.733155260143576e-05
+        "CMakeLists.txt": 0.03131777239857609,
+        "LoopFusionUtils.h": 0.05063939993452216,
+        "LoopUtils.h": 0.1329232298877367,
+        "Passes.h": 0.2695669783630784,
+        "Passes.td": 0.3509022822585823,
+        "Utils.h": 0.3066519823492016,
+        "ViewLikeInterfaceUtils.h": 0.057045742998540296
     },
     "subdirscores": {
-        "Analysis": 0.00013169024423606297,
-        "IR": 0.0003656380097705948,
-        "TransformOps": 3.348184699388714e-05,
-        "Transforms": 2.5945030860048383e-05
+        "Analysis": 0.006848528048320572,
+        "IR": 0.019014940552143762,
+        "TransformOps": 0.0017412175790043863,
+        "Transforms": 0.0013492667781910422
     }
 }

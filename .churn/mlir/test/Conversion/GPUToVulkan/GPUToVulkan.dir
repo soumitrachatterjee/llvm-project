@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/mlir/test/Conversion/GPUToVulkan",
-    "score.sum": 5.709390123946269e-05,
+    "score.sum": 0.0029691583176472552,
     "sha.latest": "fd8be1ef598da48897f396296c03a576bf391378",
     "time.latest": 1717816029.7852128,
     "formatted_time": "2024-06-07 22:07:09.785216",
     "filescores": {
-        "invoke-vulkan.mlir": 2.4546000044448865e-05,
-        "lower-gpu-launch-vulkan-launch.mlir": 4.4670369714372816e-05
+        "invoke-vulkan.mlir": 0.08079165452619583,
+        "lower-gpu-launch-vulkan-launch.mlir": 0.14702978371163297
     },
     "subdirscores": {}
 }

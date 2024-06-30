@@ -1,20 +1,20 @@
 {
     "directory name": "llvm-project/libcxx/test/std/input.output/iostream.format/output.streams/ostream.formatted/ostream.inserters.character",
-    "score.sum": 3.334256587878997e-05,
+    "score.sum": 0.0017339742890486436,
     "sha.latest": "a7f9895cc18995549c7facb96e72718da282a864",
     "time.latest": 1717906390.2168531,
     "formatted_time": "2024-06-09 09:43:10.216855",
     "filescores": {
-        "char.pass.cpp": 2.2483114449333923e-05,
-        "CharT.pass.cpp": 3.1725810114808534e-05,
-        "CharT_pointer.pass.cpp": 3.1725810114808534e-05,
-        "char_pointer.pass.cpp": 2.2483114449333923e-05,
-        "char_to_wide.pass.cpp": 3.1725810114808534e-05,
-        "char_to_wide_pointer.pass.cpp": 3.1725810114808534e-05,
-        "signed_char.pass.cpp": 2.2483114449333923e-05,
-        "signed_char_pointer.pass.cpp": 2.2483114449333923e-05,
-        "unsigned_char.pass.cpp": 2.2483114449333923e-05,
-        "unsigned_char_pointer.pass.cpp": 2.2483114449333923e-05
+        "char.pass.cpp": 0.07400179304058553,
+        "CharT.pass.cpp": 0.10442355926496341,
+        "CharT_pointer.pass.cpp": 0.10442355926496341,
+        "char_pointer.pass.cpp": 0.07400179304058553,
+        "char_to_wide.pass.cpp": 0.10442355926496341,
+        "char_to_wide_pointer.pass.cpp": 0.10442355926496341,
+        "signed_char.pass.cpp": 0.07400179304058553,
+        "signed_char_pointer.pass.cpp": 0.07400179304058553,
+        "unsigned_char.pass.cpp": 0.07400179304058553,
+        "unsigned_char_pointer.pass.cpp": 0.07400179304058553
     },
     "subdirscores": {}
 }

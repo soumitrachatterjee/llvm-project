@@ -1,18 +1,18 @@
 {
     "directory name": "llvm-project/libcxx/test/std/strings/string.view/string.view.ops",
-    "score.sum": 7.088119287666223e-05,
+    "score.sum": 0.003686164000456061,
     "sha.latest": "a40bada91aeda276a772acfbcae6e8de26755a11",
     "time.latest": 1717973810.268149,
     "formatted_time": "2024-06-10 04:26:50.268151",
     "filescores": {
-        "compare.pointer.pass.cpp": 2.614360705911712e-05,
-        "compare.pointer_size.pass.cpp": 3.3695954675411914e-05,
-        "compare.size_size_sv.pass.cpp": 3.3363328346977116e-05,
-        "compare.size_size_sv_pointer_size.pass.cpp": 3.336330794348409e-05,
-        "compare.size_size_sv_size_size.pass.cpp": 3.336330794348409e-05,
-        "compare.sv.pass.cpp": 2.8136607488135343e-05,
-        "copy.pass.cpp": 5.856683063647112e-05,
-        "substr.pass.cpp": 2.6934798171098375e-05
+        "compare.pointer.pass.cpp": 0.08605008008490087,
+        "compare.pointer_size.pass.cpp": 0.11090816932031657,
+        "compare.size_size_sv.pass.cpp": 0.10981335014959392,
+        "compare.size_size_sv_pointer_size.pass.cpp": 0.10981328299274734,
+        "compare.size_size_sv_size_size.pass.cpp": 0.10981328299274734,
+        "compare.sv.pass.cpp": 0.09260991883012303,
+        "copy.pass.cpp": 0.1927691330117994,
+        "substr.pass.cpp": 0.08865423713157383
     },
     "subdirscores": {}
 }

@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/libcxx/test/libcxx/utilities/utility/mem.res/mem.res.pool",
-    "score.sum": 1.0144352726900491e-05,
+    "score.sum": 0.0005275552838803991,
     "sha.latest": "2da049a1418f7a2f96e7cac4368cac3ce8667d2e",
     "time.latest": 1717867657.3494186,
     "formatted_time": "2024-06-08 22:57:37.349421",
     "filescores": {
-        "unsynchronized_buffer.pass.cpp": 1.0144352726900491e-05
+        "unsynchronized_buffer.pass.cpp": 0.03338951517230877
     },
     "subdirscores": {}
 }

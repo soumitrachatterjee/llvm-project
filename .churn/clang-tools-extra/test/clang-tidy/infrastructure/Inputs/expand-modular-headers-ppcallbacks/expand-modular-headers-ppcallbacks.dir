@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/clang-tools-extra/test/clang-tidy/infrastructure/Inputs/expand-modular-headers-ppcallbacks",
-    "score.sum": 0,
+    "score.sum": 0.0,
     "sha.latest": "885c559369fe3d6323898c17787bd0454065fc34",
     "time.latest": 1717833383.1314244,
     "formatted_time": "2024-06-08 13:26:23.131428",
     "filescores": {
-        "a.h": 0,
-        "b.h": 0,
-        "c.h": 0,
-        "module.modulemap": 0
+        "a.h": 0.0,
+        "b.h": 0.0,
+        "c.h": 0.0,
+        "module.modulemap": 0.0
     },
     "subdirscores": {}
 }

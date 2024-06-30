@@ -1,18 +1,18 @@
 {
     "directory name": "llvm-project/llvm/lib/Target/M68k/GISel",
-    "score.sum": 4.1611108672797695e-05,
+    "score.sum": 0.0021639784064530643,
     "sha.latest": "f22cde10e7cc711bba9f43d7529ea6c1394c5b48",
     "time.latest": 1717858857.1676393,
     "formatted_time": "2024-06-08 10:00:57.167642",
     "filescores": {
-        "M68kCallLowering.cpp": 2.3987277777047304e-05,
-        "M68kCallLowering.h": 1.8622367418719868e-05,
-        "M68kInstructionSelector.cpp": 6.635623617604541e-06,
-        "M68kLegalizerInfo.cpp": 1.0252226321547306e-05,
-        "M68kLegalizerInfo.h": 6.5125142262413125e-06,
-        "M68kRegisterBankInfo.cpp": 7.471148833978695e-06,
-        "M68kRegisterBankInfo.h": 1.2434954904062989e-05,
-        "M68kRegisterBanks.td": 6.099602068851199e-06
+        "M68kCallLowering.cpp": 0.07895265443158742,
+        "M68kCallLowering.h": 0.06129438084529599,
+        "M68kInstructionSelector.cpp": 0.02184074838705188,
+        "M68kLegalizerInfo.cpp": 0.03374457449665581,
+        "M68kLegalizerInfo.h": 0.021435541371736262,
+        "M68kRegisterBankInfo.cpp": 0.024590828420743224,
+        "M68kRegisterBankInfo.h": 0.04092889182916316,
+        "M68kRegisterBanks.td": 0.02007646631636598
     },
     "subdirscores": {}
 }

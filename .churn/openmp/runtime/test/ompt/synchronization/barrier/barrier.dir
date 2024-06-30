@@ -1,17 +1,17 @@
 {
     "directory name": "llvm-project/openmp/runtime/test/ompt/synchronization/barrier",
-    "score.sum": 2.2965036184218034e-05,
+    "score.sum": 0.0011942926778720658,
     "sha.latest": "35ab6d6390ecd285041590c00bac71a00e86aede",
     "time.latest": 1717802775.4999757,
     "formatted_time": "2024-06-08 04:56:15.499978",
     "filescores": {
-        "explicit.c": 6.099602068851199e-06,
-        "for_loop.c": 6.099602068851199e-06,
-        "for_simd.c": 6.099602068851199e-06,
-        "implicit_task_data.c": 2.1484595405903186e-05,
-        "parallel_region.c": 0,
-        "sections.c": 0,
-        "single.c": 6.099602068851199e-06
+        "explicit.c": 0.02007646631636598,
+        "for_loop.c": 0.02007646631636598,
+        "for_simd.c": 0.02007646631636598,
+        "implicit_task_data.c": 0.07071522881632905,
+        "parallel_region.c": 0.0,
+        "sections.c": 0.0,
+        "single.c": 0.02007646631636598
     },
     "subdirscores": {}
 }

@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/libcxx/test/libcxx/thread/futures/futures.promise",
-    "score.sum": 9.662970421295835e-05,
+    "score.sum": 0.005025210815290915,
     "sha.latest": "58780b811c23df3d928d8452ee21c862dde754a2",
     "time.latest": 1717865037.694258,
     "formatted_time": "2024-06-08 22:13:57.694261",
     "filescores": {
-        "assert.set_exception.pass.cpp": 3.4717194972139074e-05,
-        "assert.set_exception_at_thread_exit.pass.cpp": 3.4717194972139074e-05
+        "assert.set_exception.pass.cpp": 0.11426951915703139,
+        "assert.set_exception_at_thread_exit.pass.cpp": 0.11426951915703139
     },
     "subdirscores": {}
 }

@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/clang/lib/StaticAnalyzer/Checkers/UninitializedObject",
-    "score.sum": 6.917034159940053e-05,
+    "score.sum": 0.0035971914799265317,
     "sha.latest": "8ee3dfd74653e30f48dd9f49ba24f43547e6a549",
     "time.latest": 1717821418.1997535,
     "formatted_time": "2024-06-08 10:06:58.199758",
     "filescores": {
-        "UninitializedObject.h": 1.250168956563689e-05,
-        "UninitializedObjectChecker.cpp": 4.36128581023383e-05,
-        "UninitializedPointee.cpp": 4.062014761242806e-05
+        "UninitializedObject.h": 0.04114854487703401,
+        "UninitializedObjectChecker.cpp": 0.14354904906394217,
+        "UninitializedPointee.cpp": 0.13369872593349671
     },
     "subdirscores": {}
 }

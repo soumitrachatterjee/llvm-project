@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/clang-tools-extra/test/clang-tidy/checkers/readability/Inputs/static-accessed-through-instance",
-    "score.sum": 0,
+    "score.sum": 0.0,
     "sha.latest": "89a1d03e2b379e325daa5249411e414bbd995b5e",
     "time.latest": 1717831223.2840111,
     "formatted_time": "2024-06-08 12:50:23.284015",
     "filescores": {
-        "__clang_cuda_builtin_vars.h": 0
+        "__clang_cuda_builtin_vars.h": 0.0
     },
     "subdirscores": {}
 }

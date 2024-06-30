@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/libcxx/test/std/localization/locales/locale/locale.members",
-    "score.sum": 5.847762888448834e-05,
+    "score.sum": 0.003041118831071526,
     "sha.latest": "f0fc8c4878ed3ed60bd7536f97ef2673eb691ae7",
     "time.latest": 1717931762.166402,
     "formatted_time": "2024-06-09 16:46:02.166405",
     "filescores": {
-        "combine.pass.cpp": 5.439466401360962e-05,
-        "name.pass.cpp": 1.885982252081835e-05
+        "combine.pass.cpp": 0.1790367023180179,
+        "name.pass.cpp": 0.06207594975833613
     },
     "subdirscores": {}
 }

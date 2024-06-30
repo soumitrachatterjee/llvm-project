@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/clang/test/ASTMerge/function/Inputs",
-    "score.sum": 1.1677920706871453e-05,
+    "score.sum": 0.0006073082176361504,
     "sha.latest": "0333dd95636da52229ca14b4e5525c1cd8ba62d2",
     "time.latest": 1717865426.8662486,
     "formatted_time": "2024-06-08 22:20:26.866251",
     "filescores": {
-        "function1.c": 1.1677920706871453e-05,
-        "function2.c": 1.1677920706871453e-05
+        "function1.c": 0.038437160173770836,
+        "function2.c": 0.038437160173770836
     },
     "subdirscores": {}
 }

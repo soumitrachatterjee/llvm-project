@@ -1,15 +1,15 @@
 {
     "directory name": "llvm-project/libc/src/__support/threads/linux",
-    "score.sum": 0.00013609214110144887,
+    "score.sum": 0.007077447922554916,
     "sha.latest": "72ce6294157964042b7ed5576ce2c99257eeea9d",
     "time.latest": 1717829951.6816282,
     "formatted_time": "2024-06-08 01:59:11.681632",
     "filescores": {
-        "CMakeLists.txt": 2.877834916527235e-05,
-        "callonce.cpp": 2.279445509437704e-05,
-        "futex_word.h": 1.84088457908222e-05,
-        "mutex.h": 2.6368195230521903e-05,
-        "thread.cpp": 8.776946843701138e-05
+        "CMakeLists.txt": 0.09472217222295393,
+        "callonce.cpp": 0.07502655168919374,
+        "futex_word.h": 0.06059158749551431,
+        "mutex.h": 0.0867892982842795,
+        "thread.cpp": 0.2888878252697033
     },
     "subdirscores": {}
 }

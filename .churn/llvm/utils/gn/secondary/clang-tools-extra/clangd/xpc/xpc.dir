@@ -1,15 +1,15 @@
 {
     "directory name": "llvm-project/llvm/utils/gn/secondary/clang-tools-extra/clangd/xpc",
-    "score.sum": 2.898033867539237e-05,
+    "score.sum": 0.0015071174286265235,
     "sha.latest": "33ff8078ff744cb317ec8806c990a52d33310834",
     "time.latest": 1718082636.8926787,
     "formatted_time": "2024-06-11 00:10:36.892680",
     "filescores": {
-        "BUILD.gn": 2.68352374785885e-05,
-        "enable.gni": 0
+        "BUILD.gn": 0.08832653921504646,
+        "enable.gni": 0.0
     },
     "subdirscores": {
-        "framework": 1.3537434324151769e-05,
-        "test-client": 9.818514000877173e-06
+        "framework": 0.0007040118970776596,
+        "test-client": 0.0005106100980973154
     }
 }

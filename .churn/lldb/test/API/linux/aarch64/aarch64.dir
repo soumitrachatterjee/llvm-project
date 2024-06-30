@@ -1,21 +1,21 @@
 {
     "directory name": "llvm-project/lldb/test/API/linux/aarch64",
-    "score.sum": 0.00016505334521151266,
+    "score.sum": 0.008583570261468415,
     "sha.latest": "9c2468821ec51defd09c246fea4a47886fff8c01",
     "time.latest": 1717961251.14908,
     "formatted_time": "2024-06-10 00:57:31.149085",
     "filescores": {},
     "subdirscores": {
-        "mte_core_file": 2.0196393535626766e-05,
-        "mte_memory_region": 1.2911880987867012e-05,
-        "mte_tag_access": 2.1884306466579716e-05,
-        "mte_tag_faults": 9.06496107351899e-06,
-        "non_address_bit_code_break": 6.099602068851199e-06,
-        "non_address_bit_memory_access": 1.0731617044309476e-05,
-        "sme_core_file": 1.1263835112763227e-05,
-        "tagged_memory_access": 1.7236568947166173e-05,
-        "tagged_memory_region": 1.8016004559581596e-05,
-        "tls_registers": 1.1315426097847799e-05,
-        "unwind_signal": 1.5736493938546937e-05
+        "mte_core_file": 0.001050309902650958,
+        "mte_memory_region": 0.0006714801055685855,
+        "mte_tag_access": 0.0011380895185049064,
+        "mte_tag_faults": 0.0004714217103101712,
+        "non_address_bit_code_break": 0.00031720873550238375,
+        "non_address_bit_memory_access": 0.0005580958616801013,
+        "sme_core_file": 0.0005857737689599662,
+        "tagged_memory_access": 0.0008963847441870915,
+        "tagged_memory_region": 0.0009369191564698897,
+        "tls_registers": 0.0005884567490883865,
+        "unwind_signal": 0.0008183736065306222
     }
 }

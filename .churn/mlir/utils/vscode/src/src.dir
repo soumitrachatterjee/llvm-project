@@ -1,18 +1,18 @@
 {
     "directory name": "llvm-project/mlir/utils/vscode/src",
-    "score.sum": 7.356290134498111e-05,
+    "score.sum": 0.003825625778883466,
     "sha.latest": "82b65496540fbee7720a4fa47ebc3c3dac128980",
     "time.latest": 1717837654.5518696,
     "formatted_time": "2024-06-08 04:07:34.551873",
     "filescores": {
-        "command.ts": 0,
-        "config.ts": 1.1253418789983781e-05,
-        "configWatcher.ts": 2.8564768310687894e-05,
-        "extension.ts": 2.1488256023102788e-05,
-        "mlirContext.ts": 6.330664074402699e-05
+        "command.ts": 0.0,
+        "config.ts": 0.03703993813544314,
+        "configWatcher.ts": 0.09401918393216317,
+        "extension.ts": 0.0707272775134531,
+        "mlirContext.ts": 0.208369927440056
     },
     "subdirscores": {
-        "MLIR": 6.099602068851199e-06,
-        "PDLL": 6.099602068851199e-06
+        "MLIR": 0.00031720873550238375,
+        "PDLL": 0.00031720873550238375
     }
 }

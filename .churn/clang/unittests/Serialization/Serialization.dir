@@ -1,18 +1,18 @@
 {
     "directory name": "llvm-project/clang/unittests/Serialization",
-    "score.sum": 0.00011279258637302891,
+    "score.sum": 0.005865758666478139,
     "sha.latest": "da00c60dae0040185dc45039c4397f6e746548e9",
     "time.latest": 1718082725.4063108,
     "formatted_time": "2024-06-11 10:42:05.406312",
     "filescores": {
-        "CMakeLists.txt": 5.04199239225403e-05,
-        "ForceCheckFileInputTest.cpp": 6.1108817116642615e-06,
-        "InMemoryModuleCacheTest.cpp": 1.130873401823643e-05,
-        "ModuleCacheTest.cpp": 1.6795172273276574e-05,
-        "NoCommentsTest.cpp": 6.1075958151913764e-06,
-        "PreambleInNamedModulesTest.cpp": 0,
-        "SourceLocationEncodingTest.cpp": 1.3891955307432726e-05,
-        "VarDeclConstantInitTest.cpp": 1.2272868188256926e-05
+        "CMakeLists.txt": 0.16595408895178368,
+        "ForceCheckFileInputTest.cpp": 0.02011359256926591,
+        "InMemoryModuleCacheTest.cpp": 0.03722200481852523,
+        "ModuleCacheTest.cpp": 0.055280280027432516,
+        "NoCommentsTest.cpp": 0.02010277724244421,
+        "PreambleInNamedModulesTest.cpp": 0.0,
+        "SourceLocationEncodingTest.cpp": 0.045724519345679726,
+        "VarDeclConstantInitTest.cpp": 0.040395393339675026
     },
     "subdirscores": {}
 }

@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/lldb/source/Plugins/SymbolVendor/ELF",
-    "score.sum": 0.00015786724916914976,
+    "score.sum": 0.008209858597483431,
     "sha.latest": "745e8bfd1ade216c909074153d2dc9eb39d4adb7",
     "time.latest": 1717881770.2357352,
     "formatted_time": "2024-06-09 02:52:50.235737",
     "filescores": {
-        "CMakeLists.txt": 1.2112962139749715e-05,
-        "SymbolVendorELF.cpp": 0.00014030565423046854,
-        "SymbolVendorELF.h": 4.9680230039744176e-05
+        "CMakeLists.txt": 0.039869072382930575,
+        "SymbolVendorELF.cpp": 0.4618074604470417,
+        "SymbolVendorELF.h": 0.16351943187829768
     },
     "subdirscores": {}
 }

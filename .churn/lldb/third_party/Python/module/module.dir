@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/lldb/third_party/Python/module",
-    "score.sum": 6.97838853582072e-05,
+    "score.sum": 0.0036290987154657672,
     "sha.latest": "252f1cdebfffd846afe969d3f6e4684ed39536ad",
     "time.latest": 1717985209.9035993,
     "formatted_time": "2024-06-10 07:36:49.903602",
     "filescores": {},
     "subdirscores": {
-        "pexpect-4.6": 2.95918244836067e-05,
-        "ptyprocess-0.6.0": 6.0996029369904065e-06
+        "pexpect-4.6": 0.0015389176408062424,
+        "ptyprocess-0.6.0": 0.000317208780649811
     }
 }

@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/libcxx/test/std/input.output/file.streams/c.files",
-    "score.sum": 7.819604064519638e-05,
+    "score.sum": 0.0040665713753729234,
     "sha.latest": "e734bc53de8173a1b54493f3e0c8f70575341a9e",
     "time.latest": 1717901107.011685,
     "formatted_time": "2024-06-09 08:15:07.011686",
     "filescores": {
-        "cinttypes.pass.cpp": 2.0465488380647756e-05,
-        "cstdio.pass.cpp": 5.713472213267844e-05,
-        "gets.compile.fail.cpp": 6.099602068851199e-06
+        "cinttypes.pass.cpp": 0.06736090051189819,
+        "cstdio.pass.cpp": 0.18805543565691765,
+        "gets.compile.fail.cpp": 0.02007646631636598
     },
     "subdirscores": {}
 }

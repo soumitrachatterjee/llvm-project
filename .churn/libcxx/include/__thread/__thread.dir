@@ -1,20 +1,20 @@
 {
     "directory name": "llvm-project/libcxx/include/__thread",
-    "score.sum": 0.0001236401654230808,
+    "score.sum": 0.006429885111922993,
     "sha.latest": "33de5a316caa3c9b07ee1ccc7fbc3434247ff787",
     "time.latest": 1717837434.8138995,
     "formatted_time": "2024-06-08 14:33:54.813903",
     "filescores": {
-        "formatter.h": 1.2592338200571094e-05,
-        "id.h": 1.4496375394128546e-05,
-        "jthread.h": 1.1988112388930498e-05,
-        "poll_with_backoff.h": 2.091996865066224e-05,
-        "support.h": 6.099602068851199e-06,
-        "this_thread.h": 1.562093327249731e-05,
-        "thread.h": 4.068143343792341e-05,
-        "timed_backoff_policy.h": 2.1134667297248106e-05
+        "formatter.h": 0.04144690930234214,
+        "id.h": 0.0477139310113114,
+        "jthread.h": 0.03945813708114608,
+        "poll_with_backoff.h": 0.06885679446193044,
+        "support.h": 0.02007646631636598,
+        "this_thread.h": 0.05141534433484099,
+        "thread.h": 0.13390044447141763,
+        "timed_backoff_policy.h": 0.06956346189657546
     },
     "subdirscores": {
-        "support": 1.263100318845449e-05
+        "support": 0.0006568731048861427
     }
 }

@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/llvm/utils/gn/secondary/clang-tools-extra/clangd/xpc/test-client",
-    "score.sum": 9.818514000877173e-06,
+    "score.sum": 0.0005106100980973154,
     "sha.latest": "1afd889d0b4352ddaef33680ace94045938591f1",
     "time.latest": 1718082636.8913298,
     "formatted_time": "2024-06-11 00:10:36.891334",
     "filescores": {
-        "BUILD.gn": 9.818514000877173e-06
+        "BUILD.gn": 0.03231703697885724
     },
     "subdirscores": {}
 }

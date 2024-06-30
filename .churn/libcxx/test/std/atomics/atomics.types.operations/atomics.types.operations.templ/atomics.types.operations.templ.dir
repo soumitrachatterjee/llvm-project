@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/libcxx/test/std/atomics/atomics.types.operations/atomics.types.operations.templ",
-    "score.sum": 1.3483256061814899e-05,
+    "score.sum": 0.0007011943660496344,
     "sha.latest": "d4b59a05fc7507cf69993109443dc5af47ae4fa8",
     "time.latest": 1717874482.8963118,
     "formatted_time": "2024-06-09 00:51:22.896314",
     "filescores": {
-        "nothing_to_do.pass.cpp": 1.3483256061814899e-05
+        "nothing_to_do.pass.cpp": 0.044379310831164955
     },
     "subdirscores": {}
 }

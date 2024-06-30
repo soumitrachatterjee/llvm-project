@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/llvm/utils/gn/secondary/clang/unittests/Driver",
-    "score.sum": 4.036996407084952e-05,
+    "score.sum": 0.0020994328991698753,
     "sha.latest": "c5dacb6d7a5400ccfa8aa7d1de8915d184096de2",
     "time.latest": 1718085286.3075452,
     "formatted_time": "2024-06-11 00:54:46.307549",
     "filescores": {
-        "BUILD.gn": 4.036996407084952e-05
+        "BUILD.gn": 0.13287526214213552
     },
     "subdirscores": {}
 }

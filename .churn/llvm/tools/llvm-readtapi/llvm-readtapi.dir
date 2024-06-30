@@ -1,15 +1,15 @@
 {
     "directory name": "llvm-project/llvm/tools/llvm-readtapi",
-    "score.sum": 7.585793543433588e-05,
+    "score.sum": 0.00394497862406935,
     "sha.latest": "6eb7273b11e6a3ec7c5ddb2d55bc585a25c0a923",
     "time.latest": 1718083009.0074887,
     "formatted_time": "2024-06-11 00:16:49.007492",
     "filescores": {
-        "CMakeLists.txt": 2.2414470394747763e-05,
-        "DiffEngine.cpp": 1.7334780655698763e-05,
-        "DiffEngine.h": 9.812781240946962e-06,
-        "TapiOpts.td": 1.1951716062343044e-05,
-        "llvm-readtapi.cpp": 5.422930589684285e-05
+        "CMakeLists.txt": 0.07377585534265675,
+        "DiffEngine.cpp": 0.057056367941273785,
+        "DiffEngine.h": 0.03229816795095353,
+        "TapiOpts.td": 0.03933834080320461,
+        "llvm-readtapi.cpp": 0.17849243621279784
     },
     "subdirscores": {}
 }

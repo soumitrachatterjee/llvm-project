@@ -1,16 +1,16 @@
 {
     "directory name": "llvm-project/mlir/lib/Dialect/AMDGPU",
-    "score.sum": 0.00010435423598565117,
+    "score.sum": 0.005426923734970832,
     "sha.latest": "87c0260f45e5a02cb07722d089dae3f0f84c7b3d",
     "time.latest": 1717804546.730611,
     "formatted_time": "2024-06-07 18:55:46.730612",
     "filescores": {
-        "CMakeLists.txt": 1.5564915343215333e-05
+        "CMakeLists.txt": 0.05123096475439501
     },
     "subdirscores": {
-        "IR": 6.374042730204951e-05,
-        "TransformOps": 6.099602068851199e-06,
-        "Transforms": 4.215953293666555e-05,
-        "Utils": 6.099602068851199e-06
+        "IR": 0.003314809739493842,
+        "TransformOps": 0.00031720873550238375,
+        "Transforms": 0.002192499114082294,
+        "Utils": 0.00031720873550238375
     }
 }

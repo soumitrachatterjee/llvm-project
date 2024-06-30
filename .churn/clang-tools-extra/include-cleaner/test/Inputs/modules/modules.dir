@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/clang-tools-extra/include-cleaner/test/Inputs/modules",
-    "score.sum": 6.099602068851199e-06,
+    "score.sum": 0.00031720873550238375,
     "sha.latest": "a171d248ca34b8b6f8de11d42a83ad981285963a",
     "time.latest": 1717813642.6877117,
     "formatted_time": "2024-06-08 07:57:22.687715",
     "filescores": {
-        "a.h": 0,
-        "module.modulemap": 0
+        "a.h": 0.0,
+        "module.modulemap": 0.0
     },
     "subdirscores": {}
 }

@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/mlir/test/tblgen-to-irdl",
-    "score.sum": 7.018145837827999e-06,
+    "score.sum": 0.00036497744306261345,
     "sha.latest": "a64975f9660e02f5f6688f8bcc55daf9eaa99fda",
     "time.latest": 1717835020.5916345,
     "formatted_time": "2024-06-08 03:23:40.591638",
     "filescores": {
-        "CMathDialect.td": 7.018145837827999e-06,
-        "TestDialect.td": 0
+        "CMathDialect.td": 0.023099796827079737,
+        "TestDialect.td": 0.0
     },
     "subdirscores": {}
 }

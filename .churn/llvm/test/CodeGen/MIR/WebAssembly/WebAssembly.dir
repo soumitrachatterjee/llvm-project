@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/llvm/test/CodeGen/MIR/WebAssembly",
-    "score.sum": 9.578999852239523e-06,
+    "score.sum": 0.0004981542068167572,
     "sha.latest": "f84bac329ba6c9f0c022bcf77237e912362e247a",
     "time.latest": 1718079850.9200106,
     "formatted_time": "2024-06-10 23:24:10.920014",
     "filescores": {
-        "int-type-register-class-name.mir": 6.099602068851199e-06,
-        "lit.local.cfg": 6.099602068851199e-06,
-        "typed-immediate-operand-invalid0.mir": 6.125478675599614e-06,
-        "typed-immediate-operand-invalid1.mir": 6.125478675599614e-06
+        "int-type-register-class-name.mir": 0.02007646631636598,
+        "lit.local.cfg": 0.02007646631636598,
+        "typed-immediate-operand-invalid0.mir": 0.020161637581294783,
+        "typed-immediate-operand-invalid1.mir": 0.020161637581294783
     },
     "subdirscores": {}
 }

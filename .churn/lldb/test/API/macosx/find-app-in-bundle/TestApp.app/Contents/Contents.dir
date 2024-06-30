@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/lldb/test/API/macosx/find-app-in-bundle/TestApp.app/Contents",
-    "score.sum": 0,
+    "score.sum": 0.0,
     "sha.latest": "99451b4453688a94c6014cac233d371ab4cc342d",
     "time.latest": 1717962500.5337052,
     "formatted_time": "2024-06-10 01:18:20.533710",
     "filescores": {
-        "Info.plist": 0
+        "Info.plist": 0.0
     },
     "subdirscores": {
-        "MacOS": 0,
-        "Resources": 0
+        "MacOS": 0.0,
+        "Resources": 0.0
     }
 }

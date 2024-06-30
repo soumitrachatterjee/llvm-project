@@ -1,27 +1,27 @@
 {
     "directory name": "llvm-project/lldb/test/Shell/ScriptInterpreter/Python/Crashlog",
-    "score.sum": 0.00013865820234690786,
+    "score.sum": 0.00721089548744615,
     "sha.latest": "5000e4c2527ae53bf7c1a609f739a97cdc522bbe",
     "time.latest": 1717979018.5301337,
     "formatted_time": "2024-06-10 05:53:38.530136",
     "filescores": {
-        "altered_threadState.test": 0,
-        "app_specific_backtrace_crashlog.test": 9.75049849497649e-06,
-        "interactive_crashlog_invalid_target.test": 6.099602068851199e-06,
-        "interactive_crashlog_json.test": 0,
-        "interactive_crashlog_legacy.test": 0,
-        "json.test": 2.1839756734496943e-05,
-        "last_exception_backtrace_crashlog.test": 0,
-        "lit.local.cfg": 0,
-        "no-args.test": 1.2132762445779492e-05,
-        "no_threadState.test": 1.1860741999062775e-05,
-        "parser_json.test": 6.099602068851199e-06,
-        "parser_text.test": 6.099602068851199e-06,
-        "patch-crashlog.py": 8.27187293814192e-06,
-        "skipped_status_interactive_crashlog.test": 6.201451770030101e-06,
-        "text.test": 1.6212029985047228e-05
+        "altered_threadState.test": 0.0,
+        "app_specific_backtrace_crashlog.test": 0.03209316811039795,
+        "interactive_crashlog_invalid_target.test": 0.02007646631636598,
+        "interactive_crashlog_json.test": 0.0,
+        "interactive_crashlog_legacy.test": 0.0,
+        "json.test": 0.07188422055872501,
+        "last_exception_backtrace_crashlog.test": 0.0,
+        "lit.local.cfg": 0.0,
+        "no-args.test": 0.03993424387650891,
+        "no_threadState.test": 0.0390389052504435,
+        "parser_json.test": 0.02007646631636598,
+        "parser_text.test": 0.02007646631636598,
+        "patch-crashlog.py": 0.02722636272683002,
+        "skipped_status_interactive_crashlog.test": 0.020411698364615854,
+        "text.test": 0.05336090293116728
     },
     "subdirscores": {
-        "Inputs": 6.827382215902279e-05
+        "Inputs": 0.0035505681437112413
     }
 }

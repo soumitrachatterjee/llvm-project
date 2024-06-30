@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/mlir/test/Integration/Dialect/Standard/CPU",
-    "score.sum": 8.086921435071612e-05,
+    "score.sum": 0.004205589304958262,
     "sha.latest": "9048ea28da954f720eea5cf551c29ccebac2340e",
     "time.latest": 1717827031.0214224,
     "formatted_time": "2024-06-08 01:10:31.021426",
     "filescores": {
-        "test-ceil-floor-pos-neg.mlir": 6.443254845170046e-05,
-        "test_subview.mlir": 5.511646051543494e-05
+        "test-ceil-floor-pos-neg.mlir": 0.21207578364400023,
+        "test_subview.mlir": 0.1814124512591117
     },
     "subdirscores": {}
 }

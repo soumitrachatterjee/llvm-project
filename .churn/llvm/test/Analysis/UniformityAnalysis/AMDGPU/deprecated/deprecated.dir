@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/llvm/test/Analysis/UniformityAnalysis/AMDGPU/deprecated",
-    "score.sum": 0,
+    "score.sum": 0.0,
     "sha.latest": "fbe1c0616fa83d39ebad29cfefa020bbebd90057",
     "time.latest": 1717893568.7178445,
     "formatted_time": "2024-06-08 19:39:28.717848",
     "filescores": {
-        "hidden-diverge.mir": 0,
-        "irreducible-1.mir": 0
+        "hidden-diverge.mir": 0.0,
+        "irreducible-1.mir": 0.0
     },
     "subdirscores": {}
 }

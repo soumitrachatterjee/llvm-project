@@ -1,22 +1,22 @@
 {
     "directory name": "llvm-project/libcxxabi/test/configs",
-    "score.sum": 7.067113727796912e-05,
+    "score.sum": 0.0036752400958972855,
     "sha.latest": "be811d1617654e46f4f4daa82259ae4fad4c8e6a",
     "time.latest": 1717823544.3015094,
     "formatted_time": "2024-06-08 10:42:24.301512",
     "filescores": {
-        "apple-libc++abi-backdeployment.cfg.in": 1.5341494658051507e-05,
-        "apple-libc++abi-shared.cfg.in": 2.6973753586570723e-05,
-        "armv7m-picolibc-libc++abi.cfg.in": 6.099602068851199e-06,
-        "cmake-bridge.cfg.in": 1.6407423608332288e-05,
-        "ibm-libc++abi-shared.cfg.in": 2.2543051456795833e-05,
-        "llvm-libc++abi-android-ndk.cfg.in": 0,
-        "llvm-libc++abi-merged.cfg.in": 1.2354889152963069e-05,
-        "llvm-libc++abi-mingw.cfg.in": 1.6847184089161236e-05,
-        "llvm-libc++abi-shared-clangcl.cfg.in": 1.0897160661599219e-05,
-        "llvm-libc++abi-shared.cfg.in": 6.099602068851199e-06,
-        "llvm-libc++abi-static-clangcl.cfg.in": 1.0897160661599219e-05,
-        "llvm-libc++abi-static.cfg.in": 6.099602068851199e-06
+        "apple-libc++abi-backdeployment.cfg.in": 0.05049558926441394,
+        "apple-libc++abi-shared.cfg.in": 0.08878245649371296,
+        "armv7m-picolibc-libc++abi.cfg.in": 0.02007646631636598,
+        "cmake-bridge.cfg.in": 0.05400402906497653,
+        "ibm-libc++abi-shared.cfg.in": 0.07419907202662919,
+        "llvm-libc++abi-android-ndk.cfg.in": 0.0,
+        "llvm-libc++abi-merged.cfg.in": 0.040665360317286216,
+        "llvm-libc++abi-mingw.cfg.in": 0.05545147373119787,
+        "llvm-libc++abi-shared-clangcl.cfg.in": 0.03586733634376735,
+        "llvm-libc++abi-shared.cfg.in": 0.02007646631636598,
+        "llvm-libc++abi-static-clangcl.cfg.in": 0.03586733634376735,
+        "llvm-libc++abi-static.cfg.in": 0.02007646631636598
     },
     "subdirscores": {}
 }

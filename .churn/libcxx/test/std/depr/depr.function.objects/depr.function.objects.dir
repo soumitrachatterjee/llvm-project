@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/libcxx/test/std/depr/depr.function.objects",
-    "score.sum": 4.512369227998792e-05,
+    "score.sum": 0.002346649700712276,
     "sha.latest": "681cde7dd8b5613dbafc9ca54e0288477f946be3",
     "time.latest": 1717896020.8819199,
     "formatted_time": "2024-06-09 06:50:20.881921",
     "filescores": {},
     "subdirscores": {
-        "depr.adaptors": 3.8394926925492374e-05,
-        "depr.base": 2.2997439379757174e-05
+        "depr.adaptors": 0.0019967214389176864,
+        "depr.base": 0.0011959778003714
     }
 }

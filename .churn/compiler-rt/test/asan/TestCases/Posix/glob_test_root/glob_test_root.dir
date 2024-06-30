@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/compiler-rt/test/asan/TestCases/Posix/glob_test_root",
-    "score.sum": 0,
+    "score.sum": 0.0,
     "sha.latest": "b5b4dd81ba02bce1a9818841c5f33d876423e04f",
     "time.latest": 1717813331.9002693,
     "formatted_time": "2024-06-08 07:52:11.900272",
     "filescores": {
-        "aa": 0,
-        "ab": 0,
-        "ba": 0
+        "aa": 0.0,
+        "ab": 0.0,
+        "ba": 0.0
     },
     "subdirscores": {}
 }

@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/libcxx/test/libcxx/input.output/iostreams.base/ios",
-    "score.sum": 7.6159754526834886e-06,
+    "score.sum": 0.0003960674673024904,
     "sha.latest": "8c61114c53dcd6139a4a750925b91ed9bcf4178c",
     "time.latest": 1717851467.955157,
     "formatted_time": "2024-06-08 18:27:47.955161",
     "filescores": {},
     "subdirscores": {
-        "iostate.flags": 7.6159754526834886e-06
+        "iostate.flags": 0.0003960674673024904
     }
 }

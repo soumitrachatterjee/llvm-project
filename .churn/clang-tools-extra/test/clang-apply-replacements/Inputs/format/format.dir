@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/clang-tools-extra/test/clang-apply-replacements/Inputs/format",
-    "score.sum": 1.3852703280299362e-05,
+    "score.sum": 0.0007204074038326716,
     "sha.latest": "f2879d8a4877eafcdb12c852030746d175f8abbd",
     "time.latest": 1717816218.673781,
     "formatted_time": "2024-06-08 08:40:18.673785",
     "filescores": {
-        "no.cpp": 0,
-        "no.yaml": 1.3852703280299362e-05,
-        "yes.cpp": 0,
-        "yes.yaml": 1.3852703280299362e-05
+        "no.cpp": 0.0,
+        "no.yaml": 0.045595323704440055,
+        "yes.cpp": 0.0,
+        "yes.yaml": 0.045595323704440055
     },
     "subdirscores": {}
 }

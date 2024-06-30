@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/llvm/tools/llvm-cfi-verify",
-    "score.sum": 0.0001455687614115744,
+    "score.sum": 0.007570277899245067,
     "sha.latest": "57eb4826e5b4c99751c6eff4e4fc50b55919e5ae",
     "time.latest": 1718078555.832218,
     "formatted_time": "2024-06-10 23:02:35.832222",
     "filescores": {
-        "CMakeLists.txt": 1.0397133119488854e-05,
-        "llvm-cfi-verify.cpp": 3.906883055157487e-05
+        "CMakeLists.txt": 0.03422152633958707,
+        "llvm-cfi-verify.cpp": 0.1285926609202935
     },
     "subdirscores": {
-        "lib": 0.00011370235283377304
+        "lib": 0.005913070911663582
     }
 }

@@ -1,18 +1,18 @@
 {
     "directory name": "llvm-project/libcxx/test/std/utilities/expected/expected.expected",
-    "score.sum": 5.842764408896438e-05,
+    "score.sum": 0.003038519380549422,
     "sha.latest": "4f4690530e8b40cdf3a17c76a352b26c2fb0446c",
     "time.latest": 1717992043.2300365,
     "formatted_time": "2024-06-10 09:30:43.230039",
     "filescores": {
-        "dtor.pass.cpp": 9.069747187320346e-06
+        "dtor.pass.cpp": 0.029852516909924683
     },
     "subdirscores": {
-        "assign": 2.6568200261921514e-05,
-        "ctor": 1.9353273998947533e-05,
-        "equality": 0,
-        "monadic": 1.1278010823868002e-05,
-        "observers": 2.3817960681812346e-05,
-        "swap": 2.6629047868825215e-05
+        "assign": 0.0013816745936092673,
+        "ctor": 0.0010064636190592572,
+        "equality": 0.0,
+        "monadic": 0.0005865109743290436,
+        "observers": 0.0012386488667360147,
+        "swap": 0.001384838962731449
     }
 }

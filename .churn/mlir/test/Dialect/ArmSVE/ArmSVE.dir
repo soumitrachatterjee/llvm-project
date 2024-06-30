@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/mlir/test/Dialect/ArmSVE",
-    "score.sum": 3.7210130738276566e-05,
+    "score.sum": 0.0019351063210571284,
     "sha.latest": "7dcca6213258bf2df2dd8a7d555c9a12c1484759",
     "time.latest": 1717818078.0568228,
     "formatted_time": "2024-06-07 22:41:18.056827",
     "filescores": {
-        "invalid.mlir": 6.099602068851199e-06,
-        "legalize-for-llvm.mlir": 1.8134586801167366e-05,
-        "legalize-vector-storage.mlir": 0,
-        "roundtrip.mlir": 2.4722335075152945e-05
+        "invalid.mlir": 0.02007646631636598,
+        "legalize-for-llvm.mlir": 0.05968888084258624,
+        "legalize-vector-storage.mlir": 0.0,
+        "roundtrip.mlir": 0.08137205047077793
     },
     "subdirscores": {}
 }

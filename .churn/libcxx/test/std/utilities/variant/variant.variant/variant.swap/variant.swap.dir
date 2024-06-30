@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/libcxx/test/std/utilities/variant/variant.variant/variant.swap",
-    "score.sum": 5.16759498495205e-05,
+    "score.sum": 0.002687398706115641,
     "sha.latest": "ec350ad418a24f70c88758259c774a1e11c06d74",
     "time.latest": 1718009627.7987955,
     "formatted_time": "2024-06-10 14:23:47.798797",
     "filescores": {
-        "swap.pass.cpp": 5.16759498495205e-05
+        "swap.pass.cpp": 0.17008822129859258
     },
     "subdirscores": {}
 }

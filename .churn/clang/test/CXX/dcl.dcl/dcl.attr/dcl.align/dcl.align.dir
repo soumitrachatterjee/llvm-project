@@ -1,15 +1,15 @@
 {
     "directory name": "llvm-project/clang/test/CXX/dcl.dcl/dcl.attr/dcl.align",
-    "score.sum": 3.470539759113108e-05,
+    "score.sum": 0.0018048481131595485,
     "sha.latest": "a603f566dbe04d8a9eb0ada67b585965945f7e6d",
     "time.latest": 1718085357.2439618,
     "formatted_time": "2024-06-11 11:25:57.243964",
     "filescores": {
-        "p1.cpp": 0,
-        "p5.cpp": 8.183787085166138e-06,
-        "p6.cpp": 6.099942625819832e-06,
-        "p7.cpp": 1.9594653020415478e-05,
-        "p8.cpp": 6.099602068851199e-06
+        "p1.cpp": 0.0,
+        "p5.cpp": 0.02693643354124468,
+        "p6.cpp": 0.020077587238752782,
+        "p7.cpp": 0.06449459930413817,
+        "p8.cpp": 0.02007646631636598
     },
     "subdirscores": {}
 }

@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/compiler-rt/lib/sanitizer_common/symbolizer/scripts",
-    "score.sum": 0.00039757203605423795,
+    "score.sum": 0.020675663986654984,
     "sha.latest": "8dbedf49d7c6e8e6e3212b8be633780e5c4f0ee3",
     "time.latest": 1717804920.7825267,
     "formatted_time": "2024-06-08 05:32:00.782529",
     "filescores": {
-        "build_symbolizer.sh": 0.00026867547315709197,
-        "global_symbols.txt": 0.0001636271469533238
+        "build_symbolizer.sh": 0.8843288506340163,
+        "global_symbols.txt": 0.5385687241840318
     },
     "subdirscores": {}
 }

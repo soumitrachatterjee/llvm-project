@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/lldb/tools/lldb-vscode/src-ts",
-    "score.sum": 0,
+    "score.sum": 0.0,
     "sha.latest": 0,
     "time.latest": 1717995490.9124064,
     "formatted_time": "2024-06-10 10:28:10.912409",
     "filescores": {
-        "debug-adapter-factory.ts": 0,
-        "disposable-context.ts": 0,
-        "extension.ts": 0,
-        "types.ts": 0
+        "debug-adapter-factory.ts": 0.0,
+        "disposable-context.ts": 0.0,
+        "extension.ts": 0.0,
+        "types.ts": 0.0
     },
     "subdirscores": {}
 }

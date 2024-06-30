@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/flang/test/Fir/OpenACC",
-    "score.sum": 2.944140879843294e-05,
+    "score.sum": 0.0015310952994870685,
     "sha.latest": "0d091206dd656c2a9d31d6088a4aa6f9c2cc7156",
     "time.latest": 1717795761.60118,
     "formatted_time": "2024-06-07 16:29:21.601183",
     "filescores": {
-        "legalize-data.fir": 1.6288908676702913e-05,
-        "propagate-attr-folding.fir": 0
+        "legalize-data.fir": 0.053613944432243814,
+        "propagate-attr-folding.fir": 0.0
     },
     "subdirscores": {}
 }

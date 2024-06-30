@@ -1,16 +1,16 @@
 {
     "directory name": "llvm-project/lldb/source/Plugins/LanguageRuntime/ObjC",
-    "score.sum": 0.0016378214588124813,
+    "score.sum": 0.08517461763311807,
     "sha.latest": "624ea68cbc3ce422b3ee110c0c0af839eec2e278",
     "time.latest": 1717871425.4498372,
     "formatted_time": "2024-06-09 00:00:25.449841",
     "filescores": {
-        "CMakeLists.txt": 3.109315448178048e-05,
-        "ObjCLanguageRuntime.cpp": 6.0567784192497754e-05,
-        "ObjCLanguageRuntime.h": 5.798936224442787e-05
+        "CMakeLists.txt": 0.10234121202936101,
+        "ObjCLanguageRuntime.cpp": 0.19935514898705917,
+        "ObjCLanguageRuntime.h": 0.19086843119703234
     },
     "subdirscores": {
-        "AppleObjCRuntime": 0.0015434645367249935,
-        "GNUstepObjCRuntime": 6.099602068851199e-06
+        "AppleObjCRuntime": 0.08026760245353502,
+        "GNUstepObjCRuntime": 0.00031720873550238375
     }
 }

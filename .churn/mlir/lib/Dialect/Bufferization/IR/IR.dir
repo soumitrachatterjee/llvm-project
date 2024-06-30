@@ -1,17 +1,17 @@
 {
     "directory name": "llvm-project/mlir/lib/Dialect/Bufferization/IR",
-    "score.sum": 0.0005373628260512531,
+    "score.sum": 0.027945459496148607,
     "sha.latest": "067d2779fcfc62dd429177f350b8cefe49b65b51",
     "time.latest": 1717805576.9190912,
     "formatted_time": "2024-06-07 19:12:56.919095",
     "filescores": {
-        "AllocationOpInterface.cpp": 6.352509704876353e-06,
-        "BufferDeallocationOpInterface.cpp": 1.7243838185135225e-05,
-        "BufferizableOpInterface.cpp": 0.00021270377290977615,
-        "BufferizationDialect.cpp": 4.683225507741904e-05,
-        "BufferizationOps.cpp": 0.00028765266516260154,
-        "CMakeLists.txt": 6.45115770402321e-05,
-        "UnstructuredControlFlow.cpp": 0
+        "AllocationOpInterface.cpp": 0.020908896297616716,
+        "BufferDeallocationOpInterface.cpp": 0.05675703637400322,
+        "BufferizableOpInterface.cpp": 0.7001014302218828,
+        "BufferizationDialect.cpp": 0.15414549686490375,
+        "BufferizationOps.cpp": 0.9467911148567019,
+        "CMakeLists.txt": 0.21233590139885966,
+        "UnstructuredControlFlow.cpp": 0.0
     },
     "subdirscores": {}
 }

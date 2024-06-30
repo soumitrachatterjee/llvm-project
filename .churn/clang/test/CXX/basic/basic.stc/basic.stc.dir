@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/clang/test/CXX/basic/basic.stc",
-    "score.sum": 2.4373661406640843e-05,
+    "score.sum": 0.001267547985440951,
     "sha.latest": "83ea47acd7116bf50274534ba9b3bd3035c01da6",
     "time.latest": 1718082743.7764924,
     "formatted_time": "2024-06-11 10:42:23.776494",
     "filescores": {},
     "subdirscores": {
-        "basic.stc.dynamic": 2.4373661406640843e-05
+        "basic.stc.dynamic": 0.001267547985440951
     }
 }

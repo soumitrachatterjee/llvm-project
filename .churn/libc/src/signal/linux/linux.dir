@@ -1,23 +1,23 @@
 {
     "directory name": "llvm-project/libc/src/signal/linux",
-    "score.sum": 7.618770136802199e-05,
+    "score.sum": 0.0039621280435979634,
     "sha.latest": "2c0d20668a11dd4cc9a678706cd3f0312ed97b23",
     "time.latest": 1717836453.4661205,
     "formatted_time": "2024-06-08 03:47:33.466124",
     "filescores": {
-        "CMakeLists.txt": 3.1291519082470416e-05,
-        "__restore.cpp": 2.9875540188724956e-05,
-        "kill.cpp": 1.3915552629107892e-05,
-        "raise.cpp": 2.2547402128625164e-05,
-        "sigaction.cpp": 3.0363332781394818e-05,
-        "sigaddset.cpp": 1.7286063569238703e-05,
-        "sigaltstack.cpp": 1.3762163223287321e-05,
-        "sigdelset.cpp": 1.6970136919058236e-05,
-        "sigemptyset.cpp": 2.03073022861566e-05,
-        "sigfillset.cpp": 1.6970136919058236e-05,
-        "signal.cpp": 1.1952402334762877e-05,
-        "signal_utils.h": 2.0233496726888823e-05,
-        "sigprocmask.cpp": 3.3278949549370965e-05
+        "CMakeLists.txt": 0.10299411695318353,
+        "__restore.cpp": 0.09833350922105978,
+        "kill.cpp": 0.045802188483505486,
+        "raise.cpp": 0.07421339199626807,
+        "sigaction.cpp": 0.09993904863913428,
+        "sigaddset.cpp": 0.05689601863744927,
+        "sigaltstack.cpp": 0.045297316656707116,
+        "sigdelset.cpp": 0.055856165434044286,
+        "sigemptyset.cpp": 0.06684024067836788,
+        "sigfillset.cpp": 0.055856165434044286,
+        "signal.cpp": 0.03934059962680738,
+        "signal_utils.h": 0.06659731420416935,
+        "sigprocmask.cpp": 0.10953562250952274
     },
     "subdirscores": {}
 }

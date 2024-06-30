@@ -1,18 +1,18 @@
 {
     "directory name": "llvm-project/clang-tools-extra/clang-tidy/portability",
-    "score.sum": 0.00011428228959617191,
+    "score.sum": 0.005943230421250499,
     "sha.latest": "da95d926f6fce4ed9707c77908ad96624268f134",
     "time.latest": 1717799314.5187156,
     "formatted_time": "2024-06-08 03:58:34.518718",
     "filescores": {
-        "CMakeLists.txt": 3.515699077750665e-05,
-        "PortabilityTidyModule.cpp": 2.5175444905043567e-05,
-        "RestrictSystemIncludesCheck.cpp": 2.6804351493843755e-05,
-        "RestrictSystemIncludesCheck.h": 3.0848022489307474e-05,
-        "SIMDIntrinsicsCheck.cpp": 4.322247788550836e-05,
-        "SIMDIntrinsicsCheck.h": 1.632619339841482e-05,
-        "StdAllocatorConstCheck.cpp": 6.118420103183374e-06,
-        "StdAllocatorConstCheck.h": 7.4825180757755344e-06
+        "CMakeLists.txt": 0.11571708009180631,
+        "PortabilityTidyModule.cpp": 0.0828634337011477,
+        "RestrictSystemIncludesCheck.cpp": 0.08822487988950746,
+        "RestrictSystemIncludesCheck.h": 0.10153437510223098,
+        "SIMDIntrinsicsCheck.cpp": 0.14226413650976336,
+        "SIMDIntrinsicsCheck.h": 0.0537366648082806,
+        "StdAllocatorConstCheck.cpp": 0.020138404722862924,
+        "StdAllocatorConstCheck.h": 0.024628249583206016
     },
     "subdirscores": {}
 }

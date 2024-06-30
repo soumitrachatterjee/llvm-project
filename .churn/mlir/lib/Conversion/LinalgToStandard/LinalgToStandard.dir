@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/mlir/lib/Conversion/LinalgToStandard",
-    "score.sum": 0.00014662873850141556,
+    "score.sum": 0.007625401821844387,
     "sha.latest": "5550c821897ab77e664977121a0e90ad5be1ff59",
     "time.latest": 1717803290.2555194,
     "formatted_time": "2024-06-07 18:34:50.255523",
     "filescores": {
-        "CMakeLists.txt": 1.793400162654464e-05,
-        "LinalgToStandard.cpp": 0.0001358568609474542
+        "CMakeLists.txt": 0.05902866703578065,
+        "LinalgToStandard.cpp": 0.4471645300580213
     },
     "subdirscores": {}
 }

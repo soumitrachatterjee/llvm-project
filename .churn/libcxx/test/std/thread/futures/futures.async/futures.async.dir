@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/libcxx/test/std/thread/futures/futures.async",
-    "score.sum": 0.00011453542813876748,
+    "score.sum": 0.005956394846748632,
     "sha.latest": "f5832bab6f5024cabe32a9f668b7f44e6b7cfef5",
     "time.latest": 1717974501.6540852,
     "formatted_time": "2024-06-10 04:38:21.654088",
     "filescores": {
-        "async.pass.cpp": 5.289823236607206e-05,
-        "async.verify.cpp": 1.0858382221907e-05,
-        "async_race.38682.pass.cpp": 2.9005214337123148e-05,
-        "async_race.pass.cpp": 2.7319486405464253e-05
+        "async.pass.cpp": 0.17411128927837838,
+        "async.verify.cpp": 0.03573969948656026,
+        "async_race.38682.pass.cpp": 0.0954688850297251,
+        "async_race.pass.cpp": 0.08992041487437918
     },
     "subdirscores": {}
 }

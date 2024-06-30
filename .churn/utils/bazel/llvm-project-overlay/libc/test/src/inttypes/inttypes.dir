@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/utils/bazel/llvm-project-overlay/libc/test/src/inttypes",
-    "score.sum": 0,
+    "score.sum": 0.0,
     "sha.latest": "2bd82c5462d511f1e58e7d9a4dcd5628cd16a32d",
     "time.latest": 1717788933.4144769,
     "formatted_time": "2024-06-08 01:05:33.414481",
     "filescores": {
-        "BUILD.bazel": 0
+        "BUILD.bazel": 0.0
     },
     "subdirscores": {}
 }

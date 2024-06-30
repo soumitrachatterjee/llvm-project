@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/llvm/utils/gn/build/libs/xml",
-    "score.sum": 1.1406374975665192e-05,
+    "score.sum": 0.0005931865295235961,
     "sha.latest": "883e93cb280e672107c4fe64d2ab03a01613e0af",
     "time.latest": 1718080310.1446111,
     "formatted_time": "2024-06-10 23:31:50.144614",
     "filescores": {
-        "BUILD.gn": 6.632600830726654e-06,
-        "enable.gni": 6.099602068851199e-06
+        "BUILD.gn": 0.021830799069334033,
+        "enable.gni": 0.02007646631636598
     },
     "subdirscores": {}
 }

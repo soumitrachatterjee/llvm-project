@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/mlir/include/mlir/Conversion/BufferizationToMemRef",
-    "score.sum": 1.968587885502323e-05,
+    "score.sum": 0.0010237606762486936,
     "sha.latest": "3610c82ce398c8ed46cbeba3cfa0a0c0d100c02f",
     "time.latest": 1717791354.1528282,
     "formatted_time": "2024-06-07 15:15:54.152831",
     "filescores": {
-        "BufferizationToMemRef.h": 1.968587885502323e-05
+        "BufferizationToMemRef.h": 0.06479486354679061
     },
     "subdirscores": {}
 }

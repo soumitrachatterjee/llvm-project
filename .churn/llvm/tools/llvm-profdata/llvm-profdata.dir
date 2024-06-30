@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/llvm/tools/llvm-profdata",
-    "score.sum": 0.0009779649764753364,
+    "score.sum": 0.050858897031587295,
     "sha.latest": "08ddd2ce4048b0adbddc3ab9b770ccf43f81d65d",
     "time.latest": 1718082407.513193,
     "formatted_time": "2024-06-11 00:06:47.513197",
     "filescores": {
-        "CMakeLists.txt": 3.6093421987268284e-05,
-        "llvm-profdata.cpp": 0.0009594391732279241
+        "CMakeLists.txt": 0.11879928601739942,
+        "llvm-profdata.cpp": 3.157935227000846
     },
     "subdirscores": {}
 }

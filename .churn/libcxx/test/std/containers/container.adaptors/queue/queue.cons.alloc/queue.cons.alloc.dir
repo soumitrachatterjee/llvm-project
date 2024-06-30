@@ -1,16 +1,16 @@
 {
     "directory name": "llvm-project/libcxx/test/std/containers/container.adaptors/queue/queue.cons.alloc",
-    "score.sum": 3.8356157327705534e-05,
+    "score.sum": 0.001994705232786355,
     "sha.latest": "e7b07a65388f9cc143cff89762e996efbe25b73f",
     "time.latest": 1717881737.4841776,
     "formatted_time": "2024-06-09 02:52:17.484179",
     "filescores": {
-        "ctor_alloc.pass.cpp": 1.706481251050115e-05,
-        "ctor_container_alloc.pass.cpp": 2.1139684306542277e-05,
-        "ctor_iterators.pass.cpp": 6.099602068851199e-06,
-        "ctor_queue_alloc.pass.cpp": 1.926607059535771e-05,
-        "ctor_rcontainer_alloc.pass.cpp": 2.747757752291324e-05,
-        "ctor_rqueue_alloc.pass.cpp": 2.747757752291324e-05
+        "ctor_alloc.pass.cpp": 0.056167784339856565,
+        "ctor_container_alloc.pass.cpp": 0.0695799750751347,
+        "ctor_iterators.pass.cpp": 0.02007646631636598,
+        "ctor_queue_alloc.pass.cpp": 0.06341309039349793,
+        "ctor_rcontainer_alloc.pass.cpp": 0.09044076209679708,
+        "ctor_rqueue_alloc.pass.cpp": 0.09044076209679708
     },
     "subdirscores": {}
 }

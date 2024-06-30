@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/mlir/test/lib/Dialect/ControlFlow",
-    "score.sum": 0,
+    "score.sum": 0.0,
     "sha.latest": "325b58d59f0073c364b29d6e125b809c76484a16",
     "time.latest": 1717831103.9002318,
     "formatted_time": "2024-06-08 02:18:23.900236",
     "filescores": {
-        "CMakeLists.txt": 0,
-        "TestAssert.cpp": 0
+        "CMakeLists.txt": 0.0,
+        "TestAssert.cpp": 0.0
     },
     "subdirscores": {}
 }

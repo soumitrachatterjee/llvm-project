@@ -1,23 +1,23 @@
 {
     "directory name": "llvm-project/libcxx/test/std/containers/container.adaptors/stack/stack.cons",
-    "score.sum": 8.903532556091685e-05,
+    "score.sum": 0.0046302664858169605,
     "sha.latest": "b82dcb624e6bfa58ed566511cb564f8f201fa62e",
     "time.latest": 1717882237.5603385,
     "formatted_time": "2024-06-09 03:00:37.560340",
     "filescores": {
-        "ctor_container.pass.cpp": 2.0723153351027584e-05,
-        "ctor_copy.pass.cpp": 1.7366275644238228e-05,
-        "ctor_default.pass.cpp": 2.059448132119651e-05,
-        "ctor_iterators.pass.cpp": 6.2853527838251e-06,
-        "ctor_move.pass.cpp": 2.297803747804357e-05,
-        "ctor_rcontainer.pass.cpp": 2.670212369030963e-05,
-        "deduct.pass.cpp": 3.347618411337007e-05,
-        "deduct.verify.cpp": 0,
-        "default_noexcept.pass.cpp": 2.6357081930658654e-05,
-        "dtor_noexcept.pass.cpp": 2.2035194553553418e-05,
-        "from_range.pass.cpp": 0,
-        "move_assign_noexcept.pass.cpp": 2.2035194553553418e-05,
-        "move_noexcept.pass.cpp": 2.6443177310467636e-05
+        "ctor_container.pass.cpp": 0.06820898896756238,
+        "ctor_copy.pass.cpp": 0.057160031765472394,
+        "ctor_default.pass.cpp": 0.06778547286870831,
+        "ctor_iterators.pass.cpp": 0.02068785340855981,
+        "ctor_move.pass.cpp": 0.07563080185180368,
+        "ctor_rcontainer.pass.cpp": 0.08788840334053229,
+        "deduct.pass.cpp": 0.11018480798684635,
+        "deduct.verify.cpp": 0.0,
+        "default_noexcept.pass.cpp": 0.0867527195390024,
+        "dtor_noexcept.pass.cpp": 0.07252749216020676,
+        "from_range.pass.cpp": 0.0,
+        "move_assign_noexcept.pass.cpp": 0.07252749216020676,
+        "move_noexcept.pass.cpp": 0.08703609720417119
     },
     "subdirscores": {}
 }

@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/mlir/include/mlir/Conversion/TosaToArith",
-    "score.sum": 2.504877204786591e-05,
+    "score.sum": 0.0013026569958993236,
     "sha.latest": "b9cfb6f7e082b57d8a1c5fc577dd357da60238db",
     "time.latest": 1717792271.9051073,
     "formatted_time": "2024-06-07 15:31:11.905110",
     "filescores": {
-        "TosaToArith.h": 2.504877204786591e-05
+        "TosaToArith.h": 0.08244649775653713
     },
     "subdirscores": {}
 }

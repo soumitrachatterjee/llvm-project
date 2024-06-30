@@ -1,20 +1,20 @@
 {
     "directory name": "llvm-project/lldb/test/API/commands/trace/intelpt-trace-multi-file",
-    "score.sum": 1.3693678308018572e-05,
+    "score.sum": 0.0007121373380478733,
     "sha.latest": "6a5355e8a159bd9c058d4fbba2a87e0465fe0dc7",
     "time.latest": 1717900012.9252846,
     "formatted_time": "2024-06-09 07:56:52.925289",
     "filescores": {
-        "a.out": 0,
-        "bar.cpp": 0,
-        "bar.h": 0,
-        "foo.cpp": 0,
-        "foo.h": 0,
-        "libbar.so": 0,
-        "libfoo.so": 0,
-        "main.cpp": 0,
-        "multi-file-no-ld.json": 1.3693678308018572e-05,
-        "multi-file.trace": 0
+        "a.out": 0.0,
+        "bar.cpp": 0.0,
+        "bar.h": 0.0,
+        "foo.cpp": 0.0,
+        "foo.h": 0.0,
+        "libbar.so": 0.0,
+        "libfoo.so": 0.0,
+        "main.cpp": 0.0,
+        "multi-file-no-ld.json": 0.04507190275608667,
+        "multi-file.trace": 0.0
     },
     "subdirscores": {}
 }

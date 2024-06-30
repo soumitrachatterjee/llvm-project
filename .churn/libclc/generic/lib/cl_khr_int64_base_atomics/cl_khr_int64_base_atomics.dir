@@ -1,16 +1,16 @@
 {
     "directory name": "llvm-project/libclc/generic/lib/cl_khr_int64_base_atomics",
-    "score.sum": 0,
+    "score.sum": 0.0,
     "sha.latest": "1c81f4b0e37c8ccc59351b7aaac994e051d4b82c",
     "time.latest": 1717828297.0068352,
     "formatted_time": "2024-06-08 01:31:37.006839",
     "filescores": {
-        "atom_add.cl": 0,
-        "atom_cmpxchg.cl": 0,
-        "atom_dec.cl": 0,
-        "atom_inc.cl": 0,
-        "atom_sub.cl": 0,
-        "atom_xchg.cl": 0
+        "atom_add.cl": 0.0,
+        "atom_cmpxchg.cl": 0.0,
+        "atom_dec.cl": 0.0,
+        "atom_inc.cl": 0.0,
+        "atom_sub.cl": 0.0,
+        "atom_xchg.cl": 0.0
     },
     "subdirscores": {}
 }

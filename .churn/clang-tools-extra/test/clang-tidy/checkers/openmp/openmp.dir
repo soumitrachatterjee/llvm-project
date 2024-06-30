@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/clang-tools-extra/test/clang-tidy/checkers/openmp",
-    "score.sum": 6.099602068851199e-06,
+    "score.sum": 0.00031720873550238375,
     "sha.latest": "e8a3ddafe063c970df9c23e803812369abde4c82",
     "time.latest": 1717828913.0279632,
     "formatted_time": "2024-06-08 12:11:53.027967",
     "filescores": {
-        "exception-escape.cpp": 6.099602068851199e-06,
-        "use-default-none.cpp": 0
+        "exception-escape.cpp": 0.02007646631636598,
+        "use-default-none.cpp": 0.0
     },
     "subdirscores": {}
 }

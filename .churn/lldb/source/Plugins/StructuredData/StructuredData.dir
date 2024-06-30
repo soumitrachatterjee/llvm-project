@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/lldb/source/Plugins/StructuredData",
-    "score.sum": 0.00021275340877069773,
+    "score.sum": 0.011064203698567728,
     "sha.latest": "92d8a28cc665d73d9d679b8c014dd04f95d1df18",
     "time.latest": 1717880288.4445202,
     "formatted_time": "2024-06-09 02:28:08.444522",
     "filescores": {
-        "CMakeLists.txt": 6.905552091329029e-06
+        "CMakeLists.txt": 0.02272920141224708
     },
     "subdirscores": {
-        "DarwinLog": 0.00021275340877069773
+        "DarwinLog": 0.011064203698567728
     }
 }

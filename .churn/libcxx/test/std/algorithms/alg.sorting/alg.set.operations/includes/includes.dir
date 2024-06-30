@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/libcxx/test/std/algorithms/alg.sorting/alg.set.operations/includes",
-    "score.sum": 3.993520929862128e-05,
+    "score.sum": 0.0020768235535116725,
     "sha.latest": "b8cb1dc9ea87faa8e8e9ab7a31710a8c0bb8b084",
     "time.latest": 1717871690.9329104,
     "formatted_time": "2024-06-09 00:04:50.932913",
     "filescores": {
-        "includes.pass.cpp": 2.6214425900759237e-05,
-        "includes_comp.pass.cpp": 2.6214425900759237e-05,
-        "ranges_includes.pass.cpp": 7.7252841657846e-06
+        "includes.pass.cpp": 0.08628317596111428,
+        "includes_comp.pass.cpp": 0.08628317596111428,
+        "ranges_includes.pass.cpp": 0.025427299287401037
     },
     "subdirscores": {}
 }

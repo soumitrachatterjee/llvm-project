@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/libcxx/test/std/concepts/concepts.compare",
-    "score.sum": 1.6773207328535078e-05,
+    "score.sum": 0.0008722877045003716,
     "sha.latest": "72f0edf3f4291d2614719a8c8af21a7a62ed5d74",
     "time.latest": 1717874985.7231765,
     "formatted_time": "2024-06-09 00:59:45.723179",
     "filescores": {},
     "subdirscores": {
-        "concept.equalitycomparable": 1.6773207328535078e-05,
-        "concepts.totallyordered": 1.2004983532547018e-05
+        "concept.equalitycomparable": 0.0008722877045003716,
+        "concepts.totallyordered": 0.0006243170625068983
     }
 }

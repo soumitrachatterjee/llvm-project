@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/lldb/test/API/functionalities/json/object-file",
-    "score.sum": 0,
+    "score.sum": 0.0,
     "sha.latest": "f40ed1f619046e98d08b092b1afb835ed5156f52",
     "time.latest": 1717910823.8514953,
     "formatted_time": "2024-06-09 10:57:03.851497",
     "filescores": {
-        "main.c": 0,
-        "Makefile": 0,
-        "TestObjectFileJSON.py": 0
+        "main.c": 0.0,
+        "Makefile": 0.0,
+        "TestObjectFileJSON.py": 0.0
     },
     "subdirscores": {}
 }

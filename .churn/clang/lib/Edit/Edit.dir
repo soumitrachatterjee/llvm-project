@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/clang/lib/Edit",
-    "score.sum": 0.00020123930262296426,
+    "score.sum": 0.010465414628340618,
     "sha.latest": "5c57fd717d5d6a285efeb8402c6fe0c8f70592f3",
     "time.latest": 1717811117.741231,
     "formatted_time": "2024-06-08 07:15:17.741233",
     "filescores": {
-        "CMakeLists.txt": 2.458158189623409e-05,
-        "Commit.cpp": 2.4513129605822243e-05,
-        "EditedSource.cpp": 6.54814735203742e-05,
-        "RewriteObjCFoundationAPI.cpp": 0.00012683391806552675
+        "CMakeLists.txt": 0.08090877001025143,
+        "Commit.cpp": 0.08068346349234765,
+        "EditedSource.cpp": 0.2155282562105568,
+        "RewriteObjCFoundationAPI.cpp": 0.4174660666502882
     },
     "subdirscores": {}
 }

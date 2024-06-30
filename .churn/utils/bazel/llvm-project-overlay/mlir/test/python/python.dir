@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/utils/bazel/llvm-project-overlay/mlir/test/python",
-    "score.sum": 0,
+    "score.sum": 0.0,
     "sha.latest": "b1a302265bf8c08a97b654b9f10dd662a67a1d4e",
     "time.latest": 1717790828.8900747,
     "formatted_time": "2024-06-08 01:37:08.890080",
     "filescores": {
-        "BUILD.bazel": 0
+        "BUILD.bazel": 0.0
     },
     "subdirscores": {}
 }

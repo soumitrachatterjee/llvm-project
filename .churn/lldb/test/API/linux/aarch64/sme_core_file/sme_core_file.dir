@@ -1,17 +1,17 @@
 {
     "directory name": "llvm-project/lldb/test/API/linux/aarch64/sme_core_file",
-    "score.sum": 1.1263835112763227e-05,
+    "score.sum": 0.0005857737689599662,
     "sha.latest": "9ad25f235262bf9e215fdcb68706966b19b915ef",
     "time.latest": 1717961067.4127555,
     "formatted_time": "2024-06-10 00:54:27.412758",
     "filescores": {
-        "core_0_16_32_1": 6.1115633143856784e-06,
-        "core_0_32_16_0": 6.1115633143856784e-06,
-        "core_1_16_32_0": 6.1115633143856784e-06,
-        "core_1_32_16_1": 6.1115633143856784e-06,
-        "generate.sh": 0,
-        "main.c": 6.1115633143856784e-06,
-        "TestAArch64LinuxSMECoreFile.py": 1.1263835112763227e-05
+        "core_0_16_32_1": 0.020115836022842584,
+        "core_0_32_16_0": 0.020115836022842584,
+        "core_1_16_32_0": 0.020115836022842584,
+        "core_1_32_16_1": 0.020115836022842584,
+        "generate.sh": 0.0,
+        "main.c": 0.020115836022842584,
+        "TestAArch64LinuxSMECoreFile.py": 0.03707422282337219
     },
     "subdirscores": {}
 }

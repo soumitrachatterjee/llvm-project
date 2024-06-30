@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/mlir/test/Dialect/MPI",
-    "score.sum": 6.591397332783017e-06,
+    "score.sum": 0.0003427844619246903,
     "sha.latest": "b334664f9f3a098b6f3fd9cfd17b856a9edfe446",
     "time.latest": 1717820613.7657907,
     "formatted_time": "2024-06-07 23:23:33.765795",
     "filescores": {
-        "ops.mlir": 6.591397332783017e-06
+        "ops.mlir": 0.021695180281543554
     },
     "subdirscores": {}
 }

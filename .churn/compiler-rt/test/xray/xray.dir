@@ -1,15 +1,15 @@
 {
     "directory name": "llvm-project/compiler-rt/test/xray",
-    "score.sum": 0.00021802111856505306,
+    "score.sum": 0.011338150022278592,
     "sha.latest": "75b0a99668cef7abaf36e09c41bb1eb91234bbf3",
     "time.latest": 1717865670.6213527,
     "formatted_time": "2024-06-08 22:24:30.621356",
     "filescores": {
-        "CMakeLists.txt": 1.6392459610868527e-05,
-        "lit.cfg.py": 7.002799956660153e-06,
-        "lit.site.cfg.py.in": 0
+        "CMakeLists.txt": 0.05395477598458731,
+        "lit.cfg.py": 0.023049286799887218,
+        "lit.site.cfg.py.in": 0.0
     },
     "subdirscores": {
-        "TestCases": 0.00017579677697490996
+        "TestCases": 0.009142280545541953
     }
 }

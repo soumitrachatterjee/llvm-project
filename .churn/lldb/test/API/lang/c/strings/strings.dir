@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/lldb/test/API/lang/c/strings",
-    "score.sum": 1.603204625490352e-05,
+    "score.sum": 0.0008337437528923063,
     "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
     "time.latest": 1717927472.3532734,
     "formatted_time": "2024-06-09 15:34:32.353279",
     "filescores": {
-        "main.c": 1.1655318940087796e-05,
-        "Makefile": 0,
-        "TestCStrings.py": 1.5948829251223187e-05
+        "main.c": 0.03836276784384497,
+        "Makefile": 0.0,
+        "TestCStrings.py": 0.052494593849457566
     },
     "subdirscores": {}
 }

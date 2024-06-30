@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/pstl/test/std/algorithms/alg.sorting/alg.min.max",
-    "score.sum": 1.346093469379254e-05,
+    "score.sum": 0.0007000335472215975,
     "sha.latest": "2e15f4ac572bcf429ec12e8f3efbb8ad254042c7",
     "time.latest": 1717791842.4423099,
     "formatted_time": "2024-06-07 15:24:02.442313",
     "filescores": {
-        "minmax_element.pass.cpp": 1.346093469379254e-05
+        "minmax_element.pass.cpp": 0.04430584141657404
     },
     "subdirscores": {}
 }

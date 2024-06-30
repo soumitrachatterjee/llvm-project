@@ -1,20 +1,20 @@
 {
     "directory name": "llvm-project/flang/lib/Optimizer/Dialect",
-    "score.sum": 0.0009883056065370275,
+    "score.sum": 0.05139665968382942,
     "sha.latest": "b3189b13b274a3411f939574aa573a7656bf372b",
     "time.latest": 1717791597.276969,
     "formatted_time": "2024-06-07 15:19:57.276970",
     "filescores": {
-        "CMakeLists.txt": 6.407387433715684e-05,
-        "FIRAttr.cpp": 5.147729846026307e-05,
-        "FIRDialect.cpp": 6.579519633948905e-05,
-        "FIROps.cpp": 0.000560191734524533,
-        "FIRType.cpp": 0.00034133226448101274,
-        "FirAliasTagOpInterface.cpp": 0,
-        "FortranVariableInterface.cpp": 1.0983574003457212e-05,
-        "Inliner.cpp": 6.099602068851199e-06
+        "CMakeLists.txt": 0.21089522978197695,
+        "FIRAttr.cpp": 0.16943437242777973,
+        "FIRDialect.cpp": 0.21656085563909966,
+        "FIROps.cpp": 1.8438367555683222,
+        "FIRType.cpp": 1.1234742255624923,
+        "FirAliasTagOpInterface.cpp": 0.0,
+        "FortranVariableInterface.cpp": 0.03615176056153003,
+        "Inliner.cpp": 0.02007646631636598
     },
     "subdirscores": {
-        "Support": 1.3887958021010005e-05
+        "Support": 0.0007222408204383869
     }
 }

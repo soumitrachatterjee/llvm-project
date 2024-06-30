@@ -1,22 +1,22 @@
 {
     "directory name": "llvm-project/openmp/runtime/test/ompt/misc",
-    "score.sum": 5.342560093339266e-05,
+    "score.sum": 0.0027783890037810736,
     "sha.latest": "1234011b80f835a297482467ca6ca2099677c39c",
     "time.latest": 1717802396.8013422,
     "formatted_time": "2024-06-08 04:49:56.801345",
     "filescores": {
-        "api_calls_from_other_thread.cpp": 1.6748242687712763e-05,
-        "api_calls_misc.c": 1.1669582361826385e-05,
-        "api_calls_places.c": 6.099602068851199e-06,
-        "api_calls_without_ompt.c": 6.2379618313718275e-06,
-        "control_tool.c": 2.289765551242149e-05,
-        "control_tool_no_ompt_support.c": 1.0132926903191135e-05,
-        "finalize_tool.c": 6.099602068851199e-06,
-        "interoperability.cpp": 2.104706264712519e-05,
-        "runtime_error.c": 0,
-        "threads.c": 0,
-        "threads_nested.c": 6.099602068851199e-06,
-        "unset_callback.c": 6.099602068851199e-06
+        "api_calls_from_other_thread.cpp": 0.05512581417323781,
+        "api_calls_misc.c": 0.038409715022178666,
+        "api_calls_places.c": 0.02007646631636598,
+        "api_calls_without_ompt.c": 0.020531868993529306,
+        "control_tool.c": 0.07536622953921035,
+        "control_tool_no_ompt_support.c": 0.03335190777394929,
+        "finalize_tool.c": 0.02007646631636598,
+        "interoperability.cpp": 0.06927511656068357,
+        "runtime_error.c": 0.0,
+        "threads.c": 0.0,
+        "threads_nested.c": 0.02007646631636598,
+        "unset_callback.c": 0.02007646631636598
     },
     "subdirscores": {}
 }

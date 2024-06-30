@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/mlir/lib/Conversion/SCFToEmitC",
-    "score.sum": 7.458944091598531e-06,
+    "score.sum": 0.0003879010789181807,
     "sha.latest": "dea855de46bd4d3e103646a7f459856d88dd7488",
     "time.latest": 1717803712.6162927,
     "formatted_time": "2024-06-07 18:41:52.616296",
     "filescores": {
-        "CMakeLists.txt": 9.350079218155776e-06,
-        "SCFToEmitC.cpp": 7.458944091598531e-06
+        "CMakeLists.txt": 0.030775212605633567,
+        "SCFToEmitC.cpp": 0.024550657259324912
     },
     "subdirscores": {}
 }

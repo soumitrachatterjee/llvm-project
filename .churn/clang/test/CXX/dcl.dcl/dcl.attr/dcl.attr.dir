@@ -1,18 +1,18 @@
 {
     "directory name": "llvm-project/clang/test/CXX/dcl.dcl/dcl.attr",
-    "score.sum": 0.00017701299916798041,
+    "score.sum": 0.009205529967323739,
     "sha.latest": "60809cd29308e78d662375e6957a2b1b85415def",
     "time.latest": 1718085552.4711006,
     "formatted_time": "2024-06-11 11:29:12.471103",
     "filescores": {},
     "subdirscores": {
-        "dcl.align": 3.470539759113108e-05,
-        "dcl.attr.depend": 9.690372156676236e-06,
-        "dcl.attr.deprecated": 2.013038056589713e-05,
-        "dcl.attr.fallthrough": 1.4045070761141574e-05,
-        "dcl.attr.grammar": 6.798378310467358e-06,
-        "dcl.attr.nodiscard": 3.799014280045249e-05,
-        "dcl.attr.noreturn": 2.3306913695275923e-05,
-        "dcl.attr.unused": 2.0179534075958593e-05
+        "dcl.align": 0.0018048481131595485,
+        "dcl.attr.depend": 0.0005039461039703054,
+        "dcl.attr.deprecated": 0.0010468769097412027,
+        "dcl.attr.fallthrough": 0.0007304114409257388,
+        "dcl.attr.grammar": 0.0003535484713573028,
+        "dcl.attr.nodiscard": 0.0019756707115085913,
+        "dcl.attr.noreturn": 0.001212071957857096,
+        "dcl.attr.unused": 0.0010494331294086665
     }
 }

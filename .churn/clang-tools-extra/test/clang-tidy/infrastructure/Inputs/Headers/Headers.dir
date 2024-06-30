@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/clang-tools-extra/test/clang-tidy/infrastructure/Inputs/Headers",
-    "score.sum": 6.099602068851199e-06,
+    "score.sum": 0.00031720873550238375,
     "sha.latest": "d103e2d267dbe34d8fcce931abb9752d96e2f9d6",
     "time.latest": 1717833586.7271874,
     "formatted_time": "2024-06-08 13:29:46.727191",
     "filescores": {
-        "a.h": 0,
-        "b.h": 0,
-        "s.h": 0
+        "a.h": 0.0,
+        "b.h": 0.0,
+        "s.h": 0.0
     },
     "subdirscores": {}
 }

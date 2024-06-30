@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/mlir/unittests/Rewrite",
-    "score.sum": 6.479342430911437e-06,
+    "score.sum": 0.00033695706641129376,
     "sha.latest": "57d9adefa04dc65096b8ba3e5763c15305676f73",
     "time.latest": 1717836529.5072374,
     "formatted_time": "2024-06-08 03:48:49.507241",
     "filescores": {
-        "CMakeLists.txt": 0,
-        "PatternBenefit.cpp": 6.479342430911437e-06
+        "CMakeLists.txt": 0.0,
+        "PatternBenefit.cpp": 0.02132635844077187
     },
     "subdirscores": {}
 }

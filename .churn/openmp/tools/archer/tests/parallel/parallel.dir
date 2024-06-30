@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/openmp/tools/archer/tests/parallel",
-    "score.sum": 1.6624286798819196e-05,
+    "score.sum": 0.0008645431184784808,
     "sha.latest": "b281a05dacb485d3c3c9cc7f7f5e8fb858ac67bc",
     "time.latest": 1717806101.3052351,
     "formatted_time": "2024-06-08 05:51:41.305239",
     "filescores": {
-        "parallel-firstprivate.c": 6.099602068851199e-06,
-        "parallel-nosuppression.c": 6.099602068851199e-06,
-        "parallel-simple.c": 1.1354848428198853e-05,
-        "parallel-simple2.c": 6.099602068851199e-06
+        "parallel-firstprivate.c": 0.02007646631636598,
+        "parallel-nosuppression.c": 0.02007646631636598,
+        "parallel-simple.c": 0.03737378757219658,
+        "parallel-simple2.c": 0.02007646631636598
     },
     "subdirscores": {}
 }

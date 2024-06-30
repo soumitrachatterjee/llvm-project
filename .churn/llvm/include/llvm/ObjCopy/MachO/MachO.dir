@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/llvm/include/llvm/ObjCopy/MachO",
-    "score.sum": 6.4764611382969545e-06,
+    "score.sum": 0.0003368072252943593,
     "sha.latest": "06944cdc5511dd2aa9276d2e1a5d929a72e65772",
     "time.latest": 1717819367.9995823,
     "formatted_time": "2024-06-07 23:02:47.999588",
     "filescores": {
-        "MachOConfig.h": 6.475930689525219e-06,
-        "MachOObjcopy.h": 6.099602068851199e-06
+        "MachOConfig.h": 0.021315128903131975,
+        "MachOObjcopy.h": 0.02007646631636598
     },
     "subdirscores": {}
 }

@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/libcxx/test/std/input.output/stream.buffers/streambuf/streambuf.virtuals/streambuf.virt.put",
-    "score.sum": 3.4387953632180955e-05,
+    "score.sum": 0.0017883394957653644,
     "sha.latest": "66a562d22e708ba40b8443b58e504ac3f983ba59",
     "time.latest": 1717909379.0096583,
     "formatted_time": "2024-06-09 10:32:59.009660",
     "filescores": {
-        "overflow.pass.cpp": 1.7366275644238228e-05,
-        "xsputn.pass.cpp": 2.298114526946035e-05,
-        "xsputn.PR14074.pass.cpp": 1.4669671082993733e-05
+        "overflow.pass.cpp": 0.057160031765472394,
+        "xsputn.pass.cpp": 0.07564103095675068,
+        "xsputn.PR14074.pass.cpp": 0.048284323148536284
     },
     "subdirscores": {}
 }

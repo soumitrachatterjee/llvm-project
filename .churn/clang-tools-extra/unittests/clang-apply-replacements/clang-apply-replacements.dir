@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/clang-tools-extra/unittests/clang-apply-replacements",
-    "score.sum": 5.499327436166917e-05,
+    "score.sum": 0.002859915585392641,
     "sha.latest": "3b677b81cec7b3c5132aee8fccc30252d87deb69",
     "time.latest": 1717836502.0849044,
     "formatted_time": "2024-06-08 14:18:22.084907",
     "filescores": {
-        "ApplyReplacementsTest.cpp": 1.6928938916245924e-05,
-        "CMakeLists.txt": 3.07443951879612e-05
+        "ApplyReplacementsTest.cpp": 0.055720564733141735,
+        "CMakeLists.txt": 0.10119329219199348
     },
     "subdirscores": {}
 }

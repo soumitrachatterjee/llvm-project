@@ -1,31 +1,31 @@
 {
     "directory name": "llvm-project/mlir/test/python/ir",
-    "score.sum": 0.0003760172217037119,
+    "score.sum": 0.019554709647840753,
     "sha.latest": "6ce5159945997126b8a0f40f55e876c9fd882fc5",
     "time.latest": 1717834780.4650555,
     "formatted_time": "2024-06-08 03:19:40.465059",
     "filescores": {
-        "affine_expr.py": 1.3365219317396389e-05,
-        "affine_map.py": 8.00662657782561e-06,
-        "array_attributes.py": 3.983190027524024e-05,
-        "attributes.py": 8.181731817657812e-05,
-        "blocks.py": 3.7888687010707086e-05,
-        "builtin_types.py": 7.114526123829887e-05,
-        "context_lifecycle.py": 0,
-        "context_managers.py": 1.0992070186801194e-05,
-        "debug.py": 6.099602068851199e-06,
-        "diagnostic_handler.py": 2.7503181372453464e-05,
-        "dialects.py": 1.7824061002672407e-05,
-        "exception.py": 6.099602068851199e-06,
-        "insertion_point.py": 1.946521121537999e-05,
-        "integer_set.py": 1.0730809403472745e-05,
-        "location.py": 2.2776249071691542e-05,
-        "module.py": 2.020736416802205e-05,
-        "operation.py": 0.00011794729155435118,
-        "symbol_table.py": 1.7525306660272282e-05,
-        "value.py": 6.502764807911464e-05
+        "affine_expr.py": 0.0439908001223249,
+        "affine_map.py": 0.026353320590913765,
+        "array_attributes.py": 0.13110425814110888,
+        "attributes.py": 0.26929668754224767,
+        "blocks.py": 0.12470829079593697,
+        "builtin_types.py": 0.23417026630538545,
+        "context_lifecycle.py": 0.0,
+        "context_managers.py": 0.03617972522820791,
+        "debug.py": 0.02007646631636598,
+        "diagnostic_handler.py": 0.09052503559809459,
+        "dialects.py": 0.05866680421144285,
+        "exception.py": 0.02007646631636598,
+        "insertion_point.py": 0.06406854953738443,
+        "integer_set.py": 0.0353198013746394,
+        "location.py": 0.07496662768151675,
+        "module.py": 0.06651130048853232,
+        "operation.py": 0.3882162802209673,
+        "symbol_table.py": 0.05768347260646918,
+        "value.py": 0.2140345175892317
     },
     "subdirscores": {
-        "custom_dialect": 0
+        "custom_dialect": 0.0
     }
 }

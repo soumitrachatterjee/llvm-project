@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/lldb/test/Shell/DAP",
-    "score.sum": 0,
+    "score.sum": 0.0,
     "sha.latest": "01263c6c6fb495a94fe0ccbb1420bb1ec8460748",
     "time.latest": 1717972020.4967563,
     "formatted_time": "2024-06-10 03:57:00.496758",
     "filescores": {
-        "TestOptions.test": 0
+        "TestOptions.test": 0.0
     },
     "subdirscores": {}
 }

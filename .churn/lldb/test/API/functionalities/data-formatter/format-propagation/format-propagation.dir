@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/lldb/test/API/functionalities/data-formatter/format-propagation",
-    "score.sum": 1.6150926542448413e-05,
+    "score.sum": 0.0008399261013902267,
     "sha.latest": "80fcecb13c388ff087a27a4b0e7ca3dd8c98eaa4",
     "time.latest": 1717907775.400235,
     "formatted_time": "2024-06-09 10:06:15.400237",
     "filescores": {
-        "main.cpp": 0,
-        "Makefile": 0,
-        "TestFormatPropagation.py": 1.6150926542448413e-05
+        "main.cpp": 0.0,
+        "Makefile": 0.0,
+        "TestFormatPropagation.py": 0.0531597846953706
     },
     "subdirscores": {}
 }

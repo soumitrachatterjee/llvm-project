@@ -1,23 +1,23 @@
 {
     "directory name": "llvm-project/clang-tools-extra/pseudo",
-    "score.sum": 0.0002198141577506018,
+    "score.sum": 0.011431396710559894,
     "sha.latest": "732bccb8c1b4ea724919db6ff02b1188e20850e7",
     "time.latest": 1717815684.628394,
     "formatted_time": "2024-06-08 08:31:24.628397",
     "filescores": {
-        "CMakeLists.txt": 1.7060322486020265e-05,
-        "DesignNotes.md": 0,
-        "Disambiguation.md": 0,
-        "README.md": 1.1713601270293857e-05
+        "CMakeLists.txt": 0.05615300569950714,
+        "DesignNotes.md": 0.0,
+        "Disambiguation.md": 0.0,
+        "README.md": 0.03855460056112938
     },
     "subdirscores": {
-        "benchmarks": 3.105170740179998e-05,
-        "fuzzer": 2.392714438292105e-05,
-        "gen": 3.1736048608381035e-05,
-        "include": 9.899419432615251e-05,
-        "lib": 0.00014122218554152874,
-        "test": 7.175525528452536e-05,
-        "tool": 5.1664441506424206e-05,
-        "unittests": 9.785398017995086e-05
+        "benchmarks": 0.0016148385958512387,
+        "fuzzer": 0.0012443269459574491,
+        "gen": 0.0016504276402415786,
+        "include": 0.005148175708811497,
+        "lib": 0.00734423498366811,
+        "test": 0.0037316194626351947,
+        "tool": 0.002686800216751893,
+        "unittests": 0.005088879072172596
     }
 }

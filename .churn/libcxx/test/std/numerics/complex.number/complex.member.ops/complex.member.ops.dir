@@ -1,20 +1,20 @@
 {
     "directory name": "llvm-project/libcxx/test/std/numerics/complex.number/complex.member.ops",
-    "score.sum": 1.678427649285423e-05,
+    "score.sum": 0.000872863354448862,
     "sha.latest": "7223bcf04c4ce3c1585df9408c6a6663cc8364ea",
     "time.latest": 1717934148.322383,
     "formatted_time": "2024-06-09 17:25:48.322386",
     "filescores": {
-        "assignment_complex.pass.cpp": 1.568561836164792e-05,
-        "assignment_scalar.pass.cpp": 1.568561836164792e-05,
-        "divide_equal_complex.pass.cpp": 1.678427649285423e-05,
-        "divide_equal_scalar.pass.cpp": 1.568561836164792e-05,
-        "minus_equal_complex.pass.cpp": 1.568561836164792e-05,
-        "minus_equal_scalar.pass.cpp": 1.568561836164792e-05,
-        "plus_equal_complex.pass.cpp": 1.678427649285423e-05,
-        "plus_equal_scalar.pass.cpp": 1.568561836164792e-05,
-        "times_equal_complex.pass.cpp": 1.678427649285423e-05,
-        "times_equal_scalar.pass.cpp": 1.568561836164792e-05
+        "assignment_complex.pass.cpp": 0.05162825134071521,
+        "assignment_scalar.pass.cpp": 0.05162825134071521,
+        "divide_equal_complex.pass.cpp": 0.05524441723406165,
+        "divide_equal_scalar.pass.cpp": 0.05162825134071521,
+        "minus_equal_complex.pass.cpp": 0.05162825134071521,
+        "minus_equal_scalar.pass.cpp": 0.05162825134071521,
+        "plus_equal_complex.pass.cpp": 0.05524441723406165,
+        "plus_equal_scalar.pass.cpp": 0.05162825134071521,
+        "times_equal_complex.pass.cpp": 0.05524441723406165,
+        "times_equal_scalar.pass.cpp": 0.05162825134071521
     },
     "subdirscores": {}
 }

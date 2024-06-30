@@ -1,18 +1,18 @@
 {
     "directory name": "llvm-project/lldb/test/API/functionalities/tsan",
-    "score.sum": 3.0330738613682402e-05,
+    "score.sum": 0.0015773447405088797,
     "sha.latest": "9c2468821ec51defd09c246fea4a47886fff8c01",
     "time.latest": 1717923515.5680027,
     "formatted_time": "2024-06-09 14:28:35.568005",
     "filescores": {
-        "categories": 0
+        "categories": 0.0
     },
     "subdirscores": {
-        "basic": 2.7049012582470162e-05,
-        "cpp_global_location": 1.0503384530912484e-05,
-        "global_location": 1.0503384530912484e-05,
-        "multiple": 1.5791903104828905e-05,
-        "thread_leak": 1.0503384530912484e-05,
-        "thread_numbers": 1.0512700063985675e-05
+        "basic": 0.0014066791539877328,
+        "cpp_global_location": 0.0005462266698610313,
+        "global_location": 0.0005462266698610313,
+        "multiple": 0.0008212551505023676,
+        "thread_leak": 0.0005462266698610313,
+        "thread_numbers": 0.0005467111225242252
     }
 }

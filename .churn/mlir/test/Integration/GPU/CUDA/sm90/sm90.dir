@@ -1,21 +1,21 @@
 {
     "directory name": "llvm-project/mlir/test/Integration/GPU/CUDA/sm90",
-    "score.sum": 5.80533006394509e-05,
+    "score.sum": 0.0030190517151306956,
     "sha.latest": "d95e6d027486876559f1a2a96c33b8ad93cc0ae4",
     "time.latest": 1717828263.4818375,
     "formatted_time": "2024-06-08 01:31:03.481838",
     "filescores": {
-        "asd": 0,
-        "cga_cluster.mlir": 9.51825437018552e-06,
-        "gemm_f32_f16_f16_128x128x128.mlir": 1.2185245127755413e-05,
-        "gemm_pred_f32_f16_f16_128x128x128.mlir": 1.2185322082270884e-05,
-        "lit.local.cfg": 0,
-        "tma_load_128x64_swizzle128b.mlir": 1.847585537892021e-05,
-        "tma_load_64x64_swizzle128b.mlir": 2.2072812652568012e-05,
-        "tma_load_64x8_8x128_noswizzle.mlir": 1.883630567628285e-05
+        "asd": 0.0,
+        "cga_cluster.mlir": 0.03132875080974313,
+        "gemm_f32_f16_f16_128x128x128.mlir": 0.040106987407150504,
+        "gemm_pred_f32_f16_f16_128x128x128.mlir": 0.040107240698221025,
+        "lit.local.cfg": 0.0,
+        "tma_load_128x64_swizzle128b.mlir": 0.060812145447186834,
+        "tma_load_64x64_swizzle128b.mlir": 0.0726513098272,
+        "tma_load_64x8_8x128_noswizzle.mlir": 0.061998545506082484
     },
     "subdirscores": {
-        "python": 0,
-        "transform-dialect": 7.049728132376947e-06
+        "python": 0.0,
+        "transform-dialect": 0.0003666198747499681
     }
 }

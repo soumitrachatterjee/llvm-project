@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/clang-tools-extra/clangd/test/Inputs/path-mappings/server",
-    "score.sum": 0,
+    "score.sum": 0.0,
     "sha.latest": "c69ae835d0e0dc493eb09e75f0687a1390525440",
     "time.latest": 1717804431.440664,
     "formatted_time": "2024-06-08 05:23:51.440666",
     "filescores": {
-        "foo.h": 0
+        "foo.h": 0.0
     },
     "subdirscores": {}
 }

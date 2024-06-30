@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/clang/test/CXX/basic/basic.lookup/basic.lookup.udir",
-    "score.sum": 6.301250709926388e-06,
+    "score.sum": 0.0003276954377051198,
     "sha.latest": "c6e68daac0fa6e77a89f3ca72f266a528503dd1c",
     "time.latest": 1718082427.6842575,
     "formatted_time": "2024-06-11 10:37:07.684260",
     "filescores": {
-        "p1.cpp": 6.301250709926388e-06
+        "p1.cpp": 0.02074018045781152
     },
     "subdirscores": {}
 }

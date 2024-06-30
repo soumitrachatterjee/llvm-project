@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/lldb/source/Plugins/SymbolFile/Symtab",
-    "score.sum": 0.00023648453998330028,
+    "score.sum": 0.01229833701399048,
     "sha.latest": "917b404e2ccdcc31d2d64971ad094b80967a240b",
     "time.latest": 1717881536.2733653,
     "formatted_time": "2024-06-09 02:48:56.273367",
     "filescores": {
-        "CMakeLists.txt": 1.0924258890971592e-05,
-        "SymbolFileSymtab.cpp": 0.00020196144253696653,
-        "SymbolFileSymtab.h": 0.00014779491156088336
+        "CMakeLists.txt": 0.03595652850467992,
+        "SymbolFileSymtab.cpp": 0.6647437082828831,
+        "SymbolFileSymtab.h": 0.48645789187379024
     },
     "subdirscores": {}
 }

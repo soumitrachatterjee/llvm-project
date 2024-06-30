@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/lldb/test/API/lang/cpp/scratch-context-merging",
-    "score.sum": 8.647310769484357e-06,
+    "score.sum": 0.0004497018795196415,
     "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
     "time.latest": 1717935060.3943057,
     "formatted_time": "2024-06-09 17:41:00.394309",
     "filescores": {},
     "subdirscores": {
-        "structs": 8.647310769484357e-06
+        "structs": 0.0004497018795196415
     }
 }

@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/clang/lib/Headers/cuda_wrappers/bits",
-    "score.sum": 6.099602068851199e-06,
+    "score.sum": 0.00031720873550238375,
     "sha.latest": "588023ddafb4b0cd11914ab068c6d07187374d69",
     "time.latest": 1717813704.4629006,
     "formatted_time": "2024-06-08 07:58:24.462905",
     "filescores": {
-        "basic_string.h": 0,
-        "basic_string.tcc": 0,
-        "shared_ptr_base.h": 0
+        "basic_string.h": 0.0,
+        "basic_string.tcc": 0.0,
+        "shared_ptr_base.h": 0.0
     },
     "subdirscores": {}
 }

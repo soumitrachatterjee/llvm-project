@@ -1,16 +1,16 @@
 {
     "directory name": "llvm-project/libcxx/test/std/thread/thread.barrier",
-    "score.sum": 4.105646179476733e-05,
+    "score.sum": 0.0021351340928659826,
     "sha.latest": "c77af00eb98c8029b29b5b86396b109fd343c11b",
     "time.latest": 1717976569.142809,
     "formatted_time": "2024-06-10 05:12:49.142810",
     "filescores": {
-        "arrive.pass.cpp": 3.1836560470146894e-05,
-        "arrive_and_drop.pass.cpp": 3.1836560470146894e-05,
-        "arrive_and_wait.pass.cpp": 3.1836560470146894e-05,
-        "completion.pass.cpp": 3.644228221776072e-05,
-        "ctor.compile.pass.cpp": 0,
-        "max.pass.cpp": 1.2715543638346594e-05
+        "arrive.pass.cpp": 0.10478808727078708,
+        "arrive_and_drop.pass.cpp": 0.10478808727078708,
+        "arrive_and_wait.pass.cpp": 0.10478808727078708,
+        "completion.pass.cpp": 0.11994753808163945,
+        "ctor.compile.pass.cpp": 0.0,
+        "max.pass.cpp": 0.04185243244853631
     },
     "subdirscores": {}
 }

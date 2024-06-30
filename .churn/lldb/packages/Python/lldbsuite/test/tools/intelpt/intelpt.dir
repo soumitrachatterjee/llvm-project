@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/lldb/packages/Python/lldbsuite/test/tools/intelpt",
-    "score.sum": 2.5319003906788995e-05,
+    "score.sum": 0.0013167103563142915,
     "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
     "time.latest": 1717861447.9258893,
     "formatted_time": "2024-06-08 21:14:07.925894",
     "filescores": {
-        "intelpt_testcase.py": 2.5319003906788995e-05
+        "intelpt_testcase.py": 0.08333594935551661
     },
     "subdirscores": {}
 }

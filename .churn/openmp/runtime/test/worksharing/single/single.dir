@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/openmp/runtime/test/worksharing/single",
-    "score.sum": 1.0080817359781939e-05,
+    "score.sum": 0.0005242511382597731,
     "sha.latest": "86c307821c8d6fab396136b55ab8fb479238bc69",
     "time.latest": 1717805652.0220501,
     "formatted_time": "2024-06-08 05:44:12.022052",
     "filescores": {
-        "omp_single.c": 6.099602068851199e-06,
-        "omp_single_copyprivate.c": 6.099602068851199e-06,
-        "omp_single_nowait.c": 1.1146679275764106e-05,
-        "omp_single_private.c": 6.099602068851199e-06
+        "omp_single.c": 0.02007646631636598,
+        "omp_single_copyprivate.c": 0.02007646631636598,
+        "omp_single_nowait.c": 0.03668861156730519,
+        "omp_single_private.c": 0.02007646631636598
     },
     "subdirscores": {}
 }

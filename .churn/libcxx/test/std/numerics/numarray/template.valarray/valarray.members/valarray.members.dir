@@ -1,20 +1,20 @@
 {
     "directory name": "llvm-project/libcxx/test/std/numerics/numarray/template.valarray/valarray.members",
-    "score.sum": 2.642885573065281e-05,
+    "score.sum": 0.0013744280057066496,
     "sha.latest": "bf7dc572f199007cbe042d5ea41bcf873dcedd8f",
     "time.latest": 1717950493.9924865,
     "formatted_time": "2024-06-09 21:58:13.992490",
     "filescores": {
-        "apply_cref.pass.cpp": 1.7366275644238228e-05,
-        "apply_value.pass.cpp": 1.7366275644238228e-05,
-        "cshift.pass.cpp": 1.7366275644238228e-05,
-        "max.pass.cpp": 2.1601039801203612e-05,
-        "min.pass.cpp": 2.1601039801203612e-05,
-        "resize.pass.cpp": 2.0014104209518827e-05,
-        "shift.pass.cpp": 1.7366275644238228e-05,
-        "size.pass.cpp": 1.7366275644238228e-05,
-        "sum.pass.cpp": 1.7366275644238228e-05,
-        "swap.pass.cpp": 2.277488248691047e-05
+        "apply_cref.pass.cpp": 0.057160031765472394,
+        "apply_value.pass.cpp": 0.057160031765472394,
+        "cshift.pass.cpp": 0.057160031765472394,
+        "max.pass.cpp": 0.07109849840565471,
+        "min.pass.cpp": 0.07109849840565471,
+        "resize.pass.cpp": 0.06587519718156316,
+        "shift.pass.cpp": 0.057160031765472394,
+        "size.pass.cpp": 0.057160031765472394,
+        "sum.pass.cpp": 0.057160031765472394,
+        "swap.pass.cpp": 0.07496212965147875
     },
     "subdirscores": {}
 }

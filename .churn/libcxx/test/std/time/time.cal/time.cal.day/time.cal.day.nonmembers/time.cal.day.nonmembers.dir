@@ -1,16 +1,16 @@
 {
     "directory name": "llvm-project/libcxx/test/std/time/time.cal/time.cal.day/time.cal.day.nonmembers",
-    "score.sum": 3.829193344975257e-05,
+    "score.sum": 0.001991365281280575,
     "sha.latest": "efac016e32f3b7ded78650b0e40a9880a298bdbe",
     "time.latest": 1717980560.8082879,
     "formatted_time": "2024-06-10 06:19:20.808289",
     "filescores": {
-        "comparisons.pass.cpp": 1.2143475244953844e-05,
-        "literals.pass.cpp": 0,
-        "literals.verify.cpp": 0,
-        "minus.pass.cpp": 6.099602068851199e-06,
-        "ostream.pass.cpp": 2.8997668483114387e-05,
-        "plus.pass.cpp": 6.099602068851199e-06
+        "comparisons.pass.cpp": 0.03996950439831839,
+        "literals.pass.cpp": 0.0,
+        "literals.verify.cpp": 0.0,
+        "minus.pass.cpp": 0.02007646631636598,
+        "ostream.pass.cpp": 0.09544404831380084,
+        "plus.pass.cpp": 0.02007646631636598
     },
     "subdirscores": {}
 }

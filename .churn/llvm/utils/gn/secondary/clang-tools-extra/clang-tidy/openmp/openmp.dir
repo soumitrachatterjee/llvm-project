@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/llvm/utils/gn/secondary/clang-tools-extra/clang-tidy/openmp",
-    "score.sum": 0,
+    "score.sum": 0.0,
     "sha.latest": "e7f0455bd183b9472911351894e1e6faa4806b3d",
     "time.latest": 1718082056.0216217,
     "formatted_time": "2024-06-11 00:00:56.021625",
     "filescores": {
-        "BUILD.gn": 0
+        "BUILD.gn": 0.0
     },
     "subdirscores": {}
 }

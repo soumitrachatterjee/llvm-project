@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/mlir/utils/vscode/src/MLIR",
-    "score.sum": 6.099602068851199e-06,
+    "score.sum": 0.00031720873550238375,
     "sha.latest": "82b65496540fbee7720a4fa47ebc3c3dac128980",
     "time.latest": 1717837578.0729334,
     "formatted_time": "2024-06-08 04:06:18.072937",
     "filescores": {
-        "bytecodeProvider.ts": 6.099602068851199e-06,
-        "mlir.ts": 0
+        "bytecodeProvider.ts": 0.02007646631636598,
+        "mlir.ts": 0.0
     },
     "subdirscores": {}
 }

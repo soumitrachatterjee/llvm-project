@@ -1,15 +1,15 @@
 {
     "directory name": "llvm-project/libcxx/test/std/algorithms/alg.sorting/alg.sort",
-    "score.sum": 0.00020841343833792088,
+    "score.sum": 0.010838504297597105,
     "sha.latest": "8dfc67d6724eb0af5d278f4d1d5511ca9f9e039f",
     "time.latest": 1717872423.5338638,
     "formatted_time": "2024-06-09 00:17:03.533866",
     "filescores": {},
     "subdirscores": {
-        "is.sorted": 2.9194223662938273e-05,
-        "partial.sort": 4.281123484340163e-05,
-        "partial.sort.copy": 3.985698955999034e-05,
-        "sort": 0.0001308772076417693,
-        "stable.sort": 7.794541918156503e-05
+        "is.sorted": 0.0015182404798807765,
+        "partial.sort": 0.002226390757410295,
+        "partial.sort.copy": 0.002072755749726708,
+        "sort": 0.006806246222870008,
+        "stable.sort": 0.004053537850124737
     }
 }

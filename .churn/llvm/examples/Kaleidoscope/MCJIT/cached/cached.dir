@@ -1,15 +1,15 @@
 {
     "directory name": "llvm-project/llvm/examples/Kaleidoscope/MCJIT/cached",
-    "score.sum": 3.157815211727821e-05,
+    "score.sum": 0.0016422162609224641,
     "sha.latest": "b71edfaa4ec3c998aadb35255ce2f60bba2940b0",
     "time.latest": 1717804233.4605825,
     "formatted_time": "2024-06-07 18:50:33.460586",
     "filescores": {
-        "README.txt": 6.099602068851199e-06,
-        "genk-timing.py": 9.486257652003172e-06,
-        "split-lib.py": 9.486257652003172e-06,
-        "toy-jit.cpp": 1.2862595453584631e-05,
-        "toy.cpp": 1.656696558987821e-05
+        "README.txt": 0.02007646631636598,
+        "genk-timing.py": 0.03122343557317998,
+        "split-lib.py": 0.03122343557317998,
+        "toy-jit.cpp": 0.042336444484413746,
+        "toy.cpp": 0.05452915171763448
     },
     "subdirscores": {}
 }

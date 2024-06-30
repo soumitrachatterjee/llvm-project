@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/llvm/test/CodeGen/Generic/MIRStripDebug",
-    "score.sum": 9.55991534748489e-06,
+    "score.sum": 0.0004971617204950967,
     "sha.latest": "ff9af4c43ad71eeba2cabe99609cfaa0fd54c1d0",
     "time.latest": 1718046950.5055833,
     "formatted_time": "2024-06-10 14:15:50.505586",
     "filescores": {
-        "all.mir": 8.72607355207946e-06,
-        "dont-strip-real-debug-info.mir": 8.719311564323287e-06,
-        "multiple-moduleflags.mir": 8.72607355207946e-06,
-        "no-metadata-present.mir": 6.099602068851199e-06
+        "all.mir": 0.028721336206027355,
+        "dont-strip-real-debug-info.mir": 0.02869907953782407,
+        "multiple-moduleflags.mir": 0.028721336206027355,
+        "no-metadata-present.mir": 0.02007646631636598
     },
     "subdirscores": {}
 }

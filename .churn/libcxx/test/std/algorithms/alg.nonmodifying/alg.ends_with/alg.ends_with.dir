@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/libcxx/test/std/algorithms/alg.nonmodifying/alg.ends_with",
-    "score.sum": 6.099602068851199e-06,
+    "score.sum": 0.00031720873550238375,
     "sha.latest": "c000f754bfb9fb3a7a0a1f9b0485f36ae70534b7",
     "time.latest": 1717869612.3031142,
     "formatted_time": "2024-06-08 23:30:12.303116",
     "filescores": {
-        "ranges.ends_with.pass.cpp": 6.099602068851199e-06
+        "ranges.ends_with.pass.cpp": 0.02007646631636598
     },
     "subdirscores": {}
 }

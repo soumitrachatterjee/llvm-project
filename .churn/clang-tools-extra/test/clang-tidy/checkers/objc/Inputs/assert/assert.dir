@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/clang-tools-extra/test/clang-tidy/checkers/objc/Inputs/assert",
-    "score.sum": 0,
+    "score.sum": 0.0,
     "sha.latest": "89a1d03e2b379e325daa5249411e414bbd995b5e",
     "time.latest": 1717828784.954173,
     "formatted_time": "2024-06-08 12:09:44.954176",
     "filescores": {
-        "XCTestAssertions.h": 0
+        "XCTestAssertions.h": 0.0
     },
     "subdirscores": {}
 }

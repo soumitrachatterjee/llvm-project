@@ -1,15 +1,15 @@
 {
     "directory name": "llvm-project/libcxx/test/std/experimental/utilities/propagate_const/propagate_const.nonmembers",
-    "score.sum": 1.750676067549219e-05,
+    "score.sum": 0.0009104360176173995,
     "sha.latest": "fb855eb941b6d740cc6560297d0b4d3201dcaf9f",
     "time.latest": 1717900951.7389123,
     "formatted_time": "2024-06-09 08:12:31.738914",
     "filescores": {
-        "hash.pass.cpp": 1.750676067549219e-05,
-        "swap.pass.cpp": 1.8679347435995682e-05
+        "hash.pass.cpp": 0.05762242963439682,
+        "swap.pass.cpp": 0.06148192707939963
     },
     "subdirscores": {
-        "propagate_const.comparison_function_objects": 1.8679347435995682e-05,
-        "propagate_const.relops": 1.8679347435995682e-05
+        "propagate_const.comparison_function_objects": 0.0009714161863837536,
+        "propagate_const.relops": 0.0009714161863837536
     }
 }

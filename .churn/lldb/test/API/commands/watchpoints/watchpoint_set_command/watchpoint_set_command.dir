@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/lldb/test/API/commands/watchpoints/watchpoint_set_command",
-    "score.sum": 2.40507303282099e-05,
+    "score.sum": 0.0012507540113608038,
     "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
     "time.latest": 1717901078.076968,
     "formatted_time": "2024-06-09 08:14:38.076970",
     "filescores": {
-        "main.cpp": 6.099602068851199e-06,
-        "Makefile": 0,
-        "TestWatchLocationWithWatchSet.py": 2.4007180202261278e-05
+        "main.cpp": 0.02007646631636598,
+        "Makefile": 0.0,
+        "TestWatchLocationWithWatchSet.py": 0.07901816204420084
     },
     "subdirscores": {}
 }

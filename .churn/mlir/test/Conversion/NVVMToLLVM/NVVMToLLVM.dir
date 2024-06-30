@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/mlir/test/Conversion/NVVMToLLVM",
-    "score.sum": 9.577229902790703e-05,
+    "score.sum": 0.004980621609061837,
     "sha.latest": "aa4547fcc8eeb9bf4f3cf48cc926f62544e58767",
     "time.latest": 1717816361.0466301,
     "formatted_time": "2024-06-07 22:12:41.046634",
     "filescores": {
-        "invalid.mlir": 1.4619030389915375e-05,
-        "nvvm-to-llvm.mlir": 9.577229902790703e-05
+        "invalid.mlir": 0.04811764241144082,
+        "nvvm-to-llvm.mlir": 0.3152286516023234
     },
     "subdirscores": {}
 }

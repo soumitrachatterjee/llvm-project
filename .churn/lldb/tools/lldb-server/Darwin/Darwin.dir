@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/lldb/tools/lldb-server/Darwin",
-    "score.sum": 6.099602068851199e-06,
+    "score.sum": 0.00031720873550238375,
     "sha.latest": "7cdaf1e06bb56559f01e520649511e49931b0498",
     "time.latest": 1717991981.7440212,
     "formatted_time": "2024-06-10 09:29:41.744024",
     "filescores": {},
     "subdirscores": {
-        "resources": 6.099602068851199e-06
+        "resources": 0.00031720873550238375
     }
 }

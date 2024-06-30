@@ -1,16 +1,16 @@
 {
     "directory name": "llvm-project/compiler-rt/test/ubsan/TestCases",
-    "score.sum": 0.0007336037416487693,
+    "score.sum": 0.03815093388412654,
     "sha.latest": "acdb4cdc04ed4d9a130f0fa706ed1b0f42cc1aa0",
     "time.latest": 1717865079.6137972,
     "formatted_time": "2024-06-08 22:14:39.613800",
     "filescores": {},
     "subdirscores": {
-        "Float": 5.390777071635172e-05,
-        "ImplicitConversion": 3.7053817352943315e-05,
-        "Integer": 8.878704248778036e-05,
-        "Misc": 0.00030363419154057176,
-        "Pointer": 7.921881603776594e-05,
-        "TypeCheck": 0.00023677539311185304
+        "Float": 0.002803464158754046,
+        "ImplicitConversion": 0.0019269772708758275,
+        "Integer": 0.004617354568156222,
+        "Misc": 0.015790442862777348,
+        "Pointer": 0.004119760630232143,
+        "TypeCheck": 0.012313462779914831
     }
 }

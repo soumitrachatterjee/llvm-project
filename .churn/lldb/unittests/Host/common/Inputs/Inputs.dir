@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/lldb/unittests/Host/common/Inputs",
-    "score.sum": 0,
+    "score.sum": 0.0,
     "sha.latest": "12dee9d3cd762d9754e2adadffa13c1cce85cf07",
     "time.latest": 1717996224.6523962,
     "formatted_time": "2024-06-10 10:40:24.652399",
     "filescores": {
-        "zip-test.zip": 0
+        "zip-test.zip": 0.0
     },
     "subdirscores": {}
 }

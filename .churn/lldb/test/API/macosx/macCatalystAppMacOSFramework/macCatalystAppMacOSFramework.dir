@@ -1,15 +1,15 @@
 {
     "directory name": "llvm-project/lldb/test/API/macosx/macCatalystAppMacOSFramework",
-    "score.sum": 2.478788491869345e-05,
+    "score.sum": 0.0012890896065156372,
     "sha.latest": "80fcecb13c388ff087a27a4b0e7ca3dd8c98eaa4",
     "time.latest": 1717963482.50157,
     "formatted_time": "2024-06-10 01:34:42.501572",
     "filescores": {
-        "foo.c": 0,
-        "foo.h": 0,
-        "main.c": 0,
-        "Makefile": 6.099602068851199e-06,
-        "TestMacCatalystAppWithMacOSFramework.py": 2.477914230157871e-05
+        "foo.c": 0.0,
+        "foo.h": 0.0,
+        "main.c": 0.0,
+        "Makefile": 0.02007646631636598,
+        "TestMacCatalystAppWithMacOSFramework.py": 0.08155902797439038
     },
     "subdirscores": {}
 }

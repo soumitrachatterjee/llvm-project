@@ -1,19 +1,19 @@
 {
     "directory name": "llvm-project/lldb/test/Shell/ScriptInterpreter/Python/Crashlog/Inputs",
-    "score.sum": 6.827382215902279e-05,
+    "score.sum": 0.0035505681437112413,
     "sha.latest": "5000e4c2527ae53bf7c1a609f739a97cdc522bbe",
     "time.latest": 1717978885.747568,
     "formatted_time": "2024-06-10 05:51:25.747570",
     "filescores": {
-        "a.out.crash": 1.7548556673807885e-05,
-        "a.out.ips": 1.9656595716917865e-05,
-        "altered_threadState.crash": 0,
-        "Assertion.check": 0,
-        "no_threadState.ips": 0,
-        "test.c": 0
+        "a.out.crash": 0.05775999860084285,
+        "a.out.ips": 0.06469847989271388,
+        "altered_threadState.crash": 0.0,
+        "Assertion.check": 0.0,
+        "no_threadState.ips": 0.0,
+        "test.c": 0.0
     },
     "subdirscores": {
-        "application_specific_info": 6.354425118284272e-06,
-        "interactive_crashlog": 1.9583101215075853e-05
+        "application_specific_info": 0.0003304607634830797,
+        "interactive_crashlog": 0.0010184157431141017
     }
 }

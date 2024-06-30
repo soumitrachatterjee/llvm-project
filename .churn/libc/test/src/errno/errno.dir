@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/libc/test/src/errno",
-    "score.sum": 4.503539276439065e-05,
+    "score.sum": 0.0023420576998945315,
     "sha.latest": "47b7c91abe7af3133a591aa2e73fffa30826f986",
     "time.latest": 1717845484.4266138,
     "formatted_time": "2024-06-08 06:18:04.426617",
     "filescores": {
-        "CMakeLists.txt": 2.176652127851539e-05,
-        "errno_test.cpp": 2.352619213443531e-05
+        "CMakeLists.txt": 0.0716431705445469,
+        "errno_test.cpp": 0.07743501930254643
     },
     "subdirscores": {}
 }

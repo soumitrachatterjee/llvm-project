@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/llvm/tools/llvm-ar",
-    "score.sum": 0.0013337118082158029,
+    "score.sum": 0.0693594486055404,
     "sha.latest": "13fd4bf4e53391aab3cdfd922e9ceb4ad1225d1e",
     "time.latest": 1718078142.6930468,
     "formatted_time": "2024-06-10 22:55:42.693050",
     "filescores": {
-        "CMakeLists.txt": 9.91386906411562e-05,
-        "llvm-ar.cpp": 0.0011714808402172824
+        "CMakeLists.txt": 0.32630892324434263,
+        "llvm-ar.cpp": 3.855857376171426
     },
     "subdirscores": {}
 }

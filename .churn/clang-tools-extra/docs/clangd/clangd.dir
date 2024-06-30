@@ -1,17 +1,17 @@
 {
     "directory name": "llvm-project/clang-tools-extra/docs/clangd",
-    "score.sum": 3.398029043582471e-05,
+    "score.sum": 0.001767139042757554,
     "sha.latest": "966cad0c65d796d8824524c7bee62c86d1594d3d",
     "time.latest": 1717812936.294027,
     "formatted_time": "2024-06-08 07:45:36.294030",
     "filescores": {
-        "Configuration.rst": 6.10000371816787e-06,
-        "DeveloperDocumentation.rst": 6.099602068851199e-06,
-        "Extensions.rst": 6.288061491112691e-06,
-        "Features.rst": 1.124851426568101e-05,
-        "index.rst": 9.063336386555805e-06,
-        "Installation.rst": 1.6865693716744268e-05,
-        "README.txt": 0
+        "Configuration.rst": 0.02007778832047151,
+        "DeveloperDocumentation.rst": 0.02007646631636598,
+        "Extensions.rst": 0.020696768952558647,
+        "Features.rst": 0.03702379519433798,
+        "index.rst": 0.029831416152177305,
+        "Installation.rst": 0.055512397035784714,
+        "README.txt": 0.0
     },
     "subdirscores": {}
 }

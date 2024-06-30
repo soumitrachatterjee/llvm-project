@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/clang/test/ASTMerge/struct",
-    "score.sum": 3.97527176554227e-05,
+    "score.sum": 0.0020673331076226874,
     "sha.latest": "50542d504dd869fe1241a9cc987b72ead5a56073",
     "time.latest": 1717866286.5218198,
     "formatted_time": "2024-06-08 22:34:46.521822",
     "filescores": {
-        "test.c": 3.97527176554227e-05
+        "test.c": 0.13084363340171373
     },
     "subdirscores": {
-        "Inputs": 1.7840205940908853e-05
+        "Inputs": 0.0009277767801471749
     }
 }

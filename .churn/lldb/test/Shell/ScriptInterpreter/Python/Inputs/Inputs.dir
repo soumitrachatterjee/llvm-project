@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/lldb/test/Shell/ScriptInterpreter/Python/Inputs",
-    "score.sum": 6.941124892594795e-06,
+    "score.sum": 0.0003609719823179874,
     "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
     "time.latest": 1717979094.1870162,
     "formatted_time": "2024-06-10 05:54:54.187018",
     "filescores": {
-        "hello.split": 0,
-        "relative.split": 0,
-        "sbaddress.py": 6.099602068851199e-06
+        "hello.split": 0.0,
+        "relative.split": 0.0,
+        "sbaddress.py": 0.02007646631636598
     },
     "subdirscores": {}
 }

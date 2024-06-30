@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/mlir/utils/jupyter/mlir_opt_kernel/assets",
-    "score.sum": 0,
+    "score.sum": 0.0,
     "sha.latest": "04c66edd3251975fd253e4c4b0e86ea56e8a7f46",
     "time.latest": 1717836883.5716631,
     "formatted_time": "2024-06-08 03:54:43.571667",
     "filescores": {
-        "kernel.js": 0,
-        "kernel.json": 0
+        "kernel.js": 0.0,
+        "kernel.json": 0.0
     },
     "subdirscores": {}
 }

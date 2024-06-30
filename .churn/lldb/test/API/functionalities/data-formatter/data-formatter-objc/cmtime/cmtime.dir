@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/lldb/test/API/functionalities/data-formatter/data-formatter-objc/cmtime",
-    "score.sum": 1.170932980813097e-05,
+    "score.sum": 0.0006089416424368726,
     "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
     "time.latest": 1717905143.6771455,
     "formatted_time": "2024-06-09 09:22:23.677147",
     "filescores": {
-        "main.m": 6.099602068851199e-06,
-        "Makefile": 0,
-        "TestDataFormatterCMTime.py": 1.1665779682182348e-05
+        "main.m": 0.02007646631636598,
+        "Makefile": 0.0,
+        "TestDataFormatterCMTime.py": 0.03839719873522689
     },
     "subdirscores": {}
 }

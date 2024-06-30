@@ -1,16 +1,16 @@
 {
     "directory name": "llvm-project/openmp/libompd/gdb-plugin",
-    "score.sum": 1.3670115108310119e-05,
+    "score.sum": 0.0007109119379808627,
     "sha.latest": "f09f58d0f2a981d8d578c66fbd1f27709ee6dfda",
     "time.latest": 1717793025.320626,
     "formatted_time": "2024-06-08 02:13:45.320629",
     "filescores": {
-        "CMakeLists.txt": 8.204035876852063e-06,
-        "ompdAPITests.c": 7.1634747191046784e-06,
-        "ompdModule.c": 9.916691109012249e-06,
-        "README.txt": 7.1634747191046784e-06
+        "CMakeLists.txt": 0.02700308119786897,
+        "ompdAPITests.c": 0.023578137931435733,
+        "ompdModule.c": 0.03264018091222588,
+        "README.txt": 0.023578137931435733
     },
     "subdirscores": {
-        "ompd": 7.36207273103978e-06
+        "ompd": 0.0003828633008070219
     }
 }

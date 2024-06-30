@@ -1,18 +1,18 @@
 {
     "directory name": "llvm-project/libcxx/test/std/utilities/tuple/tuple.tuple/tuple.elem",
-    "score.sum": 5.4458792997907214e-05,
+    "score.sum": 0.002832119975837336,
     "sha.latest": "dc71a77d33620830020c939bba25ebdfdd1b6194",
     "time.latest": 1718007239.913552,
     "formatted_time": "2024-06-10 13:43:59.913553",
     "filescores": {
-        "get_const.compile.fail.cpp": 6.099602068851199e-06,
-        "get_const.pass.cpp": 1.9335337521944276e-05,
-        "get_const_rv.pass.cpp": 1.4608729230819403e-05,
-        "get_const_rv.verify.cpp": 0,
-        "get_non_const.pass.cpp": 2.085080706203126e-05,
-        "get_rv.pass.cpp": 2.050196333205502e-05,
-        "tuple.by.type.pass.cpp": 2.4158729390716955e-05,
-        "tuple.by.type.verify.cpp": 0
+        "get_const.compile.fail.cpp": 0.02007646631636598,
+        "get_const.pass.cpp": 0.06364107823643525,
+        "get_const_rv.pass.cpp": 0.04808373677771663,
+        "get_const_rv.verify.cpp": 0.0,
+        "get_non_const.pass.cpp": 0.06862915333241694,
+        "get_rv.pass.cpp": 0.06748095557861454,
+        "tuple.by.type.pass.cpp": 0.07951697690834428,
+        "tuple.by.type.verify.cpp": 0.0
     },
     "subdirscores": {}
 }

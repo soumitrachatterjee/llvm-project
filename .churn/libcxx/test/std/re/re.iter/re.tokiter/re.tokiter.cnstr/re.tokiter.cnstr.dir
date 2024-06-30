@@ -1,19 +1,19 @@
 {
     "directory name": "llvm-project/libcxx/test/std/re/re.iter/re.tokiter/re.tokiter.cnstr",
-    "score.sum": 3.0408345172535456e-05,
+    "score.sum": 0.0015813806559870683,
     "sha.latest": "3465f0225906d42baf0c5e674ad583d0cac32640",
     "time.latest": 1717966642.0021253,
     "formatted_time": "2024-06-10 02:27:22.002129",
     "filescores": {
-        "array.compile.fail.cpp": 0,
-        "array.pass.cpp": 1.3904075387875805e-05,
-        "default.pass.cpp": 1.3461530575344616e-05,
-        "init.compile.fail.cpp": 0,
-        "init.pass.cpp": 2.0257560578600415e-05,
-        "int.compile.fail.cpp": 0,
-        "int.pass.cpp": 1.3904075387875805e-05,
-        "vector.compile.fail.cpp": 0,
-        "vector.pass.cpp": 1.3904075387875805e-05
+        "array.compile.fail.cpp": 0.0,
+        "array.pass.cpp": 0.045764411847521724,
+        "default.pass.cpp": 0.04430780272417636,
+        "init.compile.fail.cpp": 0.0,
+        "init.pass.cpp": 0.06667651889701268,
+        "int.compile.fail.cpp": 0.0,
+        "int.pass.cpp": 0.045764411847521724,
+        "vector.compile.fail.cpp": 0.0,
+        "vector.pass.cpp": 0.045764411847521724
     },
     "subdirscores": {}
 }

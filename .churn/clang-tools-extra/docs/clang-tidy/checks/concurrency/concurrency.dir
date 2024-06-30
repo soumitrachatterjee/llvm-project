@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/clang-tools-extra/docs/clang-tidy/checks/concurrency",
-    "score.sum": 6.099602068851199e-06,
+    "score.sum": 0.00031720873550238375,
     "sha.latest": "31747668aaaa325227013e4cdd2c7aa185110485",
     "time.latest": 1717809551.131234,
     "formatted_time": "2024-06-08 06:49:11.131235",
     "filescores": {
-        "mt-unsafe.rst": 0,
-        "thread-canceltype-asynchronous.rst": 6.099602068851199e-06
+        "mt-unsafe.rst": 0.0,
+        "thread-canceltype-asynchronous.rst": 0.02007646631636598
     },
     "subdirscores": {}
 }

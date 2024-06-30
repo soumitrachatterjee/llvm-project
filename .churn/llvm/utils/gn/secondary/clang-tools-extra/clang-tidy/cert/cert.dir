@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/llvm/utils/gn/secondary/clang-tools-extra/clang-tidy/cert",
-    "score.sum": 9.27769783220157e-06,
+    "score.sum": 0.00048248504812382724,
     "sha.latest": "4cb13f2d2328b80687c9dcbe6815faf397b05c42",
     "time.latest": 1718081669.7913682,
     "formatted_time": "2024-06-10 23:54:29.791371",
     "filescores": {
-        "BUILD.gn": 9.27769783220157e-06
+        "BUILD.gn": 0.03053697371059771
     },
     "subdirscores": {}
 }

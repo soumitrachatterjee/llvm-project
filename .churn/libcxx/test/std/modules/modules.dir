@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/libcxx/test/std/modules",
-    "score.sum": 4.3940687619277865e-05,
+    "score.sum": 0.002285127750873352,
     "sha.latest": "a859df3b0a099648ec4cd305f22c87ea12ebaac9",
     "time.latest": 1717932884.594263,
     "formatted_time": "2024-06-09 17:04:44.594266",
     "filescores": {
-        "std.compat.pass.cpp": 3.386308861671607e-05,
-        "std.pass.cpp": 2.751653555909328e-05
+        "std.compat.pass.cpp": 0.11145828044314696,
+        "std.pass.cpp": 0.09056899008483495
     },
     "subdirscores": {}
 }

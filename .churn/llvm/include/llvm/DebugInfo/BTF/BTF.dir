@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/llvm/include/llvm/DebugInfo/BTF",
-    "score.sum": 6.249597595425735e-06,
+    "score.sum": 0.0003250092265473158,
     "sha.latest": "d15f96fe4b64e24d262fcc727dc0eede327804ba",
     "time.latest": 1717811512.811293,
     "formatted_time": "2024-06-07 20:51:52.811296",
     "filescores": {
-        "BTF.def": 0,
-        "BTF.h": 6.249597595425735e-06,
-        "BTFContext.h": 0,
-        "BTFParser.h": 6.099602068851199e-06
+        "BTF.def": 0.0,
+        "BTF.h": 0.020570167397663965,
+        "BTFContext.h": 0.0,
+        "BTFParser.h": 0.02007646631636598
     },
     "subdirscores": {}
 }

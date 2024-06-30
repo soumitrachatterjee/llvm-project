@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/mlir/utils/MLIRVisualizers",
-    "score.sum": 0,
+    "score.sum": 0.0,
     "sha.latest": "f98bb414f58ee447481e4de19625baff22718343",
     "time.latest": 1717836738.922932,
     "formatted_time": "2024-06-08 03:52:18.922934",
     "filescores": {
-        "mlir.natvis": 0
+        "mlir.natvis": 0.0
     },
     "subdirscores": {}
 }

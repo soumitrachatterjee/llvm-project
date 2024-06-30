@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/lldb/test/API/macosx/DBGSourcePathRemapping",
-    "score.sum": 1.538246377500573e-05,
+    "score.sum": 0.0007999623299852069,
     "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
     "time.latest": 1717962129.4961085,
     "formatted_time": "2024-06-10 01:12:09.496114",
     "filescores": {
-        "Makefile": 0,
-        "TestDSYMSourcePathRemapping.py": 1.538246377500573e-05
+        "Makefile": 0.0,
+        "TestDSYMSourcePathRemapping.py": 0.05063043660154485
     },
     "subdirscores": {
-        "Inputs": 0
+        "Inputs": 0.0
     }
 }

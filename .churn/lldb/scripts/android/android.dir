@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/lldb/scripts/android",
-    "score.sum": 1.206087465842214e-05,
+    "score.sum": 0.0006272236707027328,
     "sha.latest": "602e47c5f9fd2e14c7bfb6111e6558fa0d27c87f",
     "time.latest": 1717861752.0216026,
     "formatted_time": "2024-06-08 21:19:12.021606",
     "filescores": {
-        "host_art_bt.py": 1.206087465842214e-05
+        "host_art_bt.py": 0.03969762963099801
     },
     "subdirscores": {}
 }

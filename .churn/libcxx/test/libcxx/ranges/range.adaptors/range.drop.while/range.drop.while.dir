@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/libcxx/test/libcxx/ranges/range.adaptors/range.drop.while",
-    "score.sum": 2.8855815073979082e-05,
+    "score.sum": 0.001500641600580916,
     "sha.latest": "58780b811c23df3d928d8452ee21c862dde754a2",
     "time.latest": 1717862623.8766904,
     "formatted_time": "2024-06-08 21:33:43.876693",
     "filescores": {
-        "assert.begin.pass.cpp": 2.8855815073979082e-05
+        "assert.begin.pass.cpp": 0.09497714651295876
     },
     "subdirscores": {}
 }

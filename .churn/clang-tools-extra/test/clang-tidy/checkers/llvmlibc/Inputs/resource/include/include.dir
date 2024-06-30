@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/clang-tools-extra/test/clang-tidy/checkers/llvmlibc/Inputs/resource/include",
-    "score.sum": 0,
+    "score.sum": 0.0,
     "sha.latest": "89a1d03e2b379e325daa5249411e414bbd995b5e",
     "time.latest": 1717824747.9820592,
     "formatted_time": "2024-06-08 11:02:27.982061",
     "filescores": {
-        "stdatomic.h": 0,
-        "stddef.h": 0
+        "stdatomic.h": 0.0,
+        "stddef.h": 0.0
     },
     "subdirscores": {}
 }

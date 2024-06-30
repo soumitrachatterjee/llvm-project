@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/libcxx/test/std/utilities/function.objects/func.invoke",
-    "score.sum": 4.562921412563401e-05,
+    "score.sum": 0.0023729392756085,
     "sha.latest": "346a29908e0a0401073169ea94c17be72a9c83db",
     "time.latest": 1717995976.2968235,
     "formatted_time": "2024-06-10 10:36:16.296825",
     "filescores": {
-        "invoke.pass.cpp": 2.8235120541016296e-05,
-        "invoke_constexpr.pass.cpp": 6.099602068851199e-06,
-        "invoke_r.pass.cpp": 6.099602068851199e-06,
-        "invoke_r.temporary.verify.cpp": 0
+        "invoke.pass.cpp": 0.09293416850502997,
+        "invoke_constexpr.pass.cpp": 0.02007646631636598,
+        "invoke_r.pass.cpp": 0.02007646631636598,
+        "invoke_r.temporary.verify.cpp": 0.0
     },
     "subdirscores": {}
 }

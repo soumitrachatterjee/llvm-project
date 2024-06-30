@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/clang-tools-extra/test/clang-tidy/infrastructure/Inputs/file-filter",
-    "score.sum": 6.099602068851199e-06,
+    "score.sum": 0.00031720873550238375,
     "sha.latest": "670de10f9deaa83f4d1db6e793c74cbfd18c65c1",
     "time.latest": 1717833510.6764681,
     "formatted_time": "2024-06-08 13:28:30.676472",
     "filescores": {
-        "header1.h": 0,
-        "header2.h": 0
+        "header1.h": 0.0,
+        "header2.h": 0.0
     },
     "subdirscores": {
-        "system": 6.099602068851199e-06
+        "system": 0.00031720873550238375
     }
 }

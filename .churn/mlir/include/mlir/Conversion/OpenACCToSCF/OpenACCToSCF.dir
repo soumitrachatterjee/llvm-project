@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/mlir/include/mlir/Conversion/OpenACCToSCF",
-    "score.sum": 1.828261616294499e-05,
+    "score.sum": 0.000950784246129598,
     "sha.latest": "67d0d7ac0acb0665d6a09f61278fbcf51f0114c2",
     "time.latest": 1717791991.469285,
     "formatted_time": "2024-06-07 15:26:31.469289",
     "filescores": {
-        "ConvertOpenACCToSCF.h": 1.828261616294499e-05
+        "ConvertOpenACCToSCF.h": 0.0601761104129771
     },
     "subdirscores": {}
 }

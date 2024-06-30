@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/lld/test/Unit",
-    "score.sum": 6.919318718552421e-05,
+    "score.sum": 0.0035983795606249615,
     "sha.latest": "6f2e92c10cebca51f9bc98b99fa3b5583ff396c4",
     "time.latest": 1717901352.886828,
     "formatted_time": "2024-06-09 08:19:12.886830",
     "filescores": {
-        "lit.cfg.py": 2.321748561421005e-05,
-        "lit.site.cfg.py.in": 4.94122565371039e-05
+        "lit.cfg.py": 0.07641893071430969,
+        "lit.site.cfg.py.in": 0.16263741352059038
     },
     "subdirscores": {}
 }

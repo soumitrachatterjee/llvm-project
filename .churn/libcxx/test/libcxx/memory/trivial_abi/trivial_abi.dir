@@ -1,16 +1,16 @@
 {
     "directory name": "llvm-project/libcxx/test/libcxx/memory/trivial_abi",
-    "score.sum": 3.2832341811252425e-05,
+    "score.sum": 0.0017074401759278924,
     "sha.latest": "e0c734561d5b268f8d24e68c535df8aa41369690",
     "time.latest": 1717861023.854747,
     "formatted_time": "2024-06-08 21:07:03.854752",
     "filescores": {
-        "shared_ptr_arg.pass.cpp": 1.0830678078355299e-05,
-        "unique_ptr_arg.pass.cpp": 1.0830678078355299e-05,
-        "unique_ptr_array.pass.cpp": 1.1745367808676438e-05,
-        "unique_ptr_destruction_order.pass.cpp": 1.9782949199693493e-05,
-        "unique_ptr_ret.pass.cpp": 2.2537732248011962e-05,
-        "weak_ptr_ret.pass.cpp": 2.5445557669107366e-05
+        "shared_ptr_arg.pass.cpp": 0.03564851299626774,
+        "unique_ptr_arg.pass.cpp": 0.03564851299626774,
+        "unique_ptr_array.pass.cpp": 0.03865915817499116,
+        "unique_ptr_destruction_order.pass.cpp": 0.06511436463605719,
+        "unique_ptr_ret.pass.cpp": 0.07418156417697382,
+        "weak_ptr_ret.pass.cpp": 0.08375249330669812
     },
     "subdirscores": {}
 }

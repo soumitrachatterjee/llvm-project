@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/libc/benchmarks/automemcpy/include/automemcpy",
-    "score.sum": 1.6340214499352538e-05,
+    "score.sum": 0.0008497699883811523,
     "sha.latest": "b5516be05654ecdd4fd7e317b1f21f940c1a967b",
     "time.latest": 1717824226.4843786,
     "formatted_time": "2024-06-08 00:23:46.484382",
     "filescores": {
-        "CodeGen.h": 0,
-        "FunctionDescriptor.h": 6.099602068851199e-06,
-        "RandomFunctionGenerator.h": 1.1703414353484271e-05,
-        "ResultAnalyzer.h": 1.8179778845704154e-05
+        "CodeGen.h": 0.0,
+        "FunctionDescriptor.h": 0.02007646631636598,
+        "RandomFunctionGenerator.h": 0.03852107094888801,
+        "ResultAnalyzer.h": 0.05983762768699824
     },
     "subdirscores": {}
 }

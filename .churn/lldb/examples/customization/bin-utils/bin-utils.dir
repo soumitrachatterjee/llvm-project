@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/lldb/examples/customization/bin-utils",
-    "score.sum": 2.215502443177939e-05,
+    "score.sum": 0.0011521681587915082,
     "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
     "time.latest": 1717841014.8783817,
     "formatted_time": "2024-06-08 15:33:34.878384",
     "filescores": {
-        ".lldbinit": 0,
-        "binutils.py": 2.215502443177939e-05,
-        "README": 0
+        ".lldbinit": 0.0,
+        "binutils.py": 0.07292190485905863,
+        "README": 0.0
     },
     "subdirscores": {}
 }

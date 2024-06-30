@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/llvm/utils/gn/secondary/clang/lib/Frontend",
-    "score.sum": 4.786369918667008e-05,
+    "score.sum": 0.0024891432791991335,
     "sha.latest": "1c81b4a8f237db286aae5b8893aea09676a41d68",
     "time.latest": 1718083853.2357428,
     "formatted_time": "2024-06-11 00:30:53.235744",
     "filescores": {
-        "BUILD.gn": 4.786369918667008e-05
+        "BUILD.gn": 0.1575404319250679
     },
     "subdirscores": {
-        "Rewrite": 0
+        "Rewrite": 0.0
     }
 }

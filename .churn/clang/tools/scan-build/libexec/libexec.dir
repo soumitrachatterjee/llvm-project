@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/clang/tools/scan-build/libexec",
-    "score.sum": 5.055058971638443e-05,
+    "score.sum": 0.0026288745498202907,
     "sha.latest": "3e57aa304f15a0821e5bcc90bd346529fed6658d",
     "time.latest": 1718082675.6993525,
     "formatted_time": "2024-06-11 10:41:15.699355",
     "filescores": {
-        "c++-analyzer": 0,
-        "c++-analyzer.bat": 0,
-        "ccc-analyzer": 5.055058971638443e-05,
-        "ccc-analyzer.bat": 0
+        "c++-analyzer": 0.0,
+        "c++-analyzer.bat": 0.0,
+        "ccc-analyzer": 0.166384167402673,
+        "ccc-analyzer.bat": 0.0
     },
     "subdirscores": {}
 }

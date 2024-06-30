@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/llvm/utils/gn/secondary/clang-tools-extra/pseudo/unittests",
-    "score.sum": 2.1834341875580347e-05,
+    "score.sum": 0.0011354911187155595,
     "sha.latest": "f3a2443a20a27211e260352081e99edfe0799e1e",
     "time.latest": 1718082929.907007,
     "formatted_time": "2024-06-11 00:15:29.907011",
     "filescores": {
-        "BUILD.gn": 2.1834341875580347e-05
+        "BUILD.gn": 0.07186639788252092
     },
     "subdirscores": {}
 }

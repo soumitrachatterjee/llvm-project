@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/lldb/test/Shell/Process/Inputs",
-    "score.sum": 1.2457838970237249e-05,
+    "score.sum": 0.0006478677300969484,
     "sha.latest": "acc56e55feee61fc0038bc132a94e54ce56ced98",
     "time.latest": 1717976342.3876173,
     "formatted_time": "2024-06-10 05:09:02.387620",
     "filescores": {
-        "echo.c": 0,
-        "env.cpp": 8.22683439832498e-06,
-        "true.c": 0
+        "echo.c": 0.0,
+        "env.cpp": 0.02707812113379387,
+        "true.c": 0.0
     },
     "subdirscores": {}
 }

@@ -1,15 +1,15 @@
 {
     "directory name": "llvm-project/libcxx/test/std/thread/thread.threads/thread.thread.class/thread.thread.member",
-    "score.sum": 4.02580781556917e-05,
+    "score.sum": 0.0020936142917808817,
     "sha.latest": "a7f9895cc18995549c7facb96e72718da282a864",
     "time.latest": 1717980212.7934966,
     "formatted_time": "2024-06-10 06:13:32.793498",
     "filescores": {
-        "detach.pass.cpp": 2.810898875748429e-05,
-        "get_id.pass.cpp": 2.323951467617856e-05,
-        "join.pass.cpp": 2.4515849304270078e-05,
-        "joinable.pass.cpp": 2.1588881329893635e-05,
-        "swap.pass.cpp": 2.1588881329893635e-05
+        "detach.pass.cpp": 0.09251901347115736,
+        "get_id.pass.cpp": 0.07649143802144212,
+        "join.pass.cpp": 0.0806924152130767,
+        "joinable.pass.cpp": 0.0710584795426276,
+        "swap.pass.cpp": 0.0710584795426276
     },
     "subdirscores": {}
 }

@@ -1,17 +1,17 @@
 {
     "directory name": "llvm-project/polly/test/DeadCodeElimination",
-    "score.sum": 3.614364440847775e-05,
+    "score.sum": 0.0018796438865757625,
     "sha.latest": "b332499a94df11870dfc7598645c59656deb933d",
     "time.latest": 1717812538.746545,
     "formatted_time": "2024-06-07 21:08:58.746548",
     "filescores": {
-        "chained_iterations.ll": 2.0882698255138487e-05,
-        "chained_iterations_2.ll": 2.1580308275124222e-05,
-        "computeout.ll": 3.123385871189731e-05,
-        "dead_iteration_elimination.ll": 3.344083064308186e-05,
-        "non-affine-affine-mix.ll": 1.5341093414652737e-05,
-        "non-affine.ll": 1.4817140154639036e-05,
-        "null_schedule.ll": 2.1580308275124222e-05
+        "chained_iterations.ll": 0.0687341212396638,
+        "chained_iterations_2.ll": 0.07103026185836497,
+        "computeout.ll": 0.10280433137790614,
+        "dead_iteration_elimination.ll": 0.11006844420648886,
+        "non-affine-affine-mix.ll": 0.0504942685963623,
+        "non-affine.ll": 0.04876970855830126,
+        "null_schedule.ll": 0.07103026185836497
     },
     "subdirscores": {}
 }

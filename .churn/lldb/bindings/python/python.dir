@@ -1,20 +1,20 @@
 {
     "directory name": "llvm-project/lldb/bindings/python",
-    "score.sum": 0.0003354223780450839,
+    "score.sum": 0.017443581925160375,
     "sha.latest": "a69ecb2420f644e31f18fcc61a07b3ca627e8939",
     "time.latest": 1717839981.3898673,
     "formatted_time": "2024-06-08 15:16:21.389895",
     "filescores": {
-        "CMakeLists.txt": 5.527337932358436e-05,
-        "createPythonInit.py": 9.556018088531816e-06,
-        "get-python-config.py": 1.0080168688488469e-05,
-        "lldb-python": 0,
-        "python-extensions.swig": 3.7949717463794164e-05,
-        "python-swigsafecast.swig": 5.6504732256020854e-05,
-        "python-typemaps.h": 6.099602068851199e-06,
-        "python-typemaps.swig": 6.037769939830508e-05,
-        "python-wrapper.swig": 0.00014366088844136363,
-        "python.swig": 4.1476489584886386e-05
+        "CMakeLists.txt": 0.1819289398973303,
+        "createPythonInit.py": 0.03145304777384049,
+        "get-python-config.py": 0.03317825734422721,
+        "lldb-python": 0.0,
+        "python-extensions.swig": 0.12490916879122986,
+        "python-swigsafecast.swig": 0.18598186259500318,
+        "python-typemaps.h": 0.02007646631636598,
+        "python-typemaps.swig": 0.198729496538787,
+        "python-wrapper.swig": 0.47285100818313863,
+        "python.swig": 0.1365173230438141
     },
     "subdirscores": {}
 }

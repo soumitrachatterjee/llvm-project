@@ -1,23 +1,23 @@
 {
     "directory name": "llvm-project/mlir/test/mlir-lsp-server",
-    "score.sum": 8.334278795325057e-05,
+    "score.sum": 0.004334227066204842,
     "sha.latest": "3bcc63e36ad4afc653ba2e2e92a553452252f92f",
     "time.latest": 1717832784.483553,
     "formatted_time": "2024-06-08 02:46:24.483556",
     "filescores": {
-        "code-action.test": 0,
-        "completion.test": 1.7740827363623128e-05,
-        "definition-split-file.test": 8.79882272077918e-06,
-        "definition.test": 1.0247117651209483e-05,
-        "diagnostics.test": 1.922863718510078e-05,
-        "document-symbols.test": 7.033072460971234e-06,
-        "exit-eof.test": 0,
-        "exit-with-shutdown.test": 0,
-        "exit-without-shutdown.test": 0,
-        "hover.test": 4.523741953250415e-05,
-        "initialize-params-invalid.test": 6.099602068851199e-06,
-        "initialize-params.test": 1.3281108263504282e-05,
-        "references.test": 1.0582102262855927e-05
+        "code-action.test": 0.0,
+        "completion.test": 0.0583928457905657,
+        "definition-split-file.test": 0.028960785635425725,
+        "definition.test": 0.03372775962139001,
+        "diagnostics.test": 0.0632898806182295,
+        "document-symbols.test": 0.023148926892183917,
+        "exit-eof.test": 0.0,
+        "exit-with-shutdown.test": 0.0,
+        "exit-without-shutdown.test": 0.0,
+        "hover.test": 0.14889619342900645,
+        "initialize-params-invalid.test": 0.02007646631636598,
+        "initialize-params.test": 0.043713953744276335,
+        "references.test": 0.03483034093674579
     },
     "subdirscores": {}
 }

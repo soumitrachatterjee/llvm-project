@@ -1,22 +1,22 @@
 {
     "directory name": "llvm-project/compiler-rt/lib/interception",
-    "score.sum": 0.0006928022334607298,
+    "score.sum": 0.036029058608850466,
     "sha.latest": "8443ce563bf3500b705ab3507ae586e2a72d31f4",
     "time.latest": 1717800412.7097173,
     "formatted_time": "2024-06-08 04:16:52.709720",
     "filescores": {
-        ".clang-format": 2.3322092761216942e-05,
-        "CMakeLists.txt": 4.284943017721622e-05,
-        "interception.h": 0.0001592981045674754,
-        "interception_linux.cpp": 2.3394274335129662e-05,
-        "interception_linux.h": 9.688778312558624e-05,
-        "interception_mac.cpp": 6.099602068851199e-06,
-        "interception_mac.h": 1.5187508124976706e-05,
-        "interception_type_test.cpp": 1.108396604633313e-05,
-        "interception_win.cpp": 0.00010061801519870738,
-        "interception_win.h": 2.38578344260853e-05
+        ".clang-format": 0.07676323872647654,
+        "CMakeLists.txt": 0.14103627284498904,
+        "interception.h": 0.5243199465325457,
+        "interception_linux.cpp": 0.07700081995242591,
+        "interception_linux.h": 0.3189001991329177,
+        "interception_mac.cpp": 0.02007646631636598,
+        "interception_mac.h": 0.04998875202986096,
+        "interception_type_test.cpp": 0.036482194816827136,
+        "interception_win.cpp": 0.331178029345922,
+        "interception_win.h": 0.07852659957651133
     },
     "subdirscores": {
-        "tests": 0.0001839191776165755
+        "tests": 0.009564684565952376
     }
 }

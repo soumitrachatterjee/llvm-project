@@ -1,21 +1,21 @@
 {
     "directory name": "llvm-project/llvm/test/Analysis/Lint",
-    "score.sum": 8.149084953512381e-05,
+    "score.sum": 0.004237917333666353,
     "sha.latest": "756ff969fa01f4666276b926fbc4d24840860d0b",
     "time.latest": 1717888202.1656868,
     "formatted_time": "2024-06-08 18:10:02.165690",
     "filescores": {
-        "abort-on-error.ll": 0,
-        "address-spaces.ll": 1.2093279685531434e-05,
-        "check-zero-divide.ll": 6.099602068851199e-06,
-        "get-active-lane-mask.ll": 6.099602068851199e-06,
-        "lit.local.cfg": 6.099602068851199e-06,
-        "memintrin.ll": 1.2008352681332656e-05,
-        "noalias-byval.ll": 2.5529532265460198e-05,
-        "noalias-readnone.ll": 0,
-        "noalias-readonly.ll": 1.0905912392388626e-05,
-        "noop-cast-expr-no-pointer.ll": 1.637854541655716e-05,
-        "tail-call-byval.ll": 1.563397196054527e-05
+        "abort-on-error.ll": 0.0,
+        "address-spaces.ll": 0.039804288791365695,
+        "check-zero-divide.ll": 0.02007646631636598,
+        "get-active-lane-mask.ll": 0.02007646631636598,
+        "lit.local.cfg": 0.02007646631636598,
+        "memintrin.ll": 0.03952475676289884,
+        "noalias-byval.ll": 0.08402889054312072,
+        "noalias-readnone.ll": 0.0,
+        "noalias-readonly.ll": 0.035896142129197305,
+        "noop-cast-expr-no-pointer.ll": 0.05390897826692339,
+        "tail-call-byval.ll": 0.05145826037730566
     },
     "subdirscores": {}
 }

@@ -1,23 +1,23 @@
 {
     "directory name": "llvm-project/libcxx/test/std/localization/locale.categories/category.numeric/locale.num.get/facet.num.get.members",
-    "score.sum": 0.00010034710578519247,
+    "score.sum": 0.0052185336318898426,
     "sha.latest": "ed61d6a46611cfb144b260e0dd0fb1b5783562d9",
     "time.latest": 1717929999.8015678,
     "formatted_time": "2024-06-09 16:16:39.801569",
     "filescores": {
-        "get_bool.pass.cpp": 2.8273220408620278e-05,
-        "get_double.pass.cpp": 3.799850115644986e-05,
-        "get_float.pass.cpp": 3.604655237764954e-05,
-        "get_long.pass.cpp": 5.748551292907574e-05,
-        "get_long_double.pass.cpp": 3.604655237764954e-05,
-        "get_long_long.pass.cpp": 2.9947577226644575e-05,
-        "get_pointer.pass.cpp": 2.2208851326672726e-05,
-        "get_unsigned_int.pass.cpp": 2.990744031563805e-05,
-        "get_unsigned_long.pass.cpp": 2.990744031563805e-05,
-        "get_unsigned_long_long.pass.cpp": 2.990744031563805e-05,
-        "get_unsigned_short.pass.cpp": 2.990744031563805e-05,
-        "test_min_max.pass.cpp": 3.305103616338863e-05,
-        "test_neg_one.pass.cpp": 2.94503044371287e-05
+        "get_bool.pass.cpp": 0.09305957188380373,
+        "get_double.pass.cpp": 0.12506973732526447,
+        "get_float.pass.cpp": 0.11864501757035152,
+        "get_long.pass.cpp": 0.18921004206049377,
+        "get_long_double.pass.cpp": 0.11864501757035152,
+        "get_long_long.pass.cpp": 0.09857061471564763,
+        "get_pointer.pass.cpp": 0.07309907278412035,
+        "get_unsigned_int.pass.cpp": 0.09843850653338104,
+        "get_unsigned_long.pass.cpp": 0.09843850653338104,
+        "get_unsigned_long_long.pass.cpp": 0.09843850653338104,
+        "get_unsigned_short.pass.cpp": 0.09843850653338104,
+        "test_min_max.pass.cpp": 0.10878545957019102,
+        "test_neg_one.pass.cpp": 0.09693387181077136
     },
     "subdirscores": {}
 }

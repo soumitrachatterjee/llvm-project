@@ -1,15 +1,15 @@
 {
     "directory name": "llvm-project/libcxx/test/std/algorithms/alg.sorting/alg.heap.operations",
-    "score.sum": 0.0001505510090317766,
+    "score.sum": 0.007829378812669367,
     "sha.latest": "b2cc4b994e5fb85053b1acedec5ea0d1d42e5ec4",
     "time.latest": 1717870802.3570054,
     "formatted_time": "2024-06-08 23:50:02.357007",
     "filescores": {},
     "subdirscores": {
-        "is.heap": 3.703735692409615e-05,
-        "make.heap": 5.599819470812999e-05,
-        "pop.heap": 8.933644254150187e-05,
-        "push.heap": 5.20451438986073e-05,
-        "sort.heap": 8.9458690079732e-05
+        "is.heap": 0.0019261212491613782,
+        "make.heap": 0.0029121762917113875,
+        "pop.heap": 0.004645926021565603,
+        "push.heap": 0.0027065985778685674,
+        "sort.heap": 0.004652283483344673
     }
 }

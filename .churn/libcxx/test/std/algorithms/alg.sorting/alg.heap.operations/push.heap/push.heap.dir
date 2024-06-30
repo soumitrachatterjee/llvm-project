@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/libcxx/test/std/algorithms/alg.sorting/alg.heap.operations/push.heap",
-    "score.sum": 5.20451438986073e-05,
+    "score.sum": 0.0027065985778685674,
     "sha.latest": "d05bada59205b9bcf1195a6eac7e09b721e3b79b",
     "time.latest": 1717870746.6077209,
     "formatted_time": "2024-06-08 23:49:06.607723",
     "filescores": {
-        "push_heap.pass.cpp": 3.230188595980091e-05,
-        "push_heap_comp.pass.cpp": 2.535206487394328e-05,
-        "ranges_push_heap.pass.cpp": 1.581384267447098e-05
+        "push_heap.pass.cpp": 0.10631967759647284,
+        "push_heap_comp.pass.cpp": 0.08344476750233461,
+        "ranges_push_heap.pass.cpp": 0.05205029380648153
     },
     "subdirscores": {}
 }

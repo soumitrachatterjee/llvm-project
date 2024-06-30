@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/mlir/lib/Dialect/MLProgram/Transforms",
-    "score.sum": 3.004819432155752e-05,
+    "score.sum": 0.0015626510741652932,
     "sha.latest": "fe0d16ff60fa2ef7fdbda3574493534979cce742",
     "time.latest": 1717807184.9470036,
     "formatted_time": "2024-06-07 19:39:44.947007",
     "filescores": {
-        "BufferizableOpInterfaceImpl.cpp": 6.099602068851199e-06,
-        "CMakeLists.txt": 1.219792231935266e-05,
-        "PipelineGlobalOps.cpp": 1.2199204137702398e-05
+        "BufferizableOpInterfaceImpl.cpp": 0.02007646631636598,
+        "CMakeLists.txt": 0.04014871360620667,
+        "PipelineGlobalOps.cpp": 0.04015293263273196
     },
     "subdirscores": {}
 }

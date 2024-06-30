@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/compiler-rt/test/asan/Unit",
-    "score.sum": 3.953925142975863e-05,
+    "score.sum": 0.0020562318340066332,
     "sha.latest": "a31426dc87ae60225d7e266257de3490a0147d75",
     "time.latest": 1717816991.1054165,
     "formatted_time": "2024-06-08 08:53:11.105419",
     "filescores": {
-        "lit.site.cfg.py.in": 1.8318083450054623e-05
+        "lit.site.cfg.py.in": 0.060292848814425565
     },
     "subdirscores": {}
 }

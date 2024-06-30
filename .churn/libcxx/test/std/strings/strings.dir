@@ -1,20 +1,20 @@
 {
     "directory name": "llvm-project/libcxx/test/std/strings",
-    "score.sum": 0.0013207980197811342,
+    "score.sum": 0.06868786930353554,
     "sha.latest": "a315fb1c577a40a40968daa9d346435458d7e06e",
     "time.latest": 1717974341.2567785,
     "formatted_time": "2024-06-10 04:35:41.256781",
     "filescores": {},
     "subdirscores": {
-        "basic.string": 0.0008394571874630906,
-        "basic.string.hash": 0.00011665277312738437,
-        "basic.string.literals": 6.087186918895659e-05,
-        "c.strings": 0.00011849658474205424,
-        "char.traits": 0.00012925091515621838,
-        "string.classes": 3.950502097385533e-05,
-        "string.conversions": 6.340598400915784e-05,
-        "string.view": 0.0005528720486438434,
-        "strings.erasure": 2.0197921353424256e-05,
-        "strings.general": 1.661240308499097e-05
+        "basic.string": 0.04365582376322237,
+        "basic.string.hash": 0.006066507001423663,
+        "basic.string.literals": 0.00316563087807007,
+        "c.strings": 0.006162394100974108,
+        "char.traits": 0.006721671167468763,
+        "string.classes": 0.002054451685152628,
+        "string.conversions": 0.003297417074720319,
+        "string.view": 0.02875201389620427,
+        "strings.erasure": 0.0010503893565474826,
+        "strings.general": 0.000863925108025672
     }
 }

@@ -1,22 +1,22 @@
 {
     "directory name": "llvm-project/cross-project-tests/debuginfo-tests/dexter-tests/memvars",
-    "score.sum": 5.8500908006099785e-05,
+    "score.sum": 0.003042329457706939,
     "sha.latest": "a8837b49c1c1650357d7d8f2957c903b3a5ab039",
     "time.latest": 1717792681.9049098,
     "formatted_time": "2024-06-08 02:08:01.904914",
     "filescores": {
-        "bitcast.c": 3.023950417094275e-05,
-        "const-branch.c": 3.555666668350999e-05,
-        "ctrl-flow.c": 4.209241622398842e-05,
-        "implicit-ptr.c": 3.023950417094275e-05,
-        "inline-escaping-function.c": 3.023950417094275e-05,
-        "inlining-dse.c": 3.023950417094275e-05,
-        "inlining.c": 4.209241622398842e-05,
-        "loop.c": 3.023950417094275e-05,
-        "merged-store.c": 3.023950417094275e-05,
-        "ptr-to.c": 3.023950417094275e-05,
-        "struct-dse.c": 3.351895890450611e-05,
-        "unused-merged-value.c": 4.0194775063056814e-05
+        "bitcast.c": 0.09953147435827442,
+        "const-branch.c": 0.11703258883709242,
+        "ctrl-flow.c": 0.13854460782136244,
+        "implicit-ptr.c": 0.09953147435827442,
+        "inline-escaping-function.c": 0.09953147435827442,
+        "inlining-dse.c": 0.09953147435827442,
+        "inlining.c": 0.13854460782136244,
+        "loop.c": 0.09953147435827442,
+        "merged-store.c": 0.09953147435827442,
+        "ptr-to.c": 0.09953147435827442,
+        "struct-dse.c": 0.11032559858986253,
+        "unused-merged-value.c": 0.13229863826171734
     },
     "subdirscores": {}
 }

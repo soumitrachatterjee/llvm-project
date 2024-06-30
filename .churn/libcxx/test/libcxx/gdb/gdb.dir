@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/libcxx/test/libcxx/gdb",
-    "score.sum": 0.00011353550975627704,
+    "score.sum": 0.005904394266688642,
     "sha.latest": "bc5c151348a1efb392b25153dfa73ddd7ee06d3f",
     "time.latest": 1717850440.9097185,
     "formatted_time": "2024-06-08 18:10:40.909722",
     "filescores": {
-        "gdb_pretty_printer_test.py": 1.814973313299133e-05,
-        "gdb_pretty_printer_test.sh.cpp": 9.705139592148237e-05
+        "gdb_pretty_printer_test.py": 0.05973873406534533,
+        "gdb_pretty_printer_test.sh.cpp": 0.3194387206214767
     },
     "subdirscores": {}
 }

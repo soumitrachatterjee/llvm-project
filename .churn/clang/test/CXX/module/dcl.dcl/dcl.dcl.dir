@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/clang/test/CXX/module/dcl.dcl",
-    "score.sum": 6.121429066804207e-06,
+    "score.sum": 0.0003183438447016944,
     "sha.latest": "57833636816a13ccda53714413c532dc81e3b5ff",
     "time.latest": 1718102863.0948255,
     "formatted_time": "2024-06-11 16:17:43.094829",
     "filescores": {},
     "subdirscores": {
-        "dcl.module": 6.121429066804207e-06
+        "dcl.module": 0.0003183438447016944
     }
 }

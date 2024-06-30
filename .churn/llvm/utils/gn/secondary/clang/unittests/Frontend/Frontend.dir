@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/llvm/utils/gn/secondary/clang/unittests/Frontend",
-    "score.sum": 2.4791798062255495e-05,
+    "score.sum": 0.0012892931088600763,
     "sha.latest": "905c9c2de742b46c1e0f7f1ca67acc99271996d7",
     "time.latest": 1718085325.8874176,
     "formatted_time": "2024-06-11 00:55:25.887421",
     "filescores": {
-        "BUILD.gn": 2.4791798062255495e-05
+        "BUILD.gn": 0.08160068363488551
     },
     "subdirscores": {}
 }

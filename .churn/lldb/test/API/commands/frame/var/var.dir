@@ -1,15 +1,15 @@
 {
     "directory name": "llvm-project/lldb/test/API/commands/frame/var",
-    "score.sum": 6.816437960983712e-05,
+    "score.sum": 0.003544876603140975,
     "sha.latest": "80fcecb13c388ff087a27a4b0e7ca3dd8c98eaa4",
     "time.latest": 1717895333.7602189,
     "formatted_time": "2024-06-09 06:38:53.760220",
     "filescores": {
-        "main.c": 6.099602068851199e-06,
-        "Makefile": 0,
-        "TestFrameVar.py": 4.478857908096935e-05
+        "main.c": 0.02007646631636598,
+        "Makefile": 0.0,
+        "TestFrameVar.py": 0.14741886259579062
     },
     "subdirscores": {
-        "direct-ivar": 7.397714924701238e-06
+        "direct-ivar": 0.00038471686683547136
     }
 }

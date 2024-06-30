@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/lldb/test/API/lang/c/sizeof",
-    "score.sum": 9.452181912020504e-06,
+    "score.sum": 0.0004915590620840666,
     "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
     "time.latest": 1717927056.8886065,
     "formatted_time": "2024-06-09 15:27:36.888607",
     "filescores": {
-        "main.c": 6.099602068851199e-06,
-        "Makefile": 0,
-        "TestCSizeof.py": 9.452181912020504e-06
+        "main.c": 0.02007646631636598,
+        "Makefile": 0.0,
+        "TestCSizeof.py": 0.031111277363800895
     },
     "subdirscores": {}
 }

@@ -1,21 +1,21 @@
 {
     "directory name": "llvm-project/mlir/include/mlir/Dialect/Linalg/IR",
-    "score.sum": 0.0013645678894911553,
+    "score.sum": 0.07096411369900554,
     "sha.latest": "b9a071dc3995c1599724447b9db8ced449318839",
     "time.latest": 1717795007.1762588,
     "formatted_time": "2024-06-07 16:16:47.176262",
     "filescores": {
-        "CMakeLists.txt": 5.2112210443697657e-05,
-        "Linalg.h": 5.294731881680284e-05,
-        "LinalgBase.td": 0.00016026336258680754,
-        "LinalgDoc.td": 6.7695507089113506e-06,
-        "LinalgEnums.td": 2.170507055531112e-05,
-        "LinalgInterfaces.h": 7.418504313926637e-05,
-        "LinalgInterfaces.td": 0.000212911329388917,
-        "LinalgNamedStructuredOps.yaml": 0.0002090222200338539,
-        "LinalgOps.td": 0.0002818706605901344,
-        "LinalgStructuredOps.td": 0.0003075726964927713,
-        "ValueBoundsOpInterfaceImpl.h": 0
+        "CMakeLists.txt": 0.1715241463024355,
+        "Linalg.h": 0.1742728543220587,
+        "LinalgBase.td": 0.5274970341348151,
+        "LinalgDoc.td": 0.02228156119862869,
+        "LinalgEnums.td": 0.07144090925592497,
+        "LinalgInterfaces.h": 0.2441755220999437,
+        "LinalgInterfaces.td": 0.7007845896501829,
+        "LinalgNamedStructuredOps.yaml": 0.6879838246025225,
+        "LinalgOps.td": 0.9277600012316003,
+        "LinalgStructuredOps.td": 1.0123566769223646,
+        "ValueBoundsOpInterfaceImpl.h": 0.0
     },
     "subdirscores": {}
 }

@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/lldb/test/API/commands/expression/call-throws",
-    "score.sum": 3.0005144598598355e-05,
+    "score.sum": 0.001560412280875262,
     "sha.latest": "1eeeab82c6eb185f5139e633a59c2dbcb15616e4",
     "time.latest": 1717889330.1554463,
     "formatted_time": "2024-06-09 04:58:50.155448",
     "filescores": {
-        "call-throws.m": 0,
-        "Makefile": 0,
-        "TestCallThatThrows.py": 3.0005144598598355e-05
+        "call-throws.m": 0.0,
+        "Makefile": 0.0,
+        "TestCallThatThrows.py": 0.09876009419167014
     },
     "subdirscores": {}
 }

@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/libcxx/test/libcxx/depr/depr.func.adaptor.typedefs",
-    "score.sum": 0,
+    "score.sum": 0.0,
     "sha.latest": "dc066888bd98c0500ca7b590317dc91ccce0fd38",
     "time.latest": 1717849414.5938153,
     "formatted_time": "2024-06-08 17:53:34.593819",
     "filescores": {
-        "typedefs.depr_in_cxx17.verify.cpp": 0
+        "typedefs.depr_in_cxx17.verify.cpp": 0.0
     },
     "subdirscores": {}
 }

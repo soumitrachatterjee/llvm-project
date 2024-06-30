@@ -1,19 +1,19 @@
 {
     "directory name": "llvm-project/clang/lib/Frontend/Rewrite",
-    "score.sum": 0.0005025616650187703,
+    "score.sum": 0.026135631222021893,
     "sha.latest": "da95d926f6fce4ed9707c77908ad96624268f134",
     "time.latest": 1717812496.0765574,
     "formatted_time": "2024-06-08 07:38:16.076561",
     "filescores": {
-        "CMakeLists.txt": 9.078435638141192e-06,
-        "FixItRewriter.cpp": 3.989717298773307e-05,
-        "FrontendActions.cpp": 9.437978703311483e-05,
-        "HTMLPrint.cpp": 3.669244695173579e-05,
-        "InclusionRewriter.cpp": 0.00011956024341895326,
-        "RewriteMacros.cpp": 1.312802659739838e-05,
-        "RewriteModernObjC.cpp": 0.0002778567636309613,
-        "RewriteObjC.cpp": 0.000205394899129373,
-        "RewriteTest.cpp": 8.813482226729866e-06
+        "CMakeLists.txt": 0.029881114413217058,
+        "FixItRewriter.cpp": 0.13131909927319393,
+        "FrontendActions.cpp": 0.3106452837296309,
+        "HTMLPrint.cpp": 0.12077093996892667,
+        "InclusionRewriter.cpp": 0.3935252124126213,
+        "RewriteMacros.cpp": 0.043210094823884965,
+        "RewriteModernObjC.cpp": 0.9145485054342394,
+        "RewriteObjC.cpp": 0.6760447201928512,
+        "RewriteTest.cpp": 0.02900903650066438
     },
     "subdirscores": {}
 }

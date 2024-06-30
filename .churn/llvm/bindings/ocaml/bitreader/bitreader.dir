@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/llvm/bindings/ocaml/bitreader",
-    "score.sum": 5.598382231704179e-05,
+    "score.sum": 0.0029114288580342766,
     "sha.latest": "30f423a543641816e367cd17dad3d4808cba8a79",
     "time.latest": 1717788151.686382,
     "formatted_time": "2024-06-07 14:22:31.686385",
     "filescores": {
-        "CMakeLists.txt": 1.050285918943838e-05,
-        "bitreader_ocaml.c": 4.095342221836108e-05,
-        "llvm_bitreader.ml": 1.5306759952386538e-05,
-        "llvm_bitreader.mli": 1.9636296553047818e-05
+        "CMakeLists.txt": 0.0345695172180319,
+        "bitreader_ocaml.c": 0.13479567886986665,
+        "llvm_bitreader.ml": 0.05038126210988483,
+        "llvm_bitreader.mli": 0.06463166643913326
     },
     "subdirscores": {}
 }

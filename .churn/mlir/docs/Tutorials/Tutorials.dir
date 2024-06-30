@@ -1,18 +1,18 @@
 {
     "directory name": "llvm-project/mlir/docs/Tutorials",
-    "score.sum": 0.00036475527090227725,
+    "score.sum": 0.018969033872160854,
     "sha.latest": "0c13a896dfc930a09e082ad83070e223cfd9a4f9",
     "time.latest": 1717788541.3002253,
     "formatted_time": "2024-06-07 14:29:01.300226",
     "filescores": {
-        "CreatingADialect.md": 1.6766065843494318e-05,
-        "DataFlowAnalysis.md": 6.099602068851199e-06,
-        "QuickstartRewrites.md": 3.010126085921324e-05,
-        "UnderstandingTheIRStructure.md": 1.4772676795106537e-05,
-        "_index.md": 6.099602068851199e-06
+        "CreatingADialect.md": 0.05518447799796943,
+        "DataFlowAnalysis.md": 0.02007646631636598,
+        "QuickstartRewrites.md": 0.09907645497175185,
+        "UnderstandingTheIRStructure.md": 0.048623360135913965,
+        "_index.md": 0.02007646631636598
     },
     "subdirscores": {
-        "Toy": 0.00021041935662608694,
-        "transform": 4.9940694012520805e-05
+        "Toy": 0.010942821726263416,
+        "transform": 0.0025971570307383694
     }
 }

@@ -1,18 +1,18 @@
 {
     "directory name": "llvm-project/libc/test/src/__support/File",
-    "score.sum": 5.7252672137598956e-05,
+    "score.sum": 0.002977415170350741,
     "sha.latest": "47b7c91abe7af3133a591aa2e73fffa30826f986",
     "time.latest": 1717844954.8378234,
     "formatted_time": "2024-06-08 06:09:14.837824",
     "filescores": {
-        "CMakeLists.txt": 2.282250274636652e-05,
-        "file_test.cpp": 4.041257646994944e-05,
-        "platform_file_test.cpp": 3.196801636133871e-05,
-        "platform_stderr_test.cpp": 6.099602068851199e-06,
-        "platform_stdin_test.cpp": 6.099602068851199e-06,
-        "platform_stdout_test.cpp": 6.099602068851199e-06
+        "CMakeLists.txt": 0.07511886881645283,
+        "file_test.cpp": 0.1330155182417191,
+        "platform_file_test.cpp": 0.10522076627866495,
+        "platform_stderr_test.cpp": 0.02007646631636598,
+        "platform_stdin_test.cpp": 0.02007646631636598,
+        "platform_stdout_test.cpp": 0.02007646631636598
     },
     "subdirscores": {
-        "testdata": 0
+        "testdata": 0.0
     }
 }

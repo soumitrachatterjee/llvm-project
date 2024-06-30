@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/llvm/lib/DebugInfo/BTF",
-    "score.sum": 1.9661222829290217e-05,
+    "score.sum": 0.0010224784439559964,
     "sha.latest": "5f5f82af966e6edcc72df02b36fb54401ab76266",
     "time.latest": 1717833271.808389,
     "formatted_time": "2024-06-08 02:54:31.808393",
     "filescores": {
-        "BTFContext.cpp": 6.099602068851199e-06,
-        "BTFParser.cpp": 1.9591067061868458e-05,
-        "CMakeLists.txt": 6.099602068851199e-06
+        "BTFContext.cpp": 0.02007646631636598,
+        "BTFParser.cpp": 0.06448279634139265,
+        "CMakeLists.txt": 0.02007646631636598
     },
     "subdirscores": {}
 }

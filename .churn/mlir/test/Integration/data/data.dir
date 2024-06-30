@@ -1,18 +1,18 @@
 {
     "directory name": "llvm-project/mlir/test/Integration/data",
-    "score.sum": 2.2045779320771415e-05,
+    "score.sum": 0.0011464868859590357,
     "sha.latest": "e6005d5a9c177cf80d23c8fae19565986e902b86",
     "time.latest": 1717828449.0833423,
     "formatted_time": "2024-06-08 01:34:09.083345",
     "filescores": {
-        "block.mtx": 0,
-        "ds.mtx": 0,
-        "mttkrp_b.tns": 6.099602068851199e-06,
-        "test.mtx": 0,
-        "test.tns": 0,
-        "test_symmetric.mtx": 0,
-        "test_symmetric_complex.mtx": 0,
-        "wide.mtx": 6.179270261142942e-06
+        "block.mtx": 0.0,
+        "ds.mtx": 0.0,
+        "mttkrp_b.tns": 0.02007646631636598,
+        "test.mtx": 0.0,
+        "test.tns": 0.0,
+        "test_symmetric.mtx": 0.0,
+        "test_symmetric_complex.mtx": 0.0,
+        "wide.mtx": 0.020338689287795357
     },
     "subdirscores": {}
 }

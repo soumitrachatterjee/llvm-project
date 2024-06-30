@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/llvm/utils/gn/secondary/clang-tools-extra/clang-tidy/boost",
-    "score.sum": 0,
+    "score.sum": 0.0,
     "sha.latest": "50be01149cd8398fce6f4ea9ae7e9f76988d8548",
     "time.latest": 1718081631.1751063,
     "formatted_time": "2024-06-10 23:53:51.175110",
     "filescores": {
-        "BUILD.gn": 0
+        "BUILD.gn": 0.0
     },
     "subdirscores": {}
 }

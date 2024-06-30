@@ -1,26 +1,26 @@
 {
     "directory name": "llvm-project/llvm/include/llvm/Target",
-    "score.sum": 0.013323008390306722,
+    "score.sum": 0.6928607140060211,
     "sha.latest": "96049fcf4e5f2eb0271bdfa89e113eef9c5fa9f6",
     "time.latest": 1717823163.5574706,
     "formatted_time": "2024-06-08 00:06:03.557474",
     "filescores": {
-        "CGPassBuilderOption.h": 4.094266877500507e-05,
-        "CodeGenCWrappers.h": 2.5540137357258823e-05,
-        "GenericOpcodes.td": 0.0004203305793855541,
-        "Target.td": 0.0008367956404820743,
-        "TargetCallingConv.td": 8.553292646373894e-05,
-        "TargetInstrPredicate.td": 2.3788295509694426e-05,
-        "TargetIntrinsicInfo.h": 3.955733900455093e-05,
-        "TargetItinerary.td": 3.641663651464982e-05,
-        "TargetLoweringObjectFile.h": 0.00037584317091197213,
-        "TargetMachine.h": 0.0013182418642733046,
-        "TargetOptions.h": 0.0009295487803874786,
-        "TargetPfmCounters.td": 3.282415909180971e-05,
-        "TargetSchedule.td": 0.0002432426676515851,
-        "TargetSelectionDAG.td": 0.000775705910915347
+        "CGPassBuilderOption.h": 0.13476028457022463,
+        "CodeGenCWrappers.h": 0.08406379655270524,
+        "GenericOpcodes.td": 1.383492336634024,
+        "Target.td": 2.7542615567681383,
+        "TargetCallingConv.td": 0.281526384460172,
+        "TargetInstrPredicate.td": 0.07829771649580555,
+        "TargetIntrinsicInfo.h": 0.13020055654868504,
+        "TargetItinerary.td": 0.1198631268218796,
+        "TargetLoweringObjectFile.h": 1.2370647586313006,
+        "TargetMachine.h": 4.338912290698176,
+        "TargetOptions.h": 3.059552831187086,
+        "TargetPfmCounters.td": 0.10803870759619418,
+        "TargetSchedule.td": 0.8006183302921274,
+        "TargetSelectionDAG.td": 2.553188456575997
     },
     "subdirscores": {
-        "GlobalISel": 0.0009537146041280423
+        "GlobalISel": 0.049597760672048366
     }
 }

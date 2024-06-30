@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/libcxx/test/libcxx/ranges/range.adaptors/range.counted",
-    "score.sum": 8.401745225401892e-06,
+    "score.sum": 0.0004369312864806067,
     "sha.latest": "b8cb1dc9ea87faa8e8e9ab7a31710a8c0bb8b084",
     "time.latest": 1717862600.1464908,
     "formatted_time": "2024-06-08 21:33:20.146493",
     "filescores": {
-        "adaptor.nodiscard.verify.cpp": 8.401745225401892e-06
+        "adaptor.nodiscard.verify.cpp": 0.02765382939943794
     },
     "subdirscores": {}
 }

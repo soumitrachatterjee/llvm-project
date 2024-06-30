@@ -1,19 +1,19 @@
 {
     "directory name": "llvm-project/lldb/packages/Python/lldbsuite/test/make",
-    "score.sum": 0.00032186938701544374,
+    "score.sum": 0.016738761004342993,
     "sha.latest": "9ba5b52c135c2fd2e6dd5f5e228d0742aa0cf3e4",
     "time.latest": 1717861272.813984,
     "formatted_time": "2024-06-08 21:11:12.813989",
     "filescores": {
-        "Android.rules": 1.8421656698399963e-05,
-        "dylib.h": 0,
-        "entitlements-macos.plist": 0,
-        "entitlements-simulator.plist": 0,
-        "entitlements.plist": 0,
-        "Makefile.rules": 0.00027813110776064067,
-        "pseudo_barrier.h": 1.829024963502779e-05,
-        "test_common.h": 1.3949837124504346e-05,
-        "thread.h": 8.882586679363186e-06
+        "Android.rules": 0.06063375381252381,
+        "dylib.h": 0.0,
+        "entitlements-macos.plist": 0.0,
+        "entitlements-simulator.plist": 0.0,
+        "entitlements.plist": 0.0,
+        "Makefile.rules": 0.9154514923203393,
+        "pseudo_barrier.h": 0.06020123551842125,
+        "test_common.h": 0.04591503379853276,
+        "thread.h": 0.02923648957054391
     },
     "subdirscores": {}
 }

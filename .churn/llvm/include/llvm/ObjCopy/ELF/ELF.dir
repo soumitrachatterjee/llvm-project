@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/llvm/include/llvm/ObjCopy/ELF",
-    "score.sum": 1.926889542779607e-05,
+    "score.sum": 0.0010020755262695425,
     "sha.latest": "07d8a457ad8bb9a14974b9cb47072746c7f5e489",
     "time.latest": 1717819335.8961108,
     "formatted_time": "2024-06-07 23:02:15.896114",
     "filescores": {
-        "ELFConfig.h": 1.926868337939846e-05,
-        "ELFObjcopy.h": 6.099602068851199e-06
+        "ELFConfig.h": 0.06342169021200969,
+        "ELFObjcopy.h": 0.02007646631636598
     },
     "subdirscores": {}
 }

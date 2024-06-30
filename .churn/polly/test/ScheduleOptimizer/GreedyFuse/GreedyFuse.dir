@@ -1,19 +1,19 @@
 {
     "directory name": "llvm-project/polly/test/ScheduleOptimizer/GreedyFuse",
-    "score.sum": 8.152099542922454e-06,
+    "score.sum": 0.0004239485065600394,
     "sha.latest": "b332499a94df11870dfc7598645c59656deb933d",
     "time.latest": 1717814321.5165257,
     "formatted_time": "2024-06-07 21:38:41.516529",
     "filescores": {
-        "fuse-double.ll": 8.152099542922454e-06,
-        "fuse-except-first.ll": 8.152099542922454e-06,
-        "fuse-except-third.ll": 8.152099542922454e-06,
-        "fuse-inner-carried.ll": 8.152099542922454e-06,
-        "fuse-inner-third.ll": 8.152099542922454e-06,
-        "fuse-inner.ll": 8.152099542922454e-06,
-        "fuse-simple.ll": 8.152099542922454e-06,
-        "nofuse-simple.ll": 8.152099542922454e-06,
-        "nofuse-with-middle.ll": 8.152099542922454e-06
+        "fuse-double.ll": 0.026832135938331777,
+        "fuse-except-first.ll": 0.026832135938331777,
+        "fuse-except-third.ll": 0.026832135938331777,
+        "fuse-inner-carried.ll": 0.026832135938331777,
+        "fuse-inner-third.ll": 0.026832135938331777,
+        "fuse-inner.ll": 0.026832135938331777,
+        "fuse-simple.ll": 0.026832135938331777,
+        "nofuse-simple.ll": 0.026832135938331777,
+        "nofuse-with-middle.ll": 0.026832135938331777
     },
     "subdirscores": {}
 }

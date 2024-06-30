@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/clang/examples/CallSuperAttribute",
-    "score.sum": 1.4498529949738714e-05,
+    "score.sum": 0.0007539935064757833,
     "sha.latest": "33ee5c4663465022ffe288817968e90064d88a09",
     "time.latest": 1717792759.3519373,
     "formatted_time": "2024-06-08 02:09:19.351941",
     "filescores": {
-        "CallSuperAttrInfo.cpp": 8.546721117006763e-06,
-        "CMakeLists.txt": 1.2108084359826435e-05
+        "CallSuperAttrInfo.cpp": 0.02813100865992673,
+        "CMakeLists.txt": 0.03985301746931113
     },
     "subdirscores": {}
 }

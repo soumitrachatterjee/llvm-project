@@ -1,19 +1,19 @@
 {
     "directory name": "llvm-project/lldb/source/Plugins/Process/NetBSD",
-    "score.sum": 0.00025998915374755784,
+    "score.sum": 0.013520690329251307,
     "sha.latest": "b96bae2887f276345f9c0ea9974703e8dd3b5ddf",
     "time.latest": 1717876687.4248655,
     "formatted_time": "2024-06-09 01:28:07.424869",
     "filescores": {
-        "CMakeLists.txt": 1.5323711750293576e-05,
-        "NativeProcessNetBSD.cpp": 0.00011612483156897088,
-        "NativeProcessNetBSD.h": 6.88176100815331e-05,
-        "NativeRegisterContextNetBSD.cpp": 2.4491505179687714e-05,
-        "NativeRegisterContextNetBSD.h": 2.943691290688199e-05,
-        "NativeRegisterContextNetBSD_x86_64.cpp": 0.00013181180985300336,
-        "NativeRegisterContextNetBSD_x86_64.h": 5.817305539865825e-05,
-        "NativeThreadNetBSD.cpp": 5.5558897654378955e-05,
-        "NativeThreadNetBSD.h": 2.7602488384511588e-05
+        "CMakeLists.txt": 0.05043705791358496,
+        "NativeProcessNetBSD.cpp": 0.3822177648921955,
+        "NativeProcessNetBSD.h": 0.22650894520319437,
+        "NativeRegisterContextNetBSD.cpp": 0.0806122880192594,
+        "NativeRegisterContextNetBSD.h": 0.096889794409838,
+        "NativeRegisterContextNetBSD_x86_64.cpp": 0.4338504923340789,
+        "NativeRegisterContextNetBSD_x86_64.h": 0.19147304595416317,
+        "NativeThreadNetBSD.cpp": 0.18286870598144506,
+        "NativeThreadNetBSD.h": 0.09085189854096512
     },
     "subdirscores": {}
 }

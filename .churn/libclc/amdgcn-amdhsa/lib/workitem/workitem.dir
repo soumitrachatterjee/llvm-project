@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/libclc/amdgcn-amdhsa/lib/workitem",
-    "score.sum": 1.9415231713028813e-05,
+    "score.sum": 0.0010096857191104565,
     "sha.latest": "3d21fa56f5f5afbbf16b35b199480af71e1189a3",
     "time.latest": 1717822213.7202723,
     "formatted_time": "2024-06-07 23:50:13.720291",
     "filescores": {
-        "get_global_size.cl": 8.892045335535262e-06,
-        "get_local_size.cl": 8.892045335535262e-06,
-        "get_num_groups.cl": 6.099602068851199e-06
+        "get_global_size.cl": 0.029267622157537823,
+        "get_local_size.cl": 0.029267622157537823,
+        "get_num_groups.cl": 0.02007646631636598
     },
     "subdirscores": {}
 }

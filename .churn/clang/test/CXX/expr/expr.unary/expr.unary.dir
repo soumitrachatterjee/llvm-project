@@ -1,15 +1,15 @@
 {
     "directory name": "llvm-project/clang/test/CXX/expr/expr.unary",
-    "score.sum": 0.00011919189971779808,
+    "score.sum": 0.006198553834304566,
     "sha.latest": "a02f9a7756e5e4c76b422f9948d5dc3f56a1d139",
     "time.latest": 1718100832.1423528,
     "formatted_time": "2024-06-11 15:43:52.142353",
     "filescores": {},
     "subdirscores": {
-        "expr.delete": 1.980543839256426e-05,
-        "expr.new": 3.4552588827540245e-05,
-        "expr.sizeof": 3.094196129753298e-05,
-        "expr.unary.noexcept": 4.9549612460211435e-05,
-        "expr.unary.op": 3.360866343383638e-05
+        "expr.delete": 0.0010299783490234984,
+        "expr.new": 0.0017969013202171263,
+        "expr.sizeof": 0.001609131268952223,
+        "expr.unary.noexcept": 0.0025768189032202033,
+        "expr.unary.op": 0.00174781264571581
     }
 }

@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/libcxx/test/std/iterators/stream.iterators/ostream.iterator/ostream.iterator.ops",
-    "score.sum": 3.3511018910311324e-05,
+    "score.sum": 0.0017427346594002292,
     "sha.latest": "14324fa4285f5cd1e421a6cebdceb05d6c49a8dc",
     "time.latest": 1717920353.0550792,
     "formatted_time": "2024-06-09 13:35:53.055081",
     "filescores": {
-        "assign_t.pass.cpp": 2.976504980938248e-05,
-        "dereference.pass.cpp": 1.7366275644238228e-05,
-        "increment.pass.cpp": 1.7366275644238228e-05
+        "assign_t.pass.cpp": 0.09796983691029058,
+        "dereference.pass.cpp": 0.057160031765472394,
+        "increment.pass.cpp": 0.057160031765472394
     },
     "subdirscores": {}
 }

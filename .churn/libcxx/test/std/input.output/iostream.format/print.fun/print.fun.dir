@@ -1,22 +1,22 @@
 {
     "directory name": "llvm-project/libcxx/test/std/input.output/iostream.format/print.fun",
-    "score.sum": 2.210236208934647e-05,
+    "score.sum": 0.0011494294629121413,
     "sha.latest": "82d21814e6556480a71c83a2f8da350d0c8cadf6",
     "time.latest": 1717906727.0148084,
     "formatted_time": "2024-06-09 09:48:47.014809",
     "filescores": {
-        "echo.sh": 0,
-        "includes.compile.pass.cpp": 0,
-        "no_file_description.pass.cpp": 1.1650357120944623e-05,
-        "print.file.pass.cpp": 1.0399041011249862e-05,
-        "print.sh.cpp": 7.4086836708988436e-06,
-        "println.file.pass.cpp": 1.0399041011249862e-05,
-        "println.sh.cpp": 6.099602068851199e-06,
-        "print_tests.h": 6.099602068851199e-06,
-        "vprint_nonunicode.file.pass.cpp": 1.0535796740285189e-05,
-        "vprint_nonunicode.sh.cpp": 9.281797906664097e-06,
-        "vprint_unicode.file.pass.cpp": 1.0535796740285189e-05,
-        "vprint_unicode.sh.cpp": 9.281797906664097e-06
+        "echo.sh": 0.0,
+        "includes.compile.pass.cpp": 0.0,
+        "no_file_description.pass.cpp": 0.03834643632028469,
+        "print.file.pass.cpp": 0.03422780604836853,
+        "print.sh.cpp": 0.024385228165453923,
+        "println.file.pass.cpp": 0.03422780604836853,
+        "println.sh.cpp": 0.02007646631636598,
+        "print_tests.h": 0.02007646631636598,
+        "vprint_nonunicode.file.pass.cpp": 0.034677929147638994,
+        "vprint_nonunicode.sh.cpp": 0.03055046885436486,
+        "vprint_unicode.file.pass.cpp": 0.034677929147638994,
+        "vprint_unicode.sh.cpp": 0.03055046885436486
     },
     "subdirscores": {}
 }

@@ -1,18 +1,18 @@
 {
     "directory name": "llvm-project/lldb/test/API/python_api/value",
-    "score.sum": 0.00011216418773293306,
+    "score.sum": 0.005833078905443536,
     "sha.latest": "9c2468821ec51defd09c246fea4a47886fff8c01",
     "time.latest": 1717967457.2537034,
     "formatted_time": "2024-06-10 02:40:57.253706",
     "filescores": {
-        "main.c": 1.1850472725420556e-05,
-        "Makefile": 0,
-        "TestValueAPI.py": 6.740479170709746e-05
+        "main.c": 0.03900510456573581,
+        "Makefile": 0.0,
+        "TestValueAPI.py": 0.22185874012664542
     },
     "subdirscores": {
-        "addr_of_void_star": 6.099602068851199e-06,
-        "change_values": 4.656960671943526e-05,
-        "empty_class": 1.66728131207743e-05,
-        "linked_list": 2.7947514833045223e-05
+        "addr_of_void_star": 0.00031720873550238375,
+        "change_values": 0.0024218442274706606,
+        "empty_class": 0.0008670667213385048,
+        "linked_list": 0.0014534056058994787
     }
 }

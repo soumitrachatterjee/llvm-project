@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/lldb/test/API/functionalities/inferior-changed",
-    "score.sum": 1.3897070462876754e-05,
+    "score.sum": 0.0007227147113790192,
     "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
     "time.latest": 1717910453.6395423,
     "formatted_time": "2024-06-09 10:50:53.639544",
     "filescores": {
-        "main.c": 6.099602068851199e-06,
-        "main2.c": 6.099602068851199e-06,
-        "Makefile": 0,
-        "TestInferiorChanged.py": 1.3853520336928133e-05
+        "main.c": 0.02007646631636598,
+        "main2.c": 0.02007646631636598,
+        "Makefile": 0.0,
+        "TestInferiorChanged.py": 0.045598012996249736
     },
     "subdirscores": {}
 }

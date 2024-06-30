@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/libc/src/__support/HashTable/sse2",
-    "score.sum": 7.089774496251755e-06,
+    "score.sum": 0.00036870247887771395,
     "sha.latest": "f700d748f0447b6a761eb9d42575b28e0af98708",
     "time.latest": 1717828933.4872577,
     "formatted_time": "2024-06-08 01:42:13.487261",
     "filescores": {
-        "bitmask_impl.inc": 7.089774496251755e-06
+        "bitmask_impl.inc": 0.023335558165589784
     },
     "subdirscores": {}
 }

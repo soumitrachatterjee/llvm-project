@@ -1,18 +1,18 @@
 {
     "directory name": "llvm-project/libcxx/test/std/utilities/function.objects/refwrap/refwrap.helpers",
-    "score.sum": 5.458997858291007e-05,
+    "score.sum": 0.0028389422591707683,
     "sha.latest": "c99a585399381dd7d7391d2d93e9a2cbdf59d955",
     "time.latest": 1717997300.6426315,
     "formatted_time": "2024-06-10 10:58:20.642635",
     "filescores": {
-        "cref.incomplete.pass.cpp": 1.1461289503077372e-05,
-        "cref_1.pass.cpp": 1.6970163514993343e-05,
-        "cref_2.pass.cpp": 2.1411279370821746e-05,
-        "lwg3146.pass.cpp": 0,
-        "ref.incomplete.pass.cpp": 1.1461289503077372e-05,
-        "ref_1.compile.fail.cpp": 6.6141762880711394e-06,
-        "ref_1.pass.cpp": 1.6970163514993343e-05,
-        "ref_2.pass.cpp": 2.542039711291556e-05
+        "cref.incomplete.pass.cpp": 0.03772413184553682,
+        "cref_1.pass.cpp": 0.05585625297293442,
+        "cref_2.pass.cpp": 0.070473913580983,
+        "lwg3146.pass.cpp": 0.0,
+        "ref.incomplete.pass.cpp": 0.03772413184553682,
+        "ref_1.compile.fail.cpp": 0.021770155816570564,
+        "ref_1.pass.cpp": 0.05585625297293442,
+        "ref_2.pass.cpp": 0.08366967887828396
     },
     "subdirscores": {}
 }

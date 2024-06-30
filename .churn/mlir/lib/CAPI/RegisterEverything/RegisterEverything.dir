@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/mlir/lib/CAPI/RegisterEverything",
-    "score.sum": 1.496139698151688e-05,
+    "score.sum": 0.0007780648252599851,
     "sha.latest": "7c4e8c6a273f25b3ef33e9c123b3969632ab59bb",
     "time.latest": 1717802293.7012525,
     "formatted_time": "2024-06-07 18:18:13.701256",
     "filescores": {
-        "CMakeLists.txt": 1.060520391974465e-05,
-        "RegisterEverything.cpp": 1.496139698151688e-05
+        "CMakeLists.txt": 0.03490637862431022,
+        "RegisterEverything.cpp": 0.04924452106131826
     },
     "subdirscores": {}
 }

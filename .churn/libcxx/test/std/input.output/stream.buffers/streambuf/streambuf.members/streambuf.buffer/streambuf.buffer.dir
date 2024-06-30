@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/libcxx/test/std/input.output/stream.buffers/streambuf/streambuf.members/streambuf.buffer",
-    "score.sum": 1.7366275644238228e-05,
+    "score.sum": 0.000903130118213133,
     "sha.latest": "7fc6a55688c816f5fc1a5481ae7af25be7500356",
     "time.latest": 1717908865.1644132,
     "formatted_time": "2024-06-09 10:24:25.164415",
     "filescores": {
-        "pubseekoff.pass.cpp": 1.7366275644238228e-05,
-        "pubseekpos.pass.cpp": 1.7366275644238228e-05,
-        "pubsetbuf.pass.cpp": 1.7366275644238228e-05,
-        "pubsync.pass.cpp": 1.7366275644238228e-05
+        "pubseekoff.pass.cpp": 0.057160031765472394,
+        "pubseekpos.pass.cpp": 0.057160031765472394,
+        "pubsetbuf.pass.cpp": 0.057160031765472394,
+        "pubsync.pass.cpp": 0.057160031765472394
     },
     "subdirscores": {}
 }

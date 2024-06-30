@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/llvm/utils/Misc",
-    "score.sum": 9.779583032328194e-06,
+    "score.sum": 0.0005085854999078093,
     "sha.latest": "4c3fa5f9551639505513a3317fe97399557b1311",
     "time.latest": 1718077714.9748278,
     "formatted_time": "2024-06-10 22:48:34.974831",
     "filescores": {
-        "zkill": 0
+        "zkill": 0.0
     },
     "subdirscores": {}
 }

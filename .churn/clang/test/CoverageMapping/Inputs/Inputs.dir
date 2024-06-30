@@ -1,20 +1,20 @@
 {
     "directory name": "llvm-project/clang/test/CoverageMapping/Inputs",
-    "score.sum": 1.7312371434371476e-05,
+    "score.sum": 0.0009003268392357377,
     "sha.latest": "84fffa67283139954b7764328966b5f766db1003",
     "time.latest": 1718081826.5817115,
     "formatted_time": "2024-06-11 10:27:06.581715",
     "filescores": {
-        "code.h": 6.442745743475976e-06,
-        "comment.h": 0,
-        "deferred-region-helper.h": 0,
-        "ends_a_scope": 0,
-        "ends_a_scope_only": 7.586930695665383e-06,
-        "header1.h": 6.196321069225081e-06,
-        "macros.h": 0,
-        "md.def": 0,
-        "starts_a_scope": 0,
-        "starts_a_scope_only": 7.586930695665383e-06
+        "code.h": 0.021205902687380897,
+        "comment.h": 0.0,
+        "deferred-region-helper.h": 0.0,
+        "ends_a_scope": 0.0,
+        "ends_a_scope_only": 0.024971917321291247,
+        "header1.h": 0.020394810977417705,
+        "macros.h": 0.0,
+        "md.def": 0.0,
+        "starts_a_scope": 0.0,
+        "starts_a_scope_only": 0.024971917321291247
     },
     "subdirscores": {}
 }

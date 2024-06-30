@@ -1,18 +1,18 @@
 {
     "directory name": "llvm-project/clang-tools-extra/clangd/refactor",
-    "score.sum": 0.0007120030616881635,
+    "score.sum": 0.03702759431230658,
     "sha.latest": "ec7062d9d822df42dee6dccada13f42798976f3c",
     "time.latest": 1717803158.842196,
     "formatted_time": "2024-06-08 05:02:38.842197",
     "filescores": {
-        "InsertionPoint.cpp": 2.0328041292725816e-05,
-        "InsertionPoint.h": 6.099602068851199e-06,
-        "Rename.cpp": 0.00019801949137232154,
-        "Rename.h": 4.44255822176334e-05,
-        "Tweak.cpp": 5.613632548184064e-05,
-        "Tweak.h": 7.070866700727285e-05
+        "InsertionPoint.cpp": 0.06690850184723135,
+        "InsertionPoint.h": 0.02007646631636598,
+        "Rename.cpp": 0.6517690176580797,
+        "Rename.h": 0.14622408067109313,
+        "Tweak.cpp": 0.18476927428037843,
+        "Tweak.h": 0.23273324315630575
     },
     "subdirscores": {
-        "tweaks": 0.000479306671238255
+        "tweaks": 0.024926259350223315
     }
 }

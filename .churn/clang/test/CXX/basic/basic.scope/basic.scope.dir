@@ -1,15 +1,15 @@
 {
     "directory name": "llvm-project/clang/test/CXX/basic/basic.scope",
-    "score.sum": 5.29581747132794e-05,
+    "score.sum": 0.0027540805852073504,
     "sha.latest": "57833636816a13ccda53714413c532dc81e3b5ff",
     "time.latest": 1718082629.1983109,
     "formatted_time": "2024-06-11 10:40:29.198313",
     "filescores": {},
     "subdirscores": {
-        "basic.scope.declarative": 0,
-        "basic.scope.hiding": 9.7318971339002e-06,
-        "basic.scope.local": 1.6279369370941827e-05,
-        "basic.scope.namespace": 2.282877531407176e-05,
-        "basic.scope.pdecl": 8.686353982141265e-06
+        "basic.scope.declarative": 0.0,
+        "basic.scope.hiding": 0.0005061056031258725,
+        "basic.scope.local": 0.0008466057481525636,
+        "basic.scope.namespace": 0.0011872064552251357,
+        "basic.scope.pdecl": 0.00045173231494428906
     }
 }

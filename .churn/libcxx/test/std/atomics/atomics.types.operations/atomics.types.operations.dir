@@ -1,16 +1,16 @@
 {
     "directory name": "llvm-project/libcxx/test/std/atomics/atomics.types.operations",
-    "score.sum": 0.00019660678159783687,
+    "score.sum": 0.01022450118513864,
     "sha.latest": "85a847fd1d639a0e7d5319b17e994ea157be6046",
     "time.latest": 1717874555.8713582,
     "formatted_time": "2024-06-09 00:52:35.871361",
     "filescores": {},
     "subdirscores": {
-        "atomics.types.operations.arith": 1.3483256061814899e-05,
-        "atomics.types.operations.general": 1.3483256061814899e-05,
-        "atomics.types.operations.pointer": 1.3483256061814899e-05,
-        "atomics.types.operations.req": 0.00012234806645035947,
-        "atomics.types.operations.templ": 1.3483256061814899e-05,
-        "atomics.types.operations.wait": 5.541149901267193e-05
+        "atomics.types.operations.arith": 0.0007011943660496344,
+        "atomics.types.operations.general": 0.0007011943660496344,
+        "atomics.types.operations.pointer": 0.0007011943660496344,
+        "atomics.types.operations.req": 0.006362689731526964,
+        "atomics.types.operations.templ": 0.0007011943660496344,
+        "atomics.types.operations.wait": 0.0028816652849964867
     }
 }

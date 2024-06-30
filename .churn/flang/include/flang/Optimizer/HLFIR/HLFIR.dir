@@ -1,17 +1,17 @@
 {
     "directory name": "llvm-project/flang/include/flang/Optimizer/HLFIR",
-    "score.sum": 0.00021610337257901014,
+    "score.sum": 0.011238417978715623,
     "sha.latest": "7ff488708c0caa1b31af7ad677b9b321209f6738",
     "time.latest": 1717789914.328136,
     "formatted_time": "2024-06-07 14:51:54.328139",
     "filescores": {
-        "CMakeLists.txt": 1.2675584052001364e-05,
-        "HLFIRDialect.h": 5.5020564649115975e-05,
-        "HLFIROpBase.td": 4.4531142218884596e-05,
-        "HLFIROps.h": 2.4695569818746048e-05,
-        "HLFIROps.td": 0.00015289990799050143,
-        "Passes.h": 2.0477471555549902e-05,
-        "Passes.td": 2.715747509777772e-05
+        "CMakeLists.txt": 0.04172090791952272,
+        "HLFIRDialect.h": 0.18109681589334528,
+        "HLFIROpBase.td": 0.1465715249445971,
+        "HLFIROps.h": 0.08128395426997066,
+        "HLFIROps.td": 0.5032606746959324,
+        "Passes.h": 0.06740034239754425,
+        "Passes.td": 0.08938716458609411
     },
     "subdirscores": {}
 }

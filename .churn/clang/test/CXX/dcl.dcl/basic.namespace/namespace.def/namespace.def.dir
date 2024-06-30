@@ -1,17 +1,17 @@
 {
     "directory name": "llvm-project/clang/test/CXX/dcl.dcl/basic.namespace/namespace.def",
-    "score.sum": 4.556201974755858e-05,
+    "score.sum": 0.002369444843764983,
     "sha.latest": "0f1c1be1968076d6f96f8a7bcc4a15cf195ecd97",
     "time.latest": 1718085171.443771,
     "formatted_time": "2024-06-11 11:22:51.443775",
     "filescores": {
-        "p1.cpp": 6.099602068851199e-06,
-        "p2.cpp": 6.099602068851199e-06,
-        "p7.cpp": 1.0839216886763217e-05,
-        "p8.cpp": 1.0460938604416722e-05
+        "p1.cpp": 0.02007646631636598,
+        "p2.cpp": 0.02007646631636598,
+        "p7.cpp": 0.03567661796073073,
+        "p8.cpp": 0.034431538182080106
     },
     "subdirscores": {
-        "namespace.memdef": 2.0695436422680303e-05,
-        "namespace.unnamed": 1.2157501229421233e-05
+        "namespace.memdef": 0.0010762625404422174,
+        "namespace.unnamed": 0.0006322487185757864
     }
 }

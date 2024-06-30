@@ -1,17 +1,17 @@
 {
     "directory name": "llvm-project/mlir/include/mlir/Dialect/XeGPU/IR",
-    "score.sum": 0,
+    "score.sum": 0.0,
     "sha.latest": "5669660f37ef1800f4a7852577364b024d75e3d8",
     "time.latest": 1717798492.458512,
     "formatted_time": "2024-06-07 17:14:52.458516",
     "filescores": {
-        "CMakeLists.txt": 0,
-        "XeGPU.h": 0,
-        "XeGPU.td": 0,
-        "XeGPUAttrs.td": 0,
-        "XeGPUDialect.td": 0,
-        "XeGPUOps.td": 0,
-        "XeGPUTypes.td": 0
+        "CMakeLists.txt": 0.0,
+        "XeGPU.h": 0.0,
+        "XeGPU.td": 0.0,
+        "XeGPUAttrs.td": 0.0,
+        "XeGPUDialect.td": 0.0,
+        "XeGPUOps.td": 0.0,
+        "XeGPUTypes.td": 0.0
     },
     "subdirscores": {}
 }

@@ -1,20 +1,20 @@
 {
     "directory name": "llvm-project/mlir/test/Conversion/FuncToLLVM",
-    "score.sum": 0.00012060056546414418,
+    "score.sum": 0.006271811249312973,
     "sha.latest": "8fb685fb7ea165f2bc27a3f19b1cffc3f5a4b329",
     "time.latest": 1717815707.090976,
     "formatted_time": "2024-06-07 22:01:47.090980",
     "filescores": {
-        "calling-convention.mlir": 4.791188021316085e-05,
-        "convert-argattrs.mlir": 2.542391304904927e-05,
-        "convert-data-layout.mlir": 3.32183217192744e-05,
-        "convert-funcs.mlir": 4.056421142852247e-05,
-        "emit-c-wrappers-for-external-callers.mlir": 2.6679422191652945e-05,
-        "emit-c-wrappers-for-external-functions.mlir": 3.114942282053007e-05,
-        "func-memref-return.mlir": 5.0185809017598696e-05,
-        "func-memref.mlir": 2.5409560898877566e-05,
-        "func-to-llvm.mlir": 4.37145139256159e-05,
-        "invalid.mlir": 2.2158214915976966e-05
+        "calling-convention.mlir": 0.1576990168203629,
+        "convert-argattrs.mlir": 0.08368125136654828,
+        "convert-data-layout.mlir": 0.10933606972312315,
+        "convert-funcs.mlir": 0.13351461541294626,
+        "emit-c-wrappers-for-external-callers.mlir": 0.08781368274925971,
+        "emit-c-wrappers-for-external-functions.mlir": 0.10252641581722005,
+        "func-memref-return.mlir": 0.16518351409293808,
+        "func-memref.mlir": 0.08363401214401588,
+        "func-to-llvm.mlir": 0.14388364297496423,
+        "invalid.mlir": 0.07293240614222471
     },
     "subdirscores": {}
 }

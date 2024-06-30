@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/openmp/libomptarget/include/Utils",
-    "score.sum": 0,
+    "score.sum": 0.0,
     "sha.latest": "b465f94b7c47f4c759fbfb15cde672739dd0b3d3",
     "time.latest": 1717795409.4215472,
     "formatted_time": "2024-06-08 02:53:29.421551",
     "filescores": {
-        "ExponentialBackoff.h": 0
+        "ExponentialBackoff.h": 0.0
     },
     "subdirscores": {}
 }

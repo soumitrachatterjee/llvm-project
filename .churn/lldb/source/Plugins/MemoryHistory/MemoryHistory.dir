@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/lldb/source/Plugins/MemoryHistory",
-    "score.sum": 0.0001126621629466854,
+    "score.sum": 0.005858976019072076,
     "sha.latest": "a1a74f7cdea3db6e1a557eb1466f56b59e2d7fec",
     "time.latest": 1717871543.62716,
     "formatted_time": "2024-06-09 00:02:23.627164",
     "filescores": {
-        "CMakeLists.txt": 0
+        "CMakeLists.txt": 0.0
     },
     "subdirscores": {
-        "asan": 0.0001126621629466854
+        "asan": 0.005858976019072076
     }
 }

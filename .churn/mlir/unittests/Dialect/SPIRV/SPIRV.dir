@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/mlir/unittests/Dialect/SPIRV",
-    "score.sum": 8.775685784762744e-05,
+    "score.sum": 0.004563779996676278,
     "sha.latest": "99822be6f08e42eef38913a128996a93e8292f73",
     "time.latest": 1717836152.4574063,
     "formatted_time": "2024-06-08 03:42:32.457410",
     "filescores": {
-        "CMakeLists.txt": 1.5626468240536824e-05,
-        "DeserializationTest.cpp": 5.8819678957257536e-05,
-        "SerializationTest.cpp": 6.217446720681611e-05
+        "CMakeLists.txt": 0.051433562342860714,
+        "DeserializationTest.cpp": 0.19360136776057774,
+        "SerializationTest.cpp": 0.2046434476422721
     },
     "subdirscores": {}
 }

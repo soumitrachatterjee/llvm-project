@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/llvm/utils/gn/secondary/clang/tools/diagtool",
-    "score.sum": 0,
+    "score.sum": 0.0,
     "sha.latest": "9f20b9a202e1825960f2b756617468ab17ccd0b8",
     "time.latest": 1718084994.1385276,
     "formatted_time": "2024-06-11 00:49:54.138531",
     "filescores": {
-        "BUILD.gn": 0
+        "BUILD.gn": 0.0
     },
     "subdirscores": {}
 }

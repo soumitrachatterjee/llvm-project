@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/llvm/include/llvm/Analysis/Utils",
-    "score.sum": 0.00019469781117952201,
+    "score.sum": 0.010125225513435818,
     "sha.latest": "28bb2193f6d3bb52f6bba9c64e392fe6c8be0f88",
     "time.latest": 1717807900.2812586,
     "formatted_time": "2024-06-07 19:51:40.281262",
     "filescores": {
-        "ImportedFunctionsInliningStatistics.h": 7.222119094266202e-06,
-        "Local.h": 4.933259801347041e-05,
-        "TFUtils.h": 5.428398993071159e-05,
-        "TrainingLogger.h": 4.1743297975244403e-05
+        "ImportedFunctionsInliningStatistics.h": 0.02377116229749842,
+        "Local.h": 0.16237522237295698,
+        "TFUtils.h": 0.17867242535825625,
+        "TrainingLogger.h": 0.13739550650586335
     },
     "subdirscores": {}
 }

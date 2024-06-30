@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/cross-project-tests/debuginfo-tests/dexter/feature_tests/commands/perfect/float_range_watch",
-    "score.sum": 3.004351230053126e-05,
+    "score.sum": 0.0015624075864832162,
     "sha.latest": "45a40c163932d12b72b33bd1d8a84519392b5d39",
     "time.latest": 1717791518.7972164,
     "formatted_time": "2024-06-08 01:48:38.797221",
     "filescores": {
-        "float_range_multiple.cpp": 3.004084757884227e-05,
-        "float_range_no_arg.cpp": 3.004351230053126e-05,
-        "float_range_small.cpp": 3.0038373620227207e-05,
-        "float_range_zero_match.cpp": 3.0038373620227207e-05
+        "float_range_multiple.cpp": 0.09887760836262258,
+        "float_range_no_arg.cpp": 0.09888637913071986,
+        "float_range_small.cpp": 0.09886946547948976,
+        "float_range_zero_match.cpp": 0.09886946547948976
     },
     "subdirscores": {}
 }

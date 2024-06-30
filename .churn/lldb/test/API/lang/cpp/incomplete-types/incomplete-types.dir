@@ -1,19 +1,19 @@
 {
     "directory name": "llvm-project/lldb/test/API/lang/cpp/incomplete-types",
-    "score.sum": 2.7937863039039658e-05,
+    "score.sum": 0.001452903666045489,
     "sha.latest": "80fcecb13c388ff087a27a4b0e7ca3dd8c98eaa4",
     "time.latest": 1717932744.8534238,
     "formatted_time": "2024-06-09 17:02:24.853427",
     "filescores": {
-        "a.cpp": 0,
-        "a.h": 0,
-        "length.cpp": 0,
-        "length.h": 0,
-        "main.cpp": 0,
-        "Makefile": 0,
-        "TestCppIncompleteTypes.py": 1.4193303790514982e-05
+        "a.cpp": 0.0,
+        "a.h": 0.0,
+        "length.cpp": 0.0,
+        "length.h": 0.0,
+        "main.cpp": 0.0,
+        "Makefile": 0.0,
+        "TestCppIncompleteTypes.py": 0.046716389405693066
     },
     "subdirscores": {
-        "members": 1.0124328101454068e-05
+        "members": 0.0005265139067470928
     }
 }

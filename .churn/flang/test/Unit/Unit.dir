@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/flang/test/Unit",
-    "score.sum": 1.842319144496114e-05,
+    "score.sum": 0.0009580948390089189,
     "sha.latest": "f98ee40f4b5d7474fc67e82824bf6abbaedb7b1c",
     "time.latest": 1717812507.7936053,
     "formatted_time": "2024-06-07 21:08:27.793609",
     "filescores": {
-        "lit.cfg.py": 1.1191486109196976e-05,
-        "lit.site.cfg.py.in": 1.4762510430046695e-05
+        "lit.cfg.py": 0.03683609051298131,
+        "lit.site.cfg.py.in": 0.04858989816849709
     },
     "subdirscores": {}
 }

@@ -1,15 +1,15 @@
 {
     "directory name": "llvm-project/mlir/lib/Dialect/Index/IR",
-    "score.sum": 4.985913995141286e-05,
+    "score.sum": 0.002592915826097948,
     "sha.latest": "c17aa14f4ca101db247d124b4b05506247aa330f",
     "time.latest": 1717806503.9725976,
     "formatted_time": "2024-06-07 19:28:23.972601",
     "filescores": {
-        "CMakeLists.txt": 1.815852061984409e-05,
-        "IndexAttrs.cpp": 6.099602068851199e-06,
-        "IndexDialect.cpp": 6.099602068851199e-06,
-        "IndexOps.cpp": 3.731808596970763e-05,
-        "InferIntRangeInterfaceImpls.cpp": 7.989641076499248e-06
+        "CMakeLists.txt": 0.05976765753966604,
+        "IndexAttrs.cpp": 0.02007646631636598,
+        "IndexDialect.cpp": 0.02007646631636598,
+        "IndexOps.cpp": 0.12283019244617585,
+        "InferIntRangeInterfaceImpls.cpp": 0.026297413854474882
     },
     "subdirscores": {}
 }

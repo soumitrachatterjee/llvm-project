@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/lldb/test/API/tools/lldb-server/signal-filtering",
-    "score.sum": 1.5960515852465934e-05,
+    "score.sum": 0.0008300238268625288,
     "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
     "time.latest": 1717970248.1163254,
     "formatted_time": "2024-06-10 03:27:28.116329",
     "filescores": {
-        "main.cpp": 6.099602068851199e-06,
-        "Makefile": 0,
-        "TestGdbRemote_QPassSignals.py": 1.591696572651731e-05
+        "main.cpp": 0.02007646631636598,
+        "Makefile": 0.0,
+        "TestGdbRemote_QPassSignals.py": 0.052389717011057726
     },
     "subdirscores": {}
 }

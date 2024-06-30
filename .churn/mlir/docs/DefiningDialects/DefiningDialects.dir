@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/mlir/docs/DefiningDialects",
-    "score.sum": 2.025230039258248e-05,
+    "score.sum": 0.001053217328938879,
     "sha.latest": "a90a09fa2e05c8841d145605e8d99020592dd809",
     "time.latest": 1717788033.4056795,
     "formatted_time": "2024-06-07 14:20:33.405683",
     "filescores": {
-        "AttributesAndTypes.md": 1.0379789993847008e-05,
-        "Operations.md": 1.3005296353466847e-05,
-        "_index.md": 1.0127871770682132e-05
+        "AttributesAndTypes.md": 0.03416444250463543,
+        "Operations.md": 0.04280613574909981,
+        "_index.md": 0.03333526911516529
     },
     "subdirscores": {}
 }

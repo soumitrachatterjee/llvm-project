@@ -1,16 +1,16 @@
 {
     "directory name": "llvm-project/lldb/test/API/lang/c/forward",
-    "score.sum": 1.6884791925778978e-05,
+    "score.sum": 0.0008780906419041138,
     "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
     "time.latest": 1717925604.621666,
     "formatted_time": "2024-06-09 15:03:24.621670",
     "filescores": {
-        "foo.c": 6.099602068851199e-06,
-        "foo.h": 0,
-        "main.c": 6.099602068851199e-06,
-        "Makefile": 0,
-        "README.txt": 0,
-        "TestForwardDeclaration.py": 1.6845125048047264e-05
+        "foo.c": 0.02007646631636598,
+        "foo.h": 0.0,
+        "main.c": 0.02007646631636598,
+        "Makefile": 0.0,
+        "README.txt": 0.0,
+        "TestForwardDeclaration.py": 0.05544469652358628
     },
     "subdirscores": {}
 }

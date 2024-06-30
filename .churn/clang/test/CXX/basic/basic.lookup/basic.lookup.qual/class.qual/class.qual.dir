@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/clang/test/CXX/basic/basic.lookup/basic.lookup.qual/class.qual",
-    "score.sum": 3.793863593893e-05,
+    "score.sum": 0.001972992106211259,
     "sha.latest": "4848f3bf2ff5ec57a8e2b8d3676c947dcf0fd735",
     "time.latest": 1718082352.5156624,
     "formatted_time": "2024-06-11 10:35:52.515665",
     "filescores": {
-        "p2.cpp": 3.793863593893e-05
+        "p2.cpp": 0.12487269463141452
     },
     "subdirscores": {}
 }

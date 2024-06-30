@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/mlir/lib/Conversion/UBToSPIRV",
-    "score.sum": 0,
+    "score.sum": 0.0,
     "sha.latest": "8568921d43b1dc6e273e89397d273aeba375a513",
     "time.latest": 1717804188.9794405,
     "formatted_time": "2024-06-07 18:49:48.979444",
     "filescores": {
-        "CMakeLists.txt": 0,
-        "UBToSPIRV.cpp": 0
+        "CMakeLists.txt": 0.0,
+        "UBToSPIRV.cpp": 0.0
     },
     "subdirscores": {}
 }

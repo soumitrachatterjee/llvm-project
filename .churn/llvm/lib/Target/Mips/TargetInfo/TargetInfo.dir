@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/llvm/lib/Target/Mips/TargetInfo",
-    "score.sum": 9.47676167070234e-05,
+    "score.sum": 0.004928373281221474,
     "sha.latest": "b3a6d096d7c369f5290172c126bd699716bb383c",
     "time.latest": 1717861777.9726064,
     "formatted_time": "2024-06-08 10:49:37.972610",
     "filescores": {
-        "CMakeLists.txt": 2.4496702701763237e-05,
-        "MipsTargetInfo.cpp": 6.078073555294718e-05,
-        "MipsTargetInfo.h": 0
+        "CMakeLists.txt": 0.08062939534457339,
+        "MipsTargetInfo.cpp": 0.20005606533649117,
+        "MipsTargetInfo.h": 0.0
     },
     "subdirscores": {}
 }

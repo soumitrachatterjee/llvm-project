@@ -1,22 +1,22 @@
 {
     "directory name": "llvm-project/clang-tools-extra/clang-tidy/altera",
-    "score.sum": 0.00012310733268747703,
+    "score.sum": 0.006402175238985826,
     "sha.latest": "da95d926f6fce4ed9707c77908ad96624268f134",
     "time.latest": 1717791138.7147439,
     "formatted_time": "2024-06-08 01:42:18.714747",
     "filescores": {
-        "AlteraTidyModule.cpp": 1.1135902852515441e-05,
-        "CMakeLists.txt": 1.01774528913747e-05,
-        "IdDependentBackwardBranchCheck.cpp": 1.7237492805593673e-05,
-        "IdDependentBackwardBranchCheck.h": 1.0049607064183546e-05,
-        "KernelNameRestrictionCheck.cpp": 3.707272767396537e-05,
-        "KernelNameRestrictionCheck.h": 1.059227469517694e-05,
-        "SingleWorkItemBarrierCheck.cpp": 1.1575833381351149e-05,
-        "SingleWorkItemBarrierCheck.h": 1.6376569178556734e-05,
-        "StructPackAlignCheck.cpp": 4.6288489053915896e-05,
-        "StructPackAlignCheck.h": 1.462650403148654e-05,
-        "UnrollLoopsCheck.cpp": 4.30420984153298e-05,
-        "UnrollLoopsCheck.h": 1.3819027916857585e-05
+        "AlteraTidyModule.cpp": 0.03665314163075514,
+        "CMakeLists.txt": 0.03349846233470256,
+        "IdDependentBackwardBranchCheck.cpp": 0.05673615094620112,
+        "IdDependentBackwardBranchCheck.h": 0.03307766563119325,
+        "KernelNameRestrictionCheck.cpp": 0.12202261065570696,
+        "KernelNameRestrictionCheck.h": 0.0348638228741809,
+        "SingleWorkItemBarrierCheck.cpp": 0.038101145999567126,
+        "SingleWorkItemBarrierCheck.h": 0.053902473600684384,
+        "StructPackAlignCheck.cpp": 0.1523557243302995,
+        "StructPackAlignCheck.h": 0.04814224144455321,
+        "UnrollLoopsCheck.cpp": 0.14167042854056697,
+        "UnrollLoopsCheck.h": 0.04548448330990305
     },
     "subdirscores": {}
 }

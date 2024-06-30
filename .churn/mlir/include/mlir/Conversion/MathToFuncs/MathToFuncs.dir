@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/mlir/include/mlir/Conversion/MathToFuncs",
-    "score.sum": 6.917809369236685e-06,
+    "score.sum": 0.00035975946261612506,
     "sha.latest": "22702cc76c4d6fcd3ee0e37ca826c539af146494",
     "time.latest": 1717791828.7326243,
     "formatted_time": "2024-06-07 15:23:48.732628",
     "filescores": {
-        "MathToFuncs.h": 6.917809369236685e-06
+        "MathToFuncs.h": 0.022769545491133813
     },
     "subdirscores": {}
 }

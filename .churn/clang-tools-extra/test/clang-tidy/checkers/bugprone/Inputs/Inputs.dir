@@ -1,16 +1,16 @@
 {
     "directory name": "llvm-project/clang-tools-extra/test/clang-tidy/checkers/bugprone/Inputs",
-    "score.sum": 1.6984692527751455e-05,
+    "score.sum": 0.0008832859551835561,
     "sha.latest": "14bc11a651971bbbdf96565898be2c94fa2b1cf5",
     "time.latest": 1717820607.8984811,
     "formatted_time": "2024-06-08 09:53:27.898486",
     "filescores": {},
     "subdirscores": {
-        "argument-comment": 0,
-        "assert-side-effect": 0,
-        "not-null-terminated-result": 0,
-        "reserved-identifier": 0,
-        "signal-handler": 6.687875970099297e-06,
-        "unchecked-optional-access": 1.1090060886819275e-05
+        "argument-comment": 0.0,
+        "assert-side-effect": 0.0,
+        "not-null-terminated-result": 0.0,
+        "reserved-identifier": 0.0,
+        "signal-handler": 0.00034780181653252195,
+        "unchecked-optional-access": 0.0005767366708259615
     }
 }

@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/llvm/utils/gn/secondary/clang-tools-extra/clang-tidy/bugprone",
-    "score.sum": 0.00015619938597407766,
+    "score.sum": 0.008123121664626526,
     "sha.latest": "97e9780e4cca0dd2e47ac6ba8462fa965b32da76",
     "time.latest": 1718081650.47923,
     "formatted_time": "2024-06-10 23:54:10.479233",
     "filescores": {
-        "BUILD.gn": 0.00015619938597407766
+        "BUILD.gn": 0.5141207042275532
     },
     "subdirscores": {}
 }

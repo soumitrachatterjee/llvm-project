@@ -1,18 +1,18 @@
 {
     "directory name": "llvm-project/cross-project-tests/debuginfo-tests/dexter/feature_tests/commands/perfect/dex_finish_test",
-    "score.sum": 4.552935835773331e-05,
+    "score.sum": 0.002367746293917095,
     "sha.latest": "e6cc7b723f244f52663b6d67a5d94597109da1ef",
     "time.latest": 1717791242.6744199,
     "formatted_time": "2024-06-08 01:44:02.674425",
     "filescores": {
-        "default_conditional.cpp": 4.283440743539822e-05,
-        "default_conditional_hit_count.cpp": 4.283440743539822e-05,
-        "default_hit_count.cpp": 4.283440743539822e-05,
-        "default_simple.cpp": 4.283440743539822e-05,
-        "limit_steps_conditional.cpp": 4.283440743539822e-05,
-        "limit_steps_conditional_hit_count.cpp": 4.283440743539822e-05,
-        "limit_steps_hit_count.cpp": 4.283440743539822e-05,
-        "limit_steps_simple.cpp": 3.377607007568079e-05
+        "default_conditional.cpp": 0.14098682641115878,
+        "default_conditional_hit_count.cpp": 0.14098682641115878,
+        "default_hit_count.cpp": 0.14098682641115878,
+        "default_simple.cpp": 0.14098682641115878,
+        "limit_steps_conditional.cpp": 0.14098682641115878,
+        "limit_steps_conditional_hit_count.cpp": 0.14098682641115878,
+        "limit_steps_hit_count.cpp": 0.14098682641115878,
+        "limit_steps_simple.cpp": 0.11117186424938973
     },
     "subdirscores": {}
 }

@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/llvm/utils/gn/secondary/clang/tools/clang-scan-deps",
-    "score.sum": 3.2117793985020036e-05,
+    "score.sum": 0.0016702802415819059,
     "sha.latest": "b9e1e6af3961ced305ea6005b216b7fd0778ccf5",
     "time.latest": 1718084963.2343917,
     "formatted_time": "2024-06-11 00:49:23.234395",
     "filescores": {
-        "BUILD.gn": 3.2117793985020036e-05
+        "BUILD.gn": 0.10571375014594693
     },
     "subdirscores": {}
 }

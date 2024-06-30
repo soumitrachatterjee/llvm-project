@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/mlir/test/python/ir/custom_dialect",
-    "score.sum": 0,
+    "score.sum": 0.0,
     "sha.latest": "5192e299cf444040025ccf3e75bfad36b4624050",
     "time.latest": 1717834695.340249,
     "formatted_time": "2024-06-08 03:18:15.340252",
     "filescores": {
-        "__init__.py": 0,
-        "custom.py": 0,
-        "lit.local.cfg": 0
+        "__init__.py": 0.0,
+        "custom.py": 0.0,
+        "lit.local.cfg": 0.0
     },
     "subdirscores": {}
 }

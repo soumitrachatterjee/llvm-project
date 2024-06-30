@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/lldb/test/API/commands/expression/import-std-module/list-dbg-info-content",
-    "score.sum": 4.346221271180716e-05,
+    "score.sum": 0.0022602447472519385,
     "sha.latest": "5ce7831b402334a13b00c1441655a51fbec7456a",
     "time.latest": 1717891180.7678223,
     "formatted_time": "2024-06-09 05:29:40.767824",
     "filescores": {
-        "main.cpp": 0,
-        "Makefile": 6.099602068851199e-06,
-        "TestDbgInfoContentListFromStdModule.py": 3.851287214747414e-05
+        "main.cpp": 0.0,
+        "Makefile": 0.02007646631636598,
+        "TestDbgInfoContentListFromStdModule.py": 0.12676275791232056
     },
     "subdirscores": {}
 }

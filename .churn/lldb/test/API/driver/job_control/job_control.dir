@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/lldb/test/API/driver/job_control",
-    "score.sum": 1.1155638386439644e-05,
+    "score.sum": 0.0005801470171890814,
     "sha.latest": "80fcecb13c388ff087a27a4b0e7ca3dd8c98eaa4",
     "time.latest": 1717901289.0805123,
     "formatted_time": "2024-06-09 08:18:09.080514",
     "filescores": {
-        "shell.py": 0,
-        "TestJobControl.py": 1.1155638386439644e-05
+        "shell.py": 0.0,
+        "TestJobControl.py": 0.03671809993091838
     },
     "subdirscores": {}
 }

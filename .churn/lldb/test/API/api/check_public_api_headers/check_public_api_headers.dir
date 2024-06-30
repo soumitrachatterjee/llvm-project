@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/lldb/test/API/api/check_public_api_headers",
-    "score.sum": 2.740486428563246e-05,
+    "score.sum": 0.00142518515938158,
     "sha.latest": "0da0966da4b813386a85cf70ae0d0efc7cb2eaea",
     "time.latest": 1717885018.4801946,
     "formatted_time": "2024-06-09 03:46:58.480196",
     "filescores": {
-        "main.cpp.template": 6.099602068851199e-06,
-        "Makefile": 0,
-        "TestPublicAPIHeaders.py": 2.7369242306057927e-05
+        "main.cpp.template": 0.02007646631636598,
+        "Makefile": 0.0,
+        "TestPublicAPIHeaders.py": 0.09008418337124728
     },
     "subdirscores": {}
 }

@@ -1,15 +1,15 @@
 {
     "directory name": "llvm-project/libcxx/test/std/iterators/predef.iterators/insert.iterators/back.insert.iter.ops",
-    "score.sum": 4.887161104294462e-05,
+    "score.sum": 0.0025415595584609256,
     "sha.latest": "70248920fcd804a5825ecf69f24b96a7e340afe6",
     "time.latest": 1717916841.8115149,
     "formatted_time": "2024-06-09 12:37:21.811517",
     "filescores": {},
     "subdirscores": {
-        "back.insert.iter.cons": 4.547238826567313e-05,
-        "back.insert.iter.op++": 2.2972402292540324e-05,
-        "back.insert.iter.op=": 2.4669283514083653e-05,
-        "back.insert.iter.op_astrk": 2.2972402292540324e-05,
-        "back.inserter": 2.2511825093137214e-05
+        "back.insert.iter.cons": 0.0023647835742740962,
+        "back.insert.iter.op++": 0.0011946757510430878,
+        "back.insert.iter.op=": 0.0012829217612758302,
+        "back.insert.iter.op_astrk": 0.0011946757510430878,
+        "back.inserter": 0.0011707235145898324
     }
 }

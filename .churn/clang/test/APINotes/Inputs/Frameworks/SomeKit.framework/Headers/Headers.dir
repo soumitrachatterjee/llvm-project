@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/clang/test/APINotes/Inputs/Frameworks/SomeKit.framework/Headers",
-    "score.sum": 0,
+    "score.sum": 0.0,
     "sha.latest": "85d506400081e121ef876a4c66fb337b050dcae6",
     "time.latest": 1717843466.8675725,
     "formatted_time": "2024-06-08 16:14:26.867576",
     "filescores": {
-        "SomeKit.apinotes": 0,
-        "SomeKit.h": 0,
-        "SomeKitExplicitNullability.h": 0,
-        "SomeKit_private.apinotes": 0
+        "SomeKit.apinotes": 0.0,
+        "SomeKit.h": 0.0,
+        "SomeKitExplicitNullability.h": 0.0,
+        "SomeKit_private.apinotes": 0.0
     },
     "subdirscores": {}
 }

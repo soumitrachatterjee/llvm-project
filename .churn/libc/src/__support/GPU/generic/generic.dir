@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/libc/src/__support/GPU/generic",
-    "score.sum": 3.4877054524346624e-05,
+    "score.sum": 0.0018137751018566615,
     "sha.latest": "330793c91d08e6ac60334e4813746db898b9407e",
     "time.latest": 1717828842.201468,
     "formatted_time": "2024-06-08 01:40:42.201471",
     "filescores": {
-        "CMakeLists.txt": 0,
-        "utils.h": 3.4877054524346624e-05
+        "CMakeLists.txt": 0.0,
+        "utils.h": 0.11479568707405563
     },
     "subdirscores": {}
 }

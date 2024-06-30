@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/libcxx/test/std/language.support/support.general",
-    "score.sum": 1.2132863580760565e-05,
+    "score.sum": 0.0006309674419795125,
     "sha.latest": "2df59c50688c122bbcae7467d3eaf862c3ea3088",
     "time.latest": 1717923192.9023676,
     "formatted_time": "2024-06-09 14:23:12.902370",
     "filescores": {
-        "nothing_to_do.pass.cpp": 1.2132863580760565e-05
+        "nothing_to_do.pass.cpp": 0.039934576756099745
     },
     "subdirscores": {}
 }

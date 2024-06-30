@@ -1,19 +1,19 @@
 {
     "directory name": "llvm-project/libcxx/test/std/numerics/numarray/template.valarray",
-    "score.sum": 5.804504847071277e-05,
+    "score.sum": 0.003018622562543194,
     "sha.latest": "5ca2777c69f8708d583e230c56ac7f5f6376fb40",
     "time.latest": 1717950660.3256643,
     "formatted_time": "2024-06-09 22:01:00.325667",
     "filescores": {
-        "types.pass.cpp": 1.7366275644238228e-05
+        "types.pass.cpp": 0.057160031765472394
     },
     "subdirscores": {
-        "valarray.access": 2.0079139427232928e-05,
-        "valarray.assign": 3.27314737573995e-05,
-        "valarray.cassign": 1.5850809152903916e-05,
-        "valarray.cons": 3.3117100325157695e-05,
-        "valarray.members": 2.642885573065281e-05,
-        "valarray.sub": 2.324259481786913e-05,
-        "valarray.unary": 2.566185653651783e-05
+        "valarray.access": 0.001044212123314498,
+        "valarray.assign": 0.0017021945504831326,
+        "valarray.cassign": 0.0008243185491982824,
+        "valarray.cons": 0.0017222489924867143,
+        "valarray.members": 0.0013744280057066496,
+        "valarray.sub": 0.001208727065921386,
+        "valarray.unary": 0.0013345403471747338
     }
 }

@@ -1,18 +1,18 @@
 {
     "directory name": "llvm-project/openmp/libomptarget/plugins-nextgen/common/include",
-    "score.sum": 4.897837007788215e-05,
+    "score.sum": 0.0025471115433435003,
     "sha.latest": "fb7cc73975f3ac262f2c80af2f399caead005259",
     "time.latest": 1717795739.8583236,
     "formatted_time": "2024-06-08 02:58:59.858329",
     "filescores": {
-        "DLWrap.h": 0,
-        "GlobalHandler.h": 1.5722113033376952e-05,
-        "JIT.h": 1.0604063976174848e-05,
-        "MemoryManager.h": 6.099602068851199e-06,
-        "PluginInterface.h": 3.500464379396712e-05,
-        "RPC.h": 6.099602068851199e-06
+        "DLWrap.h": 0.0,
+        "GlobalHandler.h": 0.05174837131566183,
+        "JIT.h": 0.03490262656992645,
+        "MemoryManager.h": 0.02007646631636598,
+        "PluginInterface.h": 0.11521563933404759,
+        "RPC.h": 0.02007646631636598
     },
     "subdirscores": {
-        "Utils": 0
+        "Utils": 0.0
     }
 }

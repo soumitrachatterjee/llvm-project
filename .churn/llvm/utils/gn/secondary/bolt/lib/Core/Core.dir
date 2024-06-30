@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/llvm/utils/gn/secondary/bolt/lib/Core",
-    "score.sum": 1.5269339277035894e-05,
+    "score.sum": 0.0007940793103143658,
     "sha.latest": "b1916599befa8575c43349ef0819389b8b5c3ab4",
     "time.latest": 1718080686.2455754,
     "formatted_time": "2024-06-10 23:38:06.245579",
     "filescores": {
-        "BUILD.gn": 1.5269339277035894e-05
+        "BUILD.gn": 0.05025809425077984
     },
     "subdirscores": {}
 }

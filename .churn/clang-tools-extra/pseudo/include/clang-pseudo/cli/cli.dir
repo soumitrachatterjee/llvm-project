@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/clang-tools-extra/pseudo/include/clang-pseudo/cli",
-    "score.sum": 0,
+    "score.sum": 0.0,
     "sha.latest": "fe66aebd755191fac66a73b50d94c29f60be9a88",
     "time.latest": 1717814441.1498723,
     "formatted_time": "2024-06-08 08:10:41.149875",
     "filescores": {
-        "CLI.h": 0
+        "CLI.h": 0.0
     },
     "subdirscores": {}
 }

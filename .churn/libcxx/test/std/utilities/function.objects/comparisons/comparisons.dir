@@ -1,21 +1,21 @@
 {
     "directory name": "llvm-project/libcxx/test/std/utilities/function.objects/comparisons",
-    "score.sum": 6.149624032834114e-05,
+    "score.sum": 0.0031981011896367486,
     "sha.latest": "d2baefae6846765eef6a6dd69d4fdf1082ce29ad",
     "time.latest": 1717995844.9799418,
     "formatted_time": "2024-06-10 10:34:04.979943",
     "filescores": {
-        "compare_three_way.pass.cpp": 6.099602068851199e-06,
-        "compare_three_way_functional.pass.cpp": 6.099602068851199e-06,
-        "constexpr_init.pass.cpp": 1.3966896893328133e-05,
-        "equal_to.pass.cpp": 1.5232100972291242e-05,
-        "greater.pass.cpp": 2.5584160910974538e-05,
-        "greater_equal.pass.cpp": 2.5584160910974538e-05,
-        "less.pass.cpp": 2.558417765369058e-05,
-        "less_equal.pass.cpp": 2.5584160910974538e-05,
-        "not_equal_to.pass.cpp": 1.5232100972291242e-05,
-        "transparent.pass.cpp": 2.7772828878665663e-05,
-        "transparent_three_way.compile.pass.cpp": 6.099602068851199e-06
+        "compare_three_way.pass.cpp": 0.02007646631636598,
+        "compare_three_way_functional.pass.cpp": 0.02007646631636598,
+        "constexpr_init.pass.cpp": 0.045971184981886966,
+        "equal_to.pass.cpp": 0.05013552665334549,
+        "greater.pass.cpp": 0.0842086973812058,
+        "greater_equal.pass.cpp": 0.0842086973812058,
+        "less.pass.cpp": 0.08420875248882936,
+        "less_equal.pass.cpp": 0.0842086973812058,
+        "not_equal_to.pass.cpp": 0.05013552665334549,
+        "transparent.pass.cpp": 0.09141256383594583,
+        "transparent_three_way.compile.pass.cpp": 0.02007646631636598
     },
     "subdirscores": {}
 }

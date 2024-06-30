@@ -1,17 +1,17 @@
 {
     "directory name": "llvm-project/mlir/unittests/TableGen",
-    "score.sum": 0.00020803493943125407,
+    "score.sum": 0.010818820528358135,
     "sha.latest": "7557530f428a2f226d8d925c33d527dfcfdcb0c5",
     "time.latest": 1717836615.3820906,
     "formatted_time": "2024-06-08 03:50:15.382094",
     "filescores": {
-        "CMakeLists.txt": 3.848373611133135e-05,
-        "EnumsGenTest.cpp": 6.425738021724283e-05,
-        "FormatTest.cpp": 1.173750818303917e-05,
-        "OpBuildGen.cpp": 3.052560305866516e-05,
-        "PassGenTest.cpp": 2.8795274978670992e-05,
-        "enums.td": 4.3756557359938495e-05,
-        "passes.td": 1.2195308285970771e-05
+        "CMakeLists.txt": 0.1266668584353366,
+        "EnumsGenTest.cpp": 0.2114992281377411,
+        "FormatTest.cpp": 0.03863328869898523,
+        "OpBuildGen.cpp": 0.10047315130993013,
+        "PassGenTest.cpp": 0.09477788250023746,
+        "enums.td": 0.14402202636185965,
+        "passes.td": 0.04014010967556513
     },
     "subdirscores": {}
 }

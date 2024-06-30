@@ -1,20 +1,20 @@
 {
     "directory name": "llvm-project/clang/test/CXX/temp/temp.fct.spec/temp.deduct",
-    "score.sum": 0.00015513491476777896,
+    "score.sum": 0.00806776402628926,
     "sha.latest": "f8c5a68365fb82d9ffc64511f4b50b9c1e68144f",
     "time.latest": 1718115431.117645,
     "formatted_time": "2024-06-11 19:47:11.117646",
     "filescores": {
-        "cwg1170.cpp": 7.894558222550677e-06,
-        "p7.cpp": 6.099602068851199e-06,
-        "p9.cpp": 1.1576702601881483e-05,
-        "sfinae-1.cpp": 9.099231376220553e-06
+        "cwg1170.cpp": 0.025984454469089608,
+        "p7.cpp": 0.02007646631636598,
+        "p9.cpp": 0.038104006985661264,
+        "sfinae-1.cpp": 0.029949562310368633
     },
     "subdirscores": {
-        "temp.deduct.call": 8.662504431243003e-05,
-        "temp.deduct.conv": 2.4023517700422038e-05,
-        "temp.deduct.funcaddr": 6.824194874783686e-06,
-        "temp.deduct.partial": 1.2160204154734319e-05,
-        "temp.deduct.type": 3.603151495152531e-05
+        "temp.deduct.call": 0.004504920232338886,
+        "temp.deduct.conv": 0.0012493388234267636,
+        "temp.deduct.funcaddr": 0.0003548910572554253,
+        "temp.deduct.partial": 0.0006323892837325037,
+        "temp.deduct.type": 0.0018738126138384658
     }
 }

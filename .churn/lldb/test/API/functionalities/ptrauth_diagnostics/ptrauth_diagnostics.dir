@@ -1,15 +1,15 @@
 {
     "directory name": "llvm-project/lldb/test/API/functionalities/ptrauth_diagnostics",
-    "score.sum": 6.099602068851199e-06,
+    "score.sum": 0.00031720873550238375,
     "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
     "time.latest": 1717919323.9761271,
     "formatted_time": "2024-06-09 13:18:43.976129",
     "filescores": {},
     "subdirscores": {
-        "BLRAA_error": 6.099602068851199e-06,
-        "BRAA_error": 6.099602068851199e-06,
-        "brkC47x_code": 6.099602068851199e-06,
-        "brkC47x_x16_invalid": 6.099602068851199e-06,
-        "LDRAA_error": 6.099602068851199e-06
+        "BLRAA_error": 0.00031720873550238375,
+        "BRAA_error": 0.00031720873550238375,
+        "brkC47x_code": 0.00031720873550238375,
+        "brkC47x_x16_invalid": 0.00031720873550238375,
+        "LDRAA_error": 0.00031720873550238375
     }
 }

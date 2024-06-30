@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/clang-tools-extra/clangd/benchmarks",
-    "score.sum": 5.40220834915608e-05,
+    "score.sum": 0.002809408974574247,
     "sha.latest": "c9b325088d14a816b101857eecd1042335aad4e0",
     "time.latest": 1717801108.9080803,
     "formatted_time": "2024-06-08 04:28:28.908083",
     "filescores": {
-        "CMakeLists.txt": 1.7135403536324782e-05,
-        "IndexBenchmark.cpp": 3.0211200321051897e-05
+        "CMakeLists.txt": 0.056400130374268095,
+        "IndexBenchmark.cpp": 0.09943831397132737
     },
     "subdirscores": {
-        "CompletionModel": 1.1344935911895188e-05
+        "CompletionModel": 0.0005899914017908448
     }
 }

@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/clang/lib/StaticAnalyzer/Checkers/cert",
-    "score.sum": 5.809156031027338e-05,
+    "score.sum": 0.0030210414025997044,
     "sha.latest": "f7a46d700f6458a382304339c5b3589bf30ae45d",
     "time.latest": 1717819350.234856,
     "formatted_time": "2024-06-08 09:32:30.234859",
     "filescores": {
-        "InvalidPtrChecker.cpp": 3.565813320214997e-05,
-        "PutenvWithAutoChecker.cpp": 5.038098323551384e-05
+        "InvalidPtrChecker.cpp": 0.11736655966350378,
+        "PutenvWithAutoChecker.cpp": 0.16582591806742136
     },
     "subdirscores": {}
 }

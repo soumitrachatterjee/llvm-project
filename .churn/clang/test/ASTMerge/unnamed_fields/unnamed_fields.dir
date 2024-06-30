@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/clang/test/ASTMerge/unnamed_fields",
-    "score.sum": 1.0503112625540436e-05,
+    "score.sum": 0.0005462125294698598,
     "sha.latest": "0333dd95636da52229ca14b4e5525c1cd8ba62d2",
     "time.latest": 1717866424.0483658,
     "formatted_time": "2024-06-08 22:37:04.048368",
     "filescores": {
-        "test.cpp": 1.0503112625540436e-05
+        "test.cpp": 0.034570351387426694
     },
     "subdirscores": {
-        "Inputs": 1.0503112625540436e-05
+        "Inputs": 0.0005462125294698598
     }
 }

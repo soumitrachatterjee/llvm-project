@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/clang/test/ASTMerge/init-ctors/Inputs",
-    "score.sum": 1.1677920706871453e-05,
+    "score.sum": 0.0006073082176361504,
     "sha.latest": "0333dd95636da52229ca14b4e5525c1cd8ba62d2",
     "time.latest": 1717865720.9039307,
     "formatted_time": "2024-06-08 22:25:20.903933",
     "filescores": {
-        "init-ctors-classes.cpp": 1.1677920706871453e-05
+        "init-ctors-classes.cpp": 0.038437160173770836
     },
     "subdirscores": {}
 }

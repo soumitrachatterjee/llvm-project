@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/clang/test/CXX/dcl.dcl/dcl.spec/dcl.stc",
-    "score.sum": 2.0490492346453942e-05,
+    "score.sum": 0.0010656044597125817,
     "sha.latest": "83ea47acd7116bf50274534ba9b3bd3035c01da6",
     "time.latest": 1718085842.2159448,
     "formatted_time": "2024-06-11 11:34:02.215948",
     "filescores": {
-        "p1.cpp": 1.2185171519812414e-05,
-        "p10.cpp": 7.208016295255218e-06,
-        "p2.cpp": 1.1770790606232814e-05,
-        "p9.cpp": 1.4367977924442784e-05
+        "p1.cpp": 0.04010674513111814,
+        "p10.cpp": 0.02372474379902679,
+        "p2.cpp": 0.03874283575478195,
+        "p9.cpp": 0.04729131861034565
     },
     "subdirscores": {}
 }

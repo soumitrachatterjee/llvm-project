@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/mlir/lib/Conversion/MathToFuncs",
-    "score.sum": 2.7505501463936786e-05,
+    "score.sum": 0.0014304187781839382,
     "sha.latest": "5550c821897ab77e664977121a0e90ad5be1ff59",
     "time.latest": 1717803313.518798,
     "formatted_time": "2024-06-07 18:35:13.518802",
     "filescores": {
-        "CMakeLists.txt": 7.024504609326317e-06,
-        "MathToFuncs.cpp": 2.7505501463936786e-05
+        "CMakeLists.txt": 0.02312072633368663,
+        "MathToFuncs.cpp": 0.09053267203699504
     },
     "subdirscores": {}
 }

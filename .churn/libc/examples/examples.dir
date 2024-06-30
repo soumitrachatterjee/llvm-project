@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/libc/examples",
-    "score.sum": 5.371388388757438e-05,
+    "score.sum": 0.00279338110823816,
     "sha.latest": "cbaa3597aaf6273e66b3f445ed36a6458143fe6a",
     "time.latest": 1717825713.4056404,
     "formatted_time": "2024-06-08 00:48:33.405641",
     "filescores": {
-        "README.md": 1.828055215354218e-05,
-        "examples.cmake": 0
+        "README.md": 0.060169316852547346,
+        "examples.cmake": 0.0
     },
     "subdirscores": {
-        "hello_world": 5.34471673375407e-05
+        "hello_world": 0.002779510560845275
     }
 }

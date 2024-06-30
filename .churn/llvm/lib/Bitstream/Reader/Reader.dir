@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/llvm/lib/Bitstream/Reader",
-    "score.sum": 5.899120049008787e-05,
+    "score.sum": 0.0030678270323219133,
     "sha.latest": "49e75ebd854dee1fcf5729c264f4cfadf76e952d",
     "time.latest": 1717828674.63253,
     "formatted_time": "2024-06-08 01:37:54.632533",
     "filescores": {
-        "BitstreamReader.cpp": 5.587920044056181e-05,
-        "CMakeLists.txt": 7.823049820207002e-06
+        "BitstreamReader.cpp": 0.1839229629682536,
+        "CMakeLists.txt": 0.02574908894609569
     },
     "subdirscores": {}
 }

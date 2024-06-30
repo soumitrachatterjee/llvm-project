@@ -1,18 +1,18 @@
 {
     "directory name": "llvm-project/libcxx/test/std/input.output/filesystems/class.directory_entry/directory_entry.obs",
-    "score.sum": 0.00011415413043728359,
+    "score.sum": 0.005936565526676208,
     "sha.latest": "ac8c9f1e39e1a773fd81ce23dbf1c80ea186f226",
     "time.latest": 1717902547.589104,
     "formatted_time": "2024-06-09 08:39:07.589106",
     "filescores": {
-        "comparisons.pass.cpp": 3.221418281084949e-05,
-        "file_size.pass.cpp": 8.22551964710983e-05,
-        "file_type_obs.pass.cpp": 4.6618356382649696e-05,
-        "hard_link_count.pass.cpp": 7.710527306663898e-05,
-        "last_write_time.pass.cpp": 7.492432147686106e-05,
-        "path.pass.cpp": 1.3029338785922874e-05,
-        "status.pass.cpp": 3.1538131481858585e-05,
-        "symlink_status.pass.cpp": 3.1538131481858585e-05
+        "comparisons.pass.cpp": 0.1060310080577247,
+        "file_size.pass.cpp": 0.2707379371076079,
+        "file_type_obs.pass.cpp": 0.1534414624226274,
+        "hard_link_count.pass.cpp": 0.2537872799017083,
+        "last_write_time.pass.cpp": 0.24660881143187124,
+        "path.pass.cpp": 0.04288526994177638,
+        "status.pass.cpp": 0.10380582654892889,
+        "symlink_status.pass.cpp": 0.10380582654892889
     },
     "subdirscores": {}
 }

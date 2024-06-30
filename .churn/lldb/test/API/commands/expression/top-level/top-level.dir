@@ -1,15 +1,15 @@
 {
     "directory name": "llvm-project/lldb/test/API/commands/expression/top-level",
-    "score.sum": 1.9669006300971854e-05,
+    "score.sum": 0.0010228832220353008,
     "sha.latest": "2238dcc39358353cac21df75c3c3286ab20b8f53",
     "time.latest": 1717894182.1372352,
     "formatted_time": "2024-06-09 06:19:42.137237",
     "filescores": {
-        "dummy.cpp": 0,
-        "main.cpp": 0,
-        "Makefile": 0,
-        "test.cpp": 0,
-        "TestTopLevelExprs.py": 1.9669006300971854e-05
+        "dummy.cpp": 0.0,
+        "main.cpp": 0.0,
+        "Makefile": 0.0,
+        "test.cpp": 0.0,
+        "TestTopLevelExprs.py": 0.0647393285693839
     },
     "subdirscores": {}
 }

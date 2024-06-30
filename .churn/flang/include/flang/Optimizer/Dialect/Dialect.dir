@@ -1,27 +1,27 @@
 {
     "directory name": "llvm-project/flang/include/flang/Optimizer/Dialect",
-    "score.sum": 0.00103996507350679,
+    "score.sum": 0.05408320120067493,
     "sha.latest": "b3189b13b274a3411f939574aa573a7656bf372b",
     "time.latest": 1717789853.4638345,
     "formatted_time": "2024-06-07 14:50:53.463836",
     "filescores": {
-        "CMakeLists.txt": 2.8233250184007577e-05,
-        "CanonicalizationPatterns.td": 1.59402686805873e-05,
-        "FIRAttr.h": 2.743311429373205e-05,
-        "FIRAttr.td": 4.350097944772952e-05,
-        "FIRDialect.h": 6.423264606495112e-05,
-        "FIRDialect.td": 3.795090256569541e-05,
-        "FIROps.h": 6.164809611875696e-05,
-        "FIROps.td": 0.0005091010865933175,
-        "FIROpsSupport.h": 9.00440574563022e-05,
-        "FIRType.h": 0.0002547754895369178,
-        "FIRTypes.td": 9.172851331599869e-05,
-        "FirAliasTagOpInterface.h": 0,
-        "FirAliasTagOpInterface.td": 0,
-        "FortranVariableInterface.h": 6.099602068851199e-06,
-        "FortranVariableInterface.td": 1.9975264117861057e-05
+        "CMakeLists.txt": 0.09292801233958489,
+        "CanonicalizationPatterns.td": 0.05246641725595518,
+        "FIRAttr.h": 0.09029441410345312,
+        "FIRAttr.td": 0.1431808073302324,
+        "FIRDialect.h": 0.21141781719162642,
+        "FIRDialect.td": 0.12491306948149347,
+        "FIROps.h": 0.20291092947140743,
+        "FIROps.td": 1.6756750196560075,
+        "FIROpsSupport.h": 0.29637449559899726,
+        "FIRType.h": 0.8385779065890674,
+        "FIRTypes.td": 0.3019187788074543,
+        "FirAliasTagOpInterface.h": 0.0,
+        "FirAliasTagOpInterface.td": 0.0,
+        "FortranVariableInterface.h": 0.02007646631636598,
+        "FortranVariableInterface.td": 0.0657473574006906
     },
     "subdirscores": {
-        "Support": 8.653411249430247e-06
+        "Support": 0.0004500191339089853
     }
 }

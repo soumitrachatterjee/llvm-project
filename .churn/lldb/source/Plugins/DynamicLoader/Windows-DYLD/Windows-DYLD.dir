@@ -1,13 +1,13 @@
 {
     "directory name": "llvm-project/lldb/source/Plugins/DynamicLoader/Windows-DYLD",
-    "score.sum": 0.00010712508223626813,
+    "score.sum": 0.005571021108128696,
     "sha.latest": "62c7f035b4392c1933550eead6ddab35122720bc",
     "time.latest": 1717868717.7232292,
     "formatted_time": "2024-06-08 23:15:17.723232",
     "filescores": {
-        "CMakeLists.txt": 7.511014746540999e-06,
-        "DynamicLoaderWindowsDYLD.cpp": 9.266475336786471e-05,
-        "DynamicLoaderWindowsDYLD.h": 3.959406673381441e-05
+        "CMakeLists.txt": 0.02472204462824232,
+        "DynamicLoaderWindowsDYLD.cpp": 0.30500035554855165,
+        "DynamicLoaderWindowsDYLD.h": 0.13032144361822035
     },
     "subdirscores": {}
 }

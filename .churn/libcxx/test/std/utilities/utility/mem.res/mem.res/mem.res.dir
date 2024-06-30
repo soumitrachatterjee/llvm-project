@@ -1,15 +1,15 @@
 {
     "directory name": "llvm-project/libcxx/test/std/utilities/utility/mem.res/mem.res",
-    "score.sum": 1.785423473469851e-05,
+    "score.sum": 0.0009285063451070541,
     "sha.latest": "b82dcb624e6bfa58ed566511cb564f8f201fa62e",
     "time.latest": 1718008250.4619207,
     "formatted_time": "2024-06-10 14:00:50.461922",
     "filescores": {
-        "construct.verify.cpp": 0
+        "construct.verify.cpp": 0.0
     },
     "subdirscores": {
-        "mem.res.eq": 1.0671665843727875e-05,
-        "mem.res.private": 1.1901272748419892e-05,
-        "mem.res.public": 1.2358264659813189e-05
+        "mem.res.eq": 0.0005549781100114386,
+        "mem.res.private": 0.0006189236013729455,
+        "mem.res.public": 0.0006426893855522384
     }
 }

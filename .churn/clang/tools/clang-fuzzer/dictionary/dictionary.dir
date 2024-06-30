@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/clang/tools/clang-fuzzer/dictionary",
-    "score.sum": 6.099602068851199e-06,
+    "score.sum": 0.00031720873550238375,
     "sha.latest": "42915e2be231983a6476eabc059d114d60742ded",
     "time.latest": 1718081860.003615,
     "formatted_time": "2024-06-11 10:27:40.003618",
     "filescores": {
-        "CMakeLists.txt": 6.099602068851199e-06,
-        "dictionary.c": 0
+        "CMakeLists.txt": 0.02007646631636598,
+        "dictionary.c": 0.0
     },
     "subdirscores": {}
 }

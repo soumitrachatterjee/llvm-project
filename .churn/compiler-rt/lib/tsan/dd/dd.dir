@@ -1,14 +1,14 @@
 {
     "directory name": "llvm-project/compiler-rt/lib/tsan/dd",
-    "score.sum": 0.00011016335331779341,
+    "score.sum": 0.005729025862702072,
     "sha.latest": "826693e2b0ff1db7665809fa6e97b23071ff6627",
     "time.latest": 1717807021.039916,
     "formatted_time": "2024-06-08 06:07:01.039919",
     "filescores": {
-        "CMakeLists.txt": 6.652760613772021e-05,
-        "dd_interceptors.cpp": 1.033793501736778e-05,
-        "dd_rtl.cpp": 1.2074323568813429e-05,
-        "dd_rtl.h": 2.3477495747255397e-05
+        "CMakeLists.txt": 0.2189715375947397,
+        "dd_interceptors.cpp": 0.03402667941517937,
+        "dd_rtl.cpp": 0.03974189589515996,
+        "dd_rtl.h": 0.07727473812913369
     },
     "subdirscores": {}
 }

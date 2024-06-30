@@ -1,16 +1,16 @@
 {
     "directory name": "llvm-project/libcxx/test/libcxx/localization/locales",
-    "score.sum": 5.157295829298285e-05,
+    "score.sum": 0.0026820426482863004,
     "sha.latest": "233e7c5de2d2abda024577e79dcd195562de68c8",
     "time.latest": 1717860724.2620354,
     "formatted_time": "2024-06-08 21:02:04.262039",
     "filescores": {
-        "locale.abort.pass.cpp": 7.6159754526834886e-06,
-        "locale.category.abort.pass.cpp": 7.6159754526834886e-06,
-        "use_facet.abort.pass.cpp": 7.6159754526834886e-06
+        "locale.abort.pass.cpp": 0.02506751635863154,
+        "locale.category.abort.pass.cpp": 0.02506751635863154,
+        "use_facet.abort.pass.cpp": 0.02506751635863154
     },
     "subdirscores": {
-        "locale": 1.7492792608394212e-05,
-        "locale.convenience": 4.1216989238525906e-05
+        "locale": 0.0009097096107384673,
+        "locale.convenience": 0.0021434822944163957
     }
 }

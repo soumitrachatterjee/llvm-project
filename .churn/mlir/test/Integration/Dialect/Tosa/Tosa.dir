@@ -1,11 +1,11 @@
 {
     "directory name": "llvm-project/mlir/test/Integration/Dialect/Tosa",
-    "score.sum": 0,
+    "score.sum": 0.0,
     "sha.latest": "0d87e2577914a6384f4ad5952b8fa9b0d8e48da8",
     "time.latest": 1717827055.6913817,
     "formatted_time": "2024-06-08 01:10:55.691382",
     "filescores": {},
     "subdirscores": {
-        "CPU": 0
+        "CPU": 0.0
     }
 }

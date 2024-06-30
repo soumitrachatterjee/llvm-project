@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/lldb/include/lldb/Version",
-    "score.sum": 6.099602068851199e-06,
+    "score.sum": 0.00031720873550238375,
     "sha.latest": "7abfaa0a815a37ef6abd3ad7eb169007bdc36619",
     "time.latest": 1717860558.6225324,
     "formatted_time": "2024-06-08 20:59:18.622535",
     "filescores": {
-        "Version.h": 0,
-        "Version.inc.in": 6.099602068851199e-06
+        "Version.h": 0.0,
+        "Version.inc.in": 0.02007646631636598
     },
     "subdirscores": {}
 }

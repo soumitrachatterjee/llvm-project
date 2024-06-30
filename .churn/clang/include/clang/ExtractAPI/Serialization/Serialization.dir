@@ -1,12 +1,12 @@
 {
     "directory name": "llvm-project/clang/include/clang/ExtractAPI/Serialization",
-    "score.sum": 8.023735604418418e-05,
+    "score.sum": 0.0041727296245776,
     "sha.latest": "69fedaf830f8a2df4751a3c20189b7299daf88ae",
     "time.latest": 1717799429.3067772,
     "formatted_time": "2024-06-08 04:00:29.306780",
     "filescores": {
-        "SerializerBase.h": 6.551390360639416e-05,
-        "SymbolGraphSerializer.h": 8.023735604418418e-05
+        "SerializerBase.h": 0.21563499785079285,
+        "SymbolGraphSerializer.h": 0.26409633903195295
     },
     "subdirscores": {}
 }

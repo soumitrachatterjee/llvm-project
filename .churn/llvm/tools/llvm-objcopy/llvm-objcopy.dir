@@ -1,19 +1,19 @@
 {
     "directory name": "llvm-project/llvm/tools/llvm-objcopy",
-    "score.sum": 0.0013693136209419292,
+    "score.sum": 0.07121091463053213,
     "sha.latest": "07d8a457ad8bb9a14974b9cb47072746c7f5e489",
     "time.latest": 1718081628.8259945,
     "formatted_time": "2024-06-10 23:53:48.825999",
     "filescores": {
-        "BitcodeStripOpts.td": 1.2196618750781221e-05,
-        "CMakeLists.txt": 8.653720462160589e-05,
-        "CommonOpts.td": 1.1114180569657148e-05,
-        "InstallNameToolOpts.td": 3.426770038989673e-05,
-        "ObjcopyOptions.cpp": 0.00012244892698924886,
-        "ObjcopyOptions.h": 6.243697721341327e-06,
-        "ObjcopyOpts.td": 0.00012316750623212475,
-        "StripOpts.td": 5.8368074419743636e-05,
-        "llvm-objcopy.cpp": 0.00026267727645126147
+        "BitcodeStripOpts.td": 0.04014442299015989,
+        "CMakeLists.txt": 0.2848319044565732,
+        "CommonOpts.td": 0.036581644068259034,
+        "InstallNameToolOpts.td": 0.11279003529268859,
+        "ObjcopyOptions.cpp": 0.40303313731379475,
+        "ObjcopyOptions.h": 0.02055074832376547,
+        "ObjcopyOpts.td": 0.405398296844268,
+        "StripOpts.td": 0.19211493910779456,
+        "llvm-objcopy.cpp": 0.8645861538540893
     },
     "subdirscores": {}
 }
