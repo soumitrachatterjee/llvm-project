@@ -240,6 +240,7 @@ class PossiblyUnreachableDiag;
 class RISCVIntrinsicManager;
 class SemaPPCallbacks;
 class TemplateDeductionInfo;
+
 } // namespace sema
 
 namespace threadSafety {
