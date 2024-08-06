@@ -62,7 +62,34 @@
 
 using namespace clang;
 using namespace sema;
-
+class EnumNameVisitor : public RecursiveASTVisitor<EnumNameVisitor> {
+private:
+  std::string EnumName;
+public:
+  void VisitDeclRefExpr(DeclRefExpr *Node) {
+    const Decl *D = Node->getDecl();
+    // Check if the declaration referenced is an enum constant
+    if (const auto *ECD = dyn_cast<EnumConstantDecl>(D)) {
+      if (const auto *ED = dyn_cast<EnumDecl>(ECD->getDeclContext())) {
+        // Construct the fully qualified name
+        EnumName = ED->getName().str() + "::" + ECD->getName().str();
+        return; // No error for valid enum constants
+      }
+    }
+  }
+  bool VisitExpr(Expr *Ex) {
+    for (auto *Child : Ex->children()) {
+      if (auto *DRE = dyn_cast<DeclRefExpr>(Child)) {
+        VisitDeclRefExpr(DRE);
+      }
+      // Recursively visit the child nodes
+      RecursiveASTVisitor<EnumNameVisitor>::VisitStmt(Child);
+    }
+    return true; // Continue traversal
+  }
+  // Method to retrieve the last fetched string
+  StringRef getEnumName() const { return StringRef(EnumName); }
+};
 /// Determine whether the use of this declaration is valid, without
 /// emitting diagnostics.
 bool Sema::CanUseDecl(NamedDecl *D, bool TreatUnavailableAsInvalid) {
@@ -4904,7 +4931,7 @@ Sema::CreateUnaryExprOrTypeTraitExpr(Expr *E, SourceLocation OpLoc,
   }
 
   if (ExprKind == UETT_NameOf) {
-    sema::EnumNameVisitor obj;
+    EnumNameVisitor obj;
     obj.VisitExpr(E);
     StringRef EnumName = obj.getEnumName();
     QualType StrTy =

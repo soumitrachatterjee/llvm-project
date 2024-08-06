@@ -20318,8 +20318,6 @@ void Sema::ActOnEnumBody(SourceLocation EnumLoc, SourceRange BraceRange,
     if (!ECD) continue;  // Already issued a diagnostic.
 
     const llvm::APSInt &InitVal = ECD->getInitVal();
-    sema::EnumVectorManager EnumInstance;
-    EnumInstance.EnumVector.push_back(ECD->getName().str());
 
     // Keep track of the size of positive and negative values.
     if (InitVal.isUnsigned() || InitVal.isNonNegative()) {
