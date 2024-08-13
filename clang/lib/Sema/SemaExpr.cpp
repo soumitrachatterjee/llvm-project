@@ -73,7 +73,6 @@ public:
       if (const auto *ED = dyn_cast<EnumDecl>(ECD->getDeclContext())) {
         // Construct the fully qualified name
         EnumName = ED->getName().str() + "::" + ECD->getName().str();
-        return; // No error for valid enum constants
       }
     }
   }
@@ -4939,7 +4938,7 @@ Sema::CreateUnaryExprOrTypeTraitExpr(Expr *E, SourceLocation OpLoc,
     StringLiteral *EnumStr =
         StringLiteral::Create(Context, EnumName, StringLiteralKind::Ordinary,
                               /*Pascal*/ false, StrTy, OpLoc);
-    if (EnumStr->getString() == "") {
+    if (EnumStr->getString().empty()) {
       Diag(E->getExprLoc(), diag::err_invalid_enum_decl);
     }
     return EnumStr;
