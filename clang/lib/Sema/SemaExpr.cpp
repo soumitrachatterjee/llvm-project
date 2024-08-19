@@ -62,7 +62,33 @@
 
 using namespace clang;
 using namespace sema;
-
+class EnumNameVisitor : public RecursiveASTVisitor<EnumNameVisitor> {
+private:
+  std::string EnumName;
+public:
+  void VisitDeclRefExpr(DeclRefExpr *Node) {
+    const Decl *D = Node->getDecl();
+    // Check if the declaration referenced is an enum constant
+    if (const auto *ECD = dyn_cast<EnumConstantDecl>(D)) {
+      if (const auto *ED = dyn_cast<EnumDecl>(ECD->getDeclContext())) {
+        // Construct the fully qualified name
+        EnumName = ED->getName().str() + "::" + ECD->getName().str();
+      }
+    }
+  }
+  bool VisitExpr(Expr *Ex) {
+    for (auto *Child : Ex->children()) {
+      if (auto *DRE = dyn_cast<DeclRefExpr>(Child)) {
+        VisitDeclRefExpr(DRE);
+      }
+      // Recursively visit the child nodes
+      RecursiveASTVisitor<EnumNameVisitor>::VisitStmt(Child);
+    }
+    return true; // Continue traversal
+  }
+  // Method to retrieve the last fetched string
+  StringRef getEnumName() const { return StringRef(EnumName); }
+};
 /// Determine whether the use of this declaration is valid, without
 /// emitting diagnostics.
 bool Sema::CanUseDecl(NamedDecl *D, bool TreatUnavailableAsInvalid) {
@@ -4867,7 +4893,7 @@ ExprResult Sema::CreateUnaryExprOrTypeTraitExpr(TypeSourceInfo *TInfo,
 /// operand.
 ExprResult
 Sema::CreateUnaryExprOrTypeTraitExpr(Expr *E, SourceLocation OpLoc,
-                                     UnaryExprOrTypeTrait ExprKind) {
+                                     UnaryExprOrTypeTrait ExprKind) { 
   ExprResult PE = CheckPlaceholderExpr(E);
   if (PE.isInvalid())
     return ExprError();
@@ -4901,6 +4927,21 @@ Sema::CreateUnaryExprOrTypeTraitExpr(Expr *E, SourceLocation OpLoc,
     PE = TransformToPotentiallyEvaluated(E);
     if (PE.isInvalid()) return ExprError();
     E = PE.get();
+  }
+
+  if (ExprKind == UETT_NameOf) {
+    EnumNameVisitor obj;
+    obj.VisitExpr(E);
+    StringRef EnumName = obj.getEnumName();
+    QualType StrTy =
+      Context.getStringLiteralArrayType(Context.CharTy, EnumName.size());
+    StringLiteral *EnumStr =
+        StringLiteral::Create(Context, EnumName, StringLiteralKind::Ordinary,
+                              /*Pascal*/ false, StrTy, OpLoc);
+    if (EnumStr->getString().empty()) {
+      Diag(E->getExprLoc(), diag::err_invalid_enum_decl);
+    }
+    return EnumStr;
   }
 
   // C99 6.5.3.4p4: the type (an unsigned integer type) is size_t.
