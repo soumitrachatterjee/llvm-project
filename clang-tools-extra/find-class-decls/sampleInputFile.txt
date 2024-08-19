@@ -1,0 +1,35 @@
+
+  class GlobalDeclRefChecker final : public ConstStmtVisitor<GlobalDeclRefChecker> {
+    Decl *TargetDecl;
+    SmallVector<VarDecl *> DeclVector;
+
+  public:
+    void VisitDeclRefExpr(const DeclRefExpr *Node) {
+      if (auto *VD = const_cast<VarDecl *>(dyn_cast<VarDecl>(Node->getDecl()))) {
+        VD->addAttr(TargetDecl->getAttr<OMPDeclareTargetDeclAttr>());
+        DeclVector.push_back(VD);
+      }
+    }
+
+    void declTargetInitializer(Decl *TD) {
+      TargetDecl = TD;
+      DeclVector.push_back(dyn_cast<VarDecl>(TD));
+
+      while (!DeclVector.empty()) {
+        VarDecl *TargetVarDecl = DeclVector.pop_back_val();
+        if (TargetVarDecl->hasAttr<OMPDeclareTargetDeclAttr>() &&
+            TargetVarDecl->hasInit() &&
+            TargetVarDecl->hasGlobalStorage()) {
+          Expr *Ex = TargetVarDecl->getInit();
+          assert(Ex...); // Must be true since hasInit returned true
+          if (auto *DeclRef = dyn_cast_or_null<DeclRefExpr>(Ex)) {
+            VisitDeclRefExpr(DeclRef);
+          } else {
+            for (auto it = Ex->child_begin(); it != Ex->child_end(); ++it) {
+              Visit(*it);
+            }
+          }
+        }
+      }
+    }
+  };
